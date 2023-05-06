@@ -1,0 +1,2489 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">rima la musica e poi le parole</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="poeta">
+            <persName>POETA:</persName>
+          </person>
+          <person xml:id="eleonora e tonina">
+            <persName>ELEONORA E TONINA:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="tonina">
+            <persName>TONINA:</persName>
+          </person>
+          <person xml:id="eleonora">
+            <persName>ELEONORA:</persName>
+          </person>
+          <person xml:id="maestro">
+            <persName>MAESTRO:</persName>
+          </person>
+          <person xml:id="poeta e maestro">
+            <persName>POETA E MAESTRO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>MAESTRO</castItem>
+        <castItem>POETA</castItem>
+        <castItem>ELEONORA</castItem>
+        <castItem>TONINA</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>Signor poeta mio,</l>
+        <l>voi siete un capo ameno;</l>
+        <l>l’affar né più, né meno</l>
+        <l>sta come vi dich’io:</l>
+        <l>il signor conte vuole</l>
+        <l>che musica e parole</l>
+        <l>sien fatte in quattro dì.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Avete inteso male.</l>
+        <l>Conosco il conte Opizio,</l>
+        <l>che dar vuol questa festa;</l>
+        <l>è un uomo di giudizio,</l>
+        <l>né può venirgli in testa</l>
+        <l>idea così bestiale,</l>
+        <l>ridicola così.</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>S’ella un po’ più m’inquieta,</l>
+        <l>trovo miglior poeta.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Caro signor Maestro,</l>
+        <l>non si comanda all’estro.</l>
+        <l>Ma cieli! che sproposito!</l>
+        <l>Un dramma in quattro dì?</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>La cosa è arcipossibile,</l>
+        <l>e deve andar così.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Con maestri sì ostinati,</l>
+        <l>io per me divento matto,</l>
+        <l>nulla credono ben fatto</l>
+        <l>se non fassi a modo lor.</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>Con poeti sì sguaiati,</l>
+        <l>io per me divento matto,</l>
+        <l>nulla credono ben fatto</l>
+        <l>se non fassi a modo lor.</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>Vorrei pria condur l’aratro</l>
+        <l>ch’esser mastro di cappella.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Meglio è far il pulcinella,</l>
+        <l>che il poeta di teatro.</l>
+      </sp>
+      <sp who="#poeta e maestro">
+        <speaker>POETA E MAESTRO:</speaker>
+        <l>Che grand’asino che fui!</l>
+        <l>Accoppar dovea colui,</l>
+        <l>che mi fe’ compositor.</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>Or tant’è; decidete: sì, o no.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Dunque credete che parole, e musica</l>
+        <l>si possa in quattro dì…</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>Circa a la musica</l>
+        <l>non ve ne date pena, ella è già pronta.</l>
+        <l>E voi sol vi dovete</l>
+        <l>le parole adattar.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Questo è l’istesso,</l>
+        <l>che far l’abito, e poi</l>
+        <l>far l’uomo a cui s’adatti.</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>Voi signori poeti, siete matti.</l>
+        <l>Amico, persuadetevi; chi mai</l>
+        <l>credete che dar voglia attenzione</l>
+        <l>alle vostre parole?</l>
+        <l>Musica in oggi, musica ci vuole.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Ma pure questa musica conviene</l>
+        <l>ch’esprima il sentimento o male, o bene.</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>La mia musica ha questo d’eccellente,</l>
+        <l>che può adattarsi a tutto egregiamente.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>E gli attori chi son?</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>Non so finora,</l>
+        <l>ma il signor conte Opizio</l>
+        <l>l’altr’ieri mi parlò d’una famosa</l>
+        <l>insigne virtuosa,</l>
+        <l>almen per quanto ei dice, ed io lo credo,</l>
+        <l>perch’egli, (e questo ancor lo so da lui)</l>
+        <l>ha un singolar talento musicale.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>I signori san tutto.</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>È naturale.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Avrei a tal proposito da farvi</l>
+        <l>una proposizion.</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>Via dite su.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Ma non vorrei che ve l’aveste a male.</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>Oh, che diavol sarà?</l>
+        <l>Proposizioni ognuno far le può.</l>
+        <l>L’affar consiste in accettarle o no.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Un principe qua c’è</l>
+        <l>che ha gran bontà per me;</l>
+        <l>ma un principon coi baffi, il qual vorrebbe</l>
+        <l>in qualche occasion da farsi onore,</l>
+        <l>come appunto sarebbe la presente,</l>
+        <l>al pubblico produrre una ragazza</l>
+        <l>brava in genere buffo,</l>
+        <l>ma veramente brava, e di più onesta,</l>
+        <l>per cui ha molto impegno.</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>È amica vostra?</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Sì.</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>Cattivo segno.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Perché?</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>Non dico già… ma… son idee.</l>
+        <l>Ditemi in confidenza,</l>
+        <l>il vostro signor principe vorrebbe</l>
+        <l>or con buona maniera uscir d’impegno,</l>
+        <l>ed accollarla a me; non è così?</l>
+        <l>Dite il vero.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Anzi no; ma se riesce,</l>
+        <l>promette un regaletto</l>
+        <l>di cento bei zecchini; e voi vedete</l>
+        <l>che un cento di zecchini a’ giorni d’oggi</l>
+        <l>non è da ricusarsi.</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>Io non ricuso</l>
+        <l>cento zecchini: ma…</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Pian piano, amico:</l>
+        <l>questi si devon ripartir fra noi;</l>
+        <l>cioè cinquanta a me, cinquanta a voi.</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>Amico: l’interesse</l>
+        <l>non è la mia passion; ma pur dovreste</l>
+        <l>pensar che la fatica è tutta mia.</l>
+        <l>Onde parrebbe giusto,</l>
+        <l>che la ripartizion far si dovesse</l>
+        <l>con un po’ d’equità distributiva.</l>
+      </sp>
+      <sp who="#poeta">
+        <speaker>POETA:</speaker>
+        <l>Cioè?</l>
+      </sp>
+      <sp who="#maestro">
+        <speaker>MAESTRO:</speaker>
+        <l>Per me novanta, e per voi il resto.</l>
+      </sp>
+      <div type="scene">
+        <head>POETA</head>(con ironia)Cotal ripartimento è molto onesto.Scena secondaEleonora, e detti.<sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(con ironia)</l>
+          <l>Cotal ripartimento è molto onesto.</l>
+          <l>Scena seconda</l>
+          <l>Eleonora, e detti.</l>
+        </sp>
+        <stage>POETA(con ironia)Cotal ripartimento è molto onesto.Scena secondaEleonora, e detti.</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>2007-11-13T00:00:00 STR INC Deo gratias / Venga avanti Deo gratias.</l>
+        </sp>
+        <stage>ELEONORA2007-11-13T00:00:00 STR INC Deo gratias / Venga avanti Deo gratias.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Venga avanti.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(entrando)</l>
+          <l>Chi di voi</l>
+          <l>è il maestro di cappella?</l>
+        </sp>
+        <stage>ELEONORA(entrando)Chi di voiè il maestro di cappella?</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Io, per servirla.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(gravemente)</l>
+          <l>Riverisco.</l>
+        </sp>
+        <stage>ELEONORA(gravemente)Riverisco.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Grand’aria!</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Io non ci son per nulla.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Ed ella, in grazia?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Io son donna Eleonora.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Ah, ella è quella signora</l>
+          <l>celebre virtuosa,</l>
+          <l>che il signor conte Opizio…</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Oh, lo conosco.</l>
+          <l>Gli vo’ bene al contino: è un buon figliolo.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(Sta a vedere che gli accorda</l>
+          <l>la sua protezion.)</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>So che vorrebbe</l>
+          <l>dare una certa festa teatrale;</l>
+          <l>si dà appunto per lui la fortunata</l>
+          <l>combinazion ch’io son disimpegnata.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Gran sorte senza dubbi, mi figuro</l>
+          <l>ch’ella avrà fatti de’ teatri.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Oh, certo:</l>
+          <l>ho fatti tutti quanti i principali</l>
+          <l>teatri de l’Europa; e ultimamente</l>
+          <l>in Cadice ho cantato</l>
+          <l>ove in men di due anni ho guadagnato</l>
+          <l>mille dobloni in tanti pezzi duri.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(piano al poeta)</l>
+          <l>Che sono i pezzi duri?</l>
+        </sp>
+        <stage>MAESTRO(piano al poeta)Che sono i pezzi duri?</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Non capisco.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Dunque pezzi duri eh?</l>
+          <l>(sorridendo ad Eleonora)</l>
+        </sp>
+        <stage>MAESTRODunque pezzi duri eh?(sorridendo ad Eleonora)</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(spiccando le sillabe)</l>
+          <l>Sì: pezzi duri.</l>
+          <l>Non siete mai stato in Ispagna?</l>
+        </sp>
+        <stage>ELEONORA(spiccando le sillabe)Sì: pezzi duri.Non siete mai stato in Ispagna?</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Io no.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(al poeta)</l>
+          <l>E voi neppur?</l>
+        </sp>
+        <stage>ELEONORA(al poeta)E voi neppur?</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Neppur.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Vi compatisco,</l>
+          <l>là, là, signori miei,</l>
+          <l>bisogna domandar che gran figura</l>
+          <l>fece donna Eleonora.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Oh, non ne dubito.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>L’anticamera mia sempre era piena</l>
+          <l>di cicisbei, d’amanti,</l>
+          <l>cavalieri, mercanti… E poi in teatro…</l>
+          <l>Che folla! Che schiamazzi!</l>
+          <l>Tutti parevan pazzi,</l>
+          <l>e molti per udire un paio d’arie</l>
+          <l>venivano perfin dalle Canarie.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Il merito, signora, fa gran cose.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Massimamente nelle virtuose.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Il pubblico di Cadice</l>
+          <l>è un pubblico di gusto; immaginatevi,</l>
+          <l>che un certo mio rondò</l>
+          <l>nel pubblico destò</l>
+          <l>un fanatismo universal, di sorte</l>
+          <l>che in un’istessa sera io lo dovetti</l>
+          <l>sei volte replicar.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Questo è un po’ forte.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Come? Sei volte!</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Certo.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Sei volte, e non seccar; questo è un gran merto.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Ma mi dica: e qual genere…</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Il gran serio,</l>
+          <l>il tragico sublime: exempli gratia,</l>
+          <l>una parte d’Armida, d’Agrippina,</l>
+          <l>di Poppea, d’Ipermestra, d’Epponina…</l>
+        </sp>
+        <stage>ELEONORAIl gran serio,il tragico sublime: exempli gratia,una parte d’Armida, d’Agrippina,di Poppea, d’Ipermestra, d’Epponina…</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Epponina!</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Epponina!</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Sì.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Nel Giulio Sabino?</l>
+        </sp>
+        <stage>MAESTRONel Giulio Sabino?</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Appunto quella</l>
+          <l>l’ho recitata in Cadice.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Guardate che accidente!</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Ancora qui s’è data ultimamente.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>La parte di Sabino</l>
+          <l>l’ha fatta un gran cantor.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Chi?</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Canarino.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Canarino?</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>A questo poi bisogna</l>
+          <l>cavarsi di cappello.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Non v’è che dir.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Se quello</l>
+          <l>è lo stil, che qui piace, io ve l’imito</l>
+          <l>sì ben, che ognuno rimarrà stupito.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Oh, questo è molto dir.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>O molto, o poco,</l>
+          <l>non servon tante repliche, qualora</l>
+          <l>parla donna Eleonora.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(al poeta)</l>
+          <l>Ell’ha ragione.</l>
+          <l>(prende, ed apre lo spartito)</l>
+          <l>Giusto ho qui lo spartito; ed ecco qui</l>
+          <l>la prima cavatina di Salieri,</l>
+          <l>che comincia: Pensieri…</l>
+          <l>Vorrebbe ella far grazia?</l>
+        </sp>
+        <stage>MAESTRO(al poeta)Ell’ha ragione.(prende, ed apre lo spartito)Giusto ho qui lo spartito; ed ecco quila prima cavatina di Salieri,che comincia: Pensieri…Vorrebbe ella far grazia?</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Volentieri.</l>
+          <l>(canta)</l>
+          <l>Pensieri funesti</l>
+          <l>ah no non tornate,</l>
+          <l>per poco lasciate</l>
+          <l>in pace il mio cor.</l>
+          <l>(mentre Eleonora canta, il Poeta l’interrompe)</l>
+        </sp>
+        <stage>ELEONORAVolentieri.(canta)Pensieri funestiah no non tornate,per poco lasciatein pace il mio cor.(mentre Eleonora canta, il Poeta l’interrompe)</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Scusi: ma par che si dovria dar qui</l>
+          <l>maggior espression.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Come?</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Così.</l>
+          <l>(fa sconciamente un altro passaggio)</l>
+        </sp>
+        <stage>POETACosì.(fa sconciamente un altro passaggio)</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Chi è questo sguaiato?</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>È il poeta.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Me l’ero immaginato.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Sapete, amico, che un passaggio istesso</l>
+          <l>può variarsi spesso.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>O in meglio o in peggio.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(al Maestro)</l>
+          <l>Costui è un insolente, a quel ch’io veggio.</l>
+        </sp>
+        <stage>ELEONORA(al Maestro)Costui è un insolente, a quel ch’io veggio.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(ad Eleonora)</l>
+          <l>Lo scusi: ha la comune qualità</l>
+          <l>di mostrar di saper quel che non sa.</l>
+        </sp>
+        <stage>MAESTRO(ad Eleonora)Lo scusi: ha la comune qualitàdi mostrar di saper quel che non sa.</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Orsù, passiamo avanti.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Vuol l’aria di bravura?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Sibben.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Eccola qua: vogliam sentirla</l>
+          <l>col suo recitativo strumentato?</l>
+          <l>(voltando lo spartito, e accennando un poco sottovoce il motivo dell’aria)</l>
+        </sp>
+        <stage>MAESTROEccola qua: vogliam sentirlacol suo recitativo strumentato?(voltando lo spartito, e accennando un poco sottovoce il motivo dell’aria)</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Sì; ma per farlo ben, va recitato.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Oh, meglio.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>In scena son Tito, e Sabino.</l>
+          <l>(al Poeta)</l>
+          <l>Ehi! venite un po’ qua.</l>
+          <l>Piantatevi colà.</l>
+        </sp>
+        <stage>ELEONORAIn scena son Tito, e Sabino.(al Poeta)Ehi! venite un po’ qua.Piantatevi colà.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Qui?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Più in là.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(muta luogo)</l>
+          <l>Qui?</l>
+        </sp>
+        <stage>POETA(muta luogo)Qui?</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Costì.</l>
+          <l>Mostrate dignità.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(in positura)</l>
+          <l>Così?</l>
+        </sp>
+        <stage>POETA(in positura)Così?</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(il Poeta cangia positura, Eleonora lo considera, ed approva)</l>
+          <l>Anche più… così:</l>
+          <l>statevi fermo lì,</l>
+          <l>né vi movete, se non ho finito.</l>
+          <l>Io faccio da Sabino, e voi da Tito. ~</l>
+          <l>Maestro, già sapete</l>
+          <l>come, e quando conviensi</l>
+          <l>l’azione a tempo secondar.</l>
+        </sp>
+        <stage>ELEONORA(il Poeta cangia positura, Eleonora lo considera, ed approva)Anche più… così:statevi fermo lì,né vi movete, se non ho finito.Io faccio da Sabino, e voi da Tito. ~Maestro, già sapetecome, e quando conviensil’azione a tempo secondar.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Non pensi.</l>
+          <l>(canta il recitativo con azione; e frattanto il Maestro e il Poeta fanno degli atti talvolta d’approvazione e talvolta di critica)</l>
+        </sp>
+        <stage>MAESTRONon pensi.(canta il recitativo con azione; e frattanto il Maestro e il Poeta fanno degli atti talvolta d’approvazione e talvolta di critica)</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Non dubitar, verrò: dono più grato</l>
+          <l>offrir non mi potevi: al grand’invito</l>
+          <l>sento l’alma avvampar. Vedrai qual uso</l>
+          <l>farò di quest’acciar: chi sa se mai</l>
+          <l>più funesto vedesti</l>
+          <l>d’un’altra spada balenar il lampo:</l>
+          <l>so quel che dico, e lo vedrai nel campo.</l>
+        </sp>
+        <stage>ELEONORANon dubitar, verrò: dono più gratooffrir non mi potevi: al grand’invitosento l’alma avvampar. Vedrai qual usofarò di quest’acciar: chi sa se maipiù funesto vedestid’un’altra spada balenar il lampo:so quel che dico, e lo vedrai nel campo.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(interrompendola)</l>
+          <l>Non sia, signora, per darle molestia.</l>
+          <l>Qui un contrassenso v’è.</l>
+        </sp>
+        <stage>POETA(interrompendola)Non sia, signora, per darle molestia.Qui un contrassenso v’è.</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Siete una bestia.</l>
+          <l>Di senso me ne intendo più di voi.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Non saprei.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Cheto: ognuno ha i sensi suoi. ~</l>
+          <l>Non gli dia retta, in grazia.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Taccia, e in riguardo vostro io gli perdono.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Brava; seguiam: Là tu vedrai chi sono.</l>
+          <l>(segue a cantare, e in mezzo della scena il Poeta l’interrompe)</l>
+        </sp>
+        <stage>MAESTROBrava; seguiam: Là tu vedrai chi sono.(segue a cantare, e in mezzo della scena il Poeta l’interrompe)</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Là tu vedrai chi sono;</l>
+          <l>no, non ti parlo invano;</l>
+          <l>fatale è questa mano,</l>
+          <l>forse chi men la teme</l>
+          <l>più ne dovrà tremar.</l>
+        </sp>
+        <stage>ELEONORALà tu vedrai chi sono;no, non ti parlo invano;fatale è questa mano,forse chi men la temepiù ne dovrà tremar.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Oibò oibò.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Cos’è?</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ho sentita una brutta alamirè.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Ma tacete una volta.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Orsù, alle corte,</l>
+          <l>se non cessa costui</l>
+          <l>d’esser con me sì impertinente e ardito,</l>
+          <l>or or Sabino rompe il muso a Tito.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(a Eleonora)</l>
+          <l>Signora, compatitelo: è poeta;</l>
+          <l>ed apparir vi deve</l>
+          <l>sempre il lampo poetico.</l>
+          <l>Ma sentiam, se le aggrada,</l>
+          <l>qualche pezzo patetico.</l>
+        </sp>
+        <stage>MAESTRO(a Eleonora)Signora, compatitelo: è poeta;ed apparir vi devesempre il lampo poetico.Ma sentiam, se le aggrada,qualche pezzo patetico.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Sì, sì, sentiam.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Vi posso far la scena</l>
+          <l>del sotterraneo, in cui</l>
+          <l>dovendo andare a morte,</l>
+          <l>Sabino abbraccia i figli, e la consorte.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Stupenda…</l>
+          <l>(canticchiando e toccando il cembalo)</l>
+          <l>Compatite i casi miei.</l>
+        </sp>
+        <stage>MAESTROStupenda…(canticchiando e toccando il cembalo)Compatite i casi miei.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Cheto voi, tocca a lei.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Subito ve la trovo… eccola giusto.</l>
+          <l>(scartabellando lo spartito)</l>
+        </sp>
+        <stage>MAESTROSubito ve la trovo… eccola giusto.(scartabellando lo spartito)</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>È un rondò.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Un rondò? Ci ho proprio gusto.</l>
+          <l>Una difficoltà solo ci trovo.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Or cosa c’è di nuovo?</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Mancano i figuranti.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Potrete supplir voi.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Non siamo tanti.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Voi due farete i figli.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Oh che bei figliolini!</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Maestro, anche voi qua.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>E chi accompagnerà?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>No no, lasciate stare: in questa scena</l>
+          <l>molto più necessaria è l’azione.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>E l’accompagnamento si suppone.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Ed Annio e la consorte?</l>
+          <l>(levandosi dal cembalo)</l>
+        </sp>
+        <stage>MAESTROEd Annio e la consorte?(levandosi dal cembalo)</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(pensa un poco, poi dice)</l>
+          <l>Or ci rimedio.</l>
+          <l>(prende due sedie e le pone in luogo di Epponina e d’Annio)</l>
+          <l>Sarà Epponina questa,</l>
+          <l>e questo sarà Annio.</l>
+        </sp>
+        <stage>ELEONORA(pensa un poco, poi dice)Or ci rimedio.(prende due sedie e le pone in luogo di Epponina e d’Annio)Sarà Epponina questa,e questo sarà Annio.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Oh che gran testa.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>State un vicino all’altro.</l>
+        </sp>
+        <sp who="#poeta e maestro">
+          <speaker>POETA E MAESTRO:</speaker>
+          <l>Eccoci.</l>
+          <l>(si accostano insieme)</l>
+        </sp>
+        <stage>POETA E MAESTROEccoci.(si accostano insieme)</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Bravi.</l>
+          <l>(posti, che si sono messi insieme, il Maestro comincia a cantare)</l>
+        </sp>
+        <stage>ELEONORABravi.(posti, che si sono messi insieme, il Maestro comincia a cantare)</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Cari oggetti…</l>
+        </sp>
+        <stage>MAESTROCari oggetti…</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Chetatevi: Sabino</l>
+          <l>esser deve un soprano,</l>
+          <l>e voi parete un toro transilvano.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Il Poeta ha ragion per questa volta.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Non fiato più.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Via, cominciamo: attenti,</l>
+          <l>state con volto afflitto,</l>
+          <l>e… zitti.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Il quadro è un po’ buffone.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(con voce fortissima)</l>
+          <l>Zitto.</l>
+        </sp>
+        <stage>MAESTRO(con voce fortissima)Zitto.</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(comincia il rondò)</l>
+          <l>Cari oggetti del mio core…</l>
+          <l>(e non potendo comodamente abbracciare i figli, interrompe il canto, e dice:)</l>
+          <l>Così non è possibil ch’io vi abbracci.</l>
+          <l>Voi siete due cosacci,</l>
+          <l>ritti come due pali, e lunghi, lunghi…</l>
+        </sp>
+        <stage>ELEONORA(comincia il rondò)Cari oggetti del mio core…(e non potendo comodamente abbracciare i figli, interrompe il canto, e dice:)Così non è possibil ch’io vi abbracci.Voi siete due cosacci,ritti come due pali, e lunghi, lunghi…</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Che colpa abbiam?</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Vossignoria si slunghi.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Anzi voi raccorciatevi, accovatevi.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>A questo modo?</l>
+          <l>(si abbassano)</l>
+        </sp>
+        <stage>MAESTROA questo modo?(si abbassano)</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Più.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Non si può andar più giù.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Potrete un pochettin restar così.</l>
+        </sp>
+        <sp who="#poeta e maestro">
+          <speaker>POETA E MAESTRO:</speaker>
+          <l>Ci proverem.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Seguo?</l>
+        </sp>
+        <sp who="#poeta e maestro">
+          <speaker>POETA E MAESTRO:</speaker>
+          <l>Signora sì.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(canta)</l>
+          <l>Cari oggetti del mio core,</l>
+          <l>io mai più non vi vedrò;</l>
+          <l>deh calmate quel dolore,</l>
+          <l>e contento io morirò…</l>
+        </sp>
+        <stage>ELEONORA(canta)Cari oggetti del mio core,io mai più non vi vedrò;deh calmate quel dolore,e contento io morirò…</stage>
+        <sp who="#poeta e maestro">
+          <speaker>POETA E MAESTRO:</speaker>
+          <l>Ed io qui mi storpierò.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Se non tacete, io più cantar non posso.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Mi scappa fuori un osso.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>La cintola si strappa.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Eh, non si strappa no, no che non scappa.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(canta)</l>
+          <l>Tu spietato il ciglio appaga.</l>
+          <l>(voltandosi verso la sedia che figura Annio; allora il Maestro si leva dalla sua positura, va presso alla sedia, e risponde in luogo d’Annio, e poi ritorna al suo posto)</l>
+        </sp>
+        <stage>ELEONORA(canta)Tu spietato il ciglio appaga.(voltandosi verso la sedia che figura Annio; allora il Maestro si leva dalla sua positura, va presso alla sedia, e risponde in luogo d’Annio, e poi ritorna al suo posto)</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Son tua colpa i mali tuoi.</l>
+        </sp>
+        <stage>MAESTROSon tua colpa i mali tuoi.</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(vedendo il Maestro, sorride, e segue a cantare)</l>
+          <l>Ma da forte io vado a morte,</l>
+          <l>ma non curo il tuo furor.</l>
+        </sp>
+        <stage>ELEONORA(vedendo il Maestro, sorride, e segue a cantare)Ma da forte io vado a morte,ma non curo il tuo furor.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(ritorna al suo posto)</l>
+          <l>Caro sposo, oh dio! tu piangi…</l>
+        </sp>
+        <stage>POETA(ritorna al suo posto)Caro sposo, oh dio! tu piangi…</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(sorride)</l>
+          <l>Siete per verità due gran buffoni.</l>
+        </sp>
+        <stage>ELEONORA(sorride)Siete per verità due gran buffoni.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>È virtù l’imitar gli esempi buoni.</l>
+          <l>(in questo mentre anche il Poeta si leva dalla sua positura, va presso la sedia che rappresenta Epponina, e con voce femminile canta)</l>
+        </sp>
+        <stage>POETAÈ virtù l’imitar gli esempi buoni.(in questo mentre anche il Poeta si leva dalla sua positura, va presso la sedia che rappresenta Epponina, e con voce femminile canta)</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(seguendo a cantare)</l>
+          <l>Qual abisso è questo mai.</l>
+        </sp>
+        <stage>ELEONORA(seguendo a cantare)Qual abisso è questo mai.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(stando accovato)</l>
+          <l>Per pietà, finisca omai.</l>
+        </sp>
+        <stage>MAESTRO(stando accovato)Per pietà, finisca omai.</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(venendo avanti alla scena segue sempre a cantare, più non badando ad essi)</l>
+          <l>Siete paghi avversi dèi?</l>
+        </sp>
+        <stage>ELEONORA(venendo avanti alla scena segue sempre a cantare, più non badando ad essi)Siete paghi avversi dèi?</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Gran seccata che è costei!</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Compatite i casi miei,</l>
+          <l>compiangete il mio dolor.</l>
+        </sp>
+        <stage>ELEONORACompatite i casi miei,compiangete il mio dolor.</stage>
+        <sp who="#poeta e maestro">
+          <speaker>POETA E MAESTRO:</speaker>
+          <l>Compatite il nostro ancor.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(replicando sempre senza badare ad essi)</l>
+          <l>Compatite…</l>
+        </sp>
+        <stage>ELEONORA(replicando sempre senza badare ad essi)Compatite…</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Casco casco.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>I casi miei…</l>
+        </sp>
+        <stage>ELEONORAI casi miei…</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Casco anch’io.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(come sopra)</l>
+          <l>Compiangete il mio dolor.</l>
+          <l>(mentre Eleonora canta queste parole, il Maestro ed il Poeta cadono, il Maestro all’indietro ed il Poeta abocca avanti; e finito che ha di cantare Eleonora, essi, contraffacendone il canto, così ripigliano:)</l>
+        </sp>
+        <stage>ELEONORA(come sopra)Compiangete il mio dolor.(mentre Eleonora canta queste parole, il Maestro ed il Poeta cadono, il Maestro all’indietro ed il Poeta abocca avanti; e finito che ha di cantare Eleonora, essi, contraffacendone il canto, così ripigliano:)</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Compiangete il dorso mio,</l>
+          <l>che si è fatto un bel tumor.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(e a 2)</l>
+          <l>Compiangete il naso mio,</l>
+          <l>che se è intero, è uno stupor.</l>
+        </sp>
+        <stage>POETA(e a 2)Compiangete il naso mio,che se è intero, è uno stupor.</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(rivolgendosi)</l>
+          <l>Cos’avete mai fatto, cos’è stato?</l>
+        </sp>
+        <stage>ELEONORA(rivolgendosi)Cos’avete mai fatto, cos’è stato?</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Ohimè! son direnato.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Poco mancò non ammaccassi il naso.</l>
+          <l>(dopo che si sono stentatamente levati)</l>
+        </sp>
+        <stage>POETAPoco mancò non ammaccassi il naso.(dopo che si sono stentatamente levati)</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Veramente ora mai noi siam nel caso</l>
+          <l>di far meglio da padri, che da figli.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ELEONORA</head>Il malan, che vi pigli: orsù, v’ho datodell’abilità mia prove bastanti;voi fate il resto: andarmene poss’io:attendo a casa la mia parte: addio.(parte)Scena terzaMaestro, e Poeta.<sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Il malan, che vi pigli: orsù, v’ho dato</l>
+          <l>dell’abilità mia prove bastanti;</l>
+          <l>voi fate il resto: andarmene poss’io:</l>
+          <l>attendo a casa la mia parte: addio.</l>
+          <l>(parte)</l>
+          <l>Scena terza</l>
+          <l>Maestro, e Poeta.</l>
+        </sp>
+        <stage>ELEONORAIl malan, che vi pigli: orsù, v’ho datodell’abilità mia prove bastanti;voi fate il resto: andarmene poss’io:attendo a casa la mia parte: addio.(parte)Scena terzaMaestro, e Poeta.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Alfin la prova ha terminato in buffo.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Io già temea che terminasse in serio.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Non può però negarsi, che costei</l>
+          <l>non sia cantante, e comica eccellente.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>E soprattutto per stroppiar la gente.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Ora non più discorsi.</l>
+          <l>Non v’è tempo da perdere.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Lo credo;</l>
+          <l>quattro dì.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Così è.</l>
+          <l>(tirando fuori della carta di musica)</l>
+          <l>Dunque dovete</l>
+          <l>trovar primieramente</l>
+          <l>parole per quest’aria.</l>
+        </sp>
+        <stage>MAESTROCosì è.(tirando fuori della carta di musica)Dunque dovetetrovar primieramenteparole per quest’aria.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Difficile sarà.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Oh, non mi state a far difficoltà.</l>
+          <l>Non si conosce qui.</l>
+          <l>Otto o dieci anni sono</l>
+          <l>la composi in Forlì sulle parole:</l>
+          <l>«Se possono tanto</l>
+          <l>due luci vezzose»…</l>
+          <l>Credo, che andrà d’incanto.</l>
+          <l>La musica è superba,</l>
+          <l>e deve far del chiasso, e messa bene,</l>
+          <l>vedrete, che qui ognuno se la becca</l>
+          <l>per nuova, anzi nuovissima di zecca.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Son versi di sei sillabe: vediamo.</l>
+          <l>(osservando e contando le sillabe tira fuori uno scritto)</l>
+          <l>Giusto un tragico dramma ho per le mani</l>
+          <l>intitolato: «I vespri siciliani».</l>
+        </sp>
+        <stage>POETASon versi di sei sillabe: vediamo.(osservando e contando le sillabe tira fuori uno scritto)Giusto un tragico dramma ho per le maniintitolato: «I vespri siciliani».</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(ponendo l’occhio sullo scritto)</l>
+          <l>Uh, quanti attor!</l>
+        </sp>
+        <stage>MAESTRO(ponendo l’occhio sullo scritto)Uh, quanti attor!</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ne feci</l>
+          <l>quindici, ma di questi muoion dieci:</l>
+          <l>cerchiam, se vi è qualche aria al caso nostro.</l>
+          <l>Eccone una: è bellissima.</l>
+          <l>(legge)</l>
+          <l>«Ferma, oh dio! non son francese»…</l>
+          <l>Vi son di più due sillabe.</l>
+        </sp>
+        <stage>POETANe feciquindici, ma di questi muoion dieci:cerchiam, se vi è qualche aria al caso nostro.Eccone una: è bellissima.(legge)«Ferma, oh dio! non son francese»…Vi son di più due sillabe.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Non c’entra.</l>
+          <l>Avanti.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(voltando foglio)</l>
+          <l>Eccone un’altra.</l>
+          <l>(legge)</l>
+          <l>«A che proposito</l>
+          <l>vuoi tu ammazzarmi?»</l>
+          <l>Versi di cinque sillabe: passiamola.</l>
+          <l>Oh questa andrà benissimo.</l>
+        </sp>
+        <stage>POETA(voltando foglio)Eccone un’altra.(legge)«A che propositovuoi tu ammazzarmi?»Versi di cinque sillabe: passiamola.Oh questa andrà benissimo.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Sentiamola.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(legge con enfasi)</l>
+          <l>«Se questo mio pianto,</l>
+          <l>se questo mio canto</l>
+          <l>ancor non espugna</l>
+          <l>quel barbaro sen,</l>
+          <l>via sfodera, impugna</l>
+          <l>quel ferro spietato,</l>
+          <l>e questo costato</l>
+          <l>trafiggimi almen.»</l>
+        </sp>
+        <stage>POETA(legge con enfasi)«Se questo mio pianto,se questo mio cantoancor non espugnaquel barbaro sen,via sfodera, impugnaquel ferro spietato,e questo costatotrafiggimi almen.»</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(confronta l’aria con la musica)</l>
+          <l>Bravissimo: or va bene…</l>
+          <l>però mancan due versi.</l>
+          <l>Aggiungergli conviene.</l>
+        </sp>
+        <stage>MAESTRO(confronta l’aria con la musica)Bravissimo: or va bene…però mancan due versi.Aggiungergli conviene.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Questo sarà un imbroglio.</l>
+          <l>Piuttosto si potria…</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>No: ce li voglio.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(pensando, cercando il verso)</l>
+          <l>«Se questo… mio… pianto…</l>
+          <l>non mi… non ti…» non va.</l>
+        </sp>
+        <stage>POETA(pensando, cercando il verso)«Se questo… mio… pianto…non mi… non ti…» non va.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Su via coraggio.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>«Il cor…» Eccolo qua.</l>
+          <l>«Il cor non ti tocca.»</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(scrive)</l>
+          <l>Ottimamente: «non ti tocca»; all’altro.</l>
+        </sp>
+        <stage>MAESTRO(scrive)Ottimamente: «non ti tocca»; all’altro.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Qui bisogna trovar la rima in occa.</l>
+          <l>Non ho il rimario addosso;</l>
+          <l>ma farò come posso.</l>
+          <l>(cercando la rima)</l>
+          <l>«Rocca… sciocca…»</l>
+        </sp>
+        <stage>POETAQui bisogna trovar la rima in occa.Non ho il rimario addosso;ma farò come posso.(cercando la rima)«Rocca… sciocca…»</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Ben ben.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>«Trabocca… bocca…</l>
+          <l>Questo canto di bocca.»</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Sì, sì: così va bene.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>«Se questo mio canto</l>
+          <l>che m’esce di bocca…»</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(scrive)</l>
+          <l>«…di bocca», è uno stupor: gran cervellaccio!</l>
+          <l>Quel vostro scartafaccio</l>
+          <l>datemi intanto, e discorriamo un poco.</l>
+          <l>Se il vostro signor principe lo brama,</l>
+          <l>vedo, che non potrem disimpegnarci</l>
+          <l>di prender questa buffa.</l>
+        </sp>
+        <stage>MAESTRO(scrive)«…di bocca», è uno stupor: gran cervellaccio!Quel vostro scartafacciodatemi intanto, e discorriamo un poco.Se il vostro signor principe lo brama,vedo, che non potrem disimpegnarcidi prender questa buffa.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(Ah! ah! già fatto</l>
+          <l>hanno i cento zecchini il loro effetto.)</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Ma l’una è buffa, l’altra è seria: or come</l>
+          <l>potrem metterle insieme?</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Eh, veramente</l>
+          <l>facil non è.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Pensateci un tantino:</l>
+          <l>impasticciate su qualche cosetta.</l>
+          <l>Via, via, lesto, da bravo.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>In tanta fretta</l>
+          <l>non si può far nulla di buon.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Che importa?</l>
+          <l>Tanta musica ho qui già bell’e fatta;</l>
+          <l>di farvi le parole sol si tratta.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ma possibil vi par?</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Tanto ci vuole</l>
+          <l>per far quattro parole? ricordatevi</l>
+          <l>che dée tutto esser fatto in quattro dì.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>E sempre siamo lì.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Su questo poi</l>
+          <l>il signor conte Opizio è inesorabile.</l>
+          <l>Zitto: vediam se qui trovo qualche aria</l>
+          <l>che possa convenir.</l>
+          <l>(prende un’aria)</l>
+          <l>Sentite questa.</l>
+          <l>(legge)</l>
+          <l>«Capitan di due sciabecchi</l>
+          <l>sopra l’alpi guerreggianti»…</l>
+        </sp>
+        <stage>MAESTROSu questo poiil signor conte Opizio è inesorabile.Zitto: vediam se qui trovo qualche ariache possa convenir.(prende un’aria)Sentite questa.(legge)«Capitan di due sciabecchisopra l’alpi guerreggianti»…</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Che sproposito!</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Udite: eccone un’altra.</l>
+          <l>(prende, e legge un’aria)</l>
+          <l>«Se prigione andasse il sole,</l>
+          <l>che sarebbe delle stelle?»</l>
+        </sp>
+        <stage>MAESTROUdite: eccone un’altra.(prende, e legge un’aria)«Se prigione andasse il sole,che sarebbe delle stelle?»</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Peggio assai.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Troverem delle più belle.</l>
+          <l>«Per pietà, padrona mia,</l>
+          <l>per pietà non v’affliggete»…</l>
+        </sp>
+        <stage>MAESTROTroverem delle più belle.«Per pietà, padrona mia,per pietà non v’affliggete»…</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Questa potrebbe andar.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Ebben, tenete:</l>
+          <l>eccovi carta, calamaio, e penna;</l>
+          <l>(li accosta ad un tavolino, e gli dà da scrivere)</l>
+          <l>ponetevi costì a tavolino.</l>
+          <l>Trovate qualche idea, qualche pensiero</l>
+          <l>per porli entrambo insieme:</l>
+          <l>cotest’aria aggiustate,</l>
+          <l>acciò provar si possa</l>
+          <l>quando verrà la buffa.</l>
+        </sp>
+        <stage>MAESTROEbben, tenete:eccovi carta, calamaio, e penna;(li accosta ad un tavolino, e gli dà da scrivere)ponetevi costì a tavolino.Trovate qualche idea, qualche pensieroper porli entrambo insieme:cotest’aria aggiustate,acciò provar si possaquando verrà la buffa.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>E così su due piedi…</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Su due piedi, o su tre, convien sbrigarsi.</l>
+          <l>Su, su, coraggio: intanto</l>
+          <l>a quest’altr’aria io le parole adatto.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ma…</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Spicciatevi voi, che anch’io mio spiccio.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Un pasticcio si vuol? Sarà un pasticcio.</l>
+          <l>(si pongono a sedere, il maestro al cembalo, e il poeta al tavolino)</l>
+        </sp>
+        <stage>POETAUn pasticcio si vuol? Sarà un pasticcio.(si pongono a sedere, il maestro al cembalo, e il poeta al tavolino)</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(col cembalo)</l>
+          <l>«Se questo mio pianto</l>
+          <l>il cor non ti tocca»…</l>
+          <l>Qui v’è fin l’istessa rima,</l>
+          <l>a puntin tutto convien.</l>
+        </sp>
+        <stage>MAESTRO(col cembalo)«Se questo mio piantoil cor non ti tocca»…Qui v’è fin l’istessa rima,a puntin tutto convien.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(pensando)</l>
+          <l>Quel che comico era prima,</l>
+          <l>farlo eroico convien.</l>
+        </sp>
+        <stage>POETA(pensando)Quel che comico era prima,farlo eroico convien.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>«Se questo mio canto</l>
+          <l>che m’esce di bocca»…</l>
+          <l>Ciò benissimo confronta</l>
+          <l>e ne son contento appien.</l>
+        </sp>
+        <stage>MAESTRO«Se questo mio cantoche m’esce di bocca»…Ciò benissimo confrontae ne son contento appien.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ecco qua l’idea già pronta</l>
+          <l>e ne son contento appien.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>«Ancor non espugna</l>
+          <l>quel barbaro sen»…</l>
+          <l>Io mi sento alquanto sete.</l>
+          <l>Un sorsetto farà ben.</l>
+          <l>(va al tavolino, ove son le bottiglie, empie un bicchiere, e beve; poi torna al cembalo)</l>
+        </sp>
+        <stage>MAESTRO«Ancor non espugnaquel barbaro sen»…Io mi sento alquanto sete.Un sorsetto farà ben.(va al tavolino, ove son le bottiglie, empie un bicchiere, e beve; poi torna al cembalo)</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Dove leggesi «affliggete»,</l>
+          <l>«ammazzate»… ed andrà ben.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(leggendo la scrittura del poeta)</l>
+          <l>Che carattere bisbetico!</l>
+          <l>Proprio stizza mi ci vien.</l>
+        </sp>
+        <stage>MAESTRO(leggendo la scrittura del poeta)Che carattere bisbetico!Proprio stizza mi ci vien.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ho un cervel proprio poetico,</l>
+          <l>tutto facile mi vien.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>«Via sfodera, impugna</l>
+          <l>quel ferro spietato»…</l>
+          <l>Cosa diavolo qui dice?</l>
+        </sp>
+        <stage>MAESTRO«Via sfodera, impugnaquel ferro spietato»…Cosa diavolo qui dice?</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Il pensiero è pur felice!</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Non v’è a dir: dice «castrato».</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ecco tutto terminato.</l>
+          <l>Rileggiamolo un pochino.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Ah! sì sì: Giulio Sabino</l>
+          <l>è un soprano: or mi sovvien.</l>
+          <l>«E questo castrato</l>
+          <l>trafiggimi almen.»</l>
+        </sp>
+        <stage>MAESTROAh! sì sì: Giulio Sabinoè un soprano: or mi sovvien.«E questo castratotrafiggimi almen.»</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>«Castrato»! cosa diavolo mai dite?</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Dico come sta scritto.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(sentendo gli ultimi versi cantati dal maestro, si leva e bruscamente se gli accosta)</l>
+          <l>Oibò! «costato»</l>
+          <l>sta scritto, e non «castrato».</l>
+        </sp>
+        <stage>POETA(sentendo gli ultimi versi cantati dal maestro, si leva e bruscamente se gli accosta)Oibò! «costato»sta scritto, e non «castrato».</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>«Castrato» va benissimo, e non cangio.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Eh, che burlate?</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Quel che scrissi, scrissi.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ma che? Siete impazzato?</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>«Castrato» scrissi, e resterà «castrato».</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>E poscia si dirà che fu il poeta</l>
+          <l>che fe’ tal scioccheria.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Né la prima, né l’ultima saria.</l>
+          <l>Più a questo non si pensi; ora sentiamo;</l>
+          <l>cosa avete voi fatto?</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ho fatto ciò che non parea possibile,</l>
+          <l>ho buffa, e seria unite</l>
+          <l>a meraviglia insieme.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Udiam.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Sentite.</l>
+          <l>Fingo una bella, e giovin principessa</l>
+          <l>sposa, e gravida già d’un figlio maschio.</l>
+          <l>V’è il solito tiranno,</l>
+          <l>che già lo sposo ha condannato a morte,</l>
+          <l>perché ama la consorte,</l>
+          <l>e al solito non può ridurlo al quia.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>È una bricconeria:</l>
+          <l>e allor la principessa?</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Piange, prega:</l>
+          <l>ma quel crudel non piega.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Poveretta!… sicché?</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Sicché va in stanza, smania, si dispera,</l>
+          <l>e si vuole ammazzar.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Ah!</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Onninamente:</l>
+          <l>ma poi non ne fa niente.</l>
+          <l>Perché la cameriera</l>
+          <l>allegra, anzi buffona,</l>
+          <l>ma della sua padrona</l>
+          <l>confidente primaria,</l>
+          <l>per divertirla un po’, canta quest’aria:</l>
+          <l>«Per pietà, padrona mia,</l>
+          <l>per pietà non v’ammazzate,</l>
+          <l>ch’è una gran minchioneria.</l>
+          <l>Queste sono ragazzate,</l>
+          <l>e può farsene di men.»</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Bravo!</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Sentite il resto.</l>
+          <l>«Deh lasciate che si ammazzi</l>
+          <l>qualche brutta, o scioccherella;</l>
+          <l>ché l’uccidersi è da pazzi,</l>
+          <l>sia col ferro, o col velen.»</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Graziosa in verità.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Mo viene il buono.</l>
+          <l>«Voi dovete star nel mondo,</l>
+          <l>voi, che siete savia e bella,</l>
+          <l>voi, che avete il sen fecondo,</l>
+          <l>voi, che avete un figlio in sen.»</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Superba! superbissima!</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>E così?</l>
+          <l>Non son un uom?</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Quasi direi di sì.</l>
+          <l>Allegramente dunque.</l>
+          <l>Ite a prender colei</l>
+          <l>delli cento zecchini;</l>
+          <l>conducetela qui,</l>
+          <l>e si vedrà cos’è.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>POETA</head>Vado: se preme a voi, preme più a me.(parte)Scena quartaMaestro solo.La cosa va prendendo buona piega.Eppur questi poeti,sapendoli dirigere a mio modo,si potria forse forseridurli ad esser buoni a qualche cosa.Basta sol, che depor voglian la scioccaidea, che tutto il mondodeggia far conto delle lor parole.Eh… ci vuol altro: musica ci vuole.Ecco un’aria a buon conto: a Eleonoraor or la manderò: vediam quest’altra.«Per pietà, padrona mia,per pietà non v’ammazzate»…(prova al cembalo l’aria -Per pietà- avendo d’un canto la carta ove sono scritti i cangiamenti fattivi dal poeta, e sotto gli occhi la musica)Ah! ah!… Così… d’incanto,egregiamente bene:a le parole il cantobenissimo conviene.Or passiam dal copista,acciò speditamentea quest’altr’aria adattii cangiamenti fatti:e avanti i quattro dì farassi il resto:in somma non fa ben, chi non fa presto.Scena quintaPoeta, e Tonina.<sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Vado: se preme a voi, preme più a me.</l>
+          <l>(parte)</l>
+          <l>Scena quarta</l>
+          <l>Maestro solo.</l>
+          <l>La cosa va prendendo buona piega.</l>
+          <l>Eppur questi poeti,</l>
+          <l>sapendoli dirigere a mio modo,</l>
+          <l>si potria forse forse</l>
+          <l>ridurli ad esser buoni a qualche cosa.</l>
+          <l>Basta sol, che depor voglian la sciocca</l>
+          <l>idea, che tutto il mondo</l>
+          <l>deggia far conto delle lor parole.</l>
+          <l>Eh… ci vuol altro: musica ci vuole.</l>
+          <l>Ecco un’aria a buon conto: a Eleonora</l>
+          <l>or or la manderò: vediam quest’altra.</l>
+          <l>«Per pietà, padrona mia,</l>
+          <l>per pietà non v’ammazzate»…</l>
+          <l>(prova al cembalo l’aria -Per pietà- avendo d’un canto la carta ove sono scritti i cangiamenti fattivi dal poeta, e sotto gli occhi la musica)</l>
+          <l>Ah! ah!… Così… d’incanto,</l>
+          <l>egregiamente bene:</l>
+          <l>a le parole il canto</l>
+          <l>benissimo conviene.</l>
+          <l>Or passiam dal copista,</l>
+          <l>acciò speditamente</l>
+          <l>a quest’altr’aria adatti</l>
+          <l>i cangiamenti fatti:</l>
+          <l>e avanti i quattro dì farassi il resto:</l>
+          <l>in somma non fa ben, chi non fa presto.</l>
+          <l>Scena quinta</l>
+          <l>Poeta, e Tonina.</l>
+        </sp>
+        <stage>POETAVado: se preme a voi, preme più a me.(parte)Scena quartaMaestro solo.La cosa va prendendo buona piega.Eppur questi poeti,sapendoli dirigere a mio modo,si potria forse forseridurli ad esser buoni a qualche cosa.Basta sol, che depor voglian la scioccaidea, che tutto il mondodeggia far conto delle lor parole.Eh… ci vuol altro: musica ci vuole.Ecco un’aria a buon conto: a Eleonoraor or la manderò: vediam quest’altra.«Per pietà, padrona mia,per pietà non v’ammazzate»…(prova al cembalo l’aria -Per pietà- avendo d’un canto la carta ove sono scritti i cangiamenti fattivi dal poeta, e sotto gli occhi la musica)Ah! ah!… Così… d’incanto,egregiamente bene:a le parole il cantobenissimo conviene.Or passiam dal copista,acciò speditamentea quest’altr’aria adattii cangiamenti fatti:e avanti i quattro dì farassi il resto:in somma non fa ben, chi non fa presto.Scena quintaPoeta, e Tonina.</stage>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>E il Maestro dov’è?</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Non so: ma poco</l>
+          <l>dovria tardar: ei sa, ch’io qui con voi</l>
+          <l>dovea venir.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Lo sa, e non aspetta?</l>
+          <l>Se non ha più di scienza musicale,</l>
+          <l>che di buona creanza, stiamo male.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Dunque, Tonina mia, tanto v’annoia</l>
+          <l>di star meco un pochino.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Oh! bella gioia!</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ma sapete ch’io vi amo.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Se mi seccate più, vi do un ceffone,</l>
+          <l>e poi lo dico al principe: capite?</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Gran castigo è l’amarvi.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Non so per chi di noi</l>
+          <l>sia castigo maggior: per me, o per voi.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Non v’alterate.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>E questo</l>
+          <l>asino di Maestro ancor non viene!</l>
+          <l>(rivolgendosi, vede le carte di musica)</l>
+          <l>Oh, quanta musicaccia.</l>
+          <l>Quanti spartiti d’opera!</l>
+          <l>(legge)</l>
+          <l>«L’avaro».</l>
+          <l>Il diavol se lo porti;</l>
+          <l>in Gratz a terra andò, come uno straccio.</l>
+          <l>E v’era io; pensa un po’ che spartitaccio!</l>
+          <l>(legge)</l>
+          <l>«La donna letterata».</l>
+          <l>Non la conosco, ma dal titol solo</l>
+          <l>capisco, ch’esser deve</l>
+          <l>una gran seccatura.</l>
+          <l>(lo getta)</l>
+          <l>«Premio della virtù»: mediocre assai.</l>
+          <l>(leggendo sempre, e buttando via gli spartiti)</l>
+          <l>«La speranza delusa», oibò! il soggetto</l>
+          <l>è troppo ripetuto.</l>
+          <l>«Il geloso burlato»:</l>
+          <l>tanto di barba. «Il vero patriottismo»:</l>
+          <l>tutta roba del secolo passato.</l>
+        </sp>
+        <stage>TONINAE questoasino di Maestro ancor non viene!(rivolgendosi, vede le carte di musica)Oh, quanta musicaccia.Quanti spartiti d’opera!(legge)«L’avaro».Il diavol se lo porti;in Gratz a terra andò, come uno straccio.E v’era io; pensa un po’ che spartitaccio!(legge)«La donna letterata».Non la conosco, ma dal titol solocapisco, ch’esser deveuna gran seccatura.(lo getta)«Premio della virtù»: mediocre assai.(leggendo sempre, e buttando via gli spartiti)«La speranza delusa», oibò! il soggettoè troppo ripetuto.«Il geloso burlato»:tanto di barba. «Il vero patriottismo»:tutta roba del secolo passato.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ma voi mandate tutto alla malora.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>(mette mano agli altri spartiti, sempre leggendo il titolo, e gettando via e scomponendo tutto)</l>
+          <l>E cosa importa a voi? Gran ficcanaso!</l>
+          <l>Ecco un altro gran mucchio.</l>
+          <l>«Annibale sull’Alpi». Il titol solo</l>
+          <l>fa venir freddo. «L’Attila», «L’Egeria»,</l>
+          <l>è tutta roba seria:</l>
+          <l>ecco musica sciolta: ecco un quartetto,</l>
+          <l>un terzetto, un duetto,</l>
+          <l>ecco qua un’aria: è in elamì; non posso</l>
+          <l>soffrir quest’elamì: questa è in befà;</l>
+          <l>oibò, è per contralto, proviam questa.</l>
+          <l>È troppo alta per me.</l>
+        </sp>
+        <stage>TONINA(mette mano agli altri spartiti, sempre leggendo il titolo, e gettando via e scomponendo tutto)E cosa importa a voi? Gran ficcanaso!Ecco un altro gran mucchio.«Annibale sull’Alpi». Il titol solofa venir freddo. «L’Attila», «L’Egeria»,è tutta roba seria:ecco musica sciolta: ecco un quartetto,un terzetto, un duetto,ecco qua un’aria: è in elamì; non possosoffrir quest’elamì: questa è in befà;oibò, è per contralto, proviam questa.È troppo alta per me.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Tonina mia, ma che dirà il Maestro?</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Dirà quel che vorrà: ed ei dovea</l>
+          <l>farsi in casa trovar. Oh! oh! il Maestro</l>
+          <l>è anche un po’ briacone.</l>
+          <l>(al Poeta)</l>
+          <l>Che vino è questo?… ahi! ahi! bevete voi.</l>
+        </sp>
+        <stage>TONINADirà quel che vorrà: ed ei doveafarsi in casa trovar. Oh! oh! il Maestroè anche un po’ briacone.(al Poeta)Che vino è questo?… ahi! ahi! bevete voi.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Fuori del desinar bever non posso.</l>
+          <l>(empie un bicchier e l’assaggia)</l>
+        </sp>
+        <stage>POETAFuori del desinar bever non posso.(empie un bicchier e l’assaggia)</stage>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Bevete su, o ve lo getto addosso.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ma Tonina…</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>E ardireste</l>
+          <l>dunque di ricusar ciò ch’io gustai?</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Via, beviamo…</l>
+          <l>(assaggia un poco)</l>
+        </sp>
+        <stage>POETAVia, beviamo…(assaggia un poco)</stage>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>No, tutto.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Stomacar mi farete.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Crepate, ma bevete.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Che martirio.</l>
+          <l>(beve con atto di disgusto)</l>
+        </sp>
+        <stage>POETAChe martirio.(beve con atto di disgusto)</stage>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Coraggio: così: bravo.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ora, Tonina…</l>
+          <l>(vede un ferraiolo appeso, lo prende e vi s’involge: e in questo mentre giunge il Maestro col cappello in testa e una carta di musica in mano senza accorgersi di Tonina)</l>
+        </sp>
+        <stage>POETAOra, Tonina…(vede un ferraiolo appeso, lo prende e vi s’involge: e in questo mentre giunge il Maestro col cappello in testa e una carta di musica in mano senza accorgersi di Tonina)</stage>
+      </div>
+      <div type="scene">
+        <head>TONINA</head>Zitto… un ferraiolo;me lo voglio provar.Scena sestaMaestro, e detti.<sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Zitto… un ferraiolo;</l>
+          <l>me lo voglio provar.</l>
+          <l>Scena sesta</l>
+          <l>Maestro, e detti.</l>
+        </sp>
+        <stage>TONINAZitto… un ferraiolo;me lo voglio provar.Scena sestaMaestro, e detti.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Signor Poeta,</l>
+          <l>e la buffa?…</l>
+          <l>(vedendo la musica per terra si adira contro il Poeta)</l>
+          <l>Cos’è?</l>
+          <l>O poveretto me! tutta sossopra</l>
+          <l>è la musica mia. Che avete fatto?</l>
+          <l>Diavol! che siete divenuto matto.</l>
+        </sp>
+        <stage>MAESTROSignor Poeta,e la buffa?…(vedendo la musica per terra si adira contro il Poeta)Cos’è?O poveretto me! tutta sossopraè la musica mia. Che avete fatto?Diavol! che siete divenuto matto.</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Non son stat’io.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Chi dunque?</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(accennando Tonina)</l>
+          <l>Eccola…</l>
+        </sp>
+        <stage>POETA(accennando Tonina)Eccola…</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(rivolgendosi)</l>
+          <l>Chi? che miro!</l>
+          <l>Chi è qui col mio mantello?</l>
+        </sp>
+        <stage>MAESTRO(rivolgendosi)Chi? che miro!Chi è qui col mio mantello?</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>È appunto…</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>(si sferraiola, getta a terra il mantello, e toglie di testa al Maestro il cappello e glielo getta pure a terra)</l>
+          <l>Sì, son io… Giù quel cappello.</l>
+          <l>Quando si sta davanti</l>
+          <l>a una bella ragazza, com’io sono…</l>
+        </sp>
+        <stage>TONINA(si sferraiola, getta a terra il mantello, e toglie di testa al Maestro il cappello e glielo getta pure a terra)Sì, son io… Giù quel cappello.Quando si sta davantia una bella ragazza, com’io sono…</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Il mio mantello, il mio cappello buono!</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(imbarazzato)</l>
+          <l>Non era alcuno in stanza…</l>
+          <l>Scusate…</l>
+        </sp>
+        <stage>POETA(imbarazzato)Non era alcuno in stanza…Scusate…</stage>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Che scusar? Bella creanza!</l>
+          <l>Farmi un’ora aspettar.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Ma voi…</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Giudizio,</l>
+          <l>Tonina.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>A me giudizio!</l>
+          <l>(corre verso il Poeta, e nel correre rovescia il tavolino col calamaio e penne, e gli dà un pugno)</l>
+          <l>Poetaccio insolente,</l>
+          <l>giudizio a me! son qualche pazza, o forse</l>
+          <l>voi siete il mio tutor?</l>
+        </sp>
+        <stage>TONINAA me giudizio!(corre verso il Poeta, e nel correre rovescia il tavolino col calamaio e penne, e gli dà un pugno)Poetaccio insolente,giudizio a me! son qualche pazza, o forsevoi siete il mio tutor?</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Misericordia!</l>
+          <l>Costei tutto rovina, ed abbaruffa.</l>
+          <l>Un diavol mi par, non una buffa.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(piano al Maestro)</l>
+          <l>Dissimulate in grazia</l>
+          <l>di quei cento… capite?</l>
+        </sp>
+        <stage>POETA(piano al Maestro)Dissimulate in graziadi quei cento… capite?</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Sì… ma intanto…</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(a Tonina con dolcezza)</l>
+          <l>Via, che avete ragion.</l>
+        </sp>
+        <stage>POETA(a Tonina con dolcezza)Via, che avete ragion.</stage>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Se voi sarete</l>
+          <l>più savi e buoni, io vi perdono.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Oh bella!</l>
+          <l>Or sta a veder, ch’io torto avrò, non ella.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Orsù, tronchiam questi discorsi, e omai</l>
+          <l>parliam di ciò, che importa più.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Quai sono</l>
+          <l>i caratteri suoi più favoriti?</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Io tutto vi farò: la contadina,</l>
+          <l>la vecchia, la bambina,</l>
+          <l>la semplice, l’astuta.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>È tutta roba, che l’abbiam veduta.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Si vorria qualche cosa nuova, e bella.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>L’Arlecchino, il Dottore, il Pulcinella?</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Oh cari quei caratteri!</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Deliziosi, è ver: ma, poco o nulla</l>
+          <l>conoscendosi qui gli originali,</l>
+          <l>non si posson gustar.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Son vari i gusti.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ma poi il più bello è che ciascun pretende</l>
+          <l>essere il gusto suo miglior d’ogni altro.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Conosciuti caratteri vi annoiano,</l>
+          <l>sconosciuti non son di vostro gusto:</l>
+          <l>e chi diavolo mai può contentarvi?</l>
+          <l>Vi farò… che so io…</l>
+          <l>la selvaggia, la zinghera, la quaquera.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>La papera?</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Non papera, ma quaquera.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(seriamente al Maestro)</l>
+          <l>Sì, squacquera.</l>
+        </sp>
+        <stage>POETA(seriamente al Maestro)Sì, squacquera.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Cioè?</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Zucche! Già vedo</l>
+          <l>che l’un, e l’altro non capisce un zero.</l>
+          <l>A proposito: ancor talvolta ho fatta,</l>
+          <l>e posso far la matta.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Bella esser dée la scena.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Né dovrebbe costarvi una gran pena.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Figuratevi, ch’io per affluenza</l>
+          <l>di sangue nel cervello, o per dolore,</l>
+          <l>per rabbia, per amore,</l>
+          <l>per sùbito spavento,</l>
+          <l>o per altra ragion pazza divento.</l>
+          <l>Stranamente vestita,</l>
+          <l>ho gli occhi stralunati,</l>
+          <l>capelli scarmigliati,</l>
+          <l>la guardatura fissa, il viso giallo,</l>
+          <l>e ora piango, ora rido, or canto, or ballo.</l>
+          <l>Via largo ragazzi,</l>
+          <l>non tanti schiamazzi</l>
+          <l>ché arriva la sposa</l>
+          <l>con gala sfarzosa,</l>
+          <l>la bella Tonina</l>
+          <l>che vien dalla China:</l>
+          <l>oh quante carrozze!</l>
+          <l>oh quanti cavalli!</l>
+          <l>Venite alle nozze,</l>
+          <l>si canti, si balli;</l>
+          <l>cantate, ballate,</l>
+          <l>la rà, la ra là.</l>
+          <l>Ma cosa mai veggio?</l>
+          <l>Si può far di peggio?</l>
+          <l>(guardandoli stralunatamente)</l>
+          <l>Voi siete due cosi</l>
+          <l>barbuti, pelosi…</l>
+          <l>Che musi che avete?</l>
+          <l>Montoni voi siete.</l>
+          <l>Io son l’agnelletta,</l>
+          <l>che sopra l’erbetta</l>
+          <l>saltando se n’ va.</l>
+          <l>E voi cosa volete</l>
+          <l>così vestiti a lutto?</l>
+          <l>Tacete, oh dio! tacete,</l>
+          <l>ché già comprendo il tutto.</l>
+          <l>Il caro sposo è morto:</l>
+          <l>chi sa se torna più.</l>
+          <l>Ma non ha avuto torto,</l>
+          <l>ché giusto a mezza vita</l>
+          <l>aveva una ferita,</l>
+          <l>da quindici anni, e più.</l>
+          <l>Ombra sanguigna errante</l>
+          <l>del caro sposo amante,</l>
+          <l>se intorno a me t’aggiri,</l>
+          <l>ascolta i miei sospiri,</l>
+          <l>rimira queste lagrime,</l>
+          <l>come mi colan giù.</l>
+          <l>Voi non piangete, o perfidi?</l>
+        </sp>
+        <stage>TONINAFiguratevi, ch’io per affluenzadi sangue nel cervello, o per dolore,per rabbia, per amore,per sùbito spavento,o per altra ragion pazza divento.Stranamente vestita,ho gli occhi stralunati,capelli scarmigliati,la guardatura fissa, il viso giallo,e ora piango, ora rido, or canto, or ballo.Via largo ragazzi,non tanti schiamazziché arriva la sposacon gala sfarzosa,la bella Toninache vien dalla China:oh quante carrozze!oh quanti cavalli!Venite alle nozze,si canti, si balli;cantate, ballate,la rà, la ra là.Ma cosa mai veggio?Si può far di peggio?(guardandoli stralunatamente)Voi siete due cosibarbuti, pelosi…Che musi che avete?Montoni voi siete.Io son l’agnelletta,che sopra l’erbettasaltando se n’ va.E voi cosa voletecosì vestiti a lutto?Tacete, oh dio! tacete,ché già comprendo il tutto.Il caro sposo è morto:chi sa se torna più.Ma non ha avuto torto,ché giusto a mezza vitaaveva una ferita,da quindici anni, e più.Ombra sanguigna errantedel caro sposo amante,se intorno a me t’aggiri,ascolta i miei sospiri,rimira queste lagrime,come mi colan giù.Voi non piangete, o perfidi?</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Pare ossessa.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>E chi sa che non lo sia.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Ma tu chi sei, che in maschera</l>
+          <l>mi vieni a dar dei pizzichi?</l>
+          <l>Or ti conosco: ah cane.</l>
+          <l>Morrai per le mie mane.</l>
+          <l>(piglia pe ‘l collo il Maestro)</l>
+          <l>Sì, l’uccisor sei tu.</l>
+          <l>Paventa i sdegni miei;</l>
+          <l>Marfisa io son, tu sei</l>
+          <l>il brutto Ferraù.</l>
+        </sp>
+        <stage>TONINAMa tu chi sei, che in mascherami vieni a dar dei pizzichi?Or ti conosco: ah cane.Morrai per le mie mane.(piglia pe ‘l collo il Maestro)Sì, l’uccisor sei tu.Paventa i sdegni miei;Marfisa io son, tu seiil brutto Ferraù.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Per carità, finite questa scena.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Eppur non la fa male.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Anzi un pochetto troppo al naturale.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Volete altro?</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Io per me ne ho già abbastanza.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Tonina, dite un po’: vi ricordate</l>
+          <l>di quella cavatina,</l>
+          <l>che giusto ier mattina</l>
+          <l>fe’ rider tanto il principe?</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Ah, sì quella</l>
+          <l>che figura un Tartaglia,</l>
+          <l>che a ogni sillaba intoppa, impunta e sbaglia.</l>
+          <l>(canta tartagliando)</l>
+          <l>Cucuzze! Che concorso!</l>
+          <l>Chi chiacchiera, chi ride,</l>
+          <l>e chi schiamazza, e stride,</l>
+          <l>chi fugge a tutto corso,</l>
+          <l>e chi va qua, chi là.</l>
+        </sp>
+        <stage>TONINAAh, sì quellache figura un Tartaglia,che a ogni sillaba intoppa, impunta e sbaglia.(canta tartagliando)Cucuzze! Che concorso!Chi chiacchiera, chi ride,e chi schiamazza, e stride,chi fugge a tutto corso,e chi va qua, chi là.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Cessate in grazia, ché mi fate pena.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Vedete ben, ch’ella sa far di tutto.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Troppo gentil.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(a Tonina)</l>
+          <l>Ella saprà che qui</l>
+          <l>dée darsi un’operetta in quattro dì.</l>
+          <l>Se però si compiace</l>
+          <l>d’accettare una parte, evvene appunto</l>
+          <l>una per lei, che parmi</l>
+          <l>moltissimo a proposito.</l>
+        </sp>
+        <stage>MAESTRO(a Tonina)Ella saprà che quidée darsi un’operetta in quattro dì.Se però si compiaced’accettare una parte, evvene appuntouna per lei, che parmimoltissimo a proposito.</stage>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Cioè?</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Ella è una cameriera allegra, e scaltra,</l>
+          <l>che divertir procura la padrona,</l>
+          <l>e toglierle il pensier, che ha d’ammazzarsi.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Per questo io sono a meraviglia buona.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Giusto ho un’aria qui pronta.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Sentiamo.</l>
+          <l>(prende l’aria di mano del Maestro, e si pone in atto di cantare)</l>
+        </sp>
+        <stage>TONINASentiamo.(prende l’aria di mano del Maestro, e si pone in atto di cantare)</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Volentieri: è un allegretto.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Sentirete, maestro, sentirete</l>
+          <l>come ella canta all’improvviso.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Io poi</l>
+          <l>fo tutto all’improvviso.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>MAESTRO</head>Dunque a noi.(il Maestro sta al cembalo accompagnando Tonina, che, appena ha cantato alcune battute, vien interrotta da Eleonora che sopraggiunge)Scena ultimaEleonora, e detti.<sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Dunque a noi.</l>
+          <l>(il Maestro sta al cembalo accompagnando Tonina, che, appena ha cantato alcune battute, vien interrotta da Eleonora che sopraggiunge)</l>
+          <l>Scena ultima</l>
+          <l>Eleonora, e detti.</l>
+        </sp>
+        <stage>MAESTRODunque a noi.(il Maestro sta al cembalo accompagnando Tonina, che, appena ha cantato alcune battute, vien interrotta da Eleonora che sopraggiunge)Scena ultimaEleonora, e detti.</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(colla solita sostenutezza)</l>
+          <l>Maestro, vi saluto. ~ Addio, Poeta.</l>
+        </sp>
+        <stage>ELEONORA(colla solita sostenutezza)Maestro, vi saluto. ~ Addio, Poeta.</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(a Tonina)</l>
+          <l>Signora mia… scusate, un sol momento…</l>
+        </sp>
+        <stage>MAESTRO(a Tonina)Signora mia… scusate, un sol momento…</stage>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Mi piantate così?</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Subito torno.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Ecco l’aria: vogliam provarla un poco?</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Subito; quando sbrigo</l>
+          <l>quell’altra virtuosa, e son da lei.</l>
+          <l>(va per mettersi di nuovo al cembalo)</l>
+        </sp>
+        <stage>MAESTROSubito; quando sbrigoquell’altra virtuosa, e son da lei.(va per mettersi di nuovo al cembalo)</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(al Poeta)</l>
+          <l>Dite, chi è colei?</l>
+        </sp>
+        <stage>ELEONORA(al Poeta)Dite, chi è colei?</stage>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>È una buffa eccellente.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Non mi intrigo con buffe.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>(al Maestro)</l>
+          <l>Ebben, venite, o non venite?</l>
+        </sp>
+        <stage>TONINA(al Maestro)Ebben, venite, o non venite?</stage>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>(accostandosi a Tonina)</l>
+          <l>Adesso.</l>
+          <l>Quell’è donna Eleonora</l>
+          <l>che ora vien di Spagna.</l>
+        </sp>
+        <stage>MAESTRO(accostandosi a Tonina)Adesso.Quell’è donna Eleonorache ora vien di Spagna.</stage>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Fosse anche la contessa di Culagna,</l>
+          <l>non me ne importa un fico.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Incominciamo, dico.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Aspetti un poco.</l>
+          <l>Quella signora ha cominciato omai.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>E le mie pari non aspettan mai.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>(Qui nasce uno scompiglio.)</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>(al Maestro)</l>
+          <l>Se non venite voi, finisco sola.</l>
+        </sp>
+        <stage>TONINA(al Maestro)Se non venite voi, finisco sola.</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(al Maestro)</l>
+          <l>Se voi non mi volete accompagnare</l>
+          <l>al cembalo mi pongo,</l>
+          <l>e da me stessa mi accompagno, e canto.</l>
+        </sp>
+        <stage>ELEONORA(al Maestro)Se voi non mi volete accompagnareal cembalo mi pongo,e da me stessa mi accompagno, e canto.</stage>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Canti pur: l’aria mia finisco intanto.</l>
+          <l>(Eleonora si pone al cembalo, e canta la sua aria -Se questo mio pianto-; e intanto Tonina canta l’aria sua -Per pietà-; mentre cantano, parla alla seria il Maestro, e il Poeta alla buffa)</l>
+        </sp>
+        <stage>TONINACanti pur: l’aria mia finisco intanto.(Eleonora si pone al cembalo, e canta la sua aria -Se questo mio pianto-; e intanto Tonina canta l’aria sua -Per pietà-; mentre cantano, parla alla seria il Maestro, e il Poeta alla buffa)</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Se questo mio pianto</l>
+          <l>il cor non ti tocca,</l>
+          <l>se questo mio canto,</l>
+          <l>che m’esce di bocca</l>
+          <l>ancor non espugna</l>
+          <l>quel barbaro sen;</l>
+          <l>via sfodera, impugna</l>
+          <l>quel ferro spietato</l>
+          <l>e questo castrato</l>
+          <l>trafiggimi almen.</l>
+        </sp>
+        <stage>ELEONORASe questo mio piantoil cor non ti tocca,se questo mio canto,che m’esce di boccaancor non espugnaquel barbaro sen;via sfodera, impugnaquel ferro spietatoe questo castratotrafiggimi almen.</stage>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>Per pietà padrona mia,</l>
+          <l>per pietà non v’ammazzate,</l>
+          <l>ch’è una gran minchioneria.</l>
+          <l>Queste sono ragazzate,</l>
+          <l>e può farsene di men.</l>
+          <l>Deh! Lasciate che s’ammazzi</l>
+          <l>qualche brutta, o scioccherella;</l>
+          <l>ché l’uccidersi è da pazzi,</l>
+          <l>sia col ferro o col velen.</l>
+          <l>Voi dovete star nel mondo,</l>
+          <l>voi che siete savia, e bella,</l>
+          <l>voi che avete il sen fecondo,</l>
+          <l>voi che avete un figlio in sen.</l>
+        </sp>
+        <stage>TONINAPer pietà padrona mia,per pietà non v’ammazzate,ch’è una gran minchioneria.Queste sono ragazzate,e può farsene di men.Deh! Lasciate che s’ammazziqualche brutta, o scioccherella;ché l’uccidersi è da pazzi,sia col ferro o col velen.Voi dovete star nel mondo,voi che siete savia, e bella,voi che avete il sen fecondo,voi che avete un figlio in sen.</stage>
+        <sp who="#poeta e maestro">
+          <speaker>POETA E MAESTRO:</speaker>
+          <l>Maestro</l>
+          <l>Via, donna Eleonora…</l>
+          <l>Poeta</l>
+          <l>Via, cara Tonina…</l>
+          <l>Maestro</l>
+          <l>Cessate in buon’ora.</l>
+          <l>Poeta</l>
+          <l>Deh siate bonina.</l>
+          <l>Poeta e Maestro</l>
+          <l>Stizzarsi, adirarsi</l>
+          <l>a voi non convien.</l>
+          <l>Al principe, al conte</l>
+          <l>disgusto darete,</l>
+          <l>che come sapete,</l>
+          <l>vi vuol tanto ben.</l>
+          <l>(Eleonora finisce la sua aria prima di Tonina, la quale segue a cantare con dispetto; e intanto Eleonora si leva, e si ferma a guardarla ridendo)</l>
+        </sp>
+        <stage>POETA E MAESTROMaestroVia, donna Eleonora…PoetaVia, cara Tonina…MaestroCessate in buon’ora.PoetaDeh siate bonina.Poeta e MaestroStizzarsi, adirarsia voi non convien.Al principe, al contedisgusto darete,che come sapete,vi vuol tanto ben.(Eleonora finisce la sua aria prima di Tonina, la quale segue a cantare con dispetto; e intanto Eleonora si leva, e si ferma a guardarla ridendo)</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>E pur quell’orgoglio</l>
+          <l>diverte, mi piace;</l>
+          <l>quell’estro vivace</l>
+          <l>diletto mi dà.</l>
+        </sp>
+        <sp who="#tonina">
+          <speaker>TONINA:</speaker>
+          <l>(facendo un gran respiro)</l>
+          <l>Ho vinto l’impegno,</l>
+          <l>or altro non voglio,</l>
+          <l>depongo lo sdegno,</l>
+          <l>son tutta bontà.</l>
+        </sp>
+        <stage>TONINA(facendo un gran respiro)Ho vinto l’impegno,or altro non voglio,depongo lo sdegno,son tutta bontà.</stage>
+        <sp who="#poeta e maestro">
+          <speaker>POETA E MAESTRO:</speaker>
+          <l>Se il riso, se il gioco</l>
+          <l>successe a quel foco,</l>
+          <l>si stringa costante</l>
+          <l>sincera amistà.</l>
+        </sp>
+        <sp who="#eleonora e tonina">
+          <speaker>ELEONORA E TONINA:</speaker>
+          <l>Il vate, il maestro</l>
+          <l>risveglino l’estro.</l>
+        </sp>
+        <sp who="#poeta e maestro">
+          <speaker>POETA E MAESTRO:</speaker>
+          <l>La seria, la buffa</l>
+          <l>non faccian baruffa.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Si stringa costante</l>
+          <l>sincera amistà.</l>
+        </sp>
+        <sp who="#poeta">
+          <speaker>POETA:</speaker>
+          <l>Or se tutti son d’accordo,</l>
+          <l>se nessuno è muto, o sordo,</l>
+          <l>se la musica è già pronta,</l>
+          <l>se il libretto non si conta,</l>
+          <l>se il vestiario, se scenario,</l>
+          <l>se gli attori, i sonatori,</l>
+          <l>se ogni cosa in somma è lesta,</l>
+          <l>se chi paga e dà la festa</l>
+          <l>vuole, ed ordina così,</l>
+          <l>sarà cosa facilissima</l>
+          <l>di far l’opra in quattro dì.</l>
+        </sp>
+        <sp who="#maestro">
+          <speaker>MAESTRO:</speaker>
+          <l>Grazie al ciel, che la ragione</l>
+          <l>alla fin l’ostinazione</l>
+          <l>d’un poeta convertì.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Lieto intanto applauda il canto</l>
+          <l>allo stuolo spettator.</l>
+          <l>Astro in ciel propizio splenda</l>
+          <l>di contenti annunziator.</l>
+          <l>Ch’efficaci i voti renda</l>
+          <l>e il desio del nostro cor.</l>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

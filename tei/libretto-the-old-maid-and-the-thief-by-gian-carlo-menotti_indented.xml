@@ -1,0 +1,2078 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">he Old Maid and the Thief</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="laetitia">
+            <persName>LAETITIA:</persName>
+          </person>
+          <person xml:id="together">
+            <persName>TOGETHER:</persName>
+          </person>
+          <person xml:id="bob">
+            <persName>BOB:</persName>
+          </person>
+          <person xml:id="miss todd">
+            <persName>MISS TODD:</persName>
+          </person>
+          <person xml:id="miss pinkerton">
+            <persName>MISS PINKERTON:</persName>
+          </person>
+          <person xml:id="storekeeper">
+            <persName>STOREKEEPER:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>(Miss Todd’s Parlor, late afternoon)MISS TODDGood day, Miss Pinkerton.</stage>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Miss Todd, good day.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Give me your raincoat, your overshoes.</l>
+        <l>Make yourself comfortable</l>
+        <l>and tell me the news while I make some tea.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Don’t trouble yourself for me!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>No trouble at all.</l>
+        <l>The water is boiling in the kettle…</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Isn’t the weather awful?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Awful!</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Awful!</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>It seems the postman brought a letter to Miss Paxton;</l>
+        <l>when she saw the writing down she fell with a cry…</l>
+        <l>and nobody knows why!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>You’re not trying to hide it from me!</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Miss Todd, not I!</l>
+        <l>I assure you, nobody knows why.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Here is your tea.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Thank you.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>How many lumps?</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Two.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Lemon or cream?</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Cream, if you please.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Isn’t the weather awful!</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Awful!</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Awful!</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Do you approve of the new minister?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Indeed!</l>
+        <l>He is well bred and well read and handsome.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Do you like his wife?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Indeed I don’t! She’s fat, she’s vulgar.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>She’s sinister.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Isn’t the weather awful?</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>This is a lonely town.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Ours is a lonely life.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>A man wrecked my life.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>I know… That was thirty years ago.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>You mean twenty-five!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>So was my life wrecked</l>
+        <l>by a man.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>I know… That was forty years ago.</l>
+        <l>My lover sailed to be a sailor of the sea</l>
+        <l>but said I was the ship</l>
+        <l>on which to fix his mast.</l>
+        <l>Alas, the sea is vast</l>
+        <l>and full of many a ship;</l>
+        <l>he sailed for his first trip,</l>
+        <l>that’s when I saw him last.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>My lover had a plan to be a learned man</l>
+        <l>but said I was the book in which to found his creed.</l>
+        <l>Alas, why must man need so long and many a book;</l>
+        <l>for all this time he took to read and read and read.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Life is but a broken promise.</l>
+        <l>And why should God keep his promise</l>
+        <l>if man forget their own?</l>
+        <l>It was man, not God,</l>
+        <l>the first who trod upon his promise.</l>
+        <l>Since then has truth flown from us.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>And life is but a broken promise.</l>
+      </sp>
+      <stage>(A knock is heard )</stage>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Laetitia!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Yes, Ma’am.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Somebody knocked at the back door.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>I’ll go and see.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Who can it be?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Ma’am!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Well then, who is it?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>It is a man!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>A man? What does he want?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>He says that he must speak to you in strict privacy.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>The idea! Don’t you see I am having tea</l>
+        <l>with Miss Pinkerton?</l>
+        <l>Tell him to come back later.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Not on my account! It’s time</l>
+        <l>for me to go home, anyhow.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>So soon! It was such a short afternoon.</l>
+        <l>Goodbye then, Miss Pinkerton.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Goodbye, Miss Todd.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Your raincoat, your overshoes. Do come again.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>I thank you. Goodbye.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>This way. Goodbye.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Goodbye.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>(to herself)</l>
+        <l>I thought she’d never leave.</l>
+      </sp>
+      <stage>MISS TODD(to herself)I thought she’d never leave.</stage>
+      <stage>(to Laetitia)</stage>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Ma’am… he’s not a visitor, he’s only a beggar.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>A beggar! Give him a nickel and send him away.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>But he’s so young and handsome!</l>
+        <l>Don’t send him away. It would be a sin.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>What shall I do, then?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Be a Christian. Ask him in.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>What will the neighbours say?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Who cares! Just take a look at him!</l>
+        <l>Come in good man.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Thank you.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>What a beautiful voice!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Where are you going?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>A beggar has no destination.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Haven’t you a home or a vocation?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I have an ideal and we wonder together.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>In such weather!</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I’ve never been a host,</l>
+        <l>I’ve never been a guest;</l>
+        <l>a man with an ideal</l>
+        <l>has no place to rest.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Isn’t it a shame!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>For I meant to invite you to stay overnight,</l>
+        <l>for some rest and a meal.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>But I can accept all the same.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>In spite of your ideal?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I betray it with delight.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Isn’t he polite!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>What’s your name?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Bob.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>What a beautiful name!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Well, Bob, come in the parlor.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Won’t I soil the carpet?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Oh dear me, yes!</l>
+        <l>You’re all wet.</l>
+        <l>Don’t budge!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Don’t move!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Don’t stir!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Hold your breath!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Oh you poor fellow…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>… you’ll catch your death!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Take off your shoes.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>There! There!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Take off your socks.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>There! There!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Take off your coat.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>There! There!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Take off your shirt.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>There! There!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Take off… Oh dear…</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Just wait.</l>
+        <l>Laetitia, run upstairs and fetch that old bathrobe</l>
+        <l>and slippers of my poor uncle Paul.</l>
+        <l>I hope you’re not too cold.</l>
+        <l>Stand by the fire and make yourself at home</l>
+        <l>while I make some tea.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Don’t trouble yourself for me.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>No trouble at all;</l>
+        <l>the water is boiling in the kettle.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>If that is so I’ll have some.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>What a beautiful torso!</l>
+      </sp>
+      <stage>(The kitchen of Miss Todd’s house,the next morning)MISS TODDGood day, Laetitia.</stage>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Good morning, Madame! Why up so early?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>All night I felt so excited, I could not sleep a wink.</l>
+        <l>But is he still asleep?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Quite asleep, I think. He has not made a sound.</l>
+        <l>Wasn’t he charming last night?</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>And clever! And funny! And bright and profound!</l>
+        <l>I never heard such funny jokes</l>
+        <l>as he told us after dinner…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>The one about the sailor…</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>The one about the sinner…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>The one about the tailor…</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>How shall I stand it today to see him go away?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>This town will be a tomb.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>And what gloom in this house!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>How different is a room with a man in it!</l>
+        <l>Miss Todd, I have a plan to submit.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Well then, speak up!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Why don’t you ask him to stay another week?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>What shall the neighbours say?</l>
+        <l>hey soon will see that we are three.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>This is my strategy:</l>
+        <l>don’t you have dozens of uncles and cousins?</l>
+        <l>Say that he’s one of them.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Once they have seen him, they will suspect.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Tell them he’s ill</l>
+        <l>and that he will not see anybody.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Will he consent?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>A hungry man is easily bent.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>But who shall make him the proposition?</l>
+        <l>I do not dare.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>I am in no position.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>It’s your affair.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>I think you’d better.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>I’ll write a letter.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>What botheration!</l>
+        <l>If you don’t dare to face the matter</l>
+        <l>I shall take care of it with a good breakfast</l>
+      </sp>
+      <stage>(Bob’s bedroom, immediately after)LAETITIAGood morning!Hey, good morning, Bob!</stage>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Oh!… lookout… no… no…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Wake up!</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>… run away… they are coming…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Wake up!</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Who is it?…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Wake up…</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>When?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>it’s I!</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Oh! Oh, good morning.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>I’m sorry</l>
+        <l>I had to shake you, but since it is quite late</l>
+        <l>I thought I’d better wake you.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>After sleeping on the ground with a stone</l>
+        <l>for a pillow and leaves for a couch</l>
+        <l>a bed feels awfully nice.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Here’s your breakfast.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Holy smoke! This is paradise!</l>
+        <l>Am I to eat it in bed?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Of course. But straighten your legs.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Coffee and toast! Ham and eggs!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>And by the way,</l>
+        <l>my mistress is distressed.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>And why?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Because you’re going away.</l>
+        <l>And she gave me the task to ask</l>
+        <l>if you would stay with us another week.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Stay here another week?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Yes.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>To eat, and drink, and sleep</l>
+        <l>without paying food nor rent?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Yes.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>God bless you, that’s cheap!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Well, then, do you consent?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>How could anyone refuse?!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>But what of your ideal?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>An ideal, to be ideal,</l>
+        <l>must suffer treason;</l>
+        <l>even ideals listen to reason.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Then it is settled.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>With your permission.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>But for the neighbours you’re Cousin Steve,</l>
+        <l>and we believe it shall be wise</l>
+        <l>to shun suspicion that you be seen by no one.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>It shall be done, but I warn you both before,</l>
+        <l>I’ll be a cousin nothing more.</l>
+        <l>I hate women to the core.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Do you mean you’ll never marry,</l>
+        <l>even when they’re young</l>
+        <l>and shy and can cook as well as I?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I’ll admit you’re very, very…</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Laetitia!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Oh, the stupid bore!</l>
+        <l>So I’m very, very…</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Laetitia!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Coming! What was it we were saying?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I’ll say it another day.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Laetitia!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>I’d like to choke her. Coming!</l>
+      </sp>
+      <stage>(In the street, a few minutes later)MISS PINKERTONMiss Todd!</stage>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Miss Pinkerton, good morning.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Have you heard?! Have you read?!</l>
+        <l>A most terrible thief has fled</l>
+        <l>from the county jail of Timberville.</l>
+        <l>The town is in great fear</l>
+        <l>for he was seen not far from here.</l>
+        <l>He’s the terror of the nation.</l>
+        <l>He is one to rob</l>
+        <l>and kill at the slightest provocation.</l>
+        <l>Keep all the doors locked!</l>
+        <l>Keep all the windows closed!</l>
+        <l>He has committed crime after crime</l>
+        <l>for as little as a dime.</l>
+        <l>Keep all the doors locked!</l>
+        <l>Keep all the windows closed!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>A thief! A murderer! And what does he look like?</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Tall and burly, hair black and curly,</l>
+        <l>light complexion, southern inflection,</l>
+        <l>and all together handsome.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Tall and burly… hair black and curly…</l>
+        <l>light complexion… southern inflection…</l>
+        <l>and all together handsome.</l>
+        <l>Oh dear me! I must run home!</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Why such hurry?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>I want to warn Laetitia right away. Goodbye.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Goodbye. But by the way; that old Miss Perkins</l>
+        <l>who always spies on everyone says</l>
+        <l>out right that you had a male guest over-night.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Oh, dear me, yes!</l>
+        <l>A great surprise; back from Australia</l>
+        <l>my cousin Steve has just arrived,</l>
+        <l>a poor sick man.</l>
+        <l>He won’t see anyone for he’s in mourning.</l>
+        <l>I’m helping him all that I can,</l>
+        <l>but he’ll be going away,</l>
+        <l>I believe, this very morning.</l>
+      </sp>
+      <stage>(Miss Todd’s Parlor, immediately after)MISS TODDLaetitia!</stage>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Miss Todd, why all this clatter?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Have you heard? Have you read?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>No. What is the matter?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Is he still upstairs?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Yes, he’s getting dressed.</l>
+        <l>But what has happened? Are you ill?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Oh, my dear, let me sit down!</l>
+        <l>We must get rid</l>
+        <l>of our guest right away.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Of Bob?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Of Bob.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>And why?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>In town I met Miss Pinkerton</l>
+        <l>frightfully distressed who told me</l>
+        <l>a thief has fled from</l>
+        <l>the county jail of Timberville.</l>
+        <l>A thief, a murderer, she said!</l>
+        <l>He was seen not far from here; and, my dear,</l>
+        <l>he’s tall and burly, hair black and curly,</l>
+        <l>light complexion, southern inflection,</l>
+        <l>and all together handsome.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>He!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Yes, it is he!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Goodness gracious!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Think of it!</l>
+        <l>He might have murdered us last night!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>I thought he did look strange.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>What shall we do now?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Call the police.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>How can we explain his presence here?</l>
+        <l>Already I’ve made Miss Pinkerton believe</l>
+        <l>that he is my cousin Steve.</l>
+        <l>We must be great tacticians</l>
+        <l>and rid ourselves of him in a more subtle</l>
+        <l>way as if we’d no suspicions.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>But I’ve just begged him</l>
+        <l>to stay with us another week.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>And did he accept?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>He did.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>What cheek!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>There is no alternative;</l>
+        <l>we’ll have to keep him here.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Why! Laetitia! You must be out of your mind!</l>
+        <l>A lady of my kind to entertain a fugitive!</l>
+        <l>He’ll rob and kill me in my own bed.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Since he did not rob and murder us last night</l>
+        <l>why should he tonight?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Laetitia! You’re talking though your hat.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>For that matter, to be killed by a man would really</l>
+        <l>be much better than to live without one.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Laetitia, how shocking!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>You might lead him to the right path.</l>
+        <l>He has such lovely eyes!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>He’ll kill us like two flies.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Not if we make him feel secure.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>He’ll soon find out I’m poor</l>
+        <l>and lose all interest in me.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Make him believe you’re rich.</l>
+        <l>Don’t give yourself away. Act as if you’d money</l>
+        <l>aplenty, and even let him have some of it; a little</l>
+        <l>every day, today ten dollars, tomorrow twenty.</l>
+        <l>That will contrive to keep his interest alive.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>But where to find the money?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Aren’t you the treasurer of the New Mission Society</l>
+        <l>and of the Women’s Club?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Lord a’ mighty!</l>
+        <l>Do you suggest that I should steal?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Horror! No!</l>
+        <l>I only meant to borrow.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>And what does that imply?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Take all the money you need</l>
+        <l>for this coming week,</l>
+        <l>next month you’ll put it back,</l>
+        <l>and no one shall ever know of it.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Your argument is weak,</l>
+        <l>but so am I.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>I don’t see what is wrong with it.</l>
+        <l>The end justifies the means.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>I’ll never have the nerve…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Tut, tut; he’s coming…</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Good morning! Did you sleep well?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>This is the first time</l>
+        <l>that I have missed a sunrise!</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Oh, what beautiful eyes.</l>
+      </sp>
+      <stage>(The kitchen, a week later)LAETITIAWhat a curse for a womenis a timid man!A week has gone by;he had plenty of chances,but he made no advances.Miss Todd schemes and laboursto get him some money.She robs friends and neighboursthe club and the church.He takes all the money with a smile that entrances…but still makes no advances.The old woman sighs and makes languid eyes.All the drawers are wide open,all the doors are unlocked…He neither seems pleased nor shocked.He eats and drinks and sleeps,he talks of baseball and boxing…but that is all.What a curse for a woman isa timid man!Steal me.Oh, steal me, sweet thief,for time’s flight is stealing my youthand the cares of life steal fleeting time.Steal me, thief, for life is briefand full of theft and strife.And then, with furtive step, death comesand steals time and life.O sweet thief, I pray make me diebefore dark death steals her prey.Steal my lips before they crumble to dust.Steal my heart before death must.Steal my cheeks before they’re sunkand decayed.Steal my breath before it will fade.Steal my lips, steal my heart,steal my cheeks, steal, oh steal my breathand make me diebefore death will steal her prey.Oh, steal me! For time’s flightis stealing my youth.</stage>
+      <stage>(In Miss Todd’s parlor, immediately after)MISS PINKERTONMiss Todd!</stage>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Miss Pinkerton, won’t you sit down?</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Have you heard? Have you read?</l>
+        <l>The thief is still hiding in town</l>
+        <l>and has robbed many houses in the</l>
+        <l>neighbourhood. He’s daring, quick and shrewd.</l>
+        <l>You’re not safe</l>
+        <l>even under your roof.</l>
+        <l>Keep all the doors locked.</l>
+        <l>Keep all the windows closed.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>But has someone had any proof?</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Miss Manning has missed lots of money,</l>
+        <l>Miss Paxton has not seen her purse</l>
+        <l>since that morning you came for a visit.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>There is no more doubt</l>
+        <l>the robber must be here-about!</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>And since our church meeting</l>
+        <l>on Monday the Sunday collection is missing.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>We must ask the police for protection.</l>
+        <l>We must!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Isn’t the weather awful?</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Awful!</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Awful!</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>But by the way… How is your cousin?</l>
+        <l>Is he still so very, very ill?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>I’m afraid that he never will be very, very well.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>You never can tell!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>You never can tell.</l>
+      </sp>
+      <stage>(Bob’s bedroom, immediately afterBob is packing their things)BOBWhen the air sings of summer,I must wander again.Sweet landlord is the sky,rich house is the plain, and to live is to wanderthrough the sun and the rain.When the air sings of summer,I must wander again.First you wander in youth and joythen you’ll wander to still the fearsin an old heart.First you wander to find your love,then you’ll wander to hide your tears,for a wanderer must depart.When a man owns a househe’s a bird in a cage whose captivitypain is sweetened with age.Ah! The sharp joy of freedomis my loss and my gain.When the air sings of summer,I must wander again.</stage>
+      <stage>(Laetitia knocks at the door)</stage>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Come in.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>What are you packing for?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I’m going away.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Why? What is wrong?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I belong to the road; being shut in a house</l>
+        <l>all day long makes</l>
+        <l>me restless, nervous and weak.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Please, dear Bob, don’t go away!</l>
+        <l>If you stay another week</l>
+        <l>we’ll give you more money.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>This is not what I seek.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>We’re ready to give you whatever you want.</l>
+        <l>What more can we do?!</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>But what about my point of view?!</l>
+        <l>Here I have nothing to do from morning ‘till night.</l>
+        <l>I don’t read, I don’t write, I don’t work,</l>
+        <l>I don’t think… If at least I could have…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Yes?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Well… just something to drink.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>My dear! Do you mean liquor?!! Miss Todd.</l>
+      </sp>
+      <stage>(The Parlor, immediately afterwards)LAETITIAMiss Todd!</stage>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Don’t shout that way.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Bob threatens to go away</l>
+        <l>if we don’t buy him liquor.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Liquor! Has he no pity?!</l>
+        <l>I who direct the Prohibition Committee!</l>
+        <l>I who founded the “Anti-Booze”…</l>
+        <l>No, I must refuse. Has he no pity?!</l>
+        <l>Already I’ve stolen for him and now</l>
+        <l>he demands that I spoil my good standing</l>
+        <l>by publicly buying some liquor! I must refuse.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Shall we then lose our guest?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>It might be for the best.</l>
+        <l>This clearly shows that for me he has no use.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>His brazen request might be only an excuse</l>
+        <l>to put your love to the test.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Could it be true?!</l>
+        <l>Could love be so exacting?!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Now you know what to do.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>That I can’t possibly handle</l>
+        <l>without causing a scandal!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Shall we then lose our guest?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>What else can you suggest?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Is drinking a sin?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Yes.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Is stealing a sin?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Yes.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Then sinning against a sin</l>
+        <l>can be no sin.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Do you mean raid the liquor store?!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Yes.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>But how?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>We’ll break in through the window</l>
+        <l>of the front door.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>That sounds risky.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Are you afraid?!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Not a shade.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>If you want him to ask you to marry,</l>
+        <l>you must prove that you’re daring and smart</l>
+        <l>and know well how to practice his art.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>For his slightest wish I’ll give gladly my life.</l>
+        <l>I shall steal, I shall lie, I shall kill…</l>
+        <l>Wouldn’t I make him a wonderful wife?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>His art.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>His wife!</l>
+      </sp>
+      <stage>(In front of the Liquor Store, that same night)LAETITIALook to your left.</stage>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Look to your right.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Nobody in sight.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>The lock is tight!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Let me try it.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Push!</l>
+      </sp>
+      <stage>(The door opens)</stage>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Let us crawl in.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>How many kinds of bottles!</l>
+        <l>How many ways of committing the same sin!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>From this it’s plain that most</l>
+        <l>people’s stomachs have more imagination</l>
+        <l>than most people’s brains.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Virtue is mighty</l>
+        <l>but sin has variety.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>I heard a noise…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>That’s just part of the orchestration.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>It isn’t!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>It is!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Don’t raise your voice.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Let’s make our choice.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>There are some bottles of gin.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>You hold the basket, while I put them in.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Let me do it.</l>
+      </sp>
+      <stage>(a bottle falls to the ground)</stage>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Careful… You silly fool! What have you done?</l>
+      </sp>
+      <sp who="#storekeeper">
+        <speaker>STOREKEEPER:</speaker>
+        <l>(from upstairs)</l>
+        <l>Who’s there?!</l>
+      </sp>
+      <stage>STOREKEEPER(from upstairs)Who’s there?!</stage>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Somebody’s coming.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Hold on to your bottles and let us run!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>And let us run!</l>
+      </sp>
+      <stage>(Miss Todd’s Parlor, the next morning)</stage>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Miss Todd!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Miss Pinkerton, won’t you sit down?</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Have you heard? Have you read?</l>
+        <l>The whole town is in an uproar for last night</l>
+        <l>someone raided the liquor store.</l>
+        <l>The owner, roused out of bed,</l>
+        <l>had a bottle smashed on his head!</l>
+        <l>The town is frightfully alarmed</l>
+        <l>for the thief is at large and well armed.</l>
+        <l>Keep all the doors locked,</l>
+        <l>keep all the windows closed!</l>
+        <l>They believe it is the same thief</l>
+        <l>that has already caused such concern.</l>
+        <l>Keep all the doors locked!</l>
+        <l>Keep all the windows closed!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>We need measures more stern and protective!</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>They have hired a famous detective.</l>
+        <l>They will search every corner in town.</l>
+        <l>They will turn every house upside down.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>They won’t dare search my house!</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>They will search everyone and everywhere.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>They won’t dare!</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>A chambermaid came in my bedroom:</l>
+        <l>Get up, you lazy sinner!</l>
+        <l>I need your sheet to spread out on the table</l>
+        <l>for it’s almost time for dinner. La la la la…</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Isn’t the weather awful?!</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>But your cousin sounds rather merry.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Or, the contrary, he’s raving with fever.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>Is he still so very, very ill?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>I’m afraid that he never will be very, very well.</l>
+      </sp>
+      <sp who="#miss pinkerton">
+        <speaker>MISS PINKERTON:</speaker>
+        <l>You never can tell.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>You never can tell.</l>
+      </sp>
+      <stage>(Miss Pinkerton leaves)</stage>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Madam.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Did you hear what Miss Pinkerton said?!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>I didn’t miss a word.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>I’m afraid she begins</l>
+        <l>to suspect us.</l>
+        <l>The police… the detective!…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Heavens protect us!</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>What shall we do?</l>
+        <l>What shall we say?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>We’d better let him know, and run away.</l>
+      </sp>
+      <stage>(Bob’s Bedroom, immediately afterwards)</stage>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Knock at the door.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>No answer.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Knock again. Better go in.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Oh! Lying on the floor!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Bob!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Bob!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Get up!</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Get up!</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I can’t.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>A matter most important;</l>
+        <l>get up!</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I can’t!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Get up, otherwise you’re lost.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I dare not trust my legs.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>You must at any cost.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>My body is like a feather;</l>
+        <l>my head is full of lead…</l>
+        <l>How can I!?</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Please pull yourself together.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I’ll try!</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>You must at any cost.</l>
+        <l>Your life is in danger.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>What! In danger!</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Yes, it is.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>And why?</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Because of the police.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Police? What have I done?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Stop acting, my son.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Stop acting dumb.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>We know who you are and whence you come.</l>
+        <l>We knew it all along.</l>
+        <l>We’ll help you all we can.</l>
+        <l>Face it like a man.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Gosh that gin was strong!</l>
+        <l>Let’s discuss it later on.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>What’s the use?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>What is there to discuss?</l>
+        <l>We have no time to lose…</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>You must confide in us…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>… for we ourselves did steal…</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>… to make you feel at home, did steal.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Let me get this straight.</l>
+        <l>Did you say you stole?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Yes.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Yes.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Shame on you!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Well, after all, aren’t</l>
+        <l>you yourself a thief?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Who?</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>You.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Me?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Aren’t you the man who robbed and killed</l>
+        <l>and raped and finally escaped from the county jail</l>
+        <l>of Timberville about a week ago?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Heavens, no!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>You… you are sure</l>
+        <l>you’re not a thief?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I’m positive.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>For goodness sake!</l>
+        <l>Who are you then, if not a thief?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I’m a beggar and a dreamer</l>
+        <l>and a lost wind-tossed leaf.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>And whence you come, if not from jail?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>From the wandering of my trail.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>But still you have one thing to explain,</l>
+        <l>why did you take the money we left around for you?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Because you made it plain</l>
+        <l>I was expected to.</l>
+        <l>But why should I have qualms?</l>
+        <l>A beggar lives on alms.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>There is no more doubt, ‘twas a fatal mistake.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>And our lives</l>
+        <l>and our honour are at stake!</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>But what have you done?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>To get you some money we robbed almost everyone…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Miss Paxton</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Miss Channing</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Miss Jackson…</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Miss Manning</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>And raided a store.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>You raided a store?</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>We raided a store.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>(exalted and delirious)</l>
+        <l>But now don’t you worry;</l>
+        <l>I won’t let you down.</l>
+        <l>I’ll stand by to defend you.</l>
+      </sp>
+      <stage>MISS TODD(exalted and delirious)But now don’t you worry;I won’t let you down.I’ll stand by to defend you.</stage>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>She’s crazy!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Of course, we must act in a hurry</l>
+        <l>and instantly flee from this town.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>She’s crazy!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>(almost out of if)</l>
+        <l>We’ll run off together to France and lead</l>
+        <l>a new life of adventure and crime and romance.</l>
+      </sp>
+      <stage>MISS TODD(almost out of if)We’ll run off together to France and leada new life of adventure and crime and romance.</stage>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>She’s crazy!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>She’s crazy!</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>You’ll be my escort;</l>
+        <l>I your financial and moral support.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>But why should I run away?</l>
+        <l>I’ve done nothing, have I?</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>(outraged)</l>
+        <l>So!</l>
+        <l>Is your love for me so small</l>
+        <l>you won’t stand by?</l>
+      </sp>
+      <stage>MISS TODD(outraged)So!Is your love for me so smallyou won’t stand by?</stage>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Small?!</l>
+        <l>I don’t love you at all.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>(angry)</l>
+        <l>Ungrateful wretch!</l>
+        <l>After all that I have done for you,</l>
+        <l>you would see me in prison?</l>
+      </sp>
+      <stage>MISS TODD(angry)Ungrateful wretch!After all that I have done for you,you would see me in prison?</stage>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>As a mater of fact,</l>
+        <l>I don’t see any reason</l>
+        <l>to keep you out of it.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>(wrathful and vengeful)</l>
+        <l>I’ll make you feel sorry for this!</l>
+        <l>I shall call the police.</l>
+        <l>I shall accuse you of larceny, robbery and rape;</l>
+        <l>and who shall take heed of the tale you will tell?</l>
+        <l>You come from nowhere.</l>
+        <l>But who will dare to suspect me of misdeed?</l>
+        <l>My blood is the bluest of town,</l>
+        <l>I’m respected as much as the mayor,</l>
+        <l>I direct all the social affairs</l>
+        <l>and I’m constantly in touch with the city.</l>
+        <l>I’m the chairman of ev’ry committee for hospitals,</l>
+        <l>concerts and fairs.</l>
+        <l>So beware my dear boy, so beware!</l>
+        <l>For it would be a great pity</l>
+        <l>if I were to send you to prison</l>
+        <l>and see you condemned to the chair!</l>
+      </sp>
+      <stage>MISS TODD(wrathful and vengeful)I’ll make you feel sorry for this!I shall call the police.I shall accuse you of larceny, robbery and rape;and who shall take heed of the tale you will tell?You come from nowhere.But who will dare to suspect me of misdeed?My blood is the bluest of town,I’m respected as much as the mayor,I direct all the social affairsand I’m constantly in touch with the city.I’m the chairman of ev’ry committee for hospitals,concerts and fairs.So beware my dear boy, so beware!For it would be a great pityif I were to send you to prisonand see you condemned to the chair!</stage>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I’ve nothing to fear.</l>
+        <l>My conscience is clear.</l>
+        <l>I’ll tell them my tale; justice won’t fail.</l>
+      </sp>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Well, young man, you ask for your doom.</l>
+        <l>Laetitia, don’t let him out of this room!</l>
+        <l>I’ll go and get the police.</l>
+      </sp>
+      <stage>(Bob’s Bedroom, immediately afterwards)BOBA nice mess you’ve got me in!</stage>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>But I would like to help you,</l>
+        <l>Bob dear.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Get away! I’ve nothing to fear.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>But that’s where you’re wrong.</l>
+        <l>I can tell at a glance</l>
+        <l>you have not got a chance.</l>
+        <l>Ev’ry circumstance is against you.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>That’s the wrong point of view.</l>
+        <l>What matters is my innocence.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Miss Todd can wield such influence</l>
+        <l>no one shall dare take your defense.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Is there any justice?!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Justice,</l>
+        <l>like ev’ry other symbol,</l>
+        <l>has always been painted as stately,</l>
+        <l>but is very nimble.</l>
+        <l>Now winking at life,</l>
+        <l>now dancing with death,</l>
+        <l>she knows that her scales</l>
+        <l>can be tipped by her breath.</l>
+        <l>And it would be a great pity for one who’s</l>
+        <l>so young to be electrocuted or hung.</l>
+        <l>You might well say farewell</l>
+        <l>to sweet freedom,</l>
+        <l>to be shut in a cell in Sing-Sing</l>
+        <l>and just now that ‘tis spring.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Running away is acknowledging guilt.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>What d’you care, as long as you’re free?</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Shall my conscience fail to prevail?</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>You’re not built to wilt in jail.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>My two legs won’t take me far.</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Miss Todd has a car…</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Do you suggest that I run off with her?!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>No! I suggest that you run off with me.</l>
+        <l>I know where she keeps the key.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I’ll never have peace!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Any minute</l>
+        <l>may bring the police…</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>I don’t know of whom to be afraid…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>I can see your decision is made!</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>The devil couldn’t do what a woman can:</l>
+        <l>make a thief of an honest man.</l>
+        <l>Yes! Let’s go!</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Let’s go!</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>But as long as I’m taking the blame</l>
+        <l>I’ll live up to my fame</l>
+        <l>and steal everything she possesses.</l>
+        <l>You look there for her linen and her fur coat</l>
+        <l>and her dresses…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>You look there for her money,</l>
+        <l>rings and necklace…</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Don’t forget to take the silver</l>
+        <l>that is on the mantel piece…</l>
+      </sp>
+      <sp who="#laetitia">
+        <speaker>LAETITIA:</speaker>
+        <l>Don’t forget the traveling clock,</l>
+        <l>the bedroom candlestick.</l>
+      </sp>
+      <sp who="#bob">
+        <speaker>BOB:</speaker>
+        <l>Any minute</l>
+        <l>may bring the police.</l>
+      </sp>
+      <sp who="#together">
+        <speaker>TOGETHER:</speaker>
+        <l>Quick!</l>
+      </sp>
+      <stage>(Miss Todd’s Parlor)</stage>
+      <sp who="#miss todd">
+        <speaker>MISS TODD:</speaker>
+        <l>Laetitia!</l>
+        <l>Where are you? Hey Laetitia!</l>
+        <l>It’s I, Miss Todd!</l>
+        <l>She’s getting hard of hearing.</l>
+        <l>Laetitia!</l>
+        <l>How strangely silent the house…</l>
+        <l>Laetitia!</l>
+        <l>How odd! Her room is empty!</l>
+        <l>Laetitia!</l>
+        <l>Bob! I was just joking…</l>
+        <l>You’ve nothing to fear.</l>
+        <l>Laetitia! Bob!</l>
+        <l>What!?! My safe has been looted!</l>
+        <l>My money is gone!</l>
+        <l>Robbers! Monsters! Scoundrels! Traitors!</l>
+        <l>They have run off together!</l>
+        <l>They have ransacked and plundered my house!</l>
+        <l>They have even stolen my car! Help!</l>
+        <l>Thieves! They have stolen my silver!</l>
+        <l>They have stolen my clothes!</l>
+        <l>Whippersnappers! Devils! Ruffians!</l>
+        <l>Blackguards! Beasts! Brutes! Villains!</l>
+        <l>Wretches! Snakes! Swine!</l>
+        <l>Help!</l>
+      </sp>
+    </body>
+  </text>
+</TEI>

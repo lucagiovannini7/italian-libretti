@@ -1,0 +1,2364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">olombo</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="spagnoli e indiani">
+            <persName>SPAGNOLI E INDIANI:</persName>
+          </person>
+          <person xml:id="zamoro e jarico">
+            <persName>ZAMORO E JARICO:</persName>
+          </person>
+          <person xml:id="zilia, zamoro, jarico e coro di indiani">
+            <persName>ZILIA, ZAMORO, JARICO E CORO DI INDIANI:</persName>
+          </person>
+          <person xml:id="indiane">
+            <persName>INDIANE:</persName>
+          </person>
+          <person xml:id="colombo, fernando e castigliani">
+            <persName>COLOMBO, FERNANDO E CASTIGLIANI:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="jarico, zamoro e indiani">
+            <persName>JARICO, ZAMORO E INDIANI:</persName>
+          </person>
+          <person xml:id="colombo e fernando">
+            <persName>COLOMBO E FERNANDO:</persName>
+          </person>
+          <person xml:id="tutti gli indiani">
+            <persName>TUTTI GLI INDIANI:</persName>
+          </person>
+          <person xml:id="zilia e fernando">
+            <persName>ZILIA E FERNANDO:</persName>
+          </person>
+          <person xml:id="indiani e zilia">
+            <persName>INDIANI E ZILIA:</persName>
+          </person>
+          <person xml:id="zamoro e indiani">
+            <persName>ZAMORO E INDIANI:</persName>
+          </person>
+          <person xml:id="fiesco">
+            <persName>FIESCO:</persName>
+          </person>
+          <person xml:id="fernando, diego, colombo e coro di spagnoli">
+            <persName>FERNANDO, DIEGO, COLOMBO E CORO DI SPAGNOLI:</persName>
+          </person>
+          <person xml:id="castigliani">
+            <persName>CASTIGLIANI:</persName>
+          </person>
+          <person xml:id="colombo">
+            <persName>COLOMBO:</persName>
+          </person>
+          <person xml:id="indiani">
+            <persName>INDIANI:</persName>
+          </person>
+          <person xml:id="fernando">
+            <persName>FERNANDO:</persName>
+          </person>
+          <person xml:id="zilia e castigliani">
+            <persName>ZILIA E CASTIGLIANI:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="colombo e zamoro">
+            <persName>COLOMBO E ZAMORO:</persName>
+          </person>
+          <person xml:id="zamoro">
+            <persName>ZAMORO:</persName>
+          </person>
+          <person xml:id="uomini">
+            <persName>UOMINI:</persName>
+          </person>
+          <person xml:id="zilia">
+            <persName>ZILIA:</persName>
+          </person>
+          <person xml:id="jarico">
+            <persName>JARICO:</persName>
+          </person>
+          <person xml:id="donne">
+            <persName>DONNE:</persName>
+          </person>
+          <person xml:id="diego">
+            <persName>DIEGO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>COLOMBO</castItem>
+        <castItem>FERNANDO</castItem>
+        <castItem>ZILIA</castItem>
+        <castItem>JARICO</castItem>
+        <castItem>ZAMORO</castItem>
+        <castItem>DIEGO</castItem>
+        <castItem>FIESCO</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>La scena è presso il mare nel campo castigliano, e in Maima tribù selvaggia della Giamaica. L’epopea è l’ultimo viaggio di Colombo.</stage>
+      <div type="act">
+        <head>Proemio dell’autore</head>Trattandosi di un melodramma, genere di poema, non so se a torto o a ragione, tenuto in niun conto dagli Italiani, inutile potrà sembrare, o per lo meno orgoglioso qualunque proemio; ma trattandosi di argomento gravissimo, da rappresentarsi in solenne occasione, e al quale son rivolti gli sguardi della mia patria, mi siano permesse brevi parole, che manifestino l’intendimento con cui ho proceduto nel mio lavoro, e le difficoltà che ho dovuto combattere. La prima e la maggiore di tutte fu quella di presentare l’eroe nell’aspetto più degno di lui, nella situazione più gloriosa, e nel tempo istesso più nota agli spettatori. Tal’era la prima scoperta del nuovo mondo, poiché a questa ricorre tosto ogni mente; ed io avrei dovuto scegliere il primo viaggio di Colombo, i pericoli da lui corsi in mari intentati, e il di lui trionfo al primo por piede nella vergine America. Ma soggetto gli è questo, che quanto conviene al poema che racconta, altrettanto sconviene al poema che rappresenta. L’autore drammatico ha d’uopo d’un nodo che ravvicini tutti i personaggi, e di un’azione in cui campeggi l’amore, passione più d’ogni altra prediletta dalla musica. E il mio primo atto sarebbe passato in mare, il secondo a s. Salvatore, divisi sarebbero stati i personaggi, e due per così dire le azioni. Doveva io forse rappresentare l’eroe di ritorno in Castiglia, onorato dai sovrani, cui fa dono d’un mondo? Tutta l’azione si sarebbe ridotta in una splendida scena, il rimanente sarebbe stato languido, freddo e senza passione. Doveva io scegliere il momento in cui l’invidia e l’ingratitudine trionfano del merito e della fede, e il premio di Colombo sono oltraggi e catene? Troppo nera sarebbe stata la tela che avrei tessuta, e troppo odiosi personaggi avrei dovuto porre in iscena. Oltre di ciò mi si parava d’innanzi l’istessa difficoltà di luogo, di tempo, d’interesse musicale. Queste cose fra me rivolgendo, miglior consiglio mi parve di attenermi all’ultimo viaggio dell’illustre genovese, quando egli gittato dalle tempeste nell’isola di Giamaica, obliato dall’universo, minacciato da feroci popoli, e insidiato da’ suoi stessi seguaci, lotta coraggioso co’ la sua mala fortuna, e maggiore di Filottete, che deserto in Lenno impreca la vendetta degli dèi sui colpevoli Greci, soffre invece senza mormorare l’abbandono de’ castigliani, disarma i selvaggi co’ la sua virtù, co’ la costanza tiene in freno i rivoltosi, e soccorso da Fiesco, da lui spedito a Cuba, trionfa d’ogni ostacolo, e scioglie le vele pieno della speranza di afferrare le spiagge del gran continente. Un anno di soggiorno nell’isola di Giamaica rende probabile l’intelligenza del linguaggio degli Indiani, non che l’amore di Fernando per la figlia di un cacico; amore episodico, ma talmente innestato coll’azione principale, che senza di esso l’azione non avrebbe luogo; amore che aumenta i pericoli di Colombo, e viemaggiormente lo dimostra magnanimo: imperocché non è solo l’eroe che si trova in cimento, ma il padre ancora che trema per la vita del figlio, di quel figlio, che deve tramandare ai posteri la storia delle paterne scoperte. (*)Io fingo, che presso il cacico di Maima, nelle cui terre è naufragato Colombo, siasi ricoverato Zamoro, un de’ cacichi d’Aiti, il quale venga a raccontare a que’ di Giamaica le crudeltà esercitate dagli europei nella natale sua terra, e che col racconto di tanti infortuni tragga gli ospiti suoi a congiurare contro Colombo per trucidarlo con tutti i castigliani. Jarico, tale è il nome del cacico di Maima, sbigottito dal comune pericolo, stringe alleanza con Zamoro, e per farla più salda, gli concede la propria figlia in isposa. Ma Zilia, così chiamasi la giovane indiana, è invaghita di Fernando, figliuol di Colombo; né può soffrire altro sposo, né reggere all’idea che a tradimento sia trucidato il suo amante. Quantunque le leggi di Maima condannino a crudel morte chiunque sveli il segreto della patria, essa il palesa. I castigliani, non più colti all’improvviso, combattono e vincono i selvaggi; ma Fernando rimane prigioniero. Ei deve morire, se Zilia, rimasta nel campo castigliano, non è renduta al padre per essere immolata ai traditi dèi di Maima. Il generoso Colombo ricusa di comprar la vita del figlio con quella della salvatrice di tutte le sue genti; ma Zilia egualmente generosa, fugge da Colombo, e spontanea si presenta alla vendetta della patria. Ella morrebbe, se l’eroe non venisse a salvarla, spaventando i selvaggi con un eclissi di luna da lui preveduto, eclissi che come abbiam dall’istoria, serve ai castigliani per ottenere alimenti dai minacciosi indiani, e ch’io faccio servire a più nobile e più commovente circostanza. I selvaggi sono attoniti, e vinti dall’ascendente dell’eroe: giunge Fiesco a compiere le meraviglie di quella notte solenne: Colombo trionfa: e preso possesso dell’isola, pianta quivi la croce, e i redenti popoli intorno ad essa raccoglie. Tale è l’orditura del mio melodramma; e in essa, se mal non mi appongo, l’invenzione non nuoce alla storia, né la storia alla invenzione; e quel che più preme in siffatti componimenti, se tutto non giova alla ragione poetica, giova almeno alla ragion musicale.Quanto ai caratteri storici: per non parlar di Fernando, giovinetto appena uscito dall’adolescenza, ardente come il vuole l’età sua, e generoso qual dev’essere il figlio di un eroe: il personaggio principale, il sommo almirante di Castiglia, Colombo è da me rappresentato qual era; umano, costante, religioso: vir fortis cum mala fortuna compositus. Tanto nel sedare la rivolta dei castigliani, quanto nel disarmare i selvaggi, io gli diedi, per così esprimermi, un tal quale aspetto d’ispirato: e in ciò fui coerente alle tradizioni, e all’esaltate idee di que’ tempi. Egli avea detto ai castigliani: Se in tre giorni non appare la promessa terra, noi desisteremo dall’impresa: e in tre giorni la promessa terra comparve. Se Ovando scioglie da Cuba, è minacciato da terribil tempesta: e Ovando spiega le vele, ed è sepolto nel mare. Quanto ei fa, quanto ei dice tutto è attestato dagli storici; e se il principale suo scopo sembra esser quello di recare la vera fede nell’Indie, questo pure è giustificato dalle lettere ch’egli stesso scriveva ai sovrani di Castiglia.Quanto ai caratteri d’invenzione, io gli ho ideati come volea la ragione del mio poema. Tranne Zilia, purificata, per così dire, dall’amore, i selvaggi son quali esser devono: feroci, e senza alcun freno fuorché quello della propria superstizione. Nulladimeno io diedi loro un certo qual senso d’onore, e vivissima la carità della patria; affetti ch’io credo ingeniti nel cuore dell’uomo. Degli usi e dei riti loro, ne giudichi il lettore. Privi, come noi siamo, di monumenti e di tradizioni intorno ai costumi ed ai culti delle prime terre scoperte dagli spagnoli, era a me lecito immaginarli come conveniva all’azione: tuttavia poco o nulla si scostano da quelli che trovati furono in regioni visitate più tardi.Dovrei parlar dello stile. Ma chi non conosce i ceppi dei poeti melodrammatici? Dirò soltanto che ho conservate alcune tinte locali meglio che per me si è potuto in un componimento, ove il dialogo è soverchiamente conciso, ove non tutte le frasi sono accettate dalla musica. Qualche libertà mi rimaneva nei cori, ed io ne ho profittato.Con questo mio lavoro io non oso sperare di aver corrisposto all’aspettativa de’ miei concittadini: tuttavolta andrò sempre superbo che mi abbian tenuto da tanto gl’illustri personaggi che a me lo commisero. Se indegno del più grande fra i Genovesi è il serto ch’io gli ho tessuto con un melodramma, è forse più colpa del genere, che mia. Allo scopritor dell’America vuolsi un’epopea. Avvi chi l’ha meditata, ma fortuna gl’impedisce di compierla.</div>
+      <div type="act">
+        <head>Proemio dell’autore</head>Trattandosi di un melodramma, genere di poema, non so se a torto o a ragione, tenuto in niun conto dagli Italiani, inutile potrà sembrare, o per lo meno orgoglioso qualunque proemio; ma trattandosi di argomento gravissimo, da rappresentarsi in solenne occasione, e al quale son rivolti gli sguardi della mia patria, mi siano permesse brevi parole, che manifestino l’intendimento con cui ho proceduto nel mio lavoro, e le difficoltà che ho dovuto combattere. La prima e la maggiore di tutte fu quella di presentare l’eroe nell’aspetto più degno di lui, nella situazione più gloriosa, e nel tempo istesso più nota agli spettatori. Tal’era la prima scoperta del nuovo mondo, poiché a questa ricorre tosto ogni mente; ed io avrei dovuto scegliere il primo viaggio di Colombo, i pericoli da lui corsi in mari intentati, e il di lui trionfo al primo por piede nella vergine America. Ma soggetto gli è questo, che quanto conviene al poema che racconta, altrettanto sconviene al poema che rappresenta. L’autore drammatico ha d’uopo d’un nodo che ravvicini tutti i personaggi, e di un’azione in cui campeggi l’amore, passione più d’ogni altra prediletta dalla musica. E il mio primo atto sarebbe passato in mare, il secondo a s. Salvatore, divisi sarebbero stati i personaggi, e due per così dire le azioni. Doveva io forse rappresentare l’eroe di ritorno in Castiglia, onorato dai sovrani, cui fa dono d’un mondo? Tutta l’azione si sarebbe ridotta in una splendida scena, il rimanente sarebbe stato languido, freddo e senza passione. Doveva io scegliere il momento in cui l’invidia e l’ingratitudine trionfano del merito e della fede, e il premio di Colombo sono oltraggi e catene? Troppo nera sarebbe stata la tela che avrei tessuta, e troppo odiosi personaggi avrei dovuto porre in iscena. Oltre di ciò mi si parava d’innanzi l’istessa difficoltà di luogo, di tempo, d’interesse musicale. Queste cose fra me rivolgendo, miglior consiglio mi parve di attenermi all’ultimo viaggio dell’illustre genovese, quando egli gittato dalle tempeste nell’isola di Giamaica, obliato dall’universo, minacciato da feroci popoli, e insidiato da’ suoi stessi seguaci, lotta coraggioso co’ la sua mala fortuna, e maggiore di Filottete, che deserto in Lenno impreca la vendetta degli dèi sui colpevoli Greci, soffre invece senza mormorare l’abbandono de’ castigliani, disarma i selvaggi co’ la sua virtù, co’ la costanza tiene in freno i rivoltosi, e soccorso da Fiesco, da lui spedito a Cuba, trionfa d’ogni ostacolo, e scioglie le vele pieno della speranza di afferrare le spiagge del gran continente. Un anno di soggiorno nell’isola di Giamaica rende probabile l’intelligenza del linguaggio degli Indiani, non che l’amore di Fernando per la figlia di un cacico; amore episodico, ma talmente innestato coll’azione principale, che senza di esso l’azione non avrebbe luogo; amore che aumenta i pericoli di Colombo, e viemaggiormente lo dimostra magnanimo: imperocché non è solo l’eroe che si trova in cimento, ma il padre ancora che trema per la vita del figlio, di quel figlio, che deve tramandare ai posteri la storia delle paterne scoperte. (*)Io fingo, che presso il cacico di Maima, nelle cui terre è naufragato Colombo, siasi ricoverato Zamoro, un de’ cacichi d’Aiti, il quale venga a raccontare a que’ di Giamaica le crudeltà esercitate dagli europei nella natale sua terra, e che col racconto di tanti infortuni tragga gli ospiti suoi a congiurare contro Colombo per trucidarlo con tutti i castigliani. Jarico, tale è il nome del cacico di Maima, sbigottito dal comune pericolo, stringe alleanza con Zamoro, e per farla più salda, gli concede la propria figlia in isposa. Ma Zilia, così chiamasi la giovane indiana, è invaghita di Fernando, figliuol di Colombo; né può soffrire altro sposo, né reggere all’idea che a tradimento sia trucidato il suo amante. Quantunque le leggi di Maima condannino a crudel morte chiunque sveli il segreto della patria, essa il palesa. I castigliani, non più colti all’improvviso, combattono e vincono i selvaggi; ma Fernando rimane prigioniero. Ei deve morire, se Zilia, rimasta nel campo castigliano, non è renduta al padre per essere immolata ai traditi dèi di Maima. Il generoso Colombo ricusa di comprar la vita del figlio con quella della salvatrice di tutte le sue genti; ma Zilia egualmente generosa, fugge da Colombo, e spontanea si presenta alla vendetta della patria. Ella morrebbe, se l’eroe non venisse a salvarla, spaventando i selvaggi con un eclissi di luna da lui preveduto, eclissi che come abbiam dall’istoria, serve ai castigliani per ottenere alimenti dai minacciosi indiani, e ch’io faccio servire a più nobile e più commovente circostanza. I selvaggi sono attoniti, e vinti dall’ascendente dell’eroe: giunge Fiesco a compiere le meraviglie di quella notte solenne: Colombo trionfa: e preso possesso dell’isola, pianta quivi la croce, e i redenti popoli intorno ad essa raccoglie. Tale è l’orditura del mio melodramma; e in essa, se mal non mi appongo, l’invenzione non nuoce alla storia, né la storia alla invenzione; e quel che più preme in siffatti componimenti, se tutto non giova alla ragione poetica, giova almeno alla ragion musicale.Quanto ai caratteri storici: per non parlar di Fernando, giovinetto appena uscito dall’adolescenza, ardente come il vuole l’età sua, e generoso qual dev’essere il figlio di un eroe: il personaggio principale, il sommo almirante di Castiglia, Colombo è da me rappresentato qual era; umano, costante, religioso: vir fortis cum mala fortuna compositus. Tanto nel sedare la rivolta dei castigliani, quanto nel disarmare i selvaggi, io gli diedi, per così esprimermi, un tal quale aspetto d’ispirato: e in ciò fui coerente alle tradizioni, e all’esaltate idee di que’ tempi. Egli avea detto ai castigliani: Se in tre giorni non appare la promessa terra, noi desisteremo dall’impresa: e in tre giorni la promessa terra comparve. Se Ovando scioglie da Cuba, è minacciato da terribil tempesta: e Ovando spiega le vele, ed è sepolto nel mare. Quanto ei fa, quanto ei dice tutto è attestato dagli storici; e se il principale suo scopo sembra esser quello di recare la vera fede nell’Indie, questo pure è giustificato dalle lettere ch’egli stesso scriveva ai sovrani di Castiglia.Quanto ai caratteri d’invenzione, io gli ho ideati come volea la ragione del mio poema. Tranne Zilia, purificata, per così dire, dall’amore, i selvaggi son quali esser devono: feroci, e senza alcun freno fuorché quello della propria superstizione. Nulladimeno io diedi loro un certo qual senso d’onore, e vivissima la carità della patria; affetti ch’io credo ingeniti nel cuore dell’uomo. Degli usi e dei riti loro, ne giudichi il lettore. Privi, come noi siamo, di monumenti e di tradizioni intorno ai costumi ed ai culti delle prime terre scoperte dagli spagnoli, era a me lecito immaginarli come conveniva all’azione: tuttavia poco o nulla si scostano da quelli che trovati furono in regioni visitate più tardi.Dovrei parlar dello stile. Ma chi non conosce i ceppi dei poeti melodrammatici? Dirò soltanto che ho conservate alcune tinte locali meglio che per me si è potuto in un componimento, ove il dialogo è soverchiamente conciso, ove non tutte le frasi sono accettate dalla musica. Qualche libertà mi rimaneva nei cori, ed io ne ho profittato.Con questo mio lavoro io non oso sperare di aver corrisposto all’aspettativa de’ miei concittadini: tuttavolta andrò sempre superbo che mi abbian tenuto da tanto gl’illustri personaggi che a me lo commisero. Se indegno del più grande fra i Genovesi è il serto ch’io gli ho tessuto con un melodramma, è forse più colpa del genere, che mia. Allo scopritor dell’America vuolsi un’epopea. Avvi chi l’ha meditata, ma fortuna gl’impedisce di compierla.<div type="scene">
+          <head>Proemio dell’autore</head>Trattandosi di un melodramma, genere di poema, non so se a torto o a ragione, tenuto in niun conto dagli Italiani, inutile potrà sembrare, o per lo meno orgoglioso qualunque proemio; ma trattandosi di argomento gravissimo, da rappresentarsi in solenne occasione, e al quale son rivolti gli sguardi della mia patria, mi siano permesse brevi parole, che manifestino l’intendimento con cui ho proceduto nel mio lavoro, e le difficoltà che ho dovuto combattere. La prima e la maggiore di tutte fu quella di presentare l’eroe nell’aspetto più degno di lui, nella situazione più gloriosa, e nel tempo istesso più nota agli spettatori. Tal’era la prima scoperta del nuovo mondo, poiché a questa ricorre tosto ogni mente; ed io avrei dovuto scegliere il primo viaggio di Colombo, i pericoli da lui corsi in mari intentati, e il di lui trionfo al primo por piede nella vergine America. Ma soggetto gli è questo, che quanto conviene al poema che racconta, altrettanto sconviene al poema che rappresenta. L’autore drammatico ha d’uopo d’un nodo che ravvicini tutti i personaggi, e di un’azione in cui campeggi l’amore, passione più d’ogni altra prediletta dalla musica. E il mio primo atto sarebbe passato in mare, il secondo a s. Salvatore, divisi sarebbero stati i personaggi, e due per così dire le azioni. Doveva io forse rappresentare l’eroe di ritorno in Castiglia, onorato dai sovrani, cui fa dono d’un mondo? Tutta l’azione si sarebbe ridotta in una splendida scena, il rimanente sarebbe stato languido, freddo e senza passione. Doveva io scegliere il momento in cui l’invidia e l’ingratitudine trionfano del merito e della fede, e il premio di Colombo sono oltraggi e catene? Troppo nera sarebbe stata la tela che avrei tessuta, e troppo odiosi personaggi avrei dovuto porre in iscena. Oltre di ciò mi si parava d’innanzi l’istessa difficoltà di luogo, di tempo, d’interesse musicale. Queste cose fra me rivolgendo, miglior consiglio mi parve di attenermi all’ultimo viaggio dell’illustre genovese, quando egli gittato dalle tempeste nell’isola di Giamaica, obliato dall’universo, minacciato da feroci popoli, e insidiato da’ suoi stessi seguaci, lotta coraggioso co’ la sua mala fortuna, e maggiore di Filottete, che deserto in Lenno impreca la vendetta degli dèi sui colpevoli Greci, soffre invece senza mormorare l’abbandono de’ castigliani, disarma i selvaggi co’ la sua virtù, co’ la costanza tiene in freno i rivoltosi, e soccorso da Fiesco, da lui spedito a Cuba, trionfa d’ogni ostacolo, e scioglie le vele pieno della speranza di afferrare le spiagge del gran continente. Un anno di soggiorno nell’isola di Giamaica rende probabile l’intelligenza del linguaggio degli Indiani, non che l’amore di Fernando per la figlia di un cacico; amore episodico, ma talmente innestato coll’azione principale, che senza di esso l’azione non avrebbe luogo; amore che aumenta i pericoli di Colombo, e viemaggiormente lo dimostra magnanimo: imperocché non è solo l’eroe che si trova in cimento, ma il padre ancora che trema per la vita del figlio, di quel figlio, che deve tramandare ai posteri la storia delle paterne scoperte. (*)Io fingo, che presso il cacico di Maima, nelle cui terre è naufragato Colombo, siasi ricoverato Zamoro, un de’ cacichi d’Aiti, il quale venga a raccontare a que’ di Giamaica le crudeltà esercitate dagli europei nella natale sua terra, e che col racconto di tanti infortuni tragga gli ospiti suoi a congiurare contro Colombo per trucidarlo con tutti i castigliani. Jarico, tale è il nome del cacico di Maima, sbigottito dal comune pericolo, stringe alleanza con Zamoro, e per farla più salda, gli concede la propria figlia in isposa. Ma Zilia, così chiamasi la giovane indiana, è invaghita di Fernando, figliuol di Colombo; né può soffrire altro sposo, né reggere all’idea che a tradimento sia trucidato il suo amante. Quantunque le leggi di Maima condannino a crudel morte chiunque sveli il segreto della patria, essa il palesa. I castigliani, non più colti all’improvviso, combattono e vincono i selvaggi; ma Fernando rimane prigioniero. Ei deve morire, se Zilia, rimasta nel campo castigliano, non è renduta al padre per essere immolata ai traditi dèi di Maima. Il generoso Colombo ricusa di comprar la vita del figlio con quella della salvatrice di tutte le sue genti; ma Zilia egualmente generosa, fugge da Colombo, e spontanea si presenta alla vendetta della patria. Ella morrebbe, se l’eroe non venisse a salvarla, spaventando i selvaggi con un eclissi di luna da lui preveduto, eclissi che come abbiam dall’istoria, serve ai castigliani per ottenere alimenti dai minacciosi indiani, e ch’io faccio servire a più nobile e più commovente circostanza. I selvaggi sono attoniti, e vinti dall’ascendente dell’eroe: giunge Fiesco a compiere le meraviglie di quella notte solenne: Colombo trionfa: e preso possesso dell’isola, pianta quivi la croce, e i redenti popoli intorno ad essa raccoglie. Tale è l’orditura del mio melodramma; e in essa, se mal non mi appongo, l’invenzione non nuoce alla storia, né la storia alla invenzione; e quel che più preme in siffatti componimenti, se tutto non giova alla ragione poetica, giova almeno alla ragion musicale.Quanto ai caratteri storici: per non parlar di Fernando, giovinetto appena uscito dall’adolescenza, ardente come il vuole l’età sua, e generoso qual dev’essere il figlio di un eroe: il personaggio principale, il sommo almirante di Castiglia, Colombo è da me rappresentato qual era; umano, costante, religioso: vir fortis cum mala fortuna compositus. Tanto nel sedare la rivolta dei castigliani, quanto nel disarmare i selvaggi, io gli diedi, per così esprimermi, un tal quale aspetto d’ispirato: e in ciò fui coerente alle tradizioni, e all’esaltate idee di que’ tempi. Egli avea detto ai castigliani: Se in tre giorni non appare la promessa terra, noi desisteremo dall’impresa: e in tre giorni la promessa terra comparve. Se Ovando scioglie da Cuba, è minacciato da terribil tempesta: e Ovando spiega le vele, ed è sepolto nel mare. Quanto ei fa, quanto ei dice tutto è attestato dagli storici; e se il principale suo scopo sembra esser quello di recare la vera fede nell’Indie, questo pure è giustificato dalle lettere ch’egli stesso scriveva ai sovrani di Castiglia.Quanto ai caratteri d’invenzione, io gli ho ideati come volea la ragione del mio poema. Tranne Zilia, purificata, per così dire, dall’amore, i selvaggi son quali esser devono: feroci, e senza alcun freno fuorché quello della propria superstizione. Nulladimeno io diedi loro un certo qual senso d’onore, e vivissima la carità della patria; affetti ch’io credo ingeniti nel cuore dell’uomo. Degli usi e dei riti loro, ne giudichi il lettore. Privi, come noi siamo, di monumenti e di tradizioni intorno ai costumi ed ai culti delle prime terre scoperte dagli spagnoli, era a me lecito immaginarli come conveniva all’azione: tuttavia poco o nulla si scostano da quelli che trovati furono in regioni visitate più tardi.Dovrei parlar dello stile. Ma chi non conosce i ceppi dei poeti melodrammatici? Dirò soltanto che ho conservate alcune tinte locali meglio che per me si è potuto in un componimento, ove il dialogo è soverchiamente conciso, ove non tutte le frasi sono accettate dalla musica. Qualche libertà mi rimaneva nei cori, ed io ne ho profittato.Con questo mio lavoro io non oso sperare di aver corrisposto all’aspettativa de’ miei concittadini: tuttavolta andrò sempre superbo che mi abbian tenuto da tanto gl’illustri personaggi che a me lo commisero. Se indegno del più grande fra i Genovesi è il serto ch’io gli ho tessuto con un melodramma, è forse più colpa del genere, che mia. Allo scopritor dell’America vuolsi un’epopea. Avvi chi l’ha meditata, ma fortuna gl’impedisce di compierla.<sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Oh! immensa, e ricca terra</l>
+            <l>ch’io visitai primiero! Oh! continente</l>
+            <l>intentato finor, ov’io qui pera,</l>
+            <l>di più scaltro nocchier sarai tu gloria?…</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Giammai, giammai… non mentirà l’istoria.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Testimon di mie sventure,</l>
+            <l>in Europa il ciel ti guidi;</l>
+            <l>la tua voce al mondo gridi</l>
+            <l>che maggiore e sol per me.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Renderan l’età future</l>
+            <l>la giustizia a te negata:</l>
+            <l>macchia ognor di cieca e ingrata</l>
+            <l>questa etade avrà per te.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Io lo spero: il tempo è giusto</l>
+            <l>correttor de’ torti umani.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Domator del fato ingiusto</l>
+            <l>fia ch’ei rechi i legni Ispani,</l>
+            <l>e alle rive a te contese</l>
+            <l>ti conduca vincitor.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Sì, Colombo a nuove imprese</l>
+            <l>coraggioso innalza il cor.</l>
+            <l>a 2</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Giovin mondo a lui svelato</l>
+            <l>per sentier non corsi mai,</l>
+            <l>tu primier vendicherai</l>
+            <l>chi dai flutti uscir ti fe’.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>COLOMBO</head>E tu terra ov’io son nato,se di un mondo non godrai,gloriosa almen saraiche un tuo figlio altrui lo diè.a 2Ah! dovea più giusto il fato,nobil terra, un mondo a te.Atto primoScena primaRecinto presso le abitazioni dei Selvaggi di Maima. In fondo boschi, e colline. In mezzo della scena è in piedi Zamoro circondato da un drappello di Guerrieri aitiani. Da un lato Jarico seduto sopra un sasso. Qua e là, da ambe le parti, sono sparsi a gruppi i Selvaggi di Maima in atto di deliberare sovra cose udite.<div type="scene">
+          <head>COLOMBO</head>E tu terra ov’io son nato,se di un mondo non godrai,gloriosa almen saraiche un tuo figlio altrui lo diè.a 2Ah! dovea più giusto il fato,nobil terra, un mondo a te.Atto primoScena primaRecinto presso le abitazioni dei Selvaggi di Maima. In fondo boschi, e colline. In mezzo della scena è in piedi Zamoro circondato da un drappello di Guerrieri aitiani. Da un lato Jarico seduto sopra un sasso. Qua e là, da ambe le parti, sono sparsi a gruppi i Selvaggi di Maima in atto di deliberare sovra cose udite.<sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>E tu terra ov’io son nato,</l>
+            <l>se di un mondo non godrai,</l>
+            <l>gloriosa almen sarai</l>
+            <l>che un tuo figlio altrui lo diè.</l>
+            <l>a 2</l>
+            <l>Ah! dovea più giusto il fato,</l>
+            <l>nobil terra, un mondo a te.</l>
+            <l>Atto primo</l>
+            <l>Scena prima</l>
+            <l>Recinto presso le abitazioni dei Selvaggi di Maima. In fondo boschi, e colline. In mezzo della scena è in piedi Zamoro circondato da un drappello di Guerrieri aitiani. Da un lato Jarico seduto sopra un sasso. Qua e là, da ambe le parti, sono sparsi a gruppi i Selvaggi di Maima in atto di deliberare sovra cose udite.</l>
+          </sp>
+          <stage>COLOMBOE tu terra ov’io son nato,se di un mondo non godrai,gloriosa almen saraiche un tuo figlio altrui lo diè.a 2Ah! dovea più giusto il fato,nobil terra, un mondo a te.Atto primoScena primaRecinto presso le abitazioni dei Selvaggi di Maima. In fondo boschi, e colline. In mezzo della scena è in piedi Zamoro circondato da un drappello di Guerrieri aitiani. Da un lato Jarico seduto sopra un sasso. Qua e là, da ambe le parti, sono sparsi a gruppi i Selvaggi di Maima in atto di deliberare sovra cose udite.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Oh! qual narrasti orribile</l>
+            <l>scena di sangue e lutto!</l>
+            <l>Spersi di Cuba i popoli,</l>
+            <l>d’Aiti il suol distrutto,</l>
+            <l>strage dovunque il turbine</l>
+            <l>degli europei passò.</l>
+            <l>E noi felici e liberi</l>
+            <l>di vergin terra figli,</l>
+            <l>cadrem noi pur de’ barbari</l>
+            <l>sotto i feroci artigli?</l>
+            <l>Ricuserem combattere?</l>
+            <l>Morrem da vili?… Ah no.</l>
+            <l>(tutti si affollano intorno a Jarico)</l>
+            <l>Salda alleanza stringasi</l>
+            <l>con lo stranier cacico;</l>
+            <l>piombiam segreti, e taciti</l>
+            <l>sovra il crudel nemico:</l>
+            <l>egro, spossato, e naufrago</l>
+            <l>a noi fuggir non può.</l>
+          </sp>
+          <stage>COROOh! qual narrasti orribilescena di sangue e lutto!Spersi di Cuba i popoli,d’Aiti il suol distrutto,strage dovunque il turbinedegli europei passò.E noi felici e liberidi vergin terra figli,cadrem noi pur de’ barbarisotto i feroci artigli?Ricuserem combattere?Morrem da vili?… Ah no.(tutti si affollano intorno a Jarico)Salda alleanza stringasicon lo stranier cacico;piombiam segreti, e tacitisovra il crudel nemico:egro, spossato, e naufragoa noi fuggir non può.</stage>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Cedo all’ardir magnanimo</l>
+            <l>che vi divampa in petto:</l>
+            <l>prode straniero, accetto</l>
+            <l>la man che stendi a me.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Prendi, e securo stringila</l>
+            <l>di eterna fede è pegno:</l>
+            <l>pronta a comun sostegno</l>
+            <l>combatterà con te.</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Mallevadore ed auspice</l>
+            <l>della tua tua fé qual fia?</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Mille io ne invoco. Il cenere</l>
+            <l>dell’arsa patria mia,</l>
+            <l>il sangue de’ parenti,</l>
+            <l>i loro monumenti,</l>
+            <l>l’ira che in sen divoro,</l>
+            <l>odio, vendetta, e amor.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Amor!</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Io Zilia adoro:</l>
+            <l>sacro a tua figlia è il cor.</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>E tu vorresti?</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Unire</l>
+            <l>il suo destino al mio:</l>
+            <l>tutto con lei soffrire,</l>
+            <l>morir per lei desio.</l>
+            <l>Se sposa mia la fai</l>
+            <l>sarò di me maggior.</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Vieni al mio sen: l’avrai</l>
+            <l>premio del tuo valor.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Lieto appien di tanto dono,</l>
+            <l>più che figlio a te già sono:</l>
+            <l>i tuoi dèi ~ saranno i miei,</l>
+            <l>patria mia ~ la tua sarà.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Spento sia ~ chi scioglier brami</l>
+            <l>tai legami ~ d’amistà.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Ma fian saldi.</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Fian tenaci.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Santi.</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Eterni.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Lo giuriamo.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TUTTI</head>Aste, dardi, fiamme, faciimpugnam, scocchiam, vibriamo.Quando annotti, e il mondo taccia,piomberei quai tigri in caccia,né la preda ai colpi nostrispeco o valle asconderà.Patri dèi, pei figli vostritutto il ciel combatterà.(partono i cori)Scena secondaJarico, e Zamoro.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Aste, dardi, fiamme, faci</l>
+            <l>impugnam, scocchiam, vibriamo.</l>
+            <l>Quando annotti, e il mondo taccia,</l>
+            <l>piomberei quai tigri in caccia,</l>
+            <l>né la preda ai colpi nostri</l>
+            <l>speco o valle asconderà.</l>
+            <l>Patri dèi, pei figli vostri</l>
+            <l>tutto il ciel combatterà.</l>
+            <l>(partono i cori)</l>
+            <l>Scena seconda</l>
+            <l>Jarico, e Zamoro.</l>
+          </sp>
+          <stage>TUTTIAste, dardi, fiamme, faciimpugnam, scocchiam, vibriamo.Quando annotti, e il mondo taccia,piomberei quai tigri in caccia,né la preda ai colpi nostrispeco o valle asconderà.Patri dèi, pei figli vostritutto il ciel combatterà.(partono i cori)Scena secondaJarico, e Zamoro.</stage>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>De’ tuoi guerrier fidarti,</l>
+            <l>qual io de’ miei, puoi tu? Tanto mistero</l>
+            <l>fia custodito?</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Non temer: provvide</l>
+            <l>la patria legge assai. D’orribil morte</l>
+            <l>è punito in Maima il tradimento.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Ad ottener l’intento</l>
+            <l>pur vuolsi scaltro oprar, e di sospetto</l>
+            <l>la più lieve non dar ombra ai nemici.</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Tutti userem di cortesia gli uffici.</l>
+            <l>Ricchi presenti, e feste,</l>
+            <l>e amorevoli inviti.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Ah! se dal campo</l>
+            <l>trarli io potessi inermi, e a noi le destre</l>
+            <l>di quei fatali armar fulmin di morte…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>JARICO</head>Vieni: un mezzo potria darci la sorte.(partono)Scena terzaCacciatori e Cacciatrici, indi Zilia.Coro.<sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Vieni: un mezzo potria darci la sorte.</l>
+            <l>(partono)</l>
+            <l>Scena terza</l>
+            <l>Cacciatori e Cacciatrici, indi Zilia.</l>
+            <l>Coro.</l>
+          </sp>
+          <stage>JARICOVieni: un mezzo potria darci la sorte.(partono)Scena terzaCacciatori e Cacciatrici, indi Zilia.Coro.</stage>
+          <sp who="#uomini">
+            <speaker>UOMINI:</speaker>
+            <l>Bella è l’argentea stella,</l>
+            <l>che in limpido mattin,</l>
+            <l>il rugiadoso crin</l>
+            <l>alza dall’onde.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Astro gentil d’amor,</l>
+            <l>più vivido splendor</l>
+            <l>Zilia diffonde.</l>
+          </sp>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>Lieve di colle in colle</l>
+            <l>trasvola il venticel,</l>
+            <l>che non inchina stel,</l>
+            <l>non segna traccia.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Vola più lieve ancor</l>
+            <l>l’amabil Zilia allor</l>
+            <l>che move in caccia.</l>
+            <l>Dove miri, in piaggia, in selva,</l>
+            <l>non vi ha core, non vi ha belva</l>
+            <l>che resista al suo poter.</l>
+            <l>Disarmata, o cacciatrice,</l>
+            <l>è ne’ boschi vincitrice,</l>
+            <l>è sovrana fra i guerrier.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Maggior di nostra speme, oggi, o compagne,</l>
+            <l>ne dier preda le selve: ai patri tetti</l>
+            <l>parte se n’ rechi, e se ne serbi parte</l>
+            <l>in dono agli stranieri. Ampio da loro</l>
+            <l>riporterem tesoro</l>
+            <l>delle dovizie, che al possente duce</l>
+            <l>il lontano da noi mondo produce.</l>
+            <l>Ne ornerà la bruna chioma</l>
+            <l>qualche gemma rilucente,</l>
+            <l>che ai guerrieri d’oriente</l>
+            <l>più bel sol pingendo va.</l>
+            <l>E la figlia del deserto,</l>
+            <l>abbellita da quel serto,</l>
+            <l>qualche grazia agli occhi loro,</l>
+            <l>qualche vezzo acquisterà.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Pari a Zilia, alcun tesoro</l>
+            <l>l’oriente in sen non ha.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ZILIA</head>(Caro bene, al tuo cospettovani fregi io non desio;bella sol dell’amor mionel tuo seno io volerò.Se tu m’ami, o mio diletto,ogni bella io vincerò.)(parte il coro)Scena quartaJarico, Zamoro, e Zilia.<sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>(Caro bene, al tuo cospetto</l>
+            <l>vani fregi io non desio;</l>
+            <l>bella sol dell’amor mio</l>
+            <l>nel tuo seno io volerò.</l>
+            <l>Se tu m’ami, o mio diletto,</l>
+            <l>ogni bella io vincerò.)</l>
+            <l>(parte il coro)</l>
+            <l>Scena quarta</l>
+            <l>Jarico, Zamoro, e Zilia.</l>
+          </sp>
+          <stage>ZILIA(Caro bene, al tuo cospettovani fregi io non desio;bella sol dell’amor mionel tuo seno io volerò.Se tu m’ami, o mio diletto,ogni bella io vincerò.)(parte il coro)Scena quartaJarico, Zamoro, e Zilia.</stage>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Mi abbraccia, o Zilia: lungamente attesa</l>
+            <l>alfin tu riedi. Per le patrie selve</l>
+            <l>assai vagasti cacciatrice intorno.</l>
+            <l>È giunto, o figlia, il giorno</l>
+            <l>d’alzar la mente a più severi uffici.</l>
+            <l>Oggi sposa se’ tu.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Sposa! Che dici?</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Te n’ duole, o Zilia? A far beati i prodi</l>
+            <l>nata è beltà… Né d’Jarico al guardo</l>
+            <l>di tanto bene io son del tutto indegno.</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Sì: d’alleanza pegno</l>
+            <l>contro il feroce ispano</l>
+            <l>mi ti chiese Zamoro, ed io ti diedi.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Contro l’ispano! E vincer lui tu credi?</l>
+            <l>Cambia consiglio: a noi negaro i cieli</l>
+            <l>la folgore ch’ei vibra, e a lui rapirla</l>
+            <l>non può Zamoro. Chi salvar non seppe</l>
+            <l>la patria sua, salvar saprà l’altrui?</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>È vero, o Zilia… Sventurato io fui.</l>
+            <l>Ma solo io combattea; l’arti straniere</l>
+            <l>i figli dividean di Cuba e Aiti.</l>
+            <l>Uniti or siamo, e uniti</l>
+            <l>vincerem noi.</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Dove il poter non valga</l>
+            <l>varrà l’ingegno. E in questa notte istessa</l>
+            <l>prova ne avrai, quando nel sonno spento</l>
+            <l>il nemico tu vegga.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Un tradimento!</l>
+            <l>E Zamoro il consiglia?</l>
+            <l>E lo sceglie Jarico? ~ Ah! mai non fia</l>
+            <l>questa mia man d’un traditor mercede.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Zilia!</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Ti frena. ~ Omai l’ardire eccede.</l>
+            <l>Giudice tu de’ gravi</l>
+            <l>disegni nostri esser non déi: ti basti</l>
+            <l>che questi nodi son giurati ai numi.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Deh! m’odi…</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Invan presumi</l>
+            <l>al comun voto opporti… Al ciel ribelle,</l>
+            <l>nemica al genitor tu non sarai…</l>
+            <l>Seguimi.</l>
+            <l>(a Zamoro partendo)</l>
+          </sp>
+          <stage>JARICOInvan presumial comun voto opporti… Al ciel ribelle,nemica al genitor tu non sarai…Seguimi.(a Zamoro partendo)</stage>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>(fermando Zamoro)</l>
+            <l>Ah! tu mi ascolta.</l>
+          </sp>
+          <stage>ZILIA(fermando Zamoro)Ah! tu mi ascolta.</stage>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Io ti ascoltai.</l>
+            <l>I tuoi sensi, i detti tuoi</l>
+            <l>mi han trafitto, o Zilia, il cor;</l>
+            <l>ma scemar l’ardor non puoi</l>
+            <l>che v’accese immenso amor.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Pera il dì, che a queste arene</l>
+            <l>empia sorte ti guidò!</l>
+            <l>Hai distrutto ogni mio bene,</l>
+            <l>finch’io viva, piangerò.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Ami un altro?…</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Ah! sì… il confesso…</l>
+            <l>Amo, adoro un altro oggetto.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>E il tacesti? Ov’è? Chi è desso?</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Non cercarlo.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Oh! qual sospetto!</l>
+            <l>Forse alcun di quegli alteri</l>
+            <l>aborriti, e rei stranieri…</l>
+            <l>Sì me ‘l dice il tuo pallore,</l>
+            <l>me ‘l palesa il tuo sospir.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Ah! leggesti nel mio core…</l>
+            <l>il segreto non tradir.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Cotanto colpevole!</l>
+            <l>Sì vile tu sei!</l>
+            <l>Colpite la perfida,</l>
+            <l>punitela, o dèi,</l>
+            <l>all’onta, all’ingiuria</l>
+            <l>sia pari il furor.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Risparmia i rimproveri,</l>
+            <l>se umano tu sei…</l>
+            <l>Non farmi più misera,</l>
+            <l>pietade mi déi…</l>
+            <l>D’amore son vittima,</l>
+            <l>perdona ad amor.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Fuggi, nasconditi</l>
+            <l>al padre, a tutti.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>E vuoi!…</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Quei barbari</l>
+            <l>veder distrutti,</l>
+            <l>stringer tua mano,</l>
+            <l>te posseder…</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Empio! Fia vano</l>
+            <l>il tuo pensier.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Le vane folgori</l>
+            <l>dell’oriente</l>
+            <l>saranno spente</l>
+            <l>dal mio valor.</l>
+            <l>Alla vendetta</l>
+            <l>che il cor mi alletta,</l>
+            <l>gli dèi mi guidano,</l>
+            <l>mi sprona amor.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ZILIA</head>Le vive folgoridell’orientenon fiano spenteda un traditor.Di te più fortel’ispana sorte,saprà difendermidal tuo furor.(partono)Scena quintaInterno del campo di Colombo sulle rive del mare. Veggonsi i navigli castigliani che naufragarono, arenati sulla spiaggia, e su di essi innalzate le fortificazioni. I Castigliani sono tutti sulle navi, rivolti al mare, cercando di scoprire qualche vela, nel lontano orizzonte. Esce quindi Colombo.<sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Le vive folgori</l>
+            <l>dell’oriente</l>
+            <l>non fiano spente</l>
+            <l>da un traditor.</l>
+            <l>Di te più forte</l>
+            <l>l’ispana sorte,</l>
+            <l>saprà difendermi</l>
+            <l>dal tuo furor.</l>
+            <l>(partono)</l>
+            <l>Scena quinta</l>
+            <l>Interno del campo di Colombo sulle rive del mare. Veggonsi i navigli castigliani che naufragarono, arenati sulla spiaggia, e su di essi innalzate le fortificazioni. I Castigliani sono tutti sulle navi, rivolti al mare, cercando di scoprire qualche vela, nel lontano orizzonte. Esce quindi Colombo.</l>
+          </sp>
+          <stage>ZILIALe vive folgoridell’orientenon fiano spenteda un traditor.Di te più fortel’ispana sorte,saprà difendermidal tuo furor.(partono)Scena quintaInterno del campo di Colombo sulle rive del mare. Veggonsi i navigli castigliani che naufragarono, arenati sulla spiaggia, e su di essi innalzate le fortificazioni. I Castigliani sono tutti sulle navi, rivolti al mare, cercando di scoprire qualche vela, nel lontano orizzonte. Esce quindi Colombo.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>È l’ocean deserto…</l>
+            <l>non una vela appar…</l>
+            <l>Lassi! Ci abbandonar</l>
+            <l>uomini, e sorte.</l>
+            <l>E tanto abbiam sofferto,</l>
+            <l>sudato notte, e dì,</l>
+            <l>sol per morir così</l>
+            <l>di lenta morte?</l>
+            <l>Ah! no: fuggiam de’ barbari</l>
+            <l>sulle canoe rapite…</l>
+            <l>flutti del mar, ne aprite</l>
+            <l>scampo, o sepolcro almen.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Dove fuggite?</l>
+            <l>Compagni di Colombo, e qual vi sprona</l>
+            <l>disperato consiglio? A certa morte</l>
+            <l>di gloria priva e da nessun compianta</l>
+            <l>forsennati correte, e un solo istante</l>
+            <l>tutto vi toglie, tutto</l>
+            <l>di cotante fatiche il merto e il frutto.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>E puoi sperarlo tu?</l>
+            <l>Non lusingarci più…</l>
+            <l>Fiesco dovea tornar,</l>
+            <l>navi per noi recar ~ armi, alimenti.</l>
+            <l>Dov’è costui? Che fa?</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Fiesco spiegato ha già le vele ai venti.</l>
+            <l>Ei verrà, compagni, il giuro;</l>
+            <l>a compir verrà l’impresa.</l>
+            <l>I segreti del futuro</l>
+            <l>al mio sguardo un dio palesa,</l>
+            <l>quel gran dio, che un mondo ignoto</l>
+            <l>a me solo rivelò.</l>
+            <l>Veggo, ah! veggo uscir dai mari</l>
+            <l>ampie terre, immensi lidi.</l>
+            <l>Chi vi reca e leggi e altari?</l>
+            <l>Chi li toglie a numi infidi?</l>
+            <l>Fuggi, o volgo, e mi abbandona;</l>
+            <l>io, sol io vi approderò.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Ah! siam teco: a noi perdona:</l>
+            <l>col tuo labbro un dio parlò.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Sì vi abbraccio, e oblio l’errore</l>
+            <l>di me degni ancor sarete:</l>
+            <l>il trionfo dividete</l>
+            <l>che a Colombo il ciel serbò.</l>
+            <l>Del destino vincitore,</l>
+            <l>domator degli elementi</l>
+            <l>unirò due continenti</l>
+            <l>che natura separò.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Per te sol, per tuo splendore</l>
+            <l>nuovi mondi il ciel creò.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>COLOMBO</head>Ite alle navi, e di fermezza e zelodate esempio ai minori. In voi son fisside’ soldati li sguardi, e de’ nocchieri.(il coro parte)Scena sestaColombo, e Diego.<sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Ite alle navi, e di fermezza e zelo</l>
+            <l>date esempio ai minori. In voi son fissi</l>
+            <l>de’ soldati li sguardi, e de’ nocchieri.</l>
+            <l>(il coro parte)</l>
+            <l>Scena sesta</l>
+            <l>Colombo, e Diego.</l>
+          </sp>
+          <stage>COLOMBOIte alle navi, e di fermezza e zelodate esempio ai minori. In voi son fisside’ soldati li sguardi, e de’ nocchieri.(il coro parte)Scena sestaColombo, e Diego.</stage>
+          <sp who="#diego">
+            <speaker>DIEGO:</speaker>
+            <l>Oh duce! E ancor tu speri</l>
+            <l>nell’aita di Cuba? E non rammenti</l>
+            <l>qual ria mercé ti diede</l>
+            <l>di un mondo che acquistò Castiglia ingrata?</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Quella che ai sommi in ogni terra è data,</l>
+            <l>degli infimi il livore,</l>
+            <l>sventura, e povertà… Non io me n’ dolgo…</l>
+            <l>Fia maggiore il trionfo a me serbato.</l>
+            <l>O terra ov’io son nato,</l>
+            <l>cui far dono d’un mondo io non potei,</l>
+            <l>a te pure fian gloria i mali miei.</l>
+            <l>(musica)</l>
+            <l>Qual suon?</l>
+            <l>(Diego accorre)</l>
+          </sp>
+          <stage>COLOMBOQuella che ai sommi in ogni terra è data,degli infimi il livore,sventura, e povertà… Non io me n’ dolgo…Fia maggiore il trionfo a me serbato.O terra ov’io son nato,cui far dono d’un mondo io non potei,a te pure fian gloria i mali miei.(musica)Qual suon?(Diego accorre)</stage>
+          <sp who="#diego">
+            <speaker>DIEGO:</speaker>
+            <l>Festivo stuolo</l>
+            <l>di donzelle si appressa, e del cacico</l>
+            <l>reca i presenti a noi.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>COLOMBO</head>Grata accoglienzatrovi il drappel cortese, e ne riportiin guiderdone anch’esso i doni nostri.(O celeste favore ancor ti mostri!)(partono)Scena settimaSuonano le trombe del campo, escono a poco a poco tutti i Castigliani. Le Donne indiane si avanzano al suono de’ barbari strumenti, recando frutti, cacciagione, ecc. I Castigliani si uniscono ad esse, e cambiano regali di specchi, campanelli, e grani di vetro coloriti.<sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Grata accoglienza</l>
+            <l>trovi il drappel cortese, e ne riporti</l>
+            <l>in guiderdone anch’esso i doni nostri.</l>
+            <l>(O celeste favore ancor ti mostri!)</l>
+            <l>(partono)</l>
+            <l>Scena settima</l>
+            <l>Suonano le trombe del campo, escono a poco a poco tutti i Castigliani. Le Donne indiane si avanzano al suono de’ barbari strumenti, recando frutti, cacciagione, ecc. I Castigliani si uniscono ad esse, e cambiano regali di specchi, campanelli, e grani di vetro coloriti.</l>
+          </sp>
+          <stage>COLOMBOGrata accoglienzatrovi il drappel cortese, e ne riportiin guiderdone anch’esso i doni nostri.(O celeste favore ancor ti mostri!)(partono)Scena settimaSuonano le trombe del campo, escono a poco a poco tutti i Castigliani. Le Donne indiane si avanzano al suono de’ barbari strumenti, recando frutti, cacciagione, ecc. I Castigliani si uniscono ad esse, e cambiano regali di specchi, campanelli, e grani di vetro coloriti.</stage>
+          <sp who="#indiane">
+            <speaker>INDIANE:</speaker>
+            <l>Per voi grappoli, e poma odorose</l>
+            <l>il palmizio, ed il cocco produce;</l>
+            <l>per voi l’astro che lieto ne luce</l>
+            <l>li dipinge dì vaghi color.</l>
+            <l>Di Maima ve gli offron festose</l>
+            <l>le donzelle in tributo d’onor.</l>
+          </sp>
+          <sp who="#castigliani">
+            <speaker>CASTIGLIANI:</speaker>
+            <l>Per voi nuovi di gioia strumenti</l>
+            <l>l’arte industre di Europa compone,</l>
+            <l>per voi reca brillanti corone</l>
+            <l>un naviglio dell’onde signor.</l>
+            <l>Di Castiglia ve gli offron contenti</l>
+            <l>i guerrieri qual pegno d’amor.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TUTTI</head>Viva, viva chi vinse primierod’acque immense gli abissi profondi,chi le rive appressò dì due mondi,e gl’ignoti tesori ne apri!Nodo eterno d’amore sincerosempre uniti li tenga così!Intrecciano lieta danza, e dopo aver rinnovato il cambio de’ regali si dividono con tutte le dimostrazioni d’amicizia. ~ Esce Fernando, e si compiace dello spettacolo.Scena ottavaFernando, indi Zilia.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Viva, viva chi vinse primiero</l>
+            <l>d’acque immense gli abissi profondi,</l>
+            <l>chi le rive appressò dì due mondi,</l>
+            <l>e gl’ignoti tesori ne apri!</l>
+            <l>Nodo eterno d’amore sincero</l>
+            <l>sempre uniti li tenga così!</l>
+            <l>Intrecciano lieta danza, e dopo aver rinnovato il cambio de’ regali si dividono con tutte le dimostrazioni d’amicizia. ~ Esce Fernando, e si compiace dello spettacolo.</l>
+            <l>Scena ottava</l>
+            <l>Fernando, indi Zilia.</l>
+          </sp>
+          <stage>TUTTIViva, viva chi vinse primierod’acque immense gli abissi profondi,chi le rive appressò dì due mondi,e gl’ignoti tesori ne apri!Nodo eterno d’amore sincerosempre uniti li tenga così!Intrecciano lieta danza, e dopo aver rinnovato il cambio de’ regali si dividono con tutte le dimostrazioni d’amicizia. ~ Esce Fernando, e si compiace dello spettacolo.Scena ottavaFernando, indi Zilia.</stage>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>L’opra tua, mio ben, ravviso:</l>
+            <l>il tuo cor per noi vegliò:</l>
+            <l>cara Zilia, è un tuo sorriso</l>
+            <l>il piacer che qui brillò.</l>
+            <l>Ah! per noi sembrò natura</l>
+            <l>collocarti in questo orror,</l>
+            <l>come stella in notte oscura,</l>
+            <l>come speme nel dolor.</l>
+            <l>(esce Zilia frettolosa e anelante. Si aggira intorno pe ‘l campo, e si avviene in Fernando)</l>
+          </sp>
+          <stage>FERNANDOL’opra tua, mio ben, ravviso:il tuo cor per noi vegliò:cara Zilia, è un tuo sorrisoil piacer che qui brillò.Ah! per noi sembrò naturacollocarti in questo orror,come stella in notte oscura,come speme nel dolor.(esce Zilia frettolosa e anelante. Si aggira intorno pe ‘l campo, e si avviene in Fernando)</stage>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Ti trovo alfin!</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>O Zilia mia!</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>(si abbandona nelle sue braccia)</l>
+            <l>Ch’io possa</l>
+            <l>nel tuo sen respirar!</l>
+          </sp>
+          <stage>ZILIA(si abbandona nelle sue braccia)Ch’io possanel tuo sen respirar!</stage>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Affannosa così, Zilia, tu sei!</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Lo spavento fu guida ai passi miei.</l>
+            <l>Se cara ti son io, fuggi, mi segui…</l>
+            <l>Non ti arrestar… a noi securo asilo</l>
+            <l>del deserto saran gli antri profondi.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Fuggir! Qual mai nascondi</l>
+            <l>tremendo arcano! Che ti avvenne? Parla.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Sventura orrenda… e non poss’io svelarla.</l>
+            <l>Vieni… la notte è presso</l>
+            <l>che coprirà pietosa i nostri passi</l>
+            <l>per ascoso sentier.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Che teco io fugga?</l>
+            <l>Che il padre io lasci? E puoi sperarlo?</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Ed io</l>
+            <l>tradisco il padre mio,</l>
+            <l>patria, numi per te…</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Che sento?</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Ahi lassa!</l>
+            <l>Che dissi? Che parlai?</l>
+            <l>Non dimandar di più… Vieni.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Giammai.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Sappi che un tradimento</l>
+            <l>è tramato in Maima…</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Oh ciel!</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Che tutti</l>
+            <l>cadrete spenti… che il nemico armato</l>
+            <l>le faci e i dardi nella selva appresta.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Si prevenga, si voli…</l>
+            <l>(dividendosi da lei)</l>
+          </sp>
+          <stage>FERNANDOSi prevenga, si voli…(dividendosi da lei)</stage>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>(per arrestarlo)</l>
+            <l>Odimi.</l>
+          </sp>
+          <stage>ZILIA(per arrestarlo)Odimi.</stage>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Resta.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Mentre corri, o sciagurato,</l>
+            <l>a salvar le ispane squadre,</l>
+            <l>a privar mi vai d’un padre</l>
+            <l>in mercé di mia pietà.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Ed io pur d’un padre amato</l>
+            <l>veggo i giorni in rio periglio:</l>
+            <l>nel mio sen pietà di figlio</l>
+            <l>più che amor parlando va.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Ah! nel mio parlò più forte</l>
+            <l>questo amor, che mi ha tradita.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Ne avrai premio…</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Ne avrò morte.</l>
+            <l>Già gli dèi me ne han punita.</l>
+            <l>Vanne… compi il tuo dovere…</l>
+            <l>Io… mai più non ti vedrò.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Che mai dici? Oh! qual pensiere!</l>
+            <l>Mia vivrai…</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>No… tua morrò.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Udrai fra poco un gemito</l>
+            <l>fioco suonar sul vento…</l>
+            <l>Questo, o crudel, di Zilia</l>
+            <l>fia l’ultimo lamento…</l>
+            <l>Con un sospir rispondimi…</l>
+            <l>né ti scordar di me.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Oh! di che triste immagini</l>
+            <l>ti ingombra il tuo spavento?</l>
+            <l>Vivrai, vivrai, mia Zilia,</l>
+            <l>per tuo, per mio contento…</l>
+            <l>Noi non dobbiam dividerci…</l>
+            <l>sempre io sarò con te.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Addio per sempre.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Arrestati.</l>
+            <l>Non partirai…</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Mi lascia.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Vieni, se m’ami.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Oh! ambascia!</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Vieni a Colombo.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Ah! no.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Divido il terrore</l>
+            <l>che l’alma ti preme:</l>
+            <l>orrendo sul cuore</l>
+            <l>sospetto piombò…</l>
+            <l>Vederti partire,</l>
+            <l>lasciarti non so.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Di vita, d’amore</l>
+            <l>svanita è ogni speme…</l>
+            <l>de’ numi il rigore</l>
+            <l>già me condannò…</l>
+            <l>Mi lascia fuggire,</l>
+            <l>lo chiedo, lo vo’.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>FERNANDO</head>Vederti partire,lasciarti non so.(Fernando la tragge seco a viva forza nel campo castigliano)Scena nonaVasta foresta presso il campo di Colombo. D’ambi i lati profonde caverne. Il sole è al tramonto.Jarico, solo, indi coro d’Indiani d’ambo i sessi.Escono dalle grotte i Guerrieri armati di picche, e le Donne di faci.<sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Vederti partire,</l>
+            <l>lasciarti non so.</l>
+            <l>(Fernando la tragge seco a viva forza nel campo castigliano)</l>
+            <l>Scena nona</l>
+            <l>Vasta foresta presso il campo di Colombo. D’ambi i lati profonde caverne. Il sole è al tramonto.</l>
+            <l>Jarico, solo, indi coro d’Indiani d’ambo i sessi.</l>
+            <l>Escono dalle grotte i Guerrieri armati di picche, e le Donne di faci.</l>
+          </sp>
+          <stage>FERNANDOVederti partire,lasciarti non so.(Fernando la tragge seco a viva forza nel campo castigliano)Scena nonaVasta foresta presso il campo di Colombo. D’ambi i lati profonde caverne. Il sole è al tramonto.Jarico, solo, indi coro d’Indiani d’ambo i sessi.Escono dalle grotte i Guerrieri armati di picche, e le Donne di faci.</stage>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Regna silenzio intorno,</l>
+            <l>tranquillo è il campo ispano:</l>
+            <l>coperto è il grave arcano</l>
+            <l>d’impenetrabil vel.</l>
+            <l>Volgi all’occaso, o giorno,</l>
+            <l>cedi alla notte il ciel.</l>
+            <l>Uscite… uscite… e tosto</l>
+            <l>faci apprestate, e dardi:</l>
+            <l>già pe ‘l sentiero opposto</l>
+            <l>Zamoro al varco sta.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Andiam: noi pigri, e tardi</l>
+            <l>Zamoro non vedrà.</l>
+            <l>(si prostrano a pregare)</l>
+          </sp>
+          <stage>COROAndiam: noi pigri, e tardiZamoro non vedrà.(si prostrano a pregare)</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>O numi custodi</l>
+            <l>de’ patri deserti,</l>
+            <l>celati, coperti</l>
+            <l>guidate i guerrier.</l>
+            <l>Al passo dei prodi</l>
+            <l>aprite il sentier.</l>
+            <l>(sorgono, e si avviano per partire; odonsi da lontano frequenti colpi di cannone: ritornano indietro sbigottiti)</l>
+          </sp>
+          <stage>TUTTIO numi custodide’ patri deserti,celati, copertiguidate i guerrier.Al passo dei prodiaprite il sentier.(sorgono, e si avviano per partire; odonsi da lontano frequenti colpi di cannone: ritornano indietro sbigottiti)</stage>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Ma dell’Europa il fulmine</l>
+            <l>s’ode scoppiar da lunge…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Qual calpestio? Chi giunge?</l>
+            <l>Zamoro!…</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Amico!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TUTTI</head>Tu!Scena decimaZamoro, con Guerrieri indiani, e detti.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Tu!</l>
+            <l>Scena decima</l>
+            <l>Zamoro, con Guerrieri indiani, e detti.</l>
+          </sp>
+          <stage>TUTTITu!Scena decimaZamoro, con Guerrieri indiani, e detti.</stage>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Noi siam perduti.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Ahi miseri!</l>
+            <l>Che avvenne mai? Che fu?</l>
+            <l>(tutti lo circondano)</l>
+          </sp>
+          <stage>TUTTIAhi miseri!Che avvenne mai? Che fu?(tutti lo circondano)</stage>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Insiem ristretti e taciti</l>
+            <l>noi scendevam dal monte;</l>
+            <l>già ci sorgean de’ barbari</l>
+            <l>le vaste navi a fronte,</l>
+            <l>non un rumore udivasi,</l>
+            <l>tutto parea dormir…</l>
+            <l>Quando improvviso scalpito</l>
+            <l>dietro ci udiam sui culmini;</l>
+            <l>dei castigliani scoppiano</l>
+            <l>spessi d’innante i fulmini:</l>
+            <l>le prime schiere cadono</l>
+            <l>al grandinar terribile;</l>
+            <l>l’altre atterrite arretrano,</l>
+            <l>cominciano a fuggir.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TUTTI</head>Gli dèi, gli dèi puniscanochi ci poté tradir.Scena undicesimaOdesi dappresso fragor di tamburi. Escono i Castigliani guidati da Colombo, da Fernando e da Diego.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Gli dèi, gli dèi puniscano</l>
+            <l>chi ci poté tradir.</l>
+            <l>Scena undicesima</l>
+            <l>Odesi dappresso fragor di tamburi. Escono i Castigliani guidati da Colombo, da Fernando e da Diego.</l>
+          </sp>
+          <stage>TUTTIGli dèi, gli dèi puniscanochi ci poté tradir.Scena undicesimaOdesi dappresso fragor di tamburi. Escono i Castigliani guidati da Colombo, da Fernando e da Diego.</stage>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Giunge il nemico!… Oh rabbia!</l>
+            <l>Care vendiam le vite.</l>
+            <l>(per azzuffarsi)</l>
+          </sp>
+          <stage>ZAMOROGiunge il nemico!… Oh rabbia!Care vendiam le vite.(per azzuffarsi)</stage>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Fermate! ~ Invano, o miseri,</l>
+            <l>quell’armi ancor brandite…</l>
+            <l>Armi impotenti, e frali</l>
+            <l>son l’aste, e son gli strali</l>
+            <l>contro il poter del fulmine</l>
+            <l>che incenerir vi può.</l>
+            <l>Del violato ospizio</l>
+            <l>farà vendetta il cielo.</l>
+            <l>Sul vostro capo, o perfidi,</l>
+            <l>già piomba l’igneo telo…</l>
+            <l>Tremate… A me prostratevi</l>
+            <l>ancor lo arresterò.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Prostrarci noi?</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Noi cedere!</l>
+          </sp>
+          <sp who="#indiani">
+            <speaker>INDIANI:</speaker>
+            <l>All’armi!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CASTIGLIANI</head>All’armi!Scena dodicesimaZilia, e detti.<sp who="#castigliani">
+            <speaker>CASTIGLIANI:</speaker>
+            <l>All’armi!</l>
+            <l>Scena dodicesima</l>
+            <l>Zilia, e detti.</l>
+          </sp>
+          <stage>CASTIGLIANIAll’armi!Scena dodicesimaZilia, e detti.</stage>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>(precipitandosi in mezzo)</l>
+            <l>Ah! no.</l>
+            <l>Me primiera, me ferite…</l>
+            <l>Il mio sangue al loro unite…</l>
+            <l>Della vita a voi salvata</l>
+            <l>premio sia la morte a me.</l>
+          </sp>
+          <stage>ZILIA(precipitandosi in mezzo)Ah! no.Me primiera, me ferite…Il mio sangue al loro unite…Della vita a voi salvatapremio sia la morte a me.</stage>
+          <sp who="#zamoro e jarico">
+            <speaker>ZAMORO E JARICO:</speaker>
+            <l>Ciel! La trama hai tu svelata!</l>
+          </sp>
+          <sp who="#tutti gli indiani">
+            <speaker>TUTTI GLI INDIANI:</speaker>
+            <l>Traditrice! Infamia a te!</l>
+            <l>(tutti si allontanano da lei: essa rimane in mezzo inorridita)</l>
+            <l>Quadro generale.</l>
+            <l>Tutti.</l>
+          </sp>
+          <stage>TUTTI GLI INDIANITraditrice! Infamia a te!(tutti si allontanano da lei: essa rimane in mezzo inorridita)Quadro generale.Tutti.</stage>
+          <sp who="#zilia, zamoro, jarico e coro di indiani">
+            <speaker>ZILIA, ZAMORO, JARICO E CORO DI INDIANI:</speaker>
+            <l>Ah! non eri, oppresso core,</l>
+            <l>preparato a tal momento.</l>
+            <l>Sciagurata! Un gel d’orrore</l>
+            <l>a que’ detti in cor mi sento.</l>
+            <l>Giusti dèi, quel tradimento</l>
+            <l>l’ira vostra punirà.</l>
+          </sp>
+          <sp who="#fernando, diego, colombo e coro di spagnoli">
+            <speaker>FERNANDO, DIEGO, COLOMBO E CORO DI SPAGNOLI:</speaker>
+            <l>Per pietà del suo dolore</l>
+            <l>dona agli empi il tradimento.</l>
+            <l>Ah! sia spento il lor furore,</l>
+            <l>come il mio nel seno è spento.</l>
+            <l>Rendi, o ciel, costei strumento</l>
+            <l>di concordia e di amistà.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Di un’innocente al pianto</l>
+            <l>concedo a voi perdono.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>No, non avrai tal vanto</l>
+            <l>noi ricusiamo il dono.</l>
+            <l>Tu delle nostre vergini</l>
+            <l>ci hai tolta la più nobile,</l>
+            <l>versato sulla patria</l>
+            <l>eterno disonor.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Misera me! Calmatevi.</l>
+          </sp>
+          <sp who="#zamoro e jarico">
+            <speaker>ZAMORO E JARICO:</speaker>
+            <l>Scostati: orror mi fai.</l>
+          </sp>
+          <sp who="#colombo e fernando">
+            <speaker>COLOMBO E FERNANDO:</speaker>
+            <l>E pretendete?…</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Opprimerti.</l>
+            <l>Nemici ognor ne avrai.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Superbi al par che barbari,</l>
+            <l>vicino è il vostro eccidio:</l>
+            <l>io passerò qual turbine</l>
+            <l>su voi devastator.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Un’ira, un foco, un fremito,</l>
+            <l>un lutto, un gelo, un tremito,</l>
+            <l>mille pensier terribili</l>
+            <l>presagi e dubbi orribili</l>
+            <l>tormentano ~ spaventano,</l>
+            <l>opprimono il mio cor.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>(a Jarico e a Zamoro)</l>
+            <l>Deh! voi, deh! voi schiudetemi</l>
+            <l>l’abisso punitor…</l>
+          </sp>
+          <stage>ZILIA(a Jarico e a Zamoro)Deh! voi, deh! voi schiudetemil’abisso punitor…</stage>
+          <sp who="#colombo e fernando">
+            <speaker>COLOMBO E FERNANDO:</speaker>
+            <l>(a Zilia)</l>
+            <l>Ti calma, e in sen ricovrati</l>
+            <l>un campo protettor…</l>
+          </sp>
+          <stage>COLOMBO E FERNANDO(a Zilia)Ti calma, e in sen ricovratiun campo protettor…</stage>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>(a Zilia)</l>
+            <l>Sì, morte avrai terribile</l>
+            <l>dovuta a tanto error.</l>
+          </sp>
+          <stage>ZAMORO(a Zilia)Sì, morte avrai terribiledovuta a tanto error.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(gli uni e gli altri)</l>
+            <l>Tremate: è presso a scendere</l>
+            <l>il fulmin punitor.</l>
+          </sp>
+          <stage>CORO(gli uni e gli altri)Tremate: è presso a scendereil fulmin punitor.</stage>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>(a Jarico e a Zamoro)</l>
+            <l>La pena ancor sospendere</l>
+            <l>è pena, o dèi, maggior.</l>
+          </sp>
+          <stage>ZILIA(a Jarico e a Zamoro)La pena ancor sospendereè pena, o dèi, maggior.</stage>
+          <sp who="#colombo e fernando">
+            <speaker>COLOMBO E FERNANDO:</speaker>
+            <l>(agli indiani)</l>
+            <l>Chi lei si attenta offendere</l>
+            <l>paventi il mio furor.</l>
+          </sp>
+          <stage>COLOMBO E FERNANDO(agli indiani)Chi lei si attenta offenderepaventi il mio furor.</stage>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>(ai castigliani)</l>
+            <l>Saprem vendetta prendere</l>
+            <l>di voi superbi, ancor.</l>
+          </sp>
+          <stage>JARICO(ai castigliani)Saprem vendetta prenderedi voi superbi, ancor.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(gli uni e gli altri)</l>
+            <l>Tremate: è presso a scendere</l>
+            <l>il fulmin punitor.</l>
+          </sp>
+          <stage>CORO(gli uni e gli altri)Tremate: è presso a scendereil fulmin punitor.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>TUTTI</head>Un’ira, un foco, un fremito,un lutto, un gelo, un tremito,mille pensier terribilipresagi e dubbi orribilitormentano ~ spaventano,opprimono il mio cor.Atto secondoScena primaLa decorazione rappresenta l’interno della capitana di Colombo.Colombo.<div type="scene">
+          <head>TUTTI</head>Un’ira, un foco, un fremito,un lutto, un gelo, un tremito,mille pensier terribilipresagi e dubbi orribilitormentano ~ spaventano,opprimono il mio cor.Atto secondoScena primaLa decorazione rappresenta l’interno della capitana di Colombo.Colombo.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Un’ira, un foco, un fremito,</l>
+            <l>un lutto, un gelo, un tremito,</l>
+            <l>mille pensier terribili</l>
+            <l>presagi e dubbi orribili</l>
+            <l>tormentano ~ spaventano,</l>
+            <l>opprimono il mio cor.</l>
+            <l>Atto secondo</l>
+            <l>Scena prima</l>
+            <l>La decorazione rappresenta l’interno della capitana di Colombo.</l>
+            <l>Colombo.</l>
+          </sp>
+          <stage>TUTTIUn’ira, un foco, un fremito,un lutto, un gelo, un tremito,mille pensier terribilipresagi e dubbi orribilitormentano ~ spaventano,opprimono il mio cor.Atto secondoScena primaLa decorazione rappresenta l’interno della capitana di Colombo.Colombo.</stage>
+        </div>
+        <div type="scene">
+          <head>COLOMBO</head>Già corse il sangue… Oh! inefficaci sforziper impedirlo! Oh! con che tristi auspici,terra del nuovo mondo, io ti ho scoperta!Quale all’Europa aperta,ampia via di delitti! Ah! sul mio caponon riversarli tu, cielo clemente!Ah! rimanga di me fama innocente!Scena secondaColombo. Diego, e Ufficiali castigliani.<sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Già corse il sangue… Oh! inefficaci sforzi</l>
+            <l>per impedirlo! Oh! con che tristi auspici,</l>
+            <l>terra del nuovo mondo, io ti ho scoperta!</l>
+            <l>Quale all’Europa aperta,</l>
+            <l>ampia via di delitti! Ah! sul mio capo</l>
+            <l>non riversarli tu, cielo clemente!</l>
+            <l>Ah! rimanga di me fama innocente!</l>
+            <l>Scena seconda</l>
+            <l>Colombo. Diego, e Ufficiali castigliani.</l>
+          </sp>
+          <stage>COLOMBOGià corse il sangue… Oh! inefficaci sforziper impedirlo! Oh! con che tristi auspici,terra del nuovo mondo, io ti ho scoperta!Quale all’Europa aperta,ampia via di delitti! Ah! sul mio caponon riversarli tu, cielo clemente!Ah! rimanga di me fama innocente!Scena secondaColombo. Diego, e Ufficiali castigliani.</stage>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Ebben ritratti al campo</l>
+            <l>son tutti, o Diego?… Non rispondi? Al suolo</l>
+            <l>ciascun di voi fisa smarrito il ciglio!</l>
+            <l>Parlate. Chi mancò?</l>
+          </sp>
+          <sp who="#diego">
+            <speaker>DIEGO:</speaker>
+            <l>Fernando.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Il figlio!</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Da’ suoi guerrier diviso,</l>
+            <l>fu colto dal nemico.</l>
+            <l>Sollecito l’avviso</l>
+            <l>ne invia l’altier cacico.</l>
+            <l>Intorno al messaggero</l>
+            <l>si affolla il campo intero,</l>
+            <l>e il duolo e lo spavento</l>
+            <l>a lui celar non sa.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>COLOMBO</head>(scuotendosi)Non io pavento…Tal dell’armi è la sorte, e tal la correne’ cimenti il guerrier, qualunque ei sia.Alla presenza miaguidate il messagger, e il mio coraggioquello ravvivi delle afflitte squadre.(Diego e gli ufficiali partono)Scena terzaColombo.Piangi, or piangi non visto, o cor del padre.Pietoso ciel, se vittimail figlio mio segnasti,dammi virtù che bastiil colpo a sostener.Alcun s’avanza…Il messagger nemico… alma costanza.Scena quartaZamoro, e Colombo.Soldati castigliani, che si schierano da un lato, Guerrieri indiani, che formano un gruppo dall’altro.<sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>(scuotendosi)</l>
+            <l>Non io pavento…</l>
+            <l>Tal dell’armi è la sorte, e tal la corre</l>
+            <l>ne’ cimenti il guerrier, qualunque ei sia.</l>
+            <l>Alla presenza mia</l>
+            <l>guidate il messagger, e il mio coraggio</l>
+            <l>quello ravvivi delle afflitte squadre.</l>
+            <l>(Diego e gli ufficiali partono)</l>
+            <l>Scena terza</l>
+            <l>Colombo.</l>
+            <l>Piangi, or piangi non visto, o cor del padre.</l>
+            <l>Pietoso ciel, se vittima</l>
+            <l>il figlio mio segnasti,</l>
+            <l>dammi virtù che basti</l>
+            <l>il colpo a sostener.</l>
+            <l>Alcun s’avanza…</l>
+            <l>Il messagger nemico… alma costanza.</l>
+            <l>Scena quarta</l>
+            <l>Zamoro, e Colombo.</l>
+            <l>Soldati castigliani, che si schierano da un lato, Guerrieri indiani, che formano un gruppo dall’altro.</l>
+          </sp>
+          <stage>COLOMBO(scuotendosi)Non io pavento…Tal dell’armi è la sorte, e tal la correne’ cimenti il guerrier, qualunque ei sia.Alla presenza miaguidate il messagger, e il mio coraggioquello ravvivi delle afflitte squadre.(Diego e gli ufficiali partono)Scena terzaColombo.Piangi, or piangi non visto, o cor del padre.Pietoso ciel, se vittimail figlio mio segnasti,dammi virtù che bastiil colpo a sostener.Alcun s’avanza…Il messagger nemico… alma costanza.Scena quartaZamoro, e Colombo.Soldati castigliani, che si schierano da un lato, Guerrieri indiani, che formano un gruppo dall’altro.</stage>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Hanno i lor numi anch’esse</l>
+            <l>quest’isole, o stranier, numi possenti,</l>
+            <l>che degli umani eventi,</l>
+            <l>tristi o lieti che sian, reggono il freno;</l>
+            <l>e a te palesi oggi son fatti appieno.</l>
+            <l>Come silvestre belva</l>
+            <l>del cacciator nei lacci, essi han sorpreso</l>
+            <l>il figlio tuo.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Mi è noto. Alle sventure</l>
+            <l>soggiace al par del vile anco il più forte.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Già la canzon di morte</l>
+            <l>sta sciogliendo in Maima, ove il riscatto</l>
+            <l>da te compro non sia.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Parla. A qual patto?</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Zilia è in tua man, l’infida,</l>
+            <l>la traditrice Zilia… Essa è votata</l>
+            <l>della notte agli spirti: a noi la rendi,</l>
+            <l>e la vita del figlio abbiti in dono.</l>
+            <l>(Colombo tace vivamente commosso)</l>
+            <l>Decidi… A che ti stai?</l>
+            <l>Render Zilia vuoi tu?</l>
+          </sp>
+          <stage>ZAMOROZilia è in tua man, l’infida,la traditrice Zilia… Essa è votatadella notte agli spirti: a noi la rendi,e la vita del figlio abbiti in dono.(Colombo tace vivamente commosso)Decidi… A che ti stai?Render Zilia vuoi tu?</stage>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>No, non l’avrai.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Io promisi alla vergine oppressa</l>
+            <l>nel mio campo difesa e sostegno.</l>
+            <l>Il mio nume del giuro fu pegno,</l>
+            <l>né tradito il mio nume sarà.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>E noi pure solenne promessa</l>
+            <l>femmo a dèi venerandi del pari.</l>
+            <l>Una vittima attendon gli altari,</l>
+            <l>e trafitto il tuo figlio cadrà.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Ei trafitto!</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Sì: pensaci, e trema.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Non fia mai.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Chi potrebbe vietarlo?</l>
+            <l>O risolvi, o mi affretto a svenarlo.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Odi… (Oh! pena ch’eguale non ha!)</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>(Lascerò perir così</l>
+            <l>chi soccorso a noi prestò?</l>
+            <l>A salvar d’un figlio i dì,</l>
+            <l>crudo padre indugerò?</l>
+            <l>Cielo, imploro in tanto orror</l>
+            <l>un tuo raggio protettor.)</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>(A salvar d’un figlio i dì</l>
+            <l>dubbio ancor costui vedrò?</l>
+            <l>Né colei che mi tradì</l>
+            <l>di mia man punir potrò?</l>
+            <l>Numi inulti, offeso amor</l>
+            <l>secondate il mio furor.)</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>No: compiuto il sacrifizio</l>
+            <l>non sarà sull’innocente.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Testimon del suo supplizio</l>
+            <l>fia la luna in ciel sorgente.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Guai tre volte! Guai per voi!…</l>
+            <l>Saran morti i raggi suoi,</l>
+            <l>e la pallida sua faccia</l>
+            <l>d’atro vel si coprirà.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Vana e inutile minaccia!</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Alme ree, si compirà.</l>
+            <l>Seguito dall’ire</l>
+            <l>degli astri superni,</l>
+            <l>le colpe a punire</l>
+            <l>Colombo verrà.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Difesa, protetta</l>
+            <l>da’ numi paterni,</l>
+            <l>del sangue vendetta</l>
+            <l>Maïma farà.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>COLOMBO E ZAMORO</head>Il sol che fra pocotramonta ne’ flutti,estremo per tuttifatale sarà.(partono)Scena quintaInterno delle abitazioni dei Selvaggi, ove custodiscono i loro prigionieri.Fernando.Stanco da tanti affanni, avrai tu core,misero genitore,che la perdita mia soffra da forte?O per sottrarmi a morte,acconsentir potraiall’infame proposta? Ah! no: giammai.Zilia! Innocente Zilia! Oh! a me comparsain questo suol selvaggiocome fra l’ombre un raggio ~ avrai salute.Privo il mondo non fia di tua virtute.Vivi, diletta amica,vivi i miei giorni e i tuoi.Dolce pensier ti dicache riveder mi puoi:e dissipato il velo,che ti nasconde il cielo,a me t’innalzeraisull’ali dell’amor.Scena sestaFernando, Jarico, Zamoro, e Ufficiali indiani.<sp who="#colombo e zamoro">
+            <speaker>COLOMBO E ZAMORO:</speaker>
+            <l>Il sol che fra poco</l>
+            <l>tramonta ne’ flutti,</l>
+            <l>estremo per tutti</l>
+            <l>fatale sarà.</l>
+            <l>(partono)</l>
+            <l>Scena quinta</l>
+            <l>Interno delle abitazioni dei Selvaggi, ove custodiscono i loro prigionieri.</l>
+            <l>Fernando.</l>
+            <l>Stanco da tanti affanni, avrai tu core,</l>
+            <l>misero genitore,</l>
+            <l>che la perdita mia soffra da forte?</l>
+            <l>O per sottrarmi a morte,</l>
+            <l>acconsentir potrai</l>
+            <l>all’infame proposta? Ah! no: giammai.</l>
+            <l>Zilia! Innocente Zilia! Oh! a me comparsa</l>
+            <l>in questo suol selvaggio</l>
+            <l>come fra l’ombre un raggio ~ avrai salute.</l>
+            <l>Privo il mondo non fia di tua virtute.</l>
+            <l>Vivi, diletta amica,</l>
+            <l>vivi i miei giorni e i tuoi.</l>
+            <l>Dolce pensier ti dica</l>
+            <l>che riveder mi puoi:</l>
+            <l>e dissipato il velo,</l>
+            <l>che ti nasconde il cielo,</l>
+            <l>a me t’innalzerai</l>
+            <l>sull’ali dell’amor.</l>
+            <l>Scena sesta</l>
+            <l>Fernando, Jarico, Zamoro, e Ufficiali indiani.</l>
+          </sp>
+          <stage>COLOMBO E ZAMOROIl sol che fra pocotramonta ne’ flutti,estremo per tuttifatale sarà.(partono)Scena quintaInterno delle abitazioni dei Selvaggi, ove custodiscono i loro prigionieri.Fernando.Stanco da tanti affanni, avrai tu core,misero genitore,che la perdita mia soffra da forte?O per sottrarmi a morte,acconsentir potraiall’infame proposta? Ah! no: giammai.Zilia! Innocente Zilia! Oh! a me comparsain questo suol selvaggiocome fra l’ombre un raggio ~ avrai salute.Privo il mondo non fia di tua virtute.Vivi, diletta amica,vivi i miei giorni e i tuoi.Dolce pensier ti dicache riveder mi puoi:e dissipato il velo,che ti nasconde il cielo,a me t’innalzeraisull’ali dell’amor.Scena sestaFernando, Jarico, Zamoro, e Ufficiali indiani.</stage>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>La tua canzon di morte</l>
+            <l>incomincia o straniero. I nostri numi</l>
+            <l>di folta nebbia ingombro hanno lo spirto</l>
+            <l>del padre tuo. Cieco e crudele insieme</l>
+            <l>segno ei ti lascia di Maima all’ire,</l>
+            <l>e la colpevol Zilia a noi ricusa.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Alla virtù non usa,</l>
+            <l>la punisca Maima. Il mio supplizio,</l>
+            <l>qualunque ei sia, prepari; io no ‘l pavento.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ZAMORO</head>E sarai pago: ei fia crudele e lento.Olà, di nodi avvintosia tratto al tempio; e il castigliano sanguelavi la macchia di Maima offesa.Scena settimaZilia, Cori, e detti.<div type="scene">
+          <head>ZAMORO</head>E sarai pago: ei fia crudele e lento.Olà, di nodi avvintosia tratto al tempio; e il castigliano sanguelavi la macchia di Maima offesa.Scena settimaZilia, Cori, e detti.<sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>E sarai pago: ei fia crudele e lento.</l>
+            <l>Olà, di nodi avvinto</l>
+            <l>sia tratto al tempio; e il castigliano sangue</l>
+            <l>lavi la macchia di Maima offesa.</l>
+            <l>Scena settima</l>
+            <l>Zilia, Cori, e detti.</l>
+          </sp>
+          <stage>ZAMOROE sarai pago: ei fia crudele e lento.Olà, di nodi avvintosia tratto al tempio; e il castigliano sanguelavi la macchia di Maima offesa.Scena settimaZilia, Cori, e detti.</stage>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Quel di Zilia versate: ella vi è resa.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Chi veggo?</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>(Oh! gioia!)</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>(correndo a lei affannato)</l>
+            <l>E abbandonarti, ingrato</l>
+            <l>poté Colombo?</l>
+          </sp>
+          <stage>FERNANDO(correndo a lei affannato)E abbandonarti, ingratopoté Colombo?</stage>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>(con mistero)</l>
+            <l>Ed io potea lasciarti</l>
+            <l>perir per me?</l>
+          </sp>
+          <stage>ZILIA(con mistero)Ed io potea lasciartiperir per me?</stage>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Che mai facesti, o cruda?</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Il mio dover compiei.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Dover funesto!</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Deh! taci, e parti.</l>
+            <l>(sciogliendosi da lui)</l>
+          </sp>
+          <stage>ZILIADeh! taci, e parti.(sciogliendosi da lui)</stage>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>(con forza trattenendola)</l>
+            <l>Ah! no spietata; io resto.</l>
+            <l>Non pensar ch’io compri mai</l>
+            <l>col tuo sangue i giorni miei:</l>
+            <l>se perir per me tu déi,</l>
+            <l>deggio anch’io perir per te.</l>
+          </sp>
+          <stage>FERNANDO(con forza trattenendola)Ah! no spietata; io resto.Non pensar ch’io compri maicol tuo sangue i giorni miei:se perir per me tu déi,deggio anch’io perir per te.</stage>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Sian divisi.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Parti.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Assai</l>
+            <l>per te rea costei si fe’.</l>
+            <l>(sono divisi)</l>
+          </sp>
+          <stage>COROAssaiper te rea costei si fe’.(sono divisi)</stage>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Mi lasciate.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Parti, o trema.</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Zilia! Zilia!</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Ah! fuggi… Addio.</l>
+            <l>(è tratta altrove)</l>
+          </sp>
+          <stage>ZILIAAh! fuggi… Addio.(è tratta altrove)</stage>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Mi è rapita… Oh! pena estrema!</l>
+            <l>Né salvarla, oh! ciel poss’io?</l>
+            <l>Ah! se morte a me negate,</l>
+            <l>alme inique paventate,</l>
+            <l>io vivrò per vendicarla,</l>
+            <l>per punirvi ancor vivrò.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Esci… Parti… A noi sottrarla</l>
+            <l>braccio umano omai non può.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>FERNANDO</head>Ah! qual astro risplendea,caro bene, al nostro amor?Sol contenti promettea,non serbava che dolor.(lo guidano via minacciosi)Scena ottavaJarico, e Zamoro.<sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>Ah! qual astro risplendea,</l>
+            <l>caro bene, al nostro amor?</l>
+            <l>Sol contenti promettea,</l>
+            <l>non serbava che dolor.</l>
+            <l>(lo guidano via minacciosi)</l>
+            <l>Scena ottava</l>
+            <l>Jarico, e Zamoro.</l>
+          </sp>
+          <stage>FERNANDOAh! qual astro risplendea,caro bene, al nostro amor?Sol contenti promettea,non serbava che dolor.(lo guidano via minacciosi)Scena ottavaJarico, e Zamoro.</stage>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>A radunar de’ vegli,</l>
+            <l>e de’ sacri indovini il venerando</l>
+            <l>gran consesso m’invio. ~ Veglia sull’empia,</l>
+            <l>Zamoro, tu… Meglio del padre il puoi.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Veggo negli occhi tuoi</l>
+            <l>lo scompiglio del cor… Io ti compiango…</l>
+            <l>Io sospiro con te: meno infelici</l>
+            <l>non ci rende vendetta.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>JARICO</head>Un breve istantea me parli natura, a te l’amore…ma taccian poscia, e sol favelli onore.(parte)Scena nonaZamoro, indi Zilia.<sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Un breve istante</l>
+            <l>a me parli natura, a te l’amore…</l>
+            <l>ma taccian poscia, e sol favelli onore.</l>
+            <l>(parte)</l>
+            <l>Scena nona</l>
+            <l>Zamoro, indi Zilia.</l>
+          </sp>
+          <stage>JARICOUn breve istantea me parli natura, a te l’amore…ma taccian poscia, e sol favelli onore.(parte)Scena nonaZamoro, indi Zilia.</stage>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Ah! non è morto, il sento,</l>
+            <l>no non è morto amor… Ad onta ancora</l>
+            <l>dell’ira mia feroce,</l>
+            <l>innalza in me la sua possente voce.</l>
+            <l>Oh! Zilia! Un’altra volta</l>
+            <l>ceder mi è forza; abbandonarti a morte</l>
+            <l>né vo’, né posso, né mirar fra l’ombre</l>
+            <l>tanta beltà per mia cagion sepolta.</l>
+            <l>(apre il recinto ove Zilia è stata rinchiusa)</l>
+            <l>Zilia!</l>
+          </sp>
+          <stage>ZAMOROAh! non è morto, il sento,no non è morto amor… Ad onta ancoradell’ira mia feroce,innalza in me la sua possente voce.Oh! Zilia! Un’altra voltaceder mi è forza; abbandonarti a mortené vo’, né posso, né mirar fra l’ombretanta beltà per mia cagion sepolta.(apre il recinto ove Zilia è stata rinchiusa)Zilia!</stage>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Zamoro!… A che mai vieni?</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Ascolta?</l>
+            <l>Vittima ai neri spirti</l>
+            <l>tratta sarai fra poco… Io non ho core</l>
+            <l>di lasciarti perir… Salvarti io voglio…</l>
+            <l>e il posso io solo, e in più felici arene,</l>
+            <l>ove il poter non giunga</l>
+            <l>de’ tuoi fieri custodi,</l>
+            <l>meco guidarli illesa.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Io teco!</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Ah! m’odi.</l>
+            <l>Non tentata segreta isoletta</l>
+            <l>io conosco ne’ mari lontani:</l>
+            <l>là dall’onde e dai boschi protetta,</l>
+            <l>scorderai l’universo con me.</l>
+            <l>Qual ruscello per piaggia fiorita</l>
+            <l>scorrerà la tua placida vita;</l>
+            <l>sorgerà per te lieta ogni aurora,</l>
+            <l>fia serena ogni sera per te.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Va’… più bene per Zilia non v’è.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Io beato d’un solo tuo sguardo,</l>
+            <l>frenerò del mio labbro i sospiri:</l>
+            <l>non dirò, come peno, com’ardo,</l>
+            <l>finché il cor non ti parli per me.</l>
+            <l>Come vento su colle romito</l>
+            <l>gemerò, piangerò non udito,</l>
+            <l>fino al dì che obliato il rivale</l>
+            <l>la mia fede trionfi di te.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Va… più amore per Zilia non v’è.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Odi ancora…</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Deh! va’: non t’ascolto.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Vieni, o barbara.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Invano lo speri.</l>
+            <l>(musica da lontano)</l>
+          </sp>
+          <stage>ZILIAInvano lo speri.(musica da lontano)</stage>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Il consesso de’ padri è disciolto…</l>
+            <l>A cercarti son mossi i guerrieri…</l>
+            <l>Sei perduta, se indugi un momento…</l>
+            <l>Cedi, ah! cedi…</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Io rimango a perir.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ZAMORO</head>Ostinata! Rinascere io sentodi vendetta più fiero il desir.Scena decimaCoro di Guerrieri indiani, e detti.<sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Ostinata! Rinascere io sento</l>
+            <l>di vendetta più fiero il desir.</l>
+            <l>Scena decima</l>
+            <l>Coro di Guerrieri indiani, e detti.</l>
+          </sp>
+          <stage>ZAMOROOstinata! Rinascere io sentodi vendetta più fiero il desir.Scena decimaCoro di Guerrieri indiani, e detti.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>La colpevole al tempio tu guida:</l>
+            <l>morte, morte d’intorno si grida…</l>
+            <l>i vegliardi, ed i sacri indovini</l>
+            <l>la sentenza fatal proferir.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Zilia!… Oh! Zilia!</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Io son pronta a morir.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>A morte va ~ poiché la morte</l>
+            <l>di provocar ~ hai l’ardimento:</l>
+            <l>di mia pietà ~ vergogna io sento;</l>
+            <l>il mio furor ~ più fren non ha.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>A morte va.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Non men fatal ~ sarà la sorte</l>
+            <l>del mio rival ~ da te diletto;</l>
+            <l>straziato ognor ~ da un vano affetto,</l>
+            <l>mai più, mai più ~ riposo avrà.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>A morte va.</l>
+            <l>(partono)</l>
+          </sp>
+          <stage>TUTTIA morte va.(partono)</stage>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>(O debol cor ~ di te più forte</l>
+            <l>fa strazio amor ~ che mai non tace.</l>
+            <l>Ah! s’ella muor ~ non ho più pace,</l>
+            <l>ogni mio ben ~ con lei morrà.)</l>
+            <l>Deh! riedi in te ~ ti prego ancora…</l>
+            <l>Se non di me ~ di te pietà.</l>
+            <l>Rispondi almen. ~</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Andiam ~ si mora.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Oh! insano ardir! ~</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>A morte va.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>A morte va ~ poiché la morte</l>
+            <l>di provocar ~ hai l’ardimento,</l>
+            <l>di mia pietà ~ vergogna io sento,</l>
+            <l>il mio furor ~ più fren non ha.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TUTTI</head>A morte va.(Zilia è condotta via fra i guerrieri; Zamoro la segue furente)Scena undicesimaRecinto sacro che mette al sotterraneo dedicato agli dèi di Maima, la di cui apertura vedesi in mezzo.Il luogo è aperto nel fondo, e da lontano scopresi il mare. È notte. Il cielo è sereno e stellato, e a poco a poco si leva la luna.Al suono di lugubre musica escono gl’Indiani d’ambo i sessi in processione. Séguono gl’Indovini, e i Vegliardi col capo coperto, e con ramoscelli in mano, e si arrestano tutti all’apertura del sotterraneo, e cominciano un rito, girando intorno ad essa, e formando una specie di danza sacra. Intanto si canta il seguente coro:<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>A morte va.</l>
+            <l>(Zilia è condotta via fra i guerrieri; Zamoro la segue furente)</l>
+            <l>Scena undicesima</l>
+            <l>Recinto sacro che mette al sotterraneo dedicato agli dèi di Maima, la di cui apertura vedesi in mezzo.</l>
+            <l>Il luogo è aperto nel fondo, e da lontano scopresi il mare. È notte. Il cielo è sereno e stellato, e a poco a poco si leva la luna.</l>
+            <l>Al suono di lugubre musica escono gl’Indiani d’ambo i sessi in processione. Séguono gl’Indovini, e i Vegliardi col capo coperto, e con ramoscelli in mano, e si arrestano tutti all’apertura del sotterraneo, e cominciano un rito, girando intorno ad essa, e formando una specie di danza sacra. Intanto si canta il seguente coro:</l>
+          </sp>
+          <stage>TUTTIA morte va.(Zilia è condotta via fra i guerrieri; Zamoro la segue furente)Scena undicesimaRecinto sacro che mette al sotterraneo dedicato agli dèi di Maima, la di cui apertura vedesi in mezzo.Il luogo è aperto nel fondo, e da lontano scopresi il mare. È notte. Il cielo è sereno e stellato, e a poco a poco si leva la luna.Al suono di lugubre musica escono gl’Indiani d’ambo i sessi in processione. Séguono gl’Indovini, e i Vegliardi col capo coperto, e con ramoscelli in mano, e si arrestano tutti all’apertura del sotterraneo, e cominciano un rito, girando intorno ad essa, e formando una specie di danza sacra. Intanto si canta il seguente coro:</stage>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>Stella del nostro ciel,</l>
+            <l>d’oscuro vel</l>
+            <l>ti cingerai?</l>
+          </sp>
+          <sp who="#uomini">
+            <speaker>UOMINI:</speaker>
+            <l>Fiore del patrio suol,</l>
+            <l>diletto al sol</l>
+            <l>più non sarai?</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Già ti preme, ti flagella</l>
+            <l>fosco nembo struggitor.</l>
+            <l>Orbo il ciel tu lasci, o stella,</l>
+            <l>spoglio il suol tu lasci, o fior.</l>
+          </sp>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>Lassa! A tentar mai più</l>
+            <l>non verrai tu</l>
+            <l>gli antri segreti?</l>
+          </sp>
+          <sp who="#uomini">
+            <speaker>UOMINI:</speaker>
+            <l>Ti vedrem più gittar</l>
+            <l>in riva al mar</l>
+            <l>gli ami e le reti?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TUTTI</head>Ah! spezzato il tuo bell’arco,giù dal balzo penderà.Il tuo schifo ignudo, e scarco,sull’arena giacerà.(gl’indovini e i vegliardi scendono nel sotterraneo)Scena dodicesimaZilia in mezzo ai Custodi, Jarico con Guerrieri.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Ah! spezzato il tuo bell’arco,</l>
+            <l>giù dal balzo penderà.</l>
+            <l>Il tuo schifo ignudo, e scarco,</l>
+            <l>sull’arena giacerà.</l>
+            <l>(gl’indovini e i vegliardi scendono nel sotterraneo)</l>
+            <l>Scena dodicesima</l>
+            <l>Zilia in mezzo ai Custodi, Jarico con Guerrieri.</l>
+          </sp>
+          <stage>TUTTIAh! spezzato il tuo bell’arco,giù dal balzo penderà.Il tuo schifo ignudo, e scarco,sull’arena giacerà.(gl’indovini e i vegliardi scendono nel sotterraneo)Scena dodicesimaZilia in mezzo ai Custodi, Jarico con Guerrieri.</stage>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Pria che i notturni spirti</l>
+            <l>chiamin tre volte dal profondo speco,</l>
+            <l>che sepolcro le fia, l’empia donzella,</l>
+            <l>sola si lasci, e con sospiri e preci</l>
+            <l>tenti placar, se il può, gli offesi dèi.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Ah! padre mio!…</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Più figlia mia non sei.</l>
+            <l>Disonorato, o indegna,</l>
+            <l>hai per sempre Jarico… Hai di Maima</l>
+            <l>la sventura compita.</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Emenda, io ne farò co’ la mia vita,</l>
+            <l>ma deh! di pace un segno,</l>
+            <l>un segno di pietà non ricusarmi</l>
+            <l>in questi amari istanti, e mi perdoni,</l>
+            <l>se no ‘l puote il cacico, il padre almeno.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>JARICO</head>Ei non è più… Gli trafiggesti il seno.(partono tutti)Scena tredicesimaZilia.Addio ridenti sognidella mia gioventù, giochi innocentide’ lieti giorni! E a voi pur anche, o votidi sereno avvenir, per sempre addio!Non mi resta che il pianto, e l’amor mio.Ah! fossi almen sepoltalungo il mare, o Fernando, o sovra il colleche ancor ripete i tuoi sospiri e i miei!D’una lagrima tua conforto avrei.Ma fia bassa, fia profondala magion del mio riposo:del mio letto tenebrososulla sponda,niun mortal seder vedrò.<sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Ei non è più… Gli trafiggesti il seno.</l>
+            <l>(partono tutti)</l>
+            <l>Scena tredicesima</l>
+            <l>Zilia.</l>
+            <l>Addio ridenti sogni</l>
+            <l>della mia gioventù, giochi innocenti</l>
+            <l>de’ lieti giorni! E a voi pur anche, o voti</l>
+            <l>di sereno avvenir, per sempre addio!</l>
+            <l>Non mi resta che il pianto, e l’amor mio.</l>
+            <l>Ah! fossi almen sepolta</l>
+            <l>lungo il mare, o Fernando, o sovra il colle</l>
+            <l>che ancor ripete i tuoi sospiri e i miei!</l>
+            <l>D’una lagrima tua conforto avrei.</l>
+            <l>Ma fia bassa, fia profonda</l>
+            <l>la magion del mio riposo:</l>
+            <l>del mio letto tenebroso</l>
+            <l>sulla sponda,</l>
+            <l>niun mortal seder vedrò.</l>
+          </sp>
+          <stage>JARICOEi non è più… Gli trafiggesti il seno.(partono tutti)Scena tredicesimaZilia.Addio ridenti sognidella mia gioventù, giochi innocentide’ lieti giorni! E a voi pur anche, o votidi sereno avvenir, per sempre addio!Non mi resta che il pianto, e l’amor mio.Ah! fossi almen sepoltalungo il mare, o Fernando, o sovra il colleche ancor ripete i tuoi sospiri e i miei!D’una lagrima tua conforto avrei.Ma fia bassa, fia profondala magion del mio riposo:del mio letto tenebrososulla sponda,niun mortal seder vedrò.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(sotterraneo)</l>
+            <l>Zilia!… Il ciel ti condannò.</l>
+          </sp>
+          <stage>CORO(sotterraneo)Zilia!… Il ciel ti condannò.</stage>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Già mi chiama, già m’abbraccia</l>
+            <l>dell’abisso il sen mugghiarne.</l>
+            <l>Ah! mi stendi un solo istante</l>
+            <l>le tue braccia,</l>
+            <l>mi ritieni, amato ben.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(sotterraneo)</l>
+            <l>Zilia!… Scendi alle ombre in sen.</l>
+          </sp>
+          <stage>CORO(sotterraneo)Zilia!… Scendi alle ombre in sen.</stage>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Prega, ah prega il tuo gran nume</l>
+            <l>che mi rechi in parte almeno,</l>
+            <l>ove a me d’un sol baleno</l>
+            <l>splenda il lume,</l>
+            <l>ove a me ti sveli ancor.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>CORO</head>(sotterraneo)Zilia!… Scendi a eterno orror.Scena quattordicesimaGli Indovini, e i Vegliardi ricompariscono dal sotterraneo.Ritorna Jarico, con Zamoro, e séguito degli Indiani.<div type="scene">
+          <head>CORO</head>(sotterraneo)Zilia!… Scendi a eterno orror.Scena quattordicesimaGli Indovini, e i Vegliardi ricompariscono dal sotterraneo.Ritorna Jarico, con Zamoro, e séguito degli Indiani.<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(sotterraneo)</l>
+            <l>Zilia!… Scendi a eterno orror.</l>
+            <l>Scena quattordicesima</l>
+            <l>Gli Indovini, e i Vegliardi ricompariscono dal sotterraneo.</l>
+            <l>Ritorna Jarico, con Zamoro, e séguito degli Indiani.</l>
+          </sp>
+          <stage>CORO(sotterraneo)Zilia!… Scendi a eterno orror.Scena quattordicesimaGli Indovini, e i Vegliardi ricompariscono dal sotterraneo.Ritorna Jarico, con Zamoro, e séguito degli Indiani.</stage>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Poiché gli dèi parlar, poiché la terra</l>
+            <l>già spalanca le fauci ad inghiottirti,</l>
+            <l>scendi ai notturni spirti,</l>
+            <l>e sepolta con te l’onta rimanga</l>
+            <l>della patria e del padre.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Addio per sempre,</l>
+            <l>Zilia infelice, addio!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ZILIA</head>Padre… compagne…un solo amplesso ancora…Almen, l’ultimo amplesso. Ah! no ‘l negateassai punita io sono…o compagne, pietà… padre, perdono.Scena quindicesimaColombo, Fernando, Castigliani e detti.<sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Padre… compagne…</l>
+            <l>un solo amplesso ancora…</l>
+            <l>Almen, l’ultimo amplesso. Ah! no ‘l negate</l>
+            <l>assai punita io sono…</l>
+            <l>o compagne, pietà… padre, perdono.</l>
+            <l>Scena quindicesima</l>
+            <l>Colombo, Fernando, Castigliani e detti.</l>
+          </sp>
+          <stage>ZILIAPadre… compagne…un solo amplesso ancora…Almen, l’ultimo amplesso. Ah! no ‘l negateassai punita io sono…o compagne, pietà… padre, perdono.Scena quindicesimaColombo, Fernando, Castigliani e detti.</stage>
+          <sp who="#colombo, fernando e castigliani">
+            <speaker>COLOMBO, FERNANDO E CASTIGLIANI:</speaker>
+            <l>Barbari, vi arrestate:</l>
+            <l>Zilia non morirà.</l>
+          </sp>
+          <sp who="#indiani e zilia">
+            <speaker>INDIANI E ZILIA:</speaker>
+            <l>Cielo!</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Superbi,</l>
+            <l>aborriti nemici,</l>
+            <l>a che venite voi? Così sfidarci</l>
+            <l>osate ancora in questo sacro asilo,</l>
+            <l>in faccia ai nostri dèi?</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Polve ed ombra son essi agli occhi miei.</l>
+            <l>Il sacrifizio atroce</l>
+            <l>non compirete, o crudi. Il rito orrendo</l>
+            <l>aborre il cielo, e da Maima il guardo</l>
+            <l>ritorcono le stelle inorrite.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Guerrieri, non udite</l>
+            <l>le sue vane minacce. Arti son queste,</l>
+            <l>arti mendaci della rea Castiglia.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Innalzate, o protervi, al ciel le ciglia.</l>
+            <l>(il cielo comincia ad oscurarsi, e la luna si eclissa)</l>
+            <l>Di sanguinoso ammanto</l>
+            <l>già si copron dell’aria i campi immensi,</l>
+            <l>grave d’ignei vapor l’aura già spira.</l>
+            <l>I raggi tuoi ritira,</l>
+            <l>ti oscura, o luna, ed il furor supremo</l>
+            <l>annunzi all’India il tuo fulgore estinto.</l>
+          </sp>
+          <stage>COLOMBOInnalzate, o protervi, al ciel le ciglia.(il cielo comincia ad oscurarsi, e la luna si eclissa)Di sanguinoso ammantogià si copron dell’aria i campi immensi,grave d’ignei vapor l’aura già spira.I raggi tuoi ritira,ti oscura, o luna, ed il furor supremoannunzi all’India il tuo fulgore estinto.</stage>
+          <sp who="#indiani">
+            <speaker>INDIANI:</speaker>
+            <l>Oh prodigio! oh! terror!</l>
+          </sp>
+          <sp who="#fernando">
+            <speaker>FERNANDO:</speaker>
+            <l>(Oh gioia!)</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>(Ho vinto.)</l>
+            <l>Tutti.</l>
+          </sp>
+          <stage>COLOMBO(Ho vinto.)Tutti.</stage>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>O nume possente,</l>
+            <l>che al guardo mi sveli</l>
+            <l>gli arcani de’ cieli,</l>
+            <l>degli astri il tenor,</l>
+            <l>commovi clemente</l>
+            <l>de’ barbari il cor.</l>
+          </sp>
+          <sp who="#colombo, fernando e castigliani">
+            <speaker>COLOMBO, FERNANDO E CASTIGLIANI:</speaker>
+            <l>O nume possente,</l>
+            <l>che al guardo gli sveli</l>
+            <l>gli arcani de’ cieli,</l>
+            <l>degli astri il tenor,</l>
+            <l>commovi clemente</l>
+            <l>de’ barbari il cor.</l>
+          </sp>
+          <sp who="#jarico, zamoro e indiani">
+            <speaker>JARICO, ZAMORO E INDIANI:</speaker>
+            <l>O luna morente,</l>
+            <l>che al guardo ti veli,</l>
+            <l>che i campi de’ cieli</l>
+            <l>ricopri d’orror,</l>
+            <l>d’un nume possente</l>
+            <l>annunzi il furor.</l>
+          </sp>
+          <sp who="#zamoro e indiani">
+            <speaker>ZAMORO E INDIANI:</speaker>
+            <l>A tanto portento,</l>
+            <l>che miro, che sento</l>
+            <l>va l’alma smarrita</l>
+            <l>fra l’ira, e il terror.</l>
+          </sp>
+          <sp who="#zilia e castigliani">
+            <speaker>ZILIA E CASTIGLIANI:</speaker>
+            <l>Dipende da questo</l>
+            <l>momento funesto</l>
+            <l>la pace, la vita</l>
+            <l>la speme, l’amor.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>O nume possente,</l>
+            <l>o luna morente,</l>
+            <l>che al guardo ti veli,</l>
+            <l>che i campi de’ cieli</l>
+            <l>ricopri d’orror,</l>
+            <l>d’un nume possente</l>
+            <l>annunzi il furor.</l>
+          </sp>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Tremendo e forte, il confessiamo, hai teco</l>
+            <l>uno spirto, o stranieri; ma di Maima</l>
+            <l>son pur forti gli dèi: non irritarli,</l>
+            <l>né toglier loro i sacri riti e l’are.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Parti, rivarca il mare,</l>
+            <l>e ci lascia seguir liberi e lieti</l>
+            <l>de’ nostri avi le leggi, e gli usi antiqui.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Barbare leggi, usi crudeli e iniqui,</l>
+            <l>anzi ch’io parta, il giuro,</l>
+            <l>spariran da Maima.</l>
+          </sp>
+          <sp who="#zamoro">
+            <speaker>ZAMORO:</speaker>
+            <l>Ah! voi primieri,</l>
+            <l>voi sparirete. Se non valgon l’armi,</l>
+            <l>vi distrugga la fame, e i frutti suoi</l>
+            <l>vi neghi il suol che devastar tentate.</l>
+            <l>Odonsi colpi di cannone. Tutti si rivolgono al mare. Si presenta una flotta castigliana. La luna ricomparisce più brillante.</l>
+          </sp>
+          <stage>ZAMOROAh! voi primieri,voi sparirete. Se non valgon l’armi,vi distrugga la fame, e i frutti suoivi neghi il suol che devastar tentate.Odonsi colpi di cannone. Tutti si rivolgono al mare. Si presenta una flotta castigliana. La luna ricomparisce più brillante.</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Qual rumor! Che sarà?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>COLOMBO</head>Stolti!… Mirate.Ecco le attese navi, ecco il soccorsoche Castiglia m’invia. L’astro notturnola sua luce riveste, e il gloriosovessillo del mio re lieto salutaco’ sereni suoi rai.Scena ultimaGiunge frettoloso Diego dalla spiaggia. Sbarca Fiesco con numeroso stuolo di Castigliani, al suono di banda militare, e al fragor dell’artiglieria.<sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Stolti!… Mirate.</l>
+            <l>Ecco le attese navi, ecco il soccorso</l>
+            <l>che Castiglia m’invia. L’astro notturno</l>
+            <l>la sua luce riveste, e il glorioso</l>
+            <l>vessillo del mio re lieto saluta</l>
+            <l>co’ sereni suoi rai.</l>
+            <l>Scena ultima</l>
+            <l>Giunge frettoloso Diego dalla spiaggia. Sbarca Fiesco con numeroso stuolo di Castigliani, al suono di banda militare, e al fragor dell’artiglieria.</l>
+          </sp>
+          <stage>COLOMBOStolti!… Mirate.Ecco le attese navi, ecco il soccorsoche Castiglia m’invia. L’astro notturnola sua luce riveste, e il gloriosovessillo del mio re lieto salutaco’ sereni suoi rai.Scena ultimaGiunge frettoloso Diego dalla spiaggia. Sbarca Fiesco con numeroso stuolo di Castigliani, al suono di banda militare, e al fragor dell’artiglieria.</stage>
+          <sp who="#diego">
+            <speaker>DIEGO:</speaker>
+            <l>Fiesco ritorna</l>
+            <l>e navigli, e nocchieri a te conduce.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Fiesco!… Mi abbraccia.</l>
+          </sp>
+          <sp who="#fiesco">
+            <speaker>FIESCO:</speaker>
+            <l>Io mi ti prostro, o duce.</l>
+            <l>Alfin la tua virtude</l>
+            <l>trionfò dell’invidia, e a te del paro</l>
+            <l>grande ne’ tristi che ne’ lieti casi,</l>
+            <l>coll’universo intier, plaude Castiglia.</l>
+          </sp>
+          <sp who="#castigliani">
+            <speaker>CASTIGLIANI:</speaker>
+            <l>Viva Colombo!</l>
+          </sp>
+          <sp who="#zilia e fernando">
+            <speaker>ZILIA E FERNANDO:</speaker>
+            <l>Oh gioia!</l>
+          </sp>
+          <sp who="#indiani">
+            <speaker>INDIANI:</speaker>
+            <l>Oh meraviglia!</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Oh! Tu che tanto mare</l>
+            <l>per me varcasti, quando il mondo ingrato</l>
+            <l>mi abbandonava, o genovese illustre,</l>
+            <l>o mio concittadin, vivrai famoso</l>
+            <l>finché vivrà Colombo appo le genti.</l>
+            <l>Sciogliam le vele ai venti</l>
+            <l>compagni un’altra volta, e nuovi regni</l>
+            <l>usciranno dai flutti innanzi a questo</l>
+            <l>respinto invano dallo spirto avverso</l>
+            <l>vessillo redentor dell’universo.</l>
+            <l>(prende la bandiera dalle mani di Fiesco, e la pianta in mezzo alla scena)</l>
+            <l>Di mia mano o santa insegna,</l>
+            <l>io ti pianto in questo suol.</l>
+            <l>Trionfale ognor qui regna</l>
+            <l>finché in ciel risplenda il sol.</l>
+            <l>E tu popolo feroce,</l>
+            <l>tu redento dall’error,</l>
+            <l>ti ripara all’alma croce,</l>
+            <l>vieni all’ombra dell’amor.</l>
+          </sp>
+          <stage>COLOMBOOh! Tu che tanto mareper me varcasti, quando il mondo ingratomi abbandonava, o genovese illustre,o mio concittadin, vivrai famosofinché vivrà Colombo appo le genti.Sciogliam le vele ai venticompagni un’altra volta, e nuovi regniusciranno dai flutti innanzi a questorespinto invano dallo spirto avversovessillo redentor dell’universo.(prende la bandiera dalle mani di Fiesco, e la pianta in mezzo alla scena)Di mia mano o santa insegna,io ti pianto in questo suol.Trionfale ognor qui regnafinché in ciel risplenda il sol.E tu popolo feroce,tu redento dall’error,ti ripara all’alma croce,vieni all’ombra dell’amor.</stage>
+          <sp who="#jarico, zamoro e indiani">
+            <speaker>JARICO, ZAMORO E INDIANI:</speaker>
+            <l>Sì, vincesti… in te ragiona,</l>
+            <l>in te spira un dio verace.</l>
+            <l>Tu gli eccessi a noi perdona</l>
+            <l>dell’inganno, e del furor.</l>
+          </sp>
+          <sp who="#spagnoli e indiani">
+            <speaker>SPAGNOLI E INDIANI:</speaker>
+            <l>Ci raccolga uniti in pace</l>
+            <l>il vessillo salvator.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Pure stelle, ai giuri nostri</l>
+            <l>raddoppiate di splendore:</l>
+            <l>degno è il cielo spettatore</l>
+            <l>di due mondi all’amistà.</l>
+            <l>Santa al par de’ raggi vostri</l>
+            <l>questa pace durerà.</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>(a Zilia)</l>
+            <l>Tu che nel mio periglio</l>
+            <l>tanta mi fosti aita,</l>
+            <l>che per salvarmi un figlio,</l>
+            <l>desti riposo, e vita,</l>
+            <l>da me, da lui partita</l>
+            <l>tu non sarai mai più.</l>
+            <l>Vieni, e all’Europa addita</l>
+            <l>che innata è la virtù.</l>
+          </sp>
+          <stage>COLOMBO(a Zilia)Tu che nel mio perigliotanta mi fosti aita,che per salvarmi un figlio,desti riposo, e vita,da me, da lui partitatu non sarai mai più.Vieni, e all’Europa additache innata è la virtù.</stage>
+          <sp who="#zilia e fernando">
+            <speaker>ZILIA E FERNANDO:</speaker>
+            <l>Oh! generoso!</l>
+          </sp>
+          <sp who="#castigliani">
+            <speaker>CASTIGLIANI:</speaker>
+            <l>Oh! nobile!</l>
+          </sp>
+          <sp who="#indiani">
+            <speaker>INDIANI:</speaker>
+            <l>Pari agli dèi quaggiù!</l>
+          </sp>
+          <sp who="#colombo">
+            <speaker>COLOMBO:</speaker>
+            <l>Di un mondo scoperto</l>
+            <l>fra tante fatiche,</l>
+            <l>mi scemino il merto</l>
+            <l>congiure nemiche:</l>
+            <l>il vanto, il contento</l>
+            <l>d’averlo redento</l>
+            <l>l’invidia degli uomini</l>
+            <l>rapirmi non può.</l>
+            <l>Abbiate, o superbi,</l>
+            <l>potenza e tesori:</l>
+            <l>a me si riserbi</l>
+            <l>l’impero de’ cori:</l>
+            <l>se a me no ‘l consente</l>
+            <l>l’etade presente,</l>
+            <l>più santo dai posteri,</l>
+            <l>eterno l’avrò.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>TUTTI</head>Oh! chiara e beatafra quante il sol vedela terra onoratache cuna ti diede!Morran degl’imperii fasti guerrieri,sui regni possentil’oblio siederà.La terra feliceche t’era nutrice,diletta alle gentieterna vivrà.VariantePer soddisfare all’attrice che rappresenta il personaggio di Zilia, si sostituiscono al recitativo della scena XIV dell’atto II i seguenti versi.Dopo quelli cantati da tutti:<div type="scene">
+          <head>TUTTI</head>Oh! chiara e beatafra quante il sol vedela terra onoratache cuna ti diede!Morran degl’imperii fasti guerrieri,sui regni possentil’oblio siederà.La terra feliceche t’era nutrice,diletta alle gentieterna vivrà.VariantePer soddisfare all’attrice che rappresenta il personaggio di Zilia, si sostituiscono al recitativo della scena XIV dell’atto II i seguenti versi.Dopo quelli cantati da tutti:<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Oh! chiara e beata</l>
+            <l>fra quante il sol vede</l>
+            <l>la terra onorata</l>
+            <l>che cuna ti diede!</l>
+            <l>Morran degl’imperi</l>
+            <l>i fasti guerrieri,</l>
+            <l>sui regni possenti</l>
+            <l>l’oblio siederà.</l>
+            <l>La terra felice</l>
+            <l>che t’era nutrice,</l>
+            <l>diletta alle genti</l>
+            <l>eterna vivrà.</l>
+            <l>Variante</l>
+            <l>Per soddisfare all’attrice che rappresenta il personaggio di Zilia, si sostituiscono al recitativo della scena XIV dell’atto II i seguenti versi.</l>
+            <l>Dopo quelli cantati da tutti:</l>
+          </sp>
+          <stage>TUTTIOh! chiara e beatafra quante il sol vedela terra onoratache cuna ti diede!Morran degl’imperii fasti guerrieri,sui regni possentil’oblio siederà.La terra feliceche t’era nutrice,diletta alle gentieterna vivrà.VariantePer soddisfare all’attrice che rappresenta il personaggio di Zilia, si sostituiscono al recitativo della scena XIV dell’atto II i seguenti versi.Dopo quelli cantati da tutti:</stage>
+          <sp who="#jarico">
+            <speaker>JARICO:</speaker>
+            <l>Poiché gli dèi parlar, poiché la terra</l>
+            <l>già spalanca le fauci ad inghiottirti,</l>
+            <l>scendi ai notturni spirti,</l>
+            <l>e sepolta con te l’onta rimanga</l>
+            <l>della patria e del padre.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Addio per sempre,</l>
+            <l>Zilia infelice, addio!</l>
+          </sp>
+          <sp who="#zilia">
+            <speaker>ZILIA:</speaker>
+            <l>Tu taci!… Me discacci!… Ah padre mio!</l>
+            <l>Io non chiedo a te la vita,</l>
+            <l>peso inutile per me:</l>
+            <l>chiedo solo che aborrita</l>
+            <l>io non parta almen da te.</l>
+            <l>Voi piangete la mia sorte,</l>
+            <l>se non piange il genitor.</l>
+            <l>O compagne, è oblio la morte</l>
+            <l>d’ogni offesa e d’ogni error.</l>
+            <l>Fine del libretto.</l>
+          </sp>
+          <stage>ZILIATu taci!… Me discacci!… Ah padre mio!Io non chiedo a te la vita,peso inutile per me:chiedo solo che aborritaio non parta almen da te.Voi piangete la mia sorte,se non piange il genitor.O compagne, è oblio la morted’ogni offesa e d’ogni error.Fine del libretto.</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

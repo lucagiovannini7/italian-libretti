@@ -1,0 +1,3320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">iobe, regina di Tebe</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="anfione">
+            <persName>ANFIONE:</persName>
+          </person>
+          <person xml:id="manto">
+            <persName>MANTO:</persName>
+          </person>
+          <person xml:id="niobe e anfione">
+            <persName>NIOBE E ANFIONE:</persName>
+          </person>
+          <person xml:id="niobe">
+            <persName>NIOBE:</persName>
+          </person>
+          <person xml:id="creonte">
+            <persName>CREONTE:</persName>
+          </person>
+          <person xml:id="nerea">
+            <persName>NEREA:</persName>
+          </person>
+          <person xml:id="tiberino">
+            <persName>TIBERINO:</persName>
+          </person>
+          <person xml:id="creonte e niobe">
+            <persName>CREONTE E NIOBE:</persName>
+          </person>
+          <person xml:id="tiresia">
+            <persName>TIRESIA:</persName>
+          </person>
+          <person xml:id="poliferno">
+            <persName>POLIFERNO:</persName>
+          </person>
+          <person xml:id="voci di popolo">
+            <persName>VOCI DI POPOLO:</persName>
+          </person>
+          <person xml:id="clearte">
+            <persName>CLEARTE:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>NIOBE</castItem>
+        <castItem>ANFIONE</castItem>
+        <castItem>MANTO</castItem>
+        <castItem>TIRESIA</castItem>
+        <castItem>CLEARTE</castItem>
+        <castItem>CREONTE</castItem>
+        <castItem>POLIFERNO</castItem>
+        <castItem>TIBERINO</castItem>
+        <castItem>NEREA</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="scene">
+        <head>Serenissime altezze elettorali</head>Se l’oppressione del vizio è lo spettacolo più gradito dagli occhi eterni de’ numi, non poteva la mia ubbidiente devozione offrire divertimento più proprio a benignissimi sguardi dell’altezze seren.me elett.li quanto la prosternazione d’un vizio, e d’un vizio direttamente opposto alla virtù più pregiata dalle vostre grand’anime. Ecco per ciò dalla famosa reggia di Tebe risorto su la scena il gran mostro della superbia a provocare i fulmini nelle tremende destre de’ numi, perché servano di faci luminose nel sacro tempio de’ vostri regi lari, dove il nume d’una eccelsa umiltà magnanimamente si adora. All’immutabile gloria di così potente domatrice del vano fasto, che nel serenissimo cielo del vostro soglio bella più del sole risplende, innalza colossi di sé stesso l’orgoglio nella memorabile peripezia di quella infelice regnante, di cui va pubblicando con tromba maestra la fama:</div>
+    </body>
+    <div type="act">
+      <head>Macchine</head>Gran mostro, che si risolve in molti guerrieri.Fantasma, che sorgendo di sotterra, forma grande voragine in aria.Mura di Tebe, che s’innalzano a poco a poco.Due draghi infernali, che di sotterra conducono sulla scena Creonte ed Poliferno.Nube, che sorge in aria, e nasconde li suddetti.Gran nuvolosa, che dall’alto scende con Creonte in apparenza di Marte.Carro trionfale fulminato da Latona, Apolline, e Diana, che compariscono in aria con deità compagne.Caduta di molti edifici ad un terremoto.Atto primoScena primaRegale con trono in cui Niobe, ed Anfione circondati da numerosa loro Prole in mostra guerriera, corteggio di Cavalieri, e Dame, e Nerea.<div type="scene">
+        <head>Macchine</head>Gran mostro, che si risolve in molti guerrieri.Fantasma, che sorgendo di sotterra, forma grande voragine in aria.Mura di Tebe, che s’innalzano a poco a poco.Due draghi infernali, che di sotterra conducono sulla scena Creonte ed Poliferno.Nube, che sorge in aria, e nasconde li suddetti.Gran nuvolosa, che dall’alto scende con Creonte in apparenza di Marte.Carro trionfale fulminato da Latona, Apolline, e Diana, che compariscono in aria con deità compagne.Caduta di molti edifici ad un terremoto.Atto primoScena primaRegale con trono in cui Niobe, ed Anfione circondati da numerosa loro Prole in mostra guerriera, corteggio di Cavalieri, e Dame, e Nerea. <stage>MacchineGran mostro, che si risolve in molti guerrieri.Fantasma, che sorgendo di sotterra, forma grande voragine in aria.Mura di Tebe, che s’innalzano a poco a poco.Due draghi infernali, che di sotterra conducono sulla scena Creonte ed Poliferno.Nube, che sorge in aria, e nasconde li suddetti.Gran nuvolosa, che dall’alto scende con Creonte in apparenza di Marte.Carro trionfale fulminato da Latona, Apolline, e Diana, che compariscono in aria con deità compagne.Caduta di molti edifici ad un terremoto.Atto primoScena primaRegale con trono in cui Niobe, ed Anfione circondati da numerosa loro Prole in mostra guerriera, corteggio di Cavalieri, e Dame, e Nerea.</stage>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Venga Clearte.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>E che farà?</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Già udisti</l>
+          <l>Niobe mio cor, mia speme,</l>
+          <l>che de giorni tranquilli</l>
+          <l>resa avara la mente,</l>
+          <l>di più compor mal soffre</l>
+          <l>con lo scettro la mano a miei riposi</l>
+          <l>mal più s’adatta il trono, ed abbastanza</l>
+          <l>sotto il pesante incarco</l>
+          <l>del diadema regal sudò la fronte.</l>
+          <l>Alle glorie ben conte</l>
+          <l>di me, di te, de’ figli,</l>
+          <l>stanche son già le Ismenie incudi; e il fato</l>
+          <l>più non può dar, per far un re beato.</l>
+          <l>Tu, cui gli dèi formaro</l>
+          <l>di nume il senno, e la beltà di dèa,</l>
+          <l>or ben con tua virtute</l>
+          <l>puoi, dando legge al soglio,</l>
+          <l>serbarmi alla quiete, e se tu sei</l>
+          <l>risplendente mio cielo, il ciel ben suole</l>
+          <l>con instancabil moto</l>
+          <l>dar riposo alla terra. Omai da’ boschi</l>
+          <l>tuo compagno al gran peso</l>
+          <l>Clearte io richiamai.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Ohimè.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Fedele</l>
+          <l>questi, qual sempre saggio,</l>
+          <l>eseguirà tuoi cenni, ed il tuo impero</l>
+          <l>già decantare in lieta pace io spero.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Oh bell’imbroglio invero.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Dove son io, da qual soave incanto</l>
+          <l>dolcemente ferita,</l>
+          <l>sento l’alma rapita?</l>
+          <l>Ahi ben m’aveggio o caro,</l>
+          <l>che dal tuo divin labbro</l>
+          <l>escon si vaghe tempre,</l>
+          <l>perché io provi mai sempre</l>
+          <l>con mia felice sorte</l>
+          <l>dilettoso il languir, dolce la morte.</l>
+          <l>Sì sì nel regio petto</l>
+          <l>sovrabbondi la gioia, e la grand’alma</l>
+          <l>scarca d’esterne cure</l>
+          <l>di consorte, di figli, e di vassalli,</l>
+          <l>s’a numi ora s’appressa,</l>
+          <l>poiché visse ad altrui, viva a sé stessa.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Per indurci a regnare,</l>
+          <l>fatica non si dura,</l>
+          <l>ch’allo scettro è proclive ogni natura.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Sollievo del mio seno,</l>
+          <l>conforto del mio ardor.</l>
+          <l>In te ritrovo a pieno</l>
+          <l>la pace del mio cor.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>NIOBE</head>Mia gioia, mio diletto,diletto di mia fé.Quest’alma nel mio pettoha vita sol per te.Scena secondaClearte, e i suddetti.<sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Mia gioia, mio diletto,</l>
+          <l>diletto di mia fé.</l>
+          <l>Quest’alma nel mio petto</l>
+          <l>ha vita sol per te.</l>
+          <l>Scena seconda</l>
+          <l>Clearte, e i suddetti.</l>
+        </sp>
+        <stage>NIOBEMia gioia, mio diletto,diletto di mia fé.Quest’alma nel mio pettoha vita sol per te.Scena secondaClearte, e i suddetti.</stage>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Ecco a’ piè di chi impera</l>
+          <l>il suddito inchinato. Al regio cenno</l>
+          <l>ecco omai del vassal l’arbitrio umile,</l>
+          <l>e da boschi Clearte</l>
+          <l>ecco si toglie ad ubbidire accinto</l>
+          <l>il voler del sovrano…</l>
+          <l>(Ahi ch’un guardo di Niobe il cor m’ha estinto.)</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>(Ei ritorna d’Amor nel labirinto.)</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Già sul trono celeste il re degl’astri</l>
+          <l>librò l’anno due volte,</l>
+          <l>da che l’umil soggiorno</l>
+          <l>fra le selve eleggesti,</l>
+          <l>ed in ozio traesti,</l>
+          <l>nelle romite piagge</l>
+          <l>in sembianza di fera orme selvagge.</l>
+          <l>Tempo è omai, che tu rieda</l>
+          <l>a compensar con le vigilie illustri</l>
+          <l>sì lungo oblio: nel regno</l>
+          <l>a sostener mie veci</l>
+          <l>della mia Niobe al fianco</l>
+          <l>ti destinai.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Che ascolto?</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>L’arco talor gran pezza</l>
+          <l>rallentato si serba,</l>
+          <l>perché poscia a grand’uopo</l>
+          <l>con più rousta tempra</l>
+          <l>s’incurvi ai colpi a ben colpir lo scopo.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>(Dall’empio amor deluso</l>
+          <l>che risolvi mio core?)</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>(Egli è confuso.)</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ANFIONE</head>(discende dal trono e copre Clearte d’una veste regia)Su di regali spogliecinta la nobil salma,mostri, che di regnar degna è quell’alma.Tu con sì fido atletanon temer mia reinaforza d’invide stelle:più m’ardete io v’adoro o luci belle.Miratemi begl’occhi,e fatemi morir.I vostri dolci sguardiavventan mille dardi,ma è caro ogni martir.Scena terzaNiobe, Clearte, Nerea, Corteggio.<sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>(discende dal trono e copre Clearte d’una veste regia)</l>
+          <l>Su di regali spoglie</l>
+          <l>cinta la nobil salma,</l>
+          <l>mostri, che di regnar degna è quell’alma.</l>
+          <l>Tu con sì fido atleta</l>
+          <l>non temer mia reina</l>
+          <l>forza d’invide stelle:</l>
+          <l>più m’ardete io v’adoro o luci belle.</l>
+          <l>Miratemi begl’occhi,</l>
+          <l>e fatemi morir.</l>
+          <l>I vostri dolci sguardi</l>
+          <l>avventan mille dardi,</l>
+          <l>ma è caro ogni martir.</l>
+          <l>Scena terza</l>
+          <l>Niobe, Clearte, Nerea, Corteggio.</l>
+        </sp>
+        <stage>ANFIONE(discende dal trono e copre Clearte d’una veste regia)Su di regali spogliecinta la nobil salma,mostri, che di regnar degna è quell’alma.Tu con sì fido atletanon temer mia reinaforza d’invide stelle:più m’ardete io v’adoro o luci belle.Miratemi begl’occhi,e fatemi morir.I vostri dolci sguardiavventan mille dardi,ma è caro ogni martir.Scena terzaNiobe, Clearte, Nerea, Corteggio.</stage>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Splendetemi d’intorno</l>
+          <l>raggi d’eterna luce, e impresso resti</l>
+          <l>sulla fronte del sol così gran giorno.</l>
+          <l>Clearte.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>(Ahi fiera guerra</l>
+          <l>fra l’amor, e il rispetto</l>
+          <l>io racchiudo nel petto.)</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Non rispondi? Fra boschi</l>
+          <l>forse la mutolezza</l>
+          <l>dalle fere apprendesti?</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>(In gran periglio</l>
+          <l>io ti veggio mio cor, alma consiglio.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Oppur sordo agli accenti</l>
+          <l>i tronchi imiti al sussurrar de’ venti?</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Né da tronco, o da fera</l>
+          <l>appresi io ciò giammai.</l>
+          <l>Ma a venerar con il silenzio i numi</l>
+          <l>dal mio core imparai.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Si scuote affé.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Tuo peso dunque sia</l>
+          <l>fra popoli soggetti</l>
+          <l>il culto propagar de’ miei gran pregi,</l>
+          <l>di reina fra dèi, di dea fra regi.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Ubbidirò fedele, e i primi voti</l>
+          <l>ecco porge il mio labbro,</l>
+          <l>or che prostrato imploro</l>
+          <l>(quasi dissi pietade)</l>
+          <l>benigni influssi da quel sol che adoro.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Accorta invenzion.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>La fé ci è grata;</l>
+          <l>se muto fosti già, Niobe è placata.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Buon premio inver.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Dimostra, ahi che non erro,</l>
+          <l>da quei lumi di foco alma di ferro.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>NIOBE</head>È felice il tuo cor, né sai perché.Un certo tuo sprezzo,non so qual tuo vezzom’invoglia di te.Scena quartaClearte, Nerea.<sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>È felice il tuo cor, né sai perché.</l>
+          <l>Un certo tuo sprezzo,</l>
+          <l>non so qual tuo vezzo</l>
+          <l>m’invoglia di te.</l>
+          <l>Scena quarta</l>
+          <l>Clearte, Nerea.</l>
+        </sp>
+        <stage>NIOBEÈ felice il tuo cor, né sai perché.Un certo tuo sprezzo,non so qual tuo vezzom’invoglia di te.Scena quartaClearte, Nerea.</stage>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Che sento?</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>E che mai disse?</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Signor, umil Nerea</l>
+          <l>or teco si rallegra.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Il rivederti</l>
+          <l>mi è caro o fida, a cui</l>
+          <l>sola son noti i miei infelici ardori.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Ma felici al presente,</l>
+          <l>se pur Niobe non mente.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>E possibil ti sembra,</l>
+          <l>ch’ella senta pietà del foco mio?</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Il cor di bella donna è sempre pio.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Ma se a lei sempre occulto</l>
+          <l>fu l’incendio del core?</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Troppo ci vede, ed è pur cieco amore.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Per te vive mia speme.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Il cor consola.</l>
+          <l>Io penetrar prometto</l>
+          <l>gli arcani di quel sen, per cui sospiri.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Il ristoro tu sei de’ miei martiri.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>NEREA</head>Quasi tutteson le bruttequelle donne, che non amano.Ma chi vanta in sen beltà,nutre sempre al cor pietàper gli amanti, che la bramano.Scena quintaClearte.Rio destin che pretendior che accanto al mio focotu a forza mi traesti; e fummi vano,per saldar la mia piaga; irne lontano.Son amante, e sempre peno,perché peno per chi no ‘l sa.Alla lingua o sciogli il freno,o amor dammi la libertà.Scena sestaBoscaglia.Tiberino con suoi Seguaci.<sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Quasi tutte</l>
+          <l>son le brutte</l>
+          <l>quelle donne, che non amano.</l>
+          <l>Ma chi vanta in sen beltà,</l>
+          <l>nutre sempre al cor pietà</l>
+          <l>per gli amanti, che la bramano.</l>
+          <l>Scena quinta</l>
+          <l>Clearte.</l>
+          <l>Rio destin che pretendi</l>
+          <l>or che accanto al mio foco</l>
+          <l>tu a forza mi traesti; e fummi vano,</l>
+          <l>per saldar la mia piaga; irne lontano.</l>
+          <l>Son amante, e sempre peno,</l>
+          <l>perché peno per chi no ‘l sa.</l>
+          <l>Alla lingua o sciogli il freno,</l>
+          <l>o amor dammi la libertà.</l>
+          <l>Scena sesta</l>
+          <l>Boscaglia.</l>
+          <l>Tiberino con suoi Seguaci.</l>
+        </sp>
+        <stage>NEREAQuasi tutteson le bruttequelle donne, che non amano.Ma chi vanta in sen beltà,nutre sempre al cor pietàper gli amanti, che la bramano.Scena quintaClearte.Rio destin che pretendior che accanto al mio focotu a forza mi traesti; e fummi vano,per saldar la mia piaga; irne lontano.Son amante, e sempre peno,perché peno per chi no ‘l sa.Alla lingua o sciogli il freno,o amor dammi la libertà.Scena sestaBoscaglia.Tiberino con suoi Seguaci.</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>TIBERINO</head>Della famosa Tebeecco amici le selve; il piè già calcale desiate arene,ch’esser dovran del valor nostro il campo.Già degl’Albani il nomemercé di nostre imprese,nella Grecia superba or va fastoso:uom non v’è gloriosoin cacce, in lotte, alla palestra, al corso,che a noi sinor non ceda; Argo e Micene,e Corinto, e Tessagliaeroe non ha, che a Tiberin prevaglia.Alba esulti, e il Lazio goda.Il sudor di questa frontenutre i lauri al dio bifronte,che al suo crine i fati annoda.Scena settimaUdendosi rimbombare di lontano per la selva trombe di cacciatori, Manto in atto fuggitivo inseguita da una belva, e suddetti.<div type="scene">
+        <head>TIBERINO</head>Della famosa Tebeecco amici le selve; il piè già calcale desiate arene,ch’esser dovran del valor nostro il campo.Già degl’Albani il nomemercé di nostre imprese,nella Grecia superba or va fastoso:uom non v’è gloriosoin cacce, in lotte, alla palestra, al corso,che a noi sinor non ceda; Argo e Micene,e Corinto, e Tessagliaeroe non ha, che a Tiberin prevaglia.Alba esulti, e il Lazio goda.Il sudor di questa frontenutre i lauri al dio bifronte,che al suo crine i fati annoda.Scena settimaUdendosi rimbombare di lontano per la selva trombe di cacciatori, Manto in atto fuggitivo inseguita da una belva, e suddetti.<sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Della famosa Tebe</l>
+          <l>ecco amici le selve; il piè già calca</l>
+          <l>le desiate arene,</l>
+          <l>ch’esser dovran del valor nostro il campo.</l>
+          <l>Già degl’Albani il nome</l>
+          <l>mercé di nostre imprese,</l>
+          <l>nella Grecia superba or va fastoso:</l>
+          <l>uom non v’è glorioso</l>
+          <l>in cacce, in lotte, alla palestra, al corso,</l>
+          <l>che a noi sinor non ceda; Argo e Micene,</l>
+          <l>e Corinto, e Tessaglia</l>
+          <l>eroe non ha, che a Tiberin prevaglia.</l>
+          <l>Alba esulti, e il Lazio goda.</l>
+          <l>Il sudor di questa fronte</l>
+          <l>nutre i lauri al dio bifronte,</l>
+          <l>che al suo crine i fati annoda.</l>
+          <l>Scena settima</l>
+          <l>Udendosi rimbombare di lontano per la selva trombe di cacciatori, Manto in atto fuggitivo inseguita da una belva, e suddetti.</l>
+        </sp>
+        <stage>TIBERINODella famosa Tebeecco amici le selve; il piè già calcale desiate arene,ch’esser dovran del valor nostro il campo.Già degl’Albani il nomemercé di nostre imprese,nella Grecia superba or va fastoso:uom non v’è gloriosoin cacce, in lotte, alla palestra, al corso,che a noi sinor non ceda; Argo e Micene,e Corinto, e Tessagliaeroe non ha, che a Tiberin prevaglia.Alba esulti, e il Lazio goda.Il sudor di questa frontenutre i lauri al dio bifronte,che al suo crine i fati annoda.Scena settimaUdendosi rimbombare di lontano per la selva trombe di cacciatori, Manto in atto fuggitivo inseguita da una belva, e suddetti.</stage>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Suon di lontana caccia</l>
+          <l>fa rimbombar la selva.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>(di dentro)</l>
+          <l>Aita o numi.</l>
+        </sp>
+        <stage>MANTO(di dentro)Aita o numi.</stage>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Qual mesta voce?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Ahi non v’è scampo. O sorte.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Che veggo o ciel? Non paventar donzella:</l>
+          <l>in tua difesa è la mia destra o bella.</l>
+          <l>(si pone a guerreggiar con la fiera, e l’atterra)</l>
+        </sp>
+        <stage>TIBERINOChe veggo o ciel? Non paventar donzella:in tua difesa è la mia destra o bella.(si pone a guerreggiar con la fiera, e l’atterra)</stage>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Oh valor, oh virtute.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Il proprio sangue</l>
+          <l>bevon l’ingorde fauci; e già cadendo,</l>
+          <l>a trofei di mia destra</l>
+          <l>erge nuovo trofeo con le sue spoglie;</l>
+          <l>tuo scherzo, e gioco, or ch’il timor ti toglie.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Se la vita a me donasti,</l>
+          <l>nume sei di questa vita.</l>
+          <l>La memoria de’ tuoi fasti,</l>
+          <l>nel mio cor terrò scolpita.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>TIBERINO</head>Di vezzo, e leggiadriaVenere, non cred’io, fu più compita.Scena ottavaTiresia cieco appoggiato ad un Servo, e suddetti.<sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Di vezzo, e leggiadria</l>
+          <l>Venere, non cred’io, fu più compita.</l>
+          <l>Scena ottava</l>
+          <l>Tiresia cieco appoggiato ad un Servo, e suddetti.</l>
+        </sp>
+        <stage>TIBERINODi vezzo, e leggiadriaVenere, non cred’io, fu più compita.Scena ottavaTiresia cieco appoggiato ad un Servo, e suddetti.</stage>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Figlia ove sei, tesor dell’alma mia!</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Qual uomo appare?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Padre.</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Pur ti ritrovo.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Onora o genitore</l>
+          <l>l’uccisor della belva,</l>
+          <l>che ver nostre capanne</l>
+          <l>ratta fuggendo a’ cacciatori occulta,</l>
+          <l>assalì me poc’anzi, e mi disgiunse,</l>
+          <l>dal fianco tuo, dand’io alla fuga il piede.</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Tutto vide la mente: eroe sì prode</l>
+          <l>è dell’alban regnante</l>
+          <l>l’unico erede, e Tiberin s’appella.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Figlio di re?</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Come del ver favella?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Tiresia io son, cui Giove</l>
+          <l>diede mente presaga,</l>
+          <l>se Giunone sdegnata,</l>
+          <l>privò d’eterni lumi, ed è mia prole</l>
+          <l>la donzella difesa.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Ella m’infiamma.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Io son d’amore accesa.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>TIRESIA</head>Piacciati a’ nostri alberghivolger le piante, ed ivinelle cose futurela serie ascolterai di tue venture.Amor t’attese al varco,per saettarti l cor.Gli diè la sorte l’arco,e il dardo feritor.Scena nonaTiberino, Manto.<sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Piacciati a’ nostri alberghi</l>
+          <l>volger le piante, ed ivi</l>
+          <l>nelle cose future</l>
+          <l>la serie ascolterai di tue venture.</l>
+          <l>Amor t’attese al varco,</l>
+          <l>per saettarti l cor.</l>
+          <l>Gli diè la sorte l’arco,</l>
+          <l>e il dardo feritor.</l>
+          <l>Scena nona</l>
+          <l>Tiberino, Manto.</l>
+        </sp>
+        <stage>TIRESIAPiacciati a’ nostri alberghivolger le piante, ed ivinelle cose futurela serie ascolterai di tue venture.Amor t’attese al varco,per saettarti l cor.Gli diè la sorte l’arco,e il dardo feritor.Scena nonaTiberino, Manto.</stage>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Svelò fatal la piaga.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Ahi quanto io più miro, ei più m’impiaga.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Dimmi o bella: sei sposa?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Ho intatto il fiore</l>
+          <l>del virginal candore.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Tua patria?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Tebe.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Il nome?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>M’appello Manto.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>E a quali uffici eletta?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>A Latona io ministro</l>
+          <l>col genitor suo sacerdote.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>E al nume,</l>
+          <l>che prevale agli dèi,</l>
+          <l>tu quali incensi offrisci?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Che mai dirò? Tuoi detti</l>
+          <l>io non intendo.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Al dio fanciul bendato?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Nemmeno.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Al dio Cupido?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>M’è ignoto.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>TIBERINO</head>Oh stolto core,tu non conosci amore?Tu non sai che sia diletto,non sai dir che sia conforto.Senza amor un cor è morto,senza cor non vive un petto.Scena decimaManto.Oh d’amor troppo ignaro, e così tostovuoi, che pudico senoa favellar d’amorescioglia la lingua? E non ti disser gl’occhi,ahi questi occhi dolenti,l’autor de’ miei tormenti?Poco in amor sagace:lingua d’amante coremeglio parla d’amore allor che tace.Vuoi ch’io parli, parlerò.Ma se chiedo poi mercé,mio tesor che fia di me,se mercé poi non avrò?Scena undicesimaDi lontano all’improvviso apparisce smisurato mostro, che portandosi al proscenio, ad un tratto si risolve in molti Guerrieri, lasciando in una nuvoletta a terra Creonte in atto di dormire, e desto Poliferno.<div type="scene">
+        <head>TIBERINO</head>Oh stolto core,tu non conosci amore?Tu non sai che sia diletto,non sai dir che sia conforto.Senza amor un cor è morto,senza cor non vive un petto.Scena decimaManto.Oh d’amor troppo ignaro, e così tostovuoi, che pudico senoa favellar d’amorescioglia la lingua? E non ti disser gl’occhi,ahi questi occhi dolenti,l’autor de’ miei tormenti?Poco in amor sagace:lingua d’amante coremeglio parla d’amore allor che tace.Vuoi ch’io parli, parlerò.Ma se chiedo poi mercé,mio tesor che fia di me,se mercé poi non avrò?Scena undicesimaDi lontano all’improvviso apparisce smisurato mostro, che portandosi al proscenio, ad un tratto si risolve in molti Guerrieri, lasciando in una nuvoletta a terra Creonte in atto di dormire, e desto Poliferno.<sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Oh stolto core,</l>
+          <l>tu non conosci amore?</l>
+          <l>Tu non sai che sia diletto,</l>
+          <l>non sai dir che sia conforto.</l>
+          <l>Senza amor un cor è morto,</l>
+          <l>senza cor non vive un petto.</l>
+          <l>Scena decima</l>
+          <l>Manto.</l>
+          <l>Oh d’amor troppo ignaro, e così tosto</l>
+          <l>vuoi, che pudico seno</l>
+          <l>a favellar d’amore</l>
+          <l>scioglia la lingua? E non ti disser gl’occhi,</l>
+          <l>ahi questi occhi dolenti,</l>
+          <l>l’autor de’ miei tormenti?</l>
+          <l>Poco in amor sagace:</l>
+          <l>lingua d’amante core</l>
+          <l>meglio parla d’amore allor che tace.</l>
+          <l>Vuoi ch’io parli, parlerò.</l>
+          <l>Ma se chiedo poi mercé,</l>
+          <l>mio tesor che fia di me,</l>
+          <l>se mercé poi non avrò?</l>
+          <l>Scena undicesima</l>
+          <l>Di lontano all’improvviso apparisce smisurato mostro, che portandosi al proscenio, ad un tratto si risolve in molti Guerrieri, lasciando in una nuvoletta a terra Creonte in atto di dormire, e desto Poliferno.</l>
+        </sp>
+        <stage>TIBERINOOh stolto core,tu non conosci amore?Tu non sai che sia diletto,non sai dir che sia conforto.Senza amor un cor è morto,senza cor non vive un petto.Scena decimaManto.Oh d’amor troppo ignaro, e così tostovuoi, che pudico senoa favellar d’amorescioglia la lingua? E non ti disser gl’occhi,ahi questi occhi dolenti,l’autor de’ miei tormenti?Poco in amor sagace:lingua d’amante coremeglio parla d’amore allor che tace.Vuoi ch’io parli, parlerò.Ma se chiedo poi mercé,mio tesor che fia di me,se mercé poi non avrò?Scena undicesimaDi lontano all’improvviso apparisce smisurato mostro, che portandosi al proscenio, ad un tratto si risolve in molti Guerrieri, lasciando in una nuvoletta a terra Creonte in atto di dormire, e desto Poliferno.</stage>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Dormi Creonte, e intanto</l>
+          <l>sogna o prole guerriera</l>
+          <l>del tessalo monarca</l>
+          <l>l’alta beltà, di cui con forza ignota,</l>
+          <l>io l’imago t’impressi in mezzo al core.</l>
+          <l>Fia de’ tuoi sogni autore</l>
+          <l>di Megera il flagello, acciò che spinto</l>
+          <l>da infuriati sensi,</l>
+          <l>rechi al regno tebano incendi immensi.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Che vago sen.</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Con i fantasmi omai,</l>
+          <l>opre di magic’arte,</l>
+          <l>a vaneggiar comincia.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>È donna. O dèa?</l>
+          <l>Ahi, ch’un guardo mi bea.</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Scosso da interna face</l>
+          <l>ecco si desta.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Ferma</l>
+          <l>ferma o nume adorato,</l>
+          <l>mia delizia, mio ben, anima mia,</l>
+          <l>dove fuggi? Ma dove,</l>
+          <l>dove mi trovo? Ed a qual aure spiego</l>
+          <l>gl’immoderati affetti?</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Son forier d’empie stragi i suoi diletti.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Dove sciolti a volo i vanni</l>
+          <l>diva mia da me fuggisti?</l>
+          <l>Se dal sonno infra gl’inganni</l>
+          <l>a bearmi tu venisti.</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Creonte e che ti pare</l>
+          <l>di Niobe, che sognando,</l>
+          <l>già conoscer ti fei?</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Ahi ch’in beltà non cede</l>
+          <l>agl’astri, a Delia, al Sole,</l>
+          <l>s’ha del sol le pupille,</l>
+          <l>della luna i candori,</l>
+          <l>degl’astri le faville.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>POLIFERNO</head>Su, per goder ben tostodi cotanta beltà, senza dimoreTebe si assalga, e cadaAnfione svenato;sia Lico vendicato,il tuo gran zio, cui tolsecon esecrando scempioe la vita, ed il regno,Anfione l’indegno.Nuovo soglio, e nuova bellaa goder ti guida il fato,a tuo pro la sua facellascuote amor con Marte armato.Scena dodicesimaCreonte.A voi di Tracia, e Cnidoonnipotenti numi,se non sarete a’ miei desiri avari,ergerò nuovi altariaccesi ognor di nabatei profumi.Sia di Nemesi il ferrodebellator dell’usurpato soglio,e sia di Citerea,come a Paride in Sparta, a me concessodell’Elena tebana oggi il possesso.Troppo caro è quel bel volto,che dal seno il cor m’ha tolto,né saprei che più bramar.Goderò del ciel le faci,se quei lumi sì vivacipotrò giunger a baciar.Così vago è quel sembiante,che quest’alma ha resa amante,che a lui cede ogni beltà.Il mio cor sarà beato,se al mio sen quel sen bramatosorte amica stringerà.Scena tredicesimaRegio museo, che ostenta la reggia dell’Armonia.Anfione.Dell’alma stanca a raddolcir le tempre,cari asili di pace a voi ritorno:fuggite omai fuggiteda questo seno o de’ regali fasticure troppo moleste, egri pensieri:che val più degli imperiin solitaria soglia, ed umil mantoscioglier dal cor non agitato il canto.Sfere amiche or date al labbrol’armonia de’ vostri giri.E posando il fianco lasso,abbia moto il tronco, il sassoda miei placidi respiri.Scena quattordicesimaNiobe, ed Anfione.<div type="scene">
+        <head>POLIFERNO</head>Su, per goder ben tostodi cotanta beltà, senza dimoreTebe si assalga, e cadaAnfione svenato;sia Lico vendicato,il tuo gran zio, cui tolsecon esecrando scempioe la vita, ed il regno,Anfione l’indegno.Nuovo soglio, e nuova bellaa goder ti guida il fato,a tuo pro la sua facellascuote amor con Marte armato.Scena dodicesimaCreonte.A voi di Tracia, e Cnidoonnipotenti numi,se non sarete a’ miei desiri avari,ergerò nuovi altariaccesi ognor di nabatei profumi.Sia di Nemesi il ferrodebellator dell’usurpato soglio,e sia di Citerea,come a Paride in Sparta, a me concessodell’Elena tebana oggi il possesso.Troppo caro è quel bel volto,che dal seno il cor m’ha tolto,né saprei che più bramar.Goderò del ciel le faci,se quei lumi sì vivacipotrò giunger a baciar.Così vago è quel sembiante,che quest’alma ha resa amante,che a lui cede ogni beltà.Il mio cor sarà beato,se al mio sen quel sen bramatosorte amica stringerà.Scena tredicesimaRegio museo, che ostenta la reggia dell’Armonia.Anfione.Dell’alma stanca a raddolcir le tempre,cari asili di pace a voi ritorno:fuggite omai fuggiteda questo seno o de’ regali fasticure troppo moleste, egri pensieri:che val più degli imperiin solitaria soglia, ed umil mantoscioglier dal cor non agitato il canto.Sfere amiche or date al labbrol’armonia de’ vostri giri.E posando il fianco lasso,abbia moto il tronco, il sassoda miei placidi respiri.Scena quattordicesimaNiobe, ed Anfione.<sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Su, per goder ben tosto</l>
+          <l>di cotanta beltà, senza dimore</l>
+          <l>Tebe si assalga, e cada</l>
+          <l>Anfione svenato;</l>
+          <l>sia Lico vendicato,</l>
+          <l>il tuo gran zio, cui tolse</l>
+          <l>con esecrando scempio</l>
+          <l>e la vita, ed il regno,</l>
+          <l>Anfione l’indegno.</l>
+          <l>Nuovo soglio, e nuova bella</l>
+          <l>a goder ti guida il fato,</l>
+          <l>a tuo pro la sua facella</l>
+          <l>scuote amor con Marte armato.</l>
+          <l>Scena dodicesima</l>
+          <l>Creonte.</l>
+          <l>A voi di Tracia, e Cnido</l>
+          <l>onnipotenti numi,</l>
+          <l>se non sarete a’ miei desiri avari,</l>
+          <l>ergerò nuovi altari</l>
+          <l>accesi ognor di nabatei profumi.</l>
+          <l>Sia di Nemesi il ferro</l>
+          <l>debellator dell’usurpato soglio,</l>
+          <l>e sia di Citerea,</l>
+          <l>come a Paride in Sparta, a me concesso</l>
+          <l>dell’Elena tebana oggi il possesso.</l>
+          <l>Troppo caro è quel bel volto,</l>
+          <l>che dal seno il cor m’ha tolto,</l>
+          <l>né saprei che più bramar.</l>
+          <l>Goderò del ciel le faci,</l>
+          <l>se quei lumi sì vivaci</l>
+          <l>potrò giunger a baciar.</l>
+          <l>Così vago è quel sembiante,</l>
+          <l>che quest’alma ha resa amante,</l>
+          <l>che a lui cede ogni beltà.</l>
+          <l>Il mio cor sarà beato,</l>
+          <l>se al mio sen quel sen bramato</l>
+          <l>sorte amica stringerà.</l>
+          <l>Scena tredicesima</l>
+          <l>Regio museo, che ostenta la reggia dell’Armonia.</l>
+          <l>Anfione.</l>
+          <l>Dell’alma stanca a raddolcir le tempre,</l>
+          <l>cari asili di pace a voi ritorno:</l>
+          <l>fuggite omai fuggite</l>
+          <l>da questo seno o de’ regali fasti</l>
+          <l>cure troppo moleste, egri pensieri:</l>
+          <l>che val più degli imperi</l>
+          <l>in solitaria soglia, ed umil manto</l>
+          <l>scioglier dal cor non agitato il canto.</l>
+          <l>Sfere amiche or date al labbro</l>
+          <l>l’armonia de’ vostri giri.</l>
+          <l>E posando il fianco lasso,</l>
+          <l>abbia moto il tronco, il sasso</l>
+          <l>da miei placidi respiri.</l>
+          <l>Scena quattordicesima</l>
+          <l>Niobe, ed Anfione.</l>
+        </sp>
+        <stage>POLIFERNOSu, per goder ben tostodi cotanta beltà, senza dimoreTebe si assalga, e cadaAnfione svenato;sia Lico vendicato,il tuo gran zio, cui tolsecon esecrando scempioe la vita, ed il regno,Anfione l’indegno.Nuovo soglio, e nuova bellaa goder ti guida il fato,a tuo pro la sua facellascuote amor con Marte armato.Scena dodicesimaCreonte.A voi di Tracia, e Cnidoonnipotenti numi,se non sarete a’ miei desiri avari,ergerò nuovi altariaccesi ognor di nabatei profumi.Sia di Nemesi il ferrodebellator dell’usurpato soglio,e sia di Citerea,come a Paride in Sparta, a me concessodell’Elena tebana oggi il possesso.Troppo caro è quel bel volto,che dal seno il cor m’ha tolto,né saprei che più bramar.Goderò del ciel le faci,se quei lumi sì vivacipotrò giunger a baciar.Così vago è quel sembiante,che quest’alma ha resa amante,che a lui cede ogni beltà.Il mio cor sarà beato,se al mio sen quel sen bramatosorte amica stringerà.Scena tredicesimaRegio museo, che ostenta la reggia dell’Armonia.Anfione.Dell’alma stanca a raddolcir le tempre,cari asili di pace a voi ritorno:fuggite omai fuggiteda questo seno o de’ regali fasticure troppo moleste, egri pensieri:che val più degli imperiin solitaria soglia, ed umil mantoscioglier dal cor non agitato il canto.Sfere amiche or date al labbrol’armonia de’ vostri giri.E posando il fianco lasso,abbia moto il tronco, il sassoda miei placidi respiri.Scena quattordicesimaNiobe, ed Anfione.</stage>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Anfion mio desio,</l>
+          <l>mio tesoro, cor mio.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Mia luce, mia pupilla.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>NIOBE</head>Ecco a te volatronco, e sasso animatoil cor innamorato.Vorrei sempre vagheggiarti,vorrei star sempre con te.Non ha pace, non ha bene,vive ogni ora fra le peneda te lungi la mia fé.Scena quindicesimaClearte, Nerea, Anfione.<sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Ecco a te vola</l>
+          <l>tronco, e sasso animato</l>
+          <l>il cor innamorato.</l>
+          <l>Vorrei sempre vagheggiarti,</l>
+          <l>vorrei star sempre con te.</l>
+          <l>Non ha pace, non ha bene,</l>
+          <l>vive ogni ora fra le pene</l>
+          <l>da te lungi la mia fé.</l>
+          <l>Scena quindicesima</l>
+          <l>Clearte, Nerea, Anfione.</l>
+        </sp>
+        <stage>NIOBEEcco a te volatronco, e sasso animatoil cor innamorato.Vorrei sempre vagheggiarti,vorrei star sempre con te.Non ha pace, non ha bene,vive ogni ora fra le peneda te lungi la mia fé.Scena quindicesimaClearte, Nerea, Anfione.</stage>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Eccola.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Ahi cor resisti.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>A che vieni?</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Di tessali oricalchi</l>
+          <l>rimbomba il suol tebano audace stuolo</l>
+          <l>d’armate schiere inonda,</l>
+          <l>qual torrente improvviso,</l>
+          <l>le beozie campagne: a me non resta</l>
+          <l>che con pronte falangi</l>
+          <l>espor la vita alla difesa; e i cenni</l>
+          <l>ad inchinare, ad ubbidire io venni.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Che sento?</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>E non rammenta</l>
+          <l>il tessalo superbo</l>
+          <l>quali sian le nostr’armi? Insano venga,</l>
+          <l>e al cenere gelato</l>
+          <l>di Lico debellato,</l>
+          <l>giunga ceneri nuove.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>E pur ritorna</l>
+          <l>l’alma ai tumulti: ahi ch’è in un regio seno</l>
+          <l>brieve luce di lampo ogni sereno.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Non ti turbar idolo mio.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Discioglie</l>
+          <l>ogni nube di duolo</l>
+          <l>de’ tuoi celesti sguardi un raggio solo.</l>
+          <l>A premunire intanto</l>
+          <l>gl’animi de’ vassalli</l>
+          <l>di costanza, e di fede,</l>
+          <l>mi parto, o cara.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>E in breve</l>
+          <l>io seguirò il tuo piede.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ANFIONE</head>È di sasso chi non t’ama,è di gel chi non t’adora.Provo io ben ch’un cor è pocoa capir l’immenso foco,che per te mi strugge ogn’ora.Scena sedicesimaNiobe, Clearte, Nerea.<sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>È di sasso chi non t’ama,</l>
+          <l>è di gel chi non t’adora.</l>
+          <l>Provo io ben ch’un cor è poco</l>
+          <l>a capir l’immenso foco,</l>
+          <l>che per te mi strugge ogn’ora.</l>
+          <l>Scena sedicesima</l>
+          <l>Niobe, Clearte, Nerea.</l>
+        </sp>
+        <stage>ANFIONEÈ di sasso chi non t’ama,è di gel chi non t’adora.Provo io ben ch’un cor è pocoa capir l’immenso foco,che per te mi strugge ogn’ora.Scena sedicesimaNiobe, Clearte, Nerea.</stage>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>E tu qual gelo, o sasso,</l>
+          <l>muto ancor te ne stai?</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Son morto ahi lasso.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Clearte oggi fra l’armi</l>
+          <l>qual divisa destini?</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Animo.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Scopri a parte</l>
+          <l>mio cuor la chiusa fiamma:</l>
+          <l>scolpito avrà la scudo</l>
+          <l>d’Encelado il gran monte,</l>
+          <l>che ognor da nevi oppresso,</l>
+          <l>d’interno incendio avvampa.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>E il motto?</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Sia.</l>
+          <l>Perché al ciel aspirai.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Di ben capirlo affé</l>
+          <l>ella s’intenderà meglio di me.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Non comprendo il concetto; or via lo spiega.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Or m’assisti o Cupido.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Ardir ci vuole.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>D’un cor la sorte esprimo,</l>
+          <l>che ad un ciel di beltade</l>
+          <l>sollevando il desio,</l>
+          <l>da duo bei lumi alteri</l>
+          <l>fulminato se n’ giace</l>
+          <l>sotto monte di duolo; e non osando</l>
+          <l>scoprir l’incendio interno,</l>
+          <l>gela al di fuori, e chiude in sen l’inferno.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>E di qual core intendi.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Nerea perduto io sono.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Su viene adesso il buono.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Del mio cor sventurato.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>E qual sen l’ha piagato?</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Gelar mi sento.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Presto</l>
+          <l>bisogna dire il resto.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Segui: non parla.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Oh numi.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Io pur son certa</l>
+          <l>a gran tempo, ch’ei vive</l>
+          <l>di me tacito amante.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Svenami pure o cielo.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>È delirante.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Perdona o mia…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>NIOBE</head>No ferma:del tuo cor martireio più non voglio udire.Segui ad amar cosìné mai parlar di più.Per chi t’alletta, e piace,allor che più si tace,bella è la servitù.Scena diciassettesimaClearte, Nerea.<sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>No ferma:</l>
+          <l>del tuo cor martire</l>
+          <l>io più non voglio udire.</l>
+          <l>Segui ad amar così</l>
+          <l>né mai parlar di più.</l>
+          <l>Per chi t’alletta, e piace,</l>
+          <l>allor che più si tace,</l>
+          <l>bella è la servitù.</l>
+          <l>Scena diciassettesima</l>
+          <l>Clearte, Nerea.</l>
+        </sp>
+        <stage>NIOBENo ferma:del tuo cor martireio più non voglio udire.Segui ad amar cosìné mai parlar di più.Per chi t’alletta, e piace,allor che più si tace,bella è la servitù.Scena diciassettesimaClearte, Nerea.</stage>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>E voi, che mi struggete,</l>
+          <l>voracissime fiamme,</l>
+          <l>dal sen che rispondete?</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Oh sciocca frenesia; tu non intendi</l>
+          <l>di Cupido i precetti:</l>
+          <l>con le donne ei non vuol tanti rispetti.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>CLEARTE</head>C’ho da morir tacendoil cor l’indovinò.C’ho da tacer morendolo stral, che m’impiagò.Scena diciottesimaNerea.Forsennato vaneggia, e non conoscel’arti sagace usatedalle donne, che accortesono d’esser amate.Io giurerei, che Niobedel suo amor avveduta,se ne fia compiaciuta;e mostrandosi sorda,voglia per qualche dì dargli la corda.In amor siam tanto facili,ch’a un sospir ci lasciam vincere.Basta sol, ch’un finga piangereper sentirci il seno a frangeree lasciarci il core avvincere.Scena diciannovesimaCampagna spaziosa con vista di Tebe sfornita di muraglie.Creonte, Poliferno.<sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>C’ho da morir tacendo</l>
+          <l>il cor l’indovinò.</l>
+          <l>C’ho da tacer morendo</l>
+          <l>lo stral, che m’impiagò.</l>
+          <l>Scena diciottesima</l>
+          <l>Nerea.</l>
+          <l>Forsennato vaneggia, e non conosce</l>
+          <l>l’arti sagace usate</l>
+          <l>dalle donne, che accorte</l>
+          <l>sono d’esser amate.</l>
+          <l>Io giurerei, che Niobe</l>
+          <l>del suo amor avveduta,</l>
+          <l>se ne fia compiaciuta;</l>
+          <l>e mostrandosi sorda,</l>
+          <l>voglia per qualche dì dargli la corda.</l>
+          <l>In amor siam tanto facili,</l>
+          <l>ch’a un sospir ci lasciam vincere.</l>
+          <l>Basta sol, ch’un finga piangere</l>
+          <l>per sentirci il seno a frangere</l>
+          <l>e lasciarci il core avvincere.</l>
+          <l>Scena diciannovesima</l>
+          <l>Campagna spaziosa con vista di Tebe sfornita di muraglie.</l>
+          <l>Creonte, Poliferno.</l>
+        </sp>
+        <stage>CLEARTEC’ho da morir tacendoil cor l’indovinò.C’ho da tacer morendolo stral, che m’impiagò.Scena diciottesimaNerea.Forsennato vaneggia, e non conoscel’arti sagace usatedalle donne, che accortesono d’esser amate.Io giurerei, che Niobedel suo amor avveduta,se ne fia compiaciuta;e mostrandosi sorda,voglia per qualche dì dargli la corda.In amor siam tanto facili,ch’a un sospir ci lasciam vincere.Basta sol, ch’un finga piangereper sentirci il seno a frangeree lasciarci il core avvincere.Scena diciannovesimaCampagna spaziosa con vista di Tebe sfornita di muraglie.Creonte, Poliferno.</stage>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Ecco Tebe.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>O adorata</l>
+          <l>sfera del mio bel nume; il piè divoto,</l>
+          <l>come il cor riverente, a te già volgo,</l>
+          <l>deh pietosa m’accogli,</l>
+          <l>e fa’ ch’io nel tuo seno</l>
+          <l>spinto da impaziente, alto desio</l>
+          <l>possa celato almeno</l>
+          <l>porger taciti voti all’idol mio.</l>
+          <l>Qui smisurato fantasma apparirà di sotterra.</l>
+        </sp>
+        <stage>CREONTEO adoratasfera del mio bel nume; il piè divoto,come il cor riverente, a te già volgo,deh pietosa m’accogli,e fa’ ch’io nel tuo senospinto da impaziente, alto desiopossa celato almenoporger taciti voti all’idol mio.Qui smisurato fantasma apparirà di sotterra.</stage>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Per condurci ove brami</l>
+          <l>occulti, e inosservati,</l>
+          <l>ecco dell’opre mie ministro eletto.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Oh portento.</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>In brev’ora</l>
+          <l>potrai a luci aperte</l>
+          <l>vagheggiar non veduto,</l>
+          <l>l’adorato sembiante</l>
+          <l>della bella regnante.</l>
+          <l>Qui dalla bocca del fantasma si forma gran voragine in aria.</l>
+        </sp>
+        <stage>POLIFERNOIn brev’orapotrai a luci apertevagheggiar non veduto,l’adorato sembiantedella bella regnante.Qui dalla bocca del fantasma si forma gran voragine in aria.</stage>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Che veggio?</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>A noi s’appresta</l>
+          <l>fra quelle fauci incognita la via:</l>
+          <l>movi sicuro il passo, e là t’invia.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>CREONTE</head>Anderei sin nell’inferno,per mirar volto sì vago.Se più grande il foco internodesta in me la bella imago.(entra nella voragine)Scena ventesimaPoliferno.Oh di Lico infeliceinfelice consorte, a me germana,Dirce, Dirce deh sorgi;e in ombra almeno scorgi,che se vittima alteracol tuo sposo regnante al piè cadestidel superbo Anfione,a vendicar d’entrambil’ingiurioso fato,provoca PolifernoTessaglia all’armi, ed a battaglia Averno.Fiera Alettodel mio pettonon cessar di mover guerra.Olocausti più devotit’offrirò, s’oggi a’ miei voti,re tiran da te s’atterra.(entra nella voragine, la quale si chiude profondandosi)Scena ventunesimaAnfione seguìto da numeroso Popolo.<sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Anderei sin nell’inferno,</l>
+          <l>per mirar volto sì vago.</l>
+          <l>Se più grande il foco interno</l>
+          <l>desta in me la bella imago.</l>
+          <l>(entra nella voragine)</l>
+          <l>Scena ventesima</l>
+          <l>Poliferno.</l>
+          <l>Oh di Lico infelice</l>
+          <l>infelice consorte, a me germana,</l>
+          <l>Dirce, Dirce deh sorgi;</l>
+          <l>e in ombra almeno scorgi,</l>
+          <l>che se vittima altera</l>
+          <l>col tuo sposo regnante al piè cadesti</l>
+          <l>del superbo Anfione,</l>
+          <l>a vendicar d’entrambi</l>
+          <l>l’ingiurioso fato,</l>
+          <l>provoca Poliferno</l>
+          <l>Tessaglia all’armi, ed a battaglia Averno.</l>
+          <l>Fiera Aletto</l>
+          <l>del mio petto</l>
+          <l>non cessar di mover guerra.</l>
+          <l>Olocausti più devoti</l>
+          <l>t’offrirò, s’oggi a’ miei voti,</l>
+          <l>re tiran da te s’atterra.</l>
+          <l>(entra nella voragine, la quale si chiude profondandosi)</l>
+          <l>Scena ventunesima</l>
+          <l>Anfione seguìto da numeroso Popolo.</l>
+        </sp>
+        <stage>CREONTEAnderei sin nell’inferno,per mirar volto sì vago.Se più grande il foco internodesta in me la bella imago.(entra nella voragine)Scena ventesimaPoliferno.Oh di Lico infeliceinfelice consorte, a me germana,Dirce, Dirce deh sorgi;e in ombra almeno scorgi,che se vittima alteracol tuo sposo regnante al piè cadestidel superbo Anfione,a vendicar d’entrambil’ingiurioso fato,provoca PolifernoTessaglia all’armi, ed a battaglia Averno.Fiera Alettodel mio pettonon cessar di mover guerra.Olocausti più devotit’offrirò, s’oggi a’ miei voti,re tiran da te s’atterra.(entra nella voragine, la quale si chiude profondandosi)Scena ventunesimaAnfione seguìto da numeroso Popolo.</stage>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Popoli o voi, ch’un tempo</l>
+          <l>da inospite foreste</l>
+          <l>i passi rivolgeste</l>
+          <l>tratti al suon de’ miei carmi,</l>
+          <l>ai cittadini marmi…</l>
+          <l>Voi, che a me dati in cura</l>
+          <l>da Giove il mio gran padre,</l>
+          <l>sudditi sol di nome,</l>
+          <l>ma più cari de’ figli,</l>
+          <l>mi vedeste ad ogn’ora</l>
+          <l>in dolce impero a vostro bene eletto,</l>
+          <l>di scettro in vece, esercitar l’affetto.</l>
+          <l>Voi chiamo, e da voi spero</l>
+          <l>di Tebe la difesa, i vostri cori,</l>
+          <l>che in paragon di fede</l>
+          <l>seppero di diamante esser più volte,</l>
+          <l>ben sapranno all’assalto,</l>
+          <l>che di Tessaglia or ci muove, esser di smalto.</l>
+          <l>Su su destisi in voi</l>
+          <l>desio di nuove glorie; un re che v’ama,</l>
+          <l>si segua fra perigli;</l>
+          <l>e a temerari insulti.</l>
+        </sp>
+        <sp who="#voci di popolo">
+          <speaker>VOCI DI POPOLO:</speaker>
+          <l>Il corso si prescriva.</l>
+          <l>Viva Anfione viva.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Voci d’alta costanza: alme fedeli</l>
+          <l>degni premi attendete;</l>
+          <l>che mal vive un regnante,</l>
+          <l>se in regnar non ha destra abbondante.</l>
+          <l>Come padre, e come dio,</l>
+          <l>sommo Giove or mi proteggi;</l>
+          <l>e l’ardir d’un empio, e rio,</l>
+          <l>col tuo fulmine correggi.</l>
+          <l>Qui si vedono a poco a poco andar sorgendo intorno di Tebe le mura.</l>
+        </sp>
+        <stage>ANFIONEVoci d’alta costanza: alme fedelidegni premi attendete;che mal vive un regnante,se in regnar non ha destra abbondante.Come padre, e come dio,sommo Giove or mi proteggi;e l’ardir d’un empio, e rio,col tuo fulmine correggi.Qui si vedono a poco a poco andar sorgendo intorno di Tebe le mura.</stage>
+      </div>
+      <div type="scene">
+        <head>ANFIONE</head>Ma che miro? Che scorgo? I marmi, i sassianimati al mio canto,forman di Tebe i muri: oh del gran numeonnipotente forza,se un moto sol del tuo voler prefissoanima i sassi, e volve in ciel l’abisso.Scena ventiduesimaNerea fuggendo atterrita, poi Niobe con numeroso Corteggio, e Anfione rapito da meraviglia.<sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Ma che miro? Che scorgo? I marmi, i sassi</l>
+          <l>animati al mio canto,</l>
+          <l>forman di Tebe i muri: oh del gran nume</l>
+          <l>onnipotente forza,</l>
+          <l>se un moto sol del tuo voler prefisso</l>
+          <l>anima i sassi, e volve in ciel l’abisso.</l>
+          <l>Scena ventiduesima</l>
+          <l>Nerea fuggendo atterrita, poi Niobe con numeroso Corteggio, e Anfione rapito da meraviglia.</l>
+        </sp>
+        <stage>ANFIONEMa che miro? Che scorgo? I marmi, i sassianimati al mio canto,forman di Tebe i muri: oh del gran numeonnipotente forza,se un moto sol del tuo voler prefissoanima i sassi, e volve in ciel l’abisso.Scena ventiduesimaNerea fuggendo atterrita, poi Niobe con numeroso Corteggio, e Anfione rapito da meraviglia.</stage>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Assistetemi,</l>
+          <l>soccorretemi,</l>
+          <l>numi del cielo.</l>
+          <l>Fra quei sassi</l>
+          <l>che s’agitano intorno ai passi,</l>
+          <l>io divengo di pietra, io son di gelo.</l>
+          <l>Qui termina l’erezione delle mura suddette.</l>
+        </sp>
+        <stage>NEREAAssistetemi,soccorretemi,numi del cielo.Fra quei sassiche s’agitano intorno ai passi,io divengo di pietra, io son di gelo.Qui termina l’erezione delle mura suddette.</stage>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Niobe ove giungi, e che mirate o luci?</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Sospirata reina</l>
+          <l>ecco per virtù ignota,</l>
+          <l>di Tebe le muraglie</l>
+          <l>innalzate a momenti</l>
+          <l>del mio labbro ai concenti.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Oh meraviglie.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>NIOBE</head>E qual profano ardireor può negarti, o carodegno vanto di nume?S’or di portenti è fabbroil tuo canoro labbro.Su su di sacri altaris’ingombri il suolo, e al nuovo dio tebanoardan le mirre elette; il ciel discoprei numi in terra alle mirabil opre.Con il tuo strale amoretrafiggi questo corepiù rigido, e più fier.Che l’alma innamorataall’idol mio svenatavuo’ vittima cader.Scena ventitreesimaTiresia, e i suddetti.<sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>E qual profano ardire</l>
+          <l>or può negarti, o caro</l>
+          <l>degno vanto di nume?</l>
+          <l>S’or di portenti è fabbro</l>
+          <l>il tuo canoro labbro.</l>
+          <l>Su su di sacri altari</l>
+          <l>s’ingombri il suolo, e al nuovo dio tebano</l>
+          <l>ardan le mirre elette; il ciel discopre</l>
+          <l>i numi in terra alle mirabil opre.</l>
+          <l>Con il tuo strale amore</l>
+          <l>trafiggi questo core</l>
+          <l>più rigido, e più fier.</l>
+          <l>Che l’alma innamorata</l>
+          <l>all’idol mio svenata</l>
+          <l>vuo’ vittima cader.</l>
+          <l>Scena ventitreesima</l>
+          <l>Tiresia, e i suddetti.</l>
+        </sp>
+        <stage>NIOBEE qual profano ardireor può negarti, o carodegno vanto di nume?S’or di portenti è fabbroil tuo canoro labbro.Su su di sacri altaris’ingombri il suolo, e al nuovo dio tebanoardan le mirre elette; il ciel discoprei numi in terra alle mirabil opre.Con il tuo strale amoretrafiggi questo corepiù rigido, e più fier.Che l’alma innamorataall’idol mio svenatavuo’ vittima cader.Scena ventitreesimaTiresia, e i suddetti.</stage>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>O d’insano ardimento</l>
+          <l>sensi troppo superbi: io parlo a noi</l>
+          <l>o mortali regnanti,</l>
+          <l>che con voglie arroganti</l>
+          <l>usurpar pretendete ai numi eterni</l>
+          <l>gli onor dovuti in terra; alla vendetta.</l>
+          <l>L’irato cielo alti castighi affretta.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>A quai detti proruppe?</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Come ardito parlò?</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Tanto presumi</l>
+          <l>vil rifiuto del tempo, uom senza senno,</l>
+          <l>come privo di lumi?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Senza tema di pena</l>
+          <l>così parla chi vive,</l>
+          <l>per servir agli dèi.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>(gettandolo a terra)</l>
+          <l>Ti difendan dal cielo,</l>
+          <l>s’io nel suol ti calpesto,</l>
+          <l>e da ciò apprendi o temerario il resto.</l>
+        </sp>
+        <stage>NIOBE(gettandolo a terra)Ti difendan dal cielo,s’io nel suol ti calpesto,e da ciò apprendi o temerario il resto.</stage>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Ah sacrilega, ah empia.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Oh poco saggio.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Serena o mio bel sole</l>
+          <l>de’ vaghi lumi il raggio.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Ritornandoti in braccio,</l>
+          <l>torno a godere, e ogni rancor discaccio.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Mia fiamma…</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Mio ardore…</l>
+        </sp>
+        <sp who="#niobe e anfione">
+          <speaker>NIOBE E ANFIONE:</speaker>
+          <l>Andianne a gioir.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Per te dolce pena,</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Mia cara catena,</l>
+          <l>m’è grato il morir.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Mia fiamma…</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Mio ardore…</l>
+        </sp>
+        <sp who="#niobe e anfione">
+          <speaker>NIOBE E ANFIONE:</speaker>
+          <l>Andianne a gioir.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Per te dolce pena.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Mia cara catena,</l>
+        </sp>
+        <sp who="#niobe e anfione">
+          <speaker>NIOBE E ANFIONE:</speaker>
+          <l>M’è grato il morir.</l>
+          <l>Mia cara catena,</l>
+          <l>m’è grato il morir.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>NEREA</head>Tu con lingua sì scioltaresta, e impara a parlare un’altra volta.Scena ventiquattresimaTiresia, e poi Manto, e Tiberino.<sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Tu con lingua sì sciolta</l>
+          <l>resta, e impara a parlare un’altra volta.</l>
+          <l>Scena ventiquattresima</l>
+          <l>Tiresia, e poi Manto, e Tiberino.</l>
+        </sp>
+        <stage>NEREATu con lingua sì scioltaresta, e impara a parlare un’altra volta.Scena ventiquattresimaTiresia, e poi Manto, e Tiberino.</stage>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Numi datemi aita, alla mia fede</l>
+          <l>spero da voi mercede.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>(non vedendo ancora Tiresia per terra)</l>
+          <l>Signor vedi, e stupisci</l>
+          <l>ciò che testé la fama</l>
+          <l>a noi recò: di Tebe alzò le mura</l>
+          <l>Anfione col canto.</l>
+        </sp>
+        <stage>MANTO(non vedendo ancora Tiresia per terra)Signor vedi, e stupisciciò che testé la famaa noi recò: di Tebe alzò le muraAnfione col canto.</stage>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Oh gran virtude, oh incanto.</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Chi mi sovviene, ahi lasso?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Che fia? Padre?</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Tiresia?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Calpestato,</l>
+          <l>lacerato,</l>
+          <l>qui dolente,</l>
+          <l>e languente,</l>
+          <l>arresto il passo.</l>
+          <l>Chi mi sovviene, ahi lasso?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>E chi fu sì crudel?</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Chi fu sì rio?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Un mostro di perfidia,</l>
+          <l>una furia regnante,</l>
+          <l>degli dèi sprezzatrice: ahi doglia acerba,</l>
+          <l>fu Niobe, la superba.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Oh tiranna.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Oh spietata.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>E qual cagion t’indusse</l>
+          <l>a sì nefando eccesso?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Il vano fasto</l>
+          <l>di far nume lo sposo; onde il prodigio</l>
+          <l>delle mura, che vedi in giro affisse,</l>
+          <l>tolse al vanto de’ numi, e a lui l’ascrisse.</l>
+          <l>Quinci, mentre mia lingua</l>
+          <l>di zelo armata il grande ardir detesta,</l>
+          <l>l’altera infuriata</l>
+          <l>m’atterra, e mi calpesta.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Oh indegna.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Oh cor di fera.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Il fianco oppresso</l>
+          <l>mio genitor solleva;</l>
+          <l>l’oltraggio puniran gli dèi dal cielo:</l>
+          <l>non torpe mai di lor giustizia il telo.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>(a’ suoi seguaci)</l>
+          <l>S’appoggi, olà, l’uom saggio…</l>
+        </sp>
+        <stage>TIBERINO(a’ suoi seguaci)S’appoggi, olà, l’uom saggio…</stage>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Il piè cadente</l>
+          <l>deh guidate pietosi</l>
+          <l>di Latona nel tempio.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Avrai scorte fedeli.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>TIRESIA</head>Orrende stragi or apprestate o cieli…Di strali, e fulminio stelle armatevi;e dell’ingiuriecon giuste furiesu vendicatemi.Scena venticinquesimaTiberino, e Manto in atto di piangere.<div type="scene">
+        <head>TIRESIA</head>Orrende stragi or apprestate o cieli…Di strali, e fulminio stelle armatevi;e dell’ingiuriecon giuste furiesu vendicatemi.Scena venticinquesimaTiberino, e Manto in atto di piangere.<sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Orrende stragi or apprestate o cieli…</l>
+          <l>Di strali, e fulmini</l>
+          <l>o stelle armatevi;</l>
+          <l>e dell’ingiurie</l>
+          <l>con giuste furie</l>
+          <l>su vendicatemi.</l>
+          <l>Scena venticinquesima</l>
+          <l>Tiberino, e Manto in atto di piangere.</l>
+        </sp>
+        <stage>TIRESIAOrrende stragi or apprestate o cieli…Di strali, e fulminio stelle armatevi;e dell’ingiuriecon giuste furiesu vendicatemi.Scena venticinquesimaTiberino, e Manto in atto di piangere.</stage>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Discaccia il duolo di ben degno padre</l>
+          <l>pietosa figlia, i numi</l>
+          <l>avran di lui cura:</l>
+          <l>ma se pure col pianto</l>
+          <l>vuoi mostrar gentil core,</l>
+          <l>piangi; ma per amore.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Cagion de’ miei martiri</l>
+          <l>se a me scoprir non lice</l>
+          <l>amorosi desiri.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Ancor taci o vezzosa?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>O modestia penosa.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>D’amor che mi rispondi?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Ti dissi, ch’io l’ignoro:</l>
+          <l>ma perché più non sia</l>
+          <l>d’ignoranza ripresa,</l>
+          <l>tu meglio or me ‘l palesa.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Semplicità più non udita in donna.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Folle se ‘l crede.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Dimmi:</l>
+          <l>uomo mirasti mai?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Che richiesta?</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Favella.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Sì.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Fosti ancora, io credo,</l>
+          <l>tu da lui rimirata.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Sì.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>E gli sguardi allora</l>
+          <l>s’incontraron fra lor?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Sì.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>In quell’istante</l>
+          <l>(non me ‘l negar) sentisti</l>
+          <l>nulla nel core?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Sì.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Ti parve un certo</l>
+          <l>quasi piacer?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>È vero.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Un raggio di diletto,</l>
+          <l>come suole fra l’ombre,</l>
+          <l>scintillar brieve lampo?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Giusto così (che facilità).</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Crescea,</l>
+          <l>riguardando guardata,</l>
+          <l>la fiamma al cor più grata?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Appunto.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Or, se no ‘l sai,</l>
+          <l>amore è questi o bella semplicetta,</l>
+          <l>ch’entra per gl’occhi, e dentro il cor ricetta.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Gran maestro ne sei; ed è Cupido</l>
+          <l>questi ancora?</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Sì questi.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Oh nume infido.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Perché?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>(Tempo è ch’in parte</l>
+          <l>scopra miei sensi amanti.)</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Svela quanto t’avvenne.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>MANTO</head>Offre il gioir, poi sforza l’alma ai pianti.Nel mio seno a poco a pocoquesto amor con il suo giocomi rubò la libertà.Onde il cor fra lacci involtospera invan, ch’un dì sia sciolto,ch’egli è un dio senza pietà.Scena ventiseiesimaTiberino.Oh stravaganza: in pettonutre la fiamma, e della face è ignara;così la talpa al sole,per innato costume,sente l’ardor; ma non conosce il lume.Quanto sospireraialma per quei bei raisì semplici in amor.Con pianti, e con lamentifar noti i tuoi tormentiti converrà mio cor.Atto secondoScena primaAnfiteatro con grande globo nel mezzo, e picciol seggio regale da parte.Creonte, e Poliferno, che di sotterra sono portati a cavallo a due mostri.<div type="scene">
+        <head>MANTO</head>Offre il gioir, poi sforza l’alma ai pianti.Nel mio seno a poco a pocoquesto amor con il suo giocomi rubò la libertà.Onde il cor fra lacci involtospera invan, ch’un dì sia sciolto,ch’egli è un dio senza pietà.Scena ventiseiesimaTiberino.Oh stravaganza: in pettonutre la fiamma, e della face è ignara;così la talpa al sole,per innato costume,sente l’ardor; ma non conosce il lume.Quanto sospireraialma per quei bei raisì semplici in amor.Con pianti, e con lamentifar noti i tuoi tormentiti converrà mio cor.Atto secondoScena primaAnfiteatro con grande globo nel mezzo, e picciol seggio regale da parte.Creonte, e Poliferno, che di sotterra sono portati a cavallo a due mostri.<sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Offre il gioir, poi sforza l’alma ai pianti.</l>
+          <l>Nel mio seno a poco a poco</l>
+          <l>questo amor con il suo gioco</l>
+          <l>mi rubò la libertà.</l>
+          <l>Onde il cor fra lacci involto</l>
+          <l>spera invan, ch’un dì sia sciolto,</l>
+          <l>ch’egli è un dio senza pietà.</l>
+          <l>Scena ventiseiesima</l>
+          <l>Tiberino.</l>
+          <l>Oh stravaganza: in petto</l>
+          <l>nutre la fiamma, e della face è ignara;</l>
+          <l>così la talpa al sole,</l>
+          <l>per innato costume,</l>
+          <l>sente l’ardor; ma non conosce il lume.</l>
+          <l>Quanto sospirerai</l>
+          <l>alma per quei bei rai</l>
+          <l>sì semplici in amor.</l>
+          <l>Con pianti, e con lamenti</l>
+          <l>far noti i tuoi tormenti</l>
+          <l>ti converrà mio cor.</l>
+          <l>Atto secondo</l>
+          <l>Scena prima</l>
+          <l>Anfiteatro con grande globo nel mezzo, e picciol seggio regale da parte.</l>
+          <l>Creonte, e Poliferno, che di sotterra sono portati a cavallo a due mostri.</l>
+        </sp>
+        <stage>MANTOOffre il gioir, poi sforza l’alma ai pianti.Nel mio seno a poco a pocoquesto amor con il suo giocomi rubò la libertà.Onde il cor fra lacci involtospera invan, ch’un dì sia sciolto,ch’egli è un dio senza pietà.Scena ventiseiesimaTiberino.Oh stravaganza: in pettonutre la fiamma, e della face è ignara;così la talpa al sole,per innato costume,sente l’ardor; ma non conosce il lume.Quanto sospireraialma per quei bei raisì semplici in amor.Con pianti, e con lamentifar noti i tuoi tormentiti converrà mio cor.Atto secondoScena primaAnfiteatro con grande globo nel mezzo, e picciol seggio regale da parte.Creonte, e Poliferno, che di sotterra sono portati a cavallo a due mostri.</stage>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Ritornate agli abissi</l>
+          <l>spirti fedeli, il nostro piè già forma</l>
+          <l>l’orme prescritte: a queste soglie in grembo</l>
+          <l>non guari andrà che giunto</l>
+          <l>vedrai Tessalo prence il tuo bel sole; profondano i draghi</l>
+          <l>e questa sia de’ fasti suoi la mole.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Oh come qui l’ingegno</l>
+          <l>con arte pellegrina</l>
+          <l>costrusse il cielo a sua beltà divina.</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Perché ci chiuda, e celi,</l>
+          <l>ecco manda Cocito</l>
+          <l>invisibile nume agl’occhi altrui.</l>
+          <l>(si vede sorgere una nube da un lato della scena)</l>
+        </sp>
+        <stage>POLIFERNOPerché ci chiuda, e celi,ecco manda Cocitoinvisibile nume agl’occhi altrui.(si vede sorgere una nube da un lato della scena)</stage>
+      </div>
+      <div type="scene">
+        <head>CREONTE</head>M’apprestano, oh stupori,il sereno del cor gli stigi orrori.Del mio ben occhi adoratideh venite a consolarmi.Vaghi lumi di quest’almavostri sguardi avran la palmadi ferirmi, e di sanarmi.Scena secondaClearte con molti Nobili tebani, Popolo, e i suddetti dentro la nube.<sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>M’apprestano, oh stupori,</l>
+          <l>il sereno del cor gli stigi orrori.</l>
+          <l>Del mio ben occhi adorati</l>
+          <l>deh venite a consolarmi.</l>
+          <l>Vaghi lumi di quest’alma</l>
+          <l>vostri sguardi avran la palma</l>
+          <l>di ferirmi, e di sanarmi.</l>
+          <l>Scena seconda</l>
+          <l>Clearte con molti Nobili tebani, Popolo, e i suddetti dentro la nube.</l>
+        </sp>
+        <stage>CREONTEM’apprestano, oh stupori,il sereno del cor gli stigi orrori.Del mio ben occhi adoratideh venite a consolarmi.Vaghi lumi di quest’almavostri sguardi avran la palmadi ferirmi, e di sanarmi.Scena secondaClearte con molti Nobili tebani, Popolo, e i suddetti dentro la nube.</stage>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Il gran portento amici</l>
+          <l>vedeste già dell’innalzare mura;</l>
+          <l>scorgeste aspri macigni</l>
+          <l>correr per l’aria a volo; e in brievi instanti</l>
+          <l>all’armoniche note</l>
+          <l>del nostro re gir pronti</l>
+          <l>in lungo giro a collocarsi i monti.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Udisti?</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>O ciel ingiusto,</l>
+          <l>se l’empietà proteggi.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Oh noi beati,</l>
+          <l>se di mirare, ed adorar c’è dato</l>
+          <l>oggi i numi sul soglio; ed in loro nome</l>
+          <l>potrà ciascun sicuro</l>
+          <l>stringer contro de’ tessali Tifei</l>
+          <l>l’acciaro avvezzo a vendicar gli dèi.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Che sento?</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>In campo armati</l>
+          <l>già su destrier volanti i regi figli,</l>
+          <l>precorrendo le stragi,</l>
+          <l>calpestano i perigli.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>E ancor la sofferenza</l>
+          <l>qui mi rattien?</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Pazienza.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>CLEARTE</head>E tu mio core intantod’amor l’aspro martiresoffri costante; è gloria anco il soffrire.Voglio servir fedel,e peni quanto saquest’alma amando.Sia quanto vuol crudel,io vincer la beltàvuò sospirando.Scena terzaNiobe con séguito di Dame, Nerea, e i suddetti.<sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>E tu mio core intanto</l>
+          <l>d’amor l’aspro martire</l>
+          <l>soffri costante; è gloria anco il soffrire.</l>
+          <l>Voglio servir fedel,</l>
+          <l>e peni quanto sa</l>
+          <l>quest’alma amando.</l>
+          <l>Sia quanto vuol crudel,</l>
+          <l>io vincer la beltà</l>
+          <l>vuò sospirando.</l>
+          <l>Scena terza</l>
+          <l>Niobe con séguito di Dame, Nerea, e i suddetti.</l>
+        </sp>
+        <stage>CLEARTEE tu mio core intantod’amor l’aspro martiresoffri costante; è gloria anco il soffrire.Voglio servir fedel,e peni quanto saquest’alma amando.Sia quanto vuol crudel,io vincer la beltàvuò sospirando.Scena terzaNiobe con séguito di Dame, Nerea, e i suddetti.</stage>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Viene alfine la bella.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>A sì gran foco</l>
+          <l>per resistere, ahi lasso, un core è poco.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Che si tarda Clearte?</l>
+          <l>Meco al trono si ascenda.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Che fia? Suddito umile</l>
+          <l>con guardo adoratore</l>
+          <l>quell’altezze sol mira.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Sei nel soglio compagno,</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Ma prostrato a’ tuoi cenni.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Il mio cenno ciò impone,</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Lo condanna Anfione.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Ei del regno spogliossi; e sol s’inchina</l>
+          <l>in Clearte il regnante.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Che impero.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Ahi ciel che pena.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Oh sciocco amante.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>NIOBE</head>Su non s’indugi; al soglio:così risolvo, e voglio.(prendendolo per mano, lo conduce sul trono, mentre suona il ritornello della seguente aria)Qui la dèa cieca volanteferma il corso all’orbe instabile.E tributa a regie piantel’aureo crine incontrastabile.Scena quartaAnfione con séguito di Cavalieri, e i suddetti.<sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Su non s’indugi; al soglio:</l>
+          <l>così risolvo, e voglio.</l>
+          <l>(prendendolo per mano, lo conduce sul trono, mentre suona il ritornello della seguente aria)</l>
+          <l>Qui la dèa cieca volante</l>
+          <l>ferma il corso all’orbe instabile.</l>
+          <l>E tributa a regie piante</l>
+          <l>l’aureo crine incontrastabile.</l>
+          <l>Scena quarta</l>
+          <l>Anfione con séguito di Cavalieri, e i suddetti.</l>
+        </sp>
+        <stage>NIOBESu non s’indugi; al soglio:così risolvo, e voglio.(prendendolo per mano, lo conduce sul trono, mentre suona il ritornello della seguente aria)Qui la dèa cieca volanteferma il corso all’orbe instabile.E tributa a regie piantel’aureo crine incontrastabile.Scena quartaAnfione con séguito di Cavalieri, e i suddetti.</stage>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Giunge il re.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Ferma.</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Or mira</l>
+          <l>l’empio Anfion.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Altero</l>
+          <l>in gran fasto s’aggira…</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Qual novità sul trono</l>
+          <l>fassi oggetto ai miei sguardi?</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Egli in mal punto</l>
+          <l>a incomodarli è giunto.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Niobe.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>(Che dirà mai?)</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Qual sulla regia sfera</l>
+          <l>novella impressione</l>
+          <l>avventizia riluce?</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Il riflesso divin della tua luce.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Dunque dovrà sublime</l>
+          <l>sovrastare al suo sole</l>
+          <l>l’apparenza del raggio?</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Sì, qualor fa dal suolo</l>
+          <l>Febo in umane spoglie al ciel passaggio.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Me infelice.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Si serba</l>
+          <l>al rege il trono.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>E tu più re non sei.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Come?</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Qui più non s’erge</l>
+          <l>base a tue glorie.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>E tanto ardisci?</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Insano</l>
+          <l>chi su base volgare</l>
+          <l>di terrena sembianza</l>
+          <l>autorizzar vuo’ i numi: a te, cui cede</l>
+          <l>de’ tebani Penati oggi il maggiore,</l>
+          <l>si dée seggio di stelle…</l>
+          <l>Si apre il globo e comparisce una celeste.</l>
+          <l>Olà… già si disserra,</l>
+          <l>per accoglierti un cielo,</l>
+          <l>in cui sotto uman velo</l>
+          <l>di Giove il figlio adorar dée la terra.</l>
+        </sp>
+        <stage>NIOBEInsanochi su base volgaredi terrena sembianzaautorizzar vuo’ i numi: a te, cui cedede’ tebani Penati oggi il maggiore,si dée seggio di stelle…Si apre il globo e comparisce una celeste.Olà… già si disserra,per accoglierti un cielo,in cui sotto uman velodi Giove il figlio adorar dée la terra.</stage>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Alto pensier…</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Gran mezzo</l>
+          <l>di placar le giust’ire.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Oh ingegno, oh vezzo?</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Confuso io resto: o delle regie glorie</l>
+          <l>gloria, e splendor: qual sia,</l>
+          <l>per celebrarti al mondo</l>
+          <l>raro esempio d’amore,</l>
+          <l>labbro a pieno facondo?</l>
+          <l>Omai ratto agl’imperi</l>
+          <l>dell’eccelsa tua mente,</l>
+          <l>ascendo un ciel, che a cenni tuoi formato,</l>
+          <l>e da raggi animato</l>
+          <l>del doppio sol, ch’hai sulla fronte ardente.</l>
+          <l>Ascendo alle stelle,</l>
+          <l>ma gl’astri, ch’adoro,</l>
+          <l>ha il ciel d’un bel sen.</l>
+          <l>Mie care facelle</l>
+          <l>mi struggo, mi moro</l>
+          <l>al vostro balen.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Con fronti umiliate</l>
+          <l>ciascuno il nume inchini.</l>
+          <l>(tutto il corteggio s’inchina ad Anfione)</l>
+        </sp>
+        <stage>NIOBECon fronti umiliateciascuno il nume inchini.(tutto il corteggio s’inchina ad Anfione)</stage>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Se non mi porgi aita,</l>
+          <l>celar più la mia fiamma</l>
+          <l>non posso alla mia vita.</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Il rapitor della beltà sicana,</l>
+          <l>Pluto invoco; e già pronte</l>
+          <l>son, per rapir chi brami,</l>
+          <l>l’ombre di Flegetonte.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Felice sorte.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Armonici intervalli</l>
+          <l>sveglin or lieti balli.</l>
+          <l>Segue il ballo, è poi terminato.</l>
+        </sp>
+        <stage>NIOBEArmonici intervallisveglin or lieti balli.Segue il ballo, è poi terminato.</stage>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Alle prescritte mete</l>
+          <l>sorgete, omai sorgete</l>
+          <l>dalle stigie caverne</l>
+          <l>spaventose ombre inferne.</l>
+          <l>Qui sorge infernale, che ingombra tutto il vacuo della scena.</l>
+        </sp>
+        <stage>POLIFERNOAlle prescritte metesorgete, omai sorgetedalle stigie cavernespaventose ombre inferne.Qui sorge infernale, che ingombra tutto il vacuo della scena.</stage>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Che miro?</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Ora ubbidisci:</l>
+          <l>tra nuove illusioni</l>
+          <l>teco verrà l’idolo tuo: sparisci.</l>
+          <l>(è portato via dalla nube)</l>
+        </sp>
+        <stage>POLIFERNOOra ubbidisci:tra nuove illusioniteco verrà l’idolo tuo: sparisci.(è portato via dalla nube)</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>POLIFERNO</head>Numi tartareicon vostri sibilitremendi, orribiliturbate il ciel.E dal sidereo tronoatterri il vostro tuonoun Salmoneo novel.A un terribile rimbombo si profonda con tutta l’infernale, tornando a comparire la prima scena oscurata senza persone.Scena quintaAnfione in atto di spavento.Ove son, chi m’aita? In mezzo all’ombresolo m’aggiro, e abbandonato, ahi lasso,in abisso di orror confondo il passo.Misero chi mi cela? Ai lumi intornol’imago ancor del minacciante cielom’agita, mi spaventa: ahi che mirastesventurati occhi miei! Voi pur apertemie pupille funestescorrer dell’Etra i campi a Marte in seno,quasi lampo, e baleno,l’idolo mio, l’anima mia vedeste.Niobe: ahi doglia infinita!Perduta ho l’alma, e ancor rimango in vita.Non fu già in riva al Xantocosì degna di piantodel troiano garzonela rapina fatale,quanto or la pena mia, quanto il mio male.Oh spettacolo atroce!Oh mio fiero destin, perversa sorte!Sparì mia vita, e non mi date a morte.Dal mio petto o pianti uscitein tributo al mio dolor.E in virtù de’ miei tormentidisciogliendovi in torrenti,in voi naufraghi ‘l mio cor.Scena sestaColline con fonte.Tiresia, poi Tiberino.<div type="scene">
+        <head>POLIFERNO</head>Numi tartareicon vostri sibilitremendi, orribiliturbate il ciel.E dal sidereo tronoatterri il vostro tuonoun Salmoneo novel.A un terribile rimbombo si profonda con tutta l’infernale, tornando a comparire la prima scena oscurata senza persone.Scena quintaAnfione in atto di spavento.Ove son, chi m’aita? In mezzo all’ombresolo m’aggiro, e abbandonato, ahi lasso,in abisso di orror confondo il passo.Misero chi mi cela? Ai lumi intornol’imago ancor del minacciante cielom’agita, mi spaventa: ahi che mirastesventurati occhi miei! Voi pur apertemie pupille funestescorrer dell’Etra i campi a Marte in seno,quasi lampo, e baleno,l’idolo mio, l’anima mia vedeste.Niobe: ahi doglia infinita!Perduta ho l’alma, e ancor rimango in vita.Non fu già in riva al Xantocosì degna di piantodel troiano garzonela rapina fatale,quanto or la pena mia, quanto il mio male.Oh spettacolo atroce!Oh mio fiero destin, perversa sorte!Sparì mia vita, e non mi date a morte.Dal mio petto o pianti uscitein tributo al mio dolor.E in virtù de’ miei tormentidisciogliendovi in torrenti,in voi naufraghi ‘l mio cor.Scena sestaColline con fonte.Tiresia, poi Tiberino.<sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Numi tartarei</l>
+          <l>con vostri sibili</l>
+          <l>tremendi, orribili</l>
+          <l>turbate il ciel.</l>
+          <l>E dal sidereo trono</l>
+          <l>atterri il vostro tuono</l>
+          <l>un Salmoneo novel.</l>
+          <l>A un terribile rimbombo si profonda con tutta l’infernale, tornando a comparire la prima scena oscurata senza persone.</l>
+          <l>Scena quinta</l>
+          <l>Anfione in atto di spavento.</l>
+          <l>Ove son, chi m’aita? In mezzo all’ombre</l>
+          <l>solo m’aggiro, e abbandonato, ahi lasso,</l>
+          <l>in abisso di orror confondo il passo.</l>
+          <l>Misero chi mi cela? Ai lumi intorno</l>
+          <l>l’imago ancor del minacciante cielo</l>
+          <l>m’agita, mi spaventa: ahi che miraste</l>
+          <l>sventurati occhi miei! Voi pur aperte</l>
+          <l>mie pupille funeste</l>
+          <l>scorrer dell’Etra i campi a Marte in seno,</l>
+          <l>quasi lampo, e baleno,</l>
+          <l>l’idolo mio, l’anima mia vedeste.</l>
+          <l>Niobe: ahi doglia infinita!</l>
+          <l>Perduta ho l’alma, e ancor rimango in vita.</l>
+          <l>Non fu già in riva al Xanto</l>
+          <l>così degna di pianto</l>
+          <l>del troiano garzone</l>
+          <l>la rapina fatale,</l>
+          <l>quanto or la pena mia, quanto il mio male.</l>
+          <l>Oh spettacolo atroce!</l>
+          <l>Oh mio fiero destin, perversa sorte!</l>
+          <l>Sparì mia vita, e non mi date a morte.</l>
+          <l>Dal mio petto o pianti uscite</l>
+          <l>in tributo al mio dolor.</l>
+          <l>E in virtù de’ miei tormenti</l>
+          <l>disciogliendovi in torrenti,</l>
+          <l>in voi naufraghi ‘l mio cor.</l>
+          <l>Scena sesta</l>
+          <l>Colline con fonte.</l>
+          <l>Tiresia, poi Tiberino.</l>
+        </sp>
+        <stage>POLIFERNONumi tartareicon vostri sibilitremendi, orribiliturbate il ciel.E dal sidereo tronoatterri il vostro tuonoun Salmoneo novel.A un terribile rimbombo si profonda con tutta l’infernale, tornando a comparire la prima scena oscurata senza persone.Scena quintaAnfione in atto di spavento.Ove son, chi m’aita? In mezzo all’ombresolo m’aggiro, e abbandonato, ahi lasso,in abisso di orror confondo il passo.Misero chi mi cela? Ai lumi intornol’imago ancor del minacciante cielom’agita, mi spaventa: ahi che mirastesventurati occhi miei! Voi pur apertemie pupille funestescorrer dell’Etra i campi a Marte in seno,quasi lampo, e baleno,l’idolo mio, l’anima mia vedeste.Niobe: ahi doglia infinita!Perduta ho l’alma, e ancor rimango in vita.Non fu già in riva al Xantocosì degna di piantodel troiano garzonela rapina fatale,quanto or la pena mia, quanto il mio male.Oh spettacolo atroce!Oh mio fiero destin, perversa sorte!Sparì mia vita, e non mi date a morte.Dal mio petto o pianti uscitein tributo al mio dolor.E in virtù de’ miei tormentidisciogliendovi in torrenti,in voi naufraghi ‘l mio cor.Scena sestaColline con fonte.Tiresia, poi Tiberino.</stage>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Confuse potenze</l>
+          <l>destatevi su.</l>
+          <l>La mente ingannata,</l>
+          <l>da false apparenze</l>
+          <l>or vinta, e legata</l>
+          <l>non rendasi più.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Ove quasi furente</l>
+          <l>movi l’incerto piè?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Di eventi oscuri</l>
+          <l>ingombrata la mente,</l>
+          <l>mal discerne gl’auguri.</l>
+          <l>A pastorali alberghi</l>
+          <l>nuovamente m’involo,</l>
+          <l>ed alle sacre soglie</l>
+          <l>già ritorno, già volo.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>E ancor senza svelarmi</l>
+          <l>gl’arcani di mia sorte, alle promesse</l>
+          <l>procrastini gli effetti?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Hanno legge dal ciel sempre i miei detti.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Dimmi almen: deggio in Tebe</l>
+          <l>sperar vittorie?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>È van desio.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Fia dunque,</l>
+          <l>or che infuria Bellona,</l>
+          <l>pigra in mezzo all’armi</l>
+          <l>di Tiberin la destra?</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>TIRESIA</head>È talora la sortedegl’ozi ancor maestra.Scena settimaTiberino, e poi Manto in compagnia di Ninfe con vari strumenti da suono.<sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>È talora la sorte</l>
+          <l>degl’ozi ancor maestra.</l>
+          <l>Scena settima</l>
+          <l>Tiberino, e poi Manto in compagnia di Ninfe con vari strumenti da suono.</l>
+        </sp>
+        <stage>TIRESIAÈ talora la sortedegl’ozi ancor maestra.Scena settimaTiberino, e poi Manto in compagnia di Ninfe con vari strumenti da suono.</stage>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Fuggirò questo cielo,</l>
+          <l>che contrari a mie brame</l>
+          <l>così nutre gl’influssi:</l>
+          <l>ma dove, oh dèi, se imprigionata, e presa,</l>
+          <l>a un biondo crin l’anima mia s’è resa.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Qua mie fide compagne, ove ridente</l>
+          <l>mormora l’onda, ad accordar venite</l>
+          <l>dell’incerate avene il suon giulivo:</l>
+          <l>ma che veggio? Mia fede</l>
+          <l>fatta già calamita a due bei rai,</l>
+          <l>il polo del suo amor non perde mai.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Ecco il seno adorato: oh poco avvezza</l>
+          <l>all’amorose gioie</l>
+          <l>semplicetta bellezza.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Ridir, vuo’ le mie pene.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Voglio scoprir l’oggetto,</l>
+          <l>ch’il cor le accese in petto.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>La man benefattrice</l>
+          <l>a venerar mi guida</l>
+          <l>nuova sorte felice.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>M’incatena ognor più: grata a me giungi;</l>
+          <l>ed appunto o vezzosa,</l>
+          <l>replicava il mio core</l>
+          <l>gli eventi del tuo amore.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>M’è benigna fortuna.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Or dimmi o bella</l>
+          <l>di qual vago sembiante</l>
+          <l>col rincontro de’ sguardi,</l>
+          <l>come, già m’affermasti,</l>
+          <l>amore t’invaghi’?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Io te mirai.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Non altri?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Altri non mai così.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Alma innocente?</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Ed al tuo sen, mi svela</l>
+          <l>signor, nulla produsse</l>
+          <l>lo sguardo mio?</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>TIBERINO</head>Che dir saprò? M’è forzadir, che m’accese: no, tempo miglioresi attenda a palesar l’ardor del core.Il tuo sguardo o bella mianel mio sen fiamme aumentò.Ma ch’amor poi questo sia,dir no ‘l posso, e non lo so.Scena ottavaManto.Odi come diversoda ciò che insegna altrui,il maestro d’amor d’amor favella.Oh sventurata Manto! Un stranier crudo,per lui meglio gioire,serbò tua vita a più crudel morire.Tu ci pensasti pocomio cor a dir di sìt’inceneristi al focosì tosto che apparì.Tu ti fidasti assaimio cor del crudo arcier.Troppo credesti ai raid’un volto lusinghier.Scena nonaNiobe, e Poliferno in apparenza di Mercurio.<sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Che dir saprò? M’è forza</l>
+          <l>dir, che m’accese: no, tempo migliore</l>
+          <l>si attenda a palesar l’ardor del core.</l>
+          <l>Il tuo sguardo o bella mia</l>
+          <l>nel mio sen fiamme aumentò.</l>
+          <l>Ma ch’amor poi questo sia,</l>
+          <l>dir no ‘l posso, e non lo so.</l>
+          <l>Scena ottava</l>
+          <l>Manto.</l>
+          <l>Odi come diverso</l>
+          <l>da ciò che insegna altrui,</l>
+          <l>il maestro d’amor d’amor favella.</l>
+          <l>Oh sventurata Manto! Un stranier crudo,</l>
+          <l>per lui meglio gioire,</l>
+          <l>serbò tua vita a più crudel morire.</l>
+          <l>Tu ci pensasti poco</l>
+          <l>mio cor a dir di sì</l>
+          <l>t’inceneristi al foco</l>
+          <l>sì tosto che apparì.</l>
+          <l>Tu ti fidasti assai</l>
+          <l>mio cor del crudo arcier.</l>
+          <l>Troppo credesti ai rai</l>
+          <l>d’un volto lusinghier.</l>
+          <l>Scena nona</l>
+          <l>Niobe, e Poliferno in apparenza di Mercurio.</l>
+        </sp>
+        <stage>TIBERINOChe dir saprò? M’è forzadir, che m’accese: no, tempo miglioresi attenda a palesar l’ardor del core.Il tuo sguardo o bella mianel mio sen fiamme aumentò.Ma ch’amor poi questo sia,dir no ‘l posso, e non lo so.Scena ottavaManto.Odi come diversoda ciò che insegna altrui,il maestro d’amor d’amor favella.Oh sventurata Manto! Un stranier crudo,per lui meglio gioire,serbò tua vita a più crudel morire.Tu ci pensasti pocomio cor a dir di sìt’inceneristi al focosì tosto che apparì.Tu ti fidasti assaimio cor del crudo arcier.Troppo credesti ai raid’un volto lusinghier.Scena nonaNiobe, e Poliferno in apparenza di Mercurio.</stage>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Chi sei, dove mi guidi?</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Io Mercurio m’appello, e degli dèi</l>
+          <l>son messagger; l’incarco</l>
+          <l>ebbi di qua condurti…</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>E così tosto</l>
+          <l>sparì dagl’occhi miei Marte il mio nume?</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Per trasportarti alla magion celeste,</l>
+          <l>farà presto ritorno: a quanto giunse</l>
+          <l>donna immortal la tua beltà divina:</l>
+          <l>Marte dall’alte sfere</l>
+          <l>di trar ebbe possanza;</l>
+          <l>ed è vil paragone or al tuo merto</l>
+          <l>la gran madre d’amor; del dio tonante</l>
+          <l>fu meno degna preda</l>
+          <l>Europa, Danae, e Leda.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Tebe, figli, Anfion, regno, vassalli.</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Or ch’il gran dio dell’armi</l>
+          <l>sposa ti elesse, il nutrir più non lice</l>
+          <l>nel sen terreni affetti.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>NIOBE</head>Deh cedete or mie pene a’ miei diletti.Stringo al seno un nume amante,fatto eterno è il mio gioir,s’a bei rai del suo sembiantedivien gioia ogni martir.Scena decimaSopra gran nuvolosa dall’alto della scena, Creonte in apparenza di Marte, e i suddetti.<div type="scene">
+        <head>NIOBE</head>Deh cedete or mie pene a’ miei diletti.Stringo al seno un nume amante,fatto eterno è il mio gioir,s’a bei rai del suo sembiantedivien gioia ogni martir.Scena decimaSopra gran nuvolosa dall’alto della scena, Creonte in apparenza di Marte, e i suddetti.<sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Deh cedete or mie pene a’ miei diletti.</l>
+          <l>Stringo al seno un nume amante,</l>
+          <l>fatto eterno è il mio gioir,</l>
+          <l>s’a bei rai del suo sembiante</l>
+          <l>divien gioia ogni martir.</l>
+          <l>Scena decima</l>
+          <l>Sopra gran nuvolosa dall’alto della scena, Creonte in apparenza di Marte, e i suddetti.</l>
+        </sp>
+        <stage>NIOBEDeh cedete or mie pene a’ miei diletti.Stringo al seno un nume amante,fatto eterno è il mio gioir,s’a bei rai del suo sembiantedivien gioia ogni martir.Scena decimaSopra gran nuvolosa dall’alto della scena, Creonte in apparenza di Marte, e i suddetti.</stage>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Mira: già il dio guerriero,</l>
+          <l>a te scende dall’Etra.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>L’abisso di sua luce</l>
+          <l>non v’abbagli occhi miei: ma ben discerno,</l>
+          <l>che un raggio sol de’ suoi divin splendori</l>
+          <l>può rischiarar l’inferno.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>(scende dalla macchina)</l>
+          <l>Lascio l’armi, e cedo il campo</l>
+          <l>già mi rendo a un vago lampo,</l>
+          <l>d’altra Venere in beltà.</l>
+          <l>Guerre, e stragi andate in bando,</l>
+          <l>baci, e vezzi io vo cercando</l>
+          <l>nel bel sen, che vinto m’ha.</l>
+          <l>(essendo la macchina a terra)</l>
+        </sp>
+        <stage>CREONTE(scende dalla macchina)Lascio l’armi, e cedo il campogià mi rendo a un vago lampo,d’altra Venere in beltà.Guerre, e stragi andate in bando,baci, e vezzi io vo cercandonel bel sen, che vinto m’ha.(essendo la macchina a terra)</stage>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>(Agevolò l’impresa</l>
+          <l>l’ordita illusion, da cui ingannata,</l>
+          <l>divota amante ella al tuo amor s’è resa.)</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>(Il tuo saper fa l’alma mia beata</l>
+          <l>t’accosta o dèa terrena; han gl’uman pregi</l>
+          <l>possanza ancor sovra gli dèi; sovente</l>
+          <l>le delizie de’ numi</l>
+          <l>son fra mortali; or il timor disgombra;</l>
+          <l>sembra ogni nume a te vicino un’ombra.)</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Alle grazie celesti</l>
+          <l>il core umiliato,</l>
+          <l>al sembiante adorato</l>
+          <l>sacra i desir dell’adorante salma,</l>
+          <l>son incensi i sospir, vittima è l’alma.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Vieni mia cara, vieni</l>
+          <l>fra le mie braccia; avrai</l>
+          <l>sovra del sole il trono;</l>
+          <l>ti cingerà degl’astri</l>
+          <l>il risplendente velo;</l>
+          <l>e se lasci la terra, acquisti un cielo.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>All’impero divino</l>
+          <l>divota, ubbidiente,</l>
+          <l>corro veloce, e de’ terreni fasti</l>
+          <l>son le memorie spente.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>T’abbraccio mia diva…</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Ti stringo mio nume…</l>
+        </sp>
+        <sp who="#creonte e niobe">
+          <speaker>CREONTE E NIOBE:</speaker>
+          <l>Ti lego al mio cor.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Tua luce m’avviva…</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Mia vita è il tuo lume…</l>
+        </sp>
+        <sp who="#creonte e niobe">
+          <speaker>CREONTE E NIOBE:</speaker>
+          <l>Mia gioia è il tuo ardor.</l>
+          <l>Seguendo il ritornello della seguente aria, comincia a scender la macchina, in cui siede anche Poliferno.</l>
+        </sp>
+        <stage>CREONTE E NIOBEMia gioia è il tuo ardor.Seguendo il ritornello della seguente aria, comincia a scender la macchina, in cui siede anche Poliferno.</stage>
+      </div>
+      <div type="scene">
+        <head>POLIFERNO</head>Gioite, godetein grembo al piacer,de’ numi dilettison sempre gli affettidel picciol arcier.Scena undicesimaCamere regie.Anfione, Tiresia.<sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Gioite, godete</l>
+          <l>in grembo al piacer,</l>
+          <l>de’ numi diletti</l>
+          <l>son sempre gli affetti</l>
+          <l>del picciol arcier.</l>
+          <l>Scena undicesima</l>
+          <l>Camere regie.</l>
+          <l>Anfione, Tiresia.</l>
+        </sp>
+        <stage>POLIFERNOGioite, godetein grembo al piacer,de’ numi dilettison sempre gli affettidel picciol arcier.Scena undicesimaCamere regie.Anfione, Tiresia.</stage>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Tu mi laceri il core.</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Che a te venga imponesti,</l>
+          <l>perché il ver ti riveli.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Creonte dunque?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Sì.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Il tessalo nemico?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Egli.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Con magich’opre?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Arti di Poliferno.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>M’abbagliò?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Le pupille.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Mi confuse?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>La mente.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Ed in mezzo a fantasmi?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Di strane illusioni.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Mi rapì?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>La consorte.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Empio ardir.</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Grave inganno.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>E resisto all’affanno?</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>In mezzo a mille incanti</l>
+          <l>il piè raggiri; i numi</l>
+          <l>così de’ lor disprezzi</l>
+          <l>vendican l’onte.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>O de’ superni regni</l>
+          <l>deità, che reggete</l>
+          <l>dei re la sorte: io prego</l>
+          <l>deh temprate clementi</l>
+          <l>il rigido tenor de’ miei tormenti.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>TIRESIA</head>All’umili preghierede’ divoti mortalisi mostrano soventegli dèi placati; ed io ritorno al tempio,per impetrar propizie a tue difesele onnipotenti destre.Poscia de’ lor decretirivelerò i segreti.De’ numi la leggeè scorta a chi regge,ogn’ora fedel.Di vana grandezzasi vanta chi sprezzai dogmi del ciel.Scena dodicesimaAnfione.E ancor neghittosive ne state tant’uopospirti del regio sdegno?Del tradimento indegnosu su cadan gl’autori in mar di sangue,su alla strage degl’empi,per far miei dì felici,corran le furie mie vendicatrici.Tra bellici carmirisvégliati all’armiinvitto mio cor.Quest’alma dolentea guerra furentegià desta il valor.Scena tredicesimaPianura ingombrata da capanne di Pastori.Clearte, Nerea.<sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>All’umili preghiere</l>
+          <l>de’ divoti mortali</l>
+          <l>si mostrano sovente</l>
+          <l>gli dèi placati; ed io ritorno al tempio,</l>
+          <l>per impetrar propizie a tue difese</l>
+          <l>le onnipotenti destre.</l>
+          <l>Poscia de’ lor decreti</l>
+          <l>rivelerò i segreti.</l>
+          <l>De’ numi la legge</l>
+          <l>è scorta a chi regge,</l>
+          <l>ogn’ora fedel.</l>
+          <l>Di vana grandezza</l>
+          <l>si vanta chi sprezza</l>
+          <l>i dogmi del ciel.</l>
+          <l>Scena dodicesima</l>
+          <l>Anfione.</l>
+          <l>E ancor neghittosi</l>
+          <l>ve ne state tant’uopo</l>
+          <l>spirti del regio sdegno?</l>
+          <l>Del tradimento indegno</l>
+          <l>su su cadan gl’autori in mar di sangue,</l>
+          <l>su alla strage degl’empi,</l>
+          <l>per far miei dì felici,</l>
+          <l>corran le furie mie vendicatrici.</l>
+          <l>Tra bellici carmi</l>
+          <l>risvégliati all’armi</l>
+          <l>invitto mio cor.</l>
+          <l>Quest’alma dolente</l>
+          <l>a guerra furente</l>
+          <l>già desta il valor.</l>
+          <l>Scena tredicesima</l>
+          <l>Pianura ingombrata da capanne di Pastori.</l>
+          <l>Clearte, Nerea.</l>
+        </sp>
+        <stage>TIRESIAAll’umili preghierede’ divoti mortalisi mostrano soventegli dèi placati; ed io ritorno al tempio,per impetrar propizie a tue difesele onnipotenti destre.Poscia de’ lor decretirivelerò i segreti.De’ numi la leggeè scorta a chi regge,ogn’ora fedel.Di vana grandezzasi vanta chi sprezzai dogmi del ciel.Scena dodicesimaAnfione.E ancor neghittosive ne state tant’uopospirti del regio sdegno?Del tradimento indegnosu su cadan gl’autori in mar di sangue,su alla strage degl’empi,per far miei dì felici,corran le furie mie vendicatrici.Tra bellici carmirisvégliati all’armiinvitto mio cor.Quest’alma dolentea guerra furentegià desta il valor.Scena tredicesimaPianura ingombrata da capanne di Pastori.Clearte, Nerea.</stage>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>De’ tebani pastori, io pur non erro,</l>
+          <l>son questi gl’abituri.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>E che rimiro?</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Ma come d’improvviso</l>
+          <l>qui spazia il piè? Fra sconosciute genti</l>
+          <l>pur noi sinor vagammo.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Inver mi sembra</l>
+          <l>cosa da farmi intirizzir le membra.</l>
+        </sp>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>E di qual forza ignota</l>
+          <l>fur così strani effetti?</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Ahi non vedesti</l>
+          <l>nel regio anfiteatro</l>
+          <l>tutti gl’inferni spirti</l>
+          <l>contro noi congiurati? E il dio Gradivo</l>
+          <l>cinto d’aeree schiere</l>
+          <l>involar la regina? In quell’istante</l>
+          <l>(io penetro nel fondo)</l>
+          <l>ei, perché non si sappia,</l>
+          <l>ci pose fuor dal mondo.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>CLEARTE</head>Con memoria sì crudaahi mi sveni: e fia ver, che l’idol miosia sparito? Alla reggiame n’ corro impaziente:Amor con nuova penanon tormentar l’anima mia dolente.Non mi far pianger sempretiranno mio destin.Un giorno cangia tempreal crudo dio bambin.Scena quattordicesimaNerea, Manto, e poi Tiberino.<div type="scene">
+        <head>CLEARTE</head>Con memoria sì crudaahi mi sveni: e fia ver, che l’idol miosia sparito? Alla reggiame n’ corro impaziente:Amor con nuova penanon tormentar l’anima mia dolente.Non mi far pianger sempretiranno mio destin.Un giorno cangia tempreal crudo dio bambin.Scena quattordicesimaNerea, Manto, e poi Tiberino.<sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Con memoria sì cruda</l>
+          <l>ahi mi sveni: e fia ver, che l’idol mio</l>
+          <l>sia sparito? Alla reggia</l>
+          <l>me n’ corro impaziente:</l>
+          <l>Amor con nuova pena</l>
+          <l>non tormentar l’anima mia dolente.</l>
+          <l>Non mi far pianger sempre</l>
+          <l>tiranno mio destin.</l>
+          <l>Un giorno cangia tempre</l>
+          <l>al crudo dio bambin.</l>
+          <l>Scena quattordicesima</l>
+          <l>Nerea, Manto, e poi Tiberino.</l>
+        </sp>
+        <stage>CLEARTECon memoria sì crudaahi mi sveni: e fia ver, che l’idol miosia sparito? Alla reggiame n’ corro impaziente:Amor con nuova penanon tormentar l’anima mia dolente.Non mi far pianger sempretiranno mio destin.Un giorno cangia tempreal crudo dio bambin.Scena quattordicesimaNerea, Manto, e poi Tiberino.</stage>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Ratto se n’ va: fra questi alberghi intanto</l>
+          <l>io cercar vuò brieve riposo; e appunto</l>
+          <l>qui gentil pastorella</l>
+          <l>prende dolce quiete.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Ahi crudel.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Si risveglia.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Infido core</l>
+          <l>così paghi il mio amore?</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Manto è costei, e d’amorosa doglia</l>
+          <l>mesta si lagna.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>In grembo al suolo ircano</l>
+          <l>t’allattaro le tigri Alban superbo,</l>
+          <l>empia cagion del mio tormento acerbo.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Uh poverina.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Piange</l>
+          <l>il mio ben? Che t’opprime</l>
+          <l>vergin leggiadra! Dimmi</l>
+          <l>che t’affligge? Ahi col guardo</l>
+          <l>par che tenti mia morte.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Ardon per tutto</l>
+          <l>di Cupido le faci.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Parla o bella, ancor taci?</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>MANTO</head>Ho troppo parlato,ti basti così.Il cor ingannatogià troppo languì.Scena quindicesimaNerea, Tiberino.<sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Ho troppo parlato,</l>
+          <l>ti basti così.</l>
+          <l>Il cor ingannato</l>
+          <l>già troppo languì.</l>
+          <l>Scena quindicesima</l>
+          <l>Nerea, Tiberino.</l>
+        </sp>
+        <stage>MANTOHo troppo parlato,ti basti così.Il cor ingannatogià troppo languì.Scena quindicesimaNerea, Tiberino.</stage>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Mi commuove a pietade: oh che bel vanto</l>
+          <l>tradir le giovinette.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Io qui son fatto</l>
+          <l>di rimproveri scopo.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>È troppo folle</l>
+          <l>chi d’uomini si fida.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>TIBERINO</head>A violenzafermo qui più le piante:sia pur forza d’amor, d’astri, o di fato,un sol momento parmilungi dal caro beneun secolo di pene.Ci sei colto mio cor, non vi è più scampo.Segui ad amar penandoquel sen, che saettandoti va d’amor col lampo.Scena sedicesimaNerea.Oh che dolci concetti,che parole melate han sempre in boccaquesti strani zerbini; ognora estintisi mostrano in amor, ma i cori han finti.Questi giovani modernigiocan sempre ad ingannar.I lor vezzi sono scherni,che fan l’alme sospirar.Questi giovani modernigiocan sempre ad ingannar.Paion tanti Endimionile zitelle in lusingar.Ma se v’è, ch’il cor li doni,è una luna a vaneggiar.Questi giovani modernigiocan sempre ad ingannar.Segue ballo di Pastori.Atto terzoScena primaSfera di Marte.Niobe in apparenza di dèa, Creonte, e corteggio di Deità apparenti.<div type="scene">
+        <head>TIBERINO</head>A violenzafermo qui più le piante:sia pur forza d’amor, d’astri, o di fato,un sol momento parmilungi dal caro beneun secolo di pene.Ci sei colto mio cor, non vi è più scampo.Segui ad amar penandoquel sen, che saettandoti va d’amor col lampo.Scena sedicesimaNerea.Oh che dolci concetti,che parole melate han sempre in boccaquesti strani zerbini; ognora estintisi mostrano in amor, ma i cori han finti.Questi giovani modernigiocan sempre ad ingannar.I lor vezzi sono scherni,che fan l’alme sospirar.Questi giovani modernigiocan sempre ad ingannar.Paion tanti Endimionile zitelle in lusingar.Ma se v’è, ch’il cor li doni,è una luna a vaneggiar.Questi giovani modernigiocan sempre ad ingannar.Segue ballo di Pastori.Atto terzoScena primaSfera di Marte.Niobe in apparenza di dèa, Creonte, e corteggio di Deità apparenti.<sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>A violenza</l>
+          <l>fermo qui più le piante:</l>
+          <l>sia pur forza d’amor, d’astri, o di fato,</l>
+          <l>un sol momento parmi</l>
+          <l>lungi dal caro bene</l>
+          <l>un secolo di pene.</l>
+          <l>Ci sei colto mio cor, non vi è più scampo.</l>
+          <l>Segui ad amar penando</l>
+          <l>quel sen, che saettando</l>
+          <l>ti va d’amor col lampo.</l>
+          <l>Scena sedicesima</l>
+          <l>Nerea.</l>
+          <l>Oh che dolci concetti,</l>
+          <l>che parole melate han sempre in bocca</l>
+          <l>questi strani zerbini; ognora estinti</l>
+          <l>si mostrano in amor, ma i cori han finti.</l>
+          <l>Questi giovani moderni</l>
+          <l>giocan sempre ad ingannar.</l>
+          <l>I lor vezzi sono scherni,</l>
+          <l>che fan l’alme sospirar.</l>
+          <l>Questi giovani moderni</l>
+          <l>giocan sempre ad ingannar.</l>
+          <l>Paion tanti Endimioni</l>
+          <l>le zitelle in lusingar.</l>
+          <l>Ma se v’è, ch’il cor li doni,</l>
+          <l>è una luna a vaneggiar.</l>
+          <l>Questi giovani moderni</l>
+          <l>giocan sempre ad ingannar.</l>
+          <l>Segue ballo di Pastori.</l>
+          <l>Atto terzo</l>
+          <l>Scena prima</l>
+          <l>Sfera di Marte.</l>
+          <l>Niobe in apparenza di dèa, Creonte, e corteggio di Deità apparenti.</l>
+        </sp>
+        <stage>TIBERINOA violenzafermo qui più le piante:sia pur forza d’amor, d’astri, o di fato,un sol momento parmilungi dal caro beneun secolo di pene.Ci sei colto mio cor, non vi è più scampo.Segui ad amar penandoquel sen, che saettandoti va d’amor col lampo.Scena sedicesimaNerea.Oh che dolci concetti,che parole melate han sempre in boccaquesti strani zerbini; ognora estintisi mostrano in amor, ma i cori han finti.Questi giovani modernigiocan sempre ad ingannar.I lor vezzi sono scherni,che fan l’alme sospirar.Questi giovani modernigiocan sempre ad ingannar.Paion tanti Endimionile zitelle in lusingar.Ma se v’è, ch’il cor li doni,è una luna a vaneggiar.Questi giovani modernigiocan sempre ad ingannar.Segue ballo di Pastori.Atto terzoScena primaSfera di Marte.Niobe in apparenza di dèa, Creonte, e corteggio di Deità apparenti.</stage>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Delle celesti soglie</l>
+          <l>già calpesti i zaffiri; a te s’inchina</l>
+          <l>del quinto giro il coro,</l>
+          <l>ove io divoto i tuoi bei lumi adoro.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>In sen d’eterna gioia</l>
+          <l>vivon miei sensi, e immortalmente unita</l>
+          <l>al tuo fianco divin gode mia vita.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>In dolci nodi avvinti</l>
+          <l>posiam mia dea, e del tuo amor mi rendi</l>
+          <l>segni più lieti:</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Ahi ch’ognor più m’accendi.</l>
+          <l>Amami, e vederai,</l>
+          <l>ch’amor non ha più stral,</l>
+          <l>vibrolli tutti al seno mio per te.</l>
+          <l>In quei tuoi vaghi rai</l>
+          <l>è l’ardor mio mio fatal</l>
+          <l>né v’è fede, che sia pari a mia fé.</l>
+          <l>Ma da qual nube interna</l>
+          <l>sento opprimermi ‘l cor? Lassa, già langue</l>
+          <l>in sen lo spirto esangue.</l>
+          <l>(sviene)</l>
+        </sp>
+        <stage>NIOBEAhi ch’ognor più m’accendi.Amami, e vederai,ch’amor non ha più stral,vibrolli tutti al seno mio per te.In quei tuoi vaghi raiè l’ardor mio mio fatalné v’è fede, che sia pari a mia fé.Ma da qual nube internasento opprimermi ‘l cor? Lassa, già languein sen lo spirto esangue.(sviene)</stage>
+      </div>
+      <div type="scene">
+        <head>CREONTE</head>Che fia mio ben? Idolo mio? Mio nume?Scena secondaPoliferno, e i suddetti.<sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Che fia mio ben? Idolo mio? Mio nume?</l>
+          <l>Scena seconda</l>
+          <l>Poliferno, e i suddetti.</l>
+        </sp>
+        <stage>CREONTEChe fia mio ben? Idolo mio? Mio nume?Scena secondaPoliferno, e i suddetti.</stage>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Fuggi Creonte, fuggi; armasi il cielo</l>
+          <l>contro di noi, già freme</l>
+          <l>di Tiresia alle preci</l>
+          <l>adirata Latona; e a nostri danni</l>
+          <l>per possanza maggiore</l>
+          <l>volgonsi i nostri inganni.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Misero me che ascolto: e semiviva</l>
+          <l>lascerò la mia vita?</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Uop’è che ceda</l>
+          <l>il tuo amor al destino; il campo tutto</l>
+          <l>teme, se più vai lungi, esser distrutto.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Ahi ciel.</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Più non s’indugi.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>CREONTE</head>Oh stelle infide:il dolore m’uccide.Luci belle, che languite,io vi lascio, e vado a morte.Così voglion mie ferite,vuol così l’iniqua sorte.(parte con Poliferno)Scena terzaSparisce l’apparenza della sfera di Marte, e si vedono solitudini con grotte.Anfione, e Niobe svenuta sovra un pezzo di rupe.<sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Oh stelle infide:</l>
+          <l>il dolore m’uccide.</l>
+          <l>Luci belle, che languite,</l>
+          <l>io vi lascio, e vado a morte.</l>
+          <l>Così voglion mie ferite,</l>
+          <l>vuol così l’iniqua sorte.</l>
+          <l>(parte con Poliferno)</l>
+          <l>Scena terza</l>
+          <l>Sparisce l’apparenza della sfera di Marte, e si vedono solitudini con grotte.</l>
+          <l>Anfione, e Niobe svenuta sovra un pezzo di rupe.</l>
+        </sp>
+        <stage>CREONTEOh stelle infide:il dolore m’uccide.Luci belle, che languite,io vi lascio, e vado a morte.Così voglion mie ferite,vuol così l’iniqua sorte.(parte con Poliferno)Scena terzaSparisce l’apparenza della sfera di Marte, e si vedono solitudini con grotte.Anfione, e Niobe svenuta sovra un pezzo di rupe.</stage>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Qui, dove muto, e solo</l>
+          <l>il silenzio passeggia,</l>
+          <l>dall’aborrita reggia</l>
+          <l>vengo re sfortunato</l>
+          <l>in compagnia del duolo,</l>
+          <l>a esacerbar mio fato:</l>
+          <l>accogliete i miei pianti, i miei martori</l>
+          <l>solitudini care, amici orrori.</l>
+          <l>Ma su guancial di sasso</l>
+          <l>ninfa qui appar, che dorme.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Ahi respiro.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Si desta.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Ai dolci amplessi</l>
+          <l>torna l’alma smarrita.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>È di Niobe la voce.</l>
+          <l>Ahi, se non erran gl’occhi,</l>
+          <l>Niobe è costei.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Ma dove son, che veggio?</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Benché in diverse spoglie,</l>
+          <l>è dessa: io non traveggio.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Dov’è il ciel, dov’è Marte?</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>I suoi vaneggiamenti</l>
+          <l>ascoltar vuò in disparte.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Dive ancelle ove siete?</l>
+          <l>Mio nume ove sparisti? E chi dal soglio</l>
+          <l>de’ canori adamanti,</l>
+          <l>in queste mute arene</l>
+          <l>ha Niobe condannata?</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Mente contaminata.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>(vede Anfione)</l>
+          <l>Dimmi: ahi che miro? Sposo.</l>
+        </sp>
+        <stage>NIOBE(vede Anfione)Dimmi: ahi che miro? Sposo.</stage>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Ahi schernita regina,</l>
+          <l>tradita fé, tiranneggiato Amore,</l>
+          <l>costanza offesa, ed ingannato core.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>E che dirò?</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Quanto a me fe’ palese</l>
+          <l>Tiresia l’indovino,</l>
+          <l>ascolta alma confusa</l>
+          <l>di regnante delusa:</l>
+          <l>per gran forza d’incanto,</l>
+          <l>sotto velo di nume al sen stringesti</l>
+          <l>il mio Creonte,</l>
+          <l>ch’ora Tebe assalisce:</l>
+          <l>così permette il ciel, quando punisce.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>NIOBE</head>Niobe che ascolti? E di cotanto oltraggiovilipesa, e negletta,tardi ancor la vendetta?Contro il ciel, che m’ha schernita,corro, volo a guerreggiar.E dal soglio inferocitavoglio i numi fulminar.Scena quartaAnfione.Nell’Egeo tempestosonave non scosser maicon impeto più insan gl’austri frementi,qualor nel mar turbatodi tante passioniabbattuta è al mio sen l’anima mia,colpa di stelle, e di fortuna ria.Ho perduta la speranzaalma mia di più gioir.Il destin cangiò sembianza,sol per farmi ognor languir.Scena quintaTempio di Latona.Tiresia, Manto, Tiberino, e Popolo.<sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Niobe che ascolti? E di cotanto oltraggio</l>
+          <l>vilipesa, e negletta,</l>
+          <l>tardi ancor la vendetta?</l>
+          <l>Contro il ciel, che m’ha schernita,</l>
+          <l>corro, volo a guerreggiar.</l>
+          <l>E dal soglio inferocita</l>
+          <l>voglio i numi fulminar.</l>
+          <l>Scena quarta</l>
+          <l>Anfione.</l>
+          <l>Nell’Egeo tempestoso</l>
+          <l>nave non scosser mai</l>
+          <l>con impeto più insan gl’austri frementi,</l>
+          <l>qualor nel mar turbato</l>
+          <l>di tante passioni</l>
+          <l>abbattuta è al mio sen l’anima mia,</l>
+          <l>colpa di stelle, e di fortuna ria.</l>
+          <l>Ho perduta la speranza</l>
+          <l>alma mia di più gioir.</l>
+          <l>Il destin cangiò sembianza,</l>
+          <l>sol per farmi ognor languir.</l>
+          <l>Scena quinta</l>
+          <l>Tempio di Latona.</l>
+          <l>Tiresia, Manto, Tiberino, e Popolo.</l>
+        </sp>
+        <stage>NIOBENiobe che ascolti? E di cotanto oltraggiovilipesa, e negletta,tardi ancor la vendetta?Contro il ciel, che m’ha schernita,corro, volo a guerreggiar.E dal soglio inferocitavoglio i numi fulminar.Scena quartaAnfione.Nell’Egeo tempestosonave non scosser maicon impeto più insan gl’austri frementi,qualor nel mar turbatodi tante passioniabbattuta è al mio sen l’anima mia,colpa di stelle, e di fortuna ria.Ho perduta la speranzaalma mia di più gioir.Il destin cangiò sembianza,sol per farmi ognor languir.Scena quintaTempio di Latona.Tiresia, Manto, Tiberino, e Popolo.</stage>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Con eterni legami</l>
+          <l>stringendovi le destre,</l>
+          <l>l’alme, e i cori annodate: oggi divise</l>
+          <l>non vuol più vostre salme</l>
+          <l>il ciel, che a me commise</l>
+          <l>farvi goder di casto amor le calme.</l>
+          <l>(si dan le destre)</l>
+        </sp>
+        <stage>TIRESIACon eterni legamistringendovi le destre,l’alme, e i cori annodate: oggi divisenon vuol più vostre salmeil ciel, che a me commisefarvi goder di casto amor le calme.(si dan le destre)</stage>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Son felice.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Io contenta.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Sparì mia doglia.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Ogni mia pena è spenta,</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Or meco o Tiberino</l>
+          <l>le piante affretta; e tu mia figlia intanto</l>
+          <l>nel culto della dèa</l>
+          <l>il popolo accompagna; e richiamandolo</l>
+          <l>le disviate menti</l>
+          <l>ai voti riverenti,</l>
+          <l>con suppliche divote, e preci umili,</l>
+          <l>di Tebe nei perigli</l>
+          <l>dal ciel prendi i consigli.</l>
+          <l>(parte)</l>
+        </sp>
+        <stage>TIRESIAOr meco o Tiberinole piante affretta; e tu mia figlia intantonel culto della dèail popolo accompagna; e richiamandolole disviate mentiai voti riverenti,con suppliche divote, e preci umili,di Tebe nei periglidal ciel prendi i consigli.(parte)</stage>
+      </div>
+      <div type="scene">
+        <head>TIBERINO</head>Or ch’è mio quel vago labbro,saprai tosto amor cos’è.Proverai, ch’egli è sol fabbrodi dolcissima mercé.Scena sestaManto, e Popolo, poi Niobe con numeroso Corteggio, Clearte, e Nerea.<sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Or ch’è mio quel vago labbro,</l>
+          <l>saprai tosto amor cos’è.</l>
+          <l>Proverai, ch’egli è sol fabbro</l>
+          <l>di dolcissima mercé.</l>
+          <l>Scena sesta</l>
+          <l>Manto, e Popolo, poi Niobe con numeroso Corteggio, Clearte, e Nerea.</l>
+        </sp>
+        <stage>TIBERINOOr ch’è mio quel vago labbro,saprai tosto amor cos’è.Proverai, ch’egli è sol fabbrodi dolcissima mercé.Scena sestaManto, e Popolo, poi Niobe con numeroso Corteggio, Clearte, e Nerea.</stage>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Foste alfine pietosi</l>
+          <l>numi del mio cordoglio: a nostri dèi</l>
+          <l>offriam amici in sacrificio i cori,</l>
+          <l>e la gran madre eterna,</l>
+          <l>con la prole divina ogn’uno adori.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Che si fa? Che si tenta? Empi Tebani</l>
+          <l>da quai furori insani</l>
+          <l>follemente agitati, i falsi dogmi</l>
+          <l>d’una stolta eseguite?</l>
+          <l>Così anteporre ardite</l>
+          <l>immagin vane, e insussistenti oggetti,</l>
+          <l>ch’han sol di numi il nome,</l>
+          <l>di Tantalo alla prole? Io quella sono,</l>
+          <l>che da numi non finti</l>
+          <l>vanto la discendenza, Atlante, e Giove</l>
+          <l>sono di Niobe gli avi; olà miei fidi</l>
+          <l>tosto in più schegge infrante</l>
+          <l>cadan gl’idoli indegni alle mie piante.</l>
+          <l>I Seguaci di Niobe atterrano gl’idoli di Latona, di Apollo, e di Diana.</l>
+        </sp>
+        <stage>NIOBEChe si fa? Che si tenta? Empi Tebanida quai furori insanifollemente agitati, i falsi dogmid’una stolta eseguite?Così anteporre arditeimmagin vane, e insussistenti oggetti,ch’han sol di numi il nome,di Tantalo alla prole? Io quella sono,che da numi non fintivanto la discendenza, Atlante, e Giovesono di Niobe gli avi; olà miei fiditosto in più schegge infrantecadan gl’idoli indegni alle mie piante.I Seguaci di Niobe atterrano gl’idoli di Latona, di Apollo, e di Diana.</stage>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Chiudetevi miei lumi,</l>
+          <l>e non v’aprite più;</l>
+          <l>se pria non fanno i numi</l>
+          <l>vendetta di lassù.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Mi si toglia dagli occhi.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>MANTO</head>E ancora o cielo i fulmini non scocchi.(parte)Scena settimaNiobe, Clearte, Nerea, e Corteggio.<sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>E ancora o cielo i fulmini non scocchi.</l>
+          <l>(parte)</l>
+          <l>Scena settima</l>
+          <l>Niobe, Clearte, Nerea, e Corteggio.</l>
+        </sp>
+        <stage>MANTOE ancora o cielo i fulmini non scocchi.(parte)Scena settimaNiobe, Clearte, Nerea, e Corteggio.</stage>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Senza indugio Clearte</l>
+          <l>vanne, e di tanta impresa</l>
+          <l>godan tosto il trionfo i miei gran figli;</l>
+          <l>e fra pubblici applausi</l>
+          <l>de’ popoli adoranti</l>
+          <l>abbian di numi comun voti e i vanti.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>CLEARTE</head>Giuste son le tue glorieo dell’ismenia gente,e fra i numi del ciel diva possente(parte)Scena ottavaNiobe, Nerea, Corteggio.<sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Giuste son le tue glorie</l>
+          <l>o dell’ismenia gente,</l>
+          <l>e fra i numi del ciel diva possente</l>
+          <l>(parte)</l>
+          <l>Scena ottava</l>
+          <l>Niobe, Nerea, Corteggio.</l>
+        </sp>
+        <stage>CLEARTEGiuste son le tue glorieo dell’ismenia gente,e fra i numi del ciel diva possente(parte)Scena ottavaNiobe, Nerea, Corteggio.</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>NIOBE</head>Vinti sono i celesti; or del mio pettoprecipiti lo sdegnocontro il tessalo infido, e dal profondom’inchini Averno, e con Averno il mondo.In mezzo all’armivuò vendicarmid’un infedel.Cangiossi in faced’odio voraced’amor il tel.Scena nonaNerea.Affé ch’è un brutto intrico, ed è delittofarne motto, o parola: il ciel mi guardida sì arrabbiati amanti,che goder vonno a forza ancor d’incanti.Povere giovinettea quanti inganni ognor siete soggette.Ma poi, che nella retev’hanno fatto cader, v’è speme alcunadi trovarne in amore alcun costante?Ohibò; questa speranzanon è più dell’usanza.Che alla fé di donne amantisiano gl’uomini costantiio giammai no ‘l crederò.Sempre a prova e vedo e sento,che ciascun ne brama centose ben giura ognun di no.Scena decimaGran piazza di Tebe, concorso di Popolo, Clearte, che sovra gran macchina conduce in trionfo i Figli di Niobe.<div type="scene">
+        <head>NIOBE</head>Vinti sono i celesti; or del mio pettoprecipiti lo sdegnocontro il tessalo infido, e dal profondom’inchini Averno, e con Averno il mondo.In mezzo all’armivuò vendicarmid’un infedel.Cangiossi in faced’odio voraced’amor il tel.Scena nonaNerea.Affé ch’è un brutto intrico, ed è delittofarne motto, o parola: il ciel mi guardida sì arrabbiati amanti,che goder vonno a forza ancor d’incanti.Povere giovinettea quanti inganni ognor siete soggette.Ma poi, che nella retev’hanno fatto cader, v’è speme alcunadi trovarne in amore alcun costante?Ohibò; questa speranzanon è più dell’usanza.Che alla fé di donne amantisiano gl’uomini costantiio giammai no ‘l crederò.Sempre a prova e vedo e sento,che ciascun ne brama centose ben giura ognun di no.Scena decimaGran piazza di Tebe, concorso di Popolo, Clearte, che sovra gran macchina conduce in trionfo i Figli di Niobe.<sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Vinti sono i celesti; or del mio petto</l>
+          <l>precipiti lo sdegno</l>
+          <l>contro il tessalo infido, e dal profondo</l>
+          <l>m’inchini Averno, e con Averno il mondo.</l>
+          <l>In mezzo all’armi</l>
+          <l>vuò vendicarmi</l>
+          <l>d’un infedel.</l>
+          <l>Cangiossi in face</l>
+          <l>d’odio vorace</l>
+          <l>d’amor il tel.</l>
+          <l>Scena nona</l>
+          <l>Nerea.</l>
+          <l>Affé ch’è un brutto intrico, ed è delitto</l>
+          <l>farne motto, o parola: il ciel mi guardi</l>
+          <l>da sì arrabbiati amanti,</l>
+          <l>che goder vonno a forza ancor d’incanti.</l>
+          <l>Povere giovinette</l>
+          <l>a quanti inganni ognor siete soggette.</l>
+          <l>Ma poi, che nella rete</l>
+          <l>v’hanno fatto cader, v’è speme alcuna</l>
+          <l>di trovarne in amore alcun costante?</l>
+          <l>Ohibò; questa speranza</l>
+          <l>non è più dell’usanza.</l>
+          <l>Che alla fé di donne amanti</l>
+          <l>siano gl’uomini costanti</l>
+          <l>io giammai no ‘l crederò.</l>
+          <l>Sempre a prova e vedo e sento,</l>
+          <l>che ciascun ne brama cento</l>
+          <l>se ben giura ognun di no.</l>
+          <l>Scena decima</l>
+          <l>Gran piazza di Tebe, concorso di Popolo, Clearte, che sovra gran macchina conduce in trionfo i Figli di Niobe.</l>
+        </sp>
+        <stage>NIOBEVinti sono i celesti; or del mio pettoprecipiti lo sdegnocontro il tessalo infido, e dal profondom’inchini Averno, e con Averno il mondo.In mezzo all’armivuò vendicarmid’un infedel.Cangiossi in faced’odio voraced’amor il tel.Scena nonaNerea.Affé ch’è un brutto intrico, ed è delittofarne motto, o parola: il ciel mi guardida sì arrabbiati amanti,che goder vonno a forza ancor d’incanti.Povere giovinettea quanti inganni ognor siete soggette.Ma poi, che nella retev’hanno fatto cader, v’è speme alcunadi trovarne in amore alcun costante?Ohibò; questa speranzanon è più dell’usanza.Che alla fé di donne amantisiano gl’uomini costantiio giammai no ‘l crederò.Sempre a prova e vedo e sento,che ciascun ne brama centose ben giura ognun di no.Scena decimaGran piazza di Tebe, concorso di Popolo, Clearte, che sovra gran macchina conduce in trionfo i Figli di Niobe.</stage>
+        <sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Tutta gioia, e tutta riso</l>
+          <l>Tebe esulti in questo dì.</l>
+          <l>Se di numi or fatta reggia,</l>
+          <l>con il ciel lieta gareggia,</l>
+          <l>poiché i pregi al ciel rapì.</l>
+          <l>Ad un subitaneo terremoto si vedono cader tutti gli edifici, ed ingombrata da improvvise nubi la scena fra lampi, tuoni, e saette, appariscono dall’alto Latona, Diana, ed Apolline, con loro Deità compagne, in atto di fulminar li Trionfanti, e poi spariscono.</l>
+        </sp>
+        <stage>CLEARTETutta gioia, e tutta risoTebe esulti in questo dì.Se di numi or fatta reggia,con il ciel lieta gareggia,poiché i pregi al ciel rapì.Ad un subitaneo terremoto si vedono cader tutti gli edifici, ed ingombrata da improvvise nubi la scena fra lampi, tuoni, e saette, appariscono dall’alto Latona, Diana, ed Apolline, con loro Deità compagne, in atto di fulminar li Trionfanti, e poi spariscono.</stage>
+      </div>
+      <div type="scene">
+        <head>CLEARTE</head>Ma lasso, infin dal centropar, che si scuota il mondo?Scaglia fulmini il cielo,fra il vivere, e il morire, io mi confondo.Scena undicesimaAnfione con spada alla mano, e i suddetti atterrati dai fulmini.<sp who="#clearte">
+          <speaker>CLEARTE:</speaker>
+          <l>Ma lasso, infin dal centro</l>
+          <l>par, che si scuota il mondo?</l>
+          <l>Scaglia fulmini il cielo,</l>
+          <l>fra il vivere, e il morire, io mi confondo.</l>
+          <l>Scena undicesima</l>
+          <l>Anfione con spada alla mano, e i suddetti atterrati dai fulmini.</l>
+        </sp>
+        <stage>CLEARTEMa lasso, infin dal centropar, che si scuota il mondo?Scaglia fulmini il cielo,fra il vivere, e il morire, io mi confondo.Scena undicesimaAnfione con spada alla mano, e i suddetti atterrati dai fulmini.</stage>
+      </div>
+      <div type="scene">
+        <head>ANFIONE</head>Fin dove m’inseguitefurie fulminatrici? I dardi ardentisì sì crude avventate, io serbo ancoracontro delle vostr’ire il cor costante,ma che scorgo? Ahi spavento.E che miro? Ahi tormento.Incenerita al suolol’amata prole? Ahi duolo.Chi mi sostiene? Io perdo i sensi. Ahi figli,figli miei spenti: o cielitroppo ver me crudeli.Ma s’ognor nuovi scempiinventate a’ miei danni,non mai stanchi tiranni,per saziarvi un dì numi spietati,sgorghin dal proprio senovasti rivi di sangue; a un disperatovita è l’ultimo fato.(si uccide)Scena dodicesimaNiobe, e i suddetti.<sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Fin dove m’inseguite</l>
+          <l>furie fulminatrici? I dardi ardenti</l>
+          <l>sì sì crude avventate, io serbo ancora</l>
+          <l>contro delle vostr’ire il cor costante,</l>
+          <l>ma che scorgo? Ahi spavento.</l>
+          <l>E che miro? Ahi tormento.</l>
+          <l>Incenerita al suolo</l>
+          <l>l’amata prole? Ahi duolo.</l>
+          <l>Chi mi sostiene? Io perdo i sensi. Ahi figli,</l>
+          <l>figli miei spenti: o cieli</l>
+          <l>troppo ver me crudeli.</l>
+          <l>Ma s’ognor nuovi scempi</l>
+          <l>inventate a’ miei danni,</l>
+          <l>non mai stanchi tiranni,</l>
+          <l>per saziarvi un dì numi spietati,</l>
+          <l>sgorghin dal proprio seno</l>
+          <l>vasti rivi di sangue; a un disperato</l>
+          <l>vita è l’ultimo fato.</l>
+          <l>(si uccide)</l>
+          <l>Scena dodicesima</l>
+          <l>Niobe, e i suddetti.</l>
+        </sp>
+        <stage>ANFIONEFin dove m’inseguitefurie fulminatrici? I dardi ardentisì sì crude avventate, io serbo ancoracontro delle vostr’ire il cor costante,ma che scorgo? Ahi spavento.E che miro? Ahi tormento.Incenerita al suolol’amata prole? Ahi duolo.Chi mi sostiene? Io perdo i sensi. Ahi figli,figli miei spenti: o cielitroppo ver me crudeli.Ma s’ognor nuovi scempiinventate a’ miei danni,non mai stanchi tiranni,per saziarvi un dì numi spietati,sgorghin dal proprio senovasti rivi di sangue; a un disperatovita è l’ultimo fato.(si uccide)Scena dodicesimaNiobe, e i suddetti.</stage>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Fermati.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Niobe.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Egli svenossi.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Io moro.</l>
+          <l>Spira già nel proprio sangue</l>
+          <l>l’alma pallida, e tremante.</l>
+          <l>Numi rei trofeo già esangue</l>
+          <l>di vostr’ire ecco un regnante.</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Crudo ciel.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>Treman…</l>
+        </sp>
+        <sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Empio fato.</l>
+        </sp>
+        <sp who="#anfione">
+          <speaker>ANFIONE:</speaker>
+          <l>An…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>NIOBE</head>Inopportuno arrivoegli muor, ed io vivo?Oh dell’ismenio soglioglorie precipitate; alteri figliestinti è il nostro nume.Ma che veggio? E non sonoquesti i figli anco uccisi?Non è questa la prole, e non son quested’atro pallor dipintedelle viscere mie viscere estinte?Vista crudel: accorri, accorri, vieniteban regnante, e le regali salmetogli all’indegna parca: ahi che trafittoprivo d’alma, e di vita in terra stassichi diè vita alle pietre, anima ai sassi.Sposo chi mi ti ruba?Figli chi a me vi toglie. E a chi di voioffrirò pria da inessicabil venalacrimoso tributo? Afflitti lumi,se pur pianger potete,solo il mio duol piangete:giacciono al suo recisetutte le mie speranze.Ma negandomi i pianti immenso affanno,cinta l’alma di nube orrida, e tetra,già mi rende di pietra.Funeste immaginigià mi tormentano;stigie voraginigià mi spaventano:vinta alfin dall’empia sortefigli, sposo, io son di morte.Scena tredicesimaA lieto suono di trombe, e timpani, Creonte, Poliferno, Tiresia, Manto, Tiberino, Soldati, e Popolo.<sp who="#niobe">
+          <speaker>NIOBE:</speaker>
+          <l>Inopportuno arrivo</l>
+          <l>egli muor, ed io vivo?</l>
+          <l>Oh dell’ismenio soglio</l>
+          <l>glorie precipitate; alteri figli</l>
+          <l>estinti è il nostro nume.</l>
+          <l>Ma che veggio? E non sono</l>
+          <l>questi i figli anco uccisi?</l>
+          <l>Non è questa la prole, e non son queste</l>
+          <l>d’atro pallor dipinte</l>
+          <l>delle viscere mie viscere estinte?</l>
+          <l>Vista crudel: accorri, accorri, vieni</l>
+          <l>teban regnante, e le regali salme</l>
+          <l>togli all’indegna parca: ahi che trafitto</l>
+          <l>privo d’alma, e di vita in terra stassi</l>
+          <l>chi diè vita alle pietre, anima ai sassi.</l>
+          <l>Sposo chi mi ti ruba?</l>
+          <l>Figli chi a me vi toglie. E a chi di voi</l>
+          <l>offrirò pria da inessicabil vena</l>
+          <l>lacrimoso tributo? Afflitti lumi,</l>
+          <l>se pur pianger potete,</l>
+          <l>solo il mio duol piangete:</l>
+          <l>giacciono al suo recise</l>
+          <l>tutte le mie speranze.</l>
+          <l>Ma negandomi i pianti immenso affanno,</l>
+          <l>cinta l’alma di nube orrida, e tetra,</l>
+          <l>già mi rende di pietra.</l>
+          <l>Funeste immagini</l>
+          <l>già mi tormentano;</l>
+          <l>stigie voragini</l>
+          <l>già mi spaventano:</l>
+          <l>vinta alfin dall’empia sorte</l>
+          <l>figli, sposo, io son di morte.</l>
+          <l>Scena tredicesima</l>
+          <l>A lieto suono di trombe, e timpani, Creonte, Poliferno, Tiresia, Manto, Tiberino, Soldati, e Popolo.</l>
+        </sp>
+        <stage>NIOBEInopportuno arrivoegli muor, ed io vivo?Oh dell’ismenio soglioglorie precipitate; alteri figliestinti è il nostro nume.Ma che veggio? E non sonoquesti i figli anco uccisi?Non è questa la prole, e non son quested’atro pallor dipintedelle viscere mie viscere estinte?Vista crudel: accorri, accorri, vieniteban regnante, e le regali salmetogli all’indegna parca: ahi che trafittoprivo d’alma, e di vita in terra stassichi diè vita alle pietre, anima ai sassi.Sposo chi mi ti ruba?Figli chi a me vi toglie. E a chi di voioffrirò pria da inessicabil venalacrimoso tributo? Afflitti lumi,se pur pianger potete,solo il mio duol piangete:giacciono al suo recisetutte le mie speranze.Ma negandomi i pianti immenso affanno,cinta l’alma di nube orrida, e tetra,già mi rende di pietra.Funeste immaginigià mi tormentano;stigie voraginigià mi spaventano:vinta alfin dall’empia sortefigli, sposo, io son di morte.Scena tredicesimaA lieto suono di trombe, e timpani, Creonte, Poliferno, Tiresia, Manto, Tiberino, Soldati, e Popolo.</stage>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Doma è già Tebe, e le superbe mura,</l>
+          <l>già fulminate dal celeste trono,</l>
+          <l>se col canto s’alzar, cadder col tuono.</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Ecco Anfione estinto.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Ecco i figli atterrati.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Ecco Niobe impietrita.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Sventurato regnante.</l>
+          <l>Giovanetti infelici.</l>
+          <l>Miserabil regina.</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Così contro degli empi il ciel destina.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Mi si togliano al guardo; a violenza</l>
+          <l>rattengo il pianto, ahi Niobe.</l>
+        </sp>
+        <sp who="#tiresia">
+          <speaker>TIRESIA:</speaker>
+          <l>Or che gli dèi</l>
+          <l>del gran soglio tebano</l>
+          <l>ti concesser l’impero,</l>
+          <l>lasciar convien Creonte</l>
+          <l>gl’amorosi deliri.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Pur d’uopo è ch’io sospiri:</l>
+          <l>ma con più saggio core</l>
+          <l>vuò che de’ miei delitti</l>
+          <l>porti tosto la pena</l>
+          <l>chi ne fu autor: in bando</l>
+          <l>vadane Poliferno.</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Io?</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Sì.</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Fia dunque</l>
+          <l>questo alla fede mia premio dovuto?</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Mercé con degna ad uom soggetto a Pluto.</l>
+        </sp>
+        <sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Come?</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Fuggi, sparisci, ancor persisti?</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>POLIFERNO</head>Empio ciel mi tradisti.Scena quattordicesimaCreonte, Tiresia, Manto, Tiberino, e poi Nerea.<div type="scene">
+        <head>POLIFERNO</head>Empio ciel mi tradisti.Scena quattordicesimaCreonte, Tiresia, Manto, Tiberino, e poi Nerea.<sp who="#poliferno">
+          <speaker>POLIFERNO:</speaker>
+          <l>Empio ciel mi tradisti.</l>
+          <l>Scena quattordicesima</l>
+          <l>Creonte, Tiresia, Manto, Tiberino, e poi Nerea.</l>
+        </sp>
+        <stage>POLIFERNOEmpio ciel mi tradisti.Scena quattordicesimaCreonte, Tiresia, Manto, Tiberino, e poi Nerea.</stage>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Or voi felici amanti</l>
+          <l>lieti godete.</l>
+        </sp>
+        <sp who="#tiberino">
+          <speaker>TIBERINO:</speaker>
+          <l>Alle latine sponde</l>
+          <l>meco verrai mia speme.</l>
+        </sp>
+        <sp who="#manto">
+          <speaker>MANTO:</speaker>
+          <l>Ti seguirò dove tu vuoi mio bene.</l>
+          <l>Pietà signor pietade</l>
+          <l>di Nerea l’infelice.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Chi sei tu?</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Son di Niobe io la nutrice.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Vivrai lieta, e sicura.</l>
+        </sp>
+        <sp who="#nerea">
+          <speaker>NEREA:</speaker>
+          <l>Affé son mezza morta di paura.</l>
+        </sp>
+        <sp who="#creonte">
+          <speaker>CREONTE:</speaker>
+          <l>Di palme, e d’allori</l>
+          <l>si cinga ‘l mio crin.</l>
+          <l>E applausi canori</l>
+          <l>si dian al destin.</l>
+          <l>Segue ballo di Soldati festeggianti</l>
+          <l>Fine del libretto.</l>
+        </sp>
+        <stage>CREONTEDi palme, e d’allorisi cinga ‘l mio crin.E applausi canorisi dian al destin.Segue ballo di Soldati festeggiantiFine del libretto.</stage>
+      </div>
+    </div>
+  </text>
+</TEI>

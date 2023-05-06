@@ -1,0 +1,1557 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">scanio in Alba</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="ascanio">
+            <persName>ASCANIO:</persName>
+          </person>
+          <person xml:id="parte del coro">
+            <persName>PARTE DEL CORO:</persName>
+          </person>
+          <person xml:id="silvia">
+            <persName>SILVIA:</persName>
+          </person>
+          <person xml:id="ascanio, silvia, aceste">
+            <persName>ASCANIO, SILVIA, ACESTE:</persName>
+          </person>
+          <person xml:id="coro di geni">
+            <persName>CORO DI GENI:</persName>
+          </person>
+          <person xml:id="fauno">
+            <persName>FAUNO:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="aceste">
+            <persName>ACESTE:</persName>
+          </person>
+          <person xml:id="venere">
+            <persName>VENERE:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>VENERE</castItem>
+        <castItem>ASCANIO</castItem>
+        <castItem>SILVIA</castItem>
+        <castItem>ACESTE</castItem>
+        <castItem>FAUNO</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>L’azione segue in una parte della campagna, dove poi fu Alba.</stage>
+      <div type="scene">
+        <head>[Ouverture]</head>Allegro assai (re maggiore)Archi, 2 flauti, 2 oboe, 2 corni, 2 trombe, timpani.Scena primaArea spaziosa destinata alle solenni adunanze pastorali, limitata da una corona d’altissime e fronzute querce che vagamente distribuite all’intorno conciliano un’ombra freschissima e sacra. Veggonsi lungo la serie degli alberi verdi rialzamenti di terreno presentati dalla natura e in varia forma inclinati dall’arte per uso di sedervi con graziosa irregolarità i pastori. Nel mezzo sorge un altare agreste, in cui vedesi scolpito l’animal prodigioso da cui si dice che pigliasse il nome la città d’Alba. Dagl’intervalli che s’aprono fra un albero e l’altro si domina una deliziosa e ridente campagna, sparsa di qualche capanna e cinta in mediocre distanza d’amene colline onde scendono copiosi e limpidi rivi. L’orizzonte va a terminare in azzurrissime montagne, le cui cime si perdono in un cielo purissimo e sereno. <stage>[Ouverture]Allegro assai (re maggiore)Archi, 2 flauti, 2 oboe, 2 corni, 2 trombe, timpani.Scena primaArea spaziosa destinata alle solenni adunanze pastorali, limitata da una corona d’altissime e fronzute querce che vagamente distribuite all’intorno conciliano un’ombra freschissima e sacra. Veggonsi lungo la serie degli alberi verdi rialzamenti di terreno presentati dalla natura e in varia forma inclinati dall’arte per uso di sedervi con graziosa irregolarità i pastori. Nel mezzo sorge un altare agreste, in cui vedesi scolpito l’animal prodigioso da cui si dice che pigliasse il nome la città d’Alba. Dagl’intervalli che s’aprono fra un albero e l’altro si domina una deliziosa e ridente campagna, sparsa di qualche capanna e cinta in mediocre distanza d’amene colline onde scendono copiosi e limpidi rivi. L’orizzonte va a terminare in azzurrissime montagne, le cui cime si perdono in un cielo purissimo e sereno.</stage>
+        <stage>[N. 1 – Balletto]Andante grazioso (sol maggiore)Archi, 2 flauti, 2 oboe, 2 corni.Venere in atto di scender dal suo carro. Ascanio a lato di esso. Le Grazie e quantità di Geni che cantano e danzano accompagnando la dèa. Scesa questa, il carro velato da una legger nuvoletta si dilegua per l’aria.</stage>
+        <sp who="#coro di geni">
+          <speaker>CORO DI GENI:</speaker>
+          <l>Di te più amabile,</l>
+          <l>né dèa maggiore,</l>
+          <l>celeste Venere,</l>
+          <l>no, non si dà.</l>
+        </sp>
+        <sp who="#parte del coro">
+          <speaker>PARTE DEL CORO:</speaker>
+          <l>I</l>
+          <l>Tu sei degli uomini,</l>
+          <l>o dèa, l’amore:</l>
+          <l>di te sua gloria</l>
+          <l>il ciel si fa.</l>
+        </sp>
+        <stage>PARTE DEL COROITu sei degli uomini,o dèa, l’amore:di te sua gloriail ciel si fa.</stage>
+        <sp who="#parte del coro">
+          <speaker>PARTE DEL CORO:</speaker>
+          <l>II</l>
+          <l>Se gode un popolo</l>
+          <l>del tuo favore,</l>
+          <l>più dolce imperio</l>
+          <l>cercar non sa.</l>
+        </sp>
+        <stage>PARTE DEL COROIISe gode un popolodel tuo favore,più dolce imperiocercar non sa.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Con fren sì placido</l>
+          <l>reggi ogni core,</l>
+          <l>che più non bramasi</l>
+          <l>la libertà.</l>
+        </sp>
+        <stage>Recitativo(al suo séguito che si ritira nell’indietro della scena disponendosi vagamente)</stage>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Geni, Grazie ed Amori,</l>
+          <l>fermate il piè, tacete;</l>
+          <l>frenate, sospendete,</l>
+          <l>fide colombe, il volo:</l>
+          <l>questo è il sacro al mio nume amico suolo.</l>
+          <l>Ecco, Ascanio, mia speme, ecco le piagge</l>
+          <l>che visitammo insieme</l>
+          <l>il tuo gran padre ed io. Quel tempo ancora</l>
+          <l>con piacer mi rammento. Anco i presagi</l>
+          <l>parvero disegnar che un giorno fora</l>
+          <l>del mio favore oggetto</l>
+          <l>questo popolo eletto.</l>
+          <l>(accennando l’altare)</l>
+          <l>In quell’altare</l>
+          <l>vedi la belva incisa</l>
+          <l>che, d’insolite lane ornata il tergo,</l>
+          <l>a noi comparve. Il grand’Enea lo pose</l>
+          <l>per memoria del fatto: e quindi ‘l nome</l>
+          <l>prenderà la città ch’oggi da noi</l>
+          <l>avrà illustre principio. Io fin d’allora</l>
+          <l>qui delle grazie mie prodiga sono</l>
+          <l>al popolo felice, e qui ‘l mio core</l>
+          <l>fa sovente ritorno</l>
+          <l>dalla beata sfera ove soggiorno.</l>
+          <l>Ma qui presente ognora</l>
+          <l>con la mia deità regnar non posso:</l>
+          <l>tu qui regna in mia vece. Il grande, il pio,</l>
+          <l>il tuo buon genitor, che d’Ilio venne</l>
+          <l>a le sponde latine, or vive in cielo</l>
+          <l>altro dio fra gli dèi:</l>
+          <l>e soave mia cura ora tu sei.</l>
+        </sp>
+        <stage>VENEREGeni, Grazie ed Amori,fermate il piè, tacete;frenate, sospendete,fide colombe, il volo:questo è il sacro al mio nume amico suolo.Ecco, Ascanio, mia speme, ecco le piaggeche visitammo insiemeil tuo gran padre ed io. Quel tempo ancoracon piacer mi rammento. Anco i presagiparvero disegnar che un giorno foradel mio favore oggettoquesto popolo eletto.(accennando l’altare)In quell’altarevedi la belva incisache, d’insolite lane ornata il tergo,a noi comparve. Il grand’Enea lo poseper memoria del fatto: e quindi ‘l nomeprenderà la città ch’oggi da noiavrà illustre principio. Io fin d’alloraqui delle grazie mie prodiga sonoal popolo felice, e qui ‘l mio corefa sovente ritornodalla beata sfera ove soggiorno.Ma qui presente ognoracon la mia deità regnar non posso:tu qui regna in mia vece. Il grande, il pio,il tuo buon genitor, che d’Ilio vennea le sponde latine, or vive in cieloaltro dio fra gli dèi:e soave mia cura ora tu sei.</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Madre, che tal ti piace</l>
+          <l>esser da me chiamata anzi che dèa,</l>
+          <l>quanto ti deggio mai!</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Già quattro volte, il sai,</l>
+          <l>condusse il sol su questi verdi colli</l>
+          <l>il pomifero autunno,</l>
+          <l>dacché al popolo amico il don promisi</l>
+          <l>de la cara mia stirpe. Ognuno attende,</l>
+          <l>ognun brama vederti: all’are intorno</l>
+          <l>ognun supplice cade, e il bel momento</l>
+          <l>affretta ognun con cento voti e cento.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Ma la ninfa gentil che il seme onora</l>
+          <l>d’Ercole invitto?… Ah di’… la sposa mia,</l>
+          <l>Silvia, Silvia dov’è? Tanto di lei</l>
+          <l>tu parlasti al mio cor, tanto la fama</l>
+          <l>n’empie sua tromba, e tanto bene aspetta</l>
+          <l>da le mie nozze il mondo…</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Amata prole,</l>
+          <l>pria che s’asconda il sole</l>
+          <l>sposo sarai de la più saggia ninfa</l>
+          <l>che di sangue divin nascesse mai.</l>
+          <l>Già sui raggi dell’alba in sonno apparvi</l>
+          <l>ad Aceste custode</l>
+          <l>de la vergine illustre. Egli già scende</l>
+          <l>dal sacro albergo e, al popolo felice</l>
+          <l>e a la ninfa tuo bene</l>
+          <l>del fausto annuncio apportator, qui viene.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Ah, cara madre… dimmi…</l>
+          <l>dunque vicina è l’ora?…</l>
+          <l>Ma chi sa s’ella m’ami?</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Ella ti adora.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Se mai più non mi vide!</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>A lei son note</l>
+          <l>le tue sembianze.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>E come?</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Amor, per cenno mio,</l>
+          <l>ordì nobile inganno.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>E che mai fece?</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Volge il quart’anno omai</l>
+          <l>che de la ninfa a lato</l>
+          <l>Amor veglia in tua vece. Ei le tue forme</l>
+          <l>veste appunto qual te. Tali le gote,</l>
+          <l>tai le labbra e le luci e tai le chiome,</l>
+          <l>tale il suon de le voci. Appunto come</l>
+          <l>l’un’all’altra colomba</l>
+          <l>del mio carro somiglia,</l>
+          <l>tale Amor ti somiglia.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>E quale, o dèa,</l>
+          <l>presso all’amata ninfa</l>
+          <l>è l’ufficio d’Amore?</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>In sonno a lei</l>
+          <l>misto tra’ lievi sogni appare ognora.</l>
+          <l>Te stesso a lei dipinge; e tal ne ingombra</l>
+          <l>la giovinetta mente,</l>
+          <l>che te, vegliando ancora,</l>
+          <l>la vaga fantasia sempre ha presente.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Che leggiadro prodigio</l>
+          <l>tu mi sveli, o gran dèa! Ma che più tardo?</l>
+          <l>Voliam dunque a la ninfa. A’ piedi suoi</l>
+          <l>giurar vo’ la mia fé…</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Solo tu devi</l>
+          <l>ire in traccia di lei;</l>
+          <l>me chiaman altre cure:</l>
+          <l>non è solo un mortal caro agli dèi.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Sì, le dirò ch’io sono</l>
+          <l>Ascanio tuo, che questo cor l’adora,</l>
+          <l>che di celeste diva</l>
+          <l>stirpe son io…</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>No, non scoprirti ancora.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Oh ciel! Perché?</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Ti fida.</l>
+          <l>Vedila pur; ma taci</l>
+          <l>chi tu sei, donde vieni e chi ti guida.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Che silenzio crudel!</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Dimmi, non brami</l>
+          <l>veder con gli occhi tuoi fino a qual segno</l>
+          <l>Silvia t’adori? A qual sublime arrivi</l>
+          <l>la sua virtù? Quanto sia degno oggetto</l>
+          <l>d’amor, di meraviglia e di rispetto?</l>
+          <l>Questa dunque è la via.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Dunque s’adempia,</l>
+          <l>o madre, il tuo voler. Giuro celarmi</l>
+          <l>fin che a te piace. Oggi mostrar ti voglio</l>
+          <l>sin dove anch’io son d’ubbidir capace.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Vieni al mio seno. A quella docil mente,</l>
+          <l>a quel tenero core, a quel rispetto</l>
+          <l>che nutri per gli dèi ti riconosco</l>
+          <l>prole più degna ognora</l>
+          <l>e del padre e di me. Qui fra momenti</l>
+          <l>mi rivedrai. De la tua sposa intanto</l>
+          <l>cauto ricerca: ammira</l>
+          <l>come di bei costumi</l>
+          <l>a te per tempo ordisce</l>
+          <l>la tua felicità, come con lei</l>
+          <l>nella mirabil opra</l>
+          <l>e l’arte e la natura e il ciel s’adopra.</l>
+          <l>(in atto di partire)</l>
+        </sp>
+        <stage>VENEREVieni al mio seno. A quella docil mente,a quel tenero core, a quel rispettoche nutri per gli dèi ti riconoscoprole più degna ognorae del padre e di me. Qui fra momentimi rivedrai. De la tua sposa intantocauto ricerca: ammiracome di bei costumia te per tempo ordiscela tua felicità, come con leinella mirabil oprae l’arte e la natura e il ciel s’adopra.(in atto di partire)</stage>
+      </div>
+      <div type="scene">
+        <head>CORO</head>Di te più amabile,né dèa maggiore,celeste Venere,no, non si dà.(parte Venere seguita dal coro che canta e le danza intorno)Con fren sì placidoreggi ogni core,che più non bramasila libertà.Scena secondaAscanio solo.<sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Di te più amabile,</l>
+          <l>né dèa maggiore,</l>
+          <l>celeste Venere,</l>
+          <l>no, non si dà.</l>
+          <l>(parte Venere seguita dal coro che canta e le danza intorno)</l>
+          <l>Con fren sì placido</l>
+          <l>reggi ogni core,</l>
+          <l>che più non bramasi</l>
+          <l>la libertà.</l>
+          <l>Scena seconda</l>
+          <l>Ascanio solo.</l>
+        </sp>
+        <stage>CORODi te più amabile,né dèa maggiore,celeste Venere,no, non si dà.(parte Venere seguita dal coro che canta e le danza intorno)Con fren sì placidoreggi ogni core,che più non bramasila libertà.Scena secondaAscanio solo.</stage>
+      </div>
+      <div type="scene">
+        <head>[N. 5 – Aria]</head>Allegro (si bemolle maggiore)Archi, 2 oboe, 2 corni.Cara, lontano ancorala tua virtù m’accese:al tuo bel nome alloraappresi a sospirar.Invan ti celi, o cara:quella virtù sì raranella modestia istessapiù luminosa appar.Scena terzaAscanio, Fauno, coro di Pastori. <stage>[N. 5 – Aria]Allegro (si bemolle maggiore)Archi, 2 oboe, 2 corni.Cara, lontano ancorala tua virtù m’accese:al tuo bel nome alloraappresi a sospirar.Invan ti celi, o cara:quella virtù sì raranella modestia istessapiù luminosa appar.Scena terzaAscanio, Fauno, coro di Pastori.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Venga de’ sommi eroi,</l>
+          <l>venga il crescente onor.</l>
+          <l>Più non s’involi a noi:</l>
+          <l>qui lo incateni Amor.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(ritirandosi in disparte)</l>
+          <l>Ma qual canto risona?</l>
+          <l>Qual turba di pastor mi veggio intorno?</l>
+        </sp>
+        <stage>ASCANIO(ritirandosi in disparte)Ma qual canto risona?Qual turba di pastor mi veggio intorno?</stage>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>(non badando ad Ascanio)</l>
+          <l>Qui dove il loco e l’arte</l>
+          <l>apre comodo spazio</l>
+          <l>ai solenni concili, al sacro rito,</l>
+          <l>qui venite, o pastori. Il giorno è questo</l>
+          <l>sacro a la nostra diva. Al suo bel nome,</l>
+          <l>non a Bacco e a Vertunno,</l>
+          <l>render grazie sogliamo</l>
+          <l>presso al cader del fortunato autunno.</l>
+          <l>Il ministro del cielo, il saggio Aceste,</l>
+          <l>sembra che tardi. In gran pensieri avvolto</l>
+          <l>pur dianzi il vidi. A lui splendea ridente</l>
+          <l>d’un’insolita gioia il sacro volto.</l>
+          <l>Forse il dono promesso è a noi vicino:</l>
+          <l>forse la dèa pietosa</l>
+          <l>del fido popol suo compie il destino.</l>
+        </sp>
+        <stage>FAUNO(non badando ad Ascanio)Qui dove il loco e l’arteapre comodo spazioai solenni concili, al sacro rito,qui venite, o pastori. Il giorno è questosacro a la nostra diva. Al suo bel nome,non a Bacco e a Vertunno,render grazie sogliamopresso al cader del fortunato autunno.Il ministro del cielo, il saggio Aceste,sembra che tardi. In gran pensieri avvoltopur dianzi il vidi. A lui splendea ridented’un’insolita gioia il sacro volto.Forse il dono promesso è a noi vicino:forse la dèa pietosadel fido popol suo compie il destino.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Venga de’ sommi eroi,</l>
+          <l>venga il crescente onor.</l>
+          <l>Più non s’involi a noi:</l>
+          <l>qui lo incateni Amor.</l>
+          <l>(il coro siede lungo la serie degli alberi disponendosi vagamente)</l>
+        </sp>
+        <stage>COROVenga de’ sommi eroi,venga il crescente onor.Più non s’involi a noi:qui lo incateni Amor.(il coro siede lungo la serie degli alberi disponendosi vagamente)</stage>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>(volgendosi ad Ascanio)</l>
+          <l>Ma tu chi sei, che ignoto</l>
+          <l>qui t’aggiri fra noi? Quel tuo sembiante</l>
+          <l>pur mi fa sovvenir quando alcun dio</l>
+          <l>fra i mortali discende. E qual desio</l>
+          <l>ti conduce fra noi?</l>
+        </sp>
+        <stage>FAUNO(volgendosi ad Ascanio)Ma tu chi sei, che ignotoqui t’aggiri fra noi? Quel tuo sembiantepur mi fa sovvenir quando alcun diofra i mortali discende. E qual desioti conduce fra noi?</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(accostandosi a Fauno)</l>
+          <l>Stranier son io.</l>
+          <l>Qua vaghezza mi guida</l>
+          <l>di visitare i vostri colli ameni,</l>
+          <l>i puri stagni e per il verde piano</l>
+          <l>queste vostre feconde acque correnti.</l>
+          <l>Tra voi, beate genti,</l>
+          <l>fama è nel Lazio che natura amica</l>
+          <l>tutti raccolga i beni</l>
+          <l>che coll’altre divide.</l>
+        </sp>
+        <stage>ASCANIO(accostandosi a Fauno)Stranier son io.Qua vaghezza mi guidadi visitare i vostri colli ameni,i puri stagni e per il verde pianoqueste vostre feconde acque correnti.Tra voi, beate genti,fama è nel Lazio che natura amicatutti raccolga i beniche coll’altre divide.</stage>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>Ah più deggiamo</l>
+          <l>al favor d’una diva: e non già quale</l>
+          <l>irriverente il volgo</l>
+          <l>talor sogna gli dèi, ma qual è in cielo</l>
+          <l>alma figlia di Giove. Il suo sorriso</l>
+          <l>dall’amoroso cerchio, onde ne guarda,</l>
+          <l>questo suol rasserena. Ella que’ beni,</l>
+          <l>che natura ne diè, cura, difende,</l>
+          <l>gli addolcisce, gli aumenta. In questi campi</l>
+          <l>semina l’agio e seco</l>
+          <l>l’alma fecondità. Ne le capanne</l>
+          <l>guida l’industria e in libertà modesta</l>
+          <l>la trattien, la fomenta. Il suo favore</l>
+          <l>è la nostra rugiada, e i lumi suoi</l>
+          <l>pari all’occhio del sol sono per noi.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(Quanto soavi al core</l>
+          <l>de la tua stirpe, o dèa,</l>
+          <l>sonan mai queste lodi!)</l>
+        </sp>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>Ecco, pastori,</l>
+          <l>(guardando da un lato nell’interno della scena; il coro si alza e si avanza)</l>
+          <l>ecco lento dal colle</l>
+          <l>il venerando Aceste; al par con lui</l>
+          <l>ecco scende la ninfa…</l>
+        </sp>
+        <stage>FAUNOEcco, pastori,(guardando da un lato nell’interno della scena; il coro si alza e si avanza)ecco lento dal colleil venerando Aceste; al par con luiecco scende la ninfa…</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Oh ciel, qual ninfa?</l>
+          <l>Parla, dimmi, o pastor…</l>
+        </sp>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>Silvia, d’Alcide</l>
+          <l>chiara stirpe divina.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(Ahimè, cor mio,</l>
+          <l>frena gl’impeti tuoi:</l>
+          <l>l’adorata mia sposa ecco vicina.)</l>
+          <l>(accennando ad Ascanio, il quale pure sta attentamente guardando dallo stesso lato)</l>
+        </sp>
+        <stage>ASCANIO(Ahimè, cor mio,frena gl’impeti tuoi:l’adorata mia sposa ecco vicina.)(accennando ad Ascanio, il quale pure sta attentamente guardando dallo stesso lato)</stage>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>Mira, o stranier, come il bel passo move</l>
+          <l>maestosa e gentile: a le seguaci</l>
+          <l>come umana sorride,</l>
+          <l>come tra lor divide</l>
+          <l>i guardi e le parole. In que’ begli atti</l>
+          <l>non par che scolta sia</l>
+          <l>l’altezza del pensiero, e di quell’alma</l>
+          <l>la soave armonia?</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(È vero, è vero.</l>
+          <l>Più resister non so. Se qui l’attendo</l>
+          <l>scopro l’arcano e al giuramento io manco.</l>
+          <l>Partasi omai.)</l>
+        </sp>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>Garzone, a te non lice</l>
+          <l>qui rimaner, ché la modesta Silvia</l>
+          <l>non vorria testimon de’ suoi pensieri</l>
+          <l>un ignoto straniere. E se desio</l>
+          <l>d’ammirarla vicino e al patrio suolo</l>
+          <l>fama portar de’ pregi suoi t’accese,</l>
+          <l>là confuso ti cela.</l>
+          <l>(accennando il coro de’ pastori)</l>
+        </sp>
+        <stage>FAUNOGarzone, a te non licequi rimaner, ché la modesta Silvianon vorria testimon de’ suoi pensieriun ignoto straniere. E se desiod’ammirarla vicino e al patrio suolofama portar de’ pregi suoi t’accese,là confuso ti cela.(accennando il coro de’ pastori)</stage>
+      </div>
+      <div type="scene">
+        <head>ASCANIO</head>S’adempia il tuo voler, pastor cortese.(si ritira e si suppone confuso fra il coro. Il coro s’avanza da un lato alla volta di Aceste e di Silvia)Scena quartaAscanio, Fauno, Coro, Aceste, Silvia con sèguito di Pastorelle.<sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>S’adempia il tuo voler, pastor cortese.</l>
+          <l>(si ritira e si suppone confuso fra il coro. Il coro s’avanza da un lato alla volta di Aceste e di Silvia)</l>
+          <l>Scena quarta</l>
+          <l>Ascanio, Fauno, Coro, Aceste, Silvia con sèguito di Pastorelle.</l>
+        </sp>
+        <stage>ASCANIOS’adempia il tuo voler, pastor cortese.(si ritira e si suppone confuso fra il coro. Il coro s’avanza da un lato alla volta di Aceste e di Silvia)Scena quartaAscanio, Fauno, Coro, Aceste, Silvia con sèguito di Pastorelle.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Hai di Diana il core,</l>
+          <l>di Pallade la mente.</l>
+          <l>Sei dell’erculea gente,</l>
+          <l>saggia donzella, il fior.</l>
+        </sp>
+        <sp who="#parte del coro">
+          <speaker>PARTE DEL CORO:</speaker>
+          <l>I vaghi studi e l’arti</l>
+          <l>son tuo diletto e vanto,</l>
+          <l>e de le muse al canto</l>
+          <l>presti l’orecchio ancor.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Sei dell’erculea gente,</l>
+          <l>saggia donzella, il fior.</l>
+        </sp>
+        <sp who="#parte del coro">
+          <speaker>PARTE DEL CORO:</speaker>
+          <l>Ha nel tuo core il nido</l>
+          <l>ogni virtù più bella,</l>
+          <l>ma la modestia è quella</l>
+          <l>che vi risplende ognor.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Hai di Diana il core,</l>
+          <l>di Pallade la mente.</l>
+          <l>Sei dell’erculea gente,</l>
+          <l>saggia donzella, il fior.</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>Oh generosa diva,</l>
+          <l>oh delizia degli uomini, oh del cielo</l>
+          <l>ornamento e splendor! Che più potea</l>
+          <l>questo suol fortunato</l>
+          <l>aspettarsi da te? Qual più ti resta,</l>
+          <l>fido popol devoto,</l>
+          <l>per la sua deità preghiera o voto?</l>
+          <l>Ogni cosa è compiuta.</l>
+          <l>Dell’indigete Enea</l>
+          <l>la sospirata prole</l>
+          <l>vostra sarà pria che tramonti il sole.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Venga de’ sommi eroi,</l>
+          <l>venga il crescente onor.</l>
+          <l>Più non s’involi a noi:</l>
+          <l>qui lo incateni Amor.</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>Di propria man la dèa</l>
+          <l>a voi la donerà. Né basta ancora:</l>
+          <l>qui novella città sorger vedrete,</l>
+          <l>de la diva e del figlio opra sublime.</l>
+          <l>Questi poveri alberghi,</l>
+          <l>queste capanne anguste</l>
+          <l>fieno eccelsi palagi e moli auguste.</l>
+          <l>Altre dell’ampie moli</l>
+          <l>saran sacre a le ninfe, altre custodi</l>
+          <l>de le prische memorie ai dì venturi,</l>
+          <l>altre ai miseri asilo,</l>
+          <l>altre freno agli audaci, altre tormento</l>
+          <l>a la progenie rea del mostro orrendo</l>
+          <l>che già infamia e spavento</l>
+          <l>fu dei boschi aventini</l>
+          <l>e periglio funesto a noi vicini.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Venga de’ sommi eroi,</l>
+          <l>venga il crescente onor.</l>
+          <l>Più non s’involi a noi:</l>
+          <l>qui lo incateni Amor.</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>(rivolto a Silvia)</l>
+          <l>Oh mia gloria, oh mia cura, oh amato pegno</l>
+          <l>de la stirpe d’Alcide, oh Silvia mia,</l>
+          <l>oggi sposa sarai. Oggi d’Ascanio</l>
+          <l>il conforto sarai, l’amor, la speme:</l>
+          <l>ambi di questo suolo</l>
+          <l>la delizia e il piacer sarete insieme.</l>
+        </sp>
+        <stage>ACESTE(rivolto a Silvia)Oh mia gloria, oh mia cura, oh amato pegnode la stirpe d’Alcide, oh Silvia mia,oggi sposa sarai. Oggi d’Ascanioil conforto sarai, l’amor, la speme:ambi di questo suolola delizia e il piacer sarete insieme.</stage>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(Misera! Che farò?) Narrami, Aceste:</l>
+          <l>onde sai tutto ciò?</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>La dèa me ‘l disse.</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Quando?</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>Non bene ancora</l>
+          <l>si tingevan le rose</l>
+          <l>de la passata aurora.</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>E che t’impose?</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>D’avvertirne te stessa,</l>
+          <l>d’avvertirne i pastori; e poi disparve</l>
+          <l>versando dal bel crin divini odori.</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(Ah che più far non so. Taccio?… Mi scopro?…)</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>(Ma la ninfa si turba?…</l>
+          <l>Numi! Che sarà mai?…)</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(No, che non lice</l>
+          <l>in simil uopo all’anime innocenti</l>
+          <l>celar gli affetti loro.) Odimi, Aceste…</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>Cieli! Che dir mi vuoi?</l>
+          <l>Qual duol ti opprime in sì felice istante?</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Padre… Oh numi!… Che pena!… Io sono amante.</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>(Ahimè, respiro alfine.)</l>
+          <l>E ti affanni perciò? Non è d’amore</l>
+          <l>degno il tuo sposo? O credi</l>
+          <l>colpa l’amarlo?</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Anzi, qual nume, o padre,</l>
+          <l>lo rispetto e l’onoro. I pregi suoi</l>
+          <l>tutti ho fissi nell’alma. Ognun favella</l>
+          <l>di sue virtù. Chi caro a Marte il chiama,</l>
+          <l>chi diletto d’Urania, e chi l’appella</l>
+          <l>de le muse sostegno;</l>
+          <l>chi n’esalta la mano, e chi l’ingegno.</l>
+          <l>Del suo gran padre in lui</l>
+          <l>il magnanimo cor chi dice impresso,</l>
+          <l>chi de la dèa celeste</l>
+          <l>l’immensa carità trasfusa in esso.</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>Ah no, Silvia, t’inganni,</l>
+          <l>innocente che sei. Già per lung’uso</l>
+          <l>io più di te la tua virtù conosco.</l>
+          <l>Spiega il tuo core, o figlia.</l>
+          <l>E al tuo fido custode or ti consiglia.</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Odi, Aceste, e stupisci. Il dì volgea</l>
+          <l>che la mia fé donai</l>
+          <l>d’esser sposa d’Ascanio all’alma dèa.</l>
+          <l>Mille imagini liete,</l>
+          <l>che avean color da quel felice giorno,</l>
+          <l>venian volando a la mia mente intorno,</l>
+          <l>ed ella in dolce sonno</l>
+          <l>s’obliava innocente preda a loro;</l>
+          <l>quand’ecco, oh cielo! a me, non so se desta,</l>
+          <l>comparve un giovanetto. Il biondo crine</l>
+          <l>sul tergo gli volava, e mista al giglio</l>
+          <l>ne la guancia vezzosa</l>
+          <l>gli fioriva la rosa: il vago ciglio…</l>
+          <l>Padre, non più, perdona.</l>
+          <l>L’indiscreto pensier, parlando ancora,</l>
+          <l>va dietro a le lusinghe</l>
+          <l>dell’imagin gentil che lo innamora.</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>(Che amabile candor!) Segui, che avvenne?</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Ah da quel giorno il lusinghier sembiante</l>
+          <l>regnò nel petto mio, di sé m’accese,</l>
+          <l>i miei pensieri ei solo</l>
+          <l>tutti occupar pretese, i sonni miei</l>
+          <l>di sé solo ingombrò. Da un lato Ascanio,</l>
+          <l>la cui sembianza ignota,</l>
+          <l>ma la virtù m’è nota,</l>
+          <l>meraviglia e rispetto al cor m’ispira;</l>
+          <l>dall’altro poi l’imaginato oggetto</l>
+          <l>tenerezza ed amor mi desta in petto.</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>No, figlia, non temer. Senti la mano</l>
+          <l>de la pietosa dèa. Questa bell’opra</l>
+          <l>opra è di lei.</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Che dici?</l>
+          <l>Come? Parla, che fia?</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>Piacque a la diva</l>
+          <l>di stringere il bel nodo: in ogni guisa</l>
+          <l>vi dispone il tuo core e in sen ti pinge</l>
+          <l>la sembianza d’Ascanio.</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>E come il sai?</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>Sento che in cor mi parla</l>
+          <l>un sentimento ignoto,</l>
+          <l>la tua virtù me ‘l dice, e m’assicura</l>
+          <l>il favor de la dèa.</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Numi! Chi fia</l>
+          <l>più di me fortunata? Oh Ascanio, oh sposo!</l>
+          <l>Dunque per te, mio bene,</l>
+          <l>l’amoroso desio</l>
+          <l>si raddoppia così dentro al cor mio?</l>
+          <l>Amo adunque il mio sposo</l>
+          <l>quando un bel volto adoro? Amo lui stesso</l>
+          <l>quando mille virtù pregio ed onoro?</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>Silvia, mira che il sole omai s’avanza</l>
+          <l>oltre il meriggio. È tempo</l>
+          <l>che si prepari ognuno</l>
+          <l>ad accoglier la dèa. Su via, pastori,</l>
+          <l>a coronarci andiam di frondi e fiori.</l>
+          <l>Tu con altri pastor, Fauno, raccogli</l>
+          <l>vaghi rami e ghirlande e qui le reca,</l>
+          <l>onde sia il loco adorno</l>
+          <l>quanto si può per noi. Tu ancor prepara</l>
+          <l>parte de’ cari frutti, onde sull’ara</l>
+          <l>con le odorate gemme ardan votivo</l>
+          <l>sagrifizio a la dèa che a noi li dona.</l>
+          <l>Se questo dì è festivo</l>
+          <l>ogni anno al suo gran nome, or che si deve</l>
+          <l>quando sì fausta a noi</l>
+          <l>reca il maggior de’ benefici suoi?</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>CORO</head>Venga de’ sommi eroi,venga il crescente onor.Più non s’involi a noi:qui lo incateni Amor.(partono tutti fuorché Ascanio)Scena quintaAscanio e poi Venere e coro di Geni.<sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Venga de’ sommi eroi,</l>
+          <l>venga il crescente onor.</l>
+          <l>Più non s’involi a noi:</l>
+          <l>qui lo incateni Amor.</l>
+          <l>(partono tutti fuorché Ascanio)</l>
+          <l>Scena quinta</l>
+          <l>Ascanio e poi Venere e coro di Geni.</l>
+        </sp>
+        <stage>COROVenga de’ sommi eroi,venga il crescente onor.Più non s’involi a noi:qui lo incateni Amor.(partono tutti fuorché Ascanio)Scena quintaAscanio e poi Venere e coro di Geni.</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Cielo! Che vidi mai? Quale innocenza,</l>
+          <l>quale amor, qual virtù! Come non corsi</l>
+          <l>al piè di Silvia, a palesarmi a lei?</l>
+          <l>Ah questa volta, o dèa, quanto penoso</l>
+          <l>l’ubbidirti mi fu! Vieni e disciogli</l>
+          <l>questo freno crudele…</l>
+          <l>Venere sopraggiunge col coro de’ Geni.</l>
+        </sp>
+        <stage>ASCANIOCielo! Che vidi mai? Quale innocenza,quale amor, qual virtù! Come non corsial piè di Silvia, a palesarmi a lei?Ah questa volta, o dèa, quanto penosol’ubbidirti mi fu! Vieni e disciogliquesto freno crudele…Venere sopraggiunge col coro de’ Geni.</stage>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Eccomi, o figlio.</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Lascia, lascia ch’io voli</l>
+          <l>ove il ridente fato</l>
+          <l>mi rapisce, mi vuol. Quel dolce aspetto,</l>
+          <l>quel candor, quella fé, quanto rispetto</l>
+          <l>m’ispirano nell’alma e quanti, oh dio,</l>
+          <l>quanti mantici sono al mio desio!</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Un’altra prova a te mirar conviene</l>
+          <l>della virtù di Silvia. Ancor per poco</l>
+          <l>soffri, mia speme. Appena</l>
+          <l>qui fia la pastoral turba raccolta,</l>
+          <l>che di mia gloria avvolta</l>
+          <l>comparir mi vedrà. Restano, o figlio,</l>
+          <l>restano ancor pochi momenti, e poi…</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Che non pretendi, o dèa,</l>
+          <l>da un impaziente cor! Ma sia che vuoi.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>(accennando da un lato)</l>
+          <l>Là dove sale il colle,</l>
+          <l>finché torni quaggiù Silvia il tuo bene,</l>
+          <l>ricovrianci per ora. In questo piano</l>
+          <l>de la nova città le prime moli</l>
+          <l>sorgano intanto, e de’ ministri miei</l>
+          <l>l’opra vi sudi. Auspici noi dall’alto</l>
+          <l>dominerem su l’opra, e qua tornando</l>
+          <l>la pastoral famiglia</l>
+          <l>n’avrà insieme conforto e meraviglia.</l>
+          <l>Olà, Geni miei fidi,</l>
+          <l>de le celesti forze</l>
+          <l>raccogliete il valor. Qui del mio sangue</l>
+          <l>sorga il felice nido, e d’Alba il nome</l>
+          <l>suoni famoso poi di lido in lido.</l>
+          <l>E tu, mio germe, intanto</l>
+          <l>a mirar t’apparecchia in quel bel core</l>
+          <l>di virtude il trionfo e quel d’amore.</l>
+        </sp>
+        <stage>VENERE(accennando da un lato)Là dove sale il colle,finché torni quaggiù Silvia il tuo bene,ricovrianci per ora. In questo pianode la nova città le prime molisorgano intanto, e de’ ministri mieil’opra vi sudi. Auspici noi dall’altodominerem su l’opra, e qua tornandola pastoral famiglian’avrà insieme conforto e meraviglia.Olà, Geni miei fidi,de le celesti forzeraccogliete il valor. Qui del mio sanguesorga il felice nido, e d’Alba il nomesuoni famoso poi di lido in lido.E tu, mio germe, intantoa mirar t’apparecchia in quel bel coredi virtude il trionfo e quel d’amore.</stage>
+      </div>
+    </body>
+    <div type="act">
+      <head>CORO</head>Di te più amabile,né dèa maggiore,celeste Venere,no, non si dà.Con fren sì placidoreggi ogni core,che più non bramasila libertà.Molti Pastori e Pastorelle, secondo l’antecedente comando d’Aceste, vengono per ornar solennemente il luogo di ghirlande e di fiori. Ma, mentre questi si accingono all’opera, ecco che compariscono le Grazie accompagnate da una quantità di Geni e di Ninfe celesti in atto di meditare qualche grande intrapresa. I Pastori rimangono a tale veduta estremamente sorpresi; se non che, incoraggiati dalla gentilezza di quelle persone celesti, tornano all’incominciato lavoro. Ma assai più grande rinasce in essi la meraviglia, quando ad un cenno delle Grazie e de’ Geni veggono improvvisamente cambiarsi i tronchi degli alberi, che stanno adornando di ghirlande, in altrettante colonne, le quali formano di mano in mano un sodo, vago e ricco ordine d’architettura, con cui dassi principio all’edificazione d’Alba e si promette un felice cambiamento al paese. Questi accidenti congiunti con gli atti d’ammirazione, di riconoscenza, di tenerezza, di concordia fra le celesti e le umane persone, fanno la base del breve ballo che lega l’anteriore con la seguente parte della rappresentazione.Parte secondaScena primaSilvia, coro di Pastorelle.<div type="scene">
+        <head>CORO</head>Di te più amabile,né dèa maggiore,celeste Venere,no, non si dà.Con fren sì placidoreggi ogni core,che più non bramasila libertà.Molti Pastori e Pastorelle, secondo l’antecedente comando d’Aceste, vengono per ornar solennemente il luogo di ghirlande e di fiori. Ma, mentre questi si accingono all’opera, ecco che compariscono le Grazie accompagnate da una quantità di Geni e di Ninfe celesti in atto di meditare qualche grande intrapresa. I Pastori rimangono a tale veduta estremamente sorpresi; se non che, incoraggiati dalla gentilezza di quelle persone celesti, tornano all’incominciato lavoro. Ma assai più grande rinasce in essi la meraviglia, quando ad un cenno delle Grazie e de’ Geni veggono improvvisamente cambiarsi i tronchi degli alberi, che stanno adornando di ghirlande, in altrettante colonne, le quali formano di mano in mano un sodo, vago e ricco ordine d’architettura, con cui dassi principio all’edificazione d’Alba e si promette un felice cambiamento al paese. Questi accidenti congiunti con gli atti d’ammirazione, di riconoscenza, di tenerezza, di concordia fra le celesti e le umane persone, fanno la base del breve ballo che lega l’anteriore con la seguente parte della rappresentazione.Parte secondaScena primaSilvia, coro di Pastorelle.<sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Di te più amabile,</l>
+          <l>né dèa maggiore,</l>
+          <l>celeste Venere,</l>
+          <l>no, non si dà.</l>
+          <l>Con fren sì placido</l>
+          <l>reggi ogni core,</l>
+          <l>che più non bramasi</l>
+          <l>la libertà.</l>
+          <l>Molti Pastori e Pastorelle, secondo l’antecedente comando d’Aceste, vengono per ornar solennemente il luogo di ghirlande e di fiori. Ma, mentre questi si accingono all’opera, ecco che compariscono le Grazie accompagnate da una quantità di Geni e di Ninfe celesti in atto di meditare qualche grande intrapresa. I Pastori rimangono a tale veduta estremamente sorpresi; se non che, incoraggiati dalla gentilezza di quelle persone celesti, tornano all’incominciato lavoro. Ma assai più grande rinasce in essi la meraviglia, quando ad un cenno delle Grazie e de’ Geni veggono improvvisamente cambiarsi i tronchi degli alberi, che stanno adornando di ghirlande, in altrettante colonne, le quali formano di mano in mano un sodo, vago e ricco ordine d’architettura, con cui dassi principio all’edificazione d’Alba e si promette un felice cambiamento al paese. Questi accidenti congiunti con gli atti d’ammirazione, di riconoscenza, di tenerezza, di concordia fra le celesti e le umane persone, fanno la base del breve ballo che lega l’anteriore con la seguente parte della rappresentazione.</l>
+          <l>Parte seconda</l>
+          <l>Scena prima</l>
+          <l>Silvia, coro di Pastorelle.</l>
+        </sp>
+        <stage>CORODi te più amabile,né dèa maggiore,celeste Venere,no, non si dà.Con fren sì placidoreggi ogni core,che più non bramasila libertà.Molti Pastori e Pastorelle, secondo l’antecedente comando d’Aceste, vengono per ornar solennemente il luogo di ghirlande e di fiori. Ma, mentre questi si accingono all’opera, ecco che compariscono le Grazie accompagnate da una quantità di Geni e di Ninfe celesti in atto di meditare qualche grande intrapresa. I Pastori rimangono a tale veduta estremamente sorpresi; se non che, incoraggiati dalla gentilezza di quelle persone celesti, tornano all’incominciato lavoro. Ma assai più grande rinasce in essi la meraviglia, quando ad un cenno delle Grazie e de’ Geni veggono improvvisamente cambiarsi i tronchi degli alberi, che stanno adornando di ghirlande, in altrettante colonne, le quali formano di mano in mano un sodo, vago e ricco ordine d’architettura, con cui dassi principio all’edificazione d’Alba e si promette un felice cambiamento al paese. Questi accidenti congiunti con gli atti d’ammirazione, di riconoscenza, di tenerezza, di concordia fra le celesti e le umane persone, fanno la base del breve ballo che lega l’anteriore con la seguente parte della rappresentazione.Parte secondaScena primaSilvia, coro di Pastorelle.</stage>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Star lontana non so, compagne ninfe,</l>
+          <l>da questo amico loco.</l>
+          <l>Ah qui vedrò fra poco</l>
+          <l>l’adorato mio sposo e l’alma dèa</l>
+          <l>che di sua luce pura</l>
+          <l>questi lidi beati orna e ricrea.</l>
+          <l>Ma ciel! Che veggio mai! Mirate, amiche,</l>
+          <l>come risplende intorno</l>
+          <l>di scolti marmi e di colonne eccelse</l>
+          <l>il sacro loco adorno. Ah senza fallo</l>
+          <l>questo è divin lavoro. Il tempo e l’opra</l>
+          <l>de’ mortali non basta a tanta impresa.</l>
+          <l>Sento, sento la mano</l>
+          <l>de la propizia dèa. L’origin questa</l>
+          <l>è dell’alma città che a noi promise:</l>
+          <l>questa è mirabil prova</l>
+          <l>della venuta sua. Fra pochi istanti</l>
+          <l>de le felici amanti</l>
+          <l>la più lieta sarò. Già dall’occaso</l>
+          <l>il sol mi guarda e pare</l>
+          <l>più lucido che mai scender nel mare.</l>
+        </sp>
+        <stage>[N. 19 – Aria]Allegro (sol maggiore) / Andante grazioso / AllegroArchi, 2 oboe, 4 corni.Spiega il desio le piume,vola il mio core e geme,ma solo con la spemepoi mi ritorna al sen.Vieni col mio bel numealfine, o mio desio:dimmi una volta, oh dio!«ecco l’amato ben».(siede da un lato co’ le pastorelle intorno)</stage>
+      </div>
+      <div type="scene">
+        <head>CORO</head>Già l’ore se n’ volano,già viene il tuo bene.Fra dolci catenequell’alma vivrà.(il coro siede)Scena secondaSilvia, coro di Pastorelle, Ascanio.<sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Già l’ore se n’ volano,</l>
+          <l>già viene il tuo bene.</l>
+          <l>Fra dolci catene</l>
+          <l>quell’alma vivrà.</l>
+          <l>(il coro siede)</l>
+          <l>Scena seconda</l>
+          <l>Silvia, coro di Pastorelle, Ascanio.</l>
+        </sp>
+        <stage>COROGià l’ore se n’ volano,già viene il tuo bene.Fra dolci catenequell’alma vivrà.(il coro siede)Scena secondaSilvia, coro di Pastorelle, Ascanio.</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(non vedendo Silvia, da sé)</l>
+          <l>Cerco di loco in loco</l>
+          <l>la mia Silvia fedele; e pur non lice</l>
+          <l>questo amante cor mio svelare a lei,</l>
+          <l>ché me ‘l vieta la diva.</l>
+          <l>Adorata mia sposa, ah dove sei?</l>
+          <l>Lascia, lascia che possa</l>
+          <l>questo mio cor, che de’ tuoi merti è pieno,</l>
+          <l>celato ammirator vederti almeno.</l>
+          <l>(vedendo Silvia, da sé)</l>
+          <l>Ma non è Silvia quella</l>
+          <l>che là si posa su quel verde seggio</l>
+          <l>con le sue ninfe a lato?… Io non m’inganno:</l>
+          <l>certo è il mio bene, è desso.</l>
+        </sp>
+        <stage>ASCANIO(non vedendo Silvia, da sé)Cerco di loco in locola mia Silvia fedele; e pur non licequesto amante cor mio svelare a lei,ché me ‘l vieta la diva.Adorata mia sposa, ah dove sei?Lascia, lascia che possaquesto mio cor, che de’ tuoi merti è pieno,celato ammirator vederti almeno.(vedendo Silvia, da sé)Ma non è Silvia quellache là si posa su quel verde seggiocon le sue ninfe a lato?… Io non m’inganno:certo è il mio bene, è desso.</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Numi! Che fo?… M’appresso?…</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(vedendo Ascanio, da sé)</l>
+          <l>Oh ciel! Che miro?…</l>
+          <l>Quegli è il garzon di cui scolpita ho in seno</l>
+          <l>l’immagin viva…</l>
+        </sp>
+        <stage>SILVIA(vedendo Ascanio, da sé)Oh ciel! Che miro?…Quegli è il garzon di cui scolpita ho in senol’immagin viva…</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Ah se potessi almeno</l>
+          <l>scoprirmi a lei…</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Così m’appare in sogno…</l>
+          <l>Così l’ha ognor presente</l>
+          <l>nel dolce immaginar questa mia mente.</l>
+          <l>Che fia?… Sogno… o son desta?…</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Oh madre, oh diva!</l>
+          <l>Qual via crudel di tormentarmi è questa?</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>No, più sogno non è: quello è il sembiante</l>
+          <l>che da gran tempo adoro…</l>
+          <l>Ascanio è dunque?… O pur son d’altri amante?…</l>
+          <l>Dubito ancor…</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>La ninfa</l>
+          <l>agitata mi par… Mi riconosce,</l>
+          <l>ma scoprirsi non osa.</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(alzandosi e facendo qualche passo verso Ascanio)</l>
+          <l>Ah sì, il mio bene,</l>
+          <l>il mio sposo tu sei.</l>
+        </sp>
+        <stage>SILVIA(alzandosi e facendo qualche passo verso Ascanio)Ah sì, il mio bene,il mio sposo tu sei.</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Cieli! S’accosta:</l>
+          <l>come potrò non palesarmi a lei!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SILVIA</head>(s’arresta)Imprudente, che fo? Spontanea e solaappressarmi vogl’io? Seco non veggiola dèa che il guida…Egli di me non chiede…Meco Aceste non è… Dove t’avanzitrasportato dal core, incauto piede?Ingannarmi potrei…Scena terzaSilvia, coro di Pastorelle, Ascanio, Fauno.<sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(s’arresta)</l>
+          <l>Imprudente, che fo? Spontanea e sola</l>
+          <l>appressarmi vogl’io? Seco non veggio</l>
+          <l>la dèa che il guida…</l>
+          <l>Egli di me non chiede…</l>
+          <l>Meco Aceste non è… Dove t’avanzi</l>
+          <l>trasportato dal core, incauto piede?</l>
+          <l>Ingannarmi potrei…</l>
+          <l>Scena terza</l>
+          <l>Silvia, coro di Pastorelle, Ascanio, Fauno.</l>
+        </sp>
+        <stage>SILVIA(s’arresta)Imprudente, che fo? Spontanea e solaappressarmi vogl’io? Seco non veggiola dèa che il guida…Egli di me non chiede…Meco Aceste non è… Dove t’avanzitrasportato dal core, incauto piede?Ingannarmi potrei…Scena terzaSilvia, coro di Pastorelle, Ascanio, Fauno.</stage>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>Silvia, Silvia, ove sei?</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(accostandosi a Fauno)</l>
+          <l>Fauno, che brami?</l>
+        </sp>
+        <stage>SILVIA(accostandosi a Fauno)Fauno, che brami?</stage>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>(a Silvia)</l>
+          <l>Io di te cerco, o ninfa,</l>
+          <l>(ad Ascanio che si accosta dall’altro lato)</l>
+          <l>e a te pur vengo</l>
+          <l>giovanetto straniere.</l>
+        </sp>
+        <stage>FAUNO(a Silvia)Io di te cerco, o ninfa,(ad Ascanio che si accosta dall’altro lato)e a te pur vengogiovanetto straniere.</stage>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(Egli è stranier qual sembra: ah certo è desso,</l>
+          <l>certo è lo sposo mio.)</l>
+          <l>(a Fauno)</l>
+          <l>Pastor, favella.</l>
+        </sp>
+        <stage>SILVIA(Egli è stranier qual sembra: ah certo è desso,certo è lo sposo mio.)(a Fauno)Pastor, favella.</stage>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>(a Silvia, scostandosi Ascanio)</l>
+          <l>A te Aceste m’invia: di te chiedea,</l>
+          <l>qui condurti ei volea. Di già si sente</l>
+          <l>la gran diva presente. In ogni loco</l>
+          <l>sparge la sua virtù. Vedi quell’opra</l>
+          <l>che mirabil s’innalza? I geni suoi</l>
+          <l>la crearon pur dianzi. Io e i pastori</l>
+          <l>ne vedemmo il lavoro</l>
+          <l>mentre qua recavam ghirlande e fiori.</l>
+          <l>Ciò narrammo ad Aceste, ed egli a noi</l>
+          <l>meraviglie novelle</l>
+          <l>ne mostrò d’ogni parte. Oh se vedessi!</l>
+          <l>Silvia, sul sacro albergo,</l>
+          <l>ove seco dimori, una gran luce</l>
+          <l>piove e sfavilla intorno, e par che rieda</l>
+          <l>pria di morir verso l’aurora il giorno.</l>
+          <l>Tutto il pendio del colle,</l>
+          <l>onde quaggiù si scende,</l>
+          <l>di fior vernali e di novelli germi</l>
+          <l>tutto si copre. Per la via risplende</l>
+          <l>un ignoto elemento</l>
+          <l>di rutile vivissime scintille,</l>
+          <l>onde aperto si vede</l>
+          <l>che volò su quel suolo il divin piede.</l>
+          <l>Ma troppo tardo omai.</l>
+        </sp>
+        <stage>FAUNO(a Silvia, scostandosi Ascanio)A te Aceste m’invia: di te chiedea,qui condurti ei volea. Di già si sentela gran diva presente. In ogni locosparge la sua virtù. Vedi quell’oprache mirabil s’innalza? I geni suoila crearon pur dianzi. Io e i pastorine vedemmo il lavoromentre qua recavam ghirlande e fiori.Ciò narrammo ad Aceste, ed egli a noimeraviglie novellene mostrò d’ogni parte. Oh se vedessi!Silvia, sul sacro albergo,ove seco dimori, una gran lucepiove e sfavilla intorno, e par che riedapria di morir verso l’aurora il giorno.Tutto il pendio del colle,onde quaggiù si scende,di fior vernali e di novelli germitutto si copre. Per la via risplendeun ignoto elementodi rutile vivissime scintille,onde aperto si vedeche volò su quel suolo il divin piede.Ma troppo tardo omai.</stage>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(Quanto ti deggio,</l>
+          <l>amorosa deità!)</l>
+        </sp>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>(a Silvia accennando di partire)</l>
+          <l>Volo ad Aceste:</l>
+          <l>dirò che più di lui</l>
+          <l>fu sollecito amore…</l>
+        </sp>
+        <stage>FAUNO(a Silvia accennando di partire)Volo ad Aceste:dirò che più di luifu sollecito amore…</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(accostandosi a Fauno)</l>
+          <l>Ed a me ancora</l>
+          <l>non volevi parlar, gentil pastore?</l>
+        </sp>
+        <stage>ASCANIO(accostandosi a Fauno)Ed a me ancoranon volevi parlar, gentil pastore?</stage>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>(ad Ascanio)</l>
+          <l>Ah quasi l’obliai. Garzon, mi scusa.</l>
+          <l>In dì così ridente</l>
+          <l>l’eccesso del piacer turba la mente.</l>
+          <l>Ad Aceste narrai</l>
+          <l>come qui ti conobbi e ti lasciai.</l>
+        </sp>
+        <stage>FAUNO(ad Ascanio)Ah quasi l’obliai. Garzon, mi scusa.In dì così ridentel’eccesso del piacer turba la mente.Ad Aceste narraicome qui ti conobbi e ti lasciai.</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>E che perciò?</l>
+        </sp>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>Sorrise</l>
+          <l>lampeggiando di gioia il sacro veglio,</l>
+          <l>levò le mani al cielo e, palpitando:</l>
+          <l>«sento», mi disse, «un non inteso affetto</l>
+          <l>tutto agitarmi il petto»…</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(Ah caro sposo!</l>
+          <l>Non ne dubito più.)</l>
+        </sp>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>«Vanne», soggiunse,</l>
+          <l>«cerca dello straniere».</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(Il saggio Aceste</l>
+          <l>nell’indovina mente</l>
+          <l>tutto sa, tutto vede e tutto sente!)</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Che vuol dunque da me?</l>
+        </sp>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>Per me ti prega</l>
+          <l>che rimanghi tra noi finché si sveli</l>
+          <l>a noi la nostra dèa. Vuol che tu sia</l>
+          <l>de’ favori di lei,</l>
+          <l>de’ felici imenei, del nostro bene</l>
+          <l>nunzio fedele a le rimote arene.</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(Oh me infelice! Aceste</l>
+          <l>dunque Ascanio no ‘l crede!)</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(Ahimè, che dico?</l>
+          <l>Oh dura legge!)</l>
+        </sp>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>(ad Ascanio)</l>
+          <l>E che rispondi alfine?</l>
+        </sp>
+        <stage>FAUNO(ad Ascanio)E che rispondi alfine?</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Che ubbidirò… che del felice sposo</l>
+          <l>ammirerò il destin…</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(Misera! Oh numi!</l>
+          <l>Dunque Ascanio non è. Che fiero colpo!</l>
+          <l>Che fulmine improvviso!)</l>
+          <l>(si ritira e si siede abbattuta fra le ninfe verso il fondo della scena)</l>
+        </sp>
+        <stage>SILVIA(Misera! Oh numi!Dunque Ascanio non è. Che fiero colpo!Che fulmine improvviso!)(si ritira e si siede abbattuta fra le ninfe verso il fondo della scena)</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Alfin, pastore,</l>
+          <l>di’ che l’attendo.</l>
+        </sp>
+        <sp who="#fauno">
+          <speaker>FAUNO:</speaker>
+          <l>Ed io</l>
+          <l>tosto me n’ volo ad affrettarlo. Addio.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>[N. 21 – Aria]</head>Allegro moderato (si bemolle maggiore) / Andante ma adagio (mi bemolle maggiore) / Allegro moderato (si bemolle maggiore)Archi, 2 oboe, 2 corni.Dal tuo gentil sembianterisplende un’alma grande;e quel chiaror, che spande,quasi adorar ti fa.Se mai divieni amante,felice la donzellache a fiamma così bellaallor s’accenderà.(parte)Scena quartaSilvia, coro di Pastorelle, Ascanio. <stage>[N. 21 – Aria]Allegro moderato (si bemolle maggiore) / Andante ma adagio (mi bemolle maggiore) / Allegro moderato (si bemolle maggiore)Archi, 2 oboe, 2 corni.Dal tuo gentil sembianterisplende un’alma grande;e quel chiaror, che spande,quasi adorar ti fa.Se mai divieni amante,felice la donzellache a fiamma così bellaallor s’accenderà.(parte)Scena quartaSilvia, coro di Pastorelle, Ascanio.</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(guardando a Silvia)</l>
+          <l>Ahimè! Che veggio mai?</l>
+          <l>Silvia colà si giace</l>
+          <l>pallida, semiviva</l>
+          <l>a le sue ninfe in braccio. Intendo, oh dio!</l>
+          <l>Arde del volto mio, e non mi crede</l>
+          <l>il suo promesso Ascanio.</l>
+          <l>La virtude e l’amore</l>
+          <l>fanno atroce battaglia in quel bel core.</l>
+          <l>E dal penoso inganno</l>
+          <l>liberarla non posso… Agli occhi suoi</l>
+          <l>s’involi almen questo affannoso oggetto</l>
+          <l>finché venga la dèa. Colà mi celo:</l>
+          <l>e non lontan da lei</l>
+          <l>udrò le sue parole,</l>
+          <l>pascerò nel suo volto i guardi miei.</l>
+        </sp>
+        <stage>ASCANIO(guardando a Silvia)Ahimè! Che veggio mai?Silvia colà si giacepallida, semivivaa le sue ninfe in braccio. Intendo, oh dio!Arde del volto mio, e non mi credeil suo promesso Ascanio.La virtude e l’amorefanno atroce battaglia in quel bel core.E dal penoso ingannoliberarla non posso… Agli occhi suois’involi almen questo affannoso oggettofinché venga la dèa. Colà mi celo:e non lontan da leiudrò le sue parole,pascerò nel suo volto i guardi miei.</stage>
+        <stage>[N. 22 – Aria]Un poco adagio (mi maggiore) / Allegro / Adagio / AllegroArchi.Al mio ben mi veggio avanti,del suo cor sento la pena,e la legge ancor mi frena.Ah si rompa il crudo laccio:abbastanza il cor soffrì.Se pietà dell’alme amanti,bella diva, il sen ti move,non voler fra tante proveagitarle ognor così.(si ritira dalla scena)</stage>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(accorrendo ad Ascanio e poi trattenendosi)</l>
+          <l>Ferma, aspetta, ove vai? Dove t’involi?</l>
+          <l>Perché fuggi così? Numi! Che fo?…</l>
+          <l>Dove trascorro, ahimè!… Come s’obblia</l>
+          <l>la mia virtù!… Sì, si risolva alfine.</l>
+          <l>Rompasi alfin questo fallace incanto.</l>
+          <l>Perché, perché mi vanto</l>
+          <l>prole de’ numi, e una sognata imago</l>
+          <l>travia quel core che al sol dovere è sacro</l>
+          <l>e sacro alla virtù?… Ma non vid’io</l>
+          <l>le sembianze adorate</l>
+          <l>pur or cogli occhi miei?… Ma non importa.</l>
+          <l>Sol d’Ascanio son io. Da lor si fugga.</l>
+          <l>Se il ciel così mi prova,</l>
+          <l>miri la mia vittoria… E se il mio sposo</l>
+          <l>fosse quel ch’or vid’io?… Ah mi lusingo.</l>
+          <l>Perché in sì dolce istante</l>
+          <l>non palesarsi a me? Perché mentirsi</l>
+          <l>e straziarmi così?… No, mi seduce</l>
+          <l>l’ingannato mio core… E s’anco ei fosse,</l>
+          <l>vegga che so lui stesso</l>
+          <l>sacrificare a lui</l>
+          <l>e l’amato sembiante ai merti sui.</l>
+          <l>Ah si corra ad Aceste:</l>
+          <l>involiamci di qui. Grande qual sono</l>
+          <l>stirpe de’ numi al comun ben mi deggio.</l>
+          <l>Fuorché l’alma d’Ascanio altro non veggio.</l>
+        </sp>
+        <stage>SILVIA(accorrendo ad Ascanio e poi trattenendosi)Ferma, aspetta, ove vai? Dove t’involi?Perché fuggi così? Numi! Che fo?…Dove trascorro, ahimè!… Come s’obbliala mia virtù!… Sì, si risolva alfine.Rompasi alfin questo fallace incanto.Perché, perché mi vantoprole de’ numi, e una sognata imagotravia quel core che al sol dovere è sacroe sacro alla virtù?… Ma non vid’iole sembianze adoratepur or cogli occhi miei?… Ma non importa.Sol d’Ascanio son io. Da lor si fugga.Se il ciel così mi prova,miri la mia vittoria… E se il mio sposofosse quel ch’or vid’io?… Ah mi lusingo.Perché in sì dolce istantenon palesarsi a me? Perché mentirsie straziarmi così?… No, mi seducel’ingannato mio core… E s’anco ei fosse,vegga che so lui stessosacrificare a luie l’amato sembiante ai merti sui.Ah si corra ad Aceste:involiamci di qui. Grande qual sonostirpe de’ numi al comun ben mi deggio.Fuorché l’alma d’Ascanio altro non veggio.</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(accorrendo a Silvia)</l>
+          <l>Anima grande, ah lascia,</l>
+          <l>lascia, oh dio! che al tuo piè…</l>
+        </sp>
+        <stage>ASCANIO(accorrendo a Silvia)Anima grande, ah lascia,lascia, oh dio! che al tuo piè…</stage>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(partendo risoluta)</l>
+          <l>Vanne. A’ miei lumi</l>
+          <l>ti nascondi per sempre. Io son d’Ascanio.</l>
+          <l>(parte)</l>
+        </sp>
+        <stage>SILVIA(partendo risoluta)Vanne. A’ miei lumiti nascondi per sempre. Io son d’Ascanio.(parte)</stage>
+      </div>
+      <div type="scene">
+        <head>CORO</head>Che strano eventoturba la verginein questo dì!No, non lasciamoladove sì celerefugge così.(partono)Scena quintaAscanio solo.<sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Che strano evento</l>
+          <l>turba la vergine</l>
+          <l>in questo dì!</l>
+          <l>No, non lasciamola</l>
+          <l>dove sì celere</l>
+          <l>fugge così.</l>
+          <l>(partono)</l>
+          <l>Scena quinta</l>
+          <l>Ascanio solo.</l>
+        </sp>
+        <stage>COROChe strano eventoturba la verginein questo dì!No, non lasciamoladove sì celerefugge così.(partono)Scena quintaAscanio solo.</stage>
+      </div>
+      <div type="scene">
+        <head>[N. 25 – Aria]</head>Andante grazioso (fa maggiore)Archi, 2 flauti, 2 serpentoni/corni inglesi, 2 fagotti, 2 corni.Torna, mio bene, ascolta:il tuo fedel son io.Amami pur, ben mio:no, non t’inganna Amor.Quella che in seno accoltaserbi virtù sì rara,a gareggiar preparacoll’innocente cor.(si ritira in disparte)Scena sestaAscanio, Silvia, Aceste, Fauno, coro di Pastori e di Pastorelle, poi Venere e coro di Geni. <stage>[N. 25 – Aria]Andante grazioso (fa maggiore)Archi, 2 flauti, 2 serpentoni/corni inglesi, 2 fagotti, 2 corni.Torna, mio bene, ascolta:il tuo fedel son io.Amami pur, ben mio:no, non t’inganna Amor.Quella che in seno accoltaserbi virtù sì rara,a gareggiar preparacoll’innocente cor.(si ritira in disparte)Scena sestaAscanio, Silvia, Aceste, Fauno, coro di Pastori e di Pastorelle, poi Venere e coro di Geni.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Venga de’ sommi eroi,</l>
+          <l>venga il crescente onor.</l>
+          <l>Più non s’involi a noi:</l>
+          <l>qui lo incateni Amor.</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>(a Silvia che tiene graziosamente per la mano)</l>
+          <l>Che strana meraviglia</l>
+          <l>del tuo cor mi narrasti, amata figlia!</l>
+          <l>Ma pur non so temer. Serba i costumi</l>
+          <l>che serbasti finora. Il ciel di noi</l>
+          <l>spesso fa prova e dai contrasti illustri,</l>
+          <l>onde agitata sei,</l>
+          <l>quella virtù ne desta</l>
+          <l>che i mortali trasforma in semidèi.</l>
+        </sp>
+        <stage>ACESTE(a Silvia che tiene graziosamente per la mano)Che strana meravigliadel tuo cor mi narrasti, amata figlia!Ma pur non so temer. Serba i costumiche serbasti finora. Il ciel di noispesso fa prova e dai contrasti illustri,onde agitata sei,quella virtù ne destache i mortali trasforma in semidèi.</stage>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Sì, padre, alfin mi taccia</l>
+          <l>ogn’altro affetto in seno.</l>
+          <l>Segua che vuol, purché il dover si faccia.</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>(ai pastori che raccolti intorno all’ara v’ardono gl’incensi)</l>
+          <l>Su, felici pastori, ai riti vostri</l>
+          <l>date principio e la pietosa dèa</l>
+          <l>invocate con gl’inni.</l>
+        </sp>
+        <stage>ACESTE(ai pastori che raccolti intorno all’ara v’ardono gl’incensi)Su, felici pastori, ai riti vostridate principio e la pietosa dèainvocate con gl’inni.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Scendi, celeste Venere,</l>
+          <l>e del tuo amore in segno</l>
+          <l>lasciane il dolce pegno</l>
+          <l>che sospirammo ognor.</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(accennando Ascanio)</l>
+          <l>Ma s’allontani almen dagli occhi miei</l>
+          <l>quel periglioso oggetto. Il vedi?</l>
+        </sp>
+        <stage>SILVIA(accennando Ascanio)Ma s’allontani almen dagli occhi mieiquel periglioso oggetto. Il vedi?</stage>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>(guardando Ascanio)</l>
+          <l>Il veggio.</l>
+          <l>Parmi simile a un dio.</l>
+        </sp>
+        <stage>ACESTE(guardando Ascanio)Il veggio.Parmi simile a un dio.</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(Silvia mi guarda:</l>
+          <l>che contrasto crudel!)</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>No, cara figlia,</l>
+          <l>no, non temer. Segui la grande impresa,</l>
+          <l>vedi che il fumo ascende e l’ara è accesa.</l>
+          <l>Osservate, o pastori.</l>
+          <l>Ecco scende la dèa.</l>
+          <l>(cominciano a scender delle nuvole sopra l’ara)</l>
+          <l>Tra quelle nubi</l>
+          <l>si nasconde la dèa. Oh Silvia mia,</l>
+          <l>meco all’ara ti volgi; e voi pastori</l>
+          <l>de le preghiere ardenti</l>
+          <l>rinnovate i clamori.</l>
+        </sp>
+        <stage>ACESTENo, cara figlia,no, non temer. Segui la grande impresa,vedi che il fumo ascende e l’ara è accesa.Osservate, o pastori.Ecco scende la dèa.(cominciano a scender delle nuvole sopra l’ara)Tra quelle nubisi nasconde la dèa. Oh Silvia mia,meco all’ara ti volgi; e voi pastoride le preghiere ardentirinnovate i clamori.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>No, non possiamo vivere</l>
+          <l>in più felice regno,</l>
+          <l>ma senza il dolce pegno</l>
+          <l>non siam contenti ancor.</l>
+        </sp>
+        <stage>Recitativo(le nubi si spandono innanzi all’ara)</stage>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>Ecco ingombran l’altare</l>
+          <l>le fauste nubi intorno.</l>
+          <l>(si veggono uscir raggi di luce dalle nuvole)</l>
+          <l>Ecco la luce</l>
+          <l>de la diva presente, ecco traspare.</l>
+        </sp>
+        <stage>ACESTEEcco ingombran l’altarele fauste nubi intorno.(si veggono uscir raggi di luce dalle nuvole)Ecco la lucede la diva presente, ecco traspare.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Scendi, celeste Venere,</l>
+          <l>e del tuo amore in segno</l>
+          <l>lasciane il dolce pegno</l>
+          <l>che sospirammo ognor.</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>Invoca, o figlia, invoca</l>
+          <l>il favor della diva:</l>
+          <l>chiedi lo sposo tuo.</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Svelati, o dèa,</l>
+          <l>scopri alla fin quell’adorato aspetto</l>
+          <l>al tuo popol diletto. Omai contento</l>
+          <l>rendi questo cor mio.</l>
+          <l>Si squarciano le nuvole. Si vede Venere assisa sul suo carro. Nello stesso tempo escono di dietro alle nuvole le Grazie e i Geni, che con vaga disposizione si spargono per la scena.</l>
+        </sp>
+        <stage>SILVIASvelati, o dèa,scopri alla fin quell’adorato aspettoal tuo popol diletto. Omai contentorendi questo cor mio.Si squarciano le nuvole. Si vede Venere assisa sul suo carro. Nello stesso tempo escono di dietro alle nuvole le Grazie e i Geni, che con vaga disposizione si spargono per la scena.</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(si va avvicinando a Silvia)</l>
+          <l>(Or felice son io. Questo è il momento.)</l>
+        </sp>
+        <stage>ASCANIO(si va avvicinando a Silvia)(Or felice son io. Questo è il momento.)</stage>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Oh diva!</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(si accosta di più)</l>
+          <l>Oh sorte!</l>
+        </sp>
+        <stage>ASCANIO(si accosta di più)Oh sorte!</stage>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>Oh giorno!</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(ad Ascanio che si accosta)</l>
+          <l>Ah mi persegui,</l>
+          <l>immagine crudele, insino all’ara?</l>
+          <l>(risolutamente guardando Venere e colla mano facendosi velo agli occhi per non veder Ascanio)</l>
+          <l>Qual è il mio sposo, o diva?</l>
+        </sp>
+        <stage>SILVIA(ad Ascanio che si accosta)Ah mi persegui,immagine crudele, insino all’ara?(risolutamente guardando Venere e colla mano facendosi velo agli occhi per non veder Ascanio)Qual è il mio sposo, o diva?</stage>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>(accennando e pigliando per una mano Ascanio il presenta a Silvia)</l>
+          <l>Eccolo, o cara.</l>
+        </sp>
+        <stage>VENERE(accennando e pigliando per una mano Ascanio il presenta a Silvia)Eccolo, o cara.</stage>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(volgendosi ad Ascanio)</l>
+          <l>Oh cielo! Perché mai</l>
+          <l>nasconderti così?</l>
+        </sp>
+        <stage>SILVIA(volgendosi ad Ascanio)Oh cielo! Perché mainasconderti così?</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(a Silvia)</l>
+          <l>Tutto saprai.</l>
+        </sp>
+        <stage>ASCANIO(a Silvia)Tutto saprai.</stage>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(accorrendo ad Ascanio)</l>
+          <l>Ah caro sposo, oh dio!</l>
+        </sp>
+        <stage>SILVIA(accorrendo ad Ascanio)Ah caro sposo, oh dio!</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>(accorrendo a Silvia)</l>
+          <l>Vieni al mio sen, ben mio.</l>
+        </sp>
+        <stage>ASCANIO(accorrendo a Silvia)Vieni al mio sen, ben mio.</stage>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>(ad Aceste)</l>
+          <l>Ah ch’io lo credo a pena.</l>
+          <l>Forse m’inganno ancora?</l>
+        </sp>
+        <stage>SILVIA(ad Aceste)Ah ch’io lo credo a pena.Forse m’inganno ancora?</stage>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>(a Silvia)</l>
+          <l>Frena il timor, deh frena;</l>
+          <l>e la gran diva adora.</l>
+        </sp>
+        <stage>ACESTE(a Silvia)Frena il timor, deh frena;e la gran diva adora.</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Che bel piacere io sento</l>
+          <l>in sì beato dì!</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>(a Silvia e ad Ascanio)</l>
+          <l>De la virtù il cimento</l>
+          <l>premian gli dèi così.</l>
+        </sp>
+        <stage>ACESTE(a Silvia e ad Ascanio)De la virtù il cimentopremian gli dèi così.</stage>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Numi! Che bel momento!</l>
+          <l>Come in sì bel contento</l>
+          <l>il mio timor finì!</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>De la virtù il cimento</l>
+          <l>premian gli dèi così.</l>
+          <l>(abbracciandosi rispettosamente)</l>
+        </sp>
+        <stage>ACESTEDe la virtù il cimentopremian gli dèi così.(abbracciandosi rispettosamente)</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Ah cara sposa, oh dio!</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Oh caro sposo, oh dio!</l>
+        </sp>
+        <sp who="#ascanio, silvia, aceste">
+          <speaker>ASCANIO, SILVIA, ACESTE:</speaker>
+          <l>Più sacro nodo in terra,</l>
+          <l>più dolce amor non è.</l>
+          <l>Quanto, pietosa dèa,</l>
+          <l>quanto dobbiamo a te.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Eccovi al fin di vostre pene, o figli.</l>
+          <l>Or godete beati</l>
+          <l>l’uno nel cor dell’altro ampia mercede</l>
+          <l>de la vostra virtù.</l>
+          <l>(a Silvia)</l>
+          <l>Mi piacque, o cara,</l>
+          <l>prevenire il tuo core. Indi la fama,</l>
+          <l>quindi Amore operò. Volli ad Ascanio</l>
+          <l>così de la sua sposa</l>
+          <l>la fortezza, il candor, l’amor, la fede</l>
+          <l>mostrar sugli occhi suoi. Scossi un momento</l>
+          <l>quel tuo bel core, e ne volar scintille</l>
+          <l>di celeste virtude a mille a mille.</l>
+          <l>Ma voi soli felici</l>
+          <l>esser già non dovete.</l>
+          <l>La stirpe degli dèi, più ch’al suo bene,</l>
+          <l>pensa all’altrui.</l>
+          <l>(ad Ascanio)</l>
+          <l>Apprendi, o figlio, apprendi,</l>
+          <l>quanto è beata sorte</l>
+          <l>far beati i mortali. In questo piano</l>
+          <l>tu l’edificio illustre</l>
+          <l>stendi de la città. La gente d’Alba</l>
+          <l>sia famosa per te. De le mie leggi</l>
+          <l>tempra il soave freno:</l>
+          <l>ministra il giusto, il popol mio proteggi.</l>
+          <l>In avvenir due numi</l>
+          <l>abbia invece d’un sol: te qui presente;</l>
+          <l>me che, lontana ancora,</l>
+          <l>qua col pensier ritornerò sovente.</l>
+        </sp>
+        <stage>VENEREEccovi al fin di vostre pene, o figli.Or godete beatil’uno nel cor dell’altro ampia mercedede la vostra virtù.(a Silvia)Mi piacque, o cara,prevenire il tuo core. Indi la fama,quindi Amore operò. Volli ad Ascaniocosì de la sua sposala fortezza, il candor, l’amor, la fedemostrar sugli occhi suoi. Scossi un momentoquel tuo bel core, e ne volar scintilledi celeste virtude a mille a mille.Ma voi soli feliciesser già non dovete.La stirpe degli dèi, più ch’al suo bene,pensa all’altrui.(ad Ascanio)Apprendi, o figlio, apprendi,quanto è beata sortefar beati i mortali. In questo pianotu l’edificio illustrestendi de la città. La gente d’Albasia famosa per te. De le mie leggitempra il soave freno:ministra il giusto, il popol mio proteggi.In avvenir due numiabbia invece d’un sol: te qui presente;me che, lontana ancora,qua col pensier ritornerò sovente.</stage>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Che bel piacer io sento</l>
+          <l>in sì beato dì!</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Numi! Che bel momento!</l>
+          <l>Come in sì bel contento</l>
+          <l>il mio timor finì!</l>
+        </sp>
+        <sp who="#ascanio, silvia, aceste">
+          <speaker>ASCANIO, SILVIA, ACESTE:</speaker>
+          <l>Più sacro nodo in terra,</l>
+          <l>più dolce amor non è.</l>
+          <l>Quanto, pietosa dèa,</l>
+          <l>quanto dobbiamo a te.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Ah chi nodi più forti</l>
+          <l>ha del mio core in questi amati lidi?</l>
+          <l>I figli, le consorti, il popol mio…</l>
+        </sp>
+        <sp who="#silvia">
+          <speaker>SILVIA:</speaker>
+          <l>Oh diva!</l>
+        </sp>
+        <sp who="#ascanio">
+          <speaker>ASCANIO:</speaker>
+          <l>Oh madre!</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Addio, miei figli, addio.</l>
+        </sp>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>Ferma, pietosa dèa, fermati. Almeno</l>
+          <l>lascia che rompa il freno</l>
+          <l>al cor riconoscente un popol fido.</l>
+          <l>Io son, pietosa dèa,</l>
+          <l>interprete di lui.</l>
+          <l>(accennando Ascanio e abbracciandolo rispettosamente)</l>
+          <l>Questo tuo pegno</l>
+          <l>fidalo pure a noi. Vieni; tu sei</l>
+          <l>nostro amor, nostro ben, nostro sostegno.</l>
+          <l>(a Venere, la quale sparisce, chiudendosi ed alzandosi le nuvole)</l>
+        </sp>
+        <stage>ACESTEFerma, pietosa dèa, fermati. Almenolascia che rompa il frenoal cor riconoscente un popol fido.Io son, pietosa dèa,interprete di lui.(accennando Ascanio e abbracciandolo rispettosamente)Questo tuo pegnofidalo pure a noi. Vieni; tu seinostro amor, nostro ben, nostro sostegno.(a Venere, la quale sparisce, chiudendosi ed alzandosi le nuvole)</stage>
+        <sp who="#aceste">
+          <speaker>ACESTE:</speaker>
+          <l>Adoreremo in lui</l>
+          <l>l’immagine di te: di te che spargi</l>
+          <l>sui felici mortali</l>
+          <l>puro amor, pura gioia; di te che leghi</l>
+          <l>con amorosi nodi</l>
+          <l>i popoli tra lor; che in sen d’amore</l>
+          <l>dai fomento alla pace e di questo orbe</l>
+          <l>stabilisci le sorti, e l’ampio mare</l>
+          <l>tranquillizzi e la terra. Ah nel tuo sangue,</l>
+          <l>d’eroi, di semidèi sempre fecondo,</l>
+          <l>si propaghi il tuo core:</l>
+          <l>e la stirpe d’Enea occupi il mondo.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Alma dèa tutto il mondo governa;</l>
+          <l>che felice la terra sarà.</l>
+          <l>La tua stirpe propaghisi eterna;</l>
+          <l>che felici saranno l’età.</l>
+          <l>Fine del libretto.</l>
+        </sp>
+        <stage>COROAlma dèa tutto il mondo governa;che felice la terra sarà.La tua stirpe propaghisi eterna;che felici saranno l’età.Fine del libretto.</stage>
+      </div>
+    </div>
+  </text>
+</TEI>

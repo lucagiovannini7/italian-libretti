@@ -1,0 +1,3176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">a gioconda</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="barnaba">
+            <persName>BARNABA:</persName>
+          </person>
+          <person xml:id="popolo">
+            <persName>POPOLO:</persName>
+          </person>
+          <person xml:id="mozzi">
+            <persName>MOZZI:</persName>
+          </person>
+          <person xml:id="enzo">
+            <persName>ENZO:</persName>
+          </person>
+          <person xml:id="folla">
+            <persName>FOLLA:</persName>
+          </person>
+          <person xml:id="zuàne e isèpo">
+            <persName>ZUÀNE E ISÈPO:</persName>
+          </person>
+          <person xml:id="marinai">
+            <persName>MARINAI:</persName>
+          </person>
+          <person xml:id="una voce sola">
+            <persName>UNA VOCE SOLA:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="marinai e popolo">
+            <persName>MARINAI E POPOLO:</persName>
+          </person>
+          <person xml:id="una voce">
+            <persName>UNA VOCE:</persName>
+          </person>
+          <person xml:id="coro e alvise">
+            <persName>CORO E ALVISE:</persName>
+          </person>
+          <person xml:id="ciurma">
+            <persName>CIURMA:</persName>
+          </person>
+          <person xml:id="altra voce">
+            <persName>ALTRA VOCE:</persName>
+          </person>
+          <person xml:id="pilota">
+            <persName>PILOTA:</persName>
+          </person>
+          <person xml:id="laura e enzo">
+            <persName>LAURA E ENZO:</persName>
+          </person>
+          <person xml:id="gioconda e cieca">
+            <persName>GIOCONDA E CIECA:</persName>
+          </person>
+          <person xml:id="isèpo, barnaba e zuàne">
+            <persName>ISÈPO, BARNABA E ZUÀNE:</persName>
+          </person>
+          <person xml:id="arsenalotti">
+            <persName>ARSENALOTTI:</persName>
+          </person>
+          <person xml:id="laura">
+            <persName>LAURA:</persName>
+          </person>
+          <person xml:id="3 arsenalotti">
+            <persName>3 ARSENALOTTI:</persName>
+          </person>
+          <person xml:id="zuàne">
+            <persName>ZUÀNE:</persName>
+          </person>
+          <person xml:id="cantore">
+            <persName>CANTORE:</persName>
+          </person>
+          <person xml:id="gioconda">
+            <persName>GIOCONDA:</persName>
+          </person>
+          <person xml:id="4 marinai">
+            <persName>4 MARINAI:</persName>
+          </person>
+          <person xml:id="isèpo">
+            <persName>ISÈPO:</persName>
+          </person>
+          <person xml:id="altri marinai">
+            <persName>ALTRI MARINAI:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="voci interne">
+            <persName>VOCI INTERNE:</persName>
+          </person>
+          <person xml:id="alvise">
+            <persName>ALVISE:</persName>
+          </person>
+          <person xml:id="un barnabotto">
+            <persName>UN BARNABOTTO:</persName>
+          </person>
+          <person xml:id="secondi marinai">
+            <persName>SECONDI MARINAI:</persName>
+          </person>
+          <person xml:id="cieca">
+            <persName>CIECA:</persName>
+          </person>
+          <person xml:id="uomini">
+            <persName>UOMINI:</persName>
+          </person>
+          <person xml:id="primi marinai">
+            <persName>PRIMI MARINAI:</persName>
+          </person>
+          <person xml:id="marinai e mozzi">
+            <persName>MARINAI E MOZZI:</persName>
+          </person>
+          <person xml:id="barnabotti">
+            <persName>BARNABOTTI:</persName>
+          </person>
+          <person xml:id="serenata interna">
+            <persName>SERENATA INTERNA:</persName>
+          </person>
+          <person xml:id="donne">
+            <persName>DONNE:</persName>
+          </person>
+          <person xml:id="voci">
+            <persName>VOCI:</persName>
+          </person>
+          <person xml:id="4 barnabotti">
+            <persName>4 BARNABOTTI:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>GIOCONDA</castItem>
+        <castItem>LAURA</castItem>
+        <castItem>ALVISE</castItem>
+        <castItem>CIECA</castItem>
+        <castItem>ENZO</castItem>
+        <castItem>BARNABA</castItem>
+        <castItem>ZUÀNE</castItem>
+        <castItem>CANTORE</castItem>
+        <castItem>ISÈPO</castItem>
+        <castItem>PILOTA</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>Atto primo</head>La bocca dei leoni.Il cortile del Palazzo Ducale parato a festa.Nel fondo la Scala dei Giganti e il Portico della Carta colla porta che adduce nell’interno della chiesa di San Marco. A sinistra lo scrittoio d’uno scrivano pubblico.Sopra una parete del cortile si vedrà una fra le storiche bocche dei leoni colla seguente scritta incisa sul marmo a caratteri neri:DENONTIE SECRETE PER VIAD’INQVISITIONE CONTRA CADAVNA PERSONA CON L’IMPVNITÀSECRETEZA ET BENEFITIIGIVSTO ALLE LEGI.È uno splendido meriggio di primavera.La scena è ingombra di Popolo festante.Barnabotti, Arsenalotti, Marinai, Maschere d’ogni sorta, Arlecchini, Pantaloni, Bautte, e in mezzo a questa turba vivace alcuni Dàlmati ed alcuni Mori.Barnaba, addossato ad una colonna, sta osservando il popolo; ha una piccola chitarra ad armacollo.Scena primaMarinai, Popolo e Barnaba.[Coro d’introduzione]<div type="scene">
+          <head>Atto primo</head>La bocca dei leoni.Il cortile del Palazzo Ducale parato a festa.Nel fondo la Scala dei Giganti e il Portico della Carta colla porta che adduce nell’interno della chiesa di San Marco. A sinistra lo scrittoio d’uno scrivano pubblico.Sopra una parete del cortile si vedrà una fra le storiche bocche dei leoni colla seguente scritta incisa sul marmo a caratteri neri:DENONTIE SECRETE PER VIAD’INQVISITIONE CONTRA CADAVNA PERSONA CON L’IMPVNITÀSECRETEZA ET BENEFITIIGIVSTO ALLE LEGI.È uno splendido meriggio di primavera.La scena è ingombra di Popolo festante.Barnabotti, Arsenalotti, Marinai, Maschere d’ogni sorta, Arlecchini, Pantaloni, Bautte, e in mezzo a questa turba vivace alcuni Dàlmati ed alcuni Mori.Barnaba, addossato ad una colonna, sta osservando il popolo; ha una piccola chitarra ad armacollo.Scena primaMarinai, Popolo e Barnaba.[Coro d’introduzione] <stage>Atto primoLa bocca dei leoni.Il cortile del Palazzo Ducale parato a festa.Nel fondo la Scala dei Giganti e il Portico della Carta colla porta che adduce nell’interno della chiesa di San Marco. A sinistra lo scrittoio d’uno scrivano pubblico.Sopra una parete del cortile si vedrà una fra le storiche bocche dei leoni colla seguente scritta incisa sul marmo a caratteri neri:DENONTIE SECRETE PER VIAD’INQVISITIONE CONTRA CADAVNA PERSONA CON L’IMPVNITÀSECRETEZA ET BENEFITIIGIVSTO ALLE LEGI.È uno splendido meriggio di primavera.La scena è ingombra di Popolo festante.Barnabotti, Arsenalotti, Marinai, Maschere d’ogni sorta, Arlecchini, Pantaloni, Bautte, e in mezzo a questa turba vivace alcuni Dàlmati ed alcuni Mori.Barnaba, addossato ad una colonna, sta osservando il popolo; ha una piccola chitarra ad armacollo.Scena primaMarinai, Popolo e Barnaba.[Coro d’introduzione]</stage>
+          <sp who="#marinai e popolo">
+            <speaker>MARINAI E POPOLO:</speaker>
+            <l>Feste e pane! la repubblica</l>
+            <l>domerà le schiatte umane</l>
+            <l>finché avran le ciurme e i popoli</l>
+            <l>feste e pane.</l>
+            <l>L’allegria disarma i fulmini</l>
+            <l>ed infrange le ritorte.</l>
+            <l>Noi cantiam! chi canta è libero;</l>
+            <l>noi ridiam! chi ride è forte.</l>
+            <l>Quel sereno iddio lo vuol,</l>
+            <l>che allegrò questa laguna</l>
+            <l>coll’argento della luna</l>
+            <l>e la porpora del sol.</l>
+            <l>(campane a distesa, squilli di tromba)</l>
+            <l>Feste e pane! a gioia suonano</l>
+            <l>di San Marco le campane.</l>
+            <l>Viva il doge e la repubblica!</l>
+            <l>Feste e pane!</l>
+          </sp>
+          <stage>MARINAI E POPOLOFeste e pane! la repubblicadomerà le schiatte umanefinché avran le ciurme e i popolifeste e pane.L’allegria disarma i fulminied infrange le ritorte.Noi cantiam! chi canta è libero;noi ridiam! chi ride è forte.Quel sereno iddio lo vuol,che allegrò questa lagunacoll’argento della lunae la porpora del sol.(campane a distesa, squilli di tromba)Feste e pane! a gioia suonanodi San Marco le campane.Viva il doge e la repubblica!Feste e pane!</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(si muove dal posto; dominando il frastuono festosamente)</l>
+            <l>Compari! già le trombe</l>
+            <l>v’annuncian la regata.</l>
+          </sp>
+          <stage>BARNABA(si muove dal posto; dominando il frastuono festosamente)Compari! già le trombev’annuncian la regata.</stage>
+          <sp who="#marinai">
+            <speaker>MARINAI:</speaker>
+            <l>(correndo a destra verso la riva degli Schiavoni)</l>
+            <l>Alla regata!</l>
+          </sp>
+          <stage>MARINAI(correndo a destra verso la riva degli Schiavoni)Alla regata!</stage>
+        </div>
+        <div type="scene">
+          <head>POPOLO</head>Alla regata!(il popolo esce dal cortile; il tumulto si allontana)Scena secondaBarnaba solo.[Scena e Terzettino]<sp who="#popolo">
+            <speaker>POPOLO:</speaker>
+            <l>Alla regata!</l>
+            <l>(il popolo esce dal cortile; il tumulto si allontana)</l>
+            <l>Scena seconda</l>
+            <l>Barnaba solo.</l>
+            <l>[Scena e Terzettino]</l>
+          </sp>
+          <stage>POPOLOAlla regata!(il popolo esce dal cortile; il tumulto si allontana)Scena secondaBarnaba solo.[Scena e Terzettino]</stage>
+        </div>
+        <div type="scene">
+          <head>(accennando gli spiragli delle prigioni sotterranee)</head>E danzan su lor tombe!E la morte li guata!(cupamente)E mentre s’erge il ceppo o la cuccagna,fra due colonne tesse la sua ragnaBarnaba, il cantastorie; e le sue file(guarda e tocca la sua chitarra)sono le corde di questo apparecchio.Con lavorìo sottilee di mano e d’orecchiocolgo i tafàni al voloper conto dello stato. E mai non fallal’udito mio. Coglier potessi soloper le mie brame e tostouna certa vaghissima farfalla!…Scena terzaLa Gioconda co’ la Cieca, entrando da destra, e detto.La vecchia ha il volto coperto fin sotto gli occhi da un povero zendàdo. <stage>(accennando gli spiragli delle prigioni sotterranee)E danzan su lor tombe!E la morte li guata!(cupamente)E mentre s’erge il ceppo o la cuccagna,fra due colonne tesse la sua ragnaBarnaba, il cantastorie; e le sue file(guarda e tocca la sua chitarra)sono le corde di questo apparecchio.Con lavorìo sottilee di mano e d’orecchiocolgo i tafàni al voloper conto dello stato. E mai non fallal’udito mio. Coglier potessi soloper le mie brame e tostouna certa vaghissima farfalla!…Scena terzaLa Gioconda co’ la Cieca, entrando da destra, e detto.La vecchia ha il volto coperto fin sotto gli occhi da un povero zendàdo.</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(conducendo per mano la madre e avviandosi alla chiesa lentamente)</l>
+            <l>Madre adorata. Vieni.</l>
+          </sp>
+          <stage>GIOCONDA(conducendo per mano la madre e avviandosi alla chiesa lentamente)Madre adorata. Vieni.</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(scorge la Gioconda e si ritrae accanto alla colonna)</l>
+            <l>(Eccola! Al posto.)</l>
+          </sp>
+          <stage>BARNABA(scorge la Gioconda e si ritrae accanto alla colonna)(Eccola! Al posto.)</stage>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>Figlia che reggi il tremulo</l>
+            <l>piè che all’avel già piega,</l>
+            <l>beata è questa tenebra</l>
+            <l>che alla tua man mi lega.</l>
+            <l>Tu canti agli uomini</l>
+            <l>le tue canzoni,</l>
+            <l>io canto agli angeli</l>
+            <l>le mie orazioni,</l>
+            <l>benedicendo</l>
+            <l>l’ora e il destin,</l>
+            <l>e sorridendo</l>
+            <l>sul mio cammin.</l>
+            <l>«Io per la tua bell’anima</l>
+            <l>prego chinata al suol.</l>
+            <l>E tu per me coi vividi</l>
+            <l>sguardi contempli il sol.»</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Vien! per securo tramite</l>
+            <l>da me tu sei guidata…</l>
+            <l>vien! ricomincia il placido</l>
+            <l>corso la tua giornata.</l>
+            <l>Tu canti agli angeli</l>
+            <l>le tue orazioni,</l>
+            <l>io canto agli uomini</l>
+            <l>le mie canzoni,</l>
+            <l>benedicendo</l>
+            <l>l’ora e il destin,</l>
+            <l>e sorridendo</l>
+            <l>sul mio cammin.</l>
+            <l>«Ed io pe ‘l tuo dimane</l>
+            <l>a te guadagno il pane;</l>
+            <l>tu col pregar fedel</l>
+            <l>a me guadagna il ciel.»</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(in disparte)</l>
+            <l>(Sovr’essa stendere</l>
+            <l>la man grifagna!</l>
+            <l>amarla e coglierla</l>
+            <l>nella mia ragna!</l>
+            <l>Terribil estasi</l>
+            <l>dell’alma mia!</l>
+            <l>sta’ in guardia! l’agile</l>
+            <l>farfalla spia!)</l>
+            <l>[Recitativo, Coro della regata e Sommossa – Romanza]</l>
+          </sp>
+          <stage>BARNABA(in disparte)(Sovr’essa stenderela man grifagna!amarla e coglierlanella mia ragna!Terribil estasidell’alma mia!sta’ in guardia! l’agilefarfalla spia!)[Recitativo, Coro della regata e Sommossa – Romanza]</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>L’ora non giunse ancor del vespro santo;</l>
+            <l>qui ti riposa appiè del tempio, intanto</l>
+            <l>io vado a rintracciar l’angelo mio.</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(Derisïon!)</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Torno con Enzo.</l>
+          </sp>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>Iddio</l>
+            <l>ti benedica.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Taciturna ed erma</l>
+            <l>pace qui spira.</l>
+          </sp>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>(estrae da tasca un rosario)</l>
+            <l>Addio, figliuola.</l>
+            <l>(sbucando e sbarrando la via a Gioconda, che fa per escire da destra)</l>
+          </sp>
+          <stage>CIECA(estrae da tasca un rosario)Addio, figliuola.(sbucando e sbarrando la via a Gioconda, che fa per escire da destra)</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Ferma.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(fa per uscire da destra)</l>
+            <l>Che?</l>
+          </sp>
+          <stage>GIOCONDA(fa per uscire da destra)Che?</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Un uom che t’ama, e che la via ti sbarra.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Al diavol vanne colla tua chitarra!</l>
+            <l>(vivacemente)</l>
+            <l>Già l’altra volta te ‘l dissi: funesta</l>
+            <l>m’è la tua faccia da mistero.</l>
+            <l>(per andarsene)</l>
+          </sp>
+          <stage>GIOCONDAAl diavol vanne colla tua chitarra!(vivacemente)Già l’altra volta te ‘l dissi: funestam’è la tua faccia da mistero.(per andarsene)</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(trattenendola e ironicamente)</l>
+            <l>Resta.</l>
+            <l>Enzo attender potrà.</l>
+          </sp>
+          <stage>BARNABA(trattenendola e ironicamente)Resta.Enzo attender potrà.</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Va’, ti disprezzo.</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(incalzando)</l>
+            <l>Ancor m’ascolterai.</l>
+          </sp>
+          <stage>BARNABA(incalzando)Ancor m’ascolterai.</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Mi fai ribrezzo!</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Resta… t’adoro, o vaga creatura.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Vanne!</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(slanciandosi su essa)</l>
+            <l>Non fuggirai!</l>
+          </sp>
+          <stage>BARNABA(slanciandosi su essa)Non fuggirai!</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Mi fai paura!</l>
+            <l>(con un grido fugge)</l>
+            <l>Ah!!…</l>
+          </sp>
+          <stage>GIOCONDAMi fai paura!(con un grido fugge)Ah!!…</stage>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>(alzandosi spaventata)</l>
+            <l>Qual grido! mia figlia! Aita! Aita!</l>
+            <l>La voce sua!</l>
+          </sp>
+          <stage>CIECA(alzandosi spaventata)Qual grido! mia figlia! Aita! Aita!La voce sua!</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(La farfalla è sparita…)</l>
+          </sp>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>(barcollando)</l>
+            <l>Figliuola! o raggio della mia pupilla,</l>
+            <l>dove sei?… dove sei?…</l>
+          </sp>
+          <stage>CIECA(barcollando)Figliuola! o raggio della mia pupilla,dove sei?… dove sei?…</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(ridendo)</l>
+            <l>(La Cieca strilla;</l>
+            <l>lasciamola strillar.)</l>
+          </sp>
+          <stage>BARNABA(ridendo)(La Cieca strilla;lasciamola strillar.)</stage>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>(lentamente e protendendo le palme, ritorna a sedersi sui gradini)</l>
+            <l>Tenèbre orrende!</l>
+          </sp>
+          <stage>CIECA(lentamente e protendendo le palme, ritorna a sedersi sui gradini)Tenèbre orrende!</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(osservando la Cieca)</l>
+            <l>(Pur quella larva che la man protende,</l>
+            <l>potrebbe agevolar la mèta mia…</l>
+            <l>Se la madre è in mia man…)</l>
+          </sp>
+          <stage>BARNABA(osservando la Cieca)(Pur quella larva che la man protende,potrebbe agevolar la mèta mia…Se la madre è in mia man…)</stage>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>(rigirando con fervore le ave marie del suo rosario)</l>
+            <l>«Ave Maria…»</l>
+          </sp>
+          <stage>CIECA(rigirando con fervore le ave marie del suo rosario)«Ave Maria…»</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(sempre meditando)</l>
+            <l>(…tengo il cor della figlia incatenato…)</l>
+          </sp>
+          <stage>BARNABA(sempre meditando)(…tengo il cor della figlia incatenato…)</stage>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>«Ave Maria…»</l>
+          </sp>
+          <stage>CIECA«Ave Maria…»</stage>
+        </div>
+        <div type="scene">
+          <head>BARNABA</head>(…con laccio inesorato.L’angiol m’aiuti dell’amor maternoe la Gioconda è mia! Giuro all’Averno!)Scena quartaBarnaba, la Cieca, Isèpo, Zuàne. Indi sei Sgherri. La Gioconda, Enzo, più tardi Laura, Alvise.Il Popolo porta in trionfo il Vincitore della Regata, il quale tien alto il pallio verde (la bandiera del premio). – Donne, Marinai, Fanciulli con fiori e ghirlande, Zuàne triste in disparte.<sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(…con laccio inesorato.</l>
+            <l>L’angiol m’aiuti dell’amor materno</l>
+            <l>e la Gioconda è mia! Giuro all’Averno!)</l>
+            <l>Scena quarta</l>
+            <l>Barnaba, la Cieca, Isèpo, Zuàne. Indi sei Sgherri. La Gioconda, Enzo, più tardi Laura, Alvise.</l>
+            <l>Il Popolo porta in trionfo il Vincitore della Regata, il quale tien alto il pallio verde (la bandiera del premio). – Donne, Marinai, Fanciulli con fiori e ghirlande, Zuàne triste in disparte.</l>
+          </sp>
+          <stage>BARNABA(…con laccio inesorato.L’angiol m’aiuti dell’amor maternoe la Gioconda è mia! Giuro all’Averno!)Scena quartaBarnaba, la Cieca, Isèpo, Zuàne. Indi sei Sgherri. La Gioconda, Enzo, più tardi Laura, Alvise.Il Popolo porta in trionfo il Vincitore della Regata, il quale tien alto il pallio verde (la bandiera del premio). – Donne, Marinai, Fanciulli con fiori e ghirlande, Zuàne triste in disparte.</stage>
+          <sp who="#arsenalotti">
+            <speaker>ARSENALOTTI:</speaker>
+            <l>(al vincitore)</l>
+            <l>Polso di cerro!</l>
+          </sp>
+          <stage>ARSENALOTTI(al vincitore)Polso di cerro!</stage>
+          <sp who="#barnabotti">
+            <speaker>BARNABOTTI:</speaker>
+            <l>Occhio di lince!</l>
+          </sp>
+          <sp who="#arsenalotti">
+            <speaker>ARSENALOTTI:</speaker>
+            <l>(al vincitore)</l>
+            <l>Remo di ferro!</l>
+          </sp>
+          <stage>ARSENALOTTI(al vincitore)Remo di ferro!</stage>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>Gagliardo cor!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(al vincitore)</l>
+            <l>Gloria a chi vince</l>
+            <l>il pallio verde!</l>
+          </sp>
+          <stage>TUTTI(al vincitore)Gloria a chi vinceil pallio verde!</stage>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>(guardando Zuàne)</l>
+            <l>Beffe a chi perde!</l>
+          </sp>
+          <stage>DONNE(guardando Zuàne)Beffe a chi perde!</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Lieta brigata,</l>
+            <l>per lieto calle</l>
+            <l>portiamo a spalle</l>
+            <l>il vincitor</l>
+            <l>della regata</l>
+            <l>fra canti e fior.</l>
+            <l>Gli sguardi avvince,</l>
+            <l>i flutti ei sperde!</l>
+            <l>Gloria a chi vince!</l>
+            <l>Beffe a chi perde!</l>
+            <l>Quasi tutti affluiscono verso la Scala dei Giganti, ove depongono il trionfatore.</l>
+          </sp>
+          <stage>TUTTILieta brigata,per lieto calleportiamo a spalleil vincitordella regatafra canti e fior.Gli sguardi avvince,i flutti ei sperde!Gloria a chi vince!Beffe a chi perde!Quasi tutti affluiscono verso la Scala dei Giganti, ove depongono il trionfatore.</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(che già da qualche tempo avrà osservato Zuàne, lo arresta)</l>
+            <l>(Questi è l’uomo ch’io cerco. Non m’inganno.)</l>
+            <l>Padron Zuàne, hai faccia da malanno.</l>
+            <l>Si direbbe davver che alla regata</l>
+            <l>non hai fatto bandiera.</l>
+          </sp>
+          <stage>BARNABA(che già da qualche tempo avrà osservato Zuàne, lo arresta)(Questi è l’uomo ch’io cerco. Non m’inganno.)Padron Zuàne, hai faccia da malanno.Si direbbe davver che alla regatanon hai fatto bandiera.</stage>
+          <sp who="#zuàne">
+            <speaker>ZUÀNE:</speaker>
+            <l>T’inforchi satanasso!</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(con mistero)</l>
+            <l>E se la vera</l>
+            <l>cagion io ti dicessi del tuo danno?</l>
+          </sp>
+          <stage>BARNABA(con mistero)E se la veracagion io ti dicessi del tuo danno?</stage>
+          <sp who="#zuàne">
+            <speaker>ZUÀNE:</speaker>
+            <l>Lo so, la prora ho greve ed arrembata.</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Baie!</l>
+          </sp>
+          <sp who="#zuàne">
+            <speaker>ZUÀNE:</speaker>
+            <l>E che dunque?</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(con mistero)</l>
+            <l>T’avvicina. O lasso!</l>
+            <l>(sottovoce)</l>
+            <l>Hai la barca stregata.</l>
+          </sp>
+          <stage>BARNABA(con mistero)T’avvicina. O lasso!(sottovoce)Hai la barca stregata.</stage>
+          <sp who="#zuàne">
+            <speaker>ZUÀNE:</speaker>
+            <l>(inorridito)</l>
+            <l>(Vergine santa!)</l>
+          </sp>
+          <stage>ZUÀNE(inorridito)(Vergine santa!)</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Una malìa bïeca</l>
+            <l>sta sul tuo capo. Osserva quella cieca…</l>
+            <l>Coro (accanto alla Scala dei Giganti)</l>
+          </sp>
+          <stage>BARNABAUna malìa bïecasta sul tuo capo. Osserva quella cieca…Coro (accanto alla Scala dei Giganti)</stage>
+          <sp who="#arsenalotti">
+            <speaker>ARSENALOTTI:</speaker>
+            <l>Gioia e bambàra!</l>
+            <l>Corse e cuccagne!</l>
+          </sp>
+          <sp who="#barnabotti">
+            <speaker>BARNABOTTI:</speaker>
+            <l>Giuochiamo a zara</l>
+            <l>le nostre borse!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Tentiam la mobile</l>
+            <l>fortuna a gara!</l>
+            <l>Giuochiamo a zara!</l>
+            <l>(alcuni estraggono dei dadi, molti si siedono sui gradini e intavolano un giuoco di zara)</l>
+          </sp>
+          <stage>TUTTITentiam la mobilefortuna a gara!Giuochiamo a zara!(alcuni estraggono dei dadi, molti si siedono sui gradini e intavolano un giuoco di zara)</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(continuando e sempre facendo fissare la Cieca a Zuàne)</l>
+            <l>La vidi stamane gittar sul tuo legno</l>
+            <l>un segno maliardo, un magico segno.</l>
+          </sp>
+          <stage>BARNABA(continuando e sempre facendo fissare la Cieca a Zuàne)La vidi stamane gittar sul tuo legnoun segno maliardo, un magico segno.</stage>
+          <sp who="#zuàne">
+            <speaker>ZUÀNE:</speaker>
+            <l>(Orror!)</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(con mistero)</l>
+            <l>La tua barca sarà la tua bara.</l>
+            <l>Sta’ in guardia, fratello!</l>
+          </sp>
+          <stage>BARNABA(con mistero)La tua barca sarà la tua bara.Sta’ in guardia, fratello!</stage>
+          <sp who="#arsenalotti">
+            <speaker>ARSENALOTTI:</speaker>
+            <l>Sei!</l>
+          </sp>
+          <sp who="#barnabotti">
+            <speaker>BARNABOTTI:</speaker>
+            <l>Cinque!</l>
+          </sp>
+          <sp who="#arsenalotti">
+            <speaker>ARSENALOTTI:</speaker>
+            <l>Tre!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Zara!</l>
+          </sp>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>(pregando)</l>
+            <l>Turris eburnea…</l>
+            <l>mistica rosa…</l>
+          </sp>
+          <stage>CIECA(pregando)Turris eburnea…mistica rosa…</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(a Zuàne)</l>
+            <l>La vidi tre volte scagliar su’ tuoi remi</l>
+            <l>parole tremende, lugùbri anatèmi.</l>
+          </sp>
+          <stage>BARNABA(a Zuàne)La vidi tre volte scagliar su’ tuoi remiparole tremende, lugùbri anatèmi.</stage>
+          <sp who="#zuàne e isèpo">
+            <speaker>ZUÀNE E ISÈPO:</speaker>
+            <l>(Isèpo sarà mosso verso Barnaba e ascolterà curioso)</l>
+            <l>Gran dio!</l>
+          </sp>
+          <stage>ZUÀNE E ISÈPO(Isèpo sarà mosso verso Barnaba e ascolterà curioso)Gran dio!</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>La tua barca sarà la tua bara.</l>
+            <l>Sta’ in guardia, fratello!</l>
+          </sp>
+          <sp who="#arsenalotti">
+            <speaker>ARSENALOTTI:</speaker>
+            <l>Sette!</l>
+          </sp>
+          <sp who="#barnabotti">
+            <speaker>BARNABOTTI:</speaker>
+            <l>Otto!</l>
+          </sp>
+          <sp who="#arsenalotti">
+            <speaker>ARSENALOTTI:</speaker>
+            <l>Tre!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Zara!</l>
+          </sp>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>(pregando)</l>
+            <l>Turris davidica…</l>
+            <l>mater gloriosa…</l>
+          </sp>
+          <stage>CIECA(pregando)Turris davidica…mater gloriosa…</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(a Zuàne e Isèpo con mistero)</l>
+            <l>Suo covo è un tugurio laggiù alla Giudeca,</l>
+            <l>tien sempre quell’orrido zendàdo, ed è cieca…</l>
+            <l>Ha vuote le occhiaie, eppure (chi il crede?!)</l>
+            <l>la Cieca ci guarda! la Cieca ci vede!</l>
+          </sp>
+          <stage>BARNABA(a Zuàne e Isèpo con mistero)Suo covo è un tugurio laggiù alla Giudeca,tien sempre quell’orrido zendàdo, ed è cieca…Ha vuote le occhiaie, eppure (chi il crede?!)la Cieca ci guarda! la Cieca ci vede!</stage>
+          <sp who="#4 marinai">
+            <speaker>4 MARINAI:</speaker>
+            <l>(che si saranno aggiunti al gruppo)</l>
+            <l>Ci vede!</l>
+          </sp>
+          <stage>4 MARINAI(che si saranno aggiunti al gruppo)Ci vede!</stage>
+          <sp who="#isèpo">
+            <speaker>ISÈPO:</speaker>
+            <l>Oh spavento!</l>
+          </sp>
+          <sp who="#3 arsenalotti">
+            <speaker>3 ARSENALOTTI:</speaker>
+            <l>(aggiunti anch’essi al gruppo)</l>
+            <l>Che avvenne?</l>
+          </sp>
+          <stage>3 ARSENALOTTI(aggiunti anch’essi al gruppo)Che avvenne?</stage>
+          <sp who="#zuàne">
+            <speaker>ZUÀNE:</speaker>
+            <l>Oh maliarda!</l>
+          </sp>
+          <sp who="#4 barnabotti">
+            <speaker>4 BARNABOTTI:</speaker>
+            <l>Che avvenne? che mormori?…</l>
+          </sp>
+          <sp who="#isèpo, barnaba e zuàne">
+            <speaker>ISÈPO, BARNABA E ZUÀNE:</speaker>
+            <l>La Cieca ci guarda!</l>
+            <l>(il gruppo si fa sempre più numeroso)</l>
+          </sp>
+          <stage>ISÈPO, BARNABA E ZUÀNELa Cieca ci guarda!(il gruppo si fa sempre più numeroso)</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Addosso! accoppiamola!</l>
+          </sp>
+          <sp who="#zuàne">
+            <speaker>ZUÀNE:</speaker>
+            <l>Coraggio!</l>
+            <l>(per avventarsi alla Cieca, poi retrocede)</l>
+            <l>Ho paura…</l>
+          </sp>
+          <stage>ZUÀNECoraggio!(per avventarsi alla Cieca, poi retrocede)Ho paura…</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Badate, può cogliervi la sua iettatura.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Al rogo l’eretica!</l>
+          </sp>
+          <sp who="#zuàne">
+            <speaker>ZUÀNE:</speaker>
+            <l>Davver, più l’adocchio,</l>
+            <l>più i rai le balenano.</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(scherzando)</l>
+            <l>La Cieca ha il mal occhio!</l>
+          </sp>
+          <stage>BARNABA(scherzando)La Cieca ha il mal occhio!</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Ah! ah! qual facezia!</l>
+            <l>(Isèpo si sarà avvicinato pianamente alla Cieca, che gira sempre il rosario)</l>
+          </sp>
+          <stage>COROAh! ah! qual facezia!(Isèpo si sarà avvicinato pianamente alla Cieca, che gira sempre il rosario)</stage>
+          <sp who="#zuàne">
+            <speaker>ZUÀNE:</speaker>
+            <l>(ad Isèpo)</l>
+            <l>Che brontola?</l>
+          </sp>
+          <stage>ZUÀNE(ad Isèpo)Che brontola?</stage>
+          <sp who="#isèpo">
+            <speaker>ISÈPO:</speaker>
+            <l>Prega.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Iº</l>
+            <l>Addosso alla strega!</l>
+            <l>IIº</l>
+            <l>(si scagliano sulla Cieca)</l>
+            <l>Addosso!</l>
+          </sp>
+          <stage>COROIºAddosso alla strega!IIº(si scagliano sulla Cieca)Addosso!</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(Già l’aure s’annuvolano</l>
+            <l>già i nembi si accumulano.</l>
+            <l>Ah! ah! gregge umana!</l>
+            <l>Scagliato ho il mio ciottolo,</l>
+            <l>or fuggo la frana.)</l>
+          </sp>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>Aiuto!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Mandràgora!</l>
+          </sp>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>Ah! chi mi trascina!</l>
+            <l>Son cieca!</l>
+          </sp>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>Vediamola salir la berlina!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Ai piombi!</l>
+          </sp>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>Soccorso! Soccorso!</l>
+          </sp>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>Ai marrani!</l>
+          </sp>
+          <sp who="#uomini">
+            <speaker>UOMINI:</speaker>
+            <l>Ai pozzi!</l>
+          </sp>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>Fra Tódero e Marco!</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(a una pattuglia di sgherri in disparte)</l>
+            <l>Sgherrani,</l>
+            <l>sia tratta nel carcere.</l>
+          </sp>
+          <stage>BARNABA(a una pattuglia di sgherri in disparte)Sgherrani,sia tratta nel carcere.</stage>
+          <sp who="#uomini">
+            <speaker>UOMINI:</speaker>
+            <l>Al rogo!</l>
+          </sp>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>Alla pira!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Ah! ah!</l>
+          </sp>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>Santa vergine!</l>
+          </sp>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>Martìra!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Martìra!</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(Ho in man la mia vittima, ho in man due destini.)</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>A morte la strega!</l>
+            <l>(rientrando e slanciandosi)</l>
+          </sp>
+          <stage>TUTTIA morte la strega!(rientrando e slanciandosi)</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Mia madre!</l>
+            <l>(vestito da marinaio dàlmata; rompendo la folla)</l>
+          </sp>
+          <stage>GIOCONDAMia madre!(vestito da marinaio dàlmata; rompendo la folla)</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Assassini!!</l>
+            <l>Assassini! Quel crin venerando</l>
+            <l>rispettate! o ch’io snudo il mio brando.</l>
+            <l>Contro un’egra reietta dal sole</l>
+            <l>generosa è la vostra tenzon!</l>
+            <l>Vituperio! è cresciuta una prole</l>
+            <l>di codardi all’alato leon!</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Iddio vuol ciò che il popolo vuole;</l>
+            <l>no, la strega non merta perdon!</l>
+          </sp>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>Ah! su me si scatena l’Averno!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Niun mi tolga all’amplesso materno!</l>
+          </sp>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>Figlia!…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>A morte!</l>
+            <l>(con impeto fa per togliere i ceppi alla Cieca, ma è impedito dal popolo)</l>
+          </sp>
+          <stage>COROA morte!(con impeto fa per togliere i ceppi alla Cieca, ma è impedito dal popolo)</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Quel ceppo la strazia.</l>
+            <l>Sciolta sia.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>La vogliam giudicare.</l>
+            <l>Spenta sia!</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(correndo all’ingresso della riva furiosamente ed esce)</l>
+            <l>Su, fratelli del mare!</l>
+            <l>Alla lotta!</l>
+          </sp>
+          <stage>ENZO(correndo all’ingresso della riva furiosamente ed esce)Su, fratelli del mare!Alla lotta!</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Al patibolo!</l>
+            <l>(intanto sull’alto della scala saranno apparsi Alvise e Laura, che avranno assistito al tumulto)</l>
+            <l>(dall’alto della scala, scendendo; il lembo della sua veste sarà sostenuto da due paggi; ha una maschera di velluto nero sul volto)</l>
+          </sp>
+          <stage>COROAl patibolo!(intanto sull’alto della scala saranno apparsi Alvise e Laura, che avranno assistito al tumulto)(dall’alto della scala, scendendo; il lembo della sua veste sarà sostenuto da due paggi; ha una maschera di velluto nero sul volto)</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Grazia!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head></head>Scena quintaLa Cieca, Gioconda, Alvise, Laura, Barnaba, Coro, poi Enzo. <stage>Scena quintaLa Cieca, Gioconda, Alvise, Laura, Barnaba, Coro, poi Enzo.</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>(alteramente e con gravità)</l>
+            <l>Ribellion! che? la plebe or qui si arroga</l>
+            <l>fra le ducali mure</l>
+            <l>i dritti della toga</l>
+            <l>e della scure?</l>
+            <l>(movimento di rispetto nella folla)</l>
+            <l>Parla, o captiva!</l>
+            <l>perché stai china là fra quelle squadre?</l>
+          </sp>
+          <stage>ALVISE(alteramente e con gravità)Ribellion! che? la plebe or qui si arrogafra le ducali murei dritti della togae della scure?(movimento di rispetto nella folla)Parla, o captiva!perché stai china là fra quelle squadre?</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>È una strega!…</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>È mia madre!</l>
+            <l>(la Cieca alza la testa)</l>
+          </sp>
+          <stage>GIOCONDAÈ mia madre!(la Cieca alza la testa)</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>È cieca! o mio signor! fa’ ch’essa viva!</l>
+          </sp>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>(freddamente a Barnaba)</l>
+            <l>Barnaba! è rea costei?</l>
+          </sp>
+          <stage>ALVISE(freddamente a Barnaba)Barnaba! è rea costei?</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(assai sottovoce all’orecchio d’Alvise)</l>
+            <l>Di malefizio.</l>
+          </sp>
+          <stage>BARNABA(assai sottovoce all’orecchio d’Alvise)Di malefizio.</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(a Barnaba)</l>
+            <l>T’ho udito!… menti!</l>
+          </sp>
+          <stage>GIOCONDA(a Barnaba)T’ho udito!… menti!</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>Sia tratta in giudizio.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(gettandosi ai piedi di Alvise)</l>
+            <l>Pietà… ch’io parli attendete… ora infrango</l>
+            <l>il gel che impietrava… e sgorga l’onda</l>
+            <l>del cor… Costei della mia infanzia bionda</l>
+            <l>l’angelo fu… Sempre ho sorriso… or piango.</l>
+            <l>Mi chiaman… la Gioconda.</l>
+            <l>Viviam cantando ed io</l>
+            <l>canto a chi vuol le mie liete canzoni,</l>
+            <l>ed essa canta a dio</l>
+            <l>le sue sante orazioni…</l>
+            <l>(ritornato, seguìto dai marinai dàlmati)</l>
+          </sp>
+          <stage>GIOCONDA(gettandosi ai piedi di Alvise)Pietà… ch’io parli attendete… ora infrangoil gel che impietrava… e sgorga l’ondadel cor… Costei della mia infanzia biondal’angelo fu… Sempre ho sorriso… or piango.Mi chiaman… la Gioconda.Viviam cantando ed iocanto a chi vuol le mie liete canzoni,ed essa canta a diole sue sante orazioni…(ritornato, seguìto dai marinai dàlmati)</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Salviamo l’innocente.</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>(scorgendo Enzo)</l>
+            <l>(Qual volto!)</l>
+          </sp>
+          <stage>LAURA(scorgendo Enzo)(Qual volto!)</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(alzandosi e trattenendo Enzo)</l>
+            <l>Ah no! ti ferma! Quel possente</l>
+            <l>la salverà!</l>
+          </sp>
+          <stage>GIOCONDA(alzandosi e trattenendo Enzo)Ah no! ti ferma! Quel possentela salverà!</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(osservando Laura, poi Enzo)</l>
+            <l>(Come lo guarda fiso!)</l>
+          </sp>
+          <stage>BARNABA(osservando Laura, poi Enzo)(Come lo guarda fiso!)</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>(ad Alvise in disparte)</l>
+            <l>Concedi, o mio signor, se non ti duole,</l>
+            <l>ch’io mi levi la maschera dal viso.</l>
+          </sp>
+          <stage>LAURA(ad Alvise in disparte)Concedi, o mio signor, se non ti duole,ch’io mi levi la maschera dal viso.</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>No, madonna, nemmen l’occhio del sole</l>
+            <l>non dée mirarti.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(ad Alvise)</l>
+            <l>Dalle tue parole</l>
+            <l>la vita attendo.</l>
+          </sp>
+          <stage>GIOCONDA(ad Alvise)Dalle tue parolela vita attendo.</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(ad Alvise nell’orecchio sottovoce)</l>
+            <l>È una strega, il nefario</l>
+            <l>suo silenzio te ‘l dica.</l>
+          </sp>
+          <stage>BARNABA(ad Alvise nell’orecchio sottovoce)È una strega, il nefariosuo silenzio te ‘l dica.</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>(ad Alvise)</l>
+            <l>Essa ha un rosario!</l>
+            <l>No, l’inferno non è con quella pia.</l>
+          </sp>
+          <stage>LAURA(ad Alvise)Essa ha un rosario!No, l’inferno non è con quella pia.</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(fissando Laura)</l>
+            <l>(Qual voce!)</l>
+          </sp>
+          <stage>ENZO(fissando Laura)(Qual voce!)</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Muoia!</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>(ad Alvise, supplichevole)</l>
+            <l>La salva!!</l>
+          </sp>
+          <stage>LAURA(ad Alvise, supplichevole)La salva!!</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>E salva sia.</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(Furore!)</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Oh gioia!!</l>
+            <l>(liberata da Laura che l’allontana dagli sgherri)</l>
+          </sp>
+          <stage>GIOCONDAOh gioia!!(liberata da Laura che l’allontana dagli sgherri)</stage>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>Voce di donna o d’angelo</l>
+            <l>le mie catene ha sciolto;</l>
+            <l>mi vietan le mie tenebre</l>
+            <l>di quella santa il volto,</l>
+            <l>pure da me non pàrtasi</l>
+            <l>senza un pietoso don!</l>
+            <l>(si toglie il rosario dalla cintola)</l>
+            <l>A te questo rosario</l>
+            <l>che le preghiere aduna.</l>
+            <l>Io te lo porgo, accettalo,</l>
+            <l>ti porterà fortuna;</l>
+            <l>sulla tua testa vigili</l>
+            <l>la mia benedizion.</l>
+          </sp>
+          <stage>CIECAVoce di donna o d’angelole mie catene ha sciolto;mi vietan le mie tenebredi quella santa il volto,pure da me non pàrtasisenza un pietoso don!(si toglie il rosario dalla cintola)A te questo rosarioche le preghiere aduna.Io te lo porgo, accettalo,ti porterà fortuna;sulla tua testa vigilila mia benedizion.</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>(a Barnaba rapidamente mentre canta la Cieca)</l>
+            <l>Barnaba!</l>
+          </sp>
+          <stage>ALVISE(a Barnaba rapidamente mentre canta la Cieca)Barnaba!</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Mio padron.</l>
+          </sp>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>Facesti buona caccia</l>
+            <l>quest’oggi?</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Sulla traccia</l>
+            <l>cammino d’un leon.</l>
+          </sp>
+          <sp who="#laura e enzo">
+            <speaker>LAURA E ENZO:</speaker>
+            <l>Ascolti il detto pio</l>
+            <l>l’onnipossente iddio!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>O madre mia, ti guarda</l>
+            <l>un angelo del ciel…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Protegge la vegliarda</l>
+            <l>visibilmente il ciel!</l>
+            <l>(Laura s’avvicina alla Cieca e prende il rosario, la Cieca stende le mani come per benedirla;</l>
+            <l>Laura fa per inginocchiarsi, Alvise vede e afferra il braccio di Laura, sforzandola a rialzarsi)</l>
+          </sp>
+          <stage>COROProtegge la vegliardavisibilmente il ciel!(Laura s’avvicina alla Cieca e prende il rosario, la Cieca stende le mani come per benedirla;Laura fa per inginocchiarsi, Alvise vede e afferra il braccio di Laura, sforzandola a rialzarsi)</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>(a Laura)</l>
+            <l>Che fai? vaneggi?</l>
+            <l>(gettando una borsa a Gioconda)</l>
+            <l>Bella cantatrice,</l>
+            <l>quest’oro a te.</l>
+          </sp>
+          <stage>ALVISE(a Laura)Che fai? vaneggi?(gettando una borsa a Gioconda)Bella cantatrice,quest’oro a te.</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(raccoglie e s’inchina)</l>
+            <l>Sia grazia a voi, messere.</l>
+            <l>(a Laura)</l>
+            <l>Acciò ch’io l’abbia nelle mie preghiere</l>
+            <l>dimmi il tuo nome, o ignota salvatrice.</l>
+          </sp>
+          <stage>GIOCONDA(raccoglie e s’inchina)Sia grazia a voi, messere.(a Laura)Acciò ch’io l’abbia nelle mie preghieredimmi il tuo nome, o ignota salvatrice.</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>(guardando Enzo)</l>
+            <l>Laura.</l>
+          </sp>
+          <stage>LAURA(guardando Enzo)Laura.</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(colpito)</l>
+            <l>(È dessa!)</l>
+          </sp>
+          <stage>ENZO(colpito)(È dessa!)</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>(a Laura, assorta)</l>
+            <l>Ti scuoti! al tempio andiamo!</l>
+          </sp>
+          <stage>ALVISE(a Laura, assorta)Ti scuoti! al tempio andiamo!</stage>
+        </div>
+        <div type="scene">
+          <head>GIOCONDA</head>Madre! ~ (Enzo adorato! Ah! come t’amo!)Tutti si dirigono al tempio. Alvise e Laura primi, i due Paggi dopo, indi tutto il Coro, e Gioconda fra la Madre ed Enzo.Giunto alla porta della chiesa Enzo s’arresta e rimane indietro assorto profondamente ne’ suoi pensieri. Barnaba lo sta fissando.La scena si vuota.Scena sestaEnzo e Barnaba.[Scena e Duetto]<sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Madre! ~ (Enzo adorato! Ah! come t’amo!)</l>
+            <l>Tutti si dirigono al tempio. Alvise e Laura primi, i due Paggi dopo, indi tutto il Coro, e Gioconda fra la Madre ed Enzo.</l>
+            <l>Giunto alla porta della chiesa Enzo s’arresta e rimane indietro assorto profondamente ne’ suoi pensieri. Barnaba lo sta fissando.</l>
+            <l>La scena si vuota.</l>
+            <l>Scena sesta</l>
+            <l>Enzo e Barnaba.</l>
+            <l>[Scena e Duetto]</l>
+          </sp>
+          <stage>GIOCONDAMadre! ~ (Enzo adorato! Ah! come t’amo!)Tutti si dirigono al tempio. Alvise e Laura primi, i due Paggi dopo, indi tutto il Coro, e Gioconda fra la Madre ed Enzo.Giunto alla porta della chiesa Enzo s’arresta e rimane indietro assorto profondamente ne’ suoi pensieri. Barnaba lo sta fissando.La scena si vuota.Scena sestaEnzo e Barnaba.[Scena e Duetto]</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(avvicinandosi ad Enzo)</l>
+            <l>Enzo Grimaldo, principe di Santafior, che pensi?</l>
+          </sp>
+          <stage>BARNABA(avvicinandosi ad Enzo)Enzo Grimaldo, principe di Santafior, che pensi?</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(Scoperto son.)</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Qual magico stupor t’invade i sensi?</l>
+            <l>Pensi a Madonna Laura d’Alvise Badoèro?</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(scosso)</l>
+            <l>Chi sei?</l>
+          </sp>
+          <stage>ENZO(scosso)Chi sei?</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>So tutto: e penetro in fondo al tuo pensiero.</l>
+            <l>Avesti culla in Genova…</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Prence non son, sui flutti</l>
+            <l>guido un vascel, son dàlmato: Enzo Giordàn…</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(sempre freddamente)</l>
+            <l>Per tutti</l>
+            <l>ma non per me. Venezia t’ha proscritto, ma un forte</l>
+            <l>desìo qui ancor ti trasse ad affrontar la morte.</l>
+            <l>Amasti un dì una vergine ~ là, sul tuo mar beato,</l>
+            <l>a estranio imene vittima ~ la condannava il fato.</l>
+          </sp>
+          <stage>BARNABA(sempre freddamente)Per tuttima non per me. Venezia t’ha proscritto, ma un fortedesìo qui ancor ti trasse ad affrontar la morte.Amasti un dì una vergine ~ là, sul tuo mar beato,a estranio imene vittima ~ la condannava il fato.</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Giurai fede a Gioconda.</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(sorridendo)</l>
+            <l>La cantatrice errante</l>
+            <l>ami come sorella, e Laura come amante.</l>
+            <l>Già disperavi in terra di riveder quel volto,</l>
+            <l>e l’amor di Gioconda hai per pietà raccolto,</l>
+            <l>ed or, sotto la maschera, l’angelo tuo t’apparve…</l>
+            <l>ti riconobbe…</l>
+          </sp>
+          <stage>BARNABA(sorridendo)La cantatrice erranteami come sorella, e Laura come amante.Già disperavi in terra di riveder quel volto,e l’amor di Gioconda hai per pietà raccolto,ed or, sotto la maschera, l’angelo tuo t’apparve…ti riconobbe…</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(Oh giubilo!)</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>L’amor passa le larve.</l>
+            <l>Sulla sua sposa vigila con cuor geloso, il tetro</l>
+            <l>inquisitor, nell’aurea prigione io sol penètro,</l>
+            <l>e spesso fra le lagrime io la sorpresi, e muto</l>
+            <l>lo sguardo suo mestissimo al ciel chiedeva aiuto.</l>
+            <l>Badoèr questa notte ~ veglia al dogale ostello</l>
+            <l>col Gran Consiglio. Laura sarà sul tuo vascello.</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Dio di pietà!</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Le angoscie dell’amor tuo soccorro.</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(O grido di quest’anima, scoppia dal gonfio core!</l>
+            <l>ho ritrovato l’angelo del mio celeste amore.)</l>
+            <l>Ma alfin chi sei? mio lugubre benefattor?</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>T’aborro.</l>
+            <l>Sono il possente dèmone del Consiglio dei Dieci.</l>
+            <l>(apre il suo mantello e la giubba e mostra sul giustacuore ad Enzo queste lettere in argento: C. X.)</l>
+            <l>Leggi.</l>
+          </sp>
+          <stage>BARNABAT’aborro.Sono il possente dèmone del Consiglio dei Dieci.(apre il suo mantello e la giubba e mostra sul giustacuore ad Enzo queste lettere in argento: C. X.)Leggi.</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Infamia!</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Al supplizio trarti potea, no ‘l feci.</l>
+            <l>Gioconda amo, essa m’odia… giurai schiantarle il cor.</l>
+            <l>Enzo morto era poco ~ ti volli traditor.</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>O satana furente, lordo di sangue e fiel,</l>
+            <l>coll’ira tua demente tu m’hai scagliato in ciel.</l>
+            <l>(Gran dio! la togli all’orrida condanna di dolor,</l>
+            <l>l’idolatrata Laura a me ridona ancor.)</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Va’: corri al tuo desìo; spiega le vele in mar,</l>
+            <l>tutto il trionfo mio negli occhi tuoi m’appar.</l>
+            <l>Ebbene?</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>A notte bruna sul brigantino aspetto</l>
+            <l>Laura.</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(inchinandosi e sogghignando)</l>
+            <l>Buona fortuna!</l>
+          </sp>
+          <stage>BARNABA(inchinandosi e sogghignando)Buona fortuna!</stage>
+        </div>
+        <div type="scene">
+          <head>ENZO</head>(sul limitare della scena)E tu sii maledetto!(esce)Scena settimaBarnaba, poscia Isèpo, indi per un istante Gioconda e la Cieca.[Scena, Recitativo e Monologo]<sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(sul limitare della scena)</l>
+            <l>E tu sii maledetto!</l>
+            <l>(esce)</l>
+            <l>Scena settima</l>
+            <l>Barnaba, poscia Isèpo, indi per un istante Gioconda e la Cieca.</l>
+            <l>[Scena, Recitativo e Monologo]</l>
+          </sp>
+          <stage>ENZO(sul limitare della scena)E tu sii maledetto!(esce)Scena settimaBarnaba, poscia Isèpo, indi per un istante Gioconda e la Cieca.[Scena, Recitativo e Monologo]</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Maledici? Sta ben… l’amor t’accieca.</l>
+            <l>Compiam l’opra bïeca,</l>
+            <l>l’idolo di Gioconda sia distrutto…</l>
+            <l>S’annienti tutto.</l>
+            <l>(va nel fondo, apre una porta accanto le prigioni)</l>
+            <l>Isèpo!</l>
+          </sp>
+          <stage>BARNABAMaledici? Sta ben… l’amor t’accieca.Compiam l’opra bïeca,l’idolo di Gioconda sia distrutto…S’annienti tutto.(va nel fondo, apre una porta accanto le prigioni)Isèpo!</stage>
+          <sp who="#isèpo">
+            <speaker>ISÈPO:</speaker>
+            <l>(escendo)</l>
+            <l>Padron Barnaba…</l>
+          </sp>
+          <stage>ISÈPO(escendo)Padron Barnaba…</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Scrivano,</l>
+            <l>l’anima m’hai venduto e la cotenna</l>
+            <l>fin che tu vivi;</l>
+            <l>(lo conduce al banco)</l>
+            <l>io son la mano e tu la penna. Scrivi.</l>
+            <l>(dettando)</l>
+            <l>Al capo occulto dell’inquisizione.</l>
+            <l>(Isèpo scrive. – Intanto alla porta del tempio appariscono Gioconda e la Cieca)</l>
+          </sp>
+          <stage>BARNABAScrivano,l’anima m’hai venduto e la cotennafin che tu vivi;(lo conduce al banco)io son la mano e tu la penna. Scrivi.(dettando)Al capo occulto dell’inquisizione.(Isèpo scrive. – Intanto alla porta del tempio appariscono Gioconda e la Cieca)</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(alla madre ritraendola; e sta spiando nascosta dal pilastro)</l>
+            <l>(Ti nascondi, c’è Barnaba.)</l>
+          </sp>
+          <stage>GIOCONDA(alla madre ritraendola; e sta spiando nascosta dal pilastro)(Ti nascondi, c’è Barnaba.)</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>La tua sposa con Enzo il marinar…</l>
+          </sp>
+          <stage>BARNABALa tua sposa con Enzo il marinar…</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(Oh ciel!)</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>… sta notte in mar</l>
+            <l>ti fuggirà sul brigantino dàlmato.</l>
+          </sp>
+          <stage>BARNABA… sta notte in marti fuggirà sul brigantino dàlmato.</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Ah!</l>
+            <l>(disperatamente, e scompare in chiesa)</l>
+          </sp>
+          <stage>GIOCONDAAh!(disperatamente, e scompare in chiesa)</stage>
+        </div>
+        <div type="scene">
+          <head>BARNABA</head>Più sotto: La bocca del leone.Qua, porgi,(prende il foglio)taci, vanne.(Isèpo esce)Scena ottavaBarnaba solo.<sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Più sotto: La bocca del leone.</l>
+            <l>Qua, porgi,</l>
+            <l>(prende il foglio)</l>
+            <l>taci, vanne.</l>
+            <l>(Isèpo esce)</l>
+            <l>Scena ottava</l>
+            <l>Barnaba solo.</l>
+          </sp>
+          <stage>BARNABAPiù sotto: La bocca del leone.Qua, porgi,(prende il foglio)taci, vanne.(Isèpo esce)Scena ottavaBarnaba solo.</stage>
+        </div>
+        <div type="scene">
+          <head>O monumento!</head>(col piego in mano contemplando la scena)Regia e bolgia dogale! Atro portento!Gloria di questa e delle età future;ergi fra due tortureil porfido cruento.Tua base i pozzi, tuo fastigio i piombi,sulla tua fronte il volo dei palombi,i marmi e l’ôr.Gioia tu alterni e orror con vece occulta,quivi un popolo esulta,quivi un popolo muor.Là il doge, un muto scheletrocoll’acìdaro in testa;sovr’esso il Gran Consiglio,la signoria funesta;sovra la signoria,più possente di tutti, un re: la spia.O monumento! Apri le tue latèbre,(vicino alla bocca del leone)spalanca la tua fauce di tenèbre,s’anco il sangue giungesse a soffocarla!Io son l’orecchio e tu la bocca: parla.(getta il piego nella bocca del leone, ed esce)Scena nonaEntra nel cortile una Mascherata, la segue il Popolo cantando e danzando. Poscia un Barnabotto, Gioconda e la Cieca.[Finale I – Coro, Furlana e Preghiera] <stage>O monumento!(col piego in mano contemplando la scena)Regia e bolgia dogale! Atro portento!Gloria di questa e delle età future;ergi fra due tortureil porfido cruento.Tua base i pozzi, tuo fastigio i piombi,sulla tua fronte il volo dei palombi,i marmi e l’ôr.Gioia tu alterni e orror con vece occulta,quivi un popolo esulta,quivi un popolo muor.Là il doge, un muto scheletrocoll’acìdaro in testa;sovr’esso il Gran Consiglio,la signoria funesta;sovra la signoria,più possente di tutti, un re: la spia.O monumento! Apri le tue latèbre,(vicino alla bocca del leone)spalanca la tua fauce di tenèbre,s’anco il sangue giungesse a soffocarla!Io son l’orecchio e tu la bocca: parla.(getta il piego nella bocca del leone, ed esce)Scena nonaEntra nel cortile una Mascherata, la segue il Popolo cantando e danzando. Poscia un Barnabotto, Gioconda e la Cieca.[Finale I – Coro, Furlana e Preghiera]</stage>
+          <sp who="#popolo">
+            <speaker>POPOLO:</speaker>
+            <l>Viva il doge e la repubblica!</l>
+            <l>La baldoria e il carnevale!</l>
+            <l>Baccanale! Baccanale!</l>
+            <l>Gaia turba popolana,</l>
+            <l>su! correte al torneamento!</l>
+            <l>su! danzate la furlana!</l>
+            <l>Chiome al sol! zendàdi al vento.</l>
+            <l>Fate un chiasso da demoni</l>
+            <l>co’ le palme e coi talloni!</l>
+            <l>Tuoni il portico ducale</l>
+            <l>sovra il pazzo baccanale!</l>
+            <l>[Furlana]</l>
+            <l>(si odono alcuni tocchi di campana)</l>
+          </sp>
+          <stage>POPOLOViva il doge e la repubblica!La baldoria e il carnevale!Baccanale! Baccanale!Gaia turba popolana,su! correte al torneamento!su! danzate la furlana!Chiome al sol! zendàdi al vento.Fate un chiasso da demonico’ le palme e coi talloni!Tuoni il portico ducalesovra il pazzo baccanale![Furlana](si odono alcuni tocchi di campana)</stage>
+          <sp who="#voci interne">
+            <speaker>VOCI INTERNE:</speaker>
+            <l>(dalla chiesa)</l>
+            <l>«Angelus domini…»</l>
+            <l>Cessa la danza.</l>
+          </sp>
+          <stage>VOCI INTERNE(dalla chiesa)«Angelus domini…»Cessa la danza.</stage>
+          <sp who="#un barnabotto">
+            <speaker>UN BARNABOTTO:</speaker>
+            <l>(schiudendo la tenda che copre la porta della basilica)</l>
+            <l>Tramonta il sol.</l>
+            <l>Udite il canto</l>
+            <l>del vespro santo</l>
+            <l>prostrati al suol.</l>
+            <l>(Gioconda e la Cieca attraversano la folla inginocchiata mentre dura l’orazione)</l>
+          </sp>
+          <stage>UN BARNABOTTO(schiudendo la tenda che copre la porta della basilica)Tramonta il sol.Udite il cantodel vespro santoprostrati al suol.(Gioconda e la Cieca attraversano la folla inginocchiata mentre dura l’orazione)</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(con passo vacillante, lentissimo, appoggiandosi alla Cieca)</l>
+            <l>Tradita!… Ahimè! soccombo… il fianco mio</l>
+            <l>vacilla… o madre… mi sorreggi. Oh dio!</l>
+            <l>Cuore! dono funesto!</l>
+            <l>Retaggio di dolor!</l>
+            <l>Il mio destino è questo:</l>
+            <l>o morte o amor!</l>
+          </sp>
+          <stage>GIOCONDA(con passo vacillante, lentissimo, appoggiandosi alla Cieca)Tradita!… Ahimè! soccombo… il fianco miovacilla… o madre… mi sorreggi. Oh dio!Cuore! dono funesto!Retaggio di dolor!Il mio destino è questo:o morte o amor!</stage>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>Dimmi dov’è il tuo cor! La man vi guida</l>
+            <l>ch’io lo posi sul mio!</l>
+            <l>Vieni e facciamo un sol di due dolor!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(prendendo la mano della Cieca e portandosela al cuore)</l>
+            <l>Ah sì! la mano tua sovra il mio cor!</l>
+            <l>Senti e comprendi, o madre, il mio dolor!</l>
+            <l>(si slancia fra le braccia della Cieca)</l>
+          </sp>
+          <stage>GIOCONDA(prendendo la mano della Cieca e portandosela al cuore)Ah sì! la mano tua sovra il mio cor!Senti e comprendi, o madre, il mio dolor!(si slancia fra le braccia della Cieca)</stage>
+          <sp who="#voci interne">
+            <speaker>VOCI INTERNE:</speaker>
+            <l>Angelus domini…</l>
+          </sp>
+          <stage>VOCI INTERNEAngelus domini…</stage>
+          <sp who="#folla">
+            <speaker>FOLLA:</speaker>
+            <l>Gloria al signor</l>
+            <l>e pace agli uomini!</l>
+            <l>Cala lentamente la tela</l>
+          </sp>
+          <stage>FOLLAGloria al signore pace agli uomini!Cala lentamente la tela</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto secondo</head>Il rosario.Notte. – Un brigantino visto di fianco. Sul davanti, una riva deserta d’isola disabitata nelle acque di Fusina. Nell’estremo fondo, il cielo in qualche parte stellato, e la laguna; a destra, la luna tramonta dietro una nube. Sul davanti, un altarino della vergine con una lampada rossa accesa. – «Hècate», il nome del brigantino, sta scritto a prua. Alcune lanterne sul ponte.All’alzarsi della tela alcuni Marinai sono seduti sulla tolda, altri in piedi aggruppati; tutti hanno un portavoce in mano; molti Mozzi sono arrampicati, o seduti, o sospesi alle sartìe degli alberi e stanno cantando una marinaresca.Scena primaMarinaresca.[Marinaresca, Recitativo e Barcarola]<div type="scene">
+          <head>Atto secondo</head>Il rosario.Notte. – Un brigantino visto di fianco. Sul davanti, una riva deserta d’isola disabitata nelle acque di Fusina. Nell’estremo fondo, il cielo in qualche parte stellato, e la laguna; a destra, la luna tramonta dietro una nube. Sul davanti, un altarino della vergine con una lampada rossa accesa. – «Hècate», il nome del brigantino, sta scritto a prua. Alcune lanterne sul ponte.All’alzarsi della tela alcuni Marinai sono seduti sulla tolda, altri in piedi aggruppati; tutti hanno un portavoce in mano; molti Mozzi sono arrampicati, o seduti, o sospesi alle sartìe degli alberi e stanno cantando una marinaresca.Scena primaMarinaresca.[Marinaresca, Recitativo e Barcarola] <stage>Atto secondoIl rosario.Notte. – Un brigantino visto di fianco. Sul davanti, una riva deserta d’isola disabitata nelle acque di Fusina. Nell’estremo fondo, il cielo in qualche parte stellato, e la laguna; a destra, la luna tramonta dietro una nube. Sul davanti, un altarino della vergine con una lampada rossa accesa. – «Hècate», il nome del brigantino, sta scritto a prua. Alcune lanterne sul ponte.All’alzarsi della tela alcuni Marinai sono seduti sulla tolda, altri in piedi aggruppati; tutti hanno un portavoce in mano; molti Mozzi sono arrampicati, o seduti, o sospesi alle sartìe degli alberi e stanno cantando una marinaresca.Scena primaMarinaresca.[Marinaresca, Recitativo e Barcarola]</stage>
+          <sp who="#primi marinai">
+            <speaker>PRIMI MARINAI:</speaker>
+            <l>(a destra sul ponte, cantando attraverso il portavoce)</l>
+            <l>Ha! He! Ha! He!</l>
+            <l>Fissa il timone!</l>
+          </sp>
+          <stage>PRIMI MARINAI(a destra sul ponte, cantando attraverso il portavoce)Ha! He! Ha! He!Fissa il timone!</stage>
+          <sp who="#secondi marinai">
+            <speaker>SECONDI MARINAI:</speaker>
+            <l>Ha! He! Ha! He!</l>
+            <l>Issa artimone!</l>
+          </sp>
+          <sp who="#primi marinai">
+            <speaker>PRIMI MARINAI:</speaker>
+            <l>Issa!</l>
+            <l>La ciurma ov’è?</l>
+          </sp>
+          <sp who="#marinai">
+            <speaker>MARINAI:</speaker>
+            <l>Ha! He! Ha! He!</l>
+          </sp>
+          <sp who="#mozzi">
+            <speaker>MOZZI:</speaker>
+            <l>(ragazzi sulle antenne)</l>
+            <l>Siam qui sui culmini,</l>
+            <l>siam sulla borda,</l>
+            <l>siam sulle tremule</l>
+            <l>scale di corda.</l>
+            <l>Guardate gli agili</l>
+            <l>mozzi saltar;</l>
+            <l>noi gli scoiattoli</l>
+            <l>siamo del mar.</l>
+          </sp>
+          <stage>MOZZI(ragazzi sulle antenne)Siam qui sui culmini,siam sulla borda,siam sulle tremulescale di corda.Guardate gli agilimozzi saltar;noi gli scoiattolisiamo del mar.</stage>
+          <sp who="#altri marinai">
+            <speaker>ALTRI MARINAI:</speaker>
+            <l>(sotto la tolda, nel cassero)</l>
+            <l>Siam nel fondo più profondo</l>
+            <l>della nave, della cala,</l>
+            <l>dove il vento furibondo</l>
+            <l>spreca i fischi e infrange l’ala.</l>
+            <l>Siam nel fondo più profondo</l>
+            <l>della nave, della cala.</l>
+          </sp>
+          <stage>ALTRI MARINAI(sotto la tolda, nel cassero)Siam nel fondo più profondodella nave, della cala,dove il vento furibondospreca i fischi e infrange l’ala.Siam nel fondo più profondodella nave, della cala.</stage>
+          <sp who="#primi marinai">
+            <speaker>PRIMI MARINAI:</speaker>
+            <l>Ha! Ho! Ha! Ho!</l>
+            <l>Vele a babordo!</l>
+          </sp>
+          <sp who="#secondi marinai">
+            <speaker>SECONDI MARINAI:</speaker>
+            <l>Issa!</l>
+            <l>Ha! Ho! Ha! Ho!</l>
+            <l>Remi a tribordo!</l>
+          </sp>
+          <sp who="#altri marinai">
+            <speaker>ALTRI MARINAI:</speaker>
+            <l>Issa!</l>
+            <l>Il ciel tuonò.</l>
+            <l>Ha! Ho! Ha! Ho!</l>
+          </sp>
+          <sp who="#mozzi">
+            <speaker>MOZZI:</speaker>
+            <l>(sulle antenne)</l>
+            <l>In mezzo ai fulmini</l>
+            <l>della tempesta,</l>
+            <l>noi tra le nuvole</l>
+            <l>tuffiam la testa.</l>
+            <l>Come sugli alberi</l>
+            <l>d’una foresta,</l>
+            <l>osiam le pendule</l>
+            <l>sartìe scalar,</l>
+            <l>noi gli scoiattoli</l>
+            <l>siamo del mar.</l>
+          </sp>
+          <stage>MOZZI(sulle antenne)In mezzo ai fulminidella tempesta,noi tra le nuvoletuffiam la testa.Come sugli alberid’una foresta,osiam le pendulesartìe scalar,noi gli scoiattolisiamo del mar.</stage>
+          <sp who="#marinai">
+            <speaker>MARINAI:</speaker>
+            <l>(sotto il ponte)</l>
+            <l>Sotto prora, sotto poppa</l>
+            <l>è una placida dimora,</l>
+            <l>qui votiam l’ardente coppa</l>
+            <l>del liquor che inganna l’ora.</l>
+            <l>Sotto poppa, sotto prora.</l>
+          </sp>
+          <stage>MARINAI(sotto il ponte)Sotto prora, sotto poppaè una placida dimora,qui votiam l’ardente coppadel liquor che inganna l’ora.Sotto poppa, sotto prora.</stage>
+          <sp who="#mozzi">
+            <speaker>MOZZI:</speaker>
+            <l>(sulle antenne)</l>
+            <l>Il mar mugghiante</l>
+            <l>il ciel furente,</l>
+            <l>Greco a levante,</l>
+            <l>Bora a ponente,</l>
+            <l>scïoni e turbini</l>
+            <l>sappiam sfidar.</l>
+            <l>Noi gli scoiattoli</l>
+            <l>siamo del mar!</l>
+          </sp>
+          <stage>MOZZI(sulle antenne)Il mar mugghianteil ciel furente,Greco a levante,Bora a ponente,scïoni e turbinisappiam sfidar.Noi gli scoiattolisiamo del mar!</stage>
+        </div>
+        <div type="scene">
+          <head>UNA VOCE SOLA</head>(di dentro)Pescator, affonda l’escaa te l’onda sia fedel,lieta sera e buona pescati promette il mare e il ciel.Scena secondaCoro, Barnaba e Isèpo.Barnaba è vestito da pescatore con una rete in mano.<sp who="#una voce sola">
+            <speaker>UNA VOCE SOLA:</speaker>
+            <l>(di dentro)</l>
+            <l>Pescator, affonda l’esca</l>
+            <l>a te l’onda sia fedel,</l>
+            <l>lieta sera e buona pesca</l>
+            <l>ti promette il mare e il ciel.</l>
+            <l>Scena seconda</l>
+            <l>Coro, Barnaba e Isèpo.</l>
+            <l>Barnaba è vestito da pescatore con una rete in mano.</l>
+          </sp>
+          <stage>UNA VOCE SOLA(di dentro)Pescator, affonda l’escaa te l’onda sia fedel,lieta sera e buona pescati promette il mare e il ciel.Scena secondaCoro, Barnaba e Isèpo.Barnaba è vestito da pescatore con una rete in mano.</stage>
+          <sp who="#pilota">
+            <speaker>PILOTA:</speaker>
+            <l>Chi va là?</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>La canzon ve lo dicea:</l>
+            <l>un pescator che attende la marea.</l>
+            <l>Ho la barca laggiù nell’acqua bassa.</l>
+            <l>È tempora domani, e si digiuna,</l>
+            <l>(per mia fortuna)</l>
+            <l>la mensa magra il pescator ingrassa.</l>
+          </sp>
+          <sp who="#marinai">
+            <speaker>MARINAI:</speaker>
+            <l>(ridendo)</l>
+            <l>Ha! Ha!</l>
+          </sp>
+          <stage>MARINAI(ridendo)Ha! Ha!</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(ad Isèpo)</l>
+            <l>(Siam salvi! Han riso. Sono ottanta</l>
+            <l>fra marinari e mozzi. Han tre decine</l>
+            <l>di remi e nulla più; due colubrine</l>
+            <l>di piccolo calibro. Or va’, con quanta</l>
+            <l>lena ti resta, e disponi le scolte</l>
+            <l>colà dove le macchie son più folte.</l>
+            <l>Io qui rimango a far l’ufficio mio.</l>
+            <l>Vanne con dio.)</l>
+            <l>(Isèpo esce)</l>
+            <l>Pescator, affonda l’esca,</l>
+            <l>a te l’onda sia fedel,</l>
+            <l>lieta sera e buona pesca</l>
+            <l>ti promette il mare e il ciel.</l>
+            <l>Va’, tranquilla cantilena,</l>
+            <l>per l’azzurra immensità;</l>
+            <l>questa notte una sirena</l>
+            <l>nella rete cascherà.</l>
+          </sp>
+          <stage>BARNABA(ad Isèpo)(Siam salvi! Han riso. Sono ottantafra marinari e mozzi. Han tre decinedi remi e nulla più; due colubrinedi piccolo calibro. Or va’, con quantalena ti resta, e disponi le scoltecolà dove le macchie son più folte.Io qui rimango a far l’ufficio mio.Vanne con dio.)(Isèpo esce)Pescator, affonda l’esca,a te l’onda sia fedel,lieta sera e buona pescati promette il mare e il ciel.Va’, tranquilla cantilena,per l’azzurra immensità;questa notte una sirenanella rete cascherà.</stage>
+          <sp who="#marinai">
+            <speaker>MARINAI:</speaker>
+            <l>(ridendo)</l>
+            <l>Ha! Ha! Ha! Ha!</l>
+            <l>Questa notte una sirena</l>
+            <l>nella rete cascherà.</l>
+          </sp>
+          <stage>MARINAI(ridendo)Ha! Ha! Ha! Ha!Questa notte una sirenanella rete cascherà.</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(Spia coi fulminei</l>
+            <l>tuoi sguardi accorti,</l>
+            <l>e fra le tenebre</l>
+            <l>conta i tuoi morti.</l>
+            <l>Sì, da quest’isola</l>
+            <l>deserta e bruna</l>
+            <l>or deve sorgere</l>
+            <l>la tua fortuna.</l>
+            <l>Sta’ in guardia! e il rapido</l>
+            <l>sospetto svia,</l>
+            <l>e ridi e vigila</l>
+            <l>e canta e spia.)</l>
+            <l>Pescator, propizio è il vento,</l>
+            <l>tenta il mare, o pescator.</l>
+            <l>Là, fra l’alighe e l’argento,</l>
+            <l>guizzan pinne d’ambra e d’ôr.</l>
+            <l>Brilla Venere serena</l>
+            <l>in un ciel di voluttà.</l>
+            <l>Questa notte una sirena</l>
+            <l>nella rete cascherà.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORO</head>(ripete ridendo)Ha! Ha! Ha! Ha!Una fulgida sirenanella rete cascherà.(Barnaba esce all’entrare di Enzo)Scena terzaEnzo, Marinai e Mozzi; il Nostromo, il Maestro delle vele, il Pilota.[Recitativo, Ripresa della Barcarola e Romanza]<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(ripete ridendo)</l>
+            <l>Ha! Ha! Ha! Ha!</l>
+            <l>Una fulgida sirena</l>
+            <l>nella rete cascherà.</l>
+            <l>(Barnaba esce all’entrare di Enzo)</l>
+            <l>Scena terza</l>
+            <l>Enzo, Marinai e Mozzi; il Nostromo, il Maestro delle vele, il Pilota.</l>
+            <l>[Recitativo, Ripresa della Barcarola e Romanza]</l>
+          </sp>
+          <stage>CORO(ripete ridendo)Ha! Ha! Ha! Ha!Una fulgida sirenanella rete cascherà.(Barnaba esce all’entrare di Enzo)Scena terzaEnzo, Marinai e Mozzi; il Nostromo, il Maestro delle vele, il Pilota.[Recitativo, Ripresa della Barcarola e Romanza]</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(alla ciurma)</l>
+            <l>(esce da sotto coperta con una lanterna in mano, avanzandosi gaiamente)</l>
+            <l>Sia gloria ai canti</l>
+            <l>dei naviganti!</l>
+            <l>Questa notte si salpa!</l>
+          </sp>
+          <stage>ENZO(alla ciurma)(esce da sotto coperta con una lanterna in mano, avanzandosi gaiamente)Sia gloria ai cantidei naviganti!Questa notte si salpa!</stage>
+          <sp who="#marinai e mozzi">
+            <speaker>MARINAI E MOZZI:</speaker>
+            <l>(attorniando Enzo)</l>
+            <l>Evviva il nostro</l>
+            <l>principe e capitano!</l>
+          </sp>
+          <stage>MARINAI E MOZZI(attorniando Enzo)Evviva il nostroprincipe e capitano!</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(esplorando il cielo)</l>
+            <l>Soffia Grecale,</l>
+            <l>vento buono per noi… nella carena.</l>
+            <l>(al nostromo)</l>
+            <l>Tu, nostromo, raccogli la gomèna.</l>
+            <l>Tu, mastro delle vele, affiggi al rostro</l>
+            <l>del brigantino il dàlmato segnale</l>
+            <l>che ci protesse in molte aspre fortune,</l>
+            <l>e al maggior pino inalbera il fanale.</l>
+            <l>(ai Mozzi)</l>
+            <l>Voi siate pronti a distaccar la fune</l>
+            <l>d’amarra a un cenno mio. ~ Quest’erme dune</l>
+            <l>più non vedremo all’ora mattutina.</l>
+            <l>Nocchier, l’abbrivio è verso Palestrina.</l>
+            <l>(alcuni uomini della ciurma eseguiscono gli ordini di Enzo, mentre gli altri ricantano la marinaresca)</l>
+          </sp>
+          <stage>ENZO(esplorando il cielo)Soffia Grecale,vento buono per noi… nella carena.(al nostromo)Tu, nostromo, raccogli la gomèna.Tu, mastro delle vele, affiggi al rostrodel brigantino il dàlmato segnaleche ci protesse in molte aspre fortune,e al maggior pino inalbera il fanale.(ai Mozzi)Voi siate pronti a distaccar la funed’amarra a un cenno mio. ~ Quest’erme dunepiù non vedremo all’ora mattutina.Nocchier, l’abbrivio è verso Palestrina.(alcuni uomini della ciurma eseguiscono gli ordini di Enzo, mentre gli altri ricantano la marinaresca)</stage>
+          <sp who="#mozzi">
+            <speaker>MOZZI:</speaker>
+            <l>In mezzo ai fulmini</l>
+            <l>della tempesta,</l>
+            <l>noi tra le nuvole</l>
+            <l>tuffiam la testa.</l>
+            <l>Come sugli alberi</l>
+            <l>d’una foresta,</l>
+            <l>osiam le pendule</l>
+            <l>sartìe scalar,</l>
+            <l>noi gli scoiattoli</l>
+            <l>siamo del mar.</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(a tutti)</l>
+            <l>Ed or scendete a riposarvi. Io vigilo</l>
+            <l>solo sul ponte le inimiche flotte.</l>
+            <l>(guarda le stelle)</l>
+            <l>È tardi.</l>
+          </sp>
+          <stage>ENZO(a tutti)Ed or scendete a riposarvi. Io vigilosolo sul ponte le inimiche flotte.(guarda le stelle)È tardi.</stage>
+          <sp who="#ciurma">
+            <speaker>CIURMA:</speaker>
+            <l>Buona guardia.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ENZO</head>Buona notte.(la ciurma scende sotto il ponte)Scena quartaEnzo solo.<sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Buona notte.</l>
+            <l>(la ciurma scende sotto il ponte)</l>
+            <l>Scena quarta</l>
+            <l>Enzo solo.</l>
+          </sp>
+          <stage>ENZOBuona notte.(la ciurma scende sotto il ponte)Scena quartaEnzo solo.</stage>
+          <stage>(guardando il mare con ispirata meditazione)Cielo e mar! ~ l’etereo velosplende come un santo altare.L’angiol mio verrà dal cielo?!l’angiol mio verrà dal mare?!Qui l’attendo, ardente spiraoggi il vento dell’amor.Quel mortal che vi sospiravi conquide, o sogni d’or!Cielo e mar! ~ per l’aura fondanon appar né suol, né monte.L’orizzonte bacia l’onda!l’onda bacia l’orizzonte!Qui nell’ombra, ov’io mi giaciocoll’anelito del cor,vieni, o donna, vieni al baciodella vita incantator…(fissando il mare)Ah! chi è là? non è uno spetrodel pensier! quella è una barca.Odo già de’ remi il metro,verso me volando varca…</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(voce da dietro il brigantino)</l>
+            <l>Capitano! a bordo!</l>
+          </sp>
+          <stage>BARNABA(voce da dietro il brigantino)Capitano! a bordo!</stage>
+        </div>
+        <div type="scene">
+          <head>ENZO</head>Avanti!(Dio! sostieni ancor la pienadella gioia!) O naviganti,costeggiate la carena!(prende una fune e la getta al di là della sponda)Qua, la fune… aggrappa… annoda…non cadere! approda! approda!Scena quintaEnzo e Laura.[Scena e Duetto]<sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Avanti!</l>
+            <l>(Dio! sostieni ancor la piena</l>
+            <l>della gioia!) O naviganti,</l>
+            <l>costeggiate la carena!</l>
+            <l>(prende una fune e la getta al di là della sponda)</l>
+            <l>Qua, la fune… aggrappa… annoda…</l>
+            <l>non cadere! approda! approda!</l>
+            <l>Scena quinta</l>
+            <l>Enzo e Laura.</l>
+            <l>[Scena e Duetto]</l>
+          </sp>
+          <stage>ENZOAvanti!(Dio! sostieni ancor la pienadella gioia!) O naviganti,costeggiate la carena!(prende una fune e la getta al di là della sponda)Qua, la fune… aggrappa… annoda…non cadere! approda! approda!Scena quintaEnzo e Laura.[Scena e Duetto]</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>(nelle braccia di Enzo)</l>
+            <l>Enzo!</l>
+          </sp>
+          <stage>LAURA(nelle braccia di Enzo)Enzo!</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Laura! Amore! Amor!</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(voce da dietro il brigantino)</l>
+            <l>(sinistramente, allontanandosi)</l>
+            <l>Buona fortuna!</l>
+          </sp>
+          <stage>BARNABA(voce da dietro il brigantino)(sinistramente, allontanandosi)Buona fortuna!</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Oh la sinistra voce!</l>
+            <l>Fuggiam! Fuggiam!</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>S’ei fu che ti salvò!…</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Pur sorridea d’un infernal sorriso!</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>È l’uomo che ci aperse il paradiso!</l>
+            <l>Deh! non turbare ~ con ree paure</l>
+            <l>di questo istante ~ le ebbrezze pure;</l>
+            <l>d’amor soltanto ~ con me ragiona,</l>
+            <l>è il cielo, o cara, ~ che schiudi a me!</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Ah! del tuo bacio ~ nel dolce incanto</l>
+            <l>celeste gioia ~ diventa il pianto,</l>
+            <l>a umano strazio ~ dio non perdona</l>
+            <l>se perdonato ~ amor non è!</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Ma dimmi come, ~ angelo mio,</l>
+            <l>mi ravvisasti?</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>~ Nel marinar</l>
+            <l>Enzo conobbi. ~</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Al pari anch’io</l>
+            <l>te al primo ~ suono della parola…</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Enzo adorato! ~ Ma il tempo vola.</l>
+            <l>All’erta! All’erta! ~</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Deh! non tremar!</l>
+            <l>Siamo in un’isola ~ tutta deserta,</l>
+            <l>tra mare e cielo ~ tra cielo e mar!</l>
+            <l>Vedrem pur ora tramontar la luna…</l>
+            <l>quando sarà corcata, all’aura bruna</l>
+            <l>noi salperem; cogli occhi al firmamento,</l>
+            <l>coi baci in fronte e co’ le vele al vento!</l>
+            <l>La luna bassa si svolve dalle nuvole; il suo disco s’asconderà dietro il vascello.</l>
+          </sp>
+          <stage>ENZODeh! non tremar!Siamo in un’isola ~ tutta deserta,tra mare e cielo ~ tra cielo e mar!Vedrem pur ora tramontar la luna…quando sarà corcata, all’aura brunanoi salperem; cogli occhi al firmamento,coi baci in fronte e co’ le vele al vento!La luna bassa si svolve dalle nuvole; il suo disco s’asconderà dietro il vascello.</stage>
+          <sp who="#laura e enzo">
+            <speaker>LAURA E ENZO:</speaker>
+            <l>Laggiù nelle nebbie remote,</l>
+            <l>laggiù nelle tenebre ignote,</l>
+            <l>sta il segno del nostro cammin.</l>
+            <l>Nell’onde, nell’ombre, nei venti,</l>
+            <l>fidenti, ridenti, fuggenti,</l>
+            <l>gittiamo la vita e il destin.</l>
+            <l>La luna discende, discende</l>
+            <l>ricinta di roride bende,</l>
+            <l>siccome una sposa all’altar.</l>
+            <l>E asconde ~ la spenta ~ parvenza</l>
+            <l>nell’onde; ~ con lenta ~ cadenza</l>
+            <l>la luna è discesa nel mar!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ENZO</head>(staccandosi)E il tuo nocchiereor la fuga t’appresta. ~ O amata donna,tu qui resta.(scende sotto il ponte)Scena sestaLaura sola, poi Gioconda.[Scena e Romanza]<sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(staccandosi)</l>
+            <l>E il tuo nocchiere</l>
+            <l>or la fuga t’appresta. ~ O amata donna,</l>
+            <l>tu qui resta.</l>
+            <l>(scende sotto il ponte)</l>
+            <l>Scena sesta</l>
+            <l>Laura sola, poi Gioconda.</l>
+            <l>[Scena e Romanza]</l>
+          </sp>
+          <stage>ENZO(staccandosi)E il tuo nocchiereor la fuga t’appresta. ~ O amata donna,tu qui resta.(scende sotto il ponte)Scena sestaLaura sola, poi Gioconda.[Scena e Romanza]</stage>
+        </div>
+        <div type="scene">
+          <head>Ho il cuor pieno di preghiere.</head>Quel lume! Ah! una madonna!(davanti all’immagine della madonna orando con passione; mentre ch’essa prega, Gioconda mascherata escirà da un nascondiglio sotto prora, e s’avanzerà lenta)Stella del marinar! Vergine santa,tu mi difendi in quest’ora suprema,tu vedi quanta passïone e quantafede mi trasse a tale audacia estrema!Sotto il tuo velo che i prostrati ammantaricovera costei che prega e trema.Scenda per questa fervida orazionsul capo mio, madonna del perdon,una benedizion…Scena settimaGioconda e Laura.[Duetto] <stage>Ho il cuor pieno di preghiere.Quel lume! Ah! una madonna!(davanti all’immagine della madonna orando con passione; mentre ch’essa prega, Gioconda mascherata escirà da un nascondiglio sotto prora, e s’avanzerà lenta)Stella del marinar! Vergine santa,tu mi difendi in quest’ora suprema,tu vedi quanta passïone e quantafede mi trasse a tale audacia estrema!Sotto il tuo velo che i prostrati ammantaricovera costei che prega e trema.Scenda per questa fervida orazionsul capo mio, madonna del perdon,una benedizion…Scena settimaGioconda e Laura.[Duetto]</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>E un anatèma!</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>(inorridita, alzandosi)</l>
+            <l>Ah! Chi sei?</l>
+          </sp>
+          <stage>LAURA(inorridita, alzandosi)Ah! Chi sei?</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Chi son tu chiami?</l>
+            <l>Sono un’ombra che t’aspetta!</l>
+            <l>Il mio nome è la vendetta.</l>
+            <l>Amo l’uomo che tu ami.</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Ciel!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(accennando a prora)</l>
+            <l>Là attesi e il tempo colsi</l>
+            <l>come belva nella tana,</l>
+            <l>ah! la forza sovrumana</l>
+            <l>del furor m’invade i polsi!</l>
+            <l>Vuoi fuggir? D’amor ti struggi?</l>
+            <l>Vuoi fuggire, lieta rivale?…</l>
+            <l>Sì, l’antenna e il governale</l>
+            <l>pronti son, sta ben, va’… fuggi!</l>
+            <l>(ergendosi terribile)</l>
+          </sp>
+          <stage>GIOCONDA(accennando a prora)Là attesi e il tempo colsicome belva nella tana,ah! la forza sovrumanadel furor m’invade i polsi!Vuoi fuggir? D’amor ti struggi?Vuoi fuggire, lieta rivale?…Sì, l’antenna e il governalepronti son, sta ben, va’… fuggi!(ergendosi terribile)</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Furia orrenda!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Ah! mi paventi!</l>
+            <l>ed ardisci amar d’amore</l>
+            <l>quell’eroe?</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Sfido il tuo core,</l>
+            <l>o rival!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Bestemmi!…</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Menti!</l>
+            <l>L’amo come il fulgor del creato!</l>
+            <l>come l’aura che avviva il respiro!</l>
+            <l>come il sogno celeste e beato</l>
+            <l>da cui venne il mio primo sospir.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Ed io l’amo siccome il leone</l>
+            <l>ama il sangue, ed il turbine il vol</l>
+            <l>e la folgor le vette, e l’alcione</l>
+            <l>le voragini, e l’aquila il sol!</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Pe ‘l suo bacio soave disfido</l>
+            <l>della pallida morte l’orror!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Pe ‘l suo bacio soave t’uccido,</l>
+            <l>son più forte, più forte è il mio amor!</l>
+            <l>(ghermendo un pugnale)</l>
+            <l>[Scena e Duetto – Finale II]</l>
+            <l>(afferrandola)</l>
+            <l>Il mio braccio t’afferra!</l>
+            <l>Vien ch’io ti scorga in viso! a terra! a terra!</l>
+            <l>presso a quel lume… o i lagrimosi rai…</l>
+            <l>or più scampo non hai!</l>
+            <l>questo pugnale…</l>
+            <l>ma no… tu avrai per sorte</l>
+            <l>un fulmin più fatale…</l>
+            <l>in quella barca bruna…</l>
+          </sp>
+          <stage>GIOCONDAPe ‘l suo bacio soave t’uccido,son più forte, più forte è il mio amor!(ghermendo un pugnale)[Scena e Duetto – Finale II](afferrandola)Il mio braccio t’afferra!Vien ch’io ti scorga in viso! a terra! a terra!presso a quel lume… o i lagrimosi rai…or più scampo non hai!questo pugnale…ma no… tu avrai per sorteun fulmin più fatale…in quella barca bruna…</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>O ciel!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Là, è il tuo consorte!</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Perduta io son!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>La morte</l>
+            <l>voga sulla laguna.</l>
+            <l>Ecco! Oramai né un nume né un santuario</l>
+            <l>salvar ti può.</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>(alzando il rosario)</l>
+            <l>M’aita!</l>
+          </sp>
+          <stage>LAURA(alzando il rosario)M’aita!</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Ah! quel rosario!</l>
+            <l>Esso è per te benedizione e schermo.</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Che fai?</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Ti salvo! Olà, il mio palischermo!</l>
+            <l>(appariscono due marinai, con una barca)</l>
+          </sp>
+          <stage>GIOCONDATi salvo! Olà, il mio palischermo!(appariscono due marinai, con una barca)</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Fuggi! a te… questa maschera t’asconda!</l>
+            <l>(stacca la maschera e la pone sul volto a Laura)</l>
+          </sp>
+          <stage>GIOCONDAFuggi! a te… questa maschera t’asconda!(stacca la maschera e la pone sul volto a Laura)</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Ma mi dirai chi sei?…</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Son la Gioconda!</l>
+            <l>(Gioconda spinge quasi a forza Laura nella barca, che si allontana rapidamente. Gioconda scomparisce un istante dietro al brigantino, come per assicurarsi della fuga di Laura)</l>
+          </sp>
+          <stage>GIOCONDASon la Gioconda!(Gioconda spinge quasi a forza Laura nella barca, che si allontana rapidamente. Gioconda scomparisce un istante dietro al brigantino, come per assicurarsi della fuga di Laura)</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(dalla riva, osservando i movimenti della barca che porta Laura e scorgendo in distanza la gondola d’Alvise)</l>
+            <l>Maledizion! Ha preso il vol! Padron!</l>
+            <l>Nel canal morto… là… forza di remi!…</l>
+            <l>(scomparisce)</l>
+          </sp>
+          <stage>BARNABA(dalla riva, osservando i movimenti della barca che porta Laura e scorgendo in distanza la gondola d’Alvise)Maledizion! Ha preso il vol! Padron!Nel canal morto… là… forza di remi!…(scomparisce)</stage>
+        </div>
+        <div type="scene">
+          <head>GIOCONDA</head>(ricomparendo dal fondo)È salva! Oh! madre mia! quanto mi costi.Scena ottavaGioconda ed Enzo.<sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(ricomparendo dal fondo)</l>
+            <l>È salva! Oh! madre mia! quanto mi costi.</l>
+            <l>Scena ottava</l>
+            <l>Gioconda ed Enzo.</l>
+          </sp>
+          <stage>GIOCONDA(ricomparendo dal fondo)È salva! Oh! madre mia! quanto mi costi.Scena ottavaGioconda ed Enzo.</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(scendendo dal ponte)</l>
+            <l>Laura! Laura, ove sei?</l>
+          </sp>
+          <stage>ENZO(scendendo dal ponte)Laura! Laura, ove sei?</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(avanzandosi verso Enzo fieramente)</l>
+            <l>Laura è scomparsa!</l>
+          </sp>
+          <stage>GIOCONDA(avanzandosi verso Enzo fieramente)Laura è scomparsa!</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Gioconda! oh! ciel! che avvenne?</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Invano a’ rei</l>
+            <l>baci sognati il tuo sospir la chiama…</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Menti, menti, o crudel!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>No, più non t’ama!</l>
+            <l>(trascinandolo verso la riva)</l>
+            <l>Vedi là, nel canal morto,</l>
+            <l>un navil che forza il corso?</l>
+            <l>Essa fugge! il suo rimorso</l>
+            <l>fu più forte dell’amor!</l>
+            <l>Questo lido è a lei funesto,</l>
+            <l>ché la morte intorno sta…</l>
+            <l>Essa fugge ed io qui resto!…</l>
+            <l>Chi di noi più amato avrà?</l>
+          </sp>
+          <stage>GIOCONDANo, più non t’ama!(trascinandolo verso la riva)Vedi là, nel canal morto,un navil che forza il corso?Essa fugge! il suo rimorsofu più forte dell’amor!Questo lido è a lei funesto,ché la morte intorno sta…Essa fugge ed io qui resto!…Chi di noi più amato avrà?</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Taci! ahimè! da che t’ho scorto,</l>
+            <l>sospettai nefando agguato;</l>
+            <l>non mi dir d’avermi amato,</l>
+            <l>odio sol tu porti in cor!</l>
+            <l>Ma al suo barbaro consorte</l>
+            <l>l’idol mio saprò strappar!…</l>
+            <l>(slanciandosi verso la riva)</l>
+            <l>Là è la vita…</l>
+          </sp>
+          <stage>ENZOTaci! ahimè! da che t’ho scorto,sospettai nefando agguato;non mi dir d’avermi amato,odio sol tu porti in cor!Ma al suo barbaro consortel’idol mio saprò strappar!…(slanciandosi verso la riva)Là è la vita…</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Là è la morte!…</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Che di’ tu?</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Riguarda al mar!</l>
+            <l>Tu sei tradito! Un infame, un crudele</l>
+            <l>al Gran Consiglio il tuo nome svelò…</l>
+            <l>Rompi gli indugi, ~ fa’ forza di vele,</l>
+            <l>il ciel ancora salvare ti può!</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Taci! è un insulto de’ vili il consiglio,</l>
+            <l>dov’è la morte, là impavido io sto!</l>
+            <l>Noto m’è il rombo del fiero naviglio,</l>
+            <l>fuga od arresa che sieno non so!</l>
+            <l>(si ode un colpo di cannone – Alcuni marinai dell’Hècate sbucano dal ponte, altri irrompono dalla scena, alcuni con fiaccole in mano)</l>
+          </sp>
+          <stage>ENZOTaci! è un insulto de’ vili il consiglio,dov’è la morte, là impavido io sto!Noto m’è il rombo del fiero naviglio,fuga od arresa che sieno non so!(si ode un colpo di cannone – Alcuni marinai dell’Hècate sbucano dal ponte, altri irrompono dalla scena, alcuni con fiaccole in mano)</stage>
+          <sp who="#marinai e mozzi">
+            <speaker>MARINAI E MOZZI:</speaker>
+            <l>Le galee, le galee! Salvi chi può!</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(strappando la fiaccola ad uno dei marinai)</l>
+            <l>Sin ch’io sia vivo, no!</l>
+            <l>al nemico darem cenere e brage!</l>
+            <l>(dà fuoco all’Hècate. La nave arde)</l>
+          </sp>
+          <stage>ENZO(strappando la fiaccola ad uno dei marinai)Sin ch’io sia vivo, no!al nemico darem cenere e brage!(dà fuoco all’Hècate. La nave arde)</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Incendio!</l>
+          </sp>
+          <sp who="#marinai e mozzi">
+            <speaker>MARINAI E MOZZI:</speaker>
+            <l>Incendio! guerra! morte! strage!</l>
+            <l>fuggiam! più speranza non v’ha!</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(dalla tolda, slanciandosi in mare)</l>
+            <l>O Laura, addio!</l>
+          </sp>
+          <stage>ENZO(dalla tolda, slanciandosi in mare)O Laura, addio!</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(dalla riva)</l>
+            <l>E sempre Laura!</l>
+            <l>ma almen con te morir poss’io.</l>
+            <l>La nave si sprofonda.</l>
+          </sp>
+          <stage>GIOCONDA(dalla riva)E sempre Laura!ma almen con te morir poss’io.La nave si sprofonda.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto terzo</head>Ca’ d’Oro.Una camera nella Ca’ d’Oro. Sera; lampada accesa. – Da un lato un’armatura antica.Scena primaAlvise solo.[Scena ed Aria]<div type="scene">
+          <head>Atto terzo</head>Ca’ d’Oro.Una camera nella Ca’ d’Oro. Sera; lampada accesa. – Da un lato un’armatura antica.Scena primaAlvise solo.[Scena ed Aria] <stage>Atto terzoCa’ d’Oro.Una camera nella Ca’ d’Oro. Sera; lampada accesa. – Da un lato un’armatura antica.Scena primaAlvise solo.[Scena ed Aria]</stage>
+        </div>
+        <div type="scene">
+          <head>(entrando in preda a violenta agitazione)</head>Sì! morir ella de’! Sul nome mioscritta l’infamia impunemente avrà?Chi un Badoer tradìnon può sperar pietà!…Se ier non la ghermìnell’isola fatal questa mia mano,l’espïazion non fia tremenda meno!Ieri un pugnal le avria squarciato il seno,oggi… un ferro non è… sarà un veleno!(accennando alle sale contigue)Là turbini e farnetichila gaia baraonda,dell’agonia col gemitoqui l’orgia si confonda,ombre di mia prosapia,non arrossite ancor!Tutto la morte vendica,anche il tradito amor!Là del patrizio venetos’adempia al largo invito,quivi il feral maritoprovveda al proprio onor!Fremete, o danze, o cantici!…è una infedel che muor!Scena secondaLaura e Alvise.[Scena e Duetto] <stage>(entrando in preda a violenta agitazione)Sì! morir ella de’! Sul nome mioscritta l’infamia impunemente avrà?Chi un Badoer tradìnon può sperar pietà!…Se ier non la ghermìnell’isola fatal questa mia mano,l’espïazion non fia tremenda meno!Ieri un pugnal le avria squarciato il seno,oggi… un ferro non è… sarà un veleno!(accennando alle sale contigue)Là turbini e farnetichila gaia baraonda,dell’agonia col gemitoqui l’orgia si confonda,ombre di mia prosapia,non arrossite ancor!Tutto la morte vendica,anche il tradito amor!Là del patrizio venetos’adempia al largo invito,quivi il feral maritoprovveda al proprio onor!Fremete, o danze, o cantici!…è una infedel che muor!Scena secondaLaura e Alvise.[Scena e Duetto]</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>(entra in ricca veste da ballo, con perle e gemme)</l>
+            <l>Qui chiamata m’avete?</l>
+          </sp>
+          <stage>LAURA(entra in ricca veste da ballo, con perle e gemme)Qui chiamata m’avete?</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>(con affettata cortesia)</l>
+            <l>Pur che vi piaccia…</l>
+          </sp>
+          <stage>ALVISE(con affettata cortesia)Pur che vi piaccia…</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Mio signor…</l>
+            <l>(va lentamente a sedere)</l>
+          </sp>
+          <stage>LAURAMio signor…(va lentamente a sedere)</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>Sedete!</l>
+            <l>(siedono ai due lati di un ampio tavolo)</l>
+          </sp>
+          <stage>ALVISESedete!(siedono ai due lati di un ampio tavolo)</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>Bella così, madonna, ~ io non v’ho mai veduta;</l>
+            <l>pur il sorriso è languido: ~ perché ristarvi muta?</l>
+            <l>Dite: un gentil mistero ~ v’è grave a me svelar,</l>
+            <l>o un qualche velo nero ~ dovrò da me strappar?</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Dal vostro accento insolito ~ cruda ironia traspira,</l>
+            <l>il labbro a grazia atteggiasi, ~ e fuor ne scoppia l’ira…</l>
+            <l>Mio nobile consorte, ~ non vi comprendo ancora!</l>
+          </sp>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>(concitato)</l>
+            <l>Pur d’abbassar la maschera ~ madonna, è giunta l’ora.</l>
+            <l>(alzandosi con violenza)</l>
+            <l>Giunta è l’ora! ~ ad altr’uomo rivolto,</l>
+            <l>donna impura, è il tuo primo sospir…</l>
+          </sp>
+          <stage>ALVISE(concitato)Pur d’abbassar la maschera ~ madonna, è giunta l’ora.(alzandosi con violenza)Giunta è l’ora! ~ ad altr’uomo rivolto,donna impura, è il tuo primo sospir…</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Ad altr’uomo? Che dite? Che ascolto!</l>
+            <l>(Cielo! orrendo m’imponi martir.)</l>
+          </sp>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>Ieri quasi t’ho colta in peccato,</l>
+            <l>pur potesti salvarti e fuggir…</l>
+            <l>Col mio guanto t’ho oggi afferrato,</l>
+            <l>più non fuggi, ~ ti è d’uopo morir!</l>
+            <l>(la atterra violentemente. Laura getta un grido)</l>
+          </sp>
+          <stage>ALVISEIeri quasi t’ho colta in peccato,pur potesti salvarti e fuggir…Col mio guanto t’ho oggi afferrato,più non fuggi, ~ ti è d’uopo morir!(la atterra violentemente. Laura getta un grido)</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Morir! è troppo orribile!</l>
+            <l>Aver davanti il ciel…</l>
+            <l>e scender nelle tenebre</l>
+            <l>d’un desolato avel!</l>
+            <l>Senti! di sangue tiepido</l>
+            <l>in sen mi scorre un rivo…</l>
+            <l>Perché, se piango e vivo,</l>
+            <l>dirmi: tu déi morir? ~</l>
+            <l>La morte è pena infame</l>
+            <l>anche a più gran fallir!</l>
+          </sp>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>Invan tu piangi ~ invan tu speri,</l>
+            <l>dio non ti può esaudir!</l>
+            <l>In lui raccogli ~ i tuoi pensieri;</l>
+            <l>prepàrati a morir!</l>
+            <l>[Scena e Serenata]</l>
+            <l>Un confessore ivi t’attende!</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>(atterrita)</l>
+            <l>Ahimè!</l>
+            <l>Ove m’adduci?</l>
+          </sp>
+          <stage>LAURA(atterrita)Ahimè!Ove m’adduci?</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>(con forza sollevando la drapperia della camera attigua e indicando un catafalco. Si vedrà il riverbero dei ceri)</l>
+            <l>Vieni!</l>
+            <l>Questo è il talamo tuo!</l>
+          </sp>
+          <stage>ALVISE(con forza sollevando la drapperia della camera attigua e indicando un catafalco. Si vedrà il riverbero dei ceri)Vieni!Questo è il talamo tuo!</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>(inorridita)</l>
+            <l>Ah! orribil cosa.</l>
+          </sp>
+          <stage>LAURA(inorridita)Ah! orribil cosa.</stage>
+          <sp who="#serenata interna">
+            <speaker>SERENATA INTERNA:</speaker>
+            <l>(sulla laguna)</l>
+            <l>Te n’ va’, serenata,</l>
+            <l>per l’aura serena,</l>
+            <l>te n’ va’, cantilena,</l>
+            <l>per l’onda incantata.</l>
+            <l>Udite le blande</l>
+            <l>canzoni vagar,</l>
+            <l>il remo ci scande</l>
+            <l>gli accordi sul mar.</l>
+            <l>(entra Gioconda e s’appiatta in fondo. La serenata cessa per un momento)</l>
+          </sp>
+          <stage>SERENATA INTERNA(sulla laguna)Te n’ va’, serenata,per l’aura serena,te n’ va’, cantilena,per l’onda incantata.Udite le blandecanzoni vagar,il remo ci scandegli accordi sul mar.(entra Gioconda e s’appiatta in fondo. La serenata cessa per un momento)</stage>
+        </div>
+        <div type="scene">
+          <head>ALVISE</head>(estraendo una fiala)Prendi questo velen; e già che fortetanto mi sembri ne’ tuoi detti audaci,con quelle labbra che succhiaro i baci,suggi la morte.La tua condanna confido a te stessa;non far che mal securovoler t’arresti la mano perplessa,non far che il mio pugnal ti percotae insozzi i lari del tuo sangue impuro.Scampo non hai.Odi questa canzon? Morir dovraipria ch’essa giunga all’ultima sua nota.(esce)Scena terzaLaura e Gioconda.(accorrendo verso Laura, afferra il veleno che Laura ha tra le mani e le porge un’ampolla)<sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>(estraendo una fiala)</l>
+            <l>Prendi questo velen; e già che forte</l>
+            <l>tanto mi sembri ne’ tuoi detti audaci,</l>
+            <l>con quelle labbra che succhiaro i baci,</l>
+            <l>suggi la morte.</l>
+            <l>La tua condanna confido a te stessa;</l>
+            <l>non far che mal securo</l>
+            <l>voler t’arresti la mano perplessa,</l>
+            <l>non far che il mio pugnal ti percota</l>
+            <l>e insozzi i lari del tuo sangue impuro.</l>
+            <l>Scampo non hai.</l>
+            <l>Odi questa canzon? Morir dovrai</l>
+            <l>pria ch’essa giunga all’ultima sua nota.</l>
+            <l>(esce)</l>
+            <l>Scena terza</l>
+            <l>Laura e Gioconda.</l>
+            <l>(accorrendo verso Laura, afferra il veleno che Laura ha tra le mani e le porge un’ampolla)</l>
+          </sp>
+          <stage>ALVISE(estraendo una fiala)Prendi questo velen; e già che fortetanto mi sembri ne’ tuoi detti audaci,con quelle labbra che succhiaro i baci,suggi la morte.La tua condanna confido a te stessa;non far che mal securovoler t’arresti la mano perplessa,non far che il mio pugnal ti percotae insozzi i lari del tuo sangue impuro.Scampo non hai.Odi questa canzon? Morir dovraipria ch’essa giunga all’ultima sua nota.(esce)Scena terzaLaura e Gioconda.(accorrendo verso Laura, afferra il veleno che Laura ha tra le mani e le porge un’ampolla)</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>A me quel filtro! a te codesto! bevi!</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Gioconda! qui?</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Previdi la tua sorte,</l>
+            <l>per salvarti mi armai, ti rassicura.</l>
+            <l>Quel narcotico è tal, che della morte</l>
+            <l>finge il letargo… Angoscïosi, brevi</l>
+            <l>sono gl’istanti… bevi… a me la cura</l>
+            <l>lascia dell’opra. ~ Or via!</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Mi fai paura!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>S’ei qui torna t’uccide.</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Atra agonia!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Prega per te quaggiù la madre mia,</l>
+            <l>nell’oratorio, i miei fidi cantor</l>
+            <l>son presso… ascolta…</l>
+          </sp>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Orror!</l>
+            <l>Già la canzone muor!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Con essa muori!</l>
+            <l>La condanna t’è nota:</l>
+            <l>Pria ch’essa giunga all’ultima sua nota…</l>
+          </sp>
+          <stage>GIOCONDACon essa muori!La condanna t’è nota:Pria ch’essa giunga all’ultima sua nota…</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Porgi! Ho bevuto!</l>
+            <l>(prende la fiala dalle mani di Gioconda, poi scompare dietro le cortine della camera mortuaria)</l>
+          </sp>
+          <stage>LAURAPorgi! Ho bevuto!(prende la fiala dalle mani di Gioconda, poi scompare dietro le cortine della camera mortuaria)</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>La fiala a me! Gran dio!</l>
+            <l>(travasa il veleno d’Alvise nella fiala del sonnifero e lascia l’ampolla del veleno vuota sul tavolo; esce precipitosa)</l>
+          </sp>
+          <stage>GIOCONDALa fiala a me! Gran dio!(travasa il veleno d’Alvise nella fiala del sonnifero e lascia l’ampolla del veleno vuota sul tavolo; esce precipitosa)</stage>
+        </div>
+        <div type="scene">
+          <head>CORO</head>(interno; più vicino)La gaia canzonfa l’eco languir,e l’ilare suonsi muta in sospir.Con vago miraggioriflette la lunal’argenteo suo raggiosull’ampia lagunae in quel si sublimariverbero pio,patetica rimacreata da dio.Te n’ va’, cantilena,per l’aura serena,te n’ va’, serenata,per l’onda incantata.Udite le blandecanzoni vagar.Il remo ci scandegli accordi sul mar.Te n’ va’, serenata,per l’onda incantata.Il canto è la vita,di sogni si pasce,ai sogni c’invita,dai sogni rinasce,d’un’anima ignotaè l’eco fedel.L’estrema sua notasi perde nel ciel.Scena quartaAlvise, solo, mentre la cadenza della serenata è alle ultime sue note; osserva l’ampolla vuota sul tavolo.<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(interno; più vicino)</l>
+            <l>La gaia canzon</l>
+            <l>fa l’eco languir,</l>
+            <l>e l’ilare suon</l>
+            <l>si muta in sospir.</l>
+            <l>Con vago miraggio</l>
+            <l>riflette la luna</l>
+            <l>l’argenteo suo raggio</l>
+            <l>sull’ampia laguna</l>
+            <l>e in quel si sublima</l>
+            <l>riverbero pio,</l>
+            <l>patetica rima</l>
+            <l>creata da dio.</l>
+            <l>Te n’ va’, cantilena,</l>
+            <l>per l’aura serena,</l>
+            <l>te n’ va’, serenata,</l>
+            <l>per l’onda incantata.</l>
+            <l>Udite le blande</l>
+            <l>canzoni vagar.</l>
+            <l>Il remo ci scande</l>
+            <l>gli accordi sul mar.</l>
+            <l>Te n’ va’, serenata,</l>
+            <l>per l’onda incantata.</l>
+            <l>Il canto è la vita,</l>
+            <l>di sogni si pasce,</l>
+            <l>ai sogni c’invita,</l>
+            <l>dai sogni rinasce,</l>
+            <l>d’un’anima ignota</l>
+            <l>è l’eco fedel.</l>
+            <l>L’estrema sua nota</l>
+            <l>si perde nel ciel.</l>
+            <l>Scena quarta</l>
+            <l>Alvise, solo, mentre la cadenza della serenata è alle ultime sue note; osserva l’ampolla vuota sul tavolo.</l>
+          </sp>
+          <stage>CORO(interno; più vicino)La gaia canzonfa l’eco languir,e l’ilare suonsi muta in sospir.Con vago miraggioriflette la lunal’argenteo suo raggiosull’ampia lagunae in quel si sublimariverbero pio,patetica rimacreata da dio.Te n’ va’, cantilena,per l’aura serena,te n’ va’, serenata,per l’onda incantata.Udite le blandecanzoni vagar.Il remo ci scandegli accordi sul mar.Te n’ va’, serenata,per l’onda incantata.Il canto è la vita,di sogni si pasce,ai sogni c’invita,dai sogni rinasce,d’un’anima ignotaè l’eco fedel.L’estrema sua notasi perde nel ciel.Scena quartaAlvise, solo, mentre la cadenza della serenata è alle ultime sue note; osserva l’ampolla vuota sul tavolo.</stage>
+        </div>
+        <div type="scene">
+          <head>ALVISE</head>Tutto è compiuto!Vuoto è il cristal.(entra nella cella funeraria, vi rimane un momento, e torna in scena)Vola su lei la morte.La morte è il nulla e vecchia fola è il ciel!(esce)Scena quintaGioconda sola.<sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>Tutto è compiuto!</l>
+            <l>Vuoto è il cristal.</l>
+            <l>(entra nella cella funeraria, vi rimane un momento, e torna in scena)</l>
+            <l>Vola su lei la morte.</l>
+            <l>La morte è il nulla e vecchia fola è il ciel!</l>
+            <l>(esce)</l>
+            <l>Scena quinta</l>
+            <l>Gioconda sola.</l>
+          </sp>
+          <stage>ALVISETutto è compiuto!Vuoto è il cristal.(entra nella cella funeraria, vi rimane un momento, e torna in scena)Vola su lei la morte.La morte è il nulla e vecchia fola è il ciel!(esce)Scena quintaGioconda sola.</stage>
+          <stage>(Gioconda ricomparisce dal lato opposto a quello donde è uscito Alvise. Si guarda intorno, solleva la cortina della cella, poi, vistasi sola, esclama:)O madre mia, nell’isola fatalefrenai per te la sanguinaria bramadi reietta rival. Or più tremendoè il sacrifizio mio… o madre mia,io la salvo per lui, per lui che l’ama!(esce precipitosamente)</stage>
+        </div>
+        <div type="scene">
+          <head>Cambia la scena.</head>Scena sestaSontuosissima sala attigua alla cella funeraria, splendidamente parata a festa. Ampio portone nel fondo a sinistra, uno consimile a destra, ma questo tutto chiuso da una drapperia. – Una terza porta nella parete a sinistra.Entrano Cavalieri, Dame, Maschere. Alvise moverà loro incontro ricevendo e complimentando chi entra. Il Paggio gli sta accanto. Gioconda.[Scena, Ingresso dei Cavalieri e Coro] <stage>Cambia la scena.Scena sestaSontuosissima sala attigua alla cella funeraria, splendidamente parata a festa. Ampio portone nel fondo a sinistra, uno consimile a destra, ma questo tutto chiuso da una drapperia. – Una terza porta nella parete a sinistra.Entrano Cavalieri, Dame, Maschere. Alvise moverà loro incontro ricevendo e complimentando chi entra. Il Paggio gli sta accanto. Gioconda.[Scena, Ingresso dei Cavalieri e Coro]</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>Benvenuti messeri! Andrea Sagredo!</l>
+            <l>Erizzo, Loredàn! Venièr! Chi vedo?</l>
+            <l>Isèpo Barbarigo, a noi tornato</l>
+            <l>dalla pallida China! e il ben amato</l>
+            <l>cugino mio Partecipàzio! O quanti</l>
+            <l>bei cavalieri!… Belle dame! Avanti,</l>
+            <l>avanti! E voi, vispi cantor e maschere,</l>
+            <l>presto sciogliete le caròle e i canti.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>S’inneggi alla Ca’ d’Oro</l>
+            <l>che intreccia in rami d’or</l>
+            <l>della virtù l’alloro</l>
+            <l>col mirto dell’amor!…</l>
+            <l>[Recitativo e Danza delle Ore]</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ALVISE</head>Grazie vi rendo per le vostre laudi,cortesi amici. A più leggiadri gaudiora v’invito. Ecco una mascheratadi vaghe danzatrici. ~ Ognuna è ornatadi bellezza e fulgoree tutte in cerchio rappresentan l’ore.Incomincia la danza.Sortono le Ore dell’aurora.Danza delle Ore dell’aurora.Sortono le Ore del giorno.Danza delle Ore del giorno.Sortono le Ore della sera.Danza delle Ore della sera.Sortono le Ore della notte.Danza delle Ore della notte.Scena settimaI precedenti, Barnaba, la Cieca, Enzo.[Scena e Finale III- Pezzo concertato]<sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>Grazie vi rendo per le vostre laudi,</l>
+            <l>cortesi amici. A più leggiadri gaudi</l>
+            <l>ora v’invito. Ecco una mascherata</l>
+            <l>di vaghe danzatrici. ~ Ognuna è ornata</l>
+            <l>di bellezza e fulgore</l>
+            <l>e tutte in cerchio rappresentan l’ore.</l>
+            <l>Incomincia la danza.</l>
+            <l>Sortono le Ore dell’aurora.</l>
+            <l>Danza delle Ore dell’aurora.</l>
+            <l>Sortono le Ore del giorno.</l>
+            <l>Danza delle Ore del giorno.</l>
+            <l>Sortono le Ore della sera.</l>
+            <l>Danza delle Ore della sera.</l>
+            <l>Sortono le Ore della notte.</l>
+            <l>Danza delle Ore della notte.</l>
+            <l>Scena settima</l>
+            <l>I precedenti, Barnaba, la Cieca, Enzo.</l>
+            <l>[Scena e Finale III- Pezzo concertato]</l>
+          </sp>
+          <stage>ALVISEGrazie vi rendo per le vostre laudi,cortesi amici. A più leggiadri gaudiora v’invito. Ecco una mascheratadi vaghe danzatrici. ~ Ognuna è ornatadi bellezza e fulgoree tutte in cerchio rappresentan l’ore.Incomincia la danza.Sortono le Ore dell’aurora.Danza delle Ore dell’aurora.Sortono le Ore del giorno.Danza delle Ore del giorno.Sortono le Ore della sera.Danza delle Ore della sera.Sortono le Ore della notte.Danza delle Ore della notte.Scena settimaI precedenti, Barnaba, la Cieca, Enzo.[Scena e Finale III- Pezzo concertato]</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(trascinando la Cieca, che invano cerca svincolarsi dalle sue strette)</l>
+            <l>Vieni!</l>
+          </sp>
+          <stage>BARNABA(trascinando la Cieca, che invano cerca svincolarsi dalle sue strette)Vieni!</stage>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>Lasciami! ohimè!</l>
+          </sp>
+          <sp who="#coro e alvise">
+            <speaker>CORO E ALVISE:</speaker>
+            <l>La Cieca!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(accorrendo)</l>
+            <l>Oh madre!</l>
+          </sp>
+          <stage>GIOCONDA(accorrendo)Oh madre!</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>(alla Cieca)</l>
+            <l>Qui che fai tu?</l>
+          </sp>
+          <stage>ALVISE(alla Cieca)Qui che fai tu?</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Nelle vietate stanze</l>
+            <l>io la sorpresi al maleficio intenta!</l>
+          </sp>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>Pregavo per chi muor.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Per chi muor? che di’ tu?</l>
+            <l>Si odono i lenti rintocchi della campana degli agonizzanti.</l>
+          </sp>
+          <stage>COROPer chi muor? che di’ tu?Si odono i lenti rintocchi della campana degli agonizzanti.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Qual suon funèbre!</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(a Barnaba sommessamente)</l>
+            <l>Un’agonia! per chi?</l>
+          </sp>
+          <stage>ENZO(a Barnaba sommessamente)Un’agonia! per chi?</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(sottovoce ad Enzo)</l>
+            <l>Per Laura!</l>
+          </sp>
+          <stage>BARNABA(sottovoce ad Enzo)Per Laura!</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Orror!</l>
+            <l>Che più mi resta se quell’angiol muor?</l>
+          </sp>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>(avanzandosi tra la folla atterrita e confusa)</l>
+            <l>E che? La gioia sparve!</l>
+            <l>Se gaio è Badoèro,</l>
+            <l>chi ha fra gli ospiti suoi dritto al dolor?</l>
+          </sp>
+          <stage>ALVISE(avanzandosi tra la folla atterrita e confusa)E che? La gioia sparve!Se gaio è Badoèro,chi ha fra gli ospiti suoi dritto al dolor?</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Io l’ho più ch’altri!</l>
+          </sp>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>Tu? ma tu chi sei?</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(gettando la maschera)</l>
+            <l>Il tuo proscritto io sono, Enzo Grimaldo,</l>
+            <l>prence di Santafior! Patria ed amore</l>
+            <l>tu m’hai rubato un dì…</l>
+            <l>or compi il tuo delitto!</l>
+          </sp>
+          <stage>ENZO(gettando la maschera)Il tuo proscritto io sono, Enzo Grimaldo,prence di Santafior! Patria ed amoretu m’hai rubato un dì…or compi il tuo delitto!</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Audacia!</l>
+          </sp>
+          <sp who="#gioconda e cieca">
+            <speaker>GIOCONDA E CIECA:</speaker>
+            <l>Orror!</l>
+          </sp>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>Sul capo tuo rispondi,</l>
+            <l>Barnaba, del codardo insultator!</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>D’un vampiro fatal ~ l’ala fredda passò</l>
+            <l>e in teda funeral ~ ogni face mutò.</l>
+            <l>Un sinistro baglior ~ le fronti illuminò;</l>
+            <l>più la gioia regnar ~ nella festa non può!</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(O mia stella d’amor, ~ o mio nume fedel,</l>
+            <l>se rapita a me sei, ~ ti raggiungo nel ciel!)</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(O tortura crudel! ~ inaudito martir!</l>
+            <l>Quanto ei l’ama! È per lei ~ qui venuto a morir!)</l>
+          </sp>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>(a Barnaba)</l>
+            <l>O fatal delator, ~ se trafitto alcun fu,</l>
+            <l>riconosco la man, ~ l’assassino sei tu!</l>
+          </sp>
+          <stage>CIECA(a Barnaba)O fatal delator, ~ se trafitto alcun fu,riconosco la man, ~ l’assassino sei tu!</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(alla Cieca)</l>
+            <l>Giuro al ciel, se ier ~ quella rea ti salvò,</l>
+            <l>la vendetta oggimai ~ sfuggirmi non può!</l>
+          </sp>
+          <stage>BARNABA(alla Cieca)Giuro al ciel, se ier ~ quella rea ti salvò,la vendetta oggimai ~ sfuggirmi non può!</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(Già ti vedo immota e smorta</l>
+            <l>tutta avvolta in bianco vel,</l>
+            <l>tu sei morta, tu sei morta</l>
+            <l>angiol mio dolce e fedel!</l>
+            <l>Su di me piombi la scure,</l>
+            <l>s’apra il baratro fatal,</l>
+            <l>e mi guidin le torture</l>
+            <l>all’imene celestial.)</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(Scorre il pianto a stilla a stilla</l>
+            <l>nel silenzio del dolor.</l>
+            <l>Piangi o turgida pupilla</l>
+            <l>mentre sanguina il mio cor.)</l>
+          </sp>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(a Gioconda)</l>
+            <l>Cedi alfine, della mia mano</l>
+            <l>vedi qui l’opra fatal.</l>
+            <l>Mi paventa! un genio arcano</l>
+            <l>mi trascina verso il mal.</l>
+          </sp>
+          <stage>BARNABA(a Gioconda)Cedi alfine, della mia manovedi qui l’opra fatal.Mi paventa! un genio arcanomi trascina verso il mal.</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(sotto voce, a Barnaba)</l>
+            <l>Se lo salvi e adduci al lido,</l>
+            <l>laggiù presso al Redentor,</l>
+            <l>il mio corpo t’abbandono,</l>
+            <l>o terribile cantor.</l>
+          </sp>
+          <stage>GIOCONDA(sotto voce, a Barnaba)Se lo salvi e adduci al lido,laggiù presso al Redentor,il mio corpo t’abbandono,o terribile cantor.</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(come sopra, a Gioconda)</l>
+            <l>Disperato è questo dono,</l>
+            <l>pur lo accetta il tuo cantor.</l>
+            <l>Al destin spietato irrido,</l>
+            <l>pur d’averti sul mio cor.</l>
+          </sp>
+          <stage>BARNABA(come sopra, a Gioconda)Disperato è questo dono,pur lo accetta il tuo cantor.Al destin spietato irrido,pur d’averti sul mio cor.</stage>
+          <sp who="#cieca">
+            <speaker>CIECA:</speaker>
+            <l>(a Gioconda)</l>
+            <l>Le tue lagrime, o Gioconda,</l>
+            <l>ché non versi sul mio core?</l>
+            <l>Un amor non ti circonda</l>
+            <l>che sia pari a questo amor!</l>
+          </sp>
+          <stage>CIECA(a Gioconda)Le tue lagrime, o Gioconda,ché non versi sul mio core?Un amor non ti circondache sia pari a questo amor!</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>(cupamente guardando Enzo)</l>
+            <l>Nel fulgor di questa festa</l>
+            <l>mal venisti, o cavalier,</l>
+            <l>par che sia per te funesta</l>
+            <l>l’allegria dei Badoer!</l>
+            <l>Ma già appresto a’ tuoi sgomenti</l>
+            <l>nuova scena di terror!</l>
+            <l>Tu saprai se invan si attenti</l>
+            <l>del mio nome al puro onor!</l>
+          </sp>
+          <stage>ALVISE(cupamente guardando Enzo)Nel fulgor di questa festamal venisti, o cavalier,par che sia per te funestal’allegria dei Badoer!Ma già appresto a’ tuoi sgomentinuova scena di terror!Tu saprai se invan si attentidel mio nome al puro onor!</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Tristi eventi! Audacie orrende!</l>
+            <l>Spaventevole festin!</l>
+            <l>Come rapida discende</l>
+            <l>la valanga del destin!</l>
+          </sp>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>(avanzandosi in mezzo della scena, con atto di suprema dignità)</l>
+            <l>Or tutti a me! La donna che fu mia</l>
+            <l>l’estremo oltraggio al nome mio recò!</l>
+            <l>(va verso la cella funeraria ed alza le cortine. – Laura apparisce vestita di bianco, stesa sul suo letto di morte. La cella è rischiarata da molti doppieri)</l>
+          </sp>
+          <stage>ALVISE(avanzandosi in mezzo della scena, con atto di suprema dignità)Or tutti a me! La donna che fu mial’estremo oltraggio al nome mio recò!(va verso la cella funeraria ed alza le cortine. – Laura apparisce vestita di bianco, stesa sul suo letto di morte. La cella è rischiarata da molti doppieri)</stage>
+          <sp who="#alvise">
+            <speaker>ALVISE:</speaker>
+            <l>Miratela! son io che spenta l’ho!</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(si slancia, brandendo il pugnale, ma è trattenuto dalle guardie)</l>
+            <l>Carnefice!</l>
+          </sp>
+          <stage>ENZO(si slancia, brandendo il pugnale, ma è trattenuto dalle guardie)Carnefice!</stage>
+          <sp who="#gioconda e cieca">
+            <speaker>GIOCONDA E CIECA:</speaker>
+            <l>Sventura!</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Orror! orror!</l>
+            <l>(Gioconda corre verso Enzo che viene trascinato dalle guardie. Barnaba afferra per la mano la Cieca e, giovandosi della confusione, la spinge entro una porta segreta. Alvise resta immobile presso la cella funeraria, additando il cadavere di Laura. Gli invitati si atteggiano ad espressioni di raccapriccio, di sdegno e di pietà)</l>
+          </sp>
+          <stage>COROOrror! orror!(Gioconda corre verso Enzo che viene trascinato dalle guardie. Barnaba afferra per la mano la Cieca e, giovandosi della confusione, la spinge entro una porta segreta. Alvise resta immobile presso la cella funeraria, additando il cadavere di Laura. Gli invitati si atteggiano ad espressioni di raccapriccio, di sdegno e di pietà)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto quarto</head>Il Canal Orfano.L’atrio d’un palazzo diroccato nell’isola della Giudecca.Nell’angolo di destra, un paravento disteso, dietro il quale sta un letto. – Un gran portone di riva nel fondo da cui si vedrà la laguna e la piazzetta di San Marco illuminata a festa. – Una immagine della Madonna ed una croce appesa al muro. – Un tavolo, un canapè, sul tavolo una lucerna e una lanterna accese, un’ampolla di veleno, un pugnale. – Sul canapè, vari adornamenti scenici di Gioconda. – A destra della scena, una lunga e buia calle.Scena primaGioconda sola, cupamente assorta ne’ suoi pensieri.[Preludio, Scena ed Aria](intanto dal fondo della calle si avanzano due uomini che portano in braccio Laura avvolta in un mantello nero. – I Cantori battono all’uscio. Gioconda si scuote e va ad aprire. Entrano)<div type="scene">
+          <head>Atto quarto</head>Il Canal Orfano.L’atrio d’un palazzo diroccato nell’isola della Giudecca.Nell’angolo di destra, un paravento disteso, dietro il quale sta un letto. – Un gran portone di riva nel fondo da cui si vedrà la laguna e la piazzetta di San Marco illuminata a festa. – Una immagine della Madonna ed una croce appesa al muro. – Un tavolo, un canapè, sul tavolo una lucerna e una lanterna accese, un’ampolla di veleno, un pugnale. – Sul canapè, vari adornamenti scenici di Gioconda. – A destra della scena, una lunga e buia calle.Scena primaGioconda sola, cupamente assorta ne’ suoi pensieri.[Preludio, Scena ed Aria](intanto dal fondo della calle si avanzano due uomini che portano in braccio Laura avvolta in un mantello nero. – I Cantori battono all’uscio. Gioconda si scuote e va ad aprire. Entrano) <stage>Atto quartoIl Canal Orfano.L’atrio d’un palazzo diroccato nell’isola della Giudecca.Nell’angolo di destra, un paravento disteso, dietro il quale sta un letto. – Un gran portone di riva nel fondo da cui si vedrà la laguna e la piazzetta di San Marco illuminata a festa. – Una immagine della Madonna ed una croce appesa al muro. – Un tavolo, un canapè, sul tavolo una lucerna e una lanterna accese, un’ampolla di veleno, un pugnale. – Sul canapè, vari adornamenti scenici di Gioconda. – A destra della scena, una lunga e buia calle.Scena primaGioconda sola, cupamente assorta ne’ suoi pensieri.[Preludio, Scena ed Aria](intanto dal fondo della calle si avanzano due uomini che portano in braccio Laura avvolta in un mantello nero. – I Cantori battono all’uscio. Gioconda si scuote e va ad aprire. Entrano)</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Nessun v’ha visto?</l>
+          </sp>
+          <sp who="#cantore">
+            <speaker>CANTORE:</speaker>
+            <l>Nessuno.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Sul letto</l>
+            <l>la deponete.</l>
+            <l>(Gioconda va al paravento. Laura è deposta sul letto)</l>
+          </sp>
+          <stage>GIOCONDASul lettola deponete.(Gioconda va al paravento. Laura è deposta sul letto)</stage>
+          <sp who="#cantore">
+            <speaker>CANTORE:</speaker>
+            <l>Ad un’occulta riva</l>
+            <l>sbarcati siam per evitar gl’incontri.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Sta ben. E quando fu sepolta?</l>
+          </sp>
+          <sp who="#cantore">
+            <speaker>CANTORE:</speaker>
+            <l>A vespro.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>E quanto tempo giacque?</l>
+          </sp>
+          <sp who="#cantore">
+            <speaker>CANTORE:</speaker>
+            <l>In circa un’ora.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Era vasto l’avel?</l>
+          </sp>
+          <sp who="#cantore">
+            <speaker>CANTORE:</speaker>
+            <l>Vasto.</l>
+            <l>(i Cantori trasportano Laura dietro il paravento)</l>
+          </sp>
+          <stage>CANTOREVasto.(i Cantori trasportano Laura dietro il paravento)</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>I compagni</l>
+            <l>verranno questa notte?</l>
+          </sp>
+          <sp who="#cantore">
+            <speaker>CANTORE:</speaker>
+            <l>Sì.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Ecco l’oro</l>
+            <l>che vi promisi.</l>
+          </sp>
+          <sp who="#cantore">
+            <speaker>CANTORE:</speaker>
+            <l>No ‘l vogliam… gli amici</l>
+            <l>prestan opra da amici.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(mutando accento e supplicando)</l>
+            <l>O pïetosi,</l>
+            <l>per quell’amor che v’ha creati, un’altra</l>
+            <l>grazia vi chiedo. Nella scorsa notte</l>
+            <l>mi scompariva la mia cieca madre,</l>
+            <l>già disperata la cercai, ma invano.</l>
+            <l>Deh! scorrete le vie, le piazze, e l’orme</l>
+            <l>della mia vecchierella… Iddio v’insegni.</l>
+            <l>Doman, se la trovate, a Canareggio</l>
+            <l>v’aspetterò. Quest’antro di Giudecca</l>
+            <l>fra brev’ora abbandono.</l>
+          </sp>
+          <stage>GIOCONDA(mutando accento e supplicando)O pïetosi,per quell’amor che v’ha creati, un’altragrazia vi chiedo. Nella scorsa nottemi scompariva la mia cieca madre,già disperata la cercai, ma invano.Deh! scorrete le vie, le piazze, e l’ormedella mia vecchierella… Iddio v’insegni.Doman, se la trovate, a Canareggiov’aspetterò. Quest’antro di Giudeccafra brev’ora abbandono.</stage>
+        </div>
+        <div type="scene">
+          <head>CANTORE</head>A noi t’affida.(Gioconda stringe ad essi la mano: essi escono da dove sono entrati)Scena secondaGioconda sola.<sp who="#cantore">
+            <speaker>CANTORE:</speaker>
+            <l>A noi t’affida.</l>
+            <l>(Gioconda stringe ad essi la mano: essi escono da dove sono entrati)</l>
+            <l>Scena seconda</l>
+            <l>Gioconda sola.</l>
+          </sp>
+          <stage>CANTOREA noi t’affida.(Gioconda stringe ad essi la mano: essi escono da dove sono entrati)Scena secondaGioconda sola.</stage>
+          <stage>(sola presso il tavolo guarda il pugnale, lo tocca, poi prende l’ampolla del veleno)Suicidio!… In questifieri momentitu sol mi resti,e il cor mi tenti.Ultima vocedel mio destino,ultima crocedel mio cammin.E un dì leggiadrevolavan l’ore;perdei la madre,perdei l’amore,vinsi l’infaustagelosa febre!or piombo esaustafra le tenèbre!Tocco alla mèta…domando al cieldi dormir quetadentro l’avel…[Duettino, Scena e Terzetto](guardando ancora l’ampolla)Ecco il velen di Laura, a un’altra vittimaera serbato! io lo berrò! ~ Quand’essoquesta notte qui giunga, io non vedròil loro immenso amplesso;ma chi provvede alla lor fuga?… ah! no!(getta il veleno sul tavolo)No, tentator, lungi da me! confortaanima mia, le tue divine posse!Laura è là… là sul letto… viva… morta…no ‘l so… Se spenta fosse!!!Io salvarla volea, mio dio, lo sai!Pur, s’ella è spenta!?… un indistinto raggiomi balena nel cor… vediam… coraggio.(prende la lanterna, fa per avviarsi al letto e poi si pente)No… no… giammai, giammai!No, non mi sfugga questo dubbio arcano!Ma s’ella vive? ebben… Laura è in mia mano…(biecamente)siam soli. ~ È notte. ~ Né persona alcunasaper potria… profonda è la laguna…</stage>
+          <sp who="#una voce">
+            <speaker>UNA VOCE:</speaker>
+            <l>(lontana sull’acqua)</l>
+            <l>Ehi! dalla gondola,</l>
+            <l>che nuove porti?</l>
+          </sp>
+          <stage>UNA VOCE(lontana sull’acqua)Ehi! dalla gondola,che nuove porti?</stage>
+          <sp who="#altra voce">
+            <speaker>ALTRA VOCE:</speaker>
+            <l>(più lontana)</l>
+            <l>Nel Canal Orfano</l>
+            <l>ci son de’ morti!</l>
+          </sp>
+          <stage>ALTRA VOCE(più lontana)Nel Canal Orfanoci son de’ morti!</stage>
+        </div>
+        <div type="scene">
+          <head>GIOCONDA</head>Orrore! orrore! orrore!!!Sinistre voci! illuminata a festasplende Venezia nel lontano… in coregià si ridestala mia tempestaimmane! furibonda!O amore! Amore!!Enzo! pietà!(al culmine della disperazione si getta accanto al tavolo)Scena terzaIntanto si vedrà Enzo venir dalla calle, trova la porta socchiusa, entra.<sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Orrore! orrore! orrore!!!</l>
+            <l>Sinistre voci! illuminata a festa</l>
+            <l>splende Venezia nel lontano… in core</l>
+            <l>già si ridesta</l>
+            <l>la mia tempesta</l>
+            <l>immane! furibonda!</l>
+            <l>O amore! Amore!!</l>
+            <l>Enzo! pietà!</l>
+            <l>(al culmine della disperazione si getta accanto al tavolo)</l>
+            <l>Scena terza</l>
+            <l>Intanto si vedrà Enzo venir dalla calle, trova la porta socchiusa, entra.</l>
+          </sp>
+          <stage>GIOCONDAOrrore! orrore! orrore!!!Sinistre voci! illuminata a festasplende Venezia nel lontano… in coregià si ridestala mia tempestaimmane! furibonda!O amore! Amore!!Enzo! pietà!(al culmine della disperazione si getta accanto al tavolo)Scena terzaIntanto si vedrà Enzo venir dalla calle, trova la porta socchiusa, entra.</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Gioconda!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Enzo!… sei tu!</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(cupamente)</l>
+            <l>Dal carcere</l>
+            <l>m’hai tratto; e i miei legami</l>
+            <l>sciogliesti, e armato e libero</l>
+            <l>qui son. Da me che brami?</l>
+          </sp>
+          <stage>ENZO(cupamente)Dal carcerem’hai tratto; e i miei legamisciogliesti, e armato e liberoqui son. Da me che brami?</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Da te che bramo? ahi! misera!</l>
+            <l>(con accento d’esaltazione straziante)</l>
+            <l>Ridarti il sol, la vita!</l>
+            <l>la libertà infinita!</l>
+            <l>la gioia e l’avvenir!</l>
+            <l>l’estatico sorriso,</l>
+            <l>l’estatico sospir!</l>
+            <l>l’amor… il paradiso!!</l>
+            <l>(Gran dio! fammi morir!)</l>
+          </sp>
+          <stage>GIOCONDADa te che bramo? ahi! misera!(con accento d’esaltazione straziante)Ridarti il sol, la vita!la libertà infinita!la gioia e l’avvenir!l’estatico sorriso,l’estatico sospir!l’amor… il paradiso!!(Gran dio! fammi morir!)</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Donna! col tuo delirio</l>
+            <l>tu irridi a un moribondo,</l>
+            <l>per me non ha più balsami</l>
+            <l>l’amor, né raggi il mondo.</l>
+            <l>Addio…</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Che fai?</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Non chiedere.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(afferrandolo)</l>
+            <l>Resta… M’ascolta.</l>
+          </sp>
+          <stage>GIOCONDA(afferrandolo)Resta… M’ascolta.</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(svincolandosi)</l>
+            <l>Cessa.</l>
+          </sp>
+          <stage>ENZO(svincolandosi)Cessa.</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Tu vuoi morir per essa!</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Sì, sul suo santo avel</l>
+            <l>baciare anco una volta</l>
+            <l>la povera sepolta.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(con ironia)</l>
+            <l>Ebben, corri al tuo voto,</l>
+            <l>eroe mesto e fedel!</l>
+            <l>L’avel di Laura è vuoto;</l>
+            <l>io l’ho rapita!</l>
+          </sp>
+          <stage>GIOCONDA(con ironia)Ebben, corri al tuo voto,eroe mesto e fedel!L’avel di Laura è vuoto;io l’ho rapita!</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Oh ciel!</l>
+            <l>No, menti, menti…</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(accennando alla croce appesa al muro)</l>
+            <l>Giuro su quella croce.</l>
+          </sp>
+          <stage>GIOCONDA(accennando alla croce appesa al muro)Giuro su quella croce.</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>No: la bestemmia atroce</l>
+            <l>tergi dal labbro impuro!</l>
+            <l>di’ che hai mentito!</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(con fierezza, poi supplichevole)</l>
+            <l>Il vero</l>
+            <l>dissi! il furor… deh! frena.</l>
+          </sp>
+          <stage>GIOCONDA(con fierezza, poi supplichevole)Il verodissi! il furor… deh! frena.</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>O furibonda iena</l>
+            <l>che frughi il cimitero!</l>
+            <l>O maledetta Eumenide,</l>
+            <l>gelosa della morte,</l>
+            <l>dimmi ove celi l’angelo</l>
+            <l>mio dalle guance smorte.</l>
+            <l>Parla! o in quest’ora lugubre</l>
+            <l>convien che qui tu muoia…</l>
+            <l>(sguainando il suo pugnale e afferrando Gioconda)</l>
+          </sp>
+          <stage>ENZOO furibonda ienache frughi il cimitero!O maledetta Eumenide,gelosa della morte,dimmi ove celi l’angelomio dalle guance smorte.Parla! o in quest’ora lugubreconvien che qui tu muoia…(sguainando il suo pugnale e afferrando Gioconda)</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(Oh gioia!</l>
+            <l>m’uccide!)</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>I tenebrori</l>
+            <l>del tuo mister saprò.</l>
+            <l>Parla…</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>No.</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Parla…</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>No.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ENZO</head>Ebben… infame…(per ferirla)muori!…Scena quartaLaura, Gioconda ed Enzo.<sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Ebben… infame…</l>
+            <l>(per ferirla)</l>
+            <l>muori!…</l>
+            <l>Scena quarta</l>
+            <l>Laura, Gioconda ed Enzo.</l>
+          </sp>
+          <stage>ENZOEbben… infame…(per ferirla)muori!…Scena quartaLaura, Gioconda ed Enzo.</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>(dall’alcova)</l>
+            <l>Enzo!</l>
+          </sp>
+          <stage>LAURA(dall’alcova)Enzo!</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Chi è là?</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(atterrita)</l>
+            <l>(Mio dio!)</l>
+          </sp>
+          <stage>GIOCONDA(atterrita)(Mio dio!)</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>(comparendo)</l>
+            <l>Enzo! amor mio!</l>
+            <l>Ah il cor mi si ravviva.</l>
+            <l>Respiro all’aura…</l>
+            <l>Enzo, vieni… sei tu, vieni… son viva!</l>
+          </sp>
+          <stage>LAURA(comparendo)Enzo! amor mio!Ah il cor mi si ravviva.Respiro all’aura…Enzo, vieni… sei tu, vieni… son viva!</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>(slanciandosi, abbracciando Laura)</l>
+            <l>Laura! ciel! non deliro! Viva! Ah… Laura! Laura!</l>
+          </sp>
+          <stage>ENZO(slanciandosi, abbracciando Laura)Laura! ciel! non deliro! Viva! Ah… Laura! Laura!</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(avviluppandosi la testa nel suo manto)</l>
+            <l>(Nascondili, o tenèbra!)</l>
+          </sp>
+          <stage>GIOCONDA(avviluppandosi la testa nel suo manto)(Nascondili, o tenèbra!)</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>(guardando verso Gioconda)</l>
+            <l>Ahimè! quell’ombra</l>
+            <l>è Alvise… fuggi…</l>
+          </sp>
+          <stage>LAURA(guardando verso Gioconda)Ahimè! quell’ombraè Alvise… fuggi…</stage>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>No, il terror disgombra.</l>
+            <l>(avvicinandosi, riconosce Gioconda che si sarà scoperta)</l>
+          </sp>
+          <stage>ENZONo, il terror disgombra.(avvicinandosi, riconosce Gioconda che si sarà scoperta)</stage>
+          <sp who="#laura">
+            <speaker>LAURA:</speaker>
+            <l>Sei tu? costei salvò la vita a me.</l>
+          </sp>
+          <sp who="#enzo">
+            <speaker>ENZO:</speaker>
+            <l>Fanciulla santa!</l>
+          </sp>
+          <sp who="#laura e enzo">
+            <speaker>LAURA E ENZO:</speaker>
+            <l>Ch’io mi ti prostri ai piè!</l>
+            <l>(cadono in ginocchio davanti a Gioconda)</l>
+          </sp>
+          <stage>LAURA E ENZOCh’io mi ti prostri ai piè!(cadono in ginocchio davanti a Gioconda)</stage>
+          <sp who="#voci">
+            <speaker>VOCI:</speaker>
+            <l>(lontane)</l>
+            <l>Te n’ va’, serenata,</l>
+            <l>per l’aura serena,</l>
+            <l>te n’ va’, cantilena,</l>
+            <l>per l’onda incantata.</l>
+            <l>Udite le blande</l>
+            <l>canzoni vagar.</l>
+            <l>Il remo ci scande</l>
+            <l>gli accordi sul mar.</l>
+            <l>Il canto è la vita,</l>
+            <l>di sogni si pasce,</l>
+            <l>ai sogni c’invita,</l>
+            <l>nei sogni rinasce,</l>
+            <l>d’un’anima ignota</l>
+            <l>è l’eco fedel,</l>
+            <l>l’estrema sua nota</l>
+            <l>si perde nel ciel!</l>
+          </sp>
+          <stage>VOCI(lontane)Te n’ va’, serenata,per l’aura serena,te n’ va’, cantilena,per l’onda incantata.Udite le blandecanzoni vagar.Il remo ci scandegli accordi sul mar.Il canto è la vita,di sogni si pasce,ai sogni c’invita,nei sogni rinasce,d’un’anima ignotaè l’eco fedel,l’estrema sua notasi perde nel ciel!</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(con calma dolcissima)</l>
+            <l>Questa canzone ti rammenti, o Laura?</l>
+            <l>È la canzone della tua fortuna.</l>
+            <l>Essa viene ver noi. Attenti udite,</l>
+            <l>fratelli miei, quei rematori in salvo</l>
+            <l>v’addurran questa notte. Per la fuga</l>
+            <l>tutto provvidi cautamente. Alzate</l>
+            <l>le vostre fronti, ch’io veda il sorriso</l>
+            <l>ch’io vi creai. No, d’attristar Gioconda</l>
+            <l>più non temete… amatevi…</l>
+            <l>ho il cuore rassegnato.</l>
+            <l>Nessuno qui è colpevole,</l>
+            <l>so che l’amore è un fato!</l>
+          </sp>
+          <stage>GIOCONDA(con calma dolcissima)Questa canzone ti rammenti, o Laura?È la canzone della tua fortuna.Essa viene ver noi. Attenti udite,fratelli miei, quei rematori in salvov’addurran questa notte. Per la fugatutto provvidi cautamente. Alzatele vostre fronti, ch’io veda il sorrisoch’io vi creai. No, d’attristar Giocondapiù non temete… amatevi…ho il cuore rassegnato.Nessuno qui è colpevole,so che l’amore è un fato!</stage>
+          <sp who="#laura e enzo">
+            <speaker>LAURA E ENZO:</speaker>
+            <l>(al colmo della commozione)</l>
+            <l>Oh benedetta!</l>
+          </sp>
+          <stage>LAURA E ENZO(al colmo della commozione)Oh benedetta!</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(sempre con maggior fretta)</l>
+            <l>Basta, il tempo fugge!</l>
+            <l>La barca s’avvicina… i miei compagni</l>
+            <l>vi condurran prima dell’alba al lido</l>
+            <l>dei Tre Porti… ed appena giunti a terra</l>
+            <l>domanderete due corsieri, e lesti,</l>
+            <l>verso Aquileia drizzerete il volo,</l>
+            <l>e di là poco lunge il sol d’Illiria</l>
+            <l>vi splenderà liberamente in viso.</l>
+            <l>Tu per lenir il trepido vïaggio</l>
+            <l>gli narrerai la tua ventura. Addio…</l>
+            <l>ecco la barca… il mio mantel t’asconda.</l>
+            <l>Si vede la barca dei Cantori che s’arresta alla riva.</l>
+            <l>Gioconda si toglie il mantello di dosso e copre Laura.</l>
+            <l>(scorge al collo di Laura il rosario)</l>
+            <l>Che vedo là! Il rosario! oh sommo dio!</l>
+            <l>così dicea la profezia profonda:</l>
+            <l>A te questo rosario</l>
+            <l>che le preghiere aduna…</l>
+            <l>io te lo porgo, accettalo,</l>
+            <l>ti porterà fortuna…</l>
+            <l>E così sia! Quest’ultimo</l>
+            <l>bacio che il pianto inonda</l>
+            <l>v’abbiate in fronte, è il povero</l>
+            <l>bacio del labbro mio.</l>
+            <l>Talor nei vostri memori</l>
+            <l>pensieri alla Gioconda</l>
+            <l>date un ricordo. Amatevi…</l>
+            <l>Lieti vivete… Addio!</l>
+          </sp>
+          <stage>GIOCONDA(sempre con maggior fretta)Basta, il tempo fugge!La barca s’avvicina… i miei compagnivi condurran prima dell’alba al lidodei Tre Porti… ed appena giunti a terradomanderete due corsieri, e lesti,verso Aquileia drizzerete il volo,e di là poco lunge il sol d’Illiriavi splenderà liberamente in viso.Tu per lenir il trepido vïaggiogli narrerai la tua ventura. Addio…ecco la barca… il mio mantel t’asconda.Si vede la barca dei Cantori che s’arresta alla riva.Gioconda si toglie il mantello di dosso e copre Laura.(scorge al collo di Laura il rosario)Che vedo là! Il rosario! oh sommo dio!così dicea la profezia profonda:A te questo rosarioche le preghiere aduna…io te lo porgo, accettalo,ti porterà fortuna…E così sia! Quest’ultimobacio che il pianto inondav’abbiate in fronte, è il poverobacio del labbro mio.Talor nei vostri memoripensieri alla Giocondadate un ricordo. Amatevi…Lieti vivete… Addio!</stage>
+        </div>
+        <div type="scene">
+          <head>LAURA E ENZO</head>Sulle tue mani l’animatutta stempriamo in pianto.No, mai su queste lagrimenon scenderà l’oblio.Ricorderem la vittimadel sacrificio santo.Ti benedican gli angeli,addio… Gioconda. ~ Addio…(sull’ultimo verso Laura ed Enzo avranno già un piede sulla barca. – Partono. Pausa)Scena quintaGioconda sola, poi Barnaba nella calle.[Scena e Duetto finale]<sp who="#laura e enzo">
+            <speaker>LAURA E ENZO:</speaker>
+            <l>Sulle tue mani l’anima</l>
+            <l>tutta stempriamo in pianto.</l>
+            <l>No, mai su queste lagrime</l>
+            <l>non scenderà l’oblio.</l>
+            <l>Ricorderem la vittima</l>
+            <l>del sacrificio santo.</l>
+            <l>Ti benedican gli angeli,</l>
+            <l>addio… Gioconda. ~ Addio…</l>
+            <l>(sull’ultimo verso Laura ed Enzo avranno già un piede sulla barca. – Partono. Pausa)</l>
+            <l>Scena quinta</l>
+            <l>Gioconda sola, poi Barnaba nella calle.</l>
+            <l>[Scena e Duetto finale]</l>
+          </sp>
+          <stage>LAURA E ENZOSulle tue mani l’animatutta stempriamo in pianto.No, mai su queste lagrimenon scenderà l’oblio.Ricorderem la vittimadel sacrificio santo.Ti benedican gli angeli,addio… Gioconda. ~ Addio…(sull’ultimo verso Laura ed Enzo avranno già un piede sulla barca. – Partono. Pausa)Scena quintaGioconda sola, poi Barnaba nella calle.[Scena e Duetto finale]</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(afferra l’ampolla del veleno)</l>
+            <l>Ora posso morir. Tutto è compiuto.</l>
+            <l>Ah no! mia madre! aiuto!</l>
+            <l>aiuto, o santa vergine!</l>
+            <l>Troppi dolori sovra un solo cuore!</l>
+            <l>Vo’ ricercar mia madre!… Oh! mio terrore!</l>
+            <l>(colta da un pensiero improvviso)</l>
+            <l>Il patto or mi rammento! Ah! la paura</l>
+            <l>di Barnaba m’agghiaccia!</l>
+            <l>Qui riveder l’orribile sua faccia!</l>
+            <l>(corre all’immagine della madonna e si prostra)</l>
+            <l>Vergine santa, allontana il demonio!!!</l>
+          </sp>
+          <stage>GIOCONDA(afferra l’ampolla del veleno)Ora posso morir. Tutto è compiuto.Ah no! mia madre! aiuto!aiuto, o santa vergine!Troppi dolori sovra un solo cuore!Vo’ ricercar mia madre!… Oh! mio terrore!(colta da un pensiero improvviso)Il patto or mi rammento! Ah! la pauradi Barnaba m’agghiaccia!Qui riveder l’orribile sua faccia!(corre all’immagine della madonna e si prostra)Vergine santa, allontana il demonio!!!</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(viene dalla calle, si ferma alla porta socchiusa e sta spiando)</l>
+            <l>Il ciel s’oscura.</l>
+            <l>Scompare la luna.</l>
+          </sp>
+          <stage>BARNABA(viene dalla calle, si ferma alla porta socchiusa e sta spiando)Il ciel s’oscura.Scompare la luna.</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Prega! ed essa non sa qual testimonio</l>
+            <l>dell’orazion la guarda.</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>Vergine santa, allontana il demonio…</l>
+            <l>Ebben, perché son così affranta e tarda,</l>
+            <l>la fuga è il mio riscatto!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>BARNABA</head>(Ah! vuol fuggir…)Scena sestaGioconda e Barnaba.Mentre Gioconda fa per fuggire, s’incontra con Barnaba che spalanca l’uscio ed entra.<sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(Ah! vuol fuggir…)</l>
+            <l>Scena sesta</l>
+            <l>Gioconda e Barnaba.</l>
+            <l>Mentre Gioconda fa per fuggire, s’incontra con Barnaba che spalanca l’uscio ed entra.</l>
+          </sp>
+          <stage>BARNABA(Ah! vuol fuggir…)Scena sestaGioconda e Barnaba.Mentre Gioconda fa per fuggire, s’incontra con Barnaba che spalanca l’uscio ed entra.</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(terribilmente)</l>
+            <l>Così mantieni il patto?</l>
+          </sp>
+          <stage>BARNABA(terribilmente)Così mantieni il patto?</stage>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(prima atterrita, poi con coraggio supremo sino alla fine)</l>
+            <l>Sì, il patto mantengo, ~ lo abbiamo giurato,</l>
+            <l>Gioconda non deve ~ quel giuro tradir.</l>
+            <l>Che iddio mi perdoni ~ l’immenso peccato</l>
+            <l>che sto per compir!</l>
+          </sp>
+          <stage>GIOCONDA(prima atterrita, poi con coraggio supremo sino alla fine)Sì, il patto mantengo, ~ lo abbiamo giurato,Gioconda non deve ~ quel giuro tradir.Che iddio mi perdoni ~ l’immenso peccatoche sto per compir!</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>(Ebbrezza! delirio! ~ Mio sogno supremo</l>
+            <l>ti colgo e repente ~ quest’arido cuor</l>
+            <l>s’inonda di gioia! ~ Già palpito e tremo</l>
+            <l>ai rai dell’amor!)</l>
+          </sp>
+          <sp who="#gioconda">
+            <speaker>GIOCONDA:</speaker>
+            <l>(a Barnaba, che fa per avvicinarsi)</l>
+            <l>Raffrena il selvaggio ~ delirio! t’arresta!</l>
+            <l>(simulando)</l>
+            <l>Vo’ farmi più gaia, ~ più fulgida ancor.</l>
+            <l>Per te voglio ornare ~ la bionda mia testa</l>
+            <l>di porpora e d’or.</l>
+            <l>(va ad ornarsi)</l>
+            <l>Con tutti gli orpelli ~ sacrati alla scena</l>
+            <l>dei pazzi teatri ~ coperta già son.</l>
+            <l>Ascolta di questa ~ sapiente sirena,</l>
+            <l>l’ardente canzon…</l>
+            <l>T’arresta, che temi? ~ mantengo il mio detto,</l>
+            <l>non mento, non fuggo, ~ tradirti non vo’.</l>
+            <l>Volesti il mio corpo, ~ dimòn maledetto?</l>
+            <l>e il corpo ti do!</l>
+            <l>(si trafigge nel cuore col pugnale che avrà raccolto furtivamente nelle vesti adornandosi e piomba a terra come fulminata)</l>
+          </sp>
+          <stage>GIOCONDA(a Barnaba, che fa per avvicinarsi)Raffrena il selvaggio ~ delirio! t’arresta!(simulando)Vo’ farmi più gaia, ~ più fulgida ancor.Per te voglio ornare ~ la bionda mia testadi porpora e d’or.(va ad ornarsi)Con tutti gli orpelli ~ sacrati alla scenadei pazzi teatri ~ coperta già son.Ascolta di questa ~ sapiente sirena,l’ardente canzon…T’arresta, che temi? ~ mantengo il mio detto,non mento, non fuggo, ~ tradirti non vo’.Volesti il mio corpo, ~ dimòn maledetto?e il corpo ti do!(si trafigge nel cuore col pugnale che avrà raccolto furtivamente nelle vesti adornandosi e piomba a terra come fulminata)</stage>
+          <sp who="#barnaba">
+            <speaker>BARNABA:</speaker>
+            <l>Ah! ferma!… irrisïon!… ebben… or tu…</l>
+            <l>m’odi… e mori dannata:</l>
+            <l>(curvandosi sul cadavere di Gioconda e gridandogli all’orecchio con voce furibonda)</l>
+            <l>Ier tua madre m’ha offeso! Io l’ho affogata!</l>
+            <l>Non ode più!!</l>
+            <l>(esce precipitosamente e scompare nelle tenebre della calle)</l>
+          </sp>
+          <stage>BARNABAAh! ferma!… irrisïon!… ebben… or tu…m’odi… e mori dannata:(curvandosi sul cadavere di Gioconda e gridandogli all’orecchio con voce furibonda)Ier tua madre m’ha offeso! Io l’ho affogata!Non ode più!!(esce precipitosamente e scompare nelle tenebre della calle)</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

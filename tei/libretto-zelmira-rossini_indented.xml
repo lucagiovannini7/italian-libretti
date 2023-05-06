@@ -1,0 +1,2161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">elmira</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="sacerdoti">
+            <persName>SACERDOTI:</persName>
+          </person>
+          <person xml:id="scena sesta">
+            <persName>SCENA SESTA:</persName>
+          </person>
+          <person xml:id="guerrieri">
+            <persName>GUERRIERI:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="gran sacerdote">
+            <persName>GRAN SACERDOTE:</persName>
+          </person>
+          <person xml:id="i primi">
+            <persName>I PRIMI:</persName>
+          </person>
+          <person xml:id="donzelle">
+            <persName>DONZELLE:</persName>
+          </person>
+          <person xml:id="scena ottava">
+            <persName>SCENA OTTAVA:</persName>
+          </person>
+          <person xml:id="scena ultima">
+            <persName>SCENA ULTIMA:</persName>
+          </person>
+          <person xml:id="scena quinta">
+            <persName>SCENA QUINTA:</persName>
+          </person>
+          <person xml:id="tutto il coro">
+            <persName>TUTTO IL CORO:</persName>
+          </person>
+          <person xml:id="scena quarta">
+            <persName>SCENA QUARTA:</persName>
+          </person>
+          <person xml:id="scena terza">
+            <persName>SCENA TERZA:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="altri">
+            <persName>ALTRI:</persName>
+          </person>
+          <person xml:id="ilo">
+            <persName>ILO:</persName>
+          </person>
+          <person xml:id="zelmira">
+            <persName>ZELMIRA:</persName>
+          </person>
+          <person xml:id="emma">
+            <persName>EMMA:</persName>
+          </person>
+          <person xml:id="emma col fanciullo">
+            <persName>EMMA COL FANCIULLO:</persName>
+          </person>
+          <person xml:id="una parte del coro">
+            <persName>UNA PARTE DEL CORO:</persName>
+          </person>
+          <person xml:id="polidoro">
+            <persName>POLIDORO:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="f i n e">
+            <persName>F I N E:</persName>
+          </person>
+          <person xml:id="scena nona">
+            <persName>SCENA NONA:</persName>
+          </person>
+          <person xml:id="antenore">
+            <persName>ANTENORE:</persName>
+          </person>
+          <person xml:id="zelmira, emma, ilo, antenore">
+            <persName>ZELMIRA, EMMA, ILO, ANTENORE,:</persName>
+          </person>
+          <person xml:id="gli altri">
+            <persName>GLI ALTRI:</persName>
+          </person>
+          <person xml:id="leucippo">
+            <persName>LEUCIPPO:</persName>
+          </person>
+          <person xml:id="eacide">
+            <persName>EACIDE:</persName>
+          </person>
+          <person xml:id="scena settima">
+            <persName>SCENA SETTIMA:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>Vasta pianura sul mare e fuori le mura diLesbo. Al lato dritto magnifico ingresso alletombe de’ Re di Lesbo, ingombro in parteda annosi cipressi, che lo circondano.SCENA PRIMALa notte è vicina al suo termine. Varigruppi di guerrieri di Mitilene sbigottitiattraversano la scena; altri vi si aggiranonel massimo disordine; indi Leucippo, infineAntenore.TALUNI DE’ GUERRIERIOh sciagura!</stage>
+      <sp who="#altri">
+        <speaker>ALTRI:</speaker>
+        <l>Oh infausto evento!</l>
+      </sp>
+      <sp who="#i primi">
+        <speaker>I PRIMI:</speaker>
+        <l>Dei! qual notte!</l>
+      </sp>
+      <sp who="#gli altri">
+        <speaker>GLI ALTRI:</speaker>
+        <l>Oh tradimento!</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Mi si agghiaccia in seno il cor!</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>(giungendo premuroso)</l>
+        <l>Ciel! che avvenne?</l>
+      </sp>
+      <stage>LEUCIPPO(giungendo premuroso)Ciel! che avvenne?</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Accorri, o forte.</l>
+        <l>Sappi… oh pena!</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>E che?</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Trafitto</l>
+        <l>Sulle piume… in grembo a morte</l>
+        <l>Giace Azor.</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Che ascolto! Azor!</l>
+        <l>E qual man lo ha trucidato?</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Ah! s’ignora…</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Oh prence amato!</l>
+        <l>Tu rapito al nostro amor?</l>
+        <l>Su vendetta! e che si aspetta?</l>
+        <l>Si conosca il traditor.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Sì, ti affretta alla vendetta!</l>
+        <l>Fia punito il traditor.</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>(fingendo il massimo smarrimento)</l>
+        <l>Che vidi! amici, oh eccesso!</l>
+        <l>Là il prence è spoglia esangue.</l>
+        <l>Il mio vigor già langue…</l>
+        <l>Mi opprime lo stupor.</l>
+        <l>Odo le tue querele</l>
+        <l>Spettro fremente, irato…</l>
+        <l>Ma il malfattor crudele,</l>
+        <l>Che ha il sangue tuo versato,</l>
+        <l>Fra l’ombre degli abissi</l>
+        <l>Dovrà seguirti or or.</l>
+      </sp>
+      <stage>ANTENORE(fingendo il massimo smarrimento)Che vidi! amici, oh eccesso!Là il prence è spoglia esangue.Il mio vigor già langue…Mi opprime lo stupor.Odo le tue quereleSpettro fremente, irato…Ma il malfattor crudele,Che ha il sangue tuo versato,Fra l’ombre degli abissiDovrà seguirti or or.</stage>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>In te il suo vindice</l>
+        <l>Ciascuno addita:</l>
+        <l>Di Azorre Antenore</l>
+        <l>Sia successor.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Sì, regna, o principe:</l>
+        <l>Al tron t’invita</l>
+        <l>Il voto unanime</l>
+        <l>Del nostro cor.</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>(Sorte! secondami!</l>
+        <l>Quest’alma ardita</l>
+        <l>Va il prezzo a cogliere</l>
+        <l>Del tuo favor.)</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Della tenda real la doppia soglia</l>
+        <l>A’ veglianti custodi</l>
+        <l>Affidata non fu?</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Li opprime ancora</l>
+        <l>Narcotico liquor, che loro ad arte</l>
+        <l>Forse apprestò la iniqua man, che avea</l>
+        <l>Impugnato l’acciar.</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Ma indarno speri</l>
+        <l>Sottrarsi il reo dal fulmine, che il persegue</l>
+        <l>Nelle tenebre istesse, ov’ei securo</l>
+        <l>Crede avvolger suoi falli. E v’ha misfatto,</l>
+        <l>Che da’ profondi abissi al chiaro lume</l>
+        <l>Non tragge ognor co’ suoi prodigi il Nume?</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Tutte di Lesbo, o fidi,</l>
+        <l>Si percorran le vie; di Argo lo sguardo</l>
+        <l>Abbia ciascun: cade la notte, e forse</l>
+        <l>Qui d’intorno si aggira</l>
+        <l>Il colpevole ancora; a ravvisarlo</l>
+        <l>Vi sarà guida il Ciel.</l>
+        <l>(I guerrieri partono per vari sentieri).</l>
+        <l>LEUCIPPO Siam soli.</l>
+      </sp>
+      <stage>ANTENORETutte di Lesbo, o fidi,Si percorran le vie; di Argo lo sguardoAbbia ciascun: cade la notte, e forseQui d’intorno si aggiraIl colpevole ancora; a ravvisarloVi sarà guida il Ciel.(I guerrieri partono per vari sentieri).LEUCIPPO Siam soli.</stage>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>(abbracciandolo)</l>
+        <l>Oh amico!</l>
+      </sp>
+      <stage>ANTENORE(abbracciandolo)Oh amico!</stage>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Brami di più? di Lesbo e Mitilene</l>
+        <l>Già il soglio è tuo: ne sgombra a te il sentiero</l>
+        <l>Questa destra, che tinta</l>
+        <l>È del sangue di Azor.</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Non basta: estinta</l>
+        <l>De’ Re di Lesbo ancora</l>
+        <l>Non è la prole, e di Zelmira il figlio…</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>L’empia sua madre, che la tomba schiuse</l>
+        <l>Al vecchio genitor, tolse ogni dritto</l>
+        <l>Sul tron degli avi al germe</l>
+        <l>Di un principe stranier.</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Farla più rea</l>
+        <l>Ne gioverà, Leucippo.</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Il mio disegno</l>
+        <l>Penetrasti, o signor. Le fila ordite</l>
+        <l>Già son, perché si creda</l>
+        <l>Della morte di Azor Zelmira autrice.</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>A te mi affido.</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Io volo</l>
+        <l>L’opra a compir.</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Va’, mio sostegno. Oh quale</l>
+        <l>Ben dovuta mercede</l>
+        <l>A te la mia riconoscenza appresta!</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Regna felice, e la mercede è questa.</l>
+        <l>(Partono per vie opposte).</l>
+        <l>SCENA SECONDA</l>
+        <l>Emma piena di raccapriccio fugge da</l>
+        <l>Zelmira, che la trattiene.</l>
+        <l>ZELMIRA</l>
+        <l>Non fuggirmi…</l>
+      </sp>
+      <stage>LEUCIPPORegna felice, e la mercede è questa.(Partono per vie opposte).SCENA SECONDAEmma piena di raccapriccio fugge daZelmira, che la trattiene.ZELMIRANon fuggirmi…</stage>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>Dileguati!</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Mi ascolta</l>
+        <l>All’amica Zelmira</l>
+        <l>Volgi pietosa il ciglio.</l>
+      </sp>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>Oh cor più fero</l>
+        <l>D’ircana belva! oh snaturata figlia,</l>
+        <l>Che al furor de’ nemici</l>
+        <l>Espose il genitor! poss’io mirarti</l>
+        <l>Senza fremito e orror?</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>T’inganni… io sono…</l>
+      </sp>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>Di barbarie inaudita</l>
+        <l>Il primo esempio.</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Ah no… mi siegui…</l>
+      </sp>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>E dove?</l>
+        <l>Forse a pascer lo sguardo</l>
+        <l>Su gl’insepolti avanzi</l>
+        <l>Dell’autor de’ tuoi giorni?</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Ah! meglio apprendi</l>
+        <l>A conoscer Zelmira.</l>
+      </sp>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>E che?</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Mi giura</l>
+        <l>Inviolabil silenzio.</l>
+      </sp>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>È il tuo misfatto</l>
+        <l>Palese appien.</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Sono innocente… il padre…</l>
+        <l>Guarda… siam sole?</l>
+      </sp>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>Alcun non ti ode…</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Ebbene,</l>
+        <l>Meco scendi, e vedrai</l>
+        <l>Che ingiusta sei, che mi oltraggiasti assai.</l>
+      </sp>
+      <stage>(Assicuratasi di non essere osservata,prende per mano Emma, si avanza verso latomba, ne apre sollecitamente l’ingresso, evi s’introduce con Emma, rinchiudendonedietro la porta).Gran sala sotterranea; robuste colonne nesostengono la volta. Veggonsi magnificheurne, e maestosi mausolei innalzati alleceneri de’ Sovrani di Lesbo. Vi si scende perampia scala di bianco marmo. Alcunelampade accese, e qualche raggio di diurnaluce, che penetra appena da un foramesuperiore, danno debol lume a questoaugusto luogo sepolcrale.SCENA TERZAPolidoro, immerso ne’suoi tristi pensieri, èappoggiato alla base di una colonna.Scuotesi dalla sua concentrazione, guardasull’alto, e nel vedere già sorto il nuovogiorno, esclama:POLIDOROAh! già trascorse il dì…Altro ne sorge ancor…Né riedi al genitor,Zelmira amata?Se lungi dal tuo senDeggio penar così,Chiuda i miei lumi almenLa sorte irata!</stage>
+      <sp who="#scena quarta">
+        <speaker>SCENA QUARTA:</speaker>
+        <l>Discendono dall’alto Zelmira ed Emma.</l>
+        <l>POLIDORO</l>
+        <l>Ma m’illude il desio? no… Ciel pietoso!</l>
+        <l>(lietissimo nel vedere Zelmira)</l>
+        <l>Grazie ti rendo! ecco la figlia!… E quella,</l>
+        <l>(nel mirare Emma)</l>
+        <l>Che la segue, chi è mai?</l>
+      </sp>
+      <stage>SCENA QUARTADiscendono dall’alto Zelmira ed Emma.POLIDOROMa m’illude il desio? no… Ciel pietoso!(lietissimo nel vedere Zelmira)Grazie ti rendo! ecco la figlia!… E quella,(nel mirare Emma)Che la segue, chi è mai?</stage>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>(indicando il padre ad Emma)</l>
+        <l>Miralo.</l>
+      </sp>
+      <stage>ZELMIRA(indicando il padre ad Emma)Miralo.</stage>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>Oh stelle!</l>
+        <l>Che veggo? egli respira?</l>
+        <l>Oh qual sorpresa!</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Ah padre mio!</l>
+      </sp>
+      <sp who="#polidoro">
+        <speaker>POLIDORO:</speaker>
+        <l>Zelmira!</l>
+        <l>(Abbracciandosi).</l>
+        <l>Soave conforto</l>
+        <l>Di un padre dolente!</l>
+        <l>Nel giubilo assorto</l>
+        <l>Più affanni non sente</l>
+        <l>Il cor, che desia</l>
+        <l>Sol viver con te!</l>
+      </sp>
+      <stage>POLIDOROZelmira!(Abbracciandosi).Soave confortoDi un padre dolente!Nel giubilo assortoPiù affanni non senteIl cor, che desiaSol viver con te!</stage>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Le braccia mi stendi,</l>
+        <l>Mio dolce ristoro!</l>
+        <l>Men fiero tu rendi</l>
+        <l>L’acerbo martoro,</l>
+        <l>Che l’anima opprime</l>
+        <l>Se teco non è.</l>
+      </sp>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>Da gioia e stupore</l>
+        <l>Confusa ed oppressa,</l>
+        <l>Ho l’alma perplessa,</l>
+        <l>Non sono più in me!</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Oh grato momento!</l>
+      </sp>
+      <sp who="#polidoro">
+        <speaker>POLIDORO:</speaker>
+        <l>Oh immenso contento!</l>
+        <l>Dal fato non spero</l>
+        <l>Più bella mercé!</l>
+      </sp>
+      <sp who="#polidoro">
+        <speaker>POLIDORO:</speaker>
+        <l>Ma di’, perché costei</l>
+        <l>(indica Emma)</l>
+        <l>In questo asilo…</l>
+      </sp>
+      <stage>POLIDOROMa di’, perché costei(indica Emma)In questo asilo…</stage>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Intendo.</l>
+        <l>Non paventar di lei:</l>
+        <l>Mi è fida.</l>
+      </sp>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>(a Zelmira)</l>
+        <l>I dubbi miei</l>
+        <l>Perdona…</l>
+        <l>(Qui d’improvviso si ascoltano di sopra</l>
+        <l>alla volta confuse grida, ed una marcia</l>
+        <l>di lontano).</l>
+        <l>Oh qual fragor!</l>
+      </sp>
+      <stage>EMMA(a Zelmira)I dubbi mieiPerdona…(Qui d’improvviso si ascoltano di sopraalla volta confuse grida, ed una marciadi lontano).Oh qual fragor!</stage>
+      <sp who="#polidoro">
+        <speaker>POLIDORO:</speaker>
+        <l>(salendo in parte la scala)</l>
+        <l>Figlia… ti appressa… ascolta!</l>
+      </sp>
+      <stage>POLIDORO(salendo in parte la scala)Figlia… ti appressa… ascolta!</stage>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Risuona questa volta</l>
+        <l>Di marzial concento!</l>
+      </sp>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>Lontane strida io sento!</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Padre, ti lascio; addio!</l>
+      </sp>
+      <sp who="#polidoro">
+        <speaker>POLIDORO:</speaker>
+        <l>Tu mi abbandoni?</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>E d’uopo</l>
+        <l>Saper che avvenne.</l>
+      </sp>
+      <sp who="#polidoro">
+        <speaker>POLIDORO:</speaker>
+        <l>Ah resta!</l>
+        <l>Tu accresci il mio timor!</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Se trova in te scampo</l>
+        <l>L’oppresso innocente,</l>
+        <l>Tu salvami il padre</l>
+        <l>O Nume clemente,</l>
+        <l>E pera la figlia</l>
+        <l>Pel suo genitor.</l>
+      </sp>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>Se trova in te scampo</l>
+        <l>L’oppresso innocente,</l>
+        <l>Tu salvale il padre</l>
+        <l>O Nume clemente,</l>
+        <l>Di misera figlia</l>
+        <l>Ti muova il dolor.</l>
+      </sp>
+      <sp who="#polidoro">
+        <speaker>POLIDORO:</speaker>
+        <l>La mente è in vortice!</l>
+        <l>Non ho più consiglio!</l>
+        <l>Mi opprime la immagine</l>
+        <l>Di un nuovo periglio…</l>
+        <l>Oh stelle! cessate</l>
+        <l>Dal vostro furor!</l>
+        <l>(Pausa: i tre attori rinnovano la loro attenzione).</l>
+        <l>ZELMIRA</l>
+        <l>Cessa il clamor.</l>
+      </sp>
+      <stage>POLIDOROLa mente è in vortice!Non ho più consiglio!Mi opprime la immagineDi un nuovo periglio…Oh stelle! cessateDal vostro furor!(Pausa: i tre attori rinnovano la loro attenzione).ZELMIRACessa il clamor.</stage>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>Tutto è silenzio.</l>
+      </sp>
+      <sp who="#polidoro">
+        <speaker>POLIDORO:</speaker>
+        <l>Ah forse</l>
+        <l>L’usurpatore Azor di compre evviva</l>
+        <l>Fra bellico fragor pascea l’orgoglio.</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Ah! non tel dissi: estinto</l>
+        <l>Da ignota man fu l’oppressore indegno,</l>
+        <l>Che a te rapì lo scettro, a me la pace.</l>
+      </sp>
+      <sp who="#polidoro">
+        <speaker>POLIDORO:</speaker>
+        <l>Quando?</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>La scorsa notte, e mentre al sonno</l>
+        <l>Chiuse le luci avea.</l>
+      </sp>
+      <sp who="#polidoro">
+        <speaker>POLIDORO:</speaker>
+        <l>De’ torti miei</l>
+        <l>È alfin vindice il Ciel! oh se opportuno</l>
+        <l>Ilo giungesse a queste spiagge!</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>E quale</l>
+        <l>Dal suo valor potresti</l>
+        <l>Sperar difesa? immensa gente invade</l>
+        <l>La oppressa Lesbo, e vittima egli stesso</l>
+        <l>Della perfidia ostil…</l>
+      </sp>
+      <sp who="#polidoro">
+        <speaker>POLIDORO:</speaker>
+        <l>Taci… felice</l>
+        <l>Tragga altrove i suoi dì!</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Ma il tempo vola…</l>
+        <l>Deggio lasciarti.</l>
+      </sp>
+      <sp who="#polidoro">
+        <speaker>POLIDORO:</speaker>
+        <l>Ah no…</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Dover di figlia</l>
+        <l>Se ingegnosa mi rese</l>
+        <l>La tua vita a salvar, materno affetto</l>
+        <l>Sollecita mi rende</l>
+        <l>Dalle insidie nemiche</l>
+        <l>Il figlio a preservar.</l>
+      </sp>
+      <sp who="#polidoro">
+        <speaker>POLIDORO:</speaker>
+        <l>Pensa che il solo</l>
+        <l>Alimento che nudre</l>
+        <l>Le forze mie spiranti,</l>
+        <l>È il vederti frequente.</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>E da te lungi</l>
+        <l>Al par del tuo penoso è il viver mio.</l>
+        <l>Mi rivedrai.</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Serba i tuoi giorni.</l>
+      </sp>
+      <stage>ZELMIRA, EMMA e POLIDOROAddio!(Zelmira ed Emma vanno per la stessa scala).Piazza. Tempio di Giove da un lato.SCENA QUINTAAl suono di marcia festiva e preceduto da’ suoiguerrieri giunge il principe Ilo.Eacide lo siegue.CORO DI GUERRIERIS’intessano agli alloriI mirti di Cupido,E da per tutto il gridoEcheggi del piacer!Dopo i marziali orroriImen fra le sue tedeOh quanti a te concedeIstanti di goder!</stage>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Terra amica, ove respira</l>
+        <l>La consorte, il figlio amato,</l>
+        <l>Qual contento in sen m’ispira</l>
+        <l>Quell’aspetto lusinghier!</l>
+        <l>Là fra l’armi, e mentre intorno</l>
+        <l>Si aggirava a me il periglio,</l>
+        <l>Riveder la sposa, il figlio</l>
+        <l>Era il dolce mio pensier!</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Rivedrai la sposa, il figlio,</l>
+        <l>Sarà pago il tuo voler.</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Cara! deh attendimi!</l>
+        <l>Nel tuo bel seno</l>
+        <l>Volar saprò.</l>
+        <l>Felici l’aure,</l>
+        <l>Che per te spirano!</l>
+        <l>Felici i zeffiri</l>
+        <l>Che a te si appressano!</l>
+        <l>E avventurato</l>
+        <l>Dirmi potrò</l>
+        <l>Quando al mio lato</l>
+        <l>Ti rivedrò.</l>
+        <l>La bianca mano</l>
+        <l>Ti bacerò…</l>
+        <l>Da te lontano</l>
+        <l>Più non sarò…</l>
+        <l>Oh inesprimibile,</l>
+        <l>Dolce diletto!</l>
+        <l>Di te il mio petto</l>
+        <l>S’inebbriò!</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Gli Dei proteggano</l>
+        <l>Sì bell’ardore:</l>
+        <l>Lo serbi Amore,</l>
+        <l>Che lo destò.</l>
+      </sp>
+      <sp who="#eacide">
+        <speaker>EACIDE:</speaker>
+        <l>Godi, o signor: che più a bramar ti resta?</l>
+        <l>Del tuo brando al balen qual polve al vento</l>
+        <l>Si dileguò l’oste orgogliosa, e pace,</l>
+        <l>Prezzo della vittoria,</l>
+        <l>Alla patria rendesti: or fausto il Nume</l>
+        <l>Alle famose gesta</l>
+        <l>Del tuo valor bella mercede appresta.</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Sien grazie ai Numi! un avvenir beato</l>
+        <l>Gustar potrò di cari oggetti al lato.</l>
+        <l>Ma il fervido desìo così mi accende,</l>
+        <l>Che penoso ogn’indugio al cor mi rende.</l>
+        <l>Zelmira a che non vien?</l>
+      </sp>
+      <sp who="#eacide">
+        <speaker>EACIDE:</speaker>
+        <l>Non giunse ancora</l>
+        <l>Forse del tuo ritorno</l>
+        <l>La novella alla reggia.</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Ite, o miei fidi,</l>
+        <l>Voi l’affrettate: a Polidoro, il degno</l>
+        <l>Genitor di Zelmira,</l>
+        <l>Che pacifico regna</l>
+        <l>Ne’ cadenti suoi dì, dite che il figlio</l>
+        <l>Rispettoso al suo piede,</l>
+        <l>Per mai più abbandonarlo, alfin sen riede.</l>
+      </sp>
+      <sp who="#eacide">
+        <speaker>EACIDE:</speaker>
+        <l>Volo a’ tuoi cenni.</l>
+      </sp>
+      <stage>(Parte verso la reggia con alcuni de’ guerrieri).ILOSulle frigie naviRieda ciascuno, e’l volere attenda.(Partono altri verso il lido. Restano altre guardie).Ma non m’inganno! è quellaLa sposa mia?… sì, tu mel dici o coreCo’ palpiti frequenti! ah vieni… ah volaA questo sen, bella Zelmira!(Incontrandola con trasporto).SCENA SESTAZelmira e detto, indi Emma e donzelle.ZELMIRA(Oh Cielo!Egli è fra’ suoi… svelargli ah non poss’ioLe funeste vicende.)</stage>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Ecco le braccia…</l>
+        <l>Quanto vi desiai, care ritorte!</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Sposo… (che pena!) io ti riveggo!… (oh morte!)</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Ma qual gelida man? qual nube ingombra</l>
+        <l>Il seren de’ tuoi rai?</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Dolce sorpresa…</l>
+        <l>Inaspettata gioia</l>
+        <l>Smarrì miei sensi…</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>E a che t’infingi? io veggo</l>
+        <l>Del dolor che ti opprime</l>
+        <l>Le tracce su quel volto…</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>E da te lungi</l>
+        <l>Come gioir potea?</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Dunque al contento</l>
+        <l>Ritorna o cara or che ti sono allato.</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Vorrei… nol posso… ah! mel contrasta il fato!</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>A che quei tronchi accenti?</l>
+        <l>Dei! quel pallor perché?</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>(Reggere a tai tormenti</l>
+        <l>Possibile non è!)</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Forse di te non degno</l>
+        <l>Riede il tuo sposo?</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Oimè!</l>
+        <l>Deh non ti muova a sdegno</l>
+        <l>Il mio tacer ….</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Ma che?</l>
+        <l>L’affetto hai spento a segno,</l>
+        <l>Ch’io ti son grave?</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Ah no…</l>
+        <l>Più che ti amai ti adoro…</l>
+        <l>Lungi da’ suoi bei lumi</l>
+        <l>Deh voi lo dite o Numi</l>
+        <l>Se l’alma mia penò!</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>E a che sospiri? il figlio</l>
+        <l>Forse perì?</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>No, il Cielo</l>
+        <l>A’ prieghi miei clemente,</l>
+        <l>Ancor quell’innocente</l>
+        <l>Al genitor serbò.</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Ah! se caro a te son io,</l>
+        <l>Se respira il figlio ancora,</l>
+        <l>Ecco sorta alfin l’aurora</l>
+        <l>Della mia felicità!</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>(Quanto costa al labbro mio</l>
+        <l>Trarlo ormai dal dolce inganno!</l>
+        <l>La sua gioia in quanto affanno</l>
+        <l>Giusto Ciel! si cangerà!)</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Dimmi… al tuo padre è noto</l>
+        <l>Il mio ritorno?</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>(Oh istante!)</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Sieguimi… alle sue piante</l>
+        <l>Guidami pur ….</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Ti arresta!</l>
+        <l>(fremendo)</l>
+        <l>Non sai</l>
+      </sp>
+      <stage>ZELMIRATi arresta!(fremendo)Non sai</stage>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Tu fremi?</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Oh cielo!</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Tu piangi?</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Un denso velo</l>
+        <l>Già va offuscando il ciglio…</l>
+      </sp>
+      <sp who="#donzelle">
+        <speaker>DONZELLE:</speaker>
+        <l>(premurose)</l>
+        <l>Zelmira! oh qual periglio</l>
+        <l>A te sovrasta!</l>
+      </sp>
+      <stage>DONZELLE(premurose)Zelmira! oh qual periglioA te sovrasta!</stage>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>Oh misera!</l>
+        <l>Tu sei perduta…</l>
+      </sp>
+      <sp who="#donzelle">
+        <speaker>DONZELLE:</speaker>
+        <l>Antenore</l>
+        <l>Insidia la tua vita…</l>
+      </sp>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>E in te la ignota mano,</l>
+        <l>Che uccise Azor, si addita…</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Oh nuovo eccesso!</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>(a Zelmira)</l>
+        <l>Ah! spiegati…</l>
+        <l>Che deggio udir?</l>
+      </sp>
+      <stage>ILO(a Zelmira)Ah! spiegati…Che deggio udir?</stage>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>(in uno slancio)</l>
+        <l>Deh fuggimi!</l>
+        <l>Torna alla patria, e lasciami</l>
+        <l>Al fato inesorabile,</l>
+        <l>Che mi persegue ognor!</l>
+      </sp>
+      <stage>ZELMIRA(in uno slancio)Deh fuggimi!Torna alla patria, e lasciamiAl fato inesorabile,Che mi persegue ognor!</stage>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>(Che mai pensar? che dir?</l>
+        <l>Tutto è incertezza, orror!</l>
+        <l>Più barbaro martir</l>
+        <l>No, non provai finor!)</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>(Come parlar? che dir?</l>
+        <l>E tacer deggio ancor?</l>
+        <l>Ah! non si può soffrir</l>
+        <l>Sì barbaro dolor!)</l>
+      </sp>
+      <stage>EMMA e DONZELLESorte spietata! ah cessaDal fiero tuo rigor!Ché alla barbarie istessaÈ strano un tal furor.(Partono per vie opposte).SCENA SETTIMAAntenore, indi Leucippo, poi Ilo di nuovo, infine sacerdoti dal tempio.ANTENORET’intendo, istabil Diva, e ‘l crin che mi offri,Audace io stringerò. Di Lesbo al lidoGiunse l’iliaco Prence, e fra breve oraAl trucidato Azorre, al Rege estintoAvrà pari il destin. Insidia ed arte,Onde assopirlo e quindiSorprenderlo all’agguato,Mancar non mi saprà.</stage>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Tutto risponde</l>
+        <l>A’ tuoi voti, o signor: da me sedotto</l>
+        <l>Di Lesbo e Mitilene</l>
+        <l>Il volgo ed il guerrier, crede in Zelmira</l>
+        <l>L’omicida di Azor.</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Novello inciampo</l>
+        <l>A’ miei disegni Ilo qui venne: al figlio</l>
+        <l>Il diadema degli avi</l>
+        <l>Sempre intento a serbar, l’armi di Troia</l>
+        <l>Può muovere a mio danno.</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Ebben col figlio</l>
+        <l>Cada egli stesso.</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Oh mio verace amico!</l>
+        <l>Da sì grave periglio</l>
+        <l>Basti a trarmi il tuo braccio, il tuo consiglio.</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>(fremendo)</l>
+        <l>Quai delitti! che intesi! oh Polidoro!</l>
+        <l>Oh Lesbo sventurata!</l>
+      </sp>
+      <stage>ILO(fremendo)Quai delitti! che intesi! oh Polidoro!Oh Lesbo sventurata!</stage>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>(Eccolo!)</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>(E freme!</l>
+        <l>Secondami.)</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Si fugga</l>
+        <l>Da una tigre, che tinta</l>
+        <l>È del sangue paterno… oh infausto lido,</l>
+        <l>Dove natura è conculcata, oppressa!</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Ilo!</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Signor!</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Sei tu? qual rio destino</l>
+        <l>Ti trasse in Lesbo?</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Alla crudel consorte,</l>
+        <l>Avida di tua morte,</l>
+        <l>Vieni tu stesso ad immolarti?</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Antenore!</l>
+        <l>Dell’oppressor di Lesbo</l>
+        <l>Empio seguace! ah! nel mirarti io fremo!</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Qual fallo è il mio? della spergiura sposa</l>
+        <l>La barbarie ne incolpa. Occulto affetto</l>
+        <l>Ad Azor la stringea. Movesti appena</l>
+        <l>Da Lesbo il piè, che l’empia a queste spiagge</l>
+        <l>Le armi affrettò del tuo rivale, e poi</l>
+        <l>Al suo furente ed impudico ardore</l>
+        <l>Patria immolò, consorte e genitore.</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Ah! più non reggo! anima infida! e puoi</l>
+        <l>Tanto infingerti meco?</l>
+        <l>Esagerarmi l’amoroso affanno?</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Arme usata è per lei scaltrito inganno.</l>
+        <l>Mentre qual fiera ingorda</l>
+        <l>Arma a ferir l’artiglio,</l>
+        <l>Su i labbri suoi, nel ciglio</l>
+        <l>Par che sorrida Amor.</l>
+        <l>Intrepida e sicura,</l>
+        <l>Fede e costanza giura,</l>
+        <l>Ma di costanza e fede</l>
+        <l>Frange le leggi ognor.</l>
+        <l>Sì triste ritorte,</l>
+        <l>O Prence infelice!</l>
+        <l>La barbara sorte</l>
+        <l>Avvinse per te!</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Oh barbara sorte!</l>
+        <l>Mio core infelice!</l>
+        <l>Oh iniqua consorte!</l>
+        <l>Tradirmi, e perché?</l>
+        <l>(Dal tempio a passo grave si avanzano i</l>
+        <l>sacerdoti, e giunti ad Antenore, lo circondano</l>
+        <l>e parlano in tuono fatidico e misterioso).</l>
+        <l>ANTENORE</l>
+        <l>Ma i sacri ministri</l>
+        <l>Che chiedon da me?</l>
+      </sp>
+      <stage>ILOOh barbara sorte!Mio core infelice!Oh iniqua consorte!Tradirmi, e perché?(Dal tempio a passo grave si avanzano isacerdoti, e giunti ad Antenore, lo circondanoe parlano in tuono fatidico e misterioso).ANTENOREMa i sacri ministriChe chiedon da me?</stage>
+      <sp who="#sacerdoti">
+        <speaker>SACERDOTI:</speaker>
+        <l>Di luce sfavillante</l>
+        <l>Un raggio balenò.</l>
+        <l>La voce del Tonante</l>
+        <l>Nel tempio risuonò.</l>
+        <l>“Antenore di Lesbo</l>
+        <l>Sia difensor, sostegno:</l>
+        <l>È a lui dovuto un regno,</l>
+        <l>Che tanto meritò.”</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>(Oh smania atroce!)</l>
+        <l>(Parte).</l>
+        <l>ANTENORE</l>
+        <l>(Oh giubilo!)</l>
+      </sp>
+      <stage>ILO(Oh smania atroce!)(Parte).ANTENORE(Oh giubilo!)</stage>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Vieni la fronte a cingere</l>
+        <l>Del real serto…</l>
+      </sp>
+      <sp who="#sacerdoti">
+        <speaker>SACERDOTI:</speaker>
+        <l>Ai popoli</l>
+        <l>Vieni a donar la pace.</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>(Ah! dopo tanti palpiti</l>
+        <l>Contenta è alfin quest’anima!</l>
+        <l>Non che non posso esprimere</l>
+        <l>Qual gioia io sento in me!)</l>
+      </sp>
+      <stage>LEUCIPPO e CORODi guerra il grido infaustaDovrà cessar per te.(Antenore e Leucippo partono tra’ sacerdoti).</stage>
+      <sp who="#scena ottava">
+        <speaker>SCENA OTTAVA:</speaker>
+        <l>Zelmira ed Emma.</l>
+        <l>ZELMIRA</l>
+        <l>Emma fedel, dal tuo bel core io chieggo</l>
+        <l>Di tenera amistà la pruova estrema.</l>
+      </sp>
+      <stage>SCENA OTTAVAZelmira ed Emma.ZELMIRAEmma fedel, dal tuo bel core io chieggoDi tenera amistà la pruova estrema.</stage>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>Del sangue mio fa d’uopo?</l>
+        <l>Fino all’ultima stilla Versalo pur.</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Finché lo sposo io possa</l>
+        <l>Disingannar, del padre mio la sorte</l>
+        <l>Palesargli, fuggir da questo lido,</l>
+        <l>In ermo asilo, ove gli ostili aguati</l>
+        <l>Fian vani a danno suo, serbami il figlio.</l>
+      </sp>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>Sì, di Antenore, il fero,</l>
+        <l>Per te, per lui paventa: il tuo candore</l>
+        <l>Osa macchiar nell’incolparti l’empio</l>
+        <l>Della morte di Azor.</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Che rea non sono</l>
+        <l>Se noto è al Ciel, dal divin braccio io spero</l>
+        <l>E soccorso, e difesa: il figlio intanto</l>
+        <l>Salvami per pietà!</l>
+      </sp>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>L’usurpatore,</l>
+        <l>Avido di regnar, sull’innocente,</l>
+        <l>Che del trono di Lesbo</l>
+        <l>Può intralciargli il sentier, l’armata destra</l>
+        <l>Scagliar saprà.</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Taci! l’ascondi; è a lui</l>
+        <l>Periglioso ogn’istante… oh pene atroci!</l>
+        <l>Il vincolo più sacro e insiem soave</l>
+        <l>Voi rendete per me tanto infelice</l>
+        <l>Di consorte, di figlia e genitrice!</l>
+        <l>(Al figlio)</l>
+        <l>Perché mi guardi e piangi,</l>
+        <l>Parte del sangue mio?</l>
+        <l>Forse l’estremo addio</l>
+        <l>Mi annunzia il tuo dolor?</l>
+      </sp>
+      <stage>ZELMIRATaci! l’ascondi; è a luiPeriglioso ogn’istante… oh pene atroci!Il vincolo più sacro e insiem soaveVoi rendete per me tanto infeliceDi consorte, di figlia e genitrice!(Al figlio)Perché mi guardi e piangi,Parte del sangue mio?Forse l’estremo addioMi annunzia il tuo dolor?</stage>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>Ma qual pensier funesto! Lascialo…</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Un altro amplesso…</l>
+      </sp>
+      <sp who="#emma">
+        <speaker>EMMA:</speaker>
+        <l>Tradirlo può l’eccesso</l>
+        <l>Del tuo materno amor.</l>
+      </sp>
+      <stage>ZELMIRA e EMMAAh! chi pietà non senteDel mio/suo crudele affanno,O chiude un cor tiranno,O non ha in petto un cor.(Viano).Sala magnifica nella reggia, ov’è innalzato un trono.</stage>
+      <sp who="#scena nona">
+        <speaker>SCENA NONA:</speaker>
+        <l>Festiva marcia: precedono in bell’ordine</l>
+        <l>disposte le guardie reali di Lesbo e Mitilene;</l>
+        <l>seguono i Grandi di entrambi i regni, indi le</l>
+        <l>reali donzelle cinte di ghirlande di fiori;</l>
+        <l>infuse, al fianco del gran sacerdote e di</l>
+        <l>Leucippo ed in mezzo a’ ministri di Giove, si</l>
+        <l>avanza Antenore in regal manto e colla testa</l>
+        <l>nuda. I paggi, che chiudono la pompa,</l>
+        <l>recano su due dorati bacini la corona</l>
+        <l>gemmata e lo scettro. Durante la marcia, e</l>
+        <l>finché Antenore è condotto sul trono, si</l>
+        <l>canterà coll’indicato dettaglio il seguente coro.</l>
+        <l>DONZELLE</l>
+        <l>Si sparga di fiori</l>
+        <l>Del soglio il sentier.</l>
+      </sp>
+      <stage>SCENA NONAFestiva marcia: precedono in bell’ordinedisposte le guardie reali di Lesbo e Mitilene;seguono i Grandi di entrambi i regni, indi lereali donzelle cinte di ghirlande di fiori;infuse, al fianco del gran sacerdote e diLeucippo ed in mezzo a’ ministri di Giove, siavanza Antenore in regal manto e colla testanuda. I paggi, che chiudono la pompa,recano su due dorati bacini la coronagemmata e lo scettro. Durante la marcia, efinché Antenore è condotto sul trono, sicanterà coll’indicato dettaglio il seguente coro.DONZELLESi sparga di fioriDel soglio il sentier.</stage>
+      <sp who="#guerrieri">
+        <speaker>GUERRIERI:</speaker>
+        <l>Di bellici orrori</l>
+        <l>Sia lungi il pensier.</l>
+      </sp>
+      <sp who="#tutto il coro">
+        <speaker>TUTTO IL CORO:</speaker>
+        <l>Bell’aura di pace</l>
+        <l>Al nembo succeda:</l>
+        <l>Ogni anima rieda</l>
+        <l>Dal pianto al goder.</l>
+      </sp>
+      <sp who="#donzelle">
+        <speaker>DONZELLE:</speaker>
+        <l>Se dono de’ Numi</l>
+        <l>È Antenore al trono,</l>
+      </sp>
+      <sp who="#guerrieri">
+        <speaker>GUERRIERI:</speaker>
+        <l>Godiam del gran dono,</l>
+        <l>Giuriamo a lui fé.</l>
+      </sp>
+      <sp who="#tutto il coro">
+        <speaker>TUTTO IL CORO:</speaker>
+        <l>Maggior fra gli eroi</l>
+        <l>Per senno e valore,</l>
+        <l>Di Lesbo, di noi</l>
+        <l>Sia padre, sia Re.</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>(in piedi sul trono)</l>
+        <l>Sì, figli miei, di Lesbo</l>
+        <l>Padre, sovrano e amico,</l>
+        <l>Al suo splendore antico</l>
+        <l>Renderla appien saprò.</l>
+      </sp>
+      <stage>ANTENORE(in piedi sul trono)Sì, figli miei, di LesboPadre, sovrano e amico,Al suo splendore anticoRenderla appien saprò.</stage>
+      <sp who="#gran sacerdote">
+        <speaker>GRAN SACERDOTE:</speaker>
+        <l>(prende la corona, e ne</l>
+        <l>adorna il capo di Antenore)</l>
+        <l>Quel fronte illustre, usato</l>
+        <l>A’ verdeggianti allori,</l>
+        <l>Regal diadema onori.</l>
+      </sp>
+      <stage>GRAN SACERDOTE(prende la corona, e neadorna il capo di Antenore)Quel fronte illustre, usatoA’ verdeggianti allori,Regal diadema onori.</stage>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>(presenta lo scettro ad Antenore)</l>
+        <l>Regga lo scettro aurato</l>
+        <l>La destra, che ti rese</l>
+        <l>Chiaro per l’alte imprese.</l>
+      </sp>
+      <stage>LEUCIPPO(presenta lo scettro ad Antenore)Regga lo scettro auratoLa destra, che ti reseChiaro per l’alte imprese.</stage>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Alle squadre, che fervide all’Etera</l>
+        <l>Già gli evviva lietissime innalzano,</l>
+        <l>Ti presenta: la regia tua porpora</l>
+        <l>Loro accresca la gioia, il piacer.</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Sì… si vada (momento di giubilo!</l>
+        <l>Quanto all’alma tu sei lusinghier!)</l>
+      </sp>
+      <stage>CORO e LEUCIPPOQuesto giorno ridente, propizioSia di calma l’amico forier.(Tutto il corteggio segue Antenore).SCENA DECIMAIlo, indi Leucippo guardingo, infine Zelmira.ILOIl figlio mio,Stelle! dov’è?Ah! nol vegg’io!Che pena!… oimè!Lo chieggo invano…Da me sparì…Barbara manoMe lo rapì!Oh Ciel! la smaniaMi strazia il cor!Non so resistereAl rio dolor!(Cade quasi in deliquio su di una sedia).LEUCIPPO(Eccolo! ansanteGiunger lo vidi,E le sue pianteVolli seguir.Svenne! propizioÈ ormai l’istante…Giovi ad AntenoreIl suo morir.)(Impugna uno stilo, e si avanza a ferire Ilo.Zelmira, che giunge dall’altro lato, correa fermarlo, trattenendogli il braccio edisarmandolo all’improvviso.Leucippo profitta di tale circostanza e,lasciando il pugnale in mano a Zelmira,si appressa ad Ilo e lo scuote).ZELMIRAChe tenti! ah fermati!</stage>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>(All’arte!)</l>
+        <l>Ah perfida! Ilo! deh salvati!</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Che miro! oh fulmine!</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>(a Leucippo)</l>
+        <l>Empio! che mediti?</l>
+      </sp>
+      <stage>ZELMIRA(a Leucippo)Empio! che mediti?</stage>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>S’io non giungea</l>
+        <l>Pronto a salvarti,</l>
+        <l>La donna rea</l>
+        <l>Volea svenarti.</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Ah! non è vero…</l>
+        <l>Sappi… egli stesso…</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Numi! qual nero…</l>
+        <l>Qual nuovo eccesso!</l>
+        <l>Di sangue sazia</l>
+        <l>Non sei tu appieno?</l>
+        <l>Ebben feriscimi…</l>
+        <l>Ecco il mio seno…</l>
+        <l>Mi unisci… oh barbara!</l>
+        <l>Al genitor.</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Ah sposo! ascoltami…</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Vanne… spietata!</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Colui scagliavasi</l>
+        <l>Con destra armata…</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>No, non difenderti…</l>
+        <l>Taci, o colpevole!</l>
+        <l>La tua ferocia</l>
+        <l>È manifesta…</l>
+      </sp>
+      <sp who="#ilo">
+        <speaker>ILO:</speaker>
+        <l>Oh della Libia</l>
+        <l>Belva funesta!</l>
+        <l>Fuggi! allontanati</l>
+        <l>Dal mio furor!</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Oh qual calunnia!</l>
+        <l>Che pena è questa!</l>
+        <l>Sento dividermi</l>
+        <l>A brani il cor!</l>
+      </sp>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>(Vendetta! ah saziati</l>
+        <l>Nel suo dolor!)</l>
+      </sp>
+      <sp who="#scena ultima">
+        <speaker>SCENA ULTIMA:</speaker>
+        <l>Antenore frettoloso con coro di guerrieri e</l>
+        <l>donzelle.</l>
+        <l>ANTENORE</l>
+        <l>Che avvenne?</l>
+      </sp>
+      <stage>SCENA ULTIMAAntenore frettoloso con coro di guerrieri edonzelle.ANTENOREChe avvenne?</stage>
+      <sp who="#leucippo">
+        <speaker>LEUCIPPO:</speaker>
+        <l>Al suo consorte</l>
+        <l>Era per dar la morte</l>
+        <l>Quell’anima crudel.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Come!</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Che ascolto!</l>
+        <l>Oh Ciel!</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Giusti Numi! ah! voi che siete</l>
+        <l>Degli oppressi aita e scudo,</l>
+        <l>L’innocenza proteggete</l>
+        <l>Di quest’anima fedel!</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Alla strage ognor ti guida</l>
+        <l>Nera furia che t’invade?</l>
+        <l>Tu di Azor fosti omicida,</l>
+        <l>Tu del padre i giorni hai spenti…</l>
+      </sp>
+      <sp who="#zelmira">
+        <speaker>ZELMIRA:</speaker>
+        <l>Cessa… oh indegno! e questi accenti</l>
+        <l>Frena pur…</l>
+      </sp>
+      <sp who="#antenore">
+        <speaker>ANTENORE:</speaker>
+        <l>Guardie! alla pena</l>
+        <l>Sia serbata</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>A morte! a morte!</l>
+      </sp>
+      <sp who="#zelmira, emma, ilo, antenore">
+        <speaker>ZELMIRA, EMMA, ILO, ANTENORE,:</speaker>
+        <l>LEUCIPPO e CORO</l>
+        <l>Fiume che gli argini Rompe e sorpassa,</l>
+        <l>Tremenda folgore – Che uccide e passa,</l>
+        <l>È men terribile – Di quell’affanno,</l>
+        <l>Che inesorabile – Mi strazia il cor!</l>
+        <l>(Zelmira è condotta fra le guardie;</l>
+        <l>si cala il sipario).</l>
+      </sp>
+      <stage>ZELMIRA, EMMA, ILO, ANTENORE,LEUCIPPO e COROFiume che gli argini Rompe e sorpassa,Tremenda folgore – Che uccide e passa,È men terribile – Di quell’affanno,Che inesorabile – Mi strazia il cor!(Zelmira è condotta fra le guardie;si cala il sipario).</stage>
+      <div type="act">
+        <head>ATTO SECONDO</head>
+        <sp who="#atto secondo">
+          <speaker>ATTO SECONDO:</speaker>
+        </sp>
+        <stage>Sala magnifica come prima.SCENA PRIMAAntenore e Leucippo da parti opposte.LEUCIPPOGran cose, o Re!</stage>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>Che rechi?</l>
+        </sp>
+        <sp who="#leucippo">
+          <speaker>LEUCIPPO:</speaker>
+          <l>Al suo consorte</l>
+          <l>Questo foglio Zelmira</l>
+          <l>Dal carcere inviò. Di un fido servo,</l>
+          <l>Che l’educò bambina,</l>
+          <l>La pietade destò. Ma fu da’ miei</l>
+          <l>Costui sorpreso, e messo in ceppi. Ah leggi,</l>
+          <l>Ed inarca le ciglia.</l>
+          <l>(Dando il foglio ad Antenore, che avidamente</l>
+          <l>lo legge).</l>
+          <l>ANTENORE</l>
+          <l>“Ilo, deh vola</l>
+          <l>Co’ tuoi prodi a salvarmi. Allor saprai</l>
+          <l>Che rea non son, né parracida: il Cielo…</l>
+          <l>Un mio felice inganno…</l>
+          <l>Basta… corri… ti affretta</l>
+          <l>Di me… del padre.. alla comun vendetta”.</l>
+          <l>Quai sensi! e Polidoro</l>
+          <l>Forse spento non è?</l>
+        </sp>
+        <stage>LEUCIPPOAl suo consorteQuesto foglio ZelmiraDal carcere inviò. Di un fido servo,Che l’educò bambina,La pietade destò. Ma fu da’ mieiCostui sorpreso, e messo in ceppi. Ah leggi,Ed inarca le ciglia.(Dando il foglio ad Antenore, che avidamentelo legge).ANTENORE“Ilo, deh volaCo’ tuoi prodi a salvarmi. Allor sapraiChe rea non son, né parracida: il Cielo…Un mio felice inganno…Basta… corri… ti affrettaDi me… del padre.. alla comun vendetta”.Quai sensi! e PolidoroForse spento non è?</stage>
+        <sp who="#leucippo">
+          <speaker>LEUCIPPO:</speaker>
+          <l>Ma tra le fiamme</l>
+          <l>Ei non perì di Cerere nel tempio,</l>
+          <l>Dopo che al vincitor Zelmira istessa</l>
+          <l>L’asil del padre palesò?</l>
+        </sp>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>L’arcano</l>
+          <l>Che qui si asconde, ad ogni costo io voglio</l>
+          <l>Leucippo, penetrar.</l>
+        </sp>
+        <sp who="#leucippo">
+          <speaker>LEUCIPPO:</speaker>
+          <l>Fingi clemenza,</l>
+          <l>Sciogli Zelmira, osserva</l>
+          <l>Vigile i passi suoi.</l>
+        </sp>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>T’intendo… io fremo!</l>
+        </sp>
+        <sp who="#leucippo">
+          <speaker>LEUCIPPO:</speaker>
+          <l>Sguardo linceo! arte! prontezza! ardire!</l>
+        </sp>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>Pria che cedere al tron, saprò morire.</l>
+          <l>(Viano).</l>
+          <l>Vasta pianura come nel primo atto.</l>
+          <l>SCENA SECONDA</l>
+          <l>Coro di damigelle seguaci di Zelmira, indi</l>
+          <l>Emma, escono successivamente da un lato</l>
+          <l>osservando con ansietà se vi sia alcuno</l>
+          <l>nella sala e ne’ luoghi vicini.</l>
+          <l>CORO</l>
+          <l>Pian piano inoltrisi;</l>
+          <l>Sia cauto il piede.</l>
+        </sp>
+        <stage>ANTENOREPria che cedere al tron, saprò morire.(Viano).Vasta pianura come nel primo atto.SCENA SECONDACoro di damigelle seguaci di Zelmira, indiEmma, escono successivamente da un latoosservando con ansietà se vi sia alcunonella sala e ne’ luoghi vicini.COROPian piano inoltrisi;Sia cauto il piede.</stage>
+        <sp who="#una parte del coro">
+          <speaker>UNA PARTE DEL CORO:</speaker>
+          <l>Se alcuno scopreci,</l>
+          <l>Se alcun ci vede</l>
+          <l>Perduto è il misero,</l>
+          <l>Perdute siamo!</l>
+          <l>(verso la scena con voce più ferma ad</l>
+          <l>Emma)</l>
+          <l>Vieni. Rincorati.</l>
+          <l>Deserto è il loco.</l>
+          <l>Ancor per poco</l>
+          <l>Si tremerà.</l>
+        </sp>
+        <stage>UNA PARTE DEL COROSe alcuno scopreci,Se alcun ci vedePerduto è il misero,Perdute siamo!(verso la scena con voce più ferma adEmma)Vieni. Rincorati.Deserto è il loco.Ancor per pocoSi tremerà.</stage>
+        <sp who="#emma col fanciullo">
+          <speaker>EMMA COL FANCIULLO:</speaker>
+          <l>Eccolo: A voi l’affido.</l>
+          <l>Oh dell’afflitta Lesbo amata speme!</l>
+          <l>Su te veglin gli Dei! Ver l’antro cupo</l>
+          <l>Due il traggan di voi. L’altre qui meco</l>
+          <l>Sorveglino il nemico, e calde intanto</l>
+          <l>Mandiamo ai sommi Dei preci nel pianto.</l>
+          <l>(Partono le due damigelle col fanciullo).</l>
+          <l>Ciel pietoso, ciel clemente</l>
+          <l>Il bel pegno a te confido!</l>
+          <l>Salverai tu l’innocente,</l>
+          <l>D’una madre avrai pietà.</l>
+          <l>(Sbigottita come chi ode rumore improvviso)</l>
+          <l>Ma… che sento?</l>
+          <l>(alle compagne)</l>
+          <l>alcun s’appressa?</l>
+          <l>Ah! correte: i petti imbelli</l>
+          <l>A que’ barbari opponete:</l>
+          <l>Bel morir la vita onora.</l>
+        </sp>
+        <stage>EMMA COL FANCIULLOEccolo: A voi l’affido.Oh dell’afflitta Lesbo amata speme!Su te veglin gli Dei! Ver l’antro cupoDue il traggan di voi. L’altre qui mecoSorveglino il nemico, e calde intantoMandiamo ai sommi Dei preci nel pianto.(Partono le due damigelle col fanciullo).Ciel pietoso, ciel clementeIl bel pegno a te confido!Salverai tu l’innocente,D’una madre avrai pietà.(Sbigottita come chi ode rumore improvviso)Ma… che sento?(alle compagne)alcun s’appressa?Ah! correte: i petti imbelliA que’ barbari opponete:Bel morir la vita onora.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Pronte siamo. Il sangue ancora</l>
+          <l>Sì, per lui si verserà.</l>
+          <l>(Le damigelle si volgono verso le avvenute</l>
+          <l>della sala, osservando da diverse parti, poi</l>
+          <l>tornano).</l>
+          <l>Non temer. Serena il ciglio:</l>
+          <l>Questa è l’aura. Il regal figlio</l>
+          <l>Mentre parli è salvo già.</l>
+        </sp>
+        <stage>COROPronte siamo. Il sangue ancoraSì, per lui si verserà.(Le damigelle si volgono verso le avvenutedella sala, osservando da diverse parti, poitornano).Non temer. Serena il ciglio:Questa è l’aura. Il regal figlioMentre parli è salvo già.</stage>
+        <sp who="#emma">
+          <speaker>EMMA:</speaker>
+          <l>Ah se è ver, di quel ch’io sento,</l>
+          <l>No, più amabile contento</l>
+          <l>Non si trova, non si dà.</l>
+        </sp>
+        <sp who="#scena terza">
+          <speaker>SCENA TERZA:</speaker>
+          <l>Ilo pensieroso, indi Polidoro dalla tomba.</l>
+          <l>ILO</l>
+          <l>A che difendi una sleale, un’empia</l>
+          <l>Infelice mio cor? di ardente affetto,</l>
+          <l>Che ti strugge per lei, tu fai sentirmi</l>
+          <l>La fatal possa ancora?</l>
+          <l>Taci, pietà non merta, è rea… che mora!</l>
+          <l>Ma intanto il figlio amato</l>
+          <l>Chi rende a me? misero padre! ah questo</l>
+          <l>De’ fulmini del fato è il più funesto!</l>
+          <l>(Resta immerso ne suoi pensieri).</l>
+          <l>POLIDORO</l>
+          <l>(sulla soglia della tomba)</l>
+          <l>Meglio morir, che viver sempre oppresso</l>
+          <l>Da crudi affanni. Oh mia Zelmira! è l’alma</l>
+          <l>Lunge da te trista così, che ognora</l>
+          <l>Ti predice sciagure. Ah no, non voglio</l>
+          <l>Più palpiti soffrir. Che val la vita,</l>
+          <l>Se tutto già perdei?</l>
+          <l>Fia la morte sollievo a’ mali miei.</l>
+          <l>(S’inoltra. Ilo si scuote, guarda verso la</l>
+          <l>tomba).</l>
+          <l>ILO</l>
+          <l>Ma chi da quella tomba</l>
+          <l>Avanza il piè? Numi possenti! è un sogno?</l>
+          <l>(Riconosce Polidoro, che ravvisandolo si</l>
+          <l>slancia al suo seno).</l>
+          <l>È una illusione?</l>
+        </sp>
+        <stage>SCENA TERZAIlo pensieroso, indi Polidoro dalla tomba.ILOA che difendi una sleale, un’empiaInfelice mio cor? di ardente affetto,Che ti strugge per lei, tu fai sentirmiLa fatal possa ancora?Taci, pietà non merta, è rea… che mora!Ma intanto il figlio amatoChi rende a me? misero padre! ah questoDe’ fulmini del fato è il più funesto!(Resta immerso ne suoi pensieri).POLIDORO(sulla soglia della tomba)Meglio morir, che viver sempre oppressoDa crudi affanni. Oh mia Zelmira! è l’almaLunge da te trista così, che ognoraTi predice sciagure. Ah no, non voglioPiù palpiti soffrir. Che val la vita,Se tutto già perdei?Fia la morte sollievo a’ mali miei.(S’inoltra. Ilo si scuote, guarda verso latomba).ILOMa chi da quella tombaAvanza il piè? Numi possenti! è un sogno?(Riconosce Polidoro, che ravvisandolo sislancia al suo seno).È una illusione?</stage>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>Ilo! e fia ver? mio figlio!</l>
+          <l>Ah! mi è dato il vederti</l>
+          <l>Pria di chiuder le luci?</l>
+        </sp>
+        <sp who="#ilo">
+          <speaker>ILO:</speaker>
+          <l>Io non m’inganno!</l>
+          <l>Padre! tu vivi? e di Zelmira indegna</l>
+          <l>Non cadesti tu vittima?</l>
+        </sp>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>Rispetta</l>
+          <l>L’alta virtù di lei… misera figlia!</l>
+          <l>Deggio ad essa i miei giorni: in quella tomba</l>
+          <l>Seppe celarmi, e poi</l>
+          <l>All’oppressore Azor finse ch’io m’era</l>
+          <l>Chiuso colà, di Cerere nel tempio</l>
+          <l>Da’ sacerdoti cinto,</l>
+          <l>E quel sacro recinto allor quell’empio</l>
+          <l>Alle fiamme dannò.</l>
+        </sp>
+        <sp who="#ilo">
+          <speaker>ILO:</speaker>
+          <l>Dunque è innocente</l>
+          <l>La sposa mia?</l>
+        </sp>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>La sua filial pietade,</l>
+          <l>Non curando i perigli,</l>
+          <l>Mi alimentò, mi resse in vita.</l>
+        </sp>
+        <sp who="#ilo">
+          <speaker>ILO:</speaker>
+          <l>Ah padre!</l>
+          <l>Mi abbraccia! un sol momento</l>
+          <l>Ha tutto in me cangiato…</l>
+          <l>Innocente Zelmira? oh me beato!</l>
+          <l>In estasi di gioia</l>
+          <l>Tutto rapir mi sento!</l>
+          <l>Non reggo a quel contento,</l>
+          <l>Che già m’inonda il cor!</l>
+        </sp>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>Di tante pene e tante</l>
+          <l>Che tollerai finora,</l>
+          <l>Così felice istante</l>
+          <l>Temprando va il rigor!</l>
+        </sp>
+        <sp who="#ilo">
+          <speaker>ILO:</speaker>
+          <l>Vieni: le navi frigie</l>
+          <l>Ti fian di asilo, intanto</l>
+          <l>Che co’ miei prodi Antenore</l>
+          <l>Io scenda a debellar.</l>
+        </sp>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>Tu solo… io inerme… i perfidi</l>
+          <l>Nemici, che si aggirano</l>
+          <l>A noi d’intorno… ah vittima</l>
+          <l>Potrei di lor restar.</l>
+        </sp>
+        <sp who="#ilo">
+          <speaker>ILO:</speaker>
+          <l>Ebben di nuovo celati:</l>
+          <l>Tu mi vedrai qui rapido</l>
+          <l>Tornar co’ miei…</l>
+        </sp>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>No …lasciami…</l>
+          <l>Corri a salvar Zelmira…</l>
+        </sp>
+        <sp who="#ilo">
+          <speaker>ILO:</speaker>
+          <l>A sì bel voto aspira</l>
+          <l>Il tenero mio amor.</l>
+        </sp>
+        <stage>ILO e POLIDOROTu accresci il mio/suo coraggioO amico Ciel pietoso!Splenda sereno un raggioDopo sì lungo orror!(Ilo parte sollecitamente verso il lido;Polidoro rientra nel suo nascondiglio).SCENA QUARTAZelmira, indi Emma; in osservazioneAntenore e Leucippo con guardie.ZELMIRAChi sciolse i lacci miei? forse conobbeIlo la mia innocenza, e dal tirannoMi ottenne libertà. Padre! tu ignoriLe pene mie, l’arrivoDel mio sposo a te caro… Emma! a che giungiFrettolosa così?</stage>
+        <sp who="#emma">
+          <speaker>EMMA:</speaker>
+          <l>Lieta novella…</l>
+        </sp>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>(Si ascolti.)</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>E quale?</l>
+        </sp>
+        <sp who="#emma">
+          <speaker>EMMA:</speaker>
+          <l>Io vidi</l>
+          <l>Ilo, che verso il lido</l>
+          <l>Muovea veloce il piè: s’arresta, e ratto</l>
+          <l>Mi dice… “Ah! vola alla mia sposa… il padre</l>
+          <l>Fia salvo, ed io fra poco</l>
+          <l>Contento il condurrò nel suo bel seno…”</l>
+          <l>E veloce sparì come un baleno.</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Che narri? ah che la gioia</l>
+          <l>Mi tronca il favellar…</l>
+        </sp>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>(a Leucippo)</l>
+          <l>(Ed Ilo in salvo</l>
+          <l>Già trasse Polidor?)</l>
+        </sp>
+        <stage>ANTENORE(a Leucippo)(Ed Ilo in salvoGià trasse Polidor?)</stage>
+        <sp who="#leucippo">
+          <speaker>LEUCIPPO:</speaker>
+          <l>(Con lui non era:</l>
+          <l>Il vidi anch’io; l’errore</l>
+          <l>Giovi a’ nostri disegni.)</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>E come? e quando</l>
+          <l>Scovrì l’asil del padre?</l>
+        </sp>
+        <sp who="#emma">
+          <speaker>EMMA:</speaker>
+          <l>Il Ciel pietoso</l>
+          <l>Un mezzo prodigioso</l>
+          <l>Forse a svelarlo oprò.</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Ah! ch’io respiro!</l>
+          <l>Sul suo naviglio, spero,</l>
+          <l>Ilo l’avrà condotto.</l>
+        </sp>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>(Aita, o sorte!)</l>
+          <l>(Si fa innanzi con Leucippo)</l>
+          <l>Ah mentitrice! è il fallo tuo palese:</l>
+          <l>Vive ancor Polidoro, e’l tuo consorte</l>
+          <l>Già salvo il rende in su le frigie navi.</l>
+        </sp>
+        <stage>ANTENORE(Aita, o sorte!)(Si fa innanzi con Leucippo)Ah mentitrice! è il fallo tuo palese:Vive ancor Polidoro, e’l tuo consorteGià salvo il rende in su le frigie navi.</stage>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Sì… trema o mostro! a fulminarti è armato</l>
+          <l>Vindice braccio… sì… respira ancora</l>
+          <l>Per tuo estremo cordoglio</l>
+          <l>Il Re di Lesbo, e tornerà sul soglio.</l>
+        </sp>
+        <sp who="#leucippo">
+          <speaker>LEUCIPPO:</speaker>
+          <l>Tutta seppi la trama,</l>
+          <l>Che a nasconderlo ordisti:</l>
+          <l>Tu dal tempio di Cerere il salvasti</l>
+          <l>In quello di Diana, e Forba, il primo</l>
+          <l>Ministro della Diva,</l>
+          <l>E l’accolse, e ‘l nascose.</l>
+        </sp>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>Ebben costui</l>
+          <l>Cada svenato, e sull’istante.</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Oh quanto</l>
+          <l>Tu sei lungi dal ver! Forba non era</l>
+          <l>Di tal virtù capace. Il padre io sola</l>
+          <l>Là nella tomba, che la cener serra</l>
+          <l>Degli avi suoi, cauta celai.</l>
+        </sp>
+        <sp who="#leucippo">
+          <speaker>LEUCIPPO:</speaker>
+          <l>Guerrieri!</l>
+          <l>Il colpo è fatto! mi seguite.</l>
+          <l>(Entra rapidamente nella tomba colle guardie).</l>
+        </sp>
+        <stage>LEUCIPPOGuerrieri!Il colpo è fatto! mi seguite.(Entra rapidamente nella tomba colle guardie).</stage>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>Ah indegna!</l>
+          <l>Ti sei tradita.</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Oimè!</l>
+        </sp>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>Più non ti giova</l>
+          <l>Il disegno sagace.</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Ah! qual m’invade</l>
+          <l>Fremito orrendo! e fosse mai possibile?</l>
+        </sp>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>Vedilo! è Polidoro</l>
+          <l>(mostrandole il padre, che vien guidato</l>
+          <l>dalle guardie).</l>
+          <l>Già in mio poter…</l>
+        </sp>
+        <stage>ANTENOREVedilo! è Polidoro(mostrandole il padre, che vien guidatodalle guardie).Già in mio poter…</stage>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Oh me infelice! oh furie!</l>
+          <l>Ah che diss’io!</l>
+        </sp>
+        <sp who="#scena quinta">
+          <speaker>SCENA QUINTA:</speaker>
+          <l>Polidoro, condotto da Leucippo, e guardie.</l>
+          <l>POLIDORO</l>
+          <l>Sì, mi uccidete, o barbari,</l>
+          <l>Ma presso alla mia figlia.</l>
+        </sp>
+        <stage>SCENA QUINTAPolidoro, condotto da Leucippo, e guardie.POLIDOROSì, mi uccidete, o barbari,Ma presso alla mia figlia.</stage>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Oh sventurato!</l>
+          <l>Io stessa… io sì… la barbara son io.</l>
+          <l>Che tronca i giorni tuoi… morte! a che tardi?</l>
+          <l>Fa’ che mi uccida il mio crudele affanno!</l>
+        </sp>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>(Oh piacer!)</l>
+        </sp>
+        <sp who="#leucippo">
+          <speaker>LEUCIPPO:</speaker>
+          <l>(Felice inganno!)</l>
+        </sp>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>(a Polidoro)</l>
+          <l>Ne’ lacci miei cadesti,</l>
+          <l>(a Zelmira)</l>
+          <l>Già l’artifizio è vinto:</l>
+          <l>E il genitore estinto</l>
+          <l>A’ piedi tuoi cadrà.</l>
+        </sp>
+        <stage>ANTENORE(a Polidoro)Ne’ lacci miei cadesti,(a Zelmira)Già l’artifizio è vinto:E il genitore estintoA’ piedi tuoi cadrà.</stage>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>Se del mio sangue hai sete,</l>
+          <l>Spietato! il colpo appresta;</l>
+          <l>Di morte è più molesta</l>
+          <l>A me la tua viltà.</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Me sola uccidi… io sola</l>
+          <l>Seppi smaltir l’inganno…</l>
+          <l>Io del tuo cor tiranno</l>
+          <l>Sfidai la crudeltà.</l>
+        </sp>
+        <sp who="#leucippo">
+          <speaker>LEUCIPPO:</speaker>
+          <l>No… fia maggior tormento</l>
+          <l>Per te vederlo oppresso…</l>
+        </sp>
+        <sp who="#emma">
+          <speaker>EMMA:</speaker>
+          <l>(Oh di furore eccesso!</l>
+          <l>Oh nuova iniquità!)</l>
+        </sp>
+        <sp who="#emma">
+          <speaker>EMMA:</speaker>
+          <l>(L’ha sedotta un sol momento,</l>
+          <l>E perduto ha il genitor.)</l>
+        </sp>
+        <sp who="#scena sesta">
+          <speaker>SCENA SESTA:</speaker>
+          <l>I guerrieri di Mitilene si avanzano, recando</l>
+          <l>un’urna; le donzelle accorrono.</l>
+          <l>GUERRIERI</l>
+          <l>Di Azor le ceneri</l>
+          <l>Quest’urna serra:</l>
+          <l>Abbatti, atterra</l>
+          <l>Chi lo svenò.</l>
+        </sp>
+        <stage>SCENA SESTAI guerrieri di Mitilene si avanzano, recandoun’urna; le donzelle accorrono.GUERRIERIDi Azor le ceneriQuest’urna serra:Abbatti, atterraChi lo svenò.</stage>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>(additando Zelmira)</l>
+          <l>Ecco la perfida,</l>
+          <l>La traditrice,</l>
+          <l>Che all’infelice</l>
+          <l>Morte recò.</l>
+        </sp>
+        <stage>ANTENORE(additando Zelmira)Ecco la perfida,La traditrice,Che all’infeliceMorte recò.</stage>
+        <sp who="#guerrieri">
+          <speaker>GUERRIERI:</speaker>
+          <l>Cada quell’empia…</l>
+        </sp>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>Fermate… ah no…</l>
+        </sp>
+        <stage>EMMA e DONZELLE(prostrate ad Antenore)Sospendi il fulmine…</stage>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>(alle donzelle)</l>
+          <l>A chi voi supplici?</l>
+          <l>A un oppressore?</l>
+          <l>Allontanatevi.</l>
+          <l>Qual rea viltà?</l>
+        </sp>
+        <stage>POLIDORO(alle donzelle)A chi voi supplici?A un oppressore?Allontanatevi.Qual rea viltà?</stage>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>(alle guardie)</l>
+          <l>Oscuro carcere</l>
+          <l>L’eroe rinchiuda,</l>
+          <l>Che la sua audacia</l>
+          <l>Frenar non sa.</l>
+        </sp>
+        <stage>ANTENORE(alle guardie)Oscuro carcereL’eroe rinchiuda,Che la sua audaciaFrenar non sa.</stage>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Me ancora o barbari,</l>
+          <l>Me trascinate…</l>
+        </sp>
+        <stage>ZELMIRA e POLIDORO(ad Antenore)De’ nostri torti il vindiceAvrem nel cielo alfine:Veggo strisciar la folgoreChe sul tuo crin cadrà.</stage>
+        <sp who="#guerrieri">
+          <speaker>GUERRIERI:</speaker>
+          <l>L’ira che accende l’anima,</l>
+          <l>No, più non ha confine!</l>
+          <l>L’orgoglio di quei perfidi</l>
+          <l>Più divampar la fa!</l>
+          <l>(I guerrieri conducono Zelmira e Polidoro).</l>
+          <l>LEUCIPPO</l>
+          <l>(Periglioso è l’indugio: Ilo potria</l>
+          <l>Giunger co’ suoi fra poco, e allora…</l>
+        </sp>
+        <stage>GUERRIERIL’ira che accende l’anima,No, più non ha confine!L’orgoglio di quei perfidiPiù divampar la fa!(I guerrieri conducono Zelmira e Polidoro).LEUCIPPO(Periglioso è l’indugio: Ilo potriaGiunger co’ suoi fra poco, e allora…</stage>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>(Vieni,</l>
+          <l>Là nel carcere istesso</l>
+          <l>Cada pria della figlia il padre oppresso.)</l>
+          <l>(Viano).</l>
+          <l>EMMA</l>
+          <l>Voliam, compagne, al lido:</l>
+          <l>Tutto ad Ilo fia noto: egli si affretti</l>
+          <l>A salvar gl’infelici.</l>
+          <l>(Vedendolo giungere)</l>
+          <l>Oh ciel pietoso!</l>
+          <l>Tu qui volgi i suoi passi.</l>
+          <l>(Incontrandolo)</l>
+          <l>Ah Prence! accorri.:</l>
+          <l>Alla consorte, al padre sventurato</l>
+          <l>Sovrasta orribil fato…</l>
+        </sp>
+        <stage>ANTENORE(Vieni,Là nel carcere istessoCada pria della figlia il padre oppresso.)(Viano).EMMAVoliam, compagne, al lido:Tutto ad Ilo fia noto: egli si affrettiA salvar gl’infelici.(Vedendolo giungere)Oh ciel pietoso!Tu qui volgi i suoi passi.(Incontrandolo)Ah Prence! accorri.:Alla consorte, al padre sventuratoSovrasta orribil fato…</stage>
+        <sp who="#scena settima">
+          <speaker>SCENA SETTIMA:</speaker>
+          <l>Ilo ed Eacide, seguiti da numerosa schiera, e dette.</l>
+          <l>ILO</l>
+          <l>Emma… non sai…</l>
+        </sp>
+        <stage>SCENA SETTIMAIlo ed Eacide, seguiti da numerosa schiera, e dette.ILOEmma… non sai…</stage>
+        <sp who="#eacide">
+          <speaker>EACIDE:</speaker>
+          <l>(dirigendosi alla tomba)</l>
+          <l>Lascia ch’ei vada…</l>
+        </sp>
+        <stage>EACIDE(dirigendosi alla tomba)Lascia ch’ei vada…</stage>
+        <sp who="#emma">
+          <speaker>EMMA:</speaker>
+          <l>È Polidoro in preda</l>
+          <l>Dell’empio usurpator</l>
+        </sp>
+        <sp who="#ilo">
+          <speaker>ILO:</speaker>
+          <l>Stelle!</l>
+        </sp>
+        <sp who="#eacide">
+          <speaker>EACIDE:</speaker>
+          <l>E chi mai</l>
+        </sp>
+        <sp who="#emma">
+          <speaker>EMMA:</speaker>
+          <l>Ah! fu Zelmira istessa,</l>
+          <l>Che per fatale inganno</l>
+          <l>L’asil del padre palesò.</l>
+        </sp>
+        <sp who="#ilo">
+          <speaker>ILO:</speaker>
+          <l>Qual colpo!</l>
+        </sp>
+        <sp who="#emma">
+          <speaker>EMMA:</speaker>
+          <l>Or di entrambi la morte</l>
+          <l>Antenore minaccia: un solo istante</l>
+          <l>Può forse agl’infelici esser funesto.</l>
+        </sp>
+        <sp who="#ilo">
+          <speaker>ILO:</speaker>
+          <l>Santi Numi del Ciel! che giorno è questo!</l>
+          <l>(Parte rapidamente co’ suoi; Emma e le altre</l>
+          <l>lo sieguono).</l>
+          <l>Orrido sotterraneo.</l>
+          <l>SCENA OTTAVA</l>
+          <l>Polidoro è svenuto su di un sasso. Zelmira</l>
+          <l>dolente gli è al fianco; infine tutti gli attori</l>
+          <l>che saranno indicati.</l>
+          <l>ZELMIRA</l>
+          <l>Oh padre! il duol, l’affanno</l>
+          <l>Ti oppresse i sensi: ah torna in vita!… almeno</l>
+          <l>Gli ultimi voti miei, Cielo! deh ascolta…</l>
+          <l>Fa’ ch’ei figlia mi chiami un’altra volta.</l>
+        </sp>
+        <stage>ILOSanti Numi del Ciel! che giorno è questo!(Parte rapidamente co’ suoi; Emma e le altrelo sieguono).Orrido sotterraneo.SCENA OTTAVAPolidoro è svenuto su di un sasso. Zelmiradolente gli è al fianco; infine tutti gli attoriche saranno indicati.ZELMIRAOh padre! il duol, l’affannoTi oppresse i sensi: ah torna in vita!… almenoGli ultimi voti miei, Cielo! deh ascolta…Fa’ ch’ei figlia mi chiami un’altra volta.</stage>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>(rinviene)</l>
+          <l>Chi mi richiama alle sventure?</l>
+        </sp>
+        <stage>POLIDORO(rinviene)Chi mi richiama alle sventure?</stage>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Un Nume</l>
+          <l>Che le mie preci accolse.</l>
+        </sp>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>Ah! già deciso</l>
+          <l>È il nostro fato.</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Oh barbaro consorte!</l>
+          <l>Così tu ne abbandoni</l>
+          <l>Al nemico furor!</l>
+          <l>(Si sente aprire una porta).</l>
+          <l>Antenore! Leucippo!</l>
+        </sp>
+        <stage>ZELMIRAOh barbaro consorte!Così tu ne abbandoniAl nemico furor!(Si sente aprire una porta).Antenore! Leucippo!</stage>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>Ah! strider sento</l>
+          <l>La ferrea porta…</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Ecco il momento estremo…</l>
+          <l>(Entrano Antenore e Leucippo, i quali</l>
+          <l>richiudono la porta).</l>
+          <l>POLIDORO</l>
+          <l>Oh vista! io fremo!</l>
+        </sp>
+        <stage>ZELMIRAEcco il momento estremo…(Entrano Antenore e Leucippo, i qualirichiudono la porta).POLIDOROOh vista! io fremo!</stage>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>Sì… fremi pur… già l’alma è a te presaga</l>
+          <l>Del destin che ti attende…</l>
+        </sp>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>Ebbene, appaga</l>
+          <l>L’ira che ti arde in sen…</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>(facendo scudo a suo padre)</l>
+          <l>Che fai? rispetta</l>
+          <l>Empio! i suoi giorni… e se desio di regno</l>
+          <l>Guida a maggiori eccessi</l>
+          <l>L’ambizioso tuo cor, di Lesbo il trono</l>
+          <l>Polidoro a te cede.</l>
+        </sp>
+        <stage>ZELMIRA(facendo scudo a suo padre)Che fai? rispettaEmpio! i suoi giorni… e se desio di regnoGuida a maggiori eccessiL’ambizioso tuo cor, di Lesbo il tronoPolidoro a te cede.</stage>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>Ah! mal conosci,</l>
+          <l>Figlia, il tuo genitor… la vita io sprezzo,</l>
+          <l>Se costa una viltà.</l>
+        </sp>
+        <sp who="#leucippo">
+          <speaker>LEUCIPPO:</speaker>
+          <l>Di vani accenti</l>
+          <l>Or più il tempo non è.</l>
+          <l>(Si ode rumore di armi, voci indistinte e</l>
+          <l>vari colpi al muro di prospetto).</l>
+          <l>CORO</l>
+          <l>(di lontano)</l>
+          <l>All’armi! all’armi!</l>
+        </sp>
+        <stage>LEUCIPPODi vani accentiOr più il tempo non è.(Si ode rumore di armi, voci indistinte evari colpi al muro di prospetto).CORO(di lontano)All’armi! all’armi!</stage>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>Ma qual fragor?</l>
+        </sp>
+        <sp who="#leucippo">
+          <speaker>LEUCIPPO:</speaker>
+          <l>Quai colpi?</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Oh Ciel!</l>
+        </sp>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>Che fia?</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(più vicino)</l>
+          <l>Morte all’usurpator!</l>
+        </sp>
+        <stage>CORO(più vicino)Morte all’usurpator!</stage>
+        <sp who="#leucippo">
+          <speaker>LEUCIPPO:</speaker>
+          <l>Ah! ne tradisci</l>
+          <l>Oh ria fortuna!</l>
+        </sp>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>Invendicato almeno</l>
+          <l>Io non cadrò</l>
+          <l>(Snuda il suo ferro e si scaglia su Polidoro.</l>
+          <l>Ardita, Zelmira brandisce un pugnale e</l>
+          <l>difende a suo padre. Intanto i colpi</l>
+          <l>raddoppiansi e cresce lo strepito di armi).</l>
+          <l>ZELMIRA</l>
+          <l>Non ti appressar! di un ferro,</l>
+          <l>Che cauta ognor celai,</l>
+          <l>Mi arma ancora la destra un Nume amico.</l>
+        </sp>
+        <stage>ANTENOREInvendicato almenoIo non cadrò(Snuda il suo ferro e si scaglia su Polidoro.Ardita, Zelmira brandisce un pugnale edifende a suo padre. Intanto i colpiraddoppiansi e cresce lo strepito di armi).ZELMIRANon ti appressar! di un ferro,Che cauta ognor celai,Mi arma ancora la destra un Nume amico.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(come sopra)</l>
+          <l>Viva Zelmira e Polidoro!</l>
+        </sp>
+        <stage>CORO(come sopra)Viva Zelmira e Polidoro!</stage>
+        <stage>ZELMIRA e POLIDOROOh sorte!(Crolla il muro. Si vede parte della piazzadall’apertura. Entra da questa rapidamenteIlo col ferro nudo, seguito da Eacide,guerrieri troiani, popolo di Lesbo armato,donzelle ed Emma col piccolo figlio diZelmira. Antenore e Leucippo son disarmatie posti in catene).ILOAh! venite al mio sen, padre, consorte!</stage>
+        <sp who="#antenore">
+          <speaker>ANTENORE:</speaker>
+          <l>(Oh dispetto!)</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>(abbracciandolo)</l>
+          <l>Oh piacer! figlio! ti stringo</l>
+          <l>Un’altra volta al mio materno seno!</l>
+        </sp>
+        <stage>ZELMIRA(abbracciandolo)Oh piacer! figlio! ti stringoUn’altra volta al mio materno seno!</stage>
+        <sp who="#leucippo">
+          <speaker>LEUCIPPO:</speaker>
+          <l>(Ah! la rabbia mi uccide!)</l>
+        </sp>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>Ah dimmi, o prode…</l>
+        </sp>
+        <sp who="#ilo">
+          <speaker>ILO:</speaker>
+          <l>All’apparir de’ miei, fido al suo Prence,</l>
+          <l>E di sua vita al fortunato annunzio,</l>
+          <l>Tutto il popol di Lesbo</l>
+          <l>Qual folgore improvvisa</l>
+          <l>Sul nemico piombò.</l>
+          <l>Sorpresa, incerta</l>
+          <l>Mal corre all’armi, e si disperde oppressa</l>
+          <l>La schiera ostil: sol mi contrasta audace</l>
+          <l>Alla prigion l’ingresso</l>
+          <l>Numeroso drappel, ma vinto cede,</l>
+          <l>Ed al mio ardor, che di sì cari oggetti</l>
+          <l>Mi affrettava allo scampo,</l>
+          <l>Fur quelle mura ormai debole inciampo.</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Grazie o Numi del Ciel!</l>
+        </sp>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>Quanto a te deggio!</l>
+        </sp>
+        <sp who="#leucippo">
+          <speaker>LEUCIPPO:</speaker>
+          <l>(ad Antenore)</l>
+          <l>Ah! del sangue di Azor si tinse in vano</l>
+          <l>Per innalzarti al soglio</l>
+          <l>La colpevol mia destra!</l>
+        </sp>
+        <stage>LEUCIPPO(ad Antenore)Ah! del sangue di Azor si tinse in vanoPer innalzarti al soglioLa colpevol mia destra!</stage>
+        <sp who="#ilo">
+          <speaker>ILO:</speaker>
+          <l>Ite, o crudeli,</l>
+          <l>Alla pena dovuta a’ vostri eccessi.</l>
+          <l>(Leucippo ed Antenore sono trascinati</l>
+          <l>altrove dalle guardie).</l>
+          <l>ZELMIRA</l>
+          <l>Stelle! e fia ver? ah! dopo tante pene</l>
+          <l>Un momento di pace a me sen viene!</l>
+          <l>(A Polidoro)</l>
+          <l>Riedi al soglio: irata stella</l>
+          <l>Se ne chiuse a te il sentiero,</l>
+          <l>Pura fede, amor sincero</l>
+          <l>Ti richiama al tuo splendor;</l>
+          <l>Non più affanni in me non sento,</l>
+          <l>Ah felice appieno io sono,</l>
+          <l>Se serbai la vita, il trono</l>
+          <l>All’amato genitor.</l>
+        </sp>
+        <stage>ILOIte, o crudeli,Alla pena dovuta a’ vostri eccessi.(Leucippo ed Antenore sono trascinatialtrove dalle guardie).ZELMIRAStelle! e fia ver? ah! dopo tante peneUn momento di pace a me sen viene!(A Polidoro)Riedi al soglio: irata stellaSe ne chiuse a te il sentiero,Pura fede, amor sinceroTi richiama al tuo splendor;Non più affanni in me non sento,Ah felice appieno io sono,Se serbai la vita, il tronoAll’amato genitor.</stage>
+        <stage>CORO DI GUERRIERI e DONZELLE(a Polidoro)Fia più grato un sì bel donoSe a te l’offre il suo gran cor!</stage>
+        <sp who="#polidoro">
+          <speaker>POLIDORO:</speaker>
+          <l>Sì… mi è grato un tanto dono</l>
+          <l>Se mi vien dal tuo bel cor.</l>
+        </sp>
+        <sp who="#zelmira">
+          <speaker>ZELMIRA:</speaker>
+          <l>Deh circondatemi</l>
+          <l>Miei cari oggetti!</l>
+          <l>Voi che nell’anima</l>
+          <l>Soavi affetti,</l>
+          <l>Care delizie</l>
+          <l>Destate ognor.</l>
+          <l>Ah, sì… compensino</l>
+          <l>Sì dolci istanti</l>
+          <l>Le pene, i palpiti</l>
+          <l>Ch’ebbi finor.</l>
+          <l>E dopo il nembo,</l>
+          <l>Di pace in grembo</l>
+          <l>Respiri in seno</l>
+          <l>Sereno il cor.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ah, dopo il turbine</l>
+          <l>Di ria procella,</l>
+          <l>La gioia, il giubilo</l>
+          <l>C’inondi il cor!</l>
+        </sp>
+        <sp who="#f i n e">
+          <speaker>F I N E:</speaker>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

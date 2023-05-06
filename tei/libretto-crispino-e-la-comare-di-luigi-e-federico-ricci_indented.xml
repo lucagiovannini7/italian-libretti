@@ -1,0 +1,3148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">rispino e la comare</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="mirabolano, coro">
+            <persName>MIRABOLANO, CORO:</persName>
+          </person>
+          <person xml:id="comare">
+            <persName>COMARE:</persName>
+          </person>
+          <person xml:id="mirabolano, fabrizio">
+            <persName>MIRABOLANO, FABRIZIO:</persName>
+          </person>
+          <person xml:id="atto terzo">
+            <persName>ATTO TERZO:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="annetta, crispino">
+            <persName>ANNETTA, CRISPINO:</persName>
+          </person>
+          <person xml:id="fabrizio, asdrubale">
+            <persName>FABRIZIO, ASDRUBALE:</persName>
+          </person>
+          <person xml:id="bortolo">
+            <persName>BORTOLO:</persName>
+          </person>
+          <person xml:id="coro i">
+            <persName>CORO I:</persName>
+          </person>
+          <person xml:id="dottor fabrizio">
+            <persName>DOTTOR FABRIZIO.:</persName>
+          </person>
+          <person xml:id="mirabolano, asdrubale, coro">
+            <persName>MIRABOLANO, ASDRUBALE, CORO:</persName>
+          </person>
+          <person xml:id="crispino, coro">
+            <persName>CRISPINO, CORO:</persName>
+          </person>
+          <person xml:id="crispino">
+            <persName>CRISPINO:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="crispino, mirabolano">
+            <persName>CRISPINO, MIRABOLANO:</persName>
+          </person>
+          <person xml:id="asdrubale, mirabolano">
+            <persName>ASDRUBALE, MIRABOLANO:</persName>
+          </person>
+          <person xml:id="asdrubale">
+            <persName>ASDRUBALE:</persName>
+          </person>
+          <person xml:id="fabrizio, contino, asdrubale">
+            <persName>FABRIZIO, CONTINO, ASDRUBALE:</persName>
+          </person>
+          <person xml:id="fabrizio, contino">
+            <persName>FABRIZIO, CONTINO:</persName>
+          </person>
+          <person xml:id="annetta">
+            <persName>ANNETTA:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="mirabolano">
+            <persName>MIRABOLANO:</persName>
+          </person>
+          <person xml:id="contino, lisetta">
+            <persName>CONTINO, LISETTA:</persName>
+          </person>
+          <person xml:id="fabrizio">
+            <persName>FABRIZIO:</persName>
+          </person>
+          <person xml:id="lisetta">
+            <persName>LISETTA:</persName>
+          </person>
+          <person xml:id="contino">
+            <persName>CONTINO:</persName>
+          </person>
+          <person xml:id="coroii">
+            <persName>COROII:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>(Un campo di Venezia.A destra dello spettatore è una spezieriaall’insegna delle «due scimie», addobbataper fare la teriaca. Vari Facchini di fuoripestano, altri stan setacciando le droghe;una bottega da caffè. Di fronte unatrattoria con mostra. A sinistra, avanti, lapiccola casa di Crispino, più indietro ilportone. All’alzar del sipario, Crispinosta al suo panchetto lavorando fuori dellapropria casa. Il Contino è seduto al caffè,leggendo una gazzetta; alcuni Serventi nestanno a qualche distanza; i Facchini dellospeziale pestano ne’ mortai; i Servi dellatrattoria son sulla porta)</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Batti, batti, pesta, pesta,</l>
+        <l>la teriaca qui si fa.</l>
+        <l>Più d’un morbo che molesta</l>
+        <l>per tal farmaco se n’ va.</l>
+      </sp>
+      <div type="scene">
+        <head>Scena Seconda</head>
+        <stage>(Detti e don Asdrubale, che dal palazzova al caffè. I Facchini lasciano di pestare,e attendono ad altre incombenze)</stage>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Ehi bottega?…</l>
+          <l>giovanotti presto venga un buon caffè;</l>
+          <l>venga un paio di biscotti,</l>
+          <l>ma… badate… son per me.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Uh! l’avaro maledetto,</l>
+          <l>che non possa mai crepar?</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Acqua, zucchero perfetto…</l>
+          <l>vi saprò poi regalar.</l>
+        </sp>
+        <sp who="#contino">
+          <speaker>CONTINO:</speaker>
+          <l>(leggendo da sé)</l>
+          <l>Nella Cina s’è trovato</l>
+          <l>nuovo tempio degli indù.</l>
+        </sp>
+        <stage>CONTINO(leggendo da sé)Nella Cina s’è trovatonuovo tempio degli indù.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(ad Asdrubale portandogli il caffè)</l>
+          <l>È servito…</l>
+        </sp>
+        <stage>CORO(ad Asdrubale portandogli il caffè)È servito…</stage>
+        <sp who="#contino">
+          <speaker>CONTINO:</speaker>
+          <l>(accorgendosi di Asdrubale)</l>
+          <l>Ah sciagurato!</l>
+          <l>infelice mi fai tu!</l>
+        </sp>
+        <stage>CONTINO(accorgendosi di Asdrubale)Ah sciagurato!infelice mi fai tu!</stage>
+        <stage>(alzandosi)Bella siccome un angelo ti vidi e t’ adorai,e più frequente il palpitodi questo cor provai;ma se il destin contenderevuol la tua mano a me,io tutto saprò vincere,Lisetta mia, per te.</stage>
+        <stage>(torna a sedere)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Batti, batti, pesta, pesta,</l>
+          <l>la teriaca qui si fa.</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Ehi bottega? ancor la cesta.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>È servito.</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Presto.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Qua.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Una volta un ciabattino</l>
+          <l>diventato è gran signor.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Eh! sta zitto là, Crispino,</l>
+          <l>col tuo canto seccator.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Perché zitto?</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Sei noioso.</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Pensa i debiti a pagar.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Lo spiantato bisognoso</l>
+          <l>si conforta col cantar.</l>
+          <l>Una volta un ciabattino</l>
+          <l>gran signore diventò; una</l>
+          <l>fata del meschino</l>
+          <l>pazzamente innamorò.</l>
+          <l>Ciabatte e lesine ~ forme e stivalli,</l>
+          <l>panchetto, setole ~ poté gettar.</l>
+          <l>Allor da splendido ~ cocchi e cavalli,</l>
+          <l>pranzi lautissimi ~ poté gustar.</l>
+          <l>Ahi ahi, povero Crispino,</l>
+          <l>fame e sete son per te.</l>
+          <l>Poco pane, senza vino</l>
+          <l>la fortuna sol ti diè.</l>
+          <l>Batti, batti, tira e pesta,</l>
+          <l>sei dannato a lavorar.</l>
+          <l>Tira, tira, batti e pesta,</l>
+          <l>e almen sfogati a cantar.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>(dall’ interno)</l>
+          <l>Istorie belle a leggere</l>
+          <l>da me chi vuol comprar?</l>
+        </sp>
+        <stage>ANNETTA(dall’ interno)Istorie belle a leggereda me chi vuol comprar?</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Oggi perché mia moglie</l>
+          <l>sollecita a tornar!</l>
+        </sp>
+        <stage>CRISPINO(Fra sè)Oggi perché mia mogliesollecita a tornar!</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Anche la vendi-storie</l>
+          <l>ci viene a tormentar!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Scena Terza</head>
+        <stage>(Detti ed Annetta con un canestro pienodi storielle e canzonette. Mirabolanosi vedrà in farmacia)</stage>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Istorie belle a lèggere</l>
+          <l>da me chi vuol comprar?</l>
+          <l>Ho qui di caldi palpiti</l>
+          <l>leggende lagrimose,</l>
+          <l>racconti per le nubili,</l>
+          <l>esempi per le spose;</l>
+          <l>ho la secura regola</l>
+          <l>per scandagliar il core,</l>
+          <l>per ispirar nell’anima</l>
+          <l>di chi si vuole amore.</l>
+          <l>Diletto insieme ed utile</l>
+          <l>io vengo a dispensar.</l>
+          <l>Istorie belle a leggere</l>
+          <l>da me chi vuol comprar?</l>
+        </sp>
+        <stage>(Fra sé)Ah che il gridare è inutile,non c’ è da guadagnar!</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(alzandosi)</l>
+          <l>Annetta, ebben!…</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Miseria.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Dimmi quant’hai toccato?</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Niente.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Parola orribile! Io pur son disperato.</l>
+        </sp>
+        <sp who="#annetta, crispino">
+          <speaker>ANNETTA, CRISPINO:</speaker>
+          <l>Vedi che bella coppia!</l>
+          <l>cosa potrem mangiar?</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>E i figli?</l>
+        </sp>
+        <sp who="#annetta, crispino">
+          <speaker>ANNETTA, CRISPINO:</speaker>
+          <l>Oh che miseria!</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Ritorna un po’ a girar.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Vano mi fu il percorrere Rialto,</l>
+          <l>poi San Paolo,</l>
+          <l>nemmeno in piazza vendere</l>
+          <l>potuto ho un foglio solo…</l>
+          <l>Prendon le carte, leggono,</l>
+          <l>le gettano ridendo;</l>
+          <l>certi talor mi parlano cose</l>
+          <l>che non comprendo;</l>
+          <l>altri s’azzardan chiedere</l>
+          <l>quanto non posso dar.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Ohe là… dico… m’immagino…</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Potresti dubitar?</l>
+        </sp>
+        <sp who="#annetta, crispino">
+          <speaker>ANNETTA, CRISPINO:</speaker>
+          <l>Ah! vita tanto misera</l>
+          <l>fa proprio delirar.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Tenta, se mai volessero…</l>
+          <l>per caso quei signori…</l>
+        </sp>
+        <stage>(torna a sedere)</stage>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>(a Mirabolano che sarà</l>
+          <l>sulla porta della farmacia)</l>
+          <l>Qui la perfetta regola</l>
+          <l>per leggere nei cori.</l>
+        </sp>
+        <stage>ANNETTA(a Mirabolano che saràsulla porta della farmacia)Qui la perfetta regolaper leggere nei cori.</stage>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>Eh non seccarmi, vattene.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>(ai Contino)</l>
+          <l>D’appassionati amanti</l>
+          <l>a voi la bella istoria…</l>
+        </sp>
+        <stage>ANNETTA(ai Contino)D’appassionati amantia voi la bella istoria…</stage>
+        <sp who="#contino">
+          <speaker>CONTINO:</speaker>
+          <l>Togliti a me davanti.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>(a Asdrúbal)</l>
+          <l>Quest’è il sicuro metodo</l>
+          <l>d’accrescere i tesor</l>
+        </sp>
+        <stage>ANNETTA(a Asdrúbal)Quest’è il sicuro metodod’accrescere i tesor</stage>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>(prendendole la mano)</l>
+          <l>Carina, ascolta…</l>
+          <l>donami un poco del tuo amor.</l>
+        </sp>
+        <stage>ASDRUBALE(prendendole la mano)Carina, ascolta…donami un poco del tuo amor.</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Olà, signor Asdrubale,</l>
+          <l>che gioco qui giochiamo?</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Bada al lavoro, stolido,</l>
+          <l>Io so quello che bramo.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(alzandosi)</l>
+          <l>Io non l’intendo…</l>
+        </sp>
+        <stage>CRISPINO(alzandosi)Io non l’intendo…</stage>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Pagami</l>
+          <l>di casa la pigione;</l>
+          <l>pagami dunque, e subito.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Sta bene, egli ha ragione.</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Paga, o ti scaccio, e i mobili</l>
+          <l>di casa asporterò!</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Pietà, signor Asdrubale…</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>(accarezzandola)</l>
+          <l>Che vuoi?… tutto farò.</l>
+          <l>Tu ben lo sai, contentami.</l>
+        </sp>
+        <stage>ASDRUBALE(accarezzandola)Che vuoi?… tutto farò.Tu ben lo sai, contentami.</stage>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>In che?</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Lo sai…</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>No…</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(allontanando con forza Annetta)</l>
+          <l>No.</l>
+        </sp>
+        <stage>CRISPINO(allontanando con forza Annetta)No.</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Signore, questo mobile</l>
+          <l>che tocchisi non vo’.</l>
+        </sp>
+      </div>
+    </body>
+    <div type="act">
+      <head>MIRABOLANO, ASDRUBALE, CORO</head>(stringendosegli attorno)Paga i tuoi debiti,brutto gradasso.Paga, ora è inutiletanto fracasso;se non la terminiandrai prigione.Sciocco bestione,va’ via di qua.<sp who="#mirabolano, asdrubale, coro">
+        <speaker>MIRABOLANO, ASDRUBALE, CORO:</speaker>
+        <l>(stringendosegli attorno)</l>
+        <l>Paga i tuoi debiti,</l>
+        <l>brutto gradasso.</l>
+        <l>Paga, ora è inutile</l>
+        <l>tanto fracasso;</l>
+        <l>se non la termini</l>
+        <l>andrai prigione.</l>
+        <l>Sciocco bestione,</l>
+        <l>va’ via di qua.</l>
+      </sp>
+      <stage>MIRABOLANO, ASDRUBALE, CORO(stringendosegli attorno)Paga i tuoi debiti,brutto gradasso.Paga, ora è inutiletanto fracasso;se non la terminiandrai prigione.Sciocco bestione,va’ via di qua.</stage>
+      <sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>Via compatitelo</l>
+        <l>se avete un core.</l>
+        <l>Credete, è inutile</l>
+        <l>tanto rigore;</l>
+        <l>siam troppo miseri</l>
+        <l>siam sventurati,</l>
+        <l>co’ disperati</l>
+        <l>ci vuol pietà.</l>
+      </sp>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>Via compatitelo,</l>
+        <l>se avete un core.</l>
+        <l>Credete, è inutile</l>
+        <l>tanto rigore;</l>
+        <l>son troppo miseri,</l>
+        <l>son sventurati;</l>
+        <l>co’ disperati</l>
+        <l>ci vuol pietà.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(Fra sè)</l>
+        <l>Di qua la moglie</l>
+        <l>co’ suoi clamori,</l>
+        <l>di là m’incalzano</l>
+        <l>i creditori;</l>
+        <l>Crispino misero,</l>
+        <l>non puoi sperare;</l>
+        <l>un laccio o il mare</l>
+        <l>t’aiuterà.</l>
+      </sp>
+      <stage>CRISPINO(Fra sè)Di qua la moglieco’ suoi clamori,di là m’incalzanoi creditori;Crispino misero,non puoi sperare;un laccio o il maret’aiuterà.</stage>
+      <stage>(fugge disperato. Annetta vorrebbeseguirlo, ma è trattenuta da donAsdrubale; il Contino s’avvia da altraparte; Mirabolano entra in farmacia)</stage>
+      <div type="scene">
+        <head>Scena Quarta</head>
+        <stage>(Annetta e don Asdrubale. I Facchinidella spezieria sgombreranno la Scena)</stage>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Vedi, vedi per te, brutto vecchiaccio,</l>
+          <l>il povero Crispino è andato in bestia.</l>
+          <l>Chi sa che vorrà fare?</l>
+          <l>Io vo’ seguirlo.</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>No, no, senti Annetta,</l>
+          <l>parliam di quella storia…</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Dì cosa vuoi parlar, crudo avaraccio?</l>
+          <l>Io solo avrei per te di corda un laccio.</l>
+        </sp>
+        <stage>(corre dietro Crispino)</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Quinta</head>(Don Asdrubale, ed il dottorFabrizio, ch’esce dal palazzo) <stage>Scena Quinta(Don Asdrubale, ed il dottorFabrizio, ch’esce dal palazzo)</stage>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Ebben, caro dottore,</l>
+          <l>che notizie mi dai della malata?</l>
+        </sp>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>A dir vero, mi par bella e spacciata.</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Soccomba pur, soccomba, non importa,</l>
+          <l>se non vuol esser mia,</l>
+          <l>sta meglio morta.</l>
+        </sp>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>Ma perché ciò?</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Vorrebbe</l>
+          <l>che, mentre io l’amo disperatamente…</l>
+        </sp>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Me ne accorgo!</l>
+        </sp>
+        <stage>FABRIZIO(Fra sè)Me ne accorgo!</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>ASDRUBALE</head>La dessi a un disperato,a un tal quale contin di primo pelo,che la ricca sua dotele sciuperia in un anno.Ma io no… non son matto…non m’inganno.<sp who="#asdrubale">
+        <speaker>ASDRUBALE:</speaker>
+        <l>La dessi a un disperato,</l>
+        <l>a un tal quale contin di primo pelo,</l>
+        <l>che la ricca sua dote</l>
+        <l>le sciuperia in un anno.</l>
+        <l>Ma io no… non son matto…</l>
+        <l>non m’inganno.</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>(Fra sè)</l>
+        <l>Ah! ah!</l>
+      </sp>
+      <stage>FABRIZIO(Fra sè)Ah! ah!</stage>
+      <sp who="#asdrubale">
+        <speaker>ASDRUBALE:</speaker>
+        <l>S’ammali, crepi a suo talento,</l>
+        <l>io far non voglio il mio rival contento.</l>
+      </sp>
+      <stage>(entra in palazzo)</stage>
+      <div type="scene">
+        <head>Scena Sesta</head>
+        <sp who="#dottor fabrizio">
+          <speaker>DOTTOR FABRIZIO.:</speaker>
+          <l>Dice d’amarla disperatamente!</l>
+          <l>Avaraccio briccone, io ti conosco…</l>
+          <l>la sua vistosa dote ti sta in core:</l>
+          <l>ed ella intanto morirà d’ amore!</l>
+        </sp>
+        <stage>(entra in farmacia)</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Settima</head>
+        <stage>(Luogo remoto con un pozzo nel mezzo.Crispino, rabbuffato e trafelato, giungecorrendo)</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Dove vado, ove corro, ove fuggo…</l>
+          <l>insultato, inseguito mi struggo.</l>
+          <l>Ah Crispino, più rimedio non c’è!</l>
+          <l>Ora il mondo è finito per te!</l>
+          <l>Chi m’insegna una morte dolce dolce,</l>
+          <l>che pian piano m’uccida?</l>
+          <l>O voi compagni miei,</l>
+          <l>amici, debitori disperati,</l>
+          <l>che siete al par di me perseguitati,</l>
+          <l>consiglio a voi domando,</l>
+          <l>impiccarmi degg’io? deggio affogarmi?</l>
+        </sp>
+        <stage>(gira disperato)</stage>
+        <stage>(corre per precipitarsi a capo in giù nelpozzo; quando una donna in brunoammanto ne esce improvvisamentedal profondo, e vi resta immobile)</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Ottava</head>
+        <stage>(Crispino e la Comare)</stage>
+        <sp who="#comare">
+          <speaker>COMARE:</speaker>
+          <l>Fermo là, che cosa fai?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Dentro in pozzo una signora?</l>
+          <l>Illustrissima, chi è mai?</l>
+        </sp>
+        <sp who="#comare">
+          <speaker>COMARE:</speaker>
+          <l>Di spiegarlo non è l’ora,</l>
+          <l>a suo tempo lo saprai.</l>
+          <l>Obbedir sol dèi per ora.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Ma sei femmina? sei dèa?</l>
+          <l>Sei tu fata?</l>
+          <l>che fai qua?</l>
+        </sp>
+        <sp who="#comare">
+          <speaker>COMARE:</speaker>
+          <l>(esce dal pozzo e si avanza</l>
+          <l>verso il proscenio)</l>
+          <l>Non son femmina, né dèa,</l>
+          <l>ma resister niun mi sa.</l>
+        </sp>
+        <stage>COMARE(esce dal pozzo e si avanzaverso il proscenio)Non son femmina, né dèa,ma resister niun mi sa.</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Come dunque t’ho a chiamare?</l>
+        </sp>
+        <sp who="#comare">
+          <speaker>COMARE:</speaker>
+          <l>Donna Giusta, tua Comare.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Ah! un compare disgraziato</l>
+          <l>presto adunque soccorrete.</l>
+          <l>Quanto sono disperato,</l>
+          <l>ascoltate e apprenderete.</l>
+        </sp>
+        <sp who="#comare">
+          <speaker>COMARE:</speaker>
+          <l>Parla pur, già tutto io so.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>CRISPINO</head>Si?… più franco parlerò.Dapprima, figuratevi,ho fatto il servitore,passato poscia guatterodal cuoco d’un trattore,mi vollero promuovere,divenni cantiniere;dovetti presto smetterepel gusto del bicchiere;di caramelli e fosforiho fatto il negoziante;ho fatto il pescivendolo,ho fatto il battellante;m’innamorai qual asino,mi fecero sposar;ma con me sol non coniugamia moglie il verbo amar.<sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Si?… più franco parlerò.</l>
+        <l>Dapprima, figuratevi,</l>
+        <l>ho fatto il servitore,</l>
+        <l>passato poscia guattero</l>
+        <l>dal cuoco d’un trattore,</l>
+        <l>mi vollero promuovere,</l>
+        <l>divenni cantiniere;</l>
+        <l>dovetti presto smettere</l>
+        <l>pel gusto del bicchiere;</l>
+        <l>di caramelli e fosfori</l>
+        <l>ho fatto il negoziante;</l>
+        <l>ho fatto il pescivendolo,</l>
+        <l>ho fatto il battellante;</l>
+        <l>m’innamorai qual asino,</l>
+        <l>mi fecero sposar;</l>
+        <l>ma con me sol non coniuga</l>
+        <l>mia moglie il verbo amar.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Mi narri il ver, ma sbrigati,</l>
+        <l>m’è noia l’ascoltar.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Ora professo il nobile</l>
+        <l>mestier di ciabattino;</l>
+        <l>ma sudo invano e tribolo,</l>
+        <l>son più di pria meschino.</l>
+        <l>Nuoto in un mar di debiti,</l>
+        <l>naufrago quasi morto;</l>
+        <l>i creditor m’incalzano,</l>
+        <l>com’onda senza porto.</l>
+        <l>Venni cercando il termine</l>
+        <l>di tanti affanni miei… ~</l>
+        <l>Or che la triste istoria</l>
+        <l>tutta narrar potei,</l>
+        <l>comare potentissima,</l>
+        <l>io son disperatissimo,</l>
+        <l>a compassion movetevi,</l>
+      </sp>
+      <stage>(cade in ginocchio davanti la Comare)</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Crispino, sorgi, io vo’ giovarti.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(alzandosi)</l>
+        <l>Sì, davvero?</l>
+      </sp>
+      <stage>CRISPINO(alzandosi)Sì, davvero?</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Lo vedrai.</l>
+        <l>Un gran medico vo’ farti.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Siete pazza!… come mai!</l>
+        <l>Se un fior d’asino io sono.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Sarai pari a cento e cento.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(esitando)</l>
+        <l>Ma, Comare!…</l>
+      </sp>
+      <stage>CRISPINO(esitando)Ma, Comare!…</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>T’abbandono,</l>
+        <l>se ricusi…</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>No, acconsento.</l>
+        <l>Ma saper vorrei… sì tenera</l>
+        <l>verso me cosa vi fa?</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Vo’ punir di certi medici</l>
+        <l>la superba asinità.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Tempo è alfin!… come farò?</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Fissa ben quel che dirò.</l>
+        <l>Quando un infermo visiti,</l>
+        <l>se me o il mio capo vedi</l>
+        <l>vicino a lui, morrà;</l>
+        <l>se non ci son, vivrà.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Che sento!</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Con tal metodo,</l>
+        <l>securo se procedi,</l>
+        <l>sarai un gran dottor.</l>
+        <l>Ti pioveran tesor.</l>
+      </sp>
+      <stage>(lo saluta d’un gesto e rientra nel pozzo)</stage>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Comare, mia bell’anima</l>
+        <l>né a me più tornerai?</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Sì, ma a te sol visibile.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Comare, ma i miei guai,</l>
+        <l>quei maledetti debiti,</l>
+        <l>per ora…</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>(gli getta un sacchetto di monete)</l>
+        <l>Pagherai.</l>
+        <l>Questo è dell’oro, prendilo;</l>
+        <l>ben più di questo avrai…</l>
+      </sp>
+      <stage>COMARE(gli getta un sacchetto di monete)Pagherai.Questo è dell’oro, prendilo;ben più di questo avrai…</stage>
+      <stage>(solenne)Il mondo m’ è soggetto,Crispino è il mio protetto.</stage>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(corre per abbracciarla)</l>
+        <l>Comare mia!… cor mio!…</l>
+      </sp>
+      <stage>CRISPINO(corre per abbracciarla)Comare mia!… cor mio!…</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Tu m’intendesti… Addio.</l>
+      </sp>
+      <stage>(si sprofonda)</stage>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(guardando nel pozzo)</l>
+        <l>Ma… senti… ascolta… andò!</l>
+        <l>Più testa ormai non ho!</l>
+      </sp>
+      <stage>CRISPINO(guardando nel pozzo)Ma… senti… ascolta… andò!Più testa ormai non ho!</stage>
+      <div type="scene">
+        <head>Scena Nona</head>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(Solo.Si slancia sul sacco e lo fa cantare)</l>
+          <l>Ho sognato? o sono desto?</l>
+          <l>Sogno no… dell’oro è questo!</l>
+          <l>Ah compare avventurato,</l>
+          <l>qual Comare hai ritrovato!</l>
+        </sp>
+        <stage>CRISPINO(Solo.Si slancia sul sacco e lo fa cantare)Ho sognato? o sono desto?Sogno no… dell’oro è questo!Ah compare avventurato,qual Comare hai ritrovato!</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Decima</head>
+        <stage>(Crispino, indi Annetta)</stage>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>(di dentro)</l>
+          <l>Crispino, dove sei?</l>
+          <l>Crispino.</l>
+        </sp>
+        <stage>ANNETTA(di dentro)Crispino, dove sei?Crispino.</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(andandole incontro)</l>
+          <l>Son qua, Annetta.</l>
+          <l>Allegramente sai?</l>
+        </sp>
+        <stage>CRISPINO(andandole incontro)Son qua, Annetta.Allegramente sai?</stage>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Ah! ti ritrovo alfine!</l>
+          <l>Sei fuggito così tutto arrabbiato,</l>
+          <l>ed io n’ebbi tal pena,</l>
+          <l>che dietro ti son corsa,</l>
+          <l>e ti raggiunsi a stento e domandando.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Quello che è stato è stato.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Ma di nuovo che c’è?… ti se’ ubriacato?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Altro che piomba!…</l>
+          <l>meglio, meglio assai!</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Ma che cosa?… ti spiega?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Or lo saprai.</l>
+          <l>Vedi, o cara, tal sacchetto?</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>È uno scherzo, ci scommetto.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Senti, Annetta, questo suono?</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Quanto è bello!… sì lo sento!</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Disperato più non sono,</l>
+          <l>qui ci stan oro ed argento.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Propriamente?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Propriamente.</l>
+          <l>Guarda, guarda.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Oh! veramente!</l>
+          <l>Ma di chi? di chi sarà?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Mia assoluta proprietà.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Che mai sento! il core in petto</l>
+          <l>già incomincia a saltellar?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Del danaro il solo aspetto</l>
+          <l>fa le femmine esultar!</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Dove mai l’hai ritrovato?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Mi fu adesso regalato.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Ma da chi?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>No ‘l puoi pensare.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Chi te ‘l diede?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Una comare.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Levatrice?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Non ne han tanti.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Che comare?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Una signora…</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Che a sacchetti dà i contanti?…</l>
+          <l>Troppo so, basta per ora.</l>
+        </sp>
+        <stage>(inquietata)</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Bada, Annetta, ciò non dire,</l>
+          <l>o ch’io posso imbestialire.</l>
+          <l>Già pur troppo, poveretto,</l>
+          <l>non vo’ privo di sospetto.</l>
+          <l>Te lo dico colle buone,</l>
+          <l>non mi far, già c’ intendiamo;</l>
+          <l>che tra noi, se la rompiamo,</l>
+          <l>quel di prima non sarò.</l>
+          <l>Il sorriso col bastone,</l>
+          <l>l’occhiatina ti darò.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Dal velen crepar mi sento…</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Pensa all’oro ed all’argento.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>(gli stende la mano)</l>
+          <l>Pace dunque…</l>
+        </sp>
+        <stage>ANNETTA(gli stende la mano)Pace dunque…</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(rifiutandosi)</l>
+          <l>Ah birichina.</l>
+        </sp>
+        <stage>CRISPINO(rifiutandosi)Ah birichina.</stage>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Eh via, dunque, pace, pace.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>E il sorriso?… e l’occhiatina?</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>(accarezzandolo)</l>
+          <l>Via, scherzai, sono incapace.</l>
+        </sp>
+        <stage>ANNETTA(accarezzandolo)Via, scherzai, sono incapace.</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(le dà la mano)</l>
+          <l>Bene ben… ti proverò.</l>
+        </sp>
+        <stage>CRISPINO(le dà la mano)Bene ben… ti proverò.</stage>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>(fa lo stesso)</l>
+          <l>Chi son io ti mostrerò.</l>
+          <l>Ah sì, sì, marito mio,</l>
+          <l>s’è finito di penare.</l>
+          <l>Benedetta la comare</l>
+          <l>che godere ne farà!</l>
+          <l>Addio storie, fame addio;</l>
+        </sp>
+        <stage>ANNETTA(fa lo stesso)Chi son io ti mostrerò.Ah sì, sì, marito mio,s’è finito di penare.Benedetta la comareche godere ne farà!Addio storie, fame addio;</stage>
+        <stage>(si mette a ballare)là, larà, larà, là, là.</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Addio forme, panco addio,</l>
+          <l>vo’ cantare, vo’ ballare;</l>
+          <l>pensa a tutto la Comare,</l>
+          <l>via ballando andiam di qua.</l>
+          <l>Canta, salta, idolo mio.</l>
+          <l>Là, larà, larà, là, là.</l>
+        </sp>
+        <stage>(partono ballando)</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>ATTO SECONDO</head>
+      <sp who="#atto secondo">
+        <speaker>ATTO SECONDO:</speaker>
+      </sp>
+      <stage>(Un campo come nella Scena prima dell’attoprimo.Crispino ed Annetta vengono allegried a braccetto)</stage>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Eccomi alfine, casa…</l>
+        <l>ecco il panchetto!</l>
+        <l>al diavol ora vattene,</l>
+        <l>brutta memoria dello scarpinello;</l>
+      </sp>
+      <stage>(lo rinversa d’un calcio)</stage>
+      <sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>Hai fitto in capo d’esser un dottore!…</l>
+        <l>Se quell’oro non fosse</l>
+        <l>davver ti crederei solenne pazzo.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Annetta, per istrada</l>
+        <l>tu non vedesti quella gran signora,</l>
+        <l>che pian piano all’orecchio m’ha parlato?</l>
+      </sp>
+      <sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>Io? no.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Già! lo sapeva;</l>
+        <l>io sol la vedo.</l>
+      </sp>
+      <sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>Ebbene?</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(trae di saccoccia un gran cartello)</l>
+        <l>Mi diè questo cartello</l>
+        <l>da metter sulla porta;</l>
+        <l>più, mi disse che in casa avrei trovato</l>
+        <l>un vestiario completo da dottore.</l>
+      </sp>
+      <stage>CRISPINO(trae di saccoccia un gran cartello)Mi diè questo cartelloda metter sulla porta;più, mi disse che in casa avrei trovatoun vestiario completo da dottore.</stage>
+      <stage>(raccoglie di terra un chiodo, il martello,e appende sopra la porla il cartello)</stage>
+      <sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>(Fra sè)</l>
+        <l>Sempre più si fa grande il mio stupore!</l>
+      </sp>
+      <stage>ANNETTA(Fra sè)Sempre più si fa grande il mio stupore!</stage>
+      <stage>(A Crispino)Sarà meglio che vada un po’ a dormire.</stage>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(tornando a lei)</l>
+        <l>A dormire? scioccona!</l>
+        <l>Vedrai, vedrai cosa farò a momenti.</l>
+        <l>Di dottore a indossar vo i finimenti.</l>
+      </sp>
+      <stage>CRISPINO(tornando a lei)A dormire? scioccona!Vedrai, vedrai cosa farò a momenti.Di dottore a indossar vo i finimenti.</stage>
+      <stage>(entra in casa)</stage>
+      <div type="scene">
+        <head>Scena Seconda</head>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>(sola)</l>
+          <l>Ora inver non so più cosa pensare;</l>
+          <l>essere chi mai può questa Comare?</l>
+          <l>A legger proverò, sono curiosa;</l>
+          <l>legger non sa Crispino, io qualche cosa.</l>
+        </sp>
+        <stage>ANNETTA(sola)Ora inver non so più cosa pensare;essere chi mai può questa Comare?A legger proverò, sono curiosa;legger non sa Crispino, io qualche cosa.</stage>
+        <stage>(legge a stento compitando)</stage>
+        <stage>(s’aggiusta e pavoneggia)</stage>
+        <stage>(passeggia pomposa)</stage>
+        <stage>(entra in casa)</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Terza</head>
+        <stage>(Mirabolano, poi don Fabrizio dallafarmacia, don Asdrubale dalla casa, iGiovani dalle botteghe e Popolo.La Comare comparisce a tempo)</stage>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>Cosa ha scritto mai quel pazzo</l>
+          <l>sul porton del suo palazzo!</l>
+        </sp>
+        <stage>(torna a leggere)Ah! ah! bella in verità!Ehi dottor, leggete qua.</stage>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>Crispino Tacchetto quondam Ciabattino</l>
+          <l>che medico divenne sopraffino!</l>
+        </sp>
+        <sp who="#mirabolano, fabrizio">
+          <speaker>MIRABOLANO, FABRIZIO:</speaker>
+          <l>Oh che pazzo! oh che buffone!</l>
+          <l>Egli è proprio da legar.</l>
+        </sp>
+        <stage>(giovani e popolo vanno a leggere)</stage>
+        <sp who="#coro i">
+          <speaker>CORO I:</speaker>
+          <l>Sopraffino!</l>
+        </sp>
+        <sp who="#coroii">
+          <speaker>COROII:</speaker>
+          <l>Sopraffino!</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Per le risa è da crepar!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Scena Quarta</head>
+        <stage>(Detti e Crispino, ch’escedalla sua casa in abito nero)</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Alto là, di che ridete?</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Eh buffone!</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Non sapete,</l>
+          <l>asinoni, ch’io mi sia?</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Ah! ah! ah! ah! ah! ah! ah!</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Son dottore.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>È una follia.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Dottorissimo.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Ah! ah!</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Sì signori, son dottore</l>
+          <l>che guarisce ogni malore;</l>
+          <l>se vi piglia un accidente,</l>
+          <l>febbre fredda o febbre ardente,</l>
+          <l>un colpetto nella testa,</l>
+          <l>o una tisi vi molesta,</l>
+          <l>per mia cura, sì signori,</l>
+          <l>chi non crepa, può campar.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Bel dottore! i creditori</l>
+          <l>faria meglio di pagar.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(passeggiando alteramente cava di tasca</l>
+          <l>pugni di monete d’ oro, e, gettandole in</l>
+          <l>faccia agli astanti, lor dice:)</l>
+          <l>Oro è questo monetato,</l>
+          <l>un mio pari può pagar.</l>
+          <l>Io dottor son diventato,</l>
+          <l>saprò tutti soddisfar.</l>
+        </sp>
+        <stage>CRISPINO(passeggiando alteramente cava di tascapugni di monete d’ oro, e, gettandole infaccia agli astanti, lor dice:)Oro è questo monetato,un mio pari può pagar.Io dottor son diventato,saprò tutti soddisfar.</stage>
+        <stage>(Fra sè)Ah Comare, in tal momentosto per farmi bastonar!</stage>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>(a Crispino)</l>
+          <l>Tanta somma in un momento</l>
+          <l>dove andasti a ritrovar?</l>
+        </sp>
+        <stage>FABRIZIO(a Crispino)Tanta somma in un momentodove andasti a ritrovar?</stage>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>Certo fosti in tal momento</l>
+          <l>qualche cassa a visitar.</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Un scommetto contro cento</l>
+          <l>ch’ora stato se’ a rubar.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Arricchito in un momento!</l>
+          <l>Certo andato se’ a rubar.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Ah Comare, in tal momento</l>
+          <l>so per farmi bastonar!</l>
+        </sp>
+        <stage>CRISPINO(Fra sè)Ah Comare, in tal momentoso per farmi bastonar!</stage>
+        <sp who="#comare">
+          <speaker>COMARE:</speaker>
+          <l>(sorge improvvisamente di</l>
+          <l>terra a fianco di Crispino)</l>
+          <l>La Comare in tal momento</l>
+          <l>a te sol, Crispino, appar.</l>
+          <l>Non temere… l’ardimento</l>
+          <l>puoi securo raddoppiar.</l>
+        </sp>
+        <stage>COMARE(sorge improvvisamente diterra a fianco di Crispino)La Comare in tal momentoa te sol, Crispino, appar.Non temere… l’ardimentopuoi securo raddoppiar.</stage>
+        <stage>(torna a sprofondarsi)</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Mille grazie, ora mi sento</l>
+          <l>il coraggio raddoppiar.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Scena Quinta</head>
+        <stage>(Detti, il Contino frettoloso, Annettadalla casa, poi Bortolo muratore,seguìto da molto Popolo)</stage>
+        <sp who="#contino">
+          <speaker>CONTINO:</speaker>
+          <l>Ah signori, signori, accorrete.</l>
+          <l>Se v’è tempo salvarlo potete.</l>
+          <l>Da un altissimo tetto è caduto</l>
+          <l>un artiere, e qui il portan svenuto.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Dove fu? presto andiamo…</l>
+        </sp>
+        <sp who="#contino">
+          <speaker>CONTINO:</speaker>
+          <l>Egli è qua.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Poveretto! morendo già sta!</l>
+        </sp>
+        <stage>(quattro uomini, seguiti da granmoltitudine, portano Bortolo svenutosopra una sedia che depongono nelcentro del proscenio)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ah gli è Bortolo! egli è muratore.</l>
+        </sp>
+        <stage>(stringendosegli attorno)</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(guardando per ogni lato,fra sè)</l>
+          <l>Né Comare, né testa qui appar!</l>
+        </sp>
+        <stage>CRISPINO(guardando per ogni lato,fra sè)Né Comare, né testa qui appar!</stage>
+        <stage>(Mirabolano e Fabrizio sono pressoBortolo esaminandolo)</stage>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>Non c’è caso, gli è perduto.</l>
+        </sp>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>Ma fratture non ci sono…</l>
+        </sp>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>Lo sfacelo è succeduto,</l>
+          <l>in extremis egli è già.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(sempre osservando,fra sè)</l>
+          <l>La Comare non ci sta.</l>
+        </sp>
+        <stage>CRISPINO(sempre osservando,fra sè)La Comare non ci sta.</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Infelice! ei muore qua.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>CRISPINO</head>Via di qua tutti, bestioni,non sapete affatto niente;questo morto qui presente,io vi dico, non morrà.<sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Via di qua tutti, bestioni,</l>
+        <l>non sapete affatto niente;</l>
+        <l>questo morto qui presente,</l>
+        <l>io vi dico, non morrà.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Taci, sciocco!</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Somaroni!</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>(a Mirabolano)</l>
+        <l>Un salasso almen si provi,</l>
+        <l>potrà darsi che gli giovi…</l>
+      </sp>
+      <stage>FABRIZIO(a Mirabolano)Un salasso almen si provi,potrà darsi che gli giovi…</stage>
+      <sp who="#mirabolano">
+        <speaker>MIRABOLANO:</speaker>
+        <l>Factus algidus è già.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>A ogni costo voglio anch’ io</l>
+        <l>il mio recipe provar.</l>
+      </sp>
+      <sp who="#mirabolano">
+        <speaker>MIRABOLANO:</speaker>
+        <l>Ciarlatanus, va’ con dio.</l>
+        <l>Via, non starci più a seccar.</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>S’è già morto, è parer mio</l>
+        <l>di lasciarlo pur provar.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>(a Crispino)</l>
+        <l>Prova pur, ma bada, il fio</l>
+        <l>se la sbagli hai da pagar.</l>
+      </sp>
+      <stage>TUTTI(a Crispino)Prova pur, ma bada, il fiose la sbagli hai da pagar.</stage>
+      <sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>(a Crispino)</l>
+        <l>Bada ben, marito mio,</l>
+        <l>di non farti bastonar.</l>
+      </sp>
+      <stage>ANNETTA(a Crispino)Bada ben, marito mio,di non farti bastonar.</stage>
+    </div>
+    <div type="act">
+      <head>CRISPINO</head>(Ad Annetta)Certo son del fatto mio,la Comare non appar.<sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(Ad Annetta)</l>
+        <l>Certo son del fatto mio,</l>
+        <l>la Comare non appar.</l>
+      </sp>
+      <stage>CRISPINO(Ad Annetta)Certo son del fatto mio,la Comare non appar.</stage>
+      <stage>(si appressa con molta gravità al malato)</stage>
+      <stage>(tutti accennano di sì, e portanoa tempo quanto è domandalo)</stage>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(Modifica le parole per</l>
+        <l>farle sembrare latine)</l>
+        <l>Recipe panam candidam</l>
+        <l>cum stortibus perfettis,</l>
+        <l>panem, salamen, ostricas,</l>
+        <l>e quattro broccolettis.</l>
+        <l>Del vinum poi portamini,</l>
+        <l>ma debet esser bellus,</l>
+        <l>come talora bibunt</l>
+        <l>dall’oste del Cappellus…</l>
+        <l>tutto all’infermo or applico,</l>
+        <l>e presto guarirà.</l>
+      </sp>
+      <stage>CRISPINO(Modifica le parole perfarle sembrare latine)Recipe panam candidamcum stortibus perfettis,panem, salamen, ostricas,e quattro broccolettis.Del vinum poi portamini,ma debet esser bellus,come talora bibuntdall’oste del Cappellus…tutto all’infermo or applico,e presto guarirà.</stage>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Oh come son ridicole</l>
+        <l>tante bestialità!</l>
+      </sp>
+    </div>
+    <div type="act">
+      <head>CRISPINO</head>(applica alla testa di Bortolo qualcheparte degli indicati cibi, qualche parte nemangia, poi prende un bicchiere, e,fattosi versare del vino, dice:)Il vino è uno specificorallegrator de’ cuori,col solo odore suscitai morti bevitori…<sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(applica alla testa di Bortolo qualche</l>
+        <l>parte degli indicati cibi, qualche parte ne</l>
+        <l>mangia, poi prende un bicchiere, e,</l>
+        <l>fattosi versare del vino, dice:)</l>
+        <l>Il vino è uno specifico</l>
+        <l>rallegrator de’ cuori,</l>
+        <l>col solo odore suscita</l>
+        <l>i morti bevitori…</l>
+      </sp>
+      <stage>CRISPINO(applica alla testa di Bortolo qualcheparte degli indicati cibi, qualche parte nemangia, poi prende un bicchiere, e,fattosi versare del vino, dice:)Il vino è uno specificorallegrator de’ cuori,col solo odore suscitai morti bevitori…</stage>
+      <stage>(beve)</stage>
+      <stage>(soffia nel volto a Bortolo)Bortolo, dico, Bortolo,destati, Bortoletto.</stage>
+      <stage>(egli muove un braccio)</stage>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Si muove!… già resuscita!…</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Ohe Bortolino?…</l>
+      </sp>
+      <sp who="#bortolo">
+        <speaker>BORTOLO:</speaker>
+        <l>Ohimè!</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Parlò!</l>
+      </sp>
+      <sp who="#bortolo">
+        <speaker>BORTOLO:</speaker>
+        <l>(apre gli occhi ed alza la testa)</l>
+        <l>Ritorno a vivere!</l>
+        <l>Per chi?</l>
+      </sp>
+      <stage>BORTOLO(apre gli occhi ed alza la testa)Ritorno a vivere!Per chi?</stage>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Solo per me.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>A stento si può credere,</l>
+        <l>sì, da impazzir qui c’è!</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(Fra sè)</l>
+        <l>Quanti baci vorrei dare</l>
+        <l>a te, o cara mia Comare!</l>
+        <l>Comaretta non t’inganno,</l>
+        <l>cicisbeo per te sarò.</l>
+        <l>I dottori in fumo andranno,</l>
+        <l>io riccone diverrò!</l>
+      </sp>
+      <stage>CRISPINO(Fra sè)Quanti baci vorrei darea te, o cara mia Comare!Comaretta non t’inganno,cicisbeo per te sarò.I dottori in fumo andranno,io riccone diverrò!</stage>
+    </div>
+    <div type="act">
+      <head>ANNETTA</head>(a Crispino)Ah Crispino colla Comarehai pur fatto un bello affare,tutti a gara ti vorranno,gran riccone ti vedrò.I dottori creperanno,io, per essi riderò!<sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>(a Crispino)</l>
+        <l>Ah Crispino colla Comare</l>
+        <l>hai pur fatto un bello affare,</l>
+        <l>tutti a gara ti vorranno,</l>
+        <l>gran riccone ti vedrò.</l>
+        <l>I dottori creperanno,</l>
+        <l>io, per essi riderò!</l>
+      </sp>
+      <stage>ANNETTA(a Crispino)Ah Crispino colla Comarehai pur fatto un bello affare,tutti a gara ti vorranno,gran riccone ti vedrò.I dottori creperanno,io, per essi riderò!</stage>
+      <sp who="#mirabolano">
+        <speaker>MIRABOLANO:</speaker>
+        <l>(Fra sè)</l>
+        <l>Chi saprebbe indovinare</l>
+        <l>come sia cotesto affare!</l>
+        <l>Quanti al mondo grideranno</l>
+        <l>che un miracolo operò!</l>
+        <l>Al mio credito gran danno</l>
+        <l>da tal caso derivò!</l>
+      </sp>
+      <stage>MIRABOLANO(Fra sè)Chi saprebbe indovinarecome sia cotesto affare!Quanti al mondo griderannoche un miracolo operò!Al mio credito gran dannoda tal caso derivò!</stage>
+      <sp who="#fabrizio, contino, asdrubale">
+        <speaker>FABRIZIO, CONTINO, ASDRUBALE:</speaker>
+        <l>(Fra sè)</l>
+        <l>Io non so cosa pensare;</l>
+        <l>è curioso un tale affare!</l>
+        <l>Quando i medici sapranno</l>
+        <l>che quest’uomo risanò,</l>
+        <l>quante frottole diranno!</l>
+        <l>Ma negarlo non si può!</l>
+      </sp>
+      <stage>FABRIZIO, CONTINO, ASDRUBALE(Fra sè)Io non so cosa pensare;è curioso un tale affare!Quando i medici saprannoche quest’uomo risanò,quante frottole diranno!Ma negarlo non si può!</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>(fra loro)</l>
+        <l>Se il voleano abbandonare</l>
+        <l>e il poté Crispino salvare,</l>
+        <l>l’arte medica è un inganno.</l>
+        <l>Più stimarla non si può.</l>
+        <l>Ah i dottori poco sanno,</l>
+        <l>la indovinano sì e no.</l>
+      </sp>
+      <stage>CORO(fra loro)Se il voleano abbandonaree il poté Crispino salvare,l’arte medica è un inganno.Più stimarla non si può.Ah i dottori poco sanno,la indovinano sì e no.</stage>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(con gravità agli uomini</l>
+        <l>che portarono Bortolo)</l>
+        <l>Sul mio letto quest’uomo portate,</l>
+        <l>per un’ora dormir lo lasciate,</l>
+        <l>poi del brodo e del vino berrà…</l>
+        <l>Al lavoro doman tornerà.</l>
+      </sp>
+      <stage>CRISPINO(con gravità agli uominiche portarono Bortolo)Sul mio letto quest’uomo portate,per un’ora dormir lo lasciate,poi del brodo e del vino berrà…Al lavoro doman tornerà.</stage>
+      <stage>(gli uomini, preceduti da Annetta eseguiti dal Contino, eseguiscono)</stage>
+      <div type="scene">
+        <head>Scena Sesta</head>
+        <stage>(Detti, meno Annetta,Bortolo ed il Contino)</stage>
+      </div>
+      <div type="scene">
+        <head>CRISPINO</head>(passeggia alteramente la Scena, poi,fissando Fabrizio e Mirabolano prorompe:)Asinorum, bestiorum, doctorum,<sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(passeggia alteramente la Scena, poi,</l>
+          <l>fissando Fabrizio e Mirabolano prorompe:)</l>
+          <l>Asinorum, bestiorum, doctorum,</l>
+        </sp>
+        <stage>CRISPINO(passeggia alteramente la Scena, poi,fissando Fabrizio e Mirabolano prorompe:)Asinorum, bestiorum, doctorum,</stage>
+        <stage>(Medici, asini, bestie)</stage>
+        <stage>(Dalle nostre nuove recipi)</stage>
+        <sp who="#fabrizio, asdrubale">
+          <speaker>FABRIZIO, ASDRUBALE:</speaker>
+          <l>MIRABOLANO</l>
+          <l>Come parli? creanza, buffone!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>No, signori, egli ha bene parlato;</l>
+          <l>egli Bortolo ha solo salvato…</l>
+        </sp>
+        <sp who="#fabrizio, asdrubale">
+          <speaker>FABRIZIO, ASDRUBALE:</speaker>
+          <l>MIRABOLANO</l>
+          <l>Ma per questo non deve insultar.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Eh via basta, egli ha troppa ragione… Zitti là.</l>
+        </sp>
+        <sp who="#fabrizio, asdrubale">
+          <speaker>FABRIZIO, ASDRUBALE:</speaker>
+          <l>MIRABOLANO</l>
+          <l>Ma si dée rispettar.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Oh doctores, andate, partite,</l>
+          <l>chiaro parlant e vos non capite?</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Sì, via… questo gli è il solo dottore.</l>
+          <l>Qual si merta facciamogli onore.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Scena Settima</head>
+        <stage>(Detti, Annetta ed il Contino dalla casa.Quelli del popolo prendono il panchettoda lavoro di Crispino, a forza ve lo fannoseder sopra, e, portandoloquasi in trionfo,cantano:)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Viva il povero Crispino,</l>
+          <l>diventato gran dottore!</l>
+          <l>Viva il rozzo ciabattino,</l>
+          <l>che la morte debellò!</l>
+          <l>La sua fama giri il mondo,</l>
+          <l>quant’è largo, quanto è tondo!</l>
+          <l>È provato il suo valore,</l>
+          <l>il trionfo meritò!</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(schermendosi impaurito)</l>
+          <l>Grazie! grazie!… mille grazie!</l>
+          <l>Grazie, dico, ma badate…</l>
+          <l>non mi occorron più disgrazie…</l>
+          <l>fate piano… o cascherò!…</l>
+          <l>vi son grato di tal festa…</l>
+          <l>Ma le gambe… ma la testa…</l>
+          <l>Fate pian… se m’accoppate,</l>
+          <l>più curarvi non potrò.</l>
+        </sp>
+        <stage>CRISPINO(schermendosi impaurito)Grazie! grazie!… mille grazie!Grazie, dico, ma badate…non mi occorron più disgrazie…fate piano… o cascherò!…vi son grato di tal festa…Ma le gambe… ma la testa…Fate pian… se m’accoppate,più curarvi non potrò.</stage>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>(Fra sè)</l>
+          <l>Qual fortuna!… il mio Crispino</l>
+          <l>diventato è in ver dottore!</l>
+          <l>Sebben rozzo ciabattino,</l>
+          <l>ei la morte debellò.</l>
+          <l>La sua fama andrà pel mondo,</l>
+          <l>quant’è largo, quanto è tondo!</l>
+          <l>Ah Comare, ben di core</l>
+          <l>sempre amica ti sarò.</l>
+        </sp>
+        <stage>ANNETTA(Fra sè)Qual fortuna!… il mio Crispinodiventato è in ver dottore!Sebben rozzo ciabattino,ei la morte debellò.La sua fama andrà pel mondo,quant’è largo, quanto è tondo!Ah Comare, ben di coresempre amica ti sarò.</stage>
+        <sp who="#asdrubale, mirabolano">
+          <speaker>ASDRUBALE, MIRABOLANO:</speaker>
+          <l>FABRIZIO, CONTINO</l>
+          <l>(tra loro)</l>
+          <l>Quel briccone di Crispino</l>
+          <l>passerà per gran dottore!</l>
+          <l>Si dirà che un ciabattino</l>
+          <l>qui la morte debellò!</l>
+          <l>Anche questa avrem veduto!</l>
+          <l>Chi l’avrebbe preveduto!</l>
+          <l>Alla scienza molto onore</l>
+          <l>questo caso far non può!</l>
+        </sp>
+        <stage>ASDRUBALE, MIRABOLANOFABRIZIO, CONTINO(tra loro)Quel briccone di Crispinopasserà per gran dottore!Si dirà che un ciabattinoqui la morte debellò!Anche questa avrem veduto!Chi l’avrebbe preveduto!Alla scienza molto onorequesto caso far non può!</stage>
+        <stage>(mentre continua il trionfodi Crispino cala la tela)</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>ATTO TERZO</head>
+      <sp who="#atto terzo">
+        <speaker>ATTO TERZO:</speaker>
+      </sp>
+      <stage>Scena Prima(Campo come nella prima Scena dell’attoprimo, colla sola differenza,che la casadi Crispino vi si vedrà grandiosamenterifabbricata. Vi saràun poggiuolopraticabile. Dottor Fabrizio ed il Contino)</stage>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>Vediam se in farmacia ci sono inviti.</l>
+      </sp>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>Ehi dottore?</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>Carissimo contino.</l>
+      </sp>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>Già in vedermi, scommetto, indovinate</l>
+        <l>qual cosa a voi mi guida…</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>Vi spiegate.</l>
+      </sp>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>Voi siete un uom di spirito</l>
+        <l>e franco vo’ parlar.</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>Come vi piace.</l>
+      </sp>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>Io dell’avaro Asdrubale</l>
+        <l>perdutamente adoro la pupilla;</l>
+        <l>egli avversa il mio amor, ella è malata…</l>
+        <l>il suo dottor voi siete…</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>Ebben?…</l>
+      </sp>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>Per ciò vorrei</l>
+        <l>palesar del mio cor l’affanno a lei.</l>
+      </sp>
+      <stage>(gli presenta un biglietto)</stage>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>Ehi contin, come parlate?</l>
+      </sp>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>Via, dottor, non v’inquietate.</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>È una burla?</l>
+      </sp>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>No, davvero.</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>Non vi credo.</l>
+      </sp>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>È verità.</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>(Fra sè)</l>
+        <l>Un biglietto ad un dottore,</l>
+        <l>perché il porti a una malata!</l>
+        <l>e d’amore in ambasciata</l>
+        <l>me si ardisce di mandar!</l>
+        <l>Oh guardate il bel signore</l>
+        <l>a cui vengono tai fumi!</l>
+        <l>Oh che tempi, oh che costumi!</l>
+        <l>oh che modo di trattar!</l>
+      </sp>
+      <stage>FABRIZIO(Fra sè)Un biglietto ad un dottore,perché il porti a una malata!e d’amore in ambasciatame si ardisce di mandar!Oh guardate il bel signorea cui vengono tai fumi!Oh che tempi, oh che costumi!oh che modo di trattar!</stage>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>(al dottore)</l>
+        <l>In cor giovane è l’amore</l>
+        <l>un tiranno onnipossente,</l>
+        <l>che lo domina, e sovente</l>
+        <l>a sua voglia fa impazzar.</l>
+        <l>Non fu mio dunque l’errore,</l>
+        <l>fu d’ amor, vedete bene,</l>
+        <l>a un filosofo conviene</l>
+        <l>tali colpe perdonar.</l>
+      </sp>
+      <stage>CONTINO(al dottore)In cor giovane è l’amoreun tiranno onnipossente,che lo domina, e soventea sua voglia fa impazzar.Non fu mio dunque l’errore,fu d’ amor, vedete bene,a un filosofo convienetali colpe perdonar.</stage>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>Per Galeno!… che eloquenza!</l>
+        <l>mi sembrate un Cicerone!</l>
+      </sp>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>Eloquente è la passione</l>
+        <l>che il mio labbro fa parlar.</l>
+        <l>Or sentite in confidenza,</l>
+        <l>sono ricco, indipendente,</l>
+        <l>e al tutore, se acconsente,</l>
+        <l>vo’ la dote regalar.</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>Ben l’affare cangia aspetto,</l>
+        <l>di parlarne vi prometto.</l>
+      </sp>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>E fia vero! dal contento</l>
+        <l>già rinascere mi sento!</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>Non vi state a lusingare;</l>
+        <l>è una bestia singolare…</l>
+      </sp>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>Temereste?</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>Non lo so.</l>
+      </sp>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>Ma tentate.</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>Tenterò.</l>
+      </sp>
+      <sp who="#contino">
+        <speaker>CONTINO:</speaker>
+        <l>Presto presto, amico all’opra;</l>
+        <l>pria che notte il cielo copra</l>
+        <l>definite un tale affare</l>
+        <l>e felice appien sarò.</l>
+        <l>Tocca a voi capacitare</l>
+        <l>quell’avaro maledetto;</l>
+        <l>colle buone o per dispetto</l>
+        <l>la ragazza sposerò.</l>
+        <l>Don Fabrizio, a voi m’affido;</l>
+        <l>altra speme ornai non ho.</l>
+      </sp>
+      <sp who="#fabrizio">
+        <speaker>FABRIZIO:</speaker>
+        <l>Presto presto volo all’opra;</l>
+        <l>pria che notte il cielo copra</l>
+        <l>definito fia l’affare</l>
+        <l>e contento vi vedrò.</l>
+        <l>Spero alfin capacitare</l>
+        <l>quell’avaro maledetto;</l>
+        <l>senza dote, ci scommetto,</l>
+        <l>men severo il troverò.</l>
+        <l>Di provarvi mi confido</l>
+        <l>che Fabrizio perdonò.</l>
+      </sp>
+      <stage>(entra in casa di Asdrubale,il Contino al caffè)</stage>
+      <div type="scene">
+        <head>Scena Seconda</head>
+        <stage>(Interno della spezieria alle «due scimie»)</stage>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>(solo sta passeggiando)</l>
+          <l>Dacché questo malnato ciabattino</l>
+          <l>di medico è salito in tanto grido,</l>
+          <l>noi dottori davver matricolati,</l>
+          <l>e gli speziali ancora,</l>
+          <l>siamo lì per andar tutti in malora.</l>
+          <l>Eccolo qua che viene.</l>
+        </sp>
+        <stage>MIRABOLANO(solo sta passeggiando)Dacché questo malnato ciabattinodi medico è salito in tanto grido,noi dottori davver matricolati,e gli speziali ancora,siamo lì per andar tutti in malora.Eccolo qua che viene.</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Terza</head>
+        <stage>(Detto e Crispino cheentra con caricata gravità)</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Dottor Mirabolan di conio antico,</l>
+          <l>sta bene attento, e scrivi quel che dico.</l>
+        </sp>
+        <stage>(Mirabolano siede e scrive)</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(detta passeggiando e</l>
+          <l>gravemente ponderando)</l>
+          <l>Recipe una bottigliam</l>
+          <l>d’acqua putèi…</l>
+        </sp>
+        <stage>CRISPINO(detta passeggiando egravemente ponderando)Recipe una bottigliamd’acqua putèi…</stage>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>Cioè pùtei.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(pensa)</l>
+          <l>Fa lo stesso…</l>
+          <l>uno scrupulus poscia di lichene…</l>
+        </sp>
+        <stage>CRISPINO(pensa)Fa lo stesso…uno scrupulus poscia di lichene…</stage>
+        <stage>(pensa)tre guttae d’aquas rosas distillatam…</stage>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>Pandoletti!… chi è?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Quel forestier che sta di là dall’acqua.</l>
+        </sp>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>Pandolfetti, vuoi dir.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Già m’hai capito.</l>
+        </sp>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>(alzandosi infuriato)</l>
+          <l>Sì, sì, ho capito che tu se’ un briccone.</l>
+        </sp>
+        <stage>MIRABOLANO(alzandosi infuriato)Sì, sì, ho capito che tu se’ un briccone.</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Come sarebbe a dire?</l>
+        </sp>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>Che rubi li clienti…</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Ehi, dico, tien la lingua</l>
+          <l>dentro ai denti.</l>
+        </sp>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>Da un anno io l’ho curato.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>CRISPINO</head>Io l’ho con una visita sanato.Le pillole, i decotti, l’assafetida,il copaibe, che tu pria gli ordinasti,ho fatto gittar tutto nel canale,e una cura adottai più naturale.<sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Io l’ho con una visita sanato.</l>
+        <l>Le pillole, i decotti, l’assafetida,</l>
+        <l>il copaibe, che tu pria gli ordinasti,</l>
+        <l>ho fatto gittar tutto nel canale,</l>
+        <l>e una cura adottai più naturale.</l>
+      </sp>
+      <sp who="#mirabolano">
+        <speaker>MIRABOLANO:</speaker>
+        <l>Va’ pur là, che sei sempre un gran villano…</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Collega mio, dottor Mirabolano,</l>
+        <l>così la cosa sta,</l>
+        <l>e voi altri tutti,</l>
+        <l>vogliate, o non vogliate,</l>
+        <l>piegar v’è d’uopo,</l>
+        <l>giovani e provetti,</l>
+        <l>al dottore Crispino de Tacchetti.</l>
+      </sp>
+      <sp who="#mirabolano">
+        <speaker>MIRABOLANO:</speaker>
+        <l>Ah! ah! anche il «de»!</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Si, per l’appunto, il «de».</l>
+      </sp>
+      <sp who="#mirabolano">
+        <speaker>MIRABOLANO:</speaker>
+        <l>Da ridere mi fai.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>No, da crepare</l>
+        <l>per la bile e l’invidia.</l>
+      </sp>
+      <sp who="#mirabolano">
+        <speaker>MIRABOLANO:</speaker>
+        <l>Via, ciarlatano.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Crepa.</l>
+      </sp>
+      <sp who="#mirabolano">
+        <speaker>MIRABOLANO:</speaker>
+        <l>Ciabattino!</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Crepa.</l>
+      </sp>
+      <sp who="#mirabolano">
+        <speaker>MIRABOLANO:</speaker>
+        <l>Somaro.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Crepa.</l>
+      </sp>
+      <sp who="#mirabolano">
+        <speaker>MIRABOLANO:</speaker>
+        <l>Via, buffone.</l>
+      </sp>
+      <div type="scene">
+        <head>Scena Quarta</head>
+        <stage>(Detti ed il dottor Fabrizio)</stage>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>Ma, signori, perché tanta questione?</l>
+        </sp>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>Di Pandolfetti medico</l>
+          <l>era da circa un anno;</l>
+          <l>ben le mie cure andavano…</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Ah no, qui sta l’inganno…</l>
+        </sp>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>Quando l’inevitabile</l>
+          <l>dottore ciabattino</l>
+          <l>presso di lui s’ insinua,</l>
+          <l>e in modo il più asinino,</l>
+          <l>bandito ogni mio recipe,</l>
+          <l>lo getta nel canale,</l>
+          <l>la cura assume e medica</l>
+          <l>all’uso suo bestiale:</l>
+          <l>or d’inquietarmi, ditemi,</l>
+          <l>ho io ragion sì o no?</l>
+          <l>Parlatemi pur candido,</l>
+          <l>mio giudice vi fo.</l>
+        </sp>
+        <stage>(Fra sè)Quel buffone, animaloneneghi il fatto, se lo può.</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Con due sillabe il buffone</l>
+          <l>or confondere saprò.</l>
+        </sp>
+        <stage>CRISPINO(Fra sè)Con due sillabe il buffoneor confondere saprò.</stage>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Più ridicola questione</l>
+          <l>ritrovare non si può.</l>
+        </sp>
+        <stage>FABRIZIO(Fra sè)Più ridicola questioneritrovare non si può.</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Per un segreto incomodo</l>
+          <l>giacea da sei mesetti</l>
+          <l>lungo e disteso in lectulo</l>
+          <l>il conte Pandolfetti;</l>
+          <l>quando gli nacque un dubbio,</l>
+          <l>che qui il signor dottore</l>
+          <l>fosse, per caso, un asino;</l>
+          <l>m’invita oggi, a tre ore.</l>
+          <l>Vado, lo vedo, interrogo,</l>
+          <l>la cura disapprovo;</l>
+          <l>nuovi rimedi, e semplici,</l>
+          <l>io d’ ordinargli trovo.</l>
+          <l>Vengo a spedirgli il recipe,</l>
+          <l>sapete egli che fa?</l>
+          <l>Va in bestia,</l>
+          <l>e qual quadrupede</l>
+          <l>infuria e calci dà.</l>
+        </sp>
+        <stage>(Fra sè)Quel buffone, animaloneche rispondere non sa.</stage>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Quant’è ardito quel bestione</l>
+          <l>niun pensare mai potrà.</l>
+        </sp>
+        <stage>MIRABOLANO(Fra sè)Quant’è ardito quel bestioneniun pensare mai potrà.</stage>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>Or m’udite, e colle buone</l>
+          <l>la question si comporrà.</l>
+        </sp>
+        <stage>(siedono)</stage>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>Non fu, ned è tra i medici</l>
+          <l>bandita la creanza;</l>
+          <l>abbiam le nostre regole,</l>
+          <l>seguir dobbiam l’usanza.</l>
+          <l>Quando i malati il chiedono,</l>
+          <l>franchi parlar dobbiamo,</l>
+          <l>e suggerir que’ farmachi</l>
+          <l>che adatti più crediamo.</l>
+        </sp>
+        <stage>(a Mirabolano)</stage>
+        <stage>(a Crispino)</stage>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>(a Fabrizio)</l>
+          <l>Ah voi pure, quel buffone</l>
+          <l>vi mettete a secondar!</l>
+        </sp>
+        <stage>MIRABOLANO(a Fabrizio)Ah voi pure, quel buffonevi mettete a secondar!</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Con quel brutto animalone</l>
+          <l>io non voglio più che far.</l>
+        </sp>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>Dunque basti…</l>
+          <l>terminiamo;</l>
+          <l>consultare or or dobbiamo.</l>
+        </sp>
+        <sp who="#crispino, mirabolano">
+          <speaker>CRISPINO, MIRABOLANO:</speaker>
+          <l>Consultar! con quello là?</l>
+          <l>Impossibil mi sarà.</l>
+        </sp>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>Quante volte ho da ridire?</l>
+          <l>io la voglio qui finire.</l>
+        </sp>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>No, giammai la finirò.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Sempre un asino il dirò.</l>
+        </sp>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>Puoi tornare al tuo panchetto,</l>
+          <l>sempre sei Crispino Tacchetto.</l>
+          <l>No, cangiarti non potrai,</l>
+          <l>sempre un zotico sarai.</l>
+          <l>Quanti fumi hai per la testa</l>
+          <l>forse un dì svanir vedrò.</l>
+          <l>Ancor batti, tira, pesta</l>
+          <l>a cantar ti sentirò.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Canta pure di panchetti,</l>
+          <l>ma io sono il de Tacchetti,</l>
+          <l>trionfante mi vedrai,</l>
+          <l>e per bile creperai;</l>
+          <l>come fosse eterna festa</l>
+          <l>passeggiare ti vedrò.</l>
+          <l>La teriaca pesta, pesta,</l>
+          <l>più cantar non sentirò.</l>
+        </sp>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Oh che pazzi! ci scommetto</l>
+          <l>che non v’ è un egual duetto!</l>
+          <l>Ed io pure perché mai</l>
+          <l>fra costoro capitai!</l>
+        </sp>
+        <stage>FABRIZIO(Fra sè)Oh che pazzi! ci scommettoche non v’ è un egual duetto!Ed io pure perché maifra costoro capitai!</stage>
+        <stage>(Forte)Per pietà, non ho più testa,la finite sì o no?Or si lasci il tira e pesta.Che torniate amici io vo’.</stage>
+        <stage>(entrano tutti nel laboratorio)</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Quinta</head>
+        <stage>(Salotto in casa di don Asdrubale.Asdrubale, e vari Dottori ch’entranogravemente, vestiti delle lor toghe ecoperti del magistrale berretto)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Misteri impenetrabili</l>
+          <l>a noi dischiuse Igea;</l>
+          <l>ne manda la gran dèa</l>
+          <l>chi soffre a consolar.</l>
+          <l>Seguaci siam d’Ippocrate,</l>
+          <l>nepoti di Galeno;</l>
+          <l>possiam pur col veleno</l>
+          <l>salute ridonar.</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Grazie, davver, se credono,</l>
+          <l>si ponno accomodar.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Scena Sesta</head>
+        <stage>(Detti, Crispino, Fabrizio,Mirabolano, Contino, tuttiin toga, poi Lisetta a tempo)</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Son tutti medici? Qui cosa fanno?</l>
+          <l>Poveri diavoli, sfigureranno!</l>
+          <l>Quand’io ci sono, io solo basto.</l>
+        </sp>
+        <sp who="#fabrizio, contino">
+          <speaker>FABRIZIO, CONTINO:</speaker>
+          <l>Via, contenetevi…</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Non c’è contrasto.</l>
+        </sp>
+        <sp who="#mirabolano, coro">
+          <speaker>MIRABOLANO, CORO:</speaker>
+          <l>Fra tanti fisici questo impostore!</l>
+          <l>Sarebbe scandalo, saria rossore</l>
+          <l>imperdonabile, più qui restar.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(che frattanto sarà andato</l>
+          <l>ovunque osservando,fra sè)</l>
+          <l>(No, la Comare qui non appar!)</l>
+        </sp>
+        <stage>CRISPINO(che frattanto sarà andatoovunque osservando,fra sè)(No, la Comare qui non appar!)</stage>
+        <sp who="#crispino, coro">
+          <speaker>CRISPINO, CORO:</speaker>
+          <l>Ma dov’è poi la malata?</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>S’è di letto a stento alzata.</l>
+        </sp>
+        <stage>(entra con Mirabolano in una stanza)</stage>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>Il suo male è di languore,</l>
+          <l>è un patema, un crepacuore.</l>
+        </sp>
+        <stage>(Asdrubale e Mirabolano ritornanosorreggendo Lisetta, che Fabrizioadagia sopra una sedia)</stage>
+        <sp who="#contino">
+          <speaker>CONTINO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Qual ti veggo, o mia Lisetta!</l>
+        </sp>
+        <stage>CONTINO(Fra sè)Qual ti veggo, o mia Lisetta!</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>È agli estremi, poveretta!</l>
+        </sp>
+        <sp who="#contino">
+          <speaker>CONTINO:</speaker>
+          <l>(con trasporto)</l>
+          <l>Oh gran dio, morir mi sento!</l>
+        </sp>
+        <stage>CONTINO(con trasporto)Oh gran dio, morir mi sento!</stage>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Qui il contino!… Al tradimento!…</l>
+        </sp>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>Via, da bravo; ora tacete,</l>
+          <l>far tai scene non dovete.</l>
+        </sp>
+        <stage>(i dottori avranno esaminato la malata,e Crispino andrà sempre spiando intornose vedesse mai la Comare)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Non ha un’ora o due di vita…</l>
+          <l>noi la diamo per spedita.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(tastandole gravemente il polso)</l>
+          <l>(La Comare non ci sta!)</l>
+        </sp>
+        <stage>CRISPINO(tastandole gravemente il polso)(La Comare non ci sta!)</stage>
+        <stage>(Fra sè)Questa giovine vivrà.</stage>
+        <sp who="#mirabolano, coro">
+          <speaker>MIRABOLANO, CORO:</speaker>
+          <l>(a Crispino)</l>
+          <l>Via, finiscila, impostore,</l>
+        </sp>
+        <stage>MIRABOLANO, CORO(a Crispino)Via, finiscila, impostore,</stage>
+        <stage>(ad Asdrubale)discacciatelo di qua.</stage>
+        <sp who="#contino">
+          <speaker>CONTINO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Giusto ciel di me pietà!</l>
+        </sp>
+        <stage>CONTINO(Fra sè)Giusto ciel di me pietà!</stage>
+        <stage>(in questo punto il busto della Comarecomparisce improvvisamente ai piedidi don Asdrubale, Crispino se neaccorge ed esclama con gioia:)</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(Fra sè)</l>
+          <l>La Comare!… a tempo è qua!</l>
+        </sp>
+        <stage>CRISPINO(Fra sè)La Comare!… a tempo è qua!</stage>
+        <stage>(Forte)Volete ch’or vi schiccheriil mio pensiero schietto?Questa spedita giovane,sposa del suo diletto,malgrado ogni prognostico,prima di notte andrà!</stage>
+        <stage>(cava una scatola, ne toglie un confetto,e lo mette in bocca a Lisetta)Recipe questa pilulam,salutem ti darà.</stage>
+        <sp who="#mirabolano, coro">
+          <speaker>MIRABOLANO, CORO:</speaker>
+          <l>(ad Asdrubale)</l>
+          <l>Eh basta, vanne al diavolo;</l>
+          <l>cacciatelo di qua.</l>
+        </sp>
+        <stage>MIRABOLANO, CORO(ad Asdrubale)Eh basta, vanne al diavolo;cacciatelo di qua.</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Uno di voi al diavolo</l>
+          <l>tosto per me anderà.</l>
+        </sp>
+        <stage>(Fra sè)Ah la Comare è là!</stage>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>(a Crispino prendendolo per un braccio)</l>
+          <l>Buffone, via di qua.</l>
+        </sp>
+        <stage>ASDRUBALE(a Crispino prendendolo per un braccio)Buffone, via di qua.</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Appunto voi, Asdrubale,</l>
+          <l>io vedo assai malato;</l>
+          <l>da repentina sincope</l>
+          <l>or siete minacciato…</l>
+          <l>A letto, presto a letto,</l>
+          <l>o creperete qua.</l>
+        </sp>
+        <sp who="#asdrubale">
+          <speaker>ASDRUBALE:</speaker>
+          <l>Il ver… pur troppo ha detto!</l>
+          <l>Mancar… mi sento… già.</l>
+        </sp>
+        <stage>(Mirabolano lo accompagna in unastanza; il busto della Comare lo segue)</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Settima</head>
+        <stage>(Detti, meno Mirabolanoed Asdrubale)</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>In vero tal fenomeno</l>
+          <l>ci fa trasecolar!</l>
+        </sp>
+        <sp who="#contino, lisetta">
+          <speaker>CONTINO, LISETTA:</speaker>
+          <l>Ci volle il ciel proteggere,</l>
+          <l>ci volle consolar.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(ai dottori)</l>
+          <l>Asini, allocchi, bufali!</l>
+          <l>Tornatemi a insultar.</l>
+        </sp>
+        <stage>CRISPINO(ai dottori)Asini, allocchi, bufali!Tornatemi a insultar.</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Ottava</head>
+        <stage>(Detti, e Mirabolano che torna)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ebben, che fa?</l>
+        </sp>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>La sincope</l>
+          <l>lo fece già spirar.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Vediamo… soccorriamolo…</l>
+        </sp>
+        <sp who="#mirabolano">
+          <speaker>MIRABOLANO:</speaker>
+          <l>Resuscitar non può.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Per fallo alfin quest’asino</l>
+          <l>la prima indovinò.</l>
+        </sp>
+        <stage>(Mirabolano al sommo inquietato fa aCrispino un gesto minaccioso e parte)</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Contin, dunque sposatela.</l>
+        </sp>
+        <stage>(ai dottori)Voi siate almeno buonidi far da testimoni;compare io qui sarò:quest’è un anel… servitevi…</stage>
+        <stage>(dà un suo anello al Contino,che lo pone in dito a Lisetta)</stage>
+        <sp who="#contino">
+          <speaker>CONTINO:</speaker>
+          <l>Sii mia.</l>
+        </sp>
+        <sp who="#lisetta">
+          <speaker>LISETTA:</speaker>
+          <l>Sii mio.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(compiacendosi)</l>
+          <l>Così.</l>
+        </sp>
+        <stage>CRISPINO(compiacendosi)Così.</stage>
+        <sp who="#contino, lisetta">
+          <speaker>CONTINO, LISETTA:</speaker>
+          <l>FABRIZIO, CRISPINO</l>
+          <l>Un più opportuno recipe</l>
+          <l>nessun dottor spedì!</l>
+        </sp>
+        <stage>(Contino e Fabrizioconducono via Lisetta)</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Nona</head>
+        <stage>(Crispino ed i Dottori)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ora possiamo andarcene,</l>
+          <l>ch’è inutile star qui.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Andate pure al diavolo,</l>
+          <l>andate quanti siete;</l>
+          <l>quei bardamenti nobili,</l>
+          <l>somari, deponete.</l>
+          <l>Andate, e rammentatevi</l>
+          <l>Crispino, e questo dì.</l>
+        </sp>
+        <stage>(entra in istanza di Lisetta)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Andiamo… presto andiamcene,</l>
+          <l>il nostro inferno è qui.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Scena Decima</head>
+        <stage>(Salotto in casa di Crispino.Annetta e vari Parenti ed Amici suoi.I Servi apparecchiano un descocon frittelle, bottiglie ed altro)</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>ANNETTA</head>Entrate pure, francamente entrate;oggi il dottore fu chiamato a Padovae por si deve in barca,dopo un consulto fatto qui vicino.<sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>Entrate pure, francamente entrate;</l>
+        <l>oggi il dottore fu chiamato a Padova</l>
+        <l>e por si deve in barca,</l>
+        <l>dopo un consulto fatto qui vicino.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Quanto guadagna mai questo Crispino!</l>
+      </sp>
+      <sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>Molto!… ma cosa serve?</l>
+        <l>Egli è un miscuglio di contraddizioni.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Dite davvero?</l>
+      </sp>
+      <sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>Per esempio, gioca,</l>
+        <l>spreca di fuori,</l>
+        <l>e in casa fa l’avaro.</l>
+        <l>Bisbetico, irascibile,</l>
+        <l>talvolta allunga ancor troppo le mani.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Chi detto mai l’avria?</l>
+        <l>Farà per gelosia.</l>
+      </sp>
+      <sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>(ridendo)</l>
+        <l>No, no, non n’ha ragione…</l>
+        <l>Ma a noi ora veniamo;</l>
+        <l>e, poiché l’orso anderà un po’ lontano,</l>
+        <l>e siamo in carnovale,</l>
+        <l>per passar un’oretta in allegria</l>
+        <l>frittelle ho apparecchiato e malvasia.</l>
+      </sp>
+      <stage>ANNETTA(ridendo)No, no, non n’ha ragione…Ma a noi ora veniamo;e, poiché l’orso anderà un po’ lontano,e siamo in carnovale,per passar un’oretta in allegriafrittelle ho apparecchiato e malvasia.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Oh cara quell’Annetta!</l>
+      </sp>
+      <sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>Qui, senza cerimonie, or via sediamo.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>E all’innocente gioia il core apriamo,</l>
+      </sp>
+      <stage>(siedono, mangiano, versano, poialzando le tazze, dicono)</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Viva l’Annetta!</l>
+      </sp>
+      <sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>Vivano sempre i parenti e amici!</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>E giorni a noi felici</l>
+        <l>sempre conceda il ciel. Viva!</l>
+      </sp>
+      <sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>Viva!… Di frittole a proposito</l>
+        <l>sentite qual capriccio</l>
+        <l>mi passa per la testa:</l>
+        <l>voglio cantarvi quella canzonetta,</l>
+        <l>che, quando vendea storie, era in gran voga.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Sì, sì, brava davvero, canta, canta.</l>
+      </sp>
+      <sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>Già sapete, è un amante</l>
+        <l>che canta al suo tesoro…</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Sì, sì, il sappiamo</l>
+        <l>e ti faremo il coro.</l>
+      </sp>
+      <sp who="#annetta">
+        <speaker>ANNETTA:</speaker>
+        <l>Piero mio, go qua una fritola,</l>
+        <l>te la vogio regalar;</l>
+        <l>sasto, caro, quanti zoveni</l>
+        <l>la voleva sgnocolar?</l>
+        <l>Marameo, go dito subito,</l>
+        <l>voi salvarla a chi voi mi;</l>
+        <l>al mio vecio vogio dargliela,</l>
+        <l>e quel vecio ti xe ti.</l>
+        <l>Varda ben, prima intendemose,</l>
+        <l>per aver de sto boccon,</l>
+        <l>de arar drito sempre zurime,</l>
+        <l>e resterme fedelon.</l>
+        <l>Ma mi za te lezo l’anema;</l>
+        <l>te capisso, no zurar…</l>
+        <l>Piero mio, ze toa sta fritola,</l>
+        <l>ciapa, tiò, vienla a magnar.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Cori, Piero; quella fritola,</l>
+        <l>no incantarte, va’ a magnar.</l>
+      </sp>
+      <div type="scene">
+        <head>Scena Undicesima</head>
+        <stage>(Detti e Crispino, che compariscesulla porta improvviso)</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(con ira, contraffacendo l’altrui canto)</l>
+          <l>Xe qua Piero, e quella fritola</l>
+          <l>el ve vien a far magnar.</l>
+        </sp>
+        <stage>CRISPINO(con ira, contraffacendo l’altrui canto)Xe qua Piero, e quella fritolael ve vien a far magnar.</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>(alzandosi tutti spaventati e</l>
+          <l>correndo dalla parte opposta)</l>
+          <l>Ah Crispino!</l>
+        </sp>
+        <stage>TUTTI(alzandosi tutti spaventati ecorrendo dalla parte opposta)Ah Crispino!</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Bricconi, birbanti,</l>
+          <l>qui si trinca, si sta allegramente!</l>
+          <l>Cosa sono in mia casa tai canti,</l>
+          <l>qui raccolta che fa tanta gente?</l>
+        </sp>
+        <stage>(rovescia tutto l’apparecchio)</stage>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Ah marito!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Dottore, perdono.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Anco a tempo qui giunto pur sono.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Via, ti calma.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Non voglio risposte…</l>
+          <l>Fuori tutti</l>
+          <l>o vi rompo le coste.</l>
+        </sp>
+        <stage>(prende una sedia ed inveisce)</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Salva, salva!</l>
+        </sp>
+        <stage>(corrono a chiudersi nellevarie stanze)</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(alla porta ov’ è entrata forzandola)</l>
+          <l>E per prima tu, Annetta,</l>
+          <l>esci fuora… briccona… fraschetta…</l>
+          <l>Esci, dico, ti voglio ammazzar…</l>
+        </sp>
+        <stage>CRISPINO(alla porta ov’ è entrata forzandola)E per prima tu, Annetta,esci fuora… briccona… fraschetta…Esci, dico, ti voglio ammazzar…</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Dodicesima</head>
+        <stage>(Crispino, riuscito ad aprire la porta, ècolpito dall’apparizione dellaComare,che se gli presenta sulla porta)</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Tu!… Comare!… non starmi a seccar.</l>
+        </sp>
+        <sp who="#comare">
+          <speaker>COMARE:</speaker>
+          <l>Perché mai tanto rigore?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Vanne al diavolo pur tu.</l>
+        </sp>
+        <sp who="#comare">
+          <speaker>COMARE:</speaker>
+          <l>Così abusi il mio favore?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Io bisogno non ne ho più.</l>
+        </sp>
+        <sp who="#comare">
+          <speaker>COMARE:</speaker>
+          <l>Vero ingrato!</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(minacciandola)</l>
+          <l>Strega! Via!…</l>
+        </sp>
+        <stage>CRISPINO(minacciandola)Strega! Via!…</stage>
+        <sp who="#comare">
+          <speaker>COMARE:</speaker>
+          <l>A me?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Sì. Non mi seccar.</l>
+        </sp>
+        <sp who="#comare">
+          <speaker>COMARE:</speaker>
+          <l>Né paventi l’ira mia?</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>No, no.</l>
+        </sp>
+        <sp who="#comare">
+          <speaker>COMARE:</speaker>
+          <l>No? l’hai da pagar.</l>
+        </sp>
+        <stage>(gli batte sopra una spalla. Crispinocade su d’una sedia svenuto e sisprofonda, e seco lui la Comare)</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Tredicesima</head>
+        <stage>(Sotterraneo. Avanti sono due grandicolossi di pietra bianca sopra nere basi;quello a destra dello spettatorerappresenta il Tempo quello a sinistrailGiudizio. Nel mezzo è uno specchio. LaComare e Crispino, che la segue tremante)</stage>
+        <sp who="#comare">
+          <speaker>COMARE:</speaker>
+          <l>Eccoci giunti.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(guardando intorno)</l>
+          <l>Dove?</l>
+        </sp>
+        <stage>CRISPINO(guardando intorno)Dove?</stage>
+        <sp who="#comare">
+          <speaker>COMARE:</speaker>
+          <l>Nel mio soggiorno.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>CRISPINO</head>Non mi piace affatto.<sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Non mi piace affatto.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Giammai ho inteso che ad alcun piacesse.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Vedete se ho ragion?…</l>
+        <l>ma qui, a quattr’occhi,</l>
+        <l>ditemi un poco, sono vivo, morto,</l>
+        <l>oppur resuscitato?</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Perché vuoi tu esser morto?</l>
+      </sp>
+    </div>
+    <div type="act">
+      <head>CRISPINO</head>Per quella brutta tombolache insieme fatto abbiam, cara Comare.<sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Per quella brutta tombola</l>
+        <l>che insieme fatto abbiam, cara Comare.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Fu una burla, fu scherzo.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Ah! scherzo la chiamate?…</l>
+        <l>Intendiamoci ben…</l>
+        <l>non vo’ più scherzi.</l>
+        <l>Non voglio confidenze.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>E a me così tu parli?</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Che ho da fare?</l>
+        <l>Ho da stare? ho da andare?</l>
+        <l>lo non capisco niente.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Rimanerti.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>E per quanto?</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Eternamente,</l>
+        <l>quando il voglia colui che mi comanda.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Misericordia!… dite, son prigione?</l>
+        <l>Quale paura io provo in tale stanza!</l>
+        <l>I visceri mi fan la contraddanza…</l>
+        <l>Quel muso torto chi è</l>
+        <l>che sta guardando?</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>È il Tempo che mi guida inesorando.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Ahimè che brutto tempo!… è un temporale!…</l>
+        <l>E l’altro là chi è?…</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Il Giudizio che vien dopo di me.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Oh che brutti inquilini,</l>
+        <l>Comare, avete in questo appartamento!</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Ciò non è tutto ancora.</l>
+        <l>Osserva attento.</l>
+      </sp>
+      <stage>(si scoprono gran quantità di urnette dicristallo, entro ognuna delle quali ardeuna fiammella, più o meno vivace;una starà spegnendosi)</stage>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Che cosa fate?… la illuminazione?…</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Son questi i miei registri.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Che razza di scrittura!</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>In ogni ampolla</l>
+        <l>arde la face d’una vita umana.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(Fra sè)</l>
+        <l>È una strega!… pignatte!… pignattelle!</l>
+      </sp>
+      <stage>CRISPINO(Fra sè)È una strega!… pignatte!… pignattelle!</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>D’un adultero</l>
+        <l>è quella che si spegne.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Meno mal ch’io fui sempre fedelone.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Viene appresso un poeta teatrale.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Smoccolate, non fa né ben, né male.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Lo segue un usuraio.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Ah maledetto!</l>
+        <l>Spegnetelo, e con lui tutta la razza.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Un cantante che fa pur l’impresario…</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Olio, olio per lui, cara Comare.</l>
+        <l>E l’altro?</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>È di tua moglie.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Ah com’ è bello!… e il mio?</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>È questo.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Ahi ahi, ahi ahi,</l>
+        <l>sta per finire!</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Hanno i vizi affrettato il tuo morire.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Prendiamo di mia moglie un poco d’olio;</l>
+        <l>mi par che n’ abbia troppo…</l>
+      </sp>
+      <stage>(va per eseguire)</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Un empio sei!</l>
+      </sp>
+      <stage>(i lumi scompariscono)</stage>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(s’avvia)</l>
+        <l>Felicissima notte!…</l>
+        <l>posso andare…</l>
+      </sp>
+      <stage>CRISPINO(s’avvia)Felicissima notte!…posso andare…</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>No, di restar t’impongo…</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Ma Comare…</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>E non sai tu chi sono?</l>
+        <l>Che a me non si resiste?</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Io so che voglio uscir da queste porte…</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Mi riconosci e trema…</l>
+        <l>io son la morte…</l>
+      </sp>
+      <stage>(il suo volto s’inscheletrisce)</stage>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Misericordia!… Aiuto!</l>
+      </sp>
+      <stage>(cade boccone ai suoi piedi)</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Alzatevi, compare…</l>
+      </sp>
+      <stage>(il suo volto riprende la prima forma)</stage>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(sempre nella stessa posizione)</l>
+        <l>Brutta vecchiaccia… via…</l>
+      </sp>
+      <stage>CRISPINO(sempre nella stessa posizione)Brutta vecchiaccia… via…</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Alzatevi.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Non posso,</l>
+        <l>ho perduto le gambe.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Or io v’aiuto.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>No, no, non mi toccate,</l>
+        <l>indietro, indietro!</l>
+      </sp>
+      <stage>(saltando in piedi e correndo per laScena finché s’ incontra faccia a facciacollaComare)</stage>
+      <stage>(mostrando i denti)</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Ad altri non badar,</l>
+        <l>sol pensa a te.</l>
+        <l>Per morire tu stai;</l>
+        <l>questo è il momento,</l>
+        <l>in cui vo’ che qui faccia testamento.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Testamento! niente meno?…</l>
+        <l>Ma il notaro dove sia?</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Egli c’è.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Si mostri almeno.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>II notaro eccolo là.</l>
+      </sp>
+      <stage>(la statua abbasserà il capo)</stage>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Il Giudizio!… Padron mio riverito.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Egli è venuto.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(Fra sè)</l>
+        <l>Buona notte, son perduto,</l>
+        <l>poco o nulla ho da sperar!</l>
+      </sp>
+      <stage>CRISPINO(Fra sè)Buona notte, son perduto,poco o nulla ho da sperar!</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Senti ben quanto vogl’io:</l>
+        <l>de’ tesori accumulati</l>
+        <l>déi lasciar tanti legati.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Dite pur quel che vi par.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Cento doppie a dieci vedove…</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Troveran nuovo marito</l>
+        <l>per tornarlo a far crepar.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Quand’io voglio non c’ è replica…</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(al Giudizio, che ogni volta s’inchinerà</l>
+        <l>in segno d’adesione)</l>
+        <l>Eh pur troppo ho già capito.</l>
+        <l>Scriva pur, signor notar.</l>
+      </sp>
+      <stage>CRISPINO(al Giudizio, che ogni volta s’inchineràin segno d’adesione)Eh pur troppo ho già capito.Scriva pur, signor notar.</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Cento mila bei fiorini</l>
+        <l>di Venezia ai ciabattini…</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Ma signori se diventano</l>
+        <l>le ciabatte</l>
+        <l>poi chi accomoda?</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Taci, ho detto, non parlar…</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Scriva pur, signor notar.</l>
+      </sp>
+      <stage>(la statua come sopra)</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Ad ognun de’ tuoi parenti</l>
+        <l>darai doppie cento e venti…</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>E il milion che avanza poi?</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Alla moglie, ai figli tuoi.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Ben, di questo son contento.</l>
+        <l>Scriva pur, signor notar.</l>
+      </sp>
+      <stage>(la statua come sopra)</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Or compito è il testamento.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Meno male, potrò andare;</l>
+        <l>buona notte, addio, Comare,</l>
+        <l>voi notaro…</l>
+      </sp>
+      <stage>(va per partire)</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Déi restar.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Non vi basta?</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Vieni meco</l>
+        <l>nell’immensa eternità.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>No, verrò più tardi teco.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Vieni.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Aspetta.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>No.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>(commosso)</l>
+        <l>Pietà.</l>
+        <l>Poco cerco, o mia Comare;</l>
+        <l>io non vo’ che mezz’oretta,</l>
+        <l>per vedere la mia Annetta,</l>
+        <l>i miei figli per baciar.</l>
+        <l>Vedi, alfin ti son compare,</l>
+        <l>mi par giusto quanto chiedo;</l>
+        <l>né cattiva sì ti credo</l>
+        <l>da negarmi tal piacer.</l>
+      </sp>
+      <stage>CRISPINO(commosso)Pietà.Poco cerco, o mia Comare;io non vo’ che mezz’oretta,per vedere la mia Annetta,i miei figli per baciar.Vedi, alfin ti son compare,mi par giusto quanto chiedo;né cattiva sì ti credoda negarmi tal piacer.</stage>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Quanto cerchi ti concedo,</l>
+        <l>quello specchio mostra il ver.</l>
+      </sp>
+      <stage>(lo specchio del fondo è improvvisamenteilluminato, e per entro vi si vede lafamiglia di Crispino che prega in coro)</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Nume benefico,</l>
+        <l>salva Crispino,</l>
+        <l>sano ridonalo</l>
+        <l>al nostro amor.</l>
+      </sp>
+      <stage>(finito il canto lo specchionuovamente si oscura)</stage>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Ma la cosa come sta?</l>
+        <l>Son io qua, oppur son là?</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Qui tu sei per illusione,</l>
+        <l>il tuo corpo colà muor.</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Abbi un po’ di compassione,</l>
+        <l>sii pietosa al tuo protetto,</l>
+        <l>tornerò, te lo prometto,</l>
+        <l>buon marito e genitor.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>Lo prometti?</l>
+      </sp>
+      <sp who="#crispino">
+        <speaker>CRISPINO:</speaker>
+        <l>Sì.</l>
+      </sp>
+      <sp who="#comare">
+        <speaker>COMARE:</speaker>
+        <l>L’accorda</l>
+        <l>d’ogni bene il donator.</l>
+      </sp>
+      <div type="scene">
+        <head>Scena Ultima</head>
+        <stage>(Crispino cade svenuto sopra la sedia,e la Scena si trasforma in unastanza dellasua casa, dov’ egli si trova attorniato daiFigli, da Annetta,da Fabrizio, Mirabolano,il Contino, vari Amici e Parenti)</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Ah Crispino, ritorna in te stesso.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(svegliandosi)</l>
+          <l>Dove son?</l>
+        </sp>
+        <stage>CRISPINO(svegliandosi)Dove son?</stage>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>Nelle braccia de’ tuoi.</l>
+        </sp>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>(s’alza)</l>
+          <l>Ho sognato!… sto dunque tra voi?</l>
+        </sp>
+        <stage>CRISPINO(s’alza)Ho sognato!… sto dunque tra voi?</stage>
+        <stage>(ad Annetta)</stage>
+        <sp who="#fabrizio">
+          <speaker>FABRIZIO:</speaker>
+          <l>Fu di bile soverchia un accesso,</l>
+          <l>che ti fece per poco svenire.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Sol concordi si pensi a gioire,</l>
+          <l>s’ora il nembo in seren si cangiò.</l>
+        </sp>
+        <sp who="#annetta">
+          <speaker>ANNETTA:</speaker>
+          <l>(a Crispino)</l>
+          <l>Non ha gioia in tal momento,</l>
+          <l>che somigli al mio contento;</l>
+          <l>quanto prova l’alma mia</l>
+          <l>non può il labbro palesar…</l>
+        </sp>
+        <stage>ANNETTA(a Crispino)Non ha gioia in tal momento,che somigli al mio contento;quanto prova l’alma mianon può il labbro palesar…</stage>
+        <stage>(abbracciandolo)</stage>
+        <sp who="#crispino">
+          <speaker>CRISPINO:</speaker>
+          <l>Ti prometto, Annetta mia,</l>
+          <l>in appresso di cangiar.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Piena gioia intorno sia.</l>
+          <l>T’ha voluto il ciel salvar!</l>
+        </sp>
+      </div>
+    </div>
+  </text>
+</TEI>

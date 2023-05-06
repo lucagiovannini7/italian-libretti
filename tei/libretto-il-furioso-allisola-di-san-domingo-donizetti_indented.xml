@@ -1,0 +1,2477 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">l furioso all’isola di San Domingo</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="fernand">
+            <persName>FERNAND:</persName>
+          </person>
+          <person xml:id="coro ii">
+            <persName>CORO II:</persName>
+          </person>
+          <person xml:id="gli altri">
+            <persName>GLI ALTRI:</persName>
+          </person>
+          <person xml:id="kaidamā">
+            <persName>KAIDAMĀ:</persName>
+          </person>
+          <person xml:id="fernando">
+            <persName>FERNANDO:</persName>
+          </person>
+          <person xml:id="marcella">
+            <persName>MARCELLA:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="f i n e">
+            <persName>F I N E:</persName>
+          </person>
+          <person xml:id="coro i">
+            <persName>CORO I:</persName>
+          </person>
+          <person xml:id="cardenio">
+            <persName>CARDENIO:</persName>
+          </person>
+          <person xml:id="eleonora">
+            <persName>ELEONORA:</persName>
+          </person>
+          <person xml:id="bartolomeo">
+            <persName>BARTOLOMEO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>Spiaggia di mare da un lato. Dall’altra parte folta boscaglia,e rupi erte ed altissime. Scogli sul lido. Il cielo č oscuro,tuona sordamente, e lampeggia. Varii cespugli ed alberi:capanne sparse qua e lā. Rozza panca innanzi ad una capanna.</stage>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Freme il mar, lontan lontano</l>
+        <l>mormorar il tuon si sente.</l>
+        <l>La tempesta, certamente,</l>
+        <l>a scoppiar non tarderā.</l>
+        <l>Chi sa dove il delirante</l>
+        <l>va sforzando il passo errante!</l>
+        <l>Ah, il furor dell’oragāno</l>
+        <l>sulla rupe il coglierā!</l>
+        <l>Sventurato! Il cibo usato</l>
+        <l>qui ritrovi al cespo in seno.</l>
+        <l>Ah! vorrei parlargli almeno!</l>
+        <l>Giovin! Bello!</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Che fai lā?</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Guardo il tempo.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>No, signora</l>
+        <l>a cercar vien sempre fuora</l>
+        <l>il Furioso.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Qual sospetto!</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Me l’ha detto Kaidamā.</l>
+        <l>Qui cos’hai?</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Nulla.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Davvero</l>
+        <l>contrabbando qui v’č sotto.</l>
+        <l>Pane!… Datteri!… Biscotto!…</l>
+        <l>(osservando nel paniere)</l>
+        <l>Mezzo pollo!…</l>
+      </sp>
+      <stage>BARTOLOMEODavverocontrabbando qui v’č sotto.Pane!… Datteri!… Biscotto!…(osservando nel paniere)Mezzo pollo!…</stage>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Fu pietā.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>So per chi. Sempre pietose</l>
+        <l>fur le femmine pei matti.</l>
+        <l>Non l’intendo; e a tutti i patti</l>
+        <l>questo imbroglio finirā.</l>
+        <l>Coi capelli dritti in fronte,</l>
+        <l>mezzo scalzo, disperato,</l>
+        <l>si precipita dal monte,</l>
+        <l>di baston, di sassi armato;</l>
+        <l>e se incontra una persona,</l>
+        <l>la perseguita, l’abbranca,</l>
+        <l>pesta, lapida, bastona,</l>
+        <l>sė la negra che la bianca;</l>
+        <l>ed io devo alimentarlo,</l>
+        <l>anzi quasi ringraziarlo!</l>
+        <l>Questa pillola, figliuola,</l>
+        <l>nella gola non mi va.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Voi leggete in quella fronte</l>
+        <l>come il misero č straziato?</l>
+        <l>Ramingando al bosco, al monte,</l>
+        <l>va da tutti abbandonato.</l>
+        <l>Voi dovete ritrovarlo,</l>
+        <l>dal pericolo salvarlo.</l>
+        <l>V’affrettate! Il tempo vola!</l>
+        <l>Soccorretelo, papā.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Ma giā l’ordine ha il padrone</l>
+        <l>perché venga imprigionato.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Infelice!</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>(Ha pur ragione!)</l>
+        <l>Ed ai pazzi sia mandato.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Cor di tigre!</l>
+      </sp>
+      <stage>Scena secondaKaidamā dall’alto della rupe di dentro, indi in iscena.Escono alle sue grida molti coloni dalle capanne.KAIDAMĀAita, aita!</stage>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Ciel!</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Quai grida?</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>E Kaidamā.</l>
+        <l>(andando verso le falde della rupe)</l>
+        <l>KAIDAMĀ</l>
+        <l>(scende precipitoso dall’alto; e, giunto sull’innanzi del teatro</l>
+        <l>si gitta affannato a sedere in terra; ma alla vista del frustino,</l>
+        <l>sollevato in aria da Bartolomeo, salta in piedi)</l>
+        <l>Per obbedirvi rapido…</l>
+        <l>ecco la storia mia.</l>
+        <l>Scelsi la via brevissima</l>
+        <l>verso la fattoria.</l>
+        <l>Correa per quello sdrucciolo</l>
+        <l>forte la gamba e lesta,</l>
+        <l>quando improvviso… punfete!</l>
+        <l>mi casca un pugno in testa.</l>
+        <l>Fermo, gridavo, e replica</l>
+        <l>piff, paff il pugno a un tratto;</l>
+        <l>bombe parean che sparano.</l>
+        <l>Mi volto…</l>
+      </sp>
+      <stage>BARTOLOMEOE Kaidamā.(andando verso le falde della rupe)KAIDAMĀ(scende precipitoso dall’alto; e, giunto sull’innanzi del teatrosi gitta affannato a sedere in terra; ma alla vista del frustino,sollevato in aria da Bartolomeo, salta in piedi)Per obbedirvi rapido…ecco la storia mia.Scelsi la via brevissimaverso la fattoria.Correa per quello sdruccioloforte la gamba e lesta,quando improvviso… punfete!mi casca un pugno in testa.Fermo, gridavo, e replicapiff, paff il pugno a un tratto;bombe parean che sparano.Mi volto…</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Il matto.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Ah! ah!</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Non v’č da ridere.</l>
+        <l>Triplice fu la botta.</l>
+        <l>Traverso al corpo afferrami</l>
+        <l>strillando: l’hai sedotta?</l>
+        <l>Empio! Delle mie lagrime</l>
+        <l>ti vieni a prender spasso?</l>
+        <l>Dice: le braccia s’aprono,</l>
+        <l>fa rotolarmi a basso.</l>
+        <l>M’alzo ammaccato e livido,</l>
+        <l>m’arrampico carpone,</l>
+        <l>e vedo il matto stringere</l>
+        <l>maiuscolo bastone,</l>
+        <l>e a lunghi passi correre</l>
+        <l>per ripiombar su me.</l>
+        <l>Eroe mi fa il pericolo,</l>
+        <l>mi raccomando ai pič.</l>
+        <l>Ma in dubbio ancor sto d’essere</l>
+        <l>il quondam Kaidamā…</l>
+        <l>Scannatelo, ammazzatelo,</l>
+        <l>o il matto mela fa.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Quanto pių infuria il misero,</l>
+        <l>pių degno č di pietā.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Ad esser pių sollecito</l>
+        <l>cosė t’imparerā.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>I sassi ancor fai ridere,</l>
+        <l>ah! ah! ah! ah! ah! ah!</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>(a Kaidamā)</l>
+        <l>Verso la fattoria</l>
+        <l>tornar bisogna.</l>
+      </sp>
+      <stage>BARTOLOMEO(a Kaidamā)Verso la fattoriatornar bisogna.</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>E il matto?</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>(agitando il frustino)</l>
+        <l>Mira il frustin.</l>
+      </sp>
+      <stage>BARTOLOMEO(agitando il frustino)Mira il frustin.</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Vo via…</l>
+        <l>Scena terza</l>
+        <l>Mentre Kaidamā s’incammina verso la rupe</l>
+        <l>s’ode la voce di Cardenio; indi comparisce lentamente</l>
+        <l>scendendo in vesti lacere, capelli scomposti, pallido, ecc.</l>
+        <l>CARDENIO</l>
+        <l>Raggio d’amore…</l>
+      </sp>
+      <stage>KAIDAMĀVo via…Scena terzaMentre Kaidamā s’incammina verso la rupes’ode la voce di Cardenio; indi comparisce lentamentescendendo in vesti lacere, capelli scomposti, pallido, ecc.CARDENIORaggio d’amore…</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Č lā!</l>
+        <l>(retrocedendo impaurito)</l>
+        <l>CARDENIO</l>
+        <l>Raggio d’amor parea</l>
+        <l>nel primo april degli anni,</l>
+        <l>ma quanto bella, rea</l>
+        <l>maestra era d’inganni.</l>
+        <l>Sul volto avea le rose,</l>
+        <l>le spine ascose in cor.</l>
+        <l>Vieni: l’antico amore</l>
+        <l>m’arde le fibre, ingrata!</l>
+        <l>Vieni, e mi svena il core,</l>
+        <l>tiranna idolatrata.</l>
+      </sp>
+      <stage>KAIDAMĀČ lā!(retrocedendo impaurito)CARDENIORaggio d’amor pareanel primo april degli anni,ma quanto bella, reamaestra era d’inganni.Sul volto avea le rose,le spine ascose in cor.Vieni: l’antico amorem’arde le fibre, ingrata!Vieni, e mi svena il core,tiranna idolatrata.</stage>
+      <stage>BARTOLOMEO e MARCELLA(sottovoce)Piango a quel pianto, e palpito.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>(fra loro)</l>
+        <l>Eppur ci forza a piangere.</l>
+      </sp>
+      <stage>CORO(fra loro)Eppur ci forza a piangere.</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Ohimč! son paralitico.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>&lt; Cosė morrei d’amor! &gt;</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Ei viene…</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Ei viene? Io parto.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Resta.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Pietā non desta?</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Sė: ma vediamo.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Č astratto.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Č matto.</l>
+      </sp>
+      <stage>Cardenio dalla punta d’uno scoglio misura un saltonel mare.CARDENIOMeglio č finirla.</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Lascialo far.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Corriamo.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Donne qui ancor!… Fuggiamo.</l>
+        <l>(veduta Marcella č preso da convulsione,</l>
+        <l>e va via per la rupe)</l>
+        <l>Qui tutto č crudeltā.</l>
+      </sp>
+      <stage>CARDENIODonne qui ancor!… Fuggiamo.(veduta Marcella č preso da convulsione,e va via per la rupe)Qui tutto č crudeltā.</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Tremano, tremano,</l>
+        <l>piegansi entrambe</l>
+        <l>queste magrissime</l>
+        <l>povere gambe;</l>
+        <l>ma il piede immobile</l>
+        <l>s’inchioda qua.</l>
+        <l>Ma dove correre?</l>
+        <l>Come salvarmi?</l>
+        <l>Sempre in pericolo</l>
+        <l>posso trovarmi;</l>
+        <l>di qua sta il matto,</l>
+        <l>la frusta č lā.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Lascia al solito cespo il tuo paniere;</l>
+        <l>la pietā non č colpa. Io sulla rupe</l>
+        <l>m’azzarderō per ritrovarlo: al pianto</l>
+        <l>m’ha forzato il suo canto.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Oh! come vi son grata!</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>(Questo č il punto di far la ritirata!)</l>
+      </sp>
+      <stage>Marcella si ritira nella capanna; ma č preceduta daKaidamā che spiava il momento di non essere osservato.BARTOLOMEOAi lavori. Obbedite.E Kaidamā? Sparė?Era pur qui! Chi sa? Forse galoppaverso la fattoria.(i coloni rientrano nella capanna)Del frustin la magiafa svaporar talvolta la paura.Ma fra quest’aria scuracome il posso cercar? Forse ai suoi gridiritrovarlo potrō; pietā mi guidi.</stage>
+      <stage>Corre su per la rupe.Scena quartaLa tempesta va sempre crescendo; una nave mercantilepassa nel fondo del mare battuta furiosamente dall’onde.I marinai cercano d’ammainare le vele. Kaidamā esceguardingo; indi Marcella, dopo i contadini.KAIDAMĀChe fu? Non so. Vado; il matto? Resto,e se il frustin di botto…</stage>
+      <stage>Marcella esce in punta di piedi, e prendendo inosservataKaidamā per un orecchio.MARCELLABirbante! Ti nascondi? Ora di trottocorri alla fattoria.</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Povero orecchio!</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Impara a far la spia.</l>
+        <l>Cammina.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>E non vedete come č in collera il mar?</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Mio padre ha fretta.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>E se incontro per strada una saetta,</l>
+        <l>e mi ferma, e m’abbruccia, la risposta</l>
+        <l>chi ve la porterā?</l>
+        <l>Agitata dalla burrasca ricomparisce la nave.</l>
+        <l>MARCELLA</l>
+        <l>Guarda… una nave…</l>
+      </sp>
+      <stage>KAIDAMĀE se incontro per strada una saetta,e mi ferma, e m’abbruccia, la rispostachi ve la porterā?Agitata dalla burrasca ricomparisce la nave.MARCELLAGuarda… una nave…</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Guardo.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Se mai la spezzala tempesta?</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Allor sana non resta.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Sventura!</l>
+        <l>Se mai cadono in mar?</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Si azzupperanno,</l>
+        <l>e a viaggiar per terra impareranno.</l>
+      </sp>
+      <stage>Di dentro la nave si grida.VOCISoccorso!… aiuto!</stage>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Aiuto!</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Vado io… farō io.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Sė.</l>
+      </sp>
+      <stage>Dalla nave si spara una cannonata,e Kaidamā cade in terra.KAIDAMĀSon perduto.</stage>
+      <stage>CORO, KAIDAMĀ e MARCELLA(uscendo dalle capanne e aggruppandosi i Coloniverso il mare)Ahi, sciagura! Spumante s’incalzagonfio il flutto, e rimbalza sul lito;e del vento il severo ruggito,si confonde col mugghio del mar!Ciel, pietā! Giā la nave č spezzata!Giā sparisce dall’onde ingoiata!Or che fino č perduta la speme,cielo e mar s’incomincia a placar!(nel tempo di questo Coro, la nave spezzasi;č sommersa; ne passano i frammenti, e fra questivarie persone pericolanti. Eleonora viene gettatafuori da un’onda; mentre tutti si sono allontanatidalla sponda. La procella si calma.)Scena quintaEleonora svenuta e detti.KAIDAMĀEra indigesto il mar. Guarda che imbrogliteneva nello stomaco!… Cospetto!(andando pian piano verso Eleonora)Č femmina, mi pare,o donna almen. Non le vuol manco il mare!</stage>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Oh! come č cara!</l>
+        <l>Marcella ed i coloni alzano Eleonora e la conducono</l>
+        <l>sovra un sasso. Kaidamā, nel cavo della mano raccoglie</l>
+        <l>dell’acqua, e gliela spruzza nel viso.</l>
+        <l>KAIDAMĀ</l>
+        <l>Bell’animaletto!</l>
+      </sp>
+      <stage>MARCELLAOh! come č cara!Marcella ed i coloni alzano Eleonora e la conduconosovra un sasso. Kaidamā, nel cavo della mano raccogliedell’acqua, e gliela spruzza nel viso.KAIDAMĀBell’animaletto!</stage>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Soccorriamola.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Sė: ci vuol dell’acqua.</l>
+        <l>Lasciate fare a me. So quel che dico.</l>
+        <l>In questi casi č il gran rimedio antico.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>(scuotendosi, aprendo gli occhi, e spaventandosi di</l>
+        <l>Kaidamā)</l>
+        <l>Misera! Dove son! Forse piombai</l>
+        <l>gių negli abissi?</l>
+      </sp>
+      <stage>ELEONORA(scuotendosi, aprendo gli occhi, e spaventandosi diKaidamā)Misera! Dove son! Forse piombaigių negli abissi?</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Cosa ha detto?</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Vedi?</l>
+        <l>Ti crede Satanasso.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Bell’incontro!</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Fate cuor: siete viva.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>Io viva? Oh, affanno!</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>E non ci avete gusto?</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>(guardando di nuovo Kaidamā, e gridando spaventata)</l>
+        <l>Ah!</l>
+      </sp>
+      <stage>ELEONORA(guardando di nuovo Kaidamā, e gridando spaventata)Ah!</stage>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Tu le dai timor. Va’ via. Va’ via.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Che bell’effetto di fisonomia!</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Su, coraggio, signora.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>Oh! eccesso di tormento! Io vivo ancora!</l>
+        <l>Ah! lasciatemi, tiranni!</l>
+        <l>Troppi affanni io sento insieme!</l>
+        <l>Morte voglio. A un cor che geme</l>
+        <l>č crudele la pietā.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>Vedea languir quel misero</l>
+        <l>dell’etā sua nel fiore;</l>
+        <l>io l’ingannava, ahi, perfida!</l>
+        <l>e gli giuravo amore.</l>
+        <l>Piangeva alle sue lagrime</l>
+        <l>qual tortora fedele,</l>
+        <l>e con la man crudele</l>
+        <l>poi gli squarciavo il cor.</l>
+        <l>Fuggė. L’amai. Terribile</l>
+        <l>amor mi sorse in petto.</l>
+        <l>Ardo d’un tardo affetto;</l>
+        <l>č mio supplizio amor.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Chi puō frenar le lagrime?</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Quel pianto strazia il cor.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Cosė per farci piangere</l>
+        <l>v’č un’altra matta ancor.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>No, non piangete</l>
+        <l>ai miei lamenti:</l>
+        <l>goder dovete</l>
+        <l>de’ miei tormenti:</l>
+        <l>degli astri merito</l>
+        <l>la crudeltā.</l>
+        <l>E intanto il misero</l>
+        <l>nelle sue pene</l>
+        <l>pietosa lagrima</l>
+        <l>non troverā!</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Se voi sempre sospirate,</l>
+        <l>presto il fiato vi uscirā.</l>
+      </sp>
+      <stage>Scena sestaBartolomeo scendendo dalla rupe e detti.MARCELLAGrondan le vostre vesti, o mia signora,d’onda marina: nella mia capanna,se onorarla volete,sul momento potretele mie vesti indossar da contadina.</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Non andar per le poste, padroncina.</l>
+        <l>Senti prima il papā; sai che talora</l>
+        <l>somiglia a un temporale.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>Il padre vostro</l>
+        <l>irritar non dovete.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Il padre mio</l>
+        <l>č d’un ottimo cor.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Convengo anch’io;</l>
+        <l>ma qualche volta poi pare…</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Che pare?</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Una canna di zucchero,</l>
+        <l>un mazzolin di fiori…</l>
+        <l>umilissimo servo a lor signori.</l>
+        <l>(corre nella capanna)</l>
+        <l>BARTOLOMEO</l>
+        <l>Chi č questa donna?</l>
+      </sp>
+      <stage>KAIDAMĀUna canna di zucchero,un mazzolin di fiori…umilissimo servo a lor signori.(corre nella capanna)BARTOLOMEOChi č questa donna?</stage>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Un’infelice vittima</l>
+        <l>del recente naufragio.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>E che tardate?</l>
+        <l>Sacro il misero č sempre. Entrate, entrate.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>Ah! vacillo… non reggo,</l>
+        <l>le stanche membra…</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Fate cor.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Il braccio</l>
+        <l>appoggiate sul mio.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Coraggio.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Al fine</l>
+        <l>l’aspetto suo crudel potrā la sorte</l>
+        <l>per voi cangiar.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>(entra con Marcella)</l>
+        <l>Lo cangierā la morte.</l>
+      </sp>
+      <stage>ELEONORA(entra con Marcella)Lo cangierā la morte.</stage>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Sulle rupi il Furioso non trovai.</l>
+        <l>Ma, per nuova fortuna, e inaspettata,</l>
+        <l>ritrovo in casa un’altra disperata!</l>
+        <l>(entra)</l>
+        <l>Scena settima</l>
+        <l>Cardenio appoggiato ad un nodoso bastone entrando</l>
+        <l>in iscena dalle falde della rupe; indi Kaidamā dalla capanna.</l>
+        <l>CARDENIO</l>
+        <l>Tutto č velen per me! Per me sconvolto</l>
+        <l>č l’ordin di natura! Aprile istesso</l>
+        <l>sol fecondo č di spine! Amare l’erbe,</l>
+        <l>(gitta il bastone, ed intreccia desolato le mani)</l>
+        <l>amarissimi i pomi. Ardente vampa</l>
+        <l>l’aura spira per me. L’onda del rivo</l>
+        <l>mi par liquido fuoco… E io vivo? Io vivo</l>
+        <l>per vendicarmi… sė… perfida! E come</l>
+        <l>tanto bella, e perché? No, quei begli occhi</l>
+        <l>sospettar non faceano un cor tiranno.</l>
+        <l>Fatal, tremendo inganno!</l>
+        <l>Ma di’: perché tradirmi, Eleonora?</l>
+        <l>Va’, spietata, va’… No, no: t’amo ancora!</l>
+        <l>M’ami ancor tu?… Ti veggo… Oh, il bel sorriso.</l>
+        <l>Caro incanto d’amor, che fa beato</l>
+        <l>anche in mezzo al dolor!.. Ma che? Spergiura!</l>
+        <l>Al mio rivale a lato!</l>
+        <l>No, non mi fuggirai…</l>
+        <l>Il mio pugnal dov’č?… Morrai, morrai.</l>
+        <l>(in atto di vibrar colpi, poi rimanendo immobile)</l>
+        <l>KAIDAMĀ</l>
+        <l>(uscendo gli chiudono la porta dietro)</l>
+        <l>Vado, vado. Stia fermo col frustino.</l>
+        <l>Č un gran brutto destino</l>
+        <l>quel non comandar mai!</l>
+      </sp>
+      <stage>BARTOLOMEOSulle rupi il Furioso non trovai.Ma, per nuova fortuna, e inaspettata,ritrovo in casa un’altra disperata!(entra)Scena settimaCardenio appoggiato ad un nodoso bastone entrandoin iscena dalle falde della rupe; indi Kaidamā dalla capanna.CARDENIOTutto č velen per me! Per me sconvoltoč l’ordin di natura! Aprile istessosol fecondo č di spine! Amare l’erbe,(gitta il bastone, ed intreccia desolato le mani)amarissimi i pomi. Ardente vampal’aura spira per me. L’onda del rivomi par liquido fuoco… E io vivo? Io vivoper vendicarmi… sė… perfida! E cometanto bella, e perché? No, quei begli occhisospettar non faceano un cor tiranno.Fatal, tremendo inganno!Ma di’: perché tradirmi, Eleonora?Va’, spietata, va’… No, no: t’amo ancora!M’ami ancor tu?… Ti veggo… Oh, il bel sorriso.Caro incanto d’amor, che fa beatoanche in mezzo al dolor!.. Ma che? Spergiura!Al mio rivale a lato!No, non mi fuggirai…Il mio pugnal dov’č?… Morrai, morrai.(in atto di vibrar colpi, poi rimanendo immobile)KAIDAMĀ(uscendo gli chiudono la porta dietro)Vado, vado. Stia fermo col frustino.Č un gran brutto destinoquel non comandar mai!</stage>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>(da sé desolato)</l>
+        <l>Fuggi!</l>
+      </sp>
+      <stage>CARDENIO(da sé desolato)Fuggi!</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Coraggio.</l>
+        <l>Cielo, allontana il matto…Eh! tocca a me.</l>
+        <l>Un pugno, poi, cos’č?… Che imbroglio č questo?</l>
+        <l>(inciampando nel bastone; lo raccoglie; indi lo bacia,</l>
+        <l>lo brandisce, e lo ruota in atto di menar colpi)</l>
+        <l>Bel bambucchetto! A tempo ti ritrovo.</l>
+        <l>Sei piovuto dal cielo! Finalmente</l>
+        <l>il matto non č un uomo? E un uom non sono?</l>
+        <l>Se mi scarica un pugno, io lo bastono.</l>
+        <l>(accorgendosi di Cardenio, gitta il bastone e</l>
+        <l>ca de in ginocchio)</l>
+        <l>Misericordia!</l>
+      </sp>
+      <stage>KAIDAMĀCoraggio.Cielo, allontana il matto…Eh! tocca a me.Un pugno, poi, cos’č?… Che imbroglio č questo?(inciampando nel bastone; lo raccoglie; indi lo bacia,lo brandisce, e lo ruota in atto di menar colpi)Bel bambucchetto! A tempo ti ritrovo.Sei piovuto dal cielo! Finalmenteil matto non č un uomo? E un uom non sono?Se mi scarica un pugno, io lo bastono.(accorgendosi di Cardenio, gitta il bastone eca de in ginocchio)Misericordia!</stage>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Anima mia!</l>
+        <l>(stendendo le braccia amorose)</l>
+        <l>KAIDAMĀ</l>
+        <l>Stia fermo.</l>
+        <l>Gių, gių con quelle mani.</l>
+        <l>Son scherzi da villani.</l>
+      </sp>
+      <stage>CARDENIOAnima mia!(stendendo le braccia amorose)KAIDAMĀStia fermo.Gių, gių con quelle mani.Son scherzi da villani.</stage>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Oh, quanto! Oh, quanto</l>
+        <l>io smaniavo per te! Sentiami attratto</l>
+        <l>da un arcano potere…</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Io niente affatto.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Perché tremi?</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>E un’usanza</l>
+        <l>che non posso lasciar.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Mio ben!</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Mio male!</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Fior di vera beltā!</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Ma io son Kaidamā.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Povero moro!</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Ma povero davvero!</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Hai fame?</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>E come!</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Senti: un’alma pietosa entro quel cespo</l>
+        <l>mi provvede ogni dė. Mangiamo insieme.</l>
+        <l>(corre nel cespo, cava il paniere e le provvisioni,</l>
+        <l>e siedono l’uno contro l’altro a cavallo alla panca)</l>
+        <l>KAIDAMĀ</l>
+        <l>(Complimenti indigesti!)</l>
+      </sp>
+      <stage>CARDENIOSenti: un’alma pietosa entro quel cespomi provvede ogni dė. Mangiamo insieme.(corre nel cespo, cava il paniere e le provvisioni,e siedono l’uno contro l’altro a cavallo alla panca)KAIDAMĀ(Complimenti indigesti!)</stage>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Ma dimmi: non sapesti</l>
+        <l>mai, mai nuove di lei!</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Matto mio caro…</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Non chiamarmi cosė.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Savio mio bello!</l>
+        <l>Davver nulla ne so.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Vedi: una volta</l>
+        <l>noi pranzavamo insiem dietro un boschetto.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Si mangia bene al fresco.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Noi stavamo cosė: l’un contro l’altro.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>(mangiando il pollo)</l>
+        <l>Bellissimo tablō!</l>
+      </sp>
+      <stage>KAIDAMĀ(mangiando il pollo)Bellissimo tablō!</stage>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Colei</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Mangiava</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>No.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Mangio io.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Taceva, e mi guardava.</l>
+        <l>Dei begli occhi i lampi ardenti</l>
+        <l>rispondeano agli occhi miei,</l>
+        <l>rinnovando i giuramenti</l>
+        <l>che il bel labbro articolō.</l>
+        <l>La sua man la mia stringea</l>
+        <l>qui su i palpiti del core…</l>
+        <l>Mano iniqua, ingiusta rea!</l>
+        <l>La mia morte poi segnō.</l>
+        <l>(improvvisamente scagliando la mano di</l>
+        <l>Kaidamā sulla panca)</l>
+        <l>KAIDAMĀ</l>
+        <l>Mano mia, che avevi fatto</l>
+        <l>da soffrir sė gran dolore?</l>
+        <l>Ma del matto fu pių matto</l>
+        <l>chi la man gli consegnō.</l>
+      </sp>
+      <stage>CARDENIOTaceva, e mi guardava.Dei begli occhi i lampi ardentirispondeano agli occhi miei,rinnovando i giuramentiche il bel labbro articolō.La sua man la mia stringeaqui su i palpiti del core…Mano iniqua, ingiusta rea!La mia morte poi segnō.(improvvisamente scagliando la mano diKaidamā sulla panca)KAIDAMĀMano mia, che avevi fattoda soffrir sė gran dolore?Ma del matto fu pių mattochi la man gli consegnō.</stage>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>La conosci?</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>No.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Tu menti.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Anzi sė: siamo amiconi.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Ecco il reo, che ai tradimenti</l>
+        <l>il mio bene trascinō.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Ma vi pare!</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Ed or dov’č?</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Stava lā; ma poi sparė.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Qualche volta pensa a me?</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Sė, no, sė, no, no, sė, sė.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Il rimorso la cangiō?</l>
+        <l>Qualche volta piangerā.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Sė, signore, la cangiō.</l>
+        <l>Se ne ha voglia, piangerā.</l>
+      </sp>
+      <stage>Cardenio improvvisamente passa dallo sdegno allapreghiera con le mani protese, implorando pietā daKaidamā.CARDENIODunque mangiar non vuoi?Cotanto ingrata sei!</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Ma va pe’ fatti tuoi;</l>
+        <l>ch’io vo pe’ fatti miei.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Ma un pezzo di biscotto,</l>
+        <l>idolo mio! …</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>No, no.</l>
+        <l>(Io tanto gonfio e abbotto,</l>
+        <l>che or ora schiatterō.)</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Barbara!… Io piango!</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Eh! via.</l>
+        <l>Non pianger pių: mangiamo.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Mangiar!.. Chi!.. Tu?</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Ci siamo!</l>
+        <l>Il tempo si cangiō.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Deciditi: la voglio.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>E chi ce l’ha?</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Rendila.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Che ho da rendere? Si sa?</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Era il sorriso de’ giorni miei:</l>
+        <l>da lei diviso tutto perdei.</l>
+        <l>Un’alma ardita me l’ha rapita;</l>
+        <l>ma fin nell’Erebo la troverō.</l>
+        <l>Rendimi, rendimi l’anima mia,</l>
+        <l>vedi ch’io spasimo di gelosia.</l>
+        <l>Pių di contento non ho un momento,</l>
+        <l>e in tanto strazio viver non so.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Ah! ne vuol troppo la stella mia!</l>
+        <l>Lasciami in pace, matto! va via.</l>
+        <l>Non so se in testa ho pių la testa.</l>
+        <l>Eh! via, finiscila che far non so.</l>
+        <l>Son paralitico per lo spavento.</l>
+        <l>Ma pure a correre farei col vento.</l>
+        <l>Ad eclissarmi vorrei provarmi.</l>
+        <l>Trecento miglia scappando andrō.</l>
+      </sp>
+      <stage>Cardenio afferra una pietra, e cerca lanciarlacontro Kaidamā.Scena ottavaBartolomeo esce dalla capanna; alla sua vista Cardeniogitta la pietra, e corre su per la rupe; e Kaidamā,profittando del momento, con un salto corre nella capanna.BARTOLOMEOQuale strepito č questo? Intendo, intendo:or non mi fuggirai.Tornato č il ciel sereno;ti rinverrō delle tue rupi in seno.(corre per la via percorsa da Cardenio)</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Ecco alfin l’onde tranquille</l>
+        <l>al soffiar d’aure seconde.</l>
+        <l>Delle Antille sulle sponde</l>
+        <l>fra i perigli si volō.</l>
+        <l>Se verace corse il grido</l>
+        <l>questo č il lido, il monte č quello</l>
+        <l>dove il misero fratello</l>
+        <l>da una perfida ingannato,</l>
+        <l>delle selve fra l’orrore</l>
+        <l>ramingando disperato,</l>
+        <l>il suo sdegno, il suo dolore,</l>
+        <l>le sue lagrime celō.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Sė, questo č il lido. Oh, mio Cardenio!</l>
+        <l>Oh, mio sospirato germano,</l>
+        <l>io qui ti rivedrō? La mesta madre</l>
+        <l>fra i caldi, impazienti</l>
+        <l>palpiti del desir conta i momenti;</l>
+        <l>e qui del mio germano,</l>
+        <l>io stesso andrō sull’orme. Il cielo arrida</l>
+        <l>alla speme d’un cor che in lui confida.</l>
+        <l>Al mio desir s’oppose</l>
+        <l>tutto il furor de’ venti;</l>
+        <l>ma quindi a’ miei tormenti</l>
+        <l>l’ira del ciel calmō.</l>
+        <l>Dio di bontā, confortami</l>
+        <l>d’una speranza almeno!</l>
+        <l>Dammi, ch’io possa stringerlo</l>
+        <l>meno infelice al seno:</l>
+        <l>dammi, ch’io possa renderlo</l>
+        <l>pietoso al mio desir;</l>
+        <l>che d’una madre il gemere,</l>
+        <l>possa per lui finir.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Il ciel vorrā sorridere clemente al tuo desir.</l>
+        <l>I marinai tornano a bordo del vascello.</l>
+        <l>FERNANDO</l>
+        <l>Ma chi scorta mi fia fra queste rupi?</l>
+        <l>Mi sorride fortuna. Da quel moro</l>
+        <l>saprō il miglior cammino.</l>
+      </sp>
+      <stage>COROIl ciel vorrā sorridere clemente al tuo desir.I marinai tornano a bordo del vascello.FERNANDOMa chi scorta mi fia fra queste rupi?Mi sorride fortuna. Da quel morosaprō il miglior cammino.</stage>
+      <stage>Scena decimaKaidamā dalla capanna e detti.KAIDAMĀMaledetto frustino!Quel tuo zig zag ora obbedir mi fa,precisamente contro volontā.</stage>
+      <sp who="#fernand">
+        <speaker>FERNAND:</speaker>
+        <l>O Negro?</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Bianco?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Sai dirmi ove mai sia…</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Bartolomeo Nargelos mio padrone…</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Non lo conosco.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Non m’importa.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Io cerco</l>
+        <l>un povero infelice.</l>
+        <l>Che lā fra quelle balze</l>
+        <l>disperato s’aggira, e mentecatto.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Lo spacciator dei pugni? … Insomma il matto?</l>
+        <l>Che? Gli sei amico?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Oh! molto!</l>
+        <l>Suo fratello son io. Le sue sciagure</l>
+        <l>io divido con lui; dai mali suoi</l>
+        <l>anch’io mi sento oppresso.</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Dai suoi mali?… Alla larga? Con permesso.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Perché fuggi?</l>
+      </sp>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Non soffri i mali suoi?</l>
+        <l>Or dunque č cosa certa</l>
+        <l>ch’hai dei pugni anche tu la zecca aperta.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Eccoti un pugno d’oro.</l>
+        <l>(dandogli delle monete)</l>
+        <l>KAIDAMĀ</l>
+        <l>Ah! questi pugni</l>
+        <l>mi vanno proprio al core.</l>
+        <l>Sono con voi, signore,</l>
+        <l>ma in caso difendetemi.</l>
+        <l>Io vo alla fattoria</l>
+        <l>e nell’andar v’insegnerō la via.</l>
+      </sp>
+      <stage>FERNANDOEccoti un pugno d’oro.(dandogli delle monete)KAIDAMĀAh! questi pugnimi vanno proprio al core.Sono con voi, signore,ma in caso difendetemi.Io vo alla fattoriae nell’andar v’insegnerō la via.</stage>
+      <stage>Salgono uniti la rupe.Interno d’una gran capanna abitata da Bartolomeo, alladestra degli attori porta, da cui in lontananza si scorge ilmare, e parte d’un bosco. Una corda che pende vicinaalla porta a destra accenna una campana destinata aconvocare i contadini della fattoria. In fondo a sinistraporta che mette all’interno d’altra capanna. Rozze sedie.La volta della capanna č sostenuta da un gran troncod’albero ritto nel mezzo.Scena undicesimaDalla porta a sinistra Marcella conducendo per manoEleonora vestita da contadina, indi dalla porta a destrai contadini.ELEONORAChe il sorriso mio primieroa brillar ritorni in me,non lo credo, non lo spero,pių innocente il cor non č.</stage>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Per vederti il col sereno</l>
+        <l>il mio sangue verserei.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>Non mi stringi pių al tuo seno</l>
+        <l>se ti svelo i falli miei.</l>
+        <l>Traditrice, ingannatrice…</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Giā men rea ti fa quel pianto.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>Ma non sai che geme intanto</l>
+        <l>una vittima per me?</l>
+        <l>Sappi.</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Narra.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Via, sgombrate:</l>
+        <l>(accorrendo dalla porta a destra)</l>
+        <l>affrettate altrove il pič.</l>
+        <l>Il padron qua vien col matto:</l>
+        <l>(sottovoce a Marcella tirandola in disparte)</l>
+        <l>lo scorgemmo da lontano,</l>
+        <l>ci fea cenno con la mano</l>
+        <l>di venirvi ad avvisar.</l>
+        <l>(partono)</l>
+        <l>MARCELLA</l>
+        <l>Pių segreta i casi tuoi vieni, o cara, a palesar.</l>
+      </sp>
+      <stage>COROVia, sgombrate:(accorrendo dalla porta a destra)affrettate altrove il pič.Il padron qua vien col matto:(sottovoce a Marcella tirandola in disparte)lo scorgemmo da lontano,ci fea cenno con la manodi venirvi ad avvisar.(partono)MARCELLAPių segreta i casi tuoi vieni, o cara, a palesar.</stage>
+      <stage>Entrando a sinistra.Scena dodicesimaBartolomeo precede Cardenio ch’entra sospettoso, ma calmato.CARDENIO(arrestandosi sulla soglia)Dove mi traggi?</stage>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Il voglio.</l>
+        <l>(traendolo con dolce violenza)</l>
+        <l>CARDENIO</l>
+        <l>Non mi tradir.</l>
+      </sp>
+      <stage>BARTOLOMEOIl voglio.(traendolo con dolce violenza)CARDENIONon mi tradir.</stage>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>T’avanza:</l>
+        <l>m’č sacro il tuo cordoglio.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Qual nutri tu speranza?</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Saper d’un cor che geme</l>
+        <l>il duol segreto…</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Ah! mai!</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Mescere il pianto insieme.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Con me tu piangerai?</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Sė, teco io piangerō.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>A ché mi sforzi!</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Abbracciami.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Il velo io squarcerō.</l>
+        <l>Storia saprai di lagrime.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Narrala, il pianto frena.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Vive un german pių giovane;</l>
+        <l>m’č patria Cartagena.</l>
+        <l>Ricco, onorato, provvido</l>
+        <l>il padre commerciante.</l>
+        <l>Studiō de’ figli l’indole,</l>
+        <l>fu d’educarci amante.</l>
+        <l>Nacqui poeta, e fervido</l>
+        <l>l’estro bolliami e il cor.</l>
+        <l>Di portoghese vergine</l>
+        <l>visto il fatal sorriso…</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Segui.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Le fibre m’arsero,</l>
+        <l>parmi da me diviso.</l>
+        <l>Figlia adorata ed unica,</l>
+        <l>pari a me d’anni e stato,</l>
+        <l>d’amor rispose ai palpiti</l>
+        <l>col guardo innamorato;</l>
+        <l>e i genitor sorrisero</l>
+        <l>allo svelato amor.</l>
+        <l>Ma l’oceano istabile</l>
+        <l>con l’onde irate e rotte</l>
+        <l>vascel di merci carico</l>
+        <l>dote, e speranze inghiotte.</l>
+        <l>Al fondo in cui precipita</l>
+        <l>dā un guardo il padre, e more;</l>
+        <l>ella mendica ed orfana</l>
+        <l>da me non spera amore.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>E il padre vostro?</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Ferreo,</l>
+        <l>d’amarla allor vietō.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>E voi?</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Lo sprezzo.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Incauto!</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>D’amor furente e cieco</l>
+        <l>sposo la bella, e rapido</l>
+        <l>lungi con me la reco:</l>
+        <l>vecchia parente accolsela.</l>
+        <l>Al mar m’affido; provo</l>
+        <l>fausto il destin; ma cenere</l>
+        <l>il padre mio ritrovo,</l>
+        <l>che il suo paterno fulmine,</l>
+        <l>morendo a me scagliō.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Sventura orrenda!</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Ascoltami,</l>
+        <l>il tuo terror sospendi.</l>
+      </sp>
+      <stage>Scena tredicesimaEleonora ritenuta da Marcellarimanendo nel fondo, e sceneggiando secondo la diversitādegli affetti da cui č commossa, e detti.ELEONORAČ la sua voce.</stage>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Il barbaro</l>
+        <l>fin de’ miei casi intendi.</l>
+        <l>Tutto rapito aveami,</l>
+        <l>tradiami nel mistero:</l>
+        <l>seguito avea la perfida</l>
+        <l>un seduttore.</l>
+      </sp>
+      <stage>CARDENIOIl barbarofin de’ miei casi intendi.Tutto rapito aveami,tradiami nel mistero:seguito avea la perfidaun seduttore.</stage>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>E vero!</l>
+      </sp>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Voi forse…</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>Io son.</l>
+      </sp>
+      <stage>ELEONORAIo son.</stage>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>Celatevi.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>Non merito pietā.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Calmatevi</l>
+        <l>in sen dell’amistā.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>(balzando in piedi)</l>
+        <l>Seguo i suoi passi… oh, rabbia!</l>
+        <l>col reo la trovo. Allora</l>
+        <l>tento svenarlo. Involasi.</l>
+        <l>Su lei… L’amavo ancora!</l>
+      </sp>
+      <stage>CARDENIO(balzando in piedi)Seguo i suoi passi… oh, rabbia!col reo la trovo. Alloratento svenarlo. Involasi.Su lei… L’amavo ancora!</stage>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Ed ella?</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Oh, strazio! Insultami.</l>
+        <l>Con un sorriso amaro</l>
+        <l>mi sprezza. Un mar di lagrime</l>
+        <l>questi occhi miei versaro!</l>
+      </sp>
+      <stage>Scena quattordicesimaFernando con Kaidamā dalla porta esterna, e detti.FERNANDOMa qui sperarne indizio…</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Zitto, che il matto č lā.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Deliro: un vivo incendio</l>
+        <l>circola nelle vene.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Frenetico,</l>
+        <l>oppresso da catene,</l>
+        <l>chiamavo ognor la perfida,</l>
+        <l>il mio fratel chiamavo.</l>
+        <l>Sciolto, fuggivo; inospito</l>
+        <l>deserto ricercavo.</l>
+        <l>Lungi cosė da femmine</l>
+        <l>qui vivo, e qui morrō.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>No, di quest’alma i palpiti</l>
+        <l>frenare io pių non so.</l>
+        <l>(trattenuto da Kaidamā)</l>
+        <l>Voglio al mio petto stringerlo;</l>
+        <l>a lui mostrarmi io vo’.</l>
+      </sp>
+      <stage>FERNANDONo, di quest’alma i palpitifrenare io pių non so.(trattenuto da Kaidamā)Voglio al mio petto stringerlo;a lui mostrarmi io vo’.</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>(a Fernando)</l>
+        <l>Che il capo non vi stritoli</l>
+        <l>io garanzia non fo.</l>
+      </sp>
+      <stage>KAIDAMĀ(a Fernando)Che il capo non vi stritoliio garanzia non fo.</stage>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>(a Marcella che la trattiene)</l>
+        <l>Che a lui men voli, ah! lasciami:</l>
+        <l>pianger, spirare io vo’.</l>
+        <l>No, non sarō pių misera</l>
+        <l>se a’ piedi suoi morrō.</l>
+      </sp>
+      <stage>ELEONORA(a Marcella che la trattiene)Che a lui men voli, ah! lasciami:pianger, spirare io vo’.No, non sarō pių miserase a’ piedi suoi morrō.</stage>
+      <sp who="#marcella">
+        <speaker>MARCELLA:</speaker>
+        <l>(ad Eleonora)</l>
+        <l>Restate ancor. Frenatevi.</l>
+        <l>Non č ancor tempo, no.</l>
+      </sp>
+      <stage>MARCELLA(ad Eleonora)Restate ancor. Frenatevi.Non č ancor tempo, no.</stage>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Amico! Al sen stringetemi;</l>
+        <l>tutto per voi farō.</l>
+        <l>Figlio! Le vostre lagrime</l>
+        <l>pietoso io tergerō.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Risparmia quelle lagrime,</l>
+        <l>il pianto tuo non vo’.</l>
+        <l>Io solo devo piangere:</l>
+        <l>me il fato fulminō.</l>
+      </sp>
+      <sp who="#bartolomeo">
+        <speaker>BARTOLOMEO:</speaker>
+        <l>Fra spechi, rupi e selve</l>
+        <l>deh! pių non gite errando.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Gli uomini a me son belve.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Anche il fratel?</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Fernando!</l>
+        <l>Tu qui?… Tu meco! Oh gioia!</l>
+      </sp>
+      <stage>FERNANDO e CARDENIO(abbracciandosi)Oh, sospirato amplesso!</stage>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Odiar pių non so adesso.</l>
+      </sp>
+      <stage>Eleonora improvvisamente sciogliendosi dalle braccia diMarcella e gettandosi ai piedi di Cardenio in un piantodirotto.ELEONORAOdiar non puoi?</stage>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Che!</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>In lagrime…</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Stelle!</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>Al tuo piede io sono.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Eleonora!</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Lasciami.</l>
+        <l>(quasi commosso dopo averla guardata alla sfuggita)</l>
+        <l>ELEONORA</l>
+        <l>La morte, o il tuo perdono.</l>
+      </sp>
+      <stage>CARDENIOLasciami.(quasi commosso dopo averla guardata alla sfuggita)ELEONORALa morte, o il tuo perdono.</stage>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Non ti conosco.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>Uccidimi.</l>
+        <l>L’onor ti renda ardito.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Perfidi tutti!</l>
+        <l>(cominciando ad esser preso da un tremito convulso)</l>
+        <l>MARCELLA, BARTOLOMEO e FERNANDO</l>
+        <l>Ascoltala.</l>
+      </sp>
+      <stage>CARDENIOPerfidi tutti!(cominciando ad esser preso da un tremito convulso)MARCELLA, BARTOLOMEO e FERNANDOAscoltala.</stage>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Tremate. Io fui tradito.</l>
+        <l>Ov’č un pugnal?</l>
+      </sp>
+      <stage>Scena quindicesimaKaidamā spaventato corre al cordone della campana,suona a distesa, ed al suono accorrono i coloni.KAIDAMĀLegatelo.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Fermo!</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Sgombrate il passo.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>Io ti oltraggiai: ti vendica.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>A tanto io non m’abbasso.</l>
+        <l>Sento il furor risorgere.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>Io non ti lascio.</l>
+      </sp>
+      <sp who="#cardenio">
+        <speaker>CARDENIO:</speaker>
+        <l>Va’.</l>
+        <l>Donna iniqua! E non rammenti</l>
+        <l>le tue frodi, i giuramenti?</l>
+        <l>Non ti bastan per trofei</l>
+        <l>Le mie smanie? I pianti miei?</l>
+        <l>Sfidi il vento, varchi il mare</l>
+        <l>per venirmi a tormentare,</l>
+        <l>per straziarmi, lacerarmi</l>
+        <l>lentamente a brani il cor!</l>
+        <l>Ah! fuggite! Mi lasciate!</l>
+        <l>Involatevi! Tremate.</l>
+        <l>Odio tutti, odio me stesso;</l>
+        <l>fin del sole io sento orror!</l>
+        <l>Lungi, lungi dal tuo sesso,</l>
+        <l>sesso infido, ingannator.</l>
+      </sp>
+      <sp who="#eleonora">
+        <speaker>ELEONORA:</speaker>
+        <l>Nel mio sguardo mezzo spento</l>
+        <l>mira espresso il pentimento.</l>
+        <l>Non fuggirmi; ne morrei.</l>
+        <l>Cedi, cedi a’ pianti miei.</l>
+        <l>Ho varcato tanto mare</l>
+        <l>per venirti a ritrovare,</l>
+        <l>per svelarti, per mostrarti</l>
+        <l>come spasima il mio cor.</l>
+        <l>Ah! che fugga non lasciate!</l>
+        <l>D’una misera tremate:</l>
+        <l>dal tuo sprezzo il core oppresso</l>
+        <l>non desia che il tuo furor.</l>
+        <l>(a Cardenio)</l>
+        <l>M’apri il seno, e leggi in esso,</l>
+        <l>ch’io per te morrō d’amor.</l>
+      </sp>
+      <stage>ELEONORANel mio sguardo mezzo spentomira espresso il pentimento.Non fuggirmi; ne morrei.Cedi, cedi a’ pianti miei.Ho varcato tanto mareper venirti a ritrovare,per svelarti, per mostrarticome spasima il mio cor.Ah! che fugga non lasciate!D’una misera tremate:dal tuo sprezzo il core oppressonon desia che il tuo furor.(a Cardenio)M’apri il seno, e leggi in esso,ch’io per te morrō d’amor.</stage>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>In quel volto, in quell’accento</l>
+        <l>non ravvisi il pentimento?</l>
+        <l>(a Cardenio)</l>
+        <l>No, lasciarla tu non déi.</l>
+        <l>Ah! ti calma ai prieghi miei.</l>
+        <l>Se varcato ha tanto mare</l>
+        <l>per venirti a ritrovare,</l>
+        <l>per parlarti, per placarti,</l>
+        <l>no, non mente il suo dolor.</l>
+        <l>Ah! che fugga, non lasciate:</l>
+        <l>o salvarlo disperate.</l>
+        <l>Non vedete? Ha in fronte espresso</l>
+        <l>il delirio del furor.</l>
+        <l>Ah! mi manca il core oppresso,</l>
+        <l>giā presago di terror.</l>
+      </sp>
+      <stage>FERNANDOIn quel volto, in quell’accentonon ravvisi il pentimento?(a Cardenio)No, lasciarla tu non déi.Ah! ti calma ai prieghi miei.Se varcato ha tanto mareper venirti a ritrovare,per parlarti, per placarti,no, non mente il suo dolor.Ah! che fugga, non lasciate:o salvarlo disperate.Non vedete? Ha in fronte espressoil delirio del furor.Ah! mi manca il core oppresso,giā presago di terror.</stage>
+      <sp who="#kaidamā">
+        <speaker>KAIDAMĀ:</speaker>
+        <l>Ah! fuggir, scappar lo fate;</l>
+        <l>(ora a Bartolomeo ora a Marcella, ora ai coloni)</l>
+        <l>se vi coglie, singhiozzate.</l>
+        <l>Delle furie nell’eccesso</l>
+        <l>d’una vipera č peggior.</l>
+        <l>De’ suoi pugni il segno impresso</l>
+        <l>serberā quattr’anni ancor.</l>
+      </sp>
+      <stage>KAIDAMĀAh! fuggir, scappar lo fate;(ora a Bartolomeo ora a Marcella, ora ai coloni)se vi coglie, singhiozzate.Delle furie nell’eccessod’una vipera č peggior.De’ suoi pugni il segno impressoserberā quattr’anni ancor.</stage>
+      <stage>MARCELLA, BARTOLOMEO e CORO(a Cardenio circondandolo)Ah! tremar, gelar ci fate;arrestatevi, ascoltate.Vi commova quell’eccessodi rimorso e di dolor.Ah! non ode! Ha in volto impressoil tumulto del suo cor.</stage>
+      <stage>Cardenio atterra alcuni coloni che gli si attraversano;s’invola seguito da Fernando; ed intanto Eleonora,gittando un grido altissimo, cade svenuta in braccio diMarcella.</stage>
+      <stage> </stage>
+      <div type="act">
+        <head>ATTO SECONDO</head>
+        <sp who="#atto secondo">
+          <speaker>ATTO SECONDO:</speaker>
+        </sp>
+        <stage>Spiaggia di mare.Scena primaKaidamā nel mezzo venendo dalla rupe, indi parte dei Coloniche giunge dal bosco, e parte dal di dietro delle capanne.CORO ILā non v’č.</stage>
+        <sp who="#coro ii">
+          <speaker>CORO II:</speaker>
+          <l>Neppur qui.</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Dove sta?</l>
+        </sp>
+        <sp who="#coro i">
+          <speaker>CORO I:</speaker>
+          <l>Ci fuggė.</l>
+        </sp>
+        <sp who="#coro ii">
+          <speaker>CORO II:</speaker>
+          <l>S’involō.</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Svaporō.</l>
+        </sp>
+        <sp who="#coro i">
+          <speaker>CORO I:</speaker>
+          <l>Ma il padron che dirā?</l>
+        </sp>
+        <sp who="#coro ii">
+          <speaker>CORO II:</speaker>
+          <l>Che dirā?</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Che dirā?… Che farā giā lo so.</l>
+          <l>Col frustino si sfoga su me,</l>
+          <l>col frustino che ha tanta virtų,</l>
+          <l>che fa l’ali spuntare al mio pič.</l>
+          <l>Col ziff-zaff e di sotto e di su.</l>
+        </sp>
+        <sp who="#coro i">
+          <speaker>CORO I:</speaker>
+          <l>Pių non tardiam.</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Andiam.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Voliam.</l>
+          <l>(vanno lungo il mare, e si perdono di vista)</l>
+          <l>Scena seconda</l>
+          <l>Cardenio nel massimo furore, scendendo</l>
+          <l>precipitosamente dalla rupe.</l>
+          <l>CARDENIO</l>
+          <l>Lasciatemi! Lasciatemi!… Crudeli!</l>
+          <l>Ah! v’ho delusi! Era pur l’empia!… Il cenno</l>
+          <l>avea sul labbro, di mia morte il cenno…</l>
+          <l>Sė, si, morrō. Si appagheran quell’ire.</l>
+          <l>Ma vo’ pria vendicarmi e poi morire.</l>
+          <l>Qual fragore!… Ah! son dessi? Ove m’ascondo.</l>
+          <l>(correndo verso la capanna)</l>
+          <l>Scena terza</l>
+          <l>Voce di Eleonora dentro la capanna; indi</l>
+          <l>Eleonora ritenuta da Marcella e detto.</l>
+          <l>ELEONORA</l>
+          <l>(di dentro)</l>
+          <l>Ah, per pietā! Vo’ rivederlo.</l>
+        </sp>
+        <stage>TUTTIVoliam.(vanno lungo il mare, e si perdono di vista)Scena secondaCardenio nel massimo furore, scendendoprecipitosamente dalla rupe.CARDENIOLasciatemi! Lasciatemi!… Crudeli!Ah! v’ho delusi! Era pur l’empia!… Il cennoavea sul labbro, di mia morte il cenno…Sė, si, morrō. Si appagheran quell’ire.Ma vo’ pria vendicarmi e poi morire.Qual fragore!… Ah! son dessi? Ove m’ascondo.(correndo verso la capanna)Scena terzaVoce di Eleonora dentro la capanna; indiEleonora ritenuta da Marcella e detto.ELEONORA(di dentro)Ah, per pietā! Vo’ rivederlo.</stage>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>(indietreggiando convulso)</l>
+          <l>É questa,</l>
+          <l>questa la voce sua. Voce tiranna,</l>
+          <l>che detesto ed adoro!</l>
+          <l>T’apri, o terra, e m’ascondi… Io manco, io moro!</l>
+          <l>(gli mancano le forze nel fuggire e cade)</l>
+        </sp>
+        <stage>CARDENIO(indietreggiando convulso)É questa,questa la voce sua. Voce tiranna,che detesto ed adoro!T’apri, o terra, e m’ascondi… Io manco, io moro!(gli mancano le forze nel fuggire e cade)</stage>
+        <sp who="#marcella">
+          <speaker>MARCELLA:</speaker>
+          <l>Ma il padre mio…</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Ma il mio dover… L’offesi</l>
+          <l>ingrata, ingiusta, infida;</l>
+          <l>mi perdoni pietoso, o qui mi uccida.</l>
+        </sp>
+        <sp who="#marcella">
+          <speaker>MARCELLA:</speaker>
+          <l>Deh! m’odi almen…</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Lo voglio… eccolo… Ah!</l>
+          <l>(scorgendo Cardenio caduto e gittando un grido)</l>
+          <l>MARCELLA</l>
+          <l>Amica, che vedeste?</l>
+        </sp>
+        <stage>ELEONORALo voglio… eccolo… Ah!(scorgendo Cardenio caduto e gittando un grido)MARCELLAAmica, che vedeste?</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Eccolo lā.</l>
+          <l>(si divincola, si scioglie, e corre a prostrarsi</l>
+          <l>presso Cardenio)</l>
+          <l>.MARCELLA</l>
+          <l>Sola, che far poss’io?</l>
+          <l>Cercherō suo fratello, e il padre mio.</l>
+          <l>(corre nella selva)</l>
+          <l>Scena quarta</l>
+          <l>Eleonora e Cardenio.</l>
+          <l>ELEONORA</l>
+          <l>La mia vittima č qui! Cardenio! Oh, in quale</l>
+          <l>stato feral di morte! Ah! se sapessi</l>
+          <l>che a te prostrato accanto,</l>
+          <l>te il carnefice tuo bagna di pianto!</l>
+          <l>(alzandosi)</l>
+          <l>CARDENIO</l>
+          <l>Verrō.</l>
+        </sp>
+        <stage>ELEONORAEccolo lā.(si divincola, si scioglie, e corre a prostrarsipresso Cardenio).MARCELLASola, che far poss’io?Cercherō suo fratello, e il padre mio.(corre nella selva)Scena quartaEleonora e Cardenio.ELEONORALa mia vittima č qui! Cardenio! Oh, in qualestato feral di morte! Ah! se sapessiche a te prostrato accanto,te il carnefice tuo bagna di pianto!(alzandosi)CARDENIOVerrō.</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Cardenio!</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Sė: giā l’ora estrema,</l>
+          <l>l’invocata ora estrema omai giā piomba.</l>
+          <l>Si: ti riabbraccierō dentro la tomba.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Ah! che mai dice?</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Il padre</l>
+          <l>t’uccisi č ver, ma vendicarlo io voglio.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Che farō? S’ei mi scorge</l>
+          <l>s’addoppia il suo furor.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Misero! E dove</l>
+          <l>trascino il passo incerto?…</l>
+          <l>Oscuro, ampio deserto,</l>
+          <l>immenso, immenso s’apre a me d’intorno.</l>
+          <l>(avanzandosi brancolando)</l>
+          <l>Č per me spento il giorno; e brancolando</l>
+          <l>fra questa muta oscuritā non sento</l>
+          <l>moversi, palpitar alcun oggetto,</l>
+          <l>fuor che l’empio dolor che cresce in petto!</l>
+        </sp>
+        <stage>CARDENIOMisero! E dovetrascino il passo incerto?…Oscuro, ampio deserto,immenso, immenso s’apre a me d’intorno.(avanzandosi brancolando)Č per me spento il giorno; e brancolandofra questa muta oscuritā non sentomoversi, palpitar alcun oggetto,fuor che l’empio dolor che cresce in petto!</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Morir mi sento!</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>E in mezzo</l>
+          <l>a questo cupo orror, guida pietosa</l>
+          <l>chi scorterā fra l’ombre i passi miei?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Io…</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Tu?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Si.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Tu? Dove sei tu? … Chi sei?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Un’infelice.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>No: solo infelice</l>
+          <l>sulla terra son io… Che! taci?… fuggi?</l>
+          <l>Fuggono tutti la sventura! Tutti!</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>No, non ti lascio pių: solo la morte</l>
+          <l>dividerci potrā. Parla: m’č legge,</l>
+          <l>m’č sacro il tuo voler.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Voce soave</l>
+          <l>come mi parli al cor! Dolcezza ignota</l>
+          <l>mi scende per le vene,</l>
+          <l>e quasi scordo un secolo di pene!</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Se mi leggessi in cor, tu d’un’indegna</l>
+          <l>sentiresti pietā.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Pietā! T’inganni.</l>
+          <l>Terribili, tiranni</l>
+          <l>sono gli affetti miei.</l>
+          <l>Non ho per me pietā, per te l’avrei?</l>
+          <l>Ma dimmi: esser mia guida</l>
+          <l>come puoi tu fra questa</l>
+          <l>profonda ombra funesta?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Splende a mezzo del ciel limpido il sole…</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Splende?… E no ‘l veggo!</l>
+          <l>Ah! dunque avaro il fato</l>
+          <l>tutto mi tolse! Della vista il dono</l>
+          <l>anche or m’invola.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>M’odi.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Ah! cieco io sono!</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Apri il ciglio.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Ah! invan!</l>
+          <l>ELEONORA</l>
+          <l>Non vedi?</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Tutto č notte e cupa e scura.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Ei delira.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>La sventura</l>
+          <l>fin la luce m’involō!</l>
+          <l>Ah! dal dė che per l’infida</l>
+          <l>pace e speme, oh Dio! perdei,</l>
+          <l>come adesso gli occhi miei</l>
+          <l>cieco il cor giā in me restō.</l>
+          <l>Ma tu piangi?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Oh, come!</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Ah! sorgi.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Al tuo pič convien ch’io mora.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Che pretendi?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Eleonora</l>
+          <l>non invan qui ti trovō.</l>
+          <l>Dai rimorsi in cor straziata,</l>
+          <l>se pentita al pič ti cade,</l>
+          <l>forse un raggio di pietade,</l>
+          <l>forse invan da te sperō?</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Ah! pian pian diradan l’ombre.</l>
+          <l>S’apre il ciglio ai rai del giorno.</l>
+          <l>Cara luce, io ti ritorno</l>
+          <l>finalmente a vagheggiar!</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Se non nieghi ai pianti suoi</l>
+          <l>di perdono un solo accento,</l>
+          <l>la speranza ed il contento</l>
+          <l>al tuo pič la fan spirar!</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Parla… perché quel pianto?</l>
+          <l>Che vuoi?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Perdón!</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Perdóno?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Ho il cor per doglia infranto.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>E tu saresti?</l>
+          <l>(mostrando di ricordarsi a poco a poco le sue</l>
+          <l>sembianze)</l>
+          <l>ELEONORA</l>
+          <l>Io… sono…</l>
+          <l>Io sono…</l>
+        </sp>
+        <stage>CARDENIOE tu saresti?(mostrando di ricordarsi a poco a poco le suesembianze)ELEONORAIo… sono…Io sono…</stage>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Ah! taci… aspetta:</l>
+          <l>lontana rimembranza</l>
+          <l>d’un’empia, ma diletta,</l>
+          <l>mi torna la sembianza!</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>(tendendogli le mani supplichevole)</l>
+          <l>Cardenio!</l>
+        </sp>
+        <stage>ELEONORA(tendendogli le mani supplichevole)Cardenio!</stage>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Che?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Cardenio!</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>T’appressa… ancor t’appressa:</l>
+          <l>(facendola avvicinare, e dividendole i capelli</l>
+          <l>sulla fronte)</l>
+          <l>Eleonora!… č dessa!</l>
+        </sp>
+        <stage>CARDENIOT’appressa… ancor t’appressa:(facendola avvicinare, e dividendole i capellisulla fronte)Eleonora!… č dessa!</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Sė, dessa; ma cangiata,</l>
+          <l>pentita, disperata.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>E m’ami ancor?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>S’io t’ami?</l>
+          <l>Pių vivo amor non brami,</l>
+          <l>pių amore il cor non sente;</l>
+          <l>come la fiamma č ardente,</l>
+          <l>immenso č come il mar.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Vola al mio seno, stringimi,</l>
+          <l>e pių non mi lasciar.</l>
+        </sp>
+        <stage>CARDENIO ed ELEONORARapito in un’estasidelira il mio corefra care delizie,fra sogni d’amore!Lo sdegno sfidiamodegli astri tiranni,uniti scordiamole pene, gli affanni.Per te voglio vivere,morire con te.Lasciarti č impossibile;sei nato/nata per me.(tenendosi per mano in piena tranquillitā si avvicinanoverso la capanna; improvvisamente Cardenio staccandosida Eleonora colto da un nuovo pensiero)CARDENIOTu al fianco mio?… Tradirmi,sė! tu mediti ancora.Mori.(afferrando un bastone)ELEONORAAita!</stage>
+        <stage>Scena quintaFernando dalla rupe, Marcella dalla spiaggia conqualche colono.FERNANDOFratel!</stage>
+        <sp who="#marcella">
+          <speaker>MARCELLA:</speaker>
+          <l>Fermati.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Mora.</l>
+          <l>(Cardenio disarmato da Fernando corre sulla rupe,</l>
+          <l>e si getta in mare. Fernando gitta le vesti, e lo</l>
+          <l>imita gridando)</l>
+          <l>FERNANDO</l>
+          <l>Cardenio!… Fratel mio!…</l>
+          <l>A salvarti, o perir, pronto son io.</l>
+        </sp>
+        <stage>CARDENIOMora.(Cardenio disarmato da Fernando corre sulla rupe,e si getta in mare. Fernando gitta le vesti, e loimita gridando)FERNANDOCardenio!… Fratel mio!…A salvarti, o perir, pronto son io.</stage>
+        <stage>Intanto Marcella ha condotto Eleonora nella capannaassistita dai coloni.Scena sestaBartolomeo e Kaidamā.BARTOLOMEODove? Dove sarā? Tutta la selvaho invan percorsa. L’aguzzin dei negri,che ho trovato per via,neppure l’incontrō. Basta; il fratello,i contadin lo cercano, qualcunoritrovato l’avrā.Kaidamā!… Kaidamā!… Le mie pistoledevo spedire in frettafino alla fattoria.Kaidamā!…</stage>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Son qua.</l>
+          <l>(correndo)</l>
+          <l>BARTOLOMEO</l>
+          <l>Mandarti via</l>
+          <l>devo all’istante.</l>
+        </sp>
+        <stage>KAIDAMĀSon qua.(correndo)BARTOLOMEOMandarti viadevo all’istante.</stage>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Ch’io respiri almeno!</l>
+          <l>Lascia che prima parli: e sentirai</l>
+          <l>cose grandi, padron, ma grandi assai!</l>
+          <l>Bisogna dir che il matto avesse caldo:</l>
+          <l>pattatųnfete, in mar gittossi gių;</l>
+          <l>e appena cadde non si vide pių.</l>
+        </sp>
+        <sp who="#bartolomeo">
+          <speaker>BARTOLOMEO:</speaker>
+          <l>Oh, sventura! Oh, sventura!</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Aspetta, aspetta:</l>
+          <l>il fratel… che brav’uomo!</l>
+          <l>Si spoglia e salta in mar. Fra me pensavo</l>
+          <l>chi s’č visto, s’č visto. Ecco vicino</l>
+          <l>quasi alla fattoria</l>
+          <l>aprendosi una via</l>
+          <l>sopra il mar galleggiando</l>
+          <l>s’affaccia don Fernando. Con la manca</l>
+          <l>il fratello stringea,</l>
+          <l>con la destra rompea</l>
+          <l>a gran fatica, a gran fatica l’onda,</l>
+          <l>e col matto cosė giunse alla sponda.</l>
+        </sp>
+        <sp who="#bartolomeo">
+          <speaker>BARTOLOMEO:</speaker>
+          <l>Ma, Eleonora?</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>In mare</l>
+          <l>non la vidi cascar. Starā lā dentro.</l>
+        </sp>
+        <sp who="#bartolomeo">
+          <speaker>BARTOLOMEO:</speaker>
+          <l>Andiam. Voglio vederla.</l>
+        </sp>
+        <stage>Scena settimaCoro di coloni dalla spiaggia accorrendo. Bartolomeoe Kaidamā dal bosco; poi Fernando dalla spiaggia.COROAllegri! Allegri!</stage>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Udiamo!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Pių da temer non v’č.</l>
+          <l>Il matto tornō in sé.</l>
+          <l>In braccio al suo germano</l>
+          <l>parve sereno in viso;</l>
+          <l>parlō tranquillo, umano:</l>
+          <l>e un placido sorriso</l>
+          <l>sul labbro suo brillō.</l>
+        </sp>
+        <sp who="#bartolomeo">
+          <speaker>BARTOLOMEO:</speaker>
+          <l>Non vi saria pericolo</l>
+          <l>che vi sognaste?</l>
+        </sp>
+        <sp who="#fernando">
+          <speaker>FERNANDO:</speaker>
+          <l>No.</l>
+          <l>La ragion che avea perduta</l>
+          <l>ricovrō quell’infelice.</l>
+          <l>Con piacer a voi lo dice</l>
+          <l>un fratel che ognor l’amō.</l>
+          <l>Magli č spina al cor acuta</l>
+          <l>sol colui che l’ingannō.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Vi consoli, o buon signore,</l>
+          <l>il saperlo alfin guarito;</l>
+          <l>e colui che l’ha tradito</l>
+          <l>forse pena al mal trovō.</l>
+        </sp>
+        <sp who="#fernando">
+          <speaker>FERNANDO:</speaker>
+          <l>Tremar dovrā l’indegno</l>
+          <l>dell’ira mia feroce.</l>
+          <l>Vendetta orrenda atroce</l>
+          <l>sul capo suo giā sta.</l>
+          <l>Ei sol, ei sol fia segno</l>
+          <l>al foco ond’ardo in core;</l>
+          <l>del suo destin l’orrore</l>
+          <l>non ei fuggir potrā.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Dal ciel quel traditore</l>
+          <l>punito alfin sarā.</l>
+        </sp>
+        <stage>I coloni si sperdono mentre Fernando e Kaidamāentrano nella capanna.Scena ottavaBartolomeo solo.BARTOLOMEOSarā: ci spero poco, un qualche ramosempre ci resta. Veglierō… Per Bacco!Dell’aguzzin de’ negri mi scordavoche vuol le sue pistole! Kaidamā,volerā, tornerā. La fattoriač un po’ lontana, č ver; ma l’aguzzinoha gran bisogno delle sue pistolee Kaidamā sa correr quando vuole.(entra in fretta nella capanna)</stage>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Qui pianse al pianto mio! Qui la rividi</l>
+          <l>pių bella nel dolor… Pietā mi vinse…</l>
+          <l>tutto scordai; mi strinse</l>
+          <l>lacrimando la mano…</l>
+          <l>Tentai fuggir… malo tentavo invano.</l>
+          <l>Ah! l’amo ancor… Io l’amo?</l>
+          <l>Ed or?… Dir non saprei che cerco e bramo!</l>
+          <l>Fuggir… Fuggir… Fratello mio! T’affretta,</l>
+          <l>fuggiamo. E trar potrei</l>
+          <l>da lei lungi i miei dė? Morrō con lei.</l>
+          <l>(siede sopra un sasso, quasi incontro alla capanna,</l>
+          <l>concentrato in dolce melanconia)</l>
+          <l>Scena decima</l>
+          <l>Kaidamā dalla capanna con due pistole e detto.</l>
+          <l>KAIDAMĀ</l>
+          <l>Non č soverchieria?</l>
+          <l>Fino alla fattoria</l>
+          <l>con due pistole cariche, e di notte?</l>
+          <l>E se, per caso… vanno via le botte,</l>
+          <l>io fra quest’ombra scura</l>
+          <l>prudentemente moro di paura.</l>
+        </sp>
+        <stage>CARDENIOQui pianse al pianto mio! Qui la rividipių bella nel dolor… Pietā mi vinse…tutto scordai; mi strinselacrimando la mano…Tentai fuggir… malo tentavo invano.Ah! l’amo ancor… Io l’amo?Ed or?… Dir non saprei che cerco e bramo!Fuggir… Fuggir… Fratello mio! T’affretta,fuggiamo. E trar potreida lei lungi i miei dė? Morrō con lei.(siede sopra un sasso, quasi incontro alla capanna,concentrato in dolce melanconia)Scena decimaKaidamā dalla capanna con due pistole e detto.KAIDAMĀNon č soverchieria?Fino alla fattoriacon due pistole cariche, e di notte?E se, per caso… vanno via le botte,io fra quest’ombra scuraprudentemente moro di paura.</stage>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>(da se)</l>
+          <l>Di pistole parlō! Potrei…</l>
+        </sp>
+        <stage>CARDENIO(da se)Di pistole parlō! Potrei…</stage>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Coraggio!..</l>
+          <l>Sė… Coraggio le zucche! Io nei cimenti</l>
+          <l>soffro ognor di podagra, e appena appena</l>
+          <l>so camminare a passo di formiche.</l>
+          <l>Fame e paura in me son cose antiche.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>(da sé alzandosi)</l>
+          <l>Ho risoluto.</l>
+        </sp>
+        <stage>CARDENIO(da sé alzandosi)Ho risoluto.</stage>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>E adesso che rifletto:</l>
+          <l>trovar potrei Cardenio, e non m’affretto?</l>
+          <l>Chi sa? Povero lui! Spesso il periglio</l>
+          <l>fa cangiare in leopardo anche il coniglio.</l>
+          <l>Sarā quel che sarā:</l>
+          <l>lascio la botta al primo: chi va lā?</l>
+          <l>Dopo m’arrolo al reggimento,</l>
+          <l>e per correr pių presto</l>
+          <l>ogni mio piede ha un’ala…</l>
+          <l>(mentre sta cosė da sé parlando a voce alta per farsi coraggio</l>
+          <l>s’č fatto vicinissimo a Cardenio,onde ascoltandone la voce,</l>
+          <l>e voltandosi si trovano faccia a faccia)</l>
+          <l>CARDENIO</l>
+          <l>Negro, m’ascolta.</l>
+        </sp>
+        <stage>KAIDAMĀE adesso che rifletto:trovar potrei Cardenio, e non m’affretto?Chi sa? Povero lui! Spesso il perigliofa cangiare in leopardo anche il coniglio.Sarā quel che sarā:lascio la botta al primo: chi va lā?Dopo m’arrolo al reggimento,e per correr pių prestoogni mio piede ha un’ala…(mentre sta cosė da sé parlando a voce alta per farsi coraggios’č fatto vicinissimo a Cardenio,onde ascoltandone la voce,e voltandosi si trovano faccia a faccia)CARDENIONegro, m’ascolta.</stage>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Il quondam matto in gala!</l>
+          <l>(rimanendo come una statua)</l>
+          <l>CARDENIO</l>
+          <l>Perché tremi?</l>
+        </sp>
+        <stage>KAIDAMĀIl quondam matto in gala!(rimanendo come una statua)CARDENIOPerché tremi?</stage>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Io! no: ti pare?</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Son cangiato.</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Me l’han detto.</l>
+          <l>(Ma peraltro ci scommetto</l>
+          <l>non sia tutta veritā.)</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Una grazia da te voglio.</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Una grazia!</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Non negarla.</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Eh!… vedrō.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>L’accordi?</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Parla;</l>
+          <l>ma due miglia almen pių in lā.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Fu l’orror dei tradimenti</l>
+          <l>(con dolcezza, sempre avvicinandosi</l>
+          <l>a Kaidamā che cerca stargli lontano)</l>
+          <l>ch’ecclissō la mia ragione;</l>
+          <l>assordai piangendo i venti</l>
+          <l>nella mia disperazione;</l>
+          <l>parvi forse fra le smanie</l>
+          <l>pieno il cor di crudeltā;</l>
+          <l>mi perdona… ah! no: non crederlo:</l>
+          <l>ero degno di pietā.</l>
+        </sp>
+        <stage>CARDENIOFu l’orror dei tradimenti(con dolcezza, sempre avvicinandosia Kaidamā che cerca stargli lontano)ch’ecclissō la mia ragione;assordai piangendo i ventinella mia disperazione;parvi forse fra le smaniepieno il cor di crudeltā;mi perdona… ah! no: non crederlo:ero degno di pietā.</stage>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Caro mio, se ti rammenti,</l>
+          <l>non ti ho troppa obbligazione.</l>
+          <l>Mane e sera i complimenti</l>
+          <l>mi facevi col bastone.</l>
+          <l>Le mie spalle lo ricordano;</l>
+          <l>ma il mio cor lo scorderā.</l>
+          <l>Si fa scuro… addio… ma lasciami:</l>
+          <l>tutta avrai la mia pietā.</l>
+          <l>(mentre Kaidamā vuol partire viene per un braccio</l>
+          <l>arrestato da Cardenio che vuol vedere, girandogli intorno,</l>
+          <l>ciō che tiene in mano; e gelosamente nasconde)</l>
+          <l>CARDENIO</l>
+          <l>Aspetta.</l>
+        </sp>
+        <stage>KAIDAMĀCaro mio, se ti rammenti,non ti ho troppa obbligazione.Mane e sera i complimentimi facevi col bastone.Le mie spalle lo ricordano;ma il mio cor lo scorderā.Si fa scuro… addio… ma lasciami:tutta avrai la mia pietā.(mentre Kaidamā vuol partire viene per un braccioarrestato da Cardenio che vuol vedere, girandogli intorno,ciō che tiene in mano; e gelosamente nasconde)CARDENIOAspetta.</stage>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Vado in fretta.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Che tíeni?</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>(Ecco l’imbroglio!)</l>
+          <l>Inezie.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Veder voglio;</l>
+          <l>(forzandolo a mostrarle e volendo prendergliele)</l>
+          <l>mostrale.</l>
+        </sp>
+        <stage>CARDENIOVeder voglio;(forzandolo a mostrarle e volendo prendergliele)mostrale.</stage>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Lasciale star.</l>
+          <l>Sono due belve índomite</l>
+          <l>che, quando vanno in collera,</l>
+          <l>sconquassano, fracassano</l>
+          <l>e fanno in aria andar.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>(ridendo serio)</l>
+          <l>Ah! ah!</l>
+        </sp>
+        <stage>CARDENIO(ridendo serio)Ah! ah!</stage>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>(Brutta risata!</l>
+          <l>Battiam la ritirata.)</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Cedile.</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>No.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Mi servono.</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>(volendo gridare)</l>
+          <l>Padron… Bartolomeo…</l>
+        </sp>
+        <stage>KAIDAMĀ(volendo gridare)Padron… Bartolomeo…</stage>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>(avendogli toltele pistole, e guardando severo)</l>
+          <l>Zitto.</l>
+        </sp>
+        <stage>CARDENIO(avendogli toltele pistole, e guardando severo)Zitto.</stage>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>(volendo correre alla capanna)</l>
+          <l>Padron…</l>
+        </sp>
+        <stage>KAIDAMĀ(volendo correre alla capanna)Padron…</stage>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Impiétrati.</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Son mutolo. Non parto.</l>
+          <l>(Ah! gli č tornato il quarto!)</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>(lodandolo perché sta muto e immobile)</l>
+          <l>Bravo!</l>
+        </sp>
+        <stage>CARDENIO(lodandolo perché sta muto e immobile)Bravo!</stage>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Oh!</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Superbe.</l>
+          <l>(esaminando le pistole, e volgendone le bocche)</l>
+          <l>KAIDAMĀ</l>
+          <l>Ohimč!</l>
+        </sp>
+        <stage>CARDENIOSuperbe.(esaminando le pistole, e volgendone le bocche)KAIDAMĀOhimč!</stage>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Se giuri a me silenzio:</l>
+          <l>temer non devi e va’.</l>
+          <l>Ma basta anche una sillaba…</l>
+        </sp>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Grazie alla sua bontā.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Sė: decisi, e seco spento</l>
+          <l>dileguar vedrō gli affanni;</l>
+          <l>affrettar saprō il momento</l>
+          <l>d’involarla dagl’inganni,</l>
+          <l>la crudel che m’innamora</l>
+          <l>pių tradirmi non potrā.</l>
+          <l>Ah! nell’urna amarla ancora</l>
+          <l>cener freddo il cor dovrā.</l>
+        </sp>
+        <stage>CARDENIOSė: decisi, e seco spentodileguar vedrō gli affanni;affrettar saprō il momentod’involarla dagl’inganni,la crudel che m’innamorapių tradirmi non potrā.Ah! nell’urna amarla ancoracener freddo il cor dovrā.</stage>
+        <sp who="#kaidamā">
+          <speaker>KAIDAMĀ:</speaker>
+          <l>Gamba mia, se mi vuoi bene</l>
+          <l>di mostrarlo ecco il momento.</l>
+          <l>Ora vincer ti conviene</l>
+          <l>il pensiero, il lampo, il vento.</l>
+          <l>Abbi sempre, galoppando,</l>
+          <l>leggerezza, agilitā.</l>
+          <l>Gamba mia, mi raccomando:</l>
+          <l>non tradirmi per pietā.</l>
+        </sp>
+        <stage>Scena undicesimaCardenio accompagna Kaidamā, che corre via finoalla selva, ed assicuratosi che č partito torna indietrolentamente, mentre esce Eleonora dalla capanna,immersa in dolorosi pensieri, appresso a Fernando.FERNANDOFratel! La mira, e a quellelagrime di dolor non esser cieco.Ti parli la pietā.</stage>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Lasciami seco.</l>
+          <l>(Fernando parte, Eleonora, s’inginocchia)</l>
+          <l>Perché?</l>
+        </sp>
+        <stage>CARDENIOLasciami seco.(Fernando parte, Eleonora, s’inginocchia)Perché?</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Perché son rea, perché pentita,</l>
+          <l>se perdón non ottengo, odio la vita.</l>
+          <l>Il seduttor crudele</l>
+          <l>del carnefice in man lasciō coi giorni</l>
+          <l>tutti i delitti suoi. Mi scossi, e vidi</l>
+          <l>le mie colpe, e ne piansi. A Cartagena</l>
+          <l>mossi in traccia di te.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>(facendola sorgere)</l>
+          <l>Di me!</l>
+        </sp>
+        <stage>CARDENIO(facendola sorgere)Di me!</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Bramai,</l>
+          <l>perdonata, i miei di chiudere in cupo</l>
+          <l>ignorato recesso, e lā nel pianto</l>
+          <l>far che morisse a poco a poco il core</l>
+          <l>fra il dolor tardo ed il risorto amore.</l>
+          <l>Qua la tempesta mi balzō. Ti vidi,</l>
+          <l>ebbi orrore di me. Tu parti, io voglio</l>
+          <l>il tuo perdóno, e qui scontar desio,</l>
+          <l>ove errasti furente, il fallo mio.</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>(Non vacillarmi, o cor!) M’odi: non posso</l>
+          <l>viver senza di te; con te no’l devo.</l>
+          <l>Involiamoci entrambi</l>
+          <l>a sė strano soffrir.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Come?</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>(cava le due pistole)</l>
+          <l>Di queste</l>
+          <l>una tu prendi… Per l’estrema volta</l>
+          <l>abbi un addio col mio perdóno in terra.</l>
+          <l>Quando la man ti stringo</l>
+          <l>sparerō, sparerai.</l>
+        </sp>
+        <stage>CARDENIO(cava le due pistole)Di questeuna tu prendi… Per l’estrema voltaabbi un addio col mio perdóno in terra.Quando la man ti stringosparerō, sparerai.</stage>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Tua fra l’ombre sarō, tu mio sarai.</l>
+          <l>(prende una delle pistole)</l>
+          <l>A me.</l>
+        </sp>
+        <stage>ELEONORATua fra l’ombre sarō, tu mio sarai.(prende una delle pistole)A me.</stage>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Coraggio.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Questo č il voto mio: Cardenio!</l>
+        </sp>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>Eleonora!</l>
+        </sp>
+        <stage>Scena ultimaFernando, Bartolomeo, accorrendo dalla capanna con alcunicoloni, con faci. Si scorge Eleonora che tiene la pistola rivoltaal proprio petto; indi si avvicina il vascello, e ne smontanoi marinari con faci accese.FERNANDO e Bartolomeo(disarmandoli a forza)Ah! fermate, fermate!</stage>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>E perché volta</l>
+          <l>tieni l’arma al tuo sen?</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Perché degg’io</l>
+          <l>sola espiar, morendo, il fallo mio.</l>
+          <l>(facendo dei sforzi per riavere la pistola)</l>
+          <l>Lasciatemi morir. Ei mi perdona;</l>
+          <l>chi pių lieta di me?</l>
+        </sp>
+        <stage>ELEONORAPerché degg’iosola espiar, morendo, il fallo mio.(facendo dei sforzi per riavere la pistola)Lasciatemi morir. Ei mi perdona;chi pių lieta di me?</stage>
+        <sp who="#cardenio">
+          <speaker>CARDENIO:</speaker>
+          <l>No: vivi, vivi.</l>
+          <l>M’ami, me’l prova assai</l>
+          <l>quel deciso voler. Sė: pago io sono.</l>
+          <l>Abbi col mio perdóno</l>
+          <l>tutto, tutto il primier tenero amore.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Amici! a tanta gioia č poco un core!</l>
+          <l>Nel piacer di questo di</l>
+          <l>č confuso, oppresso il cor.</l>
+          <l>Se il destino ancor ci unė</l>
+          <l>fu per opra dell’amor.</l>
+          <l>Ogni duol scordar potrō</l>
+          <l>su quel sen che mi piagō.</l>
+        </sp>
+        <sp who="#gli altri">
+          <speaker>GLI ALTRI:</speaker>
+          <l>Sempre, sempre in sen d’amore</l>
+          <l>scorreran tranquille l’ore</l>
+          <l>nel pensier di questo istante</l>
+          <l>sempre esulti il vostro cor.</l>
+        </sp>
+        <sp who="#eleonora">
+          <speaker>ELEONORA:</speaker>
+          <l>Sė amabile speranza</l>
+          <l>di gioia inonda l’alma.</l>
+          <l>Ah! l’amorosa calma</l>
+          <l>in te ritrova il cor.</l>
+          <l>Lo sento ai moti insoliti</l>
+          <l>giā rimbalzarmi in petto;</l>
+          <l>vicino al caro oggetto,</l>
+          <l>vita riprende amor.</l>
+        </sp>
+        <sp who="#f i n e">
+          <speaker>F I N E:</speaker>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

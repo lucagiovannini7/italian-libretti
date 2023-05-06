@@ -1,0 +1,1272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">’oca del Cairo</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="biondello">
+            <persName>BIONDELLO:</persName>
+          </person>
+          <person xml:id="scena sesta">
+            <persName>SCENA SESTA:</persName>
+          </person>
+          <person xml:id="celidora, lavina, biondello">
+            <persName>CELIDORA, LAVINA, BIONDELLO,:</persName>
+          </person>
+          <person xml:id="perrucchiere">
+            <persName>PERRUCCHIERE::</persName>
+          </person>
+          <person xml:id="chicchibio">
+            <persName>CHICCHIBIO::</persName>
+          </person>
+          <person xml:id="scena quarta">
+            <persName>SCENA QUARTA:</persName>
+          </person>
+          <person xml:id="a due">
+            <persName>A DUE::</persName>
+          </person>
+          <person xml:id="celidora, lavina, biondello">
+            <persName>CELIDORA, LAVINA, BIONDELLO::</persName>
+          </person>
+          <person xml:id="calandrino">
+            <persName>CALANDRINO::</persName>
+          </person>
+          <person xml:id="scena terza">
+            <persName>SCENA TERZA:</persName>
+          </person>
+          <person xml:id="chichibio">
+            <persName>CHICHIBIO:</persName>
+          </person>
+          <person xml:id="don pippo">
+            <persName>DON PIPPO:</persName>
+          </person>
+          <person xml:id="scena quindicesima">
+            <persName>SCENA QUINDICESIMA:</persName>
+          </person>
+          <person xml:id="chichibio">
+            <persName>CHICHIBIO::</persName>
+          </person>
+          <person xml:id="calzolaio">
+            <persName>CALZOLAIO::</persName>
+          </person>
+          <person xml:id="sartore">
+            <persName>SARTORE::</persName>
+          </person>
+          <person xml:id="lavina">
+            <persName>LAVINA::</persName>
+          </person>
+          <person xml:id="auretta, chichibio">
+            <persName>AURETTA, CHICHIBIO::</persName>
+          </person>
+          <person xml:id="f i n e">
+            <persName>F I N E:</persName>
+          </person>
+          <person xml:id="celidora">
+            <persName>CELIDORA::</persName>
+          </person>
+          <person xml:id="lavina">
+            <persName>LAVINA:</persName>
+          </person>
+          <person xml:id="auretta">
+            <persName>AURETTA::</persName>
+          </person>
+          <person xml:id="celidora, lavina">
+            <persName>CELIDORA, LAVINA::</persName>
+          </person>
+          <person xml:id="auretta">
+            <persName>AURETTA:</persName>
+          </person>
+          <person xml:id="celidora">
+            <persName>CELIDORA:</persName>
+          </person>
+          <person xml:id="don pippo">
+            <persName>DON PIPPO::</persName>
+          </person>
+          <person xml:id="biondello">
+            <persName>BIONDELLO::</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI::</persName>
+          </person>
+          <person xml:id="celidora, lavina, auretta">
+            <persName>CELIDORA, LAVINA, AURETTA,:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#perrucchiere">
+        <speaker>PERRUCCHIERE::</speaker>
+        <l>Illustrissima…</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA:</speaker>
+        <l>(ridendo):</l>
+        <l>A me?</l>
+        <l>Perché non Eccellenza?</l>
+      </sp>
+      <stage>AURETTA(ridendo):A me?Perché non Eccellenza?</stage>
+      <sp who="#perrucchiere">
+        <speaker>PERRUCCHIERE::</speaker>
+        <l>Eccellenza, se vuol, giacch’è la moda</l>
+        <l>Perdoni…</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>È forse poco?</l>
+      </sp>
+      <sp who="#perrucchiere">
+        <speaker>PERRUCCHIERE::</speaker>
+        <l>(timido)</l>
+        <l>Non già, vorrei sol dire…</l>
+        <l>Che servii per amor, che per lei moro.</l>
+      </sp>
+      <stage>PERRUCCHIERE:(timido)Non già, vorrei sol dire…Che servii per amor, che per lei moro.</stage>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Quand’è così… sentite: anch’io v’adoro.</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>(da sé)</l>
+        <l>O che moneta falsa!</l>
+      </sp>
+      <stage>CHICHIBIO:(da sé)O che moneta falsa!</stage>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Egli è pagato.</l>
+        <l>(Rimette il danaro in tasca: il Perrucchiere</l>
+        <l>parte consolato.)</l>
+        <l>SCENA SECONDA</l>
+        <l>Calzolaio, Auretta; Chichibio in disparte.</l>
+        <l>CALZOLAIO:</l>
+        <l>Ecco le scarpettine.</l>
+      </sp>
+      <stage>AURETTA:Egli è pagato.(Rimette il danaro in tasca: il Perrucchiereparte consolato.)SCENA SECONDACalzolaio, Auretta; Chichibio in disparte.CALZOLAIO:Ecco le scarpettine.</stage>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Ahimè!</l>
+      </sp>
+      <sp who="#calzolaio">
+        <speaker>CALZOLAIO::</speaker>
+        <l>Che dice?</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Mi paion strette.</l>
+      </sp>
+      <sp who="#calzolaio">
+        <speaker>CALZOLAIO::</speaker>
+        <l>Ho meco la misura</l>
+        <l>E se un tantin vi manca, il feci appunto</l>
+        <l>Perché disse, che suol calzare stretto</l>
+        <l>Questo non è difetto: già la pelle</l>
+        <l>Si lascia ben presto.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>E ver. Or dite:</l>
+        <l>Quanto vi devo?</l>
+      </sp>
+      <sp who="#calzolaio">
+        <speaker>CALZOLAIO::</speaker>
+        <l>Nulla mia Signora;</l>
+        <l>Mi meraviglio.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>No, ditemi pure.</l>
+      </sp>
+      <sp who="#calzolaio">
+        <speaker>CALZOLAIO::</speaker>
+        <l>Giacché saper lo brama,</l>
+        <l>Scusi chi pena, ed ama:</l>
+        <l>Ardo per lei d’amor,</l>
+        <l>Bastami un picciol nicchio in quel bel core.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Non solo un picciol nicchio, ma un nicchione.</l>
+        <l>Io vi ringrazio.</l>
+        <l>(Da se’)</l>
+        <l>(O quanto sei minchione!)</l>
+        <l>(Il Calzolaio parte allegro). –</l>
+        <l>CHICHIBIO</l>
+        <l>(da sé)</l>
+        <l>Oh maledetta! il fegato, la milza</l>
+        <l>Arder mi sento.. . eccone un’altro.</l>
+      </sp>
+      <stage>AURETTA:Non solo un picciol nicchio, ma un nicchione.Io vi ringrazio.(Da se’)(O quanto sei minchione!)(Il Calzolaio parte allegro). –CHICHIBIO(da sé)Oh maledetta! il fegato, la milzaArder mi sento.. . eccone un’altro.</stage>
+      <sp who="#scena terza">
+        <speaker>SCENA TERZA:</speaker>
+        <l>Sartore, Auretta; Chichibio in disparte.</l>
+        <l>AURETTA:</l>
+        <l>O caro!</l>
+        <l>Voi siate il benvenuto; e ‘l mio bustino?</l>
+      </sp>
+      <stage>SCENA TERZASartore, Auretta; Chichibio in disparte.AURETTA:O caro!Voi siate il benvenuto; e ‘l mio bustino?</stage>
+      <sp who="#sartore">
+        <speaker>SARTORE::</speaker>
+        <l>Eccolo mia Signora.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>O bello, o bel; ma il taglio</l>
+        <l>Non gli è di troppo lungo?</l>
+      </sp>
+      <sp who="#sartore">
+        <speaker>SARTORE::</speaker>
+        <l>Non son tre settimane,</l>
+        <l>Che venni da Parigi:</l>
+        <l>Tutte le Parigine</l>
+        <l>Lo portano così.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Dunque è la moda?</l>
+      </sp>
+      <sp who="#sartore">
+        <speaker>SARTORE::</speaker>
+        <l>Anzi, Signora sì.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Vediamo adesso il conto.</l>
+      </sp>
+      <sp who="#sartore">
+        <speaker>SARTORE::</speaker>
+        <l>Il conto è bell’e fatto: un’occhiatina,</l>
+        <l>Un vezzo, un bel sorriso</l>
+        <l>Un po’ di speme…</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>(Oh che merlotto!) intendo</l>
+        <l>Voi siete tutto mio,</l>
+        <l>Sperate pur, ci rivedremo. Addio.</l>
+        <l>(Il sartore parte giubilando).</l>
+        <l>AURETTA:</l>
+        <l>Così si fa:</l>
+        <l>Due paroline,</l>
+        <l>Quattro occhiatine,</l>
+        <l>Ci fruttan più,</l>
+        <l>Che non si crede,</l>
+        <l>(accenna a Chichibio)</l>
+        <l>E non s’avvede</l>
+        <l>Chi amar non sa.</l>
+      </sp>
+      <stage>AURETTA:(Oh che merlotto!) intendoVoi siete tutto mio,Sperate pur, ci rivedremo. Addio.(Il sartore parte giubilando).AURETTA:Così si fa:Due paroline,Quattro occhiatine,Ci fruttan più,Che non si crede,(accenna a Chichibio)E non s’avvedeChi amar non sa.</stage>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Così si fa?</l>
+        <l>A civettine</l>
+        <l>Innocentine</l>
+        <l>Come sei tu</l>
+        <l>Chi presta fede,</l>
+        <l>Or ben si avvede,</l>
+        <l>Ch’è un baccalà.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Tu mi fai torto,</l>
+        <l>Non son mai giunta</l>
+        <l>A offender te.</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Mi vedrai morto</l>
+        <l>Dal mal di punta,</l>
+        <l>Già crepo, ahimè!…</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Non morir, mia speme amata</l>
+        <l>Gran pazzia sarebbe affé!</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Ah, già l’alma è stivalata,</l>
+        <l>E rimedio più non c’è!</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>(piange)</l>
+        <l>Al mio pianto cedi almeno.</l>
+      </sp>
+      <stage>AURETTA:(piange)Al mio pianto cedi almeno.</stage>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>(piange anch’egli)</l>
+        <l>Di ricotta ho il cor nel seno.</l>
+      </sp>
+      <stage>CHICHIBIO:(piange anch’egli)Di ricotta ho il cor nel seno.</stage>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Dunque dì…</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Che vuoi da me?</l>
+      </sp>
+      <sp who="#scena quarta">
+        <speaker>SCENA QUARTA:</speaker>
+        <l>Calandrino, Auretta, Chichibio.</l>
+        <l>CALANDRINO:</l>
+        <l>Sono i primi a spuntar in sul mattino</l>
+        <l>La rosa, e ‘l gelsomino,</l>
+        <l>Così Auretta, e Chichibio.</l>
+      </sp>
+      <stage>SCENA QUARTACalandrino, Auretta, Chichibio.CALANDRINO:Sono i primi a spuntar in sul mattinoLa rosa, e ‘l gelsomino,Così Auretta, e Chichibio.</stage>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>E’l malandrino.</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Auretta mia, Chichibio, vi saluto.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Son serva sua.</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Buon giorno a noi Signori.</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>Ditemi, il Signor zio, di Ripasecca</l>
+        <l>Il Marchese, Don Pippo, il dolce sposo</l>
+        <l>Per le cui nozze esulta il mondo tutto,</l>
+        <l>E già si veste d’or il biondo Dio,</l>
+        <l>Non peranco lasciò</l>
+        <l>Le vedove sue piume?</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>In quest’ora ha costume</l>
+        <l>Di prima riscaldarle</l>
+        <l>Con potenti sospir, e poi lasciarle.</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>Già aperta è la famosa</l>
+        <l>Solennissima fiera,</l>
+        <l>Che sol per questa sera</l>
+        <l>Quel vecchio rimbambito di Don Pippo</l>
+        <l>Convocò da ogni parte, affinché fosse</l>
+        <l>Spettacolo pomposo alle sue nozze,</l>
+        <l>E a quelle della figlia;</l>
+        <l>Ma non fia meraviglia,</l>
+        <l>S’ei, che cerca lo scorno di Biondello,</l>
+        <l>Cadrà nel trabocchello come certi</l>
+        <l>Pifferi di montagna sciagurati,</l>
+        <l>Che iti per pifferar fur pifferati.</l>
+        <l>Ch’ei dorma ancor non credo.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Sentiremo a momenti</l>
+        <l>Lo svegliarin.</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>Deh fatemi il piacere,</l>
+        <l>Caro Chichibio mio, ite a vedere,</l>
+        <l>Se nuota ancor in Lete, oppur s’è desto.</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Questo lo posso far;</l>
+        <l>(da sé)</l>
+        <l>(Ma torno presto.)</l>
+        <l>Se nuota ancora in letto?… o sposo dolce!</l>
+        <l>O povera Lavina!</l>
+        <l>Se pesce tu ti fai, sarai tonnina.</l>
+        <l>(Parte.)</l>
+        <l>SCENA QUINTA</l>
+        <l>Auretta, e Calandrino.</l>
+        <l>CALANDRINO:</l>
+        <l>Auretta mia vezzosa,</l>
+        <l>Ditemi in confidenza</l>
+        <l>Come stiamo d’amanti?</l>
+      </sp>
+      <stage>CHICHIBIO:Questo lo posso far;(da sé)(Ma torno presto.)Se nuota ancora in letto?… o sposo dolce!O povera Lavina!Se pesce tu ti fai, sarai tonnina.(Parte.)SCENA QUINTAAuretta, e Calandrino.CALANDRINO:Auretta mia vezzosa,Ditemi in confidenzaCome stiamo d’amanti?</stage>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Oh, lei mi burla;</l>
+        <l>Di questo brutto ceffo</l>
+        <l>Nissuno s’innamora, al sol Chichibio</l>
+        <l>Il brutto piace.</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>In questo ei non è stolto;</l>
+        <l>Voi mi piacete molto,</l>
+        <l>Bellissima voi siete;</l>
+        <l>Ma, gli siete fedele?</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>E come!</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>Ed egli</l>
+        <l>Serbavi fedeltà? Non è geloso?</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>All’eccesso.</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>E se mai</l>
+        <l>In questa positura</l>
+        <l>Ei ci trovasse?</l>
+        <l>(l’abbraccia)</l>
+        <l>AURETTA:</l>
+        <l>Oh guai!</l>
+      </sp>
+      <stage>CALANDRINO:E se maiIn questa posituraEi ci trovasse?(l’abbraccia)AURETTA:Oh guai!</stage>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>Per esempio, s’io dicessi:</l>
+        <l>Bella Auretta,</l>
+        <l>Vezzosetta,</l>
+        <l>Fortunata vi vorrei,</l>
+        <l>Non c’è mal da far processi;</l>
+        <l>Se v’abbraccio,</l>
+        <l>Sol lo faccio</l>
+        <l>Per dir ciò, che bramerei;</l>
+        <l>Ma poi, se m’accorgessi,</l>
+        <l>Che già montasse in bestia,</l>
+        <l>Con tutta la modestia</l>
+        <l>Discorso cangerei.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Oh me meschina! ei viene,</l>
+        <l>E ci ha veduti.</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>Non vi scomponete,</l>
+        <l>Restiam così.</l>
+      </sp>
+      <sp who="#scena sesta">
+        <speaker>SCENA SESTA:</speaker>
+        <l>Chichibio e detti (fingono non vederlo,</l>
+        <l>Chichibio s’avanza pian piano ascoltando).</l>
+        <l>CALANDRINO:</l>
+        <l>Così stavano stretti</l>
+        <l>Come Dafne, ed Apollo</l>
+        <l>I semplicetti amanti, e l’una, e l’altro</l>
+        <l>A vedermi rimase a chiuso labbro</l>
+        <l>Tinto il volto di rose, e di cinabro.</l>
+      </sp>
+      <stage>SCENA SESTAChichibio e detti (fingono non vederlo,Chichibio s’avanza pian piano ascoltando).CALANDRINO:Così stavano strettiCome Dafne, ed ApolloI semplicetti amanti, e l’una, e l’altroA vedermi rimase a chiuso labbroTinto il volto di rose, e di cinabro.</stage>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Se fosse qui nascoso,</l>
+        <l>Quell’Argo mio geloso,</l>
+        <l>Oh poverina me!</l>
+        <l>Direbbe: oh maledetta,</l>
+        <l>Pettegola, fraschetta!</l>
+        <l>La fedeltà dov’è?</l>
+        <l>Pur sono innocente.</l>
+        <l>Se fosse presente,</l>
+        <l>Direbbe fra sé:</l>
+        <l>Oh qui non c’è pericolo;</l>
+        <l>Un caso sì ridicolo</l>
+        <l>Goder si deve affé.</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO:</speaker>
+        <l>(accostandosi):</l>
+        <l>Un caso sì ridicolo</l>
+        <l>Goder si deve affé!</l>
+      </sp>
+      <stage>CHICHIBIO(accostandosi):Un caso sì ridicoloGoder si deve affé!</stage>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Buon pro’, Signori.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Ridi, ah ridi, Chichibio.</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>Ecco la scena,</l>
+        <l>Che vidi poco fa tra Lisa, e Tirsi.</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Bella sarà, ma ridere non posso.</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>Dorme Don Pippo?</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Ah, che ha il Demonio addosso.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Dimmi, che mai è stato?</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>A lui andaste?</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Ah non ci fossi andato.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Entrasti?</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Entrai Pian Pian allorché intesi</l>
+        <l>Lamentevole voce</l>
+        <l>Di dolente usignuol.</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>E che diceva?</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Vieni Imeneo!</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>E tu?</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Eccomi, dissi.</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>Ed egli?</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>A me pazzo, ignorante? ad un par mio?…</l>
+        <l>Né molto vi mancò, che tutto tutto</l>
+        <l>Non mi versasse in capo</l>
+        <l>Il vaso di Pandora: onde so dirvi,</l>
+        <l>Ch’egli è purtroppo desto.</l>
+        <l>S’ode il campanello di Don Pippo.</l>
+        <l>AURETTA:</l>
+        <l>Il segno è questo,</l>
+        <l>Che vuol vestirsi.</l>
+      </sp>
+      <stage>CHICHIBIO:A me pazzo, ignorante? ad un par mio?…Né molto vi mancò, che tutto tuttoNon mi versasse in capoIl vaso di Pandora: onde so dirvi,Ch’egli è purtroppo desto.S’ode il campanello di Don Pippo.AURETTA:Il segno è questo,Che vuol vestirsi.</stage>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>Io me ne vado. A lui</l>
+        <l>Verrò frappoco, addio.</l>
+        <l>(In traccia voglio andar dell’Idol mio.)</l>
+        <l>(Parte)</l>
+        <l>CHICHIBIO:</l>
+        <l>(con ironia)</l>
+        <l>Vanne, Auretta fedele,</l>
+        <l>E tu co’ vezzi tuoi</l>
+        <l>Lo calma.</l>
+      </sp>
+      <stage>CALANDRINO:Io me ne vado. A luiVerrò frappoco, addio.(In traccia voglio andar dell’Idol mio.)(Parte)CHICHIBIO:(con ironia)Vanne, Auretta fedele,E tu co’ vezzi tuoiLo calma.</stage>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>E tu non vieni?</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Io verrò poi.</l>
+        <l>(Auretta parte).</l>
+        <l>Quanto meglio staresti, Auretta mia</l>
+        <l>Chiusa con Celidora, e con Lavina</l>
+        <l>In quella torre. Il mondo al fin direbbe,</l>
+        <l>Come si dice ognora:</l>
+        <l>Don Pippo a Celidora</l>
+        <l>Non vuol sposo Biondello,</l>
+        <l>Ma il Conte Lionetto. Essere sposo</l>
+        <l>Vuol Don Pippo a Lavina, e n’è geloso.</l>
+        <l>Or ci saria la coda;</l>
+        <l>Direbbesi, ch’è moda</l>
+        <l>L’intendersi fra loro</l>
+        <l>I servi, ed i padroni; onde d’accordo</l>
+        <l>Tengono là in prigion le lor ragazze.</l>
+        <l>E il servo, ed il padron son teste pazze.</l>
+        <l>Spira oggi l’anno appunto, che Biondello</l>
+        <l>Al Marchese giurò d’entrar con arte,</l>
+        <l>O con denaro in quella torre, e poi</l>
+        <l>Celidora sposar. Don Pippo astuto</l>
+        <l>Rise, e disse di sì.</l>
+        <l>Biondello è ancor qui.</l>
+        <l>Stiamo a vedere</l>
+        <l>S’oggi riesce al fin. Biondello mio,</l>
+        <l>Lasciala, te ‘l dich’io, lasciala in rocca:</l>
+        <l>Meglio forse sarà se non ti tocca.</l>
+        <l>Ogni momento</l>
+        <l>Dicon le donne</l>
+        <l>Siamo colonne</l>
+        <l>Di fedeltà.</l>
+        <l>Ma picciol vento</l>
+        <l>D’un cincinnato</l>
+        <l>Inzibettato</l>
+        <l>Cader le fa.</l>
+        <l>Non dico delle brutte;</l>
+        <l>Son sode quasi tutte,</l>
+        <l>Se vento non ci va.</l>
+        <l>Delle belle</l>
+        <l>Vanarelle</l>
+        <l>Io non parlo;</l>
+        <l>Già si sa,</l>
+        <l>Già si vede</l>
+        <l>Che la fede</l>
+        <l>Nelle belle</l>
+        <l>È rarità.</l>
+        <l>(Parte.)</l>
+        <l>SCENA SETTIMA</l>
+        <l>Veduta interiore della rocca. Camera</l>
+        <l>di Celidora nella rocca stessa.</l>
+        <l>Celidora e Lavina, che ricamano.</l>
+        <l>CELIDORA:</l>
+        <l>Dura sorte d’una amante,</l>
+        <l>Che si nutre di speranza,</l>
+        <l>E se vien l’estremo istante,</l>
+        <l>Dubitare deve ancor!</l>
+        <l>S’egli pasce d’incostanza,</l>
+        <l>Perderà i suoi servi Amor.</l>
+      </sp>
+      <stage>CHICHIBIO:Io verrò poi.(Auretta parte).Quanto meglio staresti, Auretta miaChiusa con Celidora, e con LavinaIn quella torre. Il mondo al fin direbbe,Come si dice ognora:Don Pippo a CelidoraNon vuol sposo Biondello,Ma il Conte Lionetto. Essere sposoVuol Don Pippo a Lavina, e n’è geloso.Or ci saria la coda;Direbbesi, ch’è modaL’intendersi fra loroI servi, ed i padroni; onde d’accordoTengono là in prigion le lor ragazze.E il servo, ed il padron son teste pazze.Spira oggi l’anno appunto, che BiondelloAl Marchese giurò d’entrar con arte,O con denaro in quella torre, e poiCelidora sposar. Don Pippo astutoRise, e disse di sì.Biondello è ancor qui.Stiamo a vedereS’oggi riesce al fin. Biondello mio,Lasciala, te ‘l dich’io, lasciala in rocca:Meglio forse sarà se non ti tocca.Ogni momentoDicon le donneSiamo colonneDi fedeltà.Ma picciol ventoD’un cincinnatoInzibettatoCader le fa.Non dico delle brutte;Son sode quasi tutte,Se vento non ci va.Delle belleVanarelleIo non parlo;Già si sa,Già si vedeChe la fedeNelle belleÈ rarità.(Parte.)SCENA SETTIMAVeduta interiore della rocca. Cameradi Celidora nella rocca stessa.Celidora e Lavina, che ricamano.CELIDORA:Dura sorte d’una amante,Che si nutre di speranza,E se vien l’estremo istante,Dubitare deve ancor!S’egli pasce d’incostanza,Perderà i suoi servi Amor.</stage>
+      <sp who="#lavina">
+        <speaker>LAVINA:</speaker>
+        <l>(scherzando).</l>
+        <l>A me tocca lagnarmi, e non a voi,</l>
+        <l>Amabil Contessina.</l>
+        <l>Non è poi gran rovina, e a tutto male,</l>
+        <l>Se la forza prevale,</l>
+        <l>E un giovine perdete,</l>
+        <l>D’altro giovine al fin sposa voi siete;</l>
+        <l>Ma a me così non va;</l>
+        <l>Per mia fatalità</l>
+        <l>S’io perdo Calandrino,</l>
+        <l>Ad un vecchio m’accoppia il rio destino.</l>
+      </sp>
+      <stage>LAVINA(scherzando).A me tocca lagnarmi, e non a voi,Amabil Contessina.Non è poi gran rovina, e a tutto male,Se la forza prevale,E un giovine perdete,D’altro giovine al fin sposa voi siete;Ma a me così non va;Per mia fatalitàS’io perdo Calandrino,Ad un vecchio m’accoppia il rio destino.</stage>
+      <sp who="#celidora">
+        <speaker>CELIDORA:</speaker>
+        <l>(con dolce ironia):</l>
+        <l>Marchesina mia cara, o mamma mia!</l>
+        <l>Altro per me non v’è fatto a pennello,</l>
+        <l>Che il mio dolce Biondello, e s’io lo perdo,</l>
+        <l>Altri dell’amor mio non si lusinghi.</l>
+        <l>Pria passerò solinghi</l>
+        <l>Rinchiusa in questa rocca i giorni miei.</l>
+        <l>E d’altro io non sarei s’io fossi Europa,</l>
+        <l>E scendesse per me Giove qual toro.</l>
+        <l>Unico mio ristoro</l>
+        <l>Egli è, che il Conte Lionetto è savio,</l>
+        <l>Né ancora mai rispose</l>
+        <l>A quanto il padre mio già gli propose.</l>
+        <l>Ama la libertà, vuol viver solo,</l>
+        <l>Siegue il proverbio antico,</l>
+        <l>E so, che ad un amico,</l>
+        <l>Più d’una volta già s’ha dichiarato:</l>
+        <l>Meglio esser sol, che mal accompagnato.</l>
+      </sp>
+      <stage>CELIDORA(con dolce ironia):Marchesina mia cara, o mamma mia!Altro per me non v’è fatto a pennello,Che il mio dolce Biondello, e s’io lo perdo,Altri dell’amor mio non si lusinghi.Pria passerò solinghiRinchiusa in questa rocca i giorni miei.E d’altro io non sarei s’io fossi Europa,E scendesse per me Giove qual toro.Unico mio ristoroEgli è, che il Conte Lionetto è savio,Né ancora mai risposeA quanto il padre mio già gli propose.Ama la libertà, vuol viver solo,Siegue il proverbio antico,E so, che ad un amico,Più d’una volta già s’ha dichiarato:Meglio esser sol, che mal accompagnato.</stage>
+      <sp who="#lavina">
+        <speaker>LAVINA:</speaker>
+        <l>(come sopra):</l>
+        <l>Contessina mia figlia…</l>
+      </sp>
+      <stage>LAVINA(come sopra):Contessina mia figlia…</stage>
+      <sp who="#celidora">
+        <speaker>CELIDORA::</speaker>
+        <l>Ah tralasciamo</l>
+        <l>Questi titoli vani.</l>
+      </sp>
+      <sp who="#lavina">
+        <speaker>LAVINA::</speaker>
+        <l>Io sol m’avvezzo</l>
+        <l>Così a chiamarvi in caso.. .</l>
+      </sp>
+      <sp who="#celidora">
+        <speaker>CELIDORA::</speaker>
+        <l>In ogni caso noi saremo amiche.</l>
+        <l>(Si baciano.)</l>
+        <l>LAVINA:</l>
+        <l>Dunque, amica, per te se v’è un ristoro,</l>
+        <l>Niun ci sarà per me?</l>
+      </sp>
+      <stage>CELIDORA:In ogni caso noi saremo amiche.(Si baciano.)LAVINA:Dunque, amica, per te se v’è un ristoro,Niun ci sarà per me?</stage>
+      <sp who="#celidora">
+        <speaker>CELIDORA::</speaker>
+        <l>Sì, la speranza.</l>
+        <l>Ah sì, che i fidi amanti</l>
+        <l>Sempre veglian per noi. Ma la custode</l>
+        <l>(S’ode il campanello della custode.)</l>
+        <l>A sé m’appella, forse per le nozze</l>
+        <l>Gli ordini mi darà. Io vado a lei</l>
+        <l>Tu vanne alla tua stanza, ivi, o in giardino</l>
+        <l>M’attendi, or’or gli amici</l>
+        <l>Saranno al varco.</l>
+        <l>(Parte.)</l>
+        <l>LAVINA:</l>
+        <l>Sì, sarem felici.</l>
+        <l>Bella sorte d’una amante</l>
+        <l>Cui, se visse di speranza,</l>
+        <l>Alla fin l’estremo istante</l>
+        <l>Ricompensa ogni dolor.</l>
+        <l>Chi in amor non ha costanza</l>
+        <l>Mai non prova amico Amor.</l>
+        <l>(Parte.)</l>
+        <l>SCENA OTTAVA</l>
+        <l>Appartamento di Don Pippo.</l>
+        <l>Don Pippo in vesti di camera, poi</l>
+        <l>Auretta, indi Chichibio.</l>
+        <l>DON PIPPO:</l>
+        <l>Pazzissimo Biondello! Il giorno è questo,</l>
+        <l>Che resterai scornato,</l>
+        <l>Spolpato, spennacchiato. Un anno intiero</l>
+        <l>Non ti bastò di tempo</l>
+        <l>Per ficcar quel tuo naso nella rocca</l>
+        <l>E conseguir mia figlia? Oh quanto meglio</l>
+        <l>Direbbe il motto su quel tuo portone,</l>
+        <l>Che sì erudito par, e sì facondo:</l>
+        <l>Il più pazzo di me non vide il mondo!</l>
+      </sp>
+      <stage>CELIDORA:Sì, la speranza.Ah sì, che i fidi amantiSempre veglian per noi. Ma la custode(S’ode il campanello della custode.)A sé m’appella, forse per le nozzeGli ordini mi darà. Io vado a leiTu vanne alla tua stanza, ivi, o in giardinoM’attendi, or’or gli amiciSaranno al varco.(Parte.)LAVINA:Sì, sarem felici.Bella sorte d’una amanteCui, se visse di speranza,Alla fin l’estremo istanteRicompensa ogni dolor.Chi in amor non ha costanzaMai non prova amico Amor.(Parte.)SCENA OTTAVAAppartamento di Don Pippo.Don Pippo in vesti di camera, poiAuretta, indi Chichibio.DON PIPPO:Pazzissimo Biondello! Il giorno è questo,Che resterai scornato,Spolpato, spennacchiato. Un anno intieroNon ti bastò di tempoPer ficcar quel tuo naso nella roccaE conseguir mia figlia? Oh quanto meglioDirebbe il motto su quel tuo portone,Che sì erudito par, e sì facondo:Il più pazzo di me non vide il mondo!</stage>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Eccellenza, buongiorno!</l>
+      </sp>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO::</speaker>
+        <l>O mia diletta, o melliflua Auretta!</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Che comanda?</l>
+      </sp>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO::</speaker>
+        <l>Tu sei la mia Didone,</l>
+        <l>E dopo le mie nozze, immantinente</l>
+        <l>Esser vogl’io Enea, il tuo servente.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Capperi! questa sì sarìa fortuna !</l>
+      </sp>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO::</speaker>
+        <l>Ma Chichibio che fa?</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Batte la luna.</l>
+      </sp>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO::</speaker>
+        <l>È reo di crimen lese:</l>
+        <l>Inarca il ciglio… sogna…</l>
+      </sp>
+      <stage>DON PIPPO:È reo di crimen lese:Inarca il ciglio… sogna…</stage>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Forse le nozze?</l>
+      </sp>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO::</speaker>
+        <l>Appunto! Citerea,</l>
+        <l>Le Grazie e gli Amoretti</l>
+        <l>All’Eccellenza mia</l>
+        <l>Festeggiavano intorno.</l>
+        <l>Era sul far del giorno, e mentre andavo</l>
+        <l>In dolce visibilio, il maledetto</l>
+        <l>Destommi, e mi trovai solo nel letto.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Chichibio non ne ha colpa, ei non sapea…</l>
+      </sp>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO::</speaker>
+        <l>Sarà così, se tu lo dici; adunque</l>
+        <l>Pastosissima Auretta</l>
+        <l>In grazia tua, e già, che sposo io sono,</l>
+        <l>Venga, mi baci il lembo e gli perdono!</l>
+        <l>(Accenna il lembo della veste.)</l>
+        <l>(Entra Chichibio.)</l>
+        <l>AURETTA:</l>
+        <l>Eccolo qui!</l>
+      </sp>
+      <stage>DON PIPPO:Sarà così, se tu lo dici; adunquePastosissima AurettaIn grazia tua, e già, che sposo io sono,Venga, mi baci il lembo e gli perdono!(Accenna il lembo della veste.)(Entra Chichibio.)AURETTA:Eccolo qui!</stage>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO::</speaker>
+        <l>Chichibio, quel ch’è stato</l>
+        <l>È stato. Ora m’udite</l>
+        <l>E tutti i cenni miei fidi eseguite!</l>
+        <l>Siano pronte alle gran nozze</l>
+        <l>Cento e trenta e sei carrozze.</l>
+        <l>Da ippogrifi sian tirate,</l>
+        <l>Che i più lesti son di piè.</l>
+        <l>All’Ariosto domandate</l>
+        <l>La lor stalla omai dov’è.</l>
+        <l>Le camicie a centinaia,</l>
+        <l>Calze e scarpe cento paia</l>
+        <l>Le perrucche di Strigonia</l>
+        <l>Siano in punto trentatré.</l>
+        <l>Già verran di Babilonia</l>
+        <l>Coi pennacchi i miei lacchè.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>E i vestiti, ed i cappelli?</l>
+      </sp>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO::</speaker>
+        <l>Tutte l’ore nuovi, e belli.</l>
+      </sp>
+      <sp who="#chicchibio">
+        <speaker>CHICCHIBIO::</speaker>
+        <l>Gioie, fibbie, occhiali, e guanti?</l>
+      </sp>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO::</speaker>
+        <l>Non vuò cederla ad un re;</l>
+        <l>Tutto sia di brillanti</l>
+        <l>Di colore mordorè.</l>
+        <l>(Ad Auretta:)</l>
+        <l>A te raccomando</l>
+        <l>La stalla, e cantina,</l>
+        <l>16#</l>
+        <l>Staffieri, scudieri,</l>
+        <l>E i cabriolè.</l>
+        <l>(A Chichibio:)</l>
+        <l>Tu, va preparando</l>
+        <l>Dispensa, cucina,</l>
+        <l>I letti, confetti,</l>
+        <l>Liquori, e caffè,</l>
+        <l>E quando comando</l>
+        <l>Sia pronto il suppé.</l>
+        <l>(Sta pensando.)</l>
+      </sp>
+      <stage>DON PIPPO:Non vuò cederla ad un re;Tutto sia di brillantiDi colore mordorè.(Ad Auretta:)A te raccomandoLa stalla, e cantina,16#Staffieri, scudieri,E i cabriolè.(A Chichibio:)Tu, va preparandoDispensa, cucina,I letti, confetti,Liquori, e caffè,E quando comandoSia pronto il suppé.(Sta pensando.)</stage>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>O questa sì, ch’è bella,</l>
+        <l>In stalla una zitella</l>
+        <l>Farà comparsa affé.</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Oh questa è graziosina,</l>
+        <l>Farò una gelatina,</l>
+        <l>Farò un buon fricassé.</l>
+      </sp>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO::</speaker>
+        <l>Andate,</l>
+        <l>(Sono per partire.)</l>
+        <l>Restate,</l>
+        <l>(Si fermano.)</l>
+        <l>Udite, partite</l>
+        <l>(Partono ridendo.)</l>
+        <l>Ognun badi a sé.</l>
+        <l>Qual giorno felice</l>
+        <l>Godere mi lice</l>
+        <l>Qual gioia per me !</l>
+        <l>(parte)</l>
+        <l>SCENA UNDICESIMA</l>
+        <l>A destra, mura, che rinchiudono la città, di cui</l>
+        <l>si vedranno gli edifici più alti. Queste formano</l>
+        <l>un semicircolo, il quale ha in prospettiva una</l>
+        <l>fortezza, di cui non si vede che la parte di</l>
+        <l>dietro, cioè il rovescio d’una fabbrica antica</l>
+        <l>con una torre alta quattro piani. Fra questa</l>
+        <l>fabbrica, e le muraglie, che la circondano,</l>
+        <l>dalle cime d’alti cipressi si conoscerà esservi</l>
+        <l>un giardino. Avanti le mura della rocca si</l>
+        <l>vedrà una gran fossa con bastione, che va a</l>
+        <l>finire con un folto bosco, che si vede dietro alla</l>
+        <l>fortezza, e viene a terminare la parte sinistra</l>
+        <l>del semicircolo, opposta alle mura della città.</l>
+        <l>Nell’angolo della muraglia, che si perde fra il</l>
+        <l>bosco, si vede un pertugio come una porta</l>
+        <l>diroccata ricoperto di frondi degli alberi vicini,</l>
+        <l>da cui sogliono segretamente uscire le due</l>
+        <l>donzelle.</l>
+        <l>Biondello, poi Celidora; Calandrino, poi</l>
+        <l>Lavina.</l>
+        <l>BIONDELLO:</l>
+        <l>L’ultima volta al fin, mura adorate</l>
+        <l>Il tergo mi mostrate, e pria, che Febo</l>
+        <l>Agli antipodi scenda,</l>
+        <l>Vedrovvi il sen. All’arte, alle ricchezze,</l>
+        <l>A queste mie bellezze la tua torre,</l>
+        <l>Scimunito Don Pippo,</l>
+        <l>Oggi ceder vedrai, e darle il sacco</l>
+        <l>Stimo men d’una pippa di tabacco.</l>
+        <l>Che parli, che dica</l>
+        <l>Quel viso di pazzo;</l>
+        <l>Ho Venere amica,</l>
+        <l>Cupido è per me.</l>
+        <l>De’ matti non curo</l>
+        <l>La furia, e schiamazzo:</l>
+        <l>Del mio, più sicuro</l>
+        <l>Trionfo non c’è.</l>
+        <l>Oh quanto voglio ridere</l>
+        <l>Stasera a quel suppé;</l>
+        <l>Sentir quel vecchio a stridere</l>
+        <l>E un gran baccano affé.</l>
+        <l>Ma parmi là in quel lato,</l>
+        <l>Che si muovan le frondi.</l>
+        <l>In quell’ombroso speco</l>
+        <l>Voglio celarmi, e vuo’, s’è Celidora,</l>
+        <l>Sorprenderla, pian pian uscendo fuora.</l>
+        <l>(Si nasconde.)</l>
+        <l>CELIDORA</l>
+        <l>(esce dal pertugio):</l>
+        <l>S’oggi, oh dèi, sperar mi fate</l>
+        <l>La mia cara libertà;</l>
+        <l>Ah di me non vi burlate;</l>
+        <l>Sarìa troppa crudeltà.</l>
+      </sp>
+      <stage>DON PIPPO:Andate,(Sono per partire.)Restate,(Si fermano.)Udite, partite(Partono ridendo.)Ognun badi a sé.Qual giorno feliceGodere mi liceQual gioia per me !(parte)SCENA UNDICESIMAA destra, mura, che rinchiudono la città, di cuisi vedranno gli edifici più alti. Queste formanoun semicircolo, il quale ha in prospettiva unafortezza, di cui non si vede che la parte didietro, cioè il rovescio d’una fabbrica anticacon una torre alta quattro piani. Fra questafabbrica, e le muraglie, che la circondano,dalle cime d’alti cipressi si conoscerà esserviun giardino. Avanti le mura della rocca sivedrà una gran fossa con bastione, che va afinire con un folto bosco, che si vede dietro allafortezza, e viene a terminare la parte sinistradel semicircolo, opposta alle mura della città.Nell’angolo della muraglia, che si perde fra ilbosco, si vede un pertugio come una portadiroccata ricoperto di frondi degli alberi vicini,da cui sogliono segretamente uscire le duedonzelle.Biondello, poi Celidora; Calandrino, poiLavina.BIONDELLO:L’ultima volta al fin, mura adorateIl tergo mi mostrate, e pria, che FeboAgli antipodi scenda,Vedrovvi il sen. All’arte, alle ricchezze,A queste mie bellezze la tua torre,Scimunito Don Pippo,Oggi ceder vedrai, e darle il saccoStimo men d’una pippa di tabacco.Che parli, che dicaQuel viso di pazzo;Ho Venere amica,Cupido è per me.De’ matti non curoLa furia, e schiamazzo:Del mio, più sicuroTrionfo non c’è.Oh quanto voglio ridereStasera a quel suppé;Sentir quel vecchio a stridereE un gran baccano affé.Ma parmi là in quel lato,Che si muovan le frondi.In quell’ombroso specoVoglio celarmi, e vuo’, s’è Celidora,Sorprenderla, pian pian uscendo fuora.(Si nasconde.)CELIDORA(esce dal pertugio):S’oggi, oh dèi, sperar mi fateLa mia cara libertà;Ah di me non vi burlate;Sarìa troppa crudeltà.</stage>
+      <sp who="#biondello">
+        <speaker>BIONDELLO:</speaker>
+        <l>(uscendo):</l>
+        <l>Qui, son io, pupille amate,</l>
+        <l>Dubbio alcun non vi sarà.</l>
+        <l>A Don Pippo le risate</l>
+        <l>Questa sera ognun farà.</l>
+      </sp>
+      <stage>BIONDELLO(uscendo):Qui, son io, pupille amate,Dubbio alcun non vi sarà.A Don Pippo le risateQuesta sera ognun farà.</stage>
+      <sp who="#lavina">
+        <speaker>LAVINA:</speaker>
+        <l>(uscendo dal pertugio):</l>
+        <l>Chi mi addita quel ch’adoro?</l>
+        <l>Calandrino mio dov’è?</l>
+        <l>S’ei non vien, zitella io moro;</l>
+        <l>Non v’è medico per me.</l>
+      </sp>
+      <stage>LAVINA(uscendo dal pertugio):Chi mi addita quel ch’adoro?Calandrino mio dov’è?S’ei non vien, zitella io moro;Non v’è medico per me.</stage>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>Ecco qui, mio bel tesoro,</l>
+        <l>Ho un buon recipe per te,</l>
+        <l>Buone nuove a tuo ristoro,</l>
+        <l>Presto udrai il come, il che.</l>
+      </sp>
+      <sp who="#biondello">
+        <speaker>BIONDELLO::</speaker>
+        <l>In un amico</l>
+        <l>Confido e spero.</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>Io ve lo dico:</l>
+        <l>Oggi verrà!</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI::</speaker>
+        <l>Ma qui ti voglio,</l>
+        <l>E se non viene?</l>
+        <l>Un bell’imbroglio</l>
+        <l>Sarebbe affé.</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>Zitti, zitti, or mi sovviene…</l>
+        <l>O la barca di Caronte,</l>
+        <l>O di Coclite quel ponte…</l>
+      </sp>
+      <sp who="#celidora, lavina, biondello">
+        <speaker>CELIDORA, LAVINA, BIONDELLO::</speaker>
+        <l>Meglio il ponte piace a me.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI::</speaker>
+        <l>Questo è l’unico espediente,</l>
+        <l>Or si vada a trovar gente</l>
+        <l>Fuora, fuora! All’armi, all’armi!</l>
+        <l>Qui fatica non si sparmi,</l>
+        <l>Non si guardi, non si tardi!</l>
+        <l>Più non chiedasi il perché!</l>
+        <l>(Biondello e Calandrino partono.)</l>
+        <l>(SCENA DODICESIMA, SCENA TREDICESIMA, SCENA</l>
+        <l>QUATTORDICESIMA)</l>
+        <l>Calandrino, fuori di sé, annuncia che Pantea</l>
+        <l>non è potuta giungere a causa di una tempesta.</l>
+        <l>Questa, travestita da mora, avrebbe dovuto</l>
+        <l>presentare alla fiera di carnevale la finta oca</l>
+        <l>del Cairo, un meraviglioso congegno a forma</l>
+        <l>di oca ideato da Calandrino, il cui meccanismo</l>
+        <l>viene azionato da un uomo nascosto al suo</l>
+        <l>interno: riuscendo a convincere Don Pippo</l>
+        <l>a presentare l’oca alle ragazze prigioniere,</l>
+        <l>sarebbe stato possibile a Biondello ivi</l>
+        <l>nascosto di entrare nella torre. Ma</l>
+        <l>l’imprevisto costringe ad imbastire un nuovo</l>
+        <l>piano in quattro e quattr’otto: con la massima</l>
+        <l>rapidità ed il concorso di tutti si costruirà un</l>
+        <l>ponte che raggiunga la torre, mentre Auretta e</l>
+        <l>Chichibio impediranno a Don Pippo di uscire</l>
+        <l>dalla sua stanza, sottraendogli tutti i vestiti.</l>
+      </sp>
+      <stage>TUTTI:Questo è l’unico espediente,Or si vada a trovar genteFuora, fuora! All’armi, all’armi!Qui fatica non si sparmi,Non si guardi, non si tardi!Più non chiedasi il perché!(Biondello e Calandrino partono.)(SCENA DODICESIMA, SCENA TREDICESIMA, SCENAQUATTORDICESIMA)Calandrino, fuori di sé, annuncia che Panteanon è potuta giungere a causa di una tempesta.Questa, travestita da mora, avrebbe dovutopresentare alla fiera di carnevale la finta ocadel Cairo, un meraviglioso congegno a formadi oca ideato da Calandrino, il cui meccanismoviene azionato da un uomo nascosto al suointerno: riuscendo a convincere Don Pippoa presentare l’oca alle ragazze prigioniere,sarebbe stato possibile a Biondello ivinascosto di entrare nella torre. Mal’imprevisto costringe ad imbastire un nuovopiano in quattro e quattr’otto: con la massimarapidità ed il concorso di tutti si costruirà unponte che raggiunga la torre, mentre Auretta eChichibio impediranno a Don Pippo di usciredalla sua stanza, sottraendogli tutti i vestiti.</stage>
+      <sp who="#scena quindicesima">
+        <speaker>SCENA QUINDICESIMA:</speaker>
+        <l>Veduta antecedente della rocca. Calandrino</l>
+        <l>e Biondello con falegnami, che portano</l>
+        <l>la legna per il ponte, poi Celidora,</l>
+        <l>e Lavinia salite per mezzo di una scala</l>
+        <l>a mano sopra le mura indi Chichibio</l>
+        <l>e Auretta, alla fine Don Pippo con guardie</l>
+        <l>della rocca.</l>
+        <l>CALANDRINO:</l>
+        <l>Su via, putti, presto, presto!</l>
+        <l>Impiantate cavalletti,</l>
+        <l>E le travi</l>
+        <l>Colle chiavi</l>
+        <l>Rassodatele a dover!</l>
+      </sp>
+      <stage>SCENA QUINDICESIMAVeduta antecedente della rocca. Calandrinoe Biondello con falegnami, che portanola legna per il ponte, poi Celidora,e Lavinia salite per mezzo di una scalaa mano sopra le mura indi Chichibioe Auretta, alla fine Don Pippo con guardiedella rocca.CALANDRINO:Su via, putti, presto, presto!Impiantate cavalletti,E le traviColle chiaviRassodatele a dover!</stage>
+      <sp who="#biondello">
+        <speaker>BIONDELLO::</speaker>
+        <l>Capomastro, siate lesto,</l>
+        <l>Solo un’asse vi s’assetti</l>
+        <l>Senza chiassi,</l>
+        <l>Purch’io passi</l>
+        <l>Senz’avervi da cader.</l>
+      </sp>
+      <sp who="#lavina">
+        <speaker>LAVINA::</speaker>
+        <l>Corri, corri, Celidora!</l>
+        <l>Qui si suda, e si lavora,</l>
+        <l>Per la nostra libertà.</l>
+      </sp>
+      <sp who="#celidora">
+        <speaker>CELIDORA::</speaker>
+        <l>Bravi, bravi, allegramente!</l>
+        <l>Già vi manca poco o niente,</l>
+        <l>E contento ognun sarà.</l>
+      </sp>
+      <sp who="#celidora, lavina, biondello">
+        <speaker>CELIDORA, LAVINA, BIONDELLO,:</speaker>
+        <l>CALANDRINO:</l>
+        <l>A quel vecchio maledetto,</l>
+        <l>Mostreremo i fichi freschi;</l>
+        <l>E quel conte Lionetto</l>
+        <l>Con gran naso resterà.</l>
+        <l>Ce la godremo</l>
+        <l>Poi questa sera,</l>
+        <l>E rideremo</l>
+        <l>In verità.</l>
+      </sp>
+      <sp who="#celidora, lavina">
+        <speaker>CELIDORA, LAVINA::</speaker>
+        <l>Ma se il Marchese</l>
+        <l>Ci arriva addosso?</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI::</speaker>
+        <l>A nostre spese</l>
+        <l>Si riderà!</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>(frettolosa):</l>
+        <l>Miei signori, oh guai!</l>
+      </sp>
+      <stage>AURETTA:(frettolosa):Miei signori, oh guai!</stage>
+      <sp who="#celidora, lavina, biondello">
+        <speaker>CELIDORA, LAVINA, BIONDELLO,:</speaker>
+        <l>CALANDRINO:</l>
+        <l>Cosa dici?</l>
+        <l>Che mai fu?</l>
+      </sp>
+      <sp who="#auretta, chichibio">
+        <speaker>AURETTA, CHICHIBIO::</speaker>
+        <l>Il padrone è già sortito,</l>
+        <l>Il Marchese non c’è più.</l>
+      </sp>
+      <sp who="#calandrino">
+        <speaker>CALANDRINO::</speaker>
+        <l>Sarà forse andato in fiera</l>
+        <l>A comprare qualche cosa</l>
+        <l>Per Lavina sua sposa,</l>
+        <l>Qui venir non penserà.</l>
+      </sp>
+      <sp who="#celidora, lavina, biondello">
+        <speaker>CELIDORA, LAVINA, BIONDELLO,:</speaker>
+        <l>CALANDRINO:</l>
+        <l>Ma, se pur venirci pensa,</l>
+        <l>Poiché il diavol non fa festa,</l>
+        <l>Io scommetto la mia testa</l>
+        <l>Ch’ognun mal la passerà.</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Andiam spiando</l>
+        <l>Auretta mia</l>
+        <l>Per ogni via</l>
+        <l>Della città.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Andiam. Se a caso</l>
+        <l>Qui ‘l caccia il vento</l>
+        <l>In un momento</l>
+        <l>Saremo qua.</l>
+        <l>(Auretta e Chichibio</l>
+        <l>partono, poi ritornano.)</l>
+        <l>DON PIPPO</l>
+        <l>(da sé, di lontano):</l>
+        <l>Corpo di Satanasso!</l>
+        <l>Cosa vuol dir quel chiasso?</l>
+        <l>Che diavol si lavora?</l>
+        <l>Che gente è quella lì?</l>
+      </sp>
+      <stage>AURETTA:Andiam. Se a casoQui ‘l caccia il ventoIn un momentoSaremo qua.(Auretta e Chichibiopartono, poi ritornano.)DON PIPPO(da sé, di lontano):Corpo di Satanasso!Cosa vuol dir quel chiasso?Che diavol si lavora?Che gente è quella lì?</stage>
+      <sp who="#celidora, lavina, biondello">
+        <speaker>CELIDORA, LAVINA, BIONDELLO,:</speaker>
+        <l>CALANDRINO</l>
+        <l>(sottovoce):</l>
+        <l>Ma il ponte non va avanti,</l>
+        <l>Pur gl’uomini son tanti,</l>
+        <l>Travaglian più d’un ora.</l>
+        <l>Che gente è questa qui?</l>
+      </sp>
+      <stage>CELIDORA, LAVINA, BIONDELLO,CALANDRINO(sottovoce):Ma il ponte non va avanti,Pur gl’uomini son tanti,Travaglian più d’un ora.Che gente è questa qui?</stage>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO:</speaker>
+        <l>(verso la porta della rocca):</l>
+        <l>Fuora, guardie della rocca,</l>
+        <l>Collo spiedo, e colla rocca,</l>
+        <l>Ite meco, e quei bricconi</l>
+        <l>Siate preste ad arrestar.</l>
+      </sp>
+      <stage>DON PIPPO(verso la porta della rocca):Fuora, guardie della rocca,Collo spiedo, e colla rocca,Ite meco, e quei bricconiSiate preste ad arrestar.</stage>
+      <sp who="#celidora, lavina, auretta">
+        <speaker>CELIDORA, LAVINA, AURETTA,:</speaker>
+        <l>CHICHIBIO, BIONDELLO, CALANDRINO:</l>
+        <l>Viene la guardia!</l>
+        <l>Ah, siam traditi!</l>
+        <l>Siamo spediti,</l>
+        <l>Ahimè, ahimè!</l>
+        <l>(Auretta e Chichibio corrono.)</l>
+        <l>TUTTI con DON PIPPO:</l>
+        <l>Non c’è più tempo,</l>
+        <l>Non c’è ragione,</l>
+        <l>Andar prigione</l>
+        <l>Convien affé !</l>
+      </sp>
+      <stage>CELIDORA, LAVINA, AURETTA,CHICHIBIO, BIONDELLO, CALANDRINO:Viene la guardia!Ah, siam traditi!Siamo spediti,Ahimè, ahimè!(Auretta e Chichibio corrono.)TUTTI con DON PIPPO:Non c’è più tempo,Non c’è ragione,Andar prigioneConvien affé !</stage>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO::</speaker>
+        <l>Io sono offeso!</l>
+        <l>La mia Eccellenza</l>
+        <l>La prepotenza</l>
+        <l>Soffrir non de’!</l>
+        <l>(Alle ragazze):</l>
+        <l>E voi pettegole,</l>
+        <l>La pagherete,</l>
+        <l>V’accorgerete</l>
+        <l>Dopo il suppé!</l>
+      </sp>
+      <stage>DON PIPPO:Io sono offeso!La mia EccellenzaLa prepotenzaSoffrir non de’!(Alle ragazze):E voi pettegole,La pagherete,V’accorgereteDopo il suppé!</stage>
+      <sp who="#lavina">
+        <speaker>LAVINA::</speaker>
+        <l>Io cercavo il cardellino,</l>
+        <l>Che di gabbia mi fuggì.</l>
+      </sp>
+      <sp who="#celidora">
+        <speaker>CELIDORA::</speaker>
+        <l>Ascoltavo un canarino,</l>
+        <l>Il cui canto mi rapì.</l>
+      </sp>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO::</speaker>
+        <l>Voi tacete, siete pazze,</l>
+        <l>Questa è tutta falsità!</l>
+      </sp>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO::</speaker>
+        <l>Su via, guardie, li prendete,</l>
+        <l>In prigion il conducete,</l>
+        <l>Ed ognun si pentirà.</l>
+      </sp>
+      <sp who="#don pippo">
+        <speaker>DON PIPPO::</speaker>
+        <l>Aito, all’armi, o miei soldati!</l>
+        <l>Orsù via! Venite a’ fatti,</l>
+        <l>Si vedrà chi vincerà.</l>
+      </sp>
+      <stage>TUTTI escluso DON PIPPO:Resteranno minchionati,A restar saremmo matti,Si vedrà chi vincerà.(Scappano tutti via e le guardie conDon Pippo gli corrono dietro.)APPENDICE</stage>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Ho un pensiero nel cervello</l>
+        <l>Onde fo la conclusione,</l>
+        <l>Che Biondello in battello</l>
+        <l>Quella torre vuol scalar.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Senti il mio ch’è ancor più bello:</l>
+        <l>Tu sei pur, o fanfarone,</l>
+        <l>L’asinello, pazzarello,</l>
+        <l>Che per l’aria vuol volar.</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Obbligato, obbligato!</l>
+        <l>Ma cerchiamo quella chiave.</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>Ben l’approvo, ben l’approvo ma,</l>
+      </sp>
+      <sp who="#a due">
+        <speaker>A DUE::</speaker>
+        <l>Ma ove sia, chi potrìa</l>
+        <l>In cent’anni indovinar?</l>
+      </sp>
+      <sp who="#auretta">
+        <speaker>AURETTA::</speaker>
+        <l>A temer le guardie abbiamo!</l>
+      </sp>
+      <sp who="#chichibio">
+        <speaker>CHICHIBIO::</speaker>
+        <l>Se d’Astolfo il corno trovo,</l>
+        <l>Son chi sono, con quel suono</l>
+        <l>Quelle guardie vuo’ scacciar.</l>
+      </sp>
+      <sp who="#f i n e">
+        <speaker>F I N E:</speaker>
+      </sp>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">arisina</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="le sonatrici">
+            <persName>LE SONATRICI:</persName>
+          </person>
+          <person xml:id="i compagni">
+            <persName>I COMPAGNI:</persName>
+          </person>
+          <person xml:id="ugo d’este">
+            <persName>UGO D’ESTE:</persName>
+          </person>
+          <person xml:id="atto terzo">
+            <persName>ATTO TERZO:</persName>
+          </person>
+          <person xml:id="il coro delle fanti">
+            <persName>IL CORO DELLE FANTI:</persName>
+          </person>
+          <person xml:id="nicolò">
+            <persName>NICOLÒ:</persName>
+          </person>
+          <person xml:id="nicolò d’este">
+            <persName>NICOLÒ D’ESTE:</persName>
+          </person>
+          <person xml:id="parisina">
+            <persName>PARISINA:</persName>
+          </person>
+          <person xml:id="il coro delle fanti e dei garzoni">
+            <persName>IL CORO DELLE FANTI E DEI GARZONI:</persName>
+          </person>
+          <person xml:id="il coro dei compagni">
+            <persName>IL CORO DEI COMPAGNI:</persName>
+          </person>
+          <person xml:id="aldobrandino rangone">
+            <persName>ALDOBRANDINO RANGONE:</persName>
+          </person>
+          <person xml:id="voci d’uomini d’arme">
+            <persName>VOCI D’UOMINI D’ARME:</persName>
+          </person>
+          <person xml:id="aldobrandino">
+            <persName>ALDOBRANDINO:</persName>
+          </person>
+          <person xml:id="le voci dei vittoriosi">
+            <persName>LE VOCI DEI VITTORIOSI:</persName>
+          </person>
+          <person xml:id="stella dell’assassino">
+            <persName>STELLA DELL’ASSASSINO:</persName>
+          </person>
+          <person xml:id="la sequenza delle tre donzelle">
+            <persName>LA SEQUENZA DELLE TRE DONZELLE:</persName>
+          </person>
+          <person xml:id="tutto il coro">
+            <persName>TUTTO IL CORO:</persName>
+          </person>
+          <person xml:id="la verde">
+            <persName>LA VERDE:</persName>
+          </person>
+          <person xml:id="la seconda compagnia">
+            <persName>LA SECONDA COMPAGNIA:</persName>
+          </person>
+          <person xml:id="le litanie lauretane">
+            <persName>LE LITANIE LAURETANE:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="la fante">
+            <persName>LA FANTE:</persName>
+          </person>
+          <person xml:id="la cantilena dei marinai">
+            <persName>LA CANTILENA DEI MARINAI:</persName>
+          </person>
+          <person xml:id="la terza compagnia">
+            <persName>LA TERZA COMPAGNIA:</persName>
+          </person>
+          <person xml:id="il coro dei cacciatori">
+            <persName>IL CORO DEI CACCIATORI:</persName>
+          </person>
+          <person xml:id="laus virginis">
+            <persName>LAUS VIRGINIS:</persName>
+          </person>
+          <person xml:id="antiphona">
+            <persName>ANTIPHONA:</persName>
+          </person>
+          <person xml:id="atto quarto">
+            <persName>ATTO QUARTO:</persName>
+          </person>
+          <person xml:id="le fanti">
+            <persName>LE FANTI:</persName>
+          </person>
+          <person xml:id="f i n e">
+            <persName>F I N E:</persName>
+          </person>
+          <person xml:id="ugo">
+            <persName>UGO:</persName>
+          </person>
+          <person xml:id="voci sparse">
+            <persName>VOCI SPARSE:</persName>
+          </person>
+          <person xml:id="la madre">
+            <persName>LA MADRE:</persName>
+          </person>
+          <person xml:id="la prima compagnia">
+            <persName>LA PRIMA COMPAGNIA:</persName>
+          </person>
+          <person xml:id="la quarta compagnia">
+            <persName>LA QUARTA COMPAGNIA:</persName>
+          </person>
+          <person xml:id="il grido dei combattenti">
+            <persName>IL GRIDO DEI COMBATTENTI:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>Personaggi</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>Ohimè grido il mattino, oimè la sera,</l>
+        <l>oimè la notte, oimè da mezzo giorno,</l>
+        <l>oimè di verno, oimè di primavera,</l>
+        <l>oimè quando la state fa ritorno,</l>
+        <l>oimè se il cor si strugge, oimè se spera,</l>
+        <l>oimè s’io poso, oimè se vado a torno,</l>
+        <l>oimè se dormo, oimè da tutte l’ore,</l>
+        <l>oimè pena, oimè doglia, oimè ‘l mio core!</l>
+      </sp>
+      <sp who="#la prima compagnia">
+        <speaker>LA PRIMA COMPAGNIA:</speaker>
+        <l>Gridate tutti, amanti, al foco al foco</l>
+        <l>al foco che mi strugge per amore,</l>
+        <l>correte tutti insieme al loco al loco</l>
+        <l>al loco dove brucia lo mio core.</l>
+      </sp>
+      <sp who="#la seconda compagnia">
+        <speaker>LA SECONDA COMPAGNIA:</speaker>
+        <l>La rocca ben fondata spacca spacca</l>
+        <l>con le bombarde se prendere la vuoi;</l>
+        <l>il leone adirato stracca stracca</l>
+        <l>ché in altro modo vincer non lo puoi.</l>
+      </sp>
+      <sp who="#la terza compagnia">
+        <speaker>LA TERZA COMPAGNIA:</speaker>
+        <l>Amor grida al mio spirto: fora fora</l>
+        <l>fora da questo corpo, spazza spazza!</l>
+        <l>Amor grida più forte: mora mora!</l>
+        <l>Grida il crudel tiranno: ammazza ammazza!</l>
+      </sp>
+      <sp who="#la quarta compagnia">
+        <speaker>LA QUARTA COMPAGNIA:</speaker>
+        <l>Carne carne, ch’io sono a tradimento</l>
+        <l>d’amor ferito, correte correte!</l>
+        <l>Alla morte alla morte, ch’io son spento!</l>
+        <l>Arme arme, soccorrete soccorrete!</l>
+      </sp>
+      <sp who="#tutto il coro">
+        <speaker>TUTTO IL CORO:</speaker>
+        <l>La morte grida e dice: Viene viene!</l>
+        <l>A sacco a sacco, vendetta vendetta!</l>
+        <l>Rispondo e dico: Or ecco le mie vene.</l>
+        <l>Grida ella: Falce falce! Aspetta aspetta!</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Per Madonna Ferrara,</l>
+        <l>ogni colpo mi falla!</l>
+        <l>Non tien la mira la balestra. Alcuno</l>
+        <l>di voi, ah certo, m’ha falsato l’arme</l>
+        <l>per tristizia. Io lo so.</l>
+      </sp>
+      <sp who="#i compagni">
+        <speaker>I COMPAGNI:</speaker>
+        <l>per tristizia. Io lo so. – Che dici mai?</l>
+        <l>Be’, togli questa!</l>
+        <l>Be’, togli questa! – Questa</l>
+        <l>che fu provata da Maestro Fiore</l>
+        <l>il Friolano.</l>
+        <l>– Prendi la mia. Ripròvati con questa.</l>
+        <l>– Se alcuno ti falsò arco o teniere</l>
+        <l>o corda, eleggi quale ti sia meglio</l>
+        <l>e riprova.</l>
+        <l>e riprova. – Non arco, non teniere,</l>
+        <l>non corda, ma sì l’occhio a mira certa</l>
+        <l>e le gomita ferme</l>
+        <l>e salde le calcagna;</l>
+        <l>ché non vale quadrello d’ariento</l>
+        <l>a far il buon balestratore.</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>a far il buon balestratore. Ma</l>
+        <l>di ferro mi valga, Azzo, a configgerti</l>
+        <l>la lingua lunga al mento</l>
+        <l>e il mento alla strozza,</l>
+        <l>se non l’alloghi.</l>
+      </sp>
+      <sp who="#aldobrandino rangone">
+        <speaker>ALDOBRANDINO RANGONE:</speaker>
+        <l>se non l’alloghi. O mio</l>
+        <l>Ugo, perché t’adiri?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Ugo, perché t’adiri? Alcuno ghigna?</l>
+        <l>Volete or dunque ch’io riprovi? Stanco</l>
+        <l>io son di balestrare a segno morto.</l>
+        <l>Volete voi combattere? Raccolgo</l>
+        <l>l’arme che mi falsaste,</l>
+        <l>e pur con questa io dico</l>
+        <l>che solo valgo contra tutti voi.</l>
+        <l>Balestrerò senza pavese e senza</l>
+        <l>giaco, e col capo</l>
+        <l>scoperto, e a tutta gola</l>
+        <l>cantando lo strambotto del macello.</l>
+        <l>“Menatemi al macel se far volete</l>
+        <l>cosa che piaccia al mio dannato core”.</l>
+      </sp>
+      <sp who="#aldobrandino rangone">
+        <speaker>ALDOBRANDINO RANGONE:</speaker>
+        <l>O Ugo, o Ugo, che follia t’acceca?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Attutar la follia di primavera</l>
+        <l>mi bisogna. Mangiato ho il miel selvaggio,</l>
+        <l>Aldobrandino, e perso</l>
+        <l>ho l’anima nei vènti.</l>
+      </sp>
+      <sp who="#il coro delle fanti e dei garzoni">
+        <speaker>IL CORO DELLE FANTI E DEI GARZONI:</speaker>
+        <l>Sapete perché grido guerra guerra?</l>
+        <l>Perché pace non trovo al mio languire.</l>
+        <l>Sapete perché grido serra serra?</l>
+        <l>Perché le porte non mi vole aprire….</l>
+      </sp>
+      <sp who="#aldobrandino rangone">
+        <speaker>ALDOBRANDINO RANGONE:</speaker>
+        <l>Ugo, perché sei tanto corrucciato</l>
+        <l>senza cagione?</l>
+        <l>Quale angoscia ti stringe, che me celi?</l>
+        <l>Di che male infermato</l>
+        <l>sei, che nascondi al fido fratel tuo?</l>
+      </sp>
+      <sp who="#il coro dei compagni">
+        <speaker>IL CORO DEI COMPAGNI:</speaker>
+        <l>All’uomo d’arme trombetta trombetta</l>
+        <l>se vuoi che vada ben sotto la lancia.</l>
+        <l>Al saccomanno falcetta falcetta</l>
+        <l>se in campo non tien dritta la bilancia….</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Sono infermo di gioia,</l>
+        <l>ti dico, fratel mio.</l>
+        <l>Odo il mio sangue</l>
+        <l>cantare come tutte le fontane</l>
+        <l>di Belfiore. Entro il petto</l>
+        <l>il cor vivo mi balza</l>
+        <l>come il cerbiatto che il mio padre insegue</l>
+        <l>nelle selve di Po.</l>
+        <l>Se di gioia si muore, lode a Dio,</l>
+        <l>io son prossimo a morte,</l>
+        <l>Aldobrandino.</l>
+      </sp>
+      <sp who="#aldobrandino rangone">
+        <speaker>ALDOBRANDINO RANGONE:</speaker>
+        <l>Aldobrandino. Parli</l>
+        <l>come chi esca di senno o trasogni.</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>“Che foco è questo ch’arde e non</l>
+        <l>consuma?</l>
+        <l>Che piaga è questa che sangue non</l>
+        <l>getta?”</l>
+        <l>Mangiato ho il miel novello,</l>
+        <l>ti dico, Aldobrandino.</l>
+        <l>E voglia ho di cantare e di combattere.</l>
+        <l>“Chi m’a dato quest’ale senza</l>
+        <l>piuma?</l>
+        <l>Chi m’addimanda e chiama e non aspetta?”</l>
+      </sp>
+      <sp who="#la fante">
+        <speaker>LA FANTE:</speaker>
+        <l>O Messer Ugo, Messer Ugo, qui</l>
+        <l>presso è la vostra madre</l>
+        <l>Madonna Stella.</l>
+        <l>Perdonato da voi mi sia. Condotta</l>
+        <l>io l’ho. Voi la vedete.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>O tristo, tristo, che per rivederti</l>
+        <l>debba la madre tua mettere agguati</l>
+        <l>dove la viperetta di Cesena</l>
+        <l>ha preso il luogo!</l>
+        <l>Sei tu prigione? o viperato sei?</l>
+        <l>Ugo, figlio mio dolce,</l>
+        <l>gli occhi hai pieni di lacrime! Che pianto</l>
+        <l>è questo?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>e questo? Ah, di dolcezza,</l>
+        <l>madre.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>madre. Smagrato</l>
+        <l>mi sembri, e fatto pallido;</l>
+        <l>e intorno agli occhi il cerchio degli insonni</l>
+        <l>hai, su le gote scarne;</l>
+        <l>e troppo t’arde l’alito</l>
+        <l>come se febbricassi, o bello e dolce</l>
+        <l>figlio. Che hai? Che hai?</l>
+        <l>Ah, non me sbigottire.</l>
+        <l>Di che soffri, o mio bello e dolce figlio?</l>
+        <l>Di che t’angosci? Dimmi.</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Non so, madre, non so.</l>
+        <l>Il cor m’è cieco, e ondeggia per un mare</l>
+        <l>pien di fragore e d’ombra. E sotto il vento</l>
+        <l>lagni raccolgo e doglia,</l>
+        <l>e rimpianto di ciò che fu perduto</l>
+        <l>per me, se bene</l>
+        <l>non mi sovvenga.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>O fiore di mia vita,</l>
+        <l>che mai non diedi perché tu fiorissi?</l>
+        <l>Ti diedi col mio petto</l>
+        <l>la speranza del mondo e il novel tempo</l>
+        <l>e tutte l’allegrezze ch’ei rimena.</l>
+        <l>Mi feci come l’alba e la rugiada</l>
+        <l>per addolcirti.</l>
+        <l>Or sei diviso da me, sei reciso</l>
+        <l>da me, o fiore</l>
+        <l>della mia carne; e sol rimasta è in me</l>
+        <l>una radice amara</l>
+        <l>che non si può divellere. Ah, non soffri</l>
+        <l>per questo? Dimmi, dimmi.</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Così m’avessi tu, madre, tenuto</l>
+        <l>in te chiuso, m’avessi</l>
+        <l>tu suggellato in te,</l>
+        <l>m’avessi fatto tuo</l>
+        <l>per sempre nel tuo sangue e nel tuo soffio;</l>
+        <l>e prima le tue braccia dato avessi</l>
+        <l>al taglio crudo, che lentar la stretta,</l>
+        <l>o madre!</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>o madre!Mio mio mio ti sento, o bello</l>
+        <l>e dolce figlio, mio</l>
+        <l>in me, risuggellato in me! Tu m’ami,</l>
+        <l>tu m’ami. Trista t’è la vita, dove</l>
+        <l>la mia nemica sul to viso spia</l>
+        <l>la mia vendetta….</l>
+        <l>Ansiosa, ella gli parla con l’alito nell’alito.</l>
+        <l>la mia vendetta…. Dimmi,</l>
+        <l>ah dimmi: se tu m’ami, l’odii?</l>
+        <l>Smarrito e tremante, il figlio muove</l>
+        <l>le labbra quasi senza soffio.</l>
+        <l>UGO D’ESTE</l>
+        <l>ah dimmi: se tu m’ami, l’odii? Chi?</l>
+        <l>chi, madre?</l>
+      </sp>
+      <stage>STELLA DELL’ASSASSINOo madre!Mio mio mio ti sento, o belloe dolce figlio, mioin me, risuggellato in me! Tu m’ami,tu m’ami. Trista t’è la vita, dovela mia nemica sul to viso spiala mia vendetta….Ansiosa, ella gli parla con l’alito nell’alito.la mia vendetta…. Dimmi,ah dimmi: se tu m’ami, l’odii?Smarrito e tremante, il figlio muovele labbra quasi senza soffio.UGO D’ESTEah dimmi: se tu m’ami, l’odii? Chi?chi, madre?</stage>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>chi, madre? L’odii tu,</l>
+        <l>con tutte le tue vene?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Chi, madre?</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>Chi, madre? Parisina Malatesta.</l>
+        <l>Egli rovescia in dietro il capo.</l>
+        <l>Come ti sbianchi! Come il cor ti balza!</l>
+        <l>Ah, mio figlio verace! Tanto dunque</l>
+        <l>tu l’odii? Lascia ch’io t’ascolti il cuore.</l>
+        <l>Figlio, che cuor terribile t’ho fatto!</l>
+        <l>Suona come il brocchiere</l>
+        <l>percosso dal martello d’arme.</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>percosso dal martello d’arme. Sì,</l>
+        <l>madre, sì, per la Lupa</l>
+        <l>della tua Siena!</l>
+        <l>Una forza terribile mi gonfia</l>
+        <l>il cuore come quando</l>
+        <l>la spada è tratta, la balestra è carica,</l>
+        <l>e la polvere della prima schiera</l>
+        <l>s’alza con l’ansia</l>
+        <l>della battaglia, e vampa</l>
+        <l>d’allegranza è la fronte</l>
+        <l>del feditore,</l>
+        <l>e in qualche luogo, in un cammin selvaggio,</l>
+        <l>per una ripa verde,</l>
+        <l>entro una fresca valle,</l>
+        <l>in qualche luogo solo</l>
+        <l>è la morte, e sul capo della morte</l>
+        <l>la ghirlanda del sonno.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>Così combatterai</l>
+        <l>per la tua signoria</l>
+        <l>a che t’ho fatto, o figlio</l>
+        <l>di leonessa.</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>M’hai fatto per morire.</l>
+        <l>Se tu m’ascolti il petto,</l>
+        <l>odi il rombo rimoto.</l>
+        <l>Strano latte ti bevvi.</l>
+        <l>Quali erano i tuoi sogni</l>
+        <l>quando tu mi portavi?</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>Sogni di leonessa,</l>
+        <l>se protesa è la branca</l>
+        <l>non per morire ma per dar la morte.</l>
+        <l>Tanto non sai? Se vivere non vuoi</l>
+        <l>come tu vivi,</l>
+        <l>non osi tu guardare la vergogna</l>
+        <l>nostra e l’ammenda?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Ah, che vuoi dunque? Di’: ch’io mi ribelli</l>
+        <l>al mio padre? ch’io tagli il nodo?</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>al mio padre? ch’io tagli il nodo? No.</l>
+        <l>Sofferitore sei. Sei paziente.</l>
+        <l>Ti curvi al giogo ruminando l’odio</l>
+        <l>come il vitello rumina il suo strame,</l>
+        <l>Ugo bastardo.</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Hai il pungolo crudele,</l>
+        <l>madre.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>madre. Non hai più madre.</l>
+        <l>Hai la matrigna</l>
+        <l>che ti dà ‘l pane e rigna.</l>
+        <l>E tu t’appaghi di menar la vita</l>
+        <l>del bastardello,</l>
+        <l>e i suoi cani di séguito tenerle</l>
+        <l>a guinzaglio, e portare al collo l’arpa;</l>
+        <l>ché Maestro Domenico Calceda</l>
+        <l>per te le fece il cordoncin di seta….</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Ah, leonessa, come mordi e strazii!</l>
+        <l>Forzi a follia</l>
+        <l>il folle. Brama</l>
+        <l>non ho se non di perdermi,</l>
+        <l>oggi. E meglio perire</l>
+        <l>m’è ch’essere a guinzaglio.</l>
+        <l>E sia laccio per laccio,</l>
+        <l>servaggio per servaggio,</l>
+        <l>peccato per peccato,</l>
+        <l>se mi bisogna abbeverar colei</l>
+        <l>che mi nudrì. Giungesti</l>
+        <l>in punto, in giorno propizio, giungesti.</l>
+        <l>Or ella è con le sue donne e la sua</l>
+        <l>arpa sul suo ginocchio</l>
+        <l>tien, forse; e canta.</l>
+        <l>E salgo, e le apparisco.</l>
+        <l>E, cacciatole in gola quella corda</l>
+        <l>di seta, onde m’irridi,</l>
+        <l>io te la traggo. Te la traggo ai piedi</l>
+        <l>ancóra palpitante,</l>
+        <l>che tu la calchi, che le schiacci il capo….</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>Taci, taci! Furor non giova, grido</l>
+        <l>non vale. Siimi cauto.</l>
+        <l>Non ti forzo a follia,</l>
+        <l>e non a perdimento.</l>
+        <l>Uopo non t’è di laccio, né di daga,</l>
+        <l>ma di silenzio</l>
+        <l>e di man lieve.</l>
+        <l>A sé lo trae, lo circonda.</l>
+        <l>Egli chiude le palpebre su l’anima sua disperata.</l>
+        <l>Fatti più presso. Vieni sul mio petto.</l>
+        <l>Ti serro; in me ti chiudo; ti suggello</l>
+        <l>in me. T’ho nel mio sangue e nel mio soffio.</l>
+        <l>Ecco, ti porto ancóra</l>
+        <l>io nell’amor mio solo,</l>
+        <l>che tu rinasca da me. Non tremare.</l>
+        <l>Dimmi: tu l’odii?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Dimmi: tu l’odii? L’odio.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>Non per te, non per me</l>
+        <l>v’è salute, finché viva. Lo sai?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Lo so.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>Lo so. Ma non tremare.</l>
+        <l>Far vuoi la mia vendetta?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Voglio.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>Voglio. Ma non col ferro.</l>
+        <l>Vendetta cauta.</l>
+        <l>M’ascolti?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>M’ascolti?Ascolto.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>Se ti sovviene della morte lenta</l>
+        <l>d’Azzolino, ho la fiala…. Hai tu compreso?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Dammela.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>Dammela. Ma ti sfugge,</l>
+        <l>se tremi.</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>se tremi. Dammela.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>A stilla, a stilla,</l>
+        <l>accorto e cauto…. Hai tu compreso?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>accorto e cauto…. Hai tu compreso? Dammela.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>A stilla a stilla.</l>
+      </sp>
+      <sp who="#il coro delle fanti">
+        <speaker>IL CORO DELLE FANTI:</speaker>
+        <l>Che foco è questo ch’arde e non</l>
+        <l>consuma?</l>
+        <l>Che piaga è questa che sangue non</l>
+        <l>getta?</l>
+        <l>Chi m’a dato quest’ale senza piuma?</l>
+        <l>Chi m’addimanda e chiama e non aspetta?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>È Parisina, è Parisina. Madre,</l>
+        <l>madre, odi. È Parisina.</l>
+        <l>Ecco, viene. Ecco, scende.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>Ti dà terrore? Voce</l>
+        <l>hai di fuggiasco.</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>hai di fuggiasco. Non ti partirai?</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>No, non mi partirò.</l>
+      </sp>
+      <sp who="#le sonatrici">
+        <speaker>LE SONATRICI:</speaker>
+        <l>– O Madonna, Madonna,</l>
+        <l>scendere non vogliate!</l>
+        <l>scendere non vogliate! – Ritraetevi,</l>
+        <l>Madonna, in grazia.</l>
+        <l>Madonna, in grazia. – È la Senese, quella</l>
+        <l>de’ Tolomei, la madre di Messere</l>
+        <l>Ugo.</l>
+        <l>Ugo. – N’avrete scorno,</l>
+        <l>Madonna.</l>
+        <l>Madonna. – Non vogliate seguitare!</l>
+        <l>– È la Senese. Ell’è</l>
+        <l>Stella dell’Assassino,</l>
+        <l>bandita da Messere Nicolò.</l>
+        <l>– Agguatata e appostata v’ha, per certo.</l>
+        <l>– Malvagia ell’è. Non iscendete, in grazia.</l>
+        <l>– Meglio la spalla volgere, Madonna.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>O Parisina Malatesta, figlia</l>
+        <l>dell’Ordelaffa, sangue</l>
+        <l>di rubatori, traditori e drude,</l>
+        <l>color di vita più non hai, né osi</l>
+        <l>fisar negli occhi miei gli occhi tuoi falsi;</l>
+        <l>ma non temere,</l>
+        <l>ché toccarti non degno.</l>
+        <l>Non io ti strapperò con le mie mani</l>
+        <l>alla soglia non tua</l>
+        <l>dove giugnesti quando ti vendette</l>
+        <l>il tuo padre in Cesena</l>
+        <l>come schiavetta al giacitore d’Este;</l>
+        <l>e non nubile ancóra</l>
+        <l>eri, troppo al mercato acerba! No,</l>
+        <l>l’anima perdere</l>
+        <l>non mi vale per sí vil sangue. Sopra</l>
+        <l>ti sta castigo più tremendo, più</l>
+        <l>che se tutte le spine della terra</l>
+        <l>io configgessi in te senza riposo.</l>
+        <l>E ti lascio il presagio nella bocca</l>
+        <l>come sete mortale</l>
+        <l>e polvere di fossa.</l>
+        <l>E t’impreco sul capo del mio figlio</l>
+        <l>che ti fa onta.</l>
+      </sp>
+      <stage>S’ode per il folto del barco il suono dei corni,il latrato delle mute, il grido dei canattieri.Nicolò d’Este ritorna dalla caccia d’oltre Po.Il clamore s’avvicina. Lanciata l’ultima imprecazione,la Tolomei si ritrae, scompare tra gli alberi con la fante,per la via ond’è venuta.Fa l’atto di seguitarla il figlio, poi s’arresta,rimanendo in disparte; mentre Nicolò arriva col suo stuolodi cacciatori che suonano e cantano.Bei cani accoppiati e bei cavalli bardati egli ha seco,come Borso su la parete di Schifanoiasotto il segno dell’Ariete.Su la scala le donne sorreggonola figliuola di Lucrezia degli Ordelaffi,soffocata dalla vergogna e dal furore.La vede il marito e giocondamente la chiama.</stage>
+      <sp who="#il coro dei cacciatori">
+        <speaker>IL CORO DEI CACCIATORI:</speaker>
+        <l>Non dormite, o cacciatore,</l>
+        <l>ché la cerva s’è scoperta:</l>
+        <l>la ne vien qua tutta esperta</l>
+        <l>per mangiare erbette e fiore.</l>
+        <l>per mangiare Non dormite, o cacciatore.</l>
+        <l>L’è sì pronta nel fuggire</l>
+        <l>che la pare un lionpardo:</l>
+        <l>non è veltro sì gagliardo</l>
+        <l>ch’a lei possa pervenire:</l>
+        <l>l’ha già fatto sbigottire</l>
+        <l>ne le selve più pastore.</l>
+        <l>per mangiare Non dormite, o cacciatore.</l>
+      </sp>
+      <sp who="#nicolò d’este">
+        <speaker>NICOLÒ D’ESTE:</speaker>
+        <l>Mia donna, quanta preda, quanta preda!</l>
+        <l>Di cervi e cavriuoli</l>
+        <l>noi caricammo un burchio a passar Po,</l>
+        <l>e pel soverchio carico mettemmo</l>
+        <l>a rischio il legno che prendeva l’acqua</l>
+        <l>insino al tiemo;</l>
+        <l>e si vogava nel vermiglio. O Strozzo,</l>
+        <l>Braccio, recato sia</l>
+        <l>innanti il cervo di tredici palchi.</l>
+        <l>Dov’è Ugo?</l>
+        <l>Con tale aspetto il giovine s’avanza verso il padre,</l>
+        <l>che questi a un tratto fiuta la bufera.</l>
+        <l>Dov’e Ugo? Or qual viso</l>
+        <l>fai tu figliolo! E voi,</l>
+        <l>mia donna?</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>mia donna? Non io più</l>
+        <l>sono la donna vostra,</l>
+        <l>signore.</l>
+      </sp>
+      <sp who="#nicolò d’este">
+        <speaker>NICOLÒ D’ESTE:</speaker>
+        <l>signore. Or che v’accadde? Anco una volta</l>
+        <l>veniste a rissa? Chi la mosse prima?</l>
+        <l>Ditemi, donna.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Ditemi, donna. Non più son la donna</l>
+        <l>vostra; ma son la schiava</l>
+        <l>di vil sangue venduta</l>
+        <l>dal mio padre al piacer vostro, sicché</l>
+        <l>lecito è che qualsisía</l>
+        <l>delle passate vostre concubine</l>
+        <l>mi getti vituperio e mi minacci</l>
+        <l>di trascinarmi</l>
+        <l>per i capegli,</l>
+        <l>come schiava ch’io sono,</l>
+        <l>fuor delle vostre soglie….</l>
+      </sp>
+      <sp who="#nicolò d’este">
+        <speaker>NICOLÒ D’ESTE:</speaker>
+        <l>fuor delle vostre soglie…. Chi, chi mai</l>
+        <l>tanto s’ardi?</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>tanto s’ardi? Stella de’ Tolomei,</l>
+        <l>Stella dell’Assassino, la malvagia</l>
+        <l>femmina, la rabbiosa</l>
+        <l>lupa….</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>lupa…. Ah serrate,</l>
+        <l>ah soffocato quella bocca, padre,</l>
+        <l>o io, se Dio mi danna,</l>
+        <l>farò che taccia.</l>
+      </sp>
+      <sp who="#nicolò">
+        <speaker>NICOLÒ:</speaker>
+        <l>faro che taccia. Me</l>
+        <l>Dio danna, me percote,</l>
+        <l>che sempre mi travaglio</l>
+        <l>tra odio ed ira, tra rancura e furia</l>
+        <l>per careggiarti, per averti presso</l>
+        <l>il cor mio, per colmarti d’ogni dono</l>
+        <l>e d’ogni onore e d’ogni</l>
+        <l>carezza, mentre</l>
+        <l>ogni dì mi ti mostri più selvaggio….</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Ah, meglio in selva vivere che in questa</l>
+        <l>onta; meglio campar la vita in arme</l>
+        <l>alla ventura sotto una masnada</l>
+        <l>che in coppa d’oro tracannare il tossico;</l>
+        <l>e meglio anco morire a ghiado, in capo</l>
+        <l>di strada, stando a barre ed a serraglia</l>
+        <l>con la balestra</l>
+        <l>e con la stipa,</l>
+        <l>come bastardo ribelle….</l>
+      </sp>
+      <sp who="#nicolò d’este">
+        <speaker>NICOLÒ D’ESTE:</speaker>
+        <l>come bastardo ribelle…. Minacci?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>La vita non mi vale</l>
+        <l>più che la pelle del cervo sbranato</l>
+        <l>dai tuoi cani. Mi parto</l>
+        <l>alla ventura; e solo</l>
+        <l>il cavallo ti prendo.</l>
+        <l>E ch’io m’imbatta nella morte, prima</l>
+        <l>che il sol novello fieda</l>
+        <l>gli occhi miei senza sonno!</l>
+        <l>Né più mi rivedrai vivo, né più</l>
+        <l>increscerò a quella che t’acconcia</l>
+        <l>il letto e figli</l>
+        <l>ti darà men selvaggi….</l>
+      </sp>
+      <sp who="#il coro delle fanti">
+        <speaker>IL CORO DELLE FANTI:</speaker>
+        <l>Sapete perché grido guerra guerra?</l>
+        <l>Perché pace non trovo al mio languire.</l>
+        <l>Sapete perché grido serra serra?</l>
+        <l>Perché le porte non mi vole aprire….</l>
+      </sp>
+      <sp who="#atto secondo">
+        <speaker>ATTO SECONDO:</speaker>
+      </sp>
+      <stage>La Santa Casa di LoretoAppare la Casa di Nazareth, la semplice casadi Gioachino e di Anna, costrutta di pietre rossastre,con una porta, con una finestra, con un focolare,con un altare, quella che nella notte di maggiogli Angeli traslatarono su le loro ali alla spiaggiadi Schiavonia e nella notte di decembre all’opposta riva,alla marca di Ancona, entro la selva dei lauri.Per la porta spalancata si scorge brillare fra i torchie le lampade la Vergine nera, scolpita nel legno di cedrodalla mano di Luca Evangelista,coperta della preziosissima veste intessutad’oro e di gemme.Le mura degli Ospizii s’alzano dietro il Santuario.Di là dal laureto splende il Mare Adriatico.In contro al recinto, ove i monaci e i sacerdotiricevono le offerte, è spiegato il ricco padiglionedella pellegrina di Ferrara,distinto delle Aquile e dei Fiordalisi estensi.Presso il limitare del padiglione tre donzelle sedute,con su le ginocchia gli organi portatili, suonano e cantano.Quivi è Parisina; e la figlia di Nicolò di Oppizi,la Verde, le acconcia i capelli.S’approssima l’ora della Salutazione angelica,nel vespro di maggio. S’ode una cantilena di marinai.Le vele latine rosseggiano in mare.La cantilena del remo e della vela si mescealle litanie degli Ospizii, alle laudi della chiericia.L’aria, presso e lontano, arde tutta quanta melodiosa.</stage>
+      <sp who="#la sequenza delle tre donzelle">
+        <speaker>LA SEQUENZA DELLE TRE DONZELLE:</speaker>
+        <l>Ave Maria, gratia plena.</l>
+        <l>Teco è il Signore.</l>
+        <l>Benedetta infra le donne</l>
+        <l>a tutte l’ore.</l>
+        <l>Benedetto il frutto e il fiore</l>
+        <l>del tuo ventre, Maria.</l>
+        <l>Ave, donna graziosa.</l>
+        <l>Quando a tal soglia</l>
+        <l>venne l’Annunciatore,</l>
+        <l>favellasti in ardore:</l>
+        <l>Sono ancilla del Signore.</l>
+        <l>Come dici, cosè sia.</l>
+        <l>Allor in te discese</l>
+        <l>il Spirito Santo.</l>
+        <l>Ma dir non di potria quanto</l>
+        <l>il tuo corpo oliva intanto,</l>
+        <l>se ole del tuo pianto</l>
+        <l>cielo e terra tuttavia.</l>
+      </sp>
+      <sp who="#laus virginis">
+        <speaker>LAUS VIRGINIS:</speaker>
+        <l>O cunctarum</l>
+        <l>feminarum</l>
+        <l>decus atque gloria,</l>
+        <l>quam electam</l>
+        <l>et provectam</l>
+        <l>scimus super omnia;</l>
+        <l>virga Jesse,</l>
+        <l>spes oppressae</l>
+        <l>mentis et refugium,</l>
+        <l>decus mundi,</l>
+        <l>lux profundi,</l>
+        <l>Domini sacrarium;</l>
+        <l>clemens audi</l>
+        <l>tuae laudi</l>
+        <l>quos instantes conspicis;</l>
+        <l>munda reos</l>
+        <l>et fac eos</l>
+        <l>bonis dignos coelicis.</l>
+      </sp>
+      <sp who="#la cantilena dei marinai">
+        <speaker>LA CANTILENA DEI MARINAI:</speaker>
+        <l>Stella del mare,</l>
+        <l>aiuta aiuta!</l>
+        <l>Per costa e per altura,</l>
+        <l>a misura e battuta,</l>
+        <l>Maria, Vergine pura,</l>
+        <l>tu voglici aitare.</l>
+        <l>tu voglici aitare.Oh voga! Ponza!</l>
+        <l>Stella del mare,</l>
+        <l>attrezza attrezza,</l>
+        <l>alla vela alla vela!</l>
+        <l>Vergine benedetta,</l>
+        <l>vieni all’arbore in vetta,</l>
+        <l>vien presto e non tardare.</l>
+        <l>tu voglici aitare.Oh issa! Borda!</l>
+      </sp>
+      <sp who="#le litanie lauretane">
+        <speaker>LE LITANIE LAURETANE:</speaker>
+        <l>Sancta Maria, ora pro nobis.</l>
+        <l>Sancta Dei Genitrix,</l>
+        <l>Sancta Virgo Virginum,</l>
+        <l>Mater Christi,</l>
+        <l>Mater divinae gratiae,</l>
+        <l>Mater purissima,</l>
+        <l>Mater castissima,</l>
+        <l>Mater inviolata,</l>
+        <l>Mater intemerata,</l>
+        <l>Mater amabilis,</l>
+        <l>Mater admirabilis,</l>
+        <l>Mater Creatoris,</l>
+        <l>Mater Salvatoris, ora pro nobis.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Ahi, Vergine Maria,</l>
+        <l>Consolatrice degli afflitti, ahi me,</l>
+        <l>ahi che la notte s’avvicina!</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>ahi che la notte s’avvicina! Dama,</l>
+        <l>di che voi vi lagnate?</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>O Verde, ora tu m’hai</l>
+        <l>a disfare le trecce</l>
+        <l>che m’acconciasti.</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>che m’acconciasti. Dama, perché mai?</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Tonderle voglio e offerirle a Nostra</l>
+        <l>Donna per vóto,</l>
+        <l>tonderle insino alla radice.</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>tonderle insino alla radice. Dama,</l>
+        <l>non farete voi questo.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>non farete voi questo. Mi risveglio</l>
+        <l>la notte con la faccia divampata</l>
+        <l>entro i capegli sparsi</l>
+        <l>come fiamme; e l’odore</l>
+        <l>mi soffoca. Non più, non voglio più</l>
+        <l>che tu me li profumi, come fai,</l>
+        <l>insino ov’è ‘l pensiero mio nemico.</l>
+        <l>Ahi che la notte s’avvicina, Vergine</l>
+        <l>clemente!</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>clemente!Non ismaniate, Dama!</l>
+        <l>o mai non finirò</l>
+        <l>d’acconciarvi.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>d’acconciarvi. Qual roba</l>
+        <l>mi metti? La più bella, la più bella,</l>
+        <l>quella di panno d’oro</l>
+        <l>fodrata d’armellini;</l>
+        <l>e il mantello fiamengo,</l>
+        <l>gli zoccoli d’argento,</l>
+        <l>e la rete, e la borsa, e il vel di Candia,</l>
+        <l>e tutte le collane al collo, tutti</l>
+        <l>alle dita gli anelli,</l>
+        <l>e la cintura</l>
+        <l>per cingermí più ricca, la più alta,</l>
+        <l>quella a perle e balasci; ch’io sia carica</l>
+        <l>di gioie, ch’io mi porti</l>
+        <l>addosso quel che m’è più caro.</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>addosso quel che m’è più caro. Dama,</l>
+        <l>quello che più v’è caro</l>
+        <l>voi non l’avete già ne’ vostri cofani</l>
+        <l>ma nel cor chiuso; e non ho io la chiave.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Inginòcchiati, copriti</l>
+        <l>il capo, e piangi.</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>il capo, e piangi. Ah non è tempo ancóra</l>
+        <l>che in lacrime l’amor si cangi, Dama.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Che nome hai nominato? Dio mi salvi.</l>
+        <l>Non hai vergogna?</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>Amor prese Vergogna per lo mento.</l>
+        <l>E, com’ ei l’ebbe tocca,</l>
+        <l>ella si fece bianca. Sacramento</l>
+        <l>fu ‘l bacio nella bocca.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Verde, appari gioiosa;</l>
+        <l>ma non so se tu tremi</l>
+        <l>quando indovini.</l>
+        <l>Lieve sembra il tuo cuore</l>
+        <l>come foglia novella.</l>
+        <l>Come tizzo il mio stride;</l>
+        <l>e tu sopra vi soffii.</l>
+        <l>In luogo di salute</l>
+        <l>esser può perdimento?</l>
+        <l>Ahi che la notte s’avvicina, ahi me,</l>
+        <l>Porta del Cielo!</l>
+        <l>Sono carica d’oro. Ave, Maria.</l>
+        <l>Son carica di gemme. Eccomi a te.</l>
+        <l>Sono piena di mali.</l>
+        <l>A te m’offro, Salute degli infermi.</l>
+      </sp>
+      <stage>Magnifica, si appresta ad escire dal padiglionela marchesa di Ferrara.Al ricchiamo della Verde uno stuolo di fanti accorre;e dinanzi alla signora stende i tappeti,perché ella vi cammini su gli alti zoccolifino ai cancelli del Santuario.Le tre donzelle riprendono la sequenza sugli organi.Giungono dagli Ospizii le litanie lauretane.S’ode a quando a quando per la marina suono di bùccine,e l’invocazione alla Stella del mare.LA CANTILENA DEI MARINAIStella del mare,aiuta aiuta!</stage>
+      <sp who="#la sequenza delle tre donzelle">
+        <speaker>LA SEQUENZA DELLE TRE DONZELLE:</speaker>
+        <l>Ave Maria, gratia plena.</l>
+        <l>Teco è il Signore.</l>
+        <l>Benedetta infra le donne</l>
+        <l>a tutte l’ore.</l>
+        <l>Benedetto il frutto e il fiore</l>
+        <l>del tuo ventre, Maria.</l>
+      </sp>
+      <sp who="#le litanie lauretane">
+        <speaker>LE LITANIE LAURETANE:</speaker>
+        <l>Virgo prudentissima,</l>
+        <l>Virgo veneranda,</l>
+        <l>Virgo praedicanda,</l>
+        <l>Virgo potens,</l>
+        <l>Virgo clemens,</l>
+        <l>Virgo fidelis,</l>
+        <l>Speculum justitiae,</l>
+        <l>Vas spirituale,</l>
+        <l>Vas honorabile,</l>
+        <l>Vas insigne devotionis, ora pro nobis.</l>
+      </sp>
+      <sp who="#la cantilena dei marinai">
+        <speaker>LA CANTILENA DEI MARINAI:</speaker>
+        <l>Stella del mare,</l>
+        <l>aiuta aiuta!</l>
+      </sp>
+      <stage>Parisina si avanza verso i cancelli,per la preghiera e per l’offerta.Di dietro i cancelli l’officiatore,assistito dagli acoliti, riceve i doni preziosi.PARISINABene morrò d’amore,bene morrò d’amoreper te, mistica Rosa, e pel tuo Figlio.Per te aulente Giglio,morrò d’amore.La pellegrina si toglie a una a una le sue gioie per offerirle.Poi si toglie la cintura, la vesta, il mantello, gli zoccoli;sì che rimane con una semplice tonacella di tabì biancoe con i calzaretti di tela d’argento.Ecco la retede’ miei capelli.Di vigilanza io resti inghirlandata.Ecco il mio velo.Sul viso ignudoio riceva da te la tua rugiada.Ecco le mie collane.Eco tutti gli anelli.Ecco il mio manto,che non ha stelle.Della tua graziaammanta il mio dolore.Ecco il mio cintoche sì m’aggrava.La mia faticafascia del tuo vigore.Ecco io mio drappoche brilla e opprime.Sol porti io vestimentodi caritade.Ecco, mi tolgoanco i calzari.Bianca e scalza io camminiper le tue strade.</stage>
+      <stage>Rimasta con la tonacella bianca, avendo compiuta l’offerta,ella si prostra col volto sina a terra.Le donne dietro di lei racattano i tappetiper segno della sua umiliazione.Il suono delle bùccine per la marina si fapiù frequente e più aspro. S’ode il grido dei naviganti.VOCI DI MARINAIAiuta aiuta!Aiuta aiuta!</stage>
+      <sp who="#voci d’uomini d’arme">
+        <speaker>VOCI D’UOMINI D’ARME:</speaker>
+        <l>Este Este! Diamante, Diamante!</l>
+      </sp>
+      <stage>Un clamore d’assalto e di battagliava crescendo su pel laureto,e già supera i cantici sacri.Un sùbito sgomento invade le donne e la chiericia.Uomini giungono su per la selva,ansanti, e annunziano il pericolo.</stage>
+      <sp who="#voci sparse">
+        <speaker>VOCI SPARSE:</speaker>
+        <l>– I corsali, i corsali</l>
+        <l>di Schiavonia!</l>
+        <l>di Schiavonia! – Serrate!</l>
+        <l>la chiostra!</l>
+        <l>la chiostra! – Gli Schiavoni! Gli Schiavoni!</l>
+        <l>– Abbarrate il Tesoro!</l>
+        <l>– Este Este! Diamante, Diamante!</l>
+      </sp>
+      <stage>Sopraggiunge Aldobrandino dei Rangoni,con la spada in pugno.Parisina lo scorge e chiama,accorrendo verso lui.PARISINAAldobrandino! Aldobrandino! Dovelasciaste Ugo?</stage>
+      <sp who="#aldobrandino">
+        <speaker>ALDOBRANDINO:</speaker>
+        <l>lasciaste Ugo? Madonna, non temete,</l>
+        <l>non temete. Ei conduce</l>
+        <l>le scorte. È bene armato. Gli Schiavoni</l>
+        <l>fanno la scorreria,</l>
+        <l>per rapinare la Vergine nera.</l>
+        <l>Ei trascinano l’Idolo di bronzo</l>
+        <l>tratto dal mare.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>tratto dal mare. Quale idolo? Quale</l>
+        <l>idolo?</l>
+      </sp>
+      <sp who="#aldobrandino">
+        <speaker>ALDOBRANDINO:</speaker>
+        <l>idolo? Non temete,</l>
+        <l>Madonna.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Madonna. Ugo dov’è?</l>
+      </sp>
+      <sp who="#aldobrandino">
+        <speaker>ALDOBRANDINO:</speaker>
+        <l>Alla battaglia, alla battaglia. Ei vince.</l>
+        <l>Addio, Madonna.</l>
+      </sp>
+      <sp who="#il grido dei combattenti">
+        <speaker>IL GRIDO DEI COMBATTENTI:</speaker>
+        <l>Este Este! Diamante, Diamante!</l>
+      </sp>
+      <stage>Sul Santuario, sugli Ospizi, sul laureto,sul mare il vespro di maggio accendeed eccita i suoi fuochi.Parisina, abbracciata alle sbarre dei cancelli,è perduta con gli occhi e con l’ansia nell’Imaginedi cedro che scintilla sotto le lampade numerose.Le più ardite fra le sue donne si sporgonodal crine dell’altura alle vedette.</stage>
+      <sp who="#le fanti">
+        <speaker>LE FANTI:</speaker>
+        <l>– Spingono il carro su per l’erta, il carro</l>
+        <l>dipinto.</l>
+        <l>dipinto. – È il carro dei Piceni.</l>
+        <l>dipinto. – È il carro dei Piceni. – L’Idolo</l>
+        <l>traballa.</l>
+        <l>traballa. – Quante braccia! Quante braccia</l>
+        <l>contro le ruote!</l>
+        <l>contro le ruote! – Quante braccia rosse!</l>
+        <l>Il sangue cola. Il carro è rosso.</l>
+        <l>Il sangue cola. Il carro è rosso. – Quante</l>
+        <l>braccia! A colpi di spada,</l>
+        <l>a colpi d’azza le troncano, e pare</l>
+        <l>che rinascano sempre.</l>
+        <l>– I pugni mozzi restano abbrancati</l>
+        <l>ai razzi delle ruote.</l>
+        <l>ai razzi delle ruote.- Ecco, ora l’Idolo</l>
+        <l>s’abbatte!</l>
+        <l>s’abbatte!- È tutto verde,</l>
+        <l>di smalto gli occhi.</l>
+        <l>– Gli occhi di smalto,</l>
+        <l>e d’ogni parte sembrano guatare.</l>
+        <l>– È la Dimonia che dimora ai monti</l>
+        <l>della Sibilla</l>
+        <l>col cavalier dannato.</l>
+        <l>– È quella che dimora in fondo al mare</l>
+        <l>e prendere si lascia dalle reti</l>
+        <l>dei pescatori.</l>
+        <l>dei pescatori. – È póntano,</l>
+        <l>e spingono!</l>
+        <l>e spingono! – Son vénti braccia ancóra.</l>
+        <l>Ecco, ecco, fanno sforzo.</l>
+        <l>Ecco, ecco, fanno sforzo.- Mozza! Mozza!</l>
+        <l>– Taglia! Taglia!</l>
+        <l>– Taglia! Taglia! – Messer Ugo! Messer</l>
+        <l>Ugo!</l>
+        <l>Ugo! – Son sette,</l>
+        <l>son sette braccia rosse</l>
+        <l>che póntano; son cinque</l>
+        <l>uomini e sette braccia.</l>
+        <l>uomini e sette braccia. – Tronca! Tronca!</l>
+        <l>– Non è carne ma ferro.</l>
+        <l>– Non è carne ma ferro. – E monta, e monta!</l>
+        <l>– E l’Idolo sta ritto!</l>
+        <l>– E l’Idolo sta ritto! – Taglia! Taglia!</l>
+        <l>– Non son che tre. Terribili,</l>
+        <l>tutti sangue.</l>
+        <l>tutti sangue. – Terribili.</l>
+        <l>Póntano i moncherini.</l>
+        <l>Póntano l’ossa.</l>
+        <l>– Este Este!</l>
+        <l>– Este Este! – Messer Ugo!</l>
+        <l>Messer Ugo!</l>
+        <l>Messer Ugo! – Non han più occhi sotto</l>
+        <l>la fronte. Con i denti</l>
+        <l>guatano! Hanno lo smalto</l>
+        <l>bianco della Dimonia</l>
+        <l>occhiuta nelle bocche disperate.</l>
+        <l>– Son morti. Morti sono,</l>
+        <l>e sforzano.</l>
+        <l>e sforzano. – Son morti, e non stramazzano.</l>
+        <l>– Eccoli in vetta! Eccoli in vetta!</l>
+        <l>– Eccoli in vetta! Eccoli in vetta! – È l’Idolo</l>
+        <l>che cammina coi piedi suoi di bronzo</l>
+        <l>sopra il macello!</l>
+        <l>sopra il macello! – Fuggi! Fuggi!</l>
+        <l>sopra il macello! – Fuggi! Fuggi! – Scampa!</l>
+      </sp>
+      <stage>Le donne fuggono sbigottite.Il plaustro è giunto quasi in vetta,e s’arresta con le due ruote sul corpotraverso dell’ultimo caduto.Su i lauri curvati e schiantati l’Idolo s’alza immobilecontro i roghi consunti dell’orizzonte marino,in un cerchio irto di spuntoni, di mannaresi e di corsesche.</stage>
+      <sp who="#le voci dei vittoriosi">
+        <speaker>LE VOCI DEI VITTORIOSI:</speaker>
+        <l>Este Este! Diamante, Diamante!</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Vittoria! Sia laudata</l>
+        <l>la Regina del Cielo!</l>
+        <l>Abbiamo vinto.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Sano e salvo? Ferito</l>
+        <l>non siete? Molto sangue</l>
+        <l>è su voi.</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>è su voi. No. Ferita</l>
+        <l>non sento. È il sangue dei corsali.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>non sento. È il sangue dei corsali. Grazie</l>
+        <l>rendiamo a Dio Signore,</l>
+        <l>grazie alla Madre dell’Iddio Signore.</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>A te, Torre d’avorio,</l>
+        <l>consacro la mia spada sanguinosa.</l>
+      </sp>
+      <stage>Aprono gli acoliti i cancelli perché il difensoree la donatrice possano prostrarsi alla soglia della Santa Casa.L’uno e l’altra si tengono tuttavia per mano;e in tale atto s’inginocchiano,reggendo egli nella destra, con la punta in alto, la spada votiva.</stage>
+      <sp who="#antiphona">
+        <speaker>ANTIPHONA:</speaker>
+        <l>Salve, Regina, Mater misericordiae,</l>
+        <l>vita, dulcedo, et spes nostra, salve.</l>
+        <l>Ad te clamamus….</l>
+      </sp>
+      <stage>Il sacerdote fa il segno di benedizionesu i prostrati, e riceve l’offerta del ferro.Ugo e Parisina si levano, ambedue impalliditi.Ella abbraccia il suo figliastro e lo bacia su la gota.Nell’abbraccio, la tonacella bianca si macchiadi sangue contro il corsaletto; ma niuno dei due se n’avvede.Tenendosi per mano si volgono, ripassano i cancelli,camminano come in sogno verso il padiglione.LA VERDEDama, chi v’ha piagata?Una macchia di sangueavete in mezzo al petto.O Vergine Maria!</stage>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Verde, t’abbagli?</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>Verdi, t’abbagli? Avete in mezzo al petto</l>
+        <l>una macchia vermiglia.</l>
+        <l>Ferita siete, Dama? O Gesù Cristo!</l>
+      </sp>
+      <stage>Parisina, smarrita, piega gli occhi a guardare,e vi cerca la piaga nel petto con le mani.Poi tenta di sorridere.PARISINAUgo, m’avete insanguinata.</stage>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>Ugo, m’avete insanguinata. Oimè!</l>
+        <l>Messer Ugo, vi gronda</l>
+        <l>sangue dal collo</l>
+        <l>e ne’ capegli vi s’aggruma.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>e ne’ capegli vi s’aggruma. Ah, dove?</l>
+        <l>dove?</l>
+        <l>Ella gli solleva i capelli di su la nuca.</l>
+        <l>dove? È vero. Tagliato</l>
+        <l>siete.</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>siete. Non duole.</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>siete. Non duole. È come</l>
+        <l>intacco di mannaia</l>
+        <l>quando la man del giustiziero trema</l>
+        <l>e il colpo falla.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>e il colpo falla. Dio ci aiuti! Esperta</l>
+        <l>sei del ceppo? Vogliate qui sedere</l>
+        <l>che medicarvi io possa.</l>
+        <l>O Verde, porta l’acqua e i pannilini,</l>
+        <l>e una pezzuola d’unguento. Vedrete</l>
+        <l>che bene medicarvi</l>
+        <l>saprò, così che quando</l>
+        <l>tornato siate</l>
+        <l>al vostro padre</l>
+        <l>non pur si scorga</l>
+        <l>la cicatrice.</l>
+        <l>In mal luogo vi colse</l>
+        <l>il colpo, in mortal luogo; e fu ventura</l>
+        <l>grande che via passasse….</l>
+        <l>Or che saria di Parisina?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Or che saria di Parisina? Or voi</l>
+        <l>composto m’avereste nella bara,</l>
+        <l>poi, legata la cassa in sul giumento,</l>
+        <l>ricondotto laggiù per la via lunga,</l>
+        <l>accompagnato fra le dolci cose</l>
+        <l>di primavera;</l>
+        <l>e io, per mezo all’assi,</l>
+        <l>per mezzo alla mia coltre, ahimè, non più</l>
+        <l>non più v’avrei veduta con questi occhi!</l>
+        <l>Sol tal pensiero</l>
+        <l>m’era nel cuore mentre combattevo,</l>
+        <l>e tanto erami forte che sol esso,</l>
+        <l>sol esso e non il ferro,</l>
+        <l>parava alla mia vita</l>
+        <l>ogni colpo mortale. Diamante,</l>
+        <l>gridavano le scorte, Diamante!</l>
+        <l>E tutta in un pensiero</l>
+        <l>adamantina era la vita mia.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Ah, signore mio figlio, già m’avete</l>
+        <l>voi maculata,</l>
+        <l>m’avete insanguinata</l>
+        <l>a mezzo il petto. Ora perché volete</l>
+        <l>ardermi?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>ardermi? Figlio</l>
+        <l>mi dite! Figlio della Primavera</l>
+        <l>giovinetta or son io dunque a prodigio?</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Non potrò più toccarvi, né sanarvi,</l>
+        <l>ahimè, figlio ferito!</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Chi sanerà la fiamma?</l>
+        <l>E che giova stagnare alcuna goccia,</l>
+        <l>se il cuor lascia fuggirsi</l>
+        <l>tanto flutto che il mondo n’è vermiglio?</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>Ecco, Dama.</l>
+      </sp>
+      <stage>Ella depone il tutto; poi esita qualche istante,e si ritrae lievemente senza rivolgere le spalle,camminando a ritroso,con gli occhi fissi sopra i due perduti.PARISINAEcco, Dama. Vedete.Ecco l’acqua, ecco i lini, et ecco ilbalsamo.Ma non più m’ardisco…. Se pietàho di voi, non avretepietà di me che tuttasmarrita sono dalla grande angoscia?Inginocchiàti su la soglia santafummo. Io donaiquanto più caro m’era. Consacrastevoi la spada ancor caldad’eccidio. Nella graziadel vóto or siamo entrambi,restituiti entrambialla grazia divina.</stage>
+      <stage>La moglie di Nicolò è tutta tremante.Folle di desiderio è il figlio di Stella,e ancóra inebriato di battaglia.UGO D’ESTEalla grazia divina. Ho combattuto,ho combattuto pel mio vóto, senzacedere, nel pericolo più folto.Da solo ho combattuto come cento;e la mia spada aveva cento puntee cento tagli alla carneficina….</stage>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Così, così combattere vorrei!</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>L’arme e la gioia erano una potenza</l>
+        <l>sola. Alla prova santa, la mia facia,</l>
+        <l>i miei capelli, le mie mani, tutte</l>
+        <l>le mie vene erano una sola vampa,</l>
+        <l>come a gioco d’amore….</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Ah, veduto io t’avessi!</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Ah, veduto io t’avessi! E la battaglia</l>
+        <l>mi soffiava su gli occhi come il vento</l>
+        <l>di Schiavonia;</l>
+        <l>e le grida e il clamore</l>
+        <l>parevano rilucere, e la luce</l>
+        <l>di tutto il cielo</l>
+        <l>parea gridare come il combattente….</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Gridavi tu? Gridavi</l>
+        <l>ad ogni colpo? Udito</l>
+        <l>io t’avessi!</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>io t’avessi! Io non so se la mia gola</l>
+        <l>facesse grido né qual grido; ma</l>
+        <l>nel rombo de’ miei polsi</l>
+        <l>udivo il cor gridare un nome, un nome,</l>
+        <l>un aguzzato nome penetrabile</l>
+        <l>come stocco….</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>come stocco…. Qual nome?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>come stocco…. Qual nome? Parisina!</l>
+        <l>Parisina!</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Parisina! Così gridavi?</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Parisina! Così gridavi? E il nome</l>
+        <l>e il cuore e il braccio e l’arme</l>
+        <l>erano una virtù sola, veloce</l>
+        <l>come la forza tacita del sogno;</l>
+        <l>e gli uomini cadevano</l>
+        <l>intorno a me guardandomi</l>
+        <l>negli occhi, come in sogno</l>
+        <l>quando uno solo è come moltitudine</l>
+        <l>e un viso è come mille</l>
+        <l>e il cor su è pieno di memoria</l>
+        <l>vertiginosa.</l>
+        <l>Ciascun percosso</l>
+        <l>parea gridarmi:</l>
+        <l>Per chi m’uccidi?</l>
+        <l>Ah, ben io so. Un riso</l>
+        <l>arido mi saliva dai precordii….</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Ch’io li veda, li veda!</l>
+        <l>Ch’io mi chini a spiarli</l>
+        <l>negli occhi aperti, i tuoi uccisi, ch’io</l>
+        <l>ne scopra i tagli,</l>
+        <l>ch’io sappia come tu ferisci. Andiamo!</l>
+        <l>Di che è questo sangue che me segna?</l>
+        <l>Stanno in mucchio tra i lauri,</l>
+        <l>stanno riversi per la china, rotti</l>
+        <l>sotto il carro. Taluno forse vive,</l>
+        <l>non è spirato ancòra; e con quegli occhi</l>
+        <l>che ti guardarono</l>
+        <l>mi guarderà.</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>mi guarderà. Io solo</l>
+        <l>ti guarderò, io solo.</l>
+        <l>Ah fosse – io mi sognava nel mio cor</l>
+        <l>folle mentre la forza</l>
+        <l>mi cresceva alla strage –</l>
+        <l>fosse a vespro tagliata</l>
+        <l>ogni vita così</l>
+        <l>come il campo del grano</l>
+        <l>alla fine dell’opra</l>
+        <l>raso è dal mietitore;</l>
+        <l>e noi due, soli insieme</l>
+        <l>noi due, lasciate fossimo di qua</l>
+        <l>dalla morte, noi due</l>
+        <l>in un nodo, così come ti serro,</l>
+        <l>Parisina….</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Parisina…. Ah follia, perdizione,</l>
+        <l>morte nostra! Il Nemico è sopra noi,</l>
+        <l>che tra’ suoi beveraggi</l>
+        <l>ha scelto il più crudele,</l>
+        <l>ha scelto il sangue per inebriarci!</l>
+        <l>Non so che fumo atroce</l>
+        <l>salito è dal profondo,</l>
+        <l>non so che mala ebrezza…. Mi risveglio,</l>
+        <l>ecco, mi scrollo.</l>
+        <l>Io ti prego, t’imploro!</l>
+        <l>Non far peccato,</l>
+        <l>non far peccato orrendo!</l>
+        <l>Inginocchiàti su la soglia santa</l>
+        <l>fummo. Sciogliemmo il vóto.</l>
+        <l>Non esser cieco,</l>
+        <l>non m’accecare!</l>
+        <l>Vinci il Nemico,</l>
+        <l>che sta nell’ombra,</l>
+        <l>che nell’ombra ci agguata.</l>
+        <l>La notte viene,</l>
+        <l>la notte viene.</l>
+        <l>Ancora nella sera che si costella,</l>
+        <l>s’ode lungo la marina il suono roco delle bùccine.</l>
+        <l>L’Idolo è alzato nel carro, tra i lauri,</l>
+        <l>sul crine del poggio,</l>
+        <l>contro l’ultima banda di rossore crepuscolare.</l>
+        <l>Giunge dagli Ospizii l’infinita litania.</l>
+        <l>Accendete le fiaccole! Recate</l>
+        <l>tutti i doppieri!</l>
+      </sp>
+      <stage>PARISINAParisina…. Ah follia, perdizione,morte nostra! Il Nemico è sopra noi,che tra’ suoi beveraggiha scelto il più crudele,ha scelto il sangue per inebriarci!Non so che fumo atrocesalito è dal profondo,non so che mala ebrezza…. Mi risveglio,ecco, mi scrollo.Io ti prego, t’imploro!Non far peccato,non far peccato orrendo!Inginocchiàti su la soglia santafummo. Sciogliemmo il vóto.Non esser cieco,non m’accecare!Vinci il Nemico,che sta nell’ombra,che nell’ombra ci agguata.La notte viene,la notte viene.Ancora nella sera che si costella,s’ode lungo la marina il suono roco delle bùccine.L’Idolo è alzato nel carro, tra i lauri,sul crine del poggio,contro l’ultima banda di rossore crepuscolare.Giunge dagli Ospizii l’infinita litania.Accendete le fiaccole! Recatetutti i doppieri!</stage>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>tutti i doppieri! Taci! Taci! L’ultima</l>
+        <l>luce recato ha l’ultima</l>
+        <l>ombra per me su la terra, e la notte</l>
+        <l>senz’alba. Taci! Se taluno reca</l>
+        <l>la fiaccola, io l’atterro</l>
+        <l>e nel viso gli spengo</l>
+        <l>la fiamma….</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>la fiamma…. Ah chi ti toglie</l>
+        <l>il senno? Chi ti rende sì feroce?</l>
+        <l>Gli uccisi ti guardavano negli occhi….</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>Ero con loro su l’abisso buio</l>
+        <l>senza precipitare,</l>
+        <l>per voler prima sciogliere il mio vóto.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Il tuo vóto! Oh parola scellerata!</l>
+        <l>Già nel viso l’ardore dell’inferno</l>
+        <l>hai.</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>hai. L’ardor dell’Inferno mi sarà,</l>
+        <l>dopo, più dolce, sette volte più</l>
+        <l>dolce che se dirmissi</l>
+        <l>nelle tue braccia avvinto</l>
+        <l>e ti sentissi abbandonar l’un braccio</l>
+        <l>nel lieve sonno.</l>
+      </sp>
+      <stage>La donna fa l’atto di lanciarsi fuori del padiglione.Rattenuta, ritrascinata, rovescia il capo indietroa scorgere di là dai cancelli chiusi la Vergine nera.PARISINAMercé, Maria! Mercé, Vergine santa!Se tutto ti donnai,se tutta mi t’offersi,salvami!</stage>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>salvami! Io l’ho servita per l’amore,</l>
+        <l>per l’amore.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>per l’amore. Maria,</l>
+        <l>o Regina dei Martiri, Maria,</l>
+        <l>schiantami il cuore, fammi cader morta,</l>
+        <l>salvami dal peccato orrendo!</l>
+      </sp>
+      <sp who="#ugo d’este">
+        <speaker>UGO D’ESTE:</speaker>
+        <l>salvami dal peccato orrendo! Segno</l>
+        <l>non dà. Io l’ho servita per l’amore,</l>
+        <l>per l’amore.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>per l’amore. Ugo, ascolta,</l>
+        <l>ascolta. Dammi tregua.</l>
+        <l>Il Nemico ci tiene,</l>
+        <l>il Maligno è su noi.</l>
+        <l>Concedimi la prova</l>
+        <l>della preghiera.</l>
+        <l>Ascolta. Aspetta. Dammi tregua. Vieni.</l>
+        <l>M’inginocchio. Inginòcchiati. Preghiamo.</l>
+      </sp>
+      <stage>Ella si getta ginocchioni, traendo per le mani il giovine,che s’inginocchia di contro a lei.Sono senza colore entrambi, anelanti, a viso a viso,con le pupille nelle pupille, col respiro nel respiro,in un attimo soprano d’attesa, di terrore e di passione.All’improvviso, quasi che l’attimo scocchi,con una veemenza unanime,le due bocche aride si congiungonocome per beversi o per divorarsi.Così congiunti, i due perdutia poco a poco si piegano sul fianco;sicchè l’una e l’altro toccano insieme con la gotail tappeto disteso su la nuda terra.L’uno accanto all’altra, senza disgiungere le labbra e le braccia,s’allungano nel letto dell’ombra per giacersi e morire.</stage>
+      <sp who="#atto terzo">
+        <speaker>ATTO TERZO:</speaker>
+      </sp>
+      <stage>La Camera “A Ursi” in BelfioreLa camera è profonda e ricca.Il gran letto è involto nelle cortine.I doppieri sono spenti.Sola arde una lanterna posta sul pavimento,di contro alla porta. Parisina è a giacere in un tappeto,presso la lanterna. Poggiati i gomiti,stretto fra le pugna chiuse il capo,inganna l’attesa leggendo il Romanzo di Tristano.Il lume rischiara la faccia intenta e il libro apertosul corpo dell’arpa come su leggio.Il rimantente è nell’ombra.Sopra una scranna la Verde sembra sonnecchiare.La finestra è aperta alla notte bellae all’orezzo dei verzieri in fiore.Credendo udire il passo furtivo presso la sogliache il lume basso segna d’una riga indicatrice,Parisina sobbalza, si leva su i ginocchi,e ascolta palpitante.Giunge sul vento notturno alcun lembod’un coro noto ma remoto:“Che foco è questo ch’arde e nonconsuma?Che piaga è questa che sangue nongetta?”</stage>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Dormi? Verde, tu dormi?</l>
+        <l>Ella si leva in piedi, va all’uscio, lo apre;</l>
+        <l>guarda nell’andito buio.</l>
+        <l>Si ritrae rabbrividendo;</l>
+        <l>e si volge, con la faccia sbiancata dal terrore.</l>
+        <l>L’uscio rimane socchiuso. La lanterna e il libro</l>
+        <l>rischiarato sul corpo dell’arpa rimangono a terra.</l>
+        <l>Dormi?</l>
+      </sp>
+      <stage>PARISINADormi? Verde, tu dormi?Ella si leva in piedi, va all’uscio, lo apre;guarda nell’andito buio.Si ritrae rabbrividendo;e si volge, con la faccia sbiancata dal terrore.L’uscio rimane socchiuso. La lanterna e il librorischiarato sul corpo dell’arpa rimangono a terra.Dormi?</stage>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>Dormi? No, Dama bella.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Verde!</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>Verde! Qual mai paura entrata v’è</l>
+        <l>addosso, Dama?</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>addosso, Dama? Ancóra là, nel buio,</l>
+        <l>nell’andito, davanti</l>
+        <l>la porta, traveduta</l>
+        <l>l’ho.</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>l’ho. La fantasima?</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Ed ei tarda. Perché tarda stanotte?</l>
+        <l>L’andito è nero</l>
+        <l>per ove ei viene</l>
+        <l>con le mani tastando</l>
+        <l>come il cieco mendico.</l>
+        <l>Ma posta ho in terra</l>
+        <l>la lampada perché sotto la porta</l>
+        <l>segni il segnale di luce. Or qualcuno</l>
+        <l>è tra la lampada e la notte. Ancóra</l>
+        <l>non s’ode il terzo grido delle scolte,</l>
+        <l>e tu dormi! Se taci, t’addormenti,</l>
+        <l>meschina; né pur sai dove noi siamo,</l>
+        <l>né pur sai chi s’attenda.</l>
+        <l>Ti prenderò per i capegli, il capo</l>
+        <l>ti scoterò, come allora; perché</l>
+        <l>non pur sai che stanotte</l>
+        <l>fa l’anno, quando</l>
+        <l>ti volgesti sfacciata</l>
+        <l>a dire il bacio</l>
+        <l>d’Amore e di Vergognia.</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>d’Amore e di Vergognia. Dama, Dama,</l>
+        <l>voi non mi date mai posa, né dì</l>
+        <l>né notte. Or sempre nascono rampogna</l>
+        <l>e rimbrotti, doglienza e crucci. Almanco</l>
+        <l>io bene vi guardai, bene vi guardo,</l>
+        <l>che passo l’ore buie</l>
+        <l>contro l’uscio inchiodata</l>
+        <l>come serrame;</l>
+        <l>e la vita vi dono,</l>
+        <l>ché sento omai</l>
+        <l>questo mio capo debole in sul gambo</l>
+        <l>qual frutto mézzo che pur dee cadere.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Tu tremi il tradimento e la mannaia,</l>
+        <l>meschina? Hai tu sospetto</l>
+        <l>che taluno ne spii,</l>
+        <l>taluno a cui di me</l>
+        <l>incresca?</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>incresca? Forse, Dama.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Chi? La Chiara de Mantova?</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>Chi? La Chiara de Mantova? Sicura</l>
+        <l>di lei non sono; ma v’è altri….</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>di lei non sono; ma v’è altri…. Chi?</l>
+        <l>Zoese?</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>Zoese? Ei va braccando,</l>
+        <l>mi sembra, e mal sorride….</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>mi sembra, e mal sorride…. È certo, è certo!</l>
+        <l>Apparita non m’è senza cagione.</l>
+        <l>Pallida il viso</l>
+        <l>come la prima cenere che vela</l>
+        <l>la brace, in un camaglio</l>
+        <l>a liste brune e d’oro,</l>
+        <l>mi stava al capezzale.</l>
+        <l>Col peso della carne del mio cuore</l>
+        <l>pesava il mio peccato. E disse: “Io so.</l>
+        <l>Ma che paventi? Il ferro</l>
+        <l>non divide la fiamma,</l>
+        <l>non divide la fiamma che s’aderse.”</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>Di chi parlate voi?</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Di chi parlate voi? Ma guarda, guarda,</l>
+        <l>se l’animo ti basta. Ora non è</l>
+        <l>alzata tra la lampada e la notte?</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>Dama, Dama, sognate voi movendo</l>
+        <l>e favellando, come</l>
+        <l>fa l’Isabetta? O la febbre maggese</l>
+        <l>di sùbito vi piglia?</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>di sùbito vi piglia? Questa pena</l>
+        <l>di sudore Ei sostenne,</l>
+        <l>perché da noi</l>
+        <l>si spiccasse la beffre del peccato….</l>
+        <l>Dici che sogno? Non so quando io chiusi</l>
+        <l>gli occhi, no so da qual mai lungo</l>
+        <l>sonno</l>
+        <l>io mi svegli; non so,</l>
+        <l>non so di quale vita</l>
+        <l>io viva, in verità. Tutto ritorna</l>
+        <l>dal profondo. Commessa</l>
+        <l>fu la mia colpa,</l>
+        <l>patito il mio dolore,</l>
+        <l>sofferto il mio spavento;</l>
+        <l>sospesa fu la mia sciagura, inflitta</l>
+        <l>la mia morte. Non sogno,</l>
+        <l>o meschina, non sogno: mi rimemoro.</l>
+        <l>Non vivo: di mia vita mi sovviene,</l>
+        <l>mi sovviene di me come discesa</l>
+        <l>nel mondo io sia pe’ rami</l>
+        <l>d’un nero sangue.</l>
+        <l>A Rimino sposata fui, menata</l>
+        <l>a Ravenna il dì due d’aprile. Intendi?</l>
+        <l>Feci a ritroso la sua via.</l>
+        <l>Rifeci</l>
+        <l>la via mala. Il suo pianto fu ripianto</l>
+        <l>entro me, senza lacrime….</l>
+      </sp>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>entro me, senza lacrime…. Chi, Dama,</l>
+        <l>chi vi tormenta?</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>chi vi tormenta? Francesca! Francesca!</l>
+        <l>O ell’è tra la lampada e la notte.</l>
+        <l>E mi guarda; e la guardo</l>
+        <l>come se me medesma</l>
+        <l>io mirassi in funesto</l>
+        <l>specchio; ché, com’io m’ebbi a</l>
+        <l>mezzo il petto</l>
+        <l>quella macchia vermiglia,</l>
+        <l>a mezzo il petto una profonda polla</l>
+        <l>di sangue ell’ha; che fumiga e del tristo</l>
+        <l>vapore m’empie il mio respiro. Et anche</l>
+        <l>il mio peccato</l>
+        <l>scritto è in quel libro,</l>
+        <l>come il suo nel libro</l>
+        <l>ch’ella lesse. Ma ella s’interruppe,</l>
+        <l>e convien ch’io lo legga sino in fondo….</l>
+        <l>Ascolta l’usignuolo!</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Ah, serra ancóra, serra</l>
+        <l>così forte che i cuori</l>
+        <l>si frangano e che l’anime si fuggano!</l>
+        <l>Rotta dall’angoscia d’amore, egli rallenta la stretta.</l>
+        <l>Forza non hai. Son viva!</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Forza non hai. I am alive! Parisina!</l>
+        <l>Parisina!</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Parisina! E pur, mentre</l>
+        <l>tardavi, l’anima</l>
+        <l>furente di fuggirsi</l>
+        <l>reggevo con le mani disperate,</l>
+        <l>come il valletto chino</l>
+        <l>rattiene il veltro a piene braccia. O amico</l>
+        <l>mio bello, e mi parea</l>
+        <l>che, se lasciata io l’avessi, ripresa</l>
+        <l>io non l’avrei più mai.</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Né io l’aveva in me, l’anima mia;</l>
+        <l>né il cuore aveva in petto,</l>
+        <l>né la pietà. M’ascolti? Combattuto</l>
+        <l>io ho combattimento più tremendo</l>
+        <l>che quello del mio vóto,</l>
+        <l>intorno al carro atroce, quand’io t’ebbi.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Hai combattuto?</l>
+        <l>Ansiosa ella gli palpa le braccia,</l>
+        <l>il petto, le ciocche dei capelli su gli òmeri.</l>
+        <l>Guarda se le dita le si tingano.</l>
+        <l>Hai combattuto? Oh Dio!</l>
+        <l>Sei tutto molle. Ancóra sangue?</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Sei tutto molle. Ancóra sangue? Lacrime.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Lacrime! Hai pianto?</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Non io, non io.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Non io, non io. Ma quale creature</l>
+        <l>ha pianto sopra te così gran pianto?</l>
+        <l>Chi, dimmi, aver poteva tanto lacrime?</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>La madre mia.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>La madre mia. Stella dell’Assassino!</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>La mia madre.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>La mia madre. Oh perdonami!</l>
+        <l>Cruccio non è. Dell’insensato oltraggio</l>
+        <l>non ti sovvenga più; sol ti sovvenga</l>
+        <l>de’ miei singhiozzi</l>
+        <l>e del silenzio che si fece intorno</l>
+        <l>come quando dall’odio in su la nave</l>
+        <l>votato fu per due</l>
+        <l>la tazza dell’amore e della morte.</l>
+        <l>Ma parla, dimmi. Dove ti cercò</l>
+        <l>ella? Tornò dal bando?</l>
+        <l>E chi te la condusse?</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Non so, non so.</l>
+        <l>Balzata è dalla notte</l>
+        <l>con uno schianto di dolore, sola,</l>
+        <l>indomita…. Ah, non sai.</l>
+        <l>Volgevo il capo</l>
+        <l>per non guardare la sua faccia: ché,</l>
+        <l>s’io la guardava,</l>
+        <l>non v’era in me più forza né coraggio</l>
+        <l>né soffio. Avviluppato in una nube</l>
+        <l>d’angoscia, profondato</l>
+        <l>ero in un’onda amara</l>
+        <l>e calda, con l’orrore</l>
+        <l>della sorte premuto</l>
+        <l>su tutto me. Parole</l>
+        <l>udivo escite</l>
+        <l>da non so qual potenza, nella notte</l>
+        <l>senza vie. La salvezza e il perdimento</l>
+        <l>eran senz’occhi entrambi.</l>
+        <l>E tutto inevitabile</l>
+        <l>era. E non combattevo</l>
+        <l>se non per te</l>
+        <l>anche una volta, se non pel mio vóto,</l>
+        <l>non più nel sangue</l>
+        <l>ma nelle lacrime.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>La notte ha la sua via,</l>
+        <l>ha la sua via la notte.</l>
+        <l>Guarda, per il tremore</l>
+        <l>spaventoso degli astri, la via bianca,</l>
+        <l>la via di latte:</l>
+        <l>Galàssia! Prendimi</l>
+        <l>su la tua spalla</l>
+        <l>come un fascio di foglie</l>
+        <l>legato come un vimine,</l>
+        <l>e portami lontano.</l>
+        <l>Portami alla foresta,</l>
+        <l>rapiscimi lontano,</l>
+        <l>come Isotta la Bionda,</l>
+        <l>tu con l’arco e la spada,</l>
+        <l>io con l’amor mio solo.</l>
+        <l>Ma forse nella landa d’Oblianza</l>
+        <l>ritroverò la mia</l>
+        <l>arpa sospesa al ramo</l>
+        <l>dell’avellano involto</l>
+        <l>dal caprifoglio in fiore;</l>
+        <l>e, come l’usignuolo</l>
+        <l>canta, io ti canterò.</l>
+        <l>“Amico mio bello,</l>
+        <l>così di noi è:</l>
+        <l>né tu senza me,</l>
+        <l>né io senza te.”</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Ah come in te</l>
+        <l>dolce cosa a toccare</l>
+        <l>e dolce a respirare</l>
+        <l>è la vita!</l>
+      </sp>
+      <stage>Già colmo della voluttà primaverile,egli cingendola col braccio la traelentamente verso il gran letto.PARISINAè la vita! Vuoi vivere!Come un fastello d’erbesu la tua spalla prendimi.Ti sarò lieve.Prendimi, portami.Ti sarò lieve….</stage>
+      <stage>Son già presso il letto; e la voce dell’amata illanguidisce,nell’alito dell’amante che verso lei si piega.D’improvviso la Verde spalanca la portadando ad alta voce l’annunzio, quasi fosse in cerimonia.</stage>
+      <sp who="#la verde">
+        <speaker>LA VERDE:</speaker>
+        <l>Messere Nicolò venire degna</l>
+        <l>a visitare in camera Madonna.</l>
+      </sp>
+      <stage>Ella s’addossa allo stipite restando inchinata,più bianca della sua gorgeretta.Con un atto pronto e forte Parisina spinge Ugotra le cortine e lo nasconde;poi si volge, fa qualche passo verso il sopravvegnente,rafferma l’animo. Il chiarore delle torce sbattendo sul murodell’andito precede l’uomo.Egli appare su la soglia bieco,tenendo in pugno un verduco acutissimo.I famigli, con cappucci calati su gli occhi,restano dietro di lui sollevando le torce.</stage>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Benvenuto, signore.</l>
+        <l>Molto a notte, e con tante</l>
+        <l>fiaccole, e armato, la mercé di Dio!</l>
+      </sp>
+      <sp who="#nicolò d’este">
+        <speaker>NICOLÒ D’ESTE:</speaker>
+        <l>Perdono chieggio, donna. Io non credea</l>
+        <l>trovarvi un pezzo tra notte a vegliare.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Io leggeva il romanzo di Tristano,</l>
+        <l>e l’ore mi s’involano.</l>
+      </sp>
+      <sp who="#nicolò d’este">
+        <speaker>NICOLÒ D’ESTE:</speaker>
+        <l>e l’ore mi s’involano. Per certo,</l>
+        <l>donna, d’entrar non mi sarei ardito</l>
+        <l>se troppo frettolosa questa vostra</l>
+        <l>servente non m’avesse prevenuto,</l>
+        <l>come lesta ch’ell’è,</l>
+        <l>e bene istrutta.</l>
+        <l>Io passavo per l’andito, co’ miei</l>
+        <l>famigli. Io cerco</l>
+        <l>il leopardo</l>
+        <l>che mi donò l’Imperadore greco.</l>
+        <l>Fuggito s’è di gabbia,</l>
+        <l>né so dove s’acquatti.</l>
+        <l>Voi l’avevate caro</l>
+        <l>pel suo pelame costellato. Et egli</l>
+        <l>v’aveva in grazia. Forse</l>
+        <l>rifugiato egli s’è</l>
+        <l>presso voi, senza mordere?</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Strano parlate, mio signore. Ma</l>
+        <l>altra fiera non è qui, se non sono</l>
+        <l>io quella.</l>
+      </sp>
+      <sp who="#nicolò d’este">
+        <speaker>NICOLÒ D’ESTE:</speaker>
+        <l>io quella. Maculata voi non siete,</l>
+        <l>donna. Neuna macula</l>
+        <l>è in voi; e in lui son cento.</l>
+        <l>Egli guata per ogni dove a scoprire l’indizio.</l>
+        <l>Fate lume! L’odor selvaggio fiuto.</l>
+        <l>I’ sono un bracco pratico.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Concio siete, messere, o divenuto</l>
+        <l>fuori di senno?</l>
+      </sp>
+      <sp who="#nicolò d’este">
+        <speaker>NICOLÒ D’ESTE:</speaker>
+        <l>fuori di senno? E pure</l>
+        <l>ben vi piacquero un tempo le mie cacce</l>
+        <l>notturne con le fiaccole e le nacchere.</l>
+        <l>Ma non v’attendavate a questa. Fate</l>
+        <l>lume! Ecco. Bene, bene.</l>
+        <l>Ch’io recuperi almen la gaia pelle</l>
+        <l>del leopardo</l>
+        <l>che mi donò</l>
+        <l>quel buon Pagliàloco.</l>
+        <l>Giunto dinanzi al letto, così dicendo</l>
+        <l>e un poco soffiando, si curva su le gambe ercoline.</l>
+        <l>Allungando il braccio vibra di sotto più colpi per assaggio.</l>
+        <l>A vòto, a vòto!</l>
+      </sp>
+      <stage>NICOLÒ D’ESTEfuori di senno? E pureben vi piacquero un tempo le mie caccenotturne con le fiaccole e le nacchere.Ma non v’attendavate a questa. Fatelume! Ecco. Bene, bene.Ch’io recuperi almen la gaia pelledel leopardoche mi donòquel buon Pagliàloco.Giunto dinanzi al letto, così dicendoe un poco soffiando, si curva su le gambe ercoline.Allungando il braccio vibra di sotto più colpi per assaggio.A vòto, a vòto!</stage>
+      <stage>La donna è da presso immobile,tesa come balestra, sospesa all’attimo dello scocco.L’uomo, come avvertito da alcun fremito della vita nascostatra le pieghe della cortina,figge al giusto luogo lo sguardo sfavillante.Un poco si ritrae per misurare il colpo.Come già piega il gomito,l’adultera si getta innanzi perdutamente gridando.PARISINANo! No! È Ugo, Ugo,il vostro figlio!</stage>
+      <stage>Con un gesto rapido ella medesima lo discopre.Ugo resta immobile, senza parola, nel palloree nel rigore del sasso.Il padre lascia cadere a terra l’arme e barcolla alquanto,come s’egli medesimo avesse ricevuto il colpo sviato.Le fiaccole vacillano a sommo delle bracciache lo sgomento dirompe.</stage>
+      <sp who="#nicolò d’este">
+        <speaker>NICOLÒ D’ESTE:</speaker>
+        <l>Cristo Signore, perché tu mi fulmini?</l>
+        <l>Se raccattai la terra dal Calvario</l>
+        <l>con le mie pugna,</l>
+        <l>se il Sepolcro toccai, Cristo Signore,</l>
+        <l>tu fa ch’io non mi perda,</l>
+        <l>ch’io non raccatti il ferro, che le mani</l>
+        <l>mie stesse io non insanguini</l>
+        <l>nel sangue mio!</l>
+        <l>O Zoese, Zoese, e tu non hai</l>
+        <l>se non un capo solo</l>
+        <l>al ceppo, ch’io tel prenda!</l>
+        <l>Tu lo sapevi,</l>
+        <l>tu lo sapevi, e non me l’hai svelato.</l>
+        <l>Cacciato m’hai</l>
+        <l>a patir questo istante</l>
+        <l>che contato mi sia</l>
+        <l>per mill’anni di rosso Inferno. A viso</l>
+        <l>a viso mi volesti</l>
+        <l>col mio figlio che voltola nel mio</l>
+        <l>lenzuolo la sua foia. Fate lume!</l>
+        <l>Fate lume! Squassate</l>
+        <l>le fiaccole, che rendano più fiamma!</l>
+        <l>Portate ancóra torce,</l>
+        <l>che la camera piena di splendore</l>
+        <l>sia, dov’è l’onta d’Este,</l>
+        <l>e ch’io lo veda</l>
+        <l>ch’io ben lo veda,</l>
+        <l>fatto di pietra contro la colonna</l>
+        <l>del mio letto infamato,</l>
+        <l>quel capo che ogni giorno inghirlandai,</l>
+        <l>quel viso ch’io mi tenni in mezzo al</l>
+        <l>cuore!</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Hai tu veduto a dentro?</l>
+        <l>sin nel profondo?</l>
+        <l>E che dirai? e che dirai di questo</l>
+        <l>dolce fanciullo?</l>
+        <l>Or guarda me, che sola son la fiera</l>
+        <l>a te dinanzi,</l>
+        <l>vedi, più maculata che la pelle</l>
+        <l>del leopardo,</l>
+        <l>corrotta sin nell’ossa</l>
+        <l>dal mio retaggio ontoso,</l>
+        <l>nata d’un sangue</l>
+        <l>di rubatori traditori e drude,</l>
+        <l>come gridò la madre del tuo figlio,</l>
+        <l>Stella dell’Assassino;</l>
+        <l>e ben l’udì questo fanciullo, e bene</l>
+        <l>da lui, da lui</l>
+        <l>quante volte tu stesso</l>
+        <l>udisti contra me</l>
+        <l>la parola dell’odio e del dispregio!</l>
+        <l>Non ti sovviene più</l>
+        <l>di che odio selvaggio ei m’odiasse?</l>
+        <l>Vendicata io mi sono,</l>
+        <l>come una Malatesta</l>
+        <l>vendicarsi usa,</l>
+        <l>in frode e in tradimento.</l>
+        <l>Io lo riarsi,</l>
+        <l>l’avviluppai,</l>
+        <l>di filtri infami</l>
+        <l>l’abberverai,</l>
+        <l>lo dissennai</l>
+        <l>per ogni guisa,</l>
+        <l>l’avvelenai</l>
+        <l>d’ogni veleno,</l>
+        <l>questo fanciullo.</l>
+        <l>Io, io lo persi,</l>
+        <l>io sola. Guardami.</l>
+        <l>Ho il viso nudo,</l>
+        <l>l’anima tesa.</l>
+        <l>Nulla in me trema.</l>
+        <l>L’onta è la luce</l>
+        <l>del mio peccato.</l>
+      </sp>
+      <stage>Rompe Ugo col grido la rigidità dell’orrore;e la delirante vita scoppia come la sorgente della roccia.UGOAh com’è bella! La vedete voi?la vedete? Le vostretorce non fanno luce, né avetepupille per la sua bellezza. Solaella fa luce. La vedete voi?Io, per l’Iddio possenteche nominar non dubito con questabocca piena d’amore e d’agonia,giuro ch’ella ha mentito;e lo splendore della sua menzognam’è testimonianza. Non riarso,e non avviluppato,né beverato fuidi filtri o di veleni,ma dall’anima miainebriato d’un divino sognoche noi sognammoin doglia e in gioia,che sogneremofino al trapasso,finché tutto il mio sanguenon balzi incontro al suo,come segnale e pegno di vittoria.</stage>
+      <sp who="#nicolò d’este">
+        <speaker>NICOLÒ D’ESTE:</speaker>
+        <l>Abbian l’istesso ceppo</l>
+        <l>sotto l’istessa scure</l>
+        <l>i due capi, e i due sangui</l>
+        <l>faccian l’istessa pozza.</l>
+      </sp>
+      <sp who="#nicolò d’este">
+        <speaker>NICOLÒ D’ESTE:</speaker>
+        <l>Jacomo, prendili!</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Jacomo, prendili! Ugo!</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Jacomo, prendili! Ugo! Parisina!</l>
+      </sp>
+      <sp who="#atto quarto">
+        <speaker>ATTO QUARTO:</speaker>
+      </sp>
+      <stage>La Torre del LeoneAppariscono le Segrete in fondo di torre.Un archivolto sopra due pilastri tozzi,aperto nella muraglia maestra,lascia scorgere il luogo della giustizia a traversoun saldo e rudo cancello di ferro.Un’apertura verticale, lunga e stretta come una balestriera,è l’unico occhio del carcere; ma non vi passa alcun barlume,essendo ancor notte, poco innanzi mattutino.Quivi è il ceppo apprestato, e il giustiziereco’ suoi manigoldi e con l’altra sua gente;e i torchi v’ardono. Alcuno non è di qua dalla muraglia,di qua dall’arco inferriato.Chiuso è l’usciuolo che dal lato mancodà accesso a questa parte.Ugo e Parisina sono di là dal cancello,in piedi entrambi, allacciati così che sembrano indissolubili.La voce di lei, nella gola che sta per esser mozza,è fresca come il giubilo dell’allodola.PARISINANon odo più,non odo più la stilladel tempo che cadereudivo nelle nottisenza riposo.L’alba indovino.</stage>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Né odo il cuore;</l>
+        <l>ché non più sire</l>
+        <l>egli è delle mie vene.</l>
+        <l>Per la tua vita</l>
+        <l>accôrre, la mia vita</l>
+        <l>non ha confino.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Udito hai tu,</l>
+        <l>udito hai tu sul muro</l>
+        <l>della torre crosciare</l>
+        <l>la piova? Tutto è fresco,</l>
+        <l>tutto è mondato.</l>
+        <l>Or mi ricreo</l>
+        <l>come il fil d’erba.</l>
+        <l>E so che nel ciel ride</l>
+        <l>già la stella diana.</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Passato è un tempo,</l>
+        <l>passato è un tempo</l>
+        <l>ch’io non posso più dire;</l>
+        <l>e quel che innanzi avvenne</l>
+        <l>e quel che dopo ancóra,</l>
+        <l>io nol viddi, nol seppi.</l>
+        <l>Forse or ti nasco;</l>
+        <l>e la morte, ch’è sopra,</l>
+        <l>par sì lontana.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Ah tu non sai,</l>
+        <l>non sai qual sia</l>
+        <l>nella tua bocca</l>
+        <l>la voce nova!</l>
+        <l>La volta cupa</l>
+        <l>ove risuona</l>
+        <l>sembra il segreto</l>
+        <l>antro d’un fonte.</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Vedi che occhi</l>
+        <l>s’apron ne’ miei?</l>
+        <l>In me tu sali,</l>
+        <l>cresci qual mare</l>
+        <l>senza amarezza.</l>
+        <l>Il flutto è in sommo.</l>
+        <l>Non ho il tuo sguardo</l>
+        <l>sotto la fronte?</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Tutte le lacrime,</l>
+        <l>ah tutte le mie lacrime</l>
+        <l>son divenute un sorso</l>
+        <l>d’acqua sorgente!</l>
+        <l>L’ho nella bianca gola.</l>
+        <l>Ho la più fresca</l>
+        <l>acqua del chiaro mondo</l>
+        <l>nella mia gola</l>
+        <l>che sta per sanguinare.</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>O mio fascio di foglie,</l>
+        <l>o mio fastello d’erbe,</l>
+        <l>dove ti porterò?</l>
+        <l>È più dolcezza</l>
+        <l>nella tua tempia,</l>
+        <l>in tra ‘l ciglio e i capelli,</l>
+        <l>che in qualunque contrada</l>
+        <l>del chiaro mondo. Or dove</l>
+        <l>andrem noi dimorare?</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Se tanto ardemmo,</l>
+        <l>se tanto ci struggemmo,</l>
+        <l>se fummo in tanto foco,</l>
+        <l>novel tempo d’ardore</l>
+        <l>pur nel mondo di giù</l>
+        <l>andrem noi ritrovare?</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Non nel mondo di giù,</l>
+        <l>non nel mondo che rugge.</l>
+        <l>Detto l’hai. Tutto è fresco,</l>
+        <l>tutto è mondato.</l>
+        <l>O mio fastello d’erbe,</l>
+        <l>dove t’ho da posare?</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Posami accanto al ceppo.</l>
+        <l>C’inginocchiammo</l>
+        <l>due volte. Anco due volte</l>
+        <l>bisogna, o bello</l>
+        <l>e dolce amico,</l>
+        <l>bisogna a noi due volte</l>
+        <l>i ginocchi piegare.</l>
+        <l>La prima nel peccato,</l>
+        <l>la seconda nell’onta,</l>
+        <l>la terza nella morte,</l>
+        <l>la quarta nell’eternità….</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>la quarta nell’eternità….Fa cuore.</l>
+        <l>Quella che grida è la tua madre.</l>
+      </sp>
+      <sp who="#stella dell’assassino">
+        <speaker>STELLA DELL’ASSASSINO:</speaker>
+        <l>Quella che grida è la tua madre. Figlio!</l>
+        <l>O figlio, dove sei?</l>
+        <l>dove sei? Non ti scorgo,</l>
+        <l>non ti trovo. Rispondi!</l>
+        <l>Rispondi! Cieca sono</l>
+        <l>di pianto. Dove sei? Tardi son giunta?</l>
+        <l>T’hanno ucciso? Discendo</l>
+        <l>in un sepolcro? Tutto è spento già?</l>
+        <l>Ella va barcollando dall’ombra</l>
+        <l>verso il chiarore dei torchi;</l>
+        <l>urta le mani nel cancello, vi s’afferra,</l>
+        <l>lo scuote; poi ficca il suo viso tra le sbarre e guata.</l>
+        <l>Ah, sempre ella ti tiene!</l>
+        <l>Disperatamente si sforza</l>
+        <l>di scuotere l’incrollabile ferro.</l>
+        <l>La coppia non si scioglie:</l>
+        <l>annodata e fissa rimane,</l>
+        <l>come escita dal senso,</l>
+        <l>come già dipartita e lontanissima.</l>
+        <l>Ah, sempre ella ti tiene! Figlio, figlio,</l>
+        <l>io, io sono! Non m’odi?</l>
+        <l>non mi conosci?</l>
+        <l>Dinanzi al silenzio si smarrisce.</l>
+        <l>Le sue mani incerte vagano sul suo volto</l>
+        <l>scavato dall’ombra.</l>
+        <l>non mi conosci? Ah, questo è sogno, questo</l>
+        <l>è sogno, o sortilegio,</l>
+        <l>o somiglianza di follìa. Che mai?</l>
+        <l>Certo, ah certo, incredibile</l>
+        <l>è ch’io m’abbia il mio senno,</l>
+        <l>e pur ch’io viva.</l>
+        <l>Ma vivo, e guardo, e vedo. Questo è ferro.</l>
+        <l>Alcuna cosa dunque</l>
+        <l>v’è più chiusa di questa,</l>
+        <l>v’è più sorda del muro,</l>
+        <l>più cruda della morte,</l>
+        <l>per separare dalla madre il figlio,</l>
+        <l>la carne dalla carne, me da te?</l>
+        <l>Ancóra ella ficca tra le sbarre la faccia,</l>
+        <l>e ansa come appesa a ordigno di tortura.</l>
+        <l>O legamento d’Inferno! Se più</l>
+        <l>ti chiamo, più la serri! Come più</l>
+        <l>grido, più ti nascondi!</l>
+        <l>Quanto più mi dispero,</l>
+        <l>più ti profondi in lei!</l>
+        <l>O svergognata femmina, che gli hai</l>
+        <l>tu fatto? E tu,</l>
+        <l>e tu da che sei nato?</l>
+        <l>Sciogliti, slàcciati,</l>
+        <l>da te scacciala, salva</l>
+        <l>l’anima tua!</l>
+        <l>Ella grida e s’agita invano</l>
+        <l>come sopra lapide di tomba</l>
+        <l>che non rende il sepolto.</l>
+        <l>l’anima tua! Ma volgi il capo, volgi</l>
+        <l>almeno il capo, guardami una volta</l>
+        <l>sola! Chi ti son io?</l>
+        <l>Chi sono?</l>
+        <l>Il furore la solleva e la moltiplica.</l>
+        <l>Chi sono? Scrollerò</l>
+        <l>il ferro, torcerò</l>
+        <l>le sbarre, strapperò</l>
+        <l>i serrami. Ho la forza</l>
+        <l>di mille. O mala femmina,</l>
+        <l>lascialo! Ti comando</l>
+        <l>di sciogliere il mio figlio!</l>
+        <l>Il furore la strozza e l’accascia.</l>
+        <l>I ginocchi le mancano, e i gomiti.</l>
+        <l>Ella cede, s’umilia.</l>
+        <l>Ebbene, sì, tu l’hai.</l>
+        <l>Tu me lo prendi,</l>
+        <l>tu me l’uccidi,</l>
+        <l>tu me lo danni. È tuo.</l>
+        <l>L’hai suggellato in te</l>
+        <l>meglio che nella pietra</l>
+        <l>del sepolcro. Ma rendimelo</l>
+        <l>per un attimo solo,</l>
+        <l>ch’io lo baci e riversa piombi giù!</l>
+        <l>Rendimelo pel bacio d’agonia!</l>
+        <l>Sì, forte sei. È tuo,</l>
+        <l>tuo. M’inclino, mi piego,</l>
+        <l>imploro. È tuo per sempre.</l>
+        <l>Lo so. Perdono</l>
+        <l>ti chieggio d’ogni grido.</l>
+        <l>Ma sol voglio baciarlo,</l>
+        <l>toccare il suo mento</l>
+        <l>e i suoi capelli,</l>
+        <l>guardarlo per un attimo</l>
+        <l>negli occhi, e nulla più.</l>
+      </sp>
+      <stage>STELLA DELL’ASSASSINOQuella che grida è la tua madre. Figlio!O figlio, dove sei?dove sei? Non ti scorgo,non ti trovo. Rispondi!Rispondi! Cieca sonodi pianto. Dove sei? Tardi son giunta?T’hanno ucciso? Discendoin un sepolcro? Tutto è spento già?Ella va barcollando dall’ombraverso il chiarore dei torchi;urta le mani nel cancello, vi s’afferra,lo scuote; poi ficca il suo viso tra le sbarre e guata.Ah, sempre ella ti tiene!Disperatamente si sforzadi scuotere l’incrollabile ferro.La coppia non si scioglie:annodata e fissa rimane,come escita dal senso,come già dipartita e lontanissima.Ah, sempre ella ti tiene! Figlio, figlio,io, io sono! Non m’odi?non mi conosci?Dinanzi al silenzio si smarrisce.Le sue mani incerte vagano sul suo voltoscavato dall’ombra.non mi conosci? Ah, questo è sogno, questoè sogno, o sortilegio,o somiglianza di follìa. Che mai?Certo, ah certo, incredibileè ch’io m’abbia il mio senno,e pur ch’io viva.Ma vivo, e guardo, e vedo. Questo è ferro.Alcuna cosa dunquev’è più chiusa di questa,v’è più sorda del muro,più cruda della morte,per separare dalla madre il figlio,la carne dalla carne, me da te?Ancóra ella ficca tra le sbarre la faccia,e ansa come appesa a ordigno di tortura.O legamento d’Inferno! Se piùti chiamo, più la serri! Come piùgrido, più ti nascondi!Quanto più mi dispero,più ti profondi in lei!O svergognata femmina, che gli haitu fatto? E tu,e tu da che sei nato?Sciogliti, slàcciati,da te scacciala, salval’anima tua!Ella grida e s’agita invanocome sopra lapide di tombache non rende il sepolto.l’anima tua! Ma volgi il capo, volgialmeno il capo, guardami una voltasola! Chi ti son io?Chi sono?Il furore la solleva e la moltiplica.Chi sono? Scrolleròil ferro, torceròle sbarre, strapperòi serrami. Ho la forzadi mille. O mala femmina,lascialo! Ti comandodi sciogliere il mio figlio!Il furore la strozza e l’accascia.I ginocchi le mancano, e i gomiti.Ella cede, s’umilia.Ebbene, sì, tu l’hai.Tu me lo prendi,tu me l’uccidi,tu me lo danni. È tuo.L’hai suggellato in temeglio che nella pietradel sepolcro. Ma rendimeloper un attimo solo,ch’io lo baci e riversa piombi giù!Rendimelo pel bacio d’agonia!Sì, forte sei. È tuo,tuo. M’inclino, mi piego,imploro. È tuo per sempre.Lo so. Perdonoti chieggio d’ogni grido.Ma sol voglio baciarlo,toccare il suo mentoe i suoi capelli,guardarlo per un attimonegli occhi, e nulla più.</stage>
+      <stage>Parisina abbandona le braccia lungo i fianchie un poco discosta il viso.Ma l’amato non allenta la stretta;anzi è come colui che,giacendo su la bocca, prende l’origliereco’ due pugni per più profondarsinel nero sonno.</stage>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Vedi, non io lo serro</l>
+        <l>e non io tel diniego,</l>
+        <l>madre. Santa mi sei,</l>
+        <l>però che di te nacque.</l>
+        <l>E fammi perdonanza,</l>
+        <l>se puoi. Donami pace.</l>
+        <l>Ma forse non udita</l>
+        <l>da lui fu la tua voce;</l>
+        <l>né forse ei l’ode ancóra;</l>
+        <l>ché già, quando apparisti,</l>
+        <l>èramo là</l>
+        <l>donde non più ritorna</l>
+        <l>né più si volge</l>
+        <l>l’anima innamorata.</l>
+        <l>Dolcemente ella solleva il capo dell’inconsapevole,</l>
+        <l>disnodargli tenta le braccia tenasci.</l>
+        <l>Intendi, o dolce amico.</l>
+        <l>Venuta è la tua madre</l>
+        <l>all’altra riva</l>
+        <l>per donarti commiato.</l>
+        <l>Convien che tu ti volga,</l>
+        <l>che incontro a lei ti muova</l>
+        <l>e che l’acqua rivarchi.</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Ah, soffro!</l>
+      </sp>
+      <sp who="#la madre">
+        <speaker>LA MADRE:</speaker>
+        <l>Ah, soffro! O figlio!</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Ah, soffro! O figlio! Va.</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Ah, perché soffro?</l>
+      </sp>
+      <sp who="#la madre">
+        <speaker>LA MADRE:</speaker>
+        <l>Figlio!</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Figlio! Va.</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Figlio! Va. Tu mi tieni.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>No. Va.</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>No. Va. Vieni. Accompagnami.</l>
+      </sp>
+      <sp who="#parisina">
+        <speaker>PARISINA:</speaker>
+        <l>Va. Va.</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>Va. Va. Non posso. Parisina!</l>
+      </sp>
+      <sp who="#la madre">
+        <speaker>LA MADRE:</speaker>
+        <l>Va. Va. Non posso. Parisina! O figlio,</l>
+        <l>o figlio, vieni, vieni!</l>
+      </sp>
+      <sp who="#ugo">
+        <speaker>UGO:</speaker>
+        <l>o figlio, vieni, vieni! Parisina!</l>
+      </sp>
+      <stage>Dalla disperazione materna erompe un urlo inumano.Parisina prende tra le palme la faccia del morituro e l’affisa.Poi lieve inviluppa in un drappo neroil bel capo che dev’essere mozzato.Mentr’ella fa l’atto di condurre la vittima verso il ceppo,il giustiziere muove un passo, la scure brilla.Esala il grido estremo la madre, e cade riversa.Si scorge Ugo inginocchiarsi dinanzi al ceppoe di contro a lui inginocchiarsi Parisina,togliergli d’intorno al capo il drappo,ancóra prendergli tra le palme il capoe quivi sul ceppo tenerlo sotto il colpo imminente.Per la balestriera entrano il barlume dell’albae il segno fioco della Salutazione angelica.</stage>
+      <sp who="#f i n e">
+        <speaker>F I N E:</speaker>
+      </sp>
+    </body>
+  </text>
+</TEI>

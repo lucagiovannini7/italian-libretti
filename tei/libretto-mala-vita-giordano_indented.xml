@@ -1,0 +1,2174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ala vita</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="vito">
+            <persName>VITO:</persName>
+          </person>
+          <person xml:id="fine">
+            <persName>FINE:</persName>
+          </person>
+          <person xml:id="atto terzo">
+            <persName>ATTO TERZO:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="nunzia">
+            <persName>NUNZIA:</persName>
+          </person>
+          <person xml:id="scena quinta">
+            <persName>SCENA QUINTA:</persName>
+          </person>
+          <person xml:id="scena quarta">
+            <persName>SCENA QUARTA:</persName>
+          </person>
+          <person xml:id="garzoni">
+            <persName>GARZONI:</persName>
+          </person>
+          <person xml:id="coro di popolani e popolane, nunzia, marco">
+            <persName>CORO DI POPOLANI E POPOLANE, NUNZIA, MARCO:</persName>
+          </person>
+          <person xml:id="scena terza">
+            <persName>SCENA TERZA:</persName>
+          </person>
+          <person xml:id="annetiello">
+            <persName>ANNETIELLO:</persName>
+          </person>
+          <person xml:id="coro di donne">
+            <persName>CORO DI DONNE:</persName>
+          </person>
+          <person xml:id="scena prima">
+            <persName>SCENA PRIMA:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="cristina">
+            <persName>CRISTINA:</persName>
+          </person>
+          <person xml:id="scena seconda">
+            <persName>SCENA SECONDA:</persName>
+          </person>
+          <person xml:id="coro d’uomini">
+            <persName>CORO D’UOMINI:</persName>
+          </person>
+          <person xml:id="amalia">
+            <persName>AMALIA:</persName>
+          </person>
+          <person xml:id="donne">
+            <persName>DONNE:</persName>
+          </person>
+          <person xml:id="marco">
+            <persName>MARCO:</persName>
+          </person>
+          <person xml:id="annetiello, marco, coro">
+            <persName>ANNETIELLO, MARCO, CORO:</persName>
+          </person>
+          <person xml:id="annetiello, marco e coro">
+            <persName>ANNETIELLO, MARCO E CORO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="scene">
+        <head>SCENA PRIMA</head>
+        <sp who="#scena prima">
+          <speaker>SCENA PRIMA:</speaker>
+        </sp>
+        <sp who="#coro di popolani e popolane, nunzia, marco">
+          <speaker>CORO DI POPOLANI E POPOLANE, NUNZIA, MARCO:</speaker>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(si affolla gesticolando e guardando nella bottega di Vito, ove qualcosa è seguìto)</l>
+          <l>Dio mio! – Dio mio! – Quel misero figliuolo!</l>
+          <l>Chi mai? – Vito il tintore! – Oh, poveretto!</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(uscendo dalla bottega di Vito)</l>
+          <l>Largo, largo! scostatevi,</l>
+          <l>lasciatemelo solo…</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(circondandola)</l>
+          <l>E che cos’ha?</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(facendo atto che Vito ha avuto una perdita di sangue dalla bocca)</l>
+          <l>Dal petto…</l>
+          <l>quel brutto male…</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ancor?</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>(scrollando il capo)</l>
+          <l>Lo punisce il Signor!</l>
+        </sp>
+        <sp who="#coro di donne">
+          <speaker>CORO DI DONNE:</speaker>
+          <l>Mamma del Carmine,</l>
+          <l>su lui vegliate,</l>
+          <l>e s’ha peccato non l’abbandonate;</l>
+          <l>o buon Gesù, pietà!</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>(chiamando a sé gli uomini, sottovoce)</l>
+          <l>Sapete voi la storia</l>
+          <l>fra l’ostrica e lo scoglio?</l>
+          <l>Qui, donn’Amalia è l’ostrica,</l>
+          <l>lo scoglio è quello là!</l>
+        </sp>
+        <sp who="#coro d’uomini">
+          <speaker>CORO D’UOMINI:</speaker>
+          <l>(sottovoce)</l>
+          <l>Ah ah! ah ah! ah ah!</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>(sottovoce)</l>
+          <l>Profetizzar non voglio,</l>
+          <l>ma l’ostrica lo scoglio</l>
+          <l>fra poco ingoierà!</l>
+        </sp>
+        <sp who="#coro d’uomini">
+          <speaker>CORO D’UOMINI:</speaker>
+          <l>(sottovoce)</l>
+          <l>Graziosa è la tua favola</l>
+          <l>fra l’ostrica e lo scoglio;</l>
+          <l>qui, donn’Amalia è l’ostrica,</l>
+          <l>lo scoglio è quello là…</l>
+          <l>Sì, puoi profetizzar</l>
+          <l>che l’ostrica lo scoglio</l>
+          <l>fra poco ingoierà!</l>
+        </sp>
+        <sp who="#coro di donne">
+          <speaker>CORO DI DONNE:</speaker>
+          <l>Mamma del Carmine, ecc., ecc.</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(rientrando, alla folla)</l>
+          <l>Zitti! fategli largo, che va meglio.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(guardando nella casa di Vito)</l>
+          <l>Guardate!… s’alza! – Ed or lo portan qui!</l>
+          <l>Che faccia!… Ohimè!…</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(spingendo la folla)</l>
+          <l>Largo!… largo!… Così!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENA SECONDA</head>
+        <sp who="#scena seconda">
+          <speaker>SCENA SECONDA:</speaker>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>Date una sedia! subito!</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>(porgendola)</l>
+          <l>Sta qua!</l>
+          <l>(volgendosi alla folla)</l>
+          <l>Fa paura!</l>
+          <l>Vito siede.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(a parte)</l>
+          <l>Mio Dio!</l>
+          <l>(a Vito)</l>
+          <l>Come si va?</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(sforzandosi di sorridere, lentamente)</l>
+          <l>Tutto è finito… Grazie…</l>
+          <l>È male passeggero…</l>
+          <l>Vo meglio assai… Davvero</l>
+          <l>non soffro… quasi più.</l>
+          <l>(Si alza, fa alcuni passi, ma trasalisce, porta la pezzuola alla bocca, poi, prorompe</l>
+          <l>in lagrime. I garzoni lo fanno sedere.)</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(circondandolo)</l>
+          <l>– Come? – Piangete?</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>– L’ho detto!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>– Oh, misero!</l>
+          <l>– Orsù, che avete?</l>
+          <l>– Soffrite ancor?</l>
+          <l>– Via, non temete!</l>
+          <l>– Fatevi cor!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(scostando i garzoni)</l>
+          <l>Vi prego… allontanatevi!…</l>
+          <l>Aria mi occorre adesso…</l>
+          <l>Son così affranto… soffoco…</l>
+          <l>addolorato, oppresso</l>
+          <l>è il povero mio petto…</l>
+          <l>(lasciando cadere il capo fra le mani)</l>
+          <l>Sol di morir aspetto!</l>
+        </sp>
+        <sp who="#coro di donne">
+          <speaker>CORO DI DONNE:</speaker>
+          <l>Mamma del Carmine, di lui pietà!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(asciugandosi gli occhi e la bocca)</l>
+          <l>E non so più a chi volgermi!</l>
+          <l>non so!… sono sfinito!…</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>O figlio mio!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Che strazio!</l>
+          <l>Ahimé!</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>(sottovoce)</l>
+          <l>Dio l’ha punito!</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(additando a Vito il Crocefisso)</l>
+          <l>Ed a quel buon Gesù vi rivolgeste mai?</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ah, sì, Vito – Pregatelo! – Egli è pietoso assai!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>No! non ne sono degno!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Egli vi ascolterà!</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>Se gli farete un voto, certo lo accoglierà.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(si leva commosso e cade in ginocchio).</l>
+          <l>Le donne lo imitano; gli uomini si sberrettano tutti.</l>
+          <l>O Gesù mio d’amor, che sulla croce</l>
+          <l>t’immolasti a salvare il peccatore,</l>
+          <l>di quest’anima mia sii redentore,</l>
+          <l>abbi di me pietà, del mio soffrir,</l>
+          <l>fammi guarir, Signor, fammi guarir,</l>
+          <l>mitiga tu dei mali miei l’orror!</l>
+          <l>Tu che vedi il martirio del mio cor,</l>
+          <l>tu che sai che speranza ho solo in te,</l>
+          <l>non mi lasciare, abbi pietà di me!…</l>
+          <l>Ed io voto ti fo’</l>
+          <l>che una donna perduta sposerò,</l>
+          <l>strappandola al peccato!*</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(che è entrata mentre Vito fa il voto)</l>
+          <l>Che mai dice? È impazzato!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(con fervore)</l>
+          <l>E se potrò mentir,</l>
+          <l>mio Dio, fammi morir!…</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ascolta, o Signor, la preghiera,</l>
+          <l>il grido d’un misero cor;</l>
+          <l>al povero afflitto che spera</l>
+          <l>la grazia concedi, o Signor!</l>
+          <l>Tutti si affollano intorno a Vito, lo sollevano, gli stringono la mano e lo baciano.</l>
+          <l>– Quindi la folla, un po’ per volta, si dirada. – Marco va sedere sul gradino della</l>
+          <l>sua bottega. – I garzoni, dopo aver fatto sedere Vito, rientrano nella tintoria.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(piena di dispetto, piantandosi in faccia a Vito)</l>
+          <l>Che voto hai fatto?</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(volgendo altrove il capo)</l>
+          <l>Lasciami!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(fremente)</l>
+          <l>Che voto?</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(alzandosi)</l>
+          <l>Tu ben l’udisti!… Va! lasciami in pace!</l>
+          <l>(entra nella bottega)</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(tentenna il capo quasi commiserandolo)</l>
+          <l>Non so se è pazzo… o infame!</l>
+          <l>(poi, accostandosi rapidamente alla porta)</l>
+          <l>Bravo! l’hai ben trovata!</l>
+          <l>(quindi, mostrandogli il pugno stretto)</l>
+          <l>Ma qui ti rivedrò!</l>
+          <l>(esce rapidamente)</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>(che dal suo posto ha seguita la scenetta, a mezza voce)</l>
+          <l>Donnine care,</l>
+          <l>guardatevi dal vento e dall’amore:</l>
+          <l>l’uno e l’altro non fanno che mutare!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(torna sulla porta e, appoggiandosi allo stipite, con tristezza)</l>
+          <l>Beato te, Marco mio… sempre di buon umore!…</l>
+          <l>tu canti, mentr’io spasimo!…</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>Suvvia! fatevi core : acqua che passa…</l>
+          <l>e, piuttosto, pensate alla salute.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Hai ragione!… Men vo.</l>
+          <l>(fa per rientrare in casa)</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>Via, state allegro!</l>
+          <l>(quando Vito è rientrato)</l>
+          <l>Si mettono a ballare, e poi si lagnano</l>
+          <l>di aver male alle gambe!</l>
+          <l>Gioventù, gioventù!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENA TERZA</head>Di fuori si ode un frastuono. – Dalle case della piazzetta escono popolani epopolane; ne giungono altri dal vicolo e dalla cantina. – Annetiello, un po’ brillo,arriva seguito da uomini e ragazzi.<sp who="#scena terza">
+          <speaker>SCENA TERZA:</speaker>
+          <l>Di fuori si ode un frastuono. – Dalle case della piazzetta escono popolani e</l>
+          <l>popolane; ne giungono altri dal vicolo e dalla cantina. – Annetiello, un po’ brillo,</l>
+          <l>arriva seguito da uomini e ragazzi.</l>
+        </sp>
+        <sp who="#annetiello, marco, coro">
+          <speaker>ANNETIELLO, MARCO, CORO:</speaker>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(vedendo Marco)</l>
+          <l>Ecco chi ci può dir la verità:</l>
+          <l>Don Marco, che cos’è questo gran voto</l>
+          <l>fatto da Vito in pubblico?</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>(senza spostarsi)</l>
+          <l>Cos’è? si sposa.</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(con malizia)</l>
+          <l>E chi vuole sposare?</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>Chi più gli piacerà.</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(tirandolo a parte, con malizia)</l>
+          <l>Vien qua… – Mi han detto</l>
+          <l>ch’egli giurò… che per disotto agli archi</l>
+          <l>mai più dovrà passare.</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>(sorpreso, fissandolo)</l>
+          <l>Ma… se vi passan certi ch’io conosco?…</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(facendosi scuro in volto)</l>
+          <l>Compare, che vuoi dir?</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>Niente di male.</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(squadrandolo da capo a piedi)</l>
+          <l>Ah! beh!… così va bene!</l>
+          <l>(gli volge le spalle)</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>(ridendo)</l>
+          <l>Oh!… Che ti pare!…</l>
+        </sp>
+        <sp who="#garzoni">
+          <speaker>GARZONI:</speaker>
+          <l>(uscendo dalla tintoria)</l>
+          <l>Annetiello, buon dì!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(salutando con un largo gesto)</l>
+          <l>Buon giorno, amici!</l>
+        </sp>
+        <sp who="#garzoni">
+          <speaker>GARZONI:</speaker>
+          <l>– Ora giungi? – Di nuovo che ci dici?</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>Che sto benone! E ho fatto un buon pranzetto;</l>
+          <l>che Posillipo è cosa da vedere,</l>
+          <l>verde com’è, col mare di rimpetto!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(circondandolo)</l>
+          <l>Silenzio, che Annetiello</l>
+          <l>oggi sta proprio bello!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>E che, fra poche sere,</l>
+          <l>chi è ricco e chi non ne ha,</l>
+          <l>a Piedigrotta andrà!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>A Piedigrotta andremo:</l>
+          <l>chi meglio canterà,</l>
+          <l>chi meglio ballerà</l>
+          <l>festeggeremo!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>Tutto è già pronto e in ordine,</l>
+          <l>tutto fissato è già:</l>
+          <l>i legni ed i cavalli,</l>
+          <l>i finimenti belli,</l>
+          <l>le penne alte di galli</l>
+          <l>da porre sui capelli…</l>
+          <l>alle ragazze languide</l>
+          <l>l’occhietto si farà!</l>
+          <l>Io vo’ scordar – ogni dolor,</l>
+          <l>mi voglio all’allegrezza abbandonar,</l>
+          <l>io vo’ quaggiù – godere ognor;</l>
+          <l>voglio ridere!… ridere e cantar!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Scordar dobbiamo – ogni dolor,</l>
+          <l>vogliamo l’allegrezza ritrovar;</l>
+          <l>dobbiam quaggiù – godere ognor,</l>
+          <l>rider vogliamo!… ridere e cantar!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(additando la cantina)</l>
+          <l>Ed ora, da zio Tore</l>
+          <l>chi mi vuol ben verrà!</l>
+          <l>(si avvia alla cantina e, dando la mano al cantiniere)</l>
+          <l>Tore, buon dì!</l>
+        </sp>
+        <sp who="#garzoni">
+          <speaker>GARZONI:</speaker>
+          <l>(seguendolo)</l>
+          <l>Buon dì! – Noi siamo qua!</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>(solo, seduto sul gradino)</l>
+          <l>Guardate il mondo:</l>
+          <l>(accenna a Vito)</l>
+          <l>quei paga le follie;</l>
+          <l>(poi, ai bevitori)</l>
+          <l>questi le fanno,</l>
+          <l>e un dì le pagheranno!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENA QUARTA</head>
+        <sp who="#scena quarta">
+          <speaker>SCENA QUARTA:</speaker>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>(vedendo Vito che torna)</l>
+          <l>Don Vito!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(cadendo a sedere a destra della tintoria)</l>
+          <l>In casa mi si opprime il core!…</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>Meglio è stare all’aperto.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>E poi… questo cervello che galoppa,</l>
+          <l>che gira come un fuso.</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>Sul passato</l>
+          <l>ci va messa una pietra.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Ah, sì! Vo’ farvi</l>
+          <l>sopra una croce e non pensarci più.</l>
+          <l>Una mano di donna, per la finestra del palazzetto, gitta una rosa. Il fiore cade</l>
+          <l>ai piedi di Vito.</l>
+          <l>Cos’è?</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>Non vi abbadate.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(raccogliendo il fiore)</l>
+          <l>Ah! veh, una rosa!</l>
+          <l>Chi la gettò?</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>Lasciate andar, non so.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Da quella casa? è vero?</l>
+        </sp>
+        <sp who="#marco">
+          <speaker>MARCO:</speaker>
+          <l>(seccato, si alza)</l>
+          <l>Non datevi pensiero.</l>
+          <l>(se n’entra in bottega canticchiando)</l>
+          <l>Donnine care, ecc. ecc.</l>
+          <l>Vito, pensieroso, resta a contemplare la rosa. Cristina esce dal palazzetto con una</l>
+          <l>bottiglia in mano e s’avvia alla fontana. Vito la segue con lo sguardo e giuoca con</l>
+          <l>la rosa. Cristina, riempita la bottiglia, torna indietro.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(amabilmente)</l>
+          <l>Se è lecito… scusate…</l>
+          <l>Cristina si ferma.</l>
+          <l>Voi siete stata che…</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>Che cosa?</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Questo fiore voi lo gettaste a me?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(senza guardarlo)</l>
+          <l>Io… sissignor…</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(alzandosi)</l>
+          <l>Mi date un sorso d’acqua?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(mostrando la bottiglia)</l>
+          <l>Ma… se vi accontentate…</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(beve; le rende la bottiglia con la destra e, con la sinistra, fa per forbirsi le labbra.</l>
+          <l>Cristina gli porge il grembiale e volta la testa altrove. Vito si asciuga la bocca</l>
+          <l>guardando lei, sorridente)</l>
+          <l>Grazie!… e lo dico ancor</l>
+          <l>per questo fior.</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(cercando liberare la cocca del grembiale)</l>
+          <l>La buona sera.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(insinuante)</l>
+          <l>Un momento… Aspettate!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(liberando il grembiale)</l>
+          <l>Ma lasciatemi andare:</l>
+          <l>qui non posso restare.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(sorridendole dolcemente)</l>
+          <l>Con me state sicura;</l>
+          <l>bandite ogni paura.</l>
+          <l>(pausa)</l>
+          <l>E mi volete dire il vostro nome?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(giocando con il grembiale)</l>
+          <l>Io mi chiamo Cristina.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>E l’altro?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(fingendo di non capire)</l>
+          <l>Come?</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Dico, il vostro cognome.</l>
+          <l>(Cristina ha una scossa, come se avesse una stretta al cuore, abbassa gli occhi e fa</l>
+          <l>per andarsene. Vito, quasi commosso, la raggiunge e la trattiene dolcemente. Poi,</l>
+          <l>pigliandole la mano, con voce insinuante)</l>
+          <l>E s’io, poi, vi dicessi</l>
+          <l>che il vostro viso ha un fascino…</l>
+          <l>che siete bella assai?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>Ero… non son più quella…</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Ve lo giuro, Cristina, siete sempre più bella!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(scrollando il capo)</l>
+          <l>Ah no!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(scrollando il capo)</l>
+          <l>Ebben, saper vorrei</l>
+          <l>tutta la storia vostra.</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(con accento angoscioso)</l>
+          <l>La storia mia?… La stessa abbiamo tutte:</l>
+          <l>miserie, inganni, lagrime!</l>
+          <l>Che raccontar poss’io?…</l>
+          <l>Le pene mie sa Iddio!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Nulla per tornar libera</l>
+          <l>tentaste?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>Ah! quando tese</l>
+          <l>son quelle reti, misera</l>
+          <l>colei che vi s’impiglia.</l>
+          <l>C’è della gente, là,</l>
+          <l>(addita il palazzetto)</l>
+          <l>che, pria, lusinga, alletta,</l>
+          <l>poi, s’impone e minaccia,</l>
+          <l>che alle belve somiglia,</l>
+          <l>che non può aver pietà!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Ed a qualcuno avete mai pensato</l>
+          <l>che vi voglia difendere e salvar,</l>
+          <l>che vi compianga… che vi sappia amar?…</l>
+          <l>Ci avete mai pensato?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>Oh! quante volte – l’ho pur sognato;</l>
+          <l>ma chi può avere – pietà di me?!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(con calore)</l>
+          <l>Chi vi salvasse – sapreste amar?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>Prima lui, dopo Iddio!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Ebben, son io!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(fuori di sè)</l>
+          <l>Sei tu?… Sei tu?!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Son io!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>Davver?… sogno non è?</l>
+          <l>(poi, quasi cadendo in ginocchio)</l>
+          <l>Ti benedica il ciel!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Son io! – Nelle ore tristi</l>
+          <l>in cui la vita mia sembra finire,</l>
+          <l>qui, nel mio petto, svegliasi un desìo</l>
+          <l>santo di pace e di sereno amor.</l>
+          <l>Allor dei falli miei sento l’orrore,</l>
+          <l>imploro del buon Dio l’alta pietà,</l>
+          <l>e spinto sono a stendere la mano</l>
+          <l>a chi è caduta in fallo al par di me.</l>
+          <l>Or tu, Cristina, quella donna sei,</l>
+          <l>tu sei la donna che giurai salvar:</l>
+          <l>da te, bella infelice, aspetterò</l>
+          <l>di pace il sogno, e… forse, un giorno, amor…</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>Iddio t’ascolti, o Vito!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Iddio, lo sai, m’ha udito!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>Ah! dunque, in cielo, presso al Signore</l>
+          <l>giunser gli spasimi del mio penar;</l>
+          <l>tutte le lagrime di questo core,</l>
+          <l>alfin là in alto grazia trovâr!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Cristina, credilo, il cielo è stato</l>
+          <l>che ti ha voluta salvar con me;</l>
+          <l>ma già il tuo pallido viso adorato</l>
+          <l>giorni più placidi sognar mi fe’.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENA QUINTA</head>
+        <sp who="#scena quinta">
+          <speaker>SCENA QUINTA:</speaker>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(uscendo dalla cantina ancora più brillo, con sorpresa)</l>
+          <l>Oh, bella!… Anzi, bellissima!…</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(con stupore)</l>
+          <l>Sicuro! – È Vito! – È là!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>Al paragon del vento,</l>
+          <l>ei più veloce va!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(angosciosamente)</l>
+          <l>Mio Dio!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(sottovoce)</l>
+          <l>Zitta!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(mormorandolo)</l>
+          <l>Cristina lo avrà udito</l>
+          <l>e le sue reti subito ha gittate.</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(venendo avanti, ridendo)</l>
+          <l>Ohi, Vito! il voto tuo di certo in cielo</l>
+          <l>non è arrivato ancor…</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(secco)</l>
+          <l>Ebbene?</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>Che già gli hai fatto onor!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(fissandolo)</l>
+          <l>Vi è da ridir qualcosa?</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(accostandosi)</l>
+          <l>Io?… Contentone!</l>
+          <l>E in che modo!… L’hai scelta bella… e amica…</l>
+          <l>O Cristinella, di’, non siamo amici?</l>
+          <l>(stende la mano per carezzarle il volto)</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(afferrandogli il braccio)</l>
+          <l>Giù quella mano!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(ridendo)</l>
+          <l>Ah! ah! la pigli a male!…</l>
+          <l>Tu vedi, Cristinella?</l>
+          <l>(stende ancora la mano)</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(dandogli uno spintone, con violenza)</l>
+          <l>Ma perdio!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(spaventata)</l>
+          <l>Ahimé!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(frapponendosi)</l>
+          <l>Ma no! – Don Vito!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(cercando scostare coloro che si frappongono)</l>
+          <l>Ora mi par!…</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(altamente)</l>
+          <l>Ti pare, o non ti pare,</l>
+          <l>questa donna è con me, dèi rispettarla!</l>
+          <l>La promessa che ho fatta innanzi a Dio</l>
+          <l>sacra per me sarà:</l>
+          <l>questa donna redimere vogl’io,</l>
+          <l>nessun la insulterà!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(gittandosi fra le braccia di Vito)</l>
+          <l>O Vito, credimi,</l>
+          <l>a me ti manda il cielo;</l>
+          <l>per te rinascere</l>
+          <l>mi sento all’avvenir!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(con entusiasmo)</l>
+          <l>Con tutta l’anima</l>
+          <l>farti felice anelo:</l>
+          <l>ti vo’ redimere,</l>
+          <l>non devi più soffrir!</l>
+        </sp>
+        <sp who="#annetiello, marco e coro">
+          <speaker>ANNETIELLO, MARCO E CORO:</speaker>
+          <l>– Vito la sposa! – Non mutò pensier!</l>
+          <l>– È generoso! – Un santo egli è davver!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(come sopra)</l>
+          <l>Cristina, fida in me, ti sposerò!</l>
+        </sp>
+      </div>
+    </body>
+    <div type="act">
+      <head>CRISTINA</head>(come sopra)Sarò la schiava tua! ti adorerò!Cade la telaATTO SECONDOInterno della casa di Amalia. – Di fronte allo spettatore, una vetrata conimposte che si chiudono di dentro. – Mobili modesti. – Sopra un comò unastatua della Madonna sotto una campana di vetro. – Davanti, una lampadaaccesa. – Da un lato della stanza, una tavola.La vetrata è aperta, e, al levarsi della tela, si vede passar la gente sulla via.È ancora giorno.<sp who="#cristina">
+        <speaker>CRISTINA:</speaker>
+        <l>(come sopra)</l>
+        <l>Sarò la schiava tua! ti adorerò!</l>
+        <l>Cade la tela</l>
+        <l>ATTO SECONDO</l>
+        <l>Interno della casa di Amalia. – Di fronte allo spettatore, una vetrata con</l>
+        <l>imposte che si chiudono di dentro. – Mobili modesti. – Sopra un comò una</l>
+        <l>statua della Madonna sotto una campana di vetro. – Davanti, una lampada</l>
+        <l>accesa. – Da un lato della stanza, una tavola.</l>
+        <l>La vetrata è aperta, e, al levarsi della tela, si vede passar la gente sulla via.</l>
+        <l>È ancora giorno.</l>
+      </sp>
+      <div type="scene">
+        <head>SCENA PRIMA</head>
+        <sp who="#scena prima">
+          <speaker>SCENA PRIMA:</speaker>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(Seduta presso la porta, intenta a cucire; di tanto in tanto, però, protende il capo,</l>
+          <l>e guarda ansiosamente sulla via)</l>
+          <l>Nunzia non viene! Oh, che vita d’inferno!</l>
+          <l>(si alza)</l>
+          <l>E sono sempre qui, dimenticata,</l>
+          <l>senza speranze…</l>
+          <l>(depone il lavoro sulla strada)</l>
+          <l>O Vito, Vito, eterno</l>
+          <l>martirio mio, che sorte m’hai serbata!</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(entrando)</l>
+          <l>Donn’Amalia, è permesso?</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(correndole incontro)</l>
+          <l>Oh, Nunzia, vieni:</l>
+          <l>ti aspetto come il sole!</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>Comandate…</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>Ho bisogno di te…</l>
+          <l>(fruga nel comò e ne cava un pezzo di stoffa)</l>
+          <l>Frattanto, tieni:</l>
+          <l>(gliela dà)</l>
+          <l>è un po’ di stoffa… Oh, che! Tu non l’accetti?</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(pigliando)</l>
+          <l>Anzi!… ma disturbarvi…</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>È proprio niente.</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>Allora, grazie.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(pigliandole le mani)</l>
+          <l>Or dimmi, Nunzia: è vero</l>
+          <l>che Vito sposa?</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(imbarazzata)</l>
+          <l>A me… di certa gente…</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(con vivacità)</l>
+          <l>No! non mentire!</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(come sopra)</l>
+          <l>Ahimè!… che dirvi?… è vero:</l>
+          <l>lo sanno, ormai, le pietre della via.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>Ebbene, Nunzia, pria che ciò succeda,</l>
+          <l>voglio veder Cristina.</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(spaventata)</l>
+          <l>Oh che pazzia!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>Voglio che venga qui! voglio che veda</l>
+          <l>e sappia quel che fa!</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>Madonna, abbi pietà!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(esaltandosi)</l>
+          <l>O Nunzia, so che merito</l>
+          <l>d’esser bruciata viva;</l>
+          <l>so che la gente mormora,</l>
+          <l>che dell’onor son priva,</l>
+          <l>che, cieca di delirio,</l>
+          <l>in un abisso vo!</l>
+          <l>Dalla strada si dono le voci di Annetiello e di altri, grida e risa.</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(spaventata)</l>
+          <l>Tacete!… Udir si può!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(esaltatissima)</l>
+          <l>Mi preme poco! Giurami</l>
+          <l>condurla qui!</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(spaventata)</l>
+          <l>Vi supplico!</l>
+          <l>Dalla strada, voci e risa più vicine.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(esaltatissima)</l>
+          <l>No! no!</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(afferrandole le mani)</l>
+          <l>Tacete!… andrò!</l>
+          <l>(va per uscire; Annetiello appare sulla porta)</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENA SECONDA</head>
+        <sp who="#scena seconda">
+          <speaker>SCENA SECONDA:</speaker>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(ridendo, impedisce a Nunzia di uscire)</l>
+          <l>Prego, di qua!… Prego di là!…</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(spingendolo)</l>
+          <l>Sempre lo stesso!</l>
+          <l>(esce)</l>
+        </sp>
+        <sp who="#garzoni">
+          <speaker>GARZONI:</speaker>
+          <l>(di fuori)</l>
+          <l>Ah, ah! Ah, ah!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(agli amici)</l>
+          <l>Avanti! entrate!</l>
+          <l>non è clausura!</l>
+          <l>padroni siate</l>
+          <l>di queste mura!</l>
+          <l>(poi, vedendo il cipiglio d’Amalia)</l>
+          <l>Mia moglie è qua…</l>
+          <l>Se or non sorride, sorriderà!</l>
+        </sp>
+        <sp who="#garzoni">
+          <speaker>GARZONI:</speaker>
+          <l>(entrando)</l>
+          <l>Donn’Amalia, saluti!</l>
+          <l>Per farvi festa siam qui venuti.</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>Vogliono a te brindar,</l>
+          <l>se li farai trincar.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(irritata)</l>
+          <l>Brindar? trincar?… Ma è questa una cantina?</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>Ohè, la casa è mia!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(come sopra)</l>
+          <l>È tua?</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(ironico)</l>
+          <l>Carina!</l>
+        </sp>
+        <sp who="#garzoni">
+          <speaker>GARZONI:</speaker>
+          <l>(sottovoce)</l>
+          <l>S’imbroglia il tempo…</l>
+          <l>– Vogliamo andar?</l>
+          <l>Amalia volta le spalle per andarsene.</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>E il vino?</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(senza voltarsi)</l>
+          <l>Aspettalo!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>Ten vai?… Sei proprio…</l>
+          <l>(si batte sulla bocca)</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>Non mi seccar!</l>
+          <l>(esce dalla quinta a sinistra)</l>
+        </sp>
+        <sp who="#garzoni">
+          <speaker>GARZONI:</speaker>
+          <l>(ridendo)</l>
+          <l>Guarda: Annetiello</l>
+          <l>perso ha il cervello!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>L’ho perso? Io no!</l>
+          <l>Il vino subito vi troverò.</l>
+          <l>(si mette a frugare per la stanza)</l>
+          <l>È qua!</l>
+          <l>(non lo trova)</l>
+        </sp>
+        <sp who="#garzoni">
+          <speaker>GARZONI:</speaker>
+          <l>Ah, ah!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>È là!</l>
+          <l>(non lo trova)</l>
+        </sp>
+        <sp who="#garzoni">
+          <speaker>GARZONI:</speaker>
+          <l>Ah, ah!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(levando un fiasco)</l>
+          <l>Eccolo alfin!</l>
+        </sp>
+        <sp who="#garzoni">
+          <speaker>GARZONI:</speaker>
+          <l>Davvero, è il vin!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(versa da bere a tutti, poi, venendo avanti)</l>
+          <l>Le mogli, in genere,</l>
+          <l>son capricciose,</l>
+          <l>piene di smorfie,</l>
+          <l>di punte ascose;</l>
+          <l>ma poi, se il coniuge</l>
+          <l>sa quel che fa,</l>
+          <l>di lor s’infischia,</l>
+          <l>più allegro sta.</l>
+          <l>Come rubin</l>
+          <l>già brilla il vin;</l>
+          <l>bevete, ohè!</l>
+          <l>squisito, egli è!</l>
+          <l>Peggior d’Amalia,</l>
+          <l>questo fiascaccio,</l>
+          <l>faceva il burbero</l>
+          <l>e l’avaraccio.</l>
+          <l>Rivolte inutili!</l>
+          <l>il fiasco è qua,</l>
+          <l>mentre mia moglie</l>
+          <l>sbuffa di là!</l>
+          <l>Come rubin</l>
+          <l>già brilla il vin;</l>
+          <l>bevete, ohè!</l>
+          <l>squisito, egli è!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(uscendo furiosamente dalla stanza)</l>
+          <l>Ma che diventa questa casa mia?!</l>
+          <l>Uscite tutti! E tu, vagabondaccio!</l>
+        </sp>
+        <sp who="#garzoni">
+          <speaker>GARZONI:</speaker>
+          <l>Donn’Amalia! – Pazienza! – Andiamo via!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>Bada ai termini, Amalia, o ch’io ti faccio…</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>Che fai? Di su! che fai?!</l>
+        </sp>
+        <sp who="#garzoni">
+          <speaker>GARZONI:</speaker>
+          <l>(trattenendo Annetiello)</l>
+          <l>Zitto, Annetiè!</l>
+          <l>Andiamo, andiamo!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(mentre i garzoni lo conducono fuori)</l>
+          <l>Sì, meglio è per te!</l>
+          <l>(escono)</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(rimasta sola, si lascia cadere su di una sedia, accanto alla tavola, e scoppia in</l>
+          <l>singhiozzi)</l>
+          <l>O Madonna, Madonna, non mi fare impazzire!</l>
+          <l>Questo è tale un castigo che non si può soffrire!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENA TERZA</head>
+        <sp who="#scena terza">
+          <speaker>SCENA TERZA:</speaker>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(entrando frettolosa)</l>
+          <l>Donn’Amalia!</l>
+          <l>(la scuote)</l>
+          <l>Che cosa v’è accaduto?</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>Son disperata!</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>Andiamo, su, levatevi:</l>
+          <l>Cristina è qui!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(scattando in piedi)</l>
+          <l>Oh che mi avrà veduta?</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>È fuori ancor.</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>Va! ch’entri or’ or!</l>
+          <l>(Nunzia va alla porta e fa un segno; Cristina appare sulla soglia e vi si ferma)</l>
+          <l>O bella giovane, entrate pure…</l>
+          <l>senza paure…</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(fredda, avanzandosi)</l>
+          <l>Paure? e di che mai?… Mi comandate.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>Io prego.</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>Ebbene?</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>Ebbene… franca siate:</l>
+          <l>sarebbe ver che voi fate all’amore</l>
+          <l>con un giovane… con Vito il tintore?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>È vero.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>E ch’egli, poi, vi vuol sposare?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>Ma… a quel che pare.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(dopo averla fissata a lungo)</l>
+          <l>Sta bene!… Eppure, a me, sembra che un sogno</l>
+          <l>il vostro sia… che presto svanirà.</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(freddissima)</l>
+          <l>E perché?</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(punta al viso)</l>
+          <l>Perché sì!… Sentite, bella</l>
+          <l>giovane: vi son cose che s’intendono</l>
+          <l>senza tante parole.</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(come sopra)</l>
+          <l>Io sono quella</l>
+          <l>che non intende.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(perdendo la calma)</l>
+          <l>Ah, ah!</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(insinuante, a Cristina)</l>
+          <l>Ma… che si spieghi.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(padroneggiandosi)</l>
+          <l>Scusatemi, ascoltate: io spiegherommi or or…</l>
+          <l>Nunzia, taci, son calma…</l>
+          <l>(poi, a Cristina)</l>
+          <l>Vedete: nel mio cor</l>
+          <l>ho l’agonia, la morte… Da voi non chiedo, imploro</l>
+          <l>che mi lasciate Vito… Di niente più mi accoro</l>
+          <l>al mondo: ho perso tutto! Pace, speranza, onore!…</l>
+          <l>vivo soltanto, brucio, muoio di quest’amore!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>Ma quest’amore è l’unica… l’ultima mia speranza:</l>
+          <l>vi potrò dare l’anima, la vita che mi avanza;</l>
+          <l>ma… l’aria aperta… libera, alfin, respiro anch’io,</l>
+          <l>io m’abbandono in braccio al caro sogno mio!</l>
+          <l>E voi, che avete sposo, casa, famiglia, onor,</l>
+          <l>me lo volete togliere, inabissarmi ancor?</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(padroneggiandosi a stento)</l>
+          <l>Volete uscire, e sia,</l>
+          <l>da questa vita orribile,</l>
+          <l>sottrarvi al disonor…</l>
+          <l>io venderommi l’anima</l>
+          <l>e ne sareste fuor.</l>
+          <l>Danaro? Ebben, dall’orbita</l>
+          <l>gli occhi mi strapperò!…</l>
+          <l>Lo volete? Io lo fo!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(sdegnosa)</l>
+          <l>Io voglio Vito!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(scattando)</l>
+          <l>Nunzia</l>
+          <l>l’udite?</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(a Cristina)</l>
+          <l>Bella mia!</l>
+          <l>(poi ad Amalia)</l>
+          <l>Per carità, calmatevi!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(strofinandosi le mani)</l>
+          <l>Ah! non volete intendere? Sarò più chiara ancor!</l>
+          <l>Parlo, e le mani tremano; parlo, e, qui, dentro al cor,</l>
+          <l>ruggisce un fiero turbine… Volete che lo dica?</l>
+          <l>giammai potrà succedere quel che sognate! – Amica</l>
+          <l>vi parlo! È certo, d’uomini ne troverete tanti:</l>
+          <l>potete amare, scegliere, sposarli tutti quanti;</l>
+          <l>ma non pensate a Vito,</l>
+          <l>se volte un marito!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(risoluta)</l>
+          <l>Io voglio Vito Amante!</l>
+          <l>Amalia, dando un grido di rabbia, si slancia ed afferra un coltello che è sulla</l>
+          <l>tavola.</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(spaventata)</l>
+          <l>O Santa Vergine!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(freddissima)</l>
+          <l>Meglio è che me ne vada… Buona sera!</l>
+          <l>(fa per uscire)</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(sbarrandole il passo, convulsa)</l>
+          <l>Voi non uscite!</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(frapponendosi)</l>
+          <l>Amalia!</l>
+          <l>(a Cristina)</l>
+          <l>Un poco di maniera!…</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(svincolandosi da Nunzia)</l>
+          <l>Orsù, finiamola! Io vengo qua,</l>
+          <l>dell’oro m’offresi; mi si rifà</l>
+          <l>l’onore… gli occhi volete dar…</l>
+          <l>ma il vero dite, o per celiar?</l>
+          <l>Ah! non sapete che della vita</l>
+          <l>conobbi solo l’onta, l’orrore,</l>
+          <l>che sono stanca, annichilita,</l>
+          <l>che nel mio petto sanguina il core…</l>
+          <l>Io voglio vivere! – Hai tu capito?</l>
+          <l>io voglio Vito!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(scoppiando)</l>
+          <l>No! non lo sposerai! Femmina infame,</l>
+          <l>gli occhi ti strapperò!</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(tenendole lontane)</l>
+          <l>Per carità!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(contentandosi, fredda)</l>
+          <l>Mi pare</l>
+          <l>che ora ve ne abusiate…</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>Mio Dio!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(furibonda, a Cristina)</l>
+          <l>Esci!</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(supplichevole, spingendo Cristina verso la porta)</l>
+          <l>Cristina…</l>
+          <l>andate… andate via!…</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(voltandosi, mentre Nunzia la spinge, ad Amalia)</l>
+          <l>E tutto quello</l>
+          <l>che avete detto, mi ricorderò,</l>
+          <l>sapete!… e ne darete conto.</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(disperata)</l>
+          <l>Ohimè!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(furibonda, a Cristina)</l>
+          <l>Esci!… Esci!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(mettendo lo scialle)</l>
+          <l>Va bene!… che, per ora,</l>
+          <l>ho torto io e voi ragione avete…</l>
+          <l>(poi all’uscire)</l>
+          <l>Nunzia, la buona sera.</l>
+          <l>(esce lentamente)</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(cadendo a sedere)</l>
+          <l>Gesù! che sorte nera! O Dio, che fare?</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>Signore benedetto!</l>
+          <l>Di fuori lampeggia spesso.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(lamentosamente)</l>
+          <l>A che pensare?</l>
+        </sp>
+        <sp who="#nunzia">
+          <speaker>NUNZIA:</speaker>
+          <l>(sollevandola)</l>
+          <l>Voi fate male a struggervi così:</l>
+          <l>calma ci vuol… venitevene qui.</l>
+          <l>(Accompagna Amalia verso la porta a sinistra. Il tuono rumoreggia lontano.)</l>
+          <l>Anche il tempo minaccia. – Vado via!</l>
+          <l>(lascia Amalia e torna)</l>
+          <l>O Madonna, che vita è questa mia!</l>
+          <l>(Mette lo scialle sul capo, piglia la stoffa ed esce rapidamente.)</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENA QUARTA</head>
+        <sp who="#scena quarta">
+          <speaker>SCENA QUARTA:</speaker>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(Entra con passo risoluto. – Guarda intorno. – Non vede nessuno. – Si ferma,</l>
+          <l>torna indietro e chiude a chiave la vetrata.)</l>
+          <l>Non c’è! – Le manca adesso</l>
+          <l>il core di affrontarmi…</l>
+          <l>mentre a insultar sempre è corriva e pronta!…</l>
+          <l>(pausa)</l>
+          <l>Pure, torto non ha:</l>
+          <l>mi ha tanto amato… tanto!</l>
+          <l>(altra pausa)</l>
+          <l>Infelice!… E non sa che, anch’io, più vile,</l>
+          <l>non la posso scordar!</l>
+          <l>(guarda intorno)</l>
+          <l>Quanti ricordi, qui…</l>
+          <l>Come il core mi batte!</l>
+          <l>(poi, tornando in sé stesso, alla realtà dei fatti)</l>
+          <l>Oh! ma che dico?! Al voto</l>
+          <l>io non debbo mancare!</l>
+          <l>(va con passo deciso verso la stanza a sinistra)</l>
+          <l>Amalia! Amalia!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(uscendo)</l>
+          <l>Ah! che!… Sei tu?</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(accigliato)</l>
+          <l>Mi vedi!…</l>
+          <l>Da te venne Cristina?</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>Ah!… Sì!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Ti prego</l>
+          <l>di lasciarmela in pace!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(drizzando il capo)</l>
+          <l>In pace?</l>
+          <l>(poi, umilmente)</l>
+          <l>Siedi.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(bruscamente)</l>
+          <l>Non vo’ sedere.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>Ebbene… non ti nego</l>
+          <l>che sono stata acerba anche con lei…</l>
+          <l>Quanto a perder la pace, io dir non so</l>
+          <l>chi di noi l’ha perduta – Ah! volgi gli occhi,</l>
+          <l>vedi a che son ridotta! Io più non ho</l>
+          <l>sonno e riposo! io piango giorno e sera…</l>
+          <l>piango per te, mio Vito!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(resistendo all’emozione)</l>
+          <l>È vano, cessa!</l>
+          <l>non vo’ saper di ciò!… La mia preghiera</l>
+          <l>è di lasciar Cristina… E pensa ch’essa</l>
+          <l>sarà mia moglie.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>Ah! così parli, Vito?</l>
+          <l>Del core che n’hai fatto?</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Ormai, finito</l>
+          <l>tutto è fra noi. Ho fatto</l>
+          <l>un voto…</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(interrompendolo)</l>
+          <l>Una pazzia!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(reciso)</l>
+          <l>Che manterrò!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>Un voto?…</l>
+          <l>E a me – tu lo dimentichi –</l>
+          <l>quanti ne hai fatti a me?</l>
+          <l>Come?… hai scordati i fervidi</l>
+          <l>giuri profferti al piè</l>
+          <l>di quella bella Vergine?</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Basta, non ricordare:</l>
+          <l>troppo ho sofferto allor!</l>
+          <l>Di rimembranze amare</l>
+          <l>ormai stanco è il mio cor!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>Dunque, l’amor, le smanie,</l>
+          <l>tutto è finito in te?</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Ma tu ben sai qual vincolo</l>
+          <l>strinsi dinanzi a Dio.</l>
+          <l>Che posso far?… Sacrilego</l>
+          <l>pur diventar degg’io?</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>Libera ancora meno di te</l>
+          <l>ero in quel giorno, che, della fè,</l>
+          <l>del ciel dimentica, gittai l’onore</l>
+          <l>e sul tuo petto svenni d’amore!</l>
+          <l>(gli afferra le mani, lo scuote)</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(svincolandosi)</l>
+          <l>Ah! taci, taci! No! non mi guardare,</l>
+          <l>ché quegli occhi mi fanno delirare!</l>
+          <l>(Amalia lo tira a sé)</l>
+          <l>Per compassione, lasciami!</l>
+          <l>il core mio non può…</l>
+          <l>Il tuono rumoreggia, piove.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>No, che non è possibile!</l>
+          <l>Anche al tuo cor, lo so,</l>
+          <l>tormento è la frenetica</l>
+          <l>febbre che mi bruciò…</l>
+          <l>Io t’amo tanto!</l>
+          <l>(gli getta le braccia al collo)</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Amalia!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(esaltata)</l>
+          <l>Le tue carezze io vo’!</l>
+          <l>Un bacio solo!… l’ultimo!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(resistendo appena)</l>
+          <l>Ahimè! Chi può resistere!…</l>
+          <l>un dèmone sei tu!…</l>
+          <l>hanno i tuoi baci un fascino</l>
+          <l>che non si scorda più!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(da fuori, al bagliore dei lampi)</l>
+          <l>O Vito! Vito!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(fuori di sé)</l>
+          <l>O gioia.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Amalia, vieni a me!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(aprendogli le braccia)</l>
+          <l>Son tua!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(stringendola, frenetico)</l>
+          <l>Tutto per te!</l>
+          <l>La tela cade rapidamente.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>ATTO TERZO</head>La stessa decorazione del primo atto. – Alcune tavole e scranne son fuorila cantina parata a festa. – È in sull’avemaria.<sp who="#atto terzo">
+        <speaker>ATTO TERZO:</speaker>
+        <l>La stessa decorazione del primo atto. – Alcune tavole e scranne son fuori</l>
+        <l>la cantina parata a festa. – È in sull’avemaria.</l>
+      </sp>
+      <div type="scene">
+        <head>SCENA PRIMA</head>
+        <sp who="#scena prima">
+          <speaker>SCENA PRIMA:</speaker>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(alzandosi)</l>
+          <l>Canzon d’amor – che l’ala d’or</l>
+          <l>bagni nel vin</l>
+          <l>salendo a vol,</l>
+          <l>va porta a lei</l>
+          <l>la voce del mio cor,</l>
+          <l>va picchia al suo balcon,</l>
+          <l>falla svegliar.</l>
+          <l>Canzon d’amor – dall’ala d’or!</l>
+          <l>Entrano le donne.</l>
+        </sp>
+        <sp who="#donne">
+          <speaker>DONNE:</speaker>
+          <l>Chi a Piedigrotta vuole andare,</l>
+          <l>siamo qua;</l>
+          <l>noi ben sapremo innamorare</l>
+          <l>chi vi andrà;</l>
+          <l>cantar vogliam, vogliam danzar…</l>
+          <l>sospirar.</l>
+          <l>Sì, tutti insiem</l>
+          <l>cantar dovrem!</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Canzon d’amor – che l’ala d’or, ecc., ecc.</l>
+          <l>Finito il coro, Vito si allontana. Alcune donne sui tamburelli attaccano un tempo</l>
+          <l>di tarantella; altre la eseguono. – Alla fine della tarantella, da lontano, si odono</l>
+          <l>suoni e canti, che rapidamente si avvicinano.</l>
+          <l>Oh! la canzone nuova!</l>
+          <l>Evviva! Evviva!</l>
+          <l>È Annetiello che arriva!</l>
+          <l>(tutti guardano a destra)</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENA SECONDA</head>
+        <sp who="#scena seconda">
+          <speaker>SCENA SECONDA:</speaker>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>La canzone! – La canzone!</l>
+          <l>(I suonatori preludiano)</l>
+          <l>Bravi! – Benone!</l>
+        </sp>
+        <sp who="#annetiello">
+          <speaker>ANNETIELLO:</speaker>
+          <l>(facendosi avanti, circondato dal Coro e dai ragazzi)</l>
+          <l>Ce sta **</l>
+          <l>ce sta nu mutto ca dice accussì:</l>
+          <l>c’ ’o bevere e ’o mangià</l>
+          <l>è ’o meglio ca ce sta!</l>
+          <l>Chi sa</l>
+          <l>taverna a l’ato munno si nce n’è,</l>
+          <l>si ce vedimmo llà</l>
+          <l>amice mieie,</l>
+          <l>chi sa…</l>
+          <l>chi sa!</l>
+          <l>Ma si l’uoglio pe mo</l>
+          <l>dura a la lucerna,</l>
+          <l>scurdammecille, amice,</l>
+          <l>’e guaie nnanz’ ’a taverna!…</l>
+          <l>chi sa!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ma si l’uoglio pe mo</l>
+          <l>dura a la lucerna,</l>
+          <l>scurdammecille, amice,</l>
+          <l>’e guaie</l>
+          <l>pe mo!</l>
+          <l>La comitiva, cantando, sfila ed esce dalla quinta a sinistra, seguita dal Coro e dai</l>
+          <l>ragazzi. Vito resta e, con un bastone uncinato, è intento a spiccare le stoffe</l>
+          <l>sciorinate sulla porta.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENA TERZA</head>
+        <sp who="#scena terza">
+          <speaker>SCENA TERZA:</speaker>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(scende dal vicolo, lo scialle sul braccio, disfatta, lentamente; poi scorgendo Vito, gli</l>
+          <l>si accosta e, mettendogli le mani sulle spalle)</l>
+          <l>Buona sera.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(voltandosi, freddamente)</l>
+          <l>Che c’è?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>Niente…</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Cos’hai?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>Ti cerco da staman.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Perché?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>Nol sai?…</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(seccato)</l>
+          <l>E che ne so!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(timidamente)</l>
+          <l>Prendo una sedia?</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(bruscamente)</l>
+          <l>Prendila.</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(entra nella tintoria e n’esce con una sedia che colloca accanto alla porta; poi con</l>
+          <l>voce insinuante)</l>
+          <l>Vito, m’ascolta… Io ti voleva dire</l>
+          <l>che, al fin, ebbi le carte. – Oh! quanti stenti,</l>
+          <l>quanti sgravi e che pene!… Il commissario…</l>
+          <l>Vito, rigirandosi lentamente, la fissa.</l>
+          <l>volle saper di te… del padre tuo…</l>
+          <l>e s’era vivo o morto.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(accigliato)</l>
+          <l>Il commissario?</l>
+          <l>E come c’entra lui?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(meravigliata)</l>
+          <l>E non lo sai? – Ma è questo il mestier suo.</l>
+          <l>(nasconde il volto fra le mani e lascia scorrere giù per la faccia le palme, con un</l>
+          <l>profondo sospiro)</l>
+          <l>Dio mio! Questa è la legge! Alle infelici</l>
+          <l>mie pari, ahimé! tocca passar di là.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(sbuffando)</l>
+          <l>Ah, che sorte! Pur questa ci voleva!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(alzandosi, con profonda tristezza)</l>
+          <l>Ma è mia, dimmi, la colpa?… Abbi pietà…</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(smaniando)</l>
+          <l>Anche gli sbirri? E questo mi mancava!…</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(supplichevole)</l>
+          <l>Vito!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(sempre più irritato)</l>
+          <l>Giusto! giustissimo!…</l>
+          <l>Ah! non l’avea capita!…</l>
+          <l>Si può fare una storia</l>
+          <l>di tutta la mia vita!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(a mani giunte)</l>
+          <l>E della mia?… ma pensaci:</l>
+          <l>altro! se si può far…</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(irritatissimo, allontanandosi)</l>
+          <l>Una storia!… una storia!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(a mani giunte)</l>
+          <l>Or dove vai?</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Men vo!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(seguendolo, con dolcezza)</l>
+          <l>Ed io?… Vito?</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>Tu vattene!</l>
+          <l>Qui tu non puoi restar:</l>
+          <l>ho ben altro da far!</l>
+          <l>(continua a spiccare i panni)</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(avvilita, si addossa a uno stipite della porta, mormorando, le braccia penzoloni,</l>
+          <l>gli occhi bassi)</l>
+          <l>Vorrei saper se voi certo m’amate,</l>
+          <l>o se l’amore vostro non ho più…</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(girando il capo)</l>
+          <l>Oh! che borbotti?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(senza levar gli occhi)</l>
+          <l>Io canto.</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(con feroce ironia)</l>
+          <l>Così cantan lassù.</l>
+          <l>(accenna al palazzetto)</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(scoppia in singhiozzi disperati e coprendosi il volto con le mani, si appoggia al</l>
+          <l>muro. Poi, singhiozzando sempre)</l>
+          <l>Puoi disprezzarmi tanto?</l>
+          <l>Vito, che cuore hai tu?!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(quasi commosso)</l>
+          <l>Senti, Cristina: lasciami</l>
+          <l>parlare aperto e schietto:</l>
+          <l>ti voglio bene, m’agita</l>
+          <l>per te l’antico affetto;</l>
+          <l>ma ho qui certe catene</l>
+          <l>che infrangere non so…</l>
+          <l>Sii buona… a tante pene</l>
+          <l>un dì riparerò!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(singhiozzando)</l>
+          <l>Lo so… quando mi vedi,</l>
+          <l>senti pietà di me;</l>
+          <l>ma al fascino tu cedi</l>
+          <l>di lei che ti perdè.</l>
+          <l>Soffro, mi struggo, spasimo,</l>
+          <l>lotto per farmi amar;</l>
+          <l>ma quella serpe avvinceti…</l>
+          <l>è vano ormai sperar!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENA QUARTA</head>
+        <sp who="#scena quarta">
+          <speaker>SCENA QUARTA:</speaker>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(dalla sinistra, in fretta, vestita sfarzosamente)</l>
+          <l>O Vito, Vito!</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(interdetto)</l>
+          <l>Amalia!</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(spaventata)</l>
+          <l>Essa è!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(vedendo Cristina)</l>
+          <l>Oh!… Bella giovane, che fate qua?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(ad occhi bassi, fiocamente)</l>
+          <l>Niente…</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(fissando Vito in faccia)</l>
+          <l>Davvero?</l>
+        </sp>
+        <sp who="#vito">
+          <speaker>VITO:</speaker>
+          <l>(confuso)</l>
+          <l>Venne da sé…</l>
+          <l>di qui passava…</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(fiocamente)</l>
+          <l>Dio mio, pietà!</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(a Cristina)</l>
+          <l>E chi aspettate?</l>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(fiocamente)</l>
+          <l>Nessuno.</l>
+        </sp>
+        <sp who="#amalia">
+          <speaker>AMALIA:</speaker>
+          <l>(a Vito)</l>
+          <l>Allora</l>
+          <l>sbrigati, Vito… la vettura è là.</l>
+          <l>(Vito chiude la porta. Quindi Amalia, cacciando il braccio sotto al braccio di Vito,</l>
+          <l>e quasi trascinandolo)</l>
+          <l>Lascia quei cenci… va!</l>
+          <l>(escono dalla sinistra)</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENA QUINTA</head>
+        <sp who="#scena quinta">
+          <speaker>SCENA QUINTA:</speaker>
+        </sp>
+        <sp who="#cristina">
+          <speaker>CRISTINA:</speaker>
+          <l>(dopo una lunga pausa, immobile, addossata alla tintoria)</l>
+          <l>“Lascia quei cenci… va!…»</l>
+          <l>Così gli ha detto!…</l>
+          <l>(si piega, raccatta lo scialle, che è caduto a terra, poi, con un profondo sospiro)</l>
+          <l>E andiamo!</l>
+          <l>(Lentamente, scende al proscenio. Davanti al Crocefisso s’arresta commossa. La</l>
+          <l>sua voce è piena di lagrime)</l>
+          <l>O Redentore mio, se la mia voce</l>
+          <l>sino a te giunge, a testimon ti chiamo!</l>
+          <l>Tu sai quanto ho sofferto, e se all’atroce</l>
+          <l>destino mio strapparmi avea giurato…</l>
+          <l>Non l’hai voluto!… E sai la vita mia,</l>
+          <l>e sai quanto a salvarmi ho spasimato…</l>
+          <l>Ma non lo vuoi – no! no! – E così sia!</l>
+          <l>(Le braccia le cadono lungo i fianchi. – Ella piega i ginocchi e rimane impietrita,</l>
+          <l>cogli occhi di lagrime e rivolti al Crocefisso. – D’un subito, scoppiano voci interne</l>
+          <l>e risate. – La frusta schiocca. – Le voci di Vito, Amalia, Annetiello, Don Marco</l>
+          <l>cantano a suon di chitarra, mandolini e putipù:)</l>
+          <l>Ce sta</l>
+          <l>ce sta nu mutto ca dice accussì,</l>
+          <l>ecc., ecc.</l>
+          <l>Cristina, come colpita al cuore da quei suoni, da quelle voci, si alza tremante e,</l>
+          <l>non potendo più parlare, fa segno con le mani, quasi volesse dire: «Gesù, li</l>
+          <l>udite?» – Il canto continua. – Cristina, barcollante, si appoggia al murello</l>
+          <l>della croce, poi, con uno scatto improvviso, si drizza, grida con profondo disprezzo:</l>
+          <l>«Infami! Vili!… Ah!!» e, correndo alla porta del palazzetto, vi picchia forte. – Si</l>
+          <l>vede la luce di un fioco lume dentro il cortile; e, mentre dal vicolo arrivano il</l>
+          <l>rumore dei campanelli e della frusta e il canto a distesa, la porta si apre e Cristina</l>
+          <l>stramazza sui gradini priva di sensi.</l>
+          <l>La tela cade rapidamente.</l>
+        </sp>
+        <stage>CRISTINA(dopo una lunga pausa, immobile, addossata alla tintoria)“Lascia quei cenci… va!…»Così gli ha detto!…(si piega, raccatta lo scialle, che è caduto a terra, poi, con un profondo sospiro)E andiamo!(Lentamente, scende al proscenio. Davanti al Crocefisso s’arresta commossa. Lasua voce è piena di lagrime)O Redentore mio, se la mia vocesino a te giunge, a testimon ti chiamo!Tu sai quanto ho sofferto, e se all’atrocedestino mio strapparmi avea giurato…Non l’hai voluto!… E sai la vita mia,e sai quanto a salvarmi ho spasimato…Ma non lo vuoi – no! no! – E così sia!(Le braccia le cadono lungo i fianchi. – Ella piega i ginocchi e rimane impietrita,cogli occhi di lagrime e rivolti al Crocefisso. – D’un subito, scoppiano voci internee risate. – La frusta schiocca. – Le voci di Vito, Amalia, Annetiello, Don Marcocantano a suon di chitarra, mandolini e putipù:)Ce stace sta nu mutto ca dice accussì,ecc., ecc.Cristina, come colpita al cuore da quei suoni, da quelle voci, si alza tremante e,non potendo più parlare, fa segno con le mani, quasi volesse dire: «Gesù, liudite?» – Il canto continua. – Cristina, barcollante, si appoggia al murellodella croce, poi, con uno scatto improvviso, si drizza, grida con profondo disprezzo:«Infami! Vili!… Ah!!» e, correndo alla porta del palazzetto, vi picchia forte. – Sivede la luce di un fioco lume dentro il cortile; e, mentre dal vicolo arrivano ilrumore dei campanelli e della frusta e il canto a distesa, la porta si apre e Cristinastramazza sui gradini priva di sensi.La tela cade rapidamente.</stage>
+        <sp who="#fine">
+          <speaker>FINE:</speaker>
+        </sp>
+      </div>
+    </div>
+  </text>
+</TEI>

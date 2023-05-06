@@ -1,0 +1,1584 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">érusalem</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="knights">
+            <persName>KNIGHTS:</persName>
+          </person>
+          <person xml:id="fine">
+            <persName>FINE:</persName>
+          </person>
+          <person xml:id="popolo">
+            <persName>POPOLO:</persName>
+          </person>
+          <person xml:id="both">
+            <persName>BOTH:</persName>
+          </person>
+          <person xml:id="atto terzo">
+            <persName>ATTO TERZO:</persName>
+          </person>
+          <person xml:id="il legato">
+            <persName>IL LEGATO:</persName>
+          </person>
+          <person xml:id="voci lontane">
+            <persName>VOCI LONTANE:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="emir">
+            <persName>EMIR:</persName>
+          </person>
+          <person xml:id="pellegrini">
+            <persName>PELLEGRINI:</persName>
+          </person>
+          <person xml:id="ufficiale">
+            <persName>UFFICIALE:</persName>
+          </person>
+          <person xml:id="penitenti">
+            <persName>PENITENTI:</persName>
+          </person>
+          <person xml:id="conte">
+            <persName>CONTE:</persName>
+          </person>
+          <person xml:id="legato">
+            <persName>LEGATO:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="soldiers">
+            <persName>SOLDIERS:</persName>
+          </person>
+          <person xml:id="cavalieri">
+            <persName>CAVALIERI:</persName>
+          </person>
+          <person xml:id="ruggero">
+            <persName>RUGGERO:</persName>
+          </person>
+          <person xml:id="atto quarto">
+            <persName>ATTO QUARTO:</persName>
+          </person>
+          <person xml:id="gastone">
+            <persName>GASTONE:</persName>
+          </person>
+          <person xml:id="crociati">
+            <persName>CROCIATI:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="elena">
+            <persName>ELENA:</persName>
+          </person>
+          <person xml:id="emiro">
+            <persName>EMIRO:</persName>
+          </person>
+          <person xml:id="raimondo">
+            <persName>RAIMONDO:</persName>
+          </person>
+          <person xml:id="scena seconda">
+            <persName>SCENA SECONDA:</persName>
+          </person>
+          <person xml:id="coro di crociati">
+            <persName>CORO DI CROCIATI:</persName>
+          </person>
+          <person xml:id="isaura">
+            <persName>ISAURA:</persName>
+          </person>
+          <person xml:id="donne">
+            <persName>DONNE:</persName>
+          </person>
+          <person xml:id="soldato">
+            <persName>SOLDATO:</persName>
+          </person>
+          <person xml:id="araldo">
+            <persName>ARALDO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Non, ce bruit ce n’est rien. Mais il faut,</l>
+        <l>mon Hélène, il faut nous séparer.</l>
+      </sp>
+      <sp who="#elena">
+        <speaker>ELENA:</speaker>
+        <l>Et sans avoir promis d’oublier cette haine</l>
+        <l>que mon père est prêt d’abjurer?</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Il a tué le mien dans une injuste guerre…</l>
+      </sp>
+      <sp who="#elena">
+        <speaker>ELENA:</speaker>
+        <l>Il t ‘attend ce matin pour réconcilier</l>
+        <l>ta famille et la sienne.</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Ah, puisse-je oublier.</l>
+      </sp>
+      <sp who="#elena">
+        <speaker>ELENA:</speaker>
+        <l>Tu ne m’aime donc pas?</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>J ‘éteindrai ma colère, mais s’ il</l>
+        <l>me refusait ta main…</l>
+      </sp>
+      <sp who="#elena">
+        <speaker>ELENA:</speaker>
+        <l>Attends… espère.</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Je puis tout pardonner si je sois ton</l>
+        <l>époux.</l>
+      </sp>
+      <sp who="#elena">
+        <speaker>ELENA:</speaker>
+        <l>Voici le jour !</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Déjà?</l>
+      </sp>
+      <sp who="#elena">
+        <speaker>ELENA:</speaker>
+        <l>Séparons-nous.</l>
+        <l>Adieu, mon bien-aimé. Va, fuis.</l>
+        <l>Voici l’ aurore; il faut nous séparer,</l>
+        <l>mais emporte ma foi.</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Je pars, ma chère Hélène, et je te</l>
+        <l>jure encore d’oublier mes affronts…</l>
+        <l>pour ne songer qu’à toi.</l>
+      </sp>
+      <sp who="#isaura">
+        <speaker>ISAURA:</speaker>
+        <l>La cloche sonne! On va venir…</l>
+        <l>je tremble.</l>
+      </sp>
+      <sp who="#elena">
+        <speaker>ELENA:</speaker>
+        <l>ISAURA</l>
+        <l>Pour Gaston prions. Prions</l>
+        <l>ensemble.</l>
+        <l>(Isaura ed Elena si inginocchiano all’altare della cappella)</l>
+      </sp>
+      <sp who="#conte">
+        <speaker>CONTE:</speaker>
+        <l>Avant que nous partions pour la croisade</l>
+        <l>sainte, l’église vient ici nous réconcilier</l>
+        <l>plus de haine entre nous. Cette loyale</l>
+        <l>étreinte vous engage à jamais ma foi de</l>
+        <l>chevalier. Ne formons désormais qu’une</l>
+        <l>même famille, vicomte de Béarn, je vous</l>
+        <l>donne ma fille…</l>
+      </sp>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>(Mon frère…)</l>
+      </sp>
+      <sp who="#elena">
+        <speaker>ELENA:</speaker>
+        <l>(Juste ciel!)</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Soyez béni, seigneur! Mon cœur l’avait</l>
+        <l>choisie… Vous comblez tous mes vœux!</l>
+      </sp>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>(Oh rage! Oh jalousie!)</l>
+      </sp>
+      <sp who="#raimondo">
+        <speaker>RAIMONDO:</speaker>
+        <l>Mon maître!</l>
+      </sp>
+      <sp who="#elena">
+        <speaker>ELENA:</speaker>
+        <l>Cher Gaston!</l>
+      </sp>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>(Oh cachons ma fureur!)</l>
+      </sp>
+      <sp who="#elena">
+        <speaker>ELENA:</speaker>
+        <l>Je tremble encore… J’y crois à peine.</l>
+        <l>Plus de haine! Ah, d’ivresse mon âme</l>
+        <l>est pleine! C’ est Dieu qui nous protège</l>
+        <l>encore.</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Rêve béni! J’y crois à peine!</l>
+        <l>Dieu me donne ce doux trésor!</l>
+        <l>J’ oublie à jamais ma haine</l>
+        <l>au bonheur je crois encore.</l>
+      </sp>
+      <sp who="#conte">
+        <speaker>CONTE:</speaker>
+        <l>Désormais plus de haine!</l>
+        <l>Que l’amour vous enchaîne.</l>
+        <l>Mon Dieu, bénis leur sort.</l>
+      </sp>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>(Tremble! J’aurai ta vie!</l>
+        <l>Tremble… ma jalousie</l>
+        <l>sur toi suspend la mort!)</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Sa confiance est sans prudence</l>
+        <l>car la vengeance peut-être dort.</l>
+        <l>Il se confie à qui jura sa mort.</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>À vous, Comte, jusqu’au trépas!</l>
+      </sp>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>(Lui? Lui la posséder? Jamais!</l>
+        <l>Cherchons un bras qui serve ma colère!)</l>
+      </sp>
+      <sp who="#conte">
+        <speaker>CONTE:</speaker>
+        <l>Tous deux agenouillés à la table de Dieu.</l>
+        <l>Scellons dans ce saint lieu notre amitié</l>
+        <l>sincère.</l>
+      </sp>
+      <sp who="#legato">
+        <speaker>LEGATO:</speaker>
+        <l>Adhémar de Monteil, Légat du Pape Urbain</l>
+        <l>au Comte de Toulouse apporte un bref de</l>
+        <l>Rome: Le Saint Père te nomme</l>
+        <l>Chef des Croisés Français…</l>
+      </sp>
+      <sp who="#conte">
+        <speaker>CONTE:</speaker>
+        <l>Nous partirons demain!</l>
+        <l>Et vous à qui je donne une fille</l>
+        <l>que j’aime…</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Je vous suivrai.</l>
+      </sp>
+      <sp who="#conte">
+        <speaker>CONTE:</speaker>
+        <l>Pour signe de ce vœu, prenez ce manteau</l>
+        <l>blanc où des soldats de Dieu brille le</l>
+        <l>Saint emblème.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Cité du Seigneur! Saint Sépulcre! Calvaire!</l>
+        <l>Jardin de Douleur, exhalant la prière. Dieu</l>
+        <l>vient pénétrer vos soldats d’un saint zèle.</l>
+        <l>Sa voix nous appelle pour vous délivrer.</l>
+        <l>Chrétiens! Souviens-toi du devoir qu’on</l>
+        <l>t’impose: Combats pour ta foi. De Dieu</l>
+        <l>seul sers la cause. Maudis l’offenseur dont</l>
+        <l>l’injuste colère prendrait de son frère</l>
+        <l>la vie ou l’honneur!</l>
+      </sp>
+      <stage>CORO (dall’interno)Viens, ô pécheurrebelle! Entre dansla chapelle. Notre Sauveur t’appelle!Il t’offre un saint pardon. Et toi,chrétien fidèle, viens invoquer son nom.</stage>
+      <stage>(Ruggero torna ed ascolta la preghiera</stage>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>Vous priez vainement le ciel pour mon rival!</l>
+        <l>Pour ta fille, ô mon frère, un amour</l>
+        <l>implacable brûle mon cœur… d’un crime</l>
+        <l>il est capable! Dieu pourtant n’avait pas</l>
+        <l>voué ma vie au mal… L’amour pouvait la</l>
+        <l>rendre ou pure ou criminelle.</l>
+      </sp>
+      <stage>CORO (dall’interno)Viens…la prière t’appelle.</stage>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>Oh dans l’ombre, dans le mystère, feu</l>
+        <l>coupable que j ‘ai su taire, reste encore</l>
+        <l>caché à la terre mes angoisses, mes remords.</l>
+        <l>Mais redoute ma colère, toi, l’amant qu’elle</l>
+        <l>préfère! Ta tendresse en vain espère.</l>
+        <l>Ma vengeance veut ta mort!</l>
+      </sp>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>Je t’attendais!</l>
+      </sp>
+      <sp who="#soldato">
+        <speaker>SOLDATO:</speaker>
+        <l>J’ai dû tout préparer moi-même pour</l>
+        <l>fuir après le coup.</l>
+      </sp>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>Dans Toulouse, étranger et de tous</l>
+        <l>inconnu. Ta main va me venger.</l>
+      </sp>
+      <sp who="#soldato">
+        <speaker>SOLDATO:</speaker>
+        <l>Comptez sur moi.</l>
+      </sp>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>(Guidando il soldato verso la cappella)</l>
+        <l>Compte sur moi de même.</l>
+        <l>Tu vois ces deux guerriers couverts</l>
+        <l>de mailles d’or. L’un porte un manteau</l>
+        <l>blanc. C’est mon frère que j’aime.</l>
+        <l>L ‘autre est mon ennemi… Frappe!</l>
+        <l>Je veux sa mort!</l>
+      </sp>
+      <sp who="#coro di crociati">
+        <speaker>CORO DI CROCIATI:</speaker>
+        <l>Fiersoldat da la croisade, boisencore</l>
+        <l>cette rasade! Mort et sang quelle taillade</l>
+        <l>nous ferons des Sarrasins! En silence</l>
+        <l>ouvrant la porte, les houris prêtent main-</l>
+        <l>forte au chrétien qui leur apporte le</l>
+        <l>baptême et de bons vins!</l>
+      </sp>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>Ah, viens démon! Esprit du mal!</l>
+        <l>Il t’a livré sa vie! Ah, viens! Au</l>
+        <l>cœur de mon rival porter le coup fatal!</l>
+        <l>À cet amour qui le perdra tout son</l>
+        <l>bonheur se fie. C’est le ciel qu’il prie,</l>
+        <l>l’enfer lui répondra!</l>
+        <l>…Mais quel tumulte… On s ‘agite…</l>
+        <l>On s’ écrie…!</l>
+      </sp>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>Oui! .. .Ma vengeance est accompli!</l>
+      </sp>
+      <sp who="#raimondo">
+        <speaker>RAIMONDO:</speaker>
+        <l>Au meurtre! Arrêter l’assassin!</l>
+      </sp>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>(Je respire… l’enfer assura mon dessein!)</l>
+      </sp>
+      <stage>GASTONE [proveniente dalla cappella)]Courez!</stage>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>Ah! Lui vivant? Qui donc expire?</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Ton frère!</l>
+      </sp>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>Mon frère? Ô méprise… Ô terreur!</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Venez. Éloignez-vous d’un spectacle</l>
+        <l>d’horreur.</l>
+      </sp>
+      <sp who="#elena">
+        <speaker>ELENA:</speaker>
+        <l>Mon père!…</l>
+      </sp>
+      <sp who="#cavalieri">
+        <speaker>CAVALIERI:</speaker>
+        <l>Le voilà! L’assassin de ton frère.</l>
+        <l>C’est lui!</l>
+      </sp>
+      <sp who="#elena">
+        <speaker>ELENA:</speaker>
+        <l>Vengez mon père!</l>
+      </sp>
+      <sp who="#cavalieri">
+        <speaker>CAVALIERI:</speaker>
+        <l>Nous le jurons!</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Par le ciel qui m’ éclaire!</l>
+      </sp>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>(Avvicina il mercenario, indicando Gastone)</l>
+        <l>Malheureux, c’ était lui!</l>
+        <l>Voilà mon ennemi!</l>
+      </sp>
+      <sp who="#cavalieri">
+        <speaker>CAVALIERI:</speaker>
+        <l>Oui, nous jurons de venger la victime.</l>
+      </sp>
+      <stage>RUGGERO (Al mercenario)Sauve-moi, je te sauve!</stage>
+      <stage>IL LEGATO (Al mercenario)À commettre un tel crime qui t’a poussé?</stage>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Réponds!</l>
+      </sp>
+      <stage>SOLDIER (Indicando Gastone)Lui.</stage>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Moi?</l>
+      </sp>
+      <sp who="#raimondo">
+        <speaker>RAIMONDO:</speaker>
+        <l>Imposture!</l>
+      </sp>
+      <stage>CAVALIERI (A Gastone)C’est toi!</stage>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>(D’horreur mon front est livide.</l>
+        <l>Ah! Sois maudit… fratricide!</l>
+        <l>Du ciel la foudre est rapide.</l>
+        <l>Malheur à moi! Malheur!)</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Moi, sacrilège? …Homicide?</l>
+        <l>Dévoile ici le perfide, mon Dieu!</l>
+        <l>Sois mon égide, toi qui lis dans mon cœur.</l>
+      </sp>
+      <sp who="#elena">
+        <speaker>ELENA:</speaker>
+        <l>Non! Tu n’es pas homicide!</l>
+        <l>Dévoile ici le perfide, mon Dieu!</l>
+        <l>Sois son égide, toi qui lis dans son cœur!</l>
+      </sp>
+      <sp who="#il legato">
+        <speaker>IL LEGATO:</speaker>
+        <l>Chrétiens, jetez le glaive!</l>
+        <l>La foudre de l’ Église atteindra le</l>
+        <l>pervers. Le sang versé se lève et</l>
+        <l>te crie, “Anathème!” Oui, seul dans</l>
+        <l>l’univers va, meurtrier du Comte!</l>
+        <l>Que flétri par le ciel et courbé sous</l>
+        <l>ta honte, on te refuse, infâme,</l>
+        <l>le pain et le sel.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Sur ton front est lancé l’anathème.</l>
+        <l>Sacrilège en horreur à Dieu même!</l>
+        <l>imposteur, dont la bouche blasphème!</l>
+        <l>Meurtrier! Sois maudit! Soit maudit!</l>
+        <l>Ta misère dans l’exil va chercher</l>
+        <l>quelque terre où l’écho porte à Dieu ta</l>
+        <l>prière. Ton forfait dans le sang est écrit.</l>
+        <l>Sois maudit!</l>
+      </sp>
+      <sp who="#ruggero">
+        <speaker>RUGGERO:</speaker>
+        <l>(Sur mon front doit tomber l’anathème!</l>
+        <l>Fratricide en horreur à Dieu même.</l>
+        <l>C’ est du ciel la justice suprême…</l>
+        <l>Vil Caïn, soit maudit! Soit maudit!</l>
+        <l>Oui, sur moi dans sa juste colère,</l>
+        <l>l’éternel va lancer le tonnerre! À</l>
+        <l>jamais en horreur à la terre, mon</l>
+        <l>forfait dans le sang est écrit…)</l>
+      </sp>
+      <sp who="#gastone">
+        <speaker>GASTONE:</speaker>
+        <l>Par le ciel, suspendez l’anathème!</l>
+        <l>Car mon cœur en appelle à Dieu même.</l>
+        <l>Arrêtez !… Votre bouche blasphème!</l>
+        <l>Moi coupable? Ô mon Dieu, moi maudit!</l>
+        <l>Innocent et flétri sur la terre, dans l’exil</l>
+        <l>moi traîner ma misère! Non! Le ciel</l>
+        <l>entendra ma prière et lui seul vengera</l>
+        <l>le proscrit!</l>
+      </sp>
+      <sp who="#elena">
+        <speaker>ELENA:</speaker>
+        <l>Par le ciel, suspendez l’anathème!</l>
+        <l>Car mon cœur en appelle à Dieu même.</l>
+        <l>Arrêtez!,.. Votre bouche blasphème!</l>
+        <l>Lui coupable? Ô mon Dieu, lui maudit?</l>
+        <l>Innocent et flétri sur la terre, dans l’exil</l>
+        <l>lui traîner sa misère! Non! Le ciel</l>
+        <l>entendra ma prière et lui seul vengera</l>
+        <l>le proscrit!</l>
+      </sp>
+      <div type="act">
+        <head>ATTO SECONDO</head>
+        <sp who="#atto secondo">
+          <speaker>ATTO SECONDO:</speaker>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Grâce, mon Dieu! De remords déchiré</l>
+          <l>j’ai fait pieds nus le saint pèlerine, et</l>
+          <l>trois ans j’ai pleuré dans ce désert sauvage.</l>
+          <l>À ce front pâle, à ces cheveux blanchis, dans</l>
+          <l>l’eau des sources réfléchis, moi-même je</l>
+          <l>ne puis, hélas, me reconnaître! Cette tâche</l>
+          <l>de sang s’effacera peut-être… Seigneur! De</l>
+          <l>ton pardon mon âme est altérée! L’âme</l>
+          <l>d’un fratricide à ton courroux livrée sans</l>
+          <l>l’irriter peut-elle invoquer ton saint nom…</l>
+          <l>Ô jour fatal! Ô crime! Tombeau de ma</l>
+          <l>victime, du fond de cet abîme, toujours</l>
+          <l>je te revois. Le spectre de mon frère,</l>
+          <l>sanglant sur la poussière, arrête ma prière et fait</l>
+          <l>trembler ma voix! Pourtant à ma souffrance,</l>
+          <l>le ciel se laisse voir, et Dieu dans sa</l>
+          <l>clémence me garde encor l’espoir.</l>
+        </sp>
+        <sp who="#raimondo">
+          <speaker>RAIMONDO:</speaker>
+          <l>Du secours, ô mon Dieu! Faut-il</l>
+          <l>mourir ainsi?</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Un malheureux que la fatigue accable!</l>
+        </sp>
+        <sp who="#raimondo">
+          <speaker>RAIMONDO:</speaker>
+          <l>Donnez… la soif me tue…</l>
+          <l>(Beve)</l>
+          <l>Ô saint homme, merci!</l>
+          <l>Car j’allais mourir sur ce sable.</l>
+        </sp>
+        <stage>RAIMONDODonnez… la soif me tue…(Beve)Ô saint homme, merci!Car j’allais mourir sur ce sable.</stage>
+        <stage>RUGGERO (Indicando la caverna)Reposez-vous ici.</stage>
+        <sp who="#raimondo">
+          <speaker>RAIMONDO:</speaker>
+          <l>D’autres sont là, perdus dans la montagne.</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Je vole à leur secours.</l>
+        </sp>
+        <sp who="#raimondo">
+          <speaker>RAIMONDO:</speaker>
+          <l>Le ciel vous accompagne!</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Fais, ô mon Dieu, que je sauve leur jours!</l>
+        </sp>
+        <sp who="#isaura">
+          <speaker>ISAURA:</speaker>
+          <l>Loin des croisés, madame, et loin de</l>
+          <l>votre père, nous hasarder.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Ce pieux solitaire qu’à l’égal des chrétiens</l>
+          <l>le sarrasin révère, je veux l’interroger.</l>
+          <l>De la France banni pour y cacher sa honte,</l>
+          <l>Gaston en Palestine est venu. L’on raconte</l>
+          <l>qu ‘ il a trouvé la mort. Son malheur est</l>
+          <l>fini… non le mien. Cet ermite peut-être</l>
+          <l>m’ apprendra. Entre Isaura, entre vite…</l>
+        </sp>
+        <sp who="#isaura">
+          <speaker>ISAURA:</speaker>
+          <l>Mais… voyez sur le seuil!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>En croirai-je mes yeux?</l>
+          <l>…L’écuyer de Gaston!</l>
+        </sp>
+        <sp who="#raimondo">
+          <speaker>RAIMONDO:</speaker>
+          <l>Vous, madame? En ces lieux!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Parle-moi de ton maître! Parle!</l>
+          <l>Fais-moi connaître les maux qu’il</l>
+          <l>a soufferts.</l>
+        </sp>
+        <sp who="#raimondo">
+          <speaker>RAIMONDO:</speaker>
+          <l>Avec lui j’ai quitté la France. Le</l>
+          <l>consolant dans sa souffrance, je l’ai</l>
+          <l>suivi dans ces déserts. Et toujours</l>
+          <l>sa triste pensée revolait vers sa</l>
+          <l>fiancée, qu’ il nommait en pleurant…</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Achève.., je suis calme.</l>
+        </sp>
+        <sp who="#raimondo">
+          <speaker>RAIMONDO:</speaker>
+          <l>Un jour en combattant le nombre, hélas,</l>
+          <l>rendit sa valeur inutile. Depuis, dans</l>
+          <l>cette ville…</l>
+          <l>Captif…</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Il n’est pas mort?</l>
+        </sp>
+        <sp who="#raimondo">
+          <speaker>RAIMONDO:</speaker>
+          <l>Il est là prisonnier.</l>
+        </sp>
+        <sp who="#pellegrini">
+          <speaker>PELLEGRINI:</speaker>
+          <l>Ô mon Dieu! Ô mon Dieu, vois nos misères!</l>
+          <l>Perdus dans ces déserts, par la soif dévorés,</l>
+          <l>ne serons-nous pas délivrés par les soldats</l>
+          <l>croisés, nos frères? Hélas… hélas….!</l>
+          <l>Ô mon Dieu, ta parole est donc vaine — dans</l>
+          <l>ce lieu va finir notre peine. Des ravins</l>
+          <l>partout l’onde est séchée… et cherchée elle</l>
+          <l>échappe à nos mains. Nos malheurs ont payé</l>
+          <l>notre offense! Dans nos cœurs fais surgir</l>
+          <l>l’espérance. Digne enfin signaler ta</l>
+          <l>puissance. Vers la France ouvre-nous un</l>
+          <l>chemin. Sol natale… Ô patrie! Ô fontaines…</l>
+          <l>cristal si pur de nos sources lointaines!</l>
+          <l>Ciel si doux.., frais abris des vieux chênes.</l>
+          <l>Mourrons-nous sans cercueil? Et si loin de</l>
+          <l>vous nous mourrons maudissant la misère et</l>
+          <l>la terre ou pour toi nous souffrons. Ah, mais</l>
+          <l>enfin fais surgir l’espérance. Vers la France</l>
+          <l>ouvre-nous un chemin!</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Dieu soit loué! Du fer d’un assassin, lui</l>
+          <l>qui suit préserver mon sein!</l>
+        </sp>
+        <sp who="#legato">
+          <speaker>LEGATO:</speaker>
+          <l>Nous voici enfin parvenues en Palestine!</l>
+          <l>Quand le jour renaîtra dans sa splendeur</l>
+          <l>divine. Jérusalem à nos yeux paraîtra.</l>
+        </sp>
+        <sp who="#cavalieri">
+          <speaker>CAVALIERI:</speaker>
+          <l>C’est lui.., c’est le saint homme que</l>
+          <l>pour sa piété dans ces lieux on renomme.</l>
+        </sp>
+        <stage>CONTE (a Ruggero)Homme de Dieu! Bénissez-nous!</stage>
+        <stage>RUGGERO (Sopraggiunto)Ô ciel!…</stage>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Que faites-vous?</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Chef des soldats du Christ qui portez sa</l>
+          <l>bannière, laissez-moi m’ incliner le</l>
+          <l>front dans la poussière…</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Levez-vous…</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>(Oh tais-toi, tais-toi, cri de mon cœur,</l>
+          <l>le repentir trahirait le coupable! …)</l>
+          <l>(Ai crociati)</l>
+          <l>Accueillez dans vos rangs, chrétiens,</l>
+          <l>un misérable.</l>
+        </sp>
+        <stage>RUGGERO(Oh tais-toi, tais-toi, cri de mon cœur,le repentir trahirait le coupable! …)(Ai crociati)Accueillez dans vos rangs, chrétiens,un misérable.</stage>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Un saint homme!</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Un pécheur… qui s’offre pour combattre</l>
+          <l>un soldat en victime. Le sang pour Dieu</l>
+          <l>versé rachète même un crime.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Le Seigneur nous promet la victoire, oh</l>
+          <l>bonheur! Nous verrons dans sa gloire le</l>
+          <l>saint lieu précieux territoire où d’un Dieu</l>
+          <l>garde encore l’adieu. Oui, levons la</l>
+          <l>bannière chrétienne et chassons cette</l>
+          <l>horde païenne! Dieu puissant, notre</l>
+          <l>cause est la tienne. Dans le sang</l>
+          <l>renversons le croissant! Ô Dieu puissant!</l>
+        </sp>
+        <sp who="#scena seconda">
+          <speaker>SCENA SECONDA:</speaker>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>L’émir auprès de lui m’appelle. Que</l>
+          <l>dois-je craindre encor? De la France</l>
+          <l>banni, captif au sein d’une ville infidèle,</l>
+          <l>je ne pourrai combattre dans mon zèle</l>
+          <l>pour les ingrats qui m’ont injustement</l>
+          <l>puni! Hélène est près de moi, dans</l>
+          <l>leur camp… Chère Hélène, dont un</l>
+          <l>destin cruel m’a séparé. Ne pas te</l>
+          <l>voir quand le ciel te ramène! Je</l>
+          <l>briserai ma chaîne et je te reverrai…</l>
+          <l>Je veux encore entendre ta voix, ta voix</l>
+          <l>si tendre. Pour fuir, il faut attendre les</l>
+          <l>ombres du soir. Ange, vers qui s’envole</l>
+          <l>mon rêve d’espoir! Ah, belange, mon</l>
+          <l>idole, je veux encor te voir! Bel ange!</l>
+        </sp>
+        <sp who="#emir">
+          <speaker>EMIR:</speaker>
+          <l>Prisonnier, dans Ramla je te laisse la</l>
+          <l>vie, car je ne voulais pas sur ma ville</l>
+          <l>attirer par une perfidie la vengeance</l>
+          <l>des tiens. Mais ils portent leurs pas</l>
+          <l>vers ces murs. Ce palais est ta prison.</l>
+          <l>Prends garde! Si tu cherches à fuir,</l>
+          <l>c’est la mort. Dieu te garde!</l>
+        </sp>
+        <sp who="#ufficiale">
+          <speaker>UFFICIALE:</speaker>
+          <l>Une femme chrétienne en Arabe vêtue</l>
+          <l>vient d’être prise, Émir, dans les murs</l>
+          <l>de Ramla. Ordonne, et sa tête abattue…</l>
+        </sp>
+        <sp who="#emiro">
+          <speaker>EMIRO:</speaker>
+          <l>Non, qu’on l’amène.</l>
+        </sp>
+        <sp who="#ufficiale">
+          <speaker>UFFICIALE:</speaker>
+          <l>La voilà.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Hélène!…</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Ciel… Gaston!</l>
+        </sp>
+        <sp who="#emiro">
+          <speaker>EMIRO:</speaker>
+          <l>Approche, jeune fille…</l>
+          <l>Ici que cherche-tu? Dis</l>
+          <l>ton nom… ta famille.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Je te suis inconnue et tu peux, sans</l>
+          <l>danger m’accorder un asile. Les</l>
+          <l>chrétiens passeront sans attaquer ta</l>
+          <l>ville; mais, mon trépas, ils</l>
+          <l>sauraient le venger!</l>
+        </sp>
+        <sp who="#emiro">
+          <speaker>EMIRO:</speaker>
+          <l>(Ce regard… cet orgueil!)</l>
+        </sp>
+        <stage>UFFICIALE (all’Emiro)Ils sont d’intelligence…</stage>
+        <stage>EMIRO (all’ufficiale)Qu’ils restent seuls… ilspourront se trahir.(a Elena)Si ta bouche a dit vrai, compte surma clémence. Attends ici mon ordre.</stage>
+        <sp who="#ufficiale">
+          <speaker>UFFICIALE:</speaker>
+          <l>(all’Emiro. Poi escono)</l>
+          <l>Et moi, je veille, Emir.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Hélène!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>O ciel, Gaston!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Chère âme, sois bénie!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Chère âme, sois bénie!</l>
+          <l>Ah, mon Gaston, pour cet instant</l>
+          <l>j ‘aurais donné ma vie, car tu n’es</l>
+          <l>pas coupable. Oh, Dieu t’a préservé</l>
+          <l>et m’a vers toi guidée.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>En ma misère je voulais affrontant leur</l>
+          <l>colère parmi mes ennemis aller trouver</l>
+          <l>ton père.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>À leurs regards crains de t’offrir.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Errant proscrit sur cette terre, je</l>
+          <l>n’avais plus qu’un seul désir: te</l>
+          <l>voir encore et puis mourir!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Oh, garde l’espérance!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Elle est bannie… Ma gloire flétrie…</l>
+          <l>Famille… Patrie… J’ai tout perdu!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Non! Moi… je te reste!</l>
+          <l>C’est pour la vie!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Ange céleste…</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Ce monde ingrat, je le déteste.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Ah, rétracte un vœu funeste…</l>
+          <l>L’anathème est sur moi descendu.</l>
+          <l>Dans la honte et l’épouvante partager</l>
+          <l>ma vie errante? Ne crois pas que</l>
+          <l>j ‘y consente! Non… plutôt adieu</l>
+          <l>sans retour. Dans mon cœur ta douce</l>
+          <l>image de l’espoir sera le gage. Dieu</l>
+          <l>me rend tout mon courage s’il me</l>
+          <l>garde ton amour. Fuis!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Je reste!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Je t’en supplie.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>À ton sort le mien se lie.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Fuis!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Je reste! À toi ma vie!</l>
+          <l>Que je meurs au bras d’un époux.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Dieu t’inspire un sacrifice dont un</l>
+          <l>ange serait jaloux.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Avec toi que je périsse, le trépas</l>
+          <l>me sera doux!</l>
+          <l>Une pensée amère me rappelle mon</l>
+          <l>père… De son enfant si chère en</l>
+          <l>vain il attend le retour. Toi que ta</l>
+          <l>fille abandonne, toi qu’elle afflige en</l>
+          <l>ce jour, ah, mon père! Oh mon père,</l>
+          <l>pardonne! Ma vie est dans mon amour.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Toi, qui me fus ravie, ô douce fleur</l>
+          <l>de ma vie. Dans mon âme assombrie,</l>
+          <l>rayonné un céleste jour quand, pour</l>
+          <l>finir ma peine, Dieu m’a donné ton</l>
+          <l>retour. Ah, il faut que je rompe ta</l>
+          <l>chaîne! Ma vie et dans ton amour!</l>
+        </sp>
+        <stage>VOCI (dall’esterno)Auxarmes!</stage>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Entends ces cris d’alarmes! S’il faut</l>
+          <l>mourir, que ce soit dans tes bras.</l>
+        </sp>
+        <stage>GASTONE (guarda da una finestra)Vois-tu dans la plaine là-bas flotter labannière chrétienne? La ville est entumulte, et l’on court aux remparts!…</stage>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Viens! Peut-être on peut fuir!</l>
+          <l>Oh que Dieu nous soutienne!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Silence… on vient…</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Mon Dieu!…</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Non.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Fuyons sans retard!</l>
+        </sp>
+        <sp who="#both">
+          <speaker>BOTH:</speaker>
+          <l>Ah viens, viens! Je t’aime! Suis-moi,</l>
+          <l>viens, je t’aime! Le ciel même ne</l>
+          <l>peut t’arracher à moi! Viens! Je</l>
+          <l>tremble… Fuyons ensemble. La mort</l>
+          <l>seule pourra me séparer de toi!</l>
+        </sp>
+        <sp who="#atto terzo">
+          <speaker>ATTO TERZO:</speaker>
+        </sp>
+        <sp who="#ufficiale">
+          <speaker>UFFICIALE:</speaker>
+          <l>“Les chrétiens… ils sont-là…</l>
+          <l>ils vont donner l’assaut.</l>
+        </sp>
+        <sp who="#emiro">
+          <speaker>EMIRO:</speaker>
+          <l>Par le secours d’Allah nous les vaincrons.</l>
+          <l>Et si mon bras ne les arrête; si le chef des</l>
+          <l>croisés pénètre dans Ramla, que de sa fille</l>
+          <l>on lui jette la tête!</l>
+        </sp>
+        <stage>(Escono)</stage>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Que m’importe la vie en ma misère</l>
+          <l>extrême lorsque, hélas, pour jamais</l>
+          <l>je perds celui que j ‘aime? Comblant</l>
+          <l>mon malheur, sur moi va d’un père</l>
+          <l>tomber la colère… Seigneur! Seigneur!</l>
+          <l>Ton bras m’accable! Sois secourable à</l>
+          <l>ma douleur…</l>
+          <l>Mes plaintes sont vaines! Mon Dieu,</l>
+          <l>brise mes chaînes; termine mes peines!</l>
+          <l>À toi rappelle-moi… Des jours pleins</l>
+          <l>d’orages, voilà mon partage leurs</l>
+          <l>triste présage me glace d’effroi!</l>
+          <l>Termine mes peines, mon Dieu, brise</l>
+          <l>mes chaînes!  À toi rappelle-moi!</l>
+        </sp>
+        <stage>VOCI DI DONNA (dall’esterno)On s’égorge! On se tue!</stage>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Ah, quel tumulte!</l>
+        </sp>
+        <sp who="#soldiers">
+          <speaker>SOLDIERS:</speaker>
+          <l>Aux armes!</l>
+        </sp>
+        <stage>RAGAZZE DELL’ HAREM (terrorizzate)On se tue! On fuit plein d’alarmescar les chrétiens sont entrés dansRamla!</stage>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Les chrétiens! Mon père… il est là,</l>
+          <l>mais Gaston… sa perte est certaine…</l>
+          <l>Jetremble!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Chère Hélène!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>GASTONE!… Je meurs d’effroi!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Â mes gardes troublés opposant mon</l>
+          <l>courage,  mon poignard jusqu’à toi</l>
+          <l>suit m’ouvrir un passage.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Mais les croisés sont là…</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Ton père m’entendra.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Mais ils t’ont condamné!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Mon sort s’accomplira!</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Oh ciel! Fille coupable!…</l>
+          <l>C’est donc pour cet amant?…</l>
+        </sp>
+        <sp who="#crociati">
+          <speaker>CROCIATI:</speaker>
+          <l>Gaston le meurtrier! Qu’il périsse!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Ô mon Dieu!</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Déloyal chevalier!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>D’un forfait exécrable! Et vous aussi</l>
+          <l>vous m’avez cru coupable!</l>
+        </sp>
+        <sp who="#crociati">
+          <speaker>CROCIATI:</speaker>
+          <l>Â la mort! Â la mort!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Ordonnez de mon sort! Préparez le</l>
+          <l>supplice. Votre aveugle justice de</l>
+          <l>l’innocent va répandre le sang.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Par pitié!</l>
+        </sp>
+        <sp who="#crociati">
+          <speaker>CROCIATI:</speaker>
+          <l>Qu’on l’entraîne!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Arrêtez!</l>
+        </sp>
+        <sp who="#crociati">
+          <speaker>CROCIATI:</speaker>
+          <l>Qu’il périsse!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Et tu le vois, Dieu tout puissant!</l>
+          <l>Non, votre rage, indigne outrage, n’est</l>
+          <l>pas l’ouvrage d’un Dieu clément. L’enfer</l>
+          <l>inspire votre délire et le martyre de mon</l>
+          <l>amant! À vous la honte! À vous le crime!</l>
+          <l>Que de la victime retombe</l>
+          <l>sur vous le sang!</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Oh déshonneur!</l>
+        </sp>
+        <sp who="#crociati">
+          <speaker>CROCIATI:</speaker>
+          <l>Au traître la mort!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Le ciel s’entre ouvre et votre sort à mes</l>
+          <l>yeux se découvre. Sur vous s ‘ étend de</l>
+          <l>Dieu la main puissante. Sur vos fronts</l>
+          <l>tonnera le cri d’ épouvante!</l>
+        </sp>
+        <sp who="#crociati">
+          <speaker>CROCIATI:</speaker>
+          <l>Le traître expie sa félonie,</l>
+          <l>il périra!</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Oh sacrilège amour! Maudite par ton père</l>
+          <l>va-t’en! Qu’a ta prière le ciel se ferme</l>
+          <l>un jour. Va! Va! Va!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Dans ta colère mon Dieu tutélaire, ton</l>
+          <l>bras, j ‘espère bientôt les punira et sans</l>
+          <l>clémence dans ta sentence! Oui, ta</l>
+          <l>vengeance les frappera… les frappera!</l>
+        </sp>
+        <sp who="#scena seconda">
+          <speaker>SCENA SECONDA:</speaker>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Barons et chevaliers, devant vous je proteste</l>
+          <l>et devant Dieu, car je suis innocent! Mais</l>
+          <l>vous m’avez rendu mes armes. Il me reste</l>
+          <l>à mourir comme doit un homme de mon sang,</l>
+          <l>Écuyer, devant moi fais flotter ma bannière!</l>
+        </sp>
+        <sp who="#legato">
+          <speaker>LEGATO:</speaker>
+          <l>Arrête! Condamné par le bref du saint-père,</l>
+          <l>demain tu subiras la mort. Mais aujourd’hui</l>
+          <l>c’est l’infamie! Oui, tu seras d’abord</l>
+          <l>dégradé de noblesse et de chevalerie,</l>
+          <l>déclaré traître, infâme et comme tel traité dans</l>
+          <l>ta dernière postérité!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>L’infamie!… Prenez, prenez ma vie vos</l>
+          <l>bourreaux, je les défile…mais mon honneur..</l>
+          <l>Mais mon honneur!</l>
+        </sp>
+        <sp who="#legato">
+          <speaker>LEGATO:</speaker>
+          <l>Tel est l’arrêt.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Oh douleur! Oh mes amis, mes frères</l>
+          <l>d’armes, voyez mes pleurs; voyez mes</l>
+          <l>larmes. Le déshonneur…c’est trop</l>
+          <l>affreux! N’accablez pas un malheureux.</l>
+          <l>Mon dernier jour me sera doux — et je</l>
+          <l>l’implore à vos genoux… mais, par le</l>
+          <l>ciel, moi, traître!… Infâme!… Je</l>
+          <l>pleure, hélas, comme une femme. C’est</l>
+          <l>la pitié que je réclame. Par quels accents</l>
+          <l>vous attendrir? Oh, mes amis! Sans me</l>
+          <l>flétrir, laissez-moi, laissez-moi mourir!</l>
+        </sp>
+        <sp who="#legato">
+          <speaker>LEGATO:</speaker>
+          <l>Qu’on exécute la sentence!</l>
+        </sp>
+        <sp who="#cavalieri">
+          <speaker>CAVALIERI:</speaker>
+          <l>Point de pitié… Point de clémence…</l>
+          <l>.</l>
+          <l>ARALDO</l>
+          <l>Ceci est le heaume d’un traître</l>
+          <l>déloyal chevalier!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Tu mens. Tu mens!</l>
+        </sp>
+        <sp who="#cavalieri">
+          <speaker>CAVALIERI:</speaker>
+          <l>Au traître point de merci…</l>
+        </sp>
+        <sp who="#penitenti">
+          <speaker>PENITENTI:</speaker>
+          <l>Cum judicar exeat condemnatus et</l>
+          <l>oratio ejus fiat la peccatum.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Oh torture…oh douleur! Oh</l>
+          <l>m’avilir ainsi!</l>
+        </sp>
+        <sp who="#popolo">
+          <speaker>POPOLO:</speaker>
+          <l>Au fond du cœur sa voix pénètre.</l>
+        </sp>
+        <sp who="#araldo">
+          <speaker>ARALDO:</speaker>
+          <l>(Sollevando la corazza di Gastone)</l>
+          <l>Ceci est la targe d’un traître</l>
+          <l>déloyal chevalier!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Tu mens! Tu mens!</l>
+        </sp>
+        <sp who="#penitenti">
+          <speaker>PENITENTI:</speaker>
+          <l>Fiant dies ejus pauci et hereditatem</l>
+          <l>ejus accipiat alter accipiat.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Mon Dieu! Tu vois ce que je souffre ici.</l>
+        </sp>
+        <sp who="#popolo">
+          <speaker>POPOLO:</speaker>
+          <l>Quelle pitié ses pleurs font naître…</l>
+        </sp>
+        <sp who="#araldo">
+          <speaker>ARALDO:</speaker>
+          <l>(Sollevando la spada di Gastone)</l>
+          <l>Ceci est l’ estoc de ce traître</l>
+          <l>déloyal chevalier!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Tu mens! Tu mens!</l>
+        </sp>
+        <sp who="#knights">
+          <speaker>KNIGHTS:</speaker>
+          <l>Au traître point de merci…</l>
+        </sp>
+        <sp who="#penitenti">
+          <speaker>PENITENTI:</speaker>
+          <l>Et di lexit maledictionem et veniat</l>
+          <l>ei e longabitur ad eo ab eo.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Oh calice d’amertume! M’assassiner</l>
+          <l>ainsi! Seigneur… Seigneur!</l>
+        </sp>
+        <sp who="#popolo">
+          <speaker>POPOLO:</speaker>
+          <l>Dans ta bonté, Seigneur, accorde-lui</l>
+          <l>merci.</l>
+        </sp>
+        <sp who="#legato">
+          <speaker>LEGATO:</speaker>
+          <l>Que le bras séculier à le punir s’apprête.</l>
+          <l>Le soleil de demain verra tomber sa tête.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>(Scendendo dal patibolo)</l>
+          <l>Tuez-moi, tuez-moi! allons! Qui vous</l>
+          <l>arrête? Frappez bourreaux! Je reprends</l>
+          <l>ma fierté. Mon sang versé pour vous fut</l>
+          <l>mon seul crime. Et devant Dieu la victime</l>
+          <l>vous chargera de votre iniquité.</l>
+        </sp>
+        <sp who="#atto quarto">
+          <speaker>ATTO QUARTO:</speaker>
+        </sp>
+        <stage>RUGGERO (Solo)Voici de Josaphat, la lugubre vallée…Jérusalem! Où vont flatter nos étendards.Que je trouve, ô mon Dieu, la mort surses remparts, et reçois dans ton seinmon âme désolée.</stage>
+        <stage>CRISTIANI (fuori dalla scena)Jérusalem la sainte! La divine cité!Accueille en ton enceinte un Dieu deliberté.</stage>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Les chrétiens en prière…</l>
+          <l>Prêts à combattre, invoquent la</l>
+          <l>faveur du Seigneur.</l>
+        </sp>
+        <sp who="#donne">
+          <speaker>DONNE:</speaker>
+          <l>Que nos larmes baignent la poussière</l>
+          <l>du céleste tombeau. Laisse notre âme</l>
+          <l>à l’heure dernière fêter un jour si beau.ì</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>(Procedendo verso la tenda controllata dalle guardie)</l>
+          <l>Il est là…</l>
+        </sp>
+        <sp who="#pellegrini">
+          <speaker>PELLEGRINI:</speaker>
+          <l>C’est là qu’apparut, portant le calice,</l>
+          <l>un ange au fils de Dieu… c’est ici qu’il</l>
+          <l>pleura. Et son supplice, ces lieux l’ont</l>
+          <l>vu, c’est là.</l>
+        </sp>
+        <sp who="#crociati">
+          <speaker>CROCIATI:</speaker>
+          <l>Des Oliviers! Saluons la montagne et son</l>
+          <l>reflet de sang! Comme un linceul sur</l>
+          <l>l’aride campagne, le silence descend…</l>
+          <l>Ô montagne! Ô vallée! Ô lieux pleins de</l>
+          <l>mystère où Dieu nous jugera! Des anges</l>
+          <l>lorsque ici l’appel retentira, les morts</l>
+          <l>sortiront de la terre, et le juge apparaîtra!</l>
+        </sp>
+        <sp who="#legato">
+          <speaker>LEGATO:</speaker>
+          <l>(Proveniente dalla tenda, vede Ruggero)</l>
+          <l>Saint ermite, c’est vous?</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Sans entrer dans Ramla j ‘ai devancé</l>
+          <l>l’ armée.</l>
+        </sp>
+        <stage>LEGATO  (ai soldati)Un grand coupable est là. Pour meurtrecondamné par un décret de Rome.Assistez- le! Qu’il vienne à ce saint homme, vousobéirez comme à moi.Absolvez le coupable. Moi, je vais descroisés fortifier la foi.</stage>
+        <stage>(esce)</stage>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>(Meurtrier comme moi… pensée</l>
+          <l>inexorable.)</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>C’est lui!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Je te revois! J ‘y comptais!</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>(Cette voix ! … Ah, terre, entrouvre-toi.)</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Oh, comme il m’ont traité… mes yeux</l>
+          <l>n’ont plus de larmes par la main du</l>
+          <l>bourreaux j’ai vu briser mes armes!</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>(…Et je n’étais pas là!)</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Ce jour c’est le dernier. Je mourrai</l>
+          <l>sans combattre…</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>(Ah… c’est Dieu qui m’éclair!…)</l>
+          <l>(Alle guardie)</l>
+          <l>Par l’ordre du Légat par mon saint</l>
+          <l>ministère, laissez-moi seul avec</l>
+          <l>le prisonnier.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Déjà s’apprête mon supplice!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Seigneur! Voilà donc ta justice? Dieu</l>
+          <l>qui cause ma misère, qui repousses</l>
+          <l>ma prière, frappe et montre, en ta</l>
+          <l>colère, que le ciel s’égare aussi!</l>
+          <l>Dieucruel!…</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Doux espoir! Parole ineffable!</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Pour t’obéir je suis, hélas, trop</l>
+          <l>coupable cette main ne peut bénir…</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Oh, saint homme!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Ma voix vous prie.</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Je ne puis</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Je succombe que par vous béni, ici</l>
+          <l>finisse ma triste vie, homme de Dieu.</l>
+          <l>Bénissez-moi.</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Eh bien. Sur cette croix qu’un pécheur</l>
+          <l>te présente, âme innocente, en Dieu sois</l>
+          <l>confiante. Oui, sa justice éclatera pour</l>
+          <l>toi.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Oh, bonheur! Ton innocence peut au jour</l>
+          <l>paraître encor. Espère… Espère!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>En vain tu parles d’espérance. Elle est</l>
+          <l>pour moi dans la mort. Dieu nous sépare,</l>
+          <l>Hélène! Oui, l’espérance est vaine! La</l>
+          <l>mort, hélas m’entraîne… Je me soutiens</l>
+          <l>à peine…</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Ah, si ton heure est venue, si l’espérance</l>
+          <l>est perdue, je te serai bientôt rendue…</l>
+          <l>La tombe finira mon malheur!</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Dieu! Sur le vrai coupable descend ton</l>
+          <l>bras redoutable. Grâce! Ô divin Saveur!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>La terre sur nous est fermée. Hélène</l>
+          <l>que j ‘ai tant aimée. Tes plaintes</l>
+          <l>déchirent mon cœur! Ah, ma vie est brisée!</l>
+          <l>Elle est flétrie et Dieu m’ouvre le ciel!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Oh douleur! Ah, seule dans ma misère</l>
+          <l>laissez ton Hélène si chère! Je quitte</l>
+          <l>avec toi la terre. Mon âme te suit dans</l>
+          <l>le ciel!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Qu’entends-je?…</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Oh, bonheur!…</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Viens! Pour le Seigneur tu peux</l>
+          <l>combattre!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>(Vivre!… Oh bonheur!)</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Mourir avec honneur!</l>
+        </sp>
+        <sp who="#scena seconda">
+          <speaker>SCENA SECONDA:</speaker>
+        </sp>
+        <sp who="#isaura">
+          <speaker>ISAURA:</speaker>
+          <l>La bataille est gagnée! En ses murs</l>
+          <l>embrasés Jérusalem a reçu les croisés.</l>
+        </sp>
+        <sp who="#voci lontane">
+          <speaker>VOCI LONTANE:</speaker>
+          <l>Victoire!</l>
+        </sp>
+        <sp who="#isaura">
+          <speaker>ISAURA:</speaker>
+          <l>Entendez-vous?</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Mon père!</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Plus d’alarmes.</l>
+        </sp>
+        <sp who="#legato">
+          <speaker>LEGATO:</speaker>
+          <l>Dieu protégea nos armes.</l>
+        </sp>
+        <stage>CONTE  (rivolgendosi a Gastone)Noble guerrier, qui planta le premierl’étendard de la foi sur la cité conquise,quel est ton nom?</stage>
+        <stage>GASTONE (sollevando la celata)Me reconnaissez-vous?</stage>
+        <sp who="#cavalieri">
+          <speaker>CAVALIERI:</speaker>
+          <l>Oh surprise… Gaston!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Oui! C’est moi dont le nom fut couvert</l>
+          <l>d’infamie! Ma bannière à vos pieds fut</l>
+          <l>jetée en lambeaux! Que par vous cette</l>
+          <l>épée soit encore vaille pour vous j’ai</l>
+          <l>combattu, donnez-moi des bourreaux!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Le ferez-vous mourir?</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Qu’on me mène au martyre.</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Arrête!</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Le saint homme!… Il est blessé!</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>J ‘expire… Ciel daigne prolonger ma</l>
+          <l>vie un seul instant… Vous allez me</l>
+          <l>maudire…</l>
+          <l>(al Conte)</l>
+          <l>Reconnais-moi… Je suis… ton frère.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Lui!… Roger!</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>Un instant… Un instant me reste encore…</l>
+          <l>Pour Gaston ma voix t’ implore, oh qu’ il</l>
+          <l>soit sauvé par toi! Le remords ici m’amène.</l>
+          <l>Seul je dois subir la peine du forfait commis</l>
+          <l>par moi.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Dieu secourable, tu me rends le bonheur</l>
+          <l>et la vie et l’honneur!</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>À mon heure dernière, grâce. Grâce!</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Mon frère!</l>
+        </sp>
+        <sp who="#ruggero">
+          <speaker>RUGGERO:</speaker>
+          <l>…Que je voie en mourant la cité du</l>
+          <l>Seigneur.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>À toi gloire, ô Dieu de victoire! En</l>
+          <l>mémoire de ton ferme appui, que des</l>
+          <l>anges, les saintes phalanges, en</l>
+          <l>louanges éclatent pour lui!</l>
+        </sp>
+        <sp who="#fine">
+          <speaker>FINE:</speaker>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

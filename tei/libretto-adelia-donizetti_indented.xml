@@ -1,0 +1,1820 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">delia</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="arnoldo">
+            <persName>ARNOLDO:</persName>
+          </person>
+          <person xml:id="comino">
+            <persName>COMINO:</persName>
+          </person>
+          <person xml:id="i">
+            <persName>I:</persName>
+          </person>
+          <person xml:id="ii">
+            <persName>II:</persName>
+          </person>
+          <person xml:id="carlo">
+            <persName>CARLO:</persName>
+          </person>
+          <person xml:id="adelia">
+            <persName>ADELIA:</persName>
+          </person>
+          <person xml:id="oliviero">
+            <persName>OLIVIERO:</persName>
+          </person>
+          <person xml:id="damigelle">
+            <persName>DAMIGELLE:</persName>
+          </person>
+          <person xml:id="donne">
+            <persName>DONNE:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="tutte">
+            <persName>TUTTE:</persName>
+          </person>
+          <person xml:id="odetta">
+            <persName>ODETTA:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="voci">
+            <persName>VOCI:</persName>
+          </person>
+          <person xml:id="arcieri">
+            <persName>ARCIERI:</persName>
+          </person>
+          <person xml:id="coro delle donne">
+            <persName>CORO DELLE DONNE:</persName>
+          </person>
+          <person xml:id="f i n e">
+            <persName>F I N E:</persName>
+          </person>
+          <person xml:id="uomini">
+            <persName>UOMINI:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>Piazza nella città di Perona,</stage>
+      <stage>che conduce a varie strade di fronte e dai lati.</stage>
+      <stage>È notte; odesi lontano rumore:</stage>
+      <stage>sparano cannoni in distanza; a poco a poco lo strepito si avvicina.</stage>
+      <stage>I cittadini si affacciano di qua e di là alle finestre;</stage>
+      <stage>alcuni sono nelle porte, altri nella strada.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+      </sp>
+      <sp who="#i">
+        <speaker>I:</speaker>
+        <l>Della torre ascoltate la squilla,</l>
+        <l>suona a festa, il castello risponde.</l>
+      </sp>
+      <sp who="#ii">
+        <speaker>II:</speaker>
+        <l>Da lontano una luce scintilla,</l>
+        <l>sorse un suono di voci gioconde.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Si prolunga, si spande più forte,</l>
+        <l>più distinto, più presso si fa.</l>
+        <l>Su, vicini, alle mura, alle porte!</l>
+        <l>Il fragore, lo strepito è là.</l>
+      </sp>
+      <sp who="#i">
+        <speaker>I:</speaker>
+        <l>È il Duca, è il Duca, che riede,</l>
+        <l>vincitor de’ superbi Liegesi.</l>
+      </sp>
+      <sp who="#ii">
+        <speaker>II:</speaker>
+        <l>Degli Arcieri il drappel lo precede,</l>
+        <l>ne fan prova i timballi francesi.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Primi in campo, ai perigli, alla morte,</l>
+        <l>esser denno primieri all’onor!</l>
+        <l>Su, vicini, alle mura, alle porte!</l>
+        <l>Alle porte, alle mura è il fragor.</l>
+      </sp>
+      <stage>I cittadini s’allontanano correndo; la scena rimane vuota.</stage>
+      <stage>Da un verone di una casa discende furtivamenteun uomo avvolto in un mantello rosso, pennacchio simile;e si dilegua per una delle strade.</stage>
+      <stage>Non ancora è partito, che alcuni cittadini lo veggono.Lo additano agli altri, che sopraggiungono;e quando egli è spartito, si riuniscono parlando fra loro.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+      </sp>
+      <sp who="#i">
+        <speaker>I:</speaker>
+        <l>Osservate! uno straniero</l>
+        <l>si calò da quel verone.</l>
+      </sp>
+      <sp who="#ii">
+        <speaker>II:</speaker>
+        <l>Chi d’Arnoldo la magione</l>
+        <l>violar così poté?</l>
+      </sp>
+      <sp who="#donne">
+        <speaker>DONNE:</speaker>
+        <l>Rosso il manto ed il cimiero…</l>
+      </sp>
+      <sp who="#uomini">
+        <speaker>UOMINI:</speaker>
+        <l>Rossi entrambi; ebben, chi è?</l>
+      </sp>
+      <sp who="#donne">
+        <speaker>DONNE:</speaker>
+        <l>Di Fienna è il giovin conte,</l>
+        <l>è del duca il favorito.</l>
+      </sp>
+      <sp who="#uomini">
+        <speaker>UOMINI:</speaker>
+        <l>Egli? come?… e con qual fronte,</l>
+        <l>con qual cor colà salì?</l>
+      </sp>
+      <sp who="#donne">
+        <speaker>DONNE:</speaker>
+        <l>Egli sol non è l’ardito…</l>
+      </sp>
+      <sp who="#uomini">
+        <speaker>UOMINI:</speaker>
+        <l>Forse Adelia?</l>
+      </sp>
+      <sp who="#donne">
+        <speaker>DONNE:</speaker>
+        <l>(parlano tutti in gruppo sottovoce)</l>
+        <l>Adelia, sì!</l>
+        <l>Sventurato genitore!</l>
+      </sp>
+      <stage>DONNE(parlano tutti in gruppo sottovoce)Adelia, sì!Sventurato genitore!</stage>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Mentre in campo il sangue spende,</l>
+        <l>qui l’oltraggia un seduttore.</l>
+        <l>L’onor suo qui vilipende.</l>
+        <l>Né la legge, né la pena</l>
+        <l>in Perona i grandi affrena,</l>
+        <l>né innocenza in questo suolo</l>
+        <l>né il pudor mai scudo avrà?</l>
+        <l>Ah! qual fia d’Arnoldo il duolo,</l>
+        <l>qual furore il suo sarà!</l>
+      </sp>
+      <stage> </stage>
+      <stage>A poco a poco cessa lo strepito.</stage>
+      <stage>Dal fondo di una contrada comparisce Arnoldo,con un ufficiale degli arcieri.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Siam giunti. Vanne, Ulrico,</l>
+        <l>e nell’assenza mia, dov’uopo il chieda,</l>
+        <l>compi mie veci ai nostri arcieri appresso.</l>
+      </sp>
+      <stage>(L’ufficiale parte)</stage>
+      <stage>Arnoldo e detti.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Oh figlia! il primo amplesso</l>
+        <l>a te fia dato; ed il primier sorriso,</l>
+        <l>che a suo ritorno il genitore allegri,</l>
+        <l>quel della figlia sia.</l>
+      </sp>
+      <stage>(S’avvicina alla casa)</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>(D’Arnoldo udiste?)</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(fermandosi)</l>
+        <l>Il nome mio! che fia?</l>
+      </sp>
+      <stage>ARNOLDO(fermandosi)Il nome mio! che fia?</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Ahi! tristo frutto e amaro</l>
+        <l>dal suo valore ha colto,</l>
+        <l>e quanto avea di caro,</l>
+        <l>un seduttor gli ha tolto;</l>
+        <l>se rea di tanto eccesso</l>
+        <l>la figlia sua si fa.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(mostrandosi, con forza)</l>
+        <l>Mia figlia!</l>
+      </sp>
+      <stage>ARNOLDO(mostrandosi, con forza)Mia figlia!</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>(riconoscendolo)</l>
+        <l>Ah! è desso!</l>
+      </sp>
+      <stage>CORO(riconoscendolo)Ah! è desso!</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Sì, son desso, v’arrestate!</l>
+        <l>Desso io son che compiangete.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>(Ah! che dir?)</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Che fu?… Parlate…</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>(Sventurato!)</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Voi tacete?…</l>
+        <l>Se v’è un padre, a lui m’appello;</l>
+        <l>quello io prego… Ahi! parli quello!</l>
+        <l>Del mio cor la fiera ambascia</l>
+        <l>ei può solo immaginar.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Deh! tacer, partir ne lascia;</l>
+        <l>va tua figlia a interrogar.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Io v’intendo. Oh! mio furore!</l>
+        <l>Sì, v’intendo… (avvampo ed ardo!)</l>
+        <l>Dite solo il seduttore,</l>
+        <l>dite il nome del codardo!</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+      </sp>
+      <sp who="#i">
+        <speaker>I:</speaker>
+        <l>Favorito egli è di Carlo,</l>
+      </sp>
+      <sp who="#ii">
+        <speaker>II:</speaker>
+        <l>È un possente…</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Egli è Olivier.</l>
+      </sp>
+      <stage>(Arnoldo metta la destra sulla spada, e mesto s’allontana)</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Dove corri?</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>A trucidarlo.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>E il puoi forse?</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>È vero… è ver!</l>
+      </sp>
+      <stage>(retrocede)</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>(sottovoce circondandolo)</l>
+        <l>Non sai tu, del nostro duca</l>
+        <l>legge v’ha, che danna a morte</l>
+        <l>qual che sia che seduca</l>
+        <l>vergin nata in umil sorte.</l>
+        <l>Quella invoca, e vendicata</l>
+        <l>tanta offesa appien sarà.</l>
+      </sp>
+      <stage>CORO(sottovoce circondandolo)Non sai tu, del nostro ducalegge v’ha, che danna a mortequal che sia che seducavergin nata in umil sorte.Quella invoca, e vendicatatanta offesa appien sarà.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>E mia figlia! ah! sventurata</l>
+        <l>vendicar chi mai potrà?</l>
+        <l>Era pura, come in cielo</l>
+        <l>puro è il raggio d’una stella,</l>
+        <l>come il sol che i fiori abbella,</l>
+        <l>l’abbelliva l’onestà.</l>
+        <l>Ah! la colpa stese un velo</l>
+        <l>su quel astro di mia vita!</l>
+        <l>Ah! la rosa è inaridita,</l>
+        <l>e mai più non sorgerà.</l>
+        <l>Ma vendetta! Pera l’empio</l>
+        <l>che ogni gioia m’avvelena!</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Sì, vendetta!</l>
+        <l>Pera l’empio! E sia d’esempio</l>
+        <l>la sua morte ai seduttor!</l>
+      </sp>
+      <stage>Partiti Arnoldo ed i cittadini,rimangono alcune donne del popolo,altre si uniscono a loro.</stage>
+      <sp who="#coro delle donne">
+        <speaker>CORO DELLE DONNE:</speaker>
+      </sp>
+      <sp who="#i">
+        <speaker>I:</speaker>
+        <l>Ei corre al duca.</l>
+      </sp>
+      <sp who="#ii">
+        <speaker>II:</speaker>
+        <l>Ed ella?…</l>
+        <l>In securtà si pensa?</l>
+      </sp>
+      <sp who="#i">
+        <speaker>I:</speaker>
+        <l>Non sa qual ria procella</l>
+        <l>sul capo suo s’addensa.</l>
+      </sp>
+      <sp who="#tutte">
+        <speaker>TUTTE:</speaker>
+        <l>Dessi avvertir l’improvvida…</l>
+        <l>È uffizio di pietà.</l>
+      </sp>
+      <stage> </stage>
+      <stage>(battono alla porta della casa di Arnoldo)</stage>
+      <stage>Apresi la porta e si presenta Odetta, indi Adelia.</stage>
+      <sp who="#odetta">
+        <speaker>ODETTA:</speaker>
+        <l>Che fia, vicine?</l>
+        <l>Sì tosto uscite? Appena albeggia il cielo.</l>
+      </sp>
+      <sp who="#coro delle donne">
+        <speaker>CORO DELLE DONNE:</speaker>
+        <l>Esci! Amistade e zelo</l>
+        <l>ci guida a voi. Colle francesi squadre</l>
+        <l>tornò dal campo Arnoldo.</l>
+      </sp>
+      <sp who="#odetta">
+        <speaker>ODETTA:</speaker>
+        <l>Arnoldo!</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>(esce frettolosa e semplicemente vestita;</l>
+        <l>all’udire nomare il padre si scuote)</l>
+        <l>Il padre!</l>
+        <l>Lo vedeste, amiche?… ah! dite,</l>
+        <l>lo vedeste?… Quando?… Dove?</l>
+      </sp>
+      <stage>ADELIA(esce frettolosa e semplicemente vestita;all’udire nomare il padre si scuote)Il padre!Lo vedeste, amiche?… ah! dite,lo vedeste?… Quando?… Dove?</stage>
+      <sp who="#coro delle donne">
+        <speaker>CORO DELLE DONNE:</speaker>
+        <l>Qui, pur dianzi.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Qui? Seguite!</l>
+        <l>(fra sè)</l>
+        <l>Ah! qual gelo in cor mi piove!</l>
+        <l>Né a suo tetto il piede ei volse,</l>
+        <l>né al mio seno ancor volò?</l>
+      </sp>
+      <stage>ADELIAQui? Seguite!(fra sè)Ah! qual gelo in cor mi piove!Né a suo tetto il piede ei volse,né al mio seno ancor volò?</stage>
+      <sp who="#coro delle donne">
+        <speaker>CORO DELLE DONNE:</speaker>
+        <l>Sciagurata! a te si tolse,</l>
+        <l>perché rea ti ritrovò.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! rea!… Che ascolto? Odetta, Odetta!</l>
+      </sp>
+      <sp who="#odetta">
+        <speaker>ODETTA:</speaker>
+        <l>(Tutto apprese.)</l>
+      </sp>
+      <sp who="#coro delle donne">
+        <speaker>CORO DELLE DONNE:</speaker>
+        <l>E al duca ei vola:</l>
+        <l>d’ira egli arde e vuol vendetta</l>
+        <l>di chi pace e onor gl’invola.</l>
+        <l>Tu provvedi al tuo periglio;</l>
+        <l>tutto, tutto dei temer.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Me perduta!… oh ciel!… consiglio!…</l>
+        <l>Salva i giorni d’Olivier!</l>
+        <l>(quindi volta ad Odetta)</l>
+        <l>Fui presaga, ah! tu lo vedi…</l>
+        <l>Dall’abisso il piè non torsi…</l>
+        <l>Troppo cieca io fé non diedi</l>
+        <l>al mio cor, a miei rimorsi…</l>
+        <l>Fuor che pianto io non dovea</l>
+        <l>coglier mai da quest’amor.</l>
+      </sp>
+      <stage>ADELIAMe perduta!… oh ciel!… consiglio!…Salva i giorni d’Olivier!(quindi volta ad Odetta)Fui presaga, ah! tu lo vedi…Dall’abisso il piè non torsi…Troppo cieca io fé non diedial mio cor, a miei rimorsi…Fuor che pianto io non doveacoglier mai da quest’amor.</stage>
+      <sp who="#coro delle donne">
+        <speaker>CORO DELLE DONNE:</speaker>
+        <l>Sventurata, ah sì! sei rea,</l>
+        <l>fuggi, ah! fuggi il genitor!</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Al suo piè cader vogl’io,</l>
+        <l>rea d’amor soltanto io sono:</l>
+        <l>o m’accordi il suo perdono,</l>
+        <l>o m’uccida il genitor.</l>
+        <l>Ma il furore in me fia spento,</l>
+        <l>ma perdoni ad Oliviero.</l>
+        <l>Sino all’ultimo momento</l>
+        <l>gli dirò che l’amo ancor.</l>
+      </sp>
+      <sp who="#coro delle donne">
+        <speaker>CORO DELLE DONNE:</speaker>
+        <l>Va! ricorra il tuo pensiero</l>
+        <l>a placare il suo furor.</l>
+      </sp>
+      <stage>(il Coro si ritira)</stage>
+      <stage> </stage>
+      <stage>Adelia, Odetta, indi Arnoldo.</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Vieni! Al cimento estremo</l>
+        <l>vuolsi estremo coraggio.</l>
+      </sp>
+      <sp who="#odetta">
+        <speaker>ODETTA:</speaker>
+        <l>E come speri</l>
+        <l>al padre pervenir?</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>A lui l’accesso</l>
+        <l>fia che de’ suoi guerrieri alcun m’impetri.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(improvvisamente comparisce. Adelia sta per partire)</l>
+        <l>Fermati!</l>
+      </sp>
+      <stage>ARNOLDO(improvvisamente comparisce. Adelia sta per partire)Fermati!</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! padre mio!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Tremi! T’arretri!…</l>
+        <l>Perfida, e n’hai ben d’onde…</l>
+        <l>(ad un cenno d’Arnoldo Odetta s’allontana)</l>
+        <l>Contaminati amplessi</l>
+        <l>daresti al padre… e ne rifugge il core.</l>
+      </sp>
+      <stage>ARNOLDOTremi! T’arretri!…Perfida, e n’hai ben d’onde…(ad un cenno d’Arnoldo Odetta s’allontana)Contaminati amplessidaresti al padre… e ne rifugge il core.</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! vedi il mio dolore,</l>
+        <l>vedi il rimorso mio!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Rimorso?… È vano!</l>
+        <l>La macchia tua terger non puote il pianto.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah, non pensar, ch’io sia colpevol tanto!</l>
+        <l>Amo, ed amata io sono</l>
+        <l>del più innocente amore.</l>
+        <l>Sol n’ha rimorso il core,</l>
+        <l>perché si tacque a te.</l>
+        <l>Ottenga il tuo perdono,</l>
+        <l>e amor celeste egl’è.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Cieca! E qual tu nutrire,</l>
+        <l>qual ei può darti speme?</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>La nostra sorte unire,</l>
+        <l>viver beati insieme,</l>
+        <l>ei mel giurò…</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Mentìa!</l>
+        <l>Sa che impossibil fia,</l>
+        <l>sa che a signor possente</l>
+        <l>plebea non si consente,</l>
+        <l>sa qual superbo talamo</l>
+        <l>il duca a lui serbò.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! la mia speme lasciami,</l>
+        <l>o di dolor morrò.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Viva il gran Carlo!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Corrasi…</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ove ten vai? Deh… resta!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Udrammi il duca.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah placati!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Vendetta io voglio, e presta!</l>
+      </sp>
+      <stage>(le grida si approssimano)</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! cedi alle mie lagrime;</l>
+        <l>non accusarlo! Ei m’ama.</l>
+        <l>Sdegnò il superbo talamo,</l>
+        <l>seguirmi in Francia ei brama.</l>
+        <l>Dove sorride amore,</l>
+        <l>dove felice è il core,</l>
+        <l>ivi è grandezza e patria,</l>
+        <l>ivi è splendore e onor!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>No, che non t’ama il barbaro…</l>
+        <l>Ei già ti tiene a vile.</l>
+        <l>Chi ti sedusse, o misera,</l>
+        <l>alma non ha gentile.</l>
+        <l>Va! Se t’avesse amata,</l>
+        <l>pura t’avria serbata.</l>
+        <l>Va! Più odioso, o credula,</l>
+        <l>mi rende il seduttor.</l>
+      </sp>
+      <stage>(furibondo la trae verso la casa, vi entra)</stage>
+      <sp who="#voci">
+        <speaker>VOCI:</speaker>
+        <l>(che si avvicinano)</l>
+        <l>Viva all’amor de’ popoli,</l>
+        <l>l’invitto Carlo, viva!</l>
+        <l>Mille cogliea l’indomito</l>
+        <l>lauri del Reno in riva.</l>
+        <l>In lui sorpresi intenti</l>
+        <l>stavan più re possenti.</l>
+        <l>Ei fra i ribelli eserciti</l>
+        <l>passava vincitor.</l>
+      </sp>
+      <stage>VOCI(che si avvicinano)Viva all’amor de’ popoli,l’invitto Carlo, viva!Mille cogliea l’indomitolauri del Reno in riva.In lui sorpresi intentistavan più re possenti.Ei fra i ribelli esercitipassava vincitor.</stage>
+      <stage>Durante il precedente coro defila l’esercito del duca di Borgogna.</stage>
+      <stage>Escono schiere numerose di cittadini.</stage>
+      <stage>Comparisce Carlo con splendido corteggio: ha Oliviero al fianco.</stage>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>Miei prodi, è vostro il merito</l>
+        <l>se vincitore io torno.</l>
+        <l>L’onor con voi dividere</l>
+        <l>degg’io di sì bel giorno.</l>
+        <l>Ore felici e liete</l>
+        <l>insiem con me godrete.</l>
+        <l>Presto a novelle glorie</l>
+        <l>l’onor vi chiamerà.</l>
+      </sp>
+      <stage>Arnoldo con un foglio in mano, trascinando Adelia, si avanza.</stage>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>(scorgendoli)</l>
+        <l>Ciel!… che veggio!</l>
+      </sp>
+      <stage>OLIVIERO(scorgendoli)Ciel!… che veggio!</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(genuflesso)</l>
+        <l>Al tuo cospetto</l>
+        <l>soffri, o sire, un padre in pianto.</l>
+      </sp>
+      <stage>ARNOLDO(genuflesso)Al tuo cospettosoffri, o sire, un padre in pianto.</stage>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>Sorgi, Arnoldo! E donde aspetto</l>
+        <l>triste hai tu, dimesso tanto?</l>
+        <l>Parla!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Ascolta.</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>(Io son perduto!)</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>(Lassa me! più cor non ho!)</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Una figlia, un sol sostegno</l>
+        <l>di mia vita io possedea.</l>
+        <l>Mentre in campo a pro’ del regno</l>
+        <l>io sudava e combattea,</l>
+        <l>un crudel fra questi alteri</l>
+        <l>tuoi baroni e cavalieri,</l>
+        <l>un crudel me la rapia,</l>
+        <l>seducea quel puro cor.</l>
+      </sp>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>Un fra miei! chi tanto ardia?…</l>
+        <l>Tremi, tremi il malfattor!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Io m’appello al cor di Carlo:</l>
+        <l>vuo’ giustizia…</l>
+      </sp>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>Tu l’avrai.</l>
+        <l>Noma il reo.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Deh! non nomarlo.</l>
+      </sp>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>Parla: il vuo’.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Vicin tu l’hai.</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Io son quello.</l>
+      </sp>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>Tu? che ascolto!</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Ma non vil, non seduttor</l>
+        <l>io l’amai dal primo istante</l>
+        <l>che s’offerse agli occhi miei.</l>
+        <l>L’amo ancor d’amor costante,</l>
+        <l>il mio bene è posto in lei:</l>
+        <l>le giurai mia fé di sposo,</l>
+        <l>e mia fé le serberò.</l>
+      </sp>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>E tant’osi?</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>No… non oso;</l>
+        <l>solo imploro, e grazia avrò.</l>
+      </sp>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>Non sai tu qual havvi editto,</l>
+        <l>qual v’ha pena al tuo delitto.</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Morte: il so…</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Gran Dio!</l>
+      </sp>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>Non sai</l>
+        <l>quale imene a te serbai?</l>
+        <l>Non sai tu di qual faresti</l>
+        <l>stirpe illustre il disonor?</l>
+        <l>Ed unirti a lei potresti?…</l>
+        <l>Morrai prima.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! mio signor!</l>
+        <l>Se funesto a’ giorni suoi</l>
+        <l>esser debba l’amor mio,</l>
+        <l>vi rinunzio a’ piedi tuoi:</l>
+        <l>la sua man più non desio.</l>
+        <l>Viva, viva e d’altrui fia sposo.</l>
+        <l>Con lui sol sii tu pietoso:</l>
+        <l>io col padre andrò lontana</l>
+        <l>a morire di dolor.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Nobil core!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Taci, insana!</l>
+        <l>Morte poi, ma pria l’onor.</l>
+        <l>Odi, o Duca: in questo foglio,</l>
+        <l>di tua man vergato intero,</l>
+        <l>difensore del tuo soglio</l>
+        <l>tu m’appelli.</l>
+      </sp>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>È vero.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>(È vero!)</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Qual favor mi fia più grato</l>
+        <l>d’assentirmi hai tu giurato.</l>
+      </sp>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>Lo rammento.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>(Lo rammenta!)</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Resti dunque ogn’ira spenta,</l>
+        <l>altro premio io non ti chiedo,</l>
+        <l>che la mano d’Olivier.</l>
+      </sp>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>La sua mano! E quali opporre</l>
+        <l>puoi tu stemmi ai stemmi suoi?</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Quei, che niuno a me può tôrre:</l>
+        <l>le ferite del guerrier.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Che dirà? Ne’ torbid’occhi</l>
+        <l>lo stupore è sculto e l’ira.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Da magnanimo, da forte</l>
+        <l>parla Arnoldo; udir si de’.</l>
+      </sp>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>Tanto ardir!… ma la sua sorte</l>
+        <l>è decisa, immota ell’è.</l>
+        <l>Ascoltate. Un sommo esempio</l>
+        <l>di giustizia io darvi intendo.</l>
+        <l>Nel mio tetto, nel mio tempio</l>
+        <l>pria che annotti io tutti attendo:</l>
+        <l>ne’ miei lari il rito angusto,</l>
+        <l>l’imeneo compito io vo’.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Viva il duca, viva il giusto!</l>
+        <l>La clemenza in lui parlò.</l>
+      </sp>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>Fia palese all’universo,</l>
+        <l>se mia fé serbare io so.</l>
+      </sp>
+      <stage>ADELIA e OLIVIERO(ad Arnoldo)Or che il prence ha perdonato,or che illeso è il vostro onore,tu sereno, tu placatobenedici il nostro amore.Deh! ne abbraccia, e altar primierosia per noi del padre il cor.Ah! non fia nel mondo interoun gioir del mio maggior.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Sì! venite al sen paterno,</l>
+        <l>abbracciarvi or m’è concesso:</l>
+        <l>si! vi stringa amore eterno,</l>
+        <l>fausto il cielo invoco adesso:</l>
+        <l>le vostre alme ei benedica</l>
+        <l>col mio labbro, col mio cor.</l>
+        <l>Sollevar la fronte antica</l>
+        <l>onorata io posso ancor.</l>
+      </sp>
+      <sp who="#carlo">
+        <speaker>CARLO:</speaker>
+        <l>(Il furor, che in sen mi bolle,</l>
+        <l>colmo è omai: l’audace il volle.</l>
+        <l>Dell’offesa, dell’oltraggio</l>
+        <l>la vendetta fia maggior.)</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Viva il giusto, viva il saggio</l>
+        <l>di sua fé mantenitor.</l>
+      </sp>
+      <stage>Carlo si muove:tutti lo seguono al grido di replicati evviva.</stage>
+      <stage> </stage>
+      <stage>Adelia seduta innanzi ad un ricco specchio.</stage>
+      <stage>Odetta è presso a lei in piedied ha terminato di acconciarle i capelli.</stage>
+      <stage>Le damigelle le presentano vari scrigni di gioie.</stage>
+      <sp who="#damigelle">
+        <speaker>DAMIGELLE:</speaker>
+        <l>Scegli. Di perle candide,</l>
+        <l>come tua fronte bella,</l>
+        <l>serti vuoi tu, che annodino</l>
+        <l>del bruno crin le anella?</l>
+      </sp>
+      <sp who="#odetta">
+        <speaker>ODETTA:</speaker>
+        <l>O vuoi piuttosto</l>
+        <l>rubin, che rassomigli?</l>
+        <l>a’ labbri tuoi vermigli?</l>
+      </sp>
+      <sp who="#damigelle">
+        <speaker>DAMIGELLE:</speaker>
+        <l>O il zaffiro vuoi tu, puro, sereno</l>
+        <l>al par degli occhi tuoi?</l>
+        <l>Tutte</l>
+        <l>No: bello è meno.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>(che ha provate varie ghirlande)</l>
+        <l>Datemi un serto, amiche,</l>
+        <l>un serto, che mi renda</l>
+        <l>più amabile a’ suoi sguardi, e più vezzosa,</l>
+        <l>degna infine di quell’alma amorosa.</l>
+        <l>Perché non posso togliere</l>
+        <l>le rose dell’aurora,</l>
+        <l>i raggi ond’ella indora</l>
+        <l>le porte del mattin?</l>
+        <l>Vorrei, vorrei di Cinzia</l>
+        <l>rapir l’argentea sfera,</l>
+        <l>la stella, che primiera</l>
+        <l>lava nel mare il crin.</l>
+        <l>(odesi strepito. Adelia sorge)</l>
+      </sp>
+      <stage>ADELIA(che ha provate varie ghirlande)Datemi un serto, amiche,un serto, che mi rendapiù amabile a’ suoi sguardi, e più vezzosa,degna infine di quell’alma amorosa.Perché non posso toglierele rose dell’aurora,i raggi ond’ella indorale porte del mattin?Vorrei, vorrei di Cinziarapir l’argentea sfera,la stella, che primieralava nel mare il crin.(odesi strepito. Adelia sorge)</stage>
+      <sp who="#odetta">
+        <speaker>ODETTA:</speaker>
+        <l>Oh! mira!</l>
+        <l>sono i paggi del conte, e il suo scudiero.</l>
+      </sp>
+      <sp who="#damigelle">
+        <speaker>DAMIGELLE:</speaker>
+        <l>Nuovi doni t’invia.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Caro Oliviero!</l>
+      </sp>
+      <stage> </stage>
+      <stage>I paggi preceduti da uno scudiero.</stage>
+      <stage>Recano essi in un cestello di argento un ricco manto:lo scudiero in un bacile d’oro porta una corona.</stage>
+      <sp who="#damigelle">
+        <speaker>DAMIGELLE:</speaker>
+        <l>Questo di bisso, e porpora</l>
+        <l>manto Olivier ti dona!</l>
+        <l>La nobil sua corona</l>
+        <l>dà di contessa a te.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>corona! ah!… porgi…</l>
+        <l>Ch’io me ne adorni, che a portarla avvezzi</l>
+        <l>questo umil capo.</l>
+      </sp>
+      <stage>(si prova la corona)</stage>
+      <sp who="#damigelle">
+        <speaker>DAMIGELLE:</speaker>
+        <l>Maggior pregio ha dessa</l>
+        <l>sulla tua fronte…</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Odetta… io son contessa!</l>
+        <l>(dopo un momento di compiacenza si toglie la corona)</l>
+        <l>Ah! non è, non è tal nome,</l>
+        <l>che si dolce al cuor mi suona:</l>
+        <l>ah! non è la sua corona,</l>
+        <l>che superba andar mi fa.</l>
+        <l>Di sua sposa è il caro nome</l>
+        <l>proferito dall’amore;</l>
+        <l>egli è il dono del suo cuore,</l>
+        <l>di quel cuor, che ugual non ha.</l>
+      </sp>
+      <stage>ADELIAOdetta… io son contessa!(dopo un momento di compiacenza si toglie la corona)Ah! non è, non è tal nome,che si dolce al cuor mi suona:ah! non è la sua corona,che superba andar mi fa.Di sua sposa è il caro nomeproferito dall’amore;egli è il dono del suo cuore,di quel cuor, che ugual non ha.</stage>
+      <sp who="#damigelle">
+        <speaker>DAMIGELLE:</speaker>
+        <l>No, quaggiù non v’ha splendore,</l>
+        <l>che non ceda a tua beltà.</l>
+      </sp>
+      <stage> </stage>
+      <stage>Oliviero e detti.</stage>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Adelia!</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Sposo mio!</l>
+        <l>(nel comparire di Oliviero le Damigelle, e i paggi partono)</l>
+        <l>Caro Oliviero!</l>
+      </sp>
+      <stage>ADELIASposo mio!(nel comparire di Oliviero le Damigelle, e i paggi partono)Caro Oliviero!</stage>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Io mi sottrassi al duca</l>
+        <l>non osservato: per guidarti all’ara</l>
+        <l>però non vengo; al padre tuo serbato</l>
+        <l>ufficio è questo…</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! della tua presenza</l>
+        <l>uopo non ebbi mai nel mia soffrire,</l>
+        <l>qual nella gioia mia…</l>
+        <l>Parmi, parmi, talor che sogno sia.</l>
+        <l>Ma tu, non sei contento</l>
+        <l>felice al par di me?</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Stringerti al seno,</l>
+        <l>veder de’ tuoi begli occhi</l>
+        <l>la pura luce, e l’armonia soave,</l>
+        <l>udir di tue parole, è ben supremo:</l>
+        <l>sommo ci sarebbe, estremo,</l>
+        <l>se un triste oggetto non mi fosse apparso</l>
+        <l>qual nube in faccia al sol!… Ma teco è sciolta.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Un triste oggetto! ah! dillo a me!…</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>M’ascolta!</l>
+        <l>Tutto di te sollecito,</l>
+        <l>pieno di mie speranze</l>
+        <l>lieto io scendeva, e celere</l>
+        <l>dalle ducali stanze,</l>
+        <l>quando vid’io ne’ portici</l>
+        <l>palco ferale alzar.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Cielo! e non sai qual misero</l>
+        <l>tratto vi fia.</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>L’ignoro.</l>
+        <l>Mute le guardie stanno:</l>
+        <l>invan ne chiesi a loro…</l>
+        <l>E in cor mi sorse un palpito,</l>
+        <l>che mal potrei spiegar.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! nel tuo cor sì tenero</l>
+        <l>ben si dovea destar.</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Oh! quanto a me sì limpida</l>
+        <l>sorse, diss’io, la luce,</l>
+        <l>qual genio a lui malefico,</l>
+        <l>perpetua notte adduce?</l>
+        <l>Forse egli amava… e presso</l>
+        <l>era a quell’ara anch’esso…</l>
+        <l>Forse… Oh! mio ben perdonami:</l>
+        <l>m’è forza lagrimar.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Deh! il tuo pensier non pascere</l>
+        <l>di così triste oggetto;</l>
+        <l>deh! non voler di lacrime</l>
+        <l>mischiare il mio diletto:</l>
+        <l>tu vivi; e tu sei mio…</l>
+        <l>Tutta la terra oblio:</l>
+        <l>lasciami intera, ah! lasciami</l>
+        <l>la gioia mia gustar.</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>T’accosta a me: sorridimi…</l>
+        <l>tranquillità mi rendi.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! del mio tanto giubilo</l>
+        <l>parte, mio ben, ti prendi:</l>
+        <l>tutto nol può comprendere</l>
+        <l>questo mio fragil cor.</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Addio per poco.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Addio.</l>
+        <l>Lieto tu sei com’io.</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Ah! di quest’alma il giubilo</l>
+        <l>mi fa di me maggior.</l>
+      </sp>
+      <stage> </stage>
+      <stage>(si allontanano da opposte parti)</stage>
+      <stage> </stage>
+      <stage>Vestibolo nel palazzo ducale: tempio domestico un lato.</stage>
+      <stage>Comino solo dalle logge, indi Odetta dagli appartamenti.</stage>
+      <sp who="#comino">
+        <speaker>COMINO:</speaker>
+        <l>È sgombro il loco ancora…</l>
+        <l>A tempo io giungo. Penetrar non visto</l>
+        <l>potessi alle sue stanze,</l>
+        <l>e la ria prevenir scena funesta!</l>
+        <l>Ma… non m’inganno… è questa</l>
+        <l>d’Adelia la compagna! oh gioia! il cielo</l>
+        <l>a me l’adduce. Odetta!</l>
+        <l>(cava rapidamente un biglietto e lo porge a Odetta, che giunge)</l>
+        <l>Prendi: ad Adelia il reca… a lei… t’affretta.</l>
+      </sp>
+      <stage>COMINOÈ sgombro il loco ancora…A tempo io giungo. Penetrar non vistopotessi alle sue stanze,e la ria prevenir scena funesta!Ma… non m’inganno… è questad’Adelia la compagna! oh gioia! il cieloa me l’adduce. Odetta!(cava rapidamente un biglietto e lo porge a Odetta, che giunge)Prendi: ad Adelia il reca… a lei… t’affretta.</stage>
+      <sp who="#odetta">
+        <speaker>ODETTA:</speaker>
+        <l>Signore…</l>
+      </sp>
+      <sp who="#comino">
+        <speaker>COMINO:</speaker>
+        <l>Un solo istante,</l>
+        <l>che tu rimanga, a lei può nuocer molto…</l>
+        <l>Nuocer senza riparo…</l>
+      </sp>
+      <sp who="#odetta">
+        <speaker>ODETTA:</speaker>
+        <l>Oh ciel! che ascolto!</l>
+        <l>E chi degg’io nomar?</l>
+      </sp>
+      <sp who="#comino">
+        <speaker>COMINO:</speaker>
+        <l>Tutto in quel foglio,</l>
+        <l>tutto è palese. Ella soltanto il legga.</l>
+      </sp>
+      <sp who="#odetta">
+        <speaker>ODETTA:</speaker>
+        <l>(additando Adelia, che si avvicina)</l>
+        <l>Mira: tu stesso a lei…</l>
+      </sp>
+      <stage>ODETTA(additando Adelia, che si avvicina)Mira: tu stesso a lei…</stage>
+      <sp who="#comino">
+        <speaker>COMINO:</speaker>
+        <l>No… non mi vegga.</l>
+      </sp>
+      <stage> </stage>
+      <stage>(parte rapidamente)</stage>
+      <stage> </stage>
+      <stage>Adelia e Odetta.</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>(a Odetta, che le porge il foglio)</l>
+        <l>Un foglio a me!…</l>
+      </sp>
+      <stage>ADELIA(a Odetta, che le porge il foglio)Un foglio a me!…</stage>
+      <sp who="#odetta">
+        <speaker>ODETTA:</speaker>
+        <l>Turbato</l>
+        <l>mel diede un cavalier.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Veggiam.</l>
+        <l>(apre il foglio e legge la firma)</l>
+        <l>Comino!</l>
+        <l>L’amico d’Olivier!</l>
+        <l>(legge)</l>
+        <l>Cielo!</l>
+      </sp>
+      <stage>ADELIAVeggiam.(apre il foglio e legge la firma)Comino!L’amico d’Olivier!(legge)Cielo!</stage>
+      <sp who="#odetta">
+        <speaker>ODETTA:</speaker>
+        <l>Tu tremi!</l>
+        <l>Ti copri di pallor!</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>(leggendo)</l>
+        <l>“V’inganna il duca…</l>
+        <l>Sua calma è finta… Ad Oliviero ci serba…</l>
+        <l>dopo l’altar la scure!… Unico scampo</l>
+        <l>è differir le nozze,</l>
+        <l>e dal tempo aspettar men cruda sorte.</l>
+        <l>Non mi nomar… tu mi daresti morte.”</l>
+      </sp>
+      <stage>ADELIA(leggendo)“V’inganna il duca…Sua calma è finta… Ad Oliviero ci serba…dopo l’altar la scure!… Unico scampoè differir le nozze,e dal tempo aspettar men cruda sorte.Non mi nomar… tu mi daresti morte.”</stage>
+      <stage>(le cade il foglio di mano e rimane istupidita)</stage>
+      <sp who="#odetta">
+        <speaker>ODETTA:</speaker>
+        <l>Adelia…</l>
+      </sp>
+      <stage>(sostenendola)</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>(scuotendosi)</l>
+        <l>Ah!… lunge… lunge…</l>
+        <l>(si strappa le ghirlande)</l>
+        <l>Questa gemma fatale!… Odetta, Odetta!</l>
+        <l>Ch’io quel tempio non veda! Il ciel m’uccida.</l>
+        <l>Pria ch’io mi appressi all’ara… Ah! non l’avessi</l>
+        <l>mai desiata, sospirata mai!…</l>
+        <l>Vieni… vieni… fuggiam…</l>
+      </sp>
+      <stage>ADELIA(scuotendosi)Ah!… lunge… lunge…(si strappa le ghirlande)Questa gemma fatale!… Odetta, Odetta!Ch’io quel tempio non veda! Il ciel m’uccida.Pria ch’io mi appressi all’ara… Ah! non l’avessimai desiata, sospirata mai!…Vieni… vieni… fuggiam…</stage>
+      <stage> </stage>
+      <stage>Arnoldo e detti.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Ove t’en vai?</l>
+        <l>Che veggo? A terra sparse</l>
+        <l>son le tue gemme?… Appo la soglia piangi</l>
+        <l>del sacro tempio, che per te s’infiora.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>(facendosi forza)</l>
+        <l>Il tempio… oh padre!… ei m’è conteso ancora.</l>
+      </sp>
+      <stage>ADELIA(facendosi forza)Il tempio… oh padre!… ei m’è conteso ancora.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(a Odetta)</l>
+        <l>Esci.</l>
+        <l>(ad Adelia)</l>
+        <l>Conteso il tempio!</l>
+        <l>Come? Da chi? Favella!</l>
+      </sp>
+      <stage>ARNOLDO(a Odetta)Esci.(ad Adelia)Conteso il tempio!Come? Da chi? Favella!</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Egra io mi sento…</l>
+        <l>Stanca… abbattuta…</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>E moribonda fosti,</l>
+        <l>ti porterei con queste braccia al tempio.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Io di fermezza esempio</l>
+        <l>prendo da te. Non pensar mai vivente</l>
+        <l>trarmi a quell’ara. Io queste nozze abborro…</l>
+        <l>Esse mi fanno orrore.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Tu dovevi abborrire un empio amore.</l>
+        <l>Vieni… l’impongo…</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>O padre!</l>
+        <l>Non posso…</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Iniqua!</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! padre mio!… la tomba</l>
+        <l>io schiudo ad Olivier… Egli dal duca</l>
+        <l>spento sarà… compiuto appena il rito.</l>
+        <l>Leggi.</l>
+      </sp>
+      <stage>(porge al padre il foglio)</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(dopo aver letto rapidamente)</l>
+        <l>Ha Comino mentito.</l>
+        <l>Esser non può. Lo fosse ancor… non calmi</l>
+        <l>della sua vita… l’onor mio mi preme,</l>
+        <l>l’onor, che tu m’hai tolto,</l>
+        <l>vieni… io lo voglio…</l>
+      </sp>
+      <stage>ARNOLDO(dopo aver letto rapidamente)Ha Comino mentito.Esser non può. Lo fosse ancor… non calmidella sua vita… l’onor mio mi preme,l’onor, che tu m’hai tolto,vieni… io lo voglio…</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>(con forza)</l>
+        <l>No giammai…</l>
+      </sp>
+      <stage>ADELIA(con forza)No giammai…</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Che ascolto!</l>
+        <l>Sollevar la fronte ardisci?</l>
+        <l>L’infamata abietta fronte?</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Tu l’abbatti, e in me punisci,</l>
+        <l>solo in me l’error del conte.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Non sai tu, che al suo cospetto</l>
+        <l>mille volte il ferro ho stretto,</l>
+        <l>che a ferire io m’era accinto?</l>
+        <l>Che vi sono ancor sospinto?</l>
+        <l>Vieni ormai… nel tuo delitto</l>
+        <l>per mia man vuoi tu morir?</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Io morrò, se l’hai prescritto.</l>
+        <l>Vibra il colpo, e non lo dir.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Scegli, indegna, o ferro o altare:</l>
+        <l>Nozze o morte… Di’… che vuoi?</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Solo il tempo di pregare…</l>
+        <l>Poi son pronta a colpi tuoi…</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Prega, iniqua, prega…</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>(inginocchiandosi)</l>
+        <l>O madre!</l>
+        <l>Mi ricevi, io vengo a te.</l>
+      </sp>
+      <stage>ADELIA(inginocchiandosi)O madre!Mi ricevi, io vengo a te.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Muori…</l>
+      </sp>
+      <stage>(per ferire)</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah!… no… t’arresta, o padre;</l>
+        <l>ne morrebbe ei pur con me.</l>
+        <l>(gli abbraccia le ginocchia gemendo.</l>
+      </sp>
+      <stage>ADELIAAh!… no… t’arresta, o padre;ne morrebbe ei pur con me.(gli abbraccia le ginocchia gemendo.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>No… non posso. O figlia mia,</l>
+        <l>il tuo sangue al cor mi grida.</l>
+        <l>Ma in te pure, in te non sia</l>
+        <l>muto almeno, e al padre sfida…</l>
+        <l>Più non parlo dell’onore;</l>
+        <l>di mia vita io parlerò.</l>
+        <l>Di vergogna, di dolore,</l>
+        <l>se pur nieghi, io morirò.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! quel ferro ancor riprendi.</l>
+        <l>Torna, o padre, ah! torna all’ire:</l>
+        <l>con quel pianto a me tu rendi</l>
+        <l>più terribile il morire…</l>
+        <l>Ma una man così fatale</l>
+        <l>al mio ben non porgerò.</l>
+        <l>Non la veste nuziale</l>
+        <l>del suo sangue io tingerò.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(riaccendendosi di sdegno)</l>
+        <l>E a svenarlo io corro, io stesso.</l>
+        <l>O a perir per la sua mano.</l>
+      </sp>
+      <stage>ARNOLDO(riaccendendosi di sdegno)E a svenarlo io corro, io stesso.O a perir per la sua mano.</stage>
+      <stage>(per uscire)</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Odi… Ahimè!… chi giunge? È desso.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Desso!… Taci!</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah, padre!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>È vano.</l>
+        <l>Se ti sfugge un motto, un detto,</l>
+        <l>spento al piede ei ti cadrà.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Padre, il giuro al tuo cospetto</l>
+        <l>egli solo non morrà.</l>
+      </sp>
+      <stage>Oliviero con seguito di paggi e di scudieri e detti.</stage>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Ardon le tede, e fumano</l>
+        <l>i sacri incensi all’ara.</l>
+        <l>Noi solo i grandi attendono,</l>
+        <l>chiaman noi soli a gara</l>
+        <l>ma… tu mi guardi appena!…</l>
+        <l>Piangesti! Adelia!…</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>(Oh pena!)</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Cure aver puoi celate</l>
+        <l>pel tenero mio cor?</l>
+        <l>(Adelia è sul momento di prorompere.</l>
+        <l>Arnoldo s’intromette.)</l>
+      </sp>
+      <stage>OLIVIEROCure aver puoi celatepel tenero mio cor?(Adelia è sul momento di prorompere.Arnoldo s’intromette.)</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(ad Oliviero)</l>
+        <l>Presso all’altar, turbate</l>
+        <l>son le fanciulle ognor.</l>
+        <l>(ad Adelia)</l>
+        <l>Vieni una volta…</l>
+      </sp>
+      <stage>ARNOLDO(ad Oliviero)Presso all’altar, turbateson le fanciulle ognor.(ad Adelia)Vieni una volta…</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>(Ahi, misera!)</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>E a pianger segui.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(fremente ad Adelia)</l>
+        <l>Or cessa.</l>
+      </sp>
+      <stage>ARNOLDO(fremente ad Adelia)Or cessa.</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Non piango io… no! ma debole,</l>
+        <l>bensì, mi sento… e oppressa…</l>
+        <l>All’ara in tal momento</l>
+        <l>mal vi saprei seguir…</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Che ascolto… e il mio contento</l>
+        <l>vorresti differir?</l>
+      </sp>
+      <stage>(odesi dal tempio musica religiosa)</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>(interno)</l>
+        <l>Ciel, che dei cor sei l’arbitro</l>
+        <l>rendi due cor felici.</l>
+      </sp>
+      <stage>CORO(interno)Ciel, che dei cor sei l’arbitrorendi due cor felici.</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Deh!… un altro dì</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Pretesto è il suo. Le giova</l>
+        <l>(dissimulando)</l>
+        <l>dell’amor tuo far prova.</l>
+        <l>Insisti, e vinci, o giovane,</l>
+        <l>lo strano tuo desir.</l>
+      </sp>
+      <stage>ARNOLDOPretesto è il suo. Le giova(dissimulando)dell’amor tuo far prova.Insisti, e vinci, o giovane,lo strano tuo desir.</stage>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Vieni: a miei voti arrenditi,</l>
+        <l>se tu non vuoi ch’io mora;</l>
+        <l>sospeso il cor non palpita,</l>
+        <l>manca se indugi ancora:</l>
+        <l>a me ti unisci, e vita…</l>
+        <l>Vita felice avrò.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Pensa, che puoi far sorgere</l>
+        <l>giusti in suo cor sospetti…</l>
+        <l>Pensa, che qui si librano</l>
+        <l>tutti i tuoi sguardi, i detti…</l>
+        <l>Che il padre alfin s’irrita</l>
+        <l>e che stancar si può.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! questo è troppo chiedere,</l>
+        <l>troppo volere è questo…</l>
+        <l>Egra son io… credetemi…</l>
+        <l>Vano non è pretesto…</l>
+        <l>La mia virtù smarrita</l>
+        <l>rendetemi, e verrò.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>(interno)</l>
+        <l>Tu, che de’ cor sei l’arbitro</l>
+        <l>rendi due cor felici.</l>
+        <l>I nodi lor purifica,</l>
+        <l>gli affetti benedici.</l>
+        <l>Piovi su lor lo spirito</l>
+        <l>che il mondo inter creò.</l>
+      </sp>
+      <stage>CORO(interno)Tu, che de’ cor sei l’arbitrorendi due cor felici.I nodi lor purifica,gli affetti benedici.Piovi su lor lo spiritoche il mondo inter creò.</stage>
+      <stage> </stage>
+      <stage>Escono dal tempio i Cavalierie le Dame invitate alla cerimonia,la scena s’ingombra di spettatori.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Volgi alfin al sacro rito.</l>
+        <l>Che s’indugia?</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Andiamo omai.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Deh!… un sol giorno… e fia compito…</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>E pur vuoi?…</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(sta per isnudare un pugnale: Adelia se ne avvede)</l>
+        <l>Soffersi assai…</l>
+      </sp>
+      <stage>ARNOLDO(sta per isnudare un pugnale: Adelia se ne avvede)Soffersi assai…</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>No… son pronta… (Oh! smanie orrende)</l>
+        <l>Teco io son… Verrò… Verrò.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Vi affrettate, il duca attende</l>
+        <l>già di voi cercar sembrò.</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Ah! se ancor sei tu dolente,</l>
+        <l>se ribrezzo hai pur cotanto,</l>
+        <l>o il tuo cor più amor non sente,</l>
+        <l>o non mai… non mai m’amò.</l>
+        <l>No; col prezzo del tuo pianto</l>
+        <l>la tua man non comprerò.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Questo indugio or troppo eccede,</l>
+        <l>la ripulsa è omai delitto.</l>
+        <l>Del tuo core, di tua fede</l>
+        <l>a ragione ei sospettò.</l>
+        <l>(piano ad Adelia)</l>
+        <l>Cessa; o qui cadrà trafitto,</l>
+        <l>o qui spento anch’io cadrò.</l>
+      </sp>
+      <stage>ARNOLDOQuesto indugio or troppo eccede,la ripulsa è omai delitto.Del tuo core, di tua fedea ragione ei sospettò.(piano ad Adelia)Cessa; o qui cadrà trafitto,o qui spento anch’io cadrò.</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Io non l’amo… oh ciel!… Lo senti?…</l>
+        <l>Io non l’amo, e per lui moro!</l>
+        <l>Ah! scagliar di più tormenti</l>
+        <l>l’ira tua su me non può.</l>
+        <l>(volgendosi nell’estrema smania</l>
+        <l>ora ad Arnoldo ora ad Oliviero)</l>
+        <l>Vedi… vedi… il duol divoro…</l>
+        <l>E più lacrime non ho.</l>
+      </sp>
+      <stage>ADELIAIo non l’amo… oh ciel!… Lo senti?…Io non l’amo, e per lui moro!Ah! scagliar di più tormentil’ira tua su me non può.(volgendosi nell’estrema smaniaora ad Arnoldo ora ad Oliviero)Vedi… vedi… il duol divoro…E più lacrime non ho.</stage>
+      <stage>(Arnoldo l’afferra violentemente pel braccio,ella resiste a tutta forza non curando gli inviti degli astanti,e l’estremo dolore di Oliviero.</stage>
+      <stage>Arnoldo indignato alza su di lei le mani per maledirla.Essa cade a terra.)</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Vieni… O ch’io!…</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! padre… uccidimi…</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Ove io son!…</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Oh ciel!… mancò.</l>
+      </sp>
+      <stage>Quartiere degli arcieri e degli altri militi,annesso al palazzo ducale.</stage>
+      <stage>Gli arcieri stanno in vari gruppi bevendo,alcuni seduti discorrono fra loro, altri passeggiano.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Sul campo dell’onor</l>
+        <l>del pari è bello al forte,</l>
+        <l>un’onorata morte,</l>
+        <l>o un trionfale allor.</l>
+        <l>Felice chi mancò</l>
+        <l>sovra il nemico spento:</l>
+        <l>chi ad un novel cimento</l>
+        <l>i giorni suoi serbò.</l>
+      </sp>
+      <sp who="#i">
+        <speaker>I:</speaker>
+        <l>Noi vincemmo. Acque turgide e fiere</l>
+        <l>d’ostil sangue ha la Mosa tuttor;</l>
+        <l>le fuggenti vilissime schiere,</l>
+        <l>del gran Carlo raggiunse il furor.</l>
+      </sp>
+      <sp who="#ii">
+        <speaker>II:</speaker>
+        <l>Noi vincemmo. S’applaude, s’ammira</l>
+        <l>la falange che Liegi domò.</l>
+        <l>Ogni bella in suo core sospira,</l>
+        <l>pel guerrier che vincendo tornò.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Sul campo dell’onor</l>
+        <l>del pari è bello al forte,</l>
+        <l>un’onorata morte,</l>
+        <l>o un trionfale allor.</l>
+      </sp>
+      <stage> </stage>
+      <stage>Viene Comino in attitudine della più alta mestizia.</stage>
+      <sp who="#comino">
+        <speaker>COMINO:</speaker>
+        <l>Silenzio. All’alto gioir vostro imporre</l>
+        <l>fine conviensi, or che del sommo Carlo</l>
+        <l>un improvviso cenno</l>
+        <l>all’arme vi richiama.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Nuovi affrontar nemici è nostra brama.</l>
+        <l>(prendono le armi sospese ed appoggiate alle pareti)</l>
+        <l>Le bandiere ei forse spiega</l>
+        <l>nuove genti a debellar?</l>
+      </sp>
+      <stage>CORONuovi affrontar nemici è nostra brama.(prendono le armi sospese ed appoggiate alle pareti)Le bandiere ei forse spieganuove genti a debellar?</stage>
+      <sp who="#comino">
+        <speaker>COMINO:</speaker>
+        <l>No. (Il dovere, il duol mi niega</l>
+        <l>l’altra scena palesar).</l>
+        <l>Mi seguite.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Andiam. L’arciero</l>
+        <l>core ed arme ha preste ognor.</l>
+        <l>E all’invitto condottiero</l>
+        <l>noi sacrammo e l’arme e il cor.</l>
+      </sp>
+      <stage> </stage>
+      <stage>Gran sala nel palazzo ducale.</stage>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>(esce concentrato e nell’estremo abbattimento)</l>
+        <l>Che fia di me! D’esser credeva io giunto</l>
+        <l>d’ogni contento al colmo, e in un sol punto.</l>
+        <l>In un sol punto… oh cielo!</l>
+        <l>Più infelice d’ogni uom fatto son’io!</l>
+        <l>Adelia!… Ah! perché mai</l>
+        <l>sul sacro limitar io ti mirai</l>
+        <l>smarrirti, vacillar… impallidire…</l>
+        <l>A forza… a forza tratta</l>
+        <l>dal paterno voler!… A che quel giuro</l>
+        <l>dell’amor nostro desiata meta,</l>
+        <l>sul tuo labbro languiva</l>
+        <l>qual di morente voce fuggitiva?…</l>
+        <l>M’ingannò la mia speranza</l>
+        <l>di regnar d’Adelia in core:</l>
+        <l>ah! la speme dell’amore</l>
+        <l>qual balen si dileguò.</l>
+        <l>Or quell’astro è per me spento,</l>
+        <l>che reggea la mia costanza…</l>
+        <l>Or la vita è a me tormento;</l>
+        <l>e di duolo io morirò.</l>
+      </sp>
+      <stage>OLIVIERO(esce concentrato e nell’estremo abbattimento)Che fia di me! D’esser credeva io giuntod’ogni contento al colmo, e in un sol punto.In un sol punto… oh cielo!Più infelice d’ogni uom fatto son’io!Adelia!… Ah! perché maisul sacro limitar io ti miraismarrirti, vacillar… impallidire…A forza… a forza trattadal paterno voler!… A che quel giurodell’amor nostro desiata meta,sul tuo labbro languivaqual di morente voce fuggitiva?…M’ingannò la mia speranzadi regnar d’Adelia in core:ah! la speme dell’amorequal balen si dileguò.Or quell’astro è per me spento,che reggea la mia costanza…Or la vita è a me tormento;e di duolo io morirò.</stage>
+      <stage> </stage>
+      <stage>Comino, arcieri e detto.</stage>
+      <sp who="#comino">
+        <speaker>COMINO:</speaker>
+        <l>Olivier… La tua spada…</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Che intendo!</l>
+        <l>Tu?… Comino…</l>
+      </sp>
+      <sp who="#comino">
+        <speaker>COMINO:</speaker>
+        <l>È del duca il voler.</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>La diè Carlo, ed a Carlo la rendo.</l>
+        <l>Egli il duce, io non son che guerrier.</l>
+      </sp>
+      <stage>(cede la spada.Comino lo guarda in atto compassionevole)</stage>
+      <sp who="#comino">
+        <speaker>COMINO:</speaker>
+        <l>Duro incarco oggi a compier m’è dato</l>
+        <l>io ne piango… ed il deggio compir.</l>
+        <l>Sol nel cielo sperare ti è dato.</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Qual destino m’attende!…</l>
+      </sp>
+      <sp who="#comino">
+        <speaker>COMINO:</speaker>
+        <l>Morir.</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Ah!… Morir! Adelia!… Adelia!…</l>
+        <l>Rivederla… nol poss’io!…</l>
+      </sp>
+      <sp who="#comino">
+        <speaker>COMINO:</speaker>
+        <l>Infelice!…</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Una sua lagrima</l>
+        <l>fia che ottenga il morir mio…</l>
+        <l>Sii pietoso, o tu, che gemi,</l>
+        <l>che t’affanni al mio dolor.</l>
+        <l>Vedi Adelia… i detti estremi</l>
+        <l>reca a lei d’un uom, che muor.</l>
+        <l>Le dirai, che mi perdoni</l>
+        <l>se mal cauto amor mi rese;</l>
+        <l>se la fiamma, che ne accese</l>
+        <l>duolo eterno a lei costò.</l>
+        <l>Ah! soltanto al ciel ragioni</l>
+        <l>di mia fé, de’ miei tormenti:</l>
+        <l>ah! pietosa ognor rammenti</l>
+        <l>chi chiamandola spirò.</l>
+      </sp>
+      <stage>(parte retto da Comino, circondato dagli arcieri)</stage>
+      <stage> </stage>
+      <stage>Poco dopo esce Adelia forsennata,</stage>
+      <stage>a mala pena trattenuta da Odetta e dalle damigelle.</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! mi lasciate. Ad Olivier fatale</l>
+        <l>è quell’ara… No, padre… arcano orrendo</l>
+        <l>me ne respinge… Ah! fatto egli è tiranno</l>
+        <l>della sua figlia: ah! mille volte pria</l>
+        <l>m’uccida il genitor… La vita mia</l>
+        <l>per te, mio bene, io do. Tu fremi! Irato</l>
+        <l>il guardo in me tu figgi!… ah! m’odi… ah! m’odi…</l>
+        <l>L’acciar pende su te… quel sì, che chiedi</l>
+        <l>è sentenza di morte… Ecco, a’ tuoi piedi</l>
+        <l>cado presso a morir: t’amo… t’amai…</l>
+        <l>Serbo intatta la fé, che ti giurai.</l>
+      </sp>
+      <stage>(genuflette, e vi resta nella estrema estenuazione)</stage>
+      <sp who="#damigelle">
+        <speaker>DAMIGELLE:</speaker>
+        <l>Infelice!… vaneggia.</l>
+      </sp>
+      <sp who="#odetta">
+        <speaker>ODETTA:</speaker>
+        <l>Oh! sorgi</l>
+      </sp>
+      <stage>(la erge da terra)</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>(Smarrita ricerca intorno)</l>
+        <l>Il padre</l>
+        <l>ov’è?… dov’è Olivier?… si cerchi, ascolti</l>
+        <l>le mie discolpe. Ingiusta, orribil mano</l>
+        <l>mi svelle dal tuo sen: aita invano</l>
+        <l>cerco nel mio dolore…</l>
+        <l>Alla pietà per me chiuso è ogni core!</l>
+        <l>(con rancore represso)</l>
+        <l>Le nostr’anime che il cielo univa</l>
+        <l>chi mai dividere, audace, ardiva?</l>
+        <l>Ciel, tu de’ barbari, deh! cangia il core,</l>
+        <l>deh! tu proteggi il nostro amore.</l>
+      </sp>
+      <stage>ADELIA(Smarrita ricerca intorno)Il padreov’è?… dov’è Olivier?… si cerchi, ascoltile mie discolpe. Ingiusta, orribil manomi svelle dal tuo sen: aita invanocerco nel mio dolore…Alla pietà per me chiuso è ogni core!(con rancore represso)Le nostr’anime che il cielo univachi mai dividere, audace, ardiva?Ciel, tu de’ barbari, deh! cangia il core,deh! tu proteggi il nostro amore.</stage>
+      <stage> </stage>
+      <stage>(resta estatica, finché viene scossa da lontane voci di gioia)</stage>
+      <stage> </stage>
+      <stage>Arcieri, indi Arnoldo, Comino e dette.</stage>
+      <sp who="#arcieri">
+        <speaker>ARCIERI:</speaker>
+        <l>Sgombra il duolo; il suo sovrano</l>
+        <l>nobil già tuo padre elesse:</l>
+        <l>grazia il duca allor concesse…</l>
+        <l>Qui il tuo sposo or reca il piè.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Ah! Che dite?</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(entrando con Comino)</l>
+        <l>A voti nostri</l>
+        <l>fausto arrise il ciel pietoso.</l>
+      </sp>
+      <stage>ARNOLDO(entrando con Comino)A voti nostrifausto arrise il ciel pietoso.</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Padre!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Figlia!… ah sì! Lo sposo.</l>
+      </sp>
+      <stage> </stage>
+      <stage>Oliviero e detti.</stage>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Olivier!</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Son reso a te.</l>
+      </sp>
+      <sp who="#adelia">
+        <speaker>ADELIA:</speaker>
+        <l>Sposo!… vivi! ah! non m’inganno:</l>
+        <l>vivi: e presso a te son io.</l>
+        <l>Se mai sogno è questo mio,</l>
+        <l>deh! sia l’ultimo per me,</l>
+        <l>Ah! l’eccesso del contento</l>
+        <l>m’empie il sen, trasporta il core</l>
+        <l>in un’estasi d’amore,</l>
+        <l>che soffribile non è.</l>
+        <l>Non m’uccise il mio dolore,</l>
+        <l>di contento io morirò.</l>
+      </sp>
+      <sp who="#oliviero">
+        <speaker>OLIVIERO:</speaker>
+        <l>Del destin cangiò il rigore,</l>
+        <l>per te sola ognor vivrò.</l>
+        <l>gli Altri</l>
+        <l>Del destin cangiò il rigore,</l>
+        <l>e sereno il ciel tornò.</l>
+      </sp>
+      <sp who="#f i n e">
+        <speaker>F I N E:</speaker>
+      </sp>
+    </body>
+  </text>
+</TEI>

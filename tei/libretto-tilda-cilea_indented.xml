@@ -1,0 +1,975 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">a Tilda</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="agnese">
+            <persName>AGNESE.:</persName>
+          </person>
+          <person xml:id="scena ii">
+            <persName>SCENA II.:</persName>
+          </person>
+          <person xml:id="primo gruppo d’uomini">
+            <persName>PRIMO GRUPPO D’UOMINI.:</persName>
+          </person>
+          <person xml:id="tilda">
+            <persName>TILDA:</persName>
+          </person>
+          <person xml:id="scena prima">
+            <persName>SCENA PRIMA.:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO.:</persName>
+          </person>
+          <person xml:id="gastone">
+            <persName>GASTONE.:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="bista">
+            <persName>BISTA.:</persName>
+          </person>
+          <person xml:id="mario">
+            <persName>MARIO.:</persName>
+          </person>
+          <person xml:id="tilda">
+            <persName>TILDA.:</persName>
+          </person>
+          <person xml:id="tutto il coro">
+            <persName>TUTTO IL CORO.:</persName>
+          </person>
+          <person xml:id="scena iii">
+            <persName>SCENA III.:</persName>
+          </person>
+          <person xml:id="gasparre">
+            <persName>GASPARRE.:</persName>
+          </person>
+          <person xml:id="altro gruppo">
+            <persName>ALTRO GRUPPO.:</persName>
+          </person>
+          <person xml:id="cecilia">
+            <persName>CECILIA:</persName>
+          </person>
+          <person xml:id="coro generale">
+            <persName>CORO GENERALE.:</persName>
+          </person>
+          <person xml:id="gastone">
+            <persName>GASTONE:</persName>
+          </person>
+          <person xml:id="altri">
+            <persName>ALTRI.:</persName>
+          </person>
+          <person xml:id="coro di donne">
+            <persName>CORO DI DONNE.:</persName>
+          </person>
+          <person xml:id="atto primo">
+            <persName>ATTO PRIMO:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI.:</persName>
+          </person>
+          <person xml:id="scena iv">
+            <persName>SCENA IV.:</persName>
+          </person>
+          <person xml:id="cecilia">
+            <persName>CECILIA.:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>ATTO PRIMO</head>
+        <sp who="#atto primo">
+          <speaker>ATTO PRIMO:</speaker>
+        </sp>
+        <stage>Un piazzaletto, fuori Porta del Popolo a Roma. — A sinistra, in una nicchia, l’immagine della Madonna dell’ultimo conforto; una lampada accesa davanti. Sui due lati gli sbocchi di due strade. Il fondo è aperto. Alcune cupole di cattedrali in distanza. — È l’ora del crepuscolo.</stage>
+        <sp who="#scena prima">
+          <speaker>SCENA PRIMA.:</speaker>
+          <l>Coro di donne; poi Gastone e Mario.</l>
+        </sp>
+        <stage>SCENA PRIMA.Coro di donne; poi Gastone e Mario.</stage>
+        <sp who="#coro di donne">
+          <speaker>CORO DI DONNE.:</speaker>
+          <l>Giovanotti bruni o biondi,</l>
+          <l>malinconici o giocondi,</l>
+          <l>vi sapremo sempre amar,</l>
+          <l>se pensate di sposar.</l>
+          <l>Ma se ridere volete,</l>
+          <l>se a sposarci non tenete,</l>
+          <l>se credete di scherzar,</l>
+          <l>altra via dovete far.</l>
+        </sp>
+        <stage>GASTONE (a Mario).Solo il pensier d’Agnese il mio avvenire infiora!…</stage>
+        <sp who="#mario">
+          <speaker>MARIO.:</speaker>
+          <l>Conoscer devi il mondo… sei giovanotto ancora!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Speri così di me fare uno sposo</l>
+          <l>d’Agnese degno?</l>
+        </sp>
+        <sp who="#mario">
+          <speaker>MARIO.:</speaker>
+          <l>Il matrimonio è inferno… quando non è riposo!</l>
+        </sp>
+        <stage>UN GRUPPO (in fondo alla scena).Arriva la Tilda!</stage>
+        <sp who="#altro gruppo">
+          <speaker>ALTRO GRUPPO.:</speaker>
+          <l>la bella ciociara!</l>
+        </sp>
+        <sp who="#altro gruppo">
+          <speaker>ALTRO GRUPPO.:</speaker>
+          <l>che mai non fu avara</l>
+          <l>di baci, d’amor.</l>
+        </sp>
+        <sp who="#tutto il coro">
+          <speaker>TUTTO IL CORO.:</speaker>
+          <l>Da piazza del Popolo</l>
+          <l>a porta Salara</l>
+          <l>regina trascorre</l>
+          <l>de’ sensi, del cor.</l>
+        </sp>
+        <stage>MARIO (a Gastone alludendo a Tilda).Ebben</stage>
+        <stage>GASTONE (con fatuità).m’ è nota sì…” Fu il capriccio d’un dì —” Non fu fiamma che il cor” Accendesse d’amor. —</stage>
+        <sp who="#scena ii">
+          <speaker>SCENA II.:</speaker>
+          <l>Tilda, che, accompagnata da Cecilia è già entrata in scena durante l’ultima ripresa del Coro, e che ha deposto un mazzolino di fiori davanti alla Madonna, e i precedenti, Gastone e Mario.</l>
+          <l>CECILIA (a Tilda).</l>
+          <l>Gastone è là… ti fissa…</l>
+        </sp>
+        <stage>SCENA II.Tilda, che, accompagnata da Cecilia è già entrata in scena durante l’ultima ripresa del Coro, e che ha deposto un mazzolino di fiori davanti alla Madonna, e i precedenti, Gastone e Mario.CECILIA (a Tilda).Gastone è là… ti fissa…</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>O Dio! mi scoppia il core!</l>
+        </sp>
+        <stage>CORO (a Tilda).Il saltarello — il saltarello:balla e accompagnati — col tamburello.</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Ballate voi; per me non ballerò.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO.:</speaker>
+          <l>E d’umor nero!… Almeno canta… (a Tilda)</l>
+        </sp>
+        <stage>CORO.E d’umor nero!… Almeno canta… (a Tilda)</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>No!</l>
+        </sp>
+        <stage>MARIO (a Gastone).Se di cantare or le dirai,certo un rifiuto tu non avrai.</stage>
+        <stage>TILDA (alzandosi vivamente).Ebbene! canterò!(Cecilia le porge la chitarra.)CORO.Evviva! Canterà!</stage>
+        <stage>TILDA (strappa alcuni accordi e canta).Io non son la fanciulla astuta e smortadal tenero guardarche l’amante con grazia dolce e accortaa tante sa involar…Io son l’amanteche a un solo amorfida e costanteconsacra il cor!Io non son l’infingarda vaga sposadal molle e mesto andarChe con arte felina e insidiosagli amanti sa adescar…Io son l’amanteche a un solo amorfida e costanteconsacra il cor!</stage>
+        <sp who="#coro">
+          <speaker>CORO.:</speaker>
+          <l>Questa canzone non giunge cara</l>
+          <l>alle beghine, bella ciociara.</l>
+        </sp>
+        <sp who="#mario">
+          <speaker>MARIO.:</speaker>
+          <l>Contro le ipocrite acre si avventa.</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Eppure ammalia!… Quasi mi tenta!…</l>
+          <l>(Intanto la Tilda, finita la sua canzone, va in giro con la ciotola a cercar</l>
+          <l>l’obolo.)</l>
+        </sp>
+        <stage>GASTONE.Eppure ammalia!… Quasi mi tenta!…(Intanto la Tilda, finita la sua canzone, va in giro con la ciotola a cercarl’obolo.)</stage>
+        <stage>TILDA (sprezzantemente).Eh! se volete farmi cortesia?…Voi sì… Voi no…(Alcuni le danno delle monete. Quando passa davanti a Gastone, costui ledice a bassa voce:)</stage>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Stasera, alla taverna</l>
+          <l>di Locusta, in Trastevere, ti attendo…</l>
+        </sp>
+        <stage>TILDA (sorpresa).Signor, non vi comprendo…</stage>
+        <stage>GASTONE (c. s.).Faresti la ritrosa?… Ho qui dell’oro…</stage>
+        <stage>TILDA (punta sul vivo, con arroganza).Ah! male! Al mio paesequeste son brutte offese!…</stage>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Che vuoi dir?</l>
+        </sp>
+        <stage>TILDA (irritata).Voglio dir che non mi vendo!</stage>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>A tuo piacer, tiranna!</l>
+          <l>(Tilda s’allontana bruscamente, ancor più offesa e amareggiata dalle ultime parole di Gastone. Si odono intanto sinistri rintocchi. Molti si portano in fondo, e guardano verso la strada, a destra.)</l>
+          <l>ALCUNI.</l>
+          <l>O che c’è?</l>
+        </sp>
+        <stage>GASTONE.A tuo piacer, tiranna!(Tilda s’allontana bruscamente, ancor più offesa e amareggiata dalle ultime parole di Gastone. Si odono intanto sinistri rintocchi. Molti si portano in fondo, e guardano verso la strada, a destra.)ALCUNI.O che c’è?</stage>
+        <sp who="#altri">
+          <speaker>ALTRI.:</speaker>
+          <l>Son briganti</l>
+          <l>condotti dal bargello ad una festa…</l>
+        </sp>
+        <stage>GASTONE (a Mario).A fare?</stage>
+        <sp who="#mario">
+          <speaker>MARIO.:</speaker>
+          <l>Al boja a regalar la testa!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Miseri!</l>
+        </sp>
+        <sp who="#mario">
+          <speaker>MARIO.:</speaker>
+          <l>Sta a veder! O qual paese</l>
+          <l>con la gente che ammazza è più cortese?</l>
+        </sp>
+        <sp who="#scena iii">
+          <speaker>SCENA III.:</speaker>
+          <l>I precedenti, Gasparre, Bista, sei briganti scortati da frati e da birri. Ai lenti rintocchi della campana funebre si avanza il corteo de’ condannati; intorno ad essi, i frati della Misericordia; sui lati, soldati e birri. Bista, il bargello, in coda a tutti. I briganti giunti davanti la nicchia della Madonna, si inginocchiano. Gasparre solo rimane in piedi in atteggiamento d’indifferenza. Tutti si alzano; alcune donne del popolo invece s’inginocchiano. Tilda, colpita dall’ atteggiamento di Gasparre, lo guarda con insistenza.</l>
+          <l>DONNE.</l>
+          <l>Miserere di lor, santa Madonna</l>
+          <l>degli ultimi Conforti!</l>
+          <l>Hanno figli, hanno madri, han la lor donna</l>
+          <l>e presto saran morti!</l>
+        </sp>
+        <stage>SCENA III.I precedenti, Gasparre, Bista, sei briganti scortati da frati e da birri. Ai lenti rintocchi della campana funebre si avanza il corteo de’ condannati; intorno ad essi, i frati della Misericordia; sui lati, soldati e birri. Bista, il bargello, in coda a tutti. I briganti giunti davanti la nicchia della Madonna, si inginocchiano. Gasparre solo rimane in piedi in atteggiamento d’indifferenza. Tutti si alzano; alcune donne del popolo invece s’inginocchiano. Tilda, colpita dall’ atteggiamento di Gasparre, lo guarda con insistenza.DONNE.Miserere di lor, santa Madonnadegli ultimi Conforti!Hanno figli, hanno madri, han la lor donnae presto saran morti!</stage>
+        <sp who="#coro generale">
+          <speaker>CORO GENERALE.:</speaker>
+          <l>Miserere di loro, miserere!</l>
+          <l>(Durante la mesta salmodia, Tilda si accosta a Bista, e accennando a Gasparre gli dice sottovoce🙂</l>
+          <l>TILDA.</l>
+          <l>Il nome di quel pallido?</l>
+        </sp>
+        <stage>CORO GENERALE.Miserere di loro, miserere!(Durante la mesta salmodia, Tilda si accosta a Bista, e accennando a Gasparre gli dice sottovoce🙂TILDA.Il nome di quel pallido?</stage>
+        <sp who="#bista">
+          <speaker>BISTA.:</speaker>
+          <l>Gasparre.</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Io gli vorrei parlar…</l>
+        </sp>
+        <sp who="#bista">
+          <speaker>BISTA.:</speaker>
+          <l>Parlagli pur.</l>
+          <l>(Ad un cenno di Bista, la cerchia della sbirraglia si allontana e Gasparre</l>
+          <l>viene accostato da Tilda, che gli dice durante la ripresa del Miserere:)</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Vuoi vivere?</l>
+        </sp>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>Perché?</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Per esser mio.</l>
+        </sp>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>E poi per far?…</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Per far quel che voglio io!</l>
+        </sp>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>Se mi vuoi convertir, non mette conto;</l>
+          <l>ma se si tratta d’ammazzar, son pronto.</l>
+          <l>(Rientra al suo posto dopo scambiato con Tilda un segno di intelligenza.)</l>
+          <l>TILDA (sottovoce a Bista).</l>
+          <l>Saprai chiudere un occhio?</l>
+        </sp>
+        <stage>GASPARRE.Se mi vuoi convertir, non mette conto;ma se si tratta d’ammazzar, son pronto.(Rientra al suo posto dopo scambiato con Tilda un segno di intelligenza.)TILDA (sottovoce a Bista).Saprai chiudere un occhio?</stage>
+        <sp who="#bista">
+          <speaker>BISTA.:</speaker>
+          <l>E sì… e no…</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Quanto per quel briccone?</l>
+        </sp>
+        <sp who="#bista">
+          <speaker>BISTA.:</speaker>
+          <l>Cento scudi.</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Lo lasci nella macchia?</l>
+        </sp>
+        <sp who="#bista">
+          <speaker>BISTA.:</speaker>
+          <l>Accetto il patto.</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Avrai stanotte il prezzo del riscatto.</l>
+          <l>(si allontana)</l>
+          <l>(La comitiva funebre riprende il suo cammino, ed è ben tosto fuori di vista. Gasparre e Tilda scambiano tra loro un ultimo gesto d’intelligenza.)</l>
+        </sp>
+        <stage>TILDA.Avrai stanotte il prezzo del riscatto.(si allontana)(La comitiva funebre riprende il suo cammino, ed è ben tosto fuori di vista. Gasparre e Tilda scambiano tra loro un ultimo gesto d’intelligenza.)</stage>
+        <sp who="#scena iv">
+          <speaker>SCENA IV.:</speaker>
+          <l>I precedenti, meno Gasparre, Bista e i condannati.</l>
+          <l>MARIO (a Tilda).</l>
+          <l>Lasciamo in pace i condannati e i santi.</l>
+          <l>Chè! non riprendi, o Tilda,</l>
+          <l>la tua matta canzon? Via… fatti avanti!</l>
+        </sp>
+        <stage>SCENA IV.I precedenti, meno Gasparre, Bista e i condannati.MARIO (a Tilda).Lasciamo in pace i condannati e i santi.Chè! non riprendi, o Tilda,la tua matta canzon? Via… fatti avanti!</stage>
+        <sp who="#tilda">
+          <speaker>TILDA:</speaker>
+          <l>(ripresa risolutamente la chitarra, quasi rivolgendosi a Gastone, canta come per dispetto).</l>
+          <l>Il brigante è l’amor delle ciociare</l>
+          <l>Egli sa che ci vuol per farsi amare…</l>
+          <l>(getta via la chitarra)</l>
+          <l>Ahimè! sugli occhi ho un vel, m’arde la testa!</l>
+          <l>Mi sento soffocar…</l>
+        </sp>
+        <stage>TILDA(ripresa risolutamente la chitarra, quasi rivolgendosi a Gastone, canta come per dispetto).Il brigante è l’amor delle ciociareEgli sa che ci vuol per farsi amare…(getta via la chitarra)Ahimè! sugli occhi ho un vel, m’arde la testa!Mi sento soffocar…</stage>
+        <sp who="#coro">
+          <speaker>CORO.:</speaker>
+          <l>Or lasciamola star.</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Sì! lasciatemi sola;</l>
+          <l>(a Cecilia)</l>
+          <l>ma tu resta.</l>
+          <l>(Si lascia cader sopra una seggiola vicina ad un tavolo vuoto, su cui adagia</l>
+          <l>il capo. Tutti gli altri, pochi per volta, si allontanano.)</l>
+          <l>SCENA V.</l>
+          <l>Tilda e Cecilia.</l>
+          <l>CECILIA (guardando con tristezza Tilda).</l>
+          <l>Non so Perché, ma ho molto greve il core…</l>
+          <l>Povera mia madrina!</l>
+          <l>Ella non dorme più; piange e poi piange!</l>
+          <l>E dir che non sapeva</l>
+          <l>che fosse il pianto!… Or io le vo’ cantare</l>
+          <l>la solita canzone che l’acqueta.</l>
+          <l>Ciociara bella,</l>
+          <l>occhi di stella,</l>
+          <l>esci pian piano,</l>
+          <l>fuggiam lontano.</l>
+          <l>La notte è placida,</l>
+          <l>tutta tepore;</l>
+          <l>sommesse l’aure</l>
+          <l>parlan d’amore.</l>
+          <l>Vieni sollecita,</l>
+          <l>pronto è ‘l destriero</l>
+          <l>che vola rapido</l>
+          <l>come il pensiero.</l>
+          <l>Oh, salta in groppa,</l>
+          <l>vieni… galoppa!</l>
+          <l>Fuggiam, voliamo;</l>
+          <l>sai ben che t’amo.</l>
+          <l>Fuggiam, voliamo,</l>
+          <l>non indugiamo,</l>
+          <l>ciociara bella,</l>
+          <l>occhi di stella!</l>
+          <l>Tu sai che vivere</l>
+          <l>senza di te</l>
+          <l>non m’è possibile…</l>
+          <l>fuggi con me.</l>
+          <l>Oh, salta in groppa,</l>
+          <l>vieni… galoppa;</l>
+          <l>fuggiam, voliamo.</l>
+          <l>Sai ben che t’amo.</l>
+        </sp>
+        <stage>TILDA.Sì! lasciatemi sola;(a Cecilia)ma tu resta.(Si lascia cader sopra una seggiola vicina ad un tavolo vuoto, su cui adagiail capo. Tutti gli altri, pochi per volta, si allontanano.)SCENA V.Tilda e Cecilia.CECILIA (guardando con tristezza Tilda).Non so Perché, ma ho molto greve il core…Povera mia madrina!Ella non dorme più; piange e poi piange!E dir che non sapevache fosse il pianto!… Or io le vo’ cantarela solita canzone che l’acqueta.Ciociara bella,occhi di stella,esci pian piano,fuggiam lontano.La notte è placida,tutta tepore;sommesse l’aureparlan d’amore.Vieni sollecita,pronto è ‘l destrieroche vola rapidocome il pensiero.Oh, salta in groppa,vieni… galoppa!Fuggiam, voliamo;sai ben che t’amo.Fuggiam, voliamo,non indugiamo,ciociara bella,occhi di stella!Tu sai che viveresenza di tenon m’è possibile…fuggi con me.Oh, salta in groppa,vieni… galoppa;fuggiam, voliamo.Sai ben che t’amo.</stage>
+        <stage>TILDA (levando la testa, senza muoversi dalla sua posizione).Tu canti, poveretta,la mia bella canzon di giovinettasperando d’alleviar le angosce mie;ma non ho nulla, sai: malinconieche passeran…</stage>
+        <stage>CECILIA (con effusione)Ti voglio tanto bene!</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Lo so che prendi parte alle mie pene.</l>
+        </sp>
+        <sp who="#cecilia">
+          <speaker>CECILIA:</speaker>
+          <l>(va verso il fondo; ad un tratto guardando verso la strada, a destra, rifà vivamente i suoi passi, e dice in aria di trionfo a Tilda:)</l>
+          <l>È lui!…</l>
+        </sp>
+        <stage>CECILIA(va verso il fondo; ad un tratto guardando verso la strada, a destra, rifà vivamente i suoi passi, e dice in aria di trionfo a Tilda:)È lui!…</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Chi mai?</l>
+        </sp>
+        <sp who="#cecilia">
+          <speaker>CECILIA.:</speaker>
+          <l>Gastone!</l>
+          <l>Su, coraggio! Ti calma!</l>
+        </sp>
+        <stage>TILDA (in preda ad agitazione vivissima).Non lasciarti veder… Lasciaci soli!(Cecilia entra precipitosamente nell’osteria. A destra, allo sbocco della stradacomparisce Gastone.)</stage>
+        <stage>GASTONE (avanzandosi).Si può saper Perchétu guardi altrove, se mi accosto a te?…Perché, solo fra tanti,vuoi tu che del tuo amore io non mi vanti?</stage>
+        <stage>TILDA (agitata, da sè).Sempre l’ insulto!… (a Gastone) Eh! sì!Non vi farò l’onoredi dirvi già…</stage>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Che a genio non ti vado?…</l>
+          <l>E che t’importa? Oh, dunque,</l>
+          <l>nulla un’ora d’amor può procurarmi?</l>
+        </sp>
+        <stage>TILDA (sarcasticamente).Amore!… Amor su quelle labbra? Eh via!è delirio! è follia!…Amare una ciociara è troppo!… E poichi siete voi?Voi che coprendocidi gemme e d’orisfoggiate l’ontade’ nostri amori?Voi cui sol premeche alcun vi siacui dir possiate:Non vedi? E mia!</stage>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Su via! Ti calma,</l>
+          <l>bella sdegnosa;</l>
+          <l>far la ritrosa</l>
+          <l>tanto… Perché?</l>
+          <l>L’amor si sfoglia</l>
+          <l>come la rosa,</l>
+          <l>fresca e odorosa</l>
+          <l>sempre non è!</l>
+          <l>Gétta la maschera!</l>
+          <l>Falso è ‘l pudor!</l>
+          <l>Bandiera libera</l>
+          <l>batta l’amor!</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Oh! Forse s’amano</l>
+          <l>le pari mie?</l>
+          <l>(ironica)</l>
+          <l>Parole… fìsime…</l>
+          <l>ipocrisie!…</l>
+        </sp>
+        <stage>TILDA.Oh! Forse s’amanole pari mie?(ironica)Parole… fìsime…ipocrisie!…</stage>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Ah! lascia star l’inutile</l>
+          <l>finzion del sentimento;</l>
+          <l>le braccia schiudi e affrettami</l>
+          <l>ristante del piacer!</l>
+          <l>Le ardenti tue carezze</l>
+          <l>i baci tuoi già sento!</l>
+          <l>Le tue più insane ebbrezze</l>
+          <l>fammi, Tilda, goder!</l>
+        </sp>
+        <stage>TILDA (da sè).(Ah! miserabile,non ti perdono!)</stage>
+        <stage>GASTONE (facendosele più vicino).AndiamL. capitola!…fremente io sono!…</stage>
+        <stage>TILDA (risoluta).Allontanatevi!o chiamo gente…</stage>
+        <stage>GASTONE (accostandosi sempre).Con quale audacia…Siete insolente!…</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Allontanatevi! allontanatevi!…</l>
+          <l>o, com’è vero Iddio! vi fo scacciar!</l>
+          <l>(gli dà una spinta)</l>
+        </sp>
+        <stage>TILDA.Allontanatevi! allontanatevi!…o, com’è vero Iddio! vi fo scacciar!(gli dà una spinta)</stage>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Chi lo potrebbe osar?</l>
+          <l>(poi con un certo disprezzo e con calma affettata)</l>
+          <l>Se tanto suscito</l>
+          <l>in te ribrezzo,</l>
+          <l>siam pari: m’odii?…</l>
+          <l>io ti disprezzo!</l>
+          <l>(le volge le spalle canticchiando)</l>
+          <l>Invan ti mostri</l>
+          <l>tutta sdegnosa!…</l>
+          <l>far la ritrosa</l>
+          <l>tanto… Perché?</l>
+          <l>L’amor si sfoglia</l>
+          <l>come la rosa,</l>
+          <l>fresca e odorosa</l>
+          <l>sempre non è!</l>
+          <l>Giù quella maschera!</l>
+          <l>Falso è ‘l pudor!</l>
+          <l>Bandiera libera</l>
+          <l>batta l’amor!</l>
+        </sp>
+        <stage>GASTONE.Chi lo potrebbe osar?(poi con un certo disprezzo e con calma affettata)Se tanto suscitoin te ribrezzo,siam pari: m’odii?…io ti disprezzo!(le volge le spalle canticchiando)Invan ti mostritutta sdegnosa!…far la ritrosatanto… Perché?L’amor si sfogliacome la rosa,fresca e odorosasempre non è!Giù quella maschera!Falso è ‘l pudor!Bandiera liberabatta l’amor!</stage>
+        <stage>TILDA (disperatamente).Misericordia! misericordia!Ed ei non vede!… Ed ei non sa!…(ricade sulla seggiola, e si abbandona disperata sul tavolo, con la faccia tra le mani.)Cala la tela.</stage>
+      </div>
+      <div type="act">
+        <head>ATTO SECONDO</head>
+        <sp who="#atto secondo">
+          <speaker>ATTO SECONDO:</speaker>
+        </sp>
+        <stage>L’antro dei briganti nella macchia. — All’alzar della tela, Gasparre sta ripulendo la canna di un moschetto. Tilda sta rattoppando, seduta, un giubbetto di Gasparre. Gruppi di briganti intenti a pulire i moschetti, a bere, a giocare.SCENA PRIMA.Gasparre, Tilda e briganti.GASPARRE (a Tilda).Sicché…</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Sicché?…</l>
+        </sp>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>Dicevo…</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Ebben, dicevi?…</l>
+        </sp>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>Che mi fai far la farsa del marito,</l>
+          <l>tanto per far paura</l>
+          <l>a chi ti si cacciasse in mezzo a’ piè.</l>
+        </sp>
+        <stage>TILDA (distrattamente).E poi?…</stage>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>Che la storiella troppo dura,</l>
+          <l>e che non fa per me!</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Va là, sta zitto!… Bevi…</l>
+          <l>e pensa a’ cento scudi che mi devi.</l>
+        </sp>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>Lo so: figuran già nella partita</l>
+          <l>di morte e vita;</l>
+          <l>e il buttero, lo sai, se non a pronti,</l>
+          <l>salda sempre i suoi conti.</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Non ti dico di no…</l>
+        </sp>
+        <stage>GASPARRE (con malinconia).Però dovresti,mi pare, mantener certe promesse…</stage>
+        <stage>TILDA (col tono di chi vuol mutare discorso).A proposito, dimmi: Frosinoneè proprio sulla viache va da Fondi a Roma?</stage>
+        <stage>GASPARRE (con una crollata di spalle).O come no?…La macchia lo circonda…</stage>
+        <stage>TILDA (interrompendo).E siete in quanti?…</stage>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>Due novizii, tre anziani e sei briganti.</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Vien forse il caso che mi faccia il saldo…</l>
+        </sp>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>Un affare?… Benone!</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Chi lo sa…</l>
+          <l>Devon passar di qua certe persone!</l>
+          <l>(si alza, getta il giubbetto rammendato a Gasparre che lo coglie al volo, e si allontana con aria sprezzante.)</l>
+          <l>GASPARRE (guardandole appresso).</l>
+          <l>Che donna strana! Ma… s’ammanserà!</l>
+        </sp>
+        <stage>TILDA.Chi lo sa…Devon passar di qua certe persone!(si alza, getta il giubbetto rammendato a Gasparre che lo coglie al volo, e si allontana con aria sprezzante.)GASPARRE (guardandole appresso).Che donna strana! Ma… s’ammanserà!</stage>
+        <sp who="#scena ii">
+          <speaker>SCENA II.:</speaker>
+          <l>Gasparre, briganti e donne che arrivano. Il coro è diviso a gruppi.</l>
+        </sp>
+        <stage>SCENA II.Gasparre, briganti e donne che arrivano. Il coro è diviso a gruppi.</stage>
+        <sp who="#coro di donne">
+          <speaker>CORO DI DONNE.:</speaker>
+          <l>Se la strada c’è impedita,</l>
+          <l>se un periglio è la città,</l>
+          <l>si ha il compenso d’una vita</l>
+          <l>tutta sole e libertà.</l>
+        </sp>
+        <sp who="#primo gruppo d’uomini">
+          <speaker>PRIMO GRUPPO D’UOMINI.:</speaker>
+          <l>Il bottin… sapete dir?</l>
+          <l>ce lo vuole, o no, spartir?</l>
+        </sp>
+        <stage>SECONDO GRUPPO D’UOMINI (giocando alla mora).Cinque!… Quattro!… Sette!… Tre!…Ferma!… Ho vinto! spetta a te.</stage>
+        <stage>GASPARRE (avanzandosi con Porciuolo).Su, beviam! Beviamo! olà…</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI.:</speaker>
+          <l>Chi non beve, via di qua!</l>
+        </sp>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>Questa stilla — che zampilla</l>
+          <l>che sfavilla,</l>
+          <l>che ha bagliori, che risplende,</l>
+          <l>che la mente e i sensi accende,</l>
+          <l>è rubino?…</l>
+          <l>è topazio?… è sangue?… o vino?</l>
+          <l>Questa spuma — che qui fuma</l>
+          <l>Che consuma, (accennando la fronte)</l>
+          <l>che s’insinua lieve lieve</l>
+          <l>nelle vene di chi beve,</l>
+          <l>e a chi langue</l>
+          <l>dà vigore… è vino?… o sangue?</l>
+          <l>Chi lo sa?… Non voglio niente</l>
+          <l>dalla gente…</l>
+          <l>vo’ soltanto da trincar…</l>
+          <l>aver vino da spillar…</l>
+          <l>e un pochino</l>
+          <l>mescolar l’amor col vino!</l>
+        </sp>
+        <stage>GASPARRE.Questa stilla — che zampillache sfavilla,che ha bagliori, che risplende,che la mente e i sensi accende,è rubino?…è topazio?… è sangue?… o vino?Questa spuma — che qui fumaChe consuma, (accennando la fronte)che s’insinua lieve lievenelle vene di chi beve,e a chi languedà vigore… è vino?… o sangue?Chi lo sa?… Non voglio nientedalla gente…vo’ soltanto da trincar…aver vino da spillar…e un pochinomescolar l’amor col vino!</stage>
+        <sp who="#coro">
+          <speaker>CORO.:</speaker>
+          <l>Vino, vino da trincar…</l>
+          <l>e un pochino</l>
+          <l>mescolar l’amor col vino!</l>
+          <l>ALCUNI BRIGANTI (rivolti alle donne).</l>
+          <l>Boscajole, orsù! danziamo!</l>
+          <l>L’ore insieme ci godiamo!</l>
+          <l>(comincia la danza)</l>
+        </sp>
+        <stage>CORO.Vino, vino da trincar…e un pochinomescolar l’amor col vino!ALCUNI BRIGANTI (rivolti alle donne).Boscajole, orsù! danziamo!L’ore insieme ci godiamo!(comincia la danza)</stage>
+        <stage>(Verso la fine si ode un lungo fischio di un brigante che sta alla vedetta.)ALCUNI BRIGANTI.All’armi!… all’armi!…(confusione generale)TILDA (accorrendo agitata, a Gasparre).Tu vedi?… Sulla via laggiù di Fondiun calesse s’ avanza… Ebben, nascondigli uomini tuoi dove la macchia è folta!…Il legno ferma!… Lega tutti!… Ascolta…Non un capello toccasi ad alcuno!Conduci a me quel giovane! Qualcunoresti a guardar la donna!</stage>
+        <stage>GASPARRE (ai briganti).È un tal bottino,o butteri, che vale il miglior vino.</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI.:</speaker>
+          <l>Mano a’ moschetti!… Andiam!…</l>
+          <l>Tutti alle armi! Corriam!</l>
+          <l>(Tutti escono ad armarsi, e partono preceduti da Gasparre.)</l>
+        </sp>
+        <stage>TUTTI.Mano a’ moschetti!… Andiam!…Tutti alle armi! Corriam!(Tutti escono ad armarsi, e partono preceduti da Gasparre.)</stage>
+        <sp who="#scena iii">
+          <speaker>SCENA III.:</speaker>
+          <l>Tilda sola.</l>
+        </sp>
+        <stage>SCENA III.Tilda sola.</stage>
+        <stage>(Affranta siede, poi si rialza pensierosa e angosciata.)Forse… son troppo vile!…E male ciò che tento!…E forse… – ahimè, lo sento! —più mi disprezzerà!…Ma, Iddio! Perché deridela mia passione ardente?Perché sì crudelmentea me flagella il cor?…Egli la donna sua conduce a Roma…la conduce all’aitar!… Oh! bella Agnese,vedrai sfrondata la ghirlanda tua!…Ei qui verrà! Vo’ dirgli: Ebben, che fai?Struggiti pur; ma la tua bella, sai,l’ora sognata delle dolci nozzespuntare non vedrà!…(s’ode un rumor di passi)Ma alcun s’avanza…Non ho coraggio d’aspettare… Eh! via!Non sono adunque la Tilda di pria?…(esita alquanto, poi si risolve e si nasconde)SCENA IV.Gasparre e gli altri briganti conducono sulla scena Gastone che ha gli occhi bendati.GASPARRE (ai briganti).Sbendatelo, e partite!(i briganti eseguono)</stage>
+        <stage>GASTONE (guardandosi intorno).Oh! dove è Agnese?La sposa mia dov’è?</stage>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>Con voi discese</l>
+          <l>dalla vettura;</l>
+          <l>guardia secura</l>
+          <l>con essa sta.</l>
+        </sp>
+        <stage>TILDA (da dietro la roccia).Come P adora!…</stage>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Fate ch’io mora!…</l>
+          <l>Di lei… pietà!</l>
+        </sp>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>O mio signore, è inutile</l>
+          <l>convellervi così!</l>
+          <l>Siete caduto in trappola;</l>
+          <l>la sorte vi tradì!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Intera la mia vita</l>
+          <l>per la sua vi abbandono!…</l>
+          <l>Dite!… chi l’ha rapita?</l>
+        </sp>
+        <stage>TILDA (c. s.).Ah! non avrà perdono!</stage>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>Non vai gridar..</l>
+          <l>Giova aspettar!…</l>
+          <l>Ma un’altra femmina</l>
+          <l>debbo ascoltar!</l>
+          <l>Ben altra furia</l>
+          <l>dovrò placar!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Del mio martir</l>
+          <l>chi può gioir?</l>
+        </sp>
+        <stage>TILDA (avanzandosi vivamente, e piantandosi davanti a Gastone).Non mi conosci più?</stage>
+        <stage>GASTONE (stupito).TildaL. Qui?… Che fai tu?</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Secondo l’ora, canto… salto… o abbraccio!</l>
+          <l>e, a tempo perso, colgo storni al laccio!</l>
+        </sp>
+        <stage>GASTONE (con accento sprezzante).È il tuo mestieri… Pur, fa di me che vuoi;ma di Agnese!…</stage>
+        <stage>TILDA (sarcastica).Ti dài per vinto!… E poicredi tu che mi basti?Non ricordi in qual modo m’insultasti?</stage>
+        <stage>(Passando vivamente dall’espressione dello sdegno a un risolino di scherno additando Gasparre che con aria d’indifferenza ripulisce il moschetto.)</stage>
+        <stage>GASTONE (come annojato).Ebben da me che vuoi?</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Mi sprezzi sempre?</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Non t’ho apprezzata mai!…</l>
+          <l>Perché t’illudi ancor?</l>
+          <l>Gli amplessi tuoi cercai,</l>
+          <l>mai non ti chiesi amor!</l>
+          <l>La voluttà delle tue folli ebbrezze</l>
+          <l>io chiesi invano a te!…</l>
+          <l>Poi, donasti a un brigante le carezze…</l>
+          <l>Ed or che vuoi da me?</l>
+        </sp>
+        <stage>TILDA (disperatamente).Vergin Maria, non l’odi tu?Vorrei destargli la gelosia,ed ei mi sprezza sempre di più!</stage>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>Il sangue mi ribolle nel cervello!…</l>
+          <l>Non so che cosa far!…</l>
+          <l>Se il conto non mi salda, il mio coltello</l>
+          <l>inerte dee restar?</l>
+          <l>(a Tilda)</l>
+          <l>Dunque?…</l>
+        </sp>
+        <stage>GASPARRE.Il sangue mi ribolle nel cervello!…Non so che cosa far!…Se il conto non mi salda, il mio coltelloinerte dee restar?(a Tilda)Dunque?…</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Chiedigli tu quell’or che brami.</l>
+        </sp>
+        <stage>GASPARRE (a Gastone).Doman, sborsando mille scudi in oro,rivedere potrai la tua sposina.</stage>
+        <stage>GASTONE (lietamente sorpreso).Davver?</stage>
+        <sp who="#gasparre">
+          <speaker>GASPARRE.:</speaker>
+          <l>T’aspetto alla cantina</l>
+          <l>di Locusta…</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Verrò!</l>
+        </sp>
+        <stage>GASPARRE (ai briganti).Or voi, bendatelo,e sulla via maestra lo lasciate!</stage>
+        <stage>GASTONE (ai briganti, traendo una borsa).Abbiateli per vostri in mia memoria.(va per uscire)TILDA (sbarrandogli la via; sottovoce).E per me non la trovi una parola?…</stage>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Che cosa potrei dire? Oh! Perché mai</l>
+          <l>Sei tu caduta e vivi in questo fango?…</l>
+          <l>(si allontana seguito dai briganti)</l>
+        </sp>
+        <stage>GASTONE.Che cosa potrei dire? Oh! Perché maiSei tu caduta e vivi in questo fango?…(si allontana seguito dai briganti)</stage>
+        <stage>TILDA (da sé).L’ama, l’ama l’indegno, e d’un amoreche l’odio nel mio corerinfocola tremendo!(rientra nell’antro)SCENA V.Tilda, Cecilia e Agnese.CECILIA (uscendo dall’antro, profondamente rattristata).Nè ancor s’è acceso il lume alla Madonna!Ah! poveretta me!(accende il lumicino sotto l’immagine della Madonna, canticchiando:)Torna l’aprile,tornano i fiori…Perché egli solonon dee tornar?Tornan le rondiniai loro amori!…ei sol non tornaper farsi amar!(In questo punto entra Agnese, condotta dai briganti. Tilda, dietro a lei, fatto un segno d’intelligenza, si nasconde. I briganti escono.)</stage>
+        <stage>AGNESE (atterrita).Santa madre di Dio! dove mi trovo?E il mio Gastone ov’è? dove l’han trattoquei rei?(accorgendosi della presenza di Cecilia)Misericordiadivina! Una fanciulla!(accostandosi vivamente)Ah! che tu siabenedetta! Pietà! Salvami! Salvami!in nome della Vergine Maria!(Cecilia fa dei segni, come per dire che non può parlare)Non mi rispondi?(Cecilia la guarda impassibile)Muta!(si accosta all’immagine della Madonna, e cade in ginocchio)O Madre santad’ogni dolor!ho l’alma affranta!…sfinito il cor!…Madre amorosa,non mi lasciar!…dimmi, o pietosa,che deggio far?…</stage>
+        <stage>TILDA (sopraggiungendo con impeto e afferrandola pei polsi).Gaston dimenticar!AGNESE (spaventata).Chi sei tu? chi sei tu?… Me sventurata!Tu l’odio sei, lo sento nel mio cor!…</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Io l’odio? Insana! donna abominata!</l>
+          <l>Io son la gelosia, sono il furor!</l>
+          <l>Io l’amo, io l’amo questo tuo promesso!</l>
+          <l>come una pazza io l’amo!</l>
+        </sp>
+        <stage>I palpiti del cor, non il suo amplessoavidamente io bramo!Tu sei la mia nemica, ed io son quellache a te l’agguato tese!Fui vile, e più il sarò! Ma tu, sua bella,avrai ciò ch’ei mi rese!AGNESE.Ah! se così fra le tue pari s’ama,Perché mi fai soffrire?Piantami in sen del tuo coltel la lama;t’ insegnerò a morire!</stage>
+        <sp who="#tilda">
+          <speaker>TILDA:</speaker>
+          <l>(Fa per inveire contro Agnese; ma in quell’istante si ode la campana dell’Ave Maria. Agnese s’inginocchia, congiungendo le mani in atto di pregare mentalmente. Tilda dà un grido, e indietreggia; guarda Agnese prima con sorpresa, poi con commozione crescente. Breve pausa; indi:)</l>
+          <l>No!… non sei tu, donna innocente</l>
+          <l>che dèi cadérmi al piè!…</l>
+          <l>Oh! prega almen che Dio clemente</l>
+          <l>abbia pietà di me!…</l>
+          <l>Chi espia son io, son io che porto</l>
+          <l>la tua con la mia croce!</l>
+          <l>Or l’odio in me del tutto è morto</l>
+          <l>al suon di quella voce! (additando la campana)</l>
+          <l>AGNESE.</l>
+          <l>A chi è pietoso, Iddio mercè non nega!…</l>
+          <l>Inginocchiati, e prega!</l>
+          <l>(Tilda cade ginocchioni nel mezzo della scena. Agnese alla sua volta s’ inginocchia davanti all’immagine della Madonna, a sinistra. Cecilia si alza, volta la sedia e vi si appoggia curvandosi. Tutte e tre dicono a voce bassa:)</l>
+          <l>Ave Maria, piena di grazia,</l>
+          <l>il Signore è con te!</l>
+          <l>Sii benedetta in fra le donne,</l>
+          <l>e benedetto</l>
+          <l>il frutto sia del ventre tuo, Gesù!</l>
+          <l>Santa Maria,</l>
+          <l>Madre di Dio,</l>
+          <l>prega per noi,</l>
+          <l>che abbiam peccato,</l>
+          <l>ora e nell’ora della nostra morte!</l>
+          <l>Amen!</l>
+          <l>(Tilda cade, prorompendo in un dirotto pianto)</l>
+        </sp>
+        <stage>TILDA(Fa per inveire contro Agnese; ma in quell’istante si ode la campana dell’Ave Maria. Agnese s’inginocchia, congiungendo le mani in atto di pregare mentalmente. Tilda dà un grido, e indietreggia; guarda Agnese prima con sorpresa, poi con commozione crescente. Breve pausa; indi:)No!… non sei tu, donna innocenteche dèi cadérmi al piè!…Oh! prega almen che Dio clementeabbia pietà di me!…Chi espia son io, son io che portola tua con la mia croce!Or l’odio in me del tutto è mortoal suon di quella voce! (additando la campana)AGNESE.A chi è pietoso, Iddio mercè non nega!…Inginocchiati, e prega!(Tilda cade ginocchioni nel mezzo della scena. Agnese alla sua volta s’ inginocchia davanti all’immagine della Madonna, a sinistra. Cecilia si alza, volta la sedia e vi si appoggia curvandosi. Tutte e tre dicono a voce bassa:)Ave Maria, piena di grazia,il Signore è con te!Sii benedetta in fra le donne,e benedettoil frutto sia del ventre tuo, Gesù!Santa Maria,Madre di Dio,prega per noi,che abbiam peccato,ora e nell’ora della nostra morte!Amen!(Tilda cade, prorompendo in un dirotto pianto)</stage>
+      </div>
+      <div type="act">
+        <head>La tela cade lentamente.</head>ATTO TERZO <stage>La tela cade lentamente.ATTO TERZO</stage>
+        <stage>L’osteria di Locusta. – Stanza terrena. Un tavolo con sedie, nel mezzo; un armadio infisso nel muro a sinistra; porta, nel fondo; uscio a destra.SCENA PRIMA.Tilda e Locusta.TILDA (a Locusta che attende a mettere in ordine la stanza).Locusta, non vorrai a me negareciò che staman ti chiesi…LOCUSTA.E Perché mai?…</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>So io quel che n’ ho a fare.</l>
+          <l>LOCUSTA.</l>
+          <l>Nè saper lo posso io?</l>
+        </sp>
+        <stage>TILDA.So io quel che n’ ho a fare.LOCUSTA.Nè saper lo posso io?</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>No, no; giammai!</l>
+          <l>(fra sè, tristamente)</l>
+          <l> tratta di guarir da certe pene…</l>
+          <l>d’uscir da tristi affanni!…</l>
+          <l>(le offre alcune monete)</l>
+          <l>LOCUSTA (ritirando le monete, e dandole un’ampolla).</l>
+          <l>E poi dirai che non ti voglio bene!…</l>
+          <l>(Tilda mette la boccettina in seno; Locusta fa atto di allontanarsi, ma Tilda la trattiene.)</l>
+          <l>TILDA (a Locusta).</l>
+          <l>Una sola parola…</l>
+          <l>Se vien Gastone, vo’ con lui star sola!…</l>
+          <l>LOCUSTA.</l>
+          <l>Sta pur tranquilla, che sarà mia cura. (esce)</l>
+        </sp>
+        <stage>TILDA.No, no; giammai!(fra sè, tristamente) tratta di guarir da certe pene…d’uscir da tristi affanni!…(le offre alcune monete)LOCUSTA (ritirando le monete, e dandole un’ampolla).E poi dirai che non ti voglio bene!…(Tilda mette la boccettina in seno; Locusta fa atto di allontanarsi, ma Tilda la trattiene.)TILDA (a Locusta).Una sola parola…Se vien Gastone, vo’ con lui star sola!…LOCUSTA.Sta pur tranquilla, che sarà mia cura. (esce)</stage>
+        <sp who="#scena ii">
+          <speaker>SCENA II.:</speaker>
+          <l>Tilda sola.</l>
+          <l>(lasciandosi cadere, affranta, sopra una seggiola.)</l>
+          <l>Alfine, cesserà questa tortura!</l>
+          <l>Dio! non ne posso più!</l>
+          <l>Non voglio, no, pensar ch’è un gran peccato</l>
+          <l>se vo’ morir!</l>
+          <l>Ormai mi sento il cor così straziato</l>
+          <l>che dee finir!</l>
+          <l>Finir dovrà la triste vita mia</l>
+          <l>poiché speranza più non posso aver!</l>
+          <l>E, Perché pago ei sia,</l>
+          <l>spenta ai suoi piedi mi vedrà cader!</l>
+          <l>Col veleno o il pugnai presto si muor!…</l>
+          <l>Finisce della vita ogni dolor!…</l>
+          <l>(entra vivamente Cecilia)</l>
+          <l>Ah! Cecilia, sei tu?</l>
+          <l>(la trae vivamente al proscenio)</l>
+        </sp>
+        <stage>SCENA II.Tilda sola.(lasciandosi cadere, affranta, sopra una seggiola.)Alfine, cesserà questa tortura!Dio! non ne posso più!Non voglio, no, pensar ch’è un gran peccatose vo’ morir!Ormai mi sento il cor così straziatoche dee finir!Finir dovrà la triste vita miapoiché speranza più non posso aver!E, Perché pago ei sia,spenta ai suoi piedi mi vedrà cader!Col veleno o il pugnai presto si muor!…Finisce della vita ogni dolor!…(entra vivamente Cecilia)Ah! Cecilia, sei tu?(la trae vivamente al proscenio)</stage>
+        <sp who="#scena iii">
+          <speaker>SCENA III.:</speaker>
+          <l>Tilda e Cecilia.</l>
+          <l>TILDA.</l>
+          <l>L’hai visto?…</l>
+        </sp>
+        <stage>SCENA III.Tilda e Cecilia.TILDA.L’hai visto?…</stage>
+        <sp who="#cecilia">
+          <speaker>CECILIA.:</speaker>
+          <l>Sì!</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Ti ha detto che verrà?…</l>
+        </sp>
+        <sp who="#cecilia">
+          <speaker>CECILIA.:</speaker>
+          <l>E come!… E in tanti affanni</l>
+          <l>per quella poveretta;</l>
+          <l>ma spera in te, nel core tuo sì buono!</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Tu non gli hai detto niente?…</l>
+        </sp>
+        <sp who="#cecilia">
+          <speaker>CECILIA.:</speaker>
+          <l>Ti par?</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Brava, figlioccia! Adesso, senti…</l>
+          <l>(con mestizia)</l>
+          <l>Mettiti al collo questa mia crocetta…</l>
+          <l>e questo anello al dito…</l>
+          <l>(si leva la croce e l’anello, e mette la prima al collo, il secondo al dito di Cecilia)</l>
+        </sp>
+        <stage>TILDA.Brava, figlioccia! Adesso, senti…(con mestizia)Mettiti al collo questa mia crocetta…e questo anello al dito…(si leva la croce e l’anello, e mette la prima al collo, il secondo al dito di Cecilia)</stage>
+        <stage>CECILIA (commossa).Mi volete far piangere?</stage>
+        <stage>TILDA (con sorriso forzato).Non vedi che sto allegra?… Adesso… baciami!su la bocca… così… (la bacia con effusione)</stage>
+        <stage>(da sè)</stage>
+        <stage>la vorrei benedir… (risoluta)</stage>
+        <stage>se anche sentisse che m’hanno ammazzata.(La congeda con gesto affettuoso, ma risoluto. Cecilia esce. Tilda affacciandosi alla finestra che dà sulla strada)La notte è scura scura…minaccia temporal… quasi ho paura!(mentre s’allontana dalla finestra, entra vivamente Gastone.)SCENA IV.Tilda e Gastone.GASTONE (accorrendo).Sola! e Agnese dov’è?</stage>
+        <stage>TILDA (con affettata indifferenza).L’Agnese tua?</stage>
+        <sp who="#gastone">
+          <speaker>GASTONE:</speaker>
+          <l>Doveano pure qui condurla i tuoi!…</l>
+        </sp>
+        <stage>TILDA (c. s.).Può darsi… E poi?…</stage>
+        <stage>GASTONE (cercando rabbonirla).Non essere crudel… so che t’offesiDimentica…</stage>
+        <stage>TILDA (con amarezza).E potrei dimenticar?</stage>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Ah! divinar non puoi la voluttà</l>
+          <l>De le caste pietà…</l>
+          <l>Tu, ne la foga dell’uman desir,</l>
+          <l>Non sai che sia soffrir!</l>
+          <l>E la mia sposa – il mio tesoro!</l>
+          <l>la sola donna – che il core ha amata!</l>
+          <l>Ah! tu non puoi – disgraziata!</l>
+          <l>Non puoi comprendere – quanto l’adoro!</l>
+        </sp>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Non lo comprendo? Ah! dunque non sappiamo</l>
+          <l>noi povere infelici</l>
+          <l>che venderci e odiar?</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Che vuoi tu dir?</l>
+        </sp>
+        <stage>TILDA (non sapendosi più contenere).Che… disperata io t’amo!</stage>
+        <stage>GASTONE (con disprezzo).Tu?</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>T’amo! t’amo assai!… sino al delitto</l>
+          <l>più atroce!… Pur… non mi son data a te</l>
+          <l>per isfuggir l’orror del prezzo infame</l>
+          <l>che mi gittavi al piè!…-</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Che mai dicesti? Taci!…</l>
+          <l>In tal luogo… in tal ora…</l>
+          <l>in mezzo a tanti affanni…</l>
+          <l>a me l’oltraggio far puoi del tuo amore?</l>
+        </sp>
+        <stage>TILDA (al colmo della disperazione).Non solo non hai cor… sei pure un… vile!</stage>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Or più non ti compiango!</l>
+          <l>Tu stanchi la pazienza anche al Signore!</l>
+          <l>Va! mi lascia! (la ghermisce per cacciarla fuori)</l>
+        </sp>
+        <stage>GASTONE.Or più non ti compiango!Tu stanchi la pazienza anche al Signore!Va! mi lascia! (la ghermisce per cacciarla fuori)</stage>
+        <stage>TILDA (svincolandosi).No, no! da quella portaormai non posso uscir che amata o morta!Maledicimi… oltraggiami… uccidimi!…ma da te non mi puoi discacciar!(gli cade ai piedi)</stage>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Pria del cielo mi annienti la folgore</l>
+          <l>che, per te, la mia Agnese obliar!</l>
+        </sp>
+        <stage>TILDA (rialzandosi di scatto).Ah! che sia benedetto il furoreche mi ha fatto su lei vendicar…</stage>
+        <stage>GASTONE (sorpreso).Tu vaneggi?</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Sì! in preda al terrore</l>
+          <l>l’ho veduta strisciar ai miei piè…</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Dannazione!…</l>
+        </sp>
+        <stage>TILDA (concitata, senza badargli).Più palpiti ili corenon avea!… mi chiedeva mercè!</stage>
+        <stage>GASTONE (atterrito).Dici il ver?…</stage>
+        <stage>TILDA (c. s. traendo uno stiletto).Questo stile, lo vedi?</stage>
+        <stage>GASTONE (ghermendola pei polsi).Taci!</stage>
+        <sp who="#tilda">
+          <speaker>TILDA.:</speaker>
+          <l>Io l’ho fulminata al mio piè!</l>
+        </sp>
+        <stage>GASTONE (furibondo).Maledetta!… quel ferro… lo stesso…(le strappa lo stile)che l’ha uccisa… ti deve colpir!…(La trafigge. — Tilda dà un grido — si porta la mano sul cuore e cade.)SCENA ULTIMA.I precedenti, Agnese e Cecilia.AGNESE (accorrendo).Qual grido!</stage>
+        <stage>CECILIA (c. s.).Ciel! che veggio!(si precipita verso Tilda e s’inginocchia ai suoi piedi)GASTONE (come trasognato).Agnese!… Tu?…</stage>
+        <sp who="#agnese">
+          <speaker>AGNESE.:</speaker>
+          <l>Sì!… fu costei che mi salvò!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Gran Dio!</l>
+        </sp>
+        <stage>TILDA (moribonda).Ah! qual grazia il Signor m’ha concesso!Per tua mano… m’è dato… morir!</stage>
+        <stage>GASTONE (fuor di sè con suprema emozione).Pietà!… Deh! parla ancor! Perdono!</stage>
+        <stage>TILDA (a Gastone).Muoio!Siate felici!…(muore)</stage>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Morta! morta!</l>
+        </sp>
+        <sp who="#gastone">
+          <speaker>GASTONE.:</speaker>
+          <l>Ahi! mi si schianta il cor!…</l>
+          <l>O sciagurato amor!…</l>
+        </sp>
+        <stage>Cala la tela rapidamente.</stage>
+      </div>
+    </body>
+  </text>
+</TEI>

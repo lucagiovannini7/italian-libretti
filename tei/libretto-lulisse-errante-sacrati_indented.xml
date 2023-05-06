@@ -1,0 +1,2941 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">’Ulisse errante</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="a due">
+            <persName>A DUE:</persName>
+          </person>
+          <person xml:id="alcino">
+            <persName>ALCINO:</persName>
+          </person>
+          <person xml:id="mantenitore">
+            <persName>MANTENITORE:</persName>
+          </person>
+          <person xml:id="damigelle">
+            <persName>DAMIGELLE:</persName>
+          </person>
+          <person xml:id="nausica">
+            <persName>NAUSICA:</persName>
+          </person>
+          <person xml:id="frode">
+            <persName>FRODE:</persName>
+          </person>
+          <person xml:id="autunno">
+            <persName>AUTUNNO:</persName>
+          </person>
+          <person xml:id="mercurio">
+            <persName>MERCURIO:</persName>
+          </person>
+          <person xml:id="cinatea">
+            <persName>CINATEA:</persName>
+          </person>
+          <person xml:id="inverno">
+            <persName>INVERNO:</persName>
+          </person>
+          <person xml:id="amore">
+            <persName>AMORE:</persName>
+          </person>
+          <person xml:id="statue">
+            <persName>STATUE:</persName>
+          </person>
+          <person xml:id="altra">
+            <persName>ALTRA:</persName>
+          </person>
+          <person xml:id="calipso">
+            <persName>CALIPSO:</persName>
+          </person>
+          <person xml:id="galatea">
+            <persName>GALATEA:</persName>
+          </person>
+          <person xml:id="tiresia">
+            <persName>TIRESIA:</persName>
+          </person>
+          <person xml:id="altri">
+            <persName>ALTRI:</persName>
+          </person>
+          <person xml:id="damigella prima">
+            <persName>DAMIGELLA PRIMA:</persName>
+          </person>
+          <person xml:id="altro">
+            <persName>ALTRO:</persName>
+          </person>
+          <person xml:id="calipso e ulisse">
+            <persName>CALIPSO E ULISSE:</persName>
+          </person>
+          <person xml:id="compagni di ulisse">
+            <persName>COMPAGNI DI ULISSE:</persName>
+          </person>
+          <person xml:id="le due damigelle">
+            <persName>LE DUE DAMIGELLE:</persName>
+          </person>
+          <person xml:id="discordia">
+            <persName>DISCORDIA:</persName>
+          </person>
+          <person xml:id="polifemo">
+            <persName>POLIFEMO:</persName>
+          </person>
+          <person xml:id="ciclope">
+            <persName>CICLOPE:</persName>
+          </person>
+          <person xml:id="avventuriere">
+            <persName>AVVENTURIERE:</persName>
+          </person>
+          <person xml:id="oracolo">
+            <persName>ORACOLO:</persName>
+          </person>
+          <person xml:id="pace">
+            <persName>PACE:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="circe">
+            <persName>CIRCE:</persName>
+          </person>
+          <person xml:id="venere">
+            <persName>VENERE:</persName>
+          </person>
+          <person xml:id="compagni">
+            <persName>COMPAGNI:</persName>
+          </person>
+          <person xml:id="ulisse">
+            <persName>ULISSE:</persName>
+          </person>
+          <person xml:id="circe e ulisse">
+            <persName>CIRCE E ULISSE:</persName>
+          </person>
+          <person xml:id="estate">
+            <persName>ESTATE:</persName>
+          </person>
+          <person xml:id="minerva">
+            <persName>MINERVA:</persName>
+          </person>
+          <person xml:id="plutone">
+            <persName>PLUTONE:</persName>
+          </person>
+          <person xml:id="giove">
+            <persName>GIOVE:</persName>
+          </person>
+          <person xml:id="canoria">
+            <persName>CANORIA:</persName>
+          </person>
+          <person xml:id="sonno">
+            <persName>SONNO:</persName>
+          </person>
+          <person xml:id="statua">
+            <persName>STATUA:</persName>
+          </person>
+          <person xml:id="damigella">
+            <persName>DAMIGELLA:</persName>
+          </person>
+          <person xml:id="damigella seconda">
+            <persName>DAMIGELLA SECONDA:</persName>
+          </person>
+          <person xml:id="altri compagni">
+            <persName>ALTRI COMPAGNI:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>AMORE</castItem>
+        <castItem>MERCURIO</castItem>
+        <castItem>DISCORDIA</castItem>
+        <castItem>ULISSE</castItem>
+        <castItem>POLIFEMO</castItem>
+        <castItem>CICLOPE</castItem>
+        <castItem>ORACOLO</castItem>
+        <castItem>GALATEA</castItem>
+        <castItem>CIRCE</castItem>
+        <castItem>PLUTONE</castItem>
+        <castItem>FRODE</castItem>
+        <castItem>TIRESIA</castItem>
+        <castItem>CALIPSO</castItem>
+        <castItem>CINATEA</castItem>
+        <castItem>CANORIA</castItem>
+        <castItem>ALCINO</castItem>
+        <castItem>NAUSICA</castItem>
+        <castItem>MANTENITORE</castItem>
+        <castItem>AVVENTURIERE</castItem>
+        <castItem>SONNO</castItem>
+        <castItem>VENERE</castItem>
+        <castItem>GIOVE</castItem>
+        <castItem>MINERVA</castItem>
+        <castItem>PACE</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>Argomento dell’opera</head>Fu in riguardo della contesa delle tre dèe Troia nel suo eccidio da alcune deità combattuta, e da altre difesa. Venere non avendo potuto con la sua forza distornar le ruine da’ Priami, e vedendo di già consumati gl’ardori di guerra in incendi di fuoco, dispersa in fumi la patria del benefattore Paride, si diede a machinare vendette co ‘l drizzar le sue persecuzioni contro i distruttori di Troia. Le contrarie deità, che dispensarono favori alla giusta causa de’ Greci, intrapresero anco volentieri la difesa de’ gloriosi, e contrapponendosi alle macchine della rivale, favorirono con benigni influssi il ritorno de’ vincitori. Per tal causa gli eroi maggiori della Grecia furono fatti gioco delle concitate deità. Ulisse fra gli altri provò lunghissime le vicende, a questo più che ad ogni altro attesero l’insidie di Venere; onde istigando contro di lui il figliolo Amore, deità fra’ piaceri terribile, lo fece il corso di due lustri errare con perdita di roba, e compagni. Passò in questo tempo egli i mari più irati, vide i deserti più orridi, superò i mostri più fieri, calcò le magiche violenze, disprezzò le lusinghe del bello, visitò l’inferno, e rifiutò il dono dell’immortalità, per arrivare alla patria, e godere la moglie. Quanti lacci fabbricò Amore ministro dell’ira materna, tanti ne sciolse Mercurio esecutore del fato: onde le guerre divine tenendo dieci anni agitato, ed ERRANTE Ulisse, terminarono finalmente col ritorno dell’eroe in Itaca, e così ne’ petti celesti rimpatriò la pace.</div>
+      <div type="act">
+        <head>Azione prima</head>La scena è lo scoglio de’ Ciclopi nell’arcipelago.Personaggi della prima azione:Coro di Dèi, Amore, Mercurio, Discordianella prima scena in vece di prologo.Compagni di Ulisse, Polifemo, Ciclope, Oracolo, Galatea, coro di Ninfe ballatrici.Scena prima in luogo di prologoBoschereccia nello scoglio de’ Ciclopi.Coro primo di Deità amiche de’ Troiani. Coro secondo di Deità favorabili à Greci.Discordia, Mercurio, Amore.<div type="scene">
+          <head>Azione prima</head>La scena è lo scoglio de’ Ciclopi nell’arcipelago.Personaggi della prima azione:Coro di Dèi, Amore, Mercurio, Discordianella prima scena in vece di prologo.Compagni di Ulisse, Polifemo, Ciclope, Oracolo, Galatea, coro di Ninfe ballatrici.Scena prima in luogo di prologoBoschereccia nello scoglio de’ Ciclopi.Coro primo di Deità amiche de’ Troiani. Coro secondo di Deità favorabili à Greci.Discordia, Mercurio, Amore. <stage>Azione primaLa scena è lo scoglio de’ Ciclopi nell’arcipelago.Personaggi della prima azione:Coro di Dèi, Amore, Mercurio, Discordianella prima scena in vece di prologo.Compagni di Ulisse, Polifemo, Ciclope, Oracolo, Galatea, coro di Ninfe ballatrici.Scena prima in luogo di prologoBoschereccia nello scoglio de’ Ciclopi.Coro primo di Deità amiche de’ Troiani. Coro secondo di Deità favorabili à Greci.Discordia, Mercurio, Amore.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Iº</l>
+            <l>Ulisse in patria no non anderà.</l>
+            <l>IIº</l>
+            <l>Ulisse in patria sì ritornerà.</l>
+          </sp>
+          <stage>COROIºUlisse in patria no non anderà.IIºUlisse in patria sì ritornerà.</stage>
+          <sp who="#discordia">
+            <speaker>DISCORDIA:</speaker>
+            <l>Giù nel mondo, e che sarà?</l>
+            <l>Se contendono anco in ciel</l>
+            <l>le discordi deità?</l>
+            <l>Fra mortali, e chi potrà</l>
+            <l>fuggir l’ire, s’anco Amor</l>
+            <l>disdegnoso irato va?</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Accinto a grande impresa</l>
+            <l>oggi Cupido sei,</l>
+            <l>meco non hai contesa,</l>
+            <l>ma col re degli dèi.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>La contesa non schivo, e non disprezzo</l>
+            <l>alle vittorie avvezzo.</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Vuoi dunque Ulisse morto?</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>O morto, o vivo,</l>
+            <l>ben di sua patria privo.</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Ed io, che torni al desiato regno,</l>
+            <l>l’infallibil destin ti do per pegno.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Stringerò novi lacci</l>
+            <l>d’inganni, d’incanti</l>
+            <l>d’amori, di pianti, ch’alfin</l>
+            <l>vinceranno il destin.</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>L’amoroso desio</l>
+            <l>è un affetto che vola,</l>
+            <l>presto vien, poco sta, ratto s’invola.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Col fuggitivo greco</l>
+            <l>farò Nettun sdegnato.</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Ed io renderò seco</l>
+            <l>sempre Giove placato.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Contro il decreto eterno</l>
+            <l>conciterò l’inferno.</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Io svelerò tue frodi,</l>
+            <l>io scioglierò tuoi nodi.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Al cominciar.</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Alla frode.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>All’inganno.</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Al macchinar.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Voli voli chi sa volar.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>DISCORDIA</head>Mortali è mia quest’opra,dagli dèi disprezzatafeci col pono d’or fiera vendetta,dal cielo discacciataso nov’ira destar novo furore,e far ministro de’ miei sdegni Amore.Per me per me vedrete,e del tempo, e del locolo spazio e la misuranon obbedir natura;dalle guerre divinesia l’ordine distrutto,negl’errori d’Ulissesia disordine tutto.Scena secondaUlisse, e Compagni.ULISSETroia disfatta in cenere, e cavernenon riderà d’un’Elena rapita;noi sì ch’abbiam la vitasalva da tanti rischi,penosa chiamerem l’alta vittoria,ma ne’ perigli sol stassi la gloria.Abbiam finor fuggitole guerre degl’orribili Ciconi,l’oblivion de’ Lotofagi tristi,o memorie gioconde, o lieti acquisti.<sp who="#discordia">
+            <speaker>DISCORDIA:</speaker>
+            <l>Mortali è mia quest’opra,</l>
+            <l>dagli dèi disprezzata</l>
+            <l>feci col pono d’or fiera vendetta,</l>
+            <l>dal cielo discacciata</l>
+            <l>so nov’ira destar novo furore,</l>
+            <l>e far ministro de’ miei sdegni Amore.</l>
+            <l>Per me per me vedrete,</l>
+            <l>e del tempo, e del loco</l>
+            <l>lo spazio e la misura</l>
+            <l>non obbedir natura;</l>
+            <l>dalle guerre divine</l>
+            <l>sia l’ordine distrutto,</l>
+            <l>negl’errori d’Ulisse</l>
+            <l>sia disordine tutto.</l>
+            <l>Scena seconda</l>
+            <l>Ulisse, e Compagni.</l>
+            <l>ULISSE</l>
+            <l>Troia disfatta in cenere, e caverne</l>
+            <l>non riderà d’un’Elena rapita;</l>
+            <l>noi sì ch’abbiam la vita</l>
+            <l>salva da tanti rischi,</l>
+            <l>penosa chiamerem l’alta vittoria,</l>
+            <l>ma ne’ perigli sol stassi la gloria.</l>
+            <l>Abbiam finor fuggito</l>
+            <l>le guerre degl’orribili Ciconi,</l>
+            <l>l’oblivion de’ Lotofagi tristi,</l>
+            <l>o memorie gioconde, o lieti acquisti.</l>
+          </sp>
+          <stage>DISCORDIAMortali è mia quest’opra,dagli dèi disprezzatafeci col pono d’or fiera vendetta,dal cielo discacciataso nov’ira destar novo furore,e far ministro de’ miei sdegni Amore.Per me per me vedrete,e del tempo, e del locolo spazio e la misuranon obbedir natura;dalle guerre divinesia l’ordine distrutto,negl’errori d’Ulissesia disordine tutto.Scena secondaUlisse, e Compagni.ULISSETroia disfatta in cenere, e cavernenon riderà d’un’Elena rapita;noi sì ch’abbiam la vitasalva da tanti rischi,penosa chiamerem l’alta vittoria,ma ne’ perigli sol stassi la gloria.Abbiam finor fuggitole guerre degl’orribili Ciconi,l’oblivion de’ Lotofagi tristi,o memorie gioconde, o lieti acquisti.</stage>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>Gran virtù contenti aduna</l>
+            <l>gran virtù ria sorte opprime</l>
+            <l>di virtù serva è fortuna.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ULISSE</head>Ma non convien tanta baldanza ancora,vediamo pria ciò che destina il fatoquesto silvestre loco inabitatovuo’ penetrar, che la miglior fortunapalliata ben spesso all’uom si mostra,altri mi segua, altri alle navi vadaio vi farò co’ rischi miei la strada.Scena terzaAntro de’ Ciclopi con valle per dove passa il fiume Aci.Polifemo, Oracolo.<sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Ma non convien tanta baldanza ancora,</l>
+            <l>vediamo pria ciò che destina il fato</l>
+            <l>questo silvestre loco inabitato</l>
+            <l>vuo’ penetrar, che la miglior fortuna</l>
+            <l>palliata ben spesso all’uom si mostra,</l>
+            <l>altri mi segua, altri alle navi vada</l>
+            <l>io vi farò co’ rischi miei la strada.</l>
+            <l>Scena terza</l>
+            <l>Antro de’ Ciclopi con valle per dove passa il fiume Aci.</l>
+            <l>Polifemo, Oracolo.</l>
+          </sp>
+          <stage>ULISSEMa non convien tanta baldanza ancora,vediamo pria ciò che destina il fatoquesto silvestre loco inabitatovuo’ penetrar, che la miglior fortunapalliata ben spesso all’uom si mostra,altri mi segua, altri alle navi vadaio vi farò co’ rischi miei la strada.Scena terzaAntro de’ Ciclopi con valle per dove passa il fiume Aci.Polifemo, Oracolo.</stage>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Udite queste voci</l>
+            <l>ingiustissimi numi,</l>
+            <l>de miei grandi natali</l>
+            <l>offensori immortali:</l>
+            <l>io figlio di Nettuno,</l>
+            <l>del monarca del liquido elemento,</l>
+            <l>io, che porto terribile spavento</l>
+            <l>solingo abitator d’un antro oscuro,</l>
+            <l>sembro in scorza natia chiuso animal.</l>
+            <l>Mia forza orribile,</l>
+            <l>guardo terribile</l>
+            <l>niente mi val.</l>
+            <l>Numi sprezzatemi,</l>
+            <l>ingiuriatemi,</l>
+            <l>sono immortal.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Con ragion m’arrabbio, e fremo</l>
+            <l>per voi il cielo preparaste</l>
+            <l>fieri numi, e qui cacciaste</l>
+            <l>in un antro Polifemo.</l>
+          </sp>
+          <sp who="#oracolo">
+            <speaker>ORACOLO:</speaker>
+            <l>Ulisse il greco duce</l>
+            <l>ben tosto fia, ch’a questo scoglio arrivi,</l>
+            <l>e sia, che ardito privi</l>
+            <l>quell’occhio tuo di temeraria luce.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>POLIFEMO</head>Ah, ah, ch’io non paventooracolo di vento,quell’Ulisse, quell’uom forte, e robustoche può toglier la luce a questa moletorrà più facilmentedalla fronte del ciel l’occhio del sole.Scena quartaGalatea. Polifemo.<sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Ah, ah, ch’io non pavento</l>
+            <l>oracolo di vento,</l>
+            <l>quell’Ulisse, quell’uom forte, e robusto</l>
+            <l>che può toglier la luce a questa mole</l>
+            <l>torrà più facilmente</l>
+            <l>dalla fronte del ciel l’occhio del sole.</l>
+            <l>Scena quarta</l>
+            <l>Galatea. Polifemo.</l>
+          </sp>
+          <stage>POLIFEMOAh, ah, ch’io non paventooracolo di vento,quell’Ulisse, quell’uom forte, e robustoche può toglier la luce a questa moletorrà più facilmentedalla fronte del ciel l’occhio del sole.Scena quartaGalatea. Polifemo.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>GALATEA</head>Non so se liete, o meste,se innamorate, o pie,Aci mio trasformatosian le memorie mie;dileguato mio bene,ecco, che per goderti,per riposarti accantoteco mi unisco, e mi dileguo in pianto;già fummo un tempo stretti, or fatto seisei fiume vagabondo e fuggitivo,i languidi occhi mieisol per unirmi a te, formano un rivo.Amorosa ragion lacrime chiede,dritto è ben che si stilliin pianto, chi sospira un’onda errante,s’acqua è il suo ben, sia d’acqua anco l’amante.Ma che spargi lamentiGalatea, né rammenti,che cangiando il mortal corporeo veloquesto liquido cieloaccoglie immortal numel’adorato tuo fiume;festeggia pur in questa riva amenasarai dell’acque sue dolce sirena.Augellettisussurrate,bei fioretti,ricamate il vago suol;lieta auroraqui s’indora,qui si specchia il novo sol.Dalle spondecoloriteveggio l’ondepiù fiorite aprir il sen;bei cristallinei lor ballifan riflessi al ciel seren.Scena quintaPolifemo. Galatea.<div type="scene">
+          <head>GALATEA</head>Non so se liete, o meste,se innamorate, o pie,Aci mio trasformatosian le memorie mie;dileguato mio bene,ecco, che per goderti,per riposarti accantoteco mi unisco, e mi dileguo in pianto;già fummo un tempo stretti, or fatto seisei fiume vagabondo e fuggitivo,i languidi occhi mieisol per unirmi a te, formano un rivo.Amorosa ragion lacrime chiede,dritto è ben che si stilliin pianto, chi sospira un’onda errante,s’acqua è il suo ben, sia d’acqua anco l’amante.Ma che spargi lamentiGalatea, né rammenti,che cangiando il mortal corporeo veloquesto liquido cieloaccoglie immortal numel’adorato tuo fiume;festeggia pur in questa riva amenasarai dell’acque sue dolce sirena.Augellettisussurrate,bei fioretti,ricamate il vago suol;lieta auroraqui s’indora,qui si specchia il novo sol.Dalle spondecoloriteveggio l’ondepiù fiorite aprir il sen;bei cristallinei lor ballifan riflessi al ciel seren.Scena quintaPolifemo. Galatea.<sp who="#galatea">
+            <speaker>GALATEA:</speaker>
+            <l>Non so se liete, o meste,</l>
+            <l>se innamorate, o pie,</l>
+            <l>Aci mio trasformato</l>
+            <l>sian le memorie mie;</l>
+            <l>dileguato mio bene,</l>
+            <l>ecco, che per goderti,</l>
+            <l>per riposarti accanto</l>
+            <l>teco mi unisco, e mi dileguo in pianto;</l>
+            <l>già fummo un tempo stretti, or fatto sei</l>
+            <l>sei fiume vagabondo e fuggitivo,</l>
+            <l>i languidi occhi miei</l>
+            <l>sol per unirmi a te, formano un rivo.</l>
+            <l>Amorosa ragion lacrime chiede,</l>
+            <l>dritto è ben che si stilli</l>
+            <l>in pianto, chi sospira un’onda errante,</l>
+            <l>s’acqua è il suo ben, sia d’acqua anco l’amante.</l>
+            <l>Ma che spargi lamenti</l>
+            <l>Galatea, né rammenti,</l>
+            <l>che cangiando il mortal corporeo velo</l>
+            <l>questo liquido cielo</l>
+            <l>accoglie immortal nume</l>
+            <l>l’adorato tuo fiume;</l>
+            <l>festeggia pur in questa riva amena</l>
+            <l>sarai dell’acque sue dolce sirena.</l>
+            <l>Augelletti</l>
+            <l>sussurrate,</l>
+            <l>bei fioretti,</l>
+            <l>ricamate il vago suol;</l>
+            <l>lieta aurora</l>
+            <l>qui s’indora,</l>
+            <l>qui si specchia il novo sol.</l>
+            <l>Dalle sponde</l>
+            <l>colorite</l>
+            <l>veggio l’onde</l>
+            <l>più fiorite aprir il sen;</l>
+            <l>bei cristalli</l>
+            <l>nei lor balli</l>
+            <l>fan riflessi al ciel seren.</l>
+            <l>Scena quinta</l>
+            <l>Polifemo. Galatea.</l>
+          </sp>
+          <stage>GALATEANon so se liete, o meste,se innamorate, o pie,Aci mio trasformatosian le memorie mie;dileguato mio bene,ecco, che per goderti,per riposarti accantoteco mi unisco, e mi dileguo in pianto;già fummo un tempo stretti, or fatto seisei fiume vagabondo e fuggitivo,i languidi occhi mieisol per unirmi a te, formano un rivo.Amorosa ragion lacrime chiede,dritto è ben che si stilliin pianto, chi sospira un’onda errante,s’acqua è il suo ben, sia d’acqua anco l’amante.Ma che spargi lamentiGalatea, né rammenti,che cangiando il mortal corporeo veloquesto liquido cieloaccoglie immortal numel’adorato tuo fiume;festeggia pur in questa riva amenasarai dell’acque sue dolce sirena.Augellettisussurrate,bei fioretti,ricamate il vago suol;lieta auroraqui s’indora,qui si specchia il novo sol.Dalle spondecoloriteveggio l’ondepiù fiorite aprir il sen;bei cristallinei lor ballifan riflessi al ciel seren.Scena quintaPolifemo. Galatea.</stage>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Leggiadra Galatea,</l>
+            <l>eppur segui ostinata</l>
+            <l>un fuggitivo fiume,</l>
+            <l>e sprezzi ancora ingrata</l>
+            <l>innamorato nume;</l>
+            <l>son vani i pianti tuoi, vuota la spene,</l>
+            <l>insanabile il duol, stolte le pene;</l>
+            <l>Aci gentil morì,</l>
+            <l>più da tue braccia stretto ei non sarà,</l>
+            <l>piangi l’estinto sì;</l>
+            <l>ma pungati del vivo anco pietà.</l>
+          </sp>
+          <sp who="#galatea">
+            <speaker>GALATEA:</speaker>
+            <l>È vana tua fatica</l>
+            <l>hai perduto il rival, non la nemica,</l>
+            <l>non v’è pietade, non v’è mercé,</l>
+            <l>Aci tanto amo, quanto odio te.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>POLIFEMO</head>Partite dal mio coresperanze disperate,né più nutrite amore.Dal rigor di quel petto,dal gelo di quel coreil foco estinto cada;e nel mio fiero ingegnoceda amor disperato a giusto sdegno.Scena sestaUlisse. Compagni.<sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Partite dal mio core</l>
+            <l>speranze disperate,</l>
+            <l>né più nutrite amore.</l>
+            <l>Dal rigor di quel petto,</l>
+            <l>dal gelo di quel core</l>
+            <l>il foco estinto cada;</l>
+            <l>e nel mio fiero ingegno</l>
+            <l>ceda amor disperato a giusto sdegno.</l>
+            <l>Scena sesta</l>
+            <l>Ulisse. Compagni.</l>
+          </sp>
+          <stage>POLIFEMOPartite dal mio coresperanze disperate,né più nutrite amore.Dal rigor di quel petto,dal gelo di quel coreil foco estinto cada;e nel mio fiero ingegnoceda amor disperato a giusto sdegno.Scena sestaUlisse. Compagni.</stage>
+        </div>
+        <div type="scene">
+          <head>COMPAGNI</head>S’è ver, che saggia, e provvida naturanon opra indarno mai,come dir tu potrai,che questo loco inabitato sia?Qui di smeraldo i prati,fiorite l’erbe, e coloriti i fiori,del dipartito April serban gl’onori.Vedesti le campagnene le di latte, e non canute spiche,non lontane mostrar le biade amiche.Scena settimaPolifemo. Ulisse. Compagni.<sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>S’è ver, che saggia, e provvida natura</l>
+            <l>non opra indarno mai,</l>
+            <l>come dir tu potrai,</l>
+            <l>che questo loco inabitato sia?</l>
+            <l>Qui di smeraldo i prati,</l>
+            <l>fiorite l’erbe, e coloriti i fiori,</l>
+            <l>del dipartito April serban gl’onori.</l>
+            <l>Vedesti le campagne</l>
+            <l>ne le di latte, e non canute spiche,</l>
+            <l>non lontane mostrar le biade amiche.</l>
+            <l>Scena settima</l>
+            <l>Polifemo. Ulisse. Compagni.</l>
+          </sp>
+          <stage>COMPAGNIS’è ver, che saggia, e provvida naturanon opra indarno mai,come dir tu potrai,che questo loco inabitato sia?Qui di smeraldo i prati,fiorite l’erbe, e coloriti i fiori,del dipartito April serban gl’onori.Vedesti le campagnene le di latte, e non canute spiche,non lontane mostrar le biade amiche.Scena settimaPolifemo. Ulisse. Compagni.</stage>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Affé, che siete nella ragna colti</l>
+            <l>o semplicetti, o stolti.</l>
+            <l>Ma chi voi siate, e quale</l>
+            <l>destin, fortuna, o voglia</l>
+            <l>qui vi conduca io di saper intendo.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Noi greci siamo, e la superba Troia</l>
+            <l>a piè del grande Atride</l>
+            <l>vedemmo incenerita; or siam condotti</l>
+            <l>non pirati, e corsari</l>
+            <l>da combattuti venti,</l>
+            <l>da perigliosi mari.</l>
+          </sp>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>Giove supremo dio, ch’a tutti giova</l>
+            <l>a dolcezza, a pietade</l>
+            <l>il tuo gran genio mova.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Giove a sua voglia regge</l>
+            <l>il mal diviso impero,</l>
+            <l>ma l’immortal ciclope</l>
+            <l>non cura d’altro dio comando, o legge.</l>
+            <l>Voi tutti, voi sarete</l>
+            <l>esca di Polifemo</l>
+            <l>cibo della mia fame,</l>
+            <l>sazierò le mie brame,</l>
+            <l>con voi satollerò la voglia mia,</l>
+            <l>e questo il primo fia.</l>
+          </sp>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>Crudel ohimè crudel</l>
+            <l>anco in onta del ciel</l>
+            <l>l’umanità consumi?</l>
+            <l>O Giove, o cielo, o numi!</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Tu ch’hai sembianti, al gesto</l>
+            <l>mi rassembri il più forte, e par ch’ardisci</l>
+            <l>tentar contro di me vendetta, o danno.</l>
+            <l>Dimmi dimmi il tuo nome,</l>
+            <l>ch’io ti prometto, e giuro</l>
+            <l>di farti dono tal, che ti fia grato.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Niuno mi chiam’io</l>
+            <l>Niuno mi nomaro</l>
+            <l>la madre, e ‘l padre mio;</l>
+            <l>ma che don mi puoi far crudel spietato</l>
+            <l>se d’un compagno amato</l>
+            <l>m’hai già, m’hai già privato.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Niun l’ultimo fia, ch’io mangiar deggio</l>
+            <l>dopo i compagni suoi.</l>
+            <l>Questo è il don, ch’io promisi; e che più vuoi?</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Crudel’è il don, più crudo il donatore,</l>
+            <l>non dona altro, che danno</l>
+            <l>disumanato core;</l>
+            <l>ma già che sì t’aggrada</l>
+            <l>la nostra carne in cibo</l>
+            <l>gustar non ti dispiaccia</l>
+            <l>questa greca bevanda.</l>
+            <l>Dal presente periglio</l>
+            <l>novi partiti imparo;</l>
+            <l>a’ disperati ogni consiglio è caro.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>O buon greco, o buono affé</l>
+            <l>un bicchier non basta no.</l>
+          </sp>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>Bacco può</l>
+            <l>consolar chi è mal sicur</l>
+            <l>bevi pur.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Suona tu, suona clò clò</l>
+            <l>una volta, due, e tre.</l>
+          </sp>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>Bacco de’</l>
+            <l>consolar chi è mal sicur,</l>
+            <l>bevi pur.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Come gode, come ride allegro il cor</l>
+            <l>qual porta letizia il dolce licor:</l>
+            <l>nell’occhio m’abbonda</l>
+            <l>ne’ sensi m’inonda</l>
+            <l>soave sapor.</l>
+          </sp>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>Vieni sonno, sonno grato</l>
+            <l>al grand’occhio oscura il dì</l>
+            <l>dormi sì,</l>
+            <l>Polifemo dormi sì.</l>
+          </sp>
+          <sp who="#altri compagni">
+            <speaker>ALTRI COMPAGNI:</speaker>
+            <l>Dorme affé.</l>
+          </sp>
+          <sp who="#altri">
+            <speaker>ALTRI:</speaker>
+            <l>Taci ohimè.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Fidi, e forti compagni</l>
+            <l>or ch’ebro dorme il perfido, e spietato</l>
+            <l>è tempo di tentar vendetta, e fuga;</l>
+            <l>ne toglie il cielo, il fato</l>
+            <l>dar la morte al feroce.</l>
+          </sp>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>Perché?</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Perché? Perché immortal è nato;</l>
+            <l>ben fia sano consiglio</l>
+            <l>all’occhio del crudel toglier il sole,</l>
+            <l>ond’egli cieco in tenebrosa notte</l>
+            <l>non veggia più de’ nostri passi l’orme.</l>
+            <l>Drizzate o dèi l’effetto</l>
+            <l>a miei desir conforme.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>POLIFEMO</head>Ohimè chi mi tradisce?Voi vicini cieloaccorrete, accorretee ‘l perfido uccidete.Scena ottavaCiclope. Polifemo.<sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Ohimè chi mi tradisce?</l>
+            <l>Voi vicini cielo</l>
+            <l>accorrete, accorrete</l>
+            <l>e ‘l perfido uccidete.</l>
+            <l>Scena ottava</l>
+            <l>Ciclope. Polifemo.</l>
+          </sp>
+          <stage>POLIFEMOOhimè chi mi tradisce?Voi vicini cieloaccorrete, accorretee ‘l perfido uccidete.Scena ottavaCiclope. Polifemo.</stage>
+          <sp who="#ciclope">
+            <speaker>CICLOPE:</speaker>
+            <l>Amico Polifemo, e chi ti oltraggia,</l>
+            <l>chi turba la tua quiete,</l>
+            <l>chi doglioso ti rende?</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Niun, Niun m’offende:</l>
+          </sp>
+          <sp who="#ciclope">
+            <speaker>CICLOPE:</speaker>
+            <l>E se niun t’offende</l>
+            <l>or perché stolto gridi;</l>
+            <l>se ti castiga Giove,</l>
+            <l>e che potiamo noi contra niuno?</l>
+            <l>Invoca, e prega il padre tuo Nettuno.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Ohimè, che dalla doglia</l>
+            <l>l’alma mi si diparte;</l>
+            <l>ma cercherò la parte</l>
+            <l>dell’uscita dell’antro, e s’io la trovo</l>
+            <l>non anderà impunito</l>
+            <l>il sagace, l’ardito.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Non cercar Polifemo</l>
+            <l>non t’affannar più no;</l>
+            <l>io sono Ulisse il greco,</l>
+            <l>son quel che t’accecò.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Ah fu troppo verace</l>
+            <l>l’oracolo da me schernito pria:</l>
+            <l>ma se la destra mia</l>
+            <l>dell’usato valore il ciel non priva,</l>
+            <l>attendi Ulisse, attendi</l>
+            <l>ch’all’altera tua fronte</l>
+            <l>mando per aria messaggero un monte.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Cieco saettator</l>
+            <l>lunge colpir non sa.</l>
+          </sp>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>Siam noi fuggiti già.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Chiama Nettuno pur, chiama in aiuto</l>
+            <l>che l’occhio già perduto</l>
+            <l>ei non ti renderà.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>POLIFEMO</head>Pietà Nettun pietà,sommergi tu l’iniquo,vendica padre amatoqueste lagrime amarecon l’onda del tuo mare.La natura empia matrignasolo un occhio mi donò,sorte rea, sorte malignadel sol occhio mi acciecò.Qual dei torti or piangerò?Scarsa natura il tuo favor avaroor tua perdita saràse mi desti un occhio solnel mio fiero atroce duolun sol occhio piangerà.Per te sorte mi fe’ ciecofinto, e perfido Niun,che vorrebbe cieco ognun,una cieca deità.Cielo vincesti or non siam più rivaligià che fra queste grottein tenebrosa nottedel mio sole perduto io mi querelo,non si dirà più Polifemo il cielo.Scena nonaGalatea.<sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Pietà Nettun pietà,</l>
+            <l>sommergi tu l’iniquo,</l>
+            <l>vendica padre amato</l>
+            <l>queste lagrime amare</l>
+            <l>con l’onda del tuo mare.</l>
+            <l>La natura empia matrigna</l>
+            <l>solo un occhio mi donò,</l>
+            <l>sorte rea, sorte maligna</l>
+            <l>del sol occhio mi acciecò.</l>
+            <l>Qual dei torti or piangerò?</l>
+            <l>Scarsa natura il tuo favor avaro</l>
+            <l>or tua perdita sarà</l>
+            <l>se mi desti un occhio sol</l>
+            <l>nel mio fiero atroce duol</l>
+            <l>un sol occhio piangerà.</l>
+            <l>Per te sorte mi fe’ cieco</l>
+            <l>finto, e perfido Niun,</l>
+            <l>che vorrebbe cieco ognun,</l>
+            <l>una cieca deità.</l>
+            <l>Cielo vincesti or non siam più rivali</l>
+            <l>già che fra queste grotte</l>
+            <l>in tenebrosa notte</l>
+            <l>del mio sole perduto io mi querelo,</l>
+            <l>non si dirà più Polifemo il cielo.</l>
+            <l>Scena nona</l>
+            <l>Galatea.</l>
+          </sp>
+          <stage>POLIFEMOPietà Nettun pietà,sommergi tu l’iniquo,vendica padre amatoqueste lagrime amarecon l’onda del tuo mare.La natura empia matrignasolo un occhio mi donò,sorte rea, sorte malignadel sol occhio mi acciecò.Qual dei torti or piangerò?Scarsa natura il tuo favor avaroor tua perdita saràse mi desti un occhio solnel mio fiero atroce duolun sol occhio piangerà.Per te sorte mi fe’ ciecofinto, e perfido Niun,che vorrebbe cieco ognun,una cieca deità.Cielo vincesti or non siam più rivaligià che fra queste grottein tenebrosa nottedel mio sole perduto io mi querelo,non si dirà più Polifemo il cielo.Scena nonaGalatea.</stage>
+          <sp who="#galatea">
+            <speaker>GALATEA:</speaker>
+            <l>Aci diletto</l>
+            <l>mio vezzosetto,</l>
+            <l>dolce vendetta or mira:</l>
+            <l>con duolo estremo,</l>
+            <l>qui Polifemo</l>
+            <l>cieco s’aggira:</l>
+            <l>la sua miseria la tua doglia eccede,</l>
+            <l>se tu non godi il bello, egli no ‘l vede.</l>
+            <l>Ninfe sorgete</l>
+            <l>da bei cristalli,</l>
+            <l>a lieti balli</l>
+            <l>il piè movete,</l>
+            <l>uscite a schiera</l>
+            <l>gite ballando</l>
+            <l>le vie calcando di primavera.</l>
+            <l>Festose e belle</l>
+            <l>danzate ogn’ora,</l>
+            <l>ch’in cielo ancora</l>
+            <l>danzan le stelle,</l>
+            <l>più non vedremo no l’empio gigante,</l>
+            <l>se non ama alla cieca esser’amante.</l>
+            <l>Ballate, danzate</l>
+            <l>col tremulo piè,</l>
+            <l>saltate, girate</l>
+            <l>ch’il cieco non v’è.</l>
+            <l>Ballo delle Ninfe del fiume Aci.</l>
+          </sp>
+          <stage>GALATEAAci dilettomio vezzosetto,dolce vendetta or mira:con duolo estremo,qui Polifemocieco s’aggira:la sua miseria la tua doglia eccede,se tu non godi il bello, egli no ‘l vede.Ninfe sorgeteda bei cristalli,a lieti balliil piè movete,uscite a schieragite ballandole vie calcando di primavera.Festose e belledanzate ogn’ora,ch’in cielo ancoradanzan le stelle,più non vedremo no l’empio gigante,se non ama alla cieca esser’amante.Ballate, danzatecol tremulo piè,saltate, giratech’il cieco non v’è.Ballo delle Ninfe del fiume Aci.</stage>
+        </div>
+        <div type="scene">
+          <head>Azione seconda</head>La scena è l’isola di Circe.Personaggi della seconda azione:Mercurio, Ulisse, compagni d’Ulisse, Circe, damigelle di Circe.Statue, che parlano. Cavalieri, e Dame, che ballano.Scena primaBoschereccia nell’isola di Circe.Ulisse.Son troppo o ciel frequentii tuoi sdegni i miei danni;troppo le stelle troppoamano i miei tormenti, a pena uscitodall’antro periglioso,che contro anco il favor d’Eolo cortesedisprigionati i ventiarmano a danno mio d’orgoglio i flutti:già vidi i lestrigoniscagliar le rupi, e fulminar i monti,ed alle navi amichepiover naufragi, e tempestar le morti.Ed or dell’amatissimo Politesoggetto forse a caso orrendo, e stranol’aspettato ritorno io cerco invano.Scena secondaMercurio, Ulisse. <stage>Azione secondaLa scena è l’isola di Circe.Personaggi della seconda azione:Mercurio, Ulisse, compagni d’Ulisse, Circe, damigelle di Circe.Statue, che parlano. Cavalieri, e Dame, che ballano.Scena primaBoschereccia nell’isola di Circe.Ulisse.Son troppo o ciel frequentii tuoi sdegni i miei danni;troppo le stelle troppoamano i miei tormenti, a pena uscitodall’antro periglioso,che contro anco il favor d’Eolo cortesedisprigionati i ventiarmano a danno mio d’orgoglio i flutti:già vidi i lestrigoniscagliar le rupi, e fulminar i monti,ed alle navi amichepiover naufragi, e tempestar le morti.Ed or dell’amatissimo Politesoggetto forse a caso orrendo, e stranol’aspettato ritorno io cerco invano.Scena secondaMercurio, Ulisse.</stage>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Ulisse e dove vai?</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>O bel Cillenio, o favorabil dio.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>MERCURIO</head>Del vicino palagioè Circe abitatrice,Circe l’incantatrice:colà vedrai stupori,meraviglie udirai,da quell’arte incantatanatura è superata.Mostreranno a’ tuoi passiumanità le belve, e senso i sassi.In Polite è secogl’altri da te mandati, in fiere, in belvevivono trasformati.Del mio consiglio privosimil destin ti aspettavieni, che nel brevissimo viaggiosaprai come tu possavincer di Circe i vanti,destar gl’amori, e superar gl’incanti.Scena terzaCortile di Circe con Statue.Due damigelle di Circe.<sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Del vicino palagio</l>
+            <l>è Circe abitatrice,</l>
+            <l>Circe l’incantatrice:</l>
+            <l>colà vedrai stupori,</l>
+            <l>meraviglie udirai,</l>
+            <l>da quell’arte incantata</l>
+            <l>natura è superata.</l>
+            <l>Mostreranno a’ tuoi passi</l>
+            <l>umanità le belve, e senso i sassi.</l>
+            <l>In Polite è seco</l>
+            <l>gl’altri da te mandati, in fiere, in belve</l>
+            <l>vivono trasformati.</l>
+            <l>Del mio consiglio privo</l>
+            <l>simil destin ti aspetta</l>
+            <l>vieni, che nel brevissimo viaggio</l>
+            <l>saprai come tu possa</l>
+            <l>vincer di Circe i vanti,</l>
+            <l>destar gl’amori, e superar gl’incanti.</l>
+            <l>Scena terza</l>
+            <l>Cortile di Circe con Statue.</l>
+            <l>Due damigelle di Circe.</l>
+          </sp>
+          <stage>MERCURIODel vicino palagioè Circe abitatrice,Circe l’incantatrice:colà vedrai stupori,meraviglie udirai,da quell’arte incantatanatura è superata.Mostreranno a’ tuoi passiumanità le belve, e senso i sassi.In Polite è secogl’altri da te mandati, in fiere, in belvevivono trasformati.Del mio consiglio privosimil destin ti aspettavieni, che nel brevissimo viaggiosaprai come tu possavincer di Circe i vanti,destar gl’amori, e superar gl’incanti.Scena terzaCortile di Circe con Statue.Due damigelle di Circe.</stage>
+          <sp who="#damigella prima">
+            <speaker>DAMIGELLA PRIMA:</speaker>
+            <l>Al soffio d’un vento</l>
+            <l>svanisce il goder,</l>
+            <l>d’un solo momento</l>
+            <l>si veste il piacer.</l>
+          </sp>
+          <sp who="#damigella seconda">
+            <speaker>DAMIGELLA SECONDA:</speaker>
+            <l>Non passi in rifiuto</l>
+            <l>quel ch’oggi ne dà</l>
+            <l>che ieri è perduto</l>
+            <l>dimani non si ha.</l>
+          </sp>
+          <sp who="#damigella prima">
+            <speaker>DAMIGELLA PRIMA:</speaker>
+            <l>Amanti godete</l>
+            <l>del tempo prendete</l>
+            <l>a scherzo lo scherno.</l>
+          </sp>
+          <sp who="#a due">
+            <speaker>A DUE:</speaker>
+            <l>Lieti d’Amor</l>
+            <l>cogliete i fior</l>
+            <l>prima che giunga il verno.</l>
+          </sp>
+          <sp who="#damigella prima">
+            <speaker>DAMIGELLA PRIMA:</speaker>
+            <l>Per duolo, o parola</l>
+            <l>mai ferma non sta</l>
+            <l>l’estate, che vola,</l>
+            <l>la vita che va.</l>
+          </sp>
+          <sp who="#damigella seconda">
+            <speaker>DAMIGELLA SECONDA:</speaker>
+            <l>Del tempo l’inganno</l>
+            <l>non possi schivar,</l>
+            <l>ben fugge l’affanno</l>
+            <l>chi sallo sprezzar.</l>
+          </sp>
+          <sp who="#damigella prima">
+            <speaker>DAMIGELLA PRIMA:</speaker>
+            <l>Amanti contenti</l>
+            <l>chiamate i tormenti</l>
+            <l>trastulli d’Averno.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>A DUE</head>Lieti d’amorcogliete i fiorprima che giunga il verno.Scena quartaUlisse, Damigelle, Compagni, Circe.ULISSESon qui (s’il ver n’intesi)metamorfosi stranefiere le donne, e son le fiere umane.Son le belve cortesie spietata la magadisumanar l’umanità s’appaga.<sp who="#a due">
+            <speaker>A DUE:</speaker>
+            <l>Lieti d’amor</l>
+            <l>cogliete i fior</l>
+            <l>prima che giunga il verno.</l>
+            <l>Scena quarta</l>
+            <l>Ulisse, Damigelle, Compagni, Circe.</l>
+            <l>ULISSE</l>
+            <l>Son qui (s’il ver n’intesi)</l>
+            <l>metamorfosi strane</l>
+            <l>fiere le donne, e son le fiere umane.</l>
+            <l>Son le belve cortesi</l>
+            <l>e spietata la maga</l>
+            <l>disumanar l’umanità s’appaga.</l>
+          </sp>
+          <stage>A DUELieti d’amorcogliete i fiorprima che giunga il verno.Scena quartaUlisse, Damigelle, Compagni, Circe.ULISSESon qui (s’il ver n’intesi)metamorfosi stranefiere le donne, e son le fiere umane.Son le belve cortesie spietata la magadisumanar l’umanità s’appaga.</stage>
+          <sp who="#damigella">
+            <speaker>DAMIGELLA:</speaker>
+            <l>Vieni Circe alla preda.</l>
+          </sp>
+          <sp who="#le due damigelle">
+            <speaker>LE DUE DAMIGELLE:</speaker>
+            <l>Volgar non è l’acquisto,</l>
+            <l>il nobil cavalier non far che rieda;</l>
+            <l>alla preda alla preda.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>Viator curioso</l>
+            <l>rimira, osserva, godi,</l>
+            <l>e in disusati modi</l>
+            <l>servo della mia voglia</l>
+            <l>cangia pensiero, e spoglia.</l>
+            <l>Di questa verga al replicato cenno</l>
+            <l>per cui la terra, e ‘l ciel si cangia e muta</l>
+            <l>s’uomo sei ti tramuta.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Empia maga inumana.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>Ohimè pietade, ohimè bello, e sdegnoso,</l>
+            <l>se per virtù celeste</l>
+            <l>ti sei reso immutabile agl’incanti,</l>
+            <l>non farti inesorabile a’ miei pianti.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Tua frode non mi alletta,</l>
+            <l>e nemica ed amante</l>
+            <l>Circe è sempre sospetta.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>Disarmo il petto mio d’inganni, e d’arte</l>
+            <l>chieggio pietà, mercede,</l>
+            <l>cangio la frode in fede,</l>
+            <l>e porgo umili voti al mio bel Marte.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>A incognito straniero</l>
+            <l>come, come s’inchina</l>
+            <l>diva, donna, o regina.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>Mercurio alato dio</l>
+            <l>più volte mi predisse</l>
+            <l>la tua venuta Ulisse.</l>
+            <l>Il tuo valor, che noto a me ti rende</l>
+            <l>anco l’affetto accende.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Ardor di maga è periglioso foco,</l>
+            <l>far si puote mortale</l>
+            <l>ogni scherzo, ogni gioco.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>Godi mia vita, e non temer d’inganni,</l>
+            <l>cogli quel fior, ch’io ti presento in seno</l>
+            <l>t’apre il ciel nel mio volto un bel sereno</l>
+            <l>di tue fortune a ristorar i danni.</l>
+            <l>Voi Felinda e Licori</l>
+            <l>l’eroe con vostri canti</l>
+            <l>invitate agl’amori.</l>
+          </sp>
+          <sp who="#le due damigelle">
+            <speaker>LE DUE DAMIGELLE:</speaker>
+            <l>O cieco non vede, o ingegno non ha</l>
+            <l>chi sdegna, e non cura cortese beltà.</l>
+            <l>Chi folle, chi stolto</l>
+            <l>la grazia di un volto disprezza,</l>
+            <l>non sa che sia gioir, che sia dolcezza:</l>
+            <l>solo amando si gode</l>
+            <l>stato lieto, e giocondo</l>
+            <l>amor e la beltà fan caro il mondo.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>In virtù de’ miei carmi</l>
+            <l>spogliate il pelo, e rivestite l’armi.</l>
+            <l>Se pur sono in amore i doni grati</l>
+            <l>ecco ch’a te riedono i greci amati.</l>
+          </sp>
+          <sp who="#compagni di ulisse">
+            <speaker>COMPAGNI DI ULISSE:</speaker>
+            <l>Noi padre ti direm se figli sono</l>
+            <l>gl’uomini generati, ancor son figli</l>
+            <l>gl’uomini ritornati.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>Ristora or tu contento</l>
+            <l>l’innamorata amica.</l>
+            <l>Non costa il godimento</l>
+            <l>né tesor né fatica.</l>
+          </sp>
+          <sp who="#damigella prima">
+            <speaker>DAMIGELLA PRIMA:</speaker>
+            <l>Sprezzar donna che prega</l>
+            <l>è stolta voglia insana.</l>
+          </sp>
+          <sp who="#damigella seconda">
+            <speaker>DAMIGELLA SECONDA:</speaker>
+            <l>Alma che piacer nega</l>
+            <l>è divina, o villana.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>Discaccia il dubbio, il forse,</l>
+            <l>segna fra’ tuoi più cari un sì bel dì,</l>
+            <l>cor mio deh dimmi sì.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>La patria che m’aspetta</l>
+            <l>non vuol ch’io ti prometta.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>Giuro per gl’alti dèi, per Stige orrenda</l>
+            <l>un’ora, un’ora sola</l>
+            <l>sforzato non fermarti.</l>
+          </sp>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>Così la donna accorta</l>
+            <l>del dubbio passo, ond’altri sì innamora,</l>
+            <l>spesso la strada ingemma, e ‘l suolo indora.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>Io ti prometto, e giuro</l>
+            <l>un’ora, un’ora sola</l>
+            <l>sforzato non fermarti;</l>
+            <l>ma sin che vuoi goderti,</l>
+            <l>quando vorrai lasciarti.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Bella amorosa diva</l>
+            <l>alle preghiere cedo,</l>
+            <l>al giuramento io credo.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>O dolcezze d’amore</l>
+            <l>quanto improvvise più, più care al core.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>O bellezze beate</l>
+            <l>quanto servite men, tanto più grate.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CIRCE E ULISSE</head>O stoltezza d’amanticercar piaceri, e cominciar da’ pianti.Scena quintaDamigelle, Compagni, e Statue.<sp who="#circe e ulisse">
+            <speaker>CIRCE E ULISSE:</speaker>
+            <l>O stoltezza d’amanti</l>
+            <l>cercar piaceri, e cominciar da’ pianti.</l>
+            <l>Scena quinta</l>
+            <l>Damigelle, Compagni, e Statue.</l>
+          </sp>
+          <stage>CIRCE E ULISSEO stoltezza d’amanticercar piaceri, e cominciar da’ pianti.Scena quintaDamigelle, Compagni, e Statue.</stage>
+          <sp who="#damigelle">
+            <speaker>DAMIGELLE:</speaker>
+            <l>In tanto</l>
+            <l>co ‘l canto</l>
+            <l>passiam lieto dì.</l>
+          </sp>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>D’Ulisse il diletto…</l>
+          </sp>
+          <sp who="#damigelle">
+            <speaker>DAMIGELLE:</speaker>
+            <l>Di Circe l’affetto</l>
+            <l>cantiamo così.</l>
+            <l>Ma prima è ben, che voi sappiate, o greci</l>
+            <l>che non son queste statue, o sorde, o mute.</l>
+            <l>Ivi stanno nascosi</l>
+            <l>Lara, Zoilo, Teon, ed altri molti</l>
+            <l>uomini trasformati, e donne ancora:</l>
+            <l>ch’odono l’altrui parole,</l>
+            <l>e parlano talora.</l>
+          </sp>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>Questa forma novella</l>
+            <l>troppo nel vivo offende</l>
+            <l>la scarsa libertà della favella.</l>
+          </sp>
+          <sp who="#altro">
+            <speaker>ALTRO:</speaker>
+            <l>Non basterà guardarsi</l>
+            <l>dall’uom troppo loquace, anco dovrassi</l>
+            <l>temer le statue, e dubitar de’ sassi?</l>
+          </sp>
+          <sp who="#statue">
+            <speaker>STATUE:</speaker>
+            <l>Quanti sembrano in viso e statue e marmi</l>
+            <l>ch’han pronte a’ danni altrui le prose, e i carmi.</l>
+          </sp>
+          <sp who="#damigelle">
+            <speaker>DAMIGELLE:</speaker>
+            <l>Questi è Zoilo mordace</l>
+            <l>raro, o non mai mendace.</l>
+          </sp>
+          <sp who="#altra">
+            <speaker>ALTRA:</speaker>
+            <l>Amici greci a lor non rispondete</l>
+            <l>osservate i lor detti, e trascorrete.</l>
+          </sp>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>Come vuol che scherzi il ciel</l>
+            <l>il mortal con l’immortal</l>
+            <l>e qual genio empio e crudel</l>
+            <l>sa far l’uom bruto animal.</l>
+          </sp>
+          <sp who="#damigelle">
+            <speaker>DAMIGELLE:</speaker>
+            <l>Tiene l’uom le donne a vil</l>
+            <l>il tiran della beltà,</l>
+            <l>né può mai rendersi umil</l>
+            <l>se pria d’uom non si disfà.</l>
+          </sp>
+          <sp who="#statua">
+            <speaker>STATUA:</speaker>
+            <l>Quinci le donne accorte</l>
+            <l>perché divenga umile</l>
+            <l>trasformano il consorte.</l>
+          </sp>
+          <sp who="#damigelle">
+            <speaker>DAMIGELLE:</speaker>
+            <l>Da maledico satiro dovea</l>
+            <l>uscir cosa sì rea.</l>
+          </sp>
+          <sp who="#altra">
+            <speaker>ALTRA:</speaker>
+            <l>La donna in amore</l>
+            <l>più d’uno n’invita,</l>
+            <l>vuol esser servita.</l>
+          </sp>
+          <sp who="#statua">
+            <speaker>STATUA:</speaker>
+            <l>La stolta fa errore</l>
+            <l>pria ch’abbia peccato</l>
+            <l>l’onor se n’è andato.</l>
+          </sp>
+          <sp who="#damigelle">
+            <speaker>DAMIGELLE:</speaker>
+            <l>Bellezza femminile</l>
+            <l>quasi pianta si spoglia,</l>
+            <l>ha poco frutto amor se non ha foglia.</l>
+          </sp>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>Primavera gentile</l>
+            <l>di donnesca beltà</l>
+            <l>perciò pregia l’Aprile</l>
+            <l>della più fresca età.</l>
+          </sp>
+          <sp who="#statua">
+            <speaker>STATUA:</speaker>
+            <l>Giovanetto amator dà pene, e guai,</l>
+            <l>poco ama, e parla assai.</l>
+          </sp>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>Lamentevole, e mesta</l>
+            <l>Circe ver noi se n’ viene,</l>
+            <l>son ben presto seguaci</l>
+            <l>delle gioie le pene.</l>
+          </sp>
+          <sp who="#damigelle">
+            <speaker>DAMIGELLE:</speaker>
+            <l>Amor gioco è di dado</l>
+            <l>le fortune son corte,</l>
+            <l>ogni punto scompiglia, e cangia sorte.</l>
+          </sp>
+          <sp who="#altra">
+            <speaker>ALTRA:</speaker>
+            <l>Gettò mal punto Ulisse</l>
+            <l>perché sforzato stassi.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>STATUA</head>E nel gioco d’amorealle donne non piacciono gl’ambassi.Scena sestaCirce, Ulisse, Compagni.<sp who="#statua">
+            <speaker>STATUA:</speaker>
+            <l>E nel gioco d’amore</l>
+            <l>alle donne non piacciono gl’ambassi.</l>
+            <l>Scena sesta</l>
+            <l>Circe, Ulisse, Compagni.</l>
+          </sp>
+          <stage>STATUAE nel gioco d’amorealle donne non piacciono gl’ambassi.Scena sestaCirce, Ulisse, Compagni.</stage>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>O come, ahi come presto</l>
+            <l>cangi pensiero e voglia;</l>
+            <l>appena hai tocca l’amorosa soglia,</l>
+            <l>ch’il palagio d’amor ti vien molesto.</l>
+            <l>Viator sitibondo</l>
+            <l>al desiato fiume</l>
+            <l>china il ginocchio appena,</l>
+            <l>che trattane la sete</l>
+            <l>al baciato cristal rivolge il tergo;</l>
+            <l>così tu discortese</l>
+            <l>lasci il goduto albergo,</l>
+            <l>e porgi un sorso solo</l>
+            <l>alla tua sete alla tua fuga il volo.</l>
+            <l>Ulisse ahi crudo Ulisse</l>
+            <l>mostri un raggio di sol col piè di lampo,</l>
+            <l>che porta agl’occhi pace,</l>
+            <l>lucida, ma fugace.</l>
+            <l>Trapianti le dolcezze</l>
+            <l>sugl’orli de’ sepolcri,</l>
+            <l>perché lieta d’amor gioconda sorte</l>
+            <l>confini con la morte.</l>
+            <l>O come, o come presta</l>
+            <l>vicina al lampeggiar de’ primi albori</l>
+            <l>del mio fugace dì la sera è gionta.</l>
+            <l>Né so ben, se più vidi</l>
+            <l>l’aurora di quel sol, ch’or mi tramonta.</l>
+            <l>Meco piangete amanti</l>
+            <l>dei piaceri le fughe,</l>
+            <l>dell’allegrezze i corsi,</l>
+            <l>sono di vetro l’amorose pompe,</l>
+            <l>e la gioia d’amor splende, e si rompe,</l>
+            <l>se di bocca baciata il prego è dolce.</l>
+            <l>Ulisse ah non partir, deh non partire,</l>
+            <l>troppo è grave martire,</l>
+            <l>piacer poco goduto</l>
+            <l>piacer tosto perduto.</l>
+            <l>E la tua dipartita</l>
+            <l>fugace troppo, e presta,</l>
+            <l>resta Ulisse, deh resta.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Cadei da te pregato, e non t’ascosi</l>
+            <l>la ferma volontà del partir mio,</l>
+            <l>godei necessitato,</l>
+            <l>osserva, osserva tu ciò che giurasti!</l>
+            <l>Diva sei, questo basti.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>Alle gioconde dive</l>
+            <l>non è tolto l’amar,</l>
+            <l>a innamorato core</l>
+            <l>non disdice il pregar,</l>
+            <l>amorosa preghiera</l>
+            <l>contro ragion molesta,</l>
+            <l>resta Ulisse, deh resta.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Spergiura tu sarai,</l>
+            <l>se il tuo pregar mi sforza,</l>
+            <l>talvolta ancora i vezzi</l>
+            <l>han titolo di forza.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>Niente può niente vale</l>
+            <l>in duro core inutile bellezza,</l>
+            <l>di tua fiera durezza</l>
+            <l>l’ultima prova è questa,</l>
+            <l>resta Ulisse, deh resta.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Risoluto voler mi fa crudele,</l>
+            <l>ergiti Circe, e lascia</l>
+            <l>i preghi e le querele,</l>
+            <l>la patria mi ricerca,</l>
+            <l>Penelope mi attende,</l>
+            <l>il partir desiato</l>
+            <l>chi mi vieta m’offende.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>Il tuo petto orgoglioso</l>
+            <l>nemico è di riposo,</l>
+            <l>già che fuggi il godere,</l>
+            <l>avrai danni, e sventure, ed or convienti</l>
+            <l>gir nel profondo inferno:</l>
+            <l>con orribile fiato</l>
+            <l>ivi ti condurrà Borea spietato</l>
+            <l>per intracciar dall’indovin tebano</l>
+            <l>i segreti del fato.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Danni non temo, e non pavento orrori.</l>
+          </sp>
+          <sp who="#compagni">
+            <speaker>COMPAGNI:</speaker>
+            <l>Fuggansi pur gl’effeminati amori.</l>
+          </sp>
+          <sp who="#circe">
+            <speaker>CIRCE:</speaker>
+            <l>Copra omai le delizie a questo cielo</l>
+            <l>nero e funesto velo.</l>
+            <l>Sparisca pur sparisca</l>
+            <l>l’incantato cortile,</l>
+            <l>e gli spirti legati</l>
+            <l>in virtù degl’incanti</l>
+            <l>sciolgansi lieti a suoni, a balli, a canti.</l>
+            <l>Rovina la scena e si trasforma in orrida.</l>
+            <l>Ballo di Dame, e di Cavalieri.</l>
+          </sp>
+          <stage>CIRCECopra omai le delizie a questo cielonero e funesto velo.Sparisca pur spariscal’incantato cortile,e gli spirti legatiin virtù degl’incantisciolgansi lieti a suoni, a balli, a canti.Rovina la scena e si trasforma in orrida.Ballo di Dame, e di Cavalieri.</stage>
+        </div>
+        <div type="scene">
+          <head>Azione terza</head>Nell’inferno. La scena è la città di Dite co’ campi elisi.Personaggi della terza azione:Amore, Plutone, Frode, la medesima in sembianza di Penelope, Tiresia, Ulisse.Mostri infernali, che ballano.Scena primaInfernale co’ campi elisi.Plutone. Amore. <stage>Azione terzaNell’inferno. La scena è la città di Dite co’ campi elisi.Personaggi della terza azione:Amore, Plutone, Frode, la medesima in sembianza di Penelope, Tiresia, Ulisse.Mostri infernali, che ballano.Scena primaInfernale co’ campi elisi.Plutone. Amore.</stage>
+          <sp who="#plutone">
+            <speaker>PLUTONE:</speaker>
+            <l>Qual fiero caso, o qual desio novello</l>
+            <l>amoroso Cupido</l>
+            <l>ti guida in questi orrori?</l>
+            <l>Son dissimili troppo</l>
+            <l>dalle furie gl’amori.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Un temerario greco,</l>
+            <l>Ulisse l’itacense,</l>
+            <l>vivo e mortal se n’ viene, e tentar vuole,</l>
+            <l>per riparar sue sorti,</l>
+            <l>di vaticinio i morti;</l>
+            <l>non lasciar, ch’egli porti</l>
+            <l>il passo in questi regni,</l>
+            <l>è troppo offesa all’infernal governo,</l>
+            <l>far all’uom praticabile l’inferno.</l>
+          </sp>
+          <sp who="#plutone">
+            <speaker>PLUTONE:</speaker>
+            <l>Mortal quaggiù non viene</l>
+            <l>senza voler del fato,</l>
+            <l>né deve il dio d’abissi</l>
+            <l>opporsi al destinato.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Se pur di sua venuta a te non cale,</l>
+            <l>a mia richiesta almeno</l>
+            <l>a lui vieta l’uscita</l>
+            <l>ai regni della vita.</l>
+          </sp>
+          <sp who="#plutone">
+            <speaker>PLUTONE:</speaker>
+            <l>Non sol all’uom che vive (e tu lo sai)</l>
+            <l>anco al morto insepolto</l>
+            <l>star nell’inferno è tolto;</l>
+            <l>portalo in pace, o faretrato arciero,</l>
+            <l>nel grande affar che scerno</l>
+            <l>non può servirti Averno.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Macchinator ingegno</l>
+            <l>lascia almen ch’io ne adopre,</l>
+            <l>permetti a tuoi vassalli</l>
+            <l>il colorir de’ miei disegni l’opre.</l>
+          </sp>
+          <sp who="#plutone">
+            <speaker>PLUTONE:</speaker>
+            <l>Pur che illesa ne resti</l>
+            <l>la regale corona,</l>
+            <l>ogni poter il mio poter ti dona.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Vo’ che la Frode sola</l>
+            <l>si mova a mio talento.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>PLUTONE</head>Sorga dal più profondol’ingannevole Frodeaprasi ancor l’indivisibil centro.Scena secondaEsce la Frode.<sp who="#plutone">
+            <speaker>PLUTONE:</speaker>
+            <l>Sorga dal più profondo</l>
+            <l>l’ingannevole Frode</l>
+            <l>aprasi ancor l’indivisibil centro.</l>
+            <l>Scena seconda</l>
+            <l>Esce la Frode.</l>
+          </sp>
+          <stage>PLUTONESorga dal più profondol’ingannevole Frodeaprasi ancor l’indivisibil centro.Scena secondaEsce la Frode.</stage>
+          <sp who="#plutone">
+            <speaker>PLUTONE:</speaker>
+            <l>Amoroso Cupido,</l>
+            <l>dalla scaltra ministra</l>
+            <l>ricerca ciò che vuoi,</l>
+            <l>obbedirà la Frode a’ detti tuoi.</l>
+          </sp>
+          <sp who="#frode">
+            <speaker>FRODE:</speaker>
+            <l>Comanda pur,</l>
+            <l>gl’amorosi maneggi io so condur:</l>
+            <l>dall’imperio d’Amor non son bandita</l>
+            <l>al sagace amator so dar la vita.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Maestra ingegnosa</l>
+            <l>d’ogni più industre cosa</l>
+            <l>cangia per stabilir l’opra novella</l>
+            <l>e sembianza, e favella.</l>
+            <l>Passerà vivo Ulisse</l>
+            <l>da questi chiostri oscuri,</l>
+            <l>colà ne’ campi elisi</l>
+            <l>l’incognito viaggio ei cercherà.</l>
+            <l>Fia tua gloria, tuo vanto,</l>
+            <l>s’egli in patria per te non tornerà.</l>
+            <l>Di Penelope sua consorte amata</l>
+            <l>sembianze imita, e gesto,</l>
+            <l>spirito lamentevole, e funesto,</l>
+            <l>chiama la morte, e la fortuna ingrata.</l>
+            <l>Morta la crederà</l>
+            <l>dolente innamorato,</l>
+            <l>morta la piangerà:</l>
+            <l>a ragion disperato</l>
+            <l>egli in patria per te non tornerà.</l>
+          </sp>
+          <sp who="#frode">
+            <speaker>FRODE:</speaker>
+            <l>Intendo il tuo volere,</l>
+            <l>non durerò fatica</l>
+            <l>ad ingannar, son degl’inganni amica.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>AMORE</head>Amanti mirate,amore lodate,ch’è tutto bontà;s’a vostro sol dannoei tesse un inganno,l’inferno gliel dà,ei puro bambino d’inganni non sa.Scena terzaUlisse.Ecco un vivo fra mortida Borea trasportatoad obbedir il fato,elisi campi a voiporto l’ardito piede;ivi d’udir m’apprestodal tebano Tiresiaal sconsigliato mio lungo viaggioil consiglio più saggio.Scena quartaFrode dentro. Ulisse.FRODE(Penelope)Ulisse un tempo caro, un tempo dolceora perduto amico,viator degl’abissi,peregrin degl’orrori, e perché porticol seren di tua vita invidia ai morti?<sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Amanti mirate,</l>
+            <l>amore lodate,</l>
+            <l>ch’è tutto bontà;</l>
+            <l>s’a vostro sol danno</l>
+            <l>ei tesse un inganno,</l>
+            <l>l’inferno gliel dà,</l>
+            <l>ei puro bambino d’inganni non sa.</l>
+            <l>Scena terza</l>
+            <l>Ulisse.</l>
+            <l>Ecco un vivo fra morti</l>
+            <l>da Borea trasportato</l>
+            <l>ad obbedir il fato,</l>
+            <l>elisi campi a voi</l>
+            <l>porto l’ardito piede;</l>
+            <l>ivi d’udir m’appresto</l>
+            <l>dal tebano Tiresia</l>
+            <l>al sconsigliato mio lungo viaggio</l>
+            <l>il consiglio più saggio.</l>
+            <l>Scena quarta</l>
+            <l>Frode dentro. Ulisse.</l>
+            <l>FRODE</l>
+            <l>(Penelope)</l>
+            <l>Ulisse un tempo caro, un tempo dolce</l>
+            <l>ora perduto amico,</l>
+            <l>viator degl’abissi,</l>
+            <l>peregrin degl’orrori, e perché porti</l>
+            <l>col seren di tua vita invidia ai morti?</l>
+          </sp>
+          <stage>AMOREAmanti mirate,amore lodate,ch’è tutto bontà;s’a vostro sol dannoei tesse un inganno,l’inferno gliel dà,ei puro bambino d’inganni non sa.Scena terzaUlisse.Ecco un vivo fra mortida Borea trasportatoad obbedir il fato,elisi campi a voiporto l’ardito piede;ivi d’udir m’apprestodal tebano Tiresiaal sconsigliato mio lungo viaggioil consiglio più saggio.Scena quartaFrode dentro. Ulisse.FRODE(Penelope)Ulisse un tempo caro, un tempo dolceora perduto amico,viator degl’abissi,peregrin degl’orrori, e perché porticol seren di tua vita invidia ai morti?</stage>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Spirito amico, e qual offesa, o danno</l>
+            <l>t’arreca un sventurato,</l>
+            <l>che per trovar un giorno</l>
+            <l>e la patria, e la sposa</l>
+            <l>non si ferma, o riposa,</l>
+          </sp>
+          <sp who="#frode">
+            <speaker>FRODE:</speaker>
+            <l>(Penelope)</l>
+            <l>Allor tu mi perdesti.</l>
+            <l>Ch’alla troiana impresa</l>
+            <l>partir tosto volesti, or mi ritrovi</l>
+            <l>sfortunata consorte</l>
+            <l>perduta in vita, e ritrovata in morte.</l>
+          </sp>
+          <stage>FRODE(Penelope)Allor tu mi perdesti.Ch’alla troiana impresapartir tosto volesti, or mi ritrovisfortunata consorteperduta in vita, e ritrovata in morte.</stage>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Di Penelope questi</l>
+            <l>forse è lo spirto amato?</l>
+            <l>O destin omicida, o cielo ingrato!</l>
+            <l>Dunque morta tu sei?</l>
+            <l>Almeno mi consola</l>
+            <l>con una vista sola,</l>
+            <l>apparisci consorte agl’occhi miei.</l>
+          </sp>
+          <sp who="#frode">
+            <speaker>FRODE:</speaker>
+            <l>(Penelope)</l>
+            <l>Avvezzati a mirar feroci i mostri</l>
+            <l>se vuoi che mi ti mostri.</l>
+            <l>S’apre il mostro e si vede Penelope.</l>
+            <l>ULISSE</l>
+            <l>Penelope infelice,</l>
+            <l>ferita dalla morte,</l>
+            <l>inghiottita da’ mostri,</l>
+            <l>dall’ombre circondata,</l>
+            <l>ventura sfortunata</l>
+            <l>ritrovar fra perduti</l>
+            <l>quel ben, che si desia,</l>
+            <l>se vita più non hai non sei più mia,</l>
+            <l>gira pur, gira il mondo</l>
+            <l>Ulisse doloroso,</l>
+            <l>il tuo dolce riposo è nel profondo;</l>
+            <l>già le miserie tue</l>
+            <l>ad abissarti intente</l>
+            <l>t’han condotto qui dentro,</l>
+            <l>e vedi alle sventure,</l>
+            <l>alle scritte sciagure</l>
+            <l>spalancato l’abisso, aperto il centro,</l>
+            <l>voi numi oscuri, e neri aprite aprite</l>
+            <l>poche viscere sole</l>
+            <l>d’una pietà mendica,</l>
+            <l>e rendete al mio duol la dolce amica.</l>
+            <l>Ma pietà non si trova,</l>
+            <l>ove speme non giova, o disperati</l>
+            <l>siete a ragion spietati.</l>
+            <l>Giusti numi del cielo</l>
+            <l>ascoltatemi voi,</l>
+            <l>udite i pianti miei,</l>
+            <l>consolatemi o dèi,</l>
+            <l>ma posto negl’abissi</l>
+            <l>dalla vostra pietà son troppo lunge,</l>
+            <l>ch’una voce d’inferno al ciel non giunge.</l>
+          </sp>
+          <stage>FRODE(Penelope)Avvezzati a mirar feroci i mostrise vuoi che mi ti mostri.S’apre il mostro e si vede Penelope.ULISSEPenelope infelice,ferita dalla morte,inghiottita da’ mostri,dall’ombre circondata,ventura sfortunataritrovar fra perdutiquel ben, che si desia,se vita più non hai non sei più mia,gira pur, gira il mondoUlisse doloroso,il tuo dolce riposo è nel profondo;già le miserie tuead abissarti intentet’han condotto qui dentro,e vedi alle sventure,alle scritte sciagurespalancato l’abisso, aperto il centro,voi numi oscuri, e neri aprite apritepoche viscere soled’una pietà mendica,e rendete al mio duol la dolce amica.Ma pietà non si trova,ove speme non giova, o disperatisiete a ragion spietati.Giusti numi del cieloascoltatemi voi,udite i pianti miei,consolatemi o dèi,ma posto negl’abissidalla vostra pietà son troppo lunge,ch’una voce d’inferno al ciel non giunge.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>FRODE</head>(Penelope)Acqueta Ulisse acquetagl’affetti, e le parole,l’umanità così comanda e vuole;morte già mi t’ha tolta, i Proci ingiustit’hanno occupato il regnoe ‘l nobil figlio tuo cedendo al fatoincognito, e lontan mena i suoi giorni,tardo Ulisse ritorni.Qui si chiude il mostro.ULISSECosì dunque mi lasci?Una morta pietade anco mi togli?Con il tuo dir mi spoglie di regno, e di figlio, e di consorte?Addio figlio, addio regno,addio compagna amica,addio mondo de’ vivi,così tutti vi lascio,e trarrò miei confortifra disperati e morti.Sommergi onda di Letheciò che di vivo ha la memoria mia,e fa’ ch’almeno io sianel gran decreto eternoun smemorato suddito d’Averno;era meglio per me fra belve, e incantiviver con Circe in un penoso stato,che per cercar l’oscurità del fatovisitar vivo il popolo dei pianti.Indovino tebano, e che dirai?È tratto il dado alla mia sorte amaraqual contento l’esilio or mi prepara,non val consiglio a disperati guai.Scena quintaTiresia, Ulisse.<div type="scene">
+          <head>FRODE</head>(Penelope)Acqueta Ulisse acquetagl’affetti, e le parole,l’umanità così comanda e vuole;morte già mi t’ha tolta, i Proci ingiustit’hanno occupato il regnoe ‘l nobil figlio tuo cedendo al fatoincognito, e lontan mena i suoi giorni,tardo Ulisse ritorni.Qui si chiude il mostro.ULISSECosì dunque mi lasci?Una morta pietade anco mi togli?Con il tuo dir mi spoglie di regno, e di figlio, e di consorte?Addio figlio, addio regno,addio compagna amica,addio mondo de’ vivi,così tutti vi lascio,e trarrò miei confortifra disperati e morti.Sommergi onda di Letheciò che di vivo ha la memoria mia,e fa’ ch’almeno io sianel gran decreto eternoun smemorato suddito d’Averno;era meglio per me fra belve, e incantiviver con Circe in un penoso stato,che per cercar l’oscurità del fatovisitar vivo il popolo dei pianti.Indovino tebano, e che dirai?È tratto il dado alla mia sorte amaraqual contento l’esilio or mi prepara,non val consiglio a disperati guai.Scena quintaTiresia, Ulisse.<sp who="#frode">
+            <speaker>FRODE:</speaker>
+            <l>(Penelope)</l>
+            <l>Acqueta Ulisse acqueta</l>
+            <l>gl’affetti, e le parole,</l>
+            <l>l’umanità così comanda e vuole;</l>
+            <l>morte già mi t’ha tolta, i Proci ingiusti</l>
+            <l>t’hanno occupato il regno</l>
+            <l>e ‘l nobil figlio tuo cedendo al fato</l>
+            <l>incognito, e lontan mena i suoi giorni,</l>
+            <l>tardo Ulisse ritorni.</l>
+            <l>Qui si chiude il mostro.</l>
+            <l>ULISSE</l>
+            <l>Così dunque mi lasci?</l>
+            <l>Una morta pietade anco mi togli?</l>
+            <l>Con il tuo dir mi spogli</l>
+            <l>e di regno, e di figlio, e di consorte?</l>
+            <l>Addio figlio, addio regno,</l>
+            <l>addio compagna amica,</l>
+            <l>addio mondo de’ vivi,</l>
+            <l>così tutti vi lascio,</l>
+            <l>e trarrò miei conforti</l>
+            <l>fra disperati e morti.</l>
+            <l>Sommergi onda di Lethe</l>
+            <l>ciò che di vivo ha la memoria mia,</l>
+            <l>e fa’ ch’almeno io sia</l>
+            <l>nel gran decreto eterno</l>
+            <l>un smemorato suddito d’Averno;</l>
+            <l>era meglio per me fra belve, e incanti</l>
+            <l>viver con Circe in un penoso stato,</l>
+            <l>che per cercar l’oscurità del fato</l>
+            <l>visitar vivo il popolo dei pianti.</l>
+            <l>Indovino tebano, e che dirai?</l>
+            <l>È tratto il dado alla mia sorte amara</l>
+            <l>qual contento l’esilio or mi prepara,</l>
+            <l>non val consiglio a disperati guai.</l>
+            <l>Scena quinta</l>
+            <l>Tiresia, Ulisse.</l>
+          </sp>
+          <stage>FRODE(Penelope)Acqueta Ulisse acquetagl’affetti, e le parole,l’umanità così comanda e vuole;morte già mi t’ha tolta, i Proci ingiustit’hanno occupato il regnoe ‘l nobil figlio tuo cedendo al fatoincognito, e lontan mena i suoi giorni,tardo Ulisse ritorni.Qui si chiude il mostro.ULISSECosì dunque mi lasci?Una morta pietade anco mi togli?Con il tuo dir mi spoglie di regno, e di figlio, e di consorte?Addio figlio, addio regno,addio compagna amica,addio mondo de’ vivi,così tutti vi lascio,e trarrò miei confortifra disperati e morti.Sommergi onda di Letheciò che di vivo ha la memoria mia,e fa’ ch’almeno io sianel gran decreto eternoun smemorato suddito d’Averno;era meglio per me fra belve, e incantiviver con Circe in un penoso stato,che per cercar l’oscurità del fatovisitar vivo il popolo dei pianti.Indovino tebano, e che dirai?È tratto il dado alla mia sorte amaraqual contento l’esilio or mi prepara,non val consiglio a disperati guai.Scena quintaTiresia, Ulisse.</stage>
+          <sp who="#tiresia">
+            <speaker>TIRESIA:</speaker>
+            <l>Ascolta Ulisse, e in questi</l>
+            <l>di Tiresia indovin veraci accenti</l>
+            <l>accogli di tua sorte</l>
+            <l>i venturi accidenti.</l>
+            <l>Da queste rive uscito</l>
+            <l>prima vedrai delle sirene i lidi,</l>
+            <l>chiudi le orecchie tu, chiudi le porte</l>
+            <l>alla canora morte;</l>
+            <l>di poi trovar convienti</l>
+            <l>i sassi cianei, gli scogli erranti,</l>
+            <l>ove d’augei lo stuolo</l>
+            <l>non ha sicuro il volo, ed ivi appena</l>
+            <l>fra l’uno e l’altro sasso</l>
+            <l>la nave d’Argo ebbe sicuro il passo;</l>
+            <l>indi fra mostri orrendi</l>
+            <l>di Cariddi, e di Scilla</l>
+            <l>t’aprirà seno il mare;</l>
+            <l>spaventevoli questi</l>
+            <l>sogliono in varie sorti</l>
+            <l>mangiar i vivi, e vomitar i morti;</l>
+            <l>all’isola Trinacria alfin verrai,</l>
+            <l>ove del sol gli armenti</l>
+            <l>pascono l’erbe verdi;</l>
+            <l>se per fame, o per scherno</l>
+            <l>sarà da voi la nobil greggia offesa</l>
+            <l>vedrai sdruciti i legni,</l>
+            <l>affogati i compagni</l>
+            <l>e tu se schiverai l’irato giorno,</l>
+            <l>tardo infelice alfine</l>
+            <l>a Penelope tua farai ritorno.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>A Penepole mia morte può trarmi,</l>
+            <l>che morta è l’infelice, io già la vidi</l>
+            <l>ne’ tenebrosi chiostri</l>
+            <l>fatta preda de’ mostri;</l>
+            <l>ohimè son vani i vaticini vostri.</l>
+          </sp>
+          <sp who="#tiresia">
+            <speaker>TIRESIA:</speaker>
+            <l>È vano il tuo sospetto</l>
+            <l>è mentita la fé dell’ombre nere;</l>
+            <l>quei fieri quei crudeli</l>
+            <l>all’altrui danno avvezzi</l>
+            <l>son ministri di duol, ridon de’ mali:</l>
+            <l>non mancan frodi a’ spiriti infernali;</l>
+            <l>è Penelope viva</l>
+            <l>dolorosa ti aspetta,</l>
+            <l>che se crudel morte l’avesse,</l>
+            <l>la saggia accostumata</l>
+            <l>saria ne’ campi elisi, e non dannata.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Così lieto sperar dunque degg’io?</l>
+          </sp>
+          <sp who="#tiresia">
+            <speaker>TIRESIA:</speaker>
+            <l>Ti manda il Fato a penetrar miei detti,</l>
+            <l>non a creder sospetti,</l>
+            <l>d’una ingannevol’ombra</l>
+            <l>ravviva in me le fede, e ‘l dubbio sgombra.</l>
+            <l>Qui s’odono strepiti nell’inferno.</l>
+          </sp>
+          <stage>TIRESIATi manda il Fato a penetrar miei detti,non a creder sospetti,d’una ingannevol’ombraravviva in me le fede, e ‘l dubbio sgombra.Qui s’odono strepiti nell’inferno.</stage>
+          <sp who="#tiresia">
+            <speaker>TIRESIA:</speaker>
+            <l>Ma già tu senti d’ululati, e strepiti</l>
+            <l>pieno l’inferno, e spiriti, e mostri, e furie</l>
+            <l>escono armati di furore, e d’impeto</l>
+            <l>che da quel dì, che fu rapito Cerbero</l>
+            <l>de’ vivi passegger temon l’insidie.</l>
+            <l>Fuggi quest’aria Ulisse,</l>
+            <l>segui chi ti conduce</l>
+            <l>per la porta d’avorio esci alla luce.</l>
+            <l>Escono i Mostri dell’inferno, e in atto di guardare, ove sia gito il mortale fanno il ballo.</l>
+          </sp>
+          <stage>TIRESIAMa già tu senti d’ululati, e strepitipieno l’inferno, e spiriti, e mostri, e furieescono armati di furore, e d’impetoche da quel dì, che fu rapito Cerberode’ vivi passegger temon l’insidie.Fuggi quest’aria Ulisse,segui chi ti conduceper la porta d’avorio esci alla luce.Escono i Mostri dell’inferno, e in atto di guardare, ove sia gito il mortale fanno il ballo.</stage>
+        </div>
+        <div type="scene">
+          <head>Azione quarta</head>La scena è ne’ giardini di Calipso posti nell’isola Ogigia.Personaggi della quarta azione:Amore in sembiante di Moro, Mercurio, Ulisse, Calipso, Cinatea sua dama, Canoria sua dama.Le quattro Stagioni. I mesi, che ballano.Scena primaGiardini di Calipso.Ulisse.Tiresia a che tacestifra miei predetti erroridi Calipso gl’amori?Ciò che vaticinastidi sirene di Saffi,di Cariddi, di Scilla,dell’isola del Sole,de’ compagni perduti è tutto vero.Ma qual error maggiore,ch’in amorosi inganniperder la vita, e gl’anni?Troppo è torbida, e fierala stella, che predisse,che viva sempre effeminato Ulisse.Scena secondaCalipso. Cinatea. <stage>Azione quartaLa scena è ne’ giardini di Calipso posti nell’isola Ogigia.Personaggi della quarta azione:Amore in sembiante di Moro, Mercurio, Ulisse, Calipso, Cinatea sua dama, Canoria sua dama.Le quattro Stagioni. I mesi, che ballano.Scena primaGiardini di Calipso.Ulisse.Tiresia a che tacestifra miei predetti erroridi Calipso gl’amori?Ciò che vaticinastidi sirene di Saffi,di Cariddi, di Scilla,dell’isola del Sole,de’ compagni perduti è tutto vero.Ma qual error maggiore,ch’in amorosi inganniperder la vita, e gl’anni?Troppo è torbida, e fierala stella, che predisse,che viva sempre effeminato Ulisse.Scena secondaCalipso. Cinatea.</stage>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Udisti Cinatea</l>
+            <l>vive annoiato Ulisse, e tosto nasce</l>
+            <l>dalla noia il disprezzo.</l>
+          </sp>
+          <sp who="#cinatea">
+            <speaker>CINATEA:</speaker>
+            <l>L’uom per natura ardente</l>
+            <l>è il primo a desiar,</l>
+            <l>ma instabile di mente</l>
+            <l>è il primo a disamar.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CALIPSO</head>Mira lunge deh miraCalipso sfortunatadell’aria pria tranquillai commossi perigli,ove nere, e molestevengon le nubi a preparar tempeste.Scena terzaAmore in sembianza di Moro. Calipso. Cinatea.<sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Mira lunge deh mira</l>
+            <l>Calipso sfortunata</l>
+            <l>dell’aria pria tranquilla</l>
+            <l>i commossi perigli,</l>
+            <l>ove nere, e moleste</l>
+            <l>vengon le nubi a preparar tempeste.</l>
+            <l>Scena terza</l>
+            <l>Amore in sembianza di Moro. Calipso. Cinatea.</l>
+          </sp>
+          <stage>CALIPSOMira lunge deh miraCalipso sfortunatadell’aria pria tranquillai commossi perigli,ove nere, e molestevengon le nubi a preparar tempeste.Scena terzaAmore in sembianza di Moro. Calipso. Cinatea.</stage>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Sorde son l’onde,</l>
+            <l>son fieri i venti,</l>
+            <l>son crudi i mari,</l>
+            <l>più sordi, più fieri,</l>
+            <l>più crudi i corsari,</l>
+            <l>gl’empi, gl’avari,</l>
+            <l>fugga chi sa,</l>
+            <l>viva la libertà.</l>
+            <l>Dama e signora il mio desti acerbo</l>
+            <l>con questi ceppi pria</l>
+            <l>schiavo di gente ria m’incatenò,</l>
+            <l>or del mio duol pietoso</l>
+            <l>ingannevole fuga ei m’insegnò.</l>
+            <l>Supplice corro a te</l>
+            <l>armato d’ali il piè.</l>
+          </sp>
+          <stage>AMORE(Moro)Sorde son l’onde,son fieri i venti,son crudi i mari,più sordi, più fieri,più crudi i corsari,gl’empi, gl’avari,fugga chi sa,viva la libertà.Dama e signora il mio desti acerbocon questi ceppi priaschiavo di gente ria m’incatenò,or del mio duol pietosoingannevole fuga ei m’insegnò.Supplice corro a tearmato d’ali il piè.</stage>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Ben approdasti a questa spiaggia amica,</l>
+            <l>ove del cenno mio l’eterna legge</l>
+            <l>solo comanda, e regge.</l>
+            <l>Regina, e diva io prima inchino il vanto</l>
+            <l>di tua dolce pietà.</l>
+            <l>Poi lieto canto</l>
+            <l>viva la libertà.</l>
+          </sp>
+          <sp who="#cinatea">
+            <speaker>CINATEA:</speaker>
+            <l>Non mi sarà discaro</l>
+            <l>udire a miglior tempo</l>
+            <l>di tua sorte dolente il fato amaro.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Udrai ne’ casi miei</l>
+            <l>dure fortune in tenerella età.</l>
+          </sp>
+          <stage>AMORE(Moro)Udrai ne’ casi mieidure fortune in tenerella età.</stage>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Qual gemma, o qual tesoro</l>
+            <l>nascondi entro quell’oro?</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Quivi cose racchiudo,</l>
+            <l>ch’a donne ancorché grandi, anco regine,</l>
+            <l>sarebbon care, e grate</l>
+            <l>ma tu, che diva sei</l>
+            <l>avresti forse a scherno i doni miei.</l>
+          </sp>
+          <stage>AMORE(Moro)Quivi cose racchiudo,ch’a donne ancorché grandi, anco regine,sarebbon care, e gratema tu, che diva seiavresti forse a scherno i doni miei.</stage>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>E che doni son questi?</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Quivi è un fior, ch’odorato,</l>
+            <l>allor che cade all’occidente il sole,</l>
+            <l>render può sonnacchioso</l>
+            <l>il marito geloso.</l>
+          </sp>
+          <stage>AMORE(Moro)Quivi è un fior, ch’odorato,allor che cade all’occidente il sole,render può sonnacchiosoil marito geloso.</stage>
+          <sp who="#cinatea">
+            <speaker>CINATEA:</speaker>
+            <l>Son del sonno gl’orrori</l>
+            <l>paraninfi agl’amori.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Dell’onor della donna</l>
+            <l>è quivi un’erba amica;</l>
+            <l>poiché tocco con questa,</l>
+            <l>il linguacciuto, e vantator amante</l>
+            <l>il furtivo goder tosto si scorda,</l>
+            <l>né può giammai ridire</l>
+            <l>l’amoroso gioire.</l>
+          </sp>
+          <stage>AMORE(Moro)Dell’onor della donnaè quivi un’erba amica;poiché tocco con questa,il linguacciuto, e vantator amanteil furtivo goder tosto si scorda,né può giammai ridirel’amoroso gioire.</stage>
+          <sp who="#cinatea">
+            <speaker>CINATEA:</speaker>
+            <l>O sempre maledetto</l>
+            <l>chi nel proprio godere</l>
+            <l>non sa far, e tacere.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Il bel cinto che vedi,</l>
+            <l>è legame d’amor e di costanza;</l>
+            <l>questo con forza estrema</l>
+            <l>fa chi non ama amante,</l>
+            <l>e ‘l leggero amator rende costante.</l>
+          </sp>
+          <stage>AMORE(Moro)Il bel cinto che vedi,è legame d’amor e di costanza;questo con forza estremafa chi non ama amante,e ‘l leggero amator rende costante.</stage>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>O di questo vedrei</l>
+            <l>volentieri la prova.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>S’hai nella nobil reggia</l>
+            <l>donna severa, o donzelletta schiva,</l>
+            <l>che d’ogni affetto sia</l>
+            <l>nemica non che priva,</l>
+            <l>fa’ che da me riceva il nobil dono,</l>
+            <l>e ben tosto vedrai</l>
+            <l>s’è ver quanto ragiono.</l>
+          </sp>
+          <stage>AMORE(Moro)S’hai nella nobil reggiadonna severa, o donzelletta schiva,che d’ogni affetto sianemica non che priva,fa’ che da me riceva il nobil dono,e ben tosto vedrais’è ver quanto ragiono.</stage>
+          <sp who="#cinatea">
+            <speaker>CINATEA:</speaker>
+            <l>Sarà (s’io non m’inganno)</l>
+            <l>al bisogno conforme</l>
+            <l>Canoria lascivetta,</l>
+            <l>lascivetta, e difforme.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Or va’ tu la ritrova,</l>
+            <l>e ne vediam la prova.</l>
+            <l>Curiosa è l’impresa</l>
+            <l>ed a grand’uopo giunta.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>AMORE</head>(Moro)Velato bendato,vincente sarà.Qual astro maligno,qual cor di macignoresister potrà.Scena quartaCanoria, Moro, Cinatea, Calipso.<sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Velato bendato,</l>
+            <l>vincente sarà.</l>
+            <l>Qual astro maligno,</l>
+            <l>qual cor di macigno</l>
+            <l>resister potrà.</l>
+            <l>Scena quarta</l>
+            <l>Canoria, Moro, Cinatea, Calipso.</l>
+          </sp>
+          <stage>AMORE(Moro)Velato bendato,vincente sarà.Qual astro maligno,qual cor di macignoresister potrà.Scena quartaCanoria, Moro, Cinatea, Calipso.</stage>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Ahi che strana figura</l>
+            <l>che mostro di natura!</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Affé che dir possiamo</l>
+            <l>che due mostri noi siamo.</l>
+          </sp>
+          <stage>AMORE(Moro)Affé che dir possiamoche due mostri noi siamo.</stage>
+          <sp who="#cinatea">
+            <speaker>CINATEA:</speaker>
+            <l>Non è lunge dal vero</l>
+            <l>un mostro bianco, un nero.</l>
+          </sp>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Calipso e qual desio</l>
+            <l>ti fa vogliosa a conversar con l’ombre?</l>
+            <l>Scaccia da questa reggia il mostro rio.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Uomo egli è ben nero, e seco porta</l>
+            <l>di sua grandezza testimon verace,</l>
+            <l>oro, gemme, e tesori.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Sono amabili i mori.</l>
+          </sp>
+          <stage>AMORE(Moro)Sono amabili i mori.</stage>
+          <sp who="#cinatea">
+            <speaker>CINATEA:</speaker>
+            <l>E se donano poi?</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Prendi Canoria prendi</l>
+            <l>Canoria lascivetta,</l>
+            <l>ch’al tuo lascivo gesto</l>
+            <l>il bel cinto s’aspetta.</l>
+          </sp>
+          <stage>AMORE(Moro)Prendi Canoria prendiCanoria lascivetta,ch’al tuo lascivo gestoil bel cinto s’aspetta.</stage>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Amando donando</l>
+            <l>uom mal mi allettò,</l>
+            <l>a mostro sì strano</l>
+            <l>più schiva sarò.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Non ricusar gradisci,</l>
+            <l>gradisci il don gentile</l>
+            <l>del leggiadro monile.</l>
+          </sp>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>È pregiato il lavoro,</l>
+            <l>mi cingo, m’incateno,</l>
+            <l>che non è mai servil catena d’oro.</l>
+          </sp>
+          <sp who="#cinatea">
+            <speaker>CINATEA:</speaker>
+            <l>La bellezza del dono</l>
+            <l>farà del donatore</l>
+            <l>la bruttezza minore.</l>
+          </sp>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>O qual meglio figuro,</l>
+            <l>nero volto, ma bello.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Gran virtude del moro.</l>
+          </sp>
+          <sp who="#cinatea">
+            <speaker>CINATEA:</speaker>
+            <l>O gran forza dell’oro.</l>
+          </sp>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Adombrate bellezze</l>
+            <l>quanto insolite più, tanto più belle.</l>
+            <l>In un ciel tenebroso</l>
+            <l>miro due brune stelle.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>O s’io trovassi un dì</l>
+            <l>bella ch’al mio pregar</l>
+            <l>mi rispondesse un sì,</l>
+            <l>quanto vorrei amar.</l>
+          </sp>
+          <stage>AMORE(Moro)O s’io trovassi un dìbella ch’al mio pregarmi rispondesse un sì,quanto vorrei amar.</stage>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Per sì, bel moro, io so</l>
+            <l>ch’averei bandito il no.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Veggio l’amor destarsi</l>
+            <l>in un sen dispietato,</l>
+            <l>vedrò forse fermarsi</l>
+            <l>anco Ulisse turbato.</l>
+          </sp>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Mal volontario il piè fugge il desio.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>AMORE</head>(Moro)O bell’acquisto è il mio.Scena quintaMoro. Mercurio in disparte.<sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>O bell’acquisto è il mio.</l>
+            <l>Scena quinta</l>
+            <l>Moro. Mercurio in disparte.</l>
+          </sp>
+          <stage>AMORE(Moro)O bell’acquisto è il mio.Scena quintaMoro. Mercurio in disparte.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>AMORE</head>(Moro)Ben s’inganna chi mi credemoro schiavo, e fuggitivo,non si presti all’occhio fede,son Cupido mascherato,d’arco, strali, e face privo,son arciero disarmato.Di Venere mia madre è l’aureo cinto,che a Canoria donai,rimarrà Ulisse alla sua forza vinto.Conosciuta la provaal perturbato amanteCalipso il donerà,parta poi se potrà.Scena sestaMercurio solo.Il cinto di Ciprigna,lo sa chi lo provòfatto di vezzo, di lusinga, e giocoal comando divin non darà loco.Dunque pria ch’io mi scopracon novo inganno vincansi le frodie le trame d’amor Mercurio snodi.Scena settimaMoro. Canoria.<div type="scene">
+          <head>AMORE</head>(Moro)Ben s’inganna chi mi credemoro schiavo, e fuggitivo,non si presti all’occhio fede,son Cupido mascherato,d’arco, strali, e face privo,son arciero disarmato.Di Venere mia madre è l’aureo cinto,che a Canoria donai,rimarrà Ulisse alla sua forza vinto.Conosciuta la provaal perturbato amanteCalipso il donerà,parta poi se potrà.Scena sestaMercurio solo.Il cinto di Ciprigna,lo sa chi lo provòfatto di vezzo, di lusinga, e giocoal comando divin non darà loco.Dunque pria ch’io mi scopracon novo inganno vincansi le frodie le trame d’amor Mercurio snodi.Scena settimaMoro. Canoria.<sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Ben s’inganna chi mi crede</l>
+            <l>moro schiavo, e fuggitivo,</l>
+            <l>non si presti all’occhio fede,</l>
+            <l>son Cupido mascherato,</l>
+            <l>d’arco, strali, e face privo,</l>
+            <l>son arciero disarmato.</l>
+            <l>Di Venere mia madre è l’aureo cinto,</l>
+            <l>che a Canoria donai,</l>
+            <l>rimarrà Ulisse alla sua forza vinto.</l>
+            <l>Conosciuta la prova</l>
+            <l>al perturbato amante</l>
+            <l>Calipso il donerà,</l>
+            <l>parta poi se potrà.</l>
+            <l>Scena sesta</l>
+            <l>Mercurio solo.</l>
+            <l>Il cinto di Ciprigna,</l>
+            <l>lo sa chi lo provò</l>
+            <l>fatto di vezzo, di lusinga, e gioco</l>
+            <l>al comando divin non darà loco.</l>
+            <l>Dunque pria ch’io mi scopra</l>
+            <l>con novo inganno vincansi le frodi</l>
+            <l>e le trame d’amor Mercurio snodi.</l>
+            <l>Scena settima</l>
+            <l>Moro. Canoria.</l>
+          </sp>
+          <stage>AMORE(Moro)Ben s’inganna chi mi credemoro schiavo, e fuggitivo,non si presti all’occhio fede,son Cupido mascherato,d’arco, strali, e face privo,son arciero disarmato.Di Venere mia madre è l’aureo cinto,che a Canoria donai,rimarrà Ulisse alla sua forza vinto.Conosciuta la provaal perturbato amanteCalipso il donerà,parta poi se potrà.Scena sestaMercurio solo.Il cinto di Ciprigna,lo sa chi lo provòfatto di vezzo, di lusinga, e giocoal comando divin non darà loco.Dunque pria ch’io mi scopracon novo inganno vincansi le frodie le trame d’amor Mercurio snodi.Scena settimaMoro. Canoria.</stage>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Donnesco assedio</l>
+            <l>non ha rimedio</l>
+            <l>non val fuggir.</l>
+          </sp>
+          <stage>AMORE(Moro)Donnesco assedionon ha rimedionon val fuggir.</stage>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Deh più affrettami,</l>
+            <l>brunetto aspettami</l>
+            <l>ch’io vuò morir.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Tu preghi invan, quest’alma non si piega</l>
+            <l>avvezza fra corsari</l>
+            <l>a chi piangea chi prega.</l>
+          </sp>
+          <stage>AMORE(Moro)Tu preghi invan, quest’alma non si piegaavvezza fra corsaria chi piangea chi prega.</stage>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Son pur’anco talora in calma i mari,</l>
+            <l>e se ti piace il navigante errore</l>
+            <l>è par un mare amore.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Il mar in calma, o in onda</l>
+            <l>al navigar invita</l>
+            <l>s’amor è un mar, m’accingo alla partita.</l>
+          </sp>
+          <stage>AMORE(Moro)Il mar in calma, o in ondaal navigar invitas’amor è un mar, m’accingo alla partita.</stage>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Discortese inumano</l>
+            <l>ahi che fuga non chiede</l>
+            <l>la mia candida fede.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Pensier leggero, e stolto</l>
+            <l>vantar candida fede a un nero volto.</l>
+          </sp>
+          <stage>AMORE(Moro)Pensier leggero, e stoltovantar candida fede a un nero volto.</stage>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Sei più che ghiaccio freddo</l>
+            <l>se non senti gl’ardori,</l>
+            <l>ove Cupido accende</l>
+            <l>gl’uman petti, e i cori.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Udisti mai, ch’il strepitoso Nilo</l>
+            <l>tacito all’abitante</l>
+            <l>assordasse l’orecchie</l>
+            <l>al viator andante,</l>
+            <l>anch’io nato colà, dov’arde il sole,</l>
+            <l>appresi dal natio fervente loco</l>
+            <l>a non sentir il foco.</l>
+          </sp>
+          <stage>AMORE(Moro)Udisti mai, ch’il strepitoso Nilotacito all’abitanteassordasse l’orecchieal viator andante,anch’io nato colà, dov’arde il sole,appresi dal natio fervente locoa non sentir il foco.</stage>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Empio amor, amor empio, iniquo, e rio.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Taci ch’amor è un dio.</l>
+          </sp>
+          <stage>AMORE(Moro)Taci ch’amor è un dio.</stage>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>E perché mi ferì?</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Forse per prova.</l>
+          </sp>
+          <stage>AMORE(Moro)Forse per prova.</stage>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Crudo dio, dio crudel: che fere, e gode.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Taci che forse ei t’ode.</l>
+          </sp>
+          <stage>AMORE(Moro)Taci che forse ei t’ode.</stage>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Oh qui l’avessi almeno.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Te lo torresti in seno.</l>
+          </sp>
+          <stage>AMORE(Moro)Te lo torresti in seno.</stage>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Oltraggerei l’ingrato.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>AMORE</head>(Moro)L’ameresti anco in moro trasformato.Scena ottavaCinatea, Canoria, Moro.<sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>L’ameresti anco in moro trasformato.</l>
+            <l>Scena ottava</l>
+            <l>Cinatea, Canoria, Moro.</l>
+          </sp>
+          <stage>AMORE(Moro)L’ameresti anco in moro trasformato.Scena ottavaCinatea, Canoria, Moro.</stage>
+          <sp who="#cinatea">
+            <speaker>CINATEA:</speaker>
+            <l>Canoria affretta tosto, affretta il passo</l>
+            <l>Calipso a te m’invia.</l>
+          </sp>
+          <sp who="#canoria">
+            <speaker>CANORIA:</speaker>
+            <l>Io vado, e lascio qui l’anima mia.</l>
+          </sp>
+          <sp who="#cinatea">
+            <speaker>CINATEA:</speaker>
+            <l>E tu così possente</l>
+            <l>serpentello,</l>
+            <l>tristarello,</l>
+            <l>sei mago o incantatore?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>AMORE</head>(Moro)Fingi ch’io sia senza faretra, Amore.Scena nonaCalipso, Ulisse.<sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(Moro)</l>
+            <l>Fingi ch’io sia senza faretra, Amore.</l>
+            <l>Scena nona</l>
+            <l>Calipso, Ulisse.</l>
+          </sp>
+          <stage>AMORE(Moro)Fingi ch’io sia senza faretra, Amore.Scena nonaCalipso, Ulisse.</stage>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Più d’una volta Ulisse</l>
+            <l>dicesti di partir, vanne se vuoi,</l>
+            <l>io non farò mai forza a’ voler tuoi.</l>
+            <l>Un solo aggravio un solo</l>
+            <l>t’impone l’amor mio;</l>
+            <l>del cinto, ch’io ti diedi,</l>
+            <l>non ti privar giammai, te lo conserva.</l>
+            <l>Altra fé non mi osserva.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Ch’io da te mi diparta</l>
+            <l>ch’io da te mi divida, è vero, è vero</l>
+            <l>un volante pensiero</l>
+            <l>me lo insegnò talora,</l>
+            <l>ma lasciar non si può ciò che s’adora.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Verace moro, e prezioso cinto.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Partire ohimè partire</l>
+            <l>nell’amorosa scola</l>
+            <l>è barbara parola.</l>
+            <l>La patria riveder sovente l’alma</l>
+            <l>desiosa diviene,</l>
+            <l>ma vera patria è il bene.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Dunque partir non vuoi?</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>No ch’io non parto, e quel pensier rubello</l>
+            <l>alla divinità del tuo bel volto,</l>
+            <l>ch’osò por nella mente un tal desio,</l>
+            <l>lo condanno all’oblio.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Bellissime incostanze,</l>
+            <l>rinverdite speranze,</l>
+            <l>compagno di natura è fatto Amore.</l>
+            <l>Così stagion d’orrore</l>
+            <l>mutando stato alterno</l>
+            <l>riede in aprile il verno.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Lasciam Calipso bella</l>
+            <l>le memorie noiose,</l>
+            <l>senza punger la man cogliam le rose.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Mio sarai?</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Tuo sarò.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Partirai?</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>No, no, no.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Qui dove l’aura fresca in grembo all’erbe</l>
+            <l>fa tremolar gli odori,</l>
+            <l>rinfreschiamo i calori</l>
+            <l>dell’ardente desio,</l>
+            <l>n’invita ai scherzi ai baci</l>
+            <l>dell’onda il mormorio.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Caro letto odoroso</l>
+            <l>adagia i tuoi smeraldi al mio riposo.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Come più dell’usato</l>
+            <l>l’aura chiara risplende.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Il tuo volto beato</l>
+            <l>più splendente la rende.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Auretta dolce e grata</l>
+            <l>aura in ciel trasformata.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>E qual sia meraviglia</l>
+            <l>che cielo ella rassembri?</l>
+            <l>Da diva respirata</l>
+            <l>cangia l’aereo velo</l>
+            <l>e si trasforma in cielo.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Sì nel tuo vago viso</l>
+            <l>le delizie d’amor fan paradiso.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Al tuo divino in grembo</l>
+            <l>immortal gl’affetti.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Alla tua fede in braccio</l>
+            <l>dormono i miei diletti.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Nei rai di tua bellezza</l>
+            <l>fo beati gl’errori.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>In sen di tua fermezza</l>
+            <l>si fan grati gl’amori.</l>
+            <l>O come chiaro splende il vago cinto,</l>
+            <l>ch’il mio amor ti donò.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Egli splende, e incatena,</l>
+            <l>dal tuo volto imparò</l>
+            <l>così mentre il mio core annodi, attraggi,</l>
+            <l>le forme del tuo bel son lacci, e raggi.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Invidiate o cieli</l>
+            <l>la mia gloria, il diletto, eccovi Ulisse</l>
+            <l>in trionfo d’amor, legato, e stretto.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>E perché tua bellezza</l>
+            <l>m’annoda, e non quest’oro,</l>
+            <l>le mie catene adoro.</l>
+            <l>(Mercurio di nascosto ruba il cinto)</l>
+          </sp>
+          <stage>ULISSEE perché tua bellezzam’annoda, e non quest’oro,le mie catene adoro.(Mercurio di nascosto ruba il cinto)</stage>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Tenerissimi affetti.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Traboccanti diletti.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Uniformi voleri.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Sublimati piaceri.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Questi petti annodate.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Questi seni beate.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CALIPSO E ULISSE</head>E l’alme e i cori,faccian seggio agl’amori.Scena decimaMercurio.Giove ch’al fato il termine prescrissebella diva Calipso, a te mi manda,con legge irrevocabile ei comandach’ora s’accinga a dipartirsi Ulisse.Non adoprar inganni o forza, o provelascia, ch’ei volga il piè da questa spondail volontario suo partir secondacosì per bocca mia t’impone Giove.E tu trova te stesso eroe perduto,arma d’ira il tuo petto ai dolci pianti,ecco disfatti gl’amorosi incanti,mostrati ai prieghi ai vezzi, e sordo, e muto.Scena undicesimaCalipso. Ulisse.<sp who="#calipso e ulisse">
+            <speaker>CALIPSO E ULISSE:</speaker>
+            <l>E l’alme e i cori,</l>
+            <l>faccian seggio agl’amori.</l>
+            <l>Scena decima</l>
+            <l>Mercurio.</l>
+            <l>Giove ch’al fato il termine prescrisse</l>
+            <l>bella diva Calipso, a te mi manda,</l>
+            <l>con legge irrevocabile ei comanda</l>
+            <l>ch’ora s’accinga a dipartirsi Ulisse.</l>
+            <l>Non adoprar inganni o forza, o prove</l>
+            <l>lascia, ch’ei volga il piè da questa sponda</l>
+            <l>il volontario suo partir seconda</l>
+            <l>così per bocca mia t’impone Giove.</l>
+            <l>E tu trova te stesso eroe perduto,</l>
+            <l>arma d’ira il tuo petto ai dolci pianti,</l>
+            <l>ecco disfatti gl’amorosi incanti,</l>
+            <l>mostrati ai prieghi ai vezzi, e sordo, e muto.</l>
+            <l>Scena undicesima</l>
+            <l>Calipso. Ulisse.</l>
+          </sp>
+          <stage>CALIPSO E ULISSEE l’alme e i cori,faccian seggio agl’amori.Scena decimaMercurio.Giove ch’al fato il termine prescrissebella diva Calipso, a te mi manda,con legge irrevocabile ei comandach’ora s’accinga a dipartirsi Ulisse.Non adoprar inganni o forza, o provelascia, ch’ei volga il piè da questa spondail volontario suo partir secondacosì per bocca mia t’impone Giove.E tu trova te stesso eroe perduto,arma d’ira il tuo petto ai dolci pianti,ecco disfatti gl’amorosi incanti,mostrati ai prieghi ai vezzi, e sordo, e muto.Scena undicesimaCalipso. Ulisse.</stage>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Ladro dio, ladro rapace</l>
+            <l>fuggisti, e m’involasti</l>
+            <l>col bel cinto la pace</l>
+            <l>il piè di fuga armato</l>
+            <l>assicura il tuo stato;</l>
+            <l>per render salvi i mali</l>
+            <l>la tua divinità t’impena l’ali.</l>
+            <l>In che t’offesi o Giove,</l>
+            <l>che delle gioie mie privar mi vuoi?</l>
+            <l>Forse i diletti miei son torti tuoi?</l>
+            <l>Sì sì furon mai sempre</l>
+            <l>contro le amanti dive</l>
+            <l>fur maligni i talenti</l>
+            <l>delle divine menti.</l>
+            <l>Così poco goderò</l>
+            <l>l’Aurora d’Orione</l>
+            <l>Cerere di Iasone.</l>
+            <l>Ma che mi preme, o duole,</l>
+            <l>ch’il decreto divin rigido sia,</l>
+            <l>s’esser tu solo puoi,</l>
+            <l>dolce nume adorato,</l>
+            <l>moderator del doloroso fato?</l>
+            <l>Già poco pria dicesti</l>
+            <l>ch’il vero seggio è questi</l>
+            <l>del tuo ben, di tua vita,</l>
+            <l>così non mi molesta</l>
+            <l>dubbio più di partita.</l>
+            <l>Ruba Mercurio invano,</l>
+            <l>Giove invano comanda, invan minaccia.</l>
+            <l>Destin crudele, e rio</l>
+            <l>chi sarà contro me s’Ulisse è mio.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Mutai pensier, né voglio</l>
+            <l>dell’incostanza mia render ragione.</l>
+            <l>Tosto eseguir intendo</l>
+            <l>ciò che Giove m’impone.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Così dunque in un punto</l>
+            <l>compariscono ardite</l>
+            <l>in faccia a mie speranze</l>
+            <l>le tue crude incostanze?</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Calipso io vuò partire,</l>
+            <l>taci, o spiega i tuoi guai,</l>
+            <l>altra voce da me più non avrai.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CALIPSO</head>Una sola parola avaro amicospender per me non vuoi?Sovvengati crudeleche quella vita, ond’or tu spiri, e vivi,a te la diedi in dono,io la rubai da’ flutti,dall’ire di Nettuno;allor che tu fra l’ondeperduto abbandonatomille trovavi, e milleumide morti, instabili sepolcri.Ingiustissimo dunquedel fonte ch’a te diediuna stilla mi neghi? Una sol vocedona crudo a’ miei preghi.Perfidissimo spirtose ne’ fatti e nell’opreesser tu vuoi ferocedolce e pietosa almeno,articola una voce.Un picciolo confortod’un’aura vagabonda anco mi togli?E s’altro non puoi dire,a danno mio l’ingrata lingua sciogli,e di’ che vuoi partire.Non mi negar ingratoun lievissimo fiato,una sola parola,una grazia che vola.Odi Ulisse gran colpodi mia divinità, dell’amor mio,se prometti fermarti, e non partire,io non voglio che providi vecchiezza, o di morteil colpo universale,ma ti faccio immortale.Ancor pensi, ancor tacidunque dell’amor tuoi preziosi donil’eternità non paga?E di farti immortalela tua mente superbanon è contenta, o paga?Anima troppo ingorda,s’al tuo pensiero augustosembra l’eternità termine angusto?Ma se ti paion forsel’alte proposte mie lunge dal verofaran più chiare, e certele promesse ragionie l’anno, e le stagioni.Scena dodicesimaLe Stagioni, Calipso, Ulisse.PRIMAVERASono Ulisse perduti i fiori tuoiin grembo a primaveracercargli indarno puoi.Ella fugge s’aggira, e lieta torna,ma non per te ritorna.<sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Una sola parola avaro amico</l>
+            <l>spender per me non vuoi?</l>
+            <l>Sovvengati crudele</l>
+            <l>che quella vita, ond’or tu spiri, e vivi,</l>
+            <l>a te la diedi in dono,</l>
+            <l>io la rubai da’ flutti,</l>
+            <l>dall’ire di Nettuno;</l>
+            <l>allor che tu fra l’onde</l>
+            <l>perduto abbandonato</l>
+            <l>mille trovavi, e mille</l>
+            <l>umide morti, instabili sepolcri.</l>
+            <l>Ingiustissimo dunque</l>
+            <l>del fonte ch’a te diedi</l>
+            <l>una stilla mi neghi? Una sol voce</l>
+            <l>dona crudo a’ miei preghi.</l>
+            <l>Perfidissimo spirto</l>
+            <l>se ne’ fatti e nell’opre</l>
+            <l>esser tu vuoi feroce</l>
+            <l>dolce e pietosa almeno,</l>
+            <l>articola una voce.</l>
+            <l>Un picciolo conforto</l>
+            <l>d’un’aura vagabonda anco mi togli?</l>
+            <l>E s’altro non puoi dire,</l>
+            <l>a danno mio l’ingrata lingua sciogli,</l>
+            <l>e di’ che vuoi partire.</l>
+            <l>Non mi negar ingrato</l>
+            <l>un lievissimo fiato,</l>
+            <l>una sola parola,</l>
+            <l>una grazia che vola.</l>
+            <l>Odi Ulisse gran colpo</l>
+            <l>di mia divinità, dell’amor mio,</l>
+            <l>se prometti fermarti, e non partire,</l>
+            <l>io non voglio che provi</l>
+            <l>di vecchiezza, o di morte</l>
+            <l>il colpo universale,</l>
+            <l>ma ti faccio immortale.</l>
+            <l>Ancor pensi, ancor taci</l>
+            <l>dunque dell’amor tuo</l>
+            <l>i preziosi doni</l>
+            <l>l’eternità non paga?</l>
+            <l>E di farti immortale</l>
+            <l>la tua mente superba</l>
+            <l>non è contenta, o paga?</l>
+            <l>Anima troppo ingorda,</l>
+            <l>s’al tuo pensiero augusto</l>
+            <l>sembra l’eternità termine angusto?</l>
+            <l>Ma se ti paion forse</l>
+            <l>l’alte proposte mie lunge dal vero</l>
+            <l>faran più chiare, e certe</l>
+            <l>le promesse ragioni</l>
+            <l>e l’anno, e le stagioni.</l>
+            <l>Scena dodicesima</l>
+            <l>Le Stagioni, Calipso, Ulisse.</l>
+            <l>PRIMAVERA</l>
+            <l>Sono Ulisse perduti i fiori tuoi</l>
+            <l>in grembo a primavera</l>
+            <l>cercargli indarno puoi.</l>
+            <l>Ella fugge s’aggira, e lieta torna,</l>
+            <l>ma non per te ritorna.</l>
+          </sp>
+          <stage>CALIPSOUna sola parola avaro amicospender per me non vuoi?Sovvengati crudeleche quella vita, ond’or tu spiri, e vivi,a te la diedi in dono,io la rubai da’ flutti,dall’ire di Nettuno;allor che tu fra l’ondeperduto abbandonatomille trovavi, e milleumide morti, instabili sepolcri.Ingiustissimo dunquedel fonte ch’a te diediuna stilla mi neghi? Una sol vocedona crudo a’ miei preghi.Perfidissimo spirtose ne’ fatti e nell’opreesser tu vuoi ferocedolce e pietosa almeno,articola una voce.Un picciolo confortod’un’aura vagabonda anco mi togli?E s’altro non puoi dire,a danno mio l’ingrata lingua sciogli,e di’ che vuoi partire.Non mi negar ingratoun lievissimo fiato,una sola parola,una grazia che vola.Odi Ulisse gran colpodi mia divinità, dell’amor mio,se prometti fermarti, e non partire,io non voglio che providi vecchiezza, o di morteil colpo universale,ma ti faccio immortale.Ancor pensi, ancor tacidunque dell’amor tuoi preziosi donil’eternità non paga?E di farti immortalela tua mente superbanon è contenta, o paga?Anima troppo ingorda,s’al tuo pensiero augustosembra l’eternità termine angusto?Ma se ti paion forsel’alte proposte mie lunge dal verofaran più chiare, e certele promesse ragionie l’anno, e le stagioni.Scena dodicesimaLe Stagioni, Calipso, Ulisse.PRIMAVERASono Ulisse perduti i fiori tuoiin grembo a primaveracercargli indarno puoi.Ella fugge s’aggira, e lieta torna,ma non per te ritorna.</stage>
+          <sp who="#estate">
+            <speaker>ESTATE:</speaker>
+            <l>Fra le guerre, e le morti alle fatiche</l>
+            <l>la calda estate dissipò le spiche.</l>
+            <l>L’età fresca si muta</l>
+            <l>nel cenere troian tu l’hai perduta.</l>
+          </sp>
+          <sp who="#autunno">
+            <speaker>AUTUNNO:</speaker>
+            <l>Or di glorie ripieno</l>
+            <l>il pomifero autunno</l>
+            <l>ti porge grazie al volto, e gioie al seno,</l>
+            <l>ei resterà</l>
+            <l>non fuggirà</l>
+            <l>misurata dal sempre avrai l’età.</l>
+          </sp>
+          <sp who="#inverno">
+            <speaker>INVERNO:</speaker>
+            <l>Ove spira e s’aggira</l>
+            <l>il Zefiretto eterno</l>
+            <l>non soffia orrido verno,</l>
+            <l>nevi e pruine</l>
+            <l>non giungeranno ad imbiancarti il crine.</l>
+            <l>Cedi Ulisse all’assalto</l>
+            <l>dal mortale all’eterno, è grande il salto.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Natura al morir nata</l>
+            <l>tanto su non aspira.</l>
+            <l>Sia pur l’eternitade</l>
+            <l>privilegio agli dèi,</l>
+            <l>e sia la libertade</l>
+            <l>concessa a’ passi miei.</l>
+            <l>Immortal non mi vuol la patria mia</l>
+            <l>colui che nacque umano, umano sia.</l>
+          </sp>
+          <sp who="#calipso">
+            <speaker>CALIPSO:</speaker>
+            <l>Tu cangiasti pensiero, io cangio voglia:</l>
+            <l>in te cessa l’amore, in me la doglia.</l>
+            <l>Forniscan le contese</l>
+            <l>già tu fosti piagato, io fui ferita,</l>
+            <l>or tu parti sanato, io son guarita.</l>
+            <l>Mesi formano il ballo.</l>
+          </sp>
+          <stage>CALIPSOTu cangiasti pensiero, io cangio voglia:in te cessa l’amore, in me la doglia.Forniscan le contesegià tu fosti piagato, io fui ferita,or tu parti sanato, io son guarita.Mesi formano il ballo.</stage>
+        </div>
+        <div type="scene">
+          <head>Azione quinta</head>La scena è in Feacia ora detta Corfù.Personaggi della quinta azione:Alcino re dei Feaci, Nausica figliuola del re, coro dei Feaci, Ulisse, Mantenitore del torneo, Avventuriere del torneo, Amore, Sonno, Venere, Giove, Mercurio, Minerva, coro di dèi, La Pace.Scena primaReggia de’ Feaci.Alcino re. Coro de’ Feaci. <stage>Azione quintaLa scena è in Feacia ora detta Corfù.Personaggi della quinta azione:Alcino re dei Feaci, Nausica figliuola del re, coro dei Feaci, Ulisse, Mantenitore del torneo, Avventuriere del torneo, Amore, Sonno, Venere, Giove, Mercurio, Minerva, coro di dèi, La Pace.Scena primaReggia de’ Feaci.Alcino re. Coro de’ Feaci.</stage>
+          <sp who="#alcino">
+            <speaker>ALCINO:</speaker>
+            <l>Oggi fornisce appunto</l>
+            <l>sudditi miei feaci il quarto lustro</l>
+            <l>termine già prescritto</l>
+            <l>dall’oracolo irato di Nettuno,</l>
+            <l>alla vendetta, all’ira.</l>
+            <l>Voi popoli diletti allegri intanto</l>
+            <l>alle lodi del cielo alzate il canto.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Il castigo promette,</l>
+            <l>e poi perdona il ciel.</l>
+            <l>Più pietoso, che pronto alle vendette.</l>
+          </sp>
+          <sp who="#alcino">
+            <speaker>ALCINO:</speaker>
+            <l>Nettuno si placò</l>
+            <l>la nave minacciata</l>
+            <l>in sasso ei non cangiò;</l>
+            <l>voi popoli diletti allegri intanto</l>
+            <l>alle lodi di lui movete il canto.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Il dio del mar</l>
+            <l>prima sdegnato</l>
+            <l>dolce, e placato</l>
+            <l>oggi n’appar;</l>
+            <l>speriam contenti,</l>
+            <l>prosperi i venti</l>
+            <l>al navigar.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ALCINO</head>Dell’allegrezza in segno oggi tra voisiano giuochi guerrieri;tu forte LaomedonteMantenitor sarai.Scena secondaNausica. Alcino. Ulisse.<sp who="#alcino">
+            <speaker>ALCINO:</speaker>
+            <l>Dell’allegrezza in segno oggi tra voi</l>
+            <l>siano giuochi guerrieri;</l>
+            <l>tu forte Laomedonte</l>
+            <l>Mantenitor sarai.</l>
+            <l>Scena seconda</l>
+            <l>Nausica. Alcino. Ulisse.</l>
+          </sp>
+          <stage>ALCINODell’allegrezza in segno oggi tra voisiano giuochi guerrieri;tu forte LaomedonteMantenitor sarai.Scena secondaNausica. Alcino. Ulisse.</stage>
+          <sp who="#nausica">
+            <speaker>NAUSICA:</speaker>
+            <l>Padre, e signor, tu cui natura diede</l>
+            <l>inclinato a pietà regio potere,</l>
+            <l>perdona all’ardir mio;</l>
+            <l>alla spiaggia vicina,</l>
+            <l>ove donnesco affar pria mi condusse,</l>
+            <l>trovai fra morto, e vivo</l>
+            <l>da spirti abbandonato,</l>
+            <l>povero naufragato;</l>
+            <l>lo consolai, l’accolsi,</l>
+            <l>come pietà chiedea,</l>
+            <l>dolce padre, e signor tu lo ricrea.</l>
+          </sp>
+          <sp who="#alcino">
+            <speaker>ALCINO:</speaker>
+            <l>Nausica figlia amata</l>
+            <l>ben sai quanto i Feaci</l>
+            <l>a favorir i passegger sien pronti,</l>
+            <l>accolto anch’ei sarà,</l>
+            <l>lodo la tua pietà.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Sotto le mura alla nemica Troia</l>
+            <l>due lustri affaticò l’itaco Ulisse,</l>
+            <l>ed altrettanti ancora</l>
+            <l>combattuto, e perduto</l>
+            <l>per non calcate vie</l>
+            <l>per incogniti mari</l>
+            <l>soffrì dolenti sorti, e casi amari;</l>
+            <l>or eccolo non lunge</l>
+            <l>dal fin del suo lunghissimo viaggio,</l>
+            <l>Alcino illustre rege,</l>
+            <l>sopra le navi tue chiede passaggio.</l>
+          </sp>
+          <sp who="#alcino">
+            <speaker>ALCINO:</speaker>
+            <l>Grand’eroe, che tu sia</l>
+            <l>in Itaca portato a tuo piacere,</l>
+            <l>sarà nostro il pensiere,</l>
+            <l>intanto non ti sia</l>
+            <l>allegrezza molesta</l>
+            <l>in onor di Nettuno,</l>
+            <l>oggi veder la preparata festa.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Vostri regi favori</l>
+            <l>mi saran tutti onori,</l>
+            <l>ma peregrin bramoso</l>
+            <l>cosa non ha più lieta,</l>
+            <l>che la patria, e ‘l riposo.</l>
+          </sp>
+          <sp who="#alcino">
+            <speaker>ALCINO:</speaker>
+            <l>Dunque al riposo, e intanto</l>
+            <l>le destinate feste altri prepari,</l>
+            <l>altri forbita nave a’ remi pronta</l>
+            <l>appresti alla partita;</l>
+            <l>lascia pensoso i guai,</l>
+            <l>perch’oggi Ulisse in Itaca sarai.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>NAUSICA</head>Che dite, che dite di mead un cavaliero ho dato la vita,fanciulla più ardita,più ardita non c’è.Voi pur dell’opre mieimparate, o fanciulle, ad esser pieanco in tenera etàè pur bella pietà.Scena terzaGrotte del Sonno.Amor. Sonno.<sp who="#nausica">
+            <speaker>NAUSICA:</speaker>
+            <l>Che dite, che dite di me</l>
+            <l>ad un cavaliero ho dato la vita,</l>
+            <l>fanciulla più ardita,</l>
+            <l>più ardita non c’è.</l>
+            <l>Voi pur dell’opre mie</l>
+            <l>imparate, o fanciulle, ad esser pie</l>
+            <l>anco in tenera età</l>
+            <l>è pur bella pietà.</l>
+            <l>Scena terza</l>
+            <l>Grotte del Sonno.</l>
+            <l>Amor. Sonno.</l>
+          </sp>
+          <stage>NAUSICAChe dite, che dite di mead un cavaliero ho dato la vita,fanciulla più ardita,più ardita non c’è.Voi pur dell’opre mieimparate, o fanciulle, ad esser pieanco in tenera etàè pur bella pietà.Scena terzaGrotte del Sonno.Amor. Sonno.</stage>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Non s’accinga a fiera lite</l>
+            <l>chi non soffre, e chi non dura,</l>
+            <l>son gemelle, e vanno unite</l>
+            <l>la fatica, e la ventura;</l>
+            <l>dentro il mondo che non sta</l>
+            <l>l’ostinato vincerà.</l>
+            <l>Gran dio del Sonno alza gravoso il ciglio,</l>
+            <l>della bella Ciprigna ascolta il figlio.</l>
+          </sp>
+          <sp who="#sonno">
+            <speaker>SONNO:</speaker>
+            <l>Dolci per te godei</l>
+            <l>di Pasitea gl’amori</l>
+            <l>lieto dio del piacer nume de’ cori.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Co’ tua virtù più densa e più profonda</l>
+            <l>più simile alla morte</l>
+            <l>fa’ ch’oggi Ulisse il forte</l>
+            <l>tratto dall’acque alla feacia sponda,</l>
+            <l>orbati i lumi, addormentati i sensi</l>
+            <l>alla sua patria ritornar non pensi</l>
+            <l>tanto cerco da te, tanto déi far,</l>
+            <l>Sonno non me ‘l negar.</l>
+          </sp>
+          <sp who="#sonno">
+            <speaker>SONNO:</speaker>
+            <l>Di mia sorella morte</l>
+            <l>ben sono i sogni eterni,</l>
+            <l>ma il mio fisso letargo alfin fornisce</l>
+            <l>il tuo rimedio è lieve</l>
+            <l>sarà l’aiuto breve.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Rendimi pur contento</l>
+            <l>che ben saprò con novi inganni, e frodi</l>
+            <l>al vagabondo piè stringer i nodi.</l>
+          </sp>
+          <sp who="#sonno">
+            <speaker>SONNO:</speaker>
+            <l>Del morbido mio letto</l>
+            <l>mal volentieri mi privo.</l>
+            <l>Cupido vezzosetto.</l>
+            <l>Potriano i miei ministri</l>
+            <l>far opera men forte</l>
+            <l>pur conviemmi lasciar l’amate piume,</l>
+            <l>per ben servir il supplicante nume.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Vattene Sonno amato</l>
+            <l>all’eroe, ch’è già stanco</l>
+            <l>sarai ben caro, e grato.</l>
+          </sp>
+          <sp who="#sonno">
+            <speaker>SONNO:</speaker>
+            <l>Io movo il tardo volo,</l>
+            <l>sonnacchiose delizie a voi m’involo.</l>
+            <l>Amor se qui m’attendi, e fermi il piè,</l>
+            <l>guarda deh guarda ohimè,</l>
+            <l>non iscoprir quei vasi</l>
+            <l>non esalar quei fumi,</l>
+            <l>ch’il sopor, ch’il letargo</l>
+            <l>faria dormir con cento luci un Argo.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>AMORE</head>Insolita dolcezzadevono aver le delicate piumese appena il pigro dio le può lasciar,affé ch’io vuò provar.(va sopra il letto, e discopre il vaso)O dolce riposar.(qui s’addormenta)Scena quartaSi serra la stanza del Sonno.Giove sull’aquila. Mercurio.<sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Insolita dolcezza</l>
+            <l>devono aver le delicate piume</l>
+            <l>se appena il pigro dio le può lasciar,</l>
+            <l>affé ch’io vuò provar.</l>
+            <l>(va sopra il letto, e discopre il vaso)</l>
+            <l>O dolce riposar.</l>
+            <l>(qui s’addormenta)</l>
+            <l>Scena quarta</l>
+            <l>Si serra la stanza del Sonno.</l>
+            <l>Giove sull’aquila. Mercurio.</l>
+          </sp>
+          <stage>AMOREInsolita dolcezzadevono aver le delicate piumese appena il pigro dio le può lasciar,affé ch’io vuò provar.(va sopra il letto, e discopre il vaso)O dolce riposar.(qui s’addormenta)Scena quartaSi serra la stanza del Sonno.Giove sull’aquila. Mercurio.</stage>
+          <sp who="#giove">
+            <speaker>GIOVE:</speaker>
+            <l>Mercurio assai facesti, il tutto io vidi,</l>
+            <l>già son l’ore vicine,</l>
+            <l>ch’abbia il Fato il suo fine.</l>
+            <l>Vola tosto e fa’ noto</l>
+            <l>a Venere amorosa,</l>
+            <l>ch’il suo figlio riposa</l>
+            <l>nelle stanze del Sonno addormentato.</l>
+            <l>Né senza l’opra sua sarà destato.</l>
+            <l>Riserbo al suo ritorno</l>
+            <l>l’ammirabile cinto,</l>
+            <l>e le dirai, che Giove Amore ha vinto.</l>
+            <l>Intanto ch’io con efficace impulso</l>
+            <l>indurrò il rege Alcino,</l>
+            <l>a tosto rimandar in patria Ulisse</l>
+            <l>così in soglio di cielo il Fato scrisse.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>MERCURIO</head>Ad eseguir quanto imponesti io volo.Scena quintaAnfiteatro per la barriera.Alcino, Ulisse.<sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Ad eseguir quanto imponesti io volo.</l>
+            <l>Scena quinta</l>
+            <l>Anfiteatro per la barriera.</l>
+            <l>Alcino, Ulisse.</l>
+          </sp>
+          <stage>MERCURIOAd eseguir quanto imponesti io volo.Scena quintaAnfiteatro per la barriera.Alcino, Ulisse.</stage>
+          <sp who="#alcino">
+            <speaker>ALCINO:</speaker>
+            <l>Alla bocca di rege</l>
+            <l>poca promessa basta, oggi vedrai</l>
+            <l>o conturbato Ulisse,</l>
+            <l>il desiato regno</l>
+            <l>ti do la destra in pegno.</l>
+          </sp>
+          <sp who="#ulisse">
+            <speaker>ULISSE:</speaker>
+            <l>Così spero gran re, così confido,</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ALCINO</head>Godiamo pria cavallereschi vantide’ giostratori amanti.Scena sestaIl Mantenitore fa leggere il cartello.<sp who="#alcino">
+            <speaker>ALCINO:</speaker>
+            <l>Godiamo pria cavallereschi vanti</l>
+            <l>de’ giostratori amanti.</l>
+            <l>Scena sesta</l>
+            <l>Il Mantenitore fa leggere il cartello.</l>
+          </sp>
+          <stage>ALCINOGodiamo pria cavallereschi vantide’ giostratori amanti.Scena sestaIl Mantenitore fa leggere il cartello.</stage>
+          <sp who="#mantenitore">
+            <speaker>MANTENITORE:</speaker>
+            <l>Chi ha petto, e cor per sofferir rivale</l>
+            <l>non ha per ben’amar petto, né core,</l>
+            <l>d’alma gelosa è disperato il male,</l>
+            <l>né vuol nel suo goder compagno Amore.</l>
+            <l>Sensato amante a gran ragion si duole</l>
+            <l>che non è sol se non è solo il sole.</l>
+            <l>Il mondo mi oda,</l>
+            <l>ch’io taccia, e goda</l>
+            <l>la dolce amica non credea no</l>
+            <l>il ben rifiuto</l>
+            <l>e risoluto</l>
+            <l>col forte braccio io proverò</l>
+            <l>ch’il lasciar di goder’è meglio assai,</l>
+            <l>che godendo soffrir gelosi guai.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ALCINO</head>Ulisse? Ulisse dorme.Scena settimaL’Avventuriere fa leggere il cartello.<sp who="#alcino">
+            <speaker>ALCINO:</speaker>
+            <l>Ulisse? Ulisse dorme.</l>
+            <l>Scena settima</l>
+            <l>L’Avventuriere fa leggere il cartello.</l>
+          </sp>
+          <stage>ALCINOUlisse? Ulisse dorme.Scena settimaL’Avventuriere fa leggere il cartello.</stage>
+          <sp who="#avventuriere">
+            <speaker>AVVENTURIERE:</speaker>
+            <l>La bellezza non è scarsa di gioia,</l>
+            <l>ch’abbia tutto a serbar per un sol petto,</l>
+            <l>invido l’altrui ben, non mi dà noia,</l>
+            <l>né scema il mio piacer l’altrui diletto.</l>
+            <l>Ch’il mio ben si divida a me non duole,</l>
+            <l>ch’in raggi ancor si divide il sole.</l>
+            <l>Prima infedele</l>
+            <l>ch’empia, e crudele,</l>
+            <l>la mia nemica mi placherà.</l>
+            <l>D’un vero amante</l>
+            <l>l’asta pesante</l>
+            <l>col forte braccio sostenterà:</l>
+            <l>che prima di servir chi ognun disprezza</l>
+            <l>meglio è goder universal bellezza.</l>
+            <l>Così sostenta armato</l>
+            <l>il sofferente cavalier stellato.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ALCINO</head>Un mio pensier mi diceche si fermino i giochi, e si conducaalla patria promessal’itacense addormitosu portatelo al lito.Scena ottavaVenere, Amore in carro.VENERELa facessi da bambinoda fanciullo dormigliosonel contender col destinoti sei dato qui al riposo.T’acquistasti un bell’onor,levati, destati, svegliati Amor.Di te il cielo si trastulla,chi ti scherne, e chi t’inganna,se da pappe, sei da cullabambozzetto fa’ la nanna.T’acquistasti un bell’onor,levati, destati, svegliati Amor.<sp who="#alcino">
+            <speaker>ALCINO:</speaker>
+            <l>Un mio pensier mi dice</l>
+            <l>che si fermino i giochi, e si conduca</l>
+            <l>alla patria promessa</l>
+            <l>l’itacense addormito</l>
+            <l>su portatelo al lito.</l>
+            <l>Scena ottava</l>
+            <l>Venere, Amore in carro.</l>
+            <l>VENERE</l>
+            <l>La facessi da bambino</l>
+            <l>da fanciullo dormiglioso</l>
+            <l>nel contender col destino</l>
+            <l>ti sei dato qui al riposo.</l>
+            <l>T’acquistasti un bell’onor,</l>
+            <l>levati, destati, svegliati Amor.</l>
+            <l>Di te il cielo si trastulla,</l>
+            <l>chi ti scherne, e chi t’inganna,</l>
+            <l>se da pappe, sei da culla</l>
+            <l>bambozzetto fa’ la nanna.</l>
+            <l>T’acquistasti un bell’onor,</l>
+            <l>levati, destati, svegliati Amor.</l>
+          </sp>
+          <stage>ALCINOUn mio pensier mi diceche si fermino i giochi, e si conducaalla patria promessal’itacense addormitosu portatelo al lito.Scena ottavaVenere, Amore in carro.VENERELa facessi da bambinoda fanciullo dormigliosonel contender col destinoti sei dato qui al riposo.T’acquistasti un bell’onor,levati, destati, svegliati Amor.Di te il cielo si trastulla,chi ti scherne, e chi t’inganna,se da pappe, sei da cullabambozzetto fa’ la nanna.T’acquistasti un bell’onor,levati, destati, svegliati Amor.</stage>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Di quest’occhi le tenere pupille,</l>
+            <l>al violento sonno</l>
+            <l>chiuder la via non ponno.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>VENERE</head>Non son figlio per te l’imprese grandi,scoccar dardi e saette,non eseguir vendette.Io perdei, vinse Ulisse, ei torna in regnocosì Giove comanda;tu per salvar l’onorede’ tuoi famosi acquisti,potrai dir che dormisti.Scena nonaLa scena è tutta cielo.Mercurio. Minerva. Venere. Amore. Giove. Coro di Deità.<sp who="#venere">
+            <speaker>VENERE:</speaker>
+            <l>Non son figlio per te l’imprese grandi,</l>
+            <l>scoccar dardi e saette,</l>
+            <l>non eseguir vendette.</l>
+            <l>Io perdei, vinse Ulisse, ei torna in regno</l>
+            <l>così Giove comanda;</l>
+            <l>tu per salvar l’onore</l>
+            <l>de’ tuoi famosi acquisti,</l>
+            <l>potrai dir che dormisti.</l>
+            <l>Scena nona</l>
+            <l>La scena è tutta cielo.</l>
+            <l>Mercurio. Minerva. Venere. Amore. Giove. Coro di Deità.</l>
+          </sp>
+          <stage>VENERENon son figlio per te l’imprese grandi,scoccar dardi e saette,non eseguir vendette.Io perdei, vinse Ulisse, ei torna in regnocosì Giove comanda;tu per salvar l’onorede’ tuoi famosi acquisti,potrai dir che dormisti.Scena nonaLa scena è tutta cielo.Mercurio. Minerva. Venere. Amore. Giove. Coro di Deità.</stage>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Venite all’alto soglio eterni dèi</l>
+            <l>udite i pregi miei;</l>
+            <l>ho vinto Amor</l>
+            <l>nume del ciel maggior.</l>
+            <l>Il suo strale</l>
+            <l>niente vale,</l>
+            <l>la sua face</l>
+            <l>spenta giace,</l>
+            <l>coronatemi il capo, o stelle, o dèi,</l>
+            <l>udite i pregi miei</l>
+            <l>ho vinto Amor</l>
+            <l>nume del ciel maggior.</l>
+          </sp>
+          <sp who="#minerva">
+            <speaker>MINERVA:</speaker>
+            <l>Vincesti Amor? Non furon tue le prove</l>
+            <l>con il decreto suo lo vinse Giove.</l>
+          </sp>
+          <sp who="#venere">
+            <speaker>VENERE:</speaker>
+            <l>Rubasti il cinto è vero</l>
+            <l>questo fu sol trofeo della tua mano;</l>
+            <l>dio nei furti sovrano.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Madre non ti sdegnar del troppo ardir,</l>
+            <l>io lo farò pentir.</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>O che minacce; io rido</l>
+            <l>del guerriero Cupido.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Tu ridi sì, tu ridi</l>
+            <l>riderò tosto anch’io de’ tuoi sospir,</l>
+            <l>credilo a me, che ti farò pentir.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>GIOVE</head>Cessi lo sdegno omai cessino l’irevi voglio o saggi dèi placidi, e cheti,poté l’itaco Ulisse in patria gire,al decreto di Giove, ognun s’acqueti.Prendi o figlia il tuo cintoprendilo, e lo riserbaa più grand’uopo, ad opere più illustri.E tu saggia Minervacontro i proci superbiarma la destra al peregrino Ulisse.Che vittoria, e vendettal’alto decreto aspetta.E voi dell’alto ciel divine mentilasciate l’ire omai lasciate i sdegnipiù non s’odano risse in questi regni,ma della pace sol s’odan gl’accenti.Scena decimaLa Pace fra gli dèi.<sp who="#giove">
+            <speaker>GIOVE:</speaker>
+            <l>Cessi lo sdegno omai cessino l’ire</l>
+            <l>vi voglio o saggi dèi placidi, e cheti,</l>
+            <l>poté l’itaco Ulisse in patria gire,</l>
+            <l>al decreto di Giove, ognun s’acqueti.</l>
+            <l>Prendi o figlia il tuo cinto</l>
+            <l>prendilo, e lo riserba</l>
+            <l>a più grand’uopo, ad opere più illustri.</l>
+            <l>E tu saggia Minerva</l>
+            <l>contro i proci superbi</l>
+            <l>arma la destra al peregrino Ulisse.</l>
+            <l>Che vittoria, e vendetta</l>
+            <l>l’alto decreto aspetta.</l>
+            <l>E voi dell’alto ciel divine menti</l>
+            <l>lasciate l’ire omai lasciate i sdegni</l>
+            <l>più non s’odano risse in questi regni,</l>
+            <l>ma della pace sol s’odan gl’accenti.</l>
+            <l>Scena decima</l>
+            <l>La Pace fra gli dèi.</l>
+          </sp>
+          <stage>GIOVECessi lo sdegno omai cessino l’irevi voglio o saggi dèi placidi, e cheti,poté l’itaco Ulisse in patria gire,al decreto di Giove, ognun s’acqueti.Prendi o figlia il tuo cintoprendilo, e lo riserbaa più grand’uopo, ad opere più illustri.E tu saggia Minervacontro i proci superbiarma la destra al peregrino Ulisse.Che vittoria, e vendettal’alto decreto aspetta.E voi dell’alto ciel divine mentilasciate l’ire omai lasciate i sdegnipiù non s’odano risse in questi regni,ma della pace sol s’odan gl’accenti.Scena decimaLa Pace fra gli dèi.</stage>
+          <sp who="#pace">
+            <speaker>PACE:</speaker>
+            <l>Oh che giubilo sente il core</l>
+            <l>se il furore più forza non ha</l>
+            <l>pace pace si goderà.</l>
+            <l>Cantate</l>
+            <l>beate</l>
+            <l>godete</l>
+            <l>ben liete.</l>
+            <l>Eterno riso</l>
+            <l>di paradiso</l>
+            <l>qui s’averà.</l>
+            <l>Oh che giubilo sente il core</l>
+            <l>se il furore più forza non ha</l>
+            <l>pace pace si goderà.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Pace pace si goderà.</l>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

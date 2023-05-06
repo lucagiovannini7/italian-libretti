@@ -1,0 +1,833 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">’Orfeo</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="atto terzo">
+            <persName>ATTO TERZO:</persName>
+          </person>
+          <person xml:id="pastori">
+            <persName>PASTORI:</persName>
+          </person>
+          <person xml:id="choro ninfe, pastori">
+            <persName>CHORO NINFE, PASTORI:</persName>
+          </person>
+          <person xml:id="proserpina">
+            <persName>PROSERPINA:</persName>
+          </person>
+          <person xml:id="messaggiera">
+            <persName>MESSAGGIERA:</persName>
+          </person>
+          <person xml:id="eco">
+            <persName>ECO:</persName>
+          </person>
+          <person xml:id="pastore">
+            <persName>PASTORE:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="atto quinto">
+            <persName>ATTO QUINTO:</persName>
+          </person>
+          <person xml:id="euridice">
+            <persName>EURIDICE:</persName>
+          </person>
+          <person xml:id="atto quarto">
+            <persName>ATTO QUARTO:</persName>
+          </person>
+          <person xml:id="la musica">
+            <persName>LA MUSICA:</persName>
+          </person>
+          <person xml:id="speranza">
+            <persName>SPERANZA:</persName>
+          </person>
+          <person xml:id="caronte">
+            <persName>CARONTE:</persName>
+          </person>
+          <person xml:id="f i n e">
+            <persName>F I N E:</persName>
+          </person>
+          <person xml:id="spiriti infernali">
+            <persName>SPIRITI INFERNALI:</persName>
+          </person>
+          <person xml:id="atto primo">
+            <persName>ATTO PRIMO:</persName>
+          </person>
+          <person xml:id="secondo pastore">
+            <persName>SECONDO PASTORE:</persName>
+          </person>
+          <person xml:id="uno spirito">
+            <persName>UNO SPIRITO:</persName>
+          </person>
+          <person xml:id="plutone">
+            <persName>PLUTONE:</persName>
+          </person>
+          <person xml:id="ninfe, pastori">
+            <persName>NINFE, PASTORI:</persName>
+          </person>
+          <person xml:id="orfeo">
+            <persName>ORFEO:</persName>
+          </person>
+          <person xml:id="ninfa">
+            <persName>NINFA:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#la musica">
+        <speaker>LA MUSICA:</speaker>
+        <l>Dal mio Permesso amato</l>
+        <l>à voi ne vegno, incliti eroi,</l>
+        <l>sangue gentil di regi,</l>
+        <l>di cui narra la Fama</l>
+        <l>eccelsi pregi, nè giugne al ver</l>
+        <l>perch’ è troppo alto il segno.</l>
+        <l>Io la Musica son,</l>
+        <l>ch’ à i dolci accenti</l>
+        <l>sò far tranquillo</l>
+        <l>ogni turbato core,</l>
+        <l>et hor di nobil ira,</l>
+        <l>et hor d’ amore</l>
+        <l>posso infiammar le più gelate menti.</l>
+        <l>Io sù cetera d’ or</l>
+        <l>cantando soglio</l>
+        <l>mortal orecchio</l>
+        <l>lusingar talhora</l>
+        <l>e in guisa tal de l’ armonia sonora</l>
+        <l>de le rote del ciel</l>
+        <l>più l’ alme invoglio.</l>
+        <l>Hor mentre i canti alterno,</l>
+        <l>hor lieti, hor mesti,</l>
+        <l>non si mova augellin</l>
+        <l>fra queste piante,</l>
+        <l>nè s’ oda in queste</l>
+        <l>rive onda sonante,</l>
+        <l>et ogni Auretta</l>
+        <l>in suo camin s’ arresti.</l>
+      </sp>
+      <stage>Ritornello</stage>
+      <sp who="#atto primo">
+        <speaker>ATTO PRIMO:</speaker>
+      </sp>
+      <sp who="#pastore">
+        <speaker>PASTORE:</speaker>
+        <l>In questo lieto e fortunato giorno</l>
+        <l>ch’ hà posto fine</l>
+        <l>a gli amorosi affanni</l>
+        <l>del nostro Semideo,</l>
+        <l>cantiam, pastori,</l>
+        <l>in sì soavi accenti</l>
+        <l>che sian degni d’ Orfeo</l>
+        <l>nostri concenti.</l>
+        <l>Oggi fatt’ è pietosa</l>
+        <l>l’ alma già sì sdegnosa</l>
+        <l>de la bella Euridice.</l>
+        <l>Oggi fatt’ è felice Orfeo</l>
+        <l>nel sen di lei, per cui già tanto</l>
+        <l>per queste selve</l>
+        <l>ha sospirato, e pianto.</l>
+        <l>Dunque,</l>
+        <l>in sì lieto e fortunato giorno …</l>
+      </sp>
+      <sp who="#choro ninfe, pastori">
+        <speaker>CHORO NINFE, PASTORI:</speaker>
+        <l>Vieni, Imeneo, deh vieni</l>
+        <l>e la tua face ardente</l>
+        <l>sia quasi un Sol nascente</l>
+        <l>ch’ apporti à questi amanti</l>
+        <l>i dì sereni</l>
+        <l>e lunge homai disgombre</l>
+        <l>de gli affanni e del duol</l>
+        <l>le nebbie e l’ombre.</l>
+      </sp>
+      <sp who="#ninfa">
+        <speaker>NINFA:</speaker>
+        <l>Muse honor di Parnaso,</l>
+        <l>amor del cielo,</l>
+        <l>gentil conforto</l>
+        <l>a sconsolato core,</l>
+        <l>vostre cetre sonore</l>
+        <l>squarcino d’ ogni nube</l>
+        <l>il fosco velo;</l>
+        <l>e mentre oggi propizio</l>
+        <l>al vostro Orfeo</l>
+        <l>invochiam Imeneo</l>
+        <l>sù ben teamprate corde.</l>
+        <l>Co’ l vostro suon,</l>
+        <l>nostra armonia s’ accorde.</l>
+      </sp>
+      <sp who="#ninfe, pastori">
+        <speaker>NINFE, PASTORI:</speaker>
+        <l>Lasciate i monti, lasciate i fonti,</l>
+        <l>ninfe vezzose e liete,</l>
+        <l>e in questi prati</l>
+        <l>a i balli usati</l>
+        <l>leggiadro il piè rendete.</l>
+        <l>Qui miri il sole</l>
+        <l>vostre carole</l>
+        <l>più vaghe assai di quelle,</l>
+        <l>ond’ a la Luna,</l>
+        <l>a l’ aria bruna,</l>
+        <l>danzan in ciel le stelle.</l>
+        <l>Poi di bei fiori, per voi s’ onori,</l>
+        <l>di questi amanti il crine,</l>
+        <l>ch’ or dei martiri</l>
+        <l>de i lor desiri</l>
+        <l>godon beati al fine.</l>
+      </sp>
+      <stage>RitornelloPASTOREMa tu, gentil cantor,s’à’tuoi lamentigià festi lagrimarqueste campagne,perch’ hora al suonde la famosa cetranon fai teco gioirle valli e i poggi?Sia testimon del corequalche lieta canzonche detti amore.</stage>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Rosa del ciel, vita del giorno,</l>
+        <l>e degna prole di lui</l>
+        <l>he l’ Universo affrena,</l>
+        <l>sol, che’l tutto circondi</l>
+        <l>e ‘l tutto miri,</l>
+        <l>da gli stellati giri,</l>
+        <l>dimmi:</l>
+        <l>vedesti mai di me più lieto</l>
+        <l>e fortunato amante ?</l>
+        <l>Fu ben felice il giorno,</l>
+        <l>mio ben, che pria ti vidi,</l>
+        <l>e più felice l’ hora</l>
+        <l>che per te sospirai,</l>
+        <l>poich’ al mio sospirar</l>
+        <l>tù sospirasti.</l>
+        <l>Felicissimo il punto</l>
+        <l>che la candida mano</l>
+        <l>pegno di pura fede à me porgesti.</l>
+        <l>Se tanti cori avessi</l>
+        <l>quant’ occh’ il ciel sereno</l>
+        <l>e quante chiome sogliono i</l>
+        <l>colli haver</l>
+        <l>l’Aprile e ‘l Maggio,</l>
+        <l>colmi si farien tutti</l>
+        <l>e traboccanti di quel piacere</l>
+        <l>ch’oggi mi fà contento.</l>
+      </sp>
+      <sp who="#euridice">
+        <speaker>EURIDICE:</speaker>
+        <l>Io non dirò qual sia nel tuo gioire,</l>
+        <l>Orfeo, la gioia mia,</l>
+        <l>che non hò meco il core,</l>
+        <l>ma teco stassi</l>
+        <l>in compagnia d’ Amore.</l>
+        <l>Chiedilo dunque a lui s’</l>
+        <l>intender brami quanto lieta</l>
+        <l>i gioisca,</l>
+        <l>e quanto t’ ami.</l>
+      </sp>
+      <sp who="#ninfe, pastori">
+        <speaker>NINFE, PASTORI:</speaker>
+        <l>Lasciate i monti,</l>
+        <l>Lasciate i fonti, …</l>
+        <l>Vieni Imeneo, deh vieni, …</l>
+      </sp>
+      <stage>RitornelloPASTOREMa s’ il nostro gioirdal ciel deriva,come dal ciel ciòche quà giù s’ incontra,giust’ è ben che divotigl’ offriamincensi e voti.Dunque al tempio ciascunrivolga i passia pregar lui nela cui destraè il mondo,che lungamenteil nostro ben conservi.</stage>
+      <stage>RitornelloPASTORIAlcun non sia che disperatoin preda si doni al duol,benché talhor n’ assagliapossente sì chela nostra vita inforsa.</stage>
+      <stage>RitornelloNINFE, PASTORIChe poi che nembo riogravido il senod’ atra tempesta inorriditohà il mondo,dispiega il sol più chiaroi rai lucenti.</stage>
+      <stage>RitornelloPASTORIE dopo l’ aspro geldel verno ignudoveste di fior la primaverai campi.</stage>
+      <sp who="#ninfe, pastori">
+        <speaker>NINFE, PASTORI:</speaker>
+        <l>Orfeo di cui pur dianzi furon cibo</l>
+        <l>i sospir bevanda il pianto,</l>
+        <l>oggi felice è tanto</l>
+        <l>che nulla è più che</l>
+        <l>da bramar gli avanzi.</l>
+      </sp>
+      <sp who="#atto secondo">
+        <speaker>ATTO SECONDO:</speaker>
+      </sp>
+      <stage>Sinfonia</stage>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Ecco pur ch’à voi ritorno</l>
+        <l>care selve e piaggie amate,</l>
+        <l>da quel Sol fatte beate</l>
+        <l>per cui sol</l>
+        <l>mie notti han giorno.</l>
+      </sp>
+      <stage>RitornelloPASTOREMira,ch’ à se n’ allettal’ ombra Orfeo di que’ faggihor ch’ infocati raggiFebo dal ciel saetta.RitornelloSù quell’ erbose spondeposiamci,e ‘n varij modiciascun sua voce snodial mormorio de l’ onde.</stage>
+      <stage>RitornelloDUE PASTORIIn questo prato adornoogni selvaggio Numesovente hà per costumedi far lieto soggiorno.RitornelloQuì Pan, Dio de’ Pastori,s’udì talhor dolenterimembrar dolcementesuoi sventurati amori.RitornelloQui le Napee vezzose,schiera sempre fiorita,con le candide ditafur viste à coglier rose.</stage>
+      <sp who="#ninfe, pastori">
+        <speaker>NINFE, PASTORI:</speaker>
+        <l>Dunque fa’ degn’ Orfeo,</l>
+        <l>del suon de l’ aurea lira.</l>
+        <l>Questi campi ove spira</l>
+        <l>aura d’ odor sabeo.</l>
+      </sp>
+      <stage>RitornelloORFEOVi ricorda ò boschi ombrosi,de’ miei lunghi aspri tormenti,quando i sassi a’ miei lamentirispondean fatti pietosi ?RitornelloDite, allhor non vi sembraipiù d’ ogni altro sconsolato?Hor fortuna hà stil cangiatoed hà volti in festai guai.RitornelloVissi già mesto e dolente.Or gioisco e quegli affanniche soffertiho per tant’ annifan più caroil ben presente.RitornelloSol per te, bella Euridice,benedico il mio tormento.Dopo ‘l duolviè più contento,dopo il mal viè più felice.</stage>
+      <sp who="#pastore">
+        <speaker>PASTORE:</speaker>
+        <l>Mira, deh mira, Orfeo,</l>
+        <l>che d’ ogni intorno</l>
+        <l>ride il bosco e ride il prato.</l>
+        <l>Segui pur col</l>
+        <l>plettro aurato</l>
+        <l>d’ addolcir l’ aria</l>
+        <l>in sì beato giorno.</l>
+      </sp>
+      <sp who="#messaggiera">
+        <speaker>MESSAGGIERA:</speaker>
+        <l>Ahi, caso acerbo!</l>
+        <l>Ahi, fato empio e crudele!</l>
+        <l>Ahi, stelle ingiuriose!</l>
+        <l>Ahi, ciel avaro!</l>
+      </sp>
+      <sp who="#pastore">
+        <speaker>PASTORE:</speaker>
+        <l>Qual suon dolente</l>
+        <l>il lieto dì perturba ?</l>
+      </sp>
+      <sp who="#messaggiera">
+        <speaker>MESSAGGIERA:</speaker>
+        <l>Lassa, dunque, debb’ io,</l>
+        <l>Mentre Orfeo con sue note</l>
+        <l>il ciel consola,</l>
+        <l>con parole mie</l>
+        <l>passargli il cuore ?</l>
+      </sp>
+      <sp who="#pastore">
+        <speaker>PASTORE:</speaker>
+        <l>Questa è Silvia gentile,</l>
+        <l>dolcissima compagna</l>
+        <l>de la bella Euridice,</l>
+        <l>ò quanto è in vista dolorosa.</l>
+        <l>Hor che fia?</l>
+        <l>deh sommi Dei,</l>
+        <l>non torcete da noi</l>
+        <l>benigno il guardo.</l>
+      </sp>
+      <sp who="#messaggiera">
+        <speaker>MESSAGGIERA:</speaker>
+        <l>Pastor lasciate il canto,</l>
+        <l>ch’ ogni nostra allegrezza</l>
+        <l>in doglia è volta.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Donde vieni?</l>
+        <l>Ove vai?</l>
+        <l>Ninfa che porti?</l>
+      </sp>
+      <sp who="#messaggiera">
+        <speaker>MESSAGGIERA:</speaker>
+        <l>A te vengo Orfeo,</l>
+        <l>messagiera infelice</l>
+        <l>di caso più infelice e</l>
+        <l>più funesto.</l>
+        <l>La bella Euridice …</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Ohimé che odo?</l>
+      </sp>
+      <sp who="#messaggiera">
+        <speaker>MESSAGGIERA:</speaker>
+        <l>La tua diletta sposa è morta.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Ohimé.</l>
+      </sp>
+      <sp who="#messaggiera">
+        <speaker>MESSAGGIERA:</speaker>
+        <l>In un fiorito prato</l>
+        <l>con altre sue compagne,</l>
+        <l>giva cogliendo fiori</l>
+        <l>per farne una ghirlanda</l>
+        <l>à le sue chiome,</l>
+        <l>quando angue insidioso,</l>
+        <l>ch’ era fra l’ erbe ascoso,</l>
+        <l>le punse un piè con velenoso dente.</l>
+        <l>Ed ecco immantinente, scolorirsi</l>
+        <l>il bel viso e ne’ suoi lumi</l>
+        <l>sparir que’ lampi, ond’ ella</l>
+        <l>al Sol fea scorno.</l>
+        <l>Allhor noi tutte</l>
+        <l>sbigottite e meste</l>
+        <l>le fummo intorno richiamar</l>
+        <l>tentando gli spirti in lei smarriti</l>
+        <l>con l’ onda fresca e</l>
+        <l>co’ possenti carmi.</l>
+        <l>Ma nulla valse, ahi lassa,</l>
+        <l>ch’ ella i languidi</l>
+        <l>lumi alquanto aprendo,</l>
+        <l>e tè chiamando Orfeo,</l>
+        <l>dopo un grave sospiro,</l>
+        <l>spirò frà queste braccia, ed io rimasi</l>
+        <l>pieno il cor di pietade e di spavento.</l>
+      </sp>
+      <sp who="#pastore">
+        <speaker>PASTORE:</speaker>
+        <l>Ahi, caso acerbo!</l>
+        <l>Ahi, fat’ empio e crudele!</l>
+        <l>Ahi, stelle ingiuriose!</l>
+        <l>Ahi, ciel avaro!</l>
+      </sp>
+      <sp who="#secondo pastore">
+        <speaker>SECONDO PASTORE:</speaker>
+        <l>A l’ amara novella</l>
+        <l>rassembra l’ infelice</l>
+        <l>un muto sasso</l>
+        <l>che per troppo dolor</l>
+        <l>non può dolersi.</l>
+        <l>Ahi, ben avrebbe un cor di Tigre</l>
+        <l>o d’orsa chi non sentisse</l>
+        <l>del tuo mal pietate.</l>
+        <l>Privo d’ ogni tuo ben</l>
+        <l>misero amante.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Tu se’ morta, mia vita,</l>
+        <l>ed io respiro?</l>
+        <l>tu sei, tu se’ pur ita per mai</l>
+        <l>più non tornare, ed io rimango?</l>
+        <l>No, che se i versi</l>
+        <l>alcuna cosa ponno,</l>
+        <l>n’ andrò sicuro</l>
+        <l>a’ più profondi abissi</l>
+        <l>e, intenerito il cor</l>
+        <l>del Re de l’ ombre,</l>
+        <l>meco trarròtti</l>
+        <l>a riveder le stelle.</l>
+        <l>O se ciò negherammi</l>
+        <l>empio destino,</l>
+        <l>rimarrò teco</l>
+        <l>in compagnia di morte,</l>
+        <l>A Dio terra,</l>
+        <l>à Dio cielo, e Sole, à Dio.</l>
+      </sp>
+      <sp who="#ninfe, pastori">
+        <speaker>NINFE, PASTORI:</speaker>
+        <l>Ahi, caso acerbo!</l>
+        <l>Ahi, fat’ empio e crudele!</l>
+        <l>Ahi, stelle ingiuriose!</l>
+        <l>Ahi, ciel avaro!</l>
+        <l>Non si fidi huom mortale</l>
+        <l>di ben caduco e frale</l>
+        <l>che tosto fugge, e spesso</l>
+        <l>a gran salita</l>
+        <l>il precipizio è presso.</l>
+      </sp>
+      <sp who="#messaggiera">
+        <speaker>MESSAGGIERA:</speaker>
+        <l>Ma io ch’ in questa lingua</l>
+        <l>hò portato il coltello</l>
+        <l>ch’ ha svenata</l>
+        <l>d’ Orfeo l’ anima amante,</l>
+        <l>odiosa à i Pastori et</l>
+        <l>a le Ninfe,</l>
+        <l>odiosa à me stessa,</l>
+        <l>ove m’ ascondo?</l>
+        <l>Nottola infausta</l>
+        <l>il Sole fuggirò sempre e</l>
+        <l>in solitario speco</l>
+        <l>menerò vita</l>
+        <l>al mio dolor conforme</l>
+      </sp>
+      <stage>SinfoniaPASTORIChi ne consola, ahi lassi?O pur chi ne concedenegl’ occhi un vivo fonteda poter lagrimarcome conviensiin questo mesto giorno,quanto più lietotant’ hor più mesto ?Oggi turbo crudelei due lumi maggioridi queste nostre selve,Euridice e Orfeo,l’ una punta da l’ angue,l’ altro dal duol trafitto,</stage>
+      <sp who="#ninfe, pastori">
+        <speaker>NINFE, PASTORI:</speaker>
+        <l>Ahi, caso acerbo!</l>
+        <l>Ahi fato empio e crudele, …</l>
+      </sp>
+      <sp who="#pastori">
+        <speaker>PASTORI:</speaker>
+        <l>Ma dove, ah dove hor sono</l>
+        <l>de la misera Ninfa</l>
+        <l>le belle e fredde membra,</l>
+        <l>che per suo degno albergo</l>
+        <l>quelle bell’ alma elesse</l>
+        <l>ch’ oggi è partita</l>
+        <l>in su ‘l fiorir de’ giorni?</l>
+        <l>Andiam Pastori, andiamo</l>
+        <l>pietosi à ritrovarle,</l>
+        <l>e di lagrime amare</l>
+        <l>il dovuto tributo</l>
+        <l>per noi si paghi</l>
+        <l>almeno al corpo esangue.</l>
+      </sp>
+      <sp who="#pastori">
+        <speaker>PASTORI:</speaker>
+        <l>Ahi, caso acerbo!</l>
+        <l>Ahi fato empio e crudele,…</l>
+      </sp>
+      <stage>Ritornello</stage>
+      <sp who="#atto terzo">
+        <speaker>ATTO TERZO:</speaker>
+      </sp>
+      <stage>SinfoniaORFEOScorto da te mio numeSperanza unico benede gli afflitti mortali,homai son giuntoa questi regni tenebrosi e mestiove raggio di solgiamai non giunse.Tù mia compagna e ducein così strane e sconosciute viereggesti il passo debile e tremante,ond’ oggi ancor sperodi riveder quelle beate luciche sol’ a gli occhimiei portano il giorno.</stage>
+      <sp who="#speranza">
+        <speaker>SPERANZA:</speaker>
+        <l>Ecco l’ atra palude,</l>
+        <l>ecco il nocchiero</l>
+        <l>che trae l’ ignudi spirti</l>
+        <l>a l’ altra sponda dov’ hà Pluton</l>
+        <l>de l’ ombre il vasto impero.</l>
+        <l>Oltre quel nero stagn’,</l>
+        <l>oltre quel fiume,</l>
+        <l>in quei campi di pianto e di dolore.</l>
+        <l>Destin crudele</l>
+        <l>ogni tuo ben t’ asconde.</l>
+        <l>Hor d’uopo e d’un gran core e</l>
+        <l>d’un bel canto.</l>
+        <l>Io fin qui t’ ho condotto,</l>
+        <l>hor più non lice</l>
+        <l>teco venir,</l>
+        <l>chè amara legge il vieta.</l>
+        <l>Legge scritta col ferro</l>
+        <l>in duro sasso de l’ ima reggia</l>
+        <l>in su l’ orribil soglia,</l>
+        <l>che in queste note</l>
+        <l>il fiero senso esprime.</l>
+        <l>Lasciate ogni speranza</l>
+        <l>o voi ch’ entrate.</l>
+        <l>Dunque, se stabilito hai</l>
+        <l>pur nel core</l>
+        <l>di porre il piè</l>
+        <l>ne la città dolente,</l>
+        <l>da te men’ fuggo e torno</l>
+        <l>a l’ usato soggiorno.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Dove, ah dove te’ n vai,</l>
+        <l>unico del mio cor</l>
+        <l>dolce conforto ?</l>
+        <l>Poiché non lunge homai</l>
+        <l>del mio lungo cammin</l>
+        <l>si scopre il porto,</l>
+        <l>perché ti parti e m’ abbandoni,</l>
+        <l>ahi lasso,</l>
+        <l>sul periglioso passo?</l>
+        <l>Qual bene or più m’ avanza</l>
+        <l>se fuggi tù, dolcissima Speranza ?</l>
+      </sp>
+      <sp who="#caronte">
+        <speaker>CARONTE:</speaker>
+        <l>O tu ch’ innanzi morte</l>
+        <l>a queste rive</l>
+        <l>temerato ten’ vieni,</l>
+        <l>arresta i passi.</l>
+        <l>Solcar quest’onde</l>
+        <l>ad huom mortal non dassi,</l>
+        <l>nè può co’ morti</l>
+        <l>albergo aver chi vive.</l>
+        <l>Che? Vuoi forse, nemico</l>
+        <l>al mio Signore,</l>
+        <l>Cerbero trar de</l>
+        <l>le Tartaree porte ?</l>
+        <l>O rapir brami</l>
+        <l>sua cara consorte</l>
+        <l>d’ impudico desire</l>
+        <l>acceso il core ?</l>
+        <l>Pon freno al foll’ ardir,</l>
+        <l>ch’ entr’ al mio legno</l>
+        <l>non accorrò più mai corporea salma,</l>
+        <l>sì de gli antichi oltaggi ancora en</l>
+        <l>l’alma serbo acerba memoria</l>
+        <l>e giusto sdegno.</l>
+      </sp>
+      <stage>SinfoniaORFEOPossente Spirto e formidabil nume,senza cui far passaggioà l’ altra riva alma da corposciolta in van presume.RitornelloA lei volt’ ho ‘l caminper l’ aër cieco,a l’ Inferno non già,ch’ ovunque stassitanta bellezzail paradiso hà seco.RitornelloOrfeo son io che d’ Euridicei passi segue per questetenebrose arene,ove già maiper uom mortal non vassi.O de le luci mie luci serenes’un vostro sguardopuò tornarmi in vita,Ahi, chi nega il confortoà le mie pene ?Sol tu, nobile Diopuoi darmi aita,nè temer dei,ché sopra un’ aurea CetraSol di cordesoavi armo le ditacontra cui rigida almainvan s’ impetra.</stage>
+      <sp who="#caronte">
+        <speaker>CARONTE:</speaker>
+        <l>Ben sollecita alquanto</l>
+        <l>dilettandomi il core,</l>
+        <l>sconsolato Cantore,</l>
+        <l>il tuo pianto e ‘l tuo canto.</l>
+        <l>Ma lunge, ah, lunge sia</l>
+        <l>da questo petto pietà,</l>
+        <l>di mio valor</l>
+        <l>non degno affetto.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Ahi, sventurato amante!</l>
+        <l>Sperar dunque non lice</l>
+        <l>ch’ odan miei prieghi</l>
+        <l>i cittadin d’Averno ?</l>
+        <l>Onde qual ombra errante</l>
+        <l>d’insepolto cadavero infelice,</l>
+        <l>privo sarò del cielo</l>
+        <l>e de l’Inferno?</l>
+        <l>Così vuol empia sorte ch’ in questi</l>
+        <l>orrori di morte</l>
+        <l>da te mio cor lontano,</l>
+        <l>chiami tuo nome in vano, e pregando</l>
+        <l>e piangendo io mi consumi ?</l>
+        <l>Rendetemi il mio ben,</l>
+        <l>Tartarei Numi.</l>
+        <l>Sinfonia</l>
+        <l>Ei dorme,</l>
+        <l>e la mia cetra,</l>
+        <l>se pietà non impetra</l>
+        <l>ne l’ indurato core,</l>
+        <l>almen il sonno</l>
+        <l>fuggir al mio cantar</l>
+        <l>gli occhi non ponno.</l>
+        <l>Sù dunque a che più tardo?</l>
+        <l>Tempo è ben d’ approdar</l>
+        <l>sù l’ altra sponda,</l>
+        <l>s’alcun non è ch’ il nieghi,</l>
+        <l>Vaglia l’ ardir se foran</l>
+        <l>vani i preghi.</l>
+        <l>È vago fior del Tempo l’occasion,</l>
+        <l>ch’ esser dee colta a tempo.</l>
+        <l>Mentre versan</l>
+        <l>quest’ occhi amari fiumi</l>
+        <l>rendetemi il mio ben</l>
+        <l>Tartarei Numi.</l>
+      </sp>
+      <stage>ORFEOAhi, sventurato amante!Sperar dunque non licech’ odan miei prieghii cittadin d’Averno ?Onde qual ombra erranted’insepolto cadavero infelice,privo sarò del cieloe de l’Inferno?Così vuol empia sorte ch’ in questiorrori di morteda te mio cor lontano,chiami tuo nome in vano, e pregandoe piangendo io mi consumi ?Rendetemi il mio ben,Tartarei Numi.SinfoniaEi dorme,e la mia cetra,se pietà non impetrane l’ indurato core,almen il sonnofuggir al mio cantargli occhi non ponno.Sù dunque a che più tardo?Tempo è ben d’ approdarsù l’ altra sponda,s’alcun non è ch’ il nieghi,Vaglia l’ ardir se foranvani i preghi.È vago fior del Tempo l’occasion,ch’ esser dee colta a tempo.Mentre versanquest’ occhi amari fiumirendetemi il mio benTartarei Numi.</stage>
+      <stage>SinfoniaSPIRITI INFERNALINulla impresa per uomsi tenta in vano,nè contra luipiù sà natura armarse:.Ei del instabil piano arògli ondosi campi, e ‘l seme sparseDi sue fatiche,ond’ aurea messe accolse.Quinci perché memoriavivesse di sua gloria,La Fama à dir di luisua lingua sciolse,che pose freno al Marcol fragil Legno,che sprezzòd’Austro e d’Aquilon lo sdegno.</stage>
+      <stage>Sinfonia</stage>
+      <sp who="#atto quarto">
+        <speaker>ATTO QUARTO:</speaker>
+      </sp>
+      <sp who="#proserpina">
+        <speaker>PROSERPINA:</speaker>
+        <l>Signor, quell’ infelice,</l>
+        <l>che per queste di morte</l>
+        <l>ampie campagne</l>
+        <l>va chiamand’ Euridice,</l>
+        <l>ch’ udit’ hai tù pur dianzi</l>
+        <l>così soavemente lamentarsi,</l>
+        <l>moss’ ho tanta pietà dentr’ al mio</l>
+        <l>core ch’ io torno un’ altra volta</l>
+        <l>à porger prieghi</l>
+        <l>perch’ il tuo Nume</l>
+        <l>al suo pregar si pieghi.</l>
+        <l>Deh, se da queste luci</l>
+        <l>amorosa dolcezza unqua trahesti</l>
+        <l>se ti piacque il seren</l>
+        <l>di questa fronte</l>
+        <l>che tù chiami tuo Cielo,</l>
+        <l>onde mi giuri,</l>
+        <l>di non invidiar</l>
+        <l>sua sorte à Giove,</l>
+        <l>pregoti, per quel foco,</l>
+        <l>con cui già</l>
+        <l>la grand’ alma Amor t’ accese,</l>
+        <l>d’ Orfeo dolente</l>
+        <l>il lagrimar consola</l>
+        <l>e fà che la sua Donna</l>
+        <l>in vita torni</l>
+        <l>al bel seren dei sospirati giorni.</l>
+      </sp>
+      <sp who="#plutone">
+        <speaker>PLUTONE:</speaker>
+        <l>Benché severo ed immutabil fato</l>
+        <l>contrasti, amata sposa</l>
+        <l>à i tuoi desiri,</l>
+        <l>pur nulla homai si nieghi</l>
+        <l>a tal beltà congiunta</l>
+        <l>a tanti preghi.</l>
+        <l>La sua cara Euridice</l>
+        <l>contra l’ ordin fatale</l>
+        <l>Orfeo ricovri.</l>
+        <l>Ma pria che tragga il piè</l>
+        <l>da questi abissi non mai valga</l>
+        <l>ver lei gli avidi lumi,</l>
+        <l>che di perdita eterna</l>
+        <l>gli fia certa cagione</l>
+        <l>un solo sguardo.</l>
+        <l>Io così stabilisco.</l>
+        <l>Hor nel mio Regno</l>
+        <l>fate ò ministri il mio voler palese,</l>
+        <l>sì che l’ intenda Orfeo</l>
+        <l>e l’ intenda Euridice</l>
+        <l>e di cangiarlo hor</l>
+        <l>più tentar non lice.</l>
+      </sp>
+      <sp who="#spiriti infernali">
+        <speaker>SPIRITI INFERNALI:</speaker>
+        <l>O, de gli habitator</l>
+        <l>de l’ombre eterne possente Re</l>
+        <l>legge ne fia tuo cenno,</l>
+        <l>che ricercar</l>
+        <l>altre cagioni interne</l>
+        <l>di tuo voler</l>
+        <l>nostri pensier non denno.</l>
+        <l>Trarrà di quest’ orribili caverne</l>
+        <l>sua sposa Orfeo, s’ adoprerà</l>
+        <l>suo senno sì che nol vinca giovanil</l>
+        <l>desio, ne i gravi imperi</l>
+        <l>suoi sparga d’ oblio.</l>
+      </sp>
+      <sp who="#proserpina">
+        <speaker>PROSERPINA:</speaker>
+        <l>Quali grazie ti rendo</l>
+        <l>or che sì nobil dono</l>
+        <l>concedi a’ prieghi miei</l>
+        <l>Signor cortese ?</l>
+        <l>Sia benedetto il dì che</l>
+        <l>pria ti piacqui,</l>
+        <l>benedetta la preda</l>
+        <l>e’l dolce inganno,</l>
+        <l>poiché per mia ventura</l>
+        <l>Feci acquisto di te</l>
+        <l>perdendo il Sole.</l>
+      </sp>
+      <sp who="#plutone">
+        <speaker>PLUTONE:</speaker>
+        <l>Tue soavi parole</l>
+        <l>d’ amor l’ antica piaga</l>
+        <l>rinfrescan nel mio core;</l>
+        <l>così l’ alma tua non sia più vaga</l>
+        <l>di celeste diletto,</l>
+        <l>si ch’ abbandoni</l>
+        <l>il marital tuo letto.</l>
+      </sp>
+      <sp who="#spiriti infernali">
+        <speaker>SPIRITI INFERNALI:</speaker>
+        <l>Pietate, oggi, e Amore</l>
+        <l>trionfan ne l’ Inferno.</l>
+        <l>Ecco il gentil cantore,</l>
+        <l>che sua sposa conduce</l>
+        <l>al Ciel superno.</l>
+      </sp>
+      <stage>RitornelloORFEOQual honor di te fia degno,mia cetra onnipotente,s’ hai nel Tartareo regnopiegar potutoogn’ indurata mente ?RitornelloLuogo avrai fra le più belleimmagini celestiond’ al tuo suon le stelledanzeranno in girior tardi or presti.RitornelloIo per te felice à pienovedrò l’ amato volto,e nel candido senode la mia Donnaoggi sarò raccolto.Ma mentre io canto ohiméchi m’ assicurach’ella mi segua?Ohimé chi mi nascondede le amate pupille il dolce lume ?Forse d’ invidia puntele deità d’ Averno.Perch’ io non siaquaggiù felice à pienomi tolgono il mirarviluci beate e liete,che sol col guardoaltrui bear potete ?Ma che temi, mio core ?Ciò che vieta Plutoncomanda Amore.A Nume più possente,che vince uomini e Dei,ben ubbidir devrei.(Quì si fa strepitodietro alla Scena)Ma che odo ohimé lasso ?S’arman forse a’ miei dannicon tal furor le furie innamorateper rapirmi il mio ben,ed io consento ?O dolcissimi lumi, io pur vi veggio,io pur: ma qual Eclissi ohimè,v’oscura ?</stage>
+      <sp who="#uno spirito">
+        <speaker>UNO SPIRITO:</speaker>
+        <l>Rott’ hai la legge,</l>
+        <l>e se’ di grazia indegno.</l>
+      </sp>
+      <sp who="#euridice">
+        <speaker>EURIDICE:</speaker>
+        <l>Ahi, vista troppo dolce</l>
+        <l>e troppo amara;</l>
+        <l>Così per troppo amor</l>
+        <l>dunque mi perdi ?</l>
+        <l>Et io misera perdo</l>
+        <l>il poter più godere</l>
+        <l>e di luce e di vita,</l>
+        <l>e perdo insieme</l>
+        <l>tè d’ ogni ben mio</l>
+        <l>più caro,</l>
+        <l>ò mio consorte.</l>
+      </sp>
+      <sp who="#spiriti infernali">
+        <speaker>SPIRITI INFERNALI:</speaker>
+        <l>Torna a l’ ombre di morte</l>
+        <l>infelice Euridice,</l>
+        <l>nè più sperar</l>
+        <l>di riveder il Sole</l>
+        <l>ch’ homai fa sordo</l>
+        <l>a’ prieghi tuoi l’ Inferno.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Dove ten vai, mia vita?</l>
+        <l>Ecco i’ ti seguo.</l>
+        <l>Ma chi me ‘l niega, ohimè:</l>
+        <l>sogno o vaneggio?</l>
+        <l>Qual poter,</l>
+        <l>qual furor da questi orrori,</l>
+        <l>da questi amati orrori</l>
+        <l>mal mio grado mi tragge,</l>
+        <l>e mi conduce a l’ odiosa luce?</l>
+      </sp>
+      <stage>SinfoniaSPIRITI INFERNALIE’ la virtute un raggiodi celeste bellezza,fregio dell’ almaond’ ella sol s’apprezza:Questa di Tempo oltraggionon teme, anzi maggiorel’adombra sol d’ affetto humano,Orfeo vinse l’Infernoe vinto poi fùda gli affetti suoi.Degno d’ eterna gloriafia sol colui ch’ avràdi sè vittoria.</stage>
+      <stage>Sinfonia</stage>
+      <sp who="#atto quinto">
+        <speaker>ATTO QUINTO:</speaker>
+      </sp>
+      <stage>RitornelloORFEOQuesti i campi di Tracia,e questo è il locodove passo mi ‘l coreper l’ amara novella il mio dolore.Poi che non ho più spenedi ricovrar pregando.Piangendo e sospirandoil perduto mio bene,che poss’ io più ?Se non volgermi à voi,selve soavi, un tempoconforto a’ miei martir,mentre à Dio piacque,per farvi per pietà meco languireal mio languire.Voi vi doleste,o monti,e lagrimaste.Voi, sassi, al dispartirdel nostro sole,ed io con voi lagrimerò mai sempre,e mai sempre dorròmmi,ahi doglia, ahi</stage>
+      <sp who="#eco">
+        <speaker>ECO:</speaker>
+        <l>Hai pianto.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Cortese Eco amorosa</l>
+        <l>che sconsolata sei,</l>
+        <l>e consolar mi vuoi ne’ dolor miei,</l>
+        <l>benché queste mie luci</l>
+        <l>sien già per lagrimar fatte</l>
+        <l>due fonti,</l>
+        <l>in così grave mia fiera sventura</l>
+        <l>non ho pianto però tanto che basti.</l>
+      </sp>
+      <sp who="#eco">
+        <speaker>ECO:</speaker>
+        <l>Basti.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Se glì occhi d’ Argo avessi,</l>
+        <l>e spandessero tutti</l>
+        <l>un Mar di pianto,</l>
+        <l>non fora il duol</l>
+        <l>conforme a tanti guai</l>
+      </sp>
+      <sp who="#eco">
+        <speaker>ECO:</speaker>
+        <l>Guai.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>S’ hai del mio mal pietade</l>
+        <l>io ti ringrazio di tua benignitate.</l>
+        <l>Ma mentr’ io mi querelo</l>
+        <l>deh, perché mi rispondi</l>
+        <l>sol con gl’ ultimi accenti ?</l>
+        <l>Rendimi tutti integri</l>
+        <l>i miei lamenti.</l>
+        <l>Ma tu anima mia se mai ritorna</l>
+        <l>la tua fredd’ombra</l>
+        <l>a queste amiche piagge,</l>
+        <l>prendi hor da me</l>
+        <l>queste tue lodi estreme,</l>
+        <l>ch’ hor a te sacro</l>
+        <l>la mia cetra e ‘l canto.</l>
+        <l>Come a te già sopra</l>
+        <l>l’altar del core</l>
+        <l>lo spirto acceso</l>
+        <l>in sacrifizio offersi.</l>
+        <l>Tu bella fusti e saggia,</l>
+        <l>e in te ripose tutte le grazie</l>
+        <l>sue cortese il Cielo,</l>
+        <l>mentre ad ogni</l>
+        <l>altra de suoi don fu scarso.</l>
+        <l>D’ogni lingua ogni</l>
+        <l>lode à te conviensi ch’ albergasti</l>
+        <l>in bel corpo alma più bella,</l>
+        <l>fastosa men</l>
+        <l>quanto d’honor più degna.</l>
+        <l>Hor l’altre Donne</l>
+        <l>son superbe e perfide</l>
+        <l>ver chi le adora,</l>
+        <l>dispietate instabili,</l>
+        <l>prive di senno</l>
+        <l>e d’ ogni pensier nobile,</l>
+        <l>onde a ragion opra di</l>
+        <l>lor non lodansi,</l>
+        <l>quinci non fia giamai</l>
+        <l>che per vil femina</l>
+        <l>Amor con aureo stral</l>
+        <l>il cor trafiggami.</l>
+      </sp>
+      <stage>Sinfonia</stage>
+      <sp who="#f i n e">
+        <speaker>F I N E:</speaker>
+      </sp>
+    </body>
+  </text>
+</TEI>

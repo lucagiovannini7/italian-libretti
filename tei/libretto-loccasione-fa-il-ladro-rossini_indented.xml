@@ -1,0 +1,2452 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">’occasione fa il ladro</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="parmenione e alberto">
+            <persName>PARMENIONE E ALBERTO:</persName>
+          </person>
+          <person xml:id="ernestina">
+            <persName>ERNESTINA:</persName>
+          </person>
+          <person xml:id="alberto e parmenione">
+            <persName>ALBERTO E PARMENIONE:</persName>
+          </person>
+          <person xml:id="alberto, parmenione">
+            <persName>ALBERTO, PARMENIONE:</persName>
+          </person>
+          <person xml:id="ernestina e parmenione">
+            <persName>ERNESTINA E PARMENIONE:</persName>
+          </person>
+          <person xml:id="berenice, ernestina e eusebio">
+            <persName>BERENICE, ERNESTINA E EUSEBIO:</persName>
+          </person>
+          <person xml:id="berenice">
+            <persName>BERENICE:</persName>
+          </person>
+          <person xml:id="berenice e alberto">
+            <persName>BERENICE E ALBERTO:</persName>
+          </person>
+          <person xml:id="martino">
+            <persName>MARTINO:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="alberto">
+            <persName>ALBERTO:</persName>
+          </person>
+          <person xml:id="eusebio">
+            <persName>EUSEBIO:</persName>
+          </person>
+          <person xml:id="berenice e ernestina">
+            <persName>BERENICE E ERNESTINA:</persName>
+          </person>
+          <person xml:id="parmenione">
+            <persName>PARMENIONE:</persName>
+          </person>
+          <person xml:id="ernestina, eusebio e parmenione">
+            <persName>ERNESTINA, EUSEBIO E PARMENIONE:</persName>
+          </person>
+          <person xml:id="parmenione, alberto">
+            <persName>PARMENIONE, ALBERTO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>EUSEBIO</castItem>
+        <castItem>BERENICE</castItem>
+        <castItem>ALBERTO</castItem>
+        <castItem>PARMENIONE</castItem>
+        <castItem>ERNESTINA</castItem>
+        <castItem>MARTINO</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>La scena si finge a Napoli, e suoi dintorni.</stage>
+      <div type="act">
+        <head>Atto unico</head>
+        <div type="scene">
+          <head>[N. 1 – Sinfonia e Introduzione]</head>Scena primaSala in un albergo di campagna, che introduce in diverse stanze numerate. Notte oscura e tempestosa.Don Parmenione, che mangia e beve ad una tavola rusticamente imbandita e rischiarata da un lucerniere: Martino seduto in disparte, che approfitta dei di lui avanzi, malgrado lo spavento che soffre al fragore dei tuoni, ed al chiaror dei lampi. <stage>[N. 1 – Sinfonia e Introduzione]Scena primaSala in un albergo di campagna, che introduce in diverse stanze numerate. Notte oscura e tempestosa.Don Parmenione, che mangia e beve ad una tavola rusticamente imbandita e rischiarata da un lucerniere: Martino seduto in disparte, che approfitta dei di lui avanzi, malgrado lo spavento che soffre al fragore dei tuoni, ed al chiaror dei lampi.</stage>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Frema in cielo il nembo irato,</l>
+            <l>scoppi il tuono e fischi il vento;</l>
+            <l>che qui placido e contento</l>
+            <l>io mi voglio ristorar.</l>
+            <l>Quanto è dolce il mar turbato</l>
+            <l>dalle sponde il contemplar!</l>
+            <l>(tuoni)</l>
+          </sp>
+          <stage>PARMENIONEFrema in cielo il nembo irato,scoppi il tuono e fischi il vento;che qui placido e contentoio mi voglio ristorar.Quanto è dolce il mar turbatodalle sponde il contemplar!(tuoni)</stage>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>(si spaventa)</l>
+            <l>Ah saette maledette,</l>
+            <l>deh lasciatemi mangiar!</l>
+          </sp>
+          <stage>MARTINO(si spaventa)Ah saette maledette,deh lasciatemi mangiar!</stage>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Cos’è stato?</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Eh niente, niente.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Ma tu tremi.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Ah! non signore.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Tien, e mangia allegramente.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Tante grazie…</l>
+            <l>(tuono)</l>
+            <l>Ohimè, che orrore!</l>
+            <l>(lascia cadere il piatto ricevuto dal padrone e vuol fuggire)</l>
+          </sp>
+          <stage>MARTINOTante grazie…(tuono)Ohimè, che orrore!(lascia cadere il piatto ricevuto dal padrone e vuol fuggire)</stage>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Senti, olà!</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>(si ferma)</l>
+            <l>Che comandate?</l>
+          </sp>
+          <stage>MARTINO(si ferma)Che comandate?</stage>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Dove vai?</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Non m’arrestate.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Scaccia, bestia, il tuo timore.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Non vi posso contentar.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Cosa fai là sciocco in piè?</l>
+            <l>Siedi qui vicino a me.</l>
+            <l>Se anche vedi il ciel cascar,</l>
+            <l>mangia, bevi e non badar.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>MARTINO</head>Voi morir mi fate affé,o seduto, o stando in piè.Par che debba il ciel cascar.Come posso non tremar?(Don Parmenione sforza il suo servo a sedere vicino a lui, facendolo tacere e mangiare, per quanto è possibile, tranquillamente)Scena secondaIl conte Alberto, accompagnato da un Domestico, il quale, dopo aver gettato la valigia del padrone a canto a quella di don Parmenione, si addormenta sopra una panca, e detti.<sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Voi morir mi fate affé,</l>
+            <l>o seduto, o stando in piè.</l>
+            <l>Par che debba il ciel cascar.</l>
+            <l>Come posso non tremar?</l>
+            <l>(Don Parmenione sforza il suo servo a sedere vicino a lui, facendolo tacere e mangiare, per quanto è possibile, tranquillamente)</l>
+            <l>Scena seconda</l>
+            <l>Il conte Alberto, accompagnato da un Domestico, il quale, dopo aver gettato la valigia del padrone a canto a quella di don Parmenione, si addormenta sopra una panca, e detti.</l>
+          </sp>
+          <stage>MARTINOVoi morir mi fate affé,o seduto, o stando in piè.Par che debba il ciel cascar.Come posso non tremar?(Don Parmenione sforza il suo servo a sedere vicino a lui, facendolo tacere e mangiare, per quanto è possibile, tranquillamente)Scena secondaIl conte Alberto, accompagnato da un Domestico, il quale, dopo aver gettato la valigia del padrone a canto a quella di don Parmenione, si addormenta sopra una panca, e detti.</stage>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Il tuo rigore insano,</l>
+            <l>fiero destin, sospendi:</l>
+            <l>quel dio d’amore offendi,</l>
+            <l>che scorta mia si fa.</l>
+            <l>Tu gli elementi invano</l>
+            <l>a danno mio fomenti;</l>
+            <l>di te, degli elementi</l>
+            <l>amor trionferà.</l>
+            <l>(tuono e lampo)</l>
+          </sp>
+          <stage>ALBERTOIl tuo rigore insano,fiero destin, sospendi:quel dio d’amore offendi,che scorta mia si fa.Tu gli elementi invanoa danno mio fomenti;di te, degli elementiamor trionferà.(tuono e lampo)</stage>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Misericordia!… Aiuto!</l>
+            <l>(cade con la sedia)</l>
+          </sp>
+          <stage>MARTINOMisericordia!… Aiuto!(cade con la sedia)</stage>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Chi è là?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Siam noi.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Chi siete?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Dal tempo trattenuto</l>
+            <l>qui un forestier vedete.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>E la cagion medesima</l>
+            <l>me pur condotto ha qua.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>E chi sa quando il diavolo</l>
+            <l>da qui ci porterà!</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Dunque facciamo un brindisi</l>
+            <l>con questo vin perfetto.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>L’amico invito accetto</l>
+            <l>di vostra urbanità.</l>
+            <l>(stando in piedi empiono i bicchieri, mentre timoroso Martino sta in disparte osservandoli)</l>
+          </sp>
+          <stage>ALBERTOL’amico invito accettodi vostra urbanità.(stando in piedi empiono i bicchieri, mentre timoroso Martino sta in disparte osservandoli)</stage>
+          <sp who="#parmenione e alberto">
+            <speaker>PARMENIONE E ALBERTO:</speaker>
+            <l>Viva Bacco il dio del vino,</l>
+            <l>viva il sesso femminino!</l>
+            <l>che al piacer ogn’alma desta,</l>
+            <l>che fa i cori giubilar;</l>
+            <l>e anche in mezzo alla tempesta</l>
+            <l>sa i perigli disprezzar.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Che terribile destino</l>
+            <l>a tai pazzi star vicino!</l>
+            <l>Riscaldata han già la testa</l>
+            <l>non san più cos’han da far;</l>
+            <l>ma già un fulmine la festa</l>
+            <l>viene or ora a terminar.</l>
+            <l>(toccano i bicchieri, e li vuotano, poi si rimettono a sedere)</l>
+          </sp>
+          <stage>MARTINOChe terribile destinoa tai pazzi star vicino!Riscaldata han già la testanon san più cos’han da far;ma già un fulmine la festaviene or ora a terminar.(toccano i bicchieri, e li vuotano, poi si rimettono a sedere)</stage>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Grato conforto è l’incontrar per viaggio</l>
+            <l>un passeggier cortese!</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Il fortunato</l>
+            <l>in caso tal son io.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Bene obbligato.</l>
+            <l>Se v’aggrada, possiamo</l>
+            <l>a Napoli recarci in compagnia.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Quella, signor, non è la strada mia.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Come!</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>A che c’entri tu?</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Me ne dispiace;</l>
+            <l>perché in paese ignoto</l>
+            <l>fra tanta oscurità può facilmente</l>
+            <l>l’un per l’altro cammin prendere in fallo,</l>
+            <l>chi solo, come me, viaggia a cavallo.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Esser deve l’affar di gran premura,</l>
+            <l>che a Napoli vi chiama.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Un matrimonio.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Bravo!</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Certo.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>La sposa</l>
+            <l>voi conoscete?</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Ohibò. Molto impaziente</l>
+            <l>sono anzi di vederla, e giacché parmi,</l>
+            <l>che la tempesta omai sia per finire,</l>
+            <l>con vostra permission voglio partire.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Come v’aggrada.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>E noi?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Taci.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Su presto</l>
+            <l>le valigie riprendi, andiam, che ho fretta.</l>
+            <l>Vi ringrazio di nuovo, e vi saluto.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Mille felicità.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ALBERTO</head>Molto tenuto.(Alberto scuote il suo servo, che non ben desto ancora, prende senza avvedersi la valigia dell’altro forestiere per quella del suo padrone, e lentamente con lui s’allontana)Scena terzaParmenione, Martino.<sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Molto tenuto.</l>
+            <l>(Alberto scuote il suo servo, che non ben desto ancora, prende senza avvedersi la valigia dell’altro forestiere per quella del suo padrone, e lentamente con lui s’allontana)</l>
+            <l>Scena terza</l>
+            <l>Parmenione, Martino.</l>
+          </sp>
+          <stage>ALBERTOMolto tenuto.(Alberto scuote il suo servo, che non ben desto ancora, prende senza avvedersi la valigia dell’altro forestiere per quella del suo padrone, e lentamente con lui s’allontana)Scena terzaParmenione, Martino.</stage>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>E noi qui che facciam?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Noi partiremo.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Per Napoli?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Si sa.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Ma perché dire</l>
+            <l>di non volerci andar, perché con l’altro</l>
+            <l>uniti non ci siam?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Perché non voglio</l>
+            <l>far sapere ad ognuno i fatti miei,</l>
+            <l>perché soffrir non posso,</l>
+            <l>d’andar con chi può farmi i conti addosso.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Sarà bene così.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Paghiamo il conto,</l>
+            <l>e poi si vada.</l>
+            <l>(va per aprire la valigia, dove tiene il denaro)</l>
+          </sp>
+          <stage>PARMENIONEPaghiamo il conto,e poi si vada.(va per aprire la valigia, dove tiene il denaro)</stage>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>A meraviglia.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Oh bella!</l>
+            <l>(si sforza inutilmente d’aprir la valigia)</l>
+          </sp>
+          <stage>PARMENIONEOh bella!(si sforza inutilmente d’aprir la valigia)</stage>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Cos’è?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Per tua indolenza il forestiere</l>
+            <l>con la valigia sua cambiò la mia.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Credo, che un mal per voi questo non sia.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Che dici?</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Eh c’intendiam.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Presto, va’…</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Dove?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Le mie carte… il denaro… il passaporto…</l>
+            <l>Corri…</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Ma dove mai?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Corri a cercarlo.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Nel suo galoppo, al buio ove trovarlo?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Ma intanto?…</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Intanto approfittar bisogna</l>
+            <l>del favor della sorte.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>E vuoi?…</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Lasciate,</l>
+            <l>ch’ei sia l’indagator di tal scoperta.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Cosa fai?</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Cosa faccio? Eccola aperta.</l>
+            <l>(spezza il lucchetto, strappa la catena ed apre la valigia)</l>
+          </sp>
+          <stage>MARTINOCosa faccio? Eccola aperta.(spezza il lucchetto, strappa la catena ed apre la valigia)</stage>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Oh che ribaldo!</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Zitto: ecco una borsa.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Lascia star…</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Quante gioie! Oh! oh! un ritratto.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Mostralo.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Che vi par?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Che bella cosa!</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Chi diavolo sarà?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Quest’è la sposa.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Buono! Qui c’è un grand’abito da gala.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Oh, che vaga, e gentil fisionomia!</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Che fina biancheria!</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>M’incanta.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Un passaporto…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Un passaporto!</l>
+            <l>(lo prende)</l>
+          </sp>
+          <stage>PARMENIONEUn passaporto!(lo prende)</stage>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Certo: e molte cambiali. Io ve l’ho detto,</l>
+            <l>che non vi pentirete.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Oh che bel colpo!</l>
+            <l>Più resister non posso.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Ebben?…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Si faccia.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Come!</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Riponi presto entro ogni cosa.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>E volete?…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Per me voglio la sposa.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Che sorte, che accidente,</l>
+            <l>che sbaglio fortunato!</l>
+            <l>Amor mi vuol beato,</l>
+            <l>ed io ringrazio amor.</l>
+            <l>Martino, allegramente!</l>
+            <l>andiamo a farci onor.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Ma come?…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Che scioccone!</l>
+            <l>Non sai capir?</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Che cosa?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Osserva che boccone,</l>
+            <l>che pasta deliziosa</l>
+            <l>considera il mio cor.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Piuttosto d’un bastone</l>
+            <l>vi toccherà il favor.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Che bestia, che buffone,</l>
+            <l>che ignobile timor!</l>
+            <l>D’arrogarsi un nome finto</l>
+            <l>veramente il passo è ardito,</l>
+            <l>e può mettermi in procinto</l>
+            <l>di mangiare il pan pentito;</l>
+            <l>ma se l’oro all’altro io rendo,</l>
+            <l>se rinunzio a ogn’altro effetto,</l>
+            <l>l’interesse non offendo,</l>
+            <l>non pregiudico l’onor.</l>
+            <l>E poi questo bel visetto</l>
+            <l>fa scusabile ogni error.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Ebben don Parmenione?…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Io sono il conte Alberto.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Alberto voi?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Sì certo.</l>
+            <l>È questo il passaporto,</l>
+            <l>che mi conduce in porto;</l>
+            <l>è questo il gran ricapito,</l>
+            <l>che ha sottoscritto amor.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Ma per pietà…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>PARMENIONE</head>Finiscila…Non odo i tuoi consigli,non curo più perigli:amore bricconcello,m’ha colto nel cervello;e questa cara immaginemi pizzica, mi stuzzica,in petto mi fa cresceredall’allegrezza il cor.(Martino ripone tutti gli effetti nella valigia, e portandola seco, segue il padrone, che pieno d’entusiasmo lo ha preceduto)Scena quartaGrand’atrio terreno in casa della marchesa elegantemente addobbato, con ampio verone di prospetto, che mette nel giardino, e con varie porte laterali, che introducono ai rispettivi loro appartamenti.Don Eusebio, Ernestina, Servi.<sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Finiscila…</l>
+            <l>Non odo i tuoi consigli,</l>
+            <l>non curo più perigli:</l>
+            <l>amore bricconcello,</l>
+            <l>m’ha colto nel cervello;</l>
+            <l>e questa cara immagine</l>
+            <l>mi pizzica, mi stuzzica,</l>
+            <l>in petto mi fa crescere</l>
+            <l>dall’allegrezza il cor.</l>
+            <l>(Martino ripone tutti gli effetti nella valigia, e portandola seco, segue il padrone, che pieno d’entusiasmo lo ha preceduto)</l>
+            <l>Scena quarta</l>
+            <l>Grand’atrio terreno in casa della marchesa elegantemente addobbato, con ampio verone di prospetto, che mette nel giardino, e con varie porte laterali, che introducono ai rispettivi loro appartamenti.</l>
+            <l>Don Eusebio, Ernestina, Servi.</l>
+          </sp>
+          <stage>PARMENIONEFiniscila…Non odo i tuoi consigli,non curo più perigli:amore bricconcello,m’ha colto nel cervello;e questa cara immaginemi pizzica, mi stuzzica,in petto mi fa cresceredall’allegrezza il cor.(Martino ripone tutti gli effetti nella valigia, e portandola seco, segue il padrone, che pieno d’entusiasmo lo ha preceduto)Scena quartaGrand’atrio terreno in casa della marchesa elegantemente addobbato, con ampio verone di prospetto, che mette nel giardino, e con varie porte laterali, che introducono ai rispettivi loro appartamenti.Don Eusebio, Ernestina, Servi.</stage>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Non lo permetto.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Il mio dover…</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Scusate:</l>
+            <l>dell’urbano trattar so la maniera.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Ma in questa casa io son per cameriera.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Il caso vostro esige</l>
+            <l>rispetto, e compassione, e mia nipote</l>
+            <l>sua compagna vi chiama, e non sua serva.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>So, che molta bontà per me conserva,</l>
+            <l>ma in circostanze tali…</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>È ver, si tratta</l>
+            <l>d’un sposalizio in grande;</l>
+            <l>e lo sposo da noi splendidamente</l>
+            <l>oggi si accoglierà.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Dunque…</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Per questo</l>
+            <l>in uffizi servili il vostro grado</l>
+            <l>non dovete abbassar; ché se vi piace</l>
+            <l>manifestar per noi qualche premura,</l>
+            <l>agli altri il comandar sia vostra cura.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Ebben, permetterete?…</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Anzi: a voi, presto</l>
+            <l>attenti i cenni suoi tutti ascoltate</l>
+            <l>e quanto essa dirà, fate e disfate.</l>
+            <l>(via)</l>
+          </sp>
+          <stage>EUSEBIOAnzi: a voi, prestoattenti i cenni suoi tutti ascoltatee quanto essa dirà, fate e disfate.(via)</stage>
+        </div>
+        <div type="scene">
+          <head>ERNESTINA</head>Eppur del mio destinonon mi posso lagnar, se in mezzo a tantemie sciagure infinite…Basta, non ci pensiam: voi mi seguite.(parte coi servi)Scena quintaBerenice, indi Ernestina, e detta.<sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Eppur del mio destino</l>
+            <l>non mi posso lagnar, se in mezzo a tante</l>
+            <l>mie sciagure infinite…</l>
+            <l>Basta, non ci pensiam: voi mi seguite.</l>
+            <l>(parte coi servi)</l>
+            <l>Scena quinta</l>
+            <l>Berenice, indi Ernestina, e detta.</l>
+          </sp>
+          <stage>ERNESTINAEppur del mio destinonon mi posso lagnar, se in mezzo a tantemie sciagure infinite…Basta, non ci pensiam: voi mi seguite.(parte coi servi)Scena quintaBerenice, indi Ernestina, e detta.</stage>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Vicino è il momento,</l>
+            <l>che sposa sarò.</l>
+            <l>Eppure contento</l>
+            <l>il core non ho.</l>
+            <l>Il solito ardire</l>
+            <l>non trovo più in me,</l>
+            <l>mi sento languire,</l>
+            <l>né intendo perché.</l>
+            <l>Mal dal timore oppressa</l>
+            <l>la mia ragion non resti:</l>
+            <l>arbitra di sé stessa</l>
+            <l>l’anima mia si desti;</l>
+            <l>e ceda solo ai palpiti</l>
+            <l>d’un corrisposto amor.</l>
+            <l>Sposarsi ad un, che non s’è mai veduto,</l>
+            <l>senza saper, se brutto, o bello ei sia,</l>
+            <l>mi sembra una pazzia;</l>
+            <l>ma un certo non so che se in lui non trovo,</l>
+            <l>che col mio modo di pensar combina…</l>
+            <l>Oh, te appunto io volea, cara Ernestina!</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Comandate.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Io per te non ho comandi.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Ma almen…</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Già sai che al figlio d’un suo amico</l>
+            <l>il mio buon genitor pria di morire</l>
+            <l>destinò la mia man.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Lo intesi a dire.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>E sai, che dopo i viaggi suoi lontani</l>
+            <l>questo sposo a me ignoto</l>
+            <l>oggi qui giungerà?</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Ciò pur m’è noto.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Nell’incertezza, ch’ei mi piaccia, e ch’io</l>
+            <l>a lui possa piacer, mia dolce amica,</l>
+            <l>ho bisogno di te.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Parlate.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Io voglio</l>
+            <l>cambiar teco di nome.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>In qual maniera?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Diventando tu sposa, io cameriera.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Che dirà vostro zio?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Con noi d’accordo</l>
+            <l>seconderà il progetto.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>E qual motivo</l>
+            <l>v’induce?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>E che, non lo conosci ancora?</l>
+            <l>Di noi due vo’ scoprir chi l’innamora.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Pensate…</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Ho già pensato.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Un tal pretesto…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>BERENICE</head>Tu pensa a compiacermi, io penso al resto.Scena sestaDon Parmenione in abito da gala, e Martino.<sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Tu pensa a compiacermi, io penso al resto.</l>
+            <l>Scena sesta</l>
+            <l>Don Parmenione in abito da gala, e Martino.</l>
+          </sp>
+          <stage>BERENICETu pensa a compiacermi, io penso al resto.Scena sestaDon Parmenione in abito da gala, e Martino.</stage>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Eccomi al gran cimento.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Aiuto!</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Cosa fai?</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Tremo all’aspetto</l>
+            <l>della tempesta, che per noi s’imbruna.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Eh, bisogna arrischiar, per far fortuna.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Ma se…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Taci, ubbidisci, e fa’, che ognuno</l>
+            <l>sia dell’arrivo tuo tosto informato.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Già non guarisce mai, chi pazzo è nato.</l>
+            <l>(via)</l>
+          </sp>
+          <stage>MARTINOGià non guarisce mai, chi pazzo è nato.(via)</stage>
+        </div>
+        <div type="scene">
+          <head>PARMENIONE</head>L’unico dubbio mio sta nel sapere,se sono il preceduto, o il precedente;ma d’ogni inconvenientemi trarran questi fogli: e giacché a tuttoson pronto a rinunziar, fuorché alla sposa,non sarà il fallo mio, poi sì gran cosa.Chi mai s’avanza? È dessa… oh che portento!Fatti onor Parmenione, il primo omaggiosi vada a tributarle.Scena settimaErnestina, e Parmenione<sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>L’unico dubbio mio sta nel sapere,</l>
+            <l>se sono il preceduto, o il precedente;</l>
+            <l>ma d’ogni inconveniente</l>
+            <l>mi trarran questi fogli: e giacché a tutto</l>
+            <l>son pronto a rinunziar, fuorché alla sposa,</l>
+            <l>non sarà il fallo mio, poi sì gran cosa.</l>
+            <l>Chi mai s’avanza? È dessa… oh che portento!</l>
+            <l>Fatti onor Parmenione, il primo omaggio</l>
+            <l>si vada a tributarle.</l>
+            <l>Scena settima</l>
+            <l>Ernestina, e Parmenione</l>
+          </sp>
+          <stage>PARMENIONEL’unico dubbio mio sta nel sapere,se sono il preceduto, o il precedente;ma d’ogni inconvenientemi trarran questi fogli: e giacché a tuttoson pronto a rinunziar, fuorché alla sposa,non sarà il fallo mio, poi sì gran cosa.Chi mai s’avanza? È dessa… oh che portento!Fatti onor Parmenione, il primo omaggiosi vada a tributarle.Scena settimaErnestina, e Parmenione</stage>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>(Alma coraggio!)</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Quel gentil, quel vago oggetto,</l>
+            <l>che a voi sposo il ciel destina,</l>
+            <l>tutto foco s’avvicina</l>
+            <l>alla cara sua metà.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Io m’inchino con rispetto</l>
+            <l>alla vostra civiltà.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>(Non s’accorda col ritratto.)</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>(È bizzarro, ma grazioso.)</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>(Eh non serve! il colpo è fatto.)</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>(S’egli fosse almen mio sposo.)</l>
+          </sp>
+          <sp who="#ernestina e parmenione">
+            <speaker>ERNESTINA E PARMENIONE:</speaker>
+            <l>(Ma non parla?… Cosa fa?…)</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Marchesina!</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Mio contino!</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Io son qui.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Qui sono anch’io.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Posso?…</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Andiamo da mio zio,</l>
+            <l>che al vedervi esulterà.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Con voi sono, a voi m’arrendo</l>
+            <l>lucidissima mia stella!</l>
+            <l>qual s’arrende il pulcinella</l>
+            <l>a chi muovere lo fa.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ERNESTINA</head>(Più lo guardo, più m’accendoa quel garbo, a tanto brio.)Andiam presto da mio zio,che al vedervi esulterà.(via)Scena ottavaAlberto, e Berenice da parti opposte incontrandosi.<sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>(Più lo guardo, più m’accendo</l>
+            <l>a quel garbo, a tanto brio.)</l>
+            <l>Andiam presto da mio zio,</l>
+            <l>che al vedervi esulterà.</l>
+            <l>(via)</l>
+            <l>Scena ottava</l>
+            <l>Alberto, e Berenice da parti opposte incontrandosi.</l>
+          </sp>
+          <stage>ERNESTINA(Più lo guardo, più m’accendoa quel garbo, a tanto brio.)Andiam presto da mio zio,che al vedervi esulterà.(via)Scena ottavaAlberto, e Berenice da parti opposte incontrandosi.</stage>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Se non m’inganna il core</l>
+            <l>coi palpiti, ch’io provo,</l>
+            <l>quella beltà in voi trovo,</l>
+            <l>che sposa mia sarà.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Degna d’un tanto onore</l>
+            <l>no, mio signor, non sono;</l>
+            <l>altra l’illustre dono</l>
+            <l>di vostra man godrà.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Come?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Vi ho detto il vero.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Dunque?…</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>In error voi siete.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Ma voi?…</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Non conto un zero.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>La sposa mia?…</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Vedrete.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Mi sembra un impossibile.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Vero vi sembrerà.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Oh sventurato errore,</l>
+            <l>oh perdita affannosa!</l>
+            <l>Perché non è mia sposa</l>
+            <l>questa gentil beltà?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>BERENICE</head>Oh generoso amore,oh mio destin beato!Sposo di lui più gratol’alma bramar non sa.Scena nonaDon Eusebio, e detti, indi don Parmenione con Ernestina.<sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Oh generoso amore,</l>
+            <l>oh mio destin beato!</l>
+            <l>Sposo di lui più grato</l>
+            <l>l’alma bramar non sa.</l>
+            <l>Scena nona</l>
+            <l>Don Eusebio, e detti, indi don Parmenione con Ernestina.</l>
+          </sp>
+          <stage>BERENICEOh generoso amore,oh mio destin beato!Sposo di lui più gratol’alma bramar non sa.Scena nonaDon Eusebio, e detti, indi don Parmenione con Ernestina.</stage>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Dov’è questo sposo?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>È qui per l’appunto.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Oh siete alfin giunto!</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Vi son servitor.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Dov’è questo zio?</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>È lì, no ‘l vedete?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Oh alfin permettete…</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Chi siete signor?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Io son don Alberto</l>
+            <l>or vostro parente.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Voi proprio?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Sì certo.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Ed io?…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Non so niente.</l>
+          </sp>
+          <sp who="#berenice, ernestina e eusebio">
+            <speaker>BERENICE, ERNESTINA E EUSEBIO:</speaker>
+            <l>Che strana sorpresa,</l>
+            <l>che caso inaudito!</l>
+            <l>Chi è il vero marito,</l>
+            <l>chi è mai l’impostor?</l>
+          </sp>
+          <sp who="#alberto e parmenione">
+            <speaker>ALBERTO E PARMENIONE:</speaker>
+            <l>Ravviso il rivale,</l>
+            <l>conosco l’imbroglio;</l>
+            <l>ma ardito esser voglio,</l>
+            <l>qui vano è il timor.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Orsù, spiegatevi.</l>
+          </sp>
+          <sp who="#alberto, parmenione">
+            <speaker>ALBERTO, PARMENIONE:</speaker>
+            <l>Cosa ho da dire?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Legittimatevi.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Fate sentire…</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Io son lo sposo.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Quello son io.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Le prove io voglio, perché son zio.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Le prove? Subito: eccole qua.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Le prove? Oh perfida temerità!</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Tutto va in regola.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Mi son spiegato.</l>
+          </sp>
+          <sp who="#berenice e ernestina">
+            <speaker>BERENICE E ERNESTINA:</speaker>
+            <l>Voi state mutolo.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Sono ingannato.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Non gli credete, non gli badate;</l>
+            <l>queste son frottole male inventate.</l>
+            <l>Ch’io son lo sposo provato è già.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Dunque lasciateci in libertà.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>La mia valigia, gli effetti miei</l>
+            <l>prima tu rendere, vile, mi déi,</l>
+            <l>e poi del resto si parlerà.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Dunque lasciateci in libertà.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Spoglia quell’abito.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Meglio parlate.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Questa è una cabala.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Non v’alterate.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Posso…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Tacete.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Voglio…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Finite.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Sono…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Cedete.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Sento…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Partite.</l>
+          </sp>
+          <sp who="#berenice e ernestina">
+            <speaker>BERENICE E ERNESTINA:</speaker>
+            <l>Ma via calmatevi per carità.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TUTTI</head>Di tanto equivoco, di tal disordinenel cupo, orribile, confuso vorticeurta, precipita, s’avvolge, rotola,perduto il cerebro per aria va.Ma si dissimuli, che senza strepitogià tutto in seguito si scoprirà.Scena decimaMartino, poi don Eusebio.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Di tanto equivoco, di tal disordine</l>
+            <l>nel cupo, orribile, confuso vortice</l>
+            <l>urta, precipita, s’avvolge, rotola,</l>
+            <l>perduto il cerebro per aria va.</l>
+            <l>Ma si dissimuli, che senza strepito</l>
+            <l>già tutto in seguito si scoprirà.</l>
+            <l>Scena decima</l>
+            <l>Martino, poi don Eusebio.</l>
+          </sp>
+          <stage>TUTTIDi tanto equivoco, di tal disordinenel cupo, orribile, confuso vorticeurta, precipita, s’avvolge, rotola,perduto il cerebro per aria va.Ma si dissimuli, che senza strepitogià tutto in seguito si scoprirà.Scena decimaMartino, poi don Eusebio.</stage>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Non so più cosa far. Cauto m’impone</l>
+            <l>il timor del bastone</l>
+            <l>d’evitar chi si sia: vuol l’appetito,</l>
+            <l>che ad incontrar qualche pagnotta io vada;</l>
+            <l>onde trovando, o non trovando alcuno,</l>
+            <l>bastonato morir devo, o digiuno.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Voi chi siete?</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>(Ecco il caso.)</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Ebben?</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Signore!…</l>
+            <l>Io sono il servitore…</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Del forestiero?</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Appunto.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>E qui che fate?</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Io? Niente.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Dunque andate.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Vorrei…</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Non serve il replicar.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Ma almeno…</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Andate dico.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>E dove?</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Oh che insensato!</l>
+            <l>in cucina a mangiar.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>MARTINO</head>(Ripiglio fiato.)(via)Scena undicesimaErnestina, indi Alberto.<sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>(Ripiglio fiato.)</l>
+            <l>(via)</l>
+            <l>Scena undicesima</l>
+            <l>Ernestina, indi Alberto.</l>
+          </sp>
+          <stage>MARTINO(Ripiglio fiato.)(via)Scena undicesimaErnestina, indi Alberto.</stage>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Oh qual destino è il mio! Perdo un ingrato</l>
+            <l>che mi sedusse: a vagheggiarmi un nuovo</l>
+            <l>amante arriva, e questi…</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Oh alfin vi trovo!</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Che cercate, signor?</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Ragione io cerco</l>
+            <l>dell’insulto sofferto.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>E sostenete ancor?…</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>D’essere Alberto.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Il vostro ardir…</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>È quell’ardir, che nasce</l>
+            <l>dal vero onor. Da un impostor tradito,</l>
+            <l>dall’apparenza condannato io sono;</l>
+            <l>ma il dritto mio, lo sbaglio vostro in breve</l>
+            <l>risarcito sarà.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Qualunque dritto</l>
+            <l>meco, signor, voi richiamate invano,</l>
+            <l>che vostra esser non può mai questa mano.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Voi dunque in mio danno</l>
+            <l>i torti vostri agli altrui torti unite?</l>
+            <l>Se un preventivo, e fortunato affetto</l>
+            <l>occupa il vostro cor, approvo, e lodo</l>
+            <l>sì bella ingenuità; ma se v’induce</l>
+            <l>un error tanto ingiusto ad insultarmi,</l>
+            <l>trovar la via saprò di vendicarmi.</l>
+            <l>D’ogni più sacro impegno</l>
+            <l>sciolta pur sia la fede,</l>
+            <l>amor da voi non chiede</l>
+            <l>chi amor per voi non ha.</l>
+            <l>Pèra, chi vuol costringere</l>
+            <l>d’un cor la libertà.</l>
+            <l>Ma se un sospetto indegno</l>
+            <l>di soverchiarmi intende,</l>
+            <l>quel generoso sdegno,</l>
+            <l>che il mio decoro accende,</l>
+            <l>dalla ragione armato,</l>
+            <l>un vano ardir confondere,</l>
+            <l>e impallidir farà.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>ALBERTOVoi dunque in mio dannoi torti vostri agli altrui torti unite?Se un preventivo, e fortunato affettooccupa il vostro cor, approvo, e lodosì bella ingenuità; ma se v’induceun error tanto ingiusto ad insultarmi,trovar la via saprò di vendicarmi.D’ogni più sacro impegnosciolta pur sia la fede,amor da voi non chiedechi amor per voi non ha.Pèra, chi vuol costringered’un cor la libertà.Ma se un sospetto indegnodi soverchiarmi intende,quel generoso sdegno,che il mio decoro accende,dalla ragione armato,un vano ardir confondere,e impallidir farà.(parte)</stage>
+        </div>
+        <div type="scene">
+          <head>ERNESTINA</head>Quei fermi accenti, quel sicuro aspettonel mirar, nel sentire,impossibile par ch’abbia a mentire.Scena dodicesimaBerenice, indi don Parmenione.<sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Quei fermi accenti, quel sicuro aspetto</l>
+            <l>nel mirar, nel sentire,</l>
+            <l>impossibile par ch’abbia a mentire.</l>
+            <l>Scena dodicesima</l>
+            <l>Berenice, indi don Parmenione.</l>
+          </sp>
+          <stage>ERNESTINAQuei fermi accenti, quel sicuro aspettonel mirar, nel sentire,impossibile par ch’abbia a mentire.Scena dodicesimaBerenice, indi don Parmenione.</stage>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Per conoscere l’inganno, un espediente</l>
+            <l>chi m’insegna a trovar? Ho un gran sospetto,</l>
+            <l>che questo sposo un temerario sia,</l>
+            <l>un basso avventuriere;</l>
+            <l>ma il vero come mai si può sapere?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>(Fino adesso va ben.)</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>(Voglio provarmi.)</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Oh! chi vedo?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>(inchinandosi)</l>
+            <l>Signor!…</l>
+          </sp>
+          <stage>BERENICE(inchinandosi)Signor!…</stage>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Brava, ragazza:</l>
+            <l>tu mi piaci.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Davver?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Certo: e se trovo</l>
+            <l>in te condotta, e abilità discreta,</l>
+            <l>della mia protezione</l>
+            <l>forse ti onorerò.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>(Che mascalzone!)</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Cosa?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Troppo favore.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Io già ho fissato,</l>
+            <l>dopo il mio sposalizio,</l>
+            <l>di tener varie donne al mio servizio;</l>
+            <l>onde…</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Dopo?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Si sa.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Badate bene</l>
+            <l>a quel proverbio, che facendo il conto</l>
+            <l>senza l’oste, talvolta</l>
+            <l>si va a rischio di farlo un’altra volta.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Olà! Men confidenza: e se ti preme</l>
+            <l>di stare in questa casa,</l>
+            <l>bada di non mi far mai la dottora,</l>
+            <l>o ch’io…</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Signor! Non siete sposo ancora.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Se no ‘l son, lo sarò.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Ci son dei dubbi.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Quai dubbi?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Che appianar prima dovete,</l>
+            <l>e poi ci parlerem.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Come! in tal guisa</l>
+            <l>una vil serva in faccia mia favella,</l>
+            <l>e non trema?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Sbagliate: io non son quella.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>E chi sei dunque?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Io sono un farfarello,</l>
+            <l>che girar fa ‘l cervello</l>
+            <l>a chi non ha giudizio.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Orsù! T’accheta,</l>
+            <l>lasciami.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Io son…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Via dillo, in tua malora.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Io sono…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Una servaccia ardimentosa.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Oh! tutt’altro, signore: io son ~ la sposa.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Voi la sposa!</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Appunto io stessa.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Ma quell’altra?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>È mia sorella.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>(Se ciò ver, l’ho fatta bella.)</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>(S’incomincia a imbarazzar.)</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>D’un parlar sì stravagante</l>
+            <l>non son molto persuaso;</l>
+            <l>pur se quella siete a caso,</l>
+            <l>il mio sbaglio è da scusar.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Per un vero, e gran birbante</l>
+            <l>presso ognun qui voi passate;</l>
+            <l>ma il contrario se provate,</l>
+            <l>anch’io so quel ch’ho da far.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Le mie lettere…</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Ho vedute.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>I ricapiti?…</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Li ho letti.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Quai son dunque i miei difetti?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Or vi voglio esaminar.</l>
+            <l>Il padre vostro si porta bene?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Egli sanissimo è sempre stato.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Ma se ci ha scritto, ch’era ammalato?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Egli ha voluto così scherzar.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Come si chiama vostra sorella?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Ha un brutto nome, detta è Pandora.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Nelle sue lettere si scrive Aurora.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Io la più giovine volli indicar.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>E del processo che nuove avete?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Il tribunale ci dà ragione.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Ma qual è il punto della questione?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Non so spiegarvelo, lungo è l’affar.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>(Non c’è più equivoco, mi trovo a segno,</l>
+            <l>scoperto è il perfido vile impostore.</l>
+            <l>Un foco, un impeto mi sento in core,</l>
+            <l>non so la collera dissimular.)</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>(Sempre più critico divien l’impegno,</l>
+            <l>d’un passo simile quasi mi pento:</l>
+            <l>un certo brivido al cor mi sento,</l>
+            <l>ma forza e spirito convien mostrar.)</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>E così, contino mio?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Cosa far per voi poss’io?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Mi saluti il genitore.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Lo farò con tutto il core.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>E la cara sua sorella?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Sempre è buona quanto bella.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Guadagnato è già il processo?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Così almen mi fu promesso.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Dunque tutto va a dovere?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Tutto va, come ha d’andar.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Ah uomo petulante,</l>
+            <l>incomodo, arrogante!</l>
+            <l>cessate di mentire,</l>
+            <l>scoperto è il vostro ardire;</l>
+            <l>voi siete un impostore,</l>
+            <l>un vile avventuriere,</l>
+            <l>e queste le maniere</l>
+            <l>non sono di trattar.</l>
+            <l>Per forza, o per amore</l>
+            <l>da qui dovrete andar.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>PARMENIONE</head>Ragazza impertinente,ridicola, imprudente!A te non rendo conti,da te non voglio affronti;io sono un uom d’onore,un cavalier son io,so dire il fatto mio,so il modo di trattar.Per forza o per amoremi voglio vendicar.Scena tredicesimaDon Eusebio, Ernestina, e Martino.<div type="scene">
+          <head>PARMENIONE</head>Ragazza impertinente,ridicola, imprudente!A te non rendo conti,da te non voglio affronti;io sono un uom d’onore,un cavalier son io,so dire il fatto mio,so il modo di trattar.Per forza o per amoremi voglio vendicar.Scena tredicesimaDon Eusebio, Ernestina, e Martino.<sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Ragazza impertinente,</l>
+            <l>ridicola, imprudente!</l>
+            <l>A te non rendo conti,</l>
+            <l>da te non voglio affronti;</l>
+            <l>io sono un uom d’onore,</l>
+            <l>un cavalier son io,</l>
+            <l>so dire il fatto mio,</l>
+            <l>so il modo di trattar.</l>
+            <l>Per forza o per amore</l>
+            <l>mi voglio vendicar.</l>
+            <l>Scena tredicesima</l>
+            <l>Don Eusebio, Ernestina, e Martino.</l>
+          </sp>
+          <stage>PARMENIONERagazza impertinente,ridicola, imprudente!A te non rendo conti,da te non voglio affronti;io sono un uom d’onore,un cavalier son io,so dire il fatto mio,so il modo di trattar.Per forza o per amoremi voglio vendicar.Scena tredicesimaDon Eusebio, Ernestina, e Martino.</stage>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Qui non c’è scampo.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Qui parlar bisogna.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Cosa ho da far?</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>La verità ci spiega.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>La verità! Ma come mai, signore,</l>
+            <l>pretenderla si può da un servitore?</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Meno pretesti.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Il tuo padron vogliamo</l>
+            <l>conoscere da te.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Vorrei…</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Palesa</l>
+            <l>il suo nome.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Mi spiace.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Il suo casato…</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>V’assicuro…</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Il suo stato…</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Quel che fa.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Quel che pensa.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>E voi bramate?…</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Tutto scoprir da te.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Dunque ascoltate…</l>
+          </sp>
+          <stage>[N. 7 – Aria]Il mio padrone è un uomo,ogun che il vede il sa:rassembra un galantuomo,e forse tal sarà.Vecchio non è, né giovine,né brutto, né avvenente,non è un villan, né un principe,né ricco, né indigente.È in somma un di quegli essericomuni in società.Portato è per le femmine,gli piace il vino, e il gioco,amante è di far debiti,ma di pagarli poco;tutto censura, e critica,benché sia un ignorante,con tutti fa il sensibile,ma di sé solo è amante,procura ognor di viverein pace, e in sanità;è in somma di quegli essericomuni in società.(fugge)</stage>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Senti, aspetta, ove vai?</l>
+            <l>(lo insegue)</l>
+          </sp>
+          <stage>EUSEBIOSenti, aspetta, ove vai?(lo insegue)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ERNESTINA</head>Se fosse vero,ciò che vero pur sembra, io sperereidi vedere appagati i voti miei.(parte)Scena quAttordicesimaDon Parmenione, ed Alberto incontrandosi.<div type="scene">
+          <head>ERNESTINA</head>Se fosse vero,ciò che vero pur sembra, io sperereidi vedere appagati i voti miei.(parte)Scena quAttordicesimaDon Parmenione, ed Alberto incontrandosi.<sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Se fosse vero,</l>
+            <l>ciò che vero pur sembra, io spererei</l>
+            <l>di vedere appagati i voti miei.</l>
+            <l>(parte)</l>
+            <l>Scena qu</l>
+            <l>Attordicesima</l>
+            <l>Don Parmenione, ed Alberto incontrandosi.</l>
+          </sp>
+          <stage>ERNESTINASe fosse vero,ciò che vero pur sembra, io sperereidi vedere appagati i voti miei.(parte)Scena quAttordicesimaDon Parmenione, ed Alberto incontrandosi.</stage>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Voi qui appunto io cercava.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Ed io correva</l>
+            <l>giusto in traccia di voi.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Dopo l’eccesso</l>
+            <l>della vostra impostura</l>
+            <l>non arrossite ancor?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Dopo d’avermi</l>
+            <l>tolta la mia valigia</l>
+            <l>mostrate tanto ardir?</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Dei cenci vostri</l>
+            <l>io non ne so che far.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Io non mi curo</l>
+            <l>delle vostre ricchezze.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Ebben, sul fatto</l>
+            <l>io le voglio.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Le avrete,</l>
+            <l>quando gli effetti miei mi renderete.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>E il finto nome, il compromesso onore,</l>
+            <l>gli ingiusti oltraggi, la mal tolta sposa</l>
+            <l>chiedon riparo.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Oh questa è un’altra cosa!</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Resistete?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Si sa.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Così a un par mio?…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Un mio pari risponde.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Soffrir non so…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Ceder non posso…</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Io giuro</l>
+            <l>che vi farò pentir.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>PARMENIONE</head>Ed io protestoche non mi pentirò.Scena quindicesimaBerenice, e detti<sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Ed io protesto</l>
+            <l>che non mi pentirò.</l>
+            <l>Scena quindicesima</l>
+            <l>Berenice, e detti</l>
+          </sp>
+          <stage>PARMENIONEEd io protestoche non mi pentirò.Scena quindicesimaBerenice, e detti</stage>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Qual chiasso è questo?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Tu qui che vuoi?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Più flemma.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>(Oh quanto è bella!)</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Ebben, che cerchi?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Se per mia disgrazia</l>
+            <l>lo sposo foste voi, nulla io ricerco;</l>
+            <l>ma se poi…</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Se la prova,</l>
+            <l>che lo sposo son io fosse evidente?…</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Allor parlerei diversamente.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Tanto meglio.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Eh, già so ch’altra v’accende</l>
+            <l>di me più vaga, e più gentil donzella.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>La tua padrona, e la mia sposa è quella.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Bravo da ver.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Dunque restiam d’accordo,</l>
+            <l>che se l’altra è la sposa, io ve la cedo,</l>
+            <l>e gli insulti sofferti a voi perdono.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Ottimamente.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Ma del vero Alberto</l>
+            <l>se il premio è questo, l’usurpato nome,</l>
+            <l>i lesi dritti, l’onor mio tradito,</l>
+            <l>e questa man, che m’appartiene, io voglio.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>E così finirà qualunque imbroglio.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Ma se incerti voi siete,</l>
+            <l>quale la sposa sia, dubbia non meno</l>
+            <l>del mio destin, dell’esser vostro io sono;</l>
+            <l>né tai patti si fanno in mia presenza,</l>
+            <l>prima di conseguir la mia licenza.</l>
+            <l>Voi la sposa pretendete,</l>
+            <l>voi mi fate il cascamorto:</l>
+            <l>ma, signori miei, chi siete,</l>
+            <l>chi ha ragion di voi, chi ha torto?</l>
+            <l>Se l’intrigo mi sciogliete,</l>
+            <l>qualche cosa nascerà.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Se voi sposa esser bramate,</l>
+            <l>io non son più il conte Alberto.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Se il mio cor non rifiutate,</l>
+            <l>io vi sposo, ancorché incerto.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Che parole inzuccherate.</l>
+            <l>Che obbligante ingenuità!</l>
+            <l>Deh non tradirmi, amore,</l>
+            <l>in sì fatal mistero!</l>
+            <l>Tu mi rischiara il vero,</l>
+            <l>in tanta oscurità</l>
+          </sp>
+          <sp who="#parmenione, alberto">
+            <speaker>PARMENIONE, ALBERTO:</speaker>
+            <l>Se siete un uom d’onore,</l>
+            <l>io sono un uom sincero:</l>
+            <l>si scopra prima il vero,</l>
+            <l>e poi si parlerà.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>E così, nessun favella?</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Mia vi voglio ad ogni costo.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Per me scelta ho l’altra bella.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Vo’ saper la verità.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Io v’ho detto.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Io v’ho risposto.</l>
+          </sp>
+          <sp who="#alberto, parmenione">
+            <speaker>ALBERTO, PARMENIONE:</speaker>
+            <l>Stabilito il patto è già.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Io non soffro quest’oltraggio,</l>
+            <l>chi voi siete io vo’ sapere:</l>
+            <l>d’ingannarmi chi ha coraggio,</l>
+            <l>chi ha deciso di tacere,</l>
+            <l>qui scoperto, smascherato,</l>
+            <l>vilipeso resterà;</l>
+            <l>e d’un misero attentato</l>
+            <l>tardi poi si pentirà.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>BERENICEIo non soffro quest’oltraggio,chi voi siete io vo’ sapere:d’ingannarmi chi ha coraggio,chi ha deciso di tacere,qui scoperto, smascherato,vilipeso resterà;e d’un misero attentatotardi poi si pentirà.(parte)</stage>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Fermatevi.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Che c’è?</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>L’impegno preso</l>
+            <l>dovete mantener.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Son pronto.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>E poi, come si è detto…</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ALBERTO</head>Il patto convenuto avrà l’effetto.Scena sedicesimaDon Eusebio, Ernestina, indi don Parmenione.<div type="scene">
+          <head>ALBERTO</head>Il patto convenuto avrà l’effetto.Scena sedicesimaDon Eusebio, Ernestina, indi don Parmenione.<sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Il patto convenuto avrà l’effetto.</l>
+            <l>Scena sedicesima</l>
+            <l>Don Eusebio, Ernestina, indi don Parmenione.</l>
+          </sp>
+          <stage>ALBERTOIl patto convenuto avrà l’effetto.Scena sedicesimaDon Eusebio, Ernestina, indi don Parmenione.</stage>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Il suo trascorso alfine</l>
+            <l>un capriccio sarà, non un delitto.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Ma se ancor non parlava il servitore,</l>
+            <l>io parente sarei d’un impostore.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Non mi pare.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Perché?</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Perché diretto</l>
+            <l>egli aveva a me sola ogni desio.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Eccomi al vostro piè, bell’idol mio.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Lo sentite?</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Oh! la burla</l>
+            <l>v’invito a terminar: già l’esser vostro</l>
+            <l>più un mistero non è.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Se anche lo fosse,</l>
+            <l>vengo io stesso a finire ogni questione,</l>
+            <l>e più Alberto non son, son Parmenione.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Voi Parmenion di Castelnuovo?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Appunto,</l>
+            <l>del conte Ernesto, or gravemente infermo,</l>
+            <l>l’amico io son, scelto a inseguir la sua</l>
+            <l>fuggitiva sorella.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Voi trovata l’avete: ecco io son quella.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Voi!</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Che sento!</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Ah! purtroppo io fui sedotta</l>
+            <l>da un’alma scellerata,</l>
+            <l>che vincer non potendo il mio rigore,</l>
+            <l>sola qui mi lasciò!</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Che traditore!</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Or comprendo…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Non più: giacché m’è tolto</l>
+            <l>di punir quell’indegno, all’onor vostro</l>
+            <l>un riparo sarà forse non vano,</l>
+            <l>l’offerta ch’io vi fo della mia mano.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>D’un si prezioso dono</l>
+            <l>l’offerta accetterò.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Ma chi sarà frattanto</l>
+            <l>quell’altro forestiero?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Egli è lo sposo vero,</l>
+            <l>già tutto io vi dirò.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Che bel momento è questo!</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Che fortunato giorno!</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Io sbalordito resto.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Io vostro ognor sarò.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Io vostra ognor sarò.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ERNESTINA, EUSEBIO E PARMENIONE</head>A propagar si vadal’inaspettato evento.Del giubilo, che sento,ognuno a parte io vo’.Scena diciassettesimaAlberto, e Berenice.<sp who="#ernestina, eusebio e parmenione">
+            <speaker>ERNESTINA, EUSEBIO E PARMENIONE:</speaker>
+            <l>A propagar si vada</l>
+            <l>l’inaspettato evento.</l>
+            <l>Del giubilo, che sento,</l>
+            <l>ognuno a parte io vo’.</l>
+            <l>Scena diciassettesima</l>
+            <l>Alberto, e Berenice.</l>
+          </sp>
+          <stage>ERNESTINA, EUSEBIO E PARMENIONEA propagar si vadal’inaspettato evento.Del giubilo, che sento,ognuno a parte io vo’.Scena diciassettesimaAlberto, e Berenice.</stage>
+          <sp who="#berenice e alberto">
+            <speaker>BERENICE E ALBERTO:</speaker>
+            <l>Oh quanto son grate</l>
+            <l>le pene in amore,</l>
+            <l>se premio al dolore</l>
+            <l>è un tanto piacer!</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Fidarmi poss’io?</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>E ancor stai dubbiosa?</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Tu sei dunque mio.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Tu sei la mia sposa.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>BERENICE E ALBERTO</head>Un tenero io provotumulto nel petto.A tanto dilettosi perde il pensier.Scena ultimaMartino, e detti, indi don Eusebio con Ernestina e don Parmenione.<sp who="#berenice e alberto">
+            <speaker>BERENICE E ALBERTO:</speaker>
+            <l>Un tenero io provo</l>
+            <l>tumulto nel petto.</l>
+            <l>A tanto diletto</l>
+            <l>si perde il pensier.</l>
+            <l>Scena ultima</l>
+            <l>Martino, e detti, indi don Eusebio con Ernestina e don Parmenione.</l>
+          </sp>
+          <stage>BERENICE E ALBERTOUn tenero io provotumulto nel petto.A tanto dilettosi perde il pensier.Scena ultimaMartino, e detti, indi don Eusebio con Ernestina e don Parmenione.</stage>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Miei signori, allegramente,</l>
+            <l>ogni imbroglio è accomodato.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Cosa dici?</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Cosa è stato?</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Ciò ch’è stato, non val niente,</l>
+            <l>buono è ciò che seguirà.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Dunque?…</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Parla…</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Appunto or viene,</l>
+            <l>chi più chiaro parlerà.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Ah nipote!</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Amica mia!</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Io son vostro servitore.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>D’onde vien quest’allegria?</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>D’onde mai tal buon umore?</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Non vedete?</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Non capite?</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>D’ascoltar se favorite,</l>
+            <l>tutto noto si farà.</l>
+            <l>Voi padron mi avete eletto</l>
+            <l>per un gioco della sorte</l>
+            <l>delle vostre proprietà:</l>
+            <l>io per esserlo in effetto,</l>
+            <l>volli ancor, che la consorte</l>
+            <l>diventasse mia metà;</l>
+            <l>e fu sol questo ritratto,</l>
+            <l>che colpevole mi ha fatto</l>
+            <l>di sì gran bestialità.</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Come mai?…</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Di mia sorella</l>
+            <l>il ritratto è questo qua.</l>
+            <l>Alla sposa mia novella</l>
+            <l>era in dono destinato.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Vidi anch’io d’aver sbagliato,</l>
+            <l>ma allor tardi era di già.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Dunque?…</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Invece ho ritrovato,</l>
+            <l>ciò che appunto io ricercava.</l>
+          </sp>
+          <sp who="#martino">
+            <speaker>MARTINO:</speaker>
+            <l>Così amore ha qui pigliato</l>
+            <l>due piccioni ad una fava.</l>
+          </sp>
+          <sp who="#parmenione">
+            <speaker>PARMENIONE:</speaker>
+            <l>Spero poi, che scuserete…</l>
+          </sp>
+          <sp who="#berenice">
+            <speaker>BERENICE:</speaker>
+            <l>Già scusato appien voi siete.</l>
+          </sp>
+          <sp who="#ernestina">
+            <speaker>ERNESTINA:</speaker>
+            <l>Io per me contenta sono.</l>
+          </sp>
+          <sp who="#alberto">
+            <speaker>ALBERTO:</speaker>
+            <l>Io v’abbraccio, e vi perdono.</l>
+          </sp>
+          <sp who="#eusebio">
+            <speaker>EUSEBIO:</speaker>
+            <l>Ed un doppio matrimonio</l>
+            <l>la burletta finirà.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>D’un sì placido contento</l>
+            <l>sia partecipe ogni core,</l>
+            <l>e costante il dio d’amore</l>
+            <l>renda il nostro giubilar;</l>
+            <l>e se a caso l’occasione</l>
+            <l>l’uom fa ladro diventar,</l>
+            <l>c’è talvolta una ragione,</l>
+            <l>che lo può legittimar.</l>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

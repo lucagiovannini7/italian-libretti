@@ -1,0 +1,2080 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">rmida</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="armida, eustazio e idraote">
+            <persName>ARMIDA, EUSTAZIO E IDRAOTE:</persName>
+          </person>
+          <person xml:id="eustazio e coro">
+            <persName>EUSTAZIO E CORO:</persName>
+          </person>
+          <person xml:id="altre voci">
+            <persName>ALTRE VOCI:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="coro generale">
+            <persName>CORO GENERALE:</persName>
+          </person>
+          <person xml:id="goffredo">
+            <persName>GOFFREDO:</persName>
+          </person>
+          <person xml:id="tutti gli altri">
+            <persName>TUTTI GLI ALTRI:</persName>
+          </person>
+          <person xml:id="gernando e rinaldo">
+            <persName>GERNANDO E RINALDO:</persName>
+          </person>
+          <person xml:id="tutte le ninfe">
+            <persName>TUTTE LE NINFE:</persName>
+          </person>
+          <person xml:id="le donne">
+            <persName>LE DONNE:</persName>
+          </person>
+          <person xml:id="armida e coro">
+            <persName>ARMIDA E CORO:</persName>
+          </person>
+          <person xml:id="armida">
+            <persName>ARMIDA:</persName>
+          </person>
+          <person xml:id="eustazio e idraote">
+            <persName>EUSTAZIO E IDRAOTE:</persName>
+          </person>
+          <person xml:id="astarotte e coro">
+            <persName>ASTAROTTE E CORO:</persName>
+          </person>
+          <person xml:id="coro di paladini">
+            <persName>CORO DI PALADINI:</persName>
+          </person>
+          <person xml:id="eustazio">
+            <persName>EUSTAZIO:</persName>
+          </person>
+          <person xml:id="idraote">
+            <persName>IDRAOTE:</persName>
+          </person>
+          <person xml:id="alcune ninfe">
+            <persName>ALCUNE NINFE:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="gernando">
+            <persName>GERNANDO:</persName>
+          </person>
+          <person xml:id="astarotte">
+            <persName>ASTAROTTE:</persName>
+          </person>
+          <person xml:id="armida e rinaldo">
+            <persName>ARMIDA E RINALDO:</persName>
+          </person>
+          <person xml:id="armida, rinaldo e coro">
+            <persName>ARMIDA, RINALDO E CORO:</persName>
+          </person>
+          <person xml:id="carlo">
+            <persName>CARLO:</persName>
+          </person>
+          <person xml:id="ubaldo">
+            <persName>UBALDO:</persName>
+          </person>
+          <person xml:id="ubaldo e carlo">
+            <persName>UBALDO E CARLO:</persName>
+          </person>
+          <person xml:id="eustazio, idraote e coro">
+            <persName>EUSTAZIO, IDRAOTE E CORO:</persName>
+          </person>
+          <person xml:id="voci">
+            <persName>VOCI:</persName>
+          </person>
+          <person xml:id="rinaldo">
+            <persName>RINALDO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>GOFFREDO</castItem>
+        <castItem>RINALDO</castItem>
+        <castItem>IDRAOTE</castItem>
+        <castItem>ARMIDA</castItem>
+        <castItem>GERNANDO</castItem>
+        <castItem>EUSTAZIO</castItem>
+        <castItem>UBALDO</castItem>
+        <castItem>CARLO</castItem>
+        <castItem>ASTAROTTE</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>Avvertimento all’esecuzione del 1836, Milano</head>Nel riprodurre quest’opera che il celebre maestro scrisse pe ‘l regio teatro S. Carlo di Napoli nel 1817, volle l’appalto che fosse riprodotta nella sua originalità, comunque vi abbiano alcuni pezzi sentiti in altre opere. Ciò volle che fosse fatto perché difficile l’innestarvi de’ pezzi, che, se non vincessero, uguagliassero almeno le bellezze dell’originale, e perché il genio di Rossini vuol essere in ogni maniera rispettato.</div>
+      <div type="act">
+        <head>Atto primo</head>
+        <div type="scene">
+          <head>[Sinfonia]</head>Scena primaCampo di battaglia.In distanza la città di Gerusalemme.Le trombe annunziano la presenza del supremo duce, ed i Franchi, uscendo dalle loro rispettive tende, si schierano, facendogli i militari onori. Comparisce Goffredo dalla sua tenda, accompagnato da un numero di Paladini primari. <stage>[Sinfonia]Scena primaCampo di battaglia.In distanza la città di Gerusalemme.Le trombe annunziano la presenza del supremo duce, ed i Franchi, uscendo dalle loro rispettive tende, si schierano, facendogli i militari onori. Comparisce Goffredo dalla sua tenda, accompagnato da un numero di Paladini primari.</stage>
+          <sp who="#coro di paladini">
+            <speaker>CORO DI PALADINI:</speaker>
+            <l>Lieto, ridente ~ oltre l’usato</l>
+            <l>in oriente ~ si mostra il dì.</l>
+            <l>Forse la gloria, ~ di pace allato,</l>
+            <l>la tua vittoria ~ previen così.</l>
+          </sp>
+          <sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>Ah! No: sia questo ~ di tregua il giorno:</l>
+            <l>dover funesto ~ si compirà.</l>
+            <l>Arditi, all’ire, ~ farem ritorno:</l>
+            <l>per or l’ardire ~ ceda a pietà.</l>
+          </sp>
+          <sp who="#coro di paladini">
+            <speaker>CORO DI PALADINI:</speaker>
+            <l>Arditi, all’ire ~ farem ritorno:</l>
+            <l>per or l’ardire ~ ceda a pietà.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>GOFFREDO</head>Sì, guerrieri, fian sacreall’estinto Dudon le nostre cure,funebre pompa all’onorata salmaoggi la tomba dia. Laudi, sospirie tributo di piantoabbia l’eroe, che sul finir di vitail sentier di virtude agli altri addita.Scena secondaEustazio, e i precedenti.<sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>Sì, guerrieri, fian sacre</l>
+            <l>all’estinto Dudon le nostre cure,</l>
+            <l>funebre pompa all’onorata salma</l>
+            <l>oggi la tomba dia. Laudi, sospiri</l>
+            <l>e tributo di pianto</l>
+            <l>abbia l’eroe, che sul finir di vita</l>
+            <l>il sentier di virtude agli altri addita.</l>
+            <l>Scena seconda</l>
+            <l>Eustazio, e i precedenti.</l>
+          </sp>
+          <stage>GOFFREDOSì, guerrieri, fian sacreall’estinto Dudon le nostre cure,funebre pompa all’onorata salmaoggi la tomba dia. Laudi, sospirie tributo di piantoabbia l’eroe, che sul finir di vitail sentier di virtude agli altri addita.Scena secondaEustazio, e i precedenti.</stage>
+          <sp who="#eustazio">
+            <speaker>EUSTAZIO:</speaker>
+            <l>Germano, a te richiede</l>
+            <l>donna real, piangente,</l>
+            <l>or di venirti al piede</l>
+            <l>aita ad implorar.</l>
+          </sp>
+          <sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>Venga. Maggior conforto</l>
+            <l>che in sollevare un core</l>
+            <l>assorto ~ nel dolore,</l>
+            <l>alma non può trovar.</l>
+            <l>(Eustazio parte)</l>
+          </sp>
+          <stage>GOFFREDOVenga. Maggior confortoche in sollevare un coreassorto ~ nel dolore,alma non può trovar.(Eustazio parte)</stage>
+        </div>
+        <div type="scene">
+          <head>CORO</head>Suol di virtude in portol’esempio tuo, signore,ogni anima guidar.Scena terzaPreceduta e seguita da Guerrieri, fra’ quali Eustazio, comparisce Armida sopra un cocchio, accompagnata da Idraote sotto spoglie di privato, e da seguito di Damasceni e Donzelle.<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Suol di virtude in porto</l>
+            <l>l’esempio tuo, signore,</l>
+            <l>ogni anima guidar.</l>
+            <l>Scena terza</l>
+            <l>Preceduta e seguita da Guerrieri, fra’ quali Eustazio, comparisce Armida sopra un cocchio, accompagnata da Idraote sotto spoglie di privato, e da seguito di Damasceni e Donzelle.</l>
+          </sp>
+          <stage>COROSuol di virtude in portol’esempio tuo, signore,ogni anima guidar.Scena terzaPreceduta e seguita da Guerrieri, fra’ quali Eustazio, comparisce Armida sopra un cocchio, accompagnata da Idraote sotto spoglie di privato, e da seguito di Damasceni e Donzelle.</stage>
+          <sp who="#coro generale">
+            <speaker>CORO GENERALE:</speaker>
+            <l>Quell’astro mattutino,</l>
+            <l>forier dei rai del giorno,</l>
+            <l>di tanta luce adorno</l>
+            <l>non si mostrò finor.</l>
+            <l>Del volto peregrino</l>
+            <l>l’angelica possanza</l>
+            <l>ogni splendore avanza,</l>
+            <l>offusca ogni splendor.</l>
+            <l>(Armida scende, e guidata da Eustazio, si presenta a Goffredo)</l>
+          </sp>
+          <stage>CORO GENERALEQuell’astro mattutino,forier dei rai del giorno,di tanta luce adornonon si mostrò finor.Del volto peregrinol’angelica possanzaogni splendore avanza,offusca ogni splendor.(Armida scende, e guidata da Eustazio, si presenta a Goffredo)</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Signor, tanto il tuo nome ovunque suona,</l>
+            <l>che fino a’ tuoi nemici</l>
+            <l>avvien che desti in petto</l>
+            <l>sensi di meraviglia e di rispetto.</l>
+            <l>Del trono di Damasco in me l’erede</l>
+            <l>(la cui sventura eccede</l>
+            <l>ogni più ria sventura) io ti presento.</l>
+            <l>Il barbaro Idraote,</l>
+            <l>di sangue a me congiunto, il serto avito</l>
+            <l>non sol pensa involarmi,</l>
+            <l>che insidia i giorni miei.</l>
+            <l>Se magnanimo sei, che tal ti credo,</l>
+            <l>quanto sei valoroso,</l>
+            <l>da te sperar mi giova il mio riposo.</l>
+          </sp>
+          <sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>Principessa gentil, che far poss’io?</l>
+            <l>Parla.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>La tua pietade</l>
+            <l>io reclamo. Fra tanti,</l>
+            <l>che qui ti fan corona, eccelsi eroi,</l>
+            <l>la desolata Armida</l>
+            <l>dieci eletti campioni a te richiede.</l>
+            <l>Questi a ripormi in sede</l>
+            <l>bastanti son. Fedele il popol mio</l>
+            <l>attende solo chi l’inciti all’armi;</l>
+            <l>e se avvien ch’io mi mostri di Damasco</l>
+            <l>con tai prodi alle mura,</l>
+            <l>duce, la mia fortuna è appien sicura.</l>
+            <l>(aspettando con finta umiltà la risposta di Goffredo)</l>
+          </sp>
+          <stage>ARMIDALa tua pietadeio reclamo. Fra tanti,che qui ti fan corona, eccelsi eroi,la desolata Armidadieci eletti campioni a te richiede.Questi a ripormi in sedebastanti son. Fedele il popol mioattende solo chi l’inciti all’armi;e se avvien ch’io mi mostri di Damascocon tai prodi alle mura,duce, la mia fortuna è appien sicura.(aspettando con finta umiltà la risposta di Goffredo)</stage>
+          <sp who="#idraote">
+            <speaker>IDRAOTE:</speaker>
+            <l>(Che dirà?)</l>
+          </sp>
+          <sp who="#eustazio">
+            <speaker>EUSTAZIO:</speaker>
+            <l>(Quella voce, i mesti accenti</l>
+            <l>penetran l’alma mia.)</l>
+          </sp>
+          <sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>(dopo aver pensato)</l>
+            <l>Reina, senti.</l>
+            <l>In servigio del cielo,</l>
+            <l>sangue e sudor da noi si spande. Rieda</l>
+            <l>in libertà Sionne, su quel monte</l>
+            <l>di nostra fede ondeggi</l>
+            <l>il venerato segno,</l>
+            <l>e poi si pensi al tuo perduto regno.</l>
+            <l>(Armida mostra di piangere, Idraote freme, Eustazio ed un numero di paladini danno segno di rammarico)</l>
+          </sp>
+          <stage>GOFFREDO(dopo aver pensato)Reina, senti.In servigio del cielo,sangue e sudor da noi si spande. Riedain libertà Sionne, su quel montedi nostra fede ondeggiil venerato segno,e poi si pensi al tuo perduto regno.(Armida mostra di piangere, Idraote freme, Eustazio ed un numero di paladini danno segno di rammarico)</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Sventurata! Or che mi resta</l>
+            <l>se pietà non trovo in te?</l>
+            <l>Della morte, più funesta</l>
+            <l>è la vita omai per me.</l>
+          </sp>
+          <sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>Calma il duolo; per te spenta</l>
+            <l>la speranza ancor non è.</l>
+            <l>La promessa mia rammenta:</l>
+            <l>prendi in pegno la mia fé.</l>
+          </sp>
+          <sp who="#idraote">
+            <speaker>IDRAOTE:</speaker>
+            <l>(Non tradirmi amica speme;</l>
+            <l>non stancarti, o mio furor.)</l>
+          </sp>
+          <sp who="#eustazio e coro">
+            <speaker>EUSTAZIO E CORO:</speaker>
+            <l>(Non ha core chi non geme</l>
+            <l>al suo pianto, al suo dolor.)</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(Per me ognun sospira e geme</l>
+            <l>preda omai d’un folle amor.)</l>
+            <l>(a Idraote)</l>
+            <l>Vieni.</l>
+          </sp>
+          <stage>ARMIDA(Per me ognun sospira e gemepreda omai d’un folle amor.)(a Idraote)Vieni.</stage>
+          <sp who="#eustazio">
+            <speaker>EUSTAZIO:</speaker>
+            <l>Dove?</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Ove mi guida</l>
+            <l>il rigor d’avversa stella.</l>
+          </sp>
+          <sp who="#eustazio">
+            <speaker>EUSTAZIO:</speaker>
+            <l>(ad Armida)</l>
+            <l>Ferma…</l>
+          </sp>
+          <stage>EUSTAZIO(ad Armida)Ferma…</stage>
+          <sp who="#idraote">
+            <speaker>IDRAOTE:</speaker>
+            <l>Ahi misera donzella!</l>
+          </sp>
+          <sp who="#eustazio">
+            <speaker>EUSTAZIO:</speaker>
+            <l>Deh! German, pietà d’Armida.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(a Goffredo)</l>
+            <l>Deh! Pietà di lei, signor.</l>
+          </sp>
+          <stage>CORO(a Goffredo)Deh! Pietà di lei, signor.</stage>
+          <sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>(Or che farò?</l>
+            <l>Ceder dovrò?</l>
+            <l>M’assisti, o ciel.)</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Speme non ho,</l>
+            <l>regger non so…</l>
+            <l>Fato crudel!</l>
+          </sp>
+          <sp who="#eustazio e idraote">
+            <speaker>EUSTAZIO E IDRAOTE:</speaker>
+            <l>(Chi può soffrir</l>
+            <l>il suo martir,</l>
+            <l>alma non ha.)</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Veder languir</l>
+            <l>in fra’ sospir</l>
+            <l>real beltà…</l>
+          </sp>
+          <sp who="#eustazio, idraote e coro">
+            <speaker>EUSTAZIO, IDRAOTE E CORO:</speaker>
+            <l>(Oh crudeltà!)</l>
+          </sp>
+          <sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>(M’assisti, o ciel.)</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Fato crudel!</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Signor, pietà.</l>
+          </sp>
+          <sp who="#eustazio">
+            <speaker>EUSTAZIO:</speaker>
+            <l>German, se togli al campo</l>
+            <l>breve drappel di noi,</l>
+            <l>non fia che rechi inciampo</l>
+            <l>de’ Franchi al trionfar.</l>
+            <l>All’oppugnante mura</l>
+            <l>restino i duci eroi;</l>
+            <l>guerrier noi di ventura,</l>
+            <l>possiam per lei pugnar.</l>
+          </sp>
+          <sp who="#idraote">
+            <speaker>IDRAOTE:</speaker>
+            <l>Pietà, dover c’invita</l>
+            <l>gli oppressi a sollevar.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Gloria il sentier ci addita</l>
+            <l>che noi dobbiam calcar.</l>
+          </sp>
+          <sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>(dopo breve pausa)</l>
+            <l>Cedo al comun desio:</l>
+            <l>fian paghi i voti suoi.</l>
+          </sp>
+          <stage>GOFFREDO(dopo breve pausa)Cedo al comun desio:fian paghi i voti suoi.</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>E sarà ver?</l>
+          </sp>
+          <sp who="#armida, eustazio e idraote">
+            <speaker>ARMIDA, EUSTAZIO E IDRAOTE:</speaker>
+            <l>(Cor mio,</l>
+            <l>alfin potrai sperar.)</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Per me propizio il fato</l>
+            <l>rallenta il suo rigore.</l>
+            <l>Ah, sì, questo mio core</l>
+            <l>comincia a respirar.</l>
+          </sp>
+          <sp who="#tutti gli altri">
+            <speaker>TUTTI GLI ALTRI:</speaker>
+            <l>(fuorché Goffredo)</l>
+            <l>Per te propizio il fato</l>
+            <l>rallenta il suo rigore.</l>
+            <l>Armida il tuo bel core</l>
+            <l>cominci a respirar.</l>
+          </sp>
+          <stage>TUTTI GLI ALTRI(fuorché Goffredo)Per te propizio il fatorallenta il suo rigore.Armida il tuo bel corecominci a respirar.</stage>
+          <sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>(Un moto inusitato,</l>
+            <l>un gelido timore,</l>
+            <l>presagio di dolore,</l>
+            <l>mi sento in sen destar.)</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>GOFFREDO</head>Cedei, guerrieri è ver; però vogl’ioche dalla vostra schierasi elegga un successor del duce spento.Ei scelga a suo talentofra voi dieci campioni. Il chiesto donosappia ciascun che si concede a leida’ vostri sì, non da’ consigli miei.(Goffredo parte con séguito di guerrieri, e le schiere si ritirano. Frattanto un numero di paladini va con Eustazio in disparte, e parlano alquanto fra loro)Scena quartaEustazio, Armida, Idraote, Paladini, Gernando.<sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>Cedei, guerrieri è ver; però vogl’io</l>
+            <l>che dalla vostra schiera</l>
+            <l>si elegga un successor del duce spento.</l>
+            <l>Ei scelga a suo talento</l>
+            <l>fra voi dieci campioni. Il chiesto dono</l>
+            <l>sappia ciascun che si concede a lei</l>
+            <l>da’ vostri sì, non da’ consigli miei.</l>
+            <l>(Goffredo parte con séguito di guerrieri, e le schiere si ritirano. Frattanto un numero di paladini va con Eustazio in disparte, e parlano alquanto fra loro)</l>
+            <l>Scena quarta</l>
+            <l>Eustazio, Armida, Idraote, Paladini, Gernando.</l>
+          </sp>
+          <stage>GOFFREDOCedei, guerrieri è ver; però vogl’ioche dalla vostra schierasi elegga un successor del duce spento.Ei scelga a suo talentofra voi dieci campioni. Il chiesto donosappia ciascun che si concede a leida’ vostri sì, non da’ consigli miei.(Goffredo parte con séguito di guerrieri, e le schiere si ritirano. Frattanto un numero di paladini va con Eustazio in disparte, e parlano alquanto fra loro)Scena quartaEustazio, Armida, Idraote, Paladini, Gernando.</stage>
+          <sp who="#eustazio">
+            <speaker>EUSTAZIO:</speaker>
+            <l>Opportuna è la scelta:</l>
+            <l>successor di Dudon Rinaldo sia.</l>
+          </sp>
+          <sp who="#gernando">
+            <speaker>GERNANDO:</speaker>
+            <l>(Rinaldo!… Il vero ascolto?… Oh rabbia!)</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(Oh nome,</l>
+            <l>caro nome e fatal!)</l>
+          </sp>
+          <sp who="#idraote">
+            <speaker>IDRAOTE:</speaker>
+            <l>(sottovoce ad Armida)</l>
+            <l>Questi è l’oggetto</l>
+            <l>in cui, prima d’ogni altro, oggi vorrei,</l>
+            <l>per antico desio,</l>
+            <l>sbramar lo sdegno.</l>
+          </sp>
+          <stage>IDRAOTE(sottovoce ad Armida)Questi è l’oggettoin cui, prima d’ogni altro, oggi vorrei,per antico desio,sbramar lo sdegno.</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(Questi è l’idol mio.)</l>
+          </sp>
+          <sp who="#eustazio">
+            <speaker>EUSTAZIO:</speaker>
+            <l>Real donzella, il campo</l>
+            <l>a te per or serva d’asilo. Accinto</l>
+            <l>ad obbedirti fia ciascuno.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(Ho vinto.)</l>
+            <l>(accompagnata da Eustazio, Armida entra in una delle principali tende con Idraote e col séguito dei damasceni)</l>
+          </sp>
+          <stage>ARMIDA(Ho vinto.)(accompagnata da Eustazio, Armida entra in una delle principali tende con Idraote e col séguito dei damasceni)</stage>
+        </div>
+        <div type="scene">
+          <head>EUSTAZIO</head>Compagni, al suono di festose grida,si proclami Rinaldo.Scena quintaGernando solo.Oh sorte infida!Come! A Dudon costui succede? Il grado,che vanto a me recar potea, fia suo?…Ti scuoti alfin Gernando;un italo garzon soffrir potraiche tanto a te sovrasti?… Ah! Non sia mai.<sp who="#eustazio">
+            <speaker>EUSTAZIO:</speaker>
+            <l>Compagni, al suono di festose grida,</l>
+            <l>si proclami Rinaldo.</l>
+            <l>Scena quinta</l>
+            <l>Gernando solo.</l>
+            <l>Oh sorte infida!</l>
+            <l>Come! A Dudon costui succede? Il grado,</l>
+            <l>che vanto a me recar potea, fia suo?…</l>
+            <l>Ti scuoti alfin Gernando;</l>
+            <l>un italo garzon soffrir potrai</l>
+            <l>che tanto a te sovrasti?… Ah! Non sia mai.</l>
+          </sp>
+          <stage>EUSTAZIOCompagni, al suono di festose grida,si proclami Rinaldo.Scena quintaGernando solo.Oh sorte infida!Come! A Dudon costui succede? Il grado,che vanto a me recar potea, fia suo?…Ti scuoti alfin Gernando;un italo garzon soffrir potraiche tanto a te sovrasti?… Ah! Non sia mai.</stage>
+          <sp who="#voci">
+            <speaker>VOCI:</speaker>
+            <l>(in distanza)</l>
+            <l>Viva Rinaldo!…</l>
+          </sp>
+          <stage>VOCI(in distanza)Viva Rinaldo!…</stage>
+          <sp who="#gernando">
+            <speaker>GERNANDO:</speaker>
+            <l>Oh affanno!</l>
+            <l>Decisa è la mia sorte.</l>
+          </sp>
+          <sp who="#voci">
+            <speaker>VOCI:</speaker>
+            <l>(in distanza)</l>
+            <l>L’eroe ch’egual non ha!</l>
+          </sp>
+          <stage>VOCI(in distanza)L’eroe ch’egual non ha!</stage>
+          <sp who="#gernando">
+            <speaker>GERNANDO:</speaker>
+            <l>Oh duol ch’egual non ha!</l>
+          </sp>
+          <sp who="#gernando">
+            <speaker>GERNANDO:</speaker>
+            <l>Fiero destin tiranno!</l>
+          </sp>
+          <sp who="#altre voci">
+            <speaker>ALTRE VOCI:</speaker>
+            <l>(in distanza)</l>
+            <l>Viva Rinaldo, il forte,</l>
+            <l>splendor di nostra età.</l>
+          </sp>
+          <stage>ALTRE VOCI(in distanza)Viva Rinaldo, il forte,splendor di nostra età.</stage>
+        </div>
+        <div type="scene">
+          <head>GERNANDO</head>Ah! Tutti v’unitemiei sdegni in quest’alma,che, priva di speme,la calma ~ perde’.Miei sdegni, venite:vi bramo con me.(parte)Scena sestaIdraote, e Armida.<sp who="#gernando">
+            <speaker>GERNANDO:</speaker>
+            <l>Ah! Tutti v’unite</l>
+            <l>miei sdegni in quest’alma,</l>
+            <l>che, priva di speme,</l>
+            <l>la calma ~ perde’.</l>
+            <l>Miei sdegni, venite:</l>
+            <l>vi bramo con me.</l>
+            <l>(parte)</l>
+            <l>Scena sesta</l>
+            <l>Idraote, e Armida.</l>
+          </sp>
+          <stage>GERNANDOAh! Tutti v’unitemiei sdegni in quest’alma,che, priva di speme,la calma ~ perde’.Miei sdegni, venite:vi bramo con me.(parte)Scena sestaIdraote, e Armida.</stage>
+          <sp who="#idraote">
+            <speaker>IDRAOTE:</speaker>
+            <l>Sorte ci arride. Ove celata stassi</l>
+            <l>la fida schiera, i passi</l>
+            <l>a diriger t’affretta.</l>
+            <l>Dell’Asia la vendetta, a che non posso</l>
+            <l>compiere appien!</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Fra lacci,</l>
+            <l>dieci non sol, ma cento</l>
+            <l>fia che portino il pié. Nutre ciascuno,</l>
+            <l>di Goffredo a dispetto,</l>
+            <l>nell’anelante petto</l>
+            <l>di seguirmi il desir.</l>
+          </sp>
+          <sp who="#idraote">
+            <speaker>IDRAOTE:</speaker>
+            <l>Ma di Rinaldo…</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Ah!</l>
+          </sp>
+          <sp who="#idraote">
+            <speaker>IDRAOTE:</speaker>
+            <l>Sospiri! Perché?</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Facil ti credi</l>
+            <l>quell’anima domar?</l>
+          </sp>
+          <sp who="#idraote">
+            <speaker>IDRAOTE:</speaker>
+            <l>La miglior preda</l>
+            <l>fia che manchi a Idraote?</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Eccolo… (Oh come</l>
+            <l>mi balza il cor!) Deh vanne… (Ove son io!)</l>
+            <l>Spera… chi sa?…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>IDRAOTE</head>Figlia diletta, addio.(parte dal campo)Scena settimaRinaldo, e Armida.<sp who="#idraote">
+            <speaker>IDRAOTE:</speaker>
+            <l>Figlia diletta, addio.</l>
+            <l>(parte dal campo)</l>
+            <l>Scena settima</l>
+            <l>Rinaldo, e Armida.</l>
+          </sp>
+          <stage>IDRAOTEFiglia diletta, addio.(parte dal campo)Scena settimaRinaldo, e Armida.</stage>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Principessa, sei tu! Nel rivederti</l>
+            <l>qual gioia provo… e qual affanno insieme!</l>
+            <l>I tuoi disastri intesi, e il cor ne geme.</l>
+            <l>Ah! perché mai non cadde</l>
+            <l>Sionne ancor! Forse al rapito soglio</l>
+            <l>d’appianarti la strada</l>
+            <l>saria l’onor concesso a questa spada.</l>
+            <l>Ma sdegnosa mi guardi, e non rispondi?</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Nello stato in cui sono,</l>
+            <l>opre, non vani detti, a me fan d’uopo.</l>
+            <l>Oh quanto è mai diverso</l>
+            <l>dal tuo questo mio cor! Barbari noi</l>
+            <l>chiama la vostra Europa;</l>
+            <l>ma barbaro non è colui che vita</l>
+            <l>può dare a un infelice, e non l’aita?</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Senti: l’altrui favore</l>
+            <l>dice mi vuol di prode schiera… Vedi,</l>
+            <l>colpa non ho se fra seguaci tuoi…</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Taci… non proseguir; schernirmi vuoi?</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Io schernirti? T’inganni</l>
+            <l>dal dì che ti mirai,</l>
+            <l>rispetto e… (Quasi amor dicea.) serbai.</l>
+            <l>(Ah purtroppo l’adoro!)</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Va’, spietato!</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Di che m’accusi?</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Fingi</l>
+            <l>non comprender miei detti? O ti scordasti</l>
+            <l>quando in ermo sentiero</l>
+            <l>smarrito cavaliero, e in qual momento?…</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Tutto, non dubitar, tutto rammento.</l>
+            <l>Tua magica possanza</l>
+            <l>sottrasse i giorni miei</l>
+            <l>de’ nemici al furor. Grata quest’alma</l>
+            <l>costante la memoria</l>
+            <l>ognor ne serberà.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Ma in cupo oblio</l>
+            <l>riponesti però l’affetto mio.</l>
+            <l>Sì, d’Armida l’affetto,</l>
+            <l>che la sua debolezza</l>
+            <l>ti fe’ palese; E qual mai frutto ottenni?</l>
+            <l>Un marcato disprezzo,</l>
+            <l>un crudele abbandon!…</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Cessa, deh! Cessa</l>
+            <l>di trafiggermi, Armida.</l>
+            <l>Se da te volsi il piè, bellica tromba</l>
+            <l>al campo m’invitò, bellico ardore,</l>
+            <l>desio di gloria.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>E me qui trasse amore.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Amor… (Possente nome!</l>
+            <l>Come risuoni, oh come</l>
+            <l>su quel soave labbro</l>
+            <l>nel mio dolente cor!)</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Sì, amor… se un’alma fiera</l>
+            <l>ti diè natura in sorte,</l>
+            <l>recami pur la morte,</l>
+            <l>e in me fia spento amor.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Armida… (Oh ciel!)</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Che vuoi?</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Chiede il destin…</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Che mai?</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Ch’io fugga i tuoi bei rai:</l>
+            <l>dover me ‘l comandò.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Fuggirmi!… Eppur gli eroi</l>
+            <l>sovente amor piagò.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>(Vacilla a quegli accenti,</l>
+            <l>manca la mia costanza</l>
+            <l>misero! Più speranza</l>
+            <l>di libertà non ho.)</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(Vacilla a questi accenti,</l>
+            <l>manca la sua costanza</l>
+            <l>la dolce mia speranza</l>
+            <l>perduta ancor non ho.)</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Ah? Non poss’io resistere…</l>
+            <l>sì, t’amerò costante.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Oh inaspettato ~ giubilo!</l>
+            <l>Oh fortunato ~ istante!</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Cara, per te quest’anima</l>
+            <l>prova soavi palpiti,</l>
+            <l>ch’esprimere non so.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ARMIDA</head>Caro, per te quest’animaprova soavi palpiti,ch’esprimere non so.(partono)Scena ottavaGernando, alcuni Paladini.<sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Caro, per te quest’anima</l>
+            <l>prova soavi palpiti,</l>
+            <l>ch’esprimere non so.</l>
+            <l>(partono)</l>
+            <l>Scena ottava</l>
+            <l>Gernando, alcuni Paladini.</l>
+          </sp>
+          <stage>ARMIDACaro, per te quest’animaprova soavi palpiti,ch’esprimere non so.(partono)Scena ottavaGernando, alcuni Paladini.</stage>
+          <sp who="#gernando">
+            <speaker>GERNANDO:</speaker>
+            <l>(accennando Rinaldo che va con Armida)</l>
+            <l>Ecco il guerriero, il duce,</l>
+            <l>il primier degli eroi,</l>
+            <l>quel Rinaldo a ragion scelto da voi.</l>
+            <l>Oh quanti, oh quanti allori</l>
+            <l>mieter per lui dovrete!</l>
+            <l>L’invincibil suo brando</l>
+            <l>di gloria al tempio già sospeso io miro.</l>
+            <l>Eccovi di sue gesta un chiaro segno:</l>
+            <l>vincitor di donzelle, eroe ben degno!</l>
+          </sp>
+          <stage>GERNANDO(accennando Rinaldo che va con Armida)Ecco il guerriero, il duce,il primier degli eroi,quel Rinaldo a ragion scelto da voi.Oh quanti, oh quanti allorimieter per lui dovrete!L’invincibil suo brandodi gloria al tempio già sospeso io miro.Eccovi di sue gesta un chiaro segno:vincitor di donzelle, eroe ben degno!</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Non proseguir; rispetta;</l>
+            <l>signor, la sua virtù.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>GERNANDO</head>Virtù! S’ingannachi trovarla in lui spera.Virtù in Rinaldo!Scena nonaRinaldo, e i precedenti.<sp who="#gernando">
+            <speaker>GERNANDO:</speaker>
+            <l>Virtù! S’inganna</l>
+            <l>chi trovarla in lui spera.</l>
+            <l>Virtù in Rinaldo!</l>
+            <l>Scena nona</l>
+            <l>Rinaldo, e i precedenti.</l>
+          </sp>
+          <stage>GERNANDOVirtù! S’ingannachi trovarla in lui spera.Virtù in Rinaldo!Scena nonaRinaldo, e i precedenti.</stage>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>(mentre traversa il campo)</l>
+            <l>(Il nome mio!)</l>
+          </sp>
+          <stage>RINALDO(mentre traversa il campo)(Il nome mio!)</stage>
+          <sp who="#gernando">
+            <speaker>GERNANDO:</speaker>
+            <l>Costui</l>
+            <l>di che mai può vantarsi?</l>
+            <l>Osa forse agguagliarsi a chi si pregia</l>
+            <l>d’ampio dominio e popoli soggetti?</l>
+            <l>Oh! L’eroe si rispetti,</l>
+            <l>ch’altro non ha che sterile retaggio</l>
+            <l>d’avi e scettri remoti.</l>
+            <l>Bella, grande è la scelta</l>
+            <l>che in lui faceste; ei meritava il dono</l>
+            <l>d’esservi duce, inver; lieto ne sono.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>(Indegno!)</l>
+          </sp>
+          <sp who="#gernando">
+            <speaker>GERNANDO:</speaker>
+            <l>E l’accettò? Folle! Ah, tant’osa</l>
+            <l>signor d’indegno stato,</l>
+            <l>signor, che nella serva Italia è nato!</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>(Io fremo.)</l>
+          </sp>
+          <sp who="#gernando">
+            <speaker>GERNANDO:</speaker>
+            <l>E non pensaste</l>
+            <l>che l’ombra di Dudone,</l>
+            <l>mentre in questo superbo i lumi gira,</l>
+            <l>freme lassù nel ciel di nobil ira?</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Prode è Rinaldo.</l>
+          </sp>
+          <sp who="#gernando">
+            <speaker>GERNANDO:</speaker>
+            <l>Stolta</l>
+            <l>temerità, furore,</l>
+            <l>non già valor guerriero</l>
+            <l>in lui chi mai non vede?</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>(avanzandosi)</l>
+            <l>Ah menzognero!</l>
+          </sp>
+          <stage>RINALDO(avanzandosi)Ah menzognero!</stage>
+        </div>
+        <div type="scene">
+          <head>[N. 6 – Finale primo]</head>Se pari agli accentihai l’anima audace,t’accingi mendace,quel brando a impugnar.(snuda la spada)GERNANDOCh’io tema il tuo sdegno?Indegno ~ t’inganni.Son pronti a’ tuoi dannila destra e l’acciar.(fa lo stesso)Scena decimaPaladini e Guerrieri d’ogni rango. Armida. I precedenti. <stage>[N. 6 – Finale primo]Se pari agli accentihai l’anima audace,t’accingi mendace,quel brando a impugnar.(snuda la spada)GERNANDOCh’io tema il tuo sdegno?Indegno ~ t’inganni.Son pronti a’ tuoi dannila destra e l’acciar.(fa lo stesso)Scena decimaPaladini e Guerrieri d’ogni rango. Armida. I precedenti.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Fermate…</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Sgombrate…</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(Rinaldo in periglio!…)</l>
+          </sp>
+          <sp who="#armida e coro">
+            <speaker>ARMIDA E CORO:</speaker>
+            <l>Ah! Prodi, cessate…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>GERNANDO E RINALDO</head>Non odo consiglio.Invan l’ira miasi tenta frenar.(i due paladini si azzuffano; Rinaldo incalza Gernando dietro alle tende)Scena undicesimaI precedenti, fuorché Gernando.<sp who="#gernando e rinaldo">
+            <speaker>GERNANDO E RINALDO:</speaker>
+            <l>Non odo consiglio.</l>
+            <l>Invan l’ira mia</l>
+            <l>si tenta frenar.</l>
+            <l>(i due paladini si azzuffano; Rinaldo incalza Gernando dietro alle tende)</l>
+            <l>Scena undicesima</l>
+            <l>I precedenti, fuorché Gernando.</l>
+          </sp>
+          <stage>GERNANDO E RINALDONon odo consiglio.Invan l’ira miasi tenta frenar.(i due paladini si azzuffano; Rinaldo incalza Gernando dietro alle tende)Scena undicesimaI precedenti, fuorché Gernando.</stage>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>(di dentro)</l>
+            <l>Muori…</l>
+          </sp>
+          <stage>RINALDO(di dentro)Muori…</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Oh colpo!</l>
+            <l>(tutti verso la parte dove sono andati i due combattenti)</l>
+          </sp>
+          <stage>COROOh colpo!(tutti verso la parte dove sono andati i due combattenti)</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(andando incontro a Rinaldo)</l>
+            <l>Che facesti?</l>
+          </sp>
+          <stage>ARMIDA(andando incontro a Rinaldo)Che facesti?</stage>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Quell’indegno è già punito:</l>
+            <l>(retrocedendo)</l>
+            <l>di Rinaldo fu schernito,</l>
+            <l>vendicato fu l’onor.</l>
+          </sp>
+          <stage>RINALDOQuell’indegno è già punito:(retrocedendo)di Rinaldo fu schernito,vendicato fu l’onor.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Oh sventura! Crudo scempio!</l>
+            <l>Qual esempio ~ di terror!</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Che terribile momento!</l>
+            <l>Ah! M’opprime il mio dolor!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORO</head>Sappia il duce il caso orrendo.(partono tutti, fuorché Rinaldo e Armida)Scena dodicesimaArmida, e Rinaldo.<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Sappia il duce il caso orrendo.</l>
+            <l>(partono tutti, fuorché Rinaldo e Armida)</l>
+            <l>Scena dodicesima</l>
+            <l>Armida, e Rinaldo.</l>
+          </sp>
+          <stage>COROSappia il duce il caso orrendo.(partono tutti, fuorché Rinaldo e Armida)Scena dodicesimaArmida, e Rinaldo.</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Ah! Paventa…</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Qui l’attendo.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Va’, t’ascondi al suo rigor</l>
+            <l>deh! Se cara a te son io,</l>
+            <l>non espor sì bella vita.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Se non cedo al tuo desio,</l>
+            <l>il dover a ciò m’invita.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Come, oh dio, mi trema il cor!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>RINALDO</head>Idol mio, serena il cor!Scena tredicesimaPaladini amici di Gernando, Paladini amici di Rinaldo circondando Goffredo, Guerrieri, Damasceni, Donzelle, e i precedenti.<sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Idol mio, serena il cor!</l>
+            <l>Scena tredicesima</l>
+            <l>Paladini amici di Gernando, Paladini amici di Rinaldo circondando Goffredo, Guerrieri, Damasceni, Donzelle, e i precedenti.</l>
+          </sp>
+          <stage>RINALDOIdol mio, serena il cor!Scena tredicesimaPaladini amici di Gernando, Paladini amici di Rinaldo circondando Goffredo, Guerrieri, Damasceni, Donzelle, e i precedenti.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Iº</l>
+            <l>Vieni, o duce, punisci l’errore.</l>
+          </sp>
+          <stage>COROIºVieni, o duce, punisci l’errore.</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(a Rinaldo)</l>
+            <l>Ah, mio ben…</l>
+          </sp>
+          <stage>ARMIDA(a Rinaldo)Ah, mio ben…</stage>
+          <sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>Giusto ciel, che ascoltai.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>IIº</l>
+            <l>Di Rinaldo fu leso l’onore.</l>
+          </sp>
+          <stage>COROIIºDi Rinaldo fu leso l’onore.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Iº</l>
+            <l>Furibondo ei l’acciaro impugnò.</l>
+          </sp>
+          <stage>COROIºFuribondo ei l’acciaro impugnò.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>IIº</l>
+            <l>Provocato ei l’acciaro impugnò.</l>
+          </sp>
+          <stage>COROIIºProvocato ei l’acciaro impugnò.</stage>
+          <sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>Dove mai quest’iniquo s’aggira?</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Tal non sono. Rinaldo rimira.</l>
+          </sp>
+          <sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>Empio! Trema.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Delitti non ho.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(Non tradirmi speranza fallace.)</l>
+          </sp>
+          <sp who="#coro generale">
+            <speaker>CORO GENERALE:</speaker>
+            <l>La discordia coll’orrida face</l>
+            <l>vasto incendio nel campo arrecò.</l>
+          </sp>
+          <sp who="#goffredo">
+            <speaker>GOFFREDO:</speaker>
+            <l>Porgi a’ lacci, ad esempio dei rei,</l>
+            <l>quella destra furente ed infida.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Questa mano alle palme, a’ trofei,</l>
+            <l>non a’ lacci finor s’avvezzò.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(sottovoce a Rinaldo)</l>
+            <l>Vanne: i passi precedi d’Armida;</l>
+            <l>a momenti seguirti saprò.</l>
+          </sp>
+          <stage>ARMIDA(sottovoce a Rinaldo)Vanne: i passi precedi d’Armida;a momenti seguirti saprò.</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(fuorché Armida e Rinaldo)</l>
+            <l>Un astro di sangue</l>
+            <l>dall’etra s’affaccia:</l>
+            <l>ogni alma già langue</l>
+            <l>l’agghiaccia ~ il dolor.</l>
+            <l>Caligin d’intorno</l>
+            <l>intorbida il giorno,</l>
+            <l>e al campo minaccia</l>
+            <l>affanni, terror.</l>
+          </sp>
+          <stage>TUTTI(fuorché Armida e Rinaldo)Un astro di sanguedall’etra s’affaccia:ogni alma già languel’agghiaccia ~ il dolor.Caligin d’intornointorbida il giorno,e al campo minacciaaffanni, terror.</stage>
+          <sp who="#le donne">
+            <speaker>LE DONNE:</speaker>
+            <l>E affanni minaccia</l>
+            <l>spavento e terror.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>(M’invita la sorte,</l>
+            <l>s’afferri il suo crine.</l>
+            <l>Possenti, divine</l>
+            <l>ritorte ~ d’amor,</l>
+            <l>in voi solo affida</l>
+            <l>la speme il mio cor.)</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>RINALDO(M’invita la sorte,s’afferri il suo crine.Possenti, divineritorte ~ d’amor,in voi solo affidala speme il mio cor.)(parte)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ARMIDA</head>(Amica la sortemi porge il suo crine.Possenti, divineritorte ~ d’amor,Armida ~ vi affidala speme del cor.)Atto secondoScena primaOrrida selva.Frammezzo ad alcune piante vedesi il mare.Astarotte e Coro di Demoni, sorgendo di sotto terra.<div type="scene">
+          <head>ARMIDA</head>(Amica la sortemi porge il suo crine.Possenti, divineritorte ~ d’amor,Armida ~ vi affidala speme del cor.)Atto secondoScena primaOrrida selva.Frammezzo ad alcune piante vedesi il mare.Astarotte e Coro di Demoni, sorgendo di sotto terra.<sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(Amica la sorte</l>
+            <l>mi porge il suo crine.</l>
+            <l>Possenti, divine</l>
+            <l>ritorte ~ d’amor,</l>
+            <l>Armida ~ vi affida</l>
+            <l>la speme del cor.)</l>
+            <l>Atto secondo</l>
+            <l>Scena prima</l>
+            <l>Orrida selva.</l>
+            <l>Frammezzo ad alcune piante vedesi il mare.</l>
+            <l>Astarotte e Coro di Demoni, sorgendo di sotto terra.</l>
+          </sp>
+          <stage>ARMIDA(Amica la sortemi porge il suo crine.Possenti, divineritorte ~ d’amor,Armida ~ vi affidala speme del cor.)Atto secondoScena primaOrrida selva.Frammezzo ad alcune piante vedesi il mare.Astarotte e Coro di Demoni, sorgendo di sotto terra.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>tutto</l>
+            <l>Alla voce d’Armida possente</l>
+            <l>Acheronte varcammo e Cocito.</l>
+            <l>Questo muto ed inospite lito</l>
+            <l>per nostr’opra animar si dovrà.</l>
+          </sp>
+          <stage>COROtuttoAlla voce d’Armida possenteAcheronte varcammo e Cocito.Questo muto ed inospite litoper nostr’opra animar si dovrà.</stage>
+          <sp who="#astarotte e coro">
+            <speaker>ASTAROTTE E CORO:</speaker>
+            <l>Iº</l>
+            <l>Su, consorti, qui fermisi il piede,</l>
+            <l>qui spegnete ~ le orribili tede:</l>
+            <l>deponete ~ il vipereo flagello;</l>
+            <l>tanto impone chi legge ne dà.</l>
+          </sp>
+          <stage>ASTAROTTE E COROIºSu, consorti, qui fermisi il piede,qui spegnete ~ le orribili tede:deponete ~ il vipereo flagello;tanto impone chi legge ne dà.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>tutto</l>
+            <l>Al prodigio ~ d’Armida novello</l>
+            <l>tutto ligio ~ l’inferno sarà.</l>
+            <l>Iº</l>
+            <l>D’Idraote ~ la regia nipote</l>
+            <l>suol dell’ombre frenare il muggito.</l>
+            <l>IIº</l>
+            <l>Han possanza sue magiche note</l>
+            <l>d’addoppiar l’ululato, il ruggito,</l>
+            <l>dove meta il dolore non ha.</l>
+            <l>tutto</l>
+            <l>Questo muto ed inospite lito</l>
+            <l>per nostr’opra animar si dovrà.</l>
+          </sp>
+          <stage>COROtuttoAl prodigio ~ d’Armida novellotutto ligio ~ l’inferno sarà.IºD’Idraote ~ la regia nipotesuol dell’ombre frenare il muggito.IIºHan possanza sue magiche noted’addoppiar l’ululato, il ruggito,dove meta il dolore non ha.tuttoQuesto muto ed inospite litoper nostr’opra animar si dovrà.</stage>
+          <sp who="#astarotte">
+            <speaker>ASTAROTTE:</speaker>
+            <l>Sovrumano potere,</l>
+            <l>numi del tetro abisso, or qui ci chiama.</l>
+            <l>D’ogn’intorno la fama</l>
+            <l>il nome spande di Rinaldo, il primo</l>
+            <l>fra temuti campioni</l>
+            <l>di colui che sugli astri,</l>
+            <l>per nostra pena eterna,</l>
+            <l>il tutto a suo piacer move e governa.</l>
+            <l>Pur d’amoroso laccio il guerrier forte</l>
+            <l>preda rimase; Armida osò rapirgli</l>
+            <l>senno, onor, libertà, per far che manchi</l>
+            <l>degli aborriti Franchi</l>
+            <l>il maggior brando al capitan supremo,</l>
+            <l>e per toglier Sionne al fato estremo.</l>
+            <l>Il secondarla, o numi,</l>
+            <l>non fia lieve per noi? Nell’opre nostre</l>
+            <l>il re dell’ombre affida;</l>
+            <l>per noi tremi Goffredo, esulti Armida.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Di ferro e fiamme cinti,</l>
+            <l>contra il celeste impero,</l>
+            <l>là nel superno tetto</l>
+            <l>sai che pugnammo un dì.</l>
+            <l>È ver, cademmo vinti,</l>
+            <l>ma del valor primiero</l>
+            <l>non anco a noi nel petto</l>
+            <l>il germe inaridì.</l>
+            <l>(comparisce dall’alto una nube)</l>
+          </sp>
+          <stage>CORODi ferro e fiamme cinti,contra il celeste impero,là nel superno tettosai che pugnammo un dì.È ver, cademmo vinti,ma del valor primieronon anco a noi nel pettoil germe inaridì.(comparisce dall’alto una nube)</stage>
+        </div>
+        <div type="scene">
+          <head>ASTAROTTE</head>Ebben, l’istante è giuntoda por in opra e possa e ardir. Mirate,s’appressa Armida. Ascoso,di sua magica verga ognun di voial sibilo sia presto;del nostro maggior nume il cenno è questo.(spariscono)Scena secondaGiunta a terra, la nube si dilegua, e presenta un carro tirato da due draghi, su cui Rinaldo e Armida, la quale converte il carro in un seggio di fiori. I draghi spariscono. Rinaldo è quasi fuori di sé dalla sorpresa.<sp who="#astarotte">
+            <speaker>ASTAROTTE:</speaker>
+            <l>Ebben, l’istante è giunto</l>
+            <l>da por in opra e possa e ardir. Mirate,</l>
+            <l>s’appressa Armida. Ascoso,</l>
+            <l>di sua magica verga ognun di voi</l>
+            <l>al sibilo sia presto;</l>
+            <l>del nostro maggior nume il cenno è questo.</l>
+            <l>(spariscono)</l>
+            <l>Scena seconda</l>
+            <l>Giunta a terra, la nube si dilegua, e presenta un carro tirato da due draghi, su cui Rinaldo e Armida, la quale converte il carro in un seggio di fiori. I draghi spariscono. Rinaldo è quasi fuori di sé dalla sorpresa.</l>
+          </sp>
+          <stage>ASTAROTTEEbben, l’istante è giuntoda por in opra e possa e ardir. Mirate,s’appressa Armida. Ascoso,di sua magica verga ognun di voial sibilo sia presto;del nostro maggior nume il cenno è questo.(spariscono)Scena secondaGiunta a terra, la nube si dilegua, e presenta un carro tirato da due draghi, su cui Rinaldo e Armida, la quale converte il carro in un seggio di fiori. I draghi spariscono. Rinaldo è quasi fuori di sé dalla sorpresa.</stage>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Dove son io?</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Al fianco mio.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Oh me beato!</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Mio bel tesor!</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Se tuo mi chiami…</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Caro se m’ami…</l>
+          </sp>
+          <sp who="#armida e rinaldo">
+            <speaker>ARMIDA E RINALDO:</speaker>
+            <l>Sfido del fato</l>
+            <l>tutto il rigor.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Mio ben, questa che premi</l>
+            <l>della fortuna è l’isola nomata,</l>
+            <l>sol nota a me. Qui si deponga omai</l>
+            <l>ogni nostro rancore,</l>
+            <l>e qui tutto respiri e pace e amore.</l>
+            <l>Brama di rivederti,</l>
+            <l>speme di possederti, all’altrui voglie</l>
+            <l>ceder mi fe’, non già crudel desio.</l>
+            <l>Finsi col franco duce</l>
+            <l>mio malgrado, e il tuo brando</l>
+            <l>le catene troncando</l>
+            <l>a’ miei seguaci amanti,</l>
+            <l>d’Idraote e di me punì la trama.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Vedi il mio cor se t’ama:</l>
+            <l>tutto vada in oblio; solo Idraote</l>
+            <l>io colpevol estimo. Or non si pensi</l>
+            <l>che al nostro mutuo amor… Ma prigioniero</l>
+            <l>perché guidarmi in orrida foresta?</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>No, d’amor la reggia è questa,</l>
+            <l>ecco il centro del piacer.</l>
+            <l>Al cenno d’Armida la scena si cangia nell’interno d’un magnifico palazzo.</l>
+            <l>Larve in sembianze di Geni, di Ninfe, d’Amorini e di Piaceri formano vari gruppi.</l>
+          </sp>
+          <stage>ARMIDANo, d’amor la reggia è questa,ecco il centro del piacer.Al cenno d’Armida la scena si cangia nell’interno d’un magnifico palazzo.Larve in sembianze di Geni, di Ninfe, d’Amorini e di Piaceri formano vari gruppi.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Sì, d’amor la reggia è questa,</l>
+            <l>questo è il centro del piacer.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(A quell’alma tal portento</l>
+            <l>sembra un sogno lusinghier.</l>
+            <l>A sì strano e lieto evento</l>
+            <l>si confonde il suo pensier.)</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>(A quest’alma tal portento</l>
+            <l>sembra un sogno lusinghier.</l>
+            <l>A sì strano e lieto evento</l>
+            <l>si confonde il mio pensier.)</l>
+          </sp>
+          <sp who="#armida, rinaldo e coro">
+            <speaker>ARMIDA, RINALDO E CORO:</speaker>
+            <l>Sì, d’amor la reggia è questa,</l>
+            <l>questo è il centro del piacer.</l>
+          </sp>
+          <sp who="#alcune ninfe">
+            <speaker>ALCUNE NINFE:</speaker>
+            <l>Canzoni amorose,</l>
+            <l>carole festose,</l>
+            <l>seguàci d’amor.</l>
+          </sp>
+          <sp who="#tutte le ninfe">
+            <speaker>TUTTE LE NINFE:</speaker>
+            <l>Canzoni amorose,</l>
+            <l>carole festose</l>
+            <l>cantiamo, formiamo,</l>
+            <l>seguàci d’amor.</l>
+            <l>(Armida, onde estinguere nel cuor di Rinaldo ogni avanzo d’ardore di gloria, per vieppiù destarvi quello dell’amore, fa comparire una larva sotto le sembianze di giovine guerriero, circondato da più leggiadre ninfe, le quali a gara si accingono a sedurlo. Egli vuole schermirsi da’ loro vezzi; ma la voluttà, impossessandosi a grado a grado di lui, fa che finalmente si lasci togliere le sue guerriere insegne, sostituendo ad esse il serto e le ghirlande di fiori)</l>
+          </sp>
+          <stage>TUTTE LE NINFECanzoni amorose,carole festosecantiamo, formiamo,seguàci d’amor.(Armida, onde estinguere nel cuor di Rinaldo ogni avanzo d’ardore di gloria, per vieppiù destarvi quello dell’amore, fa comparire una larva sotto le sembianze di giovine guerriero, circondato da più leggiadre ninfe, le quali a gara si accingono a sedurlo. Egli vuole schermirsi da’ loro vezzi; ma la voluttà, impossessandosi a grado a grado di lui, fa che finalmente si lasci togliere le sue guerriere insegne, sostituendo ad esse il serto e le ghirlande di fiori)</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>D’amore al dolce impero</l>
+            <l>natura ognor soggiace.</l>
+            <l>Dov’è quell’alma audace</l>
+            <l>che non apprezzi amor?</l>
+            <l>Chi misero non sente</l>
+            <l>la fiamma sua possente,</l>
+            <l>di smalto ha il core in petto,</l>
+            <l>o mai non ebbe cor.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Dov’è quell’alma audace</l>
+            <l>che non apprezzi amor?</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Gli augei tra fronde e fronde</l>
+            <l>spiegan amor col canto;</l>
+            <l>aman perfin dell’onde</l>
+            <l>i muti abitator.</l>
+            <l>Aman le crude belve</l>
+            <l>là tra le ircane selve,</l>
+            <l>son per amor feconde</l>
+            <l>le stesse piante ancor.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Dov’è quell’alma audace</l>
+            <l>che non apprezzi amor?</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>La fresca età se n’ fugge,</l>
+            <l>è la beltade un lampo,</l>
+            <l>ché l’una e l’altra strugge</l>
+            <l>il tempo vorator.</l>
+            <l>Dunque godete, amanti,</l>
+            <l>de’ vostri lieti istanti,</l>
+            <l>or che vi ride in volto</l>
+            <l>di giovinezza il fior.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Ah! Sì godete, amanti,</l>
+            <l>de’ vostri lieti istanti,</l>
+            <l>or che vi ride in volto</l>
+            <l>di giovinezza il fior.</l>
+            <l>Tutto spira d’Armida all’aspetto</l>
+            <l>pace, amore, diletto ~ amistà.</l>
+            <l>Tutto al regno d’Armida è soggetto,</l>
+            <l>tutto cede ove impera beltà.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>[Ballo]</head>Atto terzoScena primaGiardino incantato, in cui mostrasi in tutto il suo aspetto la semplice natura. Piante abbondanti di frutta, siepi e cespugli pieni di ogni sorta di fiori, acque correnti, altre stagnanti sulle quali veggonsi in moto diversi augelli; altri augelli di vivaci colori svolazzano d’albero in albero; da un lato alcune spelonche coperte di muschio, il prospetto è limitato da amene colline e valli ombrose adiacenti.Ubaldo, e Carlo.<div type="scene">
+          <head>[Ballo]</head>Atto terzoScena primaGiardino incantato, in cui mostrasi in tutto il suo aspetto la semplice natura. Piante abbondanti di frutta, siepi e cespugli pieni di ogni sorta di fiori, acque correnti, altre stagnanti sulle quali veggonsi in moto diversi augelli; altri augelli di vivaci colori svolazzano d’albero in albero; da un lato alcune spelonche coperte di muschio, il prospetto è limitato da amene colline e valli ombrose adiacenti.Ubaldo, e Carlo. <stage>[Ballo]Atto terzoScena primaGiardino incantato, in cui mostrasi in tutto il suo aspetto la semplice natura. Piante abbondanti di frutta, siepi e cespugli pieni di ogni sorta di fiori, acque correnti, altre stagnanti sulle quali veggonsi in moto diversi augelli; altri augelli di vivaci colori svolazzano d’albero in albero; da un lato alcune spelonche coperte di muschio, il prospetto è limitato da amene colline e valli ombrose adiacenti.Ubaldo, e Carlo.</stage>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Come l’aurette placide</l>
+            <l>spiran tra l’erbe e i fiori!</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Par che d’amor favellino</l>
+            <l>lieti gli augei canori</l>
+            <l>a noi d’intorno.</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>E l’eco che risponde…</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>E il mormorio dell’onda…</l>
+          </sp>
+          <sp who="#ubaldo e carlo">
+            <speaker>UBALDO E CARLO:</speaker>
+            <l>Tutto a noi par che dica:</l>
+            <l>sacro a natura amica</l>
+            <l>ecco il soggiorno.</l>
+          </sp>
+          <sp who="#ubaldo e carlo">
+            <speaker>UBALDO E CARLO:</speaker>
+            <l>Ma no: d’orribil arte</l>
+            <l>questi gl’inganni sono;</l>
+            <l>dell’empio Averno è dono</l>
+            <l>ciò che natura appar.</l>
+            <l>Qui l’atro crine anguigero</l>
+            <l>scuoton le fiere eumenidi,</l>
+            <l>che di velen mortifero</l>
+            <l>van l’aure ad infettar.</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Oh quanto, amico, d’Ascalona al saggio</l>
+            <l>tenuti siam! Lungo tragitto parve</l>
+            <l>a noi breve cammino.</l>
+            <l>Fu soccorso divino</l>
+            <l>quest’aurea verga e questo scritto.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>In fuga</l>
+            <l>il serpente custode ed ogni fera,</l>
+            <l>che ci contese il passo,</l>
+            <l>volger vedemmo. A compier ora ci resta</l>
+            <l>il desiato fin di nostra impresa.</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Qui (lo scritto il palesa)</l>
+            <l>vedrem Rinaldo a un folle amore in preda.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Ah! Voglia il ciel ch’ei ceda</l>
+            <l>agl’inviti d’onor.</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Solingo è il loco.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CARLO</head>T’inganni. A noi se n’ vienestuol di ninfe leggiadre. Odi concento…(lenta armonia, che a grado a grado s’avvicina e rinforza)UBALDODi fermezza e d’ardir quest’è il momento.Scena secondaLarve in sembianza di Ninfe, cantando e danzando.I precedenti.<sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>T’inganni. A noi se n’ viene</l>
+            <l>stuol di ninfe leggiadre. Odi concento…</l>
+            <l>(lenta armonia, che a grado a grado s’avvicina e rinforza)</l>
+            <l>UBALDO</l>
+            <l>Di fermezza e d’ardir quest’è il momento.</l>
+            <l>Scena seconda</l>
+            <l>Larve in sembianza di Ninfe, cantando e danzando.</l>
+            <l>I precedenti.</l>
+          </sp>
+          <stage>CARLOT’inganni. A noi se n’ vienestuol di ninfe leggiadre. Odi concento…(lenta armonia, che a grado a grado s’avvicina e rinforza)UBALDODi fermezza e d’ardir quest’è il momento.Scena secondaLarve in sembianza di Ninfe, cantando e danzando.I precedenti.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>tutto</l>
+            <l>Qui tutto è calma,</l>
+            <l>delizia, amor:</l>
+            <l>qui trova un’alma</l>
+            <l>scampo al dolor.</l>
+            <l>Iº</l>
+            <l>Qui l’atre sfere</l>
+            <l>non han potere,</l>
+            <l>l’avverso fato</l>
+            <l>non ha vigor.</l>
+            <l>IIº</l>
+            <l>Questo è il beato</l>
+            <l>d’amor soggiorno:</l>
+            <l>l’età dell’oro</l>
+            <l>qui fe’ ritorno:</l>
+            <l>oh fortunato</l>
+            <l>chi vanta un cor!</l>
+            <l>tutto</l>
+            <l>Qui tutto è calma,</l>
+            <l>delizia, amor:</l>
+            <l>qui trova un’alma</l>
+            <l>scampo al dolor.</l>
+          </sp>
+          <stage>COROtuttoQui tutto è calma,delizia, amor:qui trova un’almascampo al dolor.IºQui l’atre sferenon han potere,l’avverso fatonon ha vigor.IIºQuesto è il beatod’amor soggiorno:l’età dell’oroqui fe’ ritorno:oh fortunatochi vanta un cor!tuttoQui tutto è calma,delizia, amor:qui trova un’almascampo al dolor.</stage>
+        </div>
+        <div type="scene">
+          <head>UBALDO</head>Fuggite infernei mostri; ite onde usciste.(scuotendo la verga d’oro, le larve spariscono)Scena terzaCarlo, e Ubaldo.<sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Fuggite infernei mostri; ite onde usciste.</l>
+            <l>(scuotendo la verga d’oro, le larve spariscono)</l>
+            <l>Scena terza</l>
+            <l>Carlo, e Ubaldo.</l>
+          </sp>
+          <stage>UBALDOFuggite infernei mostri; ite onde usciste.(scuotendo la verga d’oro, le larve spariscono)Scena terzaCarlo, e Ubaldo.</stage>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Nuovo portento!</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Ah! Possa</l>
+            <l>sgombrar così dal core</l>
+            <l>del misero Rinaldo un folle amore.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Lo spero. Il ciel compirà l’opra.</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Oh quanto</l>
+            <l>fia caro a guelfo del nipote amato</l>
+            <l>il ritorno bramato!</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Al campo tutto,</l>
+            <l>allo stesso Goffredo,</l>
+            <l>che punirlo volea, ch’or gli perdona,</l>
+            <l>fia gioia il riveder cotanto eroe…</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Taci… Se non m’inganno,</l>
+            <l>da quel sentiero lento calpestio</l>
+            <l>parmi sentir.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Sì…</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Oh sorte!</l>
+            <l>Vedilo.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>È desso… Oh noi felici!</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>E seco</l>
+            <l>vien colei che lo asconde</l>
+            <l>prigioniero avvilito in queste sponde.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>S’incontri…</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>No. Per or meco ti cela</l>
+            <l>colà fra quelle piante.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Ma di mostrarti a lui…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>UBALDO</head>Non è l’istante.(si nascondono in una boscaglia)Scena quartaArmida, e Rinaldo, tenendosi per mano.<sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Non è l’istante.</l>
+            <l>(si nascondono in una boscaglia)</l>
+            <l>Scena quarta</l>
+            <l>Armida, e Rinaldo, tenendosi per mano.</l>
+          </sp>
+          <stage>UBALDONon è l’istante.(si nascondono in una boscaglia)Scena quartaArmida, e Rinaldo, tenendosi per mano.</stage>
+          <sp who="#armida e rinaldo">
+            <speaker>ARMIDA E RINALDO:</speaker>
+            <l>Soavi catene,</l>
+            <l>se amore v’ordì,</l>
+            <l>per sempre al mio bene</l>
+            <l>mi unite così.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>O mio Rinaldo, ammira</l>
+            <l>quest’ameno soggiorno. Or, Benché ardente</l>
+            <l>Sirio si mostri in ciel, per opra mia</l>
+            <l>la fiorita stagione</l>
+            <l>e il pomifero autunno</l>
+            <l>si porgono le destre</l>
+            <l>in questo fortunato asil campestre.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Tutto mi fa beato,</l>
+            <l>ma più di tutto Armida,</l>
+            <l>purch’io viva sicuro</l>
+            <l>di sua costanza…</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>E che dubiteresti…</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Così rara beltà, che far potria</l>
+            <l>un monarca felice…</l>
+            <l>real donzella… lungi,</l>
+            <l>per mia cagion, dal regno suo natio…</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Sul tuo cor non ho regno, e tu sul mio?</l>
+            <l>E ciò non basta? Amor me vinse.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>E seco</l>
+            <l>Armida, gareggiasti</l>
+            <l>quando co’ vaghi rai m’imprigionasti.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Resta, mio ben. Degg’io per poch’istanti</l>
+            <l>lungi da te…</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Come!…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ARMIDA</head>Non lieve curami chiama altrove. Addio.In breve al fianco tuo mi rivedrai.(parte)Scena quintaRinaldo.Lo splendor di quei raise un sol istante io perdo,parmi perder la pace…Ma qual altro splendor m’abbaglia il ciglio!…Armi son quelle… ed armi franche!… A stentoa’ propri sguardi io credo…Scena sestaUbaldo, Carlo, Rinaldo.UBALDO(a Carlo)Amico, inoltra il piè.<sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Non lieve cura</l>
+            <l>mi chiama altrove. Addio.</l>
+            <l>In breve al fianco tuo mi rivedrai.</l>
+            <l>(parte)</l>
+            <l>Scena quinta</l>
+            <l>Rinaldo.</l>
+            <l>Lo splendor di quei rai</l>
+            <l>se un sol istante io perdo,</l>
+            <l>parmi perder la pace…</l>
+            <l>Ma qual altro splendor m’abbaglia il ciglio!…</l>
+            <l>Armi son quelle… ed armi franche!… A stento</l>
+            <l>a’ propri sguardi io credo…</l>
+            <l>Scena sesta</l>
+            <l>Ubaldo, Carlo, Rinaldo.</l>
+            <l>UBALDO</l>
+            <l>(a Carlo)</l>
+            <l>Amico, inoltra il piè.</l>
+          </sp>
+          <stage>ARMIDANon lieve curami chiama altrove. Addio.In breve al fianco tuo mi rivedrai.(parte)Scena quintaRinaldo.Lo splendor di quei raise un sol istante io perdo,parmi perder la pace…Ma qual altro splendor m’abbaglia il ciglio!…Armi son quelle… ed armi franche!… A stentoa’ propri sguardi io credo…Scena sestaUbaldo, Carlo, Rinaldo.UBALDO(a Carlo)Amico, inoltra il piè.</stage>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Cielo! Chi vedo!</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Avvilito guerrier, schiavo d’amore,</l>
+            <l>Ubaldo e Carlo in noi rimira. Osserva</l>
+            <l>qual ci veste le membra</l>
+            <l>onorevole incarco. E mentre il ferro</l>
+            <l>noi cinge, e mentre il brando</l>
+            <l>ci pende al fianco, adorno</l>
+            <l>veder dobbiam di rose, e in bianchi lini</l>
+            <l>il più forte tra i Franchi e tra i Latini?</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>(Oh rimprovero amaro!)</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Il campo tutto</l>
+            <l>impaziente aspira</l>
+            <l>a innalzar di Sion sull’alte mura</l>
+            <l>l’augusto suo vessillo.</l>
+            <l>Desta di tromba squillo</l>
+            <l>ogni soldato, anche il men forte; e solo</l>
+            <l>Rinaldo, il pro’ Rinaldo,</l>
+            <l>l’indomito guerriero,</l>
+            <l>sconosciuto se n’ vive e prigioniero?</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Deh! Amici… è ver, son io… sono infelice</l>
+            <l>ma voi come qui tratti,</l>
+            <l>se questo ermo sentier…</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Virtù celeste,</l>
+            <l>non arte stigia, a noi servì di guida.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Ceda l’iniqua Armida</l>
+            <l>al poter di quel dio che al tutto impera.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Armida!… Ella è il mio ben…</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Sogni?</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Deliri?</l>
+            <l>In questo scudo espresso</l>
+            <l>mira di tua viltà tutto l’eccesso.</l>
+            <l>(scopre lo scudo adamantino)</l>
+          </sp>
+          <stage>UBALDODeliri?In questo scudo espressomira di tua viltà tutto l’eccesso.(scopre lo scudo adamantino)</stage>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>In quale aspetto imbelle</l>
+            <l>io mi ravviso, oh stelle!…</l>
+            <l>Qual di viltade oggetto!…</l>
+            <l>Oh immenso mio rossor!</l>
+            <l>(quasi fuori di sé)</l>
+          </sp>
+          <stage>RINALDOIn quale aspetto imbelleio mi ravviso, oh stelle!…Qual di viltade oggetto!…Oh immenso mio rossor!(quasi fuori di sé)</stage>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>(Langue.)</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>(Sospira.)</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>(Geme.)</l>
+          </sp>
+          <sp who="#ubaldo e carlo">
+            <speaker>UBALDO E CARLO:</speaker>
+            <l>(Sente d’onor già i moti.</l>
+            <l>Oh nume! I nostri voti</l>
+            <l>secondi il tuo favor.)</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>(a Rinaldo)</l>
+            <l>Vedi qual reo governo</l>
+            <l>di te fa un empio affetto.</l>
+          </sp>
+          <stage>UBALDO(a Rinaldo)Vedi qual reo governodi te fa un empio affetto.</stage>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>S’hai cor bastante in petto</l>
+            <l>resisti a tant’orror.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>(seguitando a guardarsi nello scudo)</l>
+            <l>Qual di viltade oggetto!…</l>
+            <l>Oh immenso mio rossor!</l>
+          </sp>
+          <stage>RINALDO(seguitando a guardarsi nello scudo)Qual di viltade oggetto!…Oh immenso mio rossor!</stage>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Il tuo dover ti chiama.</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Gloria a pugnar t’invita.</l>
+          </sp>
+          <sp who="#ubaldo e carlo">
+            <speaker>UBALDO E CARLO:</speaker>
+            <l>La tromba della fama</l>
+            <l>ridesti il tuo valor.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Cessate… ohimè! Cessate…</l>
+            <l>che barbaro tormento!</l>
+            <l>Io vile?… No: rammento</l>
+            <l>che son Rinaldo ancor.</l>
+            <l>(si squarcia, e getta ogni fregio di mollezza)</l>
+            <l>UBALDO E CARLO</l>
+            <l>Or sì che in te ritrovo</l>
+            <l>l’eroe qual fosti ognor.</l>
+          </sp>
+          <stage>RINALDOCessate… ohimè! Cessate…che barbaro tormento!Io vile?… No: rammentoche son Rinaldo ancor.(si squarcia, e getta ogni fregio di mollezza)UBALDO E CARLOOr sì che in te ritrovol’eroe qual fosti ognor.</stage>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>(Ah! Qual contrasto io provo</l>
+            <l>di duol, di gloria e amor!)</l>
+          </sp>
+          <sp who="#ubaldo e carlo">
+            <speaker>UBALDO E CARLO:</speaker>
+            <l>Vieni.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Vi seguo… (Oh dio!</l>
+            <l>Lasciarla mai poss’io!)</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>A che t’arresti?</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Armida!</l>
+            <l>Per te mi manca il cor…</l>
+          </sp>
+          <sp who="#ubaldo e carlo">
+            <speaker>UBALDO E CARLO:</speaker>
+            <l>Severa omai ti sgrida</l>
+            <l>la voce dell’onor.</l>
+            <l>(breve pausa)</l>
+          </sp>
+          <stage>UBALDO E CARLOSevera omai ti sgridala voce dell’onor.(breve pausa)</stage>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Unitevi a gara</l>
+            <l>virtude, valore,</l>
+            <l>per vincere amore</l>
+            <l>che affanno mi dà.</l>
+            <l>(alza gli occhi al cielo in atto d’implorarlo)</l>
+            <l>Ma un raggio improvviso</l>
+            <l>quest’alma rischiara…</l>
+            <l>Ah! Sì, ti ravviso,</l>
+            <l>celeste bontà.</l>
+          </sp>
+          <stage>RINALDOUnitevi a garavirtude, valore,per vincere amoreche affanno mi dà.(alza gli occhi al cielo in atto d’implorarlo)Ma un raggio improvvisoquest’alma rischiara…Ah! Sì, ti ravviso,celeste bontà.</stage>
+        </div>
+        <div type="scene">
+          <head>UBALDO E CARLO</head>Splendor degli eroi,t’invola con noi;del ciel si dichiaraper te la pietà.(partono)Scena settimaArmida frettolosa e sbigottita.<sp who="#ubaldo e carlo">
+            <speaker>UBALDO E CARLO:</speaker>
+            <l>Splendor degli eroi,</l>
+            <l>t’invola con noi;</l>
+            <l>del ciel si dichiara</l>
+            <l>per te la pietà.</l>
+            <l>(partono)</l>
+            <l>Scena settima</l>
+            <l>Armida frettolosa e sbigottita.</l>
+          </sp>
+          <stage>UBALDO E CARLOSplendor degli eroi,t’invola con noi;del ciel si dichiaraper te la pietà.(partono)Scena settimaArmida frettolosa e sbigottita.</stage>
+        </div>
+        <div type="scene">
+          <head>Recitativo</head>Dov’è?… Dove si cela?… Eppur poc’anziqui lo lasciai… son fuor di me! Se n’ giacelà sulla soglia il fier custode estinto…Oh stelle! Il mio poter fia dunque vinto?Vadasi… Ma che vedo!…Due guerrier di Goffredo!… Ohimè! Rinaldosegue i lor passi… Férmati… L’affannomi tronca i detti… Senti…perfido! Non m’ascolta… Ebben d’Avernola possanza s’invochi. Furie, udite:(scuote la verga magica)per la tremenda Dite, a me si guidiquel traditor.(pausa)Ma voce non rispondedalle infernali sponde.Ohimè!… Fatal momento!Che fo?… Seguiam l’infido… oh fier tormento!(parte)Scena ottavaEsterno del palazzo d’Armida.Ubaldo, Carlo, Rinaldo.UBALDOSia lode al ciel! Da quelle inique murauscimmo alfin. <stage>RecitativoDov’è?… Dove si cela?… Eppur poc’anziqui lo lasciai… son fuor di me! Se n’ giacelà sulla soglia il fier custode estinto…Oh stelle! Il mio poter fia dunque vinto?Vadasi… Ma che vedo!…Due guerrier di Goffredo!… Ohimè! Rinaldosegue i lor passi… Férmati… L’affannomi tronca i detti… Senti…perfido! Non m’ascolta… Ebben d’Avernola possanza s’invochi. Furie, udite:(scuote la verga magica)per la tremenda Dite, a me si guidiquel traditor.(pausa)Ma voce non rispondedalle infernali sponde.Ohimè!… Fatal momento!Che fo?… Seguiam l’infido… oh fier tormento!(parte)Scena ottavaEsterno del palazzo d’Armida.Ubaldo, Carlo, Rinaldo.UBALDOSia lode al ciel! Da quelle inique murauscimmo alfin.</stage>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Breve cammin ci resta;</l>
+            <l>vadasi al palischermo.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Amici, ah voi,</l>
+            <l>per pietà rinfrancate</l>
+            <l>questo debole cor. Solo non basta</l>
+            <l>me stesso a superar.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Veloce al lido,</l>
+            <l>vieni, volgasi il piè.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(da lontano)</l>
+            <l>T’arresta, infido!</l>
+          </sp>
+          <stage>ARMIDA(da lontano)T’arresta, infido!</stage>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>È dessa… oh dio!… L’udiste?</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Di coraggio,</l>
+            <l>amico, armar ti déi.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Ohimè!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>UBALDO</head>Ti giovi l’ascoltar costei:se resisti a’ suoi vezzi,alle lagrime sue,il più grande a ragion sei degli eroi.Scena nonaArmida frettolosa, i precedenti.<sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Ti giovi l’ascoltar costei:</l>
+            <l>se resisti a’ suoi vezzi,</l>
+            <l>alle lagrime sue,</l>
+            <l>il più grande a ragion sei degli eroi.</l>
+            <l>Scena nona</l>
+            <l>Armida frettolosa, i precedenti.</l>
+          </sp>
+          <stage>UBALDOTi giovi l’ascoltar costei:se resisti a’ suoi vezzi,alle lagrime sue,il più grande a ragion sei degli eroi.Scena nonaArmida frettolosa, i precedenti.</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Ed è pur vero?… E abbandonar mi vuoi?</l>
+            <l>Crudel!</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Vuole il destino</l>
+            <l>ch’io da te volga il piè… Gloria m’invita</l>
+            <l>al campo dell’onore…</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>E gloria fia</l>
+            <l>tradir l’amor, la fé?</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Dolce memoria</l>
+            <l>per me sempre sarai… Rimanti in pace…</l>
+            <l>(Ah mi si spezza il core.)</l>
+            <l>(partendo)</l>
+          </sp>
+          <stage>RINALDODolce memoriaper me sempre sarai… Rimanti in pace…(Ah mi si spezza il core.)(partendo)</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(trattenendolo)</l>
+            <l>Pace! E pace trovar può il mio dolore?</l>
+          </sp>
+          <stage>ARMIDA(trattenendolo)Pace! E pace trovar può il mio dolore?</stage>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>(sotto voce a Rinaldo)</l>
+            <l>Resisti.</l>
+          </sp>
+          <stage>UBALDO(sotto voce a Rinaldo)Resisti.</stage>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>A lei nascondi</l>
+            <l>l’affanno, il duol.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Parti, se vuoi; sol chiedo</l>
+            <l>i tuoi passi seguir…</l>
+            <l>(Rinaldo la respinge, voltando il viso per celarle il suo turbamento)</l>
+            <l>(seguitandolo)</l>
+            <l>Qual più ti piace</l>
+            <l>di me dispor potrai; se pur ti è grato,</l>
+            <l>ancella umil raccorcerò la chioma,</l>
+            <l>or che a te fatta è vile.</l>
+            <l>In aspetto servile</l>
+            <l>te seguirò dove l’ardor guerriero</l>
+            <l>fia che più ferva. Sento</l>
+            <l>per condurti i destrieri e portar l’armi</l>
+            <l>in me vigor bastante;</l>
+            <l>mi avrai fedel seguace e non amante.</l>
+          </sp>
+          <stage>ARMIDAParti, se vuoi; sol chiedoi tuoi passi seguir…(Rinaldo la respinge, voltando il viso per celarle il suo turbamento)(seguitandolo)Qual più ti piacedi me dispor potrai; se pur ti è grato,ancella umil raccorcerò la chioma,or che a te fatta è vile.In aspetto servilete seguirò dove l’ardor guerrierofia che più ferva. Sentoper condurti i destrieri e portar l’armiin me vigor bastante;mi avrai fedel seguace e non amante.</stage>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>(sottovoce ai due compagni)</l>
+            <l>Ohimè! Quai detti!</l>
+          </sp>
+          <stage>RINALDO(sottovoce ai due compagni)Ohimè! Quai detti!</stage>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>(sottovoce a Rinaldo)</l>
+            <l>Inganni.</l>
+          </sp>
+          <stage>UBALDO(sottovoce a Rinaldo)Inganni.</stage>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>(sottovoce a Rinaldo)</l>
+            <l>Insidie.</l>
+          </sp>
+          <stage>CARLO(sottovoce a Rinaldo)Insidie.</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>E taci?…</l>
+            <l>Sì, qual più vuoi, sarò scudiero o scudo.</l>
+            <l>Forse guerrier sì crudo</l>
+            <l>non vi sarà che, per ferirti, voglia</l>
+            <l>passarmi il sen… Ma parla.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Armida. È tempo</l>
+            <l>che pongansi in oblio</l>
+            <l>i miei, gli errori tuoi. Resta…</l>
+            <l>(partendo)</l>
+          </sp>
+          <stage>RINALDOArmida. È tempoche pongansi in oblioi miei, gli errori tuoi. Resta…(partendo)</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Deh! Ferma…</l>
+            <l>e non gemi?</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>(Che pena!)</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>E asciutto il ciglio</l>
+            <l>serbi ancor, spietato?</l>
+            <l>Ed hai cor di lasciarmi in questo stato?</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>(sospirando e partendo)</l>
+            <l>Cangiar non puoi tua sorte:</l>
+            <l>non la poss’io cangiar.</l>
+          </sp>
+          <stage>RINALDO(sospirando e partendo)Cangiar non puoi tua sorte:non la poss’io cangiar.</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>(trattenendolo)</l>
+            <l>Ah: dammi almen la morte:</l>
+            <l>dà fine al mio penar.</l>
+          </sp>
+          <stage>ARMIDA(trattenendolo)Ah: dammi almen la morte:dà fine al mio penar.</stage>
+          <sp who="#ubaldo e carlo">
+            <speaker>UBALDO E CARLO:</speaker>
+            <l>(a Rinaldo)</l>
+            <l>Resisti omai da forte.</l>
+          </sp>
+          <stage>UBALDO E CARLO(a Rinaldo)Resisti omai da forte.</stage>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Vieni.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Risolvi.</l>
+          </sp>
+          <sp who="#ubaldo e carlo">
+            <speaker>UBALDO E CARLO:</speaker>
+            <l>Al mar.</l>
+          </sp>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Addio…</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Senti, idol mio!…</l>
+            <l>Un sol istante io chieggo…</l>
+          </sp>
+          <sp who="#ubaldo">
+            <speaker>UBALDO:</speaker>
+            <l>Non più.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO:</speaker>
+            <l>Partir conviene.</l>
+            <l>(trascinando Rinaldo)</l>
+          </sp>
+          <stage>CARLOPartir conviene.(trascinando Rinaldo)</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Vacilla… il piè… non reggo…</l>
+            <l>mi sento oh dio!… mancar…</l>
+            <l>(cade priva di sensi. Rinaldo, che si sarà allontanato, retrocede in fretta)</l>
+          </sp>
+          <stage>ARMIDAVacilla… il piè… non reggo…mi sento oh dio!… mancar…(cade priva di sensi. Rinaldo, che si sarà allontanato, retrocede in fretta)</stage>
+          <sp who="#rinaldo">
+            <speaker>RINALDO:</speaker>
+            <l>Armida!… Amato bene!…</l>
+            <l>Deh! Si soccorra…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>UBALDO E CARLO</head>(lo conducono a forza)Al mar.Scena decimaArmida, allontanato Rinaldo, insensibilmente rinviene; quindi si alza e guarda intorno.<sp who="#ubaldo e carlo">
+            <speaker>UBALDO E CARLO:</speaker>
+            <l>(lo conducono a forza)</l>
+            <l>Al mar.</l>
+            <l>Scena decima</l>
+            <l>Armida, allontanato Rinaldo, insensibilmente rinviene; quindi si alza e guarda intorno.</l>
+          </sp>
+          <stage>UBALDO E CARLO(lo conducono a forza)Al mar.Scena decimaArmida, allontanato Rinaldo, insensibilmente rinviene; quindi si alza e guarda intorno.</stage>
+        </div>
+        <div type="scene">
+          <head>ARMIDA</head>Dove son io?… Fuggìlasciarmi, ohimè! Cosìpoté l’ingrato?E vivo ancora?… E palpitimio desolato core?…(si aggira incerta)Che fo?… Vendetta… Amore…di voi chi udir dovrò?Del mio trovar si puòpiù atroce stato!(rimane concentrata ne’ suoi pensieri. Frattanto sorge una larva in sembianza della vendetta)(scuotendosi)Vendetta… Ah sì, ti miro:te sola invoco: vieni…(s’avvicina alla larva sotto le forme d’Amore piangente)Amor!… con quel sospiroperché il mio sdegno affreni!?…Forse spietato sei,sebben tu piangi, Amor.(verso la Vendetta)Forse pietade è in lei,cinta benché d’orror.(pensa alquanto poi corre alla prima larva)È ver… gode quest’animain te, fatal Vendetta.Da me repente involatiperfido Amor, t’affretta.(sparisce la larva dell’Amore)Se al mio poter, voi furie,sorde non siete ancor,ad inseguir traetemiun empio, un traditor.Scena ultimaCoro di Demoni, recando il carro d’Armida tirato da’ draghi.<sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Dove son io?… Fuggì</l>
+            <l>lasciarmi, ohimè! Così</l>
+            <l>poté l’ingrato?</l>
+            <l>E vivo ancora?… E palpiti</l>
+            <l>mio desolato core?…</l>
+            <l>(si aggira incerta)</l>
+            <l>Che fo?… Vendetta… Amore…</l>
+            <l>di voi chi udir dovrò?</l>
+            <l>Del mio trovar si può</l>
+            <l>più atroce stato!</l>
+            <l>(rimane concentrata ne’ suoi pensieri. Frattanto sorge una larva in sembianza della vendetta)</l>
+            <l>(scuotendosi)</l>
+            <l>Vendetta… Ah sì, ti miro:</l>
+            <l>te sola invoco: vieni…</l>
+            <l>(s’avvicina alla larva sotto le forme d’Amore piangente)</l>
+            <l>Amor!… con quel sospiro</l>
+            <l>perché il mio sdegno affreni!?…</l>
+            <l>Forse spietato sei,</l>
+            <l>sebben tu piangi, Amor.</l>
+            <l>(verso la Vendetta)</l>
+            <l>Forse pietade è in lei,</l>
+            <l>cinta benché d’orror.</l>
+            <l>(pensa alquanto poi corre alla prima larva)</l>
+            <l>È ver… gode quest’anima</l>
+            <l>in te, fatal Vendetta.</l>
+            <l>Da me repente involati</l>
+            <l>perfido Amor, t’affretta.</l>
+            <l>(sparisce la larva dell’Amore)</l>
+            <l>Se al mio poter, voi furie,</l>
+            <l>sorde non siete ancor,</l>
+            <l>ad inseguir traetemi</l>
+            <l>un empio, un traditor.</l>
+            <l>Scena ultima</l>
+            <l>Coro di Demoni, recando il carro d’Armida tirato da’ draghi.</l>
+          </sp>
+          <stage>ARMIDADove son io?… Fuggìlasciarmi, ohimè! Cosìpoté l’ingrato?E vivo ancora?… E palpitimio desolato core?…(si aggira incerta)Che fo?… Vendetta… Amore…di voi chi udir dovrò?Del mio trovar si puòpiù atroce stato!(rimane concentrata ne’ suoi pensieri. Frattanto sorge una larva in sembianza della vendetta)(scuotendosi)Vendetta… Ah sì, ti miro:te sola invoco: vieni…(s’avvicina alla larva sotto le forme d’Amore piangente)Amor!… con quel sospiroperché il mio sdegno affreni!?…Forse spietato sei,sebben tu piangi, Amor.(verso la Vendetta)Forse pietade è in lei,cinta benché d’orror.(pensa alquanto poi corre alla prima larva)È ver… gode quest’animain te, fatal Vendetta.Da me repente involatiperfido Amor, t’affretta.(sparisce la larva dell’Amore)Se al mio poter, voi furie,sorde non siete ancor,ad inseguir traetemiun empio, un traditor.Scena ultimaCoro di Demoni, recando il carro d’Armida tirato da’ draghi.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Paga sarai.</l>
+          </sp>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>Distrutto</l>
+            <l>tutto qui resti, tutto.</l>
+            <l>I Demoni, armati di faci, eseguiscono, e la scena ritorna nel primo orrore.</l>
+          </sp>
+          <stage>ARMIDADistruttotutto qui resti, tutto.I Demoni, armati di faci, eseguiscono, e la scena ritorna nel primo orrore.</stage>
+          <sp who="#armida">
+            <speaker>ARMIDA:</speaker>
+            <l>S’altro non può l’Averno</l>
+            <l>m’inspiri il suo furore.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>S’altro non può l’Averno</l>
+            <l>t’inspiri il suo furore.</l>
+            <l>Armida ascende il carro, e s’innalza a volo tra i globi di fiamme e di fumo.</l>
+          </sp>
+          <stage>COROS’altro non può l’Avernot’inspiri il suo furore.Armida ascende il carro, e s’innalza a volo tra i globi di fiamme e di fumo.</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

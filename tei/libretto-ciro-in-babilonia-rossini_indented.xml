@@ -1,0 +1,1495 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">iro in Babilonia</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="scena sesta">
+            <persName>SCENA SESTA:</persName>
+          </person>
+          <person xml:id="scena sedicesima">
+            <persName>SCENA SEDICESIMA:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="argene">
+            <persName>ARGENE:</persName>
+          </person>
+          <person xml:id="scena quinta">
+            <persName>SCENA QUINTA:</persName>
+          </person>
+          <person xml:id="scena quarta">
+            <persName>SCENA QUARTA:</persName>
+          </person>
+          <person xml:id="daniele">
+            <persName>DANIELE:</persName>
+          </person>
+          <person xml:id="arbace">
+            <persName>ARBACE:</persName>
+          </person>
+          <person xml:id="scena decima">
+            <persName>SCENA DECIMA:</persName>
+          </person>
+          <person xml:id="scena terza">
+            <persName>SCENA TERZA:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="baldassare">
+            <persName>BALDASSARE:</persName>
+          </person>
+          <person xml:id="coro di magi">
+            <persName>CORO DI MAGI:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="scena undicesima">
+            <persName>SCENA UNDICESIMA:</persName>
+          </person>
+          <person xml:id="f i n e">
+            <persName>F I N E:</persName>
+          </person>
+          <person xml:id="scena tredicesima">
+            <persName>SCENA TREDICESIMA:</persName>
+          </person>
+          <person xml:id="atto primo">
+            <persName>ATTO PRIMO:</persName>
+          </person>
+          <person xml:id="scena seconda">
+            <persName>SCENA SECONDA:</persName>
+          </person>
+          <person xml:id="zambri">
+            <persName>ZAMBRI:</persName>
+          </person>
+          <person xml:id="scena settima">
+            <persName>SCENA SETTIMA:</persName>
+          </person>
+          <person xml:id="ciro">
+            <persName>CIRO:</persName>
+          </person>
+          <person xml:id="amira">
+            <persName>AMIRA:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>La scena si rappresenta parte in Babiloniae parte ne’ recinti esteriori della città stessa.</stage>
+      <div type="act">
+        <head>ATTO PRIMO</head>
+        <sp who="#atto primo">
+          <speaker>ATTO PRIMO:</speaker>
+        </sp>
+        <stage>Reggia di Baldassare.SCENA PRIMA</stage>
+        <stage>Principi e Grandi del regno, poi Zambri.CORODi Babilonia i popoliCantino questo dì,In cui de’ suoi nemiciTrionfa il Re così.</stage>
+        <sp who="#zambri">
+          <speaker>ZAMBRI:</speaker>
+          <l>Sì, de’ Persi il vano orgoglio</l>
+          <l>Nostro brando in campo ha estinto;</l>
+          <l>Ed a Ciro oppresso e vinto</l>
+          <l>Figlio e sposa oggi rapì.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Viva il monarca invitto,</l>
+          <l>Che dall’eccelso trono</l>
+          <l>Della vittoria al suono</l>
+          <l>Trionfa in questo dì.</l>
+        </sp>
+        <sp who="#zambri">
+          <speaker>ZAMBRI:</speaker>
+          <l>Ma pietà che il Re consiglia</l>
+          <l>Di salvezza a ognun fa dono</l>
+          <l>E destina al proprio trono</l>
+          <l>Chi la destra a Ciro unì.</l>
+          <l>Plaudite, amici: il lieto giorno è questo,</l>
+          <l>In cui del Re la gloria</l>
+          <l>Splende per ogni intorno.</l>
+          <l>Fino all’età remote</l>
+          <l>N’andranno i suoi trofei;</l>
+          <l>Ed i nemici rei</l>
+          <l>Confusi ed avviliti</l>
+          <l>Lungi da queste mura</l>
+          <l>Porteran l’armi di rossor dipinte,</l>
+          <l>E le falangi debellate e vinte.</l>
+          <l>Mentre credea de’ Persi il Re superbo</l>
+          <l>Abbatter quest’impero,</l>
+          <l>Già smarrito ed oppresso</l>
+          <l>Lascia vittima ei stesso</l>
+          <l>Del valor nostro il figlio e la consorte,</l>
+          <l>Cui di grand’alma in pegno</l>
+          <l>Offre il Re nostro e libertade e regno.</l>
+        </sp>
+        <sp who="#scena seconda">
+          <speaker>SCENA SECONDA:</speaker>
+        </sp>
+        <stage>Baldassare con guardie, Amira, Argene e detti.BALDASSAREÈ questi, o Principessa, il pensier mio.Te, che dovrei di ceppiStringer e di cateneVoglio che in dolce imeneAl talamo regal congiunga amore.E scordando che fostiSposa del mio nemico,Poiché bella ti scorgo e di me degna,Mostrando ai Persi quanto grande io sono,T’offro di ferri in vece il core e il trono.</stage>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>Grata, signore, al tuo gran cor non posso</l>
+          <l>Quanto m’offri accettar. La patria, Ciro,</l>
+          <l>Al mio pensier presenti,</l>
+          <l>Di figlia e di consorte</l>
+          <l>Mi richiaman gli affetti;</l>
+          <l>Né a scorno lor potrei</l>
+          <l>Tradire i dover miei.</l>
+          <l>Ché se così ti piace</l>
+          <l>Cingimi pur di barbare ritorte,</l>
+          <l>Ch’io di mia trista sorte</l>
+          <l>Piangendo fra me stessa</l>
+          <l>Soffrirò senza pena</l>
+          <l>L’orribil prigionia fra queste mura,</l>
+          <l>E il Cielo incolperò di mia sventura.</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>Dunque potrai sì altera</l>
+          <l>Sprezzar la mia clemenza?</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>In te ravviso</l>
+          <l>Non clemente monarca, ma feroce</l>
+          <l>Vincitor, che superbo</l>
+          <l>Della vittoria sua coglie ogni frutto;</l>
+          <l>Né curando in altrui</l>
+          <l>I legami d’amor, di patria fede,</l>
+          <l>Altra gloria non vede,</l>
+          <l>Che quella di voler quanto gli piace.</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>Frena quel labbro omai femmina audace.</l>
+          <l>T’arrendi: alfin dipende</l>
+          <l>Dal mio voler tua sorte;</l>
+          <l>Potria costarti morte</l>
+          <l>Un disprezzato amor.</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>Sprezzo l’offerto soglio,</l>
+          <l>E l’amor tuo m’irrita:</l>
+          <l>Perder saprò la vita,</l>
+          <l>Ma non tradir l’onor.</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>Il tuo rifiuto, ingrata,</l>
+          <l>D’ira m’accende il petto.</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>Non sa cangiar d’affetto</l>
+          <l>Quand’è costante un cor.</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>Trema.</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>Minacci in vano.</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>Pensa qual son, qual sei.</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>Tutti gli affetti miei</l>
+          <l>Son volti a Ciro ancor.</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>(Vorrei punir la perfida,</l>
+          <l>Fiaccar l’orgoglio insano,</l>
+          <l>Ma frena il cor, la mano</l>
+          <l>La vaga sua beltà.)</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>(L’ira, il furor del perfido</l>
+          <l>Vincermi non sapranno,</l>
+          <l>Combatton nel tiranno</l>
+          <l>Amor e crudeltà.)</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>Stanco di tue ripulse alfin son io.</l>
+          <l>Fa’ che sul labbro audace</l>
+          <l>Mai più non oda del nemico il suono.</l>
+          <l>Se di ragion capace</l>
+          <l>È quel tuo cor, pensa che in Babilonia</l>
+          <l>Contro te, mia nemica e schiava mia</l>
+          <l>Scagliarsi il mio furor ancor potria.</l>
+          <l>Quivi invano il tuo Ciro</l>
+          <l>Tenta di penetrar: chiuso ogni passo</l>
+          <l>Le mura impenetrabili di Belo</l>
+          <l>Ne guardano l’accesso;</l>
+          <l>E s’egli osasse ancora</l>
+          <l>Tentar l’arduo recinto,</l>
+          <l>Dato sol ti saria vederlo estinto.</l>
+          <l>Cangia consiglio, Amira: il nuovo giorno</l>
+          <l>Mia sposa ti rivegga;</l>
+          <l>(a Zambri ed alle guardie)</l>
+          <l>E voi frattanto</l>
+          <l>Il tempio e il gran convito</l>
+          <l>Ite a dispor dell’imeneo sovrano.</l>
+          <l>(Parte).</l>
+          <l>AMIRA</l>
+          <l>No, non fia mai, te ne lusinghi invano.</l>
+          <l>Deh! vieni, amata Argene, a questo seno:</l>
+          <l>In te sola poss’io</l>
+          <l>Sperar qualche conforto al dolor mio.</l>
+        </sp>
+        <stage>BALDASSAREStanco di tue ripulse alfin son io.Fa’ che sul labbro audaceMai più non oda del nemico il suono.Se di ragion capaceÈ quel tuo cor, pensa che in BabiloniaContro te, mia nemica e schiava miaScagliarsi il mio furor ancor potria.Quivi invano il tuo CiroTenta di penetrar: chiuso ogni passoLe mura impenetrabili di BeloNe guardano l’accesso;E s’egli osasse ancoraTentar l’arduo recinto,Dato sol ti saria vederlo estinto.Cangia consiglio, Amira: il nuovo giornoMia sposa ti rivegga;(a Zambri ed alle guardie)E voi frattantoIl tempio e il gran convitoIte a dispor dell’imeneo sovrano.(Parte).AMIRANo, non fia mai, te ne lusinghi invano.Deh! vieni, amata Argene, a questo seno:In te sola poss’ioSperar qualche conforto al dolor mio.</stage>
+        <sp who="#argene">
+          <speaker>ARGENE:</speaker>
+          <l>Misera Principessa! io pur vorrei,</l>
+          <l>Né so trarti d’affanno:</l>
+          <l>Comune a entrambi è la crudel sventura;</l>
+          <l>Ed io fin da’ prim’anni</l>
+          <l>Al tuo destin unita,</l>
+          <l>Io, che passai la vita</l>
+          <l>A te sempre fedel, io tutta sento</l>
+          <l>La forza del tuo duol; ma la costanza</l>
+          <l>E la virtude che in tuo cuor risiede</l>
+          <l>Forse otterrà dal Ciel qualche mercede.</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>Sì, costante son io: di Ciro sposa,</l>
+          <l>Sposa a Ciro morrò. Frema il tiranno.</l>
+          <l>Non sa temer quest’alma;</l>
+          <l>Ed anche a morte in faccia,</l>
+          <l>In faccia al Re nemico</l>
+          <l>Fin ch’io vivo e respiro</l>
+          <l>Ripeterò che è questo cor di Ciro;</l>
+          <l>Ma il caro figlio, Argene,</l>
+          <l>Ricerca per pietà: teco l’adduci</l>
+          <l>Alle mie stanze, ove t’attendo in breve.</l>
+          <l>Il suo gentil sembiante,</l>
+          <l>Il piacevol suo dir, tu ben lo sai, Dan tregua</l>
+          <l>ai mali miei.</l>
+        </sp>
+        <sp who="#argene">
+          <speaker>ARGENE:</speaker>
+          <l>Tosto il vedrai.</l>
+          <l>(Parte Amira).</l>
+          <l>Oh quanto mai compiango</l>
+          <l>L’infelice suo stato! A che ne giova</l>
+          <l>Il nascer grandi, se d’ogni altri al paro</l>
+          <l>Il destino crudel di noi fa gioco?</l>
+          <l>In questo odiato loco</l>
+          <l>Trovassi almeno il conosciuto Arbace.</l>
+          <l>Ei nacque in Persia, e ‘l Thauristano un giorno</l>
+          <l>Fu patria a entrambi.</l>
+          <l>Chi sa?… forse potria</l>
+          <l>In sì dubbioso stato</l>
+          <l>Qualche aita recarci in tante pene.</l>
+          <l>Ma alcun s’appressa… è desso… Arbace!…</l>
+        </sp>
+        <stage>ARGENETosto il vedrai.(Parte Amira).Oh quanto mai compiangoL’infelice suo stato! A che ne giovaIl nascer grandi, se d’ogni altri al paroIl destino crudel di noi fa gioco?In questo odiato locoTrovassi almeno il conosciuto Arbace.Ei nacque in Persia, e ‘l Thauristano un giornoFu patria a entrambi.Chi sa?… forse potriaIn sì dubbioso statoQualche aita recarci in tante pene.Ma alcun s’appressa… è desso… Arbace!…</stage>
+        <sp who="#scena terza">
+          <speaker>SCENA TERZA:</speaker>
+        </sp>
+        <stage>Arbace e detta.ARBACEArgene!…Come tu quivi? In questa reggia forseCon la sposa di Ciro…</stage>
+        <sp who="#argene">
+          <speaker>ARGENE:</speaker>
+          <l>Appunto; oggi dell’armi</l>
+          <l>Il destino crudel entrambi trasse</l>
+          <l>Qui prigioniere.</l>
+        </sp>
+        <sp who="#arbace">
+          <speaker>ARBACE:</speaker>
+          <l>Oh quanto debbo a questa</l>
+          <l>Sorte per te funesta</l>
+          <l>S’oggi di rivederti il ben m’è dato!</l>
+          <l>Forse tra queste mura</l>
+          <l>A te giovar potrà l’opra d’Arbace,</l>
+          <l>Se men odioso adesso</l>
+          <l>Di quel che un dì ti fui</l>
+          <l>Non sdegna Argene confidarsi in lui.</l>
+        </sp>
+        <sp who="#argene">
+          <speaker>ARGENE:</speaker>
+          <l>Ebben: dunque ti mostra</l>
+          <l>Generoso con noi. Vuol Baldassare</l>
+          <l>Oggi la man d’Amira o la sua morte:</l>
+          <l>Fedele ella al consorte</l>
+          <l>Disprezza l’amor suo, la man ricusa;</l>
+          <l>In sì crudel periglio</l>
+          <l>Tu ne presta qual puoi scampo e consiglio.</l>
+        </sp>
+        <sp who="#arbace">
+          <speaker>ARBACE:</speaker>
+          <l>Basta così. Vanne ad Amira, a lei</l>
+          <l>Reca per or conforto e dolce speme:</l>
+          <l>Della porta maggior la guardia il Prence</l>
+          <l>A me commise… potrò forse… addio…</l>
+          <l>Periglioso è l’indugio.</l>
+          <l>Conoscerai tra poco</l>
+          <l>Quanto per te farò: vedrai che il core</l>
+          <l>Che io serbo in questo petto</l>
+          <l>Meritarsi potea più dolce affetto.</l>
+          <l>(Parte).</l>
+          <l>ARGENE</l>
+          <l>La sua pronta franchezza in me ridesta</l>
+          <l>Qualche lieta speranza…</l>
+          <l>Ma col figlio si vada</l>
+          <l>All’amica infelice. Un sì bel core</l>
+          <l>Accresce in me pietà del suo dolore.</l>
+          <l>(Parte).</l>
+          <l>Esterno delle mura di Babilonia che si vedono in qualche distanza. Da un lato</l>
+          <l>porta di Babilonia e ponte levatoio che mette alla scena. Colline che sono in vista</l>
+          <l>della città: il piano presenta un campo, di cui si vedono i posti avanzati.</l>
+          <l>SCENA QUARTA</l>
+        </sp>
+        <stage>ARBACEBasta così. Vanne ad Amira, a leiReca per or conforto e dolce speme:Della porta maggior la guardia il PrenceA me commise… potrò forse… addio…Periglioso è l’indugio.Conoscerai tra pocoQuanto per te farò: vedrai che il coreChe io serbo in questo pettoMeritarsi potea più dolce affetto.(Parte).ARGENELa sua pronta franchezza in me ridestaQualche lieta speranza…Ma col figlio si vadaAll’amica infelice. Un sì bel coreAccresce in me pietà del suo dolore.(Parte).Esterno delle mura di Babilonia che si vedono in qualche distanza. Da un latoporta di Babilonia e ponte levatoio che mette alla scena. Colline che sono in vistadella città: il piano presenta un campo, di cui si vedono i posti avanzati.SCENA QUARTA</stage>
+        <stage>Soldati di Ciro.COROVeh come pallido, D’orror frementeMesto e dolente S’avanza il Re!</stage>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>Ciro infelice! ove t’aggiri, e dove</l>
+          <l>Cerca in vano il tuo cor gli amati oggetti!…</l>
+          <l>Cruda sorte dell’armi!</l>
+          <l>Perché morte non darmi</l>
+          <l>Pria che togliermi il figlio e la consorte?…</l>
+          <l>Muto deserto è il campo… e l’eco stessa</l>
+          <l>Sembra commossa al mio dolore,… oh Dio!</l>
+          <l>Rispondere piangendo al pianto mio…</l>
+          <l>Ma voi, mura spietate,</l>
+          <l>Voi chiudeste di me la miglior parte!</l>
+          <l>Abbatterovvi, il giuro; e questo brando</l>
+          <l>Sprezzando ogni periglio</l>
+          <l>Salvar saprà tra poco e sposa e figlio.</l>
+          <l>Ahi! come il mio dolor,</l>
+          <l>Come calmar potrò?</l>
+          <l>Misero, che farò</l>
+          <l>Senza la sposa?…</l>
+          <l>Perché, destin crudel,</l>
+          <l>Tormi il figlio, perché,</l>
+          <l>Né dar piuttosto a me</l>
+          <l>Barbara morte?…</l>
+          <l>Alla vendetta, all’armi</l>
+          <l>Sdegno m’infiamma e gloria;</l>
+          <l>Predice a me vittoria</l>
+          <l>Lo stesso mio dolor.</l>
+          <l>Brama sangue il core, il brando</l>
+          <l>Cerca già gli odiati petti…</l>
+          <l>Ma pensando ai cari oggetti</l>
+          <l>Torna il core a vacillar.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Bando, o Ciro, ai mesti affetti,</l>
+          <l>Solo pensa a trionfar.</l>
+          <l>Allarmi, alla vendetta</l>
+          <l>Seguendo i passi tuoi,</l>
+          <l>O tutti morrem noi,</l>
+          <l>O vincerai, signor.</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>Non più miei fidi: il mio furor non soffre</l>
+          <l>Indugio alcun. S’apprestino le schiere,</l>
+          <l>E i duci in questo loco,</l>
+          <l>Pria che notte s’innoltri, abbiano il campo.</l>
+          <l>Il nuovo sol ci vegga</l>
+          <l>Tentar l’assalto alle nemiche mura.</l>
+          <l>Già coprir la pianura</l>
+          <l>Di Dario le falangi. Egli s’avanza</l>
+          <l>Pronto al nostro soccorso, e forse meco</l>
+          <l>Alla gloria dell’armi unir potrassi,</l>
+          <l>O seguirà di mie vittorie i passi…</l>
+          <l>(Cala il ponte levatoio e sorte Arbace dalla porta della città).</l>
+          <l>Ma dall’ostil recinto</l>
+          <l>Qua volger sembra un uom solingo il piede…</l>
+          <l>Perso rassembra al manto</l>
+          <l>Ond’ha la faccia involta…</l>
+          <l>Chi sei? Che chiedi tu?</l>
+        </sp>
+        <stage>CIRONon più miei fidi: il mio furor non soffreIndugio alcun. S’apprestino le schiere,E i duci in questo loco,Pria che notte s’innoltri, abbiano il campo.Il nuovo sol ci veggaTentar l’assalto alle nemiche mura.Già coprir la pianuraDi Dario le falangi. Egli s’avanzaPronto al nostro soccorso, e forse mecoAlla gloria dell’armi unir potrassi,O seguirà di mie vittorie i passi…(Cala il ponte levatoio e sorte Arbace dalla porta della città).Ma dall’ostil recintoQua volger sembra un uom solingo il piede…Perso rassembra al mantoOnd’ha la faccia involta…Chi sei? Che chiedi tu?</stage>
+        <sp who="#scena quinta">
+          <speaker>SCENA QUINTA:</speaker>
+        </sp>
+        <stage>Arbace, involto in manto alla persiana, e detto.ARBACECiro, m’ascolta:Io nacqui in Persia, e giovinetto ancoraVidi la reggia tua. L’ingrata ArgeneLà conobbi ed amai.Poi col padre n’andaiTra l’armi assire, e di quel Re possenteOr servo appresso il trono:Comando a mille fanti, e Arbace sono.So che ‘l destin nemico…E la tua sposa, e ‘l figlio, e de’ tuoi moltiPrigionieri condusse in Babilonia;Argene stessa io vidi, e quell’aspettoTornò l’antico affettoA ricercarmi il cor: se tu non sdegniDi cedere al consiglio e all’opra mia,T’additerò la viaSicura al tuo trionfo; e figlio e sposa…</stage>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>Non proseguire, o Duce: il mio valore</l>
+          <l>Abbatterà que’ muri, e in brevi istanti</l>
+          <l>Salir vedrai della città nemica</l>
+          <l>Sull’ardue torri le persiane insegne;</l>
+          <l>Ma se pietà verace</l>
+          <l>Ti muove il cor, o Arbace…</l>
+          <l>Della sposa e del figlio, ambo infelici,</l>
+          <l>Qual è il misero stato or tu mi dici.</l>
+        </sp>
+        <sp who="#arbace">
+          <speaker>ARBACE:</speaker>
+          <l>Vuol Baldassar che Amira</l>
+          <l>Te scordando, o signor, con nuovo imene</l>
+          <l>A lui dia man di sposa. Ella ricusa;</l>
+          <l>Ma il Re crudel morte minaccia, e forse</l>
+          <l>Affrettarla potria se tu con l’armi</l>
+          <l>Tentassi a danno suo novelle imprese.</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>Oh Cielo, ove s’intese</l>
+          <l>Più barbara perfidia?</l>
+        </sp>
+        <sp who="#arbace">
+          <speaker>ARBACE:</speaker>
+          <l>In me t’affida:</l>
+          <l>Vieni, o signor, in più remoto loco.</l>
+          <l>T’additerò come ottener potrai</l>
+          <l>Più sicuro l’intento.</l>
+          <l>Soffri un istante ancora,</l>
+          <l>Ché l’affrettar talora</l>
+          <l>Periglioso diviene; e la vendetta</l>
+          <l>Che il consiglio matura</l>
+          <l>Quanto più tarda cade è più sicura.</l>
+          <l>Avrai tu pur vendetta,</l>
+          <l>Ma cauto ad ogni evento</l>
+          <l>Pensa che un sol momento</l>
+          <l>Può tutto rovesciar.</l>
+          <l>Così leone immoto</l>
+          <l>Nel suo furor s’arresta,</l>
+          <l>Poi mostra più funesta</l>
+          <l>L’ira che tardi appar.</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>T’ascolterò: ma qual crudel contrasto</l>
+          <l>Di dubbiezza e timor l’alma avvelena!…</l>
+          <l>Sortirne omai desio! Vieni, mi siegui.</l>
+        </sp>
+        <sp who="#arbace">
+          <speaker>ARBACE:</speaker>
+          <l>Andiam, teco son io.</l>
+          <l>(Partono).</l>
+          <l>Reggia di Baldassare.</l>
+        </sp>
+        <stage>ARBACEAndiam, teco son io.(Partono).Reggia di Baldassare.</stage>
+        <sp who="#scena sesta">
+          <speaker>SCENA SESTA:</speaker>
+        </sp>
+        <stage>Baldassare con guardie.BALDASSAREImpossibil mi par che tal costanzaSuperar non si possa; in fin ciascunoQua piegar deve al mio voler! se ancoraCeder non vuole AmiraA chi il suo cor desira,A un Re che gli offre e libertade e trono,Pensar degg’io ch’altra ragion l’astringaA simile rifiuto;Ma se non cede alfineL’indegna a’ cenni mieiCom’io sappia punir vedrà costei.</stage>
+        <sp who="#scena settima">
+          <speaker>SCENA SETTIMA:</speaker>
+        </sp>
+        <stage>Zambri e detto.ZAMBRISignore, a te dal campoIl persiano monarca un messo inviaChe parlarti desia;Parvemi a detti suoi che tregua e paceOffrirti voglia: agli atti, al portamentoUom sembra d’alto affar.</stage>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>Forse di Ciro</l>
+          <l>La sposa e il figlio chiederà costui,</l>
+          <l>Li chieggia pure: a lui,</l>
+          <l>Purché lungi ritragga</l>
+          <l>L’armi da queste mura il Perso duce,</l>
+          <l>Il figlio renderò, ma resti Amira:</l>
+          <l>Ella è cara al mio core: e se ‘l Persiano</l>
+          <l>Pensa toglierla a me, lo spera invano.</l>
+          <l>Si vada alla gran sala: il messaggiero</l>
+          <l>Colà me guida a noi.</l>
+        </sp>
+        <sp who="#zambri">
+          <speaker>ZAMBRI:</speaker>
+          <l>Ubbidisco signor a’ cenni tuoi.</l>
+          <l>(Partono).</l>
+          <l>SCENA OTTAVA</l>
+        </sp>
+        <stage>ZAMBRIUbbidisco signor a’ cenni tuoi.(Partono).SCENA OTTAVA</stage>
+        <stage>Arbace solo.ARBACEOrdita è la gran trama; e Ciro istessoPotrà stringere al sen figlio e consorte.Entro di queste porteIo l’introdussi; e se il pensato ingannoProtegge il ciel, forse potrò fin pocoTrarlo d’affanno, e scioglier le cateneDe’ prigionieri e dell’amata Argene.Allor sperar mi lice,Che sol per me felice,Paghi farà i miei voti;E questo cor, che solo amor le chiede,Avrà dell’opra sua degna mercede.(Parte).Gran sala d’udienza con trono.SCENA NONA</stage>
+        <stage>Baldassare circondato da guardie e Grandi,poi Zambri, introducendo Ciro in abito d’ambasciatore con seguito.ZAMBRIEcco il persiano ambasciator.</stage>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>T’avanza.</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>Ciro salute a Baldasare invia,</l>
+          <l>E pace se gli aggrada.</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>Io bramo pace</l>
+          <l>Ma quali i patti son?</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>Da Babilonia</l>
+          <l>Lungi n’andran sue schiere:</l>
+          <l>Le genti prigioniere</l>
+          <l>A te rendrà la Persia, e l’armi sue</l>
+          <l>Sgombreran la Caldea:</l>
+          <l>Pace sarà tra il Perso e ‘l rege assiro.</l>
+          <l>Solo ti chiede Ciro</l>
+          <l>Il suo figlio e la sposa: egli di guerra</l>
+          <l>Il dritto orrendo a sostener non uso</l>
+          <l>T’offre, o Re, questi patti.</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>Io li ricuso.</l>
+          <l>S’inganna il tuo signor se pensa mai</l>
+          <l>Ch’io tema l’armi sue.</l>
+          <l>S’egli da queste mura</l>
+          <l>Lungi ritira il campo, e dal mio regno,</l>
+          <l>I prigionieri in pegno</l>
+          <l>Di pace ed amistade, e il figlio io rendo;</l>
+          <l>Ma a tal viltà non scendo</l>
+          <l>Di rilasciare Amira…</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>Ebben: paventa. Vedrai di sangue e morte</l>
+          <l>Scorrer queste contrade e i regni tuoi;</l>
+          <l>Atre stragi e ruine</l>
+          <l>Spargeranno dovunque…</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>Olà, ti frena,</l>
+          <l>Ambasciator; tu stanchi il soffrir mio.</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>Egli è Ciro che parla, e non son io.</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>Se ti cal del tuo Re, tenta piuttosto</l>
+          <l>Piegar il cuor d’Amira ai voler miei.</l>
+          <l>S’ella resiste ancora</l>
+          <l>Dovrà subire inevitabil morte.</l>
+          <l>Da sì funesta sorte</l>
+          <l>Tu ritrarla potresti: in questo giorno</l>
+          <l>Ella per tuo consiglio</l>
+          <l>A me porga la mano,</l>
+          <l>E tutto a te concedo e al tuo sovrano.</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>(L’inganno mi giovi.) Ebben, signore:</l>
+          <l>Tentar saprò quanto m’imponi.</l>
+          <l>(Almeno La rivedrò così.)</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>Zambri, qua venga</l>
+          <l>La Principessa tosto.</l>
+        </sp>
+        <sp who="#zambri">
+          <speaker>ZAMBRI:</speaker>
+          <l>Ella s’appressa.</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>(Che momento crudel!… eccola… è dessa.)</l>
+        </sp>
+        <sp who="#scena decima">
+          <speaker>SCENA DECIMA:</speaker>
+        </sp>
+        <stage>Amira e detti.AMIRACielo! che vedo mai!… sogno! qua Ciro…</stage>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>Qua Ciro ambasciator me stesso invia:</l>
+          <l>Di te saper desia,</l>
+          <l>Dell’amato Cambise;</l>
+          <l>E molte cose e molte a te, Regina,</l>
+          <l>Svelar degg’io per cenno suo, se pure</l>
+          <l>Nol divieta il monarca a noi presente.</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>(Io non so s’io m’inganno, o s’egli mente.)</l>
+          <l>Ebben, digli ch’io l’amo…</l>
+          <l>E che il figlio infelice…</l>
+          <l>Rammentandomi il dolce suo sembiante,</l>
+          <l>Tempra talor il duol di questo core;</l>
+          <l>Ma tu mi svela i sensi tuoi… che tardi?…</l>
+          <l>Deh! per pietà favella</l>
+          <l>Di lui… di te… dell’amor tuo… che dice!</l>
+          <l>Ah! no, taci… mi fuggi…</l>
+          <l>Il tuo aspetto… il tuo dir… timor m’infonde,</l>
+          <l>E quest’alma si perde e si confonde.</l>
+          <l>Vorrei veder lo sposo,</l>
+          <l>Stringerlo al sen vorrei,</l>
+          <l>Ma ancor de’ voti miei</l>
+          <l>Non sente il Ciel pietà.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ti calma, ti consola,</l>
+          <l>Il Ciel si placherà.</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>Ah! che spiegar non posso</l>
+          <l>Quello che in petto io sento,</l>
+          <l>E ‘l mio crudel tormento,</l>
+          <l>Più grande ognor si fa.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Deh! ti consola e spera,</l>
+          <l>Che il Ciel si placherà.</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>No, più non spero, oh Dio!</l>
+          <l>Trovar felicità.</l>
+          <l>Che crudo istante è questo!</l>
+          <l>Che palpito, che pena!</l>
+          <l>Tormento più funesto</l>
+          <l>Del mio no non si dà.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ti calma, ti consola,</l>
+          <l>Che il Ciel si placherà.</l>
+          <l>(Amira parte).</l>
+          <l>SCENA UNDICESIMA</l>
+        </sp>
+        <stage>COROTi calma, ti consola,Che il Ciel si placherà.(Amira parte).SCENA UNDICESIMA</stage>
+        <stage>Baldassare, Ciro e Zambri.BALDASSARE(a Zambri)L’aspetto mio… la mia presenza vedoChe l’atterrisce… Ambasciator, ti lascio.Ad Amira potraiPiù libero parlar; ma ti rammentoQuant’ora imposi a te: di qua non lungiInosservato intanto i moti, i dettiConoscere potrò.</stage>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>Ti prego, o Sire,</l>
+          <l>Fa che ritorni Amira,</l>
+          <l>E che ‘l suo figlio ancora</l>
+          <l>Qui venga per brev’ora:</l>
+          <l>Tenerezza di madre a’ detti miei</l>
+          <l>Accrescerà vigore. (A questo seno</l>
+          <l>Io stringerò così Cambise almeno.)</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>E ben, pago sarai.</l>
+          <l>(Ad una guardia che parte, poi torna</l>
+          <l>col figlio)</l>
+          <l>Amira e il figlio.</l>
+          <l>Tosto qua vengan.</l>
+          <l>(A Zambri)</l>
+          <l>Sieguimi, in disparte</l>
+          <l>Tutto veder potrem.</l>
+        </sp>
+        <stage>BALDASSAREE ben, pago sarai.(Ad una guardia che parte, poi tornacol figlio)Amira e il figlio.Tosto qua vengan.(A Zambri)Sieguimi, in disparteTutto veder potrem.</stage>
+        <sp who="#zambri">
+          <speaker>ZAMBRI:</speaker>
+          <l>(a Baldassare)</l>
+          <l>Ti sieguo.</l>
+        </sp>
+        <stage>ZAMBRI(a Baldassare)Ti sieguo.</stage>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>All’arte.</l>
+          <l>(Baldassare, Zambri e guardie si ritirano,</l>
+          <l>lasciandosi tratto tratto vedere tra le scene).</l>
+          <l>SCENA DODICESIMA</l>
+        </sp>
+        <stage>CIROAll’arte.(Baldassare, Zambri e guardie si ritirano,lasciandosi tratto tratto vedere tra le scene).SCENA DODICESIMA</stage>
+        <stage>Ciro, Amira, e seco una guardia che conduce Cambise e poi parte.AMIRA(correndo al figlio che gli vienrilasciato dalla guardia)Oh caro figlio!… Oh di quest’alma primoE più tenero affetto!Deh! vieni a questo petto:Tu sol l’alma sollevi in tanti affanni.</stage>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>Non più… t’allegra Amira. In questo giorno</l>
+          <l>Sposa di Baldassar ti vuole il Cielo.</l>
+          <l>Dunque tu cedi…</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>Io raccapriccio!… Io gelo!…</l>
+          <l>Ma dove son io mai?… Tu pur non sei…</l>
+          <l>Che più di me dovresti</l>
+          <l>Odiar l’empio tiranno? Ah! la mia mente</l>
+          <l>Più non si regge, in tanti dubbi involta.</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>(Né posso dire a lei che il Re ci ascolta?)</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>E fia ver, che tu possa</l>
+          <l>In questo luogo ancora</l>
+          <l>Favellarmi così?…</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>(prendendo tra le braccia il figlio e</l>
+          <l>carezzandolo con tenerezza)</l>
+          <l>Questo ch’io stringo</l>
+          <l>Tenero pargoletto al seno mio,</l>
+          <l>Questo che tragge il pianto dal mio ciglio</l>
+          <l>Egli è di Ciro pur… egli è tuo figlio.</l>
+          <l>Tu l’ami, e poi non pensi</l>
+          <l>Ch’ei perirà… se tu resisti…</l>
+        </sp>
+        <stage>CIRO(prendendo tra le braccia il figlio ecarezzandolo con tenerezza)Questo ch’io stringoTenero pargoletto al seno mio,Questo che tragge il pianto dal mio ciglioEgli è di Ciro pur… egli è tuo figlio.Tu l’ami, e poi non pensiCh’ei perirà… se tu resisti…</stage>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>Oh Dio!…</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>E perirai tu stessa. Il Re decise</l>
+          <l>Di lui, di te la morte… Or vedi come</l>
+          <l>La tua crudel costanza</l>
+          <l>Saria cagion di pene e di tormenti</l>
+          <l>A ognun che t’ama, e quanto</l>
+          <l>Si struggerebbe in pianto</l>
+          <l>Ciro… il tuo sposo istesso,</l>
+          <l>Che perderia la sposa al figlio appresso.</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>Ah taci ormai, crudel!… par che tu goda</l>
+          <l>Lacerandomi il cor… in questa guisa</l>
+          <l>M’insulti e mi deridi!…</l>
+          <l>Deh! piuttosto m’uccidi!</l>
+          <l>Se cambiasti per me l’antico affetto;</l>
+          <l>Ma l’aborrito nodo</l>
+          <l>D’un tiranno crudele</l>
+          <l>Non vantarmi così… cessa una volta…</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>(Oh Dio! non sa che Baldassar ascolta.)</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>No: risoluta io son; e tu spergiuro</l>
+          <l>Di vincer tenti in van la mia costanza.</l>
+          <l>Se tu più quel non sei,</l>
+          <l>Che degli affetti miei</l>
+          <l>Grata avresti ogni cura, ogni pensiero,</l>
+          <l>Io t’amerò, spietato, anche infedele;</l>
+          <l>E a tuo rossore eterno,</l>
+          <l>Caro sempre al mio core,</l>
+          <l>Per me tra mille pene e mille guai</l>
+          <l>Tu sposo mio, tu Ciro ognor sarai.</l>
+        </sp>
+        <sp who="#scena tredicesima">
+          <speaker>SCENA TREDICESIMA:</speaker>
+        </sp>
+        <stage>Baldassare, Zambri, guardie e detti.BALDASSAREPur ti sorpresi menzognero, audace.Sotto mentite spoglie in te ravvisoDe’ Persi il Re nemico…Lo spavento d’Amira,Il tuo parlar, il tuo rossor t’accusa:Fremer d’ira mi sento!Ma non andrà impunito il tradimento.Guardie. Olà.</stage>
+        <sp who="#zambri">
+          <speaker>ZAMBRI:</speaker>
+          <l>S’arresti.</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>(a Ciro che mostra volersi difendere)</l>
+          <l>Quale ardir!</l>
+        </sp>
+        <stage>BALDASSARE(a Ciro che mostra volersi difendere)Quale ardir!</stage>
+        <sp who="#zambri">
+          <speaker>ZAMBRI:</speaker>
+          <l>A noi t’arrendi.</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>(mettendo mano alla spada contro Ciro)</l>
+          <l>Muori alfin: tu Ciro sei.</l>
+        </sp>
+        <stage>BALDASSARE(mettendo mano alla spada contro Ciro)Muori alfin: tu Ciro sei.</stage>
+        <sp who="#zambri">
+          <speaker>ZAMBRI:</speaker>
+          <l>(trattenendo Baldassare)</l>
+          <l>Deh, signor, l’ire sospendi!</l>
+        </sp>
+        <stage>ZAMBRI(trattenendo Baldassare)Deh, signor, l’ire sospendi!</stage>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>Qua punir degg’io l’indegno.</l>
+        </sp>
+        <sp who="#zambri">
+          <speaker>ZAMBRI:</speaker>
+          <l>Più non frena il Re lo sdegno.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Che fatal orrendo giorno!</l>
+          <l>Le sue furie a noi d’intorno</l>
+          <l>L’atro Averno suscitò.</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>Il furor del Re sdegnato</l>
+          <l>Mi ricorda il mio periglio:</l>
+          <l>Per la sposa e per il figlio</l>
+          <l>Quanto, oh Dio, temer dovrò!</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>(ad Amira)</l>
+          <l>Per te ancor pietade io sento:</l>
+          <l>Di’ che m’ami, e questo accento</l>
+          <l>Sol può Ciro tuo salvar.</l>
+        </sp>
+        <stage>BALDASSARE(ad Amira)Per te ancor pietade io sento:Di’ che m’ami, e questo accentoSol può Ciro tuo salvar.</stage>
+        <sp who="#zambri">
+          <speaker>ZAMBRI:</speaker>
+          <l>Rendi alfin il Re contento:</l>
+          <l>Quest’orribile momento</l>
+          <l>Puoi tu sola ancor cangiar.</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>Qual sorpresa!… oimè, qual duolo!</l>
+          <l>Desolata… disperata…</l>
+          <l>Più non reggo al mio penar.</l>
+        </sp>
+        <sp who="#ciro">
+          <speaker>CIRO:</speaker>
+          <l>Ah mia sposa!…</l>
+        </sp>
+        <sp who="#zambri">
+          <speaker>ZAMBRI:</speaker>
+          <l>Cedi Amira…</l>
+        </sp>
+        <sp who="#amira">
+          <speaker>AMIRA:</speaker>
+          <l>Ho deciso…</l>
+        </sp>
+        <sp who="#baldassare">
+          <speaker>BALDASSARE:</speaker>
+          <l>Ai ceppi indegno.</l>
+          <l>(Alle guardie che circondano Ciro incatenandolo).</l>
+          <l>TUTTI</l>
+          <l>Già dell’alme il rio contrasto</l>
+          <l>Sdegno, tema, ardir infonde:</l>
+          <l>Vario affetto si diffonde,</l>
+          <l>E non ha più pace il cor.</l>
+        </sp>
+        <stage>BALDASSAREAi ceppi indegno.(Alle guardie che circondano Ciro incatenandolo).TUTTIGià dell’alme il rio contrastoSdegno, tema, ardir infonde:Vario affetto si diffonde,E non ha più pace il cor.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Tu puoi solo, o Ciel clemente,</l>
+          <l>Render pace in tanto orror.</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>ATTO SECONDO</head>Reggia di Baldassare.SCENA PRIMA<div type="scene">
+          <head>ATTO SECONDO</head>Reggia di Baldassare.SCENA PRIMA<sp who="#atto secondo">
+            <speaker>ATTO SECONDO:</speaker>
+            <l>Reggia di Baldassare.</l>
+            <l>SCENA PRIMA</l>
+          </sp>
+          <stage>ATTO SECONDOReggia di Baldassare.SCENA PRIMA</stage>
+          <stage>Arbace e cori.COROSì bell’alma soccorreteVoi che avete il cor pietoso:Vegga Amira il caro sposo,E sollevi il suo dolor.</stage>
+          <sp who="#argene">
+            <speaker>ARGENE:</speaker>
+            <l>Deh vieni per pietà! Rattempra, Arbace,</l>
+            <l>Dell’infelice Principessa il duolo.</l>
+            <l>Ciro di ferri stretto</l>
+            <l>Geme in carcer oscuro; Amira il chiede</l>
+            <l>Né può vederlo; sol piange… sospira</l>
+            <l>La misera consorte,</l>
+            <l>E chiede esser compagna alla sua sorte.</l>
+          </sp>
+          <sp who="#arbace">
+            <speaker>ARBACE:</speaker>
+            <l>Perigliosa è la via: ma, se il consente,</l>
+            <l>Di sotterraneo calle</l>
+            <l>A me noto è il sentier che là conduce</l>
+            <l>Dove Ciro è in catene;</l>
+            <l>Se può recargli speme</l>
+            <l>Lo sposo riveder, farò che a lei</l>
+            <l>Servan di fida scorta i passi miei.</l>
+            <l>(Partono).</l>
+            <l>Prigione sotterranea.</l>
+            <l>SCENA SECONDA</l>
+          </sp>
+          <stage>ARBACEPerigliosa è la via: ma, se il consente,Di sotterraneo calleA me noto è il sentier che là conduceDove Ciro è in catene;Se può recargli spemeLo sposo riveder, farò che a leiServan di fida scorta i passi miei.(Partono).Prigione sotterranea.SCENA SECONDA</stage>
+          <stage>Ciro in catene appoggiato ad un sasso, ed immerso nel più cupo dolore.CIRODunque fia ver che il vincitor di Creso,De’ Lidii il domator di ferri cintoPenar debba così?… Misero!… ahi quantoIl destino crudeleTi persegue e t’opprime!…E pur quello son io,Cui d’Israello il DioDee confidar la sua vendetta!… Il giuro,Nume, che pur ti sento entro il mio cuore,Vendicato sarai… Nel giorno istessoCh’io vincerò per te, de’ fidi tuoiSciolti saranno i ceppi e le catene,Libero il culto suo!… Ma dove sono!…A chi parlo infelice?… e che ragiono?…La consorte adorataPotessi un solo istanteAlmeno riveder… No, tal contentoIo più sperar non oso.</stage>
+          <sp who="#scena terza">
+            <speaker>SCENA TERZA:</speaker>
+          </sp>
+          <stage>Arbace che conduce Amira, e detto.ARBACEIo la guido al tuo seno.</stage>
+          <sp who="#ciro">
+            <speaker>CIRO:</speaker>
+            <l>Oh sposa!</l>
+          </sp>
+          <sp who="#amira">
+            <speaker>AMIRA:</speaker>
+            <l>Oh sposo!</l>
+            <l>(Abbracciandosi con iscambievole tenerezza).</l>
+            <l>CIRO</l>
+            <l>Nello stringerti al mio petto,</l>
+            <l>Cara sposa, amato bene,</l>
+            <l>Son men crude le mie pene,</l>
+            <l>Trova pace il cor in te.</l>
+          </sp>
+          <stage>AMIRAOh sposo!(Abbracciandosi con iscambievole tenerezza).CIRONello stringerti al mio petto,Cara sposa, amato bene,Son men crude le mie pene,Trova pace il cor in te.</stage>
+          <sp who="#amira">
+            <speaker>AMIRA:</speaker>
+            <l>Quanta gioia in te ritrovo</l>
+            <l>Non può dirlo il core oppresso;</l>
+            <l>Questi sguardi e questo amplesso</l>
+            <l>Te lo dicano per me…</l>
+          </sp>
+          <sp who="#amira">
+            <speaker>AMIRA:</speaker>
+            <l>Ma quai voci?…</l>
+          </sp>
+          <sp who="#ciro">
+            <speaker>CIRO:</speaker>
+            <l>Qual splendore?…</l>
+            <l>(Guardano entro la scena, e vedono lo</l>
+            <l>splendor delle faci).</l>
+            <l>AMIRA Che fia mai?…</l>
+          </sp>
+          <stage>CIROQual splendore?…(Guardano entro la scena, e vedono losplendor delle faci).AMIRA Che fia mai?…</stage>
+          <sp who="#ciro">
+            <speaker>CIRO:</speaker>
+            <l>Qualcun s’avanza.</l>
+          </sp>
+          <sp who="#scena quarta">
+            <speaker>SCENA QUARTA:</speaker>
+          </sp>
+          <stage>Baldassare seguito da soldati, parte de’ qualicon fiaccole, e detti.BALDASSAREQuivi uniti? ah qual dispetto!…Schernire i voler mieiDunque così potete?Perfidi, alfin dovreteDell’ira mia tremar.</stage>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>Empi, tremate.</l>
+            <l>(Tutti rimangono estatici nella sorpresa).</l>
+            <l>AMIRA e CIRO</l>
+            <l>Fiero nell’anima</l>
+            <l>Terror si desta,</l>
+            <l>Gli accenti arresta,</l>
+            <l>Né so perché.</l>
+          </sp>
+          <stage>BALDASSAREEmpi, tremate.(Tutti rimangono estatici nella sorpresa).AMIRA e CIROFiero nell’animaTerror si desta,Gli accenti arresta,Né so perché.</stage>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>Sdegno nell’anima</l>
+            <l>Fiero si desta:</l>
+            <l>L’amor m’arresta,</l>
+            <l>Né so perché.</l>
+            <l>(Volto ad Amira e con espressione)</l>
+            <l>Né dovrà piegar quel cuore</l>
+            <l>Di quest’alma al bel desio!</l>
+          </sp>
+          <stage>BALDASSARESdegno nell’animaFiero si desta:L’amor m’arresta,Né so perché.(Volto ad Amira e con espressione)Né dovrà piegar quel cuoreDi quest’alma al bel desio!</stage>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>Verserò quel sangue, indegni!</l>
+          </sp>
+          <sp who="#ciro">
+            <speaker>CIRO:</speaker>
+            <l>Io non temo.</l>
+          </sp>
+          <sp who="#amira">
+            <speaker>AMIRA:</speaker>
+            <l>Io non pavento.</l>
+          </sp>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>(ad Amira)</l>
+            <l>Dunque invan?…</l>
+          </sp>
+          <stage>BALDASSARE(ad Amira)Dunque invan?…</stage>
+          <sp who="#amira">
+            <speaker>AMIRA:</speaker>
+            <l>Piuttosto morte.</l>
+          </sp>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>(a Ciro) E vorrai?…</l>
+          </sp>
+          <stage>BALDASSARE(a Ciro) E vorrai?…</stage>
+          <sp who="#ciro">
+            <speaker>CIRO:</speaker>
+            <l>Perir con lei.</l>
+          </sp>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>Ah si tolga a me costei,</l>
+            <l>Più non reggo al mio furor!</l>
+          </sp>
+          <stage>AMIRA e CIROAh che il togliermi da leiÈ il maggior d’ogni dolor!(Al comando di Baldassare alcuni soldatis’avanzano circondando Ciro ed Amira, e liconducono entro la scena da parti opposte;e Baldassare seguito dalle sue guardie sorteper altra parte).Reggia come nell’atto primo.SCENA QUINTA</stage>
+          <stage>Zambri ed Argene.ZAMBRIUdisti Argene? è pronto il gran convito,E Baldassare imponeChe Amira, che tu stessaBadiate alle sue mense.</stage>
+          <sp who="#argene">
+            <speaker>ARGENE:</speaker>
+            <l>E qual piacere</l>
+            <l>Nel tuo monarca è mai</l>
+            <l>D’opprimerci così? Mentre d’Amira</l>
+            <l>Geme in carcer lo sposo e in ferri stretto,</l>
+            <l>Ci vuol del suo diletto, Delle sue gioie a parte!</l>
+          </sp>
+          <sp who="#zambri">
+            <speaker>ZAMBRI:</speaker>
+            <l>Chi sa? forse potria</l>
+            <l>Fra il piacer delle feste e l’allegria</l>
+            <l>La tua Regina con accorti modi</l>
+            <l>Per il figlio, per sé, per il consorte</l>
+            <l>Trovar pietà nel Re; forse… ma vanne:</l>
+            <l>Nunzia del regal cenno a lei ti rendi,</l>
+            <l>Teco l’adduci; addio.</l>
+          </sp>
+          <sp who="#argene">
+            <speaker>ARGENE:</speaker>
+            <l>Colà m’attendi.</l>
+            <l>(Partono).</l>
+            <l>Notte.</l>
+            <l>Gran sala illuminata adorna di sontuosi</l>
+            <l>drappi e di vasellami ricchissimi per servizio</l>
+            <l>della mensa imbandita, con coppe, fiori e</l>
+            <l>vasi sul lato sinistro della scena: le guardie</l>
+            <l>ed i cori musicali vi stanno intorno.</l>
+            <l>SCENA SESTA</l>
+          </sp>
+          <stage>ARGENEColà m’attendi.(Partono).Notte.Gran sala illuminata adorna di sontuosidrappi e di vasellami ricchissimi per serviziodella mensa imbandita, con coppe, fiori evasi sul lato sinistro della scena: le guardieed i cori musicali vi stanno intorno.SCENA SESTA</stage>
+          <stage>Baldassare, Zambri, Amira, Argene, Arbacecon altri principi, e donne babilonesi.COROIntorno fuminoGli arabi odori,Le tazze versinoGrati liquori;E in tuon festevoleMusici coriContento spirinoLetizia, amor.</stage>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>Meco s’allegri ognuno: è questi il giorno,</l>
+            <l>In cui di Belo il nume</l>
+            <l>S’onora fra le tazze e fra i conviti.</l>
+            <l>Bando ai tristi pensieri le meste cure</l>
+            <l>Vadan lungi dal soglio;</l>
+            <l>Qui sol amor, beltà e contento io voglio.</l>
+            <l>(Li convitati siedono intorno al Re).</l>
+            <l>CORO</l>
+            <l>In tuon festevole</l>
+            <l>Musici cori</l>
+            <l>Contento spirino</l>
+            <l>Letizia, amor.</l>
+          </sp>
+          <stage>BALDASSAREMeco s’allegri ognuno: è questi il giorno,In cui di Belo il numeS’onora fra le tazze e fra i conviti.Bando ai tristi pensieri le meste cureVadan lungi dal soglio;Qui sol amor, beltà e contento io voglio.(Li convitati siedono intorno al Re).COROIn tuon festevoleMusici coriContento spirinoLetizia, amor.</stage>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>Son questi, o Zambri, i vasi</l>
+            <l>Che trasser gli avi miei dal tempio odiato</l>
+            <l>Del Nume degli Ebrei?</l>
+          </sp>
+          <sp who="#zambri">
+            <speaker>ZAMBRI:</speaker>
+            <l>Come imponeste, o Sire,</l>
+            <l>Qui recar li feci io…</l>
+          </sp>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>Ricolmi tosto</l>
+            <l>Di fumoso liquor ne sugga il labbro</l>
+            <l>Grata bevanda, ed alle nostre menti</l>
+            <l>Gerosolima torni, e le sue genti</l>
+            <l>Da noi sconfitte e vinte,</l>
+            <l>E lo scorno di Dio</l>
+            <l>Che mal da lor difeso</l>
+            <l>Perdette un giorno in quel tremendo scempio</l>
+            <l>Il trono, l’are, i sacerdoti, il tempio.</l>
+          </sp>
+          <stage>(Tra lo scroscio del tuono e dei lampi apparisceuna mano, che imprime sul muro a caratteri di fuocoMane, Thegel, Phares; ed alla vista di tale prodigios’alzano i commensali dalla tavola, e tutti rimangononell’atteggiamento della più trista costernazione).BALDASSAREQual tetro Orror m’assale! E chi può maiSvelar a me del Ciel le cifre ignote?…Vengan i Magi tosto, e ognun che secoDelle divine cose i sensi intenda…(Una guardia parte al comando di Baldassare).Al terribile aspettoDi quella vision nel petto io sentoAcerba smania, ignoto turbamento…Sogna larve la mente?…Oppure videro il vero questi occhi miei?…Dove son io!… Ma voi, che a me d’intornoConfusi e taciturni ormai restate,Perché mesti così… perché tremate!…</stage>
+          <sp who="#scena settima">
+            <speaker>SCENA SETTIMA:</speaker>
+          </sp>
+          <stage>Magi, preceduti dal Profeta Daniele, e detti.BALDASSARE(a Daniele, che si avanza maestosamentein faccia ad esso)E tu chi sei, che a me terribil tantoTi presenti al mio sguardo?… a che ne vieni?</stage>
+          <sp who="#daniele">
+            <speaker>DANIELE:</speaker>
+            <l>Daniello io son, cui d’Israello al Dio</l>
+            <l>Svelar piacque talor le arcane cose:</l>
+            <l>Di qui venir m’impose</l>
+            <l>Alcun de’ tuoi, né invano,</l>
+            <l>Ché ben scioglier poss’io</l>
+            <l>Quel che t’agita il cor dubbio tremendo,</l>
+            <l>Mentre il voler del Ciel spiegarti intendo.</l>
+            <l>Ingrati al Dio d’Abramo</l>
+            <l>Tu fosti e gli avi tuoi;</l>
+            <l>Per lor dispersi, oppressi Furono i fidi suoi;</l>
+            <l>Distrutto il tempio e profanati i vasi,</l>
+            <l>Che tua preda rimasi</l>
+            <l>Serviron a’ tuoi vizi e all’empie mense</l>
+            <l>Or stanco Iddio di tollerarti ormai,</l>
+            <l>T’annunzia in quello scritto</l>
+            <l>La pena meritata al tuo delitto.</l>
+            <l>Giunto è il fine di tue colpe: andrà diviso</l>
+            <l>Tra Medi e Persi dell’Assiria il trono;</l>
+            <l>Di Babilonia infida</l>
+            <l>Spariranno le mura e la memoria;</l>
+            <l>I nemici vittoria</l>
+            <l>Avran sopra di te: tu stesso e i tuoi</l>
+            <l>Spersi qual polve al vento.</l>
+            <l>Il nuovo sol a nascer non vedrai,</l>
+            <l>Fian l’armi tue sconfitte, e tu morrai.</l>
+          </sp>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>Misero me, che intesi!… E tanto irato</l>
+            <l>Meco fia dunque il Ciel, che orrido lutto</l>
+            <l>Sparger fra noi minaccia?…</l>
+            <l>Qual fredda man m’agghiaccia,</l>
+            <l>E mi restringe l’alma!… il piè vacilla…</l>
+            <l>In me ricerco invan l’ardire usato…</l>
+            <l>rimorso del cor!… oh mano!… oh fato!</l>
+            <l>Qual crudel, qual trista sorte</l>
+            <l>M’empie il sen d’atro cordoglio!</l>
+            <l>Penso ai figli, al regno al soglio,</l>
+            <l>E non vedo che terror!</l>
+            <l>Alla vista orrenda e fiera</l>
+            <l>Tremo, gelo e mi spavento:</l>
+            <l>Cede l’alma al rio tormento,</l>
+            <l>E si perde in tanto orror!</l>
+          </sp>
+          <sp who="#coro di magi">
+            <speaker>CORO DI MAGI:</speaker>
+            <l>Non dar fede al labbro insano,</l>
+            <l>Che t’annunzia tristi eventi:</l>
+            <l>Sol vittorie e sol contenti</l>
+            <l>Presagì la mano a te.</l>
+            <l>Voglion sangue i Numi, è vero,</l>
+            <l>Ma per toglierti al periglio:</l>
+            <l>Cadan Ciro e sposa e figlio,</l>
+            <l>Ché in tua mano il Ciel li dié.</l>
+          </sp>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>E fia pur ver, che sia</l>
+            <l>Dello scritto funesto</l>
+            <l>Questo, o saggi, il voler?</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>É questo, è questo.</l>
+          </sp>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>Abbian morte e Ciro e ‘l figlio,</l>
+            <l>S’eseguisca il voler mio…</l>
+            <l>Sol d’Amira il sangue, oh Dio!…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Deve Amira ancor perir.</l>
+          </sp>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>Ad un cenno sì crudele</l>
+            <l>Non resiste l’alma amante,</l>
+            <l>Non sa il labbro palpitante</l>
+            <l>La sua morte proferir.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Deve Amira ancor perir.</l>
+          </sp>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>Dunque vada anch’essa a morte:</l>
+            <l>Qual dolore!… ahi quanto affanno!…</l>
+            <l>Sarai pago, o Ciel tiranno,</l>
+            <l>Del mio barbaro penar!</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Non temer, ché il tristo affanno</l>
+            <l>Saprà il Cielo terminar.</l>
+            <l>(Tutti partono fuor che Daniele, e lo</l>
+            <l>scritto sparisce dal muro).</l>
+            <l>SCENA OTTAVA</l>
+          </sp>
+          <stage>CORONon temer, ché il tristo affannoSaprà il Cielo terminar.(Tutti partono fuor che Daniele, e loscritto sparisce dal muro).SCENA OTTAVA</stage>
+          <stage>Daniele solo.DANIELEVa pur crudele! è l’ora ormai vicinaDella vendetta orrenda…A te pende sul capoLa spada di quel Dio, che in van non coglie.Sazia l’empie tue voglie,E bramin teco pur e sangue e morteD’un profano saper ministri indegni:L’avran fra poco, e ‘l verseran piangendoCon te suo Re malvagio,E coi sudditi tuoi…A questo suolo intornoVa già fischiando l’orrida procella:Colpirà il fulmin ratto; e quell’istessoCh’oggi tu credi al suo morir vicino,Fatto ministro dell’eterno sdegno,Domani vincitor avrà il tuo regno.De’ nemici le spade, le faciStruggeranno le torri, le mura,E de’ rettili e serpi l’impuraCruda stirpe sol qui regnerà.D’atra polve e di cenere aspersoRimarrà questo suolo infecondo,Né avrà alcun più memoria nel mondoDove fosse l’ingrata città.(Parte).SCENA NONA</stage>
+          <stage>Arbace con guardie, Amira ed Argene.ARBACEPerdona o Principessa, odioso incarcoPure m’è forza eseguir: guidarti deggioAl carcere di Ciro… il cor ne geme,Ma non dispera ancor… il Ciel clementeChe vede i mali tuoiVeglia alla tua salvezza,E quanto a te il periglio è più vicino,Tanto cambiar può in lieto il tuo destino.</stage>
+          <sp who="#amira">
+            <speaker>AMIRA:</speaker>
+            <l>Più lieta son se unita a Ciro anch’io</l>
+            <l>Seco potrò spirar… Timor non sente</l>
+            <l>Nelle sue crude pene</l>
+            <l>Quest’alma avvezza alle sventure.</l>
+          </sp>
+          <sp who="#argene">
+            <speaker>ARGENE:</speaker>
+            <l>Oh quanta</l>
+            <l>Pietà mi desti in sen! Teco voglio,</l>
+            <l>Seguace ognor fedele,</l>
+            <l>O vivere, o morir…</l>
+          </sp>
+          <sp who="#amira">
+            <speaker>AMIRA:</speaker>
+            <l>Ah! vivi, amica,</l>
+            <l>Più felice di me; così potessi</l>
+            <l>Salvar lo sposo e ‘l figlio… è questi il duolo</l>
+            <l>Che mi lacera il cor, che mi tormenta.</l>
+            <l>Deh! tu se m’ami ancora</l>
+            <l>Qui ti rimani, Argene: ogni tua cura</l>
+            <l>Poni a salvar quegli adorati oggetti,</l>
+            <l>In cui sol vivo… Impetra a lor pietade:</l>
+            <l>A ognun ne chiedi; e piangi, e prega, e tenta</l>
+            <l>D’impietosire il Re. Nei Numi io spero,</l>
+            <l>Che s’io potessi udir ch’essi vivranno,</l>
+            <l>Io morrei senza pena e senza affanno.</l>
+            <l>Deh! per me non v’affliggete,</l>
+            <l>Ma per lor, che piango anch’io;</l>
+            <l>È di madre il pianto mio,</l>
+            <l>È di sposa il mio dolor!</l>
+            <l>(volta al Cielo)</l>
+            <l>Tu Nume de’ numi,</l>
+            <l>Signor de’ viventi,</l>
+            <l>Che vedi, che senti</l>
+            <l>De’ miseri il duolo</l>
+            <l>L’affanno crudel,</l>
+            <l>Ascolta i miei voti,</l>
+            <l>Mi salva pietoso</l>
+            <l>Col figlio lo sposo,</l>
+            <l>E al duol di quest’alma</l>
+            <l>Soccorri dal Ciel.</l>
+            <l>(Partono).</l>
+            <l>Reggia.</l>
+            <l>SCENA DECIMA</l>
+          </sp>
+          <stage>AMIRAAh! vivi, amica,Più felice di me; così potessiSalvar lo sposo e ‘l figlio… è questi il duoloChe mi lacera il cor, che mi tormenta.Deh! tu se m’ami ancoraQui ti rimani, Argene: ogni tua curaPoni a salvar quegli adorati oggetti,In cui sol vivo… Impetra a lor pietade:A ognun ne chiedi; e piangi, e prega, e tentaD’impietosire il Re. Nei Numi io spero,Che s’io potessi udir ch’essi vivranno,Io morrei senza pena e senza affanno.Deh! per me non v’affliggete,Ma per lor, che piango anch’io;È di madre il pianto mio,È di sposa il mio dolor!(volta al Cielo)Tu Nume de’ numi,Signor de’ viventi,Che vedi, che sentiDe’ miseri il duoloL’affanno crudel,Ascolta i miei voti,Mi salva pietosoCol figlio lo sposo,E al duol di quest’almaSoccorri dal Ciel.(Partono).Reggia.SCENA DECIMA</stage>
+          <stage>Zambri.ZAMBRITroppo l’ira de’ numi è manifesta.In quelle orrende noteChi mai legger potrà felici eventi?…Dal lungo assedio stanche son le genti,Né cessan l’armi PerseD’assalirci ogni dì… Fremon di sdegnoPei regi prigionieriI nemici guerrieri…Crescon a noi d’intorno armi ed armati,E sangue oggi si versa in queste mura.Terribile sciaguraMinaccia un uom divino: in ogni aspettoSta dipinto il terror, né trovo un solo,Cui non regni nel cuor spavento e duolo.</stage>
+          <sp who="#scena undicesima">
+            <speaker>SCENA UNDICESIMA:</speaker>
+          </sp>
+          <stage>Argene e detto.ARGENEDeh! tu m’aita, o Zambri; al Re mi guida:Gettarmi ai piedi suoi, pregarlo io voglioPer Ciro, per la tenera consortePietà impetrar da lui…</stage>
+          <sp who="#zambri">
+            <speaker>ZAMBRI:</speaker>
+            <l>Vano desio</l>
+            <l>Tu nutri, o donna… In sé raccolto giace</l>
+            <l>Il mesto Re, né parla altrui, né ascolta.</l>
+            <l>Tristo, pensoso e nel suo duolo oppresso,</l>
+            <l>Vieta a ognun Baldassare, e a me l’accesso.</l>
+          </sp>
+          <sp who="#argene">
+            <speaker>ARGENE:</speaker>
+            <l>Quanto infelici siam!… Ma tu non puoi…</l>
+          </sp>
+          <sp who="#zambri">
+            <speaker>ZAMBRI:</speaker>
+            <l>Nulla poss’io…</l>
+          </sp>
+          <sp who="#argene">
+            <speaker>ARGENE:</speaker>
+            <l>Barbaro!… E dunque ognuno</l>
+            <l>Fra queste indegne soglie</l>
+            <l>Ha più crudel di tigre il cor nel petto?…</l>
+            <l>No, che pietoso affetto</l>
+            <l>Degl’infelici il pianto in voi non muove.</l>
+            <l>Ma verrà forse il giorno,</l>
+            <l>In cui sdegnati i numi</l>
+            <l>Puniran sì feroci, empi costumi.</l>
+            <l>Chi disprezza gl’infelici,</l>
+            <l>Chi il suo pianto non ascolta</l>
+            <l>Sa punire il Ciel talvolta</l>
+            <l>Dell’indegna crudeltà.</l>
+            <l>Cangia aspetto al suo destino,</l>
+            <l>E infelice il disumano,</l>
+            <l>Chiede altrui pietade invano</l>
+            <l>Se fu sordo alla pietà.</l>
+            <l>(Partono).</l>
+            <l>Gran piazza di Babilonia. Sulla dritta,</l>
+            <l>sfondo che lascia vedere la reggia di</l>
+            <l>Baldassare; sulla sinistra arco trionfale,</l>
+            <l>che mette alla porta maggiore della città.</l>
+            <l>SCENA DODICESIMA</l>
+          </sp>
+          <stage>ARGENEBarbaro!… E dunque ognunoFra queste indegne soglieHa più crudel di tigre il cor nel petto?…No, che pietoso affettoDegl’infelici il pianto in voi non muove.Ma verrà forse il giorno,In cui sdegnati i numiPuniran sì feroci, empi costumi.Chi disprezza gl’infelici,Chi il suo pianto non ascoltaSa punire il Ciel talvoltaDell’indegna crudeltà.Cangia aspetto al suo destino,E infelice il disumano,Chiede altrui pietade invanoSe fu sordo alla pietà.(Partono).Gran piazza di Babilonia. Sulla dritta,sfondo che lascia vedere la reggia diBaldassare; sulla sinistra arco trionfale,che mette alla porta maggiore della città.SCENA DODICESIMA</stage>
+          <stage>Arbace con duci e soldati che scortano lafamiglia di Ciro al luogo destinato alsupplizio: tra i soldati, Ciro ed Amira incatene col figlio, Baldassare e Zambriaccompagnati dalle guardie, Argenenell’atteggiamento della maggior tristezzasieguono il convoglio.Aprendosi le file permettono d’avanzarsinella scena a Ciro, ad Amira ed al figlio,che restano in mezzo fra Baldassare eZambri da una parte, Arbace ed Argenedall’altra.CORODunque in oggi i numi iratiVoglion tanta crudeltà?…Infelici… sventurati…Quanto mai ci fan pietà!</stage>
+          <sp who="#ciro">
+            <speaker>CIRO:</speaker>
+            <l>Oh delle pene mie, de’ miei contenti,</l>
+            <l>Fin che piacque agli Dei dolce compagna,</l>
+            <l>Giunto è l’amaro istante, in cui conviene</l>
+            <l>Dividerci e morir!… Morte non teme</l>
+            <l>Quest’alma, no, che ancor a morte innante</l>
+            <l>Serbano gl’innocenti il cor costante;</l>
+            <l>Ma fissandoti in viso…</l>
+            <l>Pensando alla tua fede.</l>
+            <l>Veggendomi la sposa e ‘l figlio accanto</l>
+            <l>Regger non so, non so frenare il pianto!</l>
+          </sp>
+          <stage>(volgendosi con trasporto ad abbracciare il figlio)T’abbraccio, ti stringo,Mio tenero figlioCol pianto sul ciglio,Coi baci d’amor.Quel sangue che un giornoNel sen ti versai,Tu sparger dovraiDal misero cor.</stage>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>Che si tarda?…</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Oh quanto affanno!</l>
+          </sp>
+          <sp who="#ciro">
+            <speaker>CIRO:</speaker>
+            <l>Sì vedrai, crudel tiranno</l>
+            <l>Me, la sposa e ‘l figlio esangue,</l>
+            <l>Ma innocente è questo sangue,</l>
+            <l>E dal Ciel vendetta avrà.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Pur versar dovrà quel sangue,</l>
+            <l>Pur morir, oh Dio, dovrà!</l>
+          </sp>
+          <sp who="#ciro">
+            <speaker>CIRO:</speaker>
+            <l>Deh! tergi, sposa, alfine</l>
+            <l>Quelle lacrime amare…</l>
+            <l>Tu mi laceri il cor!…</l>
+            <l>Se m’ami ancora</l>
+            <l>Se aborri, quant’io t’amo, il Re nemico,</l>
+            <l>Siam vendicati assai.</l>
+            <l>S’incontreran di Lete</l>
+            <l>Colà nel guado estremo</l>
+            <l>Dell’amor nostro gli ultimi sospiri;</l>
+            <l>E si diran contenti</l>
+            <l>In quel punto crudele:</l>
+            <l>Spira quest’alma, o cara, a te fedele.</l>
+            <l>E lieto e contento</l>
+            <l>Nel placido Eliso</l>
+            <l>Lo spino indiviso</l>
+            <l>Beato sarà.</l>
+            <l>Di morte desio</l>
+            <l>Nell’alma s’accende,</l>
+            <l>Ché grata la rende</l>
+            <l>La tua fedeltà.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Qual pietade in sen ci desta</l>
+            <l>Così rara fedeltà.</l>
+          </sp>
+          <sp who="#baldassare">
+            <speaker>BALDASSARE:</speaker>
+            <l>Ma si vada…</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Ah! non v’è scampo.</l>
+            <l>Quanto, oh Dio, quel cor è oppresso!</l>
+          </sp>
+          <sp who="#ciro">
+            <speaker>CIRO:</speaker>
+            <l>(al figlio ed alla sposa)</l>
+            <l>A te un bacio… a te un amplesso,</l>
+            <l>E poi vadasi a morir.</l>
+            <l>(Il convoglio che scorta la famiglia di</l>
+            <l>Ciro segue la sua marcia verso la sinistra;</l>
+            <l>Baldassare e Zambri seguiti da alcune</l>
+            <l>guardie s’avviano verso la reggia).</l>
+            <l>Reggia.</l>
+            <l>SCENA TREDICESIMA</l>
+          </sp>
+          <stage>CIRO(al figlio ed alla sposa)A te un bacio… a te un amplesso,E poi vadasi a morir.(Il convoglio che scorta la famiglia diCiro segue la sua marcia verso la sinistra;Baldassare e Zambri seguiti da alcuneguardie s’avviano verso la reggia).Reggia.SCENA TREDICESIMA</stage>
+          <stage>Un sordo rumore di voci e di spade annunciacombattimento e strage: le guardie vannoconfusamente fuggendo perla scena, Zambriin atto di disperazione.ZAMBRIAbbia fin l’atra strage, o Dei pietosi!Mentre in profondo sonnoSta Baldassare, han la città sorpresaLe falangi nemiche… Abbassan l’armiVinte le nostre schiere… il sangue scorreDentro la reggia istessa… ahimè! che fiaDel Re, di noi?… In sì crudel conflittoTu ne soccorri, o Ciel, tu ne difendi!(Snuda la spada e va per partire, mas’incontra in Ciro).SCENA QUATTORDICESIMA</stage>
+          <stage>Ciro ed Arbace con spada snudata, e seguitodi soldati persiani e medi.CIROEmpio! cedi quel ferro, e a me t’arrendi.</stage>
+          <sp who="#zambri">
+            <speaker>ZAMBRI:</speaker>
+            <l>E Ciro vive ancor!…</l>
+          </sp>
+          <sp who="#ciro">
+            <speaker>CIRO:</speaker>
+            <l>Sì: vive, indegno!</l>
+            <l>Troppo nel ferir lenti</l>
+            <l>Furo i ministri infami</l>
+            <l>Del Re crudel, che ormai qui più non regna:</l>
+            <l>E di tanti delitti il Ciel sdegnato</l>
+            <l>Me soccorse pietoso e lor distrusse;</l>
+            <l>Egli armò le mie schiere, ei mi condusse</l>
+            <l>A vincere, a ferir… Tu corri Arbace,</l>
+            <l>Guida i soldati miei. Del Re gli amici,</l>
+            <l>La famiglia, i congiunti abbiano morte,</l>
+            <l>Né si risparmi il sangue… un Dio m’ispira:</l>
+            <l>D’un Nume irato la vendetta è questa;</l>
+            <l>Compi i miei cenni, e ‘l mio trionfo appresta.</l>
+          </sp>
+          <stage>(Ciro parte seguito da una porzione di guardieche scortano Zambri; seco lui Arbace con l’altraporzione di guardie va dall’opposta parte).SCENA QUINDICESIMA</stage>
+          <stage>Amira, Argene.ARGENEGioisci alfine, Amira: i voti tuoiAscoltaron propizi i sommi Dei.Gli affannosi tormentiCompensano in tal giorno; e un solo istanteRende a te, per mostrar che giusti sono,E figlio e sposo e libertade e trono.</stage>
+          <sp who="#amira">
+            <speaker>AMIRA:</speaker>
+            <l>Col più devoto cor grazie vi rendo</l>
+            <l>Numi clementi: son per voi felice</l>
+            <l>Se Ciro è vincitor e salvo è il figlio.</l>
+            <l>Tu cara Argene il sai,</l>
+            <l>Se in lor sol confidai;</l>
+            <l>Se del tiranno ancora</l>
+            <l>In faccia al tristo aspetto</l>
+            <l>Sempre sperai dal Ciel pace e conforto.</l>
+            <l>Ora, diletta Argene,</l>
+            <l>Sarai tu pur d’ogni mia gioia a parte.</l>
+          </sp>
+          <sp who="#scena sedicesima">
+            <speaker>SCENA SEDICESIMA:</speaker>
+          </sp>
+          <stage>Arbace e dette.ARBACEDi lieto annuncio apportator poss’ioPar rivedervi: Ciro a sé vi chiedeAd abbellire il suo trionfo. UscitoDario di Babilonia,A scorrer la Caldea spinge le schiere:Già son in suo potereDell’Eufrate le sponde;E da’ suoi duci invase,D’Assiria le provincieCedono l’armi al suo valor guerriero,Ed accrescon potere al vasto impero.</stage>
+          <sp who="#amira">
+            <speaker>AMIRA:</speaker>
+            <l>Oh quanti lieti eventi!…</l>
+            <l>A te pur grato, Arbace, e alle tue cure</l>
+            <l>E’ il nostro cor.</l>
+          </sp>
+          <sp who="#arbace">
+            <speaker>ARBACE:</speaker>
+            <l>Son pago: i miei desiri</l>
+            <l>Volle compiuti il Ciel; ma dimmi, Argene,</l>
+            <l>Sperar poss’io, che dopo tante e tante</l>
+            <l>Prove che ormai ti diei di pura fede,</l>
+            <l>In amor non sarai meco sì fiera?</l>
+          </sp>
+          <sp who="#argene">
+            <speaker>ARGENE:</speaker>
+            <l>Tutto vince virtù, sii fido e spera.</l>
+          </sp>
+          <sp who="#amira">
+            <speaker>AMIRA:</speaker>
+            <l>A Ciro, amici, andiam: clemenza e pace</l>
+            <l>In lui trovino i vinti; e la memoria</l>
+            <l>De’ perigli che a noi stavano intorno,</l>
+            <l>Ci renda più gradito un sì bel giorno.</l>
+            <l>(Partono).</l>
+            <l>Gran piazza di Babilonia.</l>
+            <l>SCENA ULTIMA</l>
+          </sp>
+          <stage>AMIRAA Ciro, amici, andiam: clemenza e paceIn lui trovino i vinti; e la memoriaDe’ perigli che a noi stavano intorno,Ci renda più gradito un sì bel giorno.(Partono).Gran piazza di Babilonia.SCENA ULTIMA</stage>
+          <stage>Marcia de’ soldati che entrano per l’arcotrionfale e precedono il carro su cui stannoCiro ed Amira, seguito da luci e guardiepersiane; Zambri ed altri schiavi babilonesiincatenati sieguono il suo trionfo.Ciro, Amira, il figlio, Argene, Arbace eZambri.COROAl vincitor clementeCede l’Assiria il trono:Invoca il suo perdono,Spera da lui pietà.</stage>
+          <sp who="#ciro">
+            <speaker>CIRO:</speaker>
+            <l>Sento che un Dio m’ispira</l>
+            <l>L’insolito vigore,</l>
+            <l>Per sé il Ciro il core</l>
+            <l>Tanto valor non ha.</l>
+          </sp>
+          <sp who="#amira">
+            <speaker>AMIRA:</speaker>
+            <l>Contenta alfin respira</l>
+            <l>Quest’alma in tant’orrore,</l>
+            <l>E sposo e figlio al core</l>
+            <l>Tornan felicità.</l>
+          </sp>
+          <sp who="#zambri">
+            <speaker>ZAMBRI:</speaker>
+            <l>Del Ciel placata è l’ira,</l>
+            <l>Speriam nel vincitore;</l>
+            <l>Grande è di Ciro il core,</l>
+            <l>Felice ognun sarà.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Fra lieti evviva e cantici</l>
+            <l>Di questi dì l’onore</l>
+            <l>Ridoni ad ogni core</l>
+            <l>Calma e felicità.</l>
+          </sp>
+          <sp who="#f i n e">
+            <speaker>F I N E:</speaker>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

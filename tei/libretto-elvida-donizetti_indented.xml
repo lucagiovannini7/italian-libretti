@@ -1,0 +1,866 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">lvida</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="secondo coro">
+            <persName>SECONDO CORO:</persName>
+          </person>
+          <person xml:id="zulma">
+            <persName>ZULMA:</persName>
+          </person>
+          <person xml:id="i due cori">
+            <persName>I DUE CORI:</persName>
+          </person>
+          <person xml:id="zeidar">
+            <persName>ZEIDAR:</persName>
+          </person>
+          <person xml:id="alfonso">
+            <persName>ALFONSO:</persName>
+          </person>
+          <person xml:id="elvida">
+            <persName>ELVIDA:</persName>
+          </person>
+          <person xml:id="parte del coro">
+            <persName>PARTE DEL CORO:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="ramiro">
+            <persName>RAMIRO:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="f i n e">
+            <persName>F I N E:</persName>
+          </person>
+          <person xml:id="amur">
+            <persName>AMUR:</persName>
+          </person>
+          <person xml:id="atto unico">
+            <persName>ATTO UNICO:</persName>
+          </person>
+          <person xml:id="primo coro">
+            <persName>PRIMO CORO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#atto unico">
+        <speaker>ATTO UNICO:</speaker>
+      </sp>
+      <stage>Scena primaMori frettolosi da più lati.</stage>
+      <sp who="#primo coro">
+        <speaker>PRIMO CORO:</speaker>
+        <l>Tutto cede al nemico feroce,</l>
+        <l>che veloce alle mura s’avanza!</l>
+        <l>É svanita la nostra speranza</l>
+        <l>a momenti inondar si vedrà.</l>
+      </sp>
+      <sp who="#secondo coro">
+        <speaker>SECONDO CORO:</speaker>
+        <l>Si resista…</l>
+      </sp>
+      <sp who="#primo coro">
+        <speaker>PRIMO CORO:</speaker>
+        <l>Ogni ostacolo è vano</l>
+        <l>al guerriero furor dell’ispano.</l>
+      </sp>
+      <sp who="#secondo coro">
+        <speaker>SECONDO CORO:</speaker>
+        <l>A lui cara costar la vittoria</l>
+        <l>core impavido in breve farà.</l>
+      </sp>
+      <sp who="#primo coro">
+        <speaker>PRIMO CORO:</speaker>
+        <l>Vane voci d’onore, di gloria</l>
+        <l>a quel cor che più speme non ha!</l>
+      </sp>
+      <sp who="#i due cori">
+        <speaker>I DUE CORI:</speaker>
+        <l>Tetro giorno, a cui féra la notte</l>
+        <l>or succede ed accresce spavento!…</l>
+        <l>Facciam prova d’estremo ardimento;</l>
+        <l>altro scampo per noi non si dà.</l>
+      </sp>
+      <stage>Partono in fretta.</stage>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Non più: dicesti assai</l>
+        <l>tropp’ostinato figlio.</l>
+        <l>Vil debolezza omai</l>
+        <l>diviene in te l’amor.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Cedi, signor, deh! cedi:</l>
+        <l>rifletti al tuo periglio.</l>
+        <l>A quali estremi, il vedi,</l>
+        <l>ci guida il tuo rigor.</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Punirla io voglio.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>In pria</l>
+        <l>mi svena, o genitor.</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Fomento all’ira mia</l>
+        <l>l’altera donna è ognor.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Rendila.</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Folle! e l’ami?</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Più di me stesso.</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>E brami?</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Teco salvar lo stato.</l>
+        <l>Al comun ben m’è grato</l>
+        <l>sacrificar il cor.</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Non fia. Son oltraggiato,</l>
+        <l>non sono all’onte usato;</l>
+        <l>sia pago il mio furor.</l>
+        <l>Omai tant’orgoglio</l>
+        <l>non voglio soffrir.</l>
+        <l>Vendetta m’affretta</l>
+        <l>l’indegna a punir.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>(Ti sento mio core</l>
+        <l>d’amore languir.</l>
+        <l>Conforto non spero;</l>
+        <l>che fiero martir!)</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Ed ostinato ancor?…</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>L’ira che giova?</l>
+        <l>Padre, soltanto questa</l>
+        <l>debol cittade resta. Elvida rendi,</l>
+        <l>prezzo di pace; evita il comun danno.</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Ma tu…</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Ma io… (io morirò d’affanno.)</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>No, non sarà mai ver. Costei distrutte</l>
+        <l>vuol queste mura; l’ombra</l>
+        <l>del genitor vuol vendicata; oltraggia</l>
+        <l>il mio grado supremo;</l>
+        <l>fa voti per l’amante… Eccola… Io fremo.</l>
+      </sp>
+      <stage>Scena terzaElvida, donne. I precedenti.</stage>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>A che mi vuoi? Che brami?</l>
+        <l>Che da sperar t’avanza?</l>
+        <l>D’Elvida la costanza</l>
+        <l>sempre maggior sarà.</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Frena l’ardire insano.</l>
+        <l>Pensa…</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Minacci invano.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>E non ti placherai?</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Non lo sperar giammai;</l>
+        <l>non so che sia viltà.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>(Alma di lei più altera, più</l>
+        <l>fiera non si dà.)</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>(Le smanie io sento in petto</l>
+        <l>del più tenace affetto:</l>
+        <l>ah! mi tormenta amore,</l>
+        <l>quanto tremar mi fa!)</l>
+        <l>(ad Amur)</l>
+        <l>Ebben?</l>
+      </sp>
+      <stage>ELVIDA(Le smanie io sento in pettodel più tenace affetto:ah! mi tormenta amore,quanto tremar mi fa!)(ad Amur)Ebben?</stage>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Elvida, ascolta,</l>
+        <l>e per l’ultima volta. Il figlio t’ama;</l>
+        <l>per sua sposa ti brama.</l>
+        <l>A lui porgi la destra, e me qual padre</l>
+        <l>tenero avrai.</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Mio padre era Gonzalvo:</l>
+        <l>perì per le vostr’armi!…</l>
+        <l>Fia vendicato.</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Forse</l>
+        <l>più che il padre, l’amante…</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Sì, l’adoro</l>
+        <l>quanto abborrisco te…</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Perfida! stanco</l>
+        <l>son io de’ tuoi disprezzi.</l>
+        <l>(alle guardie)</l>
+        <l>Pel sotterraneo varco</l>
+        <l>si guidi al carcer tetro, e, fra ritorte,</l>
+        <l>attenda pur costei…</l>
+      </sp>
+      <stage>AMURPerfida! stancoson io de’ tuoi disprezzi.(alle guardie)Pel sotterraneo varcosi guidi al carcer tetro, e, fra ritorte,attenda pur costei…</stage>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Lo so, la morte.</l>
+      </sp>
+      <stage>Scena quartaZulma. I precedenti.</stage>
+      <sp who="#zulma">
+        <speaker>ZULMA:</speaker>
+        <l>Il terror tutto inonda;</l>
+        <l>al riparo, o signor.</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>(Perverse stelle!)</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Pietoso ciel!</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Per poco esulterai.</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Sempre intrepida l’alma in me vedrai.</l>
+      </sp>
+      <stage>Amur parte in fretta, Zulmae le donne si ritirano.</stage>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Trattienti…</l>
+        <l>(Elvida è in atto di partire)</l>
+        <l>Per pietà!… Per me non chiedo</l>
+        <l>pietade: averla tu per me non puoi;</l>
+        <l>ma per te…</l>
+      </sp>
+      <stage>ZEIDARTrattienti…(Elvida è in atto di partire)Per pietà!… Per me non chiedopietade: averla tu per me non puoi;ma per te…</stage>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Ma per me?… Che dirmi vuoi?</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Se geme a’ tuoi lati…</l>
+        <l>Ohimè! non sdegnarti,</l>
+        <l>se t’ama lo sai</l>
+        <l>quest’alma fedel.</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Mia colpa, tel giuro,</l>
+        <l>non è il non amarti,</l>
+        <l>ma te non misuro</l>
+        <l>col padre crudel.</l>
+        <l>ZEIDAR</l>
+        <l>Ma… vedi… sovrasta</l>
+        <l>per te cruda sorte.</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Ho core che basta:</l>
+        <l>non temo la morte.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Ma il padre…</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>un tiranno.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Ah! troppo l’offendi.</l>
+        <l>Più mite ti rendi;</l>
+        <l>rifletti al tuo danno,</l>
+        <l>infingiti almen.</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Zeidar, che mai spera?</l>
+        <l>Un’alma sincera</l>
+        <l>racchiudo nel sen.</l>
+      </sp>
+      <stage>ELvida è scortata dalle guardie.</stage>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Misero me! … Ma il fier nemico avanza…</l>
+        <l>(si sente strepito di guerra)</l>
+        <l>Forse il padre in periglio…</l>
+        <l>Si corra in sua difesa… É desso…</l>
+      </sp>
+      <stage>ZEIDARMisero me! … Ma il fier nemico avanza…(si sente strepito di guerra)Forse il padre in periglio…Si corra in sua difesa… É desso…</stage>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Figlio,</l>
+        <l>invano si resiste. I passi miei</l>
+        <l>pensa a seguir.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>E dove?</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Pel calle ascoso avventurare un colpo,</l>
+        <l>infra ‘l notturno orrore,</l>
+        <l>co’ più scelti guerrieri</l>
+        <l>saprò… ‘Mi segui.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Troppo</l>
+        <l>ti lusinga la speme.</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Azor promise</l>
+        <l>forte schiera inviarmi. Inosservata</l>
+        <l>nel vicin bosco esser dovria. T’affretta.</l>
+        <l>Fido alla sorte mia la mia vendetta.</l>
+      </sp>
+      <stage>Partono. Cresce lo strepito di guerra.</stage>
+      <stage>Scena settima</stage>
+      <stage>Le catapulte finiscono di smantellare le mura. I mori,che le difendevano, si danno alla fuga. Entra l’armataspagnola al suono di strepitosa marcia. Una partedelle truppe s’inoltra nelle vie che alla piazzaconducono; altra parte rimane schierata.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Cinto di nuovi allori</l>
+        <l>vegga il nemico altero</l>
+        <l>quel vincitor ibero</l>
+        <l>che imprese a disprezzar.</l>
+        <l>A’ bellici furori</l>
+        <l>tregua si ponga omai;</l>
+        <l>di dolce pace i rai</l>
+        <l>comincino a brillar.</l>
+        <l>(ad Alfonso)</l>
+        <l>Deh! tergi i tuoi sudori,</l>
+        <l>ritorna a respirar.</l>
+      </sp>
+      <stage>COROCinto di nuovi allorivegga il nemico alteroquel vincitor iberoche imprese a disprezzar.A’ bellici furoritregua si ponga omai;di dolce pace i raicomincino a brillar.(ad Alfonso)Deh! tergi i tuoi sudori,ritorna a respirar.</stage>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Altra nube al sole intorno</l>
+        <l>fiero giorno minacciò.</l>
+        <l>Più lucente il sol cadente</l>
+        <l>si mostrò.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Più lucente il sol cadente</l>
+        <l>si mostrò.</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>(Cara immagin del mio bene,</l>
+        <l>che nel sen mi stai scolpita</l>
+        <l>che mi sei cagion di vita,</l>
+        <l>ti vedrò!</l>
+        <l>Ma del fato a me tiranno</l>
+        <l>se il rigor non cesserà,</l>
+        <l>se mai perderti dovrò,</l>
+        <l>questo core al crudo affanno</l>
+        <l>cederà.)</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>(Fra ‘l timore, fra la speme</l>
+        <l>geme, gode.</l>
+      </sp>
+      <sp who="#parte del coro">
+        <speaker>PARTE DEL CORO:</speaker>
+        <l>Esulta, freme.)</l>
+      </sp>
+      <stage>Scena ottavaRamiro. I precedenti.</stage>
+      <sp who="#ramiro">
+        <speaker>RAMIRO:</speaker>
+        <l>L’empio Amur si sottrasse</l>
+        <l>alle nostre ricerche, unito al figlio.</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Elvida?</l>
+      </sp>
+      <sp who="#ramiro">
+        <speaker>RAMIRO:</speaker>
+        <l>Elvida… in breve ne avrai novella.</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Elvida io dico… Ah! dove,</l>
+        <l>dov’è l’anima mia?</l>
+      </sp>
+      <sp who="#ramiro">
+        <speaker>RAMIRO:</speaker>
+        <l>Calmati.</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>E il posso?</l>
+        <l>Chi sa se in vita ancora</l>
+      </sp>
+      <sp who="#ramiro">
+        <speaker>RAMIRO:</speaker>
+        <l>Oh, come spesso</l>
+        <l>industre sei nel tormentar te stesso!</l>
+      </sp>
+      <stage>Scena nonaZulma, scortata da un drappello di soldati. I precedenti.</stage>
+      <sp who="#zulma">
+        <speaker>ZULMA:</speaker>
+        <l>Signor, se la demenza</l>
+        <l>è pregio usato d’alma grande, accogli</l>
+        <l>un’infelice.</l>
+        <l>(in atto d’inginocchiarsi, Alfonso non lo permette)</l>
+      </sp>
+      <stage>ZULMASignor, se la demenzaè pregio usato d’alma grande, accogliun’infelice.(in atto d’inginocchiarsi, Alfonso non lo permette)</stage>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Sgombra il duol. Chi sei?</l>
+      </sp>
+      <sp who="#zulma">
+        <speaker>ZULMA:</speaker>
+        <l>Del tuo nemico schiava</l>
+        <l>mi fe’ la rea fortuna;</l>
+        <l>Zulma è il mio nome, e nacqui in nobil cuna.</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>(ai soldati)</l>
+        <l>Libertà se le renda.</l>
+      </sp>
+      <stage>ALFONSO(ai soldati)Libertà se le renda.</stage>
+      <sp who="#zulma">
+        <speaker>ZULMA:</speaker>
+        <l>Ah! signor…</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Dimmi, o donna,</l>
+        <l>d’Elvida, prigioniera</l>
+        <l>d’Amur son già due lune,</l>
+        <l>avresti mai novella?</l>
+      </sp>
+      <sp who="#zulma">
+        <speaker>ZULMA:</speaker>
+        <l>Si, grata al tuo bel core,</l>
+        <l>agevolarti io deggio a rintracciarla.</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Ah, lo volesse il ciel pietoso!</l>
+      </sp>
+      <sp who="#ramiro">
+        <speaker>RAMIRO:</speaker>
+        <l>Parla.</l>
+      </sp>
+      <sp who="#zulma">
+        <speaker>ZULMA:</speaker>
+        <l>Inosservata intesi</l>
+        <l>che per angusta e sotterranea via,</l>
+        <l>ch’oltre le mura guida,</l>
+        <l>la sventurata Elvida</l>
+        <l>venne scortata a carcer tenebroso.</l>
+        <l>Noto m’è il varco ascoso ove ha confine</l>
+        <l>quell’orribile speco.</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Deh! scorta, o Zulma, i passi miei.</l>
+      </sp>
+      <sp who="#zulma">
+        <speaker>ZULMA:</speaker>
+        <l>Son teco.</l>
+      </sp>
+      <stage>Alfonso e Zulma partono seguiti da un drappello disoldati. Le schiere si disfiano al cenno di Ramiro.</stage>
+      <stage>Scena decima</stage>
+      <stage>Elvida. Si avanza lentamente, siede, sospira,rimane pensierosa alquanto, poi si alza.</stage>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Elvida, il tuo coraggio dunque a un tratto</l>
+        <l>t’abbandonò! … Ma come,</l>
+        <l>in mezzo a tanti danni,</l>
+        <l>può quest’anima tua frenar gli affanni?</l>
+        <l>Orfana figlia, amante sventurata,</l>
+        <l>e padre e sposo in un sol di perdesti;</l>
+        <l>ed or, fra questi orrori, non t’avanza,</l>
+        <l>misera Elvida! un’ombra di speranza.</l>
+        <l>(siede di nuovo appoggiando la fronte alle mani)</l>
+      </sp>
+      <stage>ELVIDAElvida, il tuo coraggio dunque a un trattot’abbandonò! … Ma come,in mezzo a tanti danni,può quest’anima tua frenar gli affanni?Orfana figlia, amante sventurata,e padre e sposo in un sol di perdesti;ed or, fra questi orrori, non t’avanza,misera Elvida! un’ombra di speranza.(siede di nuovo appoggiando la fronte alle mani)</stage>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>(sottovoce)</l>
+        <l>Padre che pensi?</l>
+      </sp>
+      <stage>ZEIDAR(sottovoce)Padre che pensi?</stage>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Trarla da questo speco,</l>
+        <l>Alfonso or forse ne va in traccia;</l>
+        <l>possederla potria.</l>
+        <l>L’opposto varco al vicin bosco guida.</l>
+        <l>Azor di lei sarà costode; pegno ella mi fia.</l>
+        <l>L’abborrito nemico</l>
+        <l>paventi… Eccola.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>(nell’avvicinarsi ad Elvida)</l>
+        <l>(Misera!)</l>
+      </sp>
+      <stage>ZEIDAR(nell’avvicinarsi ad Elvida)(Misera!)</stage>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>(alzandosi a un tratto)</l>
+        <l>Ah! conosco</l>
+        <l>all’odiata voce</l>
+        <l>il più reo fra’ viventi.</l>
+        <l>Qual altra pena, o crudo, a me destini?</l>
+        <l>Rispondi: il mio supplizio? Ecco i tuoi doni.</l>
+      </sp>
+      <stage>ELVIDA(alzandosi a un tratto)Ah! conoscoall’odiata voceil più reo fra’ viventi.Qual altra pena, o crudo, a me destini?Rispondi: il mio supplizio? Ecco i tuoi doni.</stage>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Forse, donna proterva, al ver t’apponi.</l>
+        <l>Invan, superba. invano</l>
+        <l>tuoi voti al ciel porgesti.</l>
+        <l>Fremi: da questa mano</l>
+        <l>chi mai sottrar ti può?</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Quel ferro tuo m’uccida.</l>
+        <l>Barbaro! a che t’arresti?</l>
+        <l>Né ancor conosci Elvida?</l>
+        <l>Io paventar non so.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Amato genitore,</l>
+        <l>pietade in te si desti.</l>
+        <l>(ad Elvida)</l>
+        <l>Confida in questo core:</l>
+        <l>tutto per te farò.</l>
+      </sp>
+      <stage>ZEIDARAmato genitore,pietade in te si desti.(ad Elvida)Confida in questo core:tutto per te farò.</stage>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Di miglior padre degno,</l>
+        <l>Zeidar, tu sei.</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Ritegno</l>
+        <l>più l’ira mia non ha.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>(Dolente a questo segno</l>
+        <l>un’alma tron si dà!)</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>(ad Elvida)</l>
+        <l>Seguimi</l>
+      </sp>
+      <stage>AMUR(ad Elvida)Seguimi</stage>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Andiam. Si mora.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>No, vita avrai.</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>(al figlio)</l>
+        <l>T’affretta;</l>
+        <l>servi alla mia vendetta, che</l>
+        <l>in breve scoppierà.</l>
+      </sp>
+      <stage>AMUR(al figlio)T’affretta;servi alla mia vendetta, chein breve scoppierà.</stage>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Del cielo la vendetta, sul</l>
+        <l>capo tuo cadrà.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>(Vorrebbe, amor, vendetta,</l>
+        <l>ma sente il cor pieta.)</l>
+      </sp>
+      <stage>Nell’atto che Amur vuol condurre fuor dell’antroElvida, si sente un improvviso strepito, e vedesiatterrare la piccola porta indicata.</stage>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Stelle! … che veggio!</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Sogno! … vaneggio!</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>(nel riconoscere le armi spagnuole)</l>
+        <l>Pietoso ciel!</l>
+      </sp>
+      <stage>ELVIDA(nel riconoscere le armi spagnuole)Pietoso ciel!</stage>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Qual tetro speco!</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Oh voce! oh sorte!</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Antro di morte!</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Mio ben! son teco…</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Elvida mia!</l>
+      </sp>
+      <stage>Mentre Alfonso corre a lei, Amur la prende per unbraccio, e la tira in disparte.</stage>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Sei tu!</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Sì…</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Pria per questa mano…</l>
+        <l>(impugnando uno stilo)</l>
+      </sp>
+      <stage>AMURPria per questa mano…(impugnando uno stilo)</stage>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Ferma!</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Inumano!</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Deh! ti placa… Amur, mi rendi</l>
+        <l>l’idol mio che tanto adoro;</l>
+        <l>deh! mi rendi il mio tesoro;</l>
+        <l>pace… tutto avrai da me.</l>
+      </sp>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>Stolto amante, invan pretendi</l>
+        <l>ch’Amur ceda a’ tuoi desiri,</l>
+        <l>benché oppresso tu lo miri,</l>
+        <l>sempre fia maggior di te.</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>(minaccioso)</l>
+        <l>E persisti ancora? Cedi.</l>
+      </sp>
+      <stage>ALFONSO(minaccioso)E persisti ancora? Cedi.</stage>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>NoTu a morte mi precedi.</l>
+        <l>(in atto d’uccidere Elvida, Zeidar trattiene il</l>
+        <l>colpo)</l>
+      </sp>
+      <stage>AMURNoTu a morte mi precedi.(in atto d’uccidere Elvida, Zeidar trattiene ilcolpo)</stage>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Ecco il petto: in me lo</l>
+        <l>sdegno, padre, tutto puoi sfogar.</l>
+      </sp>
+      <stage>S’inginocchia ad Amur, e questi, mentre lo respinge,vien circondato dalle guardie.</stage>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>(al figlio)</l>
+        <l>Va’, ti togli al mio cospetto;</l>
+        <l>nato sei per mio rossore.</l>
+        <l>(ad Alfonso)</l>
+        <l>Vil nemico, il tuo furore</l>
+        <l>non può l’alma in me cangiar.</l>
+      </sp>
+      <stage>AMUR(al figlio)Va’, ti togli al mio cospetto;nato sei per mio rossore.(ad Alfonso)Vil nemico, il tuo furorenon può l’alma in me cangiar.</stage>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>(D’atra stella trist’oggetto</l>
+        <l>fosti, o misero mio core!</l>
+        <l>Morte sol da un rio dolore</l>
+        <l>può quest’anima involar.)</l>
+      </sp>
+      <stage>Scena tredicesimaRamiro, soldati. I precedenti.</stage>
+      <sp who="#ramiro">
+        <speaker>RAMIRO:</speaker>
+        <l>Ti conforta signor,</l>
+        <l>(ad Alfonso)</l>
+        <l>d’Azor la schiera,</l>
+        <l>dal vicin bosco uscita,</l>
+        <l>piombò poc’anzi su di noi: ma tale</l>
+        <l>fu l’ispano valor, che in un momento</l>
+        <l>restò dispersa come nebbia al vento.</l>
+      </sp>
+      <stage>RAMIROTi conforta signor,(ad Alfonso)d’Azor la schiera,dal vicin bosco uscita,piombò poc’anzi su di noi: ma talefu l’ispano valor, che in un momentorestò dispersa come nebbia al vento.</stage>
+      <sp who="#amur">
+        <speaker>AMUR:</speaker>
+        <l>(Saziati, o sorte!)</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Lode al ciel!</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Soldati,</l>
+        <l>costui si tragga altrove.</l>
+      </sp>
+      <stage>Amur è condotto via.</stage>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Ah, padre! … Alfonso,</l>
+        <l>deh! pietà …</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Generoso</l>
+        <l>meno di te mi credi, alma ben nata?</l>
+        <l>La mia vita hai serbata</l>
+        <l>in quella del mio ben; serbarla io voglio</l>
+        <l>al crudo padre tuo. Libero sei,</l>
+        <l>ed attendi da me nuova mercede.</l>
+      </sp>
+      <sp who="#zeidar">
+        <speaker>ZEIDAR:</speaker>
+        <l>Tanto sperar mi lice?</l>
+        <l>Dunque meno infelice</l>
+        <l>son di quel ch’io credei? Mi salvi il padre,</l>
+        <l>che più sperar degg’io?</l>
+        <l>Elvida! … (Alma resisti.) Alfonso, addio.</l>
+        <l>(parte)</l>
+      </sp>
+      <stage>ZEIDARTanto sperar mi lice?Dunque meno infeliceson di quel ch’io credei? Mi salvi il padre,che più sperar degg’io?Elvida! … (Alma resisti.) Alfonso, addio.(parte)</stage>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Magnanima virtù!</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Sei mia! Ci veda</l>
+        <l>congiunti in sacro nodo il nuovo sole.</l>
+        <l>É tempo, cara, omai</l>
+        <l>che lieto esulti il cor.</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Il cielo, in pria sdegnato,</l>
+        <l>si mostra alfin placato;</l>
+        <l>ritorna a noi la pace</l>
+        <l>sui vanni dell’amor.</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Felici miei tormenti,</l>
+        <l>soavi miei lamenti,</l>
+        <l>se di piacer verace</l>
+        <l>ora mi balza il cor.</l>
+      </sp>
+      <sp who="#alfonso">
+        <speaker>ALFONSO:</speaker>
+        <l>Per te, bell’idol mio,</l>
+        <l>tutti gli affanni oblio,</l>
+      </sp>
+      <sp who="#elvida">
+        <speaker>ELVIDA:</speaker>
+        <l>Per te di tanti affanni</l>
+        <l>più non rammento i danni,</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Ritorna a noi/voi la pace</l>
+        <l>sui vanni dell’amor.</l>
+      </sp>
+      <sp who="#f i n e">
+        <speaker>F I N E:</speaker>
+      </sp>
+    </body>
+  </text>
+</TEI>

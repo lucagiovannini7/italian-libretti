@@ -1,0 +1,2981 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">uglielmo Tell</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="guglielmo">
+            <persName>GUGLIELMO:</persName>
+          </person>
+          <person xml:id="coro di svizzeri">
+            <persName>CORO DI SVIZZERI:</persName>
+          </person>
+          <person xml:id="soldati">
+            <persName>SOLDATI:</persName>
+          </person>
+          <person xml:id="un cacciatore">
+            <persName>UN CACCIATORE:</persName>
+          </person>
+          <person xml:id="arnoldo">
+            <persName>ARNOLDO:</persName>
+          </person>
+          <person xml:id="leutoldo">
+            <persName>LEUTOLDO:</persName>
+          </person>
+          <person xml:id="voci di dentro">
+            <persName>VOCI DI DENTRO:</persName>
+          </person>
+          <person xml:id="rodolfo">
+            <persName>RODOLFO:</persName>
+          </person>
+          <person xml:id="coro di pastori">
+            <persName>CORO DI PASTORI:</persName>
+          </person>
+          <person xml:id="coro di soldati">
+            <persName>CORO DI SOLDATI:</persName>
+          </person>
+          <person xml:id="svizzere">
+            <persName>SVIZZERE:</persName>
+          </person>
+          <person xml:id="gessler">
+            <persName>GESSLER:</persName>
+          </person>
+          <person xml:id="jemmy">
+            <persName>JEMMY:</persName>
+          </person>
+          <person xml:id="pescatore">
+            <persName>PESCATORE:</persName>
+          </person>
+          <person xml:id="matilde">
+            <persName>MATILDE:</persName>
+          </person>
+          <person xml:id="gualtiero">
+            <persName>GUALTIERO:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="f i n e">
+            <persName>F I N E:</persName>
+          </person>
+          <person xml:id="svizzeri">
+            <persName>SVIZZERI:</persName>
+          </person>
+          <person xml:id="donne">
+            <persName>DONNE:</persName>
+          </person>
+          <person xml:id="melchthal">
+            <persName>MELCHTHAL:</persName>
+          </person>
+          <person xml:id="edwige">
+            <persName>EDWIGE:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>Atto IUna specie di villaggio in mezzo alla montagna.A destra dell’attore un torrente che va a perdersisulla sinistra in mezzo alle rocce.In lontano le alte montagne della Svizzera.Sopra una roccia, a sinistra dell’attore, la casa di Guglielmo:sul davanti altre capanne.</stage>
+      <stage>Scena ICoro di svizzeri d’ambo i sessi. Un pescatore nella sua barca sul torrente.Guglielmo pensoso, appoggiato alla sua vanga;Edwige e Jemmy intenti a vari lavori rustici.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>È il ciel sereno,</l>
+        <l>Seren il giorno,</l>
+        <l>Tutto d’intorno</l>
+        <l>Parla d’amor.</l>
+        <l>L’eco giuliva</l>
+        <l>Di questa riva</l>
+        <l>Ripeta il giubilo</l>
+        <l>De’ nostri cor.</l>
+        <l>Coll’opre ognun</l>
+        <l>Poi presti omaggio</l>
+        <l>Del mondo ognor</l>
+        <l>Al Creator.</l>
+      </sp>
+      <sp who="#pescatore">
+        <speaker>PESCATORE:</speaker>
+        <l>(nella sua barca)</l>
+        <l>Il piccol legno ascendi,</l>
+        <l>O timida donzella,</l>
+        <l>Deh, vieni, e pago rendi</l>
+        <l>Il tenero mio cor.</l>
+        <l>Io lascio il lido, o Lisa;</l>
+        <l>Non sii da me divisa;</l>
+        <l>Il ciel sereno è pegno</l>
+        <l>A noi d’un grato dì.</l>
+      </sp>
+      <stage>PESCATORE(nella sua barca)Il piccol legno ascendi,O timida donzella,Deh, vieni, e pago rendiIl tenero mio cor.Io lascio il lido, o Lisa;Non sii da me divisa;Il ciel sereno è pegnoA noi d’un grato dì.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>(a mezza voce)</l>
+        <l>Dolce è per lui la cura</l>
+        <l>Del foco ond’arde in seno,</l>
+        <l>Ne prova il rio veleno</l>
+        <l>Che mi divora il cor.</l>
+        <l>Perché vivere ancora,</l>
+        <l>Or che non v’è più patria?</l>
+        <l>Ei canta, e Elvezia intanto,</l>
+        <l>Ahi, quanto piangerà!</l>
+      </sp>
+      <stage>GUGLIELMO(a mezza voce)Dolce è per lui la curaDel foco ond’arde in seno,Ne prova il rio velenoChe mi divora il cor.Perché vivere ancora,Or che non v’è più patria?Ei canta, e Elvezia intanto,Ahi, quanto piangerà!</stage>
+      <sp who="#pescatore">
+        <speaker>PESCATORE:</speaker>
+        <l>Gentil come la rosa</l>
+        <l>D’un bel mattin nascente,</l>
+        <l>Potrai d’un ciel fremente</l>
+        <l>Placar, ben mio, l’orror.</l>
+        <l>Ed al tuo fianco assiso</l>
+        <l>Novella vita io spero;</l>
+        <l>Proteggerà il mistero</l>
+        <l>Le gioie dell’amor.</l>
+      </sp>
+      <stage>Odonsi a poca distanza suoni e grida di gioia.</stage>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Oh! quale alta d’intorno</l>
+        <l>Dolce armonia risuona!</l>
+        <l>Di festa il lieto giorno</l>
+        <l>Ne viene ad annunziar.</l>
+        <l>Del sol siccome il raggio</l>
+        <l>Risplende a’ fior sereno,</l>
+        <l>La gioia di ogni seno</l>
+        <l>Rivive e sente amor.</l>
+      </sp>
+      <stage>Melchthal dalla collina, seguito da altri svizzeri.Arnoldo e detti gli vanno incontro, e lo festeggiano.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Salute, onore, omaggio</l>
+        <l>Al saggio tra i pastor.</l>
+      </sp>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Il rito si rinnovi</l>
+        <l>Di tempi men funesti,</l>
+        <l>E premio alfin ritrovi</l>
+        <l>La fedeltà, l’amor.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(a parte)</l>
+        <l>L’amore… oh Dio!.. l’amore!..</l>
+        <l>Oh, qual pensier!.. io gelo!</l>
+      </sp>
+      <stage>ARNOLDO(a parte)L’amore… oh Dio!.. l’amore!..Oh, qual pensier!.. io gelo!</stage>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>(a Melchthal, pregandolo</l>
+        <l>a voler celebrare le nozze dei pastori)</l>
+        <l>Per te fien lieti.</l>
+      </sp>
+      <stage>EDWIGE(a Melchthal, pregandoloa voler celebrare le nozze dei pastori)Per te fien lieti.</stage>
+      <sp who="#melchthal">
+        <speaker>MELCHTHAL:</speaker>
+        <l>Per me?</l>
+      </sp>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>(come sopra)</l>
+        <l>Ognuno il fia per te.</l>
+      </sp>
+      <stage>EDWIGE(come sopra)Ognuno il fia per te.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>(come sopra)</l>
+        <l>Della virtù degli anni</l>
+        <l>Il privilegio è questo;</l>
+        <l>Cedi, e giammai funesto</l>
+        <l>Il ciel per noi sarà.</l>
+      </sp>
+      <stage>GUGLIELMO(come sopra)Della virtù degli anniIl privilegio è questo;Cedi, e giammai funestoIl ciel per noi sarà.</stage>
+      <sp who="#melchthal">
+        <speaker>MELCHTHAL:</speaker>
+        <l>(cedendo alle istanze che gli vengono fatte)</l>
+        <l>Pastori, intorno – Ergete il canto,</l>
+        <l>Di questo giorno – S’innalzi il vanto.</l>
+        <l>Sì, sì, esultate, – Sì, celebrate</l>
+        <l>Le pure gioie – D’imene e amor.</l>
+      </sp>
+      <stage>MELCHTHAL(cedendo alle istanze che gli vengono fatte)Pastori, intorno – Ergete il canto,Di questo giorno – S’innalzi il vanto.Sì, sì, esultate, – Sì, celebrateLe pure gioie – D’imene e amor.</stage>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Or sì, esultiam, – Sì, celebriam</l>
+        <l>Le pure gioie – D’imene e amor.</l>
+        <l>Al fremer del torrente</l>
+        <l>S’alzi di gioia il grido,</l>
+        <l>E l’eco dolcemente</l>
+        <l>Da questo ameno lido</l>
+        <l>Ai monti, al bosco, al piano</l>
+        <l>Il suon ripeterà.</l>
+        <l>Il coro parte.</l>
+      </sp>
+      <stage>TUTTIOr sì, esultiam, – Sì, celebriamLe pure gioie – D’imene e amor.Al fremer del torrenteS’alzi di gioia il grido,E l’eco dolcementeDa questo ameno lidoAi monti, al bosco, al pianoIl suon ripeterà.Il coro parte.</stage>
+      <stage>Guglielmo, Melchthal, Arnoldo, Edwige, Jemmy.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Contro l’ardor del giorno</l>
+        <l>Il solingo mio tetto</l>
+        <l>V’offra sicuro ed ospital ricetto.</l>
+        <l>Ivi, nel sen di pace,</l>
+        <l>Vissero gli avi miei;</l>
+        <l>Ivi fuggo i potenti,</l>
+        <l>E a’ sguardi loro ascondo,</l>
+        <l>Che, padre essendo, io son felice al mondo.</l>
+      </sp>
+      <stage>(abbracciando il figlio)</stage>
+      <sp who="#melchthal">
+        <speaker>MELCHTHAL:</speaker>
+        <l>Egli è padre e felice…</l>
+        <l>L’udisti, figlio mio?</l>
+        <l>Questo è il maggior de’ beni. E vorrai sempre</l>
+        <l>Della mia lunga età schernire i voti?</l>
+        <l>La festa de’ pastori</l>
+        <l>Con un triplice nodo</l>
+        <l>Consacra in questo giorno di contento</l>
+        <l>I giuri dell’imen… ma il tuo non sento.</l>
+        <l>Partono tutti, fuorché Arnoldo.</l>
+      </sp>
+      <stage>MELCHTHALEgli è padre e felice…L’udisti, figlio mio?Questo è il maggior de’ beni. E vorrai sempreDella mia lunga età schernire i voti?La festa de’ pastoriCon un triplice nodoConsacra in questo giorno di contentoI giuri dell’imen… ma il tuo non sento.Partono tutti, fuorché Arnoldo.</stage>
+      <stage>Arnoldo solo.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Il mio giuro, egli disse!</l>
+        <l>Il mio giuro?.. Giammai. Perché a me stesso</l>
+        <l>Celar non posso in qual fatale oggetto</l>
+        <l>Son rapiti i miei sensi?</l>
+        <l>O tu la di cui fronte al serto aspira,</l>
+        <l>O mia Matilde, io t’amo,</l>
+        <l>T’adoro e l’onor mio</l>
+        <l>Per te, il dover, la patria, il padre oblio!</l>
+        <l>Contro la micidial valanga io fui</l>
+        <l>Di scudo a’ giorni tuoi;</l>
+        <l>Figlia di regi, io ti salvai da morte,</l>
+        <l>Te che al trono destina empia mia sorte.</l>
+        <l>Ebbro di vana speme</l>
+        <l>Il cor, che per te langue,</l>
+        <l>Tutto per gli empi prodigò il suo sangue.</l>
+        <l>Aver comun con essi</l>
+        <l>La gloria delle pugne,</l>
+        <l>Ecco la mia vergogna. I pianti miei</l>
+        <l>L’han però cancellata…</l>
+        <l>Ma me la rende una passione ingrata.</l>
+        <l>(Odesi un lontano suono di caccia.)</l>
+        <l>Ma qual suon!.. Del superbo i rei seguaci</l>
+        <l>Scendon dal monte… Oh Dio!..</l>
+        <l>Ivi è Gessler, e seco è l’idol mio!..</l>
+        <l>Veder e udir io voglio</l>
+        <l>Colei che m’innamora…</l>
+        <l>Reo sarò forse, ma felice ancora.</l>
+        <l>(fa per allontanarsi, quando incontrasi in</l>
+        <l>Guglielmo ch’esce dalla sua capanna)</l>
+      </sp>
+      <stage>ARNOLDOIl mio giuro, egli disse!Il mio giuro?.. Giammai. Perché a me stessoCelar non posso in qual fatale oggettoSon rapiti i miei sensi?O tu la di cui fronte al serto aspira,O mia Matilde, io t’amo,T’adoro e l’onor mioPer te, il dover, la patria, il padre oblio!Contro la micidial valanga io fuiDi scudo a’ giorni tuoi;Figlia di regi, io ti salvai da morte,Te che al trono destina empia mia sorte.Ebbro di vana spemeIl cor, che per te langue,Tutto per gli empi prodigò il suo sangue.Aver comun con essiLa gloria delle pugne,Ecco la mia vergogna. I pianti mieiL’han però cancellata…Ma me la rende una passione ingrata.(Odesi un lontano suono di caccia.)Ma qual suon!.. Del superbo i rei seguaciScendon dal monte… Oh Dio!..Ivi è Gessler, e seco è l’idol mio!..Veder e udir io voglioColei che m’innamora…Reo sarò forse, ma felice ancora.(fa per allontanarsi, quando incontrasi inGuglielmo ch’esce dalla sua capanna)</stage>
+      <stage>Guglielmo e detto.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Arresta… Quali sguardi!..</l>
+        <l>Tu tremi innanzi a me,</l>
+        <l>Né mi vuoi dire ond’ardi?</l>
+        <l>Tremar, tremar perché?..</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(Potrò mentirgli il vero!)</l>
+        <l>Domi da un fato austero,</l>
+        <l>Qual cor non fremerà?</l>
+      </sp>
+      <stage>ARNOLDO(Potrò mentirgli il vero!)Domi da un fato austero,Qual cor non fremerà?</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Arnoldo, il ver tu celi;</l>
+        <l>Ma forza è che tu sveli</l>
+        <l>Il tutto all’amistà.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Esser potrei più misero?</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Misero! Quai misteri!</l>
+        <l>Parlami il ver.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Che speri?</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Di rendere al tuo core</l>
+        <l>L’onore e la virtù.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(Ah! Matilde, io t’amo, è vero;</l>
+        <l>Ma fuggirti alfin degg’io.</l>
+        <l>Alla patria, al dover mio</l>
+        <l>Io consacro un puro amor.)</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>(Nel suo volto io leggo appien</l>
+        <l>Qual dolore ha chiuso in sen;</l>
+        <l>S’egli infido a noi si rese,</l>
+        <l>Il rimorso alfin intese</l>
+        <l>E emendar col pentimento</l>
+        <l>Può l’antico disonor!)</l>
+        <l>Via, si tronchi ogni dimora:</l>
+        <l>Sol vendetta anela il cor.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Morirò, se vuoi ch’io mora.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Pria sia spento l’oppressor.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Contro l’empio qual consigli</l>
+        <l>Forte appoggio?</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Nei perigli</l>
+        <l>Non ve n’ha che un sol per noi:</l>
+        <l>Mille al reo ne restan poi.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Pensa a’ beni che tu perdi.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Non li curo.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Qual mai gloria</l>
+        <l>Dai perigli puoi sperar?</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Io non so se avrommi gloria,</l>
+        <l>Ma la sorte io vo’ tentar.</l>
+        <l>Vieni, andiam: fia l’empio estinto.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Tu dunque speri?..</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Cangiar mia sorte.</l>
+        <l>Vieni a cercar con me vittoria o morte.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>E vincer credi?</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Coll’ardir.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Ma se infelici…</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Non temer.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Qual ne resta asil, se vinti…</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>V’è la tomba. Vieni, andiam.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>E il vendicatore?</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Il ciel!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Teco sarò, Guglielmo,</l>
+        <l>Allor che della pugna</l>
+        <l>L’ora sarà.</l>
+        <l>Si ode un suono di caccia.</l>
+      </sp>
+      <stage>ARNOLDOTeco sarò, Guglielmo,Allor che della pugnaL’ora sarà.Si ode un suono di caccia.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>(lo trattiene)</l>
+        <l>T’arresta.</l>
+      </sp>
+      <stage>GUGLIELMO(lo trattiene)T’arresta.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(Contrattempo fatal!)</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Melchthal, Melchthal!..</l>
+        <l>(Si sente di nuovo il suono di caccia.)</l>
+        <l>Che sento! Egli è Gessler… Mentr’ei ne sfida,</l>
+        <l>Vorrai tu, da schiavo codardo,</l>
+        <l>La grazia ambir d’un disdegnoso sguardo?</l>
+      </sp>
+      <stage>GUGLIELMOMelchthal, Melchthal!..(Si sente di nuovo il suono di caccia.)Che sento! Egli è Gessler… Mentr’ei ne sfida,Vorrai tu, da schiavo codardo,La grazia ambir d’un disdegnoso sguardo?</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Qual dubbio!.. oh ciel! qual dubbio!</l>
+        <l>Mortal è quest’oltraggio;</l>
+        <l>Io vo’ sul suo passaggio</l>
+        <l>Sfidare il traditor.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Non azzardar l’impresa,</l>
+        <l>Pensa a salvare il padre,</l>
+        <l>Dalle nemiche squadre</l>
+        <l>La patria a liberar.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(La patria!.. il padre!.. oh amore!</l>
+        <l>Che far?)</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Resisti?.. (Ei freme…</l>
+        <l>Il vero mi celò.)</l>
+        <l>Odi il canto sacrato ad Imene;</l>
+        <l>Non rammenti il pastor le sue pene,</l>
+        <l>Non s’unisca il piacere al dolor.</l>
+        <l>Tu seconda il furor di che m’ardo:</l>
+        <l>Odio e morte a quel vil traditor.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(Ciel, tu sai se Matilde m’è cara,</l>
+        <l>Ma il mio core s’arrende a virtù.)</l>
+        <l>Odio e morte a quel vil traditor.</l>
+      </sp>
+      <stage>Odonsi avvicinare festivi suoni campestri.</stage>
+      <stage>Jemmy, Edwige, il Pescatore, Melchthal, coro di svizzeri,tre fidanzate ed i loro sposi, e detti.</stage>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Il sol che intorno splende</l>
+        <l>Sembra arrestarsi a mezzo del suo corso</l>
+        <l>Per avvivar così leggiadra festa.</l>
+        <l>Venerabil Melchthal,</l>
+        <l>Voi saggio in fra i pastori.</l>
+        <l>Voi benedite ai loro casti ardori.</l>
+        <l>Le tre coppie si avanzano e s’inginocchiano ai piedi di Melchthal,</l>
+        <l>che si è seduto sovra un banco di verdura allestito dai contadini.</l>
+      </sp>
+      <stage>EDWIGEIl sol che intorno splendeSembra arrestarsi a mezzo del suo corsoPer avvivar così leggiadra festa.Venerabil Melchthal,Voi saggio in fra i pastori.Voi benedite ai loro casti ardori.Le tre coppie si avanzano e s’inginocchiano ai piedi di Melchthal,che si è seduto sovra un banco di verdura allestito dai contadini.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(Oh smania!)</l>
+      </sp>
+      <sp who="#melchthal">
+        <speaker>MELCHTHAL:</speaker>
+        <l>(agli sposi)</l>
+        <l>Allor che il cielo</l>
+        <l>La vostra fede accoglie,</l>
+        <l>Benedirvi degg’io,</l>
+      </sp>
+      <stage>MELCHTHAL(agli sposi)Allor che il cieloLa vostra fede accoglie,Benedirvi degg’io,</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Chi la vecchiezza onora,</l>
+        <l>Lo stesso nume in sulla terra adora.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(Il lor contento</l>
+        <l>M’è al cor velen.</l>
+        <l>Oh mio tormento!</l>
+        <l>Fatale amor!)</l>
+      </sp>
+      <sp who="#melchthal">
+        <speaker>MELCHTHAL:</speaker>
+        <l>(agli sposi)</l>
+        <l>Delle antiche virtudi</l>
+        <l>L’esempio rinnovate.</l>
+        <l>O figli miei, pensate</l>
+        <l>Che il suol ove nasceste al vostro imen</l>
+        <l>Domanda degli appoggi, de’ custodi.</l>
+        <l>E voi, gentili, a lor fide compagne,</l>
+        <l>Chiusa è nel vostro petto</l>
+        <l>La lor posteritade. I figli vostri</l>
+        <l>Degli avi lor fian degni;</l>
+        <l>Da voi la patria attende i suoi sostegni.</l>
+        <l>Odesi di nuovo il suono di caccia.</l>
+      </sp>
+      <stage>MELCHTHAL(agli sposi)Delle antiche virtudiL’esempio rinnovate.O figli miei, pensateChe il suol ove nasceste al vostro imenDomanda degli appoggi, de’ custodi.E voi, gentili, a lor fide compagne,Chiusa è nel vostro pettoLa lor posteritade. I figli vostriDegli avi lor fian degni;Da voi la patria attende i suoi sostegni.Odesi di nuovo il suono di caccia.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>(Gessler di nuovo!)</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>(partendo inosservato)</l>
+        <l>Andiamo.</l>
+      </sp>
+      <stage>ARNOLDO(partendo inosservato)Andiamo.</stage>
+      <stage>Detti, meno Arnoldo.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>(agitato)</l>
+        <l>(Gessler proscrive i voti!)</l>
+        <l>Udite l’empio! ei grida</l>
+        <l>Che non abbiam più patria,</l>
+        <l>Che per sempre la fonte è disseccata</l>
+        <l>Del sangue de’ gagliardi</l>
+        <l>E pur troppo noi siam vili codardi!</l>
+        <l>Un popol senza forza</l>
+        <l>Non produce più eroi</l>
+        <l>E ai figli son serbate</l>
+        <l>Le catene che voi pur trascinate,</l>
+        <l>Donne, dal talamo scacciate i vostri</l>
+        <l>Sposi: ai tiranni non mancano schiavi.</l>
+      </sp>
+      <stage>GUGLIELMO(agitato)(Gessler proscrive i voti!)Udite l’empio! ei gridaChe non abbiam più patria,Che per sempre la fonte è disseccataDel sangue de’ gagliardiE pur troppo noi siam vili codardi!Un popol senza forzaNon produce più eroiE ai figli son serbateLe catene che voi pur trascinate,Donne, dal talamo scacciate i vostriSposi: ai tiranni non mancano schiavi.</stage>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>(a Guglielmo)</l>
+        <l>Quai t’agitan trasporti?</l>
+        <l>Perché liberamente sien palesi</l>
+        <l>Il dì sorgea?</l>
+      </sp>
+      <stage>EDWIGE(a Guglielmo)Quai t’agitan trasporti?Perché liberamente sien palesiIl dì sorgea?</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Lo spero…</l>
+        <l>Ma più Arnoldo non vedo.</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>Ei ne lascia.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Ei mi fugge.</l>
+        <l>Pur cela indarno il turbamento suo.</l>
+        <l>Volo ad interrogarlo,</l>
+        <l>(ad Edwige)</l>
+        <l>E tu ravviva i giuochi.</l>
+      </sp>
+      <stage>GUGLIELMOEi mi fugge.Pur cela indarno il turbamento suo.Volo ad interrogarlo,(ad Edwige)E tu ravviva i giuochi.</stage>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>M’agghiacci di spavento,</l>
+        <l>E mi parli di festa?</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Cela il fragore ai rei della tempesta.</l>
+        <l>Può soffocarla della gioia il canto.</l>
+        <l>Fia che l’odano i crudi</l>
+        <l>Quando le prische avrem nostre virtudi.</l>
+      </sp>
+      <stage>(parte)</stage>
+      <stage>Detti, meno Guglielmo.</stage>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Cinto il crine</l>
+        <l>Di bei fiori,</l>
+        <l>Tra gli amori</l>
+        <l>Scendi, Imen.</l>
+        <l>Teco alfine</l>
+        <l>Pace scenda</l>
+        <l>E ne renda</l>
+        <l>Lieti appien:</l>
+        <l>Per te solo</l>
+        <l>Tace il duolo,</l>
+        <l>Per te lieto</l>
+        <l>Vive il cor.</l>
+        <l>Muta resta</l>
+        <l>La tempesta</l>
+        <l>Nelle gioie</l>
+        <l>Dell’amor.</l>
+        <l>Qualche calma</l>
+        <l>Spera l’alma</l>
+        <l>Nell’ebbrezza</l>
+        <l>Del piacer.</l>
+      </sp>
+      <stage>Mentre cantasi il coro, si eseguiscono danze e diversi giuochi,fra i quali quello di tirare colla balestra in un bersaglio,che finalmente viene colto da Jemmy,al quale è rivolto il seguente:</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Gloria e onore al giovinetto,</l>
+        <l>Ch’ebbe il premio del valor.</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>(correndo alla madre)</l>
+        <l>Madre mia!</l>
+      </sp>
+      <stage>JEMMY(correndo alla madre)Madre mia!</stage>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>(abbracciandolo)</l>
+        <l>Qual sommo bene!</l>
+      </sp>
+      <stage>EDWIGE(abbracciandolo)Qual sommo bene!</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Di destrezza il premio ottiene;</l>
+        <l>Di suo padre ha in petto il cor.</l>
+        <l>(festeggiando Jemmy)</l>
+        <l>Si cinge il pro’ guerriero</l>
+        <l>Di ben temprato acciaio,</l>
+        <l>E indossa un rozzo saio</l>
+        <l>Il semplice pastor.</l>
+        <l>Ma dove onore il chiama</l>
+        <l>Perir da forte ei brama,</l>
+        <l>E il dardo suo penetra</l>
+        <l>Le ascose vie del cor.</l>
+      </sp>
+      <stage>CORODi destrezza il premio ottiene;Di suo padre ha in petto il cor.(festeggiando Jemmy)Si cinge il pro’ guerrieroDi ben temprato acciaio,E indossa un rozzo saioIl semplice pastor.Ma dove onore il chiamaPerir da forte ei brama,E il dardo suo penetraLe ascose vie del cor.</stage>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>Ecco colà, tremante,</l>
+        <l>E reggendosi appena,</l>
+        <l>Madre, un pastor s’inoltra…</l>
+      </sp>
+      <sp who="#pescatore">
+        <speaker>PESCATORE:</speaker>
+        <l>Egli è il bravo Leutoldo.</l>
+        <l>Qual frangente lo guida?</l>
+      </sp>
+      <stage>Scena IX                           Leutoldo e detti.</stage>
+      <sp who="#leutoldo">
+        <speaker>LEUTOLDO:</speaker>
+        <l>(affannoso, appoggiandosi sopra una scure insanguinata)</l>
+        <l>Salvatemi!… Salvatemi!..</l>
+      </sp>
+      <stage>LEUTOLDO(affannoso, appoggiandosi sopra una scure insanguinata)Salvatemi!… Salvatemi!..</stage>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Che temi?</l>
+      </sp>
+      <sp who="#leutoldo">
+        <speaker>LEUTOLDO:</speaker>
+        <l>Il loro sdegno…</l>
+      </sp>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Parla. Chi ti minaccia?</l>
+      </sp>
+      <sp who="#leutoldo">
+        <speaker>LEUTOLDO:</speaker>
+        <l>Quell’empio, che giammai</l>
+        <l>Perdona; il più crudele,</l>
+        <l>Di tutti il più funesto…</l>
+        <l>Deh! mi salvate, o tra voi spento io resto.</l>
+      </sp>
+      <sp who="#melchthal">
+        <speaker>MELCHTHAL:</speaker>
+        <l>Che festi?</l>
+      </sp>
+      <sp who="#leutoldo">
+        <speaker>LEUTOLDO:</speaker>
+        <l>Il mio dovere.</l>
+        <l>Solo di mia famiglia</l>
+        <l>Lasciommi il cielo un’adorata figlia:</l>
+        <l>Un vil ministro del governatore</l>
+        <l>Rapirla osava al mio paterno amore…</l>
+        <l>D’Edwige io sono padre,</l>
+        <l>Difender io la seppi.</l>
+        <l>Quest’arma mia l’oppresse…</l>
+        <l>(mostrando la scure intrisa di sangue)</l>
+        <l>Ah! lo vedete voi? quest’è suo sangue.</l>
+      </sp>
+      <stage>LEUTOLDOIl mio dovere.Solo di mia famigliaLasciommi il cielo un’adorata figlia:Un vil ministro del governatoreRapirla osava al mio paterno amore…D’Edwige io sono padre,Difender io la seppi.Quest’arma mia l’oppresse…(mostrando la scure intrisa di sangue)Ah! lo vedete voi? quest’è suo sangue.</stage>
+      <sp who="#melchthal">
+        <speaker>MELCHTHAL:</speaker>
+        <l>Oh ciel!.. chi lo sostiene?</l>
+        <l>Tutto pe’ giorni suoi temer conviene.</l>
+      </sp>
+      <sp who="#leutoldo">
+        <speaker>LEUTOLDO:</speaker>
+        <l>Sopra l’opposta sponda</l>
+        <l>Un certo asil m’avrei… Deh! mi vi guida  </l>
+        <l>(pregando il Pescatore)</l>
+      </sp>
+      <stage>LEUTOLDOSopra l’opposta spondaUn certo asil m’avrei… Deh! mi vi guida  (pregando il Pescatore)</stage>
+      <sp who="#pescatore">
+        <speaker>PESCATORE:</speaker>
+        <l>Il torrente e la rocca</l>
+        <l>Vietano avvicinarsi ove tu brami;</l>
+        <l>E l’affrontarli, o misero,</l>
+        <l>E darsi a certa morte.</l>
+      </sp>
+      <sp who="#leutoldo">
+        <speaker>LEUTOLDO:</speaker>
+        <l>Oh quanto ingiusto</l>
+        <l>Sei meco! all’ultim’ora</l>
+        <l>Non oda i tuoi rimorsi il sommo Nume.</l>
+      </sp>
+      <stage>Guglielmo e detti.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>(Egli sparì, né a rinvenirlo io giunsi.)</l>
+      </sp>
+      <sp who="#coro di soldati">
+        <speaker>CORO DI SOLDATI:</speaker>
+        <l>(di dentro)</l>
+        <l>Leutoldo! Sciagurato!</l>
+      </sp>
+      <stage>CORO DI SOLDATI(di dentro)Leutoldo! Sciagurato!</stage>
+      <sp who="#leutoldo">
+        <speaker>LEUTOLDO:</speaker>
+        <l>Gran Dio! tu sol mi puoi salvar.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Io sento</l>
+        <l>Minacciar e dolersi…</l>
+      </sp>
+      <sp who="#leutoldo">
+        <speaker>LEUTOLDO:</speaker>
+        <l>Oh mio Guglielmo!</l>
+        <l>Crudo destin m’opprime…</l>
+        <l>Mi si persegue: non son reo, mel credi.</l>
+        <l>E per sottrarmi al mio crudel destin</l>
+        <l>Questo mi resta solo arduo cammin.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Tu l’odi, pescator, lo salva…</l>
+      </sp>
+      <sp who="#leutoldo">
+        <speaker>LEUTOLDO:</speaker>
+        <l>È vano!</l>
+        <l>Come il tristo Gessler</l>
+        <l>Egli è per me crudele.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>(Sventurato!..) che apprendo!</l>
+        <l>Ma s’ei lo nega, io di salvarti intendo.</l>
+      </sp>
+      <sp who="#coro di soldati">
+        <speaker>CORO DI SOLDATI:</speaker>
+        <l>(di dentro)</l>
+        <l>Chiede sangue l’assassinio,</l>
+        <l>E Leutoldo il verserà.</l>
+      </sp>
+      <stage>CORO DI SOLDATI(di dentro)Chiede sangue l’assassinio,E Leutoldo il verserà.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>(a Leutoldo)</l>
+        <l>Vieni, t’affretta… Addio.</l>
+      </sp>
+      <stage>GUGLIELMO(a Leutoldo)Vieni, t’affretta… Addio.</stage>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Tu a morte vai…</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Ah, non temere, Edwige:</l>
+        <l>Trova sicura guida</l>
+        <l>L’uomo che nel cielo interamente fida.</l>
+      </sp>
+      <stage>(scende in battello, e vogando parte con Leutoldo)</stage>
+      <stage>Rodolfo con coro di soldati e detti.</stage>
+      <sp who="#coro di svizzeri">
+        <speaker>CORO DI SVIZZERI:</speaker>
+        <l>(inginocchiati e volti verso il battello che vedesi lottar coll’onde)</l>
+        <l>Nume pietoso,</l>
+        <l>Dio di bontà!</l>
+        <l>Il suo riposo</l>
+        <l>Da te verrà.</l>
+        <l>Salvar clemente</l>
+        <l>Tu puoi, Signor,</l>
+        <l>Dell’innocente</l>
+        <l>Il difensor.</l>
+      </sp>
+      <stage>CORO DI SVIZZERI(inginocchiati e volti verso il battello che vedesi lottar coll’onde)Nume pietoso,Dio di bontà!Il suo riposoDa te verrà.Salvar clementeTu puoi, Signor,Dell’innocenteIl difensor.</stage>
+      <stage>RODOLFO e CORO DI SOLDATI(da lontano)Di morte e scempioÈ giunta l’ora.Sciagura all’empio!Convien che mora!Guglielmo ha sorpassato il punto più difficile del tragittoe vedesi approdare felicemente all’opposta spiaggia.In questo momento entrano Rodolfo e soldati.</stage>
+      <sp who="#rodolfo">
+        <speaker>RODOLFO:</speaker>
+        <l>Oh mio furor!</l>
+      </sp>
+      <sp who="#coro di svizzeri">
+        <speaker>CORO DI SVIZZERI:</speaker>
+        <l>Superato ha il rischio omai.</l>
+      </sp>
+      <sp who="#rodolfo">
+        <speaker>RODOLFO:</speaker>
+        <l>M’è d’oltraggio il lor godere.</l>
+      </sp>
+      <sp who="#coro di svizzeri">
+        <speaker>CORO DI SVIZZERI:</speaker>
+        <l>(Mugge il tuon sul nostro capo:</l>
+        <l>Di tempesta egli è forier…</l>
+        <l>Fuggiam, fuggiam…)</l>
+      </sp>
+      <sp who="#rodolfo">
+        <speaker>RODOLFO:</speaker>
+        <l>Restate,</l>
+        <l>E tosto a me svelate</l>
+        <l>Chi l’assassino ha salvo,</l>
+        <l>Chi ‘l trasse in sicurtà.</l>
+        <l>Orsù, obbedite, o chi tace cadrà.</l>
+      </sp>
+      <stage>I soldati circondano gli svizzeri.</stage>
+      <sp who="#melchthal">
+        <speaker>MELCHTHAL:</speaker>
+        <l>Ciò ch’ei fece, ognun di noi</l>
+        <l>L’oserebbe. Amici, ardir.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Amici, ardir! Amici, ardir!</l>
+      </sp>
+      <sp who="#rodolfo">
+        <speaker>RODOLFO:</speaker>
+        <l>Ah! tremate. Il reo svelate.</l>
+      </sp>
+      <sp who="#melchthal">
+        <speaker>MELCHTHAL:</speaker>
+        <l>Sciagurato! questo suolo</l>
+        <l>Non è suol di delator!</l>
+      </sp>
+      <sp who="#rodolfo">
+        <speaker>RODOLFO:</speaker>
+        <l>Quel ribaldo circondate!</l>
+        <l>E sia tratto al mio signor.</l>
+        <l>(Alcuni soldati s’impadroniscono di Melchthal;</l>
+        <l>gli altri, ricevuto l’ordine da Rodolfo,</l>
+        <l>si dispongono ad obbedirlo</l>
+        <l>invadendo le capanne all’intorno.)</l>
+        <l>Su via, struggete,</l>
+        <l>Tutto incendete,</l>
+        <l>Orma non resti</l>
+        <l>D’abitator.</l>
+        <l>Strage e rovina</l>
+        <l>Sia la lor sorte.</l>
+        <l>Lampo di morte</l>
+        <l>È il mio furor.</l>
+      </sp>
+      <stage>RODOLFOQuel ribaldo circondate!E sia tratto al mio signor.(Alcuni soldati s’impadroniscono di Melchthal;gli altri, ricevuto l’ordine da Rodolfo,si dispongono ad obbedirloinvadendo le capanne all’intorno.)Su via, struggete,Tutto incendete,Orma non restiD’abitator.Strage e rovinaSia la lor sorte.Lampo di morteÈ il mio furor.</stage>
+      <sp who="#soldati">
+        <speaker>SOLDATI:</speaker>
+        <l>Sì, sì, struggiamo,</l>
+        <l>Tutto incendiamo,</l>
+        <l>Orma non resti</l>
+        <l>D’abitator.</l>
+        <l>Strage e rovina</l>
+        <l>Sia la lor sorte.</l>
+        <l>Lampo di morte</l>
+        <l>È il suo furor.</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>Sì, si, struggete,</l>
+        <l>Tutto incendete,</l>
+        <l>Ma in ciel v’ha un Nume</l>
+        <l>Vendicator .</l>
+        <l>Te forse un giorno</l>
+        <l>Farà perduto</l>
+        <l>L’arco temuto</l>
+        <l>Del genitor.</l>
+      </sp>
+      <stage>EDWIGE, MELCHTHAL, PESCATORE e CORO DI SVIZZERISì, sì, struggete,Tutto incendete,Ma in ciel v’ha un NumeVendicator .Verrà un gagliardo,Il di cui dardoSaprà punireUn oppressor.Malgrado l’opposizione de’ suoi compagni,Melchthal è circondato e trascinato dai soldati di Rodolfo.</stage>
+      <stage>Valle profonda.In lontano vedesi il villaggio di Brunnenai piedi delle alte montagne del Rütli.A sinistra dell’attore si scorge parte del lago dei Quattro Cantoni.Incomincia la notte.</stage>
+      <stage>Coro di cacciatori recando le uccise belve,indi coro di pastori di dentro.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Qual silvestre metro intorno</l>
+        <l>Si congiunge al nostro corno!</l>
+        <l>Mesce il daino il suon morente</l>
+        <l>Al fragore del torrente.</l>
+        <l>Ed allor ch’estinto resta</l>
+        <l>Chi la gioia può imitar?</l>
+        <l>Il furor della tempesta</l>
+        <l>Può quel giubilo eguagliar.</l>
+        <l>Odesi il suono d’una campana,</l>
+        <l>quindi la cornamusa dei boari svizzeri.</l>
+      </sp>
+      <stage>COROQual silvestre metro intornoSi congiunge al nostro corno!Mesce il daino il suon morenteAl fragore del torrente.Ed allor ch’estinto restaChi la gioia può imitar?Il furor della tempestaPuò quel giubilo eguagliar.Odesi il suono d’una campana,quindi la cornamusa dei boari svizzeri.</stage>
+      <sp who="#un cacciatore">
+        <speaker>UN CACCIATORE:</speaker>
+        <l>Qual suon?.. Udiam.</l>
+      </sp>
+      <sp who="#coro di pastori">
+        <speaker>CORO DI PASTORI:</speaker>
+        <l>Del raggiante lago in seno</l>
+        <l>Cade il giorno.</l>
+        <l>Il suo placido sereno</l>
+        <l>Sparve intorno.</l>
+        <l>La campana del villaggio</l>
+        <l>Di partenza è a noi messaggio.</l>
+        <l>Già cade il dì.</l>
+      </sp>
+      <sp who="#un cacciatore">
+        <speaker>UN CACCIATORE:</speaker>
+        <l>La molesta voce è questa</l>
+        <l>Del monotono pastor.</l>
+      </sp>
+      <stage>Suono lontano.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Di Gessler risuona il corno.</l>
+        <l>Ciascun riede al suo soggiorno,</l>
+        <l>Già cade il dì.</l>
+      </sp>
+      <stage>(partono)</stage>
+      <stage>Scena II                                        Matilde sola.</stage>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>S’allontanano alfine!</l>
+        <l>Io sperai rivederlo,</l>
+        <l>E il cor non m’ha ingannata,</l>
+        <l>Ei mi seguìa… lontano esser non puote…</l>
+        <l>Io tremo… ohimè!.. se qui venisse mai!</l>
+        <l>Onde l’arcano sentimento estremo</l>
+        <l>Di cui nutro l’ardor, ch’amo fors’anco!</l>
+        <l>Arnoldo! Arnoldo! ah! sei pur tu ch’io bramo.</l>
+        <l>Semplice abitator di questi campi,</l>
+        <l>Di questi monti caro orgoglio e speme,</l>
+        <l>Sei tu sol che incanti il mio pensiero,</l>
+        <l>Che il mio timor cagioni. Oh! almen ch’io possa</l>
+        <l>Confessarlo a me stessa… io t’amo, Arnoldo!</l>
+        <l>Tu i giorni miei salvasti,</l>
+        <l>E l’amor più possente in me destasti.</l>
+        <l>Selva opaca, deserta brughiera</l>
+        <l>Qual piacer la tua vista mi dà.</l>
+        <l>Sovra i monti ove il turbine impera</l>
+        <l>Alla calma il mio cor s’aprirà.</l>
+        <l>L’eco sol le mie pene udirà.</l>
+        <l>Tu, bell’astro, al cui dolce riflesso</l>
+        <l>Il mio passo vagante sen va,</l>
+        <l>Tu m’addita ove Arnoldo s’aggira;</l>
+        <l>A lui solo il mio cuor s’aprirà,</l>
+        <l>Esso sol le mie pene udirà.</l>
+      </sp>
+      <stage>Arnoldo e detta.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Se il mio giungere t’oltraggia,</l>
+        <l>Mel perdona, Matilde. I passi miei,</l>
+        <l>Incauto sino a te spinger osai.</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>A mutua colpa è facile il perdono.</l>
+        <l>Arnoldo, io t’attendea</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Questi soavi accenti, ah! ben lo veggo,</l>
+        <l>Ha la pietà inspirati.</l>
+        <l>Deh! compiangi il mio stato;</l>
+        <l>Amandoti io t’offendo.</l>
+        <l>Il mio destino è orribile!</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Ed è men tristo il mio?</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Uopo è però</l>
+        <l>Che in così dolce e barbaro momento,</l>
+        <l>E fors’anco l’estremo,</l>
+        <l>L’alma figlia dei re</l>
+        <l>A conoscermi apprenda.</l>
+        <l>Io con nobile orgoglio ardisco dirlo:</l>
+        <l>Il ciel per te dato m’avea la vita.</l>
+        <l>D’un fatal pregiudizio</l>
+        <l>Lo scoglio misurai.</l>
+        <l>Col suo poter esso tra noi s’innalza:</l>
+        <l>Rispettarlo saprò da te lontano.</l>
+        <l>Comandami, o Matilde,</l>
+        <l>Fuggir dagli occhi tuoi,</l>
+        <l>Che abbandoni la patria e il padre mio,</l>
+        <l>Morte trovar sovra straniera terra,</l>
+        <l>Sceglier per tomba inospital foresta;</l>
+        <l>Parla, pronunzia un solo accento.</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Arresta.</l>
+        <l>Tutto apprendi, o sventurato,</l>
+        <l>Il segreto del mio cor.</l>
+        <l>Per te solo fu piagato,</l>
+        <l>Per te palpita d’amor.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Se tu m’ami, se all’affetto</l>
+        <l>Puoi risponder del mio cor,</l>
+        <l>Una speme avere in petto</l>
+        <l>Io potrò di pace ancor.</l>
+        <l>Ma tra noi qual mai distanza,</l>
+        <l>Quanti ostacoli vi sono!</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Ah, non perder la speranza:</l>
+        <l>Tutto il ciel ti dette in dono.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Cari, onesti e dolci accenti!</l>
+        <l>Di piacer colmate il cor.</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>(Posso amarlo. Quai momenti</l>
+        <l>Proverò di gioia e amor!)</l>
+        <l>Riedi al campo della gloria</l>
+        <l>Nuovi allori a conquistar…</l>
+        <l>Potrai sol colla vittoria</l>
+        <l>La mia destra meritar.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Riedo al campo della gloria</l>
+        <l>Nuovi allori a meritar.</l>
+        <l>Quando in premio di vittoria</l>
+        <l>Cesserò di palpitar?</l>
+      </sp>
+      <stage>MATILDE e ARNOLDOIl core che t’amaSol cerca, sol bramaDi viver con te.Ah! questa speranza,Che sola m’avanzaFia sempre con me.S’ode un calpestìo.</stage>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Alcun vien… Separiamoci.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Potrò vederti ancora?</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Al nuovo giorno,</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Oh gioia!</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Quando sorga l’aurora,</l>
+        <l>Nell’antico tempietto,</l>
+        <l>Al cospetto di Dio,</l>
+        <l>Da te riceverò l’ultimo addio.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+      </sp>
+      <stage>(cade a’ piedi di Matilde e le bacia la mano)Oh! suprema bontà!</stage>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Forza è lasciarti.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Cielo! Guglielmo!</l>
+        <l>Gualtier! Dio! Parti, ah! parti.</l>
+        <l>Matilde parte.</l>
+      </sp>
+      <stage>ARNOLDOCielo! Guglielmo!Gualtier! Dio! Parti, ah! parti.Matilde parte.</stage>
+      <stage>Gualtiero, Guglielmo e detto.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Solo non eri in questo loco.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Ebbene?</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Un colloquio ben grato</l>
+        <l>A turbar giunsi.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Eppure io non vi chiedo</l>
+        <l>A che mirate…</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>E forse,</l>
+        <l>Più che a ciascun, è a te mestieri udirlo.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>No. Ad Arnoldo che importa</l>
+        <l>S’egli abbandona i suoi,</l>
+        <l>S’egli in segreto aspira</l>
+        <l>A servir chi ne opprime?</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>E d’onde il sai?</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Dal fuggir di Matilde e dal tuo stato.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>E tu mi vegli!</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Io stesso!</l>
+        <l>In questo cor lanciasti</l>
+        <l>Sin da ieri il sospetto.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Ma se amassi?</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Gran Dio!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Se amato io fossi,</l>
+        <l>I supposti…</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Sarian veri.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>E il mio amore…</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Empio saria.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Matilde…</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Ell’è nostra nemica.</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Ha nelle vene un abborrito sangue.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>E vilmente egli cadde a’ piedi suoi.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Ma di qual dritto il cieco furor vostro?..</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Un solo accento, e ti sarà palese.</l>
+        <l>Sai, tu, Arnoldo, che sia l’amor di patria?</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Voi parlate di patria?</l>
+        <l>Ah, non ve n’ha per noi.</l>
+        <l>Io lascio queste rive</l>
+        <l>Abitate dall’odio,</l>
+        <l>Dalla discordia, dal timor: fantasmi</l>
+        <l>Di servitudi orrende.</l>
+        <l>In arene men triste onor m’attende.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Allor che scorre – De’ forti il sangue!</l>
+        <l>Che tutto langue, – Che tutto è orror,</l>
+        <l>La spada impugna, – Gessler difendi,</l>
+        <l>La vita splendi – Pel traditor.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Al campo volo – Onor m’attende,</l>
+        <l>Ardir m’accende, – M’accende amor.</l>
+        <l>Desìo di gloria – M’invita all’armi:</l>
+        <l>È di vittoria – Ardente il cor.</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Estinto un vecchio – Gessler facea,</l>
+        <l>Quell’alma rea – Svenar lo fe’</l>
+        <l>Da noi vendetta – L’estinto aspetta,</l>
+        <l>E la domanda, – La vuol da te.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Oh, qual mistero orrendo!..</l>
+        <l>Un vecchio ei spense!.. Oh Dio!</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Per te moria piangendo…</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Ed è?..</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Tacer degg’io.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>S’ei parla, il cor ti squarcia.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Mio padre! . .</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Sciagurato!</l>
+        <l>Ei stesso fu svenato,</l>
+        <l>Ei stesso cadde spento</l>
+        <l>Per man dell’oppressor.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Ah, che sento!.. il padre!.. ohimè! io spiro…</l>
+        <l>Troncar suoi dì</l>
+        <l>Quell’empio ardiva,</l>
+        <l>Ed il mio acciar</l>
+        <l>Non si snudò!</l>
+        <l>Mio padre, ohimè!</l>
+        <l>Mi malediva,</l>
+        <l>Ed io la patria</l>
+        <l>Allor tradiva!..</l>
+        <l>Cielo! mai più</l>
+        <l>Lo rivedrò!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>È dunque vero?</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Vidi il delitto;</l>
+        <l>Il derelitto</l>
+        <l>Vidi spirar.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Che far?.. Gran Dio!</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Il tuo dover.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Morir degg’io…</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Viver dêi tu.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Quell’empio al suolo</l>
+        <l>Cadrà svenato.</l>
+        <l>Io l’ho giurato</l>
+        <l>Pel genitor.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Deh! frena i tuoi trasporti,</l>
+        <l>Deh, calma l’ira omai</l>
+        <l>E vendicar potrai</l>
+        <l>La patria, il genitor.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>E a che tardiam?</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>La notte</l>
+        <l>A’ voti nostri amica,</l>
+        <l>Già distende su noi</l>
+        <l>Un’ombra protettrice,</l>
+        <l>E tu vedrai tra poco</l>
+        <l>Avvolti nel mistero</l>
+        <l>Qui giunger cauti i generosi amici</l>
+        <l>Che udranno i pianti tuoi,</l>
+        <l>E il vomere e la falce,</l>
+        <l>Cangiati in brandi ed aste</l>
+        <l>Tentar con miglior sorte</l>
+        <l>O libertade o morte.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Confuso da quel bosco</l>
+        <l>Sembrami udir fragor.</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Ascoltiamo .</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Silenzio.</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Sì, ascoltiamo.</l>
+        <l>Di numerosi passi</l>
+        <l>Risuona la foresta.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Più lo strepito appressa.</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Chi avanza?</l>
+      </sp>
+      <stage>Abitanti d’Unterwalden, e detti.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Amici della patria.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Oh ventura!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Oh vendetta.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Con ardor richiese il cor</l>
+        <l>Di sfidar, di superar</l>
+        <l>La distanza ed i perigli,</l>
+        <l>E ogni cor con ardor</l>
+        <l>Brama vincere o morir.</l>
+        <l>Il vigor de’ tuoi consigli</l>
+        <l>Nuovo in noi desta ardir.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>O d’Unterwald voi generosi figli!</l>
+        <l>Questo nobile ardor non ne sorprende.</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Imitarlo sapremo.</l>
+        <l>Si ode una tromba.</l>
+        <l>Degli amici di Schwitz</l>
+        <l>Odo la tromba risuonar d’intorno;</l>
+        <l>È surto, o patria, di tua gloria il giorno!</l>
+      </sp>
+      <stage>Abitanti di Schwitz, e detti.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Domo, o ciel, da uno straniero,</l>
+        <l>A’ suoi mali il forte indura,</l>
+        <l>E coperto dal mistero,</l>
+        <l>Quivi è tratto a lagrimar.</l>
+        <l>Qui sol può la sua sciagura</l>
+        <l>Col suo pianto mitigar.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>E scusabil la tema</l>
+        <l>In chi tra’ ceppi vive.</l>
+        <l>Alla mia speme v’affidate: amica</l>
+        <l>Ne arriderà la sorte.</l>
+        <l>Onore al cor del forte!</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Onore al cor del forte!</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>D’Uri mancan soltanto</l>
+        <l>I magnanimi amici.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Onde le tracce</l>
+        <l>Nasconder de’ lor passi,</l>
+        <l>E per meglio celar la nostra impresa,</l>
+        <l>S’apron co’ remi loro</l>
+        <l>Sul mobile elemento</l>
+        <l>Il sol sentier che non inganna mai.</l>
+        <l>Dal lago vedonsi approdare alla riva diverse navicelle.</l>
+      </sp>
+      <stage>GUGLIELMOOnde le tracceNasconder de’ lor passi,E per meglio celar la nostra impresa,S’apron co’ remi loroSul mobile elementoIl sol sentier che non inganna mai.Dal lago vedonsi approdare alla riva diverse navicelle.</stage>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>De’ prodi, ascolta, è già compiuto il patto.</l>
+        <l>Non odi tu?</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Chi viene?</l>
+      </sp>
+      <stage>Abitanti d’Uri dalla parte del lago e detti.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Amici della patria.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Onore della patria a’ difensor.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>(meno gli abitanti di Uri)</l>
+        <l>Onore della patria a’ difensor.</l>
+      </sp>
+      <stage>TUTTI(meno gli abitanti di Uri)Onore della patria a’ difensor.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Guglielmo, sol per te</l>
+        <l>Tre popoli s’unîr,</l>
+        <l>Il barbaro a punir</l>
+        <l>Ciascuno è presto.</l>
+        <l>Parla, e il tuo dir sarà</l>
+        <l>Di stimolo al codardo;</l>
+        <l>E come acceso dardo</l>
+        <l>Il core infiammerà.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>La valanga che volve</l>
+        <l>Dalla cima dei monti,</l>
+        <l>E morte suol lasciar sui campi nostri,</l>
+        <l>In sé mali men crudi,</l>
+        <l>Men funesti rinserra</l>
+        <l>Di quei che versa empio tiranno in terra.</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>A noi pur oggi è dato,</l>
+        <l>Ed al nostro coraggio,</l>
+        <l>Di purgar queste rive</l>
+        <l>Dal mostro abbominato.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Di guerra alla minaccia,</l>
+        <l>Ad onta nostra, il cor freme ed agghiaccia!</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Dov’è l’antica audacia? Per mille anni</l>
+        <l>Gl’indomiti avi nostri</l>
+        <l>A difender fur presti i dritti loro,</l>
+        <l>E in noi fia che s’estingua ardor cotanto?</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Ma adesso… Oh qual terror!</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Da lungo tempo</l>
+        <l>Usi a soffrir, più il peso non sentite</l>
+        <l>Delle vostre sciagure? Almen pensate</l>
+        <l>Alle vostre famiglie. I padri vostri,</l>
+        <l>E le mogli e le figlie</l>
+        <l>Più asilo omai non han nel vostro tetto.</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Più ospitale tra noi non v’ha ricetto.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Amici, contro questo giogo infame</l>
+        <l>Invan reclama umanità. Trionfanti</l>
+        <l>Sono i nostri oppressori.</l>
+        <l>E cinti da’ perigli</l>
+        <l>Vediamo i genitor, le spose, i figli…</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>E cinti da’ perigli</l>
+        <l>Vediamo i genitor, le spose, i figli…</l>
+        <l>Che far dobbiam? che far? a noi lo svela.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>La morte vendicar del padre mio.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Melchthal? qual era il suo delitto?</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>L’amor della sua patria.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>L’empio di morte è degno.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Mostriamoci degni alfine</l>
+        <l>Del sangue onde sortiamo:</l>
+        <l>Nell’ombra e nel silenzio</l>
+        <l>I tre Canton di lancia e spada armiam.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Nell’ombra e nel silenzio</l>
+        <l>I tre Canton di lancia e spada armiam.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Domani fia che sorga</l>
+        <l>Il giorno di vendetta.</l>
+        <l>Ne reggerete voi?</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Non lo temer! Sì, tutti.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Presti a vincer?</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Sì, tutti.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Presti a morir?</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Sì, tutti.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Ebben, serbate</l>
+        <l>Vigore ed ardimento,</l>
+        <l>Sia fermo il patto e saldo il giuramento.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Giuriam, giuriamo</l>
+        <l>Pei nostri danni,</l>
+        <l>Per gli avi nostri,</l>
+        <l>Pe’ nostri affanni,</l>
+        <l>Al Dio de’ regi</l>
+        <l>E de’ pastor,</l>
+        <l>Di tutti abbatter</l>
+        <l>Gli empi oppressor.</l>
+        <l>Se qualche vil</l>
+        <l>V’ha mai tra noi,</l>
+        <l>Lo privi il sol</l>
+        <l>De’ raggi suoi,</l>
+        <l>Non oda il ciel</l>
+        <l>La sua preghiera,</l>
+        <l>E giunto il fin</l>
+        <l>Di sua carriera,</l>
+        <l>Gli neghi tomba</l>
+        <l>La terra ancor.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Già sorge il dì…</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Segnal per noi d’allarme.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Di vittoria.</l>
+      </sp>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Qual grido</l>
+        <l>Corrispondervi deve?</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>All’armi!</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>All’armi!</l>
+      </sp>
+      <stage>(partono)</stage>
+      <stage>Matilde e Arnoldo.</stage>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Arnoldo, e d’onde nasce</l>
+        <l>La tua disperazion? è questo, parla,</l>
+        <l>Questo il tenero addio che m’attendea?</l>
+        <l>Tu parti, ma ben presto</l>
+        <l>Noi potrem rivederci.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Ah! no, qui resto,</l>
+        <l>Resto per vendicare il padre mio.</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Che speri tu?</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Sangue soltanto io spero.</l>
+        <l>Ai favori rinunzio della sorte.</l>
+        <l>A tutto ciò che aspiro,</l>
+        <l>Alla gloria, a te stessa.</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Arnoldo, a me?</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Fu tratto a morte il padre.</l>
+        <l>Sotto un ferro nemico egli è caduto.</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Ohimè!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Non sai tu forse</l>
+        <l>Chi dirigesse il colpo?</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Ah! freme il core oppresso…</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Tel disse il tuo terror… Gessler.</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Ei stesso?</l>
+        <l>Ah! se privo di speme è l’amore,</l>
+        <l>Non mi resta che pianto e terrore,</l>
+        <l>Infelice per sempre sarò.</l>
+        <l>Un delitto a me toglie il mio bene,</l>
+        <l>Fa più acerbe le immense mie pene,</l>
+        <l>Né il suo duol confortar io potrò.</l>
+        <l>Ah! che invan provocando il destino</l>
+        <l>A te salda serbai la mia fé;</l>
+        <l>Ché se tu non mi sei più vicino</l>
+        <l>Sarà morte la vita per me.</l>
+        <l>E per colmo di duol così rio</l>
+        <l>A te un padre il delitto rapi;</l>
+        <l>Né divider, piangendo, poss’io</l>
+        <l>Quel destin che te stesso colpì.</l>
+        <l>Ma in onta a un fato barbaro</l>
+        <l>Per sempre il mesto cor</l>
+        <l>Conserverà l’imagine</l>
+        <l>Del mio liberator.</l>
+        <l>Odesi un suono lontano.</l>
+      </sp>
+      <stage>MATILDEEi stesso?Ah! se privo di speme è l’amore,Non mi resta che pianto e terrore,Infelice per sempre sarò.Un delitto a me toglie il mio bene,Fa più acerbe le immense mie pene,Né il suo duol confortar io potrò.Ah! che invan provocando il destinoA te salda serbai la mia fé;Ché se tu non mi sei più vicinoSarà morte la vita per me.E per colmo di duol così rioA te un padre il delitto rapi;Né divider, piangendo, poss’ioQuel destin che te stesso colpì.Ma in onta a un fato barbaroPer sempre il mesto corConserverà l’imagineDel mio liberator.Odesi un suono lontano.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Qual fragor! Qual suono ascolto?</l>
+        <l>Che sarà?</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Gessler si desta.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Ei verrà dal fulmin côlto.</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Oggi scende ad una festa</l>
+        <l>Che in Altdorf ei fe’ bandir.</l>
+        <l>Fuggi… Ah! fuggi un uom fatale,</l>
+        <l>La sua gioia è ognor mortale;</l>
+        <l>Se mai priego al cor ti scese</l>
+        <l>Fuggi, o misero.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Io fuggir?</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Se a me niega di seguirti</l>
+        <l>Reo poter di sorte austera,</l>
+        <l>L’alma mia ti segue intiera</l>
+        <l>Fida sempre al tuo soffrir.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Fanno insulto al duol quei canti;</l>
+        <l>Io qui resto per punir.</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Pensa, Arnoldo…</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Al padre io penso.</l>
+      </sp>
+      <stage>MATILDE e ARNOLDOSacrifizio io gli offro immensoSe ti lascio nel martir.Dunque addio, per sempre addio,Il destin si dee compir.Partono per lati opposti.Gran piazza d’Altdorf.</stage>
+      <stage>Scena II                                           Nel fondo scorgesi il castello di Gessler.Da una parte evvi un palco destinato al Governatore.Ornano la piazza alcuni alberi di tigli, meli, ecc.Nel mezzo sarà piantato un palo a cui è sovrappostoun trofeo di armi, al quale tutti dovranno inchinarsi.Gessler, Rodolfo, ufficiali, paggi, guardie,coro di soldati e di svizzeri, e popolo.</stage>
+      <sp who="#soldati">
+        <speaker>SOLDATI:</speaker>
+        <l>Gloria al poter supremo,</l>
+        <l>Gloria a Gessler,</l>
+        <l>Terror del mondo inter.</l>
+        <l>Nella sua rabbia estrema</l>
+        <l>Ei lancia l’anatema</l>
+        <l>Sul popolo e il guerrier.</l>
+      </sp>
+      <sp who="#svizzere">
+        <speaker>SVIZZERE:</speaker>
+        <l>(Ben altre leggi avremo,</l>
+        <l>Matilde, un dì per te.</l>
+        <l>Il tuo poter supremo</l>
+        <l>Sia tutto amor e fé.)</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>L’orgoglioso invan pretende</l>
+        <l>Disfidar la mia vendetta,</l>
+        <l>Le mie leggi trasgredir.</l>
+        <l>Dee ciascun, come me stesso,</l>
+        <l>D’ogni grado, d’ogni sesso,</l>
+        <l>Quest’insegna riverir.</l>
+      </sp>
+      <stage>(va a sedersi sul palco)</stage>
+      <sp who="#soldati">
+        <speaker>SOLDATI:</speaker>
+        <l>Gloria al poter supremo,</l>
+        <l>Gloria a Gessler,</l>
+        <l>Terror del mondo inter.</l>
+        <l>Nella sua rabbia estrema</l>
+        <l>Ei lancia l’anatema</l>
+        <l>Sul popolo e il guerrier.</l>
+      </sp>
+      <sp who="#svizzere">
+        <speaker>SVIZZERE:</speaker>
+        <l>(Ben altre leggi avremo,</l>
+        <l>Matilde, un dì per te.</l>
+        <l>Il tuo poter supremo</l>
+        <l>Sia tutto amor e fé.)</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Che l’impero germano oggi riceva</l>
+        <l>Della vostra obbedienza il sacro pegno.</l>
+        <l>Da un secolo ei si degna</l>
+        <l>Un appoggio accordar col suo potere</l>
+        <l>Alla fralezza vostra. Da vittoria</l>
+        <l>I nostri dritti allora</l>
+        <l>Vennero assicurati,</l>
+        <l>E fur dagli avi vostri rispettati.</l>
+        <l>Co’ canti e in un co’ giuochi</l>
+        <l>Di questo dì l’orgoglio</l>
+        <l>S’esalti. Udiste? Il voglio.</l>
+      </sp>
+      <sp who="#svizzere">
+        <speaker>SVIZZERE:</speaker>
+        <l>Quell’agil piè</l>
+        <l>Ch’egual non ha,</l>
+        <l>Invan l’augel</l>
+        <l>Seguir potrà.</l>
+      </sp>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>La tua danza sì leggiera,</l>
+        <l>Pastorella forestiera,</l>
+        <l>Oggi al canto s’unirà.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Non ha l’aprile</l>
+        <l>Un fior più gentile</l>
+        <l>Che sia simile</l>
+        <l>A tua beltà.</l>
+        <l>Segue danza.</l>
+      </sp>
+      <stage>TUTTINon ha l’aprileUn fior più gentileChe sia simileA tua beltà.Segue danza.</stage>
+      <stage>Alcuni soldati trascinano sul proscenio Guglielmo ed il figlio,che hanno osservati tra la folla, e detti.</stage>
+      <sp who="#rodolfo">
+        <speaker>RODOLFO:</speaker>
+        <l>(a Guglielmo)</l>
+        <l>Inchinati, superbo.</l>
+      </sp>
+      <stage>RODOLFO(a Guglielmo)Inchinati, superbo.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Nella fiacchezza sua se puoi tu, armato,</l>
+        <l>Un popolo avvilir, me no, che sprezzo</l>
+        <l>Qualunque legge che a viltà mi spinge.</l>
+      </sp>
+      <sp who="#rodolfo">
+        <speaker>RODOLFO:</speaker>
+        <l>Miserabile!</l>
+      </sp>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>(Oh qual funesto ardire!</l>
+        <l>Per lui temer dobbiamo!)</l>
+      </sp>
+      <sp who="#rodolfo">
+        <speaker>RODOLFO:</speaker>
+        <l>(a Gessler)</l>
+        <l>Avvi chi tenta</l>
+        <l>Infranger le tue leggi.</l>
+      </sp>
+      <stage>RODOLFO(a Gessler)Avvi chi tentaInfranger le tue leggi.</stage>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Qual è,</l>
+        <l>qual è l’audace?</l>
+      </sp>
+      <sp who="#rodolfo">
+        <speaker>RODOLFO:</speaker>
+        <l>È al tuo cospetto.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Il tuo poter rispetto,</l>
+        <l>Venero le tue leggi… e non pertanto</l>
+        <l>Il capo io piego innanzi a Dio soltanto…</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Cedi, obbedisci, o trema.</l>
+        <l>La mia voce, i tuoi rischi</l>
+        <l>Ti minacciano insiem. Mira quest’armi,</l>
+        <l>Osserva que’ soldati.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Io t’odo, io vedo,</l>
+        <l>E non t’intendo ancora.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Lo schiavo ch’è ribelle al suo signore,</l>
+        <l>Non freme in preveder la propria sorte?</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>E qui sarei, ov’io temessi morte?</l>
+      </sp>
+      <sp who="#rodolfo">
+        <speaker>RODOLFO:</speaker>
+        <l>Quest’ardire, signor, me lo palesa:</l>
+        <l>Egli è Guglielmo Tell, è quell’iniquo</l>
+        <l>Che Leutoldo sottrasse all’ira tua.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>S’arresti, olà!</l>
+      </sp>
+      <sp who="#soldati">
+        <speaker>SOLDATI:</speaker>
+        <l>Gli è quello</l>
+        <l>L’arcier temuto tanto,</l>
+        <l>L’ardito remator.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Per lui non v’ha pietade;</l>
+        <l>Ei cadde in poter mio.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>L’ultimo almen foss’io</l>
+        <l>Scherno del tuo furor.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Quel fasto m’offende,</l>
+        <l>Furente mi rende.</l>
+        <l>Dal fulmin colpito</l>
+        <l>Piegar ti vedrò.</l>
+      </sp>
+      <sp who="#rodolfo">
+        <speaker>RODOLFO:</speaker>
+        <l>Dal fulmin colpito</l>
+        <l>Domato il vedrò.</l>
+        <l>Andiam, si disarmi,</l>
+        <l>Fuggire non può.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>(Oh perfida sorte!</l>
+        <l>Diletto mio figlio,</l>
+        <l>T’invola al periglio,</l>
+        <l>E lieto morrò.)</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>(Quel fulmin che pende</l>
+        <l>Felice mi rende</l>
+        <l>Se teco colpito</l>
+        <l>Morire potrò.)</l>
+      </sp>
+      <stage>Vien tolta la balestra e la faretra a Guglielmo.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>(a Jemmy di nascosto)</l>
+        <l>(Corri alla madre, e fa’ che tosto incenda</l>
+        <l>De’ nostri monti sull’estrema cima</l>
+        <l>La fiamma che segnale a’ tre Cantoni</l>
+        <l>Sia di battaglia.)</l>
+      </sp>
+      <stage>GUGLIELMO(a Jemmy di nascosto)(Corri alla madre, e fa’ che tosto incendaDe’ nostri monti sull’estrema cimaLa fiamma che segnale a’ tre CantoniSia di battaglia.)</stage>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>(a Jemmy che s’allontana)</l>
+        <l>Arresta!</l>
+        <l>(La loro tenerezza</l>
+        <l>La mia vendetta infiamma.)</l>
+        <l>(a Guglielmo)</l>
+        <l>A me rispondi.</l>
+        <l>E questo il figlio tuo?</l>
+      </sp>
+      <stage>GESSLER(a Jemmy che s’allontana)Arresta!(La loro tenerezzaLa mia vendetta infiamma.)(a Guglielmo)A me rispondi.E questo il figlio tuo?</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Il solo.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>(scendendo dal palco)</l>
+        <l>Ebben, salvarlo vuoi?</l>
+      </sp>
+      <stage>GESSLER(scendendo dal palco)Ebben, salvarlo vuoi?</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Salvarlo!</l>
+        <l>Qual è il suo fallo mai?</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>L’esserti figlio,</l>
+        <l>Il tuo parlar, l’incauto orgoglio tuo.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Io solo, io sol t’offesi:</l>
+        <l>Me solo punir dêi.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>(distaccando un pomo da un albero)</l>
+        <l>Del suo perdono or tu l’arbitro sei.</l>
+        <l>Siccome abile arciero</l>
+        <l>Ti tiene ognun de’ tuoi,</l>
+        <l>Sul capo di tuo figlio</l>
+        <l>Pongasi questo pomo, e tu col dardo</l>
+        <l>Involarglielo dêi sotto il mio sguardo.</l>
+      </sp>
+      <stage>GESSLER(distaccando un pomo da un albero)Del suo perdono or tu l’arbitro sei.Siccome abile arcieroTi tiene ognun de’ tuoi,Sul capo di tuo figlioPongasi questo pomo, e tu col dardoInvolarglielo dêi sotto il mio sguardo.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Che chiedi mai!</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Lo voglio.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Qual orribile decreto!</l>
+        <l>Sul figlio mio!.. mi perdo!..</l>
+        <l>E tu, crudel, puoi comandarlo? Ah! mai…</l>
+        <l>Troppo grande è il delitto.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Obbedisci!</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Ma tu figli non hai?</l>
+        <l>V’è un Dio, Gessler…</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Obbedisci!</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Egli n’ascolta…</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Assai</l>
+        <l>Dicesti; cedi alfin.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Non posso.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>(ai soldati)</l>
+        <l>Pera,</l>
+        <l>Pera il suo figlio.</l>
+      </sp>
+      <stage>GESSLER(ai soldati)Pera,Pera il suo figlio.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Ah! no… terribil legge!</l>
+        <l>Gessler, di me trionfi,</l>
+        <l>Una viltà m’impone</l>
+        <l>La vita di mio figlio:</l>
+        <l>Gessler, innanzi a te mi prostro.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>(deridendo Guglielmo con sarcasmo)</l>
+        <l>Ecco l’arcier temuto,</l>
+        <l>L’ardito remator. La tema il vince,</l>
+        <l>Lo abbatte un detto.</l>
+      </sp>
+      <stage>GESSLER(deridendo Guglielmo con sarcasmo)Ecco l’arcier temuto,L’ardito remator. La tema il vince,Lo abbatte un detto.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Ah! questo avvilimento</l>
+        <l>È giusto e mi punisci a dritto.</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>Ah! padre,</l>
+        <l>Pensa alla tua destrezza!</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Temo il troppo amor mio.</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>Dammi la mano,</l>
+        <l>Posala sul mio cor,</l>
+        <l>Senti: di tema no, batte d’amor.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Ti benedico figlio mio, piangendo,</l>
+        <l>E il prisco ardir sul petto tuo riprendo.</l>
+        <l>La calma del tuo core</l>
+        <l>Ritorna a me vigore.</l>
+        <l>(Affetti miei, tacete.)</l>
+        <l>A me l’armi porgete.</l>
+        <l>Io son Guglielmo Tell.</l>
+      </sp>
+      <stage>Gli vien restituita la balestra e la faretra che vuota per terra;sceglie uno strale e ne cela un altro sotto la veste.</stage>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>S’annodi il figlio suo.</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>Annodarmi! che ingiuria! Ah! no, che almeno</l>
+        <l>Libero io mora. Espongo</l>
+        <l>Senza tremare il capo al colpo orrendo,</l>
+        <l>E senza impallidir fermo l’attendo.</l>
+      </sp>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>(Ah! nemmeno l’innocenza</l>
+        <l>Può calmar la sua vendetta!)</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>Coraggio, padre mio!</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Alla sua voce, dalla man mi cadono</l>
+        <l>Quest’armi abbominate,</l>
+        <l>E le luci ho di pianto ottenebrate.</l>
+        <l>Mio figlio! ch’io t’abbracci</l>
+        <l>Un’altra volta ancora.</l>
+        <l>(Al cenno di Gessler,</l>
+        <l>Jemmy ritorna presso Guglielmo.)</l>
+        <l>Resta immobile, e vêr la terra inchina</l>
+        <l>Un ginocchio a pregar. Invoca Iddio,</l>
+        <l>Ché, sol per suo favore,</l>
+        <l>Al sen tornar potrai del genitore.</l>
+        <l>Così riman col guardo fiso al ciel.</l>
+        <l>Tu per amore vacillar potresti</l>
+        <l>Vedendo contro te lanciar l’acuto stral,</l>
+        <l>Un moto sol potrebbe</l>
+        <l>La vita a noi costar.</l>
+        <l>Jemmy, pensa a tua madre.</l>
+        <l>Ella ci attende insiem.</l>
+        <l>Vien posto il pomo sul capo di Jemmy</l>
+        <l>ch’è tornato in fretta al suo posto;</l>
+        <l>Guglielmo con torbidi sguardi scorre intorno la piazza;</l>
+        <l>guarda Gessler e porta la mano dove ha celato il secondo strale;</l>
+        <l>prende la mira, scocca e coglie il pomo.</l>
+      </sp>
+      <stage>GUGLIELMOAlla sua voce, dalla man mi cadonoQuest’armi abbominate,E le luci ho di pianto ottenebrate.Mio figlio! ch’io t’abbracciUn’altra volta ancora.(Al cenno di Gessler,Jemmy ritorna presso Guglielmo.)Resta immobile, e vêr la terra inchinaUn ginocchio a pregar. Invoca Iddio,Ché, sol per suo favore,Al sen tornar potrai del genitore.Così riman col guardo fiso al ciel.Tu per amore vacillar potrestiVedendo contro te lanciar l’acuto stral,Un moto sol potrebbeLa vita a noi costar.Jemmy, pensa a tua madre.Ella ci attende insiem.Vien posto il pomo sul capo di Jemmych’è tornato in fretta al suo posto;Guglielmo con torbidi sguardi scorre intorno la piazza;guarda Gessler e porta la mano dove ha celato il secondo strale;prende la mira, scocca e coglie il pomo.</stage>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>Vittoria!</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>Oh, padre!</l>
+      </sp>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>Sua vita è salva.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Ciel!</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Il pomo colse, oh rabbia!</l>
+      </sp>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>Dal capo glielo tolse.</l>
+        <l>Guglielmo trionfò.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Oh furor!</l>
+      </sp>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>Grazie, o Ciel!</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>Ei mi salvò la vita,</l>
+        <l>Un padre potea mai spegnere il figlio?</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Io più non reggo… io mi sostengo appena…</l>
+        <l>Sei tu, mio caro figlio?</l>
+        <l>Io soccombo alla gioia!</l>
+      </sp>
+      <stage>(sviene abbracciando il figlio, e gli cade lo strale che aveva nascosto)</stage>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>Ah! soccorrete il padre.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>(Ei sfugge all’ira mia…)</l>
+        <l>(osservando il dardo caduto)</l>
+        <l>Che vedo!</l>
+      </sp>
+      <stage>GESSLER(Ei sfugge all’ira mia…)(osservando il dardo caduto)Che vedo!</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Oh cielo! il sol mio ben salvai.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Quel dardo a che?</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Per te, s’egli era estinto.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Trema!</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Io tremar?</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Sia di catene avvinto.</l>
+      </sp>
+      <stage>I soldati eseguiscono.</stage>
+      <stage>Matilde, damigelle e detti.</stage>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Fia ver? delitto orrendo!</l>
+      </sp>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>(E ancor dobbiam soffrir?)</l>
+      </sp>
+      <sp who="#soldati">
+        <speaker>SOLDATI:</speaker>
+        <l>Entrambi den morir.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Che tosto sien troncati</l>
+        <l>Lor giorni sciagurati.</l>
+        <l>Io lo giurai, ma i rei</l>
+        <l>Sfidar gli sdegni miei,</l>
+        <l>Attendan quindi in ceppi</l>
+        <l>L’ora del loro morir.</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Che! il figlio?.. Ah! no: t’arresta.</l>
+        <l>Fiera sentenza è questa.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Dato fu il segno e basti;</l>
+        <l>Meco tu invan contrasti.</l>
+        <l>Il figlio ancor…</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Giammai,</l>
+        <l>Giammai finché vivrò.</l>
+        <l>(ai soldati)</l>
+        <l>In nome del sovrano</l>
+        <l>Suo figlio a me sia dato.</l>
+      </sp>
+      <stage>MATILDEGiammai,Giammai finché vivrò.(ai soldati)In nome del sovranoSuo figlio a me sia dato.</stage>
+      <stage>(a Gessler)Un popol vedi, insano,Contro di te sdegnato,E tu resisti ancor?</stage>
+      <sp who="#rodolfo">
+        <speaker>RODOLFO:</speaker>
+        <l>(sottovoce a Gessler)</l>
+        <l>(Cedilo: il padre</l>
+        <l>Almen ne resta.)</l>
+      </sp>
+      <stage>RODOLFO(sottovoce a Gessler)(Cedilo: il padreAlmen ne resta.)</stage>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>Ah! sì, bontade</l>
+        <l>Del cielo è questa.</l>
+      </sp>
+      <stage>Gessler cede e dà ordine che Jemmysia affidato a Matilde.</stage>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Guglielmo!.. oh sorte</l>
+        <l>Atra, funesta!</l>
+        <l>(vedendolo incatenato fra i soldati)</l>
+        <l>Tal premio ottiene</l>
+        <l>La sua virtù?</l>
+      </sp>
+      <stage>GESSLERGuglielmo!.. oh sorteAtra, funesta!(vedendolo incatenato fra i soldati)Tal premio ottieneLa sua virtù?</stage>
+      <sp who="#rodolfo">
+        <speaker>RODOLFO:</speaker>
+        <l>(sottovoce a Gessler)</l>
+        <l>Mormoran essi;</l>
+        <l>Non li odi tu?</l>
+      </sp>
+      <stage>RODOLFO(sottovoce a Gessler)Mormoran essi;Non li odi tu?</stage>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>L’audacia dell’infido</l>
+        <l>Nell’odio lor rivive.</l>
+        <l>Verso Kusmac il guido:</l>
+        <l>Per lago il condurrò.</l>
+      </sp>
+      <sp who="#rodolfo">
+        <speaker>RODOLFO:</speaker>
+        <l>Sul lago?.. la bufera…</l>
+        <l>Deh! pensa…</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Van timor!</l>
+        <l>(deridendo Guglielmo)</l>
+        <l>Chi mai, chi mai dispera</l>
+        <l>Dell’abil remator?</l>
+        <l>A nuovo il traggo orribile</l>
+        <l>Supplizio entro Kusmac,</l>
+        <l>A cui fa cinta il lago.</l>
+      </sp>
+      <stage>GESSLERVan timor!(deridendo Guglielmo)Chi mai, chi mai disperaDell’abil remator?A nuovo il traggo orribileSupplizio entro Kusmac,A cui fa cinta il lago.</stage>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>Grazia!</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Sì, or or vedrete,</l>
+        <l>Come ciascun fo pago.</l>
+        <l>Io l’abbandono a’ rettili.</l>
+        <l>La lor vorace fame</l>
+        <l>Gli schiuderà l’avello.</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>Ah padre!</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Oh figlio!</l>
+      </sp>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>Grazia!</l>
+        <l>Grazia!</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Giammai!..</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Oh ciel!..</l>
+        <l>(È il suo destin segnato,</l>
+        <l>Ma fia per me salvato</l>
+        <l>Il figlio e il genitor.)</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>(a Matilde)</l>
+        <l>Quando mi vuol l’ingrato</l>
+        <l>Da un padre separato,</l>
+        <l>In voi sol spera il cor.</l>
+      </sp>
+      <stage>JEMMY(a Matilde)Quando mi vuol l’ingratoDa un padre separato,In voi sol spera il cor.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>(a Gessler)</l>
+        <l>Compi il crudel mio fato,</l>
+        <l>Ma almeno il figlio amato</l>
+        <l>Sia tolto a tant’orror.</l>
+      </sp>
+      <stage>GUGLIELMO(a Gessler)Compi il crudel mio fato,Ma almeno il figlio amatoSia tolto a tant’orror.</stage>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>(Misero! a qual mai fato</l>
+        <l>Serbato è il suo valor!)</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>(al popolo)</l>
+        <l>Si sgombri, olà! il recinto,</l>
+        <l>O a’ piedi vostri estinto</l>
+        <l>Faccio costui cader.</l>
+        <l>(Temon la mia vendetta.)</l>
+      </sp>
+      <stage>GESSLER(al popolo)Si sgombri, olà! il recinto,O a’ piedi vostri estintoFaccio costui cader.(Temon la mia vendetta.)</stage>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>(Silenzio: assicuriamo</l>
+        <l>Il dì della vendetta.)</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Anàtema a Gessler!</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>(a Matilde)</l>
+        <l>Udiste la sentenza?</l>
+        <l>Anàtema a Gessler!</l>
+      </sp>
+      <stage>JEMMY(a Matilde)Udiste la sentenza?Anàtema a Gessler!</stage>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>Anàtema a Gessler!</l>
+        <l>Ei di morte è sul sentier.</l>
+      </sp>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>Se alcun di lor s’inoltra,</l>
+        <l>Si faccia al suol cader.</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Ah! vieni tu con me.</l>
+      </sp>
+      <stage>(conduce seco Jemmy)</stage>
+      <sp who="#soldati">
+        <speaker>SOLDATI:</speaker>
+        <l>Evviva, evviva Gessler.</l>
+      </sp>
+      <sp who="#svizzeri">
+        <speaker>SVIZZERI:</speaker>
+        <l>Anàtema a Gessler.</l>
+        <l>Gessler, Rodolfo ed i soldati si fanno largo nella confusione del popolo,</l>
+        <l>e trascinano Guglielmo altrove. Matilde conduce seco Jemmy.</l>
+        <l>Il popolo, incalzato dai soldati, si allontana nella massima costernazione.</l>
+      </sp>
+      <stage>SVIZZERIAnàtema a Gessler.Gessler, Rodolfo ed i soldati si fanno largo nella confusione del popolo,e trascinano Guglielmo altrove. Matilde conduce seco Jemmy.Il popolo, incalzato dai soldati, si allontana nella massima costernazione.</stage>
+      <stage>L’interno di una vecchia capanna in ruine, che avvicina ai giardini del castello di Altdorf.Scena prima</stage>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Oh ciel! Sì torbido e perché?</l>
+        <l>È questo il dolce addio</l>
+        <l>Che tu mi dai ben mio?</l>
+        <l>Non temer, al mio sen</l>
+        <l>Presto ti stringerò.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>No! Io resto: l’onor</l>
+        <l>Me lo impone e il dover!</l>
+        <l>Io resto: vendicar vo’ il padre!</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Che speri tu?</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Voglio</l>
+        <l>Sangue e vendetta! Questo</l>
+        <l>È l’unico mio pensier!</l>
+        <l>Alla gloria</l>
+        <l>Agli onori rinuncio…</l>
+        <l>All’amore, a Matilde!..</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>A me? Arnoldo!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Che vuoi di più?</l>
+        <l>Il padre mio</l>
+        <l>Empi sicari han spento!</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Ciel!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>E sai tu chi guidò la lor man?</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Gelo d’orror… finisci!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Te lo dice il terror: Gessler.</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Gessler!</l>
+        <l>Pel nostro amore</l>
+        <l>Non v’ha più speme,</l>
+        <l>Ci aspettan solo</l>
+        <l>Affanni e pene,</l>
+        <l>A noi la sorte</l>
+        <l>È avversa ognor.</l>
+        <l>Ah! Matilde sventurata!</l>
+        <l>Per te pace più non v’è.</l>
+        <l>Sdegnata, l’ombra di tuo padre s’oppone</l>
+        <l>Al nostro infausto amor;</l>
+        <l>Un dover crudel t’aspetta;</l>
+        <l>Arnoldo, compi il tuo dover.</l>
+        <l>O giorno di sciagure!</l>
+        <l>Ho in odio il suol natio!</l>
+        <l>Ora che il padre tu dèi vendicar</l>
+        <l>Più non ti lice a Matilde pensar!</l>
+        <l>Da te, mio ben, lontano</l>
+        <l>Traendo i mesti dì</l>
+        <l>Farò le piagge invano</l>
+        <l>Del nome tuo sonar.</l>
+        <l>L’immago tua scolpita</l>
+        <l>Nel cor io porterò.</l>
+        <l>Chi mi salvò la vita,</l>
+        <l>Giammai scordar saprò!</l>
+        <l>Quai grida? Qual mai</l>
+        <l>Romor si sente?.. Gessler</l>
+        <l>Si desta. Ohimè! Una festa militare</l>
+        <l>Già annuncia quel romor!</l>
+        <l>Ah! Non ti esponi</l>
+        <l>Ai sguardi lor,</l>
+        <l>Arnoldo! Ah! Credi</l>
+        <l>All’amor mio.</l>
+        <l>Fuggi! O tremar</l>
+        <l>Per te degg’io.</l>
+        <l>Sì! Và! Ah, se cara</l>
+        <l>A te son io,</l>
+        <l>No! Non tardar</l>
+        <l>Di più ben mio,</l>
+        <l>O mi farai</l>
+        <l>Dal duol morir. Ovunque</l>
+        <l>Ti trarrà la sorte, ti seguiranno</l>
+        <l>I miei sospir. Li senti tu? Quei canti</l>
+        <l>M’empiono di terror!</l>
+        <l>Per pietà, non tardar!</l>
+        <l>Ah! pensa sol al padre…</l>
+        <l>(Oh! Quale istante di dolor. Straziar</l>
+        <l>Mi sento in seno il cor!)</l>
+        <l>Giammai scordar</l>
+        <l>Io ti saprò!</l>
+        <l>Arnoldo parte a sinistra e Matilde a destra del pubblico.</l>
+      </sp>
+      <stage>MATILDEGessler!Pel nostro amoreNon v’ha più speme,Ci aspettan soloAffanni e pene,A noi la sorteÈ avversa ognor.Ah! Matilde sventurata!Per te pace più non v’è.Sdegnata, l’ombra di tuo padre s’opponeAl nostro infausto amor;Un dover crudel t’aspetta;Arnoldo, compi il tuo dover.O giorno di sciagure!Ho in odio il suol natio!Ora che il padre tu dèi vendicarPiù non ti lice a Matilde pensar!Da te, mio ben, lontanoTraendo i mesti dìFarò le piagge invanoDel nome tuo sonar.L’immago tua scolpitaNel cor io porterò.Chi mi salvò la vita,Giammai scordar saprò!Quai grida? Qual maiRomor si sente?.. GesslerSi desta. Ohimè! Una festa militareGià annuncia quel romor!Ah! Non ti esponiAi sguardi lor,Arnoldo! Ah! CrediAll’amor mio.Fuggi! O tremarPer te degg’io.Sì! Và! Ah, se caraA te son io,No! Non tardarDi più ben mio,O mi faraiDal duol morir. OvunqueTi trarrà la sorte, ti seguirannoI miei sospir. Li senti tu? Quei cantiM’empiono di terror!Per pietà, non tardar!Ah! pensa sol al padre…(Oh! Quale istante di dolor. StraziarMi sento in seno il cor!)Giammai scordarIo ti saprò!Arnoldo parte a sinistra e Matilde a destra del pubblico.</stage>
+      <stage>Interno d’una abitazione rustica.</stage>
+      <stage>Arnoldo solo.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Non mi lasciare, o speme di vendetta.</l>
+        <l>Guglielmo è fra catene, ed impaziente</l>
+        <l>Io di pugnar ora l’istante affretto.</l>
+        <l>In questo dolce asilo… qual silenzio!</l>
+        <l>Andiamo… io non ascolto</l>
+        <l>Che il suono de’ miei passi. . . Oh! vada in bando</l>
+        <l>Il segreto terror… entriam…</l>
+        <l>(fermandosi dopo aver fatto alcuni passi</l>
+        <l>per penetrare nelle stanze interne)</l>
+        <l>Oh Dio!</l>
+        <l>Sul limitar malgrado mio m’arresto…</l>
+        <l>Fu spento il padre mio e in vita io resto!</l>
+        <l>O muto asil del pianto</l>
+        <l>Dov’io sortiva il dì:</l>
+        <l>Ieri felice… ahi, quanto!</l>
+        <l>Oggi fatal così!</l>
+        <l>Invano il padre io chiamo:</l>
+        <l>Egli non m’ode più.</l>
+        <l>Fuggir quel tetto io bramo</l>
+        <l>Che caro un dì mi fu.</l>
+      </sp>
+      <stage>ARNOLDONon mi lasciare, o speme di vendetta.Guglielmo è fra catene, ed impazienteIo di pugnar ora l’istante affretto.In questo dolce asilo… qual silenzio!Andiamo… io non ascoltoChe il suono de’ miei passi. . . Oh! vada in bandoIl segreto terror… entriam…(fermandosi dopo aver fatto alcuni passiper penetrare nelle stanze interne)Oh Dio!Sul limitar malgrado mio m’arresto…Fu spento il padre mio e in vita io resto!O muto asil del piantoDov’io sortiva il dì:Ieri felice… ahi, quanto!Oggi fatal così!Invano il padre io chiamo:Egli non m’ode più.Fuggir quel tetto io bramoChe caro un dì mi fu.</stage>
+      <sp who="#voci di dentro">
+        <speaker>VOCI DI DENTRO:</speaker>
+        <l>Vendetta!!</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Oh mia speranza!</l>
+        <l>D’allarme io sento i voti!</l>
+        <l>Son essi i miei più fidi;</l>
+        <l>Chi mai li guida a me?</l>
+      </sp>
+      <stage>Coro di svizzeri e detto.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Guglielmo è prigioniero</l>
+        <l>E ognun di ferro è privo.</l>
+        <l>Di farlo salvo</l>
+        <l>È in noi desir.</l>
+        <l>Armi vogliamo,</l>
+        <l>Per lui morir.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Da gran tempo Guglielmo e mio padre</l>
+        <l>Questa speme nutrivano intera.</l>
+        <l>Dove sta la deserta riviera</l>
+        <l>Lancie e spade nascose vi son.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Ad armarci, su, corriam</l>
+        <l>Ad armarci, su, voliam.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Dal pianto omai si resti;</l>
+        <l>L’ira al pensier si desti</l>
+        <l>Di mia fatalità.</l>
+        <l>Su chi mio padre ha spento,</l>
+        <l>E del mio ben mi priva,</l>
+        <l>La morte scenderà.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Non temere, no, t’affida,</l>
+        <l>Già sul reo la morte sta.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Corriam, voliam, s’affretti</l>
+        <l>Lo scempio di quel vile</l>
+        <l>Che su noi trionfò.</l>
+        <l>Sì, vendetta dell’empio facciamo:</l>
+        <l>Il sentiero additarvi saprò.</l>
+        <l>Ah! venite; delusa la speme</l>
+        <l>Renderem di chi vili ne brama.</l>
+        <l>Gloria, onore, vendetta ci chiama,</l>
+        <l>E Guglielmo per noi non morrà.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Sì, vendetta, delusa la speme</l>
+        <l>D’ogni tristo per noi resterà.</l>
+        <l>Partono.</l>
+      </sp>
+      <stage>COROSì, vendetta, delusa la spemeD’ogni tristo per noi resterà.Partono.</stage>
+      <stage>In lontananza scorgonsi varie rupi,sopra una delle quali è la casa di Guglielmo.Alcuni scogli circondano il lago.Edwige e coro di donne svizzere.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Resta omai; ti perde il duolo;</l>
+        <l>Non ascolti suon di guerra?</l>
+      </sp>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Gessler io veder vo’ solo…</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Dal crudel che vuoi sperar?</l>
+        <l>Morte solo…</l>
+      </sp>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Sì, la bramo.</l>
+        <l>Ah! sì, la voglio. Egli trionfa: io priva</l>
+        <l>Del figlio e in un di Tell, convien ch’io viva?</l>
+      </sp>
+      <stage>Jemmy, Matilde e detta.</stage>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>(di dentro)</l>
+        <l>Ah madre!</l>
+      </sp>
+      <stage>JEMMY(di dentro)Ah madre!</stage>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Chi parlava?</l>
+        <l>Questa voce sì cara…</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>Ah madre!</l>
+      </sp>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Udirlo parmi. È desso! è desso!</l>
+        <l>Escono Jemmy e Matilde.</l>
+        <l>Oh sorte!.. Il figlio mio! Ma… ohimè! tuo padre</l>
+        <l>I passi tuoi non segue….</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>A’ ferri ond’egli è cinto</l>
+        <l>Togliersi alfin saprà, ché da Matilde</l>
+        <l>Tutto aspettar dobbiamo.</l>
+      </sp>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Tu, di tutto capace,</l>
+        <l>Esser l’angiol per noi potrai di pace!</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Salvo da orribil nembo</l>
+        <l>A te ritorno il figlio!</l>
+        <l>Di bella pace in grembo</l>
+        <l>Nol giungerà il periglio.</l>
+        <l>Matilde a voi predice</l>
+        <l>Un termine al dolor.</l>
+        <l>Con me la speme il dice,</l>
+        <l>La speme ond’arde il cor.</l>
+      </sp>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>E per partire i nostri mali estremi,</l>
+        <l>Su queste rive dimorar ti piace,</l>
+        <l>Tu l’ornamento e lo splendor d’un soglio?</l>
+        <l>Comincia ad oscurarsi il cielo.</l>
+      </sp>
+      <stage>EDWIGEE per partire i nostri mali estremi,Su queste rive dimorar ti piace,Tu l’ornamento e lo splendor d’un soglio?Comincia ad oscurarsi il cielo.</stage>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Esser l’ostaggio di Guglielmo io voglio.</l>
+        <l>E qui la mia presenza</l>
+        <l>Del suo tornar risponde.</l>
+      </sp>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Del suo tornar! E vana</l>
+        <l>Non sarà questa speme!</l>
+        <l>D’Altdorf a che tolto non vien per noi?</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>Ei non è più colà!</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Pel lago è tratto.</l>
+      </sp>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Per lago? L’uragano</l>
+        <l>Già si scatena… Ovunque</l>
+        <l>È morte pel mio sposo.</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>(sovvenendosi di qualche cosa)</l>
+        <l>Oh qual pensier! Corretto</l>
+        <l>Sia quest’error fatale,</l>
+        <l>E di salvezza alfin splenda il segnale.</l>
+      </sp>
+      <stage>JEMMY(sovvenendosi di qualche cosa)Oh qual pensier! CorrettoSia quest’error fatale,E di salvezza alfin splenda il segnale.</stage>
+      <stage>(per partire)</stage>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Che speri, o figlio, tu?</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>Salvar mio padre.</l>
+        <l>(alla madre, di nascosto di Matilde)</l>
+        <l>Tutto un popol si scuota</l>
+        <l>Al sorger di que’ fochi,</l>
+        <l>E in ogni riva in cui Gessler discenda,</l>
+        <l>Che a vendetta vegliamo ovunque apprenda.</l>
+        <l>Jemmy corre ad incendiare la casa di Guglielmo</l>
+        <l>e porta le sue armi.</l>
+        <l>La bufera imperversa orribilmente.</l>
+      </sp>
+      <stage>JEMMYSalvar mio padre.(alla madre, di nascosto di Matilde)Tutto un popol si scuotaAl sorger di que’ fochi,E in ogni riva in cui Gessler discenda,Che a vendetta vegliamo ovunque apprenda.Jemmy corre ad incendiare la casa di Guglielmoe porta le sue armi.La bufera imperversa orribilmente.</stage>
+      <stage>Detti, meno Jemmy.</stage>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Qual mai fragore io sento?</l>
+      </sp>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Sopra l’ali del vento</l>
+        <l>Morte passeggia… Ah! il mio Guglielmo è spento .</l>
+      </sp>
+      <stage>(Edwige disperatamente s’inginocchia e tutti con lei.)Tu che l’appoggio – Del debol sei,Ascolta, o cielo – I voti miei!Se il mio Guglielmo – Tu non mi rendi,Se nol difendi, – Perduto io l’ho.Deh! frangi il giogo – Che ci fa oppressi,Punisci il fallo – Negli empi stessi.</stage>
+      <stage>Leutoldo e dette.</stage>
+      <sp who="#leutoldo">
+        <speaker>LEUTOLDO:</speaker>
+        <l>Io lo vidi, io lo vidi!</l>
+        <l>Dalla tempesta è spinto</l>
+        <l>Guglielmo a queste rive.</l>
+        <l>Cessâr d’esser cattive</l>
+        <l>Le mani sue mentre il naviglio ei regge.</l>
+      </sp>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Se Guglielmo pur giunge,</l>
+        <l>Della procella ad onta,</l>
+        <l>Ad afferrar la spiaggia,</l>
+        <l>Della comun salvezza io vi rispondo.</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>A lui tutti corriam.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>A lui corriamo.</l>
+        <l>Partono tutti da un lato.</l>
+      </sp>
+      <stage>TUTTIA lui corriamo.Partono tutti da un lato.</stage>
+      <stage>Guglielmo, Jemmy, Edwige e donne.</stage>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Io ti rivedo!</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>O padre!</l>
+      </sp>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Oh! istante di dolcezza!</l>
+        <l>Si abbracciano.</l>
+      </sp>
+      <stage>EDWIGEOh! istante di dolcezza!Si abbracciano.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Quale splendor vegg’io?</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>L’asil del padre mio,</l>
+        <l>Onde donar l’allarmi, io stesso incesi,</l>
+        <l>E a salvar l’armi tue soltanto intesi.</l>
+        <l>(dando al padre la balestra e gli strali)</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Gessler! tu puoi venir.</l>
+      </sp>
+      <stage>Gessler, soldati e detti.</stage>
+      <sp who="#soldati">
+        <speaker>SOLDATI:</speaker>
+        <l>(dal lago)</l>
+        <l>Invan ne vuol fuggir:</l>
+        <l>(a Gessler)</l>
+        <l>Sull’orme sue si movi.</l>
+      </sp>
+      <stage>SOLDATI(dal lago)Invan ne vuol fuggir:(a Gessler)Sull’orme sue si movi.</stage>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>(sopra lo scoglio)</l>
+        <l>La grazia sua ritrovi</l>
+        <l>In sen di morte il vil.</l>
+      </sp>
+      <stage>GESSLER(sopra lo scoglio)La grazia sua ritroviIn sen di morte il vil.</stage>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>È lui!</l>
+      </sp>
+      <sp who="#donne">
+        <speaker>DONNE:</speaker>
+        <l>È lui!</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Sgombrate:</l>
+        <l>La Svizzera respiri.</l>
+        <l>(ascende sopra uno scoglio)</l>
+        <l>A te, Gessler!</l>
+      </sp>
+      <stage>GUGLIELMOSgombrate:La Svizzera respiri.(ascende sopra uno scoglio)A te, Gessler!</stage>
+      <stage>Mentre Gessler sopraggiunge,Guglielmo lo trafigge con un dardo.</stage>
+      <sp who="#gessler">
+        <speaker>GESSLER:</speaker>
+        <l>(colpito, cade nel lago)</l>
+        <l>Io moro!..</l>
+      </sp>
+      <stage>GESSLER(colpito, cade nel lago)Io moro!..</stage>
+      <sp who="#coro di svizzeri">
+        <speaker>CORO DI SVIZZERI:</speaker>
+        <l>(che sopraggiungono)</l>
+        <l>È il dardo di Guglielmo!</l>
+      </sp>
+      <stage>CORO DI SVIZZERI(che sopraggiungono)È il dardo di Guglielmo!</stage>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Oh giorno di contento!</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>A Dio grazie s’aspetta.</l>
+      </sp>
+      <sp who="#matilde">
+        <speaker>MATILDE:</speaker>
+        <l>Nulla il poté salvar dalla vendetta.</l>
+        <l>Né il poter, né le dovizie,</l>
+        <l>Né i supplizi, né il furor.</l>
+        <l>La tempesta va cessando per gradi.</l>
+      </sp>
+      <stage>MATILDENulla il poté salvar dalla vendetta.Né il poter, né le dovizie,Né i supplizi, né il furor.La tempesta va cessando per gradi.</stage>
+      <stage>Gualtiero, coro di svizzeri armati e detti.</stage>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>A que’ segnali, amici,</l>
+        <l>Cessiamo di temer. Sangue si chiede,</l>
+        <l>Onde renderli estinti, e il sangue vuolsi</l>
+        <l>Dell’oppressor… Che vedo!</l>
+        <l>Salvo Guglielmo! Oh sorte!</l>
+        <l>Al superbo si voli.  </l>
+        <l>(per incamminarsi co’ suoi)</l>
+      </sp>
+      <stage>GUALTIEROA que’ segnali, amici,Cessiamo di temer. Sangue si chiede,Onde renderli estinti, e il sangue vuolsiDell’oppressor… Che vedo!Salvo Guglielmo! Oh sorte!Al superbo si voli.  (per incamminarsi co’ suoi)</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>(trattenendolo)</l>
+        <l>E vuoi?</l>
+      </sp>
+      <stage>GUGLIELMO(trattenendolo)E vuoi?</stage>
+      <sp who="#gualtiero">
+        <speaker>GUALTIERO:</speaker>
+        <l>Ch’egli soccomba.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Nel lago puoi cercar la di lui tomba.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Onor, onor – A lui che ci salvò.</l>
+      </sp>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Non salda fia l’impresa</l>
+        <l>Finché d’Altdorf le detestate mura</l>
+        <l>Da’ fondamenti lor non sian distrutte.</l>
+      </sp>
+      <stage>Arnoldo, svizzeri armati e detti.</stage>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Son quelle mura a servitù ridotte.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Vittoria! Sì, vittoria!</l>
+        <l>Altdorf è in poter nostro.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>Se spento il padre mio dal vil non era,</l>
+        <l>La gioia egli vedria d’Elvezia intera.</l>
+        <l>A poco a poco si dileguano le nubi e il cielo si rasserena.</l>
+      </sp>
+      <stage>ARNOLDOSe spento il padre mio dal vil non era,La gioia egli vedria d’Elvezia intera.A poco a poco si dileguano le nubi e il cielo si rasserena.</stage>
+      <sp who="#guglielmo">
+        <speaker>GUGLIELMO:</speaker>
+        <l>Tutto cangia, il ciel si abbella,</l>
+        <l>L’aria è pura.</l>
+      </sp>
+      <sp who="#edwige">
+        <speaker>EDWIGE:</speaker>
+        <l>Il dì raggiante.</l>
+      </sp>
+      <sp who="#jemmy">
+        <speaker>JEMMY:</speaker>
+        <l>La natura è lieta anch’ella.</l>
+      </sp>
+      <sp who="#arnoldo">
+        <speaker>ARNOLDO:</speaker>
+        <l>E allo sguardo incerto, errante,</l>
+        <l>Tutto dolce e nuovo appar.</l>
+      </sp>
+      <stage>Cala il sipario.</stage>
+      <sp who="#f i n e">
+        <speaker>F I N E:</speaker>
+      </sp>
+    </body>
+  </text>
+</TEI>

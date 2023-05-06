@@ -1,0 +1,4305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">l barbiere di Siviglia</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="basilio e berta">
+            <persName>BASILIO E BERTA:</persName>
+          </person>
+          <person xml:id="bartolo e basilio">
+            <persName>BARTOLO E BASILIO:</persName>
+          </person>
+          <person xml:id="rosina, conte e figaro">
+            <persName>ROSINA, CONTE E FIGARO:</persName>
+          </person>
+          <person xml:id="berta">
+            <persName>BERTA:</persName>
+          </person>
+          <person xml:id="rosina">
+            <persName>ROSINA:</persName>
+          </person>
+          <person xml:id="conte, rosina, figaro">
+            <persName>CONTE, ROSINA, FIGARO:</persName>
+          </person>
+          <person xml:id="rosina e berta">
+            <persName>ROSINA E BERTA:</persName>
+          </person>
+          <person xml:id="uffiziale">
+            <persName>UFFIZIALE:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="berta, bartolo e basilio">
+            <persName>BERTA, BARTOLO E BASILIO:</persName>
+          </person>
+          <person xml:id="fiorello">
+            <persName>FIORELLO:</persName>
+          </person>
+          <person xml:id="ambrogio">
+            <persName>AMBROGIO:</persName>
+          </person>
+          <person xml:id="figaro">
+            <persName>FIGARO:</persName>
+          </person>
+          <person xml:id="conte">
+            <persName>CONTE:</persName>
+          </person>
+          <person xml:id="alcalde">
+            <persName>ALCALDE:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="bartolo">
+            <persName>BARTOLO:</persName>
+          </person>
+          <person xml:id="conte e bartolo">
+            <persName>CONTE E BARTOLO:</persName>
+          </person>
+          <person xml:id="bartolo e rosina">
+            <persName>BARTOLO E ROSINA:</persName>
+          </person>
+          <person xml:id="basilio">
+            <persName>BASILIO:</persName>
+          </person>
+          <person xml:id="conte e rosina">
+            <persName>CONTE E ROSINA:</persName>
+          </person>
+          <person xml:id="rosina e conte">
+            <persName>ROSINA E CONTE:</persName>
+          </person>
+          <person xml:id="figaro e basilio">
+            <persName>FIGARO E BASILIO:</persName>
+          </person>
+          <person xml:id="conte e figaro">
+            <persName>CONTE E FIGARO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>CONTE</castItem>
+        <castItem>BARTOLO</castItem>
+        <castItem>ROSINA</castItem>
+        <castItem>FIGARO</castItem>
+        <castItem>BASILIO</castItem>
+        <castItem>BERTA</castItem>
+        <castItem>FIORELLO</castItem>
+        <castItem>AMBROGIO</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>Avvertimento al pubblico</head>La commedia del signor Beaumarchais intitolata Il barbiere di Siviglia, o sia L’inutile precauzione si presenta in Roma ridotta a dramma comico col titolo di Almaviva, o sia l’inutile precauzione all’oggetto di pienamente convincere il pubblico de’ sentimenti di rispetto e venerazione che animano l’autore della musica del presente dramma verso il tanto celebre Paisiello che ha già trattato questo soggetto sotto il primitivo suo titolo.Chiamato ad assumere il medesimo difficile incarico il signor maestro Gioachino Rossini, onde non incorrere nella taccia d’una temeraria rivalità coll’immortale autore che lo ha preceduto, ha espressamente richiesto che Il barbiere di Siviglia fosse di nuovo interamente versificato, e che vi fossero aggiunte parecchie nuove situazioni di pezzi musicali, che eran d’altronde reclamate dal moderno gusto teatrale cotanto cangiato dall’epoca in cui scrisse la sua musica il rinomato Paisiello.Qualche altra differenza fra la tessitura del presente dramma, e quella della commedia francese sopraccitata fu prodotta dalla necessità d’introdurre nel soggetto medesimo i cori, sì perché voluti dal moderno uso, sì perché indispensabili all’effetto musicale in un teatro di una ragguardevole ampiezza. Di ciò si fa inteso il cortese pubblico anche a discarico dell’autore del nuovo dramma, il quale senza il concorso di sì imponenti circostanze non avrebbe osato introdurre il più piccolo cangiamento nella produzione francese già consagrata dagli applausi teatrali di tutta l’Europa.Atto primo<div type="scene">
+          <head>[Sinfonia]</head>Scena primaIl momento dell’azione è sul terminar della notte. La scena rappresenta una piazza nella città di Siviglia. A sinistra è la casa di Bartolo con ringhiera praticabile circondata da gelosia che deve aprirsi, e chiudersi a suo tempo con chiave. <stage>[Sinfonia]Scena primaIl momento dell’azione è sul terminar della notte. La scena rappresenta una piazza nella città di Siviglia. A sinistra è la casa di Bartolo con ringhiera praticabile circondata da gelosia che deve aprirsi, e chiudersi a suo tempo con chiave.</stage>
+          <stage>[Introduzione]Fiorello con lanterna nelle mani introducendo nella scena vari Suonatori di strumenti. Indi il Conte avvolto in un mantello.(avanzandosi con cautela)</stage>
+          <sp who="#fiorello">
+            <speaker>FIORELLO:</speaker>
+            <l>Piano pianissimo</l>
+            <l>senza parlar</l>
+            <l>tutti con me</l>
+            <l>venite qua.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Piano pianissimo</l>
+            <l>eccoci qua.</l>
+          </sp>
+          <sp who="#fiorello">
+            <speaker>FIORELLO:</speaker>
+            <l>Tutto è silenzio</l>
+            <l>nessun qui sta,</l>
+            <l>che i nostri canti</l>
+            <l>possa turbar.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(sotto voce)</l>
+            <l>Fiorello… Olà…</l>
+          </sp>
+          <stage>CONTE(sotto voce)Fiorello… Olà…</stage>
+          <sp who="#fiorello">
+            <speaker>FIORELLO:</speaker>
+            <l>Signor, son qua.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ebben… gli amici?…</l>
+          </sp>
+          <sp who="#fiorello">
+            <speaker>FIORELLO:</speaker>
+            <l>Son pronti già.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Bravi, bravissimi,</l>
+            <l>fate silenzio,</l>
+            <l>piano pianissimo</l>
+            <l>senza parlar.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Piano pianissimo</l>
+            <l>senza parlar.</l>
+            <l>(i suonatori accordano gl’istromenti, e il Conte canta accompagnato da essi)</l>
+          </sp>
+          <stage>COROPiano pianissimosenza parlar.(i suonatori accordano gl’istromenti, e il Conte canta accompagnato da essi)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ecco ridente in cielo</l>
+            <l>spunta la bella aurora,</l>
+            <l>e tu non sorgi ancora</l>
+            <l>e puoi dormir così?</l>
+            <l>Sorgi, mia bella speme,</l>
+            <l>vieni, bell’idol mio,</l>
+            <l>rendi men crudo, oh dio!</l>
+            <l>lo stral che mi ferì.</l>
+            <l>Oh sorte! già veggo</l>
+            <l>quel caro sembiante</l>
+            <l>quest’anima amante</l>
+            <l>ottenne pietà.</l>
+            <l>Oh istante d’amore!</l>
+            <l>Felice momento</l>
+            <l>oh dolce contento</l>
+            <l>che eguale non ha.</l>
+            <l>Ehi Fiorello?…</l>
+          </sp>
+          <sp who="#fiorello">
+            <speaker>FIORELLO:</speaker>
+            <l>Mio signore.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Di’, la vedi?…</l>
+          </sp>
+          <sp who="#fiorello">
+            <speaker>FIORELLO:</speaker>
+            <l>Signor no.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ah ch’è vana ogni speranza!</l>
+          </sp>
+          <sp who="#fiorello">
+            <speaker>FIORELLO:</speaker>
+            <l>Signor Conte, il giorno avanza.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ah che penso, che farò?</l>
+            <l>Tutto è vano… Buona gente!</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(sotto voce)</l>
+            <l>Mio signore.</l>
+          </sp>
+          <stage>CORO(sotto voce)Mio signore.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Avanti, avanti.</l>
+            <l>(dà la borsa a Fiorello, il quale distribuisce denari a tutti)</l>
+            <l>Più di suoni, più di canti</l>
+            <l>io bisogno ormai non ho.</l>
+          </sp>
+          <stage>CONTEAvanti, avanti.(dà la borsa a Fiorello, il quale distribuisce denari a tutti)Più di suoni, più di cantiio bisogno ormai non ho.</stage>
+          <sp who="#fiorello">
+            <speaker>FIORELLO:</speaker>
+            <l>Buona notte a tutti quanti</l>
+            <l>più di voi che far non ho.</l>
+            <l>I Suonatori circondano il Conte ringraziandolo, e baciandogli la mano, e il vestito. Egli indispettito per lo strepito che fanno li va cacciando. Lo stesso fa anche Fiorello.</l>
+          </sp>
+          <stage>FIORELLOBuona notte a tutti quantipiù di voi che far non ho.I Suonatori circondano il Conte ringraziandolo, e baciandogli la mano, e il vestito. Egli indispettito per lo strepito che fanno li va cacciando. Lo stesso fa anche Fiorello.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Mille grazie… mio signore…</l>
+            <l>del favore… dell’onore…</l>
+            <l>Ah di tanta cortesia</l>
+            <l>obbligati in verità.</l>
+            <l>(Oh che incontro fortunato!</l>
+            <l>È un signor di qualità.)</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Basta basta, non parlate…</l>
+            <l>ma non serve, non gridate…</l>
+            <l>maledetti, andate via…</l>
+            <l>ah canaglia, via di qua.</l>
+            <l>Tutto quanto il vicinato,</l>
+            <l>questo chiasso sveglierà.</l>
+          </sp>
+          <sp who="#fiorello">
+            <speaker>FIORELLO:</speaker>
+            <l>Zitti, zitti… che rumore!…</l>
+            <l>ma che onore? che favore!…</l>
+            <l>maledetti, andate via,</l>
+            <l>ah canaglia, via di qua.</l>
+            <l>Ve’ che chiasso indiavolato</l>
+            <l>ah che rabbia che mi fa.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Gente indiscreta!… Ah quasi</l>
+            <l>con quel chiasso importuno</l>
+            <l>tutto quanto il quartier han risvegliato.</l>
+            <l>Alfin sono partiti!…</l>
+            <l>(guardando verso la ringhiera)</l>
+            <l>e non si vede!</l>
+            <l>È inutile sperar.</l>
+            <l>(passeggia riflettendo)</l>
+            <l>Eppur qui voglio</l>
+            <l>aspettar di vederla. Ogni mattina</l>
+            <l>ella su quel balcone</l>
+            <l>a prender fresco viene in sull’aurora.</l>
+            <l>Proviamo. Olà, tu ancora</l>
+            <l>ritirati, Fiorel.</l>
+          </sp>
+          <stage>CONTEGente indiscreta!… Ah quasicon quel chiasso importunotutto quanto il quartier han risvegliato.Alfin sono partiti!…(guardando verso la ringhiera)e non si vede!È inutile sperar.(passeggia riflettendo)Eppur qui voglioaspettar di vederla. Ogni mattinaella su quel balconea prender fresco viene in sull’aurora.Proviamo. Olà, tu ancoraritirati, Fiorel.</stage>
+          <sp who="#fiorello">
+            <speaker>FIORELLO:</speaker>
+            <l>Vado. Là in fondo</l>
+            <l>attenderò suoi ordini.</l>
+            <l>(si ritira)</l>
+          </sp>
+          <stage>FIORELLOVado. Là in fondoattenderò suoi ordini.(si ritira)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Con lei</l>
+            <l>se parlar mi riesce</l>
+            <l>non voglio testimoni. Che a quest’ora</l>
+            <l>io tutti i giorni qui vengo per lei</l>
+            <l>deve essersi avveduta. Oh vedi, amore</l>
+            <l>a un uomo del mio rango</l>
+            <l>come l’ha fatta bella!… eppure!… eppure!…</l>
+            <l>Oh deve esser mia sposa!…</l>
+            <l>(si sente da lontano venire Figaro cantando)</l>
+          </sp>
+          <stage>CONTECon leise parlar mi riescenon voglio testimoni. Che a quest’oraio tutti i giorni qui vengo per leideve essersi avveduta. Oh vedi, amorea un uomo del mio rangocome l’ha fatta bella!… eppure!… eppure!…Oh deve esser mia sposa!…(si sente da lontano venire Figaro cantando)</stage>
+        </div>
+        <div type="scene">
+          <head>CONTE</head>Chi è mai quest’importuno?…lasciamolo passar; sotto quegli archinon veduto vedrò quanto bisogna;già l’alba è appena, e amor non si vergogna.(si nasconde sotto il portico)Scena secondaFigaro con chitarra appesa al collo, e detto.<sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Chi è mai quest’importuno?…</l>
+            <l>lasciamolo passar; sotto quegli archi</l>
+            <l>non veduto vedrò quanto bisogna;</l>
+            <l>già l’alba è appena, e amor non si vergogna.</l>
+            <l>(si nasconde sotto il portico)</l>
+            <l>Scena seconda</l>
+            <l>Figaro con chitarra appesa al collo, e detto.</l>
+          </sp>
+          <stage>CONTEChi è mai quest’importuno?…lasciamolo passar; sotto quegli archinon veduto vedrò quanto bisogna;già l’alba è appena, e amor non si vergogna.(si nasconde sotto il portico)Scena secondaFigaro con chitarra appesa al collo, e detto.</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>La ran la lera</l>
+            <l>la ran la là.</l>
+            <l>Largo al factotum</l>
+            <l>della città.</l>
+            <l>Presto a bottega,</l>
+            <l>che l’alba è già.</l>
+            <l>La ran la lera</l>
+            <l>la ran la là.</l>
+            <l>A che bel vivere,</l>
+            <l>che bel piacere</l>
+            <l>per un barbiere</l>
+            <l>di qualità!</l>
+            <l>Ah bravo Figaro</l>
+            <l>bravo bravissimo</l>
+            <l>fortunatissimo</l>
+            <l>per verità!</l>
+            <l>La ran la lera</l>
+            <l>la ran la là.</l>
+            <l>Pronto a far tutto</l>
+            <l>la notte e il giorno</l>
+            <l>sempre d’intorno</l>
+            <l>in giro sta.</l>
+            <l>Miglior cuccagna</l>
+            <l>per un barbiere</l>
+            <l>vita più nobile</l>
+            <l>no, non si dà.</l>
+            <l>Rasori e pettini</l>
+            <l>lancette e forbici</l>
+            <l>al mio comando</l>
+            <l>tutto qui sta.</l>
+            <l>Se poi mi capita</l>
+            <l>il buon momento…</l>
+            <l>nel mio mestiere</l>
+            <l>vaglio per cento…</l>
+            <l>La ran la lera</l>
+            <l>la ran la là.</l>
+            <l>Tutti mi chiedono</l>
+            <l>tutti mi vogliono</l>
+            <l>donne, ragazzi,</l>
+            <l>vecchi, fanciulle,</l>
+            <l>qua la parrucca…</l>
+            <l>presto la barba…</l>
+            <l>qua la sanguigna…</l>
+            <l>Figaro… Figaro…</l>
+            <l>son qua, son qua…</l>
+            <l>Ohimè che furia,</l>
+            <l>ohimè che folla,</l>
+            <l>uno alla volta</l>
+            <l>per carità.</l>
+            <l>Figaro… Figaro…</l>
+            <l>eccomi qua.</l>
+            <l>Pronto prontissimo</l>
+            <l>son come un fulmine</l>
+            <l>sono il factotum</l>
+            <l>della città.</l>
+            <l>Ah bravo Figaro</l>
+            <l>bravo bravissimo</l>
+            <l>fortunatissimo</l>
+            <l>per verità.</l>
+            <l>La ran la lera</l>
+            <l>la ran la là.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Ah ah! che bella vita!</l>
+            <l>Faticar poco, divertirsi assai,</l>
+            <l>e in tasca sempre aver qualche doblone,</l>
+            <l>gran frutto della mia riputazione.</l>
+            <l>Ecco qua: senza Figaro</l>
+            <l>non si accasa in Siviglia una ragazza;</l>
+            <l>a me la vedovella</l>
+            <l>ricorre per marito: io colla scusa</l>
+            <l>del pettine di giorno,</l>
+            <l>della chitarra col favor la notte,</l>
+            <l>a tutti onestamente,</l>
+            <l>non so perché m’adatto a far piacere,</l>
+            <l>oh che vita, che vita! oh che mestiere!</l>
+            <l>Orsù, presto a bottega…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(È desso, o pur m’inganno?)</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(Chi sarà mai costui?)</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(Oh è lui senz’altro.)</l>
+            <l>Figaro!…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Mio padrone…</l>
+            <l>Oh chi veggo!… Eccellenza…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Zitto, zitto, prudenza:</l>
+            <l>qui non son conosciuto,</l>
+            <l>né vo’ farmi conoscere. Per questo</l>
+            <l>ho le mie gran ragioni.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Intendo, intendo.</l>
+            <l>La lascio in libertà.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>No…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Che serve?…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>No, dico: resta qua;</l>
+            <l>forse ai disegni miei</l>
+            <l>non giungi inopportuno… ma cospetto,</l>
+            <l>dimmi un po’, buona lana,</l>
+            <l>come ti trovi qua?… poter del mondo,</l>
+            <l>ti veggo grasso, e tondo…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>La miseria, signore.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ah birbo!</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Grazie.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Hai messo ancor giudizio?…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Oh e come!… ed ella</l>
+            <l>come in Siviglia?…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Or te lo spiego. Al Prado</l>
+            <l>vidi un fior di bellezza, una fanciulla</l>
+            <l>figlia d’un certo medico barbogio</l>
+            <l>che qua da pochi dì s’è stabilito.</l>
+            <l>Io di questa invaghito</l>
+            <l>lasciai patria e parenti, e qua me n’ venni,</l>
+            <l>e qui la notte e il giorno</l>
+            <l>passo girando a que’ balconi intorno.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>A que’ balconi?… un medico?… oh cospetto,</l>
+            <l>siete ben fortunato;</l>
+            <l>su i maccheroni il cacio v’è cascato.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Come?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Certo. Là dentro</l>
+            <l>io son barbiere, perucchier, chirurgo,</l>
+            <l>botanico, spezial, veterinario,</l>
+            <l>il faccendier di casa.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Oh che sorte!…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Non basta: la ragazza</l>
+            <l>figlia non è del medico. È soltanto</l>
+            <l>la sua pupilla!…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Oh che consolazione!…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Perciò… Zitto!…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Cos’è?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>FIGARO</head>S’apre il balcone.(si ritirano sotto il portico)Scena terzaRosina, indi Bartolo sulla ringhiera, e detti.<sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>S’apre il balcone.</l>
+            <l>(si ritirano sotto il portico)</l>
+            <l>Scena terza</l>
+            <l>Rosina, indi Bartolo sulla ringhiera, e detti.</l>
+          </sp>
+          <stage>FIGAROS’apre il balcone.(si ritirano sotto il portico)Scena terzaRosina, indi Bartolo sulla ringhiera, e detti.</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(guardando per la piazza)</l>
+            <l>Non è venuto ancor. Forse…</l>
+          </sp>
+          <stage>ROSINA(guardando per la piazza)Non è venuto ancor. Forse…</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(uscendo dal portico)</l>
+            <l>O mia vita,</l>
+            <l>mio nume, mio tesoro.</l>
+            <l>Vi veggo alfine! alfine…</l>
+          </sp>
+          <stage>CONTE(uscendo dal portico)O mia vita,mio nume, mio tesoro.Vi veggo alfine! alfine…</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Oh che vergogna!…</l>
+            <l>vorrei dargli il biglietto.</l>
+            <l>(cava una carta)</l>
+          </sp>
+          <stage>ROSINAOh che vergogna!…vorrei dargli il biglietto.(cava una carta)</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(di dentro)</l>
+            <l>Ebben, ragazza…</l>
+            <l>(il Conte si ritira in fretta)</l>
+            <l>(esce)</l>
+            <l>Il tempo è buono?… cos’è quella carta?…</l>
+          </sp>
+          <stage>BARTOLO(di dentro)Ebben, ragazza…(il Conte si ritira in fretta)(esce)Il tempo è buono?… cos’è quella carta?…</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Niente, niente, signor: son le parole</l>
+            <l>dell’aria dell’Inutil precauzione.</l>
+          </sp>
+          <stage>ROSINANiente, niente, signor: son le paroledell’aria dell’Inutil precauzione.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(a Figaro)</l>
+            <l>Ma brava! dell’Inutil precauzione!</l>
+          </sp>
+          <stage>CONTE(a Figaro)Ma brava! dell’Inutil precauzione!</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(al Conte)</l>
+            <l>Che furba!</l>
+          </sp>
+          <stage>FIGARO(al Conte)Che furba!</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Cosa è questa</l>
+            <l>Inutil precauzione?…</l>
+          </sp>
+          <stage>BARTOLOCosa è questaInutil precauzione?…</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>O bella! è il titolo</l>
+            <l>del nuovo dramma in musica.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Un dramma?… bella cosa!</l>
+            <l>Sarà al solito un dramma semiserio;</l>
+            <l>un lungo malinconico noioso</l>
+            <l>poetico strambotto;</l>
+            <l>barbaro gusto! secolo corrotto!</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(si lascia cadere la carta in strada)</l>
+            <l>Ah me meschina! l’aria m’è caduta!…</l>
+            <l>raccoglietela presto…</l>
+          </sp>
+          <stage>ROSINA(si lascia cadere la carta in strada)Ah me meschina! l’aria m’è caduta!…raccoglietela presto…</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Vado, vado.</l>
+            <l>(rientra)</l>
+          </sp>
+          <stage>BARTOLOVado, vado.(rientra)</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ps, ps.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(fuori)</l>
+            <l>Ho inteso.</l>
+            <l>(raccoglie la carta)</l>
+          </sp>
+          <stage>CONTE(fuori)Ho inteso.(raccoglie la carta)</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Presto.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(sottovoce)</l>
+            <l>Non temete.</l>
+            <l>(si ritira)</l>
+          </sp>
+          <stage>CONTE(sottovoce)Non temete.(si ritira)</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(fuori)</l>
+            <l>Son qua: dov’è?…</l>
+            <l>(cercando)</l>
+          </sp>
+          <stage>BARTOLO(fuori)Son qua: dov’è?…(cercando)</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ah il vento</l>
+            <l>la porta via…</l>
+            <l>(additando in lontananza)</l>
+            <l>guardate…</l>
+          </sp>
+          <stage>ROSINAAh il ventola porta via…(additando in lontananza)guardate…</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Io non la veggo…</l>
+            <l>eh signorina!… non vorrei!… (cospetto!</l>
+            <l>costei m’avesse preso!…) In casa, in casa,</l>
+            <l>animo su, a chi dico?… in casa, presto.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Vado, vado: che furia!…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Quel balcone</l>
+            <l>voglio farlo murare.</l>
+            <l>Dentro dico.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ROSINA</head>Oh che vita da crepare!(rientra)(Bartolo anch’esso rientra in casa)Scena quartaConte e Figaro, indi Bartolo.<sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Oh che vita da crepare!</l>
+            <l>(rientra)</l>
+            <l>(Bartolo anch’esso rientra in casa)</l>
+            <l>Scena quarta</l>
+            <l>Conte e Figaro, indi Bartolo.</l>
+          </sp>
+          <stage>ROSINAOh che vita da crepare!(rientra)(Bartolo anch’esso rientra in casa)Scena quartaConte e Figaro, indi Bartolo.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Povera disgraziata!</l>
+            <l>Il suo stato infelice</l>
+            <l>sempre più m’interessa!…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Presto, presto,</l>
+            <l>vediamo cosa scrive.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Appunto, leggi.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(legge)</l>
+            <l>«Le vostre assidue premure</l>
+            <l>hanno eccitata la mia curiosità.</l>
+            <l>Il mio tutore è per uscire di casa;</l>
+            <l>appena si sarà allontanato</l>
+            <l>procurate con qualche mezzo ingegnoso</l>
+            <l>d’indicarmi il vostro nome,</l>
+            <l>il vostro stato e le vostre intenzioni.</l>
+            <l>Io non posso giammai comparire al balcone</l>
+            <l>senza l’indivisibile compagnia del mio tiranno.</l>
+            <l>Siate però certo, che tutto è disposta a fare</l>
+            <l>per rompere le sue catene la sventurata Rosina.»</l>
+          </sp>
+          <stage>FIGARO(legge)«Le vostre assidue premurehanno eccitata la mia curiosità.Il mio tutore è per uscire di casa;appena si sarà allontanatoprocurate con qualche mezzo ingegnosod’indicarmi il vostro nome,il vostro stato e le vostre intenzioni.Io non posso giammai comparire al balconesenza l’indivisibile compagnia del mio tiranno.Siate però certo, che tutto è disposta a fareper rompere le sue catene la sventurata Rosina.»</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Sì, sì, le romperà. Su, dimmi un poco,</l>
+            <l>che razza d’uomo è questo suo tutore?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Un vecchio indemoniato</l>
+            <l>avaro, sospettoso, brontolone…</l>
+            <l>Avrà cent’anni indosso</l>
+            <l>e vuol fare il galante: indovinate?</l>
+            <l>Per mangiare a Rosina</l>
+            <l>tutta l’eredità, s’è fitto in capo</l>
+            <l>di volerla sposare… aiuto!</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Che?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>S’apre la porta.</l>
+            <l>(sentendo aprir la porta della casa di Bartolo si ritirano in fretta)</l>
+          </sp>
+          <stage>FIGAROS’apre la porta.(sentendo aprir la porta della casa di Bartolo si ritirano in fretta)</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(parlando verso le quinte)</l>
+            <l>Fra momenti io torno;</l>
+            <l>non aprite a nessun. Se don Basilio</l>
+            <l>venisse a cercarmi, che m’aspetti.</l>
+            <l>(chiude la porta di casa, tirandola dietro di sé)</l>
+            <l>Le mie nozze con lei meglio è affrettare;</l>
+            <l>sì, dentr’oggi finir vo’ quest’affare.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>BARTOLO(parlando verso le quinte)Fra momenti io torno;non aprite a nessun. Se don Basiliovenisse a cercarmi, che m’aspetti.(chiude la porta di casa, tirandola dietro di sé)Le mie nozze con lei meglio è affrettare;sì, dentr’oggi finir vo’ quest’affare.(parte)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(fuori con Figaro)</l>
+            <l>Dentr’oggi le sue nozze con Rosina?</l>
+            <l>Ah vecchio rimbambito!</l>
+            <l>Ma dimmi or tu: chi è questo don Basilio?…</l>
+          </sp>
+          <stage>CONTE(fuori con Figaro)Dentr’oggi le sue nozze con Rosina?Ah vecchio rimbambito!Ma dimmi or tu: chi è questo don Basilio?…</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>È un solenne imbroglion di matrimoni,</l>
+            <l>un collo torto, un vero disperato</l>
+            <l>sempre senza un quattrino…</l>
+            <l>Già è maestro di musica:</l>
+            <l>insegna alla ragazza.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Bene, bene,</l>
+            <l>tutto giova sapere. Ora pensiamo</l>
+            <l>della bella Rosina</l>
+            <l>a soddisfar le brame. Il nome mio</l>
+            <l>non le vo’ dir, né il grado. Assicurarmi</l>
+            <l>vo’ pria, che ella ami me, me solo al mondo,</l>
+            <l>non le ricchezze e i titoli</l>
+            <l>del conte d’Almaviva. Ah tu potresti…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Io?… no, signor: voi stesso</l>
+            <l>dovete…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Io stesso? e come?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Zi… zitti: eccoci a tiro,</l>
+            <l>osservate… per bacco: non mi sbaglio;</l>
+            <l>dietro la gelosia sta la ragazza.</l>
+            <l>Presto presto all’assalto: niun ci vede.</l>
+            <l>(presentandogli la chitarra)</l>
+            <l>In una canzonetta,</l>
+            <l>così, alla buona, il tutto</l>
+            <l>spiegatele, signor.</l>
+          </sp>
+          <stage>FIGAROZi… zitti: eccoci a tiro,osservate… per bacco: non mi sbaglio;dietro la gelosia sta la ragazza.Presto presto all’assalto: niun ci vede.(presentandogli la chitarra)In una canzonetta,così, alla buona, il tuttospiegatele, signor.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Una canzone?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Certo; ecco la chitarra, presto, andiamo.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ma io…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Oh che pazienza!</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ebben, proviamo.</l>
+            <l>(prende la chitarra, e canta accompagnandosi)</l>
+          </sp>
+          <stage>CONTEEbben, proviamo.(prende la chitarra, e canta accompagnandosi)</stage>
+          <stage>[Canzone]Se il mio nome saper voi bramate,dal mio labbro il mio nome ascoltate.Io sono Lindoroche fido, adoro,che sposa vi bramo,che a nome vi chiamo,di voi sempre cantando così,dall’aurora al tramonto del dì.(di dentro si sente la voce di Rosina ripetere il ritornello della canzone)</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Sentite?… ah, che vi pare?</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Oh me felice!</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Evviva, a voi, seguite.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(canta)</l>
+            <l>L’amoroso sincero Lindoro</l>
+            <l>non può darvi, mia cara, un tesoro.</l>
+            <l>Io ricco non sono</l>
+            <l>ma un core vi dono,</l>
+            <l>un’anima amante</l>
+            <l>che fida e costante</l>
+            <l>per voi sempre sospira così</l>
+            <l>dall’aurora al tramonto del dì.</l>
+          </sp>
+          <stage>CONTE(canta)L’amoroso sincero Lindoronon può darvi, mia cara, un tesoro.Io ricco non sonoma un core vi dono,un’anima amanteche fida e costanteper voi sempre sospira cosìdall’aurora al tramonto del dì.</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(di dentro)</l>
+            <l>L’amorosa sincera Rosina</l>
+            <l>il suo core a Lindo…</l>
+            <l>(si sentono di dentro chiudere le finestre)</l>
+          </sp>
+          <stage>ROSINA(di dentro)L’amorosa sincera Rosinail suo core a Lindo…(si sentono di dentro chiudere le finestre)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Oh cielo!…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Nella stanza</l>
+            <l>convien dir che qualcuno entrato sia.</l>
+            <l>Ella si è ritirata.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ah cospettone,</l>
+            <l>io già deliro, avvampo!… oh, ad ogni costo</l>
+            <l>vederla io voglio, vo’ parlarle. Ah tu,</l>
+            <l>tu mi devi aiutar…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Ih, ih, che furia,</l>
+            <l>sì, sì, v’aiuterò.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Da bravo: entr’oggi</l>
+            <l>vo’ che tu m’introduca in quella casa.</l>
+            <l>Dimmi; come farai?… via!… del tuo spirto</l>
+            <l>vediam qualche prodezza.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Del mio spirito!…</l>
+            <l>bene… vedrò… ma in oggi…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Eh via, t’intendo,</l>
+            <l>va’ là, non dubitar; di tue fatiche</l>
+            <l>largo compenso avrai.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Davver?</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Parola.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Dunque oro a discrezione?</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Oro a bizzeffe.</l>
+            <l>Animo, via.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Son pronto; ah, non sapete</l>
+            <l>i simpatici effetti prodigiosi</l>
+            <l>che ad appagare il mio signor Lindoro</l>
+            <l>produce in me la dolce idea dell’oro.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Su vediam di quel metallo</l>
+            <l>qualche effetto sorprendente,</l>
+            <l>del vulcan della tua mente</l>
+            <l>qualche mostro singolar.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Voi dovreste travestirvi</l>
+            <l>per esempio… da soldato.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Da soldato?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Sì signore.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Da soldato?… e che si fa?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Oggi arriva un reggimento.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Sì, m’è amico il colonnello.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Va benon.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ma, e poi?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Cospetto!</l>
+            <l>Dell’alloggio col biglietto</l>
+            <l>quella porta s’aprirà.</l>
+            <l>Che ne dite, mio signore?</l>
+            <l>l’invenzione è naturale?</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Oh che testa originale!</l>
+            <l>Bravo, bravo in verità.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Oh che testa universale!</l>
+            <l>Bella, bella in verità.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Piano, piano… un’altra idea!…</l>
+            <l>veda l’oro cosa fa.</l>
+            <l>Ubbriaco… sì, ubbriaco,</l>
+            <l>mio signor, si fingerà.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ubbriaco?…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Sì signore.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ubbriaco?… Ma perché?…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(imitando moderatamente i motti d’un ubbriaco)</l>
+            <l>Perché d’un che poco è in sé,</l>
+            <l>che dal vino casca già,</l>
+            <l>il tutor credete a me,</l>
+            <l>il tutore si fiderà.</l>
+          </sp>
+          <stage>FIGARO(imitando moderatamente i motti d’un ubbriaco)Perché d’un che poco è in sé,che dal vino casca già,il tutor credete a me,il tutore si fiderà.</stage>
+          <sp who="#conte e figaro">
+            <speaker>CONTE E FIGARO:</speaker>
+            <l>Questa è bella per mia fé,</l>
+            <l>bravo, bravo in verità.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Dunque.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>All’opra.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Andiam.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Da bravo.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Vado… Oh il meglio mi scordavo!</l>
+            <l>Dimmi un po’, la tua bottega,</l>
+            <l>per trovarti, dove sta?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>La bottega? non si sbaglia,</l>
+            <l>guardi bene: eccola là.</l>
+            <l>(additando fra le quinte)</l>
+            <l>Numero quindici a mano manca,</l>
+            <l>quattro gradini, facciata bianca,</l>
+            <l>cinque parrucche nella vetrina,</l>
+            <l>sopra un cartello «Pomata fina»,</l>
+            <l>mostra in azzurro alla moderna,</l>
+            <l>v’è per insegna una lanterna…</l>
+            <l>là senza fallo mi troverà.</l>
+          </sp>
+          <stage>FIGAROLa bottega? non si sbaglia,guardi bene: eccola là.(additando fra le quinte)Numero quindici a mano manca,quattro gradini, facciata bianca,cinque parrucche nella vetrina,sopra un cartello «Pomata fina»,mostra in azzurro alla moderna,v’è per insegna una lanterna…là senza fallo mi troverà.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ho ben capito…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Or vada presto.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Tu guarda bene…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Io penso al resto.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Di te mi fido…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Colà l’attendo.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Mio caro Figaro…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Intendo, intendo.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Porterò meco…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>La borsa piena.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Sì, quel che vuoi, ma il resto poi…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Oh non si dubiti, che bene andrà.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ah che d’amore</l>
+            <l>la fiamma io sento,</l>
+            <l>nunzia di giubilo</l>
+            <l>e di contento!</l>
+            <l>Ecco propizia</l>
+            <l>che in sen mi scende,</l>
+            <l>d’ardore insolito</l>
+            <l>quest’alma accende</l>
+            <l>e di me stesso</l>
+            <l>maggior mi fa.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>FIGARO</head>Delle moneteil suon già sento!L’oro già viene,viene l’argento;eccolo, eccolo,che in tasca scende,d’ardore insolitoquest’alma accendee di me stessomaggior mi fa.(Figaro entra in casa di Bartolo, il Conte parte)Scena quintaCamera nella casa di don Bartolo, con quattro porte. Di prospetto la finestra con gelosia, come nella scena prima. A destra uno scrittoio.<sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Delle monete</l>
+            <l>il suon già sento!</l>
+            <l>L’oro già viene,</l>
+            <l>viene l’argento;</l>
+            <l>eccolo, eccolo,</l>
+            <l>che in tasca scende,</l>
+            <l>d’ardore insolito</l>
+            <l>quest’alma accende</l>
+            <l>e di me stesso</l>
+            <l>maggior mi fa.</l>
+            <l>(Figaro entra in casa di Bartolo, il Conte parte)</l>
+            <l>Scena quinta</l>
+            <l>Camera nella casa di don Bartolo, con quattro porte. Di prospetto la finestra con gelosia, come nella scena prima. A destra uno scrittoio.</l>
+          </sp>
+          <stage>FIGARODelle moneteil suon già sento!L’oro già viene,viene l’argento;eccolo, eccolo,che in tasca scende,d’ardore insolitoquest’alma accendee di me stessomaggior mi fa.(Figaro entra in casa di Bartolo, il Conte parte)Scena quintaCamera nella casa di don Bartolo, con quattro porte. Di prospetto la finestra con gelosia, come nella scena prima. A destra uno scrittoio.</stage>
+          <stage>[Cavatina]Rosina con lettera in mano.Una voce poco faqua nel cor mi risuonò,il mio cor ferito è giàe Lindor fu che il piagò.Sì, Lindoro mio sarà,lo giurai, la vincerò.Il tutor ricuserà,io l’ingegno aguzzerò,alla fin s’accheteràe contenta io resterò.Sì, Lindoro mio sarà,lo giurai, la vincerò.Io sono docile,son rispettosa,sono ubbidiente,dolce, amorosa,mi lascio reggere,mi fo guidar.Ma se mi toccanoqua nel mio debole,sarò una vipera,e cento trappoleprima di cederefarò giocar.</stage>
+        </div>
+        <div type="scene">
+          <head>Recitativo</head>Sì, sì, la vincerò. Potessi almenomandargli questa lettera. Ma come!Di nessun qui mi fido:il tutore ha cent’occhi… basta, basta:sigilliamola intanto.(va allo scrittoio, e sigilla la lettera)Con Figaro il barbier dalla finestradiscorrer l’ho veduto più d’un’ora:Figaro è un galantuomo,un giovin di buon cuore…chi sa ch’ei non protegga il nostro amore.Scena sestaFigaro, e detta. <stage>RecitativoSì, sì, la vincerò. Potessi almenomandargli questa lettera. Ma come!Di nessun qui mi fido:il tutore ha cent’occhi… basta, basta:sigilliamola intanto.(va allo scrittoio, e sigilla la lettera)Con Figaro il barbier dalla finestradiscorrer l’ho veduto più d’un’ora:Figaro è un galantuomo,un giovin di buon cuore…chi sa ch’ei non protegga il nostro amore.Scena sestaFigaro, e detta.</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Oh buon dì, signorina.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Buon giorno, signor Figaro.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Ebbene che si fa?</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Si muor di noia.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Oh diavolo! possibile!</l>
+            <l>Una ragazza bella e spiritosa…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ah ah, mi fate ridere!</l>
+            <l>Che mi serve lo spirito,</l>
+            <l>che giova la bellezza,</l>
+            <l>se chiusa io sempre sto fra quattro mura,</l>
+            <l>che mi par d’esser proprio in sepoltura?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>In sepoltura?… oibò!</l>
+            <l>(chiamandola a parte)</l>
+            <l>Sentite, io voglio…</l>
+          </sp>
+          <stage>FIGAROIn sepoltura?… oibò!(chiamandola a parte)Sentite, io voglio…</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ecco il tutor.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Davvero?</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Certo certo, è il suo passo.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Salva salva; fra poco</l>
+            <l>ci rivedremo: ho a dirvi qualche cosa.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Eh ancor io, signor Figaro.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Bravissima,</l>
+            <l>vado.</l>
+            <l>(si nasconde nella prima porta a sinistra, e poi tratto tratto si fa vedere)</l>
+          </sp>
+          <stage>FIGAROBravissima,vado.(si nasconde nella prima porta a sinistra, e poi tratto tratto si fa vedere)</stage>
+        </div>
+        <div type="scene">
+          <head>ROSINA</head>Quanto è garbato.Scena settimaBartolo e detta, indi Berta e Ambrogio.<sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Quanto è garbato.</l>
+            <l>Scena settima</l>
+            <l>Bartolo e detta, indi Berta e Ambrogio.</l>
+          </sp>
+          <stage>ROSINAQuanto è garbato.Scena settimaBartolo e detta, indi Berta e Ambrogio.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ah disgraziato Figaro!</l>
+            <l>Ah indegno! ah maledetto! ah scellerato!</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(Ecco qua! sempre grida.)</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ma si può dar di peggio!</l>
+            <l>Un ospedale ha fatto di tutta la famiglia</l>
+            <l>a forza d’oppio, sangue, e stranutiglia!</l>
+            <l>Signorina, il barbiere</l>
+            <l>lo vedeste?…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Perché?</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Perché! lo vo’ sapere.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Forse anch’egli v’adombra?</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>E perché no?</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ebben ve lo dirò. Sì, l’ho veduto,</l>
+            <l>gli ho parlato, mi piace, m’è simpatico</l>
+            <l>il suo discorso, il suo gioviale aspetto.</l>
+            <l>(Crepa di rabbia, vecchio maledetto.)</l>
+            <l>(entra nella seconda camera a destra)</l>
+          </sp>
+          <stage>ROSINAEbben ve lo dirò. Sì, l’ho veduto,gli ho parlato, mi piace, m’è simpaticoil suo discorso, il suo gioviale aspetto.(Crepa di rabbia, vecchio maledetto.)(entra nella seconda camera a destra)</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Vedete che grazietta!</l>
+            <l>Più l’amo e più mi sprezza la briccona.</l>
+            <l>Certo certo è il barbiere</l>
+            <l>che la mette in malizia.</l>
+            <l>Chi sa cosa le ha detto!</l>
+            <l>Chi sa? or lo saprò. Ehi Berta, Ambrogio.</l>
+          </sp>
+          <sp who="#berta">
+            <speaker>BERTA:</speaker>
+            <l>(stranutando)</l>
+            <l>Eccì!</l>
+          </sp>
+          <stage>BERTA(stranutando)Eccì!</stage>
+          <sp who="#ambrogio">
+            <speaker>AMBROGIO:</speaker>
+            <l>(sbadigliando)</l>
+            <l>Aah! che comanda?</l>
+          </sp>
+          <stage>AMBROGIO(sbadigliando)Aah! che comanda?</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(a Berta)</l>
+            <l>Dimmi…</l>
+          </sp>
+          <stage>BARTOLO(a Berta)Dimmi…</stage>
+          <sp who="#berta">
+            <speaker>BERTA:</speaker>
+            <l>Eccì!</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Il barbiere</l>
+            <l>parlato ha con Rosina?</l>
+          </sp>
+          <sp who="#berta">
+            <speaker>BERTA:</speaker>
+            <l>Eccì!</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(ad Ambrogio)</l>
+            <l>Rispondi</l>
+            <l>almen tu, babbuino.</l>
+          </sp>
+          <stage>BARTOLO(ad Ambrogio)Rispondialmen tu, babbuino.</stage>
+          <sp who="#ambrogio">
+            <speaker>AMBROGIO:</speaker>
+            <l>Aah!</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Che pazienza!</l>
+          </sp>
+          <sp who="#ambrogio">
+            <speaker>AMBROGIO:</speaker>
+            <l>Aah! che sonno.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ebben?…</l>
+          </sp>
+          <sp who="#berta">
+            <speaker>BERTA:</speaker>
+            <l>Venne… ma io…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Rosina…</l>
+          </sp>
+          <sp who="#ambrogio">
+            <speaker>AMBROGIO:</speaker>
+            <l>Aah!</l>
+          </sp>
+          <sp who="#berta">
+            <speaker>BERTA:</speaker>
+            <l>Eccì!</l>
+          </sp>
+          <sp who="#ambrogio">
+            <speaker>AMBROGIO:</speaker>
+            <l>Aah!</l>
+          </sp>
+          <sp who="#berta">
+            <speaker>BERTA:</speaker>
+            <l>Eccì!</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Che serve! Eccoli qua, son mezzi morti.</l>
+            <l>Parlate.</l>
+          </sp>
+          <sp who="#ambrogio">
+            <speaker>AMBROGIO:</speaker>
+            <l>Aah!</l>
+          </sp>
+          <sp who="#berta">
+            <speaker>BERTA:</speaker>
+            <l>Eccì!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>BARTOLO</head>Eh il diavol che vi porti.(li caccia dentro la scena)Scena ottavaBartolo, indi don Basilio.<sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Eh il diavol che vi porti.</l>
+            <l>(li caccia dentro la scena)</l>
+            <l>Scena ottava</l>
+            <l>Bartolo, indi don Basilio.</l>
+          </sp>
+          <stage>BARTOLOEh il diavol che vi porti.(li caccia dentro la scena)Scena ottavaBartolo, indi don Basilio.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ah barbiere d’inferno!</l>
+            <l>Tu me la pagherai…</l>
+            <l>Qua don Basilio</l>
+            <l>giungete a tempo. Oh! io voglio</l>
+            <l>per forza o per amor dentro domani</l>
+            <l>sposar la mia Rosina. Avete inteso?</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>(dopo molte riverenze)</l>
+            <l>Eh voi dite benissimo</l>
+            <l>e appunto io qui veniva ad avvisarvi…</l>
+            <l>(chiamandolo a parte)</l>
+            <l>ma segretezza!… è giunto</l>
+            <l>il conte d’Almaviva.</l>
+          </sp>
+          <stage>BASILIO(dopo molte riverenze)Eh voi dite benissimoe appunto io qui veniva ad avvisarvi…(chiamandolo a parte)ma segretezza!… è giuntoil conte d’Almaviva.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Chi? l’incognito amante</l>
+            <l>della Rosina?</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Appunto</l>
+            <l>quello.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Oh diavolo! Ah qui ci vuol rimedio.</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Certo: ma… alla sordina.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Sarebbe a dir?…</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Così, con buona grazia</l>
+            <l>bisogna principiare</l>
+            <l>a inventar qualche favola</l>
+            <l>che al pubblico lo metta in mala vista,</l>
+            <l>che comparir lo faccia</l>
+            <l>un uomo infame, un’anima perduta…</l>
+            <l>Io io vi servirò: fra quattro giorni,</l>
+            <l>credete a me, Basilio ve lo giura,</l>
+            <l>noi lo farem sloggiar da queste mura.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>E voi credete…</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Oh certo! è il mio sistema,</l>
+            <l>e non sbaglia.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>E vorreste…</l>
+            <l>ma una calunnia…</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Ah dunque</l>
+            <l>la calunnia cos’è voi non sapete?</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>No davvero.</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>No? Uditemi e tacete.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Eh sarà ver, ma diavolo!</l>
+            <l>Una calunnia è cosa che fa orrore!</l>
+            <l>No no, non voglio affatto, e poi e poi</l>
+            <l>si perde tempo, e qui stringe il bisogno.</l>
+            <l>No, vo’ fare a mio modo;</l>
+            <l>in mia camera andiam. Voglio che insieme</l>
+            <l>il contratto di nozze ora stendiamo.</l>
+            <l>Quando sarà mia moglie</l>
+            <l>da questi zerbinotti innamorati</l>
+            <l>metterla in salvo sarà pensier mio.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>BASILIO</head>(Vengan denari: al resto son qua io.)(entrano nella prima camera a destra)Scena nonaFigaro uscendo con precauzione, indi Rosina.<sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>(Vengan denari: al resto son qua io.)</l>
+            <l>(entrano nella prima camera a destra)</l>
+            <l>Scena nona</l>
+            <l>Figaro uscendo con precauzione, indi Rosina.</l>
+          </sp>
+          <stage>BASILIO(Vengan denari: al resto son qua io.)(entrano nella prima camera a destra)Scena nonaFigaro uscendo con precauzione, indi Rosina.</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Ma bravi! ma benone!</l>
+            <l>Ho inteso tutto. Evviva il buon dottore.</l>
+            <l>Povero babbuino!</l>
+            <l>Tua sposa?… eh via! pulisciti il bocchino.</l>
+            <l>Or che stanno là chiusi</l>
+            <l>procuriam di parlare alla ragazza:</l>
+            <l>eccola appunto.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ebbene signor Figaro?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Gran cose, signorina.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Sì davvero?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Mangerem dei confetti.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Come sarebbe a dir?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Sarebbe a dire</l>
+            <l>che il vostro bel tutore ha stabilito</l>
+            <l>esser dentro doman vostro marito.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Eh via!</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Oh ve lo giuro;</l>
+            <l>a stendere il contratto</l>
+            <l>col maestro di musica</l>
+            <l>là dentro or s’è serrato.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Sì? oh l’ha sbagliata affé!</l>
+            <l>Povero sciocco, l’avrà a far con me.</l>
+            <l>Ma dite, signor Figaro,</l>
+            <l>voi poco fa sotto le finestre</l>
+            <l>parlavate a un signore…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>A un mio cugino…</l>
+            <l>un bravo giovinotto, buona testa,</l>
+            <l>ottimo cuore; qui venne</l>
+            <l>i suoi studi a compire,</l>
+            <l>e il poverin cerca di far fortuna.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Fortuna? eh la farà.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Oh ne dubito assai: in confidenza</l>
+            <l>ha un gran difetto addosso.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Un gran difetto?…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Ah grande,</l>
+            <l>è innamorato morto.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Sì, davvero?</l>
+            <l>Quel giovane vedete,</l>
+            <l>m’interessa moltissimo.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Per bacco!</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Non ci credete?…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Oh sì.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>E la sua bella,</l>
+            <l>dite, abita lontano?…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Oh no!… cioè…</l>
+            <l>qui!… due passi…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(Io scommetto…</l>
+            <l>scommetto ch’ei sa tutto. Or mi chiarisco.)</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(Ora casca.)</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ah un piacere</l>
+            <l>io chiederti vorrei…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Dite, son qua.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Del tuo cugin l’amante fortunata</l>
+            <l>è bella?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Oh bella assai,</l>
+            <l>eccovi il suo ritratto in due parole:</l>
+            <l>grassotta, genialotta,</l>
+            <l>capello nero, guancia porporina,</l>
+            <l>occhio che parla, mano che innamora.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>E il nome?…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Ah il nome ancora?…</l>
+            <l>Il nome… Ah che bel nome…</l>
+            <l>si chiama…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ebben?… si chiama?…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Poverina!…</l>
+            <l>Si chiama… r… o… ro… rosi… Rosina.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Dunque io son… tu non m’inganni?</l>
+            <l>dunque io son la fortunata!…</l>
+            <l>(Già me l’ero immaginata:</l>
+            <l>lo sapevo pria di te.)</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Di Lindoro il vago oggetto</l>
+            <l>sì, voi siete, o mia Rosina.</l>
+            <l>(È una volpe sopraffina</l>
+            <l>la sa lunga per mia fé!)</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Senti senti… ma a Lindoro</l>
+            <l>per parlar come si fa?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Zitto, zitto, qui Lindoro</l>
+            <l>per parlarvi or or sarà.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Per parlarmi?… bravo! bravo!</l>
+            <l>Venga pur, ma con prudenza;</l>
+            <l>io già moro d’impazienza!</l>
+            <l>Ah che tarda?… cosa fa?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Egli attende qualche segno</l>
+            <l>poverin del vostro affetto;</l>
+            <l>sol due righe di biglietto</l>
+            <l>gli mandate, e qui verrà.</l>
+            <l>Che ne dite?…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Non saprei…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Su coraggio.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Non vorrei…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Sol due righe…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Mi vergogno…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Ma di che?… di che?… si sa?</l>
+            <l>Presto presto; qua un biglietto.</l>
+            <l>(andando allo scrittoio)</l>
+          </sp>
+          <stage>FIGAROMa di che?… di che?… si sa?Presto presto; qua un biglietto.(andando allo scrittoio)</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Un biglietto?… eccolo qua.</l>
+            <l>(richiamandolo cava dalla tasca il biglietto e glielo dà)</l>
+          </sp>
+          <stage>ROSINAUn biglietto?… eccolo qua.(richiamandolo cava dalla tasca il biglietto e glielo dà)</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(attonito)</l>
+            <l>Già era scritto!… oh ve’ che bestia.</l>
+            <l>E il maestro io faccio a lei!</l>
+            <l>Ah che in cattedra costei</l>
+            <l>di malizia può dettar.</l>
+            <l>Donne donne, eterni dèi,</l>
+            <l>chi vi arriva a indovinar?</l>
+          </sp>
+          <stage>FIGARO(attonito)Già era scritto!… oh ve’ che bestia.E il maestro io faccio a lei!Ah che in cattedra costeidi malizia può dettar.Donne donne, eterni dèi,chi vi arriva a indovinar?</stage>
+        </div>
+        <div type="scene">
+          <head>ROSINA</head>Fortunati affetti mieiio comincio a respirar.Ah tu solo, amor, tu seiche mi devi consolar.(Figaro parte)Scena decimaRosina, indi Bartolo.<sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Fortunati affetti miei</l>
+            <l>io comincio a respirar.</l>
+            <l>Ah tu solo, amor, tu sei</l>
+            <l>che mi devi consolar.</l>
+            <l>(Figaro parte)</l>
+            <l>Scena decima</l>
+            <l>Rosina, indi Bartolo.</l>
+          </sp>
+          <stage>ROSINAFortunati affetti mieiio comincio a respirar.Ah tu solo, amor, tu seiche mi devi consolar.(Figaro parte)Scena decimaRosina, indi Bartolo.</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ora mi sento meglio.</l>
+            <l>Questo Figaro è un bravo giovinotto.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>In somma, colle buone,</l>
+            <l>potrei sapere dalla mia Rosina</l>
+            <l>che venne a far colui questa mattina?</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Figaro? non so nulla.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ti parlò?</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Mi parlò.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Che ti diceva?</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Oh mi parlò di cento bagattelle;</l>
+            <l>del figurin di Francia,</l>
+            <l>del mal della sua figlia Marcellina…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Davvero? ed io scommetto…</l>
+            <l>che portò la risposta al tuo biglietto.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Qual biglietto?</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Che serve!</l>
+            <l>L’arietta dell’Inutil precauzione</l>
+            <l>che ti cadde staman giù dal balcone.</l>
+            <l>Vi fate rossa?… (Avessi indovinato!)</l>
+            <l>Che vuol dir questo dito</l>
+            <l>così sporco d’inchiostro?</l>
+          </sp>
+          <stage>BARTOLOChe serve!L’arietta dell’Inutil precauzioneche ti cadde staman giù dal balcone.Vi fate rossa?… (Avessi indovinato!)Che vuol dir questo ditocosì sporco d’inchiostro?</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Sporco? oh nulla!</l>
+            <l>Io me l’avea scottato,</l>
+            <l>e coll’inchiostro or or l’ho medicato.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(Diavolo!) E questi fogli?</l>
+            <l>Or son cinque, eran sei.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Que’ fogli?… è vero;</l>
+            <l>d’uno mi son servita</l>
+            <l>a mandar de’ confetti a Marcellina.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Bravissima! E la penna</l>
+            <l>perché fu temperata?</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(Maledetto) La penna?…</l>
+            <l>per disegnare un fiore sul tamburo.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Un fiore?</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Un fiore.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Un fiore?</l>
+            <l>Ah fraschetta!</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Davver?…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Zitto.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Credete…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Basta così…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Signor…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Non più, tacete.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>[Aria]</head>A un dottor della mia sortequeste scuse, signorina?…vi consiglio mia carinaun po’ meglio a imposturar.I confetti alla ragazza?Il ricamo sul tamburo?Vi scottaste?… Eh via!… eh via!…ci vuol altro figlia mia,per potermi corbellar.Perché manca là quel foglio?Vo’ saper cotesto imbroglio;sono inutili le smorfie…ferma là; non mi toccate;figlia mia, non lo sperate,non mi lascio infinocchiar.Via carina, confessate,son disposto a perdonar.Non parlate? vi ostinate?…so ben io quel che ho da far.Signorina, un’altra voltaquando Bartolo andrà fuorila consegna ai servitoria suo modo dar saprà.E non servono le smorfie;faccia pur la gatta morta;cospetton per quella portanemmen l’aria entrar potrà.E Rosina innocentina,sconsolata disperatain sua camera serratafin ch’io voglio star dovrà.(parte)Scena undicesimaRosina sola. <stage>[Aria]A un dottor della mia sortequeste scuse, signorina?…vi consiglio mia carinaun po’ meglio a imposturar.I confetti alla ragazza?Il ricamo sul tamburo?Vi scottaste?… Eh via!… eh via!…ci vuol altro figlia mia,per potermi corbellar.Perché manca là quel foglio?Vo’ saper cotesto imbroglio;sono inutili le smorfie…ferma là; non mi toccate;figlia mia, non lo sperate,non mi lascio infinocchiar.Via carina, confessate,son disposto a perdonar.Non parlate? vi ostinate?…so ben io quel che ho da far.Signorina, un’altra voltaquando Bartolo andrà fuorila consegna ai servitoria suo modo dar saprà.E non servono le smorfie;faccia pur la gatta morta;cospetton per quella portanemmen l’aria entrar potrà.E Rosina innocentina,sconsolata disperatain sua camera serratafin ch’io voglio star dovrà.(parte)Scena undicesimaRosina sola.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Recitativo</head>Brontola quanto vuoi,chiudi porte e finestre. Io me ne rido.Già di noi altre femmineanche alla più marmottaper aguzzar l’ingegno,e farla spiritosa tutto a un trattobasta chiuderla a chiave, e il colpo è fatto.(entra nella seconda camera a destra)Scena dodicesimaBerta sola dalla seconda camera a sinistra.<div type="scene">
+          <head>Recitativo</head>Brontola quanto vuoi,chiudi porte e finestre. Io me ne rido.Già di noi altre femmineanche alla più marmottaper aguzzar l’ingegno,e farla spiritosa tutto a un trattobasta chiuderla a chiave, e il colpo è fatto.(entra nella seconda camera a destra)Scena dodicesimaBerta sola dalla seconda camera a sinistra. <stage>RecitativoBrontola quanto vuoi,chiudi porte e finestre. Io me ne rido.Già di noi altre femmineanche alla più marmottaper aguzzar l’ingegno,e farla spiritosa tutto a un trattobasta chiuderla a chiave, e il colpo è fatto.(entra nella seconda camera a destra)Scena dodicesimaBerta sola dalla seconda camera a sinistra.</stage>
+          <sp who="#berta">
+            <speaker>BERTA:</speaker>
+            <l>Finora in questa camera</l>
+            <l>mi parve di sentire un mormorio,</l>
+            <l>sarà stato il tutor. Colla pupilla</l>
+            <l>non ha un’ora di ben. Queste ragazze</l>
+            <l>non la voglion capir…</l>
+            <l>(si ode picchiare)</l>
+            <l>Battono.</l>
+          </sp>
+          <stage>BERTAFinora in questa camerami parve di sentire un mormorio,sarà stato il tutor. Colla pupillanon ha un’ora di ben. Queste ragazzenon la voglion capir…(si ode picchiare)Battono.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(di dentro)</l>
+            <l>Aprite.</l>
+          </sp>
+          <stage>CONTE(di dentro)Aprite.</stage>
+        </div>
+        <div type="scene">
+          <head>BERTA</head>Vengo. Eccì! Ancora dura.Quel tabacco mi ha posto in sepoltura.Scena tredicesimaIl Conte travestito da soldato di Cavalleria, indi Bartolo.<sp who="#berta">
+            <speaker>BERTA:</speaker>
+            <l>Vengo. Eccì! Ancora dura.</l>
+            <l>Quel tabacco mi ha posto in sepoltura.</l>
+            <l>Scena tredicesima</l>
+            <l>Il Conte travestito da soldato di Cavalleria, indi Bartolo.</l>
+          </sp>
+          <stage>BERTAVengo. Eccì! Ancora dura.Quel tabacco mi ha posto in sepoltura.Scena tredicesimaIl Conte travestito da soldato di Cavalleria, indi Bartolo.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ehi di casa… buona gente…</l>
+            <l>ehi di casa… niun mi sente!…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Chi è costui?… che brutta faccia!</l>
+            <l>È ubbriaco!… chi sarà?</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ehi di casa… Maledetti!…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Cosa vuol, signor soldato?</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(vedendolo)</l>
+            <l>Ah… sì, sì… bene obbligato.</l>
+            <l>(cerca in tasca)</l>
+          </sp>
+          <stage>CONTE(vedendolo)Ah… sì, sì… bene obbligato.(cerca in tasca)</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(Qui costui che mai vorrà?)</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Siete voi… Aspetta un poco…</l>
+            <l>siete voi… dottor Balordo…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Che «Balordo»?…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(leggendo)</l>
+            <l>Ah ah, Bertoldo.</l>
+          </sp>
+          <stage>CONTE(leggendo)Ah ah, Bertoldo.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Che «Bertoldo»? Eh andate al diavolo,</l>
+            <l>dottor Bartolo.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ah bravissimo</l>
+            <l>dottor Barbaro; benissimo…</l>
+            <l>già c’è poca differenza.</l>
+            <l>(Non si vede! che impazienza!</l>
+            <l>Quanto tarda!… dove sta?)</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(Io già perdo la pazienza,</l>
+            <l>qua prudenza ci vorrà.)</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Dunque voi… siete dottore?…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Son dottore… Sì, signore.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ah benissimo; un abbraccio.</l>
+            <l>Qua collega.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Indietro.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Qua.</l>
+            <l>(lo abbraccia per forza)</l>
+            <l>Sono anch’io dottor per cento</l>
+            <l>maniscalco al reggimento.</l>
+            <l>Dell’alloggio sul biglietto</l>
+            <l>(presentando il biglietto)</l>
+            <l>osservate, eccolo qua.</l>
+          </sp>
+          <stage>CONTEQua.(lo abbraccia per forza)Sono anch’io dottor per centomaniscalco al reggimento.Dell’alloggio sul biglietto(presentando il biglietto)osservate, eccolo qua.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(Dalla rabbia dal dispetto</l>
+            <l>io già crepo in verità.</l>
+            <l>Ah ch’io fo, se mi ci metto</l>
+            <l>qualche gran bestialità!)</l>
+            <l>(legge il biglietto)</l>
+          </sp>
+          <stage>BARTOLO(Dalla rabbia dal dispettoio già crepo in verità.Ah ch’io fo, se mi ci mettoqualche gran bestialità!)(legge il biglietto)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>CONTE</head>(Ah venisse il caro oggettodella mia felicità.Vieni vieni; il tuo dilettopien d’amor t’attende qua.)Scena quAttordicesimaRosina e detti.<div type="scene">
+          <head>CONTE</head>(Ah venisse il caro oggettodella mia felicità.Vieni vieni; il tuo dilettopien d’amor t’attende qua.)Scena quAttordicesimaRosina e detti.<sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(Ah venisse il caro oggetto</l>
+            <l>della mia felicità.</l>
+            <l>Vieni vieni; il tuo diletto</l>
+            <l>pien d’amor t’attende qua.)</l>
+            <l>Scena qu</l>
+            <l>Attordicesima</l>
+            <l>Rosina e detti.</l>
+          </sp>
+          <stage>CONTE(Ah venisse il caro oggettodella mia felicità.Vieni vieni; il tuo dilettopien d’amor t’attende qua.)Scena quAttordicesimaRosina e detti.</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>D’ascoltar qua m’è sembrato</l>
+            <l>un insolito romore…</l>
+            <l>(si arresta vedendo Bartolo)</l>
+            <l>un soldato, ed il tutore…</l>
+            <l>cosa mai faranno qua?</l>
+            <l>(si avanza pian piano)</l>
+          </sp>
+          <stage>ROSINAD’ascoltar qua m’è sembratoun insolito romore…(si arresta vedendo Bartolo)un soldato, ed il tutore…cosa mai faranno qua?(si avanza pian piano)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(È Rosina: or son contento.)</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(Ei mi guarda, e s’avvicina.)</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(piano a Rosina)</l>
+            <l>(Son Lindoro.)</l>
+          </sp>
+          <stage>CONTE(piano a Rosina)(Son Lindoro.)</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(Oh ciel! che sento!</l>
+            <l>Ah giudizio per pietà.)</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(vedendo Rosina)</l>
+            <l>Signorina, che cercate?</l>
+            <l>Presto, presto, andate via.</l>
+          </sp>
+          <stage>BARTOLO(vedendo Rosina)Signorina, che cercate?Presto, presto, andate via.</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Vado, vado, non gridate.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Presto presto via di qua.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ehi ragazza vengo anch’io.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Dove dove signor mio?</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>In caserma, oh questa è bella!</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>In caserma?… bagattella!</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Cara…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Aiuto…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Olà cospetto.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(a Rosina)</l>
+            <l>Via prendete…</l>
+            <l>(guardando Bartolo)</l>
+            <l>Maledetto!</l>
+            <l>(a Rosina mostrandole furtivamente un biglietto)</l>
+            <l>Fate presto per pietà.</l>
+          </sp>
+          <stage>CONTE(a Rosina)Via prendete…(guardando Bartolo)Maledetto!(a Rosina mostrandole furtivamente un biglietto)Fate presto per pietà.</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(al Conte)</l>
+            <l>Ah ci guarda!</l>
+            <l>(guardando Bartolo)</l>
+            <l>Maledetto!</l>
+            <l>Ah giudizio per pietà.</l>
+          </sp>
+          <stage>ROSINA(al Conte)Ah ci guarda!(guardando Bartolo)Maledetto!Ah giudizio per pietà.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(Ubbriaco maledetto!</l>
+            <l>Ah costui crepar mi fa.)</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(a Bartolo)</l>
+            <l>Dunque vado…</l>
+            <l>(incamminandosi verso le camere interne)</l>
+          </sp>
+          <stage>CONTE(a Bartolo)Dunque vado…(incamminandosi verso le camere interne)</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(trattenendolo)</l>
+            <l>Oh no signore,</l>
+            <l>qui d’alloggio star non può.</l>
+          </sp>
+          <stage>BARTOLO(trattenendolo)Oh no signore,qui d’alloggio star non può.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Come? come?</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Eh non v’è replica;</l>
+            <l>ho il brevetto d’esenzione.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(adirato)</l>
+            <l>Che brevetto?…</l>
+          </sp>
+          <stage>CONTE(adirato)Che brevetto?…</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Oh mio padrone,</l>
+            <l>un momento, e il mostrerò.</l>
+            <l>(va allo scrittoio)</l>
+          </sp>
+          <stage>BARTOLOOh mio padrone,un momento, e il mostrerò.(va allo scrittoio)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ah se qui restar non posso</l>
+            <l>deh prendete…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ahimè, ci guarda!</l>
+          </sp>
+          <sp who="#conte e rosina">
+            <speaker>CONTE E ROSINA:</speaker>
+            <l>(Cento smanie io sento addosso</l>
+            <l>ah più reggere non so.)</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(cercando nello scrittoio)</l>
+            <l>(Ah trovarlo ancor non posso,</l>
+            <l>ma sì sì lo troverò.)</l>
+            <l>Ecco qui.</l>
+            <l>(venendo avanti con una pergamena: legge)</l>
+            <l>«Con la presente</l>
+            <l>il dottor Bartolo, etcetera,</l>
+            <l>esentiamo…»</l>
+          </sp>
+          <stage>BARTOLO(cercando nello scrittoio)(Ah trovarlo ancor non posso,ma sì sì lo troverò.)Ecco qui.(venendo avanti con una pergamena: legge)«Con la presenteil dottor Bartolo, etcetera,esentiamo…»</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(con un rovescio di mano manda in aria la pergamena)</l>
+            <l>Eh andate al diavolo,</l>
+            <l>non mi state più a seccar.</l>
+          </sp>
+          <stage>CONTE(con un rovescio di mano manda in aria la pergamena)Eh andate al diavolo,non mi state più a seccar.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Cosa fa, signor mio caro?…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Zitto là, dottor Somaro,</l>
+            <l>il mio alloggio è qui fissato</l>
+            <l>e in alloggio qui vo’ star.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Voi restar…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Restar, sicuro.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Oh son stufo, mio padrone.</l>
+            <l>Presto fuori, o un buon bastone</l>
+            <l>lo farà di qua sloggiar.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(serio)</l>
+            <l>Dunque lei… lei vuol battaglia?…</l>
+            <l>ben!… battaglia li vo’ dar.</l>
+            <l>Bella cosa una battaglia!</l>
+            <l>Ve la voglio or or mostrar.</l>
+            <l>(avvicinandosi amichevolmente a Bartolo)</l>
+            <l>Osservate!… questo è il fosso…</l>
+            <l>l’inimico voi sarete…</l>
+            <l>(gli dà una spinta)</l>
+            <l>Attenzion…</l>
+            <l>(piano a Rosina alla quale si avvicina porgendole la lettera)</l>
+            <l>(Giù il fazzoletto.)</l>
+            <l>…e gli amici stan di qua.</l>
+            <l>Attenzione!…</l>
+            <l>(coglie il momento in cui Bartolo l’osserva meno attentamente, lascia cadere il biglietto, e Rosina vi fa cader sopra il fazzoletto)</l>
+          </sp>
+          <stage>CONTE(serio)Dunque lei… lei vuol battaglia?…ben!… battaglia li vo’ dar.Bella cosa una battaglia!Ve la voglio or or mostrar.(avvicinandosi amichevolmente a Bartolo)Osservate!… questo è il fosso…l’inimico voi sarete…(gli dà una spinta)Attenzion…(piano a Rosina alla quale si avvicina porgendole la lettera)(Giù il fazzoletto.)…e gli amici stan di qua.Attenzione!…(coglie il momento in cui Bartolo l’osserva meno attentamente, lascia cadere il biglietto, e Rosina vi fa cader sopra il fazzoletto)</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ferma, ferma.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(rivolgendosi, e fingendosi accorgersi della lettera, quale raccoglie)</l>
+            <l>Che cos’è? ah!</l>
+          </sp>
+          <stage>CONTE(rivolgendosi, e fingendosi accorgersi della lettera, quale raccoglie)Che cos’è? ah!</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(avvedendosene)</l>
+            <l>Vo’ vedere.</l>
+          </sp>
+          <stage>BARTOLO(avvedendosene)Vo’ vedere.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Sì, se fosse una ricetta!…</l>
+            <l>ma un biglietto… è mio dovere,</l>
+            <l>mi dovete perdonar.</l>
+            <l>(fa una riverenza a Rosina, e le dà il biglietto, e il fazzoletto)</l>
+          </sp>
+          <stage>CONTESì, se fosse una ricetta!…ma un biglietto… è mio dovere,mi dovete perdonar.(fa una riverenza a Rosina, e le dà il biglietto, e il fazzoletto)</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Grazie, grazie.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Grazie un corno!</l>
+            <l>Vo’ saper cotesto imbroglio…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Qualche intrigo di fanciulla.</l>
+            <l>(tirandolo a parte, e tenendolo a bada: intanto Rosina cambia la lettera)</l>
+          </sp>
+          <stage>CONTEQualche intrigo di fanciulla.(tirandolo a parte, e tenendolo a bada: intanto Rosina cambia la lettera)</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(Ah cambiar potessi il foglio!…)</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Vo’ veder…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ma non è nulla.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Qua quel foglio presto qua.</l>
+            <l>(escono da una parte Basilio, e dall’altra Berta)</l>
+          </sp>
+          <stage>BARTOLOQua quel foglio presto qua.(escono da una parte Basilio, e dall’altra Berta)</stage>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>(con carte in mano)</l>
+            <l>Ecco qua… oh cosa vedo!…</l>
+          </sp>
+          <stage>BASILIO(con carte in mano)Ecco qua… oh cosa vedo!…</stage>
+          <sp who="#berta">
+            <speaker>BERTA:</speaker>
+            <l>Il barbiere… uh quanta gente!…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(a Rosina)</l>
+            <l>Qua quel foglio, impertinente.</l>
+            <l>A chi dico? presto qua.</l>
+          </sp>
+          <stage>BARTOLO(a Rosina)Qua quel foglio, impertinente.A chi dico? presto qua.</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ma quel foglio, che chiedete</l>
+            <l>per azzardo m’è cascato,</l>
+            <l>è la lista del bucato…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ah fraschetta! presto qua.</l>
+            <l>(lo strappa con violenza)</l>
+            <l>Ah che vedo! ho preso abbaglio!…</l>
+            <l>è la lista, son di stucco!</l>
+            <l>Ah son proprio un mammalucco,</l>
+            <l>ah che gran bestialità.</l>
+          </sp>
+          <stage>BARTOLOAh fraschetta! presto qua.(lo strappa con violenza)Ah che vedo! ho preso abbaglio!…è la lista, son di stucco!Ah son proprio un mammalucco,ah che gran bestialità.</stage>
+          <sp who="#rosina e conte">
+            <speaker>ROSINA E CONTE:</speaker>
+            <l>Bravo, bravo il mammalucco</l>
+            <l>che nel sacco entrato è già.</l>
+          </sp>
+          <sp who="#basilio e berta">
+            <speaker>BASILIO E BERTA:</speaker>
+            <l>Non capisco, son di stucco,</l>
+            <l>qualche imbroglio qui ci sta.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(piangendo)</l>
+            <l>Ecco qua… sempre un’istoria,</l>
+            <l>sempre oppressa, e maltrattata;</l>
+            <l>ah che vita disperata,</l>
+            <l>non la so più sopportar.</l>
+          </sp>
+          <stage>ROSINA(piangendo)Ecco qua… sempre un’istoria,sempre oppressa, e maltrattata;ah che vita disperata,non la so più sopportar.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(avvicinandosele)</l>
+            <l>Ah Rosina… poverina…</l>
+          </sp>
+          <stage>BARTOLO(avvicinandosele)Ah Rosina… poverina…</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(minacciandolo, e afferrandolo per un braccio)</l>
+            <l>Vien qua tu, cosa le hai fatto?</l>
+          </sp>
+          <stage>CONTE(minacciandolo, e afferrandolo per un braccio)Vien qua tu, cosa le hai fatto?</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ah fermate… niente affatto…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(cavando la sciabla)</l>
+            <l>Ah canaglia, traditore…</l>
+          </sp>
+          <stage>CONTE(cavando la sciabla)Ah canaglia, traditore…</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(trattenendolo)</l>
+            <l>Via fermatevi, signore.</l>
+          </sp>
+          <stage>TUTTI(trattenendolo)Via fermatevi, signore.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Io ti voglio subissar.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(eccetto Bartolo, il Conte e Rosina)</l>
+            <l>Gente aiuto, soccorretelo.</l>
+          </sp>
+          <stage>TUTTI(eccetto Bartolo, il Conte e Rosina)Gente aiuto, soccorretelo.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Gente aiuto, soccorretemi.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ma chetatevi…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Lasciatemi.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TUTTI</head>(eccetto il Conte e Rosina)Gente aiuto per pietà.Scena quindicesimaFigaro entrando con bacile sotto il braccio, e detti.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(eccetto il Conte e Rosina)</l>
+            <l>Gente aiuto per pietà.</l>
+            <l>Scena quindicesima</l>
+            <l>Figaro entrando con bacile sotto il braccio, e detti.</l>
+          </sp>
+          <stage>TUTTI(eccetto il Conte e Rosina)Gente aiuto per pietà.Scena quindicesimaFigaro entrando con bacile sotto il braccio, e detti.</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Alto là.</l>
+            <l>Che cosa accadde</l>
+            <l>signori miei?</l>
+            <l>Che chiasso è questo</l>
+            <l>eterni dèi!</l>
+            <l>Già sulla piazza</l>
+            <l>a questo strepito</l>
+            <l>s’è radunata</l>
+            <l>mezza città.</l>
+            <l>(piano al Conte)</l>
+            <l>Signor prudenza</l>
+            <l>per carità.</l>
+          </sp>
+          <stage>FIGAROAlto là.Che cosa accaddesignori miei?Che chiasso è questoeterni dèi!Già sulla piazzaa questo strepitos’è radunatamezza città.(piano al Conte)Signor prudenzaper carità.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(additando il Conte)</l>
+            <l>Questi è un birbante…</l>
+          </sp>
+          <stage>BARTOLO(additando il Conte)Questi è un birbante…</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Questi è un briccone…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ah disgraziato!…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(minacciandolo con la sciabla)</l>
+            <l>Ah maledetto!…</l>
+          </sp>
+          <stage>CONTE(minacciandolo con la sciabla)Ah maledetto!…</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(alzando il bacile, e minacciando il Conte)</l>
+            <l>Signor soldato</l>
+            <l>porti rispetto,</l>
+            <l>o questo fusto</l>
+            <l>corpo del diavolo</l>
+            <l>or le creanze</l>
+            <l>le insegnerà.</l>
+          </sp>
+          <stage>FIGARO(alzando il bacile, e minacciando il Conte)Signor soldatoporti rispetto,o questo fustocorpo del diavoloor le creanzele insegnerà.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(a Bartolo)</l>
+            <l>Brutto scimmiotto…</l>
+          </sp>
+          <stage>CONTE(a Bartolo)Brutto scimmiotto…</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Birbo malnato…</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(a Bartolo)</l>
+            <l>Zitto, dottore…</l>
+          </sp>
+          <stage>TUTTI(a Bartolo)Zitto, dottore…</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Voglio gridare…</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(al Conte)</l>
+            <l>Fermo, signore…</l>
+          </sp>
+          <stage>TUTTI(al Conte)Fermo, signore…</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Voglio ammazzare…</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Fate silenzio</l>
+            <l>per carità.</l>
+            <l>(si ode bussare con violenza alla porta di strada)</l>
+            <l>Zitti, che battono…</l>
+            <l>che mai sarà?</l>
+          </sp>
+          <stage>TUTTIFate silenzioper carità.(si ode bussare con violenza alla porta di strada)Zitti, che battono…che mai sarà?</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Chi è?</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(di dentro)</l>
+            <l>La forza!</l>
+            <l>Aprite qua.</l>
+          </sp>
+          <stage>CORO(di dentro)La forza!Aprite qua.</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>La forza!… oh diavolo!…</l>
+            <l>(Figaro al Conte, Rosina a Bartolo)</l>
+            <l>L’avete fatta!</l>
+          </sp>
+          <stage>TUTTILa forza!… oh diavolo!…(Figaro al Conte, Rosina a Bartolo)L’avete fatta!</stage>
+          <sp who="#conte e bartolo">
+            <speaker>CONTE E BARTOLO:</speaker>
+            <l>Niente paura</l>
+            <l>vengan pur qua.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TUTTI</head>(Quest’avventuraah come diavolomai finirà!)Scena sedicesimaUn Uffiziale con Soldati, e detti.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(Quest’avventura</l>
+            <l>ah come diavolo</l>
+            <l>mai finirà!)</l>
+            <l>Scena sedicesima</l>
+            <l>Un Uffiziale con Soldati, e detti.</l>
+          </sp>
+          <stage>TUTTI(Quest’avventuraah come diavolomai finirà!)Scena sedicesimaUn Uffiziale con Soldati, e detti.</stage>
+          <sp who="#uffiziale">
+            <speaker>UFFIZIALE:</speaker>
+            <l>Fermi tutti. Niun si muova.</l>
+            <l>Miei signori, che si fa?</l>
+            <l>Questo chiasso donde è nato?</l>
+            <l>La cagione presto qua…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>La cagione…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Non è vero.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Sì signore…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Signor no.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>È un birbante…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>È un impostore.</l>
+          </sp>
+          <sp who="#uffiziale">
+            <speaker>UFFIZIALE:</speaker>
+            <l>Un per volta.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Io parlerò.</l>
+            <l>Questo soldato</l>
+            <l>m’ha maltrattato…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Il poverino</l>
+            <l>cotto è dal vino…</l>
+          </sp>
+          <sp who="#berta">
+            <speaker>BERTA:</speaker>
+            <l>Cava la sciabla…</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Parla d’uccidere…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Io son venuto</l>
+            <l>qui per dividere…</l>
+          </sp>
+          <sp who="#uffiziale">
+            <speaker>UFFIZIALE:</speaker>
+            <l>Fate silenzio</l>
+            <l>che intesi già.</l>
+            <l>(al Conte)</l>
+            <l>Siete in arresto,</l>
+            <l>fuori di qua.</l>
+            <l>(i soldati si muovono per circondarlo)</l>
+          </sp>
+          <stage>UFFIZIALEFate silenzioche intesi già.(al Conte)Siete in arresto,fuori di qua.(i soldati si muovono per circondarlo)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Io in arresto?</l>
+            <l>Io? fermi, olà.</l>
+            <l>Con gesto autorevole trattiene i Soldati, che si arrestano.</l>
+            <l>Egli chiama a sé l’Uffiziale, gli dà a leggere un foglio; l’Uffiziale resta sorpreso, vuol fargli un inchino, il Conte lo trattiene. L’Uffiziale fa cenno ai Soldati che si ritirino indietro, e anch’egli fa lo stesso.</l>
+            <l>Quadro di stupore.</l>
+          </sp>
+          <stage>CONTEIo in arresto?Io? fermi, olà.Con gesto autorevole trattiene i Soldati, che si arrestano.Egli chiama a sé l’Uffiziale, gli dà a leggere un foglio; l’Uffiziale resta sorpreso, vuol fargli un inchino, il Conte lo trattiene. L’Uffiziale fa cenno ai Soldati che si ritirino indietro, e anch’egli fa lo stesso.Quadro di stupore.</stage>
+          <sp who="#rosina e berta">
+            <speaker>ROSINA E BERTA:</speaker>
+            <l>Fredda ed immobile</l>
+            <l>come una statua</l>
+            <l>fiato non restami</l>
+            <l>da respirar.</l>
+          </sp>
+          <sp who="#bartolo e basilio">
+            <speaker>BARTOLO E BASILIO:</speaker>
+            <l>Freddo ed immobile</l>
+            <l>come una statua</l>
+            <l>fiato non restami</l>
+            <l>da respirar.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Freddo ed immobile</l>
+            <l>come una statua</l>
+            <l>fiato non restagli</l>
+            <l>da respirar.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(ridendo)</l>
+            <l>Guarda don Bartolo!</l>
+            <l>Sembra una statua?</l>
+            <l>Ah ah dal ridere</l>
+            <l>sto per crepar.</l>
+          </sp>
+          <stage>FIGARO(ridendo)Guarda don Bartolo!Sembra una statua?Ah ah dal rideresto per crepar.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(all’Uffiziale)</l>
+            <l>Ma signor…</l>
+          </sp>
+          <stage>BARTOLO(all’Uffiziale)Ma signor…</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Zitto tu!</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ma un dottor…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Oh non più!</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ma se lei…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Non parlar…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ma vorrei…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Non gridar…</l>
+          </sp>
+          <sp who="#berta, bartolo e basilio">
+            <speaker>BERTA, BARTOLO E BASILIO:</speaker>
+            <l>Ma se noi…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Zitti voi.</l>
+          </sp>
+          <sp who="#berta, bartolo e basilio">
+            <speaker>BERTA, BARTOLO E BASILIO:</speaker>
+            <l>Ma se poi…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Pensiam noi.</l>
+            <l>Vada ognun pe’ fatti suoi,</l>
+            <l>si finisca d’altercar.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>TUTTI</head>Mi par d’esser con la testain un’orrida fucinadove cresce e mai non restadelle incudini sonorel’importuno strepitar.Alternando questo e quellopesantissimo martellofa con barbara armoniamuri e volte rimbombar.E il cervello poverellogià stordito sbalorditonon ragiona, si confonde,si riduce ad impazzar.Atto secondoScena primaCamera in casa di Bartolo con sedia, ed un pianoforte con varie carte di musica.Bartolo solo.<div type="scene">
+          <head>TUTTI</head>Mi par d’esser con la testain un’orrida fucinadove cresce e mai non restadelle incudini sonorel’importuno strepitar.Alternando questo e quellopesantissimo martellofa con barbara armoniamuri e volte rimbombar.E il cervello poverellogià stordito sbalorditonon ragiona, si confonde,si riduce ad impazzar.Atto secondoScena primaCamera in casa di Bartolo con sedia, ed un pianoforte con varie carte di musica.Bartolo solo.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Mi par d’esser con la testa</l>
+            <l>in un’orrida fucina</l>
+            <l>dove cresce e mai non resta</l>
+            <l>delle incudini sonore</l>
+            <l>l’importuno strepitar.</l>
+            <l>Alternando questo e quello</l>
+            <l>pesantissimo martello</l>
+            <l>fa con barbara armonia</l>
+            <l>muri e volte rimbombar.</l>
+            <l>E il cervello poverello</l>
+            <l>già stordito sbalordito</l>
+            <l>non ragiona, si confonde,</l>
+            <l>si riduce ad impazzar.</l>
+            <l>Atto secondo</l>
+            <l>Scena prima</l>
+            <l>Camera in casa di Bartolo con sedia, ed un pianoforte con varie carte di musica.</l>
+            <l>Bartolo solo.</l>
+          </sp>
+          <stage>TUTTIMi par d’esser con la testain un’orrida fucinadove cresce e mai non restadelle incudini sonorel’importuno strepitar.Alternando questo e quellopesantissimo martellofa con barbara armoniamuri e volte rimbombar.E il cervello poverellogià stordito sbalorditonon ragiona, si confonde,si riduce ad impazzar.Atto secondoScena primaCamera in casa di Bartolo con sedia, ed un pianoforte con varie carte di musica.Bartolo solo.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Recitativo</head>Ma vedi il mio destino! quel soldatoper quanto abbia cercatoniun lo conosce in tutto il reggimento.Io dubito… eh cospetto!Che dubitar? scommettoche dal conte d’Almavivaè stato qua spedito quel signoread esplorar della Rosina il core.Nemmeno in casa propriasicuri si può star!… ma io…(battono)Chi batte?(verso le quinte)Ehi, chi è di là? battono, non sentite?In casa io son; non v’è timore, aprite.Scena secondaIl Conte travestito da maestro di musica, e detto.<div type="scene">
+          <head>Recitativo</head>Ma vedi il mio destino! quel soldatoper quanto abbia cercatoniun lo conosce in tutto il reggimento.Io dubito… eh cospetto!Che dubitar? scommettoche dal conte d’Almavivaè stato qua spedito quel signoread esplorar della Rosina il core.Nemmeno in casa propriasicuri si può star!… ma io…(battono)Chi batte?(verso le quinte)Ehi, chi è di là? battono, non sentite?In casa io son; non v’è timore, aprite.Scena secondaIl Conte travestito da maestro di musica, e detto. <stage>RecitativoMa vedi il mio destino! quel soldatoper quanto abbia cercatoniun lo conosce in tutto il reggimento.Io dubito… eh cospetto!Che dubitar? scommettoche dal conte d’Almavivaè stato qua spedito quel signoread esplorar della Rosina il core.Nemmeno in casa propriasicuri si può star!… ma io…(battono)Chi batte?(verso le quinte)Ehi, chi è di là? battono, non sentite?In casa io son; non v’è timore, aprite.Scena secondaIl Conte travestito da maestro di musica, e detto.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Pace e gioia il ciel vi dia.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Mille grazie, non s’incomodi.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Gioia e pace per mill’anni.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Obbligato in verità.</l>
+            <l>(Questo volto non m’è ignoto,</l>
+            <l>non ravviso… non ricordo…</l>
+            <l>ma quel volto… ma quell’abito…</l>
+            <l>non capisco… chi sarà?)</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(Ah se un colpo è andato a vuoto</l>
+            <l>a gabbar questo balordo</l>
+            <l>la mia nuova metamorfosi</l>
+            <l>più propizia a me sarà.)</l>
+            <l>Gioia, e pace, pace e gioia.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ho capito. (Oh ciel! che noia!)</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Gioia e pace, ben di cuore.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Basta basta per pietà.</l>
+            <l>(Ma che perfido destino!</l>
+            <l>Ma che barbara giornata!</l>
+            <l>Tutti quanti a me davanti!</l>
+            <l>Che crudel fatalità.)</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(Il vecchion non mi conosce:</l>
+            <l>oh mia sorte fortunata!</l>
+            <l>Ah mio ben fra pochi istanti</l>
+            <l>parlerem con libertà.)</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Insomma, mio signore,</l>
+            <l>chi è lei, si può sapere?…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Don Alonso</l>
+            <l>professore di musica, ed allievo</l>
+            <l>di don Basilio.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ebbene?</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Don Basilio</l>
+            <l>sta male il poverino, ed in sua vece…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Sta mal?…</l>
+            <l>(in atto di partire)</l>
+            <l>corro a vederlo.</l>
+          </sp>
+          <stage>BARTOLOSta mal?…(in atto di partire)corro a vederlo.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(trattenendolo)</l>
+            <l>Piano, piano,</l>
+            <l>non è un mal così grave.</l>
+          </sp>
+          <stage>CONTE(trattenendolo)Piano, piano,non è un mal così grave.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(Di costui non mi fido.)</l>
+            <l>(risoluto)</l>
+            <l>Andiamo, andiamo.</l>
+          </sp>
+          <stage>BARTOLO(Di costui non mi fido.)(risoluto)Andiamo, andiamo.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ma signore…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(brusco)</l>
+            <l>Che c’è?</l>
+          </sp>
+          <stage>BARTOLO(brusco)Che c’è?</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(tirandolo a parte e sotto voce)</l>
+            <l>Voleva dirvi…</l>
+          </sp>
+          <stage>CONTE(tirandolo a parte e sotto voce)Voleva dirvi…</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Parlate forte.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(sottovoce)</l>
+            <l>Ma…</l>
+          </sp>
+          <stage>CONTE(sottovoce)Ma…</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(sdegnato)</l>
+            <l>Forte vi dico.</l>
+          </sp>
+          <stage>BARTOLO(sdegnato)Forte vi dico.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(sdegnato anch’esso, e alzando la voce)</l>
+            <l>Ebben, come volete,</l>
+            <l>ma chi sia don Alonso apprenderete.</l>
+            <l>(in atto di partire)</l>
+            <l>Vo dal conte Almaviva…</l>
+          </sp>
+          <stage>CONTE(sdegnato anch’esso, e alzando la voce)Ebben, come volete,ma chi sia don Alonso apprenderete.(in atto di partire)Vo dal conte Almaviva…</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(trattenendolo, e con dolcezza)</l>
+            <l>Piano piano.</l>
+            <l>Dite, dite, v’ascolto.</l>
+          </sp>
+          <stage>BARTOLO(trattenendolo, e con dolcezza)Piano piano.Dite, dite, v’ascolto.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(a voce alta e sdegnato)</l>
+            <l>Il conte…</l>
+          </sp>
+          <stage>CONTE(a voce alta e sdegnato)Il conte…</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Pian per carità.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(calmandosi)</l>
+            <l>Stamane</l>
+            <l>nella stessa locanda</l>
+            <l>era meco d’alloggio, ed in mie mani</l>
+            <l>per caso capitò questo biglietto</l>
+            <l>(mostrando un biglietto)</l>
+            <l>dalla vostra pupilla a lui diretto.</l>
+          </sp>
+          <stage>CONTE(calmandosi)Stamanenella stessa locandaera meco d’alloggio, ed in mie maniper caso capitò questo biglietto(mostrando un biglietto)dalla vostra pupilla a lui diretto.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(prendendo il biglietto, e guardandolo)</l>
+            <l>Che vedo!… è sua scrittura!…</l>
+          </sp>
+          <stage>BARTOLO(prendendo il biglietto, e guardandolo)Che vedo!… è sua scrittura!…</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Don Basilio occupato col curiale</l>
+            <l>nulla sa di quel foglio; ed io per lui</l>
+            <l>venendo a dar lezione alla ragazza,</l>
+            <l>volea farmene un merito con voi…</l>
+            <l>perché… con quel biglietto…</l>
+            <l>(mendicando un ripiego con qualche imbarazzo)</l>
+            <l>si potrebbe…</l>
+          </sp>
+          <stage>CONTEDon Basilio occupato col curialenulla sa di quel foglio; ed io per luivenendo a dar lezione alla ragazza,volea farmene un merito con voi…perché… con quel biglietto…(mendicando un ripiego con qualche imbarazzo)si potrebbe…</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Che cosa?…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Vi dirò…</l>
+            <l>s’io potessi parlare alla ragazza</l>
+            <l>io creder… verbigrazia… le farei…</l>
+            <l>che me lo diè del conte un’altra amante,</l>
+            <l>prova significante</l>
+            <l>che il conte di Rosina si fa gioco,</l>
+            <l>e perciò…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Piano un poco. Una calunnia!…</l>
+            <l>Siete un vero scolar di don Basilio!</l>
+            <l>(lo abbraccia, e mette in tasca il biglietto)</l>
+            <l>Io saprò come merita</l>
+            <l>ricompensar sì bel suggerimento.</l>
+            <l>Vo a chiamar la ragazza.</l>
+            <l>Poiché tanto per me v’interessate</l>
+            <l>mi raccomando a voi.</l>
+            <l>(entra nelle camere di Rosina)</l>
+          </sp>
+          <stage>BARTOLOPiano un poco. Una calunnia!…Siete un vero scolar di don Basilio!(lo abbraccia, e mette in tasca il biglietto)Io saprò come meritaricompensar sì bel suggerimento.Vo a chiamar la ragazza.Poiché tanto per me v’interessatemi raccomando a voi.(entra nelle camere di Rosina)</stage>
+        </div>
+        <div type="scene">
+          <head>CONTE</head>(Non dubitare.L’affare del bigliettodalla bocca m’è uscito non volendo.Ma come far? senza d’un tal ripiegomi toccava andar via come un baggiano.Il mio disegno a leiora paleserò; s’ella acconsenteio son felice appieno.Eccola. Ah il cor sento balzarmi in seno.)Scena terzaBartolo conducendo Rosina, e detto.<sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(Non dubitare.</l>
+            <l>L’affare del biglietto</l>
+            <l>dalla bocca m’è uscito non volendo.</l>
+            <l>Ma come far? senza d’un tal ripiego</l>
+            <l>mi toccava andar via come un baggiano.</l>
+            <l>Il mio disegno a lei</l>
+            <l>ora paleserò; s’ella acconsente</l>
+            <l>io son felice appieno.</l>
+            <l>Eccola. Ah il cor sento balzarmi in seno.)</l>
+            <l>Scena terza</l>
+            <l>Bartolo conducendo Rosina, e detto.</l>
+          </sp>
+          <stage>CONTE(Non dubitare.L’affare del bigliettodalla bocca m’è uscito non volendo.Ma come far? senza d’un tal ripiegomi toccava andar via come un baggiano.Il mio disegno a leiora paleserò; s’ella acconsenteio son felice appieno.Eccola. Ah il cor sento balzarmi in seno.)Scena terzaBartolo conducendo Rosina, e detto.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Venite, signorina; don Alonso,</l>
+            <l>che qui vedete, or vi darà lezione.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(vedendo il conte)</l>
+            <l>Ah!…</l>
+          </sp>
+          <stage>ROSINA(vedendo il conte)Ah!…</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Cos’è stato?…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>È un granchio al piede.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Oh nulla!</l>
+            <l>Sedete a me vicin bella fanciulla.</l>
+            <l>Se non vi spiace un poco di lezione</l>
+            <l>di don Basilio in vece vi darò.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Oh con mio gran piacer la prenderò.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Che vuol cantare?</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Io canto, se le aggrada,</l>
+            <l>il rondò dell’Inutil precauzione.</l>
+          </sp>
+          <stage>ROSINAIo canto, se le aggrada,il rondò dell’Inutil precauzione.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>E sempre, sempre in bocca</l>
+            <l>l’Inutil precauzione.</l>
+          </sp>
+          <stage>BARTOLOE sempre, sempre in boccal’Inutil precauzione.</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(cercando varie carte sul pianoforte)</l>
+            <l>Io ve l’ho detto,</l>
+            <l>è il titolo dell’opera novella.</l>
+          </sp>
+          <stage>ROSINA(cercando varie carte sul pianoforte)Io ve l’ho detto,è il titolo dell’opera novella.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Or bene; intesi: andiamo.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Eccolo qua.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Da brava; incominciamo.</l>
+            <l>Siede al pianoforte, e Rosina canta accompagnata dal Conte. Bartolo siede e ascolta.</l>
+          </sp>
+          <stage>CONTEDa brava; incominciamo.Siede al pianoforte, e Rosina canta accompagnata dal Conte. Bartolo siede e ascolta.</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Contro un cor che accende amore</l>
+            <l>di verace invitto ardore</l>
+            <l>s’arma invan poter tiranno</l>
+            <l>di rigor, di crudeltà.</l>
+            <l>D’ogni assalto vincitore</l>
+            <l>sempre amor trionferà.</l>
+            <l>(Bartolo s’addormenta)</l>
+            <l>(Ah Lindoro mio tesoro…</l>
+            <l>se sapessi… se vedessi…</l>
+            <l>questo cane di tutore</l>
+            <l>ah che rabbia che mi fa.</l>
+            <l>Caro a te mi raccomando</l>
+            <l>tu mi salva per pietà.)</l>
+          </sp>
+          <stage>ROSINAContro un cor che accende amoredi verace invitto ardores’arma invan poter tirannodi rigor, di crudeltà.D’ogni assalto vincitoresempre amor trionferà.(Bartolo s’addormenta)(Ah Lindoro mio tesoro…se sapessi… se vedessi…questo cane di tutoreah che rabbia che mi fa.Caro a te mi raccomandotu mi salva per pietà.)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(Non temer, ti rassicura,</l>
+            <l>sorte amica a noi sarà.)</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Dunque spero?…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>A me t’affida.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Il mio cor…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Giubilerà.</l>
+            <l>(Bartolo si va risvegliando)</l>
+          </sp>
+          <stage>CONTEGiubilerà.(Bartolo si va risvegliando)</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Cara immagine ridente</l>
+            <l>dolce idea d’un lieto amore,</l>
+            <l>tu m’accendi in petto il core,</l>
+            <l>tu mi porti a delirar.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Bella voce! bravissima.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Oh mille grazie…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Certo: bella voce.</l>
+            <l>Ma quest’aria cospetto è assai noiosa.</l>
+            <l>La musica a’ miei tempi era altra cosa.</l>
+            <l>Ah! quando per esempio</l>
+            <l>cantava Cafariello</l>
+            <l>quell’aria portentosa…</l>
+            <l>(provandosi di rintracciare il motivo)</l>
+            <l>la, ra, là.</l>
+            <l>Sentite, don Alonso, eccola qua.</l>
+          </sp>
+          <stage>BARTOLOCerto: bella voce.Ma quest’aria cospetto è assai noiosa.La musica a’ miei tempi era altra cosa.Ah! quando per esempiocantava Cafarielloquell’aria portentosa…(provandosi di rintracciare il motivo)la, ra, là.Sentite, don Alonso, eccola qua.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Quando mi sei vicina</l>
+            <l>amabile Rosina…</l>
+            <l>(interrompendo)</l>
+            <l>L’aria dicea Giannina,</l>
+            <l>(con vezzo verso Rosina)</l>
+            <l>ma io dico Rosina.</l>
+            <l>Quando mi sei vicina</l>
+            <l>amabile Rosina,</l>
+            <l>il cor mi balla in petto</l>
+            <l>mi balla il minuetto…</l>
+            <l>Accompagnandosi col ballo; durante questa canzonetta entra Figaro col bacile sotto il braccio, e si pone dietro Bartolo imitandone il ballo con caricatura. Rosina ride.</l>
+          </sp>
+          <stage>BARTOLOQuando mi sei vicinaamabile Rosina…(interrompendo)L’aria dicea Giannina,(con vezzo verso Rosina)ma io dico Rosina.Quando mi sei vicinaamabile Rosina,il cor mi balla in pettomi balla il minuetto…Accompagnandosi col ballo; durante questa canzonetta entra Figaro col bacile sotto il braccio, e si pone dietro Bartolo imitandone il ballo con caricatura. Rosina ride.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(avvedendosi di Figaro)</l>
+            <l>Bravo, signor barbiere,</l>
+            <l>ma bravo.</l>
+          </sp>
+          <stage>BARTOLO(avvedendosi di Figaro)Bravo, signor barbiere,ma bravo.</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Eh niente affatto,</l>
+            <l>scusi, son debolezze.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ebben guidone,</l>
+            <l>che vieni a fare?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Oh bella,</l>
+            <l>vengo a farvi la barba, oggi vi tocca.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Oggi non voglio.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Oggi non vuol? dimani</l>
+            <l>non potrò io.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Perché?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Perché ho da fare.</l>
+            <l>(lascia sul tavolino il bacile, e cava un libro di memoria)</l>
+            <l>A tutti gli uffiziali</l>
+            <l>del nuovo reggimento, barba e testa…</l>
+            <l>Alla marchesa Andronica</l>
+            <l>il biondo perucchin coi maronè…</l>
+            <l>Al contino Bombè</l>
+            <l>il ciuffo a campanile…</l>
+            <l>Purgante all’avvocato Bernardone</l>
+            <l>che ieri s’ammalò d’indigestione…</l>
+            <l>E poi… e poi… che serve…</l>
+            <l>(riponendo in tasca il libro)</l>
+            <l>Doman non posso.</l>
+          </sp>
+          <stage>FIGAROPerché ho da fare.(lascia sul tavolino il bacile, e cava un libro di memoria)A tutti gli uffizialidel nuovo reggimento, barba e testa…Alla marchesa Andronicail biondo perucchin coi maronè…Al contino Bombèil ciuffo a campanile…Purgante all’avvocato Bernardoneche ieri s’ammalò d’indigestione…E poi… e poi… che serve…(riponendo in tasca il libro)Doman non posso.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Orsù, meno parole,</l>
+            <l>oggi non vo’ far barba.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>No?… cospetto!</l>
+            <l>Guardate che avventori!</l>
+            <l>Vengo stamane; in casa v’è l’inferno,</l>
+            <l>ritorno dopo pranzo:</l>
+            <l>(contraffacendolo)</l>
+            <l>«Oggi non voglio.»</l>
+            <l>Ma che mi avete preso</l>
+            <l>per un qualche barbier da contadini?</l>
+            <l>Chiamate pure un altro, io me ne vado.</l>
+            <l>(riprende il bacile in atto di partire)</l>
+          </sp>
+          <stage>FIGARONo?… cospetto!Guardate che avventori!Vengo stamane; in casa v’è l’inferno,ritorno dopo pranzo:(contraffacendolo)«Oggi non voglio.»Ma che mi avete presoper un qualche barbier da contadini?Chiamate pure un altro, io me ne vado.(riprende il bacile in atto di partire)</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Che serve?… a modo suo.</l>
+            <l>Vedi che fantasia!</l>
+            <l>Va’ in camera a pigliar la biancheria.</l>
+            <l>(si cava dalla cintola un mazzo di chiavi per darle a Figaro, indi le ritira)</l>
+            <l>No, vado io stesso.</l>
+            <l>(entra)</l>
+          </sp>
+          <stage>BARTOLOChe serve?… a modo suo.Vedi che fantasia!Va’ in camera a pigliar la biancheria.(si cava dalla cintola un mazzo di chiavi per darle a Figaro, indi le ritira)No, vado io stesso.(entra)</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Ah se mi dava in mani</l>
+            <l>il mazzo delle chiavi ero a cavallo.</l>
+            <l>(a Rosina marcato)</l>
+            <l>Dite; non è fra quelle</l>
+            <l>la chiave, che apre quella gelosia?</l>
+          </sp>
+          <stage>FIGAROAh se mi dava in maniil mazzo delle chiavi ero a cavallo.(a Rosina marcato)Dite; non è fra quellela chiave, che apre quella gelosia?</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Sì certo è la più nuova.</l>
+            <l>(rientra Bartolo)</l>
+          </sp>
+          <stage>ROSINASì certo è la più nuova.(rientra Bartolo)</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(Oh son pur buono</l>
+            <l>a lasciar qua quel diavol di barbiere!)</l>
+            <l>(dando le chiavi a Figaro)</l>
+            <l>Animo, va tu stesso.</l>
+            <l>Passato il corridor, sopra l’armadio</l>
+            <l>il tutto troverai.</l>
+            <l>Bada non toccar nulla.</l>
+          </sp>
+          <stage>BARTOLO(Oh son pur buonoa lasciar qua quel diavol di barbiere!)(dando le chiavi a Figaro)Animo, va tu stesso.Passato il corridor, sopra l’armadioil tutto troverai.Bada non toccar nulla.</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Eh non son matto.</l>
+            <l>(Allegri.) Vado e torno. (Il colpo è fatto.)</l>
+            <l>(entra)</l>
+          </sp>
+          <stage>FIGAROEh non son matto.(Allegri.) Vado e torno. (Il colpo è fatto.)(entra)</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(al Conte)</l>
+            <l>È quel briccon, che al conte</l>
+            <l>ha portato il biglietto di Rosina.</l>
+          </sp>
+          <stage>BARTOLO(al Conte)È quel briccon, che al conteha portato il biglietto di Rosina.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Mi sembra un imbroglion di prima sfera.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Eh a me non me la ficca…</l>
+            <l>(si sente di dentro un gran rumore, come di vasellame che si spezza)</l>
+          </sp>
+          <stage>BARTOLOEh a me non me la ficca…(si sente di dentro un gran rumore, come di vasellame che si spezza)</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ah disgraziato me!</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ah che romore.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Oh che briccon! me lo diceva il core.</l>
+            <l>(entra)</l>
+          </sp>
+          <stage>BARTOLOOh che briccon! me lo diceva il core.(entra)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(a Rosina)</l>
+            <l>Quel Figaro è un grand’uomo; or che siam soli</l>
+            <l>ditemi, o cara; il vostro al mio destino</l>
+            <l>d’unir siete contenta?</l>
+            <l>Franchezza!…</l>
+          </sp>
+          <stage>CONTE(a Rosina)Quel Figaro è un grand’uomo; or che siam soliditemi, o cara; il vostro al mio destinod’unir siete contenta?Franchezza!…</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(con entusiasmo)</l>
+            <l>Ah mio Lindoro,</l>
+            <l>altro io non bramo…</l>
+            <l>(si ricompone vedendo rientrar Bartolo e Figaro)</l>
+          </sp>
+          <stage>ROSINA(con entusiasmo)Ah mio Lindoro,altro io non bramo…(si ricompone vedendo rientrar Bartolo e Figaro)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ebben?…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Tutto mi ha rotto:</l>
+            <l>sei piatti, otto bicchieri, una terrina.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(mostrando di soppiatto al Conte la chiave della gelosia che avrà rubata dal mazzo)</l>
+            <l>Vedete che gran cosa: ad una chiave</l>
+            <l>se io non mi attaccava per fortuna,</l>
+            <l>per quel maledettissimo</l>
+            <l>corridor così oscuro</l>
+            <l>spezzato mi sarei la testa al muro.</l>
+            <l>Tiene ogni stanza al buio, e poi… e poi…</l>
+          </sp>
+          <stage>FIGARO(mostrando di soppiatto al Conte la chiave della gelosia che avrà rubata dal mazzo)Vedete che gran cosa: ad una chiavese io non mi attaccava per fortuna,per quel maledettissimocorridor così oscurospezzato mi sarei la testa al muro.Tiene ogni stanza al buio, e poi… e poi…</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Oh non più.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Dunque andiam.</l>
+            <l>(al Conte e Rosina)</l>
+            <l>Giudizio.</l>
+          </sp>
+          <stage>FIGARODunque andiam.(al Conte e Rosina)Giudizio.</stage>
+        </div>
+        <div type="scene">
+          <head>BARTOLO</head>A noi.(si dispone per sedere e farsi radere. In questo entra Basilio)Scena quartaDon Basilio, e detti.<sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>A noi.</l>
+            <l>(si dispone per sedere e farsi radere. In questo entra Basilio)</l>
+            <l>Scena quarta</l>
+            <l>Don Basilio, e detti.</l>
+          </sp>
+          <stage>BARTOLOA noi.(si dispone per sedere e farsi radere. In questo entra Basilio)Scena quartaDon Basilio, e detti.</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Don Basilio!…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Cosa veggo!</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(Quale intoppo!…)</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Come qua?</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Servitor di tutti quanti.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(Che vuol dir tal novità?)</l>
+          </sp>
+          <sp who="#conte e figaro">
+            <speaker>CONTE E FIGARO:</speaker>
+            <l>(Qui franchezza ci vorrà.)</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(Ah di noi che mai sarà.)</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Don Basilio, come state?</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>(stupito)</l>
+            <l>Come sto?…</l>
+          </sp>
+          <stage>BASILIO(stupito)Come sto?…</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(interrompendo)</l>
+            <l>Or che s’aspetta?</l>
+            <l>Questa barba benedetta</l>
+            <l>la facciamo? sì o no?</l>
+          </sp>
+          <stage>FIGARO(interrompendo)Or che s’aspetta?Questa barba benedettala facciamo? sì o no?</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(a Figaro)</l>
+            <l>Ora vengo.</l>
+            <l>(a Basilio)</l>
+            <l>Ehi il curiale…</l>
+          </sp>
+          <stage>BARTOLO(a Figaro)Ora vengo.(a Basilio)Ehi il curiale…</stage>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>(stupito)</l>
+            <l>Il curiale?…</l>
+          </sp>
+          <stage>BASILIO(stupito)Il curiale?…</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(interrompendolo)</l>
+            <l>Io gli ho narrato</l>
+            <l>che già tutto è combinato,</l>
+            <l>(a Bartolo)</l>
+            <l>non è ver?…</l>
+          </sp>
+          <stage>CONTE(interrompendolo)Io gli ho narratoche già tutto è combinato,(a Bartolo)non è ver?…</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Sì, tutto io so.</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Ma, don Bartolo spiegatemi…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(interrompendo; a Bartolo)</l>
+            <l>Ehi, dottore, una parola.</l>
+            <l>(a Basilio)</l>
+            <l>Don Basilio, son da voi.</l>
+            <l>(a Bartolo)</l>
+            <l>Ascoltate un poco qua.</l>
+            <l>(piano a Bartolo)</l>
+            <l>(Fate un po’ ch’ei vada via,</l>
+            <l>ch’ei ci scopra ho gran timore:</l>
+            <l>della lettera, signore,</l>
+            <l>ei l’affare ancor non sa.)</l>
+            <l>(a Basilio)</l>
+            <l>Colla febbre, don Basilio,</l>
+            <l>chi v’insegna a passeggiare?…</l>
+            <l>(Figaro ascoltando con attenzione si prepara a secondare il Conte)</l>
+          </sp>
+          <stage>CONTE(interrompendo; a Bartolo)Ehi, dottore, una parola.(a Basilio)Don Basilio, son da voi.(a Bartolo)Ascoltate un poco qua.(piano a Bartolo)(Fate un po’ ch’ei vada via,ch’ei ci scopra ho gran timore:della lettera, signore,ei l’affare ancor non sa.)(a Basilio)Colla febbre, don Basilio,chi v’insegna a passeggiare?…(Figaro ascoltando con attenzione si prepara a secondare il Conte)</stage>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>(stupito)</l>
+            <l>Colla febbre?…</l>
+          </sp>
+          <stage>BASILIO(stupito)Colla febbre?…</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>E che vi pare?…</l>
+            <l>siete giallo come un morto.</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>(stupito)</l>
+            <l>Come un morto?…</l>
+          </sp>
+          <stage>BASILIO(stupito)Come un morto?…</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(tastandogli il polso)</l>
+            <l>Bagattella!</l>
+            <l>Cospetton!… che tremarella!…</l>
+            <l>questa è febbre scarlattina.</l>
+          </sp>
+          <stage>FIGARO(tastandogli il polso)Bagattella!Cospetton!… che tremarella!…questa è febbre scarlattina.</stage>
+          <sp who="#conte e figaro">
+            <speaker>CONTE E FIGARO:</speaker>
+            <l>Via prendete medicina,</l>
+            <l>non vi state a rovinar.</l>
+            <l>(il Conte dà a Basilio una borsa di soppiatto)</l>
+          </sp>
+          <stage>CONTE E FIGAROVia prendete medicina,non vi state a rovinar.(il Conte dà a Basilio una borsa di soppiatto)</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Presto presto andate a letto…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Voi paura inver mi fate…</l>
+          </sp>
+          <sp who="#bartolo e rosina">
+            <speaker>BARTOLO E ROSINA:</speaker>
+            <l>Dice bene, andate, andate…</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Presto andate a riposar.</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>(stupito)</l>
+            <l>(Una borsa!… andate a letto!…</l>
+            <l>ma che tutti sian d’accordo!…)</l>
+          </sp>
+          <stage>BASILIO(stupito)(Una borsa!… andate a letto!…ma che tutti sian d’accordo!…)</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Presto a letto…</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Eh non son sordo,</l>
+            <l>non mi faccio più pregar.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Che color!…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Che brutta cera!…</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Brutta cera!…</l>
+          </sp>
+          <sp who="#conte e figaro">
+            <speaker>CONTE E FIGARO:</speaker>
+            <l>Oh brutta assai!…</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Dunque vado…</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Andate, andate.</l>
+            <l>Buona sera, mio signore,</l>
+            <l>pace, sonno, e sanità.</l>
+            <l>(Maledetto seccatore.)</l>
+            <l>Presto andate via di qua.</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Buona sera… ben di core…</l>
+            <l>obbligato… in verità.</l>
+            <l>(Ah che in sacco va il tutore.)</l>
+            <l>Non gridate, intesi già.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>BASILIOBuona sera… ben di core…obbligato… in verità.(Ah che in sacco va il tutore.)Non gridate, intesi già.(parte)</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Orsù, signor don Bartolo.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Son qua.</l>
+            <l>(Bartolo siede, e Figaro gli cinge al collo uno sciugatoio disponendosi a fargli la barba; durante l’operazione Figaro va</l>
+            <l>coprendo i due amanti)</l>
+          </sp>
+          <stage>BARTOLOSon qua.(Bartolo siede, e Figaro gli cinge al collo uno sciugatoio disponendosi a fargli la barba; durante l’operazione Figaro vacoprendo i due amanti)</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Stringi, bravissimo.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Rosina, deh ascoltatemi.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Vi ascolto, eccomi qua.</l>
+            <l>(siedono fingendo studiar musica)</l>
+          </sp>
+          <stage>ROSINAVi ascolto, eccomi qua.(siedono fingendo studiar musica)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(a Rosina con cautela)</l>
+            <l>A mezza notte in punto</l>
+            <l>a prendervi qui siamo:</l>
+            <l>or che la chiave abbiamo</l>
+            <l>non v’è da dubitar.</l>
+          </sp>
+          <stage>CONTE(a Rosina con cautela)A mezza notte in puntoa prendervi qui siamo:or che la chiave abbiamonon v’è da dubitar.</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(distraendo Bartolo)</l>
+            <l>Ahi!… ahi!…</l>
+          </sp>
+          <stage>FIGARO(distraendo Bartolo)Ahi!… ahi!…</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Che cosa è stato?…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Un non so che nell’occhio!…</l>
+            <l>guardate… non toccate…</l>
+            <l>soffiate per pietà.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>A mezza notte in punto</l>
+            <l>anima mia t’aspetto.</l>
+            <l>Io già l’istante affretto</l>
+            <l>che teco mi unirà.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ma lasciami vedere!</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Vedete; chi vi tiene?</l>
+          </sp>
+          <sp who="#conte e rosina">
+            <speaker>CONTE E ROSINA:</speaker>
+            <l>(fingendo solfeggiare)</l>
+            <l>Do re mi fa sol la…</l>
+            <l>(Bartolo si alza e si avvicina agli amanti)</l>
+          </sp>
+          <stage>CONTE E ROSINA(fingendo solfeggiare)Do re mi fa sol la…(Bartolo si alza e si avvicina agli amanti)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ora avvertir vi voglio,</l>
+            <l>cara, che il vostro foglio</l>
+            <l>perché non fosse inutile</l>
+            <l>il mio travestimento…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Il suo travestimento?…</l>
+            <l>ma bravi, ma bravissimi!</l>
+            <l>Ma bravi in verità!</l>
+            <l>Bricconi, birbanti,</l>
+            <l>ah voi tutti quanti</l>
+            <l>avete giurato</l>
+            <l>di farmi crepar.</l>
+            <l>Uscite furfanti</l>
+            <l>vi voglio accoppar.</l>
+            <l>Di rabbia di sdegno</l>
+            <l>mi sento crepar.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ROSINA, CONTE E FIGARO</head>L’amico delira,la testa gli gira,dottore tacetevi fate burlar.Tacete, partiamo,non serve gridar.(Intesi ci siamo,non v’è a replicar.)Scena quintaBartolo, indi Berta, e Ambrogio.<sp who="#rosina, conte e figaro">
+            <speaker>ROSINA, CONTE E FIGARO:</speaker>
+            <l>L’amico delira,</l>
+            <l>la testa gli gira,</l>
+            <l>dottore tacete</l>
+            <l>vi fate burlar.</l>
+            <l>Tacete, partiamo,</l>
+            <l>non serve gridar.</l>
+            <l>(Intesi ci siamo,</l>
+            <l>non v’è a replicar.)</l>
+            <l>Scena quinta</l>
+            <l>Bartolo, indi Berta, e Ambrogio.</l>
+          </sp>
+          <stage>ROSINA, CONTE E FIGAROL’amico delira,la testa gli gira,dottore tacetevi fate burlar.Tacete, partiamo,non serve gridar.(Intesi ci siamo,non v’è a replicar.)Scena quintaBartolo, indi Berta, e Ambrogio.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ah disgraziato!… ed io</l>
+            <l>non mi accorsi di nulla. Ah don Basilio</l>
+            <l>sa certo qualche cosa.</l>
+            <l>(dopo aver riflettuto)</l>
+            <l>Ehi chi è di là?</l>
+            <l>Chi è di là?…</l>
+            <l>(escono Ambrogio e Berta da parti opposte)</l>
+          </sp>
+          <stage>BARTOLOAh disgraziato!… ed ionon mi accorsi di nulla. Ah don Basiliosa certo qualche cosa.(dopo aver riflettuto)Ehi chi è di là?Chi è di là?…(escono Ambrogio e Berta da parti opposte)</stage>
+        </div>
+        <div type="scene">
+          <head>BARTOLO</head>Senti Ambrogio?…Corri da don Basilio qui rimpetto.Digli ch’io qua l’aspetto,che venga immantinenteche ho gran cose da dirgli, e ch’io non vadoperché… perché… perché ho di gran ragioni.Va’ subito.(Ambrogio parte)(a Berta)Di guardiatu piàntati alla porta, e poi… no no.(Non me ne fido.) Io stesso ci starò.(parte)Scena sestaBerta sola.Che vecchio sospettoso. Vada puree ci stia finché crepa.Sempre gridi e tumulti in questa casa.Si litiga, si piange, si minaccia,non v’è un’ora di pacecon questo vecchio avaro e brontolone.Oh che casa!… oh che casa in confusione.<sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Senti Ambrogio?…</l>
+            <l>Corri da don Basilio qui rimpetto.</l>
+            <l>Digli ch’io qua l’aspetto,</l>
+            <l>che venga immantinente</l>
+            <l>che ho gran cose da dirgli, e ch’io non vado</l>
+            <l>perché… perché… perché ho di gran ragioni.</l>
+            <l>Va’ subito.</l>
+            <l>(Ambrogio parte)</l>
+            <l>(a Berta)</l>
+            <l>Di guardia</l>
+            <l>tu piàntati alla porta, e poi… no no.</l>
+            <l>(Non me ne fido.) Io stesso ci starò.</l>
+            <l>(parte)</l>
+            <l>Scena sesta</l>
+            <l>Berta sola.</l>
+            <l>Che vecchio sospettoso. Vada pure</l>
+            <l>e ci stia finché crepa.</l>
+            <l>Sempre gridi e tumulti in questa casa.</l>
+            <l>Si litiga, si piange, si minaccia,</l>
+            <l>non v’è un’ora di pace</l>
+            <l>con questo vecchio avaro e brontolone.</l>
+            <l>Oh che casa!… oh che casa in confusione.</l>
+          </sp>
+          <stage>BARTOLOSenti Ambrogio?…Corri da don Basilio qui rimpetto.Digli ch’io qua l’aspetto,che venga immantinenteche ho gran cose da dirgli, e ch’io non vadoperché… perché… perché ho di gran ragioni.Va’ subito.(Ambrogio parte)(a Berta)Di guardiatu piàntati alla porta, e poi… no no.(Non me ne fido.) Io stesso ci starò.(parte)Scena sestaBerta sola.Che vecchio sospettoso. Vada puree ci stia finché crepa.Sempre gridi e tumulti in questa casa.Si litiga, si piange, si minaccia,non v’è un’ora di pacecon questo vecchio avaro e brontolone.Oh che casa!… oh che casa in confusione.</stage>
+        </div>
+        <div type="scene">
+          <head>[Aria]</head>Il vecchiotto cerca moglievuol marito la ragazzaquello freme, questa è pazzatutti e due son da legar.Ma che cosa è questo amoreche fa tutti delirar?…Egli è un male universaleuna smania, un certo ardoreche nel core dà un tormento…Poverina anch’io lo sentoné so come finirà.Ah vecchiaia maledettache disdetta singolar!Niun mi bada, niun mi vuoleson da tutti disprezzatae vecchietta disperatami convien così crepar.(parte)Scena settimaDon Bartolo introducendo don Basilio. <stage>[Aria]Il vecchiotto cerca moglievuol marito la ragazzaquello freme, questa è pazzatutti e due son da legar.Ma che cosa è questo amoreche fa tutti delirar?…Egli è un male universaleuna smania, un certo ardoreche nel core dà un tormento…Poverina anch’io lo sentoné so come finirà.Ah vecchiaia maledettache disdetta singolar!Niun mi bada, niun mi vuoleson da tutti disprezzatae vecchietta disperatami convien così crepar.(parte)Scena settimaDon Bartolo introducendo don Basilio.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Dunque voi don Alonso</l>
+            <l>non conoscete affatto?</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Affatto.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ah certo</l>
+            <l>il conte lo mandò. Qualche gran trama</l>
+            <l>qua si prepara.</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Io poi</l>
+            <l>dico che quell’amico</l>
+            <l>era il conte in persona.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Il conte?…</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Il conte.</l>
+            <l>(La borsa parla chiaro.)</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Sia che si vuole, amico, dal notaro</l>
+            <l>vo’ in questo punto andare: in questa sera</l>
+            <l>stipular di mie nozze io vo’ il contratto.</l>
+          </sp>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Il notar?… siete matto?…</l>
+            <l>piove a torrenti e poi</l>
+            <l>questa sera il notaro</l>
+            <l>è impegnato con Figaro; il barbiere</l>
+            <l>marita una nipote.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Una nipote?…</l>
+            <l>Che nipote?… Il barbiere</l>
+            <l>non ha nipoti. Ah qui v’è qualche imbroglio.</l>
+            <l>Questa notte i bricconi</l>
+            <l>me la vogliono far; presto il notaro</l>
+            <l>qua venga sull’istante.</l>
+            <l>Ecco la chiave del portone.</l>
+            <l>(gli dà una chiave)</l>
+            <l>Andate,</l>
+            <l>presto per carità.</l>
+          </sp>
+          <stage>BARTOLOUna nipote?…Che nipote?… Il barbierenon ha nipoti. Ah qui v’è qualche imbroglio.Questa notte i bricconime la vogliono far; presto il notaroqua venga sull’istante.Ecco la chiave del portone.(gli dà una chiave)Andate,presto per carità.</stage>
+        </div>
+        <div type="scene">
+          <head>BASILIO</head>Non temete: in due salti io torno qua.(parte)Scena ottavaBartolo; indi Rosina.<sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Non temete: in due salti io torno qua.</l>
+            <l>(parte)</l>
+            <l>Scena ottava</l>
+            <l>Bartolo; indi Rosina.</l>
+          </sp>
+          <stage>BASILIONon temete: in due salti io torno qua.(parte)Scena ottavaBartolo; indi Rosina.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Per forza o per amore</l>
+            <l>Rosina avrà da cedere, cospetto!…</l>
+            <l>mi viene un’altra idea. Questo biglietto</l>
+            <l>(cava dalla tasca il biglietto datogli dal Conte)</l>
+            <l>che scrisse la ragazza ad Almaviva</l>
+            <l>potria servir… Che colpo da maestro!</l>
+            <l>Don Alonso, il briccone,</l>
+            <l>senza volerlo mi diè l’armi in mano.</l>
+            <l>Ehi Rosina, Rosina!</l>
+            <l>(Rosina dalle sue camere entra senza parlare)</l>
+            <l>Avanti avanti,</l>
+            <l>del vostro amante io vi vo’ dar novella.</l>
+            <l>Povera sciagurata! In verità</l>
+            <l>collocaste assai bene il vostro affetto.</l>
+            <l>Del vostro amor sappiate</l>
+            <l>ch’ei si fa gioco in sen d’un’altra amante.</l>
+            <l>Ecco la prova.</l>
+            <l>(le dà il biglietto)</l>
+          </sp>
+          <stage>BARTOLOPer forza o per amoreRosina avrà da cedere, cospetto!…mi viene un’altra idea. Questo biglietto(cava dalla tasca il biglietto datogli dal Conte)che scrisse la ragazza ad Almavivapotria servir… Che colpo da maestro!Don Alonso, il briccone,senza volerlo mi diè l’armi in mano.Ehi Rosina, Rosina!(Rosina dalle sue camere entra senza parlare)Avanti avanti,del vostro amante io vi vo’ dar novella.Povera sciagurata! In veritàcollocaste assai bene il vostro affetto.Del vostro amor sappiatech’ei si fa gioco in sen d’un’altra amante.Ecco la prova.(le dà il biglietto)</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Oh cielo! il mio biglietto.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Don Alonso e il barbiere</l>
+            <l>congiuran contro voi, non vi fidate.</l>
+            <l>In potere del conte d’Almaviva</l>
+            <l>vi vogliono condurre…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(In braccio a un altro!…</l>
+            <l>che mai sento… ah Lindoro!… ah traditore!</l>
+            <l>Ah sì!… vendetta! e vegga,</l>
+            <l>vegga quell’empio chi è Rosina.) Dite,</l>
+            <l>signore, di sposarmi</l>
+            <l>voi bramavate…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>E il voglio.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ebben, si faccia!</l>
+            <l>Io… son contenta!… ma, all’istante; udite:</l>
+            <l>a mezza notte qui sarà l’indegno</l>
+            <l>con Figaro il barbier; con lui fuggire…</l>
+            <l>per sposarlo io voleva…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ah scellerati!</l>
+            <l>Corro a sbarrar la porta.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ah mio signore!</l>
+            <l>Entran per la finestra. Hanno la chiave.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Non mi muovo di qui!</l>
+            <l>Ma… e se fossero armati?… Figlia mia,</l>
+            <l>poiché ti sei sì bene illuminata</l>
+            <l>facciam così. Chiuditi a chiave in camera,</l>
+            <l>io vo a chiamar la forza:</l>
+            <l>dirò che son due ladri, e come tali!…</l>
+            <l>corpo di bacco!… l’avrem da vedere!</l>
+            <l>Figlia, chiuditi presto: io vado via.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>BARTOLONon mi muovo di qui!Ma… e se fossero armati?… Figlia mia,poiché ti sei sì bene illuminatafacciam così. Chiuditi a chiave in camera,io vo a chiamar la forza:dirò che son due ladri, e come tali!…corpo di bacco!… l’avrem da vedere!Figlia, chiuditi presto: io vado via.(parte)</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Quanto! quanto è crudel la sorte mia!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>[Temporale]</head>Segue Istromentale esprimente un temporale. Dalla finestra di prospetto si vedono frequenti lampi, e si ascolta il romore del tuono. Sulla fine dell’istromentale si vede dal di fuori aprire la gelosia, ed entrare un dopo l’altro Figaro, ed il Conte avvolti in mantello, e bagnati dalla pioggia. Figaro avrà in mano una lanterna.Scena nonaIl Conte e Figaro, indi Rosina. <stage>[Temporale]Segue Istromentale esprimente un temporale. Dalla finestra di prospetto si vedono frequenti lampi, e si ascolta il romore del tuono. Sulla fine dell’istromentale si vede dal di fuori aprire la gelosia, ed entrare un dopo l’altro Figaro, ed il Conte avvolti in mantello, e bagnati dalla pioggia. Figaro avrà in mano una lanterna.Scena nonaIl Conte e Figaro, indi Rosina.</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Al fine eccoci qua.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Figaro, dammi man. Poter del mondo!</l>
+            <l>Che tempo indiavolato.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Tempo da innamorati.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ehi fammi lume.</l>
+            <l>(Figaro accende i lumi)</l>
+            <l>Dove sarà Rosina?</l>
+          </sp>
+          <stage>CONTEEhi fammi lume.(Figaro accende i lumi)Dove sarà Rosina?</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(spiando)</l>
+            <l>Ora vedremo…</l>
+            <l>Eccola appunto.</l>
+          </sp>
+          <stage>FIGARO(spiando)Ora vedremo…Eccola appunto.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(con trasporto)</l>
+            <l>Ah mio tesoro!…</l>
+          </sp>
+          <stage>CONTE(con trasporto)Ah mio tesoro!…</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>(respingendolo)</l>
+            <l>Indietro</l>
+            <l>anima scellerata; io qui di mia</l>
+            <l>stolta credulità venni soltanto</l>
+            <l>a riparar lo scorno; a dimostrarti</l>
+            <l>qual sono, e quale amante</l>
+            <l>perdesti, anima indegna, e sconoscente.</l>
+          </sp>
+          <stage>ROSINA(respingendolo)Indietroanima scellerata; io qui di miastolta credulità venni soltantoa riparar lo scorno; a dimostrartiqual sono, e quale amanteperdesti, anima indegna, e sconoscente.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Io son di sasso.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Io non capisco niente.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ma per pietà…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Taci. Fingesti amore</l>
+            <l>sol per sacrificarmi</l>
+            <l>a quel tuo vil conte Almaviva…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Al conte?…</l>
+            <l>ah sei delusa!… oh me felice! adunque</l>
+            <l>tu di verace amore</l>
+            <l>ami Lindor… rispondi.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ah sì! t’amai purtroppo!…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ah non è tempo</l>
+            <l>di più celarsi;</l>
+            <l>(s’inginocchia gettando il mantello, che viene raccolto da Figaro)</l>
+            <l>anima mia: ravvisa</l>
+            <l>colui che sì gran tempo</l>
+            <l>seguì tue tracce, che per te sospira,</l>
+            <l>che sua ti vuol, che fin da questo istante,</l>
+            <l>a farti di tua sorte appien sicura</l>
+            <l>amore eterno, eterna fé ti giura.</l>
+            <l>Mirami, o mio tesoro,</l>
+            <l>Almaviva son io: non son Lindoro.</l>
+          </sp>
+          <stage>CONTEAh non è tempodi più celarsi;(s’inginocchia gettando il mantello, che viene raccolto da Figaro)anima mia: ravvisacolui che sì gran temposeguì tue tracce, che per te sospira,che sua ti vuol, che fin da questo istante,a farti di tua sorte appien sicuraamore eterno, eterna fé ti giura.Mirami, o mio tesoro,Almaviva son io: non son Lindoro.</stage>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ah qual colpo inaspettato!…</l>
+            <l>egli stesso!… oh ciel! che sento!</l>
+            <l>Di sorpresa, di contento</l>
+            <l>son vicina a delirar.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Qual trionfo inaspettato!…</l>
+            <l>me felice!… oh bel momento!</l>
+            <l>Ah d’amore, di contento</l>
+            <l>son vicino a delirar.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Son rimasti senza fiato!</l>
+            <l>Ora muoion dal contento!</l>
+            <l>Guarda guarda il mio talento</l>
+            <l>che bel colpo seppe far.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Ma signor… ma voi… ma io…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ah non più, non più, ben mio,</l>
+            <l>il bel nome di mia sposa</l>
+            <l>idol mio, t’attende già.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Il bel nome di tua sposa</l>
+            <l>ah qual gioia al cor mi dà.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Bella coppia; Marte e Venere,</l>
+            <l>gran poter del caduceo!</l>
+            <l>E il baggiano di Vulcano</l>
+            <l>è già in rete e non lo sa.</l>
+          </sp>
+          <sp who="#conte e rosina">
+            <speaker>CONTE E ROSINA:</speaker>
+            <l>Oh bel nodo avventurato</l>
+            <l>che fai paghi i miei desiri!</l>
+            <l>Alla fin de’ miei martiri</l>
+            <l>tu sentisti, amor, pietà.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Presto andiamo: vi sbrigate:</l>
+            <l>via lasciate quei sospiri;</l>
+            <l>se si tarda i miei raggiri</l>
+            <l>fanno fiasco in verità.</l>
+            <l>(va al balcone)</l>
+            <l>Ah cospetto che ho veduto!</l>
+            <l>Alla porta… una lanterna…</l>
+            <l>due persone… che si fa?</l>
+          </sp>
+          <stage>FIGAROPresto andiamo: vi sbrigate:via lasciate quei sospiri;se si tarda i miei raggirifanno fiasco in verità.(va al balcone)Ah cospetto che ho veduto!Alla porta… una lanterna…due persone… che si fa?</stage>
+          <sp who="#conte, rosina, figaro">
+            <speaker>CONTE, ROSINA, FIGARO:</speaker>
+            <l>Zitti zitti piano piano</l>
+            <l>non facciamo confusione</l>
+            <l>per la scala dal balcone</l>
+            <l>presto andiamo via di qua.</l>
+            <l>(vanno per partire)</l>
+          </sp>
+          <stage>CONTE, ROSINA, FIGAROZitti zitti piano pianonon facciamo confusioneper la scala dal balconepresto andiamo via di qua.(vanno per partire)</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Ah disgraziati noi! come si fa?…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Che avvenne mai?…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>La scala…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ebben?…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>La scala non v’è più.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Che dici?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Chi mai l’avrà levata?</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Quale inciampo crudel!…</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Me sventurata!</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Zi… zitti… sento gente. Ora ci siamo</l>
+            <l>signor mio, che si fa?</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(si ravvolge nel mantello)</l>
+            <l>Mia Rosina, coraggio.</l>
+          </sp>
+          <stage>CONTE(si ravvolge nel mantello)Mia Rosina, coraggio.</stage>
+        </div>
+        <div type="scene">
+          <head>FIGARO</head>Eccoli qua.(si ritirano verso una delle quinte)Scena decimaDon Basilio con lanterna in mano introducendo un Notaio con carte in mano.<sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Eccoli qua.</l>
+            <l>(si ritirano verso una delle quinte)</l>
+            <l>Scena decima</l>
+            <l>Don Basilio con lanterna in mano introducendo un Notaio con carte in mano.</l>
+          </sp>
+          <stage>FIGAROEccoli qua.(si ritirano verso una delle quinte)Scena decimaDon Basilio con lanterna in mano introducendo un Notaio con carte in mano.</stage>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>(chiamando alla quinta opposta)</l>
+            <l>Don Bartolo, don Bartolo…</l>
+          </sp>
+          <stage>BASILIO(chiamando alla quinta opposta)Don Bartolo, don Bartolo…</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>(accennando al conte)</l>
+            <l>Don Basilio.</l>
+          </sp>
+          <stage>FIGARO(accennando al conte)Don Basilio.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>E quell’altro?</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Ve’, ve’: il nostro notaro. Allegramente.</l>
+            <l>Lasciate fare a me. Signor notaro…</l>
+            <l>(Basilio e il notaro si rivolgono e restano sorpresi. Il notaro si avvicina a Figaro)</l>
+            <l>Dovevate in mia casa</l>
+            <l>stipolar questa sera</l>
+            <l>un contratto di nozze</l>
+            <l>fra il conte d’Almaviva, e mia nipote.</l>
+            <l>Gli sposi, eccoli qua. Avete indosso</l>
+            <l>la scrittura?</l>
+            <l>(il notaro cava una scrittura)</l>
+            <l>Benissimo.</l>
+          </sp>
+          <stage>FIGAROVe’, ve’: il nostro notaro. Allegramente.Lasciate fare a me. Signor notaro…(Basilio e il notaro si rivolgono e restano sorpresi. Il notaro si avvicina a Figaro)Dovevate in mia casastipolar questa seraun contratto di nozzefra il conte d’Almaviva, e mia nipote.Gli sposi, eccoli qua. Avete indossola scrittura?(il notaro cava una scrittura)Benissimo.</stage>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Ma piano,</l>
+            <l>don Bartolo… dov’è?…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(chiamando a parte don Basilio, cavandosi un anello dal dito additandogli di tacere)</l>
+            <l>Ehi don Basilio</l>
+            <l>questo anello è per voi.</l>
+          </sp>
+          <stage>CONTE(chiamando a parte don Basilio, cavandosi un anello dal dito additandogli di tacere)Ehi don Basilioquesto anello è per voi.</stage>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Ma io…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Per voi</l>
+            <l>vi sono ancor due palle nel cervello</l>
+            <l>(cava una pistola)</l>
+            <l>se v’opponete.</l>
+          </sp>
+          <stage>CONTEPer voivi sono ancor due palle nel cervello(cava una pistola)se v’opponete.</stage>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Oibò; prendo l’anello.</l>
+            <l>(prende l’anello)</l>
+            <l>Chi firma?…</l>
+          </sp>
+          <stage>BASILIOOibò; prendo l’anello.(prende l’anello)Chi firma?…</stage>
+          <sp who="#conte e rosina">
+            <speaker>CONTE E ROSINA:</speaker>
+            <l>Eccoci qua.</l>
+            <l>(sottoscrivono)</l>
+            <l>Son testimoni</l>
+            <l>Figaro e don Basilio.</l>
+          </sp>
+          <stage>CONTE E ROSINAEccoci qua.(sottoscrivono)Son testimoniFigaro e don Basilio.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Essa è mia sposa.</l>
+          </sp>
+          <sp who="#figaro e basilio">
+            <speaker>FIGARO E BASILIO:</speaker>
+            <l>Evviva.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Oh mio contento!</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>O sospirata mia felicità.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>TUTTI</head>Evviva.Nell’atto che il Conte bacia la mano a Rosina, e Figaro abbraccia goffamente don Basilio entra don Bartolo come appresso.Scena undicesimaDon Bartolo, un Alcalde, Alguazils, Soldati, e detti.<div type="scene">
+          <head>TUTTI</head>Evviva.Nell’atto che il Conte bacia la mano a Rosina, e Figaro abbraccia goffamente don Basilio entra don Bartolo come appresso.Scena undicesimaDon Bartolo, un Alcalde, Alguazils, Soldati, e detti.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Evviva.</l>
+            <l>Nell’atto che il Conte bacia la mano a Rosina, e Figaro abbraccia goffamente don Basilio entra don Bartolo come appresso.</l>
+            <l>Scena undicesima</l>
+            <l>Don Bartolo, un Alcalde, Alguazils, Soldati, e detti.</l>
+          </sp>
+          <stage>TUTTIEvviva.Nell’atto che il Conte bacia la mano a Rosina, e Figaro abbraccia goffamente don Basilio entra don Bartolo come appresso.Scena undicesimaDon Bartolo, un Alcalde, Alguazils, Soldati, e detti.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Fermi tutti. Eccoli qua.</l>
+            <l>(additando Figaro e il Conte all’alcalde e ai soldati, e slanciandosi contro Figaro)</l>
+          </sp>
+          <stage>BARTOLOFermi tutti. Eccoli qua.(additando Figaro e il Conte all’alcalde e ai soldati, e slanciandosi contro Figaro)</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Colle buone, signor.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Signor, son ladri,</l>
+            <l>arrestate, arrestate.</l>
+          </sp>
+          <sp who="#alcalde">
+            <speaker>ALCALDE:</speaker>
+            <l>Mio signore</l>
+            <l>il suo nome.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Il mio nome</l>
+            <l>è quel d’un uom d’onor. Lo sposo io sono</l>
+            <l>di questa…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Eh andate al diavolo. Rosina</l>
+            <l>esser deve mia sposa: non è vero?</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Io sua sposa?… oh nemmeno per pensiero.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Come? come fraschetta?… ah son tradito!</l>
+            <l>Arrestate vi dico.</l>
+            <l>(additando il conte)</l>
+            <l>È un ladro.</l>
+          </sp>
+          <stage>BARTOLOCome? come fraschetta?… ah son tradito!Arrestate vi dico.(additando il conte)È un ladro.</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Or or l’accoppo.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>È un birbante, è un briccon.</l>
+          </sp>
+          <sp who="#alcalde">
+            <speaker>ALCALDE:</speaker>
+            <l>(al Conte)</l>
+            <l>Signore…</l>
+          </sp>
+          <stage>ALCALDE(al Conte)Signore…</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Indietro.</l>
+          </sp>
+          <sp who="#alcalde">
+            <speaker>ALCALDE:</speaker>
+            <l>(con impazienza)</l>
+            <l>Il nome.</l>
+          </sp>
+          <stage>ALCALDE(con impazienza)Il nome.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Indietro, dico,</l>
+            <l>indietro.</l>
+          </sp>
+          <sp who="#alcalde">
+            <speaker>ALCALDE:</speaker>
+            <l>Ehi, mio signor, basso quel tono.</l>
+            <l>Chi è lei?</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(scoprendosi)</l>
+            <l>Il conte d’Almaviva io sono.</l>
+          </sp>
+          <stage>CONTE(scoprendosi)Il conte d’Almaviva io sono.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Il Conte!… che mai sento!…</l>
+            <l>(verso l’alcalde e i soldati)</l>
+            <l>ma cospetto!…</l>
+          </sp>
+          <stage>BARTOLOIl Conte!… che mai sento!…(verso l’alcalde e i soldati)ma cospetto!…</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>T’accheta; invan t’adopri,</l>
+            <l>resisti invan. De’ tuoi rigori insani</l>
+            <l>giunse l’ultimo istante.</l>
+            <l>(toglie la scrittura di nozze dalle mani del notaro, e la dà all’alcalde)</l>
+            <l>In faccia al mondo</l>
+            <l>io dichiaro altamente</l>
+            <l>costei mia sposa: il nostro nodo o cara</l>
+            <l>opra è d’amore: amore</l>
+            <l>che ti fe’ mia consorte</l>
+            <l>a me ti stringerà fino alla morte.</l>
+            <l>Respira omai: del fido sposo in braccio</l>
+            <l>vieni, vieni a goder sorte più lieta.</l>
+          </sp>
+          <stage>CONTET’accheta; invan t’adopri,resisti invan. De’ tuoi rigori insanigiunse l’ultimo istante.(toglie la scrittura di nozze dalle mani del notaro, e la dà all’alcalde)In faccia al mondoio dichiaro altamentecostei mia sposa: il nostro nodo o caraopra è d’amore: amoreche ti fe’ mia consortea me ti stringerà fino alla morte.Respira omai: del fido sposo in bracciovieni, vieni a goder sorte più lieta.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ma io…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Taci.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ma voi…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Non più, t’accheta.</l>
+          </sp>
+          <stage>[Aria]Cessa di più resistere,non cimentar mio sdegno:spezzato è il giogo indegnodi tanta crudeltà.Della beltà dolented’un innocente amorel’avaro tuo furorepiù non trionferà.(a Rosina)E tu, infelice vittima,d’un reo poter tirannosottratta al giogo barbarocangia in piacer l’affanno,e al fianco a un fido sposogioisci in libertà.(all’Alcalde, ed a’ suoi seguaci)Cari amici…</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Non temete.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Questo nodo…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Non si scioglie;</l>
+            <l>sempre a lei vi stringerà.</l>
+            <l>(il notaro presenta a Bartolo la scrittura. Egli la legge dando segni di dispetto)</l>
+          </sp>
+          <stage>CORONon si scioglie;sempre a lei vi stringerà.(il notaro presenta a Bartolo la scrittura. Egli la legge dando segni di dispetto)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ah il più lieto, il più felice</l>
+            <l>è il mio cor de’ cori amanti!…</l>
+            <l>non fuggite, o lieti istanti,</l>
+            <l>della mia felicità.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Annodar due cori amanti</l>
+            <l>è piacer che egual non ha.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>In somma io ho tutti i torti!…</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Eh, purtroppo è così!</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>(a Basilio)</l>
+            <l>Ma tu briccone,</l>
+            <l>tu per tradirmi, e far da testimonio!…</l>
+          </sp>
+          <stage>BARTOLO(a Basilio)Ma tu briccone,tu per tradirmi, e far da testimonio!…</stage>
+          <sp who="#basilio">
+            <speaker>BASILIO:</speaker>
+            <l>Ah don Bartolo mio, quel signor conte</l>
+            <l>certe ragioni ha in tasca,</l>
+            <l>certi argomenti a cui non si risponde.</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ed io, bestia solenne,</l>
+            <l>per meglio assicurare il matrimonio</l>
+            <l>io portai via la scala dal balcone!</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Ecco che fa un’Inutil precauzione.</l>
+          </sp>
+          <stage>FIGAROEcco che fa un’Inutil precauzione.</stage>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Ah disgraziato!… io crepo!</l>
+            <l>Ma e la dote?… io non posso…</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Eh via; di dote</l>
+            <l>io bisogno non ho: va, te la dono.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Ah ah ridete adesso?…</l>
+            <l>bravissimo don Bartolo!</l>
+            <l>Ho veduto alla fin rasserenarsi</l>
+            <l>quel vostro ceffo amaro e furibondo.</l>
+            <l>Ma già ci vuol fortuna in questo mondo.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Dunque signor don Bartolo!…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Sì, sì, ho capito tutto.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Ebben, dottore!…</l>
+          </sp>
+          <sp who="#bartolo">
+            <speaker>BARTOLO:</speaker>
+            <l>Sì, sì, che serve! quel ch’è fatto è fatto.</l>
+            <l>Andate pur che il ciel vi benedica.</l>
+          </sp>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Bravo, bravo! un abbraccio!…</l>
+            <l>venite qua dottore.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Oh noi felici!</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Oh fortunato amore.</l>
+            <l>(si danno la mano)</l>
+          </sp>
+          <stage>CONTEOh fortunato amore.(si danno la mano)</stage>
+          <sp who="#figaro">
+            <speaker>FIGARO:</speaker>
+            <l>Di sì felice innesto</l>
+            <l>serbiam memoria eterna,</l>
+            <l>io smorzo la lanterna</l>
+            <l>qui più non ho che far.</l>
+            <l>(smorza la lanterna)</l>
+          </sp>
+          <stage>FIGARODi sì felice innestoserbiam memoria eterna,io smorzo la lanternaqui più non ho che far.(smorza la lanterna)</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Amore e fede eterna</l>
+            <l>si vegga in voi regnar.</l>
+          </sp>
+          <sp who="#rosina">
+            <speaker>ROSINA:</speaker>
+            <l>Costò sospiri e pene</l>
+            <l>questo felice istante,</l>
+            <l>al fin quest’alma amante</l>
+            <l>comincia a respirar.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Amore e fede eterna</l>
+            <l>si vegga in voi regnar.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Dell’umile Lindoro</l>
+            <l>la fiamma a te fu accetta,</l>
+            <l>più bel destin t’aspetta</l>
+            <l>su vieni a giubilar.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Amore e fede eterna</l>
+            <l>si vegga in voi regnar.</l>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

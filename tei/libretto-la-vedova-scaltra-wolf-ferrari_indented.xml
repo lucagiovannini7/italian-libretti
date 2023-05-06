@@ -1,0 +1,4441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">a vedova scaltra</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="a due">
+            <persName>A DUE:</persName>
+          </person>
+          <person xml:id="il servo">
+            <persName>IL SERVO:</persName>
+          </person>
+          <person xml:id="monsieur">
+            <persName>MONSIEUR:</persName>
+          </person>
+          <person xml:id="don alvaro">
+            <persName>DON ALVARO:</persName>
+          </person>
+          <person xml:id="ambos">
+            <persName>AMBOS:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="don alvaro, servi">
+            <persName>DON ALVARO, SERVI:</persName>
+          </person>
+          <person xml:id="ilconte">
+            <persName>ILCONTE:</persName>
+          </person>
+          <person xml:id="folletto">
+            <persName>FOLLETTO:</persName>
+          </person>
+          <person xml:id="arlecchino">
+            <persName>ARLECCHINO:</persName>
+          </person>
+          <person xml:id="rosaura, marionette">
+            <persName>ROSAURA, MARIONETTE:</persName>
+          </person>
+          <person xml:id="conte">
+            <persName>CONTE:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="marionette">
+            <persName>MARIONETTE:</persName>
+          </person>
+          <person xml:id="conde">
+            <persName>CONDE:</persName>
+          </person>
+          <person xml:id="monsieur, conde">
+            <persName>MONSIEUR, CONDE:</persName>
+          </person>
+          <person xml:id="rosaura">
+            <persName>ROSAURA:</persName>
+          </person>
+          <person xml:id="milord">
+            <persName>MILORD:</persName>
+          </person>
+          <person xml:id="birif">
+            <persName>BIRIF:</persName>
+          </person>
+          <person xml:id="ambi">
+            <persName>AMBI:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="don alvaro, monsieur, milord">
+            <persName>DON ALVARO, MONSIEUR, MILORD:</persName>
+          </person>
+          <person xml:id="monsieur, marionette">
+            <persName>MONSIEUR, MARIONETTE:</persName>
+          </person>
+          <person xml:id="atto  primo">
+            <persName>ATTO  PRIMO:</persName>
+          </person>
+          <person xml:id="atto  terzo">
+            <persName>ATTO  TERZO:</persName>
+          </person>
+          <person xml:id="invitati">
+            <persName>INVITATI:</persName>
+          </person>
+          <person xml:id="giovinotti">
+            <persName>GIOVINOTTI:</persName>
+          </person>
+          <person xml:id="i servi">
+            <persName>I SERVI:</persName>
+          </person>
+          <person xml:id="don alvaro, milord, monsieur">
+            <persName>DON ALVARO, MILORD, MONSIEUR:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>ATTO  PRIMO</head>
+        <sp who="#atto  primo">
+          <speaker>ATTO  PRIMO:</speaker>
+        </sp>
+        <div type="scene">
+          <head>Scena Prima</head>
+          <stage>(Davanti al sipario chiuso Milord Runebif,Monsieur Le Bleau, Don Alvaro e ilConteDi Bosco Nero seggono alla tavola rotonda,conbicchieri in mano pieni di vino,cantando una canzonealla francese)</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>“Damigella, bruna e bella</l>
+            <l>col mio vin ti voglio amare!</l>
+          </sp>
+          <sp who="#monsieur, conde">
+            <speaker>MONSIEUR, CONDE:</speaker>
+            <l>MILORD, DON ALVARO</l>
+            <l>Bevilo, godilo,</l>
+            <l>lascia che scivoli;</l>
+            <l>non ti fa mal!”</l>
+            <l>E la bella – damigella</l>
+            <l>dieci baci mi scoccò!</l>
+          </sp>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Evviva la bottiglia!</l>
+          </sp>
+          <sp who="#monsieur, conde">
+            <speaker>MONSIEUR, CONDE:</speaker>
+            <l>MILORD, DON ALVARO</l>
+            <l>Evviva l’allegria!</l>
+            <l>Evviva!</l>
+          </sp>
+          <sp who="#conde">
+            <speaker>CONDE:</speaker>
+            <l>Ottima cena.</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Ottima cena? Eh, via!</l>
+            <l>a Parigi si mangia,</l>
+            <l>là il gusto si raffina!</l>
+            <l>Ah! Parigi, Paris!…</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Io sono buon inglese, ma di Londra</l>
+            <l>non parlo mai.</l>
+          </sp>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Io rido quando esaltano Parigi:</l>
+            <l>Madrid è la città…</l>
+            <l>Madrid!… Madrid!</l>
+          </sp>
+          <sp who="#conde">
+            <speaker>CONDE:</speaker>
+            <l>Signori miei, vi parlo come Italiano vero:</l>
+            <l>tutto nel mondo è bello</l>
+            <l>quando il cuore è sincero.</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Sì, bravo camerata!</l>
+            <l>Evviva l’allegria!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Evviva! – Evviva!</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>(intonando nuovamente</l>
+            <l>la canzone, poi gli altri)</l>
+            <l>“Damigella – bruna e bella,</l>
+            <l>Col mio vino ti voglio amare!</l>
+          </sp>
+          <stage>MONSIEUR(intonando nuovamentela canzone, poi gli altri)“Damigella – bruna e bella,Col mio vino ti voglio amare!</stage>
+          <sp who="#monsieur, conde">
+            <speaker>MONSIEUR, CONDE:</speaker>
+            <l>MILORD, DON ALVARO</l>
+            <l>Bevilo, godilo,</l>
+            <l>lascia che scivoli,</l>
+            <l>non ci pensare!”</l>
+            <l>E la bella – damigella</l>
+            <l>dieci baci mi scoccò!</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(Entra e si ferma ammirato ad ascoltare</l>
+            <l>la canzone. Terminata che l’hanno,</l>
+            <l>s’accosta alla tavola, si empie un bicchier</l>
+            <l>di vino e canta)</l>
+            <l>Bevilo, godilo,</l>
+            <l>varda le séleghe,</l>
+            <l>no ghe pensar</l>
+            <l>(beve) </l>
+          </sp>
+          <stage>ARLECCHINO(Entra e si ferma ammirato ad ascoltarela canzone. Terminata che l’hanno,s’accosta alla tavola, si empie un bicchierdi vino e canta)Bevilo, godilo,varda le séleghe,no ghe pensar(beve) </stage>
+          <stage>(col bicchiere, se ne va)</stage>
+          <sp who="#conde">
+            <speaker>CONDE:</speaker>
+            <l>Bravo quel cameriere!</l>
+            <l>Ha sempre gran trovate.</l>
+          </sp>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Si buscherebbe in Spagna</l>
+            <l>cinquanta bastonate!</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Ma che dite, messiers,</l>
+            <l>di quella bella vedova,</l>
+            <l>che questa notte al ballo</l>
+            <l>noi tutti si servì.</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Una lady ammirabile.</l>
+          </sp>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Grave che mi rapì.</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Pareva una francese!</l>
+            <l>Che brio! che bel esprit!</l>
+          </sp>
+          <sp who="#conde">
+            <speaker>CONDE:</speaker>
+            <l>Mettete il cuore in pace.</l>
+          </sp>
+          <sp who="#don alvaro, monsieur, milord">
+            <speaker>DON ALVARO, MONSIEUR, MILORD:</speaker>
+            <l>Perché?</l>
+          </sp>
+          <sp who="#conde">
+            <speaker>CONDE:</speaker>
+            <l>Donna Rosaura</l>
+            <l>è nemica d’amore.</l>
+          </sp>
+          <stage>(Fra sè)</stage>
+          <stage>(S’alza da tavola e s’apparta)</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>(a Don Alvaro)</l>
+            <l>Guardate il geloso:</l>
+            <l>è pazzo costui:</l>
+            <l>gli par che le donne</l>
+            <l>sien tutte le lui.</l>
+            <l>Chi siamo, parbleu?</l>
+            <l>Che modi, grand Dieu!</l>
+            <l>Siam forse lacché?</l>
+            <l>e lui che cos’è?</l>
+            <l>Rosaura, bel fleur</l>
+            <l>sbocciato per me!</l>
+          </sp>
+          <stage>MONSIEUR(a Don Alvaro)Guardate il geloso:è pazzo costui:gli par che le donnesien tutte le lui.Chi siamo, parbleu?Che modi, grand Dieu!Siam forse lacché?e lui che cos’è?Rosaura, bel fleursbocciato per me!</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>(a Monsieur)</l>
+            <l>Guardate il geloso:</l>
+            <l>che crede costui?</l>
+            <l>che tutte le donne</l>
+            <l>sien pazze per lui?</l>
+            <l>Cospetto! perbacco!</l>
+            <l>che implori perdono!</l>
+            <l>Io son quel che sono</l>
+            <l>ma lui che cos’è?</l>
+            <l>Hermosa Rosaura</l>
+            <l>sei degna di me!</l>
+          </sp>
+          <stage>DON ALVARO(a Monsieur)Guardate il geloso:che crede costui?che tutte le donnesien pazze per lui?Cospetto! perbacco!che implori perdono!Io son quel che sonoma lui che cos’è?Hermosa Rosaurasei degna di me!</stage>
+          <sp who="#conde">
+            <speaker>CONDE:</speaker>
+            <l>Anima mia soave,</l>
+            <l>sollievo del mio ardore,</l>
+            <l>Dio t’ha creata a posta</l>
+            <l>per esser del mio cuore.</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>(provocante)</l>
+            <l>Eh! se un vero francese</l>
+            <l>l’arriva ad incantare,</l>
+            <l>vi giuro che dovrete</l>
+            <l>vederla sospirare.</l>
+          </sp>
+          <stage>MONSIEUR(provocante)Eh! se un vero francesel’arriva ad incantare,vi giuro che dovretevederla sospirare.</stage>
+          <stage>(Milordintanto s’è alzato e s’è appartatodal lato opposto a quello del conte,guardando un suo anello)</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Non oserà respingere la nobiltate mia!</l>
+          </sp>
+          <sp who="#conde">
+            <speaker>CONDE:</speaker>
+            <l>Voi non farete niente.</l>
+          </sp>
+          <stage>(Fra sè)</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>(da sé)</l>
+            <l>L’anello le piaceva</l>
+            <l>al ballo poco fa;</l>
+            <l>adesso glie lo mando:</l>
+            <l>all night, l’accetterà.</l>
+            <l>(chiamando)</l>
+          </sp>
+          <stage>MILORD(da sé)L’anello le piacevaal ballo poco fa;adesso glie lo mando:all night, l’accetterà.(chiamando)</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(entra)</l>
+            <l>‘Strissimo, comandela?</l>
+          </sp>
+          <stage>ARLECCHINO(entra)‘Strissimo, comandela?</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Vien qui.</l>
+          </sp>
+          <stage>(gli altri fanno mostra di parlar fra di loro)</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Son qua.</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Tu porta</l>
+            <l>quest’anello a madama Rosaura,</l>
+            <l>e dì che andrò da lei</l>
+            <l>a ber la cioccolata.</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Ma siòr, la vede ben…</l>
+          </sp>
+          <stage>(gesti per una mancia)</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Sei zecchini per te.</l>
+          </sp>
+          <stage>(Gli dà sei zecchini)</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Ghe son obligatissimo,</l>
+            <l>ma no voràve…</l>
+          </sp>
+          <stage>(Fa cenno a qualcos’altro)MILORDVanne o provi il mio bastone.</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>No ‘l se disturba…svolo!</l>
+            <l>me adaterò anca mi,</l>
+            <l>che, zà, i servi d’albergo</l>
+            <l>i xe tuti cussì.</l>
+          </sp>
+          <stage>(parte)</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>(chiamando)</l>
+            <l>Ehi?</l>
+          </sp>
+          <stage>MILORD(chiamando)Ehi?</stage>
+          <stage>(entrano tre camerieri di locanda,ciascuno con un candeliere)Prendi il lume.</stage>
+          <stage>(un cameriere toglie di tavola unacandela e la fissa nel candeliere)Amici, un poco di riposo.(parte seguito dal cameriere;diminuisce un quarto di luce)</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Addio, Milord! Dormire</l>
+            <l>solo com’è noioso!</l>
+          </sp>
+          <sp who="#conde">
+            <speaker>CONDE:</speaker>
+            <l>Ci rivedremo?</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Ne dubito: vò visitar Madama.</l>
+          </sp>
+          <sp who="#conde">
+            <speaker>CONDE:</speaker>
+            <l>Monsieur, questo è impossibile:</l>
+            <l>le visite non ama.</l>
+          </sp>
+          <stage>(parte seguito da un cameriere con lume;la luce diminuisce di un altro quarto)</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Sentite com’è ruvido!</l>
+            <l>È cotto più di tutti.</l>
+            <l>E forse è già riamato,</l>
+            <l>e noi restiamo asciutti!</l>
+          </sp>
+          <stage>(parte seguito dall’ultimo cameriere collume; la luce diminuisce di un altro quarto.Frattanto sono entrati pomposamente infila indiana, alcuni servi di Don Alvaro,disposti a canna d’organo; il primo, il piùalto, con un candeliere in mano. L’ultimoè un paggetto)</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Sia l’Italian geloso,</l>
+            <l>fedel Rosaurasia,</l>
+            <l>i dobloni di Spagna</l>
+            <l>la renderanno mia.</l>
+          </sp>
+          <stage>(parte maestosamente, seguito dai servi,il primo deiquali ha fissato nel candelierel’ultima candela che erarimasta sullatavola. La scena piomba nell’oscurità.Tavole e sedie scompaiono)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena Seconda</head>
+          <stage>(Quando la luce ritorna alla ribalta, ilsiparietto è statotirato su, ed appare unagraziosa piccola stanza incasa di Rosaura.Porta aperta sul fondo. A sinistra un divanocon sedie e un piccolo tavolino. Più indietro,un grande vaso di porcellana su unacolonnetta. A destra un altro tavolino constampe sparse. È giorno. Rosauraè sedutaa sinistra, guardandosi in uno specchio.Marionette, vestita all’uso delle camerierefrancesi, dà gli ultimi tocchi al suoabbigliamento)</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Et comme, ça, j’ai fini:</l>
+            <l>en coiffeuse de Paris.</l>
+            <l>Vraiment un bijou!</l>
+            <l>Créme de riz?… la voici…</l>
+            <l>charmante, delicieuse Signora!…</l>
+            <l>Un bel neo, qua, così…</l>
+            <l>ed un altro…</l>
+            <l>Oh joli!</l>
+            <l>et voilà j’ai fini.</l>
+          </sp>
+          <sp who="#rosaura, marionette">
+            <speaker>ROSAURA, MARIONETTE:</speaker>
+            <l>Di donna che sa farsi bella</l>
+            <l>il cielo geloso non è!</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Marionette, dimmi:</l>
+            <l>per esser stata tutta notte al ballo,</l>
+            <l>son io pallida?</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Siete un fiore; ma in Francia dovreste</l>
+            <l>adoprare il crayon.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Oh! questo poi…</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Moda, moda!</l>
+            <l>signora padrona, pazzie!</l>
+            <l>tutte pazzie!</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>(s’alza)</l>
+            <l>Pazzie; eppur d’ora innanzi</l>
+            <l>voglio sfoggiar le mode con più arte.</l>
+          </sp>
+          <stage>ROSAURA(s’alza)Pazzie; eppur d’ora innanzivoglio sfoggiar le mode con più arte.</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Brava, brava, signora!</l>
+            <l>e lo sposino</l>
+            <l>l’avete già?</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Ti pare?… Son vedova</l>
+            <l>di pochi mesi.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Eh! che le mogli giovani</l>
+            <l>dei mariti decrepiti</l>
+            <l>soglian pensar per tempo</l>
+            <l>a farsi consolare!</l>
+            <l>Feci lo steso anch’io</l>
+            <l>col mio primo marito</l>
+            <l>che ne aveva settanta.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Mi fai ridere…</l>
+            <l>il Contenon mi spiace…</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Troppo geloso…</l>
+            <l>Oh! se fosse un francese!</l>
+            <l>Beata voi!</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Perché?</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>La gelosia</l>
+            <l>non si conosce in Francia:</l>
+            <l>anzi le cercano,</l>
+            <l>le mogli disinvolte!</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>No, Marionette, t’inganni:</l>
+            <l>a tutt’altro è rivolto il mio pensier.</l>
+            <l>Vane ubbie, miraggi vani,</l>
+            <l>no, non cerca il cuore;</l>
+            <l>sol cerca amore,</l>
+            <l>amore e fede,</l>
+            <l>altro non vuole.</l>
+            <l>Sono scaltra, sono accorta:</l>
+            <l>nella pania non cadrò.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Un francese! un francese!</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Spira intorno vago e lene</l>
+            <l>un potere arcano:</l>
+            <l>cuore a cuore attira e unisce</l>
+            <l>ed a lui mi affiderò.</l>
+            <l>Ma so che la grazia sua</l>
+            <l>non dona a chi inerte sta:</l>
+            <l>sono scaltra, sono accorta,</l>
+            <l>la sua grazia mi darà.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>(Contemporaneamente, mentre</l>
+            <l>s’affaccenda a spolverare e a mettere</l>
+            <l>in ordine la stanza)</l>
+            <l>Canta, canta pure!</l>
+            <l>Ci dovrai cascare:</l>
+            <l>meglio del francese,</l>
+            <l>di sposi, non ce n’è.</l>
+            <l>Lui ti lascia andare,</l>
+            <l>lui ti lascia fare</l>
+            <l>quello che ti pare.</l>
+            <l>Che ti stiano intorno</l>
+            <l>amanti notte e giorno,</l>
+            <l>non gl’importa un corno,</l>
+            <l>anzi n’ha piacere.</l>
+            <l>Marito più caro,</l>
+            <l>marito più raro</l>
+            <l>di quello francese</l>
+            <l>al mondo non c’è.</l>
+            <l>Che gioia, signora!</l>
+            <l>pensate – che amore!</l>
+            <l>sposare un francese</l>
+            <l>che festa pel cuore!</l>
+          </sp>
+          <stage>MARIONETTE(Contemporaneamente, mentres’affaccenda a spolverare e a metterein ordine la stanza)Canta, canta pure!Ci dovrai cascare:meglio del francese,di sposi, non ce n’è.Lui ti lascia andare,lui ti lascia farequello che ti pare.Che ti stiano intornoamanti notte e giorno,non gl’importa un corno,anzi n’ha piacere.Marito più caro,marito più rarodi quello franceseal mondo non c’è.Che gioia, signora!pensate – che amore!sposare un franceseche festa pel cuore!</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(entra vivacemente dal fondo)</l>
+            <l>Con grazia, se pol entrar?</l>
+            <l>Resti servida.</l>
+            <l>Obligatissimo</l>
+            <l>a le so grazie.</l>
+          </sp>
+          <stage>ARLECCHINO(entra vivacemente dal fondo)Con grazia, se pol entrar?Resti servida.Obligatissimoa le so grazie.</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Chi è costui?</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Un cameriere dello</l>
+            <l>“Scudo di Francia”;</l>
+            <l>è buffo, lasciatelo dire.</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Siòr MilordRunebif la reverisse.</l>
+            <l>E dopo reverida,</l>
+            <l>el dise che stamatina</l>
+            <l>el vegnirà</l>
+            <l>a tor la ciocolata;</l>
+            <l>e per un segno de la verità</l>
+            <l>el ghe manda sto anelo.</l>
+          </sp>
+          <stage>(Le offre l’anello)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>(rifiutandolo)</l>
+            <l>Mi stupisco di te e di chi ti manda.</l>
+            <l>e Milordvuol venire, che venga pure,</l>
+            <l>ma l’anello m’offende.</l>
+          </sp>
+          <stage>ROSAURA(rifiutandolo)Mi stupisco di te e di chi ti manda.e Milordvuol venire, che venga pure,ma l’anello m’offende.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ARLECCHINO</head>Come?La recusa un anelo?Mi resto attonito,stupefatto,maravegià!Una dona recusa un anelo?l’è un miracolo contro natura!<sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Come?</l>
+          <l>La recusa un anelo?</l>
+          <l>Mi resto attonito,</l>
+          <l>stupefatto,</l>
+          <l>maravegià!</l>
+          <l>Una dona recusa un anelo?</l>
+          <l>l’è un miracolo contro natura!</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Oh! com’è bello!</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Orsù, obbedisci.</l>
+          <l>E digli che Rosaura</l>
+          <l>non manca d’anelli.</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Anderò, ghe lo dirò;</l>
+          <l>conteròa tuta Venezia</l>
+          <l>che una dona, che una femena</l>
+          <l>questo anelo ha recusà:</l>
+          <l>ma son certo, son siguro</l>
+          <l>che nissun me crederà!</l>
+        </sp>
+        <stage>(parte)</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Che peccato, signora!…</l>
+          <l>Perché?</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Che mi preghi, e sia lui che ringrazi.</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Ma torna il cameriere.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>E con lui v’è Milord.</l>
+          <l>Non perde tempo.</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Eh! già, si sa: gl’Inglesi</l>
+          <l>hanno poche parole e molti fatti.</l>
+        </sp>
+        <stage>(Parte)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Milordè troppo serio…</l>
+          <l>Ma, chi sa?</l>
+          <l>forse forse, col tempo…</l>
+          <l>Ma eccolo che viene.</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>(entra dal fondo. Ha in dito l’anello che</l>
+          <l>Rosauraha rifiutato. S’inchina)</l>
+          <l>Madama.</l>
+        </sp>
+        <stage>MILORD(entra dal fondo. Ha in dito l’anello cheRosauraha rifiutato. S’inchina)Madama.</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Milord</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Perché non prendere piccolo anello?</l>
+          <l>Iersera vi piaceva.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Piacere e prendere</l>
+          <l>son due cose diverse.</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>(rassegnandosi)</l>
+          <l>Madama.</l>
+        </sp>
+        <stage>MILORD(rassegnandosi)Madama.</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Favorite</l>
+        </sp>
+        <stage>(Siedono)</stage>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Molto.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>V’erano belle donne?</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Si, belle.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>E la più bella?</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Voi, Madama.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Oh! m’adulate… Non merito tanto.</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>(mostrando l’anello)</l>
+          <l>Molto; e non degnate poco.</l>
+        </sp>
+        <stage>MILORD(mostrando l’anello)Molto; e non degnate poco.</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Chi accetta ha da concedere.</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>MILORD</head>Nulla a me.Se prendere anello,farmi felice;se l’aggradite,son soddisfatto.<sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Nulla a me.</l>
+          <l>Se prendere anello,</l>
+          <l>farmi felice;</l>
+          <l>se l’aggradite,</l>
+          <l>son soddisfatto.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Quand’è così…</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>(si leva l’anello e lo dà a Rosaurache lo</l>
+          <l>mette al dito. Rosauraaccenna con un</l>
+          <l>gesto a ringraziare. Milord, con altro</l>
+          <l>gesto, la interrompe)</l>
+          <l>Mi fate torto.</l>
+        </sp>
+        <stage>MILORD(si leva l’anello e lo dà a Rosaurache lomette al dito. Rosauraaccenna con ungesto a ringraziare. Milord, con altrogesto, la interrompe)Mi fate torto.</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>(entra con due chicchere di</l>
+          <l>cioccolata su una guantiera)</l>
+          <l>Ecco la cioccolata.</l>
+        </sp>
+        <stage>MARIONETTE(entra con due chicchere dicioccolata su una guantiera)Ecco la cioccolata.</stage>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>(prende una tazza e la dà a Rosaura)</l>
+          <l>Madama.</l>
+        </sp>
+        <stage>MILORD(prende una tazza e la dà a Rosaura)Madama.</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(Fra sè)</l>
+          <l>Che stile laconico!</l>
+        </sp>
+        <stage>ROSAURA(Fra sè)Che stile laconico!</stage>
+        <stage>(beve)</stage>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>(bevendo)</l>
+          <l>Marionette, sei tu francese?</l>
+        </sp>
+        <stage>MILORD(bevendo)Marionette, sei tu francese?</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Si, signore.</l>
+        </sp>
+        <stage>(fa una riverenza)</stage>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Madama ha da servirsi con attenzione.</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Fo quel che posso.</l>
+          <l>(Milordripone la tazza sulla guantiera</l>
+          <l>e sotto vi pone una moneta)</l>
+          <l>MARIONETTE</l>
+          <l>(guardandola, da sé)</l>
+          <l>Questa è per me: una doppia!</l>
+        </sp>
+        <stage>MARIONETTEFo quel che posso.(Milordripone la tazza sulla guantierae sotto vi pone una moneta)MARIONETTE(guardandola, da sé)Questa è per me: una doppia!</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Prendi.</l>
+        </sp>
+        <stage>(rimette la tazza e Marionette vede l’anello)</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>(piano)</l>
+          <l>Mi rallegro dell’anello.</l>
+        </sp>
+        <stage>MARIONETTE(piano)Mi rallegro dell’anello.</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(piano)</l>
+          <l>Sta cheta.</l>
+        </sp>
+        <stage>ROSAURA(piano)Sta cheta.</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Non parlo</l>
+        </sp>
+        <stage>(parte con la guantiera)</stage>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Voi siete vedova, non è così?</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Son vedova, e trovando un buon partito,</l>
+          <l>forse…</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Io non ho intenzione di prender moglie.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Perché?</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Amo, se vedo la donna amabile.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Amor passeggero.</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Che? Si deve amar sempre?</l>
+          <l>Che importa a voi</l>
+          <l>ch’io v’ami in Londra,</l>
+          <l>o ch’io v’ami a Parigi?</l>
+          <l>Per voi superfluo,</l>
+          <l>per me infruttifero.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>E qual frutto sperate</l>
+          <l>finché mi siete vicino?</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Vedervi ed essere veduto.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Siete adorabile…</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Son tutto vostro.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Ma finché state a Venezia!</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Così penso.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(Fra sè)</l>
+          <l>Che bell’umore!</l>
+        </sp>
+        <stage>ROSAURA(Fra sè)Che bell’umore!</stage>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>(Fra sè)</l>
+          <l>Quanto mi piace!</l>
+        </sp>
+        <stage>MILORD(Fra sè)Quanto mi piace!</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>(entra dal fondo)</l>
+          <l>Signora; c’è il Conte</l>
+          <l>di Bosco Nero</l>
+          <l>che vuol visitarvi.</l>
+        </sp>
+        <stage>MARIONETTE(entra dal fondo)Signora; c’è il Contedi Bosco Neroche vuol visitarvi.</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Lui?</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Sì, per l’appunto.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>E fallo venire!</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Obbedisco.</l>
+        </sp>
+        <stage>(parte dal fondo)</stage>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Madama: il Conteè vostro amante?</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Vorrebbe esserlo.</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>(entra con animazione, ma s’arresta</l>
+          <l>notando l’inglese. Con tono sostenuto)</l>
+          <l>I miei complimenti, Signora Rosaura.</l>
+        </sp>
+        <stage>CONTE(entra con animazione, ma s’arrestanotando l’inglese. Con tono sostenuto)I miei complimenti, Signora Rosaura.</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Buon dì, caro Conte, sedetevi qui.</l>
+        </sp>
+        <sp who="#conde">
+          <speaker>CONDE:</speaker>
+          <l>(sedendo)</l>
+          <l>Davver mi rallegro di tal compagnia…</l>
+        </sp>
+        <stage>CONDE(sedendo)Davver mi rallegro di tal compagnia…</stage>
+      </div>
+      <div type="act">
+        <head>MILORD</head>Caro amico, ben fatto a venire:io facevo morir di tristezzala bella signora.<sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Caro amico, ben fatto a venire:</l>
+          <l>io facevo morir di tristezza</l>
+          <l>la bella signora.</l>
+        </sp>
+        <sp who="#conde">
+          <speaker>CONDE:</speaker>
+          <l>Anzi no: divertita l’avrete.</l>
+        </sp>
+        <stage>(Marionette entra e depone unachicchera di cioccolata davanti alConde, che non ci fa caso)</stage>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Sapete il mio naturale.</l>
+        </sp>
+        <stage>(s’alza, e s’apparta distrattamente)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(fa un cenno a Marionette che</l>
+          <l>le si avvicina; le dice piano)</l>
+          <l>Marionette, intrattieni l’inglese,</l>
+          <l>non vorrei che accadesse un pasticcio.</l>
+        </sp>
+        <stage>ROSAURA(fa un cenno a Marionette chele si avvicina; le dice piano)Marionette, intrattieni l’inglese,non vorrei che accadesse un pasticcio.</stage>
+        <stage>(Marionette va a prendere unacartella di stampe e la porta a Milordsfogliandola davanti a lui)</stage>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Non credevo così di buon’ora</l>
+          <l>ritrovarla già tanto servita.</l>
+          <l>Gran mercè di cotanta malìa:</l>
+          <l>sempre gente tra i piedi così!</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Se Milordha voluto onorarmi,</l>
+          <l>non capisco perché non dovrebbe.</l>
+          <l>Non mi pare che sia in casa mia</l>
+          <l>che si debban far scene così!</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>(a Milord)</l>
+          <l>Son magnifiche stampe, signore,</l>
+          <l>da guardarsi con grande attenzione;</l>
+          <l>il Palazzo Ducale, San Marco,</l>
+          <l>la Piazzetta, ed avanti così!</l>
+        </sp>
+        <stage>MARIONETTE(a Milord)Son magnifiche stampe, signore,da guardarsi con grande attenzione;il Palazzo Ducale, San Marco,la Piazzetta, ed avanti così!</stage>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>(da sé)</l>
+          <l>Non m’importa vedere le stampe,</l>
+          <l>ma mi piace di stargli lontano:</l>
+          <l>non mi piace quell’uomo sbuffante,</l>
+          <l>e che perde il controllo così!</l>
+        </sp>
+        <stage>MILORD(da sé)Non m’importa vedere le stampe,ma mi piace di stargli lontano:non mi piace quell’uomo sbuffante,e che perde il controllo così!</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>C’era tanto sereno poc’anzi,</l>
+          <l>ora un’ombra s’aggrava dintorno:</l>
+          <l>la tempesta che oscura minaccia</l>
+          <l>non può stare sospesa così.</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>(Fra sè)</l>
+          <l>Costui è geloso come una bestia!</l>
+          <l>(a Rosaurainchinandosi per partire)</l>
+        </sp>
+        <stage>MILORD(Fra sè)Costui è geloso come una bestia!(a Rosaurainchinandosi per partire)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Dove, dove, Milord?</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Alla Piazza.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Disgustato vi siete?</l>
+        </sp>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>Eh, pensate…</l>
+          <l>Ci vedremo, Madama. A più tardi.</l>
+          <l>Conte, addio.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(per alzarsi)</l>
+          <l>Permettete che almeno…</l>
+        </sp>
+        <stage>ROSAURA(per alzarsi)Permettete che almeno…</stage>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>No, non voglio. Restate, Madama,</l>
+          <l>consolare quel povero Conte.</l>
+          <l>Good-bye… Good-bye.</l>
+        </sp>
+        <stage>(saluta con ambo le mani e parte,seguito da Marionette)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Avete visto?</l>
+        </sp>
+        <sp who="#conde">
+          <speaker>CONDE:</speaker>
+          <l>Sì! son pazzo! pazzo!</l>
+          <l>pazzo d’amore!…</l>
+          <l>e voi cattiva!</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>ROSAURA</head>Io?Io che v’ho fatto?<sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Io?</l>
+          <l>Io che v’ho fatto?</l>
+        </sp>
+        <sp who="#conde">
+          <speaker>CONDE:</speaker>
+          <l>Rosaura, ahimé!…</l>
+          <l>perché vi divertite del mio martirio?…</l>
+          <l>Ah! non capite ancora quanto v’adoro?</l>
+          <l>Amore… anima mia…</l>
+        </sp>
+        <stage>(tenta di prenderle una mano)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Conte! che modi!</l>
+        </sp>
+        <stage>(s’alza)</stage>
+        <sp who="#conde">
+          <speaker>CONDE:</speaker>
+          <l>Ah! vi fo orrore, perché ho maltrattato</l>
+          <l>quel vostro damo!</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Conte!</l>
+        </sp>
+        <sp who="#conde">
+          <speaker>CONDE:</speaker>
+          <l>Sprecar la vostra grazia</l>
+          <l>a prò d’un forestiero!</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>ROSAURA</head>Oh insomma! basta!Son io cosa vostra?…Mi avete comperata?…Son vostra moglie?…Osate comandarmi?…Con quale autorità?…Qual fondamento?…Conte, io vi amo,e v’amo più di quelloche voi pensate.Ma ci tengo alla mia libertà.Tratto con tutti:so quel che fo.Ma se voi no ‘l capite,è perché v’hò distinto,ve n’abusate,vi metterò nella massa degli altrie forse…vi bandirò affattodalla mia casa!<sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Oh insomma! basta!</l>
+          <l>Son io cosa vostra?…</l>
+          <l>Mi avete comperata?…</l>
+          <l>Son vostra moglie?…</l>
+          <l>Osate comandarmi?…</l>
+          <l>Con quale autorità?…</l>
+          <l>Qual fondamento?…</l>
+          <l>Conte, io vi amo,</l>
+          <l>e v’amo più di quello</l>
+          <l>che voi pensate.</l>
+          <l>Ma ci tengo alla mia libertà.</l>
+          <l>Tratto con tutti:</l>
+          <l>so quel che fo.</l>
+          <l>Ma se voi no ‘l capite,</l>
+          <l>è perché v’hò distinto,</l>
+          <l>ve n’abusate,</l>
+          <l>vi metterò nella massa degli altri</l>
+          <l>e forse…</l>
+          <l>vi bandirò affatto</l>
+          <l>dalla mia casa!</l>
+        </sp>
+        <stage>(parte)</stage>
+        <sp who="#conde">
+          <speaker>CONDE:</speaker>
+          <l>Ah come si può fare</l>
+          <l>a non essere geloso?</l>
+          <l>Amo una bella donna, e la ritrovo</l>
+          <l>accanto a un altro. Oh! la conversazione</l>
+          <l>è onesta e civile!</l>
+          <l>Sarà non lo nego.</l>
+          <l>Ma si comincia con la civiltà,</l>
+          <l>e si finisce coi sospiri. Anch’io</l>
+          <l>mi sono innamorato un pò alla volta.</l>
+          <l>Sia maledetto</l>
+          <l>chi ha mai introdotto</l>
+          <l>questo costume</l>
+          <l>di conversare!</l>
+        </sp>
+        <stage>(nel volgersi furioso per uscire, rovesciavaso e lacolonnetta che vanno in frantumiParte furibondo)</stage>
+        <div type="scene">
+          <head>Scena Terza</head>
+          <stage>(Il siparietto è calato in modo da lasciarcirca tre metridi spazio fino alla ribalta.Luce di giorno. Monsieur e Marionetteentrano, il primo da sinistra e l’altra dadestra, e s’incontrano con gioioso stupore)</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Oh! Marionette!</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>MonsieurLe Bleau!</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Tu qui!</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Voi a Venezia!</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Che gioia.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Oh! bonheur!</l>
+          </sp>
+          <sp who="#ambi">
+            <speaker>AMBI:</speaker>
+            <l>Paris qui se rencontre!</l>
+            <l>Mon chéri! Ma chérie!</l>
+          </sp>
+          <stage>(si abbracciano festosamente)</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>E mi sai dire, cara,</l>
+            <l>dov’è Donna Rosaura?</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>(staccandosi da lui, seria)</l>
+            <l>Oh!… non lo so.</l>
+          </sp>
+          <stage>MARIONETTE(staccandosi da lui, seria)Oh!… non lo so.</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Che c’è?</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Voi non l’amate più la petite Marionette?</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Amo tutte le donne!</l>
+          </sp>
+          <stage>(e fa per abbracciarla)</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>(ritraendosi e battendo i piedini)</l>
+            <l>Non!… Non!… Non!…</l>
+          </sp>
+          <stage>MARIONETTE(ritraendosi e battendo i piedini)Non!… Non!… Non!…</stage>
+          <stage>(piagnucolando)</stage>
+          <stage>Oh!… quel malheur!…(asciugandosi le lagrime col grembiulino)</stage>
+          <stage>Ah!… ça me fait si mal…(d’un tratto, voltandosi, allegra)</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Ti darò un bel par di guanti,</l>
+            <l>belli, lucidi, glacés.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>C’est trop peu, c’est trop peu.</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Due calzette tricotées.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>C’est trop peu.</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Una cuffia di merletto…</l>
+            <l>ti regalo un bel corsetto.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>C’est trop peu, c’est trop peu.</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Ti darò cinque zecchini!</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>È in giardino!</l>
+          </sp>
+          <stage>(tende la mano)</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>In giardino? Corro subito!</l>
+          </sp>
+          <stage>(per partire)</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>(afferrandolo per la falda della giubba)</l>
+            <l>Gli zecchini?</l>
+          </sp>
+          <stage>MARIONETTE(afferrandolo per la falda della giubba)Gli zecchini?</stage>
+          <sp who="#conde">
+            <speaker>CONDE:</speaker>
+            <l>Pagherò!</l>
+          </sp>
+          <stage>(si libera e parte dalla destra)</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Pagherò! Pagherò!</l>
+            <l>Cos’ha detto?… Pagherò!</l>
+            <l>Ah! beato l’uso inglese</l>
+            <l>di pagar tambour battant!</l>
+          </sp>
+          <stage>(parte dalla sinistra)</stage>
+          <stage>(S’alza il siparietto d’argento)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena Quarta</head>
+          <stage>(All’alzarsi del siparietto, appare ilgiardino di Rosaura,sulla Laguna.Grandi alberi; Cespugli fioriti. Siepidi bosso a disegno. Sedili a destra ed asinistra. Un largoviale lo traversa tutto,fino al fondo, mettendo ad un”riva”, chedà sulla Laguna. Monsieur sta sonandoil flauto fra le piante a destra in primopiano)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>(entra dal fondo, a sinistra, e avanza,</l>
+            <l>ascoltando curiosa e sorpresa. Ma</l>
+            <l>appena sbuca Monsieur)</l>
+            <l>Ma… Monsieur…</l>
+          </sp>
+          <stage>ROSAURA(entra dal fondo, a sinistra, e avanza,ascoltando curiosa e sorpresa. Maappena sbuca Monsieur)Ma… Monsieur…</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>(s’inginocchia)</l>
+            <l>Ah! Madama! mia Venere, Flora,</l>
+            <l>Diana, Elena, Ebe!</l>
+          </sp>
+          <stage>MONSIEUR(s’inginocchia)Ah! Madama! mia Venere, Flora,Diana, Elena, Ebe!</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Monsieur, troppa lode.</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>(s’alza)</l>
+            <l>Vi parlo sincero,</l>
+            <l>da cavaliere,</l>
+            <l>da vero francese.</l>
+          </sp>
+          <stage>MONSIEUR(s’alza)Vi parlo sincero,da cavaliere,da vero francese.</stage>
+          <stage>(seggono sul sedile di sinistra)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Non sarebbe gran cosa.</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Oh! pardon!</l>
+            <l>ça dérange… S’il vous plaît… Ve lo devo.</l>
+            <l>Vi farà da cameriera.</l>
+            <l>Attendez.</l>
+            <l>(tira fuori di tasca un astuccio, da cui cava</l>
+            <l>le forbici e taglia il capello a Rosaura)</l>
+          </sp>
+          <stage>MONSIEUROh! pardon!ça dérange… S’il vous plaît… Ve lo devo.Vi farà da cameriera.Attendez.(tira fuori di tasca un astuccio, da cui cavale forbici e taglia il capello a Rosaura)</stage>
+          <stage>(poi dal medesimo, cava unospillone e le accomoda i capelli)</stage>
+          <stage>Comme ça.(trovando che non va bene, da un’altratasca cava fuori un piccolo pettine dallasua custodia, ed accomoda il tuppé)</stage>
+          <stage>Ça ne va pas… comme ça… c’est mieux.(Da una scatola d’argento cava fuori unbuffettino con polvere di Cipro e le dàla polvere dove manca)Là… là, là!(poi dall’astuccio cava i coltellinoe le leva la polvere dalla fronte)</stage>
+          <stage>Comme ça…(con un fazzoletto la ripulisce)</stage>
+          <stage>fff… fff…(dopo tira fuori unospecchio perché si guardi)</stage>
+          <stage>Ça vous plaît?(e finalmente tira fuori una boccetta conacqua odorosa e se la getta sulle maniper lavarsele, e se le asciuga col fazzolettoDurante tutte queste funzioni, Rosaura si vameravigliando e lascia fare. Rasciugatesi lemani. Monsieur, che s’era alzato al principiodella toilette, ripone il fazzoletto e siede conla soddisfazione dell’artista!)Voilà: c’est fait.</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Non vi manca il buon gusto, in verità.</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>(alzandosi e passeggiando)</l>
+            <l>Ah! mirate questo taglio di vita!</l>
+            <l>Vedete quanto adornano</l>
+            <l>questi due fianchi agili!</l>
+            <l>Appunto l’equilibrio</l>
+            <l>in cui son messi in bilico</l>
+            <l>è la ragion precipua</l>
+            <l>che mi vedeste eccellere</l>
+            <l>iersera al minuè.</l>
+            <l>Regardez… Admirez…</l>
+            <l>Hop-là-là… Hop-là-là…</l>
+          </sp>
+          <stage>MONSIEUR(alzandosi e passeggiando)Ah! mirate questo taglio di vita!Vedete quanto adornanoquesti due fianchi agili!Appunto l’equilibrioin cui son messi in bilicoè la ragion precipuache mi vedeste eccellereiersera al minuè.Regardez… Admirez…Hop-là-là… Hop-là-là…</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>(Fra sé)</l>
+            <l>Non si potea far peggio:</l>
+            <l>la mano mi storpiava!</l>
+          </sp>
+          <stage>ROSAURA(Fra sé)Non si potea far peggio:la mano mi storpiava!</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Ma io chiacchiero, chiacchiero,</l>
+            <l>e intanto scordo il più:</l>
+            <l>dirvi che mi piacete</l>
+            <l>appassionatamente,</l>
+            <l>che v’amo, che v’adoro,</l>
+            <l>luce degli occhi miei,</l>
+            <l>ah, che io sol desidero</l>
+            <l>vostra corrispondenza,</l>
+            <l>unico refrigerio</l>
+            <l>del dolce mio penar!</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>La donna prudente</l>
+            <l>deve viver a sé,</l>
+            <l>oppure trovarsi uno sposo…</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>(inginocchiandosi)</l>
+            <l>Ecco lo sposo:</l>
+            <l>Le Bleau che v’adora!</l>
+          </sp>
+          <stage>MONSIEUR(inginocchiandosi)Ecco lo sposo:Le Bleau che v’adora!</stage>
+          <stage>(sempre più invadente, cercandoafferrarle una mano)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>(ritraendosi sempre più)</l>
+            <l>Pazienza modestia,</l>
+            <l>modestia, Monsieur;</l>
+            <l>bisogna pensarci,</l>
+            <l>pensarci e aspettare…</l>
+          </sp>
+          <stage>ROSAURA(ritraendosi sempre più)Pazienza modestia,modestia, Monsieur;bisogna pensarci,pensarci e aspettare…</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Ma spasimo, brucio,</l>
+            <l>non posso aspettare!</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>(Fra sè)</l>
+            <l>convien finirla.</l>
+          </sp>
+          <stage>ROSAURA(Fra sè)convien finirla.</stage>
+          <stage>(S’alza)</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>(le va dietro)</l>
+            <l>Non mi fuggite!</l>
+            <l>Pietà di me!</l>
+          </sp>
+          <stage>MONSIEUR(le va dietro)Non mi fuggite!Pietà di me!</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Modestia, dico…</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>(inginocchiandosi)</l>
+            <l>Perdono! ahimé!</l>
+          </sp>
+          <stage>MONSIEUR(inginocchiandosi)Perdono! ahimé!</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>(Fra sè)</l>
+            <l>E siam da capo!</l>
+          </sp>
+          <stage>ROSAURA(Fra sè)E siam da capo!</stage>
+          <stage>(Forte)</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Madama, un affanno di cuore</l>
+            <l>mi nega levarmi da terra… Soccorretemi…</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Andiamo, sia pure,</l>
+          </sp>
+          <stage>(gli tende la mano egli l’afferrae le dà un bacio sul braccio)</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Povero amante</l>
+            <l>è chi non sa rubare.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Monsieur, troppo accorto.</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>E voi troppo bella.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Orsù, di vostre grazie</l>
+            <l>non posso goder più.</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Addio, regina mia,</l>
+            <l>reggente del mio cuor,</l>
+            <l>vita del mio pensier!</l>
+            <l>Che bellezza! Che grazia!…</l>
+            <l>Peccato… che non siate</l>
+            <l>nata a Parigi!</l>
+          </sp>
+          <stage>(parte da destra in fondo)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Eh! si sa: fossi nata a Parigi</l>
+            <l>varrei qualche cosa di più.</l>
+          </sp>
+          <stage>(s’odono avvicinarsi da sinistrasuoni di chitarre e mandolini)Ma che sono questi suoni?</stage>
+          <stage>(va verso il fondo e spia a sinistra)</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(di lontano)</l>
+            <l>Don Alvarodi Castiglia,</l>
+            <l>ti sia dolce il dì d’amore.</l>
+          </sp>
+          <stage>CORO(di lontano)Don Alvarodi Castiglia,ti sia dolce il dì d’amore.</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Ah! lo spagnolo in gondola!</l>
+            <l>Anche lui?… troppa grazia!</l>
+            <l>Un poco di respiro.</l>
+          </sp>
+          <stage>(Marionette entra, attratta dai suoni)</stage>
+          <stage>(parte)</stage>
+          <stage>(s’avanza da sinistra la bissona di DonAlvaro, carica di servi, di paggi, e dimusici. Attracca alla “riva”. Dallabarca scendono i servi che stendonoun lungo tappeto verso il proscenio.Contemporaneamente i paggetti locospargono di fiori. Don Alvaro ponepiede a terra ed avanza gravemente finoa metà della scena, mentre i servi fannoreverenti al suo passaggio)</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Vè che passo geometrico!</l>
+          </sp>
+          <stage>(s’inchina a Don Alvaroches’è fermato presso a lei)</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>(senza guardarla in viso)</l>
+            <l>Donna Rosaura dei Bisognosi?</l>
+          </sp>
+          <stage>DON ALVARO(senza guardarla in viso)Donna Rosaura dei Bisognosi?</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>S’è alzata adesso,</l>
+            <l>e sta abbigliandosi.</l>
+            <l>Se vuole attendere….</l>
+          </sp>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Che ora è?</l>
+          </sp>
+          <stage>(guarda l’orologio con lieveinsofferenza. Questo gli cadesu un piede. Gli dà un calcio)Vattene al diavolo!</stage>
+          <stage>(a Marionette)Mi degnerò.</stage>
+          <stage>(fa un cenno verso il sedile di pietra. Ipaggetti lo ricoprono con una gualdrappae vi fan pendere sopra, appendendolo airami d’un albero, un orifiamma conlo stemma del Casato di Don Alvaro.Marionette si è subito slanciata araccogliere l’orologio, per ridarloa Don Alvaro,ma un servo la arresta,scandalizzato)IL SERVOChe fate?… Ha toccato i suoi piedi:non è più degno della sua mano.</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Ma è d’oro…</l>
+          </sp>
+          <sp who="#il servo">
+            <speaker>IL SERVO:</speaker>
+            <l>Che oro! che oro!</l>
+            <l>L’oro è fango per lui.</l>
+          </sp>
+          <stage>(Come il tronetto è pronto, Don Alvarosiede gravemente, e allontana i servi e ipaggetti con un gesto imperioso.Questi si irrigidiscono nello sfondo.Don Alvarocava lentamente di tascauna tabacchiera e assapora una presadi tabacco)</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>(che è rimasta con l’orologio in mano,</l>
+            <l>osservandolo, s’avvicina timorosa ai</l>
+            <l>servi)</l>
+            <l>Marca inglese?</l>
+            <l>In Ispagna non fanno orologi?</l>
+          </sp>
+          <stage>MARIONETTE(che è rimasta con l’orologio in mano,osservandolo, s’avvicina timorosa aiservi)Marca inglese?In Ispagna non fanno orologi?</stage>
+          <sp who="#i servi">
+            <speaker>I SERVI:</speaker>
+            <l>Eh! pensate:</l>
+            <l>In Ispagna ben pochi “trabajano”.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Ma come vivono</l>
+            <l>le genti basse?</l>
+          </sp>
+          <sp who="#don alvaro, servi">
+            <speaker>DON ALVARO, SERVI:</speaker>
+            <l>In Ispagna non v’è gente bassa.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>(li guarda allibita e vorrebbe scappar via.</l>
+            <l>Ma un senso di pauroso rispetto l’obbliga</l>
+            <l>ad allontanarsi profondendosi in inchino</l>
+            <l>esagerati. Giunta presso l’uscita di sinistra)</l>
+            <l>La chiamo subito.</l>
+          </sp>
+          <stage>MARIONETTE(li guarda allibita e vorrebbe scappar via.Ma un senso di pauroso rispetto l’obbligaad allontanarsi profondendosi in inchinoesagerati. Giunta presso l’uscita di sinistra)La chiamo subito.</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>L’attenderò.</l>
+            <l>(Marionette esce da sinistra. Alvaro</l>
+            <l>attende maestosamente. I servi ed i</l>
+            <l>paggetti restano immobili nel tramonto</l>
+            <l>rosso)</l>
+          </sp>
+          <stage>DON ALVAROL’attenderò.(Marionette esce da sinistra. Alvaroattende maestosamente. I servi ed ipaggetti restano immobili nel tramontorosso)</stage>
+          <sp who="#don alvaro, servi">
+            <speaker>DON ALVARO, SERVI:</speaker>
+            <l>In Ispagna non v’è gente bassa.</l>
+            <l>No!… No!</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO SECONDO</head>
+        <sp who="#atto secondo">
+          <speaker>ATTO SECONDO:</speaker>
+        </sp>
+        <div type="scene">
+          <head>Scena Prima</head>
+          <stage>(Come la prima scena del primoatto. MonsieurLe Bleau entra dadestra, poi Arlecchino da sinistra)</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Arlecchino?</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Monsù?</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Ti vedo in faccia che sei nato a fare</l>
+            <l>le ambasciate d’amore.</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Mi? L’è un cattivo astrologo:</l>
+            <l>non ho mai fato el mezàn.</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Ecco come in Italia</l>
+            <l>si svisano le cose!</l>
+            <l>Cos’è questo mezzàn?</l>
+            <l>Guida dei cuori ardenti,</l>
+            <l>araldo di contenti,</l>
+            <l>ambasciator di pace</l>
+            <l>e di felicità!</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Ambasciator di pace,</l>
+            <l>araldo di contenti</l>
+            <l>vol dir in italian</l>
+            <l>far el rufian!</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Orsù. Sai tu portare</l>
+            <l>a Madama Rosauraun tesoro?</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Elo fursi qualche anuelo?</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Altro che anello! È gioia senza prezzo!</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Digo ben, perché se ‘l gera un anelo</l>
+            <l>non lo toleva siguro.</l>
+            <l>Basta; me proverò.</l>
+            <l>E mi, po’, cossa ròsego?</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Eseguisci e sarai vistosamente</l>
+            <l>ricompensato.</l>
+            <l>Ma non vò che ti credano</l>
+            <l>servitore di locanda.</l>
+            <l>Vieni: ti vestirò alla francese.</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Oh! Magari! Anca mi</l>
+            <l>diventerò Monsù!</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Diritto, svelto, spiritoso, pronto,</l>
+            <l>cappello in mano, inchini senza fine…</l>
+          </sp>
+          <stage>(Arlecchinosi va provandoe non gli riesce)</stage>
+          <stage>(gli consegna una miniatura)</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Oh che zoggia! Oh che bella zoggia!</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Odi, caro Arlecchino, odi il sonetto</l>
+            <l>che le dovrai cantare…</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Mi!? Mai cantà!…</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>(cantando)</l>
+            <l>Ah… Ah… Ah…</l>
+          </sp>
+          <stage>MONSIEUR(cantando)Ah… Ah… Ah…</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Mai cantà!…</l>
+            <l>El ghe mola, paròn…</l>
+            <l>Me sciopa la memoria!…</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Ebben, sai leggere?</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Qualche volta.</l>
+          </sp>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Vien meco. Te lo scrivo:</l>
+            <l>e tante volte lo leggerai</l>
+            <l>fin che ti resti in mente.</l>
+          </sp>
+          <stage>(parte da sinistra)</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Mi go paura che no resta gnente!</l>
+          </sp>
+          <stage>(parte da sinistra)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(entra da sinistra)</l>
+            <l>Rosauras’è sdegnata.</l>
+            <l>Spero con questa lettera</l>
+            <l>riavere il suo perdono,</l>
+            <l>e nella grazia del suo bel sorriso</l>
+            <l>ritrovare la gioia che svanì.</l>
+            <l>Lacché!</l>
+          </sp>
+          <stage>CONTE(entra da sinistra)Rosauras’è sdegnata.Spero con questa letterariavere il suo perdono,e nella grazia del suo bel sorrisoritrovare la gioia che svanì.Lacché!</stage>
+          <sp who="#folletto">
+            <speaker>FOLLETTO:</speaker>
+            <l>(entra correndo da sinistra)</l>
+            <l>Illustrissimo?</l>
+          </sp>
+          <stage>FOLLETTO(entra correndo da sinistra)Illustrissimo?</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>A Madama Rosaura.</l>
+          </sp>
+          <sp who="#folletto">
+            <speaker>FOLLETTO:</speaker>
+            <l>Sì illustrissimo.</l>
+          </sp>
+          <stage>(per partire)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Fatti dar la risposta.</l>
+          </sp>
+          <sp who="#folletto">
+            <speaker>FOLLETTO:</speaker>
+            <l>Illustrissimo, sì.</l>
+          </sp>
+          <stage>(per partire)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Vedi se vi sono visite.</l>
+            <l>Corri.</l>
+          </sp>
+          <sp who="#folletto">
+            <speaker>FOLLETTO:</speaker>
+            <l>Vo’ come il fulmine.</l>
+          </sp>
+          <stage>(parte da destra correndo.Il Conteparte da sinistra)</stage>
+        </div>
+        <div type="scene">
+          <head>MILORD</head>(entra da destra. Passeggia senzaparlare su e giù per la scena. Poi tirafuori uno scrignetto di gioie e le guarda.Indi lo chiude e chiama)Birif?<sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>(entra da destra. Passeggia senza</l>
+            <l>parlare su e giù per la scena. Poi tira</l>
+            <l>fuori uno scrignetto di gioie e le guarda.</l>
+            <l>Indi lo chiude e chiama)</l>
+            <l>Birif?</l>
+          </sp>
+          <stage>MILORD(entra da destra. Passeggia senzaparlare su e giù per la scena. Poi tirafuori uno scrignetto di gioie e le guarda.Indi lo chiude e chiama)Birif?</stage>
+          <stage>(Birif entra da sinistra)Questi diamantia Madama Rosaura.</stage>
+          <sp who="#birif">
+            <speaker>BIRIF:</speaker>
+            <l>Yes, Milord!</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Portami la risposta.</l>
+          </sp>
+          <sp who="#birif">
+            <speaker>BIRIF:</speaker>
+            <l>Yes, Milord!</l>
+          </sp>
+          <stage>(parte da destra)</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Mille ducati… È poco: si farà.</l>
+          </sp>
+          <stage>(parte da sinistra)</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(rientra da sinistra con un foglio in mano,</l>
+            <l>avuto dal francese, e lo studia con comica</l>
+            <l>concentrazione, dandosi dei pugni in testa)</l>
+            <l>Emme-a… ma.</l>
+            <l>De-a… da.</l>
+            <l>Madama ciò!… e po’?</l>
+          </sp>
+          <stage>ARLECCHINO(rientra da sinistra con un foglio in mano,avuto dal francese, e lo studia con comicaconcentrazione, dandosi dei pugni in testa)Emme-a… ma.De-a… da.Madama ciò!… e po’?</stage>
+          <stage>(gesti di disperazione)</stage>
+          <stage>(farebbe per studiare ancora, se DonAlvaronon entrasse da sinistra, con unrotolo in mano)</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Galantuomo?</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Con chi pàrlelo?</l>
+          </sp>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Parlo con te.</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Con mi?</l>
+          </sp>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Dimmi: conosci Donna Rosaura?</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Sì, la conosso</l>
+          </sp>
+          <stage>(Fra sè)</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Tu avrai l’onore</l>
+            <l>di presentarle</l>
+            <l>un gran tesoro.</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Un tesoro? Bagatele</l>
+            <l>Ma… de questi, ghe ne vien?</l>
+          </sp>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Obbedisci e sarai</l>
+            <l>vistosamente remunerato.</l>
+          </sp>
+          <stage>(fa per consegnarli il rotolo)</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(senza prenderlo)</l>
+            <l>Elo questo sto tesoro?</l>
+          </sp>
+          <stage>ARLECCHINO(senza prenderlo)Elo questo sto tesoro?</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>È questo, ed è impagabile.</l>
+          </sp>
+          <stage>(lascia che il rotolo sisvolga fino ai suoi piedi)Eccolo: l’albero del mio casato</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(se ne ride. Fra sè</l>
+            <l>L’è un tesoro compagno</l>
+            <l>de la zoggia francese!</l>
+          </sp>
+          <stage>ARLECCHINO(se ne ride. Fra sèL’è un tesoro compagnode la zoggia francese!</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Daglielo,</l>
+            <l>e insieme questo carme cantale…</l>
+          </sp>
+          <stage>(cantando)</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(Fra sè)</l>
+            <l>E dàghela col canto!</l>
+          </sp>
+          <stage>ARLECCHINO(Fra sè)E dàghela col canto!</stage>
+          <stage>(A Don Alvaro)</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Si. Vieni meco. E se m’apporti giubilo,</l>
+            <l>ci sarà un tesoretto anche per te.</l>
+          </sp>
+          <stage>(parte da sinistra)</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>No vorìa che el tesoretto</l>
+            <l>Fusse un picolo albereto.</l>
+            <l>Ma chi sa,</l>
+            <l>che a torzìon fra Franza e Spagna</l>
+            <l>qualcoseta non se magna;</l>
+            <l>che a torziòn fra Spagna e Franza</l>
+            <l>no me regola la panza!</l>
+            <l>Spagna… Franza… magna… panza!</l>
+          </sp>
+          <stage>(parte da sinistra)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena Seconda</head>
+          <stage>(All’alzarsi del siparietto appare un’altrastanza in casadi Rosaura, con spinetta escrivania)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>(è alla spinetta e s’accompagna,</l>
+            <l>leggendo da un foglio di musica)</l>
+            <l>Nella notturna selva</l>
+            <l>Dafni così sospira:</l>
+            <l>“Cantano i rosignoli</l>
+            <l>l’anima mia delira…</l>
+            <l>Bionda Amarilli, ahimé!</l>
+            <l>giunge il mio pianto a te?…</l>
+            <l>Ah! tu non m’odi!</l>
+            <l>mormora il vento,</l>
+            <l>sperde lontano</l>
+            <l>questo lamento…”</l>
+            <l>Piange Amarilli intanto</l>
+            <l>presso l’argento rio:</l>
+            <l>“Sbiancano ormai le stelle,</l>
+            <l>palpita il cuore mio…</l>
+            <l>Dafni, mio Dafni, ahimé!</l>
+            <l>giunge il mio pianto a te?…</l>
+            <l>Ah! tu non m’odi!</l>
+            <l>mormora il vento</l>
+            <l>sperde lontano</l>
+            <l>questo lamento…”</l>
+          </sp>
+          <stage>ROSAURA(è alla spinetta e s’accompagna,leggendo da un foglio di musica)Nella notturna selvaDafni così sospira:“Cantano i rosignolil’anima mia delira…Bionda Amarilli, ahimé!giunge il mio pianto a te?…Ah! tu non m’odi!mormora il vento,sperde lontanoquesto lamento…”Piange Amarilli intantopresso l’argento rio:“Sbiancano ormai le stelle,palpita il cuore mio…Dafni, mio Dafni, ahimé!giunge il mio pianto a te?…Ah! tu non m’odi!mormora il ventosperde lontanoquesto lamento…”</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>(entra dal fondo)</l>
+            <l>Signora,</l>
+            <l>c’è un valletto di Monsieur,</l>
+            <l>che vuol farvi un’ambasciata.</l>
+          </sp>
+          <stage>MARIONETTE(entra dal fondo)Signora,c’è un valletto di Monsieur,che vuol farvi un’ambasciata.</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Fa che passi.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Ma sapete chi è?</l>
+            <l>È Arlecchino,che il Cavalier francese</l>
+            <l>ha preso al suo servizio.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>(Fra sè)</l>
+            <l>Questo francese replica gli assalti,</l>
+            <l>ma Rosauraha giudizio.</l>
+          </sp>
+          <stage>ROSAURA(Fra sè)Questo francese replica gli assalti,ma Rosauraha giudizio.</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>(verso la porta)</l>
+            <l>Venite, venite,</l>
+            <l>signor cameriere francese.</l>
+          </sp>
+          <stage>MARIONETTE(verso la porta)Venite, venite,signor cameriere francese.</stage>
+          <stage>(Arlecchino entra dal fondo, vestitoda cameriere francese, facendo moltiinchini caricati a Rosaura)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Bravo, bravo. Non t’affaticare.</l>
+            <l>Parla, parla, se hai qualche cosa da dirmi.</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(con linguaggio alterato)</l>
+            <l>Madama, per parte</l>
+            <l>del mio padrone,</l>
+            <l>devo presentarvi una zoggia.</l>
+          </sp>
+          <stage>ARLECCHINO(con linguaggio alterato)Madama, per partedel mio padrone,devo presentarvi una zoggia.</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>A me una gioia?</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>A voi, Madama.</l>
+            <l>Ma pria di darla,</l>
+            <l>o, per dir meglio,</l>
+            <l>di presentarla,</l>
+            <l>gaverèi da cantarghe un complimento…</l>
+            <l>Ma ancuo so rauco in gola,</l>
+            <l>e non me ne arecordo un parola.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Arlecchino, fai torto al tuo spirito.</l>
+          </sp>
+          <sp who="#rosaura, marionette">
+            <speaker>ROSAURA, MARIONETTE:</speaker>
+            <l>Se l’hai scordato, sarà ben difficile,</l>
+            <l>che io lo senta.</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>L’arte dell’omo supplisse</l>
+            <l>A le aventure del caso.</l>
+          </sp>
+          <stage>(Fra sè)Bele parole!</stage>
+          <stage>(A Rosaura)</stage>
+          <stage>(presenta il foglio a Rosaura)</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Bravo!</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Evviva!</l>
+          </sp>
+          <stage>(legge piano)</stage>
+          <sp who="#rosaura, marionette">
+            <speaker>ROSAURA, MARIONETTE:</speaker>
+            <l>(cantando a due)</l>
+            <l>Hm!… Hm!..</l>
+          </sp>
+          <stage>ROSAURA, MARIONETTE(cantando a due)Hm!… Hm!..</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Uh!… Che galanteria…</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>(legge sopra le spalle di Rosaura)</l>
+            <l>Bello stile francese…</l>
+          </sp>
+          <stage>MARIONETTE(legge sopra le spalle di Rosaura)Bello stile francese…</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Bene: che cosa devi presentarmi?</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Una zoggia preziosa,</l>
+            <l>una zoggia francese.</l>
+            <l>Eccola!</l>
+          </sp>
+          <stage>(le dà il ritratto)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Questa è la gioia?</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>E vi par poco?</l>
+            <l>la miniatura d’un parigino?</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Questa è una gioia particolare.</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Madama, vi prego</l>
+            <l>de la risposta,</l>
+            <l>onde dipende la consolazion</l>
+            <l>del padron,</l>
+            <l>e l’interesse</l>
+            <l>del servitor.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Sì, caro, volentieri.</l>
+          </sp>
+          <stage>(va alla scrivania a scrivere)</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Gran fortuna, mio Arlecchino;</l>
+            <l>sembri un altro, en veritè!</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Vedo adesso, me n’incorzo,</l>
+            <l>che talento ghe ne xe.</l>
+            <l>Za che el cielo m’infranzisa,</l>
+            <l>che me sento snananar,</l>
+            <l>che non toca la camisa</l>
+            <l>dove è megio non parlar,</l>
+            <l>vien qua, bela, dime “oui”,</l>
+            <l>che me snànara co ti!</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Sono qui tutta conquisa</l>
+            <l>del tuo dire, del tuo fare;</l>
+            <l>la fortuna che t’è arrisa</l>
+            <l>mi fa palpitare;</l>
+            <l>no, non fare più così,</l>
+            <l>che se no ti dico “oui”!</l>
+          </sp>
+          <stage>(Arlecchino, che stava per diventaretroppo intraprendente, si ricomponesubito, perché Rosaura ha finito e sivolge a lui)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Eccoti la risposta.</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Xela consolatoria?</l>
+            <l>Posso sperar l’efeto?</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Mi par di sì.</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(con varie riverenze, ritraendosi)</l>
+            <l>Madama, con tutto il cuore.</l>
+          </sp>
+          <stage>ARLECCHINO(con varie riverenze, ritraendosi)Madama, con tutto il cuore.</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>(piano ad Arlecchino)</l>
+            <l>Troppo confidente.</l>
+          </sp>
+          <stage>MARIONETTE(piano ad Arlecchino)Troppo confidente.</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Con tutto lo spirito.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>(come sopra)</l>
+            <l>Troppo elegante.</l>
+          </sp>
+          <stage>MARIONETTE(come sopra)Troppo elegante.</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Con tuta confidenza.</l>
+            <l>Bon zorno a Vossignoria.</l>
+          </sp>
+          <stage>(parte)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>È grazioso.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>L’ha preso un francese!</l>
+            <l>Sposatevi il padrone,</l>
+            <l>che non fallirete.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Marionette, no, no;</l>
+            <l>ché quei finti color</l>
+            <l>non mi fanno sperar fedeltà.</l>
+            <l>Ci penserò.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>E pensando farà come il solito</l>
+            <l>di noialtre povere donne:</l>
+            <l>la fortuna si lascia scappar!</l>
+          </sp>
+          <stage>(verso la porta)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Un lacché?</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Che sfacciato!</l>
+            <l>è già entrato da sé!</l>
+          </sp>
+          <sp who="#folletto">
+            <speaker>FOLLETTO:</speaker>
+            <l>(è già entrato di corsa)</l>
+            <l>Servo umilissimo</l>
+            <l>di Vossignoria Illustrissima!</l>
+          </sp>
+          <stage>FOLLETTO(è già entrato di corsa)Servo umilissimodi Vossignoria Illustrissima!</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Chi sei?</l>
+          </sp>
+          <sp who="#folletto">
+            <speaker>FOLLETTO:</speaker>
+            <l>Sono Folletto</l>
+            <l>lacché dell’Illusttrissimo</l>
+            <l>Contedi Bosco Nero,</l>
+            <l>pronto ai comandi</l>
+            <l>di Vossignoria Illustrissima.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Che dice il Conte?</l>
+          </sp>
+          <sp who="#folletto">
+            <speaker>FOLLETTO:</speaker>
+            <l>L’Illustrissimo Contemio padrone</l>
+            <l>manda questa lettera,</l>
+            <l>all’Illustrissima.</l>
+            <l>Signora Rosaura, mia signora.</l>
+          </sp>
+          <stage>(le dà la lettera)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>(l’apre, la legge piano, sorride)</l>
+            <l>“…e t’amerò sognando</l>
+            <l>fin che c’è vita in me…</l>
+            <l>Dimmi una tua parola</l>
+            <l>che mi riaccosti a te!”</l>
+          </sp>
+          <stage>ROSAURA(l’apre, la legge piano, sorride)“…e t’amerò sognandofin che c’è vita in me…Dimmi una tua parolache mi riaccosti a te!”</stage>
+          <stage>(commossa)</stage>
+          <stage>(va alla scrivania)</stage>
+          <sp who="#folletto">
+            <speaker>FOLLETTO:</speaker>
+            <l>Francesina, come state d’amanti?</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Così, così.</l>
+          </sp>
+          <sp who="#folletto">
+            <speaker>FOLLETTO:</speaker>
+            <l>S’io mi facessi avanti…?</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Chi sa…</l>
+          </sp>
+          <sp who="#folletto">
+            <speaker>FOLLETTO:</speaker>
+            <l>Stasera mi provo.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Eccoti la risposta.</l>
+          </sp>
+          <stage>(gli dà la lettera)</stage>
+          <sp who="#folletto">
+            <speaker>FOLLETTO:</speaker>
+            <l>Grazia a Vossignoria Illustrissima!</l>
+            <l>Ma… Vi è nulla per il giovane?</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Sì, prendi.</l>
+          </sp>
+          <stage>(gli dà la mancia)</stage>
+          <sp who="#folletto">
+            <speaker>FOLLETTO:</speaker>
+            <l>Obbligatissimo</l>
+            <l>A Vossignoria Illustrissima!</l>
+            <l>E viva mill’anni</l>
+            <l>vossignoria Illustrissima!</l>
+            <l>Francesina, a rivederci a stasera.</l>
+          </sp>
+          <stage>(parte correndo)</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Sì, vieni che stai fresco!</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Pure, dallo stile del conte</l>
+            <l>conosco che m’ama davvero.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Via, Via! v’ho capito:</l>
+            <l>smaniate per lui!</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Marionette, no, no:</l>
+            <l>credi, anch’io bel lo so</l>
+            <l>che un amante sa finger se vuole.</l>
+            <l>Ci penserò.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Eh! si sa!</l>
+            <l>A costui ch’è dei pessimi il pessimo</l>
+            <l>s’attaccherà.</l>
+          </sp>
+          <stage>(Birif è entrato silenziosamente.Marionette, nel volgersi, lo vede esobbalza)</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Giusto cielo! Chi è questo?</l>
+          </sp>
+          <sp who="#birif">
+            <speaker>BIRIF:</speaker>
+            <l>Madama.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Che bramate?</l>
+          </sp>
+          <sp who="#birif">
+            <speaker>BIRIF:</speaker>
+            <l>Milordmanda me con questa bagattella.</l>
+          </sp>
+          <stage>(le dà le gioie)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Oh! che splendore! Osserva, Marionette,</l>
+            <l>che belle gioie.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Altro che uno scritto amoroso!</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ROSAURA</head>E che un ritratto!<sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>E che un ritratto!</l>
+        </sp>
+        <stage>(a Birif)</stage>
+        <sp who="#birif">
+          <speaker>BIRIF:</speaker>
+          <l>No, Madama.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Ringraziatelo.</l>
+        </sp>
+        <sp who="#birif">
+          <speaker>BIRIF:</speaker>
+          <l>Madama.</l>
+        </sp>
+        <stage>(fa una riverenza)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Prendete.</l>
+        </sp>
+        <stage>(gli vuol dare la mancia)</stage>
+        <sp who="#birif">
+          <speaker>BIRIF:</speaker>
+          <l>Meraviglio, madama.</l>
+        </sp>
+        <stage>(non la vuole e parte)</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Quell’inglese dev’essere ben ricco!</l>
+          <l>E sposatelo!</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Marionette, no, no:</l>
+          <l>non si compra l’amor..</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>La, la, la, la…</l>
+          <l>Mi convinco che,</l>
+          <l>voltala e girala,</l>
+          <l>non sa proprio che cosa si vuole.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(guardando verso la sala)</l>
+          <l>E questo mantellone,</l>
+          <l>che diamine è?</l>
+        </sp>
+        <stage>ROSAURA(guardando verso la sala)E questo mantellone,che diamine è?</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Oh! Arlecchinoda servo spagnolo!</l>
+          <l>Che bizzarrìa!</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Che bizzarrìa!</l>
+        </sp>
+        <sp who="#a due">
+          <speaker>A DUE:</speaker>
+          <l>Questo è un giorno di grande ventura:</l>
+          <l>gran conquiste si fecero invero!</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>(entra vestito da servo</l>
+          <l>spagnolo. Sicava il cappello)</l>
+          <l>Guardi il cielo molti anni,</l>
+          <l>Donna Rosaura.</l>
+        </sp>
+        <stage>ARLECCHINO(entra vestito da servospagnolo. Sicava il cappello)Guardi il cielo molti anni,Donna Rosaura.</stage>
+        <stage>(si rimette il cappello)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Che scene son queste?</l>
+        </sp>
+        <sp who="#a due">
+          <speaker>A DUE:</speaker>
+          <l>Quante figure pretendi di fare?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>(si toglie il cappello)</l>
+        </sp>
+        <stage>ARLECCHINO(si toglie il cappello)</stage>
+        <stage>(si rimette il cappello)ROSAURAE che vuol dire?</stage>
+        <sp who="#a due">
+          <speaker>A DUE:</speaker>
+          <l>Che pensa il tuo signor?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>(si toglie il cappello)</l>
+          <l>Manda a Donna Rosauraun tesoro!</l>
+        </sp>
+        <stage>ARLECCHINO(si toglie il cappello)Manda a Donna Rosauraun tesoro!</stage>
+        <stage>(si rimette il cappello)</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Canchero!</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Un tesoro?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Sì! Sì!</l>
+          <l>Un tesoro!</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Canchero! Un tesoro!</l>
+          <l>Cos’è questo tesoro?</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>E cos’è mai?</l>
+          <l>Cos’è questo tesoro?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Ecco:</l>
+        </sp>
+        <stage>(si toglie il cappello)</stage>
+        <stage>(lascia che il rotolo sisvolga fino ai suoi piedi)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Cos’è questo tesoro?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>È questo l’albero</l>
+          <l>”generalogico”</l>
+          <l>di tutti i nonni</l>
+          <l>del mio signor.</l>
+        </sp>
+        <stage>(gli fa un inchino)</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>(in tono beffardo)</l>
+          <l>Ah! che tesoro!</l>
+        </sp>
+        <stage>MARIONETTE(in tono beffardo)Ah! che tesoro!</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>E perché no? Ha detto altro?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Ha detto.</l>
+          <l>Ma tanto ha detto che io mai e poi mai</l>
+          <l>l’avrei imparato, se prudentemente</l>
+          <l>in questa carta non l’avesse scritto.</l>
+        </sp>
+        <stage>(dà un foglio a Rosaura)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Ti darò la risposta.</l>
+        </sp>
+        <stage>(va al tavolino a scrivere)</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Ma dimmi un poco,</l>
+          <l>che pazzia è codesta:</l>
+          <l>Di mutar abito?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Rispetto e gravità</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Che? sei già entrato in superbia?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Rispetto… gravità.</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>(da sé)</l>
+          <l>Oh, che ridicolo!</l>
+          <l>Ah! Ah! Ah!</l>
+          <l>È un servo a metamorfosi</l>
+          <l>che sa quel che si fa.</l>
+        </sp>
+        <stage>MARIONETTE(da sé)Oh, che ridicolo!Ah! Ah! Ah!È un servo a metamorfosiche sa quel che si fa.</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Rispetto e gravità.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(tornando con una lettera)</l>
+          <l>Eccoti la risposta.</l>
+        </sp>
+        <stage>ROSAURA(tornando con una lettera)Eccoti la risposta.</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Servo di Donna Rosaura.</l>
+        </sp>
+        <stage>(si toglie il cappelloe se lo rimette)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Bon giorno.</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Addio, Marionette. Addio!…</l>
+        </sp>
+        <stage>(parte con gravità)</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Oh! che ridicolo!</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Si porta bene.</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>(con voce grossa imitando i gesti</l>
+          <l>di Arlecchino)</l>
+          <l>“Servo di Donna Rosaura.”</l>
+        </sp>
+        <stage>MARIONETTE(con voce grossa imitando i gestidi Arlecchino)“Servo di Donna Rosaura.”</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(secondando lo scherzo)</l>
+          <l>“Buon giorno.”</l>
+        </sp>
+        <stage>ROSAURA(secondando lo scherzo)“Buon giorno.”</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>“Addio, Marionette.</l>
+          <l>Addio!”</l>
+        </sp>
+        <stage>(cambiando il tono)</stage>
+        <stage>Dunque, vi piace la Spagna?(Rosauraper tutta rispostala guarda e sorride)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(calma e sempre sorridente)</l>
+          <l>Anzi: tutti.</l>
+        </sp>
+        <stage>ROSAURA(calma e sempre sorridente)Anzi: tutti.</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Ma tutti</l>
+          <l>Non li potete sposare.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Uno ne sceglierò.</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>E quale?</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Ti pare</l>
+          <l>Ch’io mi, debba sgomentare?…</l>
+          <l>Spira intorno vago e lene</l>
+          <l>un potere arcano:</l>
+          <l>è lui che cuore</l>
+          <l>a cuore unisce,</l>
+          <l>e a lui m’affiderò.</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>(tra sé)</l>
+          <l>La,la,la…</l>
+          <l>Il rischio riconosco, riconosco…</l>
+        </sp>
+        <stage>MARIONETTE(tra sé)La,la,la…Il rischio riconosco, riconosco…</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Sono scaltra, sono accorta:</l>
+          <l>la sua grazia mi darà!</l>
+          <l>Ci penserò.</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>(mentre Rosauras’allontana, ne</l>
+          <l>accompagna l’uscita gesticolando come</l>
+          <l>se dicesse: con esagerata convinzione:</l>
+        </sp>
+        <stage>MARIONETTE(mentre Rosauras’allontana, neaccompagna l’uscita gesticolando comese dicesse: con esagerata convinzione:</stage>
+        <stage>(Ma appena Rosaura è uscita, scrollail capo e poi, rivolta al pubblico, dice)</stage>
+        <stage>(musica orchestrale. Parte ballando)</stage>
+        <div type="scene">
+          <head>Scena Terza</head>(All’alzarsi del siparietto d’argento, appareun campiello, con a destra la locanda dello“Scudo di Francia”. Due calli a sinistra, duecalli a destra. Infondo un “rio” con un ponteche lo traversa. Milorde i lConteDi BoscoNero che gli ronza intorno) <stage>Scena Terza(All’alzarsi del siparietto d’argento, appareun campiello, con a destra la locanda dello“Scudo di Francia”. Due calli a sinistra, duecalli a destra. Infondo un “rio” con un ponteche lo traversa. Milorde i lConteDi BoscoNero che gli ronza intorno)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(Fra sè)</l>
+            <l>E non vuole parlare!</l>
+          </sp>
+          <stage>CONTE(Fra sè)E non vuole parlare!</stage>
+          <stage>(AMilord)</stage>
+          <stage>(Milord passeggia e non risponde)</stage>
+          <stage>(Fra sè)</stage>
+          <stage>(A Milord)</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Questo è quel che non capirete mai.</l>
+          </sp>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(Fra sè)</l>
+            <l>E lo chiama parlare!</l>
+          </sp>
+          <stage>CONTE(Fra sè)E lo chiama parlare!</stage>
+          <stage>(entrano Folletto e Birif, il primo dallaparte del Conte, il secondo da quelladi Milord)</stage>
+          <sp who="#birif">
+            <speaker>BIRIF:</speaker>
+            <l>Milord.</l>
+          </sp>
+          <sp who="#folletto">
+            <speaker>FOLLETTO:</speaker>
+            <l>Illustrissimo.</l>
+          </sp>
+          <stage>(il Contefa cenno a Folletto chenon parli, e questi gli dà la lettera)</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Facesti?</l>
+          </sp>
+          <sp who="#birif">
+            <speaker>BIRIF:</speaker>
+            <l>Yes, Milord.</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Aggradi?</l>
+          </sp>
+          <sp who="#birif">
+            <speaker>BIRIF:</speaker>
+            <l>Ringrazia.</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Non occorr’altro.</l>
+            <l>(gli dà il borsellino con denari. Folletto</l>
+            <l>osserva. Birif fa una riverenza e parte.</l>
+            <l>Il Contefa cenno a Folletto che se ne</l>
+            <l>vada. Questi stende la mano per la</l>
+            <l>mancia. Il Contela scaccia)</l>
+          </sp>
+          <stage>MILORDNon occorr’altro.(gli dà il borsellino con denari. Follettoosserva. Birif fa una riverenza e parte.Il Contefa cenno a Folletto che se nevada. Questi stende la mano per lamancia. Il Contela scaccia)</stage>
+          <sp who="#folletto">
+            <speaker>FOLLETTO:</speaker>
+            <l>(Fra sè)</l>
+            <l>Bella Italia, ma cattivo servire!</l>
+          </sp>
+          <stage>FOLLETTO(Fra sè)Bella Italia, ma cattivo servire!</stage>
+          <stage>(parte)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>(guardando Milorddi sottecchi)</l>
+            <l>Un messaggio? che sia di Rosaura?</l>
+          </sp>
+          <stage>CONTE(guardando Milorddi sottecchi)Un messaggio? che sia di Rosaura?</stage>
+          <stage>(Forte)</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Siete un pazzo!</l>
+          </sp>
+          <stage>(Parte)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>A me pazzo! Viva il Cielo</l>
+            <l>Ma che dice la mia cara Rosaura?</l>
+            <l>Mi consola o m’uccide?…</l>
+          </sp>
+          <stage>(legge piano)</stage>
+          <stage>M’incoraggia ad amarla… Oh! me felice!(rilegge la lettera commosso)</stage>
+          <stage>(parte raggiante)</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>(entra passeggiando in su e in giù)</l>
+            <l>O Rosauranon sa le convenienze,</l>
+            <l>o Arlecchinoè un somaro.</l>
+            <l>Farmi aspettar sì a lungo!</l>
+            <l>Un pari mio! un magnate!</l>
+            <l>Se vien colui, per Dio!</l>
+            <l>Gli voglio dare cento bastonate!</l>
+            <l>Ma forse l’albero</l>
+            <l>del mio casato</l>
+            <l>la tiene a meditar.</l>
+            <l>Son venticinque generazioni:</l>
+            <l>ce n’è da cogitar.</l>
+            <l>Marchesi, principi,</l>
+            <l>conti, baroni,</l>
+            <l>re, duchi, vescovi</l>
+            <l>santi e patroni:</l>
+            <l>ce n’è da cogitar.</l>
+            <l>È compatibile</l>
+            <l>questa tardanza;</l>
+            <l>e comprensibile</l>
+            <l>questa mancanza:</l>
+            <l>si può scusar.</l>
+          </sp>
+          <stage>DON ALVARO(entra passeggiando in su e in giù)O Rosauranon sa le convenienze,o Arlecchinoè un somaro.Farmi aspettar sì a lungo!Un pari mio! un magnate!Se vien colui, per Dio!Gli voglio dare cento bastonate!Ma forse l’alberodel mio casatola tiene a meditar.Son venticinque generazioni:ce n’è da cogitar.Marchesi, principi,conti, baroni,re, duchi, vescovisanti e patroni:ce n’è da cogitar.È compatibilequesta tardanza;e comprensibilequesta mancanza:si può scusar.</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(vestito da spagnolo, entra, non veduto</l>
+            <l>da Alvaro che passeggia)</l>
+            <l>Cavaliere!</l>
+          </sp>
+          <stage>ARLECCHINO(vestito da spagnolo, entra, non vedutoda Alvaro che passeggia)Cavaliere!</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Che rechi?</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(si cava il cappello</l>
+            <l>e anche Don Alvaro)</l>
+            <l>Viva il Re, nostro signore!</l>
+            <l>Donna Rosauravi vuole un gran bene.</l>
+          </sp>
+          <stage>ARLECCHINO(si cava il cappelloe anche Don Alvaro)Viva il Re, nostro signore!Donna Rosauravi vuole un gran bene.</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Lo so. Che ha detto del mio grand’albero?</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>L’ha baciato più volte e ribaciato,</l>
+            <l>inarcava le ciglia,</l>
+            <l>stringeva i denti</l>
+            <l>per meraviglia!</l>
+          </sp>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Bene, bene!</l>
+            <l>Le ha cantato il mio carme?</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Come un cigno!</l>
+          </sp>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Che ti ha risposto?</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Eccovi qua l’epistola.</l>
+          </sp>
+          <stage>(Si cava il cappello e gli dà il foglio)</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Mio cuor, preparati</l>
+            <l>alle dolcezze.</l>
+          </sp>
+          <stage>(legge)“Acepto con muchoagradimiento el ritratto…”Che dice di ritratto?</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(Fra sè)</l>
+            <l>O povareto mi! gh’ho dà a lu</l>
+            <l>la carta del Francese!</l>
+            <l>Niente: franchezza e spirito,</l>
+            <l>e ghe rimedierò.</l>
+          </sp>
+          <stage>ARLECCHINO(Fra sè)O povareto mi! gh’ho dà a lula carta del Francese!Niente: franchezza e spirito,e ghe rimedierò.</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Ebbene: non rispondi?</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ARLECCHINO</head>L’albero della vostra casaè… il ritratto della vostra grandezza.<sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>L’albero della vostra casa</l>
+          <l>è… il ritratto della vostra grandezza.</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Così l’intendevo ancor io.</l>
+          <l>“El mio non ve lo posso mandar</l>
+          <l>porque non l’ho…”</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Lei non ce l’ha,</l>
+          <l>vedete bene.</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>L’intendo ancor io…</l>
+          <l>“Estimo mucho questa gioia preciosa,</l>
+          <l>che la voglio far</l>
+          <l>legare in un cerchio d’oro…”</l>
+          <l>Oh! Diavolo!</l>
+          <l>In un cerchio d’oro il mio albero!</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Vuol dire cornice dorata.</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Così l’intendevo ancor io…</l>
+          <l>“E portarlo attaccato al petto…”</l>
+          <l>Un quadro di quella grandezza</l>
+          <l>attaccato al petto!?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Eh! frase poetica!</l>
+          <l>lo porterà nel cuore,</l>
+          <l>oppur nel petto, che vuol dir lo stesso.</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Per l’appunto.</l>
+          <l>Così l’intendevo ancor io.</l>
+          <l>Addio.</l>
+        </sp>
+        <stage>(per partire)</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Cavaliere… E la memoria?</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Temerario!</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Cavaliere che promette…</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Hai ragione, me ne scordavo.</l>
+          <l>Hai portato un tesoro alla mia dama,</l>
+          <l>ecco qui un tesoretto anche per te.</l>
+        </sp>
+        <stage>(gli dà un foglio piegato)</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Che è questo?</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Una patente</l>
+          <l>del mio servidor.</l>
+        </sp>
+        <stage>(parte)</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Ah! can maledettissimo!</l>
+          <l>A mi sto tesoretto!</l>
+          <l>Cussì se burla un povaro</l>
+          <l>galantuomo de sesto?</l>
+          <l>Me vogio vendicar! Ah sì! de dia,</l>
+          <l>me vogio vendicar!</l>
+          <l>Ma ve ‘lo qua el Francese:</l>
+          <l>presto, che no ‘l me veda!</l>
+          <l>che se ‘l spagnolo</l>
+          <l>m’ha buzzerà,</l>
+          <l>fursi che questo me rifarà!</l>
+        </sp>
+        <stage>(parte)</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>(entra e passeggia guardandosi</l>
+          <l>in uno specchietto)</l>
+          <l>Questa parrucca, però,</l>
+          <l>acconciata non è come il faut.</l>
+          <l>Questo riccio di qua.</l>
+          <l>è più lungo di quello di là.</l>
+          <l>Ah! Parigi… Paris!…</l>
+          <l>Com’è triste la vita così!…</l>
+          <l>E questi calzolai</l>
+          <l>sempre le scarpe larghe!…</l>
+          <l>Non sanno che chi</l>
+          <l>con grazia è calzato</l>
+          <l>si deve sentire stroppiato.</l>
+          <l>Ah! Parigi!… Paris!…</l>
+          <l>Com’è triste la vita così!…</l>
+        </sp>
+        <stage>MONSIEUR(entra e passeggia guardandosiin uno specchietto)Questa parrucca, però,acconciata non è come il faut.Questo riccio di qua.è più lungo di quello di là.Ah! Parigi… Paris!…Com’è triste la vita così!…E questi calzolaisempre le scarpe larghe!…Non sanno che chicon grazia è calzatosi deve sentire stroppiato.Ah! Parigi!… Paris!…Com’è triste la vita così!…</stage>
+        <stage>(Arlecchino da francese entrafacendo molte riverenze edinchini caricati a Monsieur)Bravo, ti porti bene.Sei stato da Madama?</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Ci sono stato… Ah!…</l>
+          <l>Non ci fossi stato!</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Pourquoi?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Che bellezza! che grazia! che occhi!</l>
+          <l>che naso! che bocca! che senato!</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>MONSIEUR</head>Presentasti il ritratto?<sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Presentasti il ritratto?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Lo presentai; ed ella</l>
+          <l>non si saziava</l>
+          <l>di mirarlo e baciarlo…</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Oh! cara!… Le cantasti?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Cantai… cantai…</l>
+          <l>Ed ella, o cielo…</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Che fece, Arlecchino, che fece?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Sentendomi cantar si svenne!</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>O caro!</l>
+        </sp>
+        <stage>(lo bacia)</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Diavolo, che vu che st’altro?</l>
+        </sp>
+        <stage>ARLECCHINO(Fra sè)Diavolo, che vu che st’altro?</stage>
+        <stage>(A Monsieur)</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Ah, ah, ah!…</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>La me l’ha data… ma…</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Che ma?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>L’ho persa.</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Ah! indegno! scellerato!</l>
+          <l>Io t’infilzo con questa mia spada!</l>
+        </sp>
+        <stage>(cava la spada)</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Ghe vol ben la trovada!</l>
+          <l>Ghe darò st’altra.</l>
+        </sp>
+        <stage>ARLECCHINO(Fra sè)Ghe vol ben la trovada!Ghe darò st’altra.</stage>
+        <stage>(A Monsieur)</stage>
+        <stage>(gli dà un foglio)</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>O caro il mio Arlecchino!</l>
+          <l>Refrigerio delle mie pene!</l>
+        </sp>
+        <stage>(lo abbraccia)</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>(Fra sè)</l>
+          <l>E prima el me sbusava!…</l>
+        </sp>
+        <stage>ARLECCHINO(Fra sè)E prima el me sbusava!…</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Oh! carta adorata! leggiamo;</l>
+          <l>“Ammiro sommamente</l>
+          <l>il magnifico albero della</l>
+          <l>vostra casa…”</l>
+          <l>Ma come l’albero</l>
+          <l>della mia casa?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Semo a le solite!</l>
+        </sp>
+        <stage>ARLECCHINO(Fra sè)Semo a le solite!</stage>
+        <stage>(A Monsieur)</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Io no.</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Ve la spiegherò mi.</l>
+          <l>Non siete l’unico</l>
+          <l>di vostra casa?</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Sì.</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Non dovete ammogliarvi?</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Bene.</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Il matrimonio?</l>
+          <l>non rende frutti?</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Sicuro.</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Quelo che fa i frutti</l>
+          <l>non si dice albaro?</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>È vero.</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Dunque… voi siete</l>
+          <l>l’albero di vostra casa!</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>E Madama Rosauraè sì sottile?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Eh! Anca de più!</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Sei un grand’uomo!</l>
+        </sp>
+        <stage>(lo bacia)</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Altro baso!</l>
+        </sp>
+        <stage>ARLECCHINO(Fra sè)Altro baso!</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Avanti!</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Avanti.</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>“Se sarò ammessa fra tante eroine…”</l>
+          <l>Quali eroine?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Quelle che v’amano.</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Dici bene; e son molte.</l>
+          <l>“…sarà nobilitato anche l’albero</l>
+          <l>della mia casa.”</l>
+          <l>E questo che vuol dire?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Eh… così sarà nobile lei…</l>
+          <l>e anche il vecchio suo padre,</l>
+          <l>che è l’albero della sua casa.</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Viva il grande Arlecchino!</l>
+          <l>Tu meriti una recognizione</l>
+          <l>senza misura!</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Oh! manco mal!</l>
+        </sp>
+        <stage>ARLECCHINO(Fra sè)Oh! manco mal!</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Vò pensando che posso donarti</l>
+          <l>per un’opera tanto perfetta.</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Un inglese, per un afar de sto genere,</l>
+          <l>m’ha dà una borsa.</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Che!? Una borsa è poco!</l>
+          <l>Meriti un premio illimitato…</l>
+          <l>Una recognizione estraordinaria</l>
+          <l>Ma ecco… ecco!</l>
+          <l>che già mi balena l’idea!</l>
+          <l>Eccoti un pezzo di questa carta,</l>
+          <l>che è la cosa più preziosa del mondo!</l>
+        </sp>
+        <stage>(gli dà un pezzo della carta di Rosaura eparte. Arlecchino resta attonito, con la cartain mano, guardando dietro a Monsieur)</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>(esce di casa e gli si avvicina)</l>
+          <l>MonsieurArlecchino, che fate voi?</l>
+        </sp>
+        <stage>MARIONETTE(esce di casa e gli si avvicina)MonsieurArlecchino, che fate voi?</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Stavo pensando a un uomo generoso.</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Forse a MonsieurLe Bleau?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Giusto quelo.</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Vi ha forse regal ato?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>E come!</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Sentite, voi che ambite</l>
+          <l>servire alla francese,</l>
+          <l>bisogna che impariate</l>
+          <l>le usanze del paese.</l>
+          <l>Se il servo dell’amante</l>
+          <l>ricava alcun profitto,</l>
+          <l>la serva della bella</l>
+          <l>a una parte ha diritto;</l>
+          <l>perché è poi lei che fa</l>
+          <l>che tutto vada bene,</l>
+          <l>e che tutti ne godano</l>
+          <l>siccome si conviene.</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Evviva Marionette! Brava!</l>
+          <l>Tu meriti una recognizione</l>
+          <l>senza misura!</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Certo che al tuo padrone</l>
+          <l>di grande aiuto fui…</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>So pensando che posso donarti</l>
+          <l>per un’opera tanto perfetta.</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Dieci scudi non pagano</l>
+          <l>quanto feci per lui.</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Dieci scudi? Non bastano!</l>
+          <l>Meriti un premio</l>
+          <l>illimitato, una recognizione</l>
+          <l>estraordinaria….</l>
+          <l>Ma ecco, ecco!</l>
+          <l>che già mi balena l’idea!</l>
+          <l>Para la mano. Eccoti un pezzo</l>
+          <l>di questa carta,</l>
+          <l>che è la cosa più preziosa del mondo!</l>
+        </sp>
+        <stage>(Straccia un pezzo difoglio, glielo dà e parte)</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Ah! furfantaccio</l>
+          <l>senza creanza!</l>
+          <l>A me un pezzo di carta!</l>
+          <l>A me uno scherzo</l>
+          <l>di questa sorte!</l>
+          <l>Marionette burlata e derisa!</l>
+          <l>Se non mi vendico</l>
+          <l>non son chi sono!</l>
+          <l>E sai chi sono?</l>
+          <l>Son Marionette!</l>
+          <l>sono la figlia</l>
+          <l>della cameriera della balia del Re!</l>
+          <l>E mio padre il Tamburo maggiore!</l>
+          <l>Ti farò fucilare!</l>
+        </sp>
+        <stage>(via correndo di dove è uscitoArlecchino. Frattanto la scenas’è andata popolando. Cuochi,cuoche e sguatteri sono usciti dallalocanda, altra gente è entrata dalponte e s’è affacciata alle finestre. Tuttisi sono divertiti ad ascoltare Marionette)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(allegramente)</l>
+          <l>Chi?</l>
+          <l>Chi?</l>
+          <l>Chi farà fucilare la figlia</l>
+          <l>della cameriera della balia del Re?</l>
+          <l>La figlia del Tamburo maggiore?</l>
+        </sp>
+        <stage>CORO(allegramente)Chi?Chi?Chi farà fucilare la figliadella cameriera della balia del Re?La figlia del Tamburo maggiore?</stage>
+        <stage>(Arlecchino entra da sinistra in fondo,recando sotto il braccio gli indumentiche gli diede Monsieur. Marionettel’insegue)</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Salva! Salva!</l>
+          <l>Scampa! scampa!</l>
+        </sp>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>Se ti piglio!</l>
+          <l>Se t’afferro!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Oh! Arlecchino!</l>
+        </sp>
+        <stage>(Marionette rincorre Arlecchino; questicalca, il cappello da francese sulla testadi un popolano coprendogliela tutta,e gli appioppa anche il mantello, poiagilmente, s’arrampica su per la docciadella locanda, fino alla grondaia,raggomitolandosi sotto il tetto.Marionette, scambiandolo perArlecchino, si slancia sul popolano,addosso al quale Arlecchinoha messogli indumenti da cameriere francese,glieli strappa via e rimane scornata,vedendo che non è Arlecchino.La confusione è arrivata al colmo)</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>(dall’alto, placidamente)</l>
+          <l>Varda, varda che bel gato,</l>
+          <l>sora i copi de cusina:</l>
+          <l>se sgrafar vol la gatina</l>
+          <l>la s’inrampega fin qua…</l>
+        </sp>
+        <stage>ARLECCHINO(dall’alto, placidamente)Varda, varda che bel gato,sora i copi de cusina:se sgrafar vol la gatinala s’inrampega fin qua…</stage>
+        <sp who="#giovinotti">
+          <speaker>GIOVINOTTI:</speaker>
+          <l>(additando Arlecchino)</l>
+          <l>Varda, varda che bel gato,</l>
+          <l>sora i copi de cusina:</l>
+          <l>se sgrafar vol la gatina</l>
+          <l>la s’inrampega fin là!</l>
+        </sp>
+        <stage>GIOVINOTTI(additando Arlecchino)Varda, varda che bel gato,sora i copi de cusina:se sgrafar vol la gatinala s’inrampega fin là!</stage>
+        <stage>(A Marionette con galanteria grossolana)</stage>
+        <stage>(e le si affollano intorno)</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>(tentando invano di schermirsi)</l>
+          <l>Furfantacci! birbaccioni!</l>
+          <l>Sì, vi grafio! Via di qua!</l>
+        </sp>
+        <stage>MARIONETTE(tentando invano di schermirsi)Furfantacci! birbaccioni!Sì, vi grafio! Via di qua!</stage>
+        <stage>(Ma invece se ne fugge lei, inseguitadai giovanotti. Arlecchino, rimato solo,scende lestamente dal suo rifugio es’avanza al proscenio, guardandosi ingiro sospettosamente)</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Quacio quacio come un gato,</l>
+          <l>spasemà ne le buèle,</l>
+          <l>me la sùbio, me la bato,</l>
+          <l>me la moco via de qua.</l>
+        </sp>
+        <stage>(se la svigna)</stage>
+      </div>
+      <div type="act">
+        <head>ATTO  TERZO</head>
+        <sp who="#atto  terzo">
+          <speaker>ATTO  TERZO:</speaker>
+        </sp>
+        <div type="scene">
+          <head>Scena Prima</head>
+          <stage>(Appare una piccola apertura nel sipariettod’argento, di là dalla quale si vede ilminuscolo salottino di Rosaura,con untavolino in mezzo, cui sovrastano pacchidilettere. Porta in fondo. Rosaura è intentaa scrivere gli ultimi indirizzi, seduta da unlato del tavolino. Marionette, in piedidall’altro, chiude le buste manmano cheRosaura gliele dà)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Ascolta, Marionette, il mio progetto;</l>
+            <l>voglio provar la fede</l>
+            <l>dei quattro amanti miei.</l>
+            <l>Io mi travesto,</l>
+            <l>e mi presento loro ad uno ad uno,</l>
+            <l>fingendomi a ciascuno</l>
+            <l>un’incognita amante sua paesana.</l>
+            <l>Chi a questa tentazione</l>
+            <l>resistere saprà,</l>
+            <l>preferirò fra tutti</l>
+            <l>e sposo mio sarà.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Fatelo, ma prevedo</l>
+            <l>che nessun sceglierete.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Perché?</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Eh! perché tutti</l>
+            <l>cadranno nella rete.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Lo vedremo.</l>
+          </sp>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Ed il ballo</l>
+            <l>di stasera, perché?</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Pretesto per riunire</l>
+            <l>gli amanti qui da me.</l>
+          </sp>
+          <stage>(ha finito di scrivere gli indirizzi)</stage>
+          <stage>(Suona un campanello. Entrano prima duevecchi servi. Poi, subito dopo, sei servette.I vecchi servi e le servette, con i pacchidegli inviti in mano, vengono al proscenio,e fanno un balletto a destra ed a sinistradell’apertura)</stage>
+          <sp who="#rosaura, marionette">
+            <speaker>ROSAURA, MARIONETTE:</speaker>
+            <l>Di questo ghiribizzo</l>
+            <l>l’effetto si vedrà.</l>
+          </sp>
+          <stage>(si chiude l’apertura facendo scomparireRosaurae Marionette, ed il balletto sulproscenio continua, finché i due gruppiescono, uno a destra e l’altro a sinistra)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena Seconda</head>
+          <stage>(S’alza il siparietto d’argento ed appareun campielletto,con caffé in fondo, e duecallette, a destra e a sinistra. Pomeriggio.Monsieur Le Bleau, da una parte,stastudiando, il biglietto di Rosaura.Don Alvaro, dall’altra, fa lo stesso)</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Io dunque l’albero</l>
+            <l>son d’una casa?</l>
+            <l>Non si può credere!</l>
+            <l>Non si può dar!</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>DON ALVARO</head>Lo stesso è l’alberoche il mio ritratto?Non si può dare!<sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Lo stesso è l’albero</l>
+          <l>che il mio ritratto?</l>
+          <l>Non si può dare!</l>
+        </sp>
+        <sp who="#ambos">
+          <speaker>AMBOS:</speaker>
+          <l>Non si può credere!</l>
+          <l>Non si può dare!</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Arlecchinol’intende a rovescio.</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Arlecchinol’intende a sghimbescio.</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>(entra, osserva, vede i due che leggono.</l>
+          <l>S’avanza fra loro pian piano e vedendo</l>
+          <l>che i due hanno i biglietti in mano, dati</l>
+          <l>ad essi per errore, dice loro)</l>
+          <l>Con bona grazia.</l>
+        </sp>
+        <stage>ARLECCHINO(entra, osserva, vede i due che leggono.S’avanza fra loro pian piano e vedendoche i due hanno i biglietti in mano, datiad essi per errore, dice loro)Con bona grazia.</stage>
+        <stage>(prende i due biglietti ad essi di mano e licambia, dando ad ognuno il suo; poi, conuna riverenza alla mutola, parte)</stage>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>(leggendo)</l>
+          <l>Ah! ora sì!</l>
+        </sp>
+        <stage>DON ALVARO(leggendo)Ah! ora sì!</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Oh! espressioni adorabili!</l>
+        </sp>
+        <stage>(bacia la lettera)</stage>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Arlecchinoha scambiato le lettere!</l>
+        </sp>
+        <stage>DON ALVARO(Fra sè)Arlecchinoha scambiato le lettere!</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>(a Don Alvaro)</l>
+          <l>Amico, avete voi mandato qualche albero</l>
+          <l>a Madama Rosaura?</l>
+        </sp>
+        <stage>MONSIEUR(a Don Alvaro)Amico, avete voi mandato qualche alberoa Madama Rosaura?</stage>
+      </div>
+      <div type="act">
+        <head>DON ALVARO</head>E voi un ritratto?<sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>E voi un ritratto?</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Non nego.</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Confesso.</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Rivali?</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Nemici!</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Cedete?</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Giammai!</l>
+          <l>Venite!</l>
+        </sp>
+        <stage>(sfodera la spada e parte)</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Vi seguo!</l>
+          <l>Rosaura! per te!</l>
+        </sp>
+        <stage>(fa per seguirlo; ma in quella entradanzando lo sciame delle servette, cheva a sonare i campanelli di tutte le case.Monsieurs’arresta di botto, ammirato)E il duello?… Che aspetti!</stage>
+        <stage>(rinfodera la spada)Dovrei forse lasciar d’ammiraredelle belle ragazze?… Jamais!</stage>
+        <stage>(sfarfalla dall’una all’altra conammirazione sempre crescente, mentredalle case si calano i cestini. Le servettedeposti in questi gli inviti, se ne vannodanzando. Monsieur sta per seguirle,quando un’altra servetta entra sola,danzando, si volge a lui civettuola, poifugge ridendo, dalla parte opposta aquella da cui uscì Don Alvaro)O bellezza tiranna, mercè!</stage>
+        <stage>(parte dietro a lei)</stage>
+        <sp who="#conde">
+          <speaker>CONDE:</speaker>
+          <l>(entra e va a sedersi al caffé. Ordina al</l>
+          <l>caffettiere, che s’affaccia alla porta)</l>
+          <l>Caffé.</l>
+        </sp>
+        <stage>CONDE(entra e va a sedersi al caffé. Ordina alcaffettiere, che s’affaccia alla porta)Caffé.</stage>
+        <sp who="#milord">
+          <speaker>MILORD:</speaker>
+          <l>(entra dalla parte opposta</l>
+          <l>e siede, al caffé)</l>
+          <l>Caffé.</l>
+        </sp>
+        <stage>MILORD(entra dalla parte oppostae siede, al caffé)Caffé.</stage>
+        <stage>(il caffettiere scompare nell’interno.Di lì a un momento escono due garzoni,servendo il caffé ad entrambi)</stage>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Eh! non occorre!</l>
+          <l>Milordè avvezzo</l>
+          <l>a ber la cioccolata dalle dame!</l>
+        </sp>
+        <stage>(Milordscuote il capo e beve)Ma ne vogliamo bere più poche,Milordmio caro.</stage>
+        <stage>(Milord lo guarda brusco)Il vostro non rispondere è incivile.</stage>
+        <div type="scene">
+          <head>MILORD</head>(s’alza e si fa al centro della scena)Monsieur, venite qua.<sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>(s’alza e si fa al centro della scena)</l>
+            <l>Monsieur, venite qua.</l>
+          </sp>
+          <stage>MILORD(s’alza e si fa al centro della scena)Monsieur, venite qua.</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Con quale autorità?</l>
+          </sp>
+          <stage>(s’alza minaccioso)</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Dovete battervi.</l>
+          </sp>
+          <stage>(sfodera la spada)</stage>
+          <sp who="#conte">
+            <speaker>CONTE:</speaker>
+            <l>Son pronto.</l>
+          </sp>
+          <stage>(si fa di fronte a lui e sfodera la spada)</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>A noi!</l>
+          </sp>
+          <sp who="#conde">
+            <speaker>CONDE:</speaker>
+            <l>A noi!</l>
+          </sp>
+          <stage>(Si battono: il Conterestaferito ad un braccio)Eccovi i sangueVi basta?</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Sì.</l>
+          </sp>
+          <stage>(rinfodera la spada. Il Conterinfoderala spada e parte. Milordtorna sedersial caffé)</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Se costui un’altra volta osa me offendere</l>
+            <l>la sua ferita non sarà sanabile.</l>
+          </sp>
+          <stage>(Rosaura entra mascherata da inglesee da una riverenza a Milord, secondol’uso delle dame inglesi)Ma chi è questa maschera,abbigliata all’inglese?Quell’inchino grazioso fa conoscerech’è d’Inghilterra.</stage>
+          <stage>(Rosauras’accosta a Milordegli fa un altro inchino)Madama, molto compita.Volete caffé?</stage>
+          <stage>(Rosaurafa cenno di no)Cioccolata?</stage>
+          <stage>(Rosauracome sopra.)Ponce?</stage>
+          <stage>(Rosaurafa cenno di sì)</stage>
+          <stage>(A Rosaura)</stage>
+          <stage>(ai caffettieri)Portate ponce.</stage>
+          <stage>(avanza una sedia e fa sedereRosauraalla sua destra)Mi conoscete?</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Purtroppo.</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Che? Mi amate?</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Con tutto il cuore.</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Dove m’avete veduto?</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>In Londra.</l>
+          </sp>
+          <stage>(le portano il ponce ed essa lo beve)</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Vi amai?</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Non so.</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>V’amerò adesso.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>E Madama Rosaura?</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Nulla ho promesso.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Posso sperare?</l>
+            <l>Sarete mio?</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Ma chi siete?</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Stasera mi vedrete.</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Dove?</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>A una festa da ballo.</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Vi servirò.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>E Madama Rosaura?</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Cederà luogo ad una mia paesana.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Datemi un segno</l>
+            <l>per farmi conoscere.</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Quest’astuccio.</l>
+          </sp>
+          <stage>(le dà un astuccio d’oro)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Mi basta.</l>
+          </sp>
+          <stage>(s’alza)</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Volete partire?</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Sì.</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Vi scorterò.</l>
+          </sp>
+          <stage>(s’alza)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Se siete cavalier non mi seguite.</l>
+          </sp>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Vi obbedisco.</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Milord, addio.</l>
+          </sp>
+          <stage>(gli fa i solito inchino e parte)</stage>
+          <sp who="#milord">
+            <speaker>MILORD:</speaker>
+            <l>Che piacer fuor di paese</l>
+            <l>ritrovare una mia inglese…</l>
+            <l>Quegli inchini… quel parlare</l>
+            <l>senza mai superfluità…</l>
+            <l>Questa dama mi conosce,</l>
+            <l>m’ama molto e mi desidera…</l>
+            <l>S’essa è bella quanto amabile,</l>
+            <l>sarà lei la “preferabile”.</l>
+            <l>È Rosauraassai stimabile;</l>
+            <l>dama è questa ed è britannica:</l>
+            <l>due argomenti che mi stimolano</l>
+            <l>questa dama è preferir.</l>
+          </sp>
+          <stage>(parte)</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>(entra irritato)</l>
+            <l>MonsieurLe Bleau è fuggito:</l>
+            <l>ed io trasportato dall’ira,</l>
+            <l>non mi volsi a guardar se mi seguiva.</l>
+            <l>Da cavaliere</l>
+            <l>azion non è!</l>
+            <l>Lo cercherò,</l>
+            <l>lo troverò!</l>
+          </sp>
+          <stage>DON ALVARO(entra irritato)MonsieurLe Bleau è fuggito:ed io trasportato dall’ira,non mi volsi a guardar se mi seguiva.Da cavaliereazion non è!Lo cercherò,lo troverò!</stage>
+          <stage>(al caffettiere)Porta il caffé.</stage>
+          <stage>(siede imbronciato. Un garzone portaad Alvaro il caffé con alquanti biscottini)</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(s’avanza verso la bottega; osserva</l>
+            <l>l’apparecchio del caffé per Don Alvaro.</l>
+            <l>Fra sè)</l>
+            <l>Adesso xe el momento de refarme</l>
+          </sp>
+          <stage>ARLECCHINO(s’avanza verso la bottega; osserval’apparecchio del caffé per Don Alvaro.Fra sè)Adesso xe el momento de refarme</stage>
+          <stage>(s’avvicina a Don Alvaro)</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>(asciutto)</l>
+            <l>Buon giorno.</l>
+          </sp>
+          <stage>DON ALVARO(asciutto)Buon giorno.</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(guardandosi in giro come per</l>
+            <l>assicurarsi che nessuno lo senta,</l>
+            <l>con aria di mistero)</l>
+            <l>Donna Rosauram’ha mandà a ciamar.</l>
+          </sp>
+          <stage>ARLECCHINO(guardandosi in giro come perassicurarsi che nessuno lo senta,con aria di mistero)Donna Rosauram’ha mandà a ciamar.</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Oh! cara!… Dimmi…</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>L’era a tola, come lu a sto tavolin,</l>
+            <l>che la magnava… E tra pianti e sospiri…</l>
+          </sp>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Ebben?</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Ma me da la licenza</l>
+            <l>de gestir come ela?</l>
+          </sp>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Tutto ti accordo: tutto!</l>
+          </sp>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>Ben.</l>
+            <l>Essendo sul deser,</l>
+            <l>la prese un biscottin,</l>
+            <l>giusto sul desegno de questo…</l>
+          </sp>
+          <stage>(prende un biscottino)</stage>
+          <stage>(tuffa il biscottino nel caffè)e magnandolo delicatamente,in sta graziosa maniera…(mangia con calma il biscottino,mentre Don Alvaropende dalle suelabbra)</stage>
+          <stage>(ridendo, fugge)</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>(levandosi, inferocito)</l>
+            <l>Ah! Villano! Briccone! Fermatelo!</l>
+          </sp>
+          <stage>DON ALVARO(levandosi, inferocito)Ah! Villano! Briccone! Fermatelo!</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>(entra di dove è uscito Arlecchino)</l>
+            <l>Non m’ascrivete a mancanza…</l>
+          </sp>
+          <stage>MONSIEUR(entra di dove è uscito Arlecchino)Non m’ascrivete a mancanza…</stage>
+          <sp who="#don alvaro">
+            <speaker>DON ALVARO:</speaker>
+            <l>Giungi in tempo!</l>
+            <l>Pon mano alla spada!</l>
+          </sp>
+          <stage>(sfodera la spada)</stage>
+          <sp who="#monsieur">
+            <speaker>MONSIEUR:</speaker>
+            <l>Mia Rosaura! È per te questa vittima!</l>
+          </sp>
+          <stage>(sfodera la spada e si battono)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>(in maschera alla francese, entra in</l>
+            <l>mezzo ai due, li fa fermare e dice al</l>
+            <l>francese)</l>
+            <l>Ah! Monsieur, che fate?</l>
+          </sp>
+          <stage>ROSAURA(in maschera alla francese, entra inmezzo ai due, li fa fermare e dice alfrancese)Ah! Monsieur, che fate?</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>MONSIEUR</head>Mi batto, o bella,per la mia dama.<sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Mi batto, o bella,</l>
+          <l>per la mia dama.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>E volete rischiare la vita</l>
+          <l>per una donna italiana,</l>
+          <l>mentre tante francesi penano,</l>
+          <l>languono, muoiono</l>
+          <l>per gli occhi vostri?</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Ma io…</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Monsieur, cedetela</l>
+          <l>per una dama di Francia</l>
+          <l>che sospira per voi.</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>E chi è mai questa?</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Eccola ai vostri piedi.</l>
+        </sp>
+        <stage>(s’inginocchia)</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Alzatevi, tesoro,</l>
+          <l>che mi fate morire…</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Se m’amaste…</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>(s’inginocchia)</l>
+          <l>Ma v’amo!</l>
+        </sp>
+        <stage>MONSIEUR(s’inginocchia)Ma v’amo!</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Non sia vero ch’io m’alzi finché</l>
+          <l>non sia certa che m’ami, o Monsieur!</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Sì, mia cara, ti giuro d’amarti;</l>
+          <l>per la vita rimango ai tuoi piè!</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Combattete almen per altra bellezza!</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Per voi la lascerò!</l>
+        </sp>
+        <stage>(s’alza)</stage>
+        <stage>(s’accosta a Don Alvaro che era rimastogravemente ad attendere appoggiatoalla spalla)</stage>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Son cavalier. Servitevi.</l>
+        </sp>
+        <stage>(ripone la spada ed entra nel caffé)</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>(ritorna a Rosaurache s’è alzata)</l>
+          <l>Madama, cedo Rosaura.</l>
+          <l>Ma lasciate che il viso v’ammiri!</l>
+        </sp>
+        <stage>MONSIEUR(ritorna a Rosaurache s’è alzata)Madama, cedo Rosaura.Ma lasciate che il viso v’ammiri!</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Ahimé! non qui.</l>
+          <l>Voi restate ed io parto.</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Vi seguirò.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Se l’osate,</l>
+          <l>non mi vedrete mai più.</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Siete venuta per tormentarmi?</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Stasera mi vedrete.</l>
+          <l>Datemi un segno per farmi riconoscere.</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Ecco: una fiala d’acqua di rose.</l>
+        </sp>
+        <stage>(le dà una bottiglietta)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Oh! grazie!</l>
+          <l>grand merci!</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Dove, mia cara, potrò vederti?</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Sarete avvisato.</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>O ciel!</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>O stelle!</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Madama!</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>O Monsieur!</l>
+        </sp>
+        <sp who="#ambos">
+          <speaker>AMBOS:</speaker>
+          <l>Oh! partirsi!… che strazio nel cor…</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Ah!…</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Ah!…</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Ah!…</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Ah!…</l>
+        </sp>
+        <stage>(parte)</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>E non posso seguirla?</l>
+          <l>Mi è vietato vederla?…</l>
+          <l>Una francese</l>
+          <l>venuta a Venezia per me?</l>
+          <l>Non è ch’io non lo meriti,</l>
+          <l>ma fo fatica a crederlo.</l>
+          <l>Se fosse una nottambula</l>
+          <l>che m’ha pigliato in giro?</l>
+          <l>Ed io l’ho amata subito!</l>
+          <l>Ah! gran virtù del sesso!</l>
+          <l>No: troppo a precipizio</l>
+          <l>ho ceduto Rosaura.</l>
+          <l>Ah! no! Non voglio perderla!</l>
+          <l>Don Alvaro!</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>(facendosi avanti)</l>
+          <l>Monsieur.</l>
+        </sp>
+        <stage>DON ALVARO(facendosi avanti)Monsieur.</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Quella dama non s’è data a conoscere.</l>
+          <l>Alla cieca, Rosauranon cedo.</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>La cederete</l>
+          <l>vostro malgrado!</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Saprà difenderla il mio valore!</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>A noi!</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>A noi!</l>
+        </sp>
+        <stage>(Si battono)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(entra mascherata alla spagnola)</l>
+          <l>Cavalieri, arrestate!</l>
+        </sp>
+        <stage>ROSAURA(entra mascherata alla spagnola)Cavalieri, arrestate!</stage>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Una dama spagnola!</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Bella dama…</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(aggressiva e autoritaria)</l>
+          <l>Non vi conosco.</l>
+          <l>Io parlo a Don Alvarode Castiglia.</l>
+        </sp>
+        <stage>ROSAURA(aggressiva e autoritaria)Non vi conosco.Io parlo a Don Alvarode Castiglia.</stage>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Che richiedete</l>
+          <l>da un vostro servo?</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Far partire il francés.</l>
+          <l>Voglio parlarvi con libertad.</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>(a Monsieur)</l>
+          <l>Vorreste…  Cavaliere…?</l>
+        </sp>
+        <stage>DON ALVARO(a Monsieur)Vorreste…  Cavaliere…?</stage>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Capisco.</l>
+        </sp>
+        <stage>(si ritira)</stage>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Vi son grato.</l>
+        </sp>
+        <sp who="#monsieur">
+          <speaker>MONSIEUR:</speaker>
+          <l>Ed ecco che il secondo duello è terminato.</l>
+        </sp>
+        <stage>(parte)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(severa)</l>
+          <l>Don Alvaro, me stupisco</l>
+          <l>che a ludibrio delle Spagne,</l>
+          <l>insozziate il vostro sangre</l>
+          <l>con la figlia d’un mercante.</l>
+          <l>Non vi fa orror?</l>
+          <l>Don Alvaro, il blasón,</l>
+          <l>la patria, la nación</l>
+          <l>v’intiman pentirve;</l>
+          <l>e se ciò non vi scuote, o perduto,</l>
+          <l>un’incognita dama lo vuole;</l>
+          <l>che in suo segreto</l>
+          <l>degnando amarvi,</l>
+          <l>or di salvarvi si comandò…</l>
+        </sp>
+        <stage>ROSAURA(severa)Don Alvaro, me stupiscoche a ludibrio delle Spagne,insozziate il vostro sangrecon la figlia d’un mercante.Non vi fa orror?Don Alvaro, il blasón,la patria, la naciónv’intiman pentirve;e se ciò non vi scuote, o perduto,un’incognita dama lo vuole;che in suo segretodegnando amarvi,or di salvarvi si comandò…</stage>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Ohimè! son pieno</l>
+          <l>di confuzione…</l>
+          <l>Sì… questa voce</l>
+          <l>mi vien dal cielo…</l>
+          <l>Rosauraè bella,</l>
+          <l>ma non è nobile…</l>
+          <l>merita affetto…</l>
+          <l>ma non da me.</l>
+        </sp>
+        <stage>DON ALVARO(Fra sè)Ohimè! son pienodi confuzione…Sì… questa vocemi vien dal cielo…Rosauraè bella,ma non è nobile…merita affetto…ma non da me.</stage>
+        <stage>DuoROSAURA(dramaticamente)Vedo una madre…la vostra, Alvaronel pianto amarodel disonor…</stage>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Ah no! Fermate!</l>
+          <l>Mi comandate.</l>
+          <l>V’obbedirò.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Degno castigo al vostro vile affetto</l>
+          <l>sarà l’amarmi senza conoscermi.</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Ah! questo è troppo…</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>È poco al vostro crimine!</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>È vero, è giusto.</l>
+          <l>Sì, lo farò.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Dovete serbarmi fede</l>
+          <l>con l’incertezza del premio.</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Ohimé… voi mi fate tremare…</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>ROSAURA</head>Datemi un simbolo del nostro patto.<sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Datemi un simbolo del nostro patto.</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Questa mia tabacchiera.</l>
+        </sp>
+        <stage>(le dà una tabacchiera)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Don Alvaro, cominciate a piacermi.</l>
+          <l>Ci rivedrem!</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Lode al Cielo…</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Ci rivedremo.</l>
+        </sp>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Potessi almeno</l>
+          <l>saper chi siete.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Oh!… lo saprete:</l>
+          <l>e… stupirete.</l>
+        </sp>
+        <stage>(parte)</stage>
+        <sp who="#don alvaro">
+          <speaker>DON ALVARO:</speaker>
+          <l>Stavo precipitando…</l>
+          <l>Amore, amore!</l>
+          <l>Deità che mi salvò!</l>
+        </sp>
+        <stage>(parte)</stage>
+        <sp who="#ilconte">
+          <speaker>ILCONTE:</speaker>
+          <l>(entra con Arlecchino, come continuando</l>
+          <l>una conversazione iniziata fuori)</l>
+          <l>Che vai dicendo</l>
+          <l>che non t’intendo?</l>
+        </sp>
+        <stage>ILCONTE(entra con Arlecchino, come continuandouna conversazione iniziata fuori)Che vai dicendoche non t’intendo?</stage>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>(interrompendosi spesso</l>
+          <l>con scoppi di risa)</l>
+          <l>Digo cussì che la signora Rosaura</l>
+          <l>ha mandà a invidar la locanda</l>
+          <l>pel balo de stasera.</l>
+        </sp>
+        <stage>ARLECCHINO(interrompendosi spessocon scoppi di risa)Digo cussì che la signora Rosauraha mandà a invidar la locandapel balo de stasera.</stage>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Che diavolo dici?</l>
+          <l>Invitar la locanda?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Vogio dir… Sia maledetto!…</l>
+          <l>Una burla che ho fato a Don Alvaro</l>
+          <l>m’ha fato rider tanto che m’ingozzo…</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>E quale burla?</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Finzendo de portarghe un’ambassiada</l>
+          <l>De la siora Rosaura…</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Ah! Dunque Don Alvaro</l>
+          <l>ha accesso presso lei!</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Siòr sì: l’acesso, sto cesso…</l>
+          <l>e l’è invidà anca lu</l>
+          <l>al balo de la vèdoa.</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Lui sì! e io no!</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>Siòr sì, anca lu.</l>
+          <l>Xe questa l’ambassiada.</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Non vorrei ritrovar nei convitati</l>
+          <l>altrettanti rivali.</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>No ‘l dubita de gnente:</l>
+          <l>una dona de garbo</l>
+          <l>la sa sodisfar tuti</l>
+          <l>senza difficoltà.</l>
+        </sp>
+        <stage>(entra Rosaura mascherata con zendaloalla veneziana. Viene passeggiando conqualche caricatura, guardandovezzosamente il Conte, senza parlare)</stage>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Guarda, Arlecchino, come quella maschera</l>
+          <l>m’osserva attentamente.</l>
+        </sp>
+        <sp who="#arlecchino">
+          <speaker>ARLECCHINO:</speaker>
+          <l>In gamba siòr!</l>
+          <l>Perchè, a le volte,</l>
+          <l>se crede de trovar el sol d’agosto,</l>
+          <l>e se trova la luna de marzo!</l>
+        </sp>
+        <stage>(parte)</stage>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Ah… Ah…</l>
+          <l>E così, mascherina?</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(Rosaurasospira)</l>
+          <l>Ah….</l>
+        </sp>
+        <stage>ROSAURA(Rosaurasospira)Ah….</stage>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Sospirate?</l>
+          <l>Finzioni inutili,</l>
+          <l>cara, con me.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Voi m’offendete.</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Perdonate, signora:</l>
+          <l>così in maschera e sola,</l>
+          <l>v’avevo preso per qualche pedina.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Amore fa simili stravaganze.</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Siete innamorata di me?</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Purtroppo!</l>
+        </sp>
+        <sp who="#conde">
+          <speaker>CONDE:</speaker>
+          <l>Ed io niente di voi.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Se mi conosceste, non direste così.</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Foste anche la dea Venere</l>
+          <l>non v’amerei.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Perché?</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Il mio cuore è impegnato.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Con chi?</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Quella che adoro</l>
+          <l>è Madama Rosaura.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>La vedova?</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Sì, appunto.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Quale cattivo gusto!</l>
+          <l>Che ha di bello costei?</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Tutto. Mi piace. E basta.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Ah! Gli piace. E basta…</l>
+          <l>Ma io che sospiro per voi</l>
+          <l>non posso sperare pietà?</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Vi dissi che nulla potete sperare.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>E dunque partirò.</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Padronissima.</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Almeno lasciatemi un ricordo.</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Ma se non v’amo!</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Per piacere.</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Ho capito…</l>
+          <l>Se volete un mezzo ducato…</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Non m’importa del vostro danaro.</l>
+        </sp>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Dunque: che pretendete?</l>
+        </sp>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>Quel fazzoletto mi serve.</l>
+        </sp>
+        <stage>(gli leva il fazzoletto di mano)</stage>
+        <sp who="#conte">
+          <speaker>CONTE:</speaker>
+          <l>Potevate dirlo alla prima</l>
+          <l>che vi piaceva il mio fazzoletto.</l>
+        </sp>
+        <stage>(le fa un gesto di addio e parte)</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(lo segue per qualche passo, guardando</l>
+          <l>nella direzione in cui egli si era</l>
+          <l>allontanato.Quando si è ben assicurata</l>
+          <l>che sia scomparso, corre al proscenio,</l>
+          <l>si toglie la maschera e prorompe in</l>
+          <l>un’esclamazione di gioia)</l>
+          <l>Ah! ei m’ama davvero!… son felice…</l>
+        </sp>
+        <stage>ROSAURA(lo segue per qualche passo, guardandonella direzione in cui egli si eraallontanato.Quando si è ben assicuratache sia scomparso, corre al proscenio,si toglie la maschera e prorompe inun’esclamazione di gioia)Ah! ei m’ama davvero!… son felice…</stage>
+        <sp who="#marionette">
+          <speaker>MARIONETTE:</speaker>
+          <l>(entra e le si avvicina)</l>
+          <l>Che avete, signora,</l>
+          <l>che siete così contenta?</l>
+        </sp>
+        <stage>MARIONETTE(entra e le si avvicina)Che avete, signora,che siete così contenta?</stage>
+        <sp who="#rosaura">
+          <speaker>ROSAURA:</speaker>
+          <l>(l’abbraccia, non sa quasi</l>
+          <l>parlare, se la trascina via)</l>
+          <l>Presto! al ballo, presto!</l>
+        </sp>
+        <stage>ROSAURA(l’abbraccia, non sa quasiparlare, se la trascina via)Presto! al ballo, presto!</stage>
+        <stage>(partono)</stage>
+        <div type="scene">
+          <head>Scena Ultima</head>
+          <stage>(Sfilano davanti al siparietto d’argento,alla spicciolata,tipi e macchiette d’invitati,con i biglietti d’invito in mano)</stage>
+          <sp who="#invitati">
+            <speaker>INVITATI:</speaker>
+            <l>Nel palazzo di Rosaura</l>
+            <l>una festa straordinaria!</l>
+            <l>Da quest’ospite di spirito</l>
+            <l>grandi svaghi ci aspettiam.</l>
+            <l>Ah… danziam!</l>
+          </sp>
+          <stage>(S’alza il siparietto d’argento, ed appareun salone nel palazzo di Rosaura,sfarzosamente illuminato, con una scalain fondo, che conduce ad un piano rialzatoe ad una galleria. Il salone, è tutto unturbinio d’invitati mascherati in tutte lefogge. Il gruppo degli invitati che cantavasi va a confondere con gli altri)</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Vedrete che festa!</l>
+            <l>Vedrete che giubilo!</l>
+            <l>Rosauraprepara</l>
+            <l>una festa d’Arcadia!</l>
+          </sp>
+          <stage>(Frattanto, ricevuti da un vistosoMaggiordomo, sono entrati il Conte,Don Alvaro, Milorde Monsieur. Ad untratto, a capo della scalea, appaiono trepastori arcadici, che danno un segnalecon i loro istrumenti rustici. Poi appare,dalla stessa parte, Marionette, abbigliatada Eros, con le frecce e la faretra. Loseguono altre figure arcadiche, pastori,pastorelle e ninfe, una delle quali reca unricco cofanetto)</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>(fa cenno a tutti di tacere)</l>
+            <l>Silenzio! Mirate: son Eros, il Re!</l>
+          </sp>
+          <stage>MARIONETTE(fa cenno a tutti di tacere)Silenzio! Mirate: son Eros, il Re!</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Ah!</l>
+          </sp>
+          <stage>(Tutti ammutoliscono e fanno ala.Preceduta da altre tre figure mitologiche,appare Rosauraal sommo della scalea) (mentre le figure arcadiche danzano)</stage>
+          <stage>(Tocca Rosaura con una freccia.Rosaura scende e s’avanza al proscenio,seguita da Marionette e dal suo corteo.Monsieure Don Alvaro, uno di qua el’altro di là, baciano contemporaneamentelemani di osaura, chinando un ginocchioa terra, mentre il Conte e Milord, uno adestra e l’altro a sinistra, s’inchinanoprofondamente)</stage>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>Signori miei, vò farvi un discorsetto.</l>
+            <l>Giacché sceglier lo sposo è cosa seria,</l>
+            <l>voglio sceglierlo in pubblico.</l>
+          </sp>
+          <stage>(moto di sorpresa del coro)</stage>
+          <stage>(si volge a Milord)</stage>
+          <stage>(Marionette toglie dallo scrignetto,che la linfa sorregge tra le mani,l’astuccio di Milord, e lo porge aRosaura, che lo rende all’inglese.Questi si ritrae, confuso)</stage>
+          <stage>(Marionette con la stessa azione diprima, le porge la boccetta, ed ella larende a Monsieur, che si ritrae comevenendo meno. Marionette gli fa ventocol fazzoletto)</stage>
+          <stage>(Marionette con la medesima azione dipoc’anzi, le porge la tabacchiera.Ella la rende a Don Alvaroche si ritraescornato)</stage>
+          <sp who="#marionette">
+            <speaker>MARIONETTE:</speaker>
+            <l>Ah… Signora son felice!</l>
+            <l>Sposa sua sarà!</l>
+          </sp>
+          <sp who="#invitati">
+            <speaker>INVITATI:</speaker>
+            <l>Sposa sua sarà!</l>
+          </sp>
+          <sp who="#conde">
+            <speaker>CONDE:</speaker>
+            <l>O me felice!</l>
+            <l>Rosaura, idol mio.</l>
+          </sp>
+          <sp who="#don alvaro, milord, monsieur">
+            <speaker>DON ALVARO, MILORD, MONSIEUR:</speaker>
+            <l>(avanzandosi, avviliti)</l>
+            <l>Ma noi, dunque,</l>
+            <l>siam proprio senza meriti?</l>
+          </sp>
+          <stage>DON ALVARO, MILORD, MONSIEUR(avanzandosi, avviliti)Ma noi, dunque,siam proprio senza meriti?</stage>
+          <sp who="#conde">
+            <speaker>CONDE:</speaker>
+            <l>Eh! che volete!</l>
+            <l>M’ha scelto il Cielo!</l>
+          </sp>
+          <sp who="#rosaura">
+            <speaker>ROSAURA:</speaker>
+            <l>(chiudendosi con grazia la bocca)</l>
+            <l>Adagio, Conte, adagio…</l>
+            <l>No e – no e</l>
+            <l>che gnanca lu no ‘l gabia i so difeti.</l>
+          </sp>
+          <stage>ROSAURA(chiudendosi con grazia la bocca)Adagio, Conte, adagio…No e – no eche gnanca lu no ‘l gabia i so difeti.</stage>
+          <stage>(Fra sè)</stage>
+          <stage>(Forte)</stage>
+          <stage>(Monsieur, pigliando la palla al balzo,si slancia al proscenio, e si volge alpubblico, subito imitato da Marionette,Milorde Don Alvaro)</stage>
+          <sp who="#monsieur, marionette">
+            <speaker>MONSIEUR, MARIONETTE:</speaker>
+            <l>MILORD, DON ALVARO</l>
+            <l>No xe – no xe</l>
+            <l>che gnanca lu no ‘l gabia i so difeti…</l>
+          </sp>
+          <stage>(s’aggiunge loro anche i coro)</stage>
+          <sp who="#arlecchino">
+            <speaker>ARLECCHINO:</speaker>
+            <l>(improvvisamente sbuca a traverso il</l>
+            <l>coro e i solisti, s’avanza fino alla buca</l>
+            <l>del suggeritore, e dice al pubblico)</l>
+            <l>No xe –</l>
+            <l>no xe</l>
+            <l>che l’opera la sia senza difeti…</l>
+            <l>Ma l’amor de Goldoni</l>
+            <l>el xe una roba granda:</l>
+            <l>e zà –</l>
+            <l>e sa –</l>
+            <l>al cuor no se comanda!</l>
+          </sp>
+          <stage>ARLECCHINO(improvvisamente sbuca a traverso ilcoro e i solisti, s’avanza fino alla bucadel suggeritore, e dice al pubblico)No xe –no xeche l’opera la sia senza difeti…Ma l’amor de Goldoniel xe una roba granda:e zà –e sa –al cuor no se comanda!</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Al cuor no se comanda!</l>
+          </sp>
+          <stage>(salutano il pubblico,ballano, e cala il sipario)</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

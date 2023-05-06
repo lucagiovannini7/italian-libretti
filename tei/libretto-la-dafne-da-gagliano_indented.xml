@@ -1,0 +1,874 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">a Dafne</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="pastore del coro (iii) e coro">
+            <persName>PASTORE DEL CORO (III) E CORO:</persName>
+          </person>
+          <person xml:id="altro pastore (ii)">
+            <persName>ALTRO PASTORE (II):</persName>
+          </person>
+          <person xml:id="tirsi">
+            <persName>TIRSI:</persName>
+          </person>
+          <person xml:id="pastore del coro (iii)">
+            <persName>PASTORE DEL CORO (III):</persName>
+          </person>
+          <person xml:id="scena iii">
+            <persName>SCENA III:</persName>
+          </person>
+          <person xml:id="ninfa del coro (ii)">
+            <persName>NINFA DEL CORO (II):</persName>
+          </person>
+          <person xml:id="scena iv">
+            <persName>SCENA IV:</persName>
+          </person>
+          <person xml:id="scena i">
+            <persName>SCENA I:</persName>
+          </person>
+          <person xml:id="amore">
+            <persName>AMORE:</persName>
+          </person>
+          <person xml:id="pastore del coro (i) e coro">
+            <persName>PASTORE DEL CORO (I) E CORO:</persName>
+          </person>
+          <person xml:id="ninfa del coro (i)">
+            <persName>NINFA DEL CORO (I):</persName>
+          </person>
+          <person xml:id="scena ii">
+            <persName>SCENA II:</persName>
+          </person>
+          <person xml:id="scena vi">
+            <persName>SCENA VI:</persName>
+          </person>
+          <person xml:id="altro pastore del coro (ii)">
+            <persName>ALTRO PASTORE DEL CORO (II):</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="scena v">
+            <persName>SCENA V:</persName>
+          </person>
+          <person xml:id="ovidio">
+            <persName>OVIDIO:</persName>
+          </person>
+          <person xml:id="venere">
+            <persName>VENERE:</persName>
+          </person>
+          <person xml:id="tirsi e coro">
+            <persName>TIRSI E CORO:</persName>
+          </person>
+          <person xml:id="dafne">
+            <persName>DAFNE:</persName>
+          </person>
+          <person xml:id="pastore del coro (i)">
+            <persName>PASTORE DEL CORO (I):</persName>
+          </person>
+          <person xml:id="apollo">
+            <persName>APOLLO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#ovidio">
+        <speaker>OVIDIO:</speaker>
+        <l>Da’ fortunati campi, ove immortali</l>
+        <l>godonsi a l’ombra de’ frondosi mirti</l>
+        <l>i graditi dal ciel felici spirti,</l>
+        <l>mostromi in questa notte a voi, mortali.</l>
+      </sp>
+      <div type="scene">
+        <head>SCENA I</head>
+        <sp who="#scena i">
+          <speaker>SCENA I:</speaker>
+        </sp>
+        <sp who="#pastore del coro (i)">
+          <speaker>PASTORE DEL CORO (I):</speaker>
+          <l>Tra queste ombre segrete</l>
+          <l>s’inselva e si nasconde</l>
+          <l>l’orrida belva: cauti il pié muovete,</l>
+          <l>Ninfe e Pastori; ah, non scotete fronda.</l>
+        </sp>
+        <sp who="#altro pastore del coro (ii)">
+          <speaker>ALTRO PASTORE DEL CORO (II):</speaker>
+          <l>Dunque senza timor, senza spavento,</l>
+          <l>pe’ nostri dolci campi</l>
+          <l>non guiderem mai più gregge od armento?</l>
+        </sp>
+        <sp who="#ninfa del coro (i)">
+          <speaker>NINFA DEL CORO (I):</speaker>
+          <l>E quando mai per queste piagge e quelle</l>
+          <l>fronda corremo o fiore,</l>
+          <l>misere verginelle;</l>
+          <l>che di terror non ci si agghiacci ‘l core?</l>
+        </sp>
+        <sp who="#tirsi">
+          <speaker>TIRSI:</speaker>
+          <l>Giove immortai, che tra baleni e lampi</l>
+          <l>scoti la terra e ‘I cielo,</l>
+          <l>mandane o fiamma o telo</l>
+          <l>che da mostro sì rio n’affidi e scampi.</l>
+        </sp>
+        <sp who="#pastore del coro (iii)">
+          <speaker>PASTORE DEL CORO (III):</speaker>
+          <l>Mira dal Ciel, deh mira:</l>
+          <l>nudi di fronde omai questi arboscelli,</l>
+          <l>pallide l’erbe e torridi i ruscelli;</l>
+          <l>mira dal Ciel, deh mira:</l>
+          <l>tra lagrime e lamenti</l>
+          <l>tender le palme al cielo</l>
+          <l>sconsolati pastor, ninfe innocenti.</l>
+        </sp>
+        <sp who="#pastore del coro (i) e coro">
+          <speaker>PASTORE DEL CORO (I) E CORO:</speaker>
+          <l>Se lassù tra gli aurei chiostri</l>
+          <l>puote un cor trovar mercè,</l>
+          <l>odi il pianto e i preghi nostri,</l>
+          <l>o del Ciel monarca e re.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Se a ferir la turba altera</l>
+          <l>che sovr’Ossa Olimpo alzò,</l>
+          <l>d’atro foco ira severa</l>
+          <l>tra le nubi il Cielo armò.</l>
+          <l>Si replica «Odi il pianto»</l>
+        </sp>
+        <stage>COROSe a ferir la turba alterache sovr’Ossa Olimpo alzò,d’atro foco ira severatra le nubi il Cielo armò.Si replica «Odi il pianto»</stage>
+        <stage>De la destra onnipotentenon vil pregio ancor saràsterminar crudo serpenteche struggendo il mondo va.Si replica «Odi il pianto»</stage>
+      </div>
+    </body>
+    <div type="act">
+      <head>PASTORE DEL CORO (III) E CORO</head>Pera, pera il rio veleno,non attoschi il mondo più;verde il prato e ‘I ciel serenotorni omai, torni qual fu.Si replica «Odi il pianto» «S’inginocchino»<sp who="#pastore del coro (iii) e coro">
+        <speaker>PASTORE DEL CORO (III) E CORO:</speaker>
+        <l>Pera, pera il rio veleno,</l>
+        <l>non attoschi il mondo più;</l>
+        <l>verde il prato e ‘I ciel sereno</l>
+        <l>torni omai, torni qual fu.</l>
+        <l>Si replica «Odi il pianto» «S’inginocchino»</l>
+      </sp>
+      <stage>PASTORE DEL CORO (III) E COROPera, pera il rio veleno,non attoschi il mondo più;verde il prato e ‘I ciel serenotorni omai, torni qual fu.Si replica «Odi il pianto» «S’inginocchino»</stage>
+      <sp who="#altro pastore (ii)">
+        <speaker>ALTRO PASTORE (II):</speaker>
+        <l>Ma dove oggi trarrem tranquilla un’ora</l>
+        <l>senza temer l’abominevol tosco?</l>
+      </sp>
+      <sp who="#pastore del coro (i)">
+        <speaker>PASTORE DEL CORO (I):</speaker>
+        <l>Ebra di sangue in questo oscuro bosco</l>
+        <l>giacea pur dinanzi la terribil fera.</l>
+        <l>Eco: Era.</l>
+      </sp>
+      <stage>PASTORE DEL CORO (I)Ebra di sangue in questo oscuro boscogiacea pur dinanzi la terribil fera.Eco: Era.</stage>
+    </div>
+    <div type="act">
+      <head>ALTRO PASTORE (II)</head>Dunque più non attoscanostre belle campagne? altrove è gita?Eco: Ita.<sp who="#altro pastore (ii)">
+        <speaker>ALTRO PASTORE (II):</speaker>
+        <l>Dunque più non attosca</l>
+        <l>nostre belle campagne? altrove è gita?</l>
+        <l>Eco: Ita.</l>
+      </sp>
+      <stage>ALTRO PASTORE (II)Dunque più non attoscanostre belle campagne? altrove è gita?Eco: Ita.</stage>
+      <sp who="#pastore del coro (i)">
+        <speaker>PASTORE DEL CORO (I):</speaker>
+        <l>Farà ritorno più per questi poggi?</l>
+        <l>Eco: Oggi.</l>
+      </sp>
+      <stage>PASTORE DEL CORO (I)Farà ritorno più per questi poggi?Eco: Oggi.</stage>
+      <sp who="#altro pastore (ii)">
+        <speaker>ALTRO PASTORE (II):</speaker>
+        <l>Oimè! che n’assecura</l>
+        <l>s’oggi tornar pur deve il mostro rio?</l>
+        <l>Eco: Io.</l>
+      </sp>
+      <stage>ALTRO PASTORE (II)Oimè! che n’assecuras’oggi tornar pur deve il mostro rio?Eco: Io.</stage>
+      <sp who="#tirsi">
+        <speaker>TIRSI:</speaker>
+        <l>Chi sei tu, che n’affidi e ne console?</l>
+        <l>Eco: Sole.</l>
+      </sp>
+      <stage>TIRSIChi sei tu, che n’affidi e ne console?Eco: Sole.</stage>
+      <sp who="#pastore del coro (i)">
+        <speaker>PASTORE DEL CORO (I):</speaker>
+        <l>Il Sol tu sei? tu sei di Delo il Dio?</l>
+        <l>Eco: Dio.</l>
+      </sp>
+      <stage>PASTORE DEL CORO (I)Il Sol tu sei? tu sei di Delo il Dio?Eco: Dio.</stage>
+      <sp who="#tirsi">
+        <speaker>TIRSI:</speaker>
+        <l>Hai l’arco teco ferirlo, Apollo?</l>
+        <l>Eco: Hollo.</l>
+      </sp>
+      <stage>TIRSIHai l’arco teco ferirlo, Apollo?Eco: Hollo.</stage>
+      <sp who="#tirsi e coro">
+        <speaker>TIRSI E CORO:</speaker>
+        <l>S’hai l’arco tuo, saetta infin che mora</l>
+        <l>questo mostro crudel che ne divora.</l>
+        <l>Eco: Ora.</l>
+        <l>(Qui Apollo mette mano a l’arco e saetta il Fitone).</l>
+      </sp>
+      <stage>TIRSI E COROS’hai l’arco tuo, saetta infin che moraquesto mostro crudel che ne divora.Eco: Ora.(Qui Apollo mette mano a l’arco e saetta il Fitone).</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Oimè che veggio! o Divo, o Nume eterno,</l>
+        <l>ecco l’orribile angue:</l>
+        <l>spenga forza del Ciel mostro d’inferno.</l>
+        <l>O benedetto stral! mirate il sangue!</l>
+        <l>O glorioso arciero!</l>
+        <l>Ah, mostro fero, ancor non cadi esangue?</l>
+        <l>Arma di nuovo stral l’arco possente.</l>
+        <l>Vola, vola pungente;</l>
+        <l>(qui il Fitone si parte e Apollo lo seguita verso la strada)</l>
+        <l>spezza l’orrido tergo,</l>
+        <l>giungilo al cor dove ha la vita albergo.</l>
+        <l>(seguitano Apollo)</l>
+      </sp>
+      <stage>COROOimè che veggio! o Divo, o Nume eterno,ecco l’orribile angue:spenga forza del Ciel mostro d’inferno.O benedetto stral! mirate il sangue!O glorioso arciero!Ah, mostro fero, ancor non cadi esangue?Arma di nuovo stral l’arco possente.Vola, vola pungente;(qui il Fitone si parte e Apollo lo seguita verso la strada)spezza l’orrido tergo,giungilo al cor dove ha la vita albergo.(seguitano Apollo)</stage>
+      <sp who="#apollo">
+        <speaker>APOLLO:</speaker>
+        <l>Poi giacque estinto al fine</l>
+        <l>in su ‘l terren sanguigno</l>
+        <l>da l’invitt’arco mio l’angue maligno.</l>
+        <l>Securi itene al bosco,</l>
+        <l>Ninfe e Pastori, ite securi al prato:</l>
+        <l>non più fiamma e tosco</l>
+        <l>infetta ‘l puro ciel l’orribil fiato.</l>
+        <l>Tornin le belle rose</l>
+        <l>ne le guancie amorose;</l>
+        <l>torni tranquillo il cor; sereno ‘l volto:</l>
+        <l>io l’alma e ‘l fiato al crudo serpe ho tolto.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Almo Dio, che ‘l carro ardente</l>
+        <l>per lo ciel volgendo intorno</l>
+        <l>vesti ‘l dì d’un aureo manto,</l>
+        <l>se tra l’ombra orrida algente</l>
+        <l>splende il ciel di lume adorno,</l>
+        <l>pur tua la gloria e ‘l vanto.</l>
+      </sp>
+      <div type="scene">
+        <head>SCENA II</head>
+        <sp who="#scena ii">
+          <speaker>SCENA II:</speaker>
+        </sp>
+        <sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>Che tu vadia cercando o giglio o rosa</l>
+          <l>per infiorarti i crini,</l>
+          <l>non ti vo’ creder, no, madre vezzosa.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Che cerco dunque, o figlio?</l>
+        </sp>
+        <sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>Rosa non già, né giglio:</l>
+          <l>cerchi d’Adone, o d’altro vie più bello</l>
+          <l>leggiadro pastorello.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Ah tristo, tristo! Ecco ‘I signor di Delo:</l>
+          <l>pe’ boschi oggi se ‘n van gli dèi del cielo.</l>
+        </sp>
+        <sp who="#apollo">
+          <speaker>APOLLO:</speaker>
+          <l>Dimmi, possente arciere,</l>
+          <l>qual fera attendi o qual serpente al varco</l>
+          <l>c’hai la faretra e l’arco?</l>
+        </sp>
+        <sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>Se da quest’arco mio</l>
+          <l>non fu Pitone ucciso,</l>
+          <l>arcier non son però degno di riso,</l>
+          <l>e son del cielo, Apollo, un nume anch’io.</l>
+        </sp>
+        <sp who="#apollo">
+          <speaker>APOLLO:</speaker>
+          <l>Sollo; ma quando scocchi</l>
+          <l>l’arco, sbendi tu gli occhi</l>
+          <l>o ferisci a l’oscuro, arciero esperto?</l>
+        </sp>
+        <sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>S’hai di saper desìo</l>
+          <l>d’un cieco arcier le prove,</l>
+          <l>chiedilo al Re de l’onde,</l>
+          <l>chiedilo in cielo a Giove.</l>
+          <l>E tra l’ombre profonde</l>
+          <l>del Regno orrido oscuro</l>
+          <l>chiedi, chiedi a Pluton, s’ei fu sicuro!</l>
+        </sp>
+        <sp who="#apollo">
+          <speaker>APOLLO:</speaker>
+          <l>Se in cielo, in mare, in terra</l>
+          <l>amor trionfi in guerra</l>
+          <l>dove dove m’ascondo?</l>
+          <l>Chi novo ciel m’insegna, o novo mondo?</l>
+        </sp>
+        <sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>So ben, che non paventi</l>
+          <l>la forza d’un fanciullo,</l>
+          <l>saettator di mostri e di serpenti:</l>
+          <l>ma, prendi pur di me giuoco e trastullo!</l>
+        </sp>
+        <sp who="#apollo">
+          <speaker>APOLLO:</speaker>
+          <l>Ah, tu t’adiri a torto:</l>
+          <l>o mi perdona, Amore,</l>
+          <l>o, se mi vuoi ferir, risparmia ‘I core.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Vedrai, che grave risco è scherzar seco,</l>
+          <l>bench’ei sia pargoletto, ignudo e cieco.</l>
+        </sp>
+        <sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>Se in quel superbo core</l>
+          <l>non fo piaga mortale,</l>
+          <l>più tuo figlio non son, non sono Amore.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Amato pargoletto,</l>
+          <l>come giust’ira e sdegno</l>
+          <l>oggi t’infiamma il petto,</l>
+          <l>sì spero al nostro regno</l>
+          <l>veder l’altero Dio servo e suggetto.</l>
+        </sp>
+        <sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>Non avrò posa mai, non avrò pace</l>
+          <l>fin ch’io no’l vegga lagrimar ferito</l>
+          <l>da quest’arco schernito.</l>
+          <l>Madre, ben mi dispiace</l>
+          <l>di lasciarti soletta,</l>
+          <l>ma toglie assai d’onor tarda vendetta.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Vanne pur lieto, o figlio;</l>
+          <l>lieta rimango anch’io,</l>
+          <l>che troppo è gran periglio</l>
+          <l>averti irato a canto:</l>
+          <l>per queste selve intanto</l>
+          <l>farò dolce soggiorno;</l>
+          <l>poscia faremo insieme al ciel ritorno.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Nudo Arcier, che l’arco tendi</l>
+          <l>che, velat’ambe le ciglia,</l>
+          <l>ammirabil meraviglia!</l>
+          <l>Mortalmente i cori offendi,</l>
+          <l>se così t’infiammi e ‘ncendi</l>
+          <l>verso un Dio, quai saran poi</l>
+          <l>sovra noi gli sdegni tuoi?</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENA III</head>
+        <sp who="#scena iii">
+          <speaker>SCENA III:</speaker>
+        </sp>
+        <sp who="#dafne">
+          <speaker>DAFNE:</speaker>
+          <l>Per queste piante ombrose</l>
+          <l>scorgimi, Cintia, tu selvaggio Nume,</l>
+          <l>dove fuggì la fera, ove s’ascose.</l>
+        </sp>
+        <sp who="#pastore del coro (iii)">
+          <speaker>PASTORE DEL CORO (III):</speaker>
+          <l>Ecco il pregio, ecco il sol di queste selve,</l>
+          <l>ecco la bella Dafne</l>
+          <l>che al suon de l’arco fa tremar le belve.</l>
+        </sp>
+        <sp who="#altro pastore (ii)">
+          <speaker>ALTRO PASTORE (II):</speaker>
+          <l>Cacciatrice gentil, che col bel ciglio</l>
+          <l>splendor raddoppi a questo di sereno,</l>
+          <l>spento è il crudo Fiton: mira il terreno</l>
+          <l>de l’empio sangue ancor caldo e vermiglio.</l>
+        </sp>
+        <sp who="#dafne">
+          <speaker>DAFNE:</speaker>
+          <l>Dolcissima novella! E qual si forte</l>
+          <l>avventurosa mano</l>
+          <l>lasciato ha il mostro rio preda di morte?</l>
+        </sp>
+        <sp who="#pastore del coro (i)">
+          <speaker>PASTORE DEL CORO (I):</speaker>
+          <l>Febo, che su ne l’alto</l>
+          <l>rota la face onde s’aggiorna il mondo,</l>
+          <l>spènselo alfin dopo un mortale assalto.</l>
+          <l>Deh, come fu giocondo</l>
+          <l>mirar quel Divo, in un feroce e vago,</l>
+          <l>moversi incontro al formidabil drago!</l>
+          <l>Or minaccioso a fronte</l>
+          <l>stàvagli ardito, or sovra il piè leggiero</l>
+          <l>de l’immenso animai scherma la rabbia</l>
+          <l>che da l’accese labbia</l>
+          <l>fremendo invan spargea fiamma e veleno.</l>
+          <l>Sovra la belva atroce</l>
+          <l>fermo tenea talor lo sguardo intento,</l>
+          <l>hor movea tardo e lento,</l>
+          <l>or rapido, or veloce</l>
+          <l>pur come avesse ne le piante il vento.</l>
+          <l>Né mai felice arciera</l>
+          <l>spinse da l’arco strale.</l>
+        </sp>
+        <sp who="#dafne">
+          <speaker>DAFNE:</speaker>
+          <l>O di celeste eroe ben degni vanti!</l>
+          <l>Felicissimo giorno! Al suono, a’ balli</l>
+          <l>tornate omai, pastor,</l>
+          <l>tornate a’ canti.</l>
+          <l>Vie più sicura anch’io per monti e valli</l>
+          <l>saettando n’andrò le fere erranti.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ogni ninfa in doglie e ‘n pianti</l>
+          <l>posto avea per sua bellezza,</l>
+          <l>ma del cor l’aspra durezza</l>
+          <l>non piegar l’afflitte amanti:</l>
+          <l>quelle voci e quei sembianti</l>
+          <l>ch’avrian mosso un cor di fera,</l>
+          <l>schernia pur quell’alma altera.</l>
+        </sp>
+        <sp who="#apollo">
+          <speaker>APOLLO:</speaker>
+          <l>(Dalla via)</l>
+          <l>Deh come lieto in queste piagge io torno,</l>
+          <l>piagge dilette e care</l>
+          <l>ove colsi d’amor palme si chiare!</l>
+          <l>Ma, deh, che miro! e qual d’un ciglio adorno</l>
+          <l>spira lume gentil che al cor mi giunge!</l>
+        </sp>
+        <stage>APOLLO(Dalla via)Deh come lieto in queste piagge io torno,piagge dilette e careove colsi d’amor palme si chiare!Ma, deh, che miro! e qual d’un ciglio adornospira lume gentil che al cor mi giunge!</stage>
+        <sp who="#dafne">
+          <speaker>DAFNE:</speaker>
+          <l>Certo non molto lunge,</l>
+          <l>se non m’ingannan l’orme, è damma o cervo.</l>
+          <l>Or vedrò se ‘I mio strai va dritto e punge.</l>
+        </sp>
+        <sp who="#apollo">
+          <speaker>APOLLO:</speaker>
+          <l>Ah, ben sent’io se son pungenti i dardi</l>
+          <l>de’ tuoi soavi sguardi!</l>
+        </sp>
+        <sp who="#pastore del coro (iii)">
+          <speaker>PASTORE DEL CORO (III):</speaker>
+          <l>Ben a ragion s’apprezza,</l>
+          <l>se ne sospira un Dio, l’alta bellezza.</l>
+        </sp>
+        <sp who="#apollo">
+          <speaker>APOLLO:</speaker>
+          <l>Dimmi, qual tu ti sei,</l>
+          <l>o ninfa o dèa, che tale</l>
+          <l>rassembri a gli occhi miei,</l>
+          <l>che cerchi armata di faretra e strale?</l>
+        </sp>
+        <sp who="#dafne">
+          <speaker>DAFNE:</speaker>
+          <l>Seguendo io me ne giva,</l>
+          <l>sì come è l’uso mio, fugace fera;</l>
+          <l>e son donna mortai, non del ciel diva.</l>
+        </sp>
+        <sp who="#apollo">
+          <speaker>APOLLO:</speaker>
+          <l>Se cotal luce splende In bellezza mortale,</l>
+          <l>del ciel più non mi cale.</l>
+        </sp>
+        <sp who="#dafne">
+          <speaker>DAFNE:</speaker>
+          <l>Dove mi volgo? Dove</l>
+          <l>moverò ‘I passo che la fera trove?</l>
+        </sp>
+        <sp who="#apollo">
+          <speaker>APOLLO:</speaker>
+          <l>Senza che dardo avventi o l’arco scocchi</l>
+          <l>valli cercando o monti,</l>
+          <l>far nobil preda puoi co’ tuoi begli occhi.</l>
+        </sp>
+        <sp who="#dafne">
+          <speaker>DAFNE:</speaker>
+          <l>Altra preda non bramo, altro diletto</l>
+          <l>che fere e selve; e son contenta e lieta</l>
+          <l>se damma errante o fer cignal saetto.</l>
+        </sp>
+        <sp who="#apollo">
+          <speaker>APOLLO:</speaker>
+          <l>Ah, che non sol di fere</l>
+          <l>saettatrice sei,</l>
+          <l>ma contro a gli alti Iddei</l>
+          <l>saette aventi da le luci altere.</l>
+        </sp>
+        <sp who="#dafne">
+          <speaker>DAFNE:</speaker>
+          <l>Del ciel gli eterni Numi</l>
+          <l>umile onoro e còlo,</l>
+          <l>e per le selve solo</l>
+          <l>pongo su l’arco i dardi:</l>
+          <l>ma tu per giuoco il mio cammin ritardi.</l>
+        </sp>
+        <sp who="#apollo">
+          <speaker>APOLLO:</speaker>
+          <l>Deh non sdegnar che teco</l>
+          <l>prenda ne’ boschi anch’io dolce diletto;</l>
+          <l>anch’io so tender l’arco, anch’io saetto.</l>
+          <l>E qui pur dianzi insanguinato ha l’erba,</l>
+          <l>trofeo di questa man, belva superba.</l>
+        </sp>
+        <sp who="#dafne">
+          <speaker>DAFNE:</speaker>
+          <l>Serva di Cintia, altri che l’arco mio</l>
+          <l>meco non voglio. Invïolabil legge</l>
+          <l>vuoi ch’io recusi per compagno un Dio.</l>
+        </sp>
+        <sp who="#apollo">
+          <speaker>APOLLO:</speaker>
+          <l>Ohimè! Non tanta fretta:</l>
+          <l>aspetta, Ninfa, aspetta.</l>
+        </sp>
+        <sp who="#tirsi">
+          <speaker>TIRSI:</speaker>
+          <l>Oh come ratta fugge! Ed è già lunge.</l>
+          <l>Veder vo’ s’ei la giunge.</l>
+        </sp>
+        <sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>Ve’ che ti giunsi al varco:</l>
+          <l>oh impara a disprezzar l’etate e l’arco!</l>
+        </sp>
+        <sp who="#pastore del coro (iii)">
+          <speaker>PASTORE DEL CORO (III):</speaker>
+          <l>Qui Fiton giacque estinto,</l>
+          <l>trofeo d’Apollo; e qui trafitto il cuore</l>
+          <l>pianse il gran vincitor, trofeo d’Amore.</l>
+        </sp>
+        <sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>Or su de l’alto cielo</l>
+          <l>mirin gli eterni Dei</l>
+          <l>le glorie e i vanti miei;</l>
+          <l>e voi quaggiù, mortali,</l>
+          <l>celebrate il valor de gli aurei strali.</l>
+        </sp>
+        <sp who="#pastore del coro (i)">
+          <speaker>PASTORE DEL CORO (I):</speaker>
+          <l>Altri celebri e canti,</l>
+          <l>trofei del sommo Giove,</l>
+          <l>le fulminate moli e i rei Giganti:</l>
+          <l>io canterò d’Amor l’inclite prove.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Una al pianto in abbandono</l>
+          <l>lagrimando uscì di vita,</l>
+          <l>che fu poi per gli antri udita</l>
+          <l>rimbombar, nud’ombra e suono:</l>
+          <l>or qui più non ha perdono,</l>
+          <l>più non soffre Amor irato</l>
+          <l>l’impietà del core ingrato.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENA IV</head>
+        <sp who="#scena iv">
+          <speaker>SCENA IV:</speaker>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>AMORE</head>Qual de’ mortali o de’ celesti a schernopiù recherassi Amore?Ah bella, ah fera,benché fasciato gli occhi, io ben scernoridi, ridi pur lieta, anima altera,vanne fastosa pur, vanne superbade le lagrime altrui, di tua bellezza.Ma quest’armi pungenti,quest’arco e queste piumerimira, e ti rammentiche fatto ho sospirar del cielo un Nume.<sp who="#amore">
+        <speaker>AMORE:</speaker>
+        <l>Qual de’ mortali o de’ celesti a scherno</l>
+        <l>più recherassi Amore?</l>
+        <l>Ah bella, ah fera,</l>
+        <l>benché fasciato gli occhi, io ben scerno</l>
+        <l>ridi, ridi pur lieta, anima altera,</l>
+        <l>vanne fastosa pur, vanne superba</l>
+        <l>de le lagrime altrui, di tua bellezza.</l>
+        <l>Ma quest’armi pungenti,</l>
+        <l>quest’arco e queste piume</l>
+        <l>rimira, e ti rammenti</l>
+        <l>che fatto ho sospirar del cielo un Nume.</l>
+      </sp>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Figlio, dolce diletto</l>
+        <l>del cor, de gli occhi miei,</l>
+        <l>come sì lieto e baldanzoso sei?</l>
+        <l>Dillo, bel pargoletto,</l>
+        <l>dimmelo, Amor, che anch’io</l>
+        <l>senta le gioie tue dentr’al cor mio.</l>
+      </sp>
+      <sp who="#amore">
+        <speaker>AMORE:</speaker>
+        <l>Madre, di gemme e d’oro</l>
+        <l>un bel carro m’appresta;</l>
+        <l>ponmi su l’aurea testa</l>
+        <l>nobil fregio d’onor, cerchio frondoso;</l>
+        <l>vegganmi oggi gli Dei de l’alto cielo</l>
+        <l>trionfator pomposo.</l>
+        <l>Quel Dio, ch’intorno gira iI carro luminoso,</l>
+        <l>vinto da l’arco mio piange e sospira.</l>
+      </sp>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Qual degl’lddei del cielo</l>
+        <l>de la faretra invitta</l>
+        <l>non sentì dentr’al cor pungente telo?</l>
+        <l>lo, che madre ti sono, ahi quanto, ahi quanto</l>
+        <l>iI molle sen trafitta,</l>
+        <l>e ‘n ciel e in terra ho lagrimato e pianto!</l>
+      </sp>
+      <sp who="#amore">
+        <speaker>AMORE:</speaker>
+        <l>S’hai lagrimato e pianto, hai riso ancora.</l>
+        <l>Dimmi, piangevi allora</l>
+        <l>che del Fabro geloso</l>
+        <l>non potesti schivar l’inganno ascoso?</l>
+      </sp>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Taci, taci, bel figlio;</l>
+        <l>pur troppo, e tu lo sai</l>
+        <l>il mio bel viso allor si fe’ vermiglio:</l>
+        <l>ma di tornare al cielo è tempo ormai.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Non si nasconde in selva</l>
+        <l>sì dispietata belva,</l>
+        <l>né su per l’alto polo</l>
+        <l>spiega le penne a volo auge! solingo,</l>
+        <l>né per le piagge ondose,</l>
+        <l>tra le fere squamose alberga core</l>
+        <l>che non senta d’amore.</l>
+      </sp>
+      <div type="scene">
+        <head>SCENA V</head>
+        <sp who="#scena v">
+          <speaker>SCENA V:</speaker>
+        </sp>
+        <sp who="#tirsi">
+          <speaker>TIRSI:</speaker>
+          <l>Qual nova meraviglia</l>
+          <l>veduto han gli occhi miei?</l>
+          <l>O sempiterni dei,</l>
+          <l>che per lo ciel volgete</l>
+          <l>nostre sorti mortali o triste o liete,</l>
+          <l>fu castigo o pietate</l>
+          <l>cangiar l’alma beltate?</l>
+        </sp>
+        <sp who="#pastore del coro (iii)">
+          <speaker>PASTORE DEL CORO (III):</speaker>
+          <l>Pastor, deh narra a noi</l>
+          <l>le nove meraviglie,</l>
+          <l>che visto han gli occhi tuoi.</l>
+        </sp>
+        <sp who="#tirsi">
+          <speaker>TIRSI:</speaker>
+          <l>Non senza trar dal core</l>
+          <l>lagrime di dolore</l>
+          <l>udirete, Pastori,</l>
+          <l>iI destin de la bella cacciatrice</l>
+          <l>purtroppo miserabile e ‘nfelice.</l>
+        </sp>
+        <sp who="#pastore del coro (iii)">
+          <speaker>PASTORE DEL CORO (III):</speaker>
+          <l>Di’ pur, saggio Pastore,</l>
+          <l>che non senza dolcezza</l>
+          <l>lagrima per pietate un gentil core.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>TIRSI</head>Quando la bella Ninfa,sprezzando i prieghi del celeste amante,vidi che per fuggir movea le piante,da voi mi tolsi anch’iol’orme seguendo de l’acceso Dio.Ella, quasi cervettache innanzi a crudo veltro il passo affretta,fuggìa veloce, e spessosi volgeva a mirar se lungi o pressoavea l’odiato amante;ma, fatt’accorta ornaich’era ogni fuga in vano,i lagrimosi raial ciel rivolse e l’una e l’altra mano,e ‘n lamentevol suono,ch’io non udii, che troppo era lontano,sciolse la lingua: et ecco in un momentoche l’uno e l’altro leggiadretto piede,che pur dianzi al fuggir parve aura o vento,fatto immobil si vededi salvatica scorza insieme avvinto,e le braccia e le palme al ciel disteseveste selvaggia fronde:le crespe chiome e biondepiù non riveggo e ‘I volto e ‘I bianco petto;ma del gentile aspettoogni sembianza si dilegua e perde;sol miro un arboscel fiorito e verde.<sp who="#tirsi">
+        <speaker>TIRSI:</speaker>
+        <l>Quando la bella Ninfa,</l>
+        <l>sprezzando i prieghi del celeste amante,</l>
+        <l>vidi che per fuggir movea le piante,</l>
+        <l>da voi mi tolsi anch’io</l>
+        <l>l’orme seguendo de l’acceso Dio.</l>
+        <l>Ella, quasi cervetta</l>
+        <l>che innanzi a crudo veltro il passo affretta,</l>
+        <l>fuggìa veloce, e spesso</l>
+        <l>si volgeva a mirar se lungi o presso</l>
+        <l>avea l’odiato amante;</l>
+        <l>ma, fatt’accorta ornai</l>
+        <l>ch’era ogni fuga in vano,</l>
+        <l>i lagrimosi rai</l>
+        <l>al ciel rivolse e l’una e l’altra mano,</l>
+        <l>e ‘n lamentevol suono,</l>
+        <l>ch’io non udii, che troppo era lontano,</l>
+        <l>sciolse la lingua: et ecco in un momento</l>
+        <l>che l’uno e l’altro leggiadretto piede,</l>
+        <l>che pur dianzi al fuggir parve aura o vento,</l>
+        <l>fatto immobil si vede</l>
+        <l>di salvatica scorza insieme avvinto,</l>
+        <l>e le braccia e le palme al ciel distese</l>
+        <l>veste selvaggia fronde:</l>
+        <l>le crespe chiome e bionde</l>
+        <l>più non riveggo e ‘I volto e ‘I bianco petto;</l>
+        <l>ma del gentile aspetto</l>
+        <l>ogni sembianza si dilegua e perde;</l>
+        <l>sol miro un arboscel fiorito e verde.</l>
+      </sp>
+      <sp who="#pastore del coro (iii)">
+        <speaker>PASTORE DEL CORO (III):</speaker>
+        <l>O miserabil caso, o destin rio!</l>
+        <l>Che fe’, che disse allora</l>
+        <l>l’innamorato Dio?</l>
+      </sp>
+      <sp who="#tirsi">
+        <speaker>TIRSI:</speaker>
+        <l>A l’alta novitate</l>
+        <l>fermò repente il passo,</l>
+        <l>e, confuso d’orrore e di pietate,</l>
+        <l>restò per lungo spazio immobil sasso.</l>
+        <l>Poscia a le frondi amate,</l>
+        <l>alzando gli occhi sospirosi e molli,</l>
+        <l>stese le braccia e ‘I nobil tronco avvinse</l>
+        <l>e mille volte ribaciollo e strinse.</l>
+        <l>Piangean d’intorno le campagne e i colli,</l>
+        <l>sospiravan pietosi e l’aure e i venti;</l>
+        <l>et ei nel gran dolore</l>
+        <l>sciogliea sì mesti accenti,</l>
+        <l>ch’io sentii per pietà mancarmi il core.</l>
+      </sp>
+      <sp who="#pastore del coro (iii)">
+        <speaker>PASTORE DEL CORO (III):</speaker>
+        <l>Ahi dura, ahi ria novella!</l>
+        <l>Mira, deh, Tirsi mio, che il ciel ne piange,</l>
+        <l>senti gli augei lagnar tra’ secchi rami</l>
+        <l>e le fere ulular per le campagne:</l>
+        <l>odi come piangendo ognun la chiami.</l>
+      </sp>
+      <sp who="#ninfa del coro (ii)">
+        <speaker>NINFA DEL CORO (II):</speaker>
+        <l>Piangete, o Ninfe, e con voi pianga Amore;</l>
+        <l>raccogliete le penne, aure celesti,</l>
+        <l>e voi pietosi e mesti</l>
+        <l>fermate i pie’ d’argento, o fonti, o fiumi;</l>
+        <l>lagrimate ne l’alto eterni Numi.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Sparse più non vedrem di quel fin oro</l>
+        <l>le bionde chiome a ‘I vento;</l>
+        <l>ahi! Né più s’udirà tra ‘I bel tesoro</l>
+        <l>di perle e di rubin l’alto concento.</l>
+        <l>Ahi! Ch’ecclissato e spento</l>
+        <l>è del ciglio seren l’almo splendore.</l>
+        <l>Piangete, Ninfe, e con voi pianga Amore.</l>
+        <l>Dov’è la bella man, dove il bel seno,</l>
+        <l>dove, dove il bel viso?</l>
+        <l>E dov’è il dolce riso,</l>
+        <l>dov’è del guardo il lampeggiar sereno?</l>
+      </sp>
+      <sp who="#pastore del coro (iii)">
+        <speaker>PASTORE DEL CORO (III):</speaker>
+        <l>Ahi lagrime, ahi dolor!</l>
+        <l>Piangete, Ninfe, e con voi pianga Amore.</l>
+      </sp>
+      <sp who="#tirsi">
+        <speaker>TIRSI:</speaker>
+        <l>Ma, vedete lui stesso</l>
+        <l>che verso noi se ‘n viene</l>
+        <l>tutto carco di pene:</l>
+        <l>deh, come fuor del luminoso volto</l>
+        <l>traspare il duol c’ha dentr’al petto accolto.</l>
+      </sp>
+      <div type="scene">
+        <head>SCENA VI</head>
+        <sp who="#scena vi">
+          <speaker>SCENA VI:</speaker>
+        </sp>
+        <sp who="#apollo">
+          <speaker>APOLLO:</speaker>
+          <l>Dunque ruvida scorza</l>
+          <l>chiuderà sempre la beltà celeste?</l>
+          <l>Lumi, voi che vedeste</l>
+          <l>l’alta beltà, che a lagrimar vi sforza,</l>
+          <l>affisatevi pure in questa fronde:</l>
+          <l>qui posa, e qui s’asconde</l>
+          <l>iI mio bene, il mio core, il mio tesoro,</l>
+          <l>per cui, ben ch’immortal, languisco e moro.</l>
+        </sp>
+        <sp who="#tirsi">
+          <speaker>TIRSI:</speaker>
+          <l>Deh come invan s’affigge, invan si duole!</l>
+          <l>Odilo, bella Dafne, e godi almeno</l>
+          <l>che le sventure tue lagrimi il Sole!</l>
+        </sp>
+        <sp who="#apollo">
+          <speaker>APOLLO:</speaker>
+          <l>Un guardo, un guardo appena,</l>
+          <l>un guardo appena, ahi lasso!,</l>
+          <l>affissai ne la fronte alma e serena</l>
+          <l>che disdegnosa, ohimè!, volgesti il passo.</l>
+          <l>Semplicetta beltà qual te n’avesti</l>
+          <l>ma non sapeva ancora</l>
+          <l>che offesa non buon fa di lei celesti.</l>
+          <l>Non mai nell’alto polo</l>
+          <l>volgerò della luce il carro ardente</l>
+          <l>che, misero e dolente,</l>
+          <l>gli occhi girando alle frondose chiome</l>
+          <l>non chiami mille volte il tuo bel nome.</l>
+          <l>Ninfa degnosa e schiva,</l>
+          <l>che fuggendo l’amor d’un Dio del cielo,</l>
+          <l>cangiasti in verde lauro il tuo bel velo,</l>
+          <l>non fia però ch’io non t’onori et ami,</l>
+          <l>ma sempre al mio crin d’oro</l>
+          <l>faran ghirlanda le tue fronde e’ rami.</l>
+          <l>Ma deh! se in questa fronde odi il mio pianto,</l>
+          <l>senti la nobil cetra,</l>
+          <l>quai doni a te dal ciel cantando impetra:</l>
+          <l>non curi la mia pianta o fiamma o gelo,</l>
+          <l>sian del vivo smeraldo eterni i pregi,</l>
+          <l>né l’offenda già mai l’ira del cielo.</l>
+          <l>I bei cigni di Dirce e i sommi regi</l>
+          <l>di verdeggianti rami al crin famoso</l>
+          <l>portin, segno d’onor, ghirlande e fregi.</l>
+          <l>Gregge mai né pastor fia che noioso</l>
+          <l>del verde manto suo la spogli e prive:</l>
+          <l>a la grat’ombra il dì lieto e gioioso</l>
+          <l>traggan dolce cantando e ninfe e dive.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Bella Ninfa fuggitiva,</l>
+          <l>sciolta e priva</l>
+          <l>del mortal tuo nobil velo,</l>
+          <l>godi pur pianta novella,</l>
+          <l>casta e bella,</l>
+          <l>cara al mondo, e cara al cielo.</l>
+        </sp>
+      </div>
+    </div>
+  </text>
+</TEI>

@@ -1,0 +1,1615 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">a morte di Orfeo</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="fato">
+            <persName>FATO:</persName>
+          </person>
+          <person xml:id="aurora">
+            <persName>AURORA:</persName>
+          </person>
+          <person xml:id="ireno">
+            <persName>IRENO:</persName>
+          </person>
+          <person xml:id="teti">
+            <persName>TETI:</persName>
+          </person>
+          <person xml:id="uno degli dèi">
+            <persName>UNO DEGLI DÈI:</persName>
+          </person>
+          <person xml:id="lincastro">
+            <persName>LINCASTRO:</persName>
+          </person>
+          <person xml:id="bacco">
+            <persName>BACCO:</persName>
+          </person>
+          <person xml:id="primo euretto e secondo euretto">
+            <persName>PRIMO EURETTO E SECONDO EURETTO:</persName>
+          </person>
+          <person xml:id="furore">
+            <persName>FURORE:</persName>
+          </person>
+          <person xml:id="mercurio">
+            <persName>MERCURIO:</persName>
+          </person>
+          <person xml:id="terzo euretto">
+            <persName>TERZO EURETTO:</persName>
+          </person>
+          <person xml:id="coro di pastori">
+            <persName>CORO DI PASTORI:</persName>
+          </person>
+          <person xml:id="primo euretto">
+            <persName>PRIMO EURETTO:</persName>
+          </person>
+          <person xml:id="eco">
+            <persName>ECO:</persName>
+          </person>
+          <person xml:id="fosforo">
+            <persName>FOSFORO:</persName>
+          </person>
+          <person xml:id="euridice">
+            <persName>EURIDICE:</persName>
+          </person>
+          <person xml:id="calliope">
+            <persName>CALLIOPE:</persName>
+          </person>
+          <person xml:id="coro di satiri">
+            <persName>CORO DI SATIRI:</persName>
+          </person>
+          <person xml:id="li tre euretti">
+            <persName>LI TRE EURETTI:</persName>
+          </person>
+          <person xml:id="caronte">
+            <persName>CARONTE:</persName>
+          </person>
+          <person xml:id="fileno">
+            <persName>FILENO:</persName>
+          </person>
+          <person xml:id="coro di dèi">
+            <persName>CORO DI DÈI:</persName>
+          </person>
+          <person xml:id="coro di dèi e coro di pastori">
+            <persName>CORO DI DÈI E CORO DI PASTORI:</persName>
+          </person>
+          <person xml:id="secondo euretto">
+            <persName>SECONDO EURETTO:</persName>
+          </person>
+          <person xml:id="giove">
+            <persName>GIOVE:</persName>
+          </person>
+          <person xml:id="ebro">
+            <persName>EBRO:</persName>
+          </person>
+          <person xml:id="orfeo">
+            <persName>ORFEO:</persName>
+          </person>
+          <person xml:id="coro delle menadi">
+            <persName>CORO DELLE MENADI:</persName>
+          </person>
+          <person xml:id="una delle menadi">
+            <persName>UNA DELLE MENADI:</persName>
+          </person>
+          <person xml:id="nisa">
+            <persName>NISA:</persName>
+          </person>
+          <person xml:id="apollo">
+            <persName>APOLLO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>TETI</castItem>
+        <castItem>FATO</castItem>
+        <castItem>EBRO</castItem>
+        <castItem>AURORA</castItem>
+        <castItem>ORFEO</castItem>
+        <castItem>MERCURIO</castItem>
+        <castItem>APOLLO</castItem>
+        <castItem>BACCO</castItem>
+        <castItem>NISA</castItem>
+        <castItem>IRENO</castItem>
+        <castItem>LINCASTRO</castItem>
+        <castItem>FURORE</castItem>
+        <castItem>CALLIOPE</castItem>
+        <castItem>FILENO</castItem>
+        <castItem>CARONTE</castItem>
+        <castItem>EURIDICE</castItem>
+        <castItem>GIOVE</castItem>
+        <castItem>FOSFORO</castItem>
+        <castItem>PRIMO EURETTO</castItem>
+        <castItem>SECONDO EURETTO</castItem>
+        <castItem>TERZO EURETTO</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>Dedica</head>All’ill.mo ed rever.mo signor ed patron mio calendissimo il signor Alessandro Mattei chierico di Camera, abate di Nonantola ecc.Ho creduto donando questi miei musicali componimenti a v. s. illustr. non far cosa punto lontana da quell’antica opinione, secondo la quale furon dette le muse tutte l’opere loro canoramente comporre e con musicali accenti scrivere o parlare; anzi aggiunsero alcuni il mondo tutto e l’animo di quello breve compendio esser d’armonica misura composto, e per quella vivere e sostenersi. Imperò che se questo è in alcuna maniera vero, per certo nelle interne doti di v. s. ill.ma è verissimo, nella quale tanto ogni parte corrisponde e consuona, che la fama non troncamente e con voce imperfetta, ma con intera ed egual testimonianza ne fa in ogni luogo fede e certezza. Aggiungesi che al molto diletto che dalle più gravi scienze ella riceve, tanto corrispondono gli ornamenti delle minori, che quasi la musica alla poesia congiunta doppiamente gli animi altrui con dolce forza trae ad amarla ed onorarla.Tra questi minori suoi ornamenti ella degnamente ripone musica, nella quale poi che, come d’animo ben composto, tanto si diletta v. s. ill.ma, non si sono arrossite queste mie imperfette note a ricorrerle in seno, sperando che se per loro si canta la morte di Orfeo per l’altrui invidia estinto, e per sua gloria immortale, esse, ben che morte in sé medesime, siano per aver felicissima e secura vita nella buona grazia di v. s. ill.ma, alla quale bacio riverentemente la mano.Di Padova li primo giugno 1619.Di v. s. ill.mo e rever.moservitore umilissimoStefano LandiArgomentoCelebrando Orfeo con un convito de’ dèi il suo giorno natale, è ucciso dalle menadi per ordine di Bacco, per non averlo voluto in detto convito, ed è poi da Giove trasferito in cielo.Atto primoScena primaTeti nell’Ebro, Fato in cielo.<div type="scene">
+          <head>Dedica</head>All’ill.mo ed rever.mo signor ed patron mio calendissimo il signor Alessandro Mattei chierico di Camera, abate di Nonantola ecc.Ho creduto donando questi miei musicali componimenti a v. s. illustr. non far cosa punto lontana da quell’antica opinione, secondo la quale furon dette le muse tutte l’opere loro canoramente comporre e con musicali accenti scrivere o parlare; anzi aggiunsero alcuni il mondo tutto e l’animo di quello breve compendio esser d’armonica misura composto, e per quella vivere e sostenersi. Imperò che se questo è in alcuna maniera vero, per certo nelle interne doti di v. s. ill.ma è verissimo, nella quale tanto ogni parte corrisponde e consuona, che la fama non troncamente e con voce imperfetta, ma con intera ed egual testimonianza ne fa in ogni luogo fede e certezza. Aggiungesi che al molto diletto che dalle più gravi scienze ella riceve, tanto corrispondono gli ornamenti delle minori, che quasi la musica alla poesia congiunta doppiamente gli animi altrui con dolce forza trae ad amarla ed onorarla.Tra questi minori suoi ornamenti ella degnamente ripone musica, nella quale poi che, come d’animo ben composto, tanto si diletta v. s. ill.ma, non si sono arrossite queste mie imperfette note a ricorrerle in seno, sperando che se per loro si canta la morte di Orfeo per l’altrui invidia estinto, e per sua gloria immortale, esse, ben che morte in sé medesime, siano per aver felicissima e secura vita nella buona grazia di v. s. ill.ma, alla quale bacio riverentemente la mano.Di Padova li primo giugno 1619.Di v. s. ill.mo e rever.moservitore umilissimoStefano LandiArgomentoCelebrando Orfeo con un convito de’ dèi il suo giorno natale, è ucciso dalle menadi per ordine di Bacco, per non averlo voluto in detto convito, ed è poi da Giove trasferito in cielo.Atto primoScena primaTeti nell’Ebro, Fato in cielo. <stage>DedicaAll’ill.mo ed rever.mo signor ed patron mio calendissimo il signor Alessandro Mattei chierico di Camera, abate di Nonantola ecc.Ho creduto donando questi miei musicali componimenti a v. s. illustr. non far cosa punto lontana da quell’antica opinione, secondo la quale furon dette le muse tutte l’opere loro canoramente comporre e con musicali accenti scrivere o parlare; anzi aggiunsero alcuni il mondo tutto e l’animo di quello breve compendio esser d’armonica misura composto, e per quella vivere e sostenersi. Imperò che se questo è in alcuna maniera vero, per certo nelle interne doti di v. s. ill.ma è verissimo, nella quale tanto ogni parte corrisponde e consuona, che la fama non troncamente e con voce imperfetta, ma con intera ed egual testimonianza ne fa in ogni luogo fede e certezza. Aggiungesi che al molto diletto che dalle più gravi scienze ella riceve, tanto corrispondono gli ornamenti delle minori, che quasi la musica alla poesia congiunta doppiamente gli animi altrui con dolce forza trae ad amarla ed onorarla.Tra questi minori suoi ornamenti ella degnamente ripone musica, nella quale poi che, come d’animo ben composto, tanto si diletta v. s. ill.ma, non si sono arrossite queste mie imperfette note a ricorrerle in seno, sperando che se per loro si canta la morte di Orfeo per l’altrui invidia estinto, e per sua gloria immortale, esse, ben che morte in sé medesime, siano per aver felicissima e secura vita nella buona grazia di v. s. ill.ma, alla quale bacio riverentemente la mano.Di Padova li primo giugno 1619.Di v. s. ill.mo e rever.moservitore umilissimoStefano LandiArgomentoCelebrando Orfeo con un convito de’ dèi il suo giorno natale, è ucciso dalle menadi per ordine di Bacco, per non averlo voluto in detto convito, ed è poi da Giove trasferito in cielo.Atto primoScena primaTeti nell’Ebro, Fato in cielo.</stage>
+          <sp who="#teti">
+            <speaker>TETI:</speaker>
+            <l>Teti, del mar regina,</l>
+            <l>con argentata conca in onde d’oro</l>
+            <l>solco dell’Ebro il liquido tesoro.</l>
+            <l>Qual ogni lido inchina</l>
+            <l>da che il canoro semideo vi tira</l>
+            <l>il ciel, la terra, il mar con la sua lira.</l>
+            <l>Ah questa, ahimè (che vede</l>
+            <l>la mia mente indovina?) è l’ultim’ora</l>
+            <l>della lira e del canto, e fia che mora</l>
+            <l>Orfeo, non già sul piede</l>
+            <l>punto come Euridice, ma da insano</l>
+            <l>furor di donne inciso a brano a brano.</l>
+            <l>Ahi, soffrirete, selve,</l>
+            <l>così crudo spettacolo e sì fiero?</l>
+            <l>Lo vedrai, ciel? Lo vedrai, padre arciero?</l>
+            <l>Lo vedrete belve?</l>
+            <l>Né torrassi di man dell’empio fato</l>
+            <l>Orfeo, dal ciel inutilmente amato?</l>
+            <l>Io no ‘l vo’ già soffrire,</l>
+            <l>scenderò in terra e condurollo in seno</l>
+            <l>de’ miei scogli reali, al mar Tirreno.</l>
+          </sp>
+          <sp who="#fato">
+            <speaker>FATO:</speaker>
+            <l>Torna, Teti, nel mar, non toccar terra,</l>
+            <l>ch’il tuo nume indovino</l>
+            <l>oggi vaneggia ed erra.</l>
+            <l>Non sai tu ch’immutabile destino</l>
+            <l>vuol ch’oggi pera Orfeo?</l>
+            <l>Or taci e torna; e mora</l>
+            <l>s’io ve ‘l comando e queste stelle or ora.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TETI</head>Io parto, ahimè, ma tu festeggi intanto.Citaredo infelice, il tuo natale,e le parche crudeli il crin fatalerecidono, ond’in piantovolgeransi i conviti, il canto e ‘l riso;or chi non piange e discolora il viso?Scena secondaEbro solo.Lascia, Diana, omai l’erranti spere,lascia i notturni balli;già sparita è nel ciel ogni facella,tu, sfavillante e bella,sola passeggi ancor gli eterei calli.E tu che fai? Non sorgiahimè, non sorgi ancora,madre e figlia del sol, novella Aurora?Ahi luci sonnacchiose,sorgete omai dal letto trionfale,dai molli gigli e morbidette rose.Non ti sovvien? D’Orfeooggi è ‘l giorno natale;per onorar l’illustre semideomanda il ciel i suoi numi;la terra indora di celesti lumi;destati dunque, sonnacchiosa, omai.Apri, Aurora, le porteal dì nascente, ai fortunati rai.Ecco, l’apre: o felice, o lieta sorte!Scena terzaEuretti, Aurora, Ebro.<sp who="#teti">
+            <speaker>TETI:</speaker>
+            <l>Io parto, ahimè, ma tu festeggi intanto.</l>
+            <l>Citaredo infelice, il tuo natale,</l>
+            <l>e le parche crudeli il crin fatale</l>
+            <l>recidono, ond’in pianto</l>
+            <l>volgeransi i conviti, il canto e ‘l riso;</l>
+            <l>or chi non piange e discolora il viso?</l>
+            <l>Scena seconda</l>
+            <l>Ebro solo.</l>
+            <l>Lascia, Diana, omai l’erranti spere,</l>
+            <l>lascia i notturni balli;</l>
+            <l>già sparita è nel ciel ogni facella,</l>
+            <l>tu, sfavillante e bella,</l>
+            <l>sola passeggi ancor gli eterei calli.</l>
+            <l>E tu che fai? Non sorgi</l>
+            <l>ahimè, non sorgi ancora,</l>
+            <l>madre e figlia del sol, novella Aurora?</l>
+            <l>Ahi luci sonnacchiose,</l>
+            <l>sorgete omai dal letto trionfale,</l>
+            <l>dai molli gigli e morbidette rose.</l>
+            <l>Non ti sovvien? D’Orfeo</l>
+            <l>oggi è ‘l giorno natale;</l>
+            <l>per onorar l’illustre semideo</l>
+            <l>manda il ciel i suoi numi;</l>
+            <l>la terra indora di celesti lumi;</l>
+            <l>destati dunque, sonnacchiosa, omai.</l>
+            <l>Apri, Aurora, le porte</l>
+            <l>al dì nascente, ai fortunati rai.</l>
+            <l>Ecco, l’apre: o felice, o lieta sorte!</l>
+            <l>Scena terza</l>
+            <l>Euretti, Aurora, Ebro.</l>
+          </sp>
+          <stage>TETIIo parto, ahimè, ma tu festeggi intanto.Citaredo infelice, il tuo natale,e le parche crudeli il crin fatalerecidono, ond’in piantovolgeransi i conviti, il canto e ‘l riso;or chi non piange e discolora il viso?Scena secondaEbro solo.Lascia, Diana, omai l’erranti spere,lascia i notturni balli;già sparita è nel ciel ogni facella,tu, sfavillante e bella,sola passeggi ancor gli eterei calli.E tu che fai? Non sorgiahimè, non sorgi ancora,madre e figlia del sol, novella Aurora?Ahi luci sonnacchiose,sorgete omai dal letto trionfale,dai molli gigli e morbidette rose.Non ti sovvien? D’Orfeooggi è ‘l giorno natale;per onorar l’illustre semideomanda il ciel i suoi numi;la terra indora di celesti lumi;destati dunque, sonnacchiosa, omai.Apri, Aurora, le porteal dì nascente, ai fortunati rai.Ecco, l’apre: o felice, o lieta sorte!Scena terzaEuretti, Aurora, Ebro.</stage>
+          <sp who="#primo euretto">
+            <speaker>PRIMO EURETTO:</speaker>
+            <l>Su su, dall’oriente</l>
+            <l>uniti venticelli usciamo fuori</l>
+            <l>a rallegrar i fiori,</l>
+            <l>che già vicin si sente</l>
+            <l>l’annitrir…</l>
+            <l>(il Secondo e Terzo euretto ripetono queste parole)</l>
+          </sp>
+          <stage>PRIMO EURETTOSu su, dall’orienteuniti venticelli usciamo fuoria rallegrar i fiori,che già vicin si sentel’annitrir…(il Secondo e Terzo euretto ripetono queste parole)</stage>
+          <sp who="#aurora">
+            <speaker>AURORA:</speaker>
+            <l>Fra desta e ancora in sogno,</l>
+            <l>parvemi di sentir il mormorio</l>
+            <l>de’ flutti d’oro</l>
+            <l>d’Ebro canoro,</l>
+            <l>che si lagna del tardo sorger mio.</l>
+          </sp>
+          <sp who="#primo euretto">
+            <speaker>PRIMO EURETTO:</speaker>
+            <l>Non vedi là, non vedi</l>
+            <l>che a noi fissa le luci e par che indori</l>
+            <l>a’ raggi tuoi i vaghi suoi colori?</l>
+          </sp>
+          <sp who="#aurora">
+            <speaker>AURORA:</speaker>
+            <l>Scendiamo dunque e de’ celesti fiori</l>
+            <l>portiamo in terra un nembo;</l>
+            <l>empiamne pur il grembo,</l>
+            <l>che ‘l dì natale</l>
+            <l>d’un dio mortale,</l>
+            <l>è degno ben di sovrumani onori.</l>
+          </sp>
+          <sp who="#terzo euretto">
+            <speaker>TERZO EURETTO:</speaker>
+            <l>Portiamo fiori no, ma bianche perle,</l>
+            <l>assai più dolci al gusto</l>
+            <l>che candide a vederle:</l>
+            <l>portiamo in terra un nobil dono augusto.</l>
+          </sp>
+          <sp who="#li tre euretti">
+            <speaker>LI TRE EURETTI:</speaker>
+            <l>insieme</l>
+            <l>Godete pur, mortali,</l>
+            <l>e obliate intanto</l>
+            <l>fra ‘l nostro dolce canto</l>
+            <l>e le dolcezze nostre, i vostri mali.</l>
+          </sp>
+          <stage>LI TRE EURETTIinsiemeGodete pur, mortali,e obliate intantofra ‘l nostro dolce cantoe le dolcezze nostre, i vostri mali.</stage>
+          <sp who="#ebro">
+            <speaker>EBRO:</speaker>
+            <l>Scendesti pur, o diva, e ‘l dì felice</l>
+            <l>rimeni, quand’Orfeo mirò del padre</l>
+            <l>le beate de’ rai lucide squadre;</l>
+            <l>ed or quel giorno braman festeggiare</l>
+            <l>più lieti l’aria, il ciel, la terra e ‘l mare.</l>
+            <l>Sol s’aspettava che ne desse il segno</l>
+            <l>la bell’Aurora dal fiorito regno.</l>
+          </sp>
+          <sp who="#aurora">
+            <speaker>AURORA:</speaker>
+            <l>Eccomi pronta fuor dell’oriente:</l>
+            <l>per me si tolgan tutte le dimore,</l>
+            <l>passin felici l’ore e voi, mia prole,</l>
+            <l>ite cantando e prevenite il sole.</l>
+            <l>Ite, miei venticelli,</l>
+            <l>destate i muti augelli e resti il cielo</l>
+            <l>senza macchia di nube e senza velo.</l>
+          </sp>
+          <sp who="#ebro">
+            <speaker>EBRO:</speaker>
+            <l>Noi andiamo ad Orfeo, che già mi tira</l>
+            <l>la grata tirannia</l>
+            <l>di sua dolce armonia.</l>
+          </sp>
+          <sp who="#li tre euretti">
+            <speaker>LI TRE EURETTI:</speaker>
+            <l>insieme</l>
+            <l>Mentre cantiam, lontane</l>
+            <l>itene, nubi insane,</l>
+            <l>né si vegga d’intorno</l>
+            <l>oscuro velo a così lieto giorno.</l>
+            <l>E voi, vaghi augellini,</l>
+            <l>a gara gorgheggiate,</l>
+            <l>gareggiando cantate</l>
+            <l>il natale d’Orfeo,</l>
+            <l>la gloria del canoro semideo.</l>
+          </sp>
+          <stage>LI TRE EURETTIinsiemeMentre cantiam, lontaneitene, nubi insane,né si vegga d’intornooscuro velo a così lieto giorno.E voi, vaghi augellini,a gara gorgheggiate,gareggiando cantateil natale d’Orfeo,la gloria del canoro semideo.</stage>
+          <sp who="#primo euretto">
+            <speaker>PRIMO EURETTO:</speaker>
+            <l>Veggio una nuvoletta insidiosa,</l>
+            <l>superba e dispettosa,</l>
+            <l>che ostinata s’aggira,</l>
+            <l>e niuno se n’adira.</l>
+            <l>Or rinnoviamo il canto acciò s’asconda</l>
+            <l>la nuvoletta immonda.</l>
+          </sp>
+          <sp who="#primo euretto e secondo euretto">
+            <speaker>PRIMO EURETTO E SECONDO EURETTO:</speaker>
+            <l>Or rinnoviamo il canto acciò s’asconda</l>
+            <l>la nuvoletta immonda.</l>
+          </sp>
+          <sp who="#secondo euretto">
+            <speaker>SECONDO EURETTO:</speaker>
+            <l>Già puro in ogni parte il ciel si mostra</l>
+            <l>e già s’inostra</l>
+            <l>di purpureo velo;</l>
+            <l>tutta pomposa,</l>
+            <l>per esser vagheggiata,</l>
+            <l>esce la rosa,</l>
+            <l>e acciò meglio si goda il tener ostro,</l>
+            <l>torniamo al canto nostro.</l>
+          </sp>
+          <sp who="#primo euretto e secondo euretto">
+            <speaker>PRIMO EURETTO E SECONDO EURETTO:</speaker>
+            <l>E acciò meglio si goda il tener ostro,</l>
+            <l>torniamo al canto nostro.</l>
+          </sp>
+          <sp who="#li tre euretti">
+            <speaker>LI TRE EURETTI:</speaker>
+            <l>insieme</l>
+            <l>Mentre cantiam, la notte</l>
+            <l>torni all’inferne grotte,</l>
+            <l>e li notturni mostri</l>
+            <l>s’ascondan lievi, pria che il ciel s’inostri.</l>
+            <l>E voi, vaghi augellini,</l>
+            <l>a gara gorgheggiate,</l>
+            <l>gareggiando cantate</l>
+            <l>il natale d’Orfeo,</l>
+            <l>la gloria del canoro semideo.</l>
+          </sp>
+          <stage>LI TRE EURETTIinsiemeMentre cantiam, la nottetorni all’inferne grotte,e li notturni mostris’ascondan lievi, pria che il ciel s’inostri.E voi, vaghi augellini,a gara gorgheggiate,gareggiando cantateil natale d’Orfeo,la gloria del canoro semideo.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>CORO DI PASTORI</head>(le parole di sotto si dicono dopo la stanza che segue a due bassi)a 8Ecco, dall’orizzonteescono i raggi a schiere,di ferir vaghi più superbo monte,e, quando orride e nere,vibran le nubi folgori sonanti,sempre i poggi più altiprovan di quel furor i primi assalti.Così la vita nostraqual più fortuna estollesovra degli altri in gloriosa mostra,più facil fia che crolle,e che ferito crudelmente, cada;chi gode d’umil sorte,non teme danno o minacciosa morte.a 2 bassiAlla valle profondapiù tardi giunge il sole,più tardi scioglie il ghiaccio e corre l’onda;ma quando irato suolefulminar Giove o tempestar Giunone,non teme ira od oltraggio,in questa valle, assecurato saggio.finita questa a due bassi, si torna a dire a 8:Così la vita nostraqual più fortuna estollesovra degli altri in gloriosa mostra,più facil fia che crolle,e che ferito crudelmente, cada;chi gode d’umil sorte,non teme danno o minacciosa morte.Atto secondoScena primaOrfeo solo.Gioite al mio natal, crinite stelle,gioite, luna e sole,gioite, monti, selve e rive belle,e tu, volubil moledi salsi flutti e liquidi cristalli,gioite, oggi e valli.2º ritornelloDanzate al canto mio, fere selvagge,danzate per le selve,per intricati boschi e aperte piagge,danzate per le selve,e al rauco suon de’ cimbali marinidanzate, orche e delfini.3º ritornelloCantate al mio gioir, onde correnti,cantate, rivi e fonti,cantate, elci frondosi, arvi gementi,e voi dagli alti montivezzosi augelli, e tu rispondimi, Eco,dal tuo canoro speco.4º ritornelloOggi li primi amabili splendoritrassi di questo sole,trassi oggi le prim’aure e i primi ardori;oggi tutto in carolesi passi lieto e si cominci omai:trassi oggi i primi rai.Scena secondaEbro, Orfeo.<div type="scene">
+          <head>CORO DI PASTORI</head>(le parole di sotto si dicono dopo la stanza che segue a due bassi)a 8Ecco, dall’orizzonteescono i raggi a schiere,di ferir vaghi più superbo monte,e, quando orride e nere,vibran le nubi folgori sonanti,sempre i poggi più altiprovan di quel furor i primi assalti.Così la vita nostraqual più fortuna estollesovra degli altri in gloriosa mostra,più facil fia che crolle,e che ferito crudelmente, cada;chi gode d’umil sorte,non teme danno o minacciosa morte.a 2 bassiAlla valle profondapiù tardi giunge il sole,più tardi scioglie il ghiaccio e corre l’onda;ma quando irato suolefulminar Giove o tempestar Giunone,non teme ira od oltraggio,in questa valle, assecurato saggio.finita questa a due bassi, si torna a dire a 8:Così la vita nostraqual più fortuna estollesovra degli altri in gloriosa mostra,più facil fia che crolle,e che ferito crudelmente, cada;chi gode d’umil sorte,non teme danno o minacciosa morte.Atto secondoScena primaOrfeo solo.Gioite al mio natal, crinite stelle,gioite, luna e sole,gioite, monti, selve e rive belle,e tu, volubil moledi salsi flutti e liquidi cristalli,gioite, oggi e valli.2º ritornelloDanzate al canto mio, fere selvagge,danzate per le selve,per intricati boschi e aperte piagge,danzate per le selve,e al rauco suon de’ cimbali marinidanzate, orche e delfini.3º ritornelloCantate al mio gioir, onde correnti,cantate, rivi e fonti,cantate, elci frondosi, arvi gementi,e voi dagli alti montivezzosi augelli, e tu rispondimi, Eco,dal tuo canoro speco.4º ritornelloOggi li primi amabili splendoritrassi di questo sole,trassi oggi le prim’aure e i primi ardori;oggi tutto in carolesi passi lieto e si cominci omai:trassi oggi i primi rai.Scena secondaEbro, Orfeo.<sp who="#coro di pastori">
+            <speaker>CORO DI PASTORI:</speaker>
+            <l>(le parole di sotto si dicono dopo la stanza che segue a due bassi)</l>
+            <l>a 8</l>
+            <l>Ecco, dall’orizzonte</l>
+            <l>escono i raggi a schiere,</l>
+            <l>di ferir vaghi più superbo monte,</l>
+            <l>e, quando orride e nere,</l>
+            <l>vibran le nubi folgori sonanti,</l>
+            <l>sempre i poggi più alti</l>
+            <l>provan di quel furor i primi assalti.</l>
+            <l>Così la vita nostra</l>
+            <l>qual più fortuna estolle</l>
+            <l>sovra degli altri in gloriosa mostra,</l>
+            <l>più facil fia che crolle,</l>
+            <l>e che ferito crudelmente, cada;</l>
+            <l>chi gode d’umil sorte,</l>
+            <l>non teme danno o minacciosa morte.</l>
+            <l>a 2 bassi</l>
+            <l>Alla valle profonda</l>
+            <l>più tardi giunge il sole,</l>
+            <l>più tardi scioglie il ghiaccio e corre l’onda;</l>
+            <l>ma quando irato suole</l>
+            <l>fulminar Giove o tempestar Giunone,</l>
+            <l>non teme ira od oltraggio,</l>
+            <l>in questa valle, assecurato saggio.</l>
+            <l>finita questa a due bassi, si torna a dire a 8:</l>
+            <l>Così la vita nostra</l>
+            <l>qual più fortuna estolle</l>
+            <l>sovra degli altri in gloriosa mostra,</l>
+            <l>più facil fia che crolle,</l>
+            <l>e che ferito crudelmente, cada;</l>
+            <l>chi gode d’umil sorte,</l>
+            <l>non teme danno o minacciosa morte.</l>
+            <l>Atto secondo</l>
+            <l>Scena prima</l>
+            <l>Orfeo solo.</l>
+            <l>Gioite al mio natal, crinite stelle,</l>
+            <l>gioite, luna e sole,</l>
+            <l>gioite, monti, selve e rive belle,</l>
+            <l>e tu, volubil mole</l>
+            <l>di salsi flutti e liquidi cristalli,</l>
+            <l>gioite, oggi e valli.</l>
+            <l>2º ritornello</l>
+            <l>Danzate al canto mio, fere selvagge,</l>
+            <l>danzate per le selve,</l>
+            <l>per intricati boschi e aperte piagge,</l>
+            <l>danzate per le selve,</l>
+            <l>e al rauco suon de’ cimbali marini</l>
+            <l>danzate, orche e delfini.</l>
+            <l>3º ritornello</l>
+            <l>Cantate al mio gioir, onde correnti,</l>
+            <l>cantate, rivi e fonti,</l>
+            <l>cantate, elci frondosi, arvi gementi,</l>
+            <l>e voi dagli alti monti</l>
+            <l>vezzosi augelli, e tu rispondimi, Eco,</l>
+            <l>dal tuo canoro speco.</l>
+            <l>4º ritornello</l>
+            <l>Oggi li primi amabili splendori</l>
+            <l>trassi di questo sole,</l>
+            <l>trassi oggi le prim’aure e i primi ardori;</l>
+            <l>oggi tutto in carole</l>
+            <l>si passi lieto e si cominci omai:</l>
+            <l>trassi oggi i primi rai.</l>
+            <l>Scena seconda</l>
+            <l>Ebro, Orfeo.</l>
+          </sp>
+          <stage>CORO DI PASTORI(le parole di sotto si dicono dopo la stanza che segue a due bassi)a 8Ecco, dall’orizzonteescono i raggi a schiere,di ferir vaghi più superbo monte,e, quando orride e nere,vibran le nubi folgori sonanti,sempre i poggi più altiprovan di quel furor i primi assalti.Così la vita nostraqual più fortuna estollesovra degli altri in gloriosa mostra,più facil fia che crolle,e che ferito crudelmente, cada;chi gode d’umil sorte,non teme danno o minacciosa morte.a 2 bassiAlla valle profondapiù tardi giunge il sole,più tardi scioglie il ghiaccio e corre l’onda;ma quando irato suolefulminar Giove o tempestar Giunone,non teme ira od oltraggio,in questa valle, assecurato saggio.finita questa a due bassi, si torna a dire a 8:Così la vita nostraqual più fortuna estollesovra degli altri in gloriosa mostra,più facil fia che crolle,e che ferito crudelmente, cada;chi gode d’umil sorte,non teme danno o minacciosa morte.Atto secondoScena primaOrfeo solo.Gioite al mio natal, crinite stelle,gioite, luna e sole,gioite, monti, selve e rive belle,e tu, volubil moledi salsi flutti e liquidi cristalli,gioite, oggi e valli.2º ritornelloDanzate al canto mio, fere selvagge,danzate per le selve,per intricati boschi e aperte piagge,danzate per le selve,e al rauco suon de’ cimbali marinidanzate, orche e delfini.3º ritornelloCantate al mio gioir, onde correnti,cantate, rivi e fonti,cantate, elci frondosi, arvi gementi,e voi dagli alti montivezzosi augelli, e tu rispondimi, Eco,dal tuo canoro speco.4º ritornelloOggi li primi amabili splendoritrassi di questo sole,trassi oggi le prim’aure e i primi ardori;oggi tutto in carolesi passi lieto e si cominci omai:trassi oggi i primi rai.Scena secondaEbro, Orfeo.</stage>
+          <sp who="#ebro">
+            <speaker>EBRO:</speaker>
+            <l>Tu lieto canti, Orfeo, e il tempo vola.</l>
+            <l>Su, su, dal ciel si chiame</l>
+            <l>chiunque di gioir brame:</l>
+            <l>oggi in lieto convito</l>
+            <l>siedono i dèi in questo ameno lito.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Vien, Giove e Marte; vieni, Apollo, e ‘l crine</l>
+            <l>di più sereni raggi adorna e vesti;</l>
+            <l>venite pur, celesti!</l>
+            <l>Bacco, no, ch’io non voglio,</l>
+            <l>Bacco, no, ch’io non chiamo,</l>
+            <l>che nei lieti conviti ardire e orgoglio</l>
+            <l>e spesso ancor furore</l>
+            <l>suol eccitare al core.</l>
+          </sp>
+          <sp who="#ebro">
+            <speaker>EBRO:</speaker>
+            <l>Fauni, Sileni, Satiri e Silvani,</l>
+            <l>tutti venite, e gioirete meco</l>
+            <l>in verde, erboso speco.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ORFEO</head>Venite ancor, pastori, al mio gioire;ma voi, donne, lontaneite dalle mie gioie e mio desire.Ite pur, donne insane.Peste del mondo e velenosi fiori,prati de’ bei colori,ma in voi d’aspidi è ‘l nido e con dilettoavvelenate de’ mortali il petto.Scena terzaMercurio, con due Giovani dal cielo che portano dei vasi di nettare. Orfeo, Ebro.<sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Venite ancor, pastori, al mio gioire;</l>
+            <l>ma voi, donne, lontane</l>
+            <l>ite dalle mie gioie e mio desire.</l>
+            <l>Ite pur, donne insane.</l>
+            <l>Peste del mondo e velenosi fiori,</l>
+            <l>prati de’ bei colori,</l>
+            <l>ma in voi d’aspidi è ‘l nido e con diletto</l>
+            <l>avvelenate de’ mortali il petto.</l>
+            <l>Scena terza</l>
+            <l>Mercurio, con due Giovani dal cielo che portano dei vasi di nettare. Orfeo, Ebro.</l>
+          </sp>
+          <stage>ORFEOVenite ancor, pastori, al mio gioire;ma voi, donne, lontaneite dalle mie gioie e mio desire.Ite pur, donne insane.Peste del mondo e velenosi fiori,prati de’ bei colori,ma in voi d’aspidi è ‘l nido e con dilettoavvelenate de’ mortali il petto.Scena terzaMercurio, con due Giovani dal cielo che portano dei vasi di nettare. Orfeo, Ebro.</stage>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Udito ha il cielo, o giovane canoro,</l>
+            <l>il tuo cortese invito,</l>
+            <l>e verrà tutto unito</l>
+            <l>ad onorarti de’ celesti il coro.</l>
+            <l>Giove solo riman nella celeste</l>
+            <l>più ritirata soglia,</l>
+            <l>odioso di feste,</l>
+            <l>egro nel volto e pieno il cor di doglia.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Qual caso lo contrista?</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Di congiurate stelle</l>
+            <l>a danni del suo sangue orrida vista.</l>
+            <l>Manda però, segni d’immenso amore,</l>
+            <l>in luogo dell’odiato inutil vino,</l>
+            <l>questi vasi di nettare divino.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Gradisco il dono, e, più che il dono, il core.</l>
+            <l>Vanne, Ebro, e quel prezioso almo liquore</l>
+            <l>ripon sicuro in ritirato sasso.</l>
+          </sp>
+          <sp who="#ebro">
+            <speaker>EBRO:</speaker>
+            <l>Ove m’accenni, pronto muovo il passo.</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Io bandirò dal mondo il furor cieco,</l>
+            <l>che tra queste colline or fa dimora;</l>
+            <l>farò che il piede dal tartareo speco</l>
+            <l>non mova oggi, fin tanto</l>
+            <l>che finischin le gioie e torni il pianto.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ORFEO</head>O grazioso nume,questa è mercé che sovra ogni altra bramo:vada il Furor lontanoe alberghi sol nei femminili petti,più dell’inferno assai sordidi letti.Scena quartaApolline dal cielo, Orfeo.<sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>O grazioso nume,</l>
+            <l>questa è mercé che sovra ogni altra bramo:</l>
+            <l>vada il Furor lontano</l>
+            <l>e alberghi sol nei femminili petti,</l>
+            <l>più dell’inferno assai sordidi letti.</l>
+            <l>Scena quarta</l>
+            <l>Apolline dal cielo, Orfeo.</l>
+          </sp>
+          <stage>ORFEOO grazioso nume,questa è mercé che sovra ogni altra bramo:vada il Furor lontanoe alberghi sol nei femminili petti,più dell’inferno assai sordidi letti.Scena quartaApolline dal cielo, Orfeo.</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Vedimi alle tue brame, o figlio amato,</l>
+            <l>tutto allegro e gioioso;</l>
+            <l>né crine omai dei raggi più pregiato,</l>
+            <l>né cerchio di diamante più pomposo,</l>
+            <l>né vesto più bel manto,</l>
+            <l>quando più bramo di bellezza il vanto.</l>
+            <l>Ma ohimè! Nel mezzo d’ogni mio diletto</l>
+            <l>un rio pensiero mi trafigge il petto.</l>
+            <l>Deh, non ti turbi</l>
+            <l>l’alma pensier noioso,</l>
+            <l>o lucido signore,</l>
+            <l>del giorno, o genitore.</l>
+          </sp>
+          <sp who="#apollo">
+            <speaker>APOLLO:</speaker>
+            <l>So che crudo destino</l>
+            <l>dalle man dolci, forti e lusinghiere</l>
+            <l>di belle donne ti sovrasta, o figlio.</l>
+            <l>Deh, segui il mio consiglio:</l>
+            <l>un dolce ben, ch’in un momento pere,</l>
+            <l>fuggilo, e segui di virtù ‘l cammino.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Non temer, padre, non temer che amore</l>
+            <l>non signoreggia più, come solea,</l>
+            <l>nel tenero mio core.</l>
+          </sp>
+          <sp who="#apollo">
+            <speaker>APOLLO:</speaker>
+            <l>Fuggi pur, fuggi pure</l>
+            <l>le donne e i lor diletti; forse a morte</l>
+            <l>non giungerai, seguendo infide scorte.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Anzi odio, che non amo,</l>
+            <l>donna che inneschi di dolcezza l’amo.</l>
+          </sp>
+          <sp who="#apollo">
+            <speaker>APOLLO:</speaker>
+            <l>Andiamo dunque a dar principio lieto</l>
+            <l>ai canti, ai suoni, ai balli.</l>
+            <l>Eco risuoni dall’ascose valli,</l>
+            <l>né turbi il gioir nostro alcun divieto.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>CORO DI SATIRI</head>a 8Deh, compagni, venite,deh venite, compagni;niun si lagni;deh, compagni venite,deh venite, compagni.Due satiriCure moleste,per le foresteite tra voi,gioirem noiin bel convito,in sen fiorito,fuor delle linfe,tra vaghe ninfe.Due altri satiriQuel prezioso,tutto odoroso,tutto divinoodor del vino,la sete rabbiadi nostra labbiaper l’avvenirefarà bandire.(qui si replica Deh, compagni a 8)Due satiriO, s’io trovassitra questi sassiquel dolce umoreche allegra il core,quei tenerini,dolci rubini,la calamitadi nostra vita!Due altri satiriGià par che il coresenta l’odore,tante son stilletant’ha favilleche danno lenaad ogni vena,che danno al pettodolce diletto!Atto terzoScena primaBacco, Nisa.<div type="scene">
+          <head>CORO DI SATIRI</head>a 8Deh, compagni, venite,deh venite, compagni;niun si lagni;deh, compagni venite,deh venite, compagni.Due satiriCure moleste,per le foresteite tra voi,gioirem noiin bel convito,in sen fiorito,fuor delle linfe,tra vaghe ninfe.Due altri satiriQuel prezioso,tutto odoroso,tutto divinoodor del vino,la sete rabbiadi nostra labbiaper l’avvenirefarà bandire.(qui si replica Deh, compagni a 8)Due satiriO, s’io trovassitra questi sassiquel dolce umoreche allegra il core,quei tenerini,dolci rubini,la calamitadi nostra vita!Due altri satiriGià par che il coresenta l’odore,tante son stilletant’ha favilleche danno lenaad ogni vena,che danno al pettodolce diletto!Atto terzoScena primaBacco, Nisa.<sp who="#coro di satiri">
+            <speaker>CORO DI SATIRI:</speaker>
+            <l>a 8</l>
+            <l>Deh, compagni, venite,</l>
+            <l>deh venite, compagni;</l>
+            <l>niun si lagni;</l>
+            <l>deh, compagni venite,</l>
+            <l>deh venite, compagni.</l>
+            <l>Due satiri</l>
+            <l>Cure moleste,</l>
+            <l>per le foreste</l>
+            <l>ite tra voi,</l>
+            <l>gioirem noi</l>
+            <l>in bel convito,</l>
+            <l>in sen fiorito,</l>
+            <l>fuor delle linfe,</l>
+            <l>tra vaghe ninfe.</l>
+            <l>Due altri satiri</l>
+            <l>Quel prezioso,</l>
+            <l>tutto odoroso,</l>
+            <l>tutto divino</l>
+            <l>odor del vino,</l>
+            <l>la sete rabbia</l>
+            <l>di nostra labbia</l>
+            <l>per l’avvenire</l>
+            <l>farà bandire.</l>
+            <l>(qui si replica Deh, compagni a 8)</l>
+            <l>Due satiri</l>
+            <l>O, s’io trovassi</l>
+            <l>tra questi sassi</l>
+            <l>quel dolce umore</l>
+            <l>che allegra il core,</l>
+            <l>quei tenerini,</l>
+            <l>dolci rubini,</l>
+            <l>la calamita</l>
+            <l>di nostra vita!</l>
+            <l>Due altri satiri</l>
+            <l>Già par che il core</l>
+            <l>senta l’odore,</l>
+            <l>tante son stille</l>
+            <l>tant’ha faville</l>
+            <l>che danno lena</l>
+            <l>ad ogni vena,</l>
+            <l>che danno al petto</l>
+            <l>dolce diletto!</l>
+            <l>Atto terzo</l>
+            <l>Scena prima</l>
+            <l>Bacco, Nisa.</l>
+          </sp>
+          <stage>CORO DI SATIRIa 8Deh, compagni, venite,deh venite, compagni;niun si lagni;deh, compagni venite,deh venite, compagni.Due satiriCure moleste,per le foresteite tra voi,gioirem noiin bel convito,in sen fiorito,fuor delle linfe,tra vaghe ninfe.Due altri satiriQuel prezioso,tutto odoroso,tutto divinoodor del vino,la sete rabbiadi nostra labbiaper l’avvenirefarà bandire.(qui si replica Deh, compagni a 8)Due satiriO, s’io trovassitra questi sassiquel dolce umoreche allegra il core,quei tenerini,dolci rubini,la calamitadi nostra vita!Due altri satiriGià par che il coresenta l’odore,tante son stilletant’ha favilleche danno lenaad ogni vena,che danno al pettodolce diletto!Atto terzoScena primaBacco, Nisa.</stage>
+          <sp who="#bacco">
+            <speaker>BACCO:</speaker>
+            <l>Schernito ed oltraggiato il padre Libero?</l>
+            <l>Dove? Da chi? Dal figlio di Calliope</l>
+            <l>vicino all’acque torbide</l>
+            <l>d’Ebro, che del suo fango or s’è fatto aureo,</l>
+            <l>un dio da un pastorello! Oh, come avvampami</l>
+            <l>lo sdegno al cor! Dove il furore aggirasi?</l>
+          </sp>
+          <sp who="#nisa">
+            <speaker>NISA:</speaker>
+            <l>Nelle grotte infernali:</l>
+            <l>ivi, d’ordin di Giove,</l>
+            <l>vuol che tutt’oggi confinato resti</l>
+            <l>il messaggero alato de’ celesti.</l>
+          </sp>
+          <sp who="#bacco">
+            <speaker>BACCO:</speaker>
+            <l>Forse perché non turbi il bel convito,</l>
+            <l>le feste e l’allegria</l>
+            <l>che altri ha d’Orfeo, egli dell’onta mia?</l>
+            <l>Lo turberà, vi spargerà del sangue.</l>
+          </sp>
+          <sp who="#nisa">
+            <speaker>NISA:</speaker>
+            <l>Deh, frena il tuo disdegno!</l>
+            <l>Non si convien a un dio tanto furore.</l>
+          </sp>
+          <sp who="#bacco">
+            <speaker>BACCO:</speaker>
+            <l>Conviensi morte a chi dispregia amore.</l>
+          </sp>
+          <sp who="#nisa">
+            <speaker>NISA:</speaker>
+            <l>Un nume è ancor piacevole nell’ira.</l>
+          </sp>
+          <sp who="#bacco">
+            <speaker>BACCO:</speaker>
+            <l>Bacco, o dolcezza, o sangue e morte spira.</l>
+          </sp>
+          <sp who="#nisa">
+            <speaker>NISA:</speaker>
+            <l>Il vestir lieto e ‘l volto amor promette.</l>
+          </sp>
+          <sp who="#bacco">
+            <speaker>BACCO:</speaker>
+            <l>Il tirso e le mie tigri ancor vendette.</l>
+          </sp>
+          <sp who="#nisa">
+            <speaker>NISA:</speaker>
+            <l>Deh, per mio amor perdona!</l>
+          </sp>
+          <sp who="#bacco">
+            <speaker>BACCO:</speaker>
+            <l>Al tuo nemico?</l>
+          </sp>
+          <sp who="#nisa">
+            <speaker>NISA:</speaker>
+            <l>Al comun bene, al canto a tutti amico.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>BACCO</head>Non sai, misera Nisa, i scorni tuoi!Sappili da compagne.Ecco gemendo van per le campagne.Io me ne volo al ciel, quindi all’inferno,per impetrar da Giovedi menar il furor dove mi giove.Scena secondaCoro di Menadi, Nisa.<sp who="#bacco">
+            <speaker>BACCO:</speaker>
+            <l>Non sai, misera Nisa, i scorni tuoi!</l>
+            <l>Sappili da compagne.</l>
+            <l>Ecco gemendo van per le campagne.</l>
+            <l>Io me ne volo al ciel, quindi all’inferno,</l>
+            <l>per impetrar da Giove</l>
+            <l>di menar il furor dove mi giove.</l>
+            <l>Scena seconda</l>
+            <l>Coro di Menadi, Nisa.</l>
+          </sp>
+          <stage>BACCONon sai, misera Nisa, i scorni tuoi!Sappili da compagne.Ecco gemendo van per le campagne.Io me ne volo al ciel, quindi all’inferno,per impetrar da Giovedi menar il furor dove mi giove.Scena secondaCoro di Menadi, Nisa.</stage>
+          <sp who="#coro delle menadi">
+            <speaker>CORO DELLE MENADI:</speaker>
+            <l>Dove ne mandi, dolce Orfeo, lontane</l>
+            <l>lontan dal dolce canto?</l>
+            <l>E chi ne accoglie, ahimè! Sospiri e pianto?</l>
+            <l>Dunque disciolto e vagabondo il crine</l>
+            <l>ondeggi e scherzi ai venti,</l>
+            <l>e scherzi all’aure sian nostri lamenti?</l>
+            <l>E tu che fai? Nella spinosa mano</l>
+            <l>di fior corona intesta</l>
+            <l>rimanti rotta e secca alla foresta.</l>
+            <l>(ritornello che si fa, finita ogni stanza)</l>
+          </sp>
+          <stage>CORO DELLE MENADIDove ne mandi, dolce Orfeo, lontanelontan dal dolce canto?E chi ne accoglie, ahimè! Sospiri e pianto?Dunque disciolto e vagabondo il crineondeggi e scherzi ai venti,e scherzi all’aure sian nostri lamenti?E tu che fai? Nella spinosa manodi fior corona intestarimanti rotta e secca alla foresta.(ritornello che si fa, finita ogni stanza)</stage>
+          <sp who="#nisa">
+            <speaker>NISA:</speaker>
+            <l>Dunque Orfeo ci abbandona?</l>
+            <l>Or dove irem dolenti? Amate selve,</l>
+            <l>deh, rispondete voi, voi ne guidate,</l>
+            <l>che noi già disperiamo.</l>
+          </sp>
+          <sp who="#eco">
+            <speaker>ECO:</speaker>
+            <l>Speriamo, amo.</l>
+          </sp>
+          <sp who="#nisa">
+            <speaker>NISA:</speaker>
+            <l>Se more amore in lui,</l>
+            <l>come viverem noi? Deh, gentil Eco,</l>
+            <l>a quel crudel il nostro mal racconta.</l>
+          </sp>
+          <sp who="#eco">
+            <speaker>ECO:</speaker>
+            <l>Conta, onta.</l>
+          </sp>
+          <sp who="#nisa">
+            <speaker>NISA:</speaker>
+            <l>Conta l’onta d’Orfeo. Ma che faranno</l>
+            <l>inferme donne e imbelli?</l>
+            <l>Dunque di novo l’alma si dispera…</l>
+          </sp>
+          <sp who="#eco">
+            <speaker>ECO:</speaker>
+            <l>Pera, era.</l>
+          </sp>
+          <sp who="#nisa">
+            <speaker>NISA:</speaker>
+            <l>Era amante ora;</l>
+            <l>però niun gema più, né più sospire</l>
+          </sp>
+          <sp who="#eco">
+            <speaker>ECO:</speaker>
+            <l>Spire, ire.</l>
+          </sp>
+          <sp who="#nisa">
+            <speaker>NISA:</speaker>
+            <l>E respiri ciascun alla vendetta.</l>
+            <l>Che più s’aspetta?</l>
+            <l>Ciascun core infurie.</l>
+          </sp>
+          <sp who="#eco">
+            <speaker>ECO:</speaker>
+            <l>Furie, rie.</l>
+          </sp>
+          <sp who="#nisa">
+            <speaker>NISA:</speaker>
+            <l>Le rie furie d’Averno</l>
+            <l>venghino prima ad incitare il core,</l>
+            <l>poscia l’anciderem senza dimore.</l>
+          </sp>
+          <sp who="#una delle menadi">
+            <speaker>UNA DELLE MENADI:</speaker>
+            <l>Mora.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ECO</head>Mora, ora.Scena terzaLincastro. Ireno, pastore.<sp who="#eco">
+            <speaker>ECO:</speaker>
+            <l>Mora, ora.</l>
+            <l>Scena terza</l>
+            <l>Lincastro. Ireno, pastore.</l>
+          </sp>
+          <stage>ECOMora, ora.Scena terzaLincastro. Ireno, pastore.</stage>
+          <sp who="#ireno">
+            <speaker>IRENO:</speaker>
+            <l>Ah, infelice Ireno!</l>
+            <l>Ahi! Lagrimose luci, che vedeste</l>
+            <l>spettacolo sì fiero,</l>
+            <l>come a sonno immortal non vi chiudeste?</l>
+            <l>Ahi! Vago cigno, ahi! Lagrimosa sorte,</l>
+            <l>che ‘n premio del tuo canto hai dura morte!</l>
+          </sp>
+          <sp who="#lincastro">
+            <speaker>LINCASTRO:</speaker>
+            <l>Non è quel, che di dolce amaro pianto</l>
+            <l>fa rimbombar la selva, il nostro Ireno?</l>
+            <l>Ah, sì, deh, per che tanto,</l>
+            <l>caro pastor, ti lagni?</l>
+            <l>Deh, per che il volto bagni</l>
+            <l>d’amara pioggia e questo lido ameno?</l>
+            <l>Fai al tuo doler gemere i venti</l>
+            <l>ai gravi tuoi lamenti.</l>
+          </sp>
+          <sp who="#ireno">
+            <speaker>IRENO:</speaker>
+            <l>Veduto hai ben, Lincastro,</l>
+            <l>quel domestico cigno e così vago</l>
+            <l>di cantar sulla riva</l>
+            <l>di questa d’or corrente acqua nativa.</l>
+          </sp>
+          <sp who="#lincastro">
+            <speaker>LINCASTRO:</speaker>
+            <l>Cento e più volte, ogn’ora</l>
+            <l>tra pastori dimora.</l>
+          </sp>
+          <sp who="#ireno">
+            <speaker>IRENO:</speaker>
+            <l>Or, mentre lieto canta</l>
+            <l>ed allegra de’ numi il bel convito,</l>
+            <l>ecco, vien dalle selve stuolo ardito.</l>
+            <l>Chi ‘l crederia? D’imbelli</l>
+            <l>invidiosi augelli,</l>
+            <l>ch’al bel cigno canoro</l>
+            <l>dieron morte crudele;</l>
+            <l>e tal fu il lor furore,</l>
+            <l>ch’avendo quelle membra, ahimè! divise,</l>
+            <l>ciascun ne portò via quel che recise.</l>
+          </sp>
+          <sp who="#lincastro">
+            <speaker>LINCASTRO:</speaker>
+            <l>Ah! Prodigi son questi,</l>
+            <l>d’impendente destin segni funesti.</l>
+            <l>Anzi, che veggio? Ahimè, fuggiam Ireno!</l>
+            <l>Qui si fanno apparire diversi mostri per la scena.</l>
+          </sp>
+          <stage>LINCASTROAh! Prodigi son questi,d’impendente destin segni funesti.Anzi, che veggio? Ahimè, fuggiam Ireno!Qui si fanno apparire diversi mostri per la scena.</stage>
+        </div>
+        <div type="scene">
+          <head>IRENO</head>Lupi son, mostri son d’ira frementi;salviamo i nostri armenti!Scena quartaBacco, Furore.<sp who="#ireno">
+            <speaker>IRENO:</speaker>
+            <l>Lupi son, mostri son d’ira frementi;</l>
+            <l>salviamo i nostri armenti!</l>
+            <l>Scena quarta</l>
+            <l>Bacco, Furore.</l>
+          </sp>
+          <stage>IRENOLupi son, mostri son d’ira frementi;salviamo i nostri armenti!Scena quartaBacco, Furore.</stage>
+          <sp who="#bacco">
+            <speaker>BACCO:</speaker>
+            <l>Se mai per nostro amore,</l>
+            <l>ardito mio ministro,</l>
+            <l>guerreggiasti nell’armi,</l>
+            <l>oggi fa’ che di palme</l>
+            <l>assai più degne il crine t’incorono.</l>
+          </sp>
+          <sp who="#furore">
+            <speaker>FURORE:</speaker>
+            <l>Eccomi, al paragone</l>
+            <l>d’ogni altro tempo, pronto a’ cenni tuoi,</l>
+            <l>ad eseguir vendette,</l>
+            <l>a impennar dardi, ad infiammar saette.</l>
+          </sp>
+          <sp who="#bacco">
+            <speaker>BACCO:</speaker>
+            <l>Avvelena la face,</l>
+            <l>ed odio sia il veleno</l>
+            <l>onde ogni cor di subito si sface.</l>
+            <l>Il cor avvampi e ‘l seno</l>
+            <l>delle menadi mie;</l>
+            <l>corran spietate e rie</l>
+            <l>ad isbranar Orfeo, e sian le rive</l>
+            <l>del suo sangue cosparte,</l>
+            <l>e le membra divise a parte a parte.</l>
+          </sp>
+          <sp who="#furore">
+            <speaker>FURORE:</speaker>
+            <l>Or or, Bacco, vedrai</l>
+            <l>la tua vendetta viva</l>
+            <l>e lacerato Orfeo di riva in riva.</l>
+          </sp>
+          <sp who="#bacco">
+            <speaker>BACCO:</speaker>
+            <l>Ecco là: sopra il monte</l>
+            <l>chiaman il nume ai lieti sacrifici</l>
+            <l>di tirso armate e pronte</l>
+            <l>a ricever nel petto</l>
+            <l>le fiamme tue ed il velen d’Aletto.</l>
+          </sp>
+          <sp who="#furore">
+            <speaker>FURORE:</speaker>
+            <l>Io volo dunque.</l>
+          </sp>
+          <sp who="#bacco">
+            <speaker>BACCO:</speaker>
+            <l>E spira</l>
+            <l>odio, dovunque passi, incendio ed ira.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>CORO DI PASTORI</head>Due pastoriL’Ebro, c’ha d’oro i flutti,pallido corre e geme;secchi sono e distruttii vaghi fior c’ha nelle sponde estreme.Givan pur ora allegrigli augei di faggio in faggio,or stan solinghi ed egri,e su nel ciel sparito è il più bel raggio.Due pastoriQualche grave rovinasovrasta a questi lidi,o fiamma repentina,o inimica mano, o petti infidi!O ciel, sì liberalein dar segni dell’ira,non far colpo mortale,e scendan parchi i fulmini a ferire.a 5O quante strida, o quantis’odon per queste selvesospir, lamenti e pianti,mostri selvaggi e sanguinose belve!Atto quartoScena primaMercurio dal cielo, coro di Dèi, Orfeo.<div type="scene">
+          <head>CORO DI PASTORI</head>Due pastoriL’Ebro, c’ha d’oro i flutti,pallido corre e geme;secchi sono e distruttii vaghi fior c’ha nelle sponde estreme.Givan pur ora allegrigli augei di faggio in faggio,or stan solinghi ed egri,e su nel ciel sparito è il più bel raggio.Due pastoriQualche grave rovinasovrasta a questi lidi,o fiamma repentina,o inimica mano, o petti infidi!O ciel, sì liberalein dar segni dell’ira,non far colpo mortale,e scendan parchi i fulmini a ferire.a 5O quante strida, o quantis’odon per queste selvesospir, lamenti e pianti,mostri selvaggi e sanguinose belve!Atto quartoScena primaMercurio dal cielo, coro di Dèi, Orfeo.<sp who="#coro di pastori">
+            <speaker>CORO DI PASTORI:</speaker>
+            <l>Due pastori</l>
+            <l>L’Ebro, c’ha d’oro i flutti,</l>
+            <l>pallido corre e geme;</l>
+            <l>secchi sono e distrutti</l>
+            <l>i vaghi fior c’ha nelle sponde estreme.</l>
+            <l>Givan pur ora allegri</l>
+            <l>gli augei di faggio in faggio,</l>
+            <l>or stan solinghi ed egri,</l>
+            <l>e su nel ciel sparito è il più bel raggio.</l>
+            <l>Due pastori</l>
+            <l>Qualche grave rovina</l>
+            <l>sovrasta a questi lidi,</l>
+            <l>o fiamma repentina,</l>
+            <l>o inimica mano, o petti infidi!</l>
+            <l>O ciel, sì liberale</l>
+            <l>in dar segni dell’ira,</l>
+            <l>non far colpo mortale,</l>
+            <l>e scendan parchi i fulmini a ferire.</l>
+            <l>a 5</l>
+            <l>O quante strida, o quanti</l>
+            <l>s’odon per queste selve</l>
+            <l>sospir, lamenti e pianti,</l>
+            <l>mostri selvaggi e sanguinose belve!</l>
+            <l>Atto quarto</l>
+            <l>Scena prima</l>
+            <l>Mercurio dal cielo, coro di Dèi, Orfeo.</l>
+          </sp>
+          <stage>CORO DI PASTORIDue pastoriL’Ebro, c’ha d’oro i flutti,pallido corre e geme;secchi sono e distruttii vaghi fior c’ha nelle sponde estreme.Givan pur ora allegrigli augei di faggio in faggio,or stan solinghi ed egri,e su nel ciel sparito è il più bel raggio.Due pastoriQualche grave rovinasovrasta a questi lidi,o fiamma repentina,o inimica mano, o petti infidi!O ciel, sì liberalein dar segni dell’ira,non far colpo mortale,e scendan parchi i fulmini a ferire.a 5O quante strida, o quantis’odon per queste selvesospir, lamenti e pianti,mostri selvaggi e sanguinose belve!Atto quartoScena primaMercurio dal cielo, coro di Dèi, Orfeo.</stage>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Senatori del ciel, numi sovrani,</l>
+            <l>per non lieve cagione</l>
+            <l>del celeste governo</l>
+            <l>Giove v’attende al concistoro eterno.</l>
+          </sp>
+          <sp who="#uno degli dèi">
+            <speaker>UNO DEGLI DÈI:</speaker>
+            <l>Dunque riman felice,</l>
+            <l>illustre semideo.</l>
+            <l>Tutti gli Dèi insieme intanto che s’alza la nuvola che li porta in cielo.</l>
+          </sp>
+          <stage>UNO DEGLI DÈIDunque riman felice,illustre semideo.Tutti gli Dèi insieme intanto che s’alza la nuvola che li porta in cielo.</stage>
+          <sp who="#coro di dèi">
+            <speaker>CORO DI DÈI:</speaker>
+            <l>Dunque riman felice,</l>
+            <l>illustre semideo,</l>
+            <l>già qui dimora a noi far più non lice;</l>
+            <l>dunque riman felice.</l>
+          </sp>
+          <sp who="#apollo">
+            <speaker>APOLLO:</speaker>
+            <l>Questa del tuo natal lieta ultim’ora</l>
+            <l>godi gioioso; intanto</l>
+            <l>faran plauso le stelle al nostro canto.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ORFEO</head>Ite al sacro consigliodel governo del mondo, o sommi dèi,e queste piagge e questi lidi mieitalor mirate con sereno ciglio.Ahimè, che, al vostro dipartir, si partedal cor ogni mia gioiae ‘l petto ingombra orror, timor e noia;su, dolcissima cetra,dilegua il repentino mio dolore,su, col tuo canto, impetrail primiero seren al fosco core!Ah, che trema la mano;ah, mute son le corde.E sento l’infelicenuda ombra d’Euridiceche mi chiama. Ove sei,dolce, cara consorte?Dove debbo venire?Ai regni, ai regni dell’oscura morte.Vengo e ti seguo. Ahi lasso!Non può spiegar un passoirrigidito il piede.Dunque starommi in quel cespuglio ombroso,e darammi ristorol’ombra soave del paterno alloro.Scena secondaCoro delle Menadi infuriate, Furore.<sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Ite al sacro consiglio</l>
+            <l>del governo del mondo, o sommi dèi,</l>
+            <l>e queste piagge e questi lidi miei</l>
+            <l>talor mirate con sereno ciglio.</l>
+            <l>Ahimè, che, al vostro dipartir, si parte</l>
+            <l>dal cor ogni mia gioia</l>
+            <l>e ‘l petto ingombra orror, timor e noia;</l>
+            <l>su, dolcissima cetra,</l>
+            <l>dilegua il repentino mio dolore,</l>
+            <l>su, col tuo canto, impetra</l>
+            <l>il primiero seren al fosco core!</l>
+            <l>Ah, che trema la mano;</l>
+            <l>ah, mute son le corde.</l>
+            <l>E sento l’infelice</l>
+            <l>nuda ombra d’Euridice</l>
+            <l>che mi chiama. Ove sei,</l>
+            <l>dolce, cara consorte?</l>
+            <l>Dove debbo venire?</l>
+            <l>Ai regni, ai regni dell’oscura morte.</l>
+            <l>Vengo e ti seguo. Ahi lasso!</l>
+            <l>Non può spiegar un passo</l>
+            <l>irrigidito il piede.</l>
+            <l>Dunque starommi in quel cespuglio ombroso,</l>
+            <l>e darammi ristoro</l>
+            <l>l’ombra soave del paterno alloro.</l>
+            <l>Scena seconda</l>
+            <l>Coro delle Menadi infuriate, Furore.</l>
+          </sp>
+          <stage>ORFEOIte al sacro consigliodel governo del mondo, o sommi dèi,e queste piagge e questi lidi mieitalor mirate con sereno ciglio.Ahimè, che, al vostro dipartir, si partedal cor ogni mia gioiae ‘l petto ingombra orror, timor e noia;su, dolcissima cetra,dilegua il repentino mio dolore,su, col tuo canto, impetrail primiero seren al fosco core!Ah, che trema la mano;ah, mute son le corde.E sento l’infelicenuda ombra d’Euridiceche mi chiama. Ove sei,dolce, cara consorte?Dove debbo venire?Ai regni, ai regni dell’oscura morte.Vengo e ti seguo. Ahi lasso!Non può spiegar un passoirrigidito il piede.Dunque starommi in quel cespuglio ombroso,e darammi ristorol’ombra soave del paterno alloro.Scena secondaCoro delle Menadi infuriate, Furore.</stage>
+          <sp who="#coro delle menadi">
+            <speaker>CORO DELLE MENADI:</speaker>
+            <l>Bacco Niseo,</l>
+            <l>Libero Bacco,</l>
+            <l>Bacco Niseo,</l>
+            <l>Bacco Bacco,</l>
+            <l>Liceo Evio,</l>
+            <l>Bacco Tirsigero.</l>
+          </sp>
+          <sp who="#furore">
+            <speaker>FURORE:</speaker>
+            <l>Non esce pur ancora</l>
+            <l>il fuoco, eppur omai</l>
+            <l>le viscere divora.</l>
+            <l>Fuora, Furor, che fai?</l>
+            <l>Impugna il tirso</l>
+            <l>e scopri il ferro,</l>
+            <l>che, s’io non erro,</l>
+            <l>ecco vicin Orfeo.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>UNA DELLE MENADI</head>IFermate il piè, compagne,ch’io vedo, e non m’inganno,un fiero lupo.IIDove s’appiatta?INell’orror cupodi quella fratta.IILupo non è né fiera, e sembra un uomo;anzi è ‘l nemico Orfeo.IDunque s’uccidadove s’annida.IIDunque a vendettacorriamo in fretta.si replica Bacco Niseo a 4Scena terzaCalliope sola.Il desio di veder l’amato figliole collinette amenemi fa lasciar di Pindo e di Pirene;ma quel torbido, ahimè! pallido umore,che versa l’Ebro mio fuor dell’usato,a lagrimar m’invogliaad isfogar la dogliache di mezzo alle dolcezze amara nasce,e, nato appena, in fascemille dardi crudeliavventa nel mio core,saettatrice esperta di dolore.O dolci aure soavi, voi che, sì lietesussurrando, d’intornov’aggirate d’Orfeo al bel soggiorno,ditegli che se n’ volea questa riva, acciò la lusinghierasua cetra mi console,e ‘l mio dolor pera.Scena quartaFileno, nunzio. Calliope.<sp who="#una delle menadi">
+            <speaker>UNA DELLE MENADI:</speaker>
+            <l>I</l>
+            <l>Fermate il piè, compagne,</l>
+            <l>ch’io vedo, e non m’inganno,</l>
+            <l>un fiero lupo.</l>
+            <l>II</l>
+            <l>Dove s’appiatta?</l>
+            <l>I</l>
+            <l>Nell’orror cupo</l>
+            <l>di quella fratta.</l>
+            <l>II</l>
+            <l>Lupo non è né fiera, e sembra un uomo;</l>
+            <l>anzi è ‘l nemico Orfeo.</l>
+            <l>I</l>
+            <l>Dunque s’uccida</l>
+            <l>dove s’annida.</l>
+            <l>II</l>
+            <l>Dunque a vendetta</l>
+            <l>corriamo in fretta.</l>
+            <l>si replica Bacco Niseo a 4</l>
+            <l>Scena terza</l>
+            <l>Calliope sola.</l>
+            <l>Il desio di veder l’amato figlio</l>
+            <l>le collinette amene</l>
+            <l>mi fa lasciar di Pindo e di Pirene;</l>
+            <l>ma quel torbido, ahimè! pallido umore,</l>
+            <l>che versa l’Ebro mio fuor dell’usato,</l>
+            <l>a lagrimar m’invoglia</l>
+            <l>ad isfogar la doglia</l>
+            <l>che di mezzo alle dolcezze amara nasce,</l>
+            <l>e, nato appena, in fasce</l>
+            <l>mille dardi crudeli</l>
+            <l>avventa nel mio core,</l>
+            <l>saettatrice esperta di dolore.</l>
+            <l>O dolci aure soavi, voi che, sì liete</l>
+            <l>sussurrando, d’intorno</l>
+            <l>v’aggirate d’Orfeo al bel soggiorno,</l>
+            <l>ditegli che se n’ vole</l>
+            <l>a questa riva, acciò la lusinghiera</l>
+            <l>sua cetra mi console,</l>
+            <l>e ‘l mio dolor pera.</l>
+            <l>Scena quarta</l>
+            <l>Fileno, nunzio. Calliope.</l>
+          </sp>
+          <stage>UNA DELLE MENADIIFermate il piè, compagne,ch’io vedo, e non m’inganno,un fiero lupo.IIDove s’appiatta?INell’orror cupodi quella fratta.IILupo non è né fiera, e sembra un uomo;anzi è ‘l nemico Orfeo.IDunque s’uccidadove s’annida.IIDunque a vendettacorriamo in fretta.si replica Bacco Niseo a 4Scena terzaCalliope sola.Il desio di veder l’amato figliole collinette amenemi fa lasciar di Pindo e di Pirene;ma quel torbido, ahimè! pallido umore,che versa l’Ebro mio fuor dell’usato,a lagrimar m’invogliaad isfogar la dogliache di mezzo alle dolcezze amara nasce,e, nato appena, in fascemille dardi crudeliavventa nel mio core,saettatrice esperta di dolore.O dolci aure soavi, voi che, sì lietesussurrando, d’intornov’aggirate d’Orfeo al bel soggiorno,ditegli che se n’ volea questa riva, acciò la lusinghierasua cetra mi console,e ‘l mio dolor pera.Scena quartaFileno, nunzio. Calliope.</stage>
+          <sp who="#fileno">
+            <speaker>FILENO:</speaker>
+            <l>Versate, ahimè, versate,</l>
+            <l>amarissimi lumi,</l>
+            <l>amarissimi fiumi</l>
+            <l>che, gorgogliando, destino pietate.</l>
+          </sp>
+          <sp who="#calliope">
+            <speaker>CALLIOPE:</speaker>
+            <l>Narra, Filena, narra il tuo dolore.</l>
+          </sp>
+          <sp who="#fileno">
+            <speaker>FILENO:</speaker>
+            <l>Lacera, o madre, il crine,</l>
+            <l>vesti di bruno, o terra, i tuoi fioretti</l>
+            <l>e scopri all’onde d’oro</l>
+            <l>d’Ebro infelice il lucido tesoro.</l>
+          </sp>
+          <sp who="#calliope">
+            <speaker>CALLIOPE:</speaker>
+            <l>Ahimè, qual flebil suono</l>
+            <l>acutissimi dardi al cor m’aumenta!</l>
+            <l>Ah, voce no, ma tuono,</l>
+            <l>onde il fulmineo orror l’alma paventa.</l>
+            <l>Parla, crudel, e non m’uccider sempre</l>
+            <l>in sì dogliose tempre!</l>
+          </sp>
+          <sp who="#fileno">
+            <speaker>FILENO:</speaker>
+            <l>Parlerà, ch’io no ‘l posso, il mio dolore,</l>
+            <l>parleranno le lagrime e i sospiri;</l>
+            <l>parleran queste selve e questi colli,</l>
+            <l>fatti loquaci al suon de’ miei martiri,</l>
+            <l>e nel sangue d’Orfeo tiepidi e molli.</l>
+          </sp>
+          <sp who="#calliope">
+            <speaker>CALLIOPE:</speaker>
+            <l>Dunque il mio dolce figlio</l>
+            <l>giace nel sangue suo fatto vermiglio?</l>
+            <l>Deh, narra qual si sia</l>
+            <l>la sua sventura e l’aspra pena mia!</l>
+          </sp>
+          <sp who="#fileno">
+            <speaker>FILENO:</speaker>
+            <l>Narrerò, se il dolore</l>
+            <l>lascia alla voce il suon, la vita al core.</l>
+            <l>Sotto l’ombra di bel crinito alloro,</l>
+            <l>in grembo a verdi e preziose erbette,</l>
+            <l>presso a un ruscello, al gorgogliar canoro</l>
+            <l>di linfe fuggitive e garrulette,</l>
+            <l>prendeva Orfeo gratissimo ristoro</l>
+            <l>rallentando le pene al cor ristrette,</l>
+            <l>e facea con soavi e mesti carmi</l>
+            <l>indurir l’onda, intenerir i marmi.</l>
+            <l>Era, bianca colonna, eburnea mano</l>
+            <l>alla purpurea gota appoggio fido;</l>
+            <l>avea gli occhi rivolti al ciel invano,</l>
+            <l>al ciel ch’è sordo di sospir al grido;</l>
+            <l>facea l’aurata cetra il duol insano</l>
+            <l>muta giacer nel strepitoso lido</l>
+            <l>ch’Ebro mordendo bagna, e parea dire:</l>
+            <l>«Vedimi, Orfeo, al tuo languir languire».</l>
+            <l>Con gemer lieve e sospirar profondo</l>
+            <l>ei rimembrava intanto, e maledice</l>
+            <l>l’inesorabil fato, che dal mondo</l>
+            <l>tolse il suo ben, e sospirando dice:</l>
+            <l>«Fato crudel, ben m’hai riposto al fondo</l>
+            <l>d’un pelago di lagrime, infelice!»</l>
+            <l>Volea pur dir, ma ruppe il canto e ‘l duolo</l>
+            <l>un confuso ulular d’armato stuolo.</l>
+            <l>Volge Orfeo gli occhi lagrimosi e vede</l>
+            <l>venir contro di sé con tirsi ignudi</l>
+            <l>l’infuriate Menadi, e ben crede</l>
+            <l>poter placar di donne i petti crudi.</l>
+            <l>Prende la cetra abbandonata e fiede</l>
+            <l>le fila d’oro, che piegar gl’incudi;</l>
+            <l>ma invan corre la man, suona la cetra,</l>
+            <l>che infuriate donne han cuor di pietra.</l>
+            <l>Dunque, mentre la man dolce sonava,</l>
+            <l>ahi, dispietato e più che crudo affetto!</l>
+            <l>Mentre col suono il canto gareggiava,</l>
+            <l>e ne prendean le selve e il ciel diletto,</l>
+            <l>giunse il Furore dove Amor si stava</l>
+            <l>tra molli piume dell’eburneo petto:</l>
+            <l>quivi con mille colpi, empie, il feriro,</l>
+            <l>onde l’anima e il canto insieme usciro.</l>
+            <l>al fine di ciascheduna stanza si fa il presente ritornello adagio</l>
+          </sp>
+          <stage>FILENONarrerò, se il dolorelascia alla voce il suon, la vita al core.Sotto l’ombra di bel crinito alloro,in grembo a verdi e preziose erbette,presso a un ruscello, al gorgogliar canorodi linfe fuggitive e garrulette,prendeva Orfeo gratissimo ristororallentando le pene al cor ristrette,e facea con soavi e mesti carmiindurir l’onda, intenerir i marmi.Era, bianca colonna, eburnea manoalla purpurea gota appoggio fido;avea gli occhi rivolti al ciel invano,al ciel ch’è sordo di sospir al grido;facea l’aurata cetra il duol insanomuta giacer nel strepitoso lidoch’Ebro mordendo bagna, e parea dire:«Vedimi, Orfeo, al tuo languir languire».Con gemer lieve e sospirar profondoei rimembrava intanto, e maledicel’inesorabil fato, che dal mondotolse il suo ben, e sospirando dice:«Fato crudel, ben m’hai riposto al fondod’un pelago di lagrime, infelice!»Volea pur dir, ma ruppe il canto e ‘l duoloun confuso ulular d’armato stuolo.Volge Orfeo gli occhi lagrimosi e vedevenir contro di sé con tirsi ignudil’infuriate Menadi, e ben credepoter placar di donne i petti crudi.Prende la cetra abbandonata e fiedele fila d’oro, che piegar gl’incudi;ma invan corre la man, suona la cetra,che infuriate donne han cuor di pietra.Dunque, mentre la man dolce sonava,ahi, dispietato e più che crudo affetto!Mentre col suono il canto gareggiava,e ne prendean le selve e il ciel diletto,giunse il Furore dove Amor si stavatra molli piume dell’eburneo petto:quivi con mille colpi, empie, il feriro,onde l’anima e il canto insieme usciro.al fine di ciascheduna stanza si fa il presente ritornello adagio</stage>
+          <sp who="#calliope">
+            <speaker>CALLIOPE:</speaker>
+            <l>Ahi, dolor che m’uccidi!</l>
+            <l>Morte, che con un dardo,</l>
+            <l>a volar lieve a ritenersi tardo,</l>
+            <l>due vite abbatti e due alme dividi!</l>
+          </sp>
+          <sp who="#fileno">
+            <speaker>FILENO:</speaker>
+            <l>Anzi, ecco appunto ch’Ebro</l>
+            <l>fra le lacrime sue ti porta avvolto</l>
+            <l>tra bianchi lini di tua prole il volto,</l>
+            <l>e par che dica all’onda in dubbio suono:</l>
+            <l>«Cantate voi, ora che muto io sono».</l>
+          </sp>
+          <sp who="#calliope">
+            <speaker>CALLIOPE:</speaker>
+            <l>Ahi, vista! Ahi, figlio! Ahi, ciel! Ahi, numi! Ahi, sorte!</l>
+            <l>Serbate a me la vita, al figlio date</l>
+            <l>acerbissima morte!</l>
+            <l>Ahi, figlio, chi t’uccise?</l>
+            <l>Figlio, rispondi, o figlio,</l>
+            <l>quell’eburneo collo, ahi! chi ‘l recise?</l>
+          </sp>
+          <sp who="#fileno">
+            <speaker>FILENO:</speaker>
+            <l>Nel petto, ahimè! di femmine crudeli.</l>
+            <l>Ove di crudeltà si pasce il core,</l>
+            <l>nacque e crebbe di subito il furore.</l>
+          </sp>
+          <sp who="#calliope">
+            <speaker>CALLIOPE:</speaker>
+            <l>Donne crudeli e ingrate,</l>
+            <l>ben pagherete il fio</l>
+            <l>del fallo vostro ingiusto</l>
+            <l>al giusto dolor mio!</l>
+            <l>Ma chi mi rende intanto il tronco busto?</l>
+          </sp>
+          <sp who="#fileno">
+            <speaker>FILENO:</speaker>
+            <l>Ahi, che l’empie omicide</l>
+            <l>il laceraro tutto a brano a brano,</l>
+            <l>e le stillanti membra</l>
+            <l>or seminando van per monte e piano!</l>
+          </sp>
+          <sp who="#calliope">
+            <speaker>CALLIOPE:</speaker>
+            <l>Anderò dunque, pria che il duol m’uccida,</l>
+            <l>l’innocenti reliquie del mio bene</l>
+            <l>raccogliendo in sospir, lagrime e pene.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>CORO DI PASTORI</head>a 6O tutti, raccoltida piagge, da monti,sospiri sepolti,nei rivi le fontivenite colmando,nell’umido umorevenite scemandoi cuor di dolore.È morto, ahi, chi piange!È morto, ahi, chi geme!Il petto che frangedi Tracia la speme;è muta la lirache trasse le selve,che l’ira ~ feroceplacò delle belve!Or lacera, esanguesi giace la prole,qual fiore che languereciso dal sole.O ferro spietato!Che mano crudele!Oh quanto hai versatod’assenzio e di fiele!È muta, ahi! la lirache vinse l’inferno,che ai regni dell’iradiè dolce governo;ch’in tremoli accentigià fece fermarela furia de’ venti,l’orgoglio del mare.Atto quintoScena primaOrfeo, Caronte nell’inferno.Qui è da notare che per Orfeo s’intende l’ombra d’Orfeo; essendo già morto.<div type="scene">
+          <head>CORO DI PASTORI</head>a 6O tutti, raccoltida piagge, da monti,sospiri sepolti,nei rivi le fontivenite colmando,nell’umido umorevenite scemandoi cuor di dolore.È morto, ahi, chi piange!È morto, ahi, chi geme!Il petto che frangedi Tracia la speme;è muta la lirache trasse le selve,che l’ira ~ feroceplacò delle belve!Or lacera, esanguesi giace la prole,qual fiore che languereciso dal sole.O ferro spietato!Che mano crudele!Oh quanto hai versatod’assenzio e di fiele!È muta, ahi! la lirache vinse l’inferno,che ai regni dell’iradiè dolce governo;ch’in tremoli accentigià fece fermarela furia de’ venti,l’orgoglio del mare.Atto quintoScena primaOrfeo, Caronte nell’inferno.Qui è da notare che per Orfeo s’intende l’ombra d’Orfeo; essendo già morto.<sp who="#coro di pastori">
+            <speaker>CORO DI PASTORI:</speaker>
+            <l>a 6</l>
+            <l>O tutti, raccolti</l>
+            <l>da piagge, da monti,</l>
+            <l>sospiri sepolti,</l>
+            <l>nei rivi le fonti</l>
+            <l>venite colmando,</l>
+            <l>nell’umido umore</l>
+            <l>venite scemando</l>
+            <l>i cuor di dolore.</l>
+            <l>È morto, ahi, chi piange!</l>
+            <l>È morto, ahi, chi geme!</l>
+            <l>Il petto che frange</l>
+            <l>di Tracia la speme;</l>
+            <l>è muta la lira</l>
+            <l>che trasse le selve,</l>
+            <l>che l’ira ~ feroce</l>
+            <l>placò delle belve!</l>
+            <l>Or lacera, esangue</l>
+            <l>si giace la prole,</l>
+            <l>qual fiore che langue</l>
+            <l>reciso dal sole.</l>
+            <l>O ferro spietato!</l>
+            <l>Che mano crudele!</l>
+            <l>Oh quanto hai versato</l>
+            <l>d’assenzio e di fiele!</l>
+            <l>È muta, ahi! la lira</l>
+            <l>che vinse l’inferno,</l>
+            <l>che ai regni dell’ira</l>
+            <l>diè dolce governo;</l>
+            <l>ch’in tremoli accenti</l>
+            <l>già fece fermare</l>
+            <l>la furia de’ venti,</l>
+            <l>l’orgoglio del mare.</l>
+            <l>Atto quinto</l>
+            <l>Scena prima</l>
+            <l>Orfeo, Caronte nell’inferno.</l>
+            <l>Qui è da notare che per Orfeo s’intende l’ombra d’Orfeo; essendo già morto.</l>
+          </sp>
+          <stage>CORO DI PASTORIa 6O tutti, raccoltida piagge, da monti,sospiri sepolti,nei rivi le fontivenite colmando,nell’umido umorevenite scemandoi cuor di dolore.È morto, ahi, chi piange!È morto, ahi, chi geme!Il petto che frangedi Tracia la speme;è muta la lirache trasse le selve,che l’ira ~ feroceplacò delle belve!Or lacera, esanguesi giace la prole,qual fiore che languereciso dal sole.O ferro spietato!Che mano crudele!Oh quanto hai versatod’assenzio e di fiele!È muta, ahi! la lirache vinse l’inferno,che ai regni dell’iradiè dolce governo;ch’in tremoli accentigià fece fermarela furia de’ venti,l’orgoglio del mare.Atto quintoScena primaOrfeo, Caronte nell’inferno.Qui è da notare che per Orfeo s’intende l’ombra d’Orfeo; essendo già morto.</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Ombre grate d’Averno,</l>
+            <l>grate al paro de’ vaghi lampi d’oro,</l>
+            <l>che, col girar eterno,</l>
+            <l>intesse il sol con splendido lavoro,</l>
+            <l>or m’accogliete in seno</l>
+            <l>di quel bel lido ameno,</l>
+            <l>ove tra mirti ed amorose fronde</l>
+            <l>Euridice confonde ~ in dolce quiete</l>
+            <l>i suoi sospir col muto suon di Lete.</l>
+            <l>Or qual più lieve e pia</l>
+            <l>aura è tra questi orribili paesi,</l>
+            <l>che con dritta via</l>
+            <l>conduca a volo i miei sospiri accesi</l>
+            <l>e dia di me novella</l>
+            <l>alla mia dolce stella,</l>
+            <l>e le dica che Orfeo, non più vivente,</l>
+            <l>nud’ombra, sì, ma ardente ~ ai dolci rai</l>
+            <l>viene di lei, per non partirsi mai?</l>
+          </sp>
+          <sp who="#caronte">
+            <speaker>CARONTE:</speaker>
+            <l>Qual ombra sento in questi</l>
+            <l>spechi d’Averno rimbombar soave?</l>
+            <l>Altri lugubri e mesti</l>
+            <l>scendon quaggiù, che di lasciar gli è grave</l>
+            <l>il ciel; questi gioisce.</l>
+            <l>Or di’, chi sei,</l>
+            <l>ombra, che canti al suon di tanti omei?</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Non riconosci Orfeo,</l>
+            <l>Caronte? Ecco ch’arrivo,</l>
+            <l>nuda ombra, al comun porto;</l>
+            <l>ove già scesi vivo,</l>
+            <l>or, rotta la prigion, vi giungo morto.</l>
+            <l>Passami, per pietade,</l>
+            <l>all’altra riva, e mostra</l>
+            <l>quel campo ove felice</l>
+            <l>in grembo a mille fior gode Euridice.</l>
+          </sp>
+          <sp who="#caronte">
+            <speaker>CARONTE:</speaker>
+            <l>Ancor vaneggi, ancora,</l>
+            <l>fredda ombra, porti al sen foco amoroso?</l>
+            <l>Euridice dimora</l>
+            <l>in luogo impenetrabile e nascoso.</l>
+            <l>Getta pur tra quest’ombre ogni tua speme,</l>
+            <l>vedovo abitator di fredde arene!</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Deh! Non turbar, Caronte,</l>
+            <l>con sì crude risposte il mio gioire;</l>
+            <l>fa’ pur che varchi il rio,</l>
+            <l>che tosto rivedrò nel suo orizzonte</l>
+            <l>il sol, vivendo, morto,</l>
+            <l>al mio morir, risorto.</l>
+          </sp>
+          <sp who="#caronte">
+            <speaker>CARONTE:</speaker>
+            <l>Va’ pur errando vagabondo intorno,</l>
+            <l>anima disperata, ad altro lido;</l>
+            <l>non v’ha varco per te, né albergo fido,</l>
+            <l>finché il lacero e sparso</l>
+            <l>corpo, unito non sia sepolto ed arso.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ORFEO</head>Ahi, dura, acerba voce!Ahi dimora, di morte assai più atroce!Scena secondaMercurio, Orfeo, Caronte, Euridice.<sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Ahi, dura, acerba voce!</l>
+            <l>Ahi dimora, di morte assai più atroce!</l>
+            <l>Scena seconda</l>
+            <l>Mercurio, Orfeo, Caronte, Euridice.</l>
+          </sp>
+          <stage>ORFEOAhi, dura, acerba voce!Ahi dimora, di morte assai più atroce!Scena secondaMercurio, Orfeo, Caronte, Euridice.</stage>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>A che ti lagni, Orfeo, e, mesto il ciglio,</l>
+            <l>stampi d’orme maligne i lidi inferni?</l>
+            <l>Il ciel t’aspetta, e tu tra pianti eterni</l>
+            <l>il varco tenti di penoso esilio?</l>
+            <l>Lascia i campi di morte e le gementi</l>
+            <l>ombre d’inferno: tra i celesti eroi</l>
+            <l>avrai lucido seggio, e i crini tuoi</l>
+            <l>sfavilleranno d’or, di raggi ardenti.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Perdonami, del ciel nunzio felice:</l>
+            <l>più grato m’è in Averno</l>
+            <l>penar con Euridice</l>
+            <l>che senza lei nel ciel goder eterno.</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Ah, tu vaneggi, e credi</l>
+            <l>ch’Euridice anco t’ami e ti conoschi,</l>
+            <l>tra questi campi foschi</l>
+            <l>beve ella un lungo oblio</l>
+            <l>dell’antico desio,</l>
+            <l>deh, meco al ciel, alma felice, riedi!</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Deh, fa’ ch’io prima miri</l>
+            <l>la diletta consorte,</l>
+            <l>per cui tanti formai dolci sospiri,</l>
+            <l>per cui cara mi fu, lieta la morte.</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Vo’ ch’ella disinganni il tuo furore.</l>
+            <l>Caronte, accosta il legno:</l>
+            <l>or or trarrolla dell’Elisio fuore.</l>
+          </sp>
+          <sp who="#caronte">
+            <speaker>CARONTE:</speaker>
+            <l>Ma tu non t’accostar, alma perversa;</l>
+            <l>va’ pur girando altrove e lassa il canto</l>
+            <l>ed apprendi formar, misera, il pianto.</l>
+            <l>E se pur anco hai di cantar desio,</l>
+            <l>le pause canterai del remo mio.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>O infelice Orfeo,</l>
+            <l>o dispietata sorte</l>
+            <l>ch’alzi di me l’orribile trofeo,</l>
+            <l>e morte ancor mi dai dopo la morte!</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Ecco Euridice tua: vedila, Orfeo.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Non è più vaga e bella</l>
+            <l>qual sia nel ciel vaghissima facella:</l>
+            <l>ma ben sei crudo, rio,</l>
+            <l>che allontani le braccia al mio desio.</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Mercurio, chi è quel folle,</l>
+            <l>che nel gelo di morte arde d’amore?</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Dunque non lo conosci? Ei per te more,</l>
+            <l>e tua beltade sovra ogni altra estolle.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Euridice, mio bene, eccoti Orfeo,</l>
+            <l>quel già sì caro un tempo</l>
+            <l>agli occhi tuoi famoso semideo.</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>O tu sogni, o deliri;</l>
+            <l>io non conobbi Orfeo,</l>
+            <l>né ‘l vidi mai, né di vederlo bramo</l>
+            <l>né l’ho in odio, né l’amo.</l>
+            <l>Rimanti in pace, io torno ai dolci rai</l>
+            <l>dell’Elisio felice, ai miei desiri.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Ove fuggi, crudel? Ove mi lasci,</l>
+            <l>dura, spietata e fiera?</l>
+            <l>Euridice! Euridice!</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Or non qual era</l>
+            <l>è la consorte tua, misero amante.</l>
+            <l>Ma non temer: bevi secura l’onda,</l>
+            <l>ch’io ti porgo, e vedrai</l>
+            <l>rasserenati di tua mente i rai.</l>
+          </sp>
+          <sp who="#caronte">
+            <speaker>CARONTE:</speaker>
+            <l>Beva, beva securo l’onda,</l>
+            <l>che da Lete tranquilla inonda;</l>
+            <l>beva, beva chiunque ha sete</l>
+            <l>il sereno liquor di Lete.</l>
+            <l>Non più affanni,</l>
+            <l>non più morte,</l>
+            <l>non più sorte;</l>
+            <l>privo di doglia,</l>
+            <l>pien di piacere,</l>
+            <l>venga, chi ha sete, a bere.</l>
+            <l>Beva, beva questi cristalli,</l>
+            <l>che trascorrono per le valli.</l>
+            <l>Beva, beva di questi argenti,</l>
+            <l>che non fanno provar tormenti.</l>
+            <l>Non più affanni,</l>
+            <l>non più morte,</l>
+            <l>non più sorte;</l>
+            <l>privo di doglia,</l>
+            <l>pien di piacere,</l>
+            <l>venga, chi ha sete, a bere.</l>
+            <l>Beva, beva questo liquore,</l>
+            <l>chi piagato si sente il core.</l>
+            <l>Beva, beva chi vuol dal petto</l>
+            <l>trar le noie e sentir diletto.</l>
+            <l>Non più affanni,</l>
+            <l>non più morte,</l>
+            <l>non più sorte;</l>
+            <l>privo di doglia,</l>
+            <l>pien di piacere,</l>
+            <l>venga, chi ha sete, a bere.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Che puro sereno,</l>
+            <l>che dolce e chiaro lume aggiorna all’alma!</l>
+            <l>Né nube di dolor, né tosco d’ira,</l>
+            <l>né di furor baleno</l>
+            <l>già più nel cor s’aggira,</l>
+            <l>né mi preme d’amor la grave salma.</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Or segui il volo mio,</l>
+            <l>alma felice, alla sublime sfera.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Oramai fia che pera</l>
+            <l>il piacer che dà vita al tuo desio.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>CARONTE</head>Tante volte all’inferno e torni e parti,alma di cantar vaga,ed in cantar un’ostinata maga.Or partiti una volta, e non tornarené a veder, né a cantare;ché, se tu torni, certo ti prometto,per l’anima d’Aletto,cacciarti in un cantone;fatto immobile, batto col bastone.Scena ultimaCoro di Pastori in terra.Coro di Dèi, Giove, Fosforo, Orfeo, tutti nel cielo.<div type="scene">
+          <head>CARONTE</head>Tante volte all’inferno e torni e parti,alma di cantar vaga,ed in cantar un’ostinata maga.Or partiti una volta, e non tornarené a veder, né a cantare;ché, se tu torni, certo ti prometto,per l’anima d’Aletto,cacciarti in un cantone;fatto immobile, batto col bastone.Scena ultimaCoro di Pastori in terra.Coro di Dèi, Giove, Fosforo, Orfeo, tutti nel cielo.<sp who="#caronte">
+            <speaker>CARONTE:</speaker>
+            <l>Tante volte all’inferno e torni e parti,</l>
+            <l>alma di cantar vaga,</l>
+            <l>ed in cantar un’ostinata maga.</l>
+            <l>Or partiti una volta, e non tornare</l>
+            <l>né a veder, né a cantare;</l>
+            <l>ché, se tu torni, certo ti prometto,</l>
+            <l>per l’anima d’Aletto,</l>
+            <l>cacciarti in un cantone;</l>
+            <l>fatto immobile, batto col bastone.</l>
+            <l>Scena ultima</l>
+            <l>Coro di Pastori in terra.</l>
+            <l>Coro di Dèi, Giove, Fosforo, Orfeo, tutti nel cielo.</l>
+          </sp>
+          <stage>CARONTETante volte all’inferno e torni e parti,alma di cantar vaga,ed in cantar un’ostinata maga.Or partiti una volta, e non tornarené a veder, né a cantare;ché, se tu torni, certo ti prometto,per l’anima d’Aletto,cacciarti in un cantone;fatto immobile, batto col bastone.Scena ultimaCoro di Pastori in terra.Coro di Dèi, Giove, Fosforo, Orfeo, tutti nel cielo.</stage>
+          <sp who="#coro di pastori">
+            <speaker>CORO DI PASTORI:</speaker>
+            <l>Ancor nebbia han le menti; cessi omai</l>
+            <l>con lungo aspro dolore</l>
+            <l>turbar del cielo i più sereni rai.</l>
+            <l>Non è già morto Orfeo,</l>
+            <l>ma vive in ciel celeste semideo.</l>
+            <l>due del coro de’ Pastori, mentre s’apre il cielo</l>
+            <l>Ecco, fra le più belle</l>
+            <l>schiere del ciel divine,</l>
+            <l>qual or lampeggia, e lucide facelle</l>
+            <l>fan giro sfavillando all’aureo crine,</l>
+            <l>e par che plachi la stellata lira</l>
+            <l>Giove toccante e fiammeggiante d’ira.</l>
+            <l>coro di Pastori segue</l>
+            <l>Non più, non più lamenti,</l>
+            <l>non più, non più querele:</l>
+            <l>non son i raggi spenti,</l>
+            <l>son giunte al ciel le fortunate vele:</l>
+            <l>Orfeo, ancora vive,</l>
+            <l>in terra no, ma nell’eteree rive.</l>
+            <l>Giove nel cielo; lo assistono tutti gli Dèi.</l>
+          </sp>
+          <stage>CORO DI PASTORIAncor nebbia han le menti; cessi omaicon lungo aspro doloreturbar del cielo i più sereni rai.Non è già morto Orfeo,ma vive in ciel celeste semideo.due del coro de’ Pastori, mentre s’apre il cieloEcco, fra le più belleschiere del ciel divine,qual or lampeggia, e lucide facellefan giro sfavillando all’aureo crine,e par che plachi la stellata liraGiove toccante e fiammeggiante d’ira.coro di Pastori segueNon più, non più lamenti,non più, non più querele:non son i raggi spenti,son giunte al ciel le fortunate vele:Orfeo, ancora vive,in terra no, ma nell’eteree rive.Giove nel cielo; lo assistono tutti gli Dèi.</stage>
+          <sp who="#giove">
+            <speaker>GIOVE:</speaker>
+            <l>Quivi, del centro alla più luminosa</l>
+            <l>seggia del ciel, tra fortunati eroi,</l>
+            <l>Orfeo, qui ti riposa,</l>
+            <l>novello nume ai Traci e ai lidi Eoi;</l>
+            <l>e già inchina l’oreccio, e de’ mortali</l>
+            <l>pietoso accogli i voti e caccia i mali.</l>
+            <l>In cielo, in terra intanto</l>
+            <l>s’oda lieto e festivo e dolce canto.</l>
+            <l>Fosforo, voi, ch’in ciel sete primiero,</l>
+            <l>ad annunziar il giorno,</l>
+            <l>date fausto principio al canto adorno.</l>
+            <l>prima stanza</l>
+          </sp>
+          <stage>GIOVEQuivi, del centro alla più luminosaseggia del ciel, tra fortunati eroi,Orfeo, qui ti riposa,novello nume ai Traci e ai lidi Eoi;e già inchina l’oreccio, e de’ mortalipietoso accogli i voti e caccia i mali.In cielo, in terra intantos’oda lieto e festivo e dolce canto.Fosforo, voi, ch’in ciel sete primiero,ad annunziar il giorno,date fausto principio al canto adorno.prima stanza</stage>
+          <sp who="#fosforo">
+            <speaker>FOSFORO:</speaker>
+            <l>Venite, o vaghe stelle,</l>
+            <l>del sol lucide ancelle,</l>
+            <l>ornate i biondi crini</l>
+            <l>e le dorate chiome</l>
+            <l>al nostro semideo di bei rubini.</l>
+          </sp>
+          <sp who="#coro di dèi">
+            <speaker>CORO DI DÈI:</speaker>
+            <l>Non è già morto Orfeo,</l>
+            <l>ma vive in ciel celeste semideo.</l>
+            <l>seconda stanza</l>
+          </sp>
+          <stage>CORO DI DÈINon è già morto Orfeo,ma vive in ciel celeste semideo.seconda stanza</stage>
+          <sp who="#fosforo">
+            <speaker>FOSFORO:</speaker>
+            <l>Tu, ricca primavera,</l>
+            <l>de’ fiori tesoriera,</l>
+            <l>di croco e d’amaranto,</l>
+            <l>di bianchi gigli e rose</l>
+            <l>tessi ad Orfeo il prezioso manto.</l>
+          </sp>
+          <sp who="#coro di dèi e coro di pastori">
+            <speaker>CORO DI DÈI E CORO DI PASTORI:</speaker>
+            <l>insieme</l>
+            <l>O nume glorioso,</l>
+            <l>o fortunato eroe,</l>
+            <l>felice semideo.</l>
+            <l>terza stanza</l>
+          </sp>
+          <stage>CORO DI DÈI E CORO DI PASTORIinsiemeO nume glorioso,o fortunato eroe,felice semideo.terza stanza</stage>
+          <sp who="#fosforo">
+            <speaker>FOSFORO:</speaker>
+            <l>E voi, Grazie, che al cielo</l>
+            <l>sgombrate il fosco velo</l>
+            <l>co’ vostri eterni lampi,</l>
+            <l>rasserenate il viso</l>
+            <l>al nostro Orfeo, che sovra ogni altro avvampi.</l>
+          </sp>
+          <sp who="#coro di pastori">
+            <speaker>CORO DI PASTORI:</speaker>
+            <l>Orfeo ancora vive,</l>
+            <l>in terra no, ma nell’eteree rive.</l>
+            <l>quarta stanza</l>
+          </sp>
+          <stage>CORO DI PASTORIOrfeo ancora vive,in terra no, ma nell’eteree rive.quarta stanza</stage>
+          <sp who="#fosforo">
+            <speaker>FOSFORO:</speaker>
+            <l>Ma voi, canore dive,</l>
+            <l>non siate al canto schive:</l>
+            <l>con chiari e dolci accenti</l>
+            <l>fate che s’oda in terra</l>
+            <l>rimbombar gli astri e gareggiar i venti.</l>
+          </sp>
+          <sp who="#coro di dèi e coro di pastori">
+            <speaker>CORO DI DÈI E CORO DI PASTORI:</speaker>
+            <l>insieme</l>
+            <l>Fortunato semideo,</l>
+            <l>che, col pregio del tuo canto,</l>
+            <l>hai nel ciel stellato ammanto,</l>
+            <l>gloria eterna, egual trofeo.</l>
+          </sp>
+          <stage>CORO DI DÈI E CORO DI PASTORIinsiemeFortunato semideo,che, col pregio del tuo canto,hai nel ciel stellato ammanto,gloria eterna, egual trofeo.</stage>
+          <sp who="#coro di dèi">
+            <speaker>CORO DI DÈI:</speaker>
+            <l>a tre</l>
+            <l>Al ciel poggiasti con canori vanni,</l>
+            <l>togliendo a morte nel morir gli affanni;</l>
+            <l>or, cantando del ciel, di stelle ornato,</l>
+            <l>rendi molle, qualor s’induri, il Fato.</l>
+          </sp>
+          <stage>CORO DI DÈIa treAl ciel poggiasti con canori vanni,togliendo a morte nel morir gli affanni;or, cantando del ciel, di stelle ornato,rendi molle, qualor s’induri, il Fato.</stage>
+          <sp who="#coro di dèi e coro di pastori">
+            <speaker>CORO DI DÈI E CORO DI PASTORI:</speaker>
+            <l>a otto</l>
+            <l>O nume glorioso,</l>
+            <l>o fortunato eroe,</l>
+            <l>felice semideo,</l>
+            <l>fortunato semideo,</l>
+            <l>che, col pregio del tuo canto,</l>
+            <l>hai nel ciel stellato ammanto,</l>
+            <l>gloria eterna, egual trofeo.</l>
+          </sp>
+          <stage>CORO DI DÈI E CORO DI PASTORIa ottoO nume glorioso,o fortunato eroe,felice semideo,fortunato semideo,che, col pregio del tuo canto,hai nel ciel stellato ammanto,gloria eterna, egual trofeo.</stage>
+          <stage>Fine del libretto.</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

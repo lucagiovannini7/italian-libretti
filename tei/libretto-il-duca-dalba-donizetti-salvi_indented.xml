@@ -1,0 +1,1882 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">l duca d’Alba</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="coro interno">
+            <persName>CORO INTERNO:</persName>
+          </person>
+          <person xml:id="atto terzo">
+            <persName>ATTO TERZO:</persName>
+          </person>
+          <person xml:id="quadro terzo">
+            <persName>QUADRO TERZO:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="il popolo">
+            <persName>IL POPOLO:</persName>
+          </person>
+          <person xml:id="amelia">
+            <persName>AMELIA:</persName>
+          </person>
+          <person xml:id="daniele">
+            <persName>DANIELE:</persName>
+          </person>
+          <person xml:id="gli spagnuoli">
+            <persName>GLI SPAGNUOLI:</persName>
+          </person>
+          <person xml:id="marcello">
+            <persName>MARCELLO:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="carlos">
+            <persName>CARLOS:</persName>
+          </person>
+          <person xml:id="il duca">
+            <persName>IL DUCA:</persName>
+          </person>
+          <person xml:id="quadro primo">
+            <persName>QUADRO PRIMO:</persName>
+          </person>
+          <person xml:id="i soldati">
+            <persName>I SOLDATI:</persName>
+          </person>
+          <person xml:id="f i n e">
+            <persName>F I N E:</persName>
+          </person>
+          <person xml:id="i congiurati">
+            <persName>I CONGIURATI:</persName>
+          </person>
+          <person xml:id="atto primo">
+            <persName>ATTO PRIMO:</persName>
+          </person>
+          <person xml:id="i fiamminghi">
+            <persName>I FIAMMINGHI:</persName>
+          </person>
+          <person xml:id="quadro secondo">
+            <persName>QUADRO SECONDO:</persName>
+          </person>
+          <person xml:id="gli operai">
+            <persName>GLI OPERAI:</persName>
+          </person>
+          <person xml:id="sandoval">
+            <persName>SANDOVAL:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>ATTO PRIMO</head>
+        <sp who="#atto primo">
+          <speaker>ATTO PRIMO:</speaker>
+        </sp>
+        <sp who="#quadro primo">
+          <speaker>QUADRO PRIMO:</speaker>
+        </sp>
+        <stage>Piazza del palazzo comunale a Brusselle. Nel fondo,il palazzo; nel mezzo della piazza, una colonna.A dritta, verso il proscenio, la fabbrica di birra diDaniele. A sinistra l’ingresso della casermadegli archibugieri. Alcuni borghesi seduti davantiad ampie tavole con grandi coppe di birra.Nel fondo, popolani e popolane.Scena primaEscono dalla caserma Sandoval, Carlos e parecchiSoldati spagnuoli.CARLOS, SANDOVAL ed I SOLDATI SPAGNUOLIO Spagna, o suol natal, io brindo a te!A te che la gloria accompagnae che guida la santa fé!Viva la Spagna, evviva il suo re!</stage>
+        <sp who="#i fiamminghi">
+          <speaker>I FIAMMINGHI:</speaker>
+          <l>Sia Spagna maledetta e il suo re.</l>
+          <l>Ovunque il terror l’accompagna</l>
+          <l>rischiaran i roghi sua fé!</l>
+          <l>Morte alla Spagna, morte al suo re!</l>
+          <l>Scena seconda</l>
+          <l>Daniele, uscendo dalla birreria, e detti.</l>
+          <l>DANIELE</l>
+          <l>(accostandosi a Sandoval)</l>
+          <l>Sei scudi d’or!</l>
+        </sp>
+        <stage>I FIAMMINGHISia Spagna maledetta e il suo re.Ovunque il terror l’accompagnarischiaran i roghi sua fé!Morte alla Spagna, morte al suo re!Scena secondaDaniele, uscendo dalla birreria, e detti.DANIELE(accostandosi a Sandoval)Sei scudi d’or!</stage>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>(ridendo)</l>
+          <l>Davver?</l>
+        </sp>
+        <stage>SANDOVAL(ridendo)Davver?</stage>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>(con bonarietà)</l>
+          <l>Lo scotto è assai modesto.</l>
+        </sp>
+        <stage>DANIELE(con bonarietà)Lo scotto è assai modesto.</stage>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>È una celia assai scipita!</l>
+        </sp>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>È il suo prezzo…</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>(con alterigia)</l>
+          <l>E da qual dì, taluno ardì far pagare lo spagnuol</l>
+          <l>il ben di cui dispone?</l>
+          <l>Ché tutto gli partien terre, beni e persone!</l>
+          <l>Non tenete ad onor o vil gente fiamminga</l>
+          <l>la sete di calmar dei vincitor?</l>
+        </sp>
+        <stage>SANDOVAL(con alterigia)E da qual dì, taluno ardì far pagare lo spagnuolil ben di cui dispone?Ché tutto gli partien terre, beni e persone!Non tenete ad onor o vil gente fiammingala sete di calmar dei vincitor?</stage>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>(con impeto d’ira)</l>
+          <l>Dei predon!</l>
+        </sp>
+        <stage>DANIELE(con impeto d’ira)Dei predon!</stage>
+        <sp who="#gli spagnuoli">
+          <speaker>GLI SPAGNUOLI:</speaker>
+          <l>Lo freddiam!</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>(trattenendoli)</l>
+          <l>No davver!</l>
+        </sp>
+        <stage>SANDOVAL(trattenendoli)No davver!</stage>
+        <stage>Scena temaComparisce sulla porta della birreria Amelia, in abito nero.Ella si avanza lentamente, meditabonda e senza curarsidi quanti la circondano.SANDOVAL(accennando ad Amelia)Or chi è mai questa bellache vedesi apparir; se è figlia sua,allor sia perdonato, ma sol per essa!(a Daniele)Il suo nome? E perché quella veste feral?</stage>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>(con accento cupo)</l>
+          <l>Veste il bruno del duol.</l>
+        </sp>
+        <stage>DANIELE(con accento cupo)Veste il bruno del duol.</stage>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>E perché?</l>
+        </sp>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>Per suo padre che assassinato fu!</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>(con accento di commiserazione)</l>
+          <l>Sventurata! E da quando qui sta?</l>
+        </sp>
+        <stage>SANDOVAL(con accento di commiserazione)Sventurata! E da quando qui sta?</stage>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>Sol dalla scorsa notte.</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>(a bassa voce a Daniele)</l>
+          <l>E dunque qui, Daniel?</l>
+        </sp>
+        <stage>AMELIA(a bassa voce a Daniele)E dunque qui, Daniel?</stage>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>(sottovoce, additando la colonna)</l>
+          <l>Sì, là, su quella piazza, tra il folle</l>
+          <l>tumultuar d’indifferenti plebi</l>
+          <l>ne vidi rotolar la nobil testa.</l>
+        </sp>
+        <stage>DANIELE(sottovoce, additando la colonna)Sì, là, su quella piazza, tra il folletumultuar d’indifferenti plebine vidi rotolar la nobil testa.</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>(cadendo in ginocchio presso la colonna)</l>
+          <l>Ah, padre mio!</l>
+          <l>Io ti vendicherò, sacro giuro ne fo!</l>
+        </sp>
+        <stage>AMELIA(cadendo in ginocchio presso la colonna)Ah, padre mio!Io ti vendicherò, sacro giuro ne fo!</stage>
+        <stage>Si ode nelle strade vicine uno strepito di tamburie di grida.CORO INTERNOAllarmi! Il Duca d’Alba!</stage>
+        <sp who="#carlos">
+          <speaker>CARLOS:</speaker>
+          <l>(guardando la strada)</l>
+          <l>Sì, ne veggo la scorta.</l>
+        </sp>
+        <stage>CARLOS(guardando la strada)Sì, ne veggo la scorta.</stage>
+        <stage>Scena quartaEntra il Duca d’Alba, che in lettiga chiusa si recaAl palazzo di città, preceduto eseguito da Albanesi,archibugieri e guardie vallone. I magistrati della cittàvengono appresso a piedi.Carlos ed i suoi soldati, usciti dalla caserma, si mettonoin ordine di battaglia e presentano le armi. I tamburirullano, le bandiere si abbassano al passaggio dellalettiga che sale lentamente verso la porta del palazzo.Sandoval va sulle traccie del Duca.GLI SPAGNUOLIOnor a lui, ch’ogni eroica parolacol suo valor è avvezzo a superar!Nobil campion della gloria spagnuolal’aste anzi a lui si debbono curvar!</stage>
+        <sp who="#i fiamminghi">
+          <speaker>I FIAMMINGHI:</speaker>
+          <l>(fra loro)</l>
+          <l>Mira là colui che desola e le terre</l>
+          <l>e i casolar, il duca reo dei predator,</l>
+          <l>il barbaro uccisor; sol per lui la gente spagnuola</l>
+          <l>col sangue suo li de’ saziar è là l’uccisor!</l>
+          <l>Egli è là!</l>
+        </sp>
+        <stage>I FIAMMINGHI(fra loro)Mira là colui che desola e le terree i casolar, il duca reo dei predator,il barbaro uccisor; sol per lui la gente spagnuolacol sangue suo li de’ saziar è là l’uccisor!Egli è là!</stage>
+        <sp who="#gli spagnuoli">
+          <speaker>GLI SPAGNUOLI:</speaker>
+          <l>(guardando biecamente i popolani)</l>
+          <l>Onor al nostro condottier, onor al vincitor!</l>
+        </sp>
+        <stage>GLI SPAGNUOLI(guardando biecamente i popolani)Onor al nostro condottier, onor al vincitor!</stage>
+        <stage>Sandoval e gli uffiziali hanno raggiunto il corteggio.Non rimangono in scena che Don Carlos ed alcunisoldati. Costui si accosta ad Amelia che è rimasta sola inun angolo della scena.Scena quintaCarlos e detti.CARLOS(accostandosi ad Amelia)Perché tra questa turba che manda il gran salutoson chini gli occhi tuoi e il tuo labbro sta muto?Grida con noi: Viva il governator!Amelia lo guarda con disprezzo e non gli risponde.</stage>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>(avanzandosi)</l>
+          <l>Dritto n’hai tu?</l>
+        </sp>
+        <stage>DANIELE(avanzandosi)Dritto n’hai tu?</stage>
+        <sp who="#carlos">
+          <speaker>CARLOS:</speaker>
+          <l>Tu dèi, mastro gentil, tacer!</l>
+          <l>Vo’ che meco ella gridi: Viva il governator!</l>
+          <l>E mi piace di più ch’ella canti con noi</l>
+          <l>qualche canto spagnuolo!</l>
+        </sp>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>(mettendo la mano al pugnal)</l>
+          <l>Ten va, o di mia man sull’istante io t’immolo!</l>
+        </sp>
+        <stage>DANIELE(mettendo la mano al pugnal)Ten va, o di mia man sull’istante io t’immolo!</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>(piano a Daniele, trattenendolo)</l>
+          <l>Folle sei! Vedi ben che costui non è in sé.</l>
+        </sp>
+        <stage>AMELIA(piano a Daniele, trattenendolo)Folle sei! Vedi ben che costui non è in sé.</stage>
+        <stage>In questo frattempo alcuni soldati hanno portato unagran tavola in mezzo della scena. Essi siedono per bere.</stage>
+        <sp who="#carlos">
+          <speaker>CARLOS:</speaker>
+          <l>Orsù, la canzone spagnuola</l>
+          <l>che inneggia al Duca d’Alba!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>(mal frenando un impeto di sdegno)</l>
+          <l>Ah! non la so cantar.</l>
+        </sp>
+        <stage>AMELIA(mal frenando un impeto di sdegno)Ah! non la so cantar.</stage>
+        <sp who="#carlos">
+          <speaker>CARLOS:</speaker>
+          <l>(sedendo e versandosi da bere)</l>
+          <l>Canta allor quello che ti par</l>
+          <l>ma canta, lo si vuol!</l>
+        </sp>
+        <stage>CARLOS(sedendo e versandosi da bere)Canta allor quello che ti parma canta, lo si vuol!</stage>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>Vitupero! Abbominio! Per lor nulla di sacro v’ha!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>(guardandoli e fissando Daniele con forza)</l>
+          <l>Or ben sì, io canterò!</l>
+        </sp>
+        <stage>AMELIA(guardandoli e fissando Daniele con forza)Or ben sì, io canterò!</stage>
+        <stage>Gli Spagnuoli stanno seduti intorno alla tavola, ilpopolo dietro a loro, in giro.AMELIA(avanzandosi)In sen ai mar, preda all’alta tempestaal nobile vascel speme ormai più non resta!Dei venti al sibilar e tra furor del maril grido a te non vien del marinar?Vien a noi, Dio tutelare! Deh, calma alfin il tuo furor!Pietoso ascolto al mio pregare porgi, i tuoi figlio Signore deh! salvi fa. Dio tutelare!E Dio dicea ne’ suoi responsi allora:“Dee l’uom ripor sua fé sol nella mia pietà?Salvezza ognun dal ciel imploraed in sua man, sì in mano ei l’ha!”(guardando il popolo che a poco a pocole si è avvicinato)Coll’audacia l’uom rispondae i nembi a dominar.Tutti all’opra, tutti all’oprapoiché il periglio é là!A qual fin or smarrir la speme?Manca il sangue a’ nostre vene?Colpiti d’insano stuporv’imbianca dei vili il pallor.La morte vien e voi coglie in sopor!Sorgiam, sorgiam tra le fiere tempesteche minaccian dal ciel le vostre teste.Si desti ognun, sorgete insieme!</stage>
+        <sp who="#gli spagnuoli">
+          <speaker>GLI SPAGNUOLI:</speaker>
+          <l>Sta ben, sta ben, ma per disgrazia</l>
+          <l>ai fior di sua ghirlanda</l>
+          <l>siccome a sue canzon, di già</l>
+          <l>m’inebria la bevanda.</l>
+        </sp>
+        <stage>I Fiamminghi esaltati stanno per scagliarsi contro gliSpagnuoli. Ad un tratto sul peristilio del palazzo di cittàcomparisce un uomo vestito di nero, solo e senza guardie.TUTTI(sbigottiti)Il duca d’Alba! Oh terror!</stage>
+        <stage>A poco a poco, i Fiamminghi si diradano e si accostanoalle loro case, lasciando spopolato il centro dellapiana. Il Duca scende lentamente e tranquillamente.I soldati si alzano. Daniele e AmeliaAMELIA(a parte)Ah, che vedo io mai!Sol ch’egli appaia, incolti gli ha il terror.</stage>
+        <stage>Scena quintaIl Duca, Amelia e Daniele.IL DUCAPopol fiacco, vil, abbiettoche or trasali al mio cospetto,il voler d’un sol mio dettoè decreto del ciel!Ne’ lor folli ardimentiil gran giogo le gentiinvan tentan spezzar!Io li afferro, li stringo in mia man!</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Cupo orrore m’ange il petto</l>
+          <l>nel sentirmi al suo cospetto…</l>
+          <l>È il tiranno, il vil reietto</l>
+          <l>dalla terra e dal ciel!</l>
+          <l>O mio padre!</l>
+          <l>Chi nel sen raffrena</l>
+          <l>dell’ambascia la piena</l>
+          <l>del tiran al cospetto</l>
+          <l>che l’acciar maledetto</l>
+          <l>sul suo capo piombò!</l>
+        </sp>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>Del tiran vil, abbietto</l>
+          <l>come truce è l’aspetto…</l>
+          <l>Tutto m’agita il petto</l>
+          <l>ansia fiera, crudel!</l>
+          <l>O mio nobil signore,</l>
+          <l>fu dell’empio il furore</l>
+          <l>che squarciava il tuo cuore,</l>
+          <l>che la lama fatal</l>
+          <l>sul tuo capo piombar poté!</l>
+        </sp>
+        <stage>Marcello, giungendo dal fondo, non s’avvede dellapresenza del Duca e accorre verso Daniele ed Amelia.</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Amelia!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Oh ciel, tu qui!</l>
+        </sp>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>Sogno forse non è?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>No! Da Bruge io giungo</l>
+          <l>quivi accorso son io… Libero sono!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Che dici mai?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Che i giurati, cui fa tremar la tirannia</l>
+          <l>infidi ai riti lor, rei non ci proclamar!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Vero saria?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>D’assolverci han osato!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>(con terrore)</l>
+          <l>Silenzio!</l>
+        </sp>
+        <stage>AMELIA(con terrore)Silenzio!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>E perché tacerei, o miei fidi, con voi</l>
+          <l>se noto v’è qual odio in cor mi desti?</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Odio hai detto! O giovin, perché se nol conosci?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>E d’uopo qual ne avrei? Del suolo mio flagel</l>
+          <l>tutto ei vuol rovesciar; tra stragi e tra tempeste</l>
+          <l>dei patiboli sol seppe tra noi rizzar.</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Imprudente!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>In che mai? Se in questa terra</l>
+          <l>resta un felice, a me lo dee segnar!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Tu lo vedrai! Raffrena il cieco ardore!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>E dove?</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Innanzi a te!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Ciel!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Mi par di morir!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>(a Sandoval, che esce dalla caserma con alcuni soldati)</l>
+          <l>Sgombri ognun!</l>
+          <l>(a Marcello)</l>
+          <l>Tu sol déi restar.</l>
+          <l>Daniele ed Amelia entrano in casa. Marcello ed il Duca</l>
+          <l>restano. Ne! fondo Sandoval e i soldati, coll’archibugio</l>
+          <l>in ispalla, attendono gli ordini del loro capo.</l>
+          <l>Scena settima</l>
+          <l>Il Duca e .’Marcello.</l>
+          <l>IL DUCA</l>
+          <l>Nome qual hai?</l>
+        </sp>
+        <stage>IL DUCA(a Sandoval, che esce dalla caserma con alcuni soldati)Sgombri ognun!(a Marcello)Tu sol déi restar.Daniele ed Amelia entrano in casa. Marcello ed il Ducarestano. Ne! fondo Sandoval e i soldati, coll’archibugioin ispalla, attendono gli ordini del loro capo.Scena settimaIl Duca e .’Marcello.IL DUCANome qual hai?</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Marcello.</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>E poi?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Marcello di Bruge,</l>
+          <l>Bruge di cui gli spalti m’offriron rifugio.</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>E tuo padre?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Di lui alcun non mi parlò.</l>
+          <l>Pur giunse nuova a me che dal nostro bel suol</l>
+          <l>dal crudel invasor finì bandito i miseri suoi giorni!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>E tua madre? Rispondi!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Ah! me la tolse il cielo e già un anno passò</l>
+          <l>ch’io la perdea, ahimè!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Pure pria di morir</l>
+          <l>alle mani d’Egmont non t’ebbe un dì fidato?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Sì, quel nobile Egmont, quell’eroe…</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Quel ribelle!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Sul sentier dell’onor i passi miei guidò</l>
+          <l>ai fini suoi fedel mi sia sacro modello</l>
+          <l>se non la vita, la sua morte almen!</l>
+          <l>Tutto or sai! L’ira tua or può squarciarmi il sen!</l>
+          <l>Un vil io non sono</l>
+          <l>ben so che il tuo cor</l>
+          <l>ignora il perdono,</l>
+          <l>né provo terror.</l>
+          <l>Salir vo’ da forte</l>
+          <l>il palco fatal…</l>
+          <l>È bella la morte</l>
+          <l>pel suol natal!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Dei baldi ardimenti</l>
+          <l>mi abbaglia l’ardor!</l>
+          <l>Dispregia i tormenti</l>
+          <l>il fiero suo cor!</l>
+          <l>La patria sol vede,</l>
+          <l>sicuro di sé,</l>
+          <l>la sua nobil fede</l>
+          <l>non cerca mercé!</l>
+          <l>Disfidato tu m’hai ma</l>
+          <l>punirti non so… Pietà m’ispiri!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Tu? Compiangermi?</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Sì! ho pietà di tanto errore, e grato</l>
+          <l>m’è segnar all’aquila impaziente</l>
+          <l>per nuovo voi un ignorato ciel!</l>
+          <l>Di lauri cingerai</l>
+          <l>fida in me, le tue robuste anella</l>
+          <l>è la gloria, o garzon!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>La gloria? Ov’è mai ella?</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Là dove duce io sto!</l>
+          <l>Al fianco mio tra i più prodi ti voglio.</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Me? Me?</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>E avrai da me perdon!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Io servir l’oppressor?</l>
+          <l>Sì vil io non sono</l>
+          <l>non voglio mercé</l>
+          <l>abborro il perdono</l>
+          <l>che viene da te!</l>
+          <l>Salir vo’ da forte</l>
+          <l>il palco fatal</l>
+          <l>è bella la morte</l>
+          <l>pel suolo natal!</l>
+          <l>Ah! no, terror che sia non so</l>
+          <l>un’altra legge a me non do.</l>
+        </sp>
+        <sp who="#quadro secondo">
+          <speaker>QUADRO SECONDO:</speaker>
+        </sp>
+        <stage>La scena rappresenta la birreria di Daniele. A dritta,tini, lambicchi e fornelli. A sinistra, tavole, sedie el’uscio della stanza di Amelia. Nel fondo la porta di strada.</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Marcel, t’ho letto in cor il dolce arcano…</l>
+          <l>né un accento, un sospir giammai tradiva</l>
+          <l>il tuo volto gentil. Eppur tu m’ami!</l>
+          <l>Che dissi io mai? Perché</l>
+          <l>nel pronunziar quel nome</l>
+          <l>ogni mia fibra trasalisce in cor?</l>
+          <l>Ombra paterna, a me perdona</l>
+          <l>se nuovo affanno ange il mio cor…</l>
+          <l>S’ha un’altra spina la mia corona,</l>
+          <l>s’invoca il ciel novel dolor!</l>
+          <l>Deh, grazia, o padre! È puro, è santo</l>
+          <l>l’ardor che affanna il mio sospir…</l>
+          <l>Ei fa sgorgar sì amaro pianto</l>
+          <l>grazia per esso, ei dee morir!</l>
+          <l>Ma no!… Troppo è grande l’affanno</l>
+          <l>né tu puoi tal mercede a me negar!</l>
+          <l>O padre, egli abborre il tiranno</l>
+          <l>e la tua fin giurò di vendicar!</l>
+          <l>Quando per noi, del culto tuo devoto</l>
+          <l>affronta, ahi lasso, il gran martir,</l>
+          <l>ah! non è fallir alzar al cielo un voto…</l>
+          <l>O padre, preghiam… Ei dee morir…</l>
+          <l>Scena seconda</l>
+          <l>Entra vivamente Daniele, seguito da Marcello avviluppato</l>
+          <l>in un mantello; e detta.</l>
+          <l>AMELIA</l>
+          <l>Ciel!</l>
+        </sp>
+        <stage>AMELIAMarcel, t’ho letto in cor il dolce arcano…né un accento, un sospir giammai tradivail tuo volto gentil. Eppur tu m’ami!Che dissi io mai? Perchénel pronunziar quel nomeogni mia fibra trasalisce in cor?Ombra paterna, a me perdonase nuovo affanno ange il mio cor…S’ha un’altra spina la mia corona,s’invoca il ciel novel dolor!Deh, grazia, o padre! È puro, è santol’ardor che affanna il mio sospir…Ei fa sgorgar sì amaro piantograzia per esso, ei dee morir!Ma no!… Troppo è grande l’affannoné tu puoi tal mercede a me negar!O padre, egli abborre il tirannoe la tua fin giurò di vendicar!Quando per noi, del culto tuo devotoaffronta, ahi lasso, il gran martir,ah! non è fallir alzar al cielo un voto…O padre, preghiam… Ei dee morir…Scena secondaEntra vivamente Daniele, seguito da Marcello avviluppatoin un mantello; e detta.AMELIACiel!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Amelia!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Esaudita m’hai tu, ombra santa paterna!</l>
+        </sp>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>Più pian! Non far rumor! Nell’ombra</l>
+          <l>non li odi tu venir?</l>
+        </sp>
+        <stage>DANIELE, MARCELLO e AMELIAArchibugier van sulla tracciaquell’orda rea ti dà la caccia.Silenzio! Ei passan, son qui!Si vede la ronda albanese che passa.No! nell’ombra ei son scomparsi,stan già lontan.Dio di bontà,di noi pietà!</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>(a Marcello)</l>
+          <l>Per noi, incauto, esporti?</l>
+        </sp>
+        <stage>AMELIA(a Marcello)Per noi, incauto, esporti?</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Sai qual mi die’ prigion?</l>
+          <l>Parmi ancor di sognar! La stessa sua magion.</l>
+          <l>Tra l’ombra della notte di là potei fuggir!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Oh, ciel!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Vigile scolta vegliando al di fuor</l>
+          <l>de’ miei passi al rumor a caso l’arma esplose</l>
+          <l>ma il ciel mi proteggea. Ei fe’ di più… tra le mura</l>
+          <l>dell’esecrato ostel, un arcano scovrii</l>
+          <l>che al gran fin può giovar!</l>
+          <l>(a Daniele)</l>
+          <l>Indugiar più non déi; ai fidi nostri va’</l>
+          <l>e li raccogli qua! Va’! va’!</l>
+          <l>Esce Daniele.</l>
+          <l>Scena terza</l>
+          <l>Amelia e Marcello.</l>
+          <l>AMELIA</l>
+          <l>Qual dar potrei compenso</l>
+          <l>Che è d’ogni ben maggior!</l>
+        </sp>
+        <stage>MARCELLOVigile scolta vegliando al di fuorde’ miei passi al rumor a caso l’arma esplosema il ciel mi proteggea. Ei fe’ di più… tra le muradell’esecrato ostel, un arcano scovriiche al gran fin può giovar!(a Daniele)Indugiar più non déi; ai fidi nostri va’e li raccogli qua! Va’! va’!Esce Daniele.Scena terzaAmelia e Marcello.AMELIAQual dar potrei compensoChe è d’ogni ben maggior!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Un sol, sublime, immenso</l>
+          <l>che è d’ogni ben maggior!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Perché mi guardi e tremi?</l>
+          <l>Qual chiedi a me mercé?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Dei palpiti supremi</l>
+          <l>offrir l’omaggio a te!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Che ascolto?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>È un arcan fatale!</l>
+          <l>Un blasfema che in sen giurai di seppellir;</l>
+          <l>ma pria che spunti il dì, col mio pugnale</l>
+          <l>nel colpir il tiran la man mi può fallir!</l>
+          <l>Ed il misero sa che avrà un sospir</l>
+          <l>di perdono, se sta per morir!</l>
+          <l>Ah! sì, l’ardente affanno</l>
+          <l>celar potea sin or,</l>
+          <l>che a te fa sì gran danno</l>
+          <l>e che strazia il mio cor!</l>
+          <l>Amor, amor sublime,</l>
+          <l>paradisial sospir,</l>
+          <l>ch’ogni fallir redime</l>
+          <l>e il ciel può sol punir!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Ah! pietade uguale</l>
+          <l>ebbi sepolta in cor,</l>
+          <l>ambascia celestiale</l>
+          <l>che mi mettea terror!</l>
+          <l>Ma scompare ogni tema</l>
+          <l>ove appressa il martir…</l>
+          <l>In sua pietà suprema</l>
+          <l>Dio non ci può punir!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Tu torci gli occhi tuoi, udendo i miei deliri …</l>
+          <l>Deh! un raggio di pietà dal guardo tuo traspiri!</l>
+          <l>Amelia, io t’adoro e non chiedo a’ tuoi piè</l>
+          <l>che il diritto di pugnar o di morir per te!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>O padre, o ciel, o padre mio!</l>
+          <l>Nel rigor suo supremo</l>
+          <l>Dio non ci può punir</l>
+          <l>pietade uguale</l>
+          <l>ho sepolta nel cuor</l>
+          <l>che mi mettea terror!</l>
+          <l>Sventurata, proscritta, mi sfuggiva la gente</l>
+          <l>e paurosa ritorceva il pie.</l>
+          <l>Tu sol, Marcel, fosti meco clemente,</l>
+          <l>tu sol osasti dir: t’affida, o donna, in me!</l>
+          <l>Ed or, che fra brev’ora ci avrà l’avel sepolti,</l>
+          <l>a tanta tua pietà ingrata resterò?</l>
+          <l>No! e dall’alto del ciel, donde vedi e ascolti</l>
+          <l>padre mio! O d’Egmont, da te perdono avrò.</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Un delirio non è? Oh, mia nobil signora,</l>
+          <l>io, che grado non ho, né fortuna…</l>
+          <l>io, che sol venturier a te sacrai mia fé</l>
+          <l>e la miseria mia.</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Marcel, vendica il padre:</l>
+          <l>se il fai, tu diverrai per me</l>
+          <l>più nobile del re!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Ma solo io sono in terra</l>
+          <l>e chi aita a me dà?</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Marcel vendica il padre</l>
+          <l>e padre a te, allor sarà’.</l>
+        </sp>
+        <stage>Scena quartaDaniele ed il Coro di operai borghesi compariscononel fondo.MARCELLO(ad Amelia)Ma giunti son…(a Daniele)Non unomancava al santo appello?</stage>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>Non uno!</l>
+        </sp>
+        <stage>I Congiurati si avanzano lentamente.I CONGIURATIÈ spenta omai l’estrema face,né giunge a te, se tutto tace,che il sospir del dolor, del sol dolor!Sacro un giuro insiem ci serra,giuriam a salvar questa terra!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Più pian, amici miei; non ci oda alcun.</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(cadendo, con tutti, in ginocchio)</l>
+          <l>Libertà, gran diva</l>
+          <l>la fede in te nel tuo popolo avviva,</l>
+          <l>fa trionfar</l>
+          <l>il nostro acciar.</l>
+        </sp>
+        <stage>MARCELLO(cadendo, con tutti, in ginocchio)Libertà, gran divala fede in te nel tuo popolo avviva,fa trionfaril nostro acciar.</stage>
+        <stage>Battono alla porta.MARCELLO e I CONGIURATICiel!</stage>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>(a bassa voce)</l>
+          <l>Silenzio!</l>
+          <l>(a voce alta)</l>
+          <l>Chi può la notte a me venir?</l>
+        </sp>
+        <stage>DANIELE(a bassa voce)Silenzio!(a voce alta)Chi può la notte a me venir?</stage>
+        <sp who="#gli spagnuoli">
+          <speaker>GLI SPAGNUOLI:</speaker>
+          <l>(di dentro)</l>
+          <l>Da parte del Duca e del re!</l>
+        </sp>
+        <stage>GLI SPAGNUOLI(di dentro)Da parte del Duca e del re!</stage>
+        <sp who="#gli operai">
+          <speaker>GLI OPERAI:</speaker>
+          <l>(sottovoce)</l>
+          <l>Gran Dio!</l>
+        </sp>
+        <stage>GLI OPERAI(sottovoce)Gran Dio!</stage>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>Ma solo io son!</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>(di dentro)</l>
+          <l>Che importa?</l>
+          <l>Apri, o farem la porta</l>
+          <l>in ischegge volar!</l>
+          <l>In nome del re!</l>
+        </sp>
+        <stage>SANDOVAL(di dentro)Che importa?Apri, o farem la portain ischegge volar!In nome del re!</stage>
+        <sp who="#gli spagnuoli">
+          <speaker>GLI SPAGNUOLI:</speaker>
+          <l>(di dentro)</l>
+          <l>Aprite orsù in nome del re!</l>
+        </sp>
+        <stage>GLI SPAGNUOLI(di dentro)Aprite orsù in nome del re!</stage>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>(sottovoce ai congiurati)</l>
+          <l>Nulla è perduto ancor, niun il terror discopra</l>
+          <l>sien le armi nascoste. All’opra! All’opra!</l>
+          <l>E del birraio insiem intoniam la canzon!</l>
+        </sp>
+        <stage>DANIELE(sottovoce ai congiurati)Nulla è perduto ancor, niun il terror discoprasien le armi nascoste. All’opra! All’opra!E del birraio insiem intoniam la canzon!</stage>
+        <stage>Le armi vengono nascoste nei tini. Si riaccendono lelampade. I congiurati dànno di piglio agli utensili delmestiere. Daniele va ad aprire.Scena quintaSandoval, i soldati e detti.GLI OPERAILiquor che ingannadel vin l’ebbrezzapien di tristezzaci lascia il cor.I sensi affannae d’ogni liteè della vitecausa l’umor!Viva la birra!</stage>
+        <stage>Durante il coro, Sandoval ed i suoi soldati sono entrati;altri soldati custodiscono la parte estrema dellabirreria, Sandoval esamina ogni cosa.SANDOVAL(con ironia)Mastro Daniel è solo in sua dimora?</stage>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>Ho meco gli operai…</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>Qui che fanno in tal ora?</l>
+        </sp>
+        <sp who="#daniele">
+          <speaker>DANIELE:</speaker>
+          <l>D’uopo è pur lavorar, i balzelli a saldar!</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>Lavorar? O tramar qualche novella impresa!</l>
+          <l>(scorgendo Amelia)</l>
+          <l>Ah! la pupilla è qui… sta mal! L’affar s’abbuia.</l>
+          <l>(scorgendo alcuni operai che tirano una carretta)</l>
+          <l>Ma che vegg’io? Si diria, ve ne scampi il Signor,</l>
+          <l>che sien cospiratori al posto d’operai!</l>
+          <l>(prendendo la mano ad un borghese)</l>
+          <l>Doghe codeste man non han toccate mai!</l>
+          <l>Magra n’avria mercé, ma a qual ambrosia intorno</l>
+          <l>(additando Marcello)</l>
+          <l>s’affaccenda colà quel bruno giovincel?</l>
+          <l>(prendendo un bicchiere che sta sulla tavola)</l>
+          <l>Si mesca!</l>
+          <l>(Daniele prende un vaso e si avvia per ispillare a sinistra)</l>
+          <l>No!</l>
+          <l>(indicando la botte dove stanno nascoste le armi,</l>
+          <l>segnata con una croce rossa)</l>
+          <l>Di quell’orciuol!</l>
+          <l>(movimento di terror fra i congiurati)</l>
+          <l>DANIELE</l>
+          <l>(esitando)</l>
+          <l>A che?</l>
+        </sp>
+        <stage>SANDOVALLavorar? O tramar qualche novella impresa!(scorgendo Amelia)Ah! la pupilla è qui… sta mal! L’affar s’abbuia.(scorgendo alcuni operai che tirano una carretta)Ma che vegg’io? Si diria, ve ne scampi il Signor,che sien cospiratori al posto d’operai!(prendendo la mano ad un borghese)Doghe codeste man non han toccate mai!Magra n’avria mercé, ma a qual ambrosia intorno(additando Marcello)s’affaccenda colà quel bruno giovincel?(prendendo un bicchiere che sta sulla tavola)Si mesca!(Daniele prende un vaso e si avvia per ispillare a sinistra)No!(indicando la botte dove stanno nascoste le armi,segnata con una croce rossa)Di quell’orciuol!(movimento di terror fra i congiurati)DANIELE(esitando)A che?</stage>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>(con ironia)</l>
+          <l>Non è il miglior del giorno?</l>
+          <l>(additando la croce rossa ai soldati)</l>
+          <l>Il segno c’è… lo si sfondi!</l>
+        </sp>
+        <stage>SANDOVAL(con ironia)Non è il miglior del giorno?(additando la croce rossa ai soldati)Il segno c’è… lo si sfondi!</stage>
+        <stage>I soldati sfondano la botte; le armi si rovesciano a terra.SANDOVAL ed I SOLDATIAvvinta sia quest’orda rea,che impresa Vil tramare potea!</stage>
+        <sp who="#quadro terzo">
+          <speaker>QUADRO TERZO:</speaker>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(ad Amelia)</l>
+          <l>Sì, sfidiamo chi non dà giammai perdono!</l>
+        </sp>
+        <stage>MARCELLO(ad Amelia)Sì, sfidiamo chi non dà giammai perdono!</stage>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>(ai suoi soldati)</l>
+          <l>Sien tratti fuor!</l>
+        </sp>
+        <stage>SANDOVAL(ai suoi soldati)Sien tratti fuor!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Moviam insiem verso il palco feral!</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>(a Marcello)</l>
+          <l>Tu rimani.</l>
+        </sp>
+        <stage>SANDOVAL(a Marcello)Tu rimani.</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>E perché! Complice lor io sono e vo’ seguirne il</l>
+          <l>destino fatal.</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>Il Duca non lo vuol.</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Ah! in sue tiranne voglie a qual novel martir or m’intende</l>
+          <l>serbar?</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>Sii libero!</l>
+          <l>(con ironia)</l>
+          <l>Il tiran i tuoi dì vuol salvar.</l>
+        </sp>
+        <stage>SANDOVALSii libero!(con ironia)Il tiran i tuoi dì vuol salvar.</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>(sorpresa generale)</l>
+          <l>Salvar!</l>
+        </sp>
+        <stage>TUTTI(sorpresa generale)Salvar!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Che ascolto? Oh, stupore!</l>
+          <l>Si spezza il mio core</l>
+          <l>a me mette orrore</l>
+          <l>l’infame mercé!</l>
+          <l>Lor complice io sono</l>
+          <l>sprezzo il perdono</l>
+          <l>che mi vien dal trono</l>
+          <l>che un vil fa di me!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(a Sandoval, con impeto)</l>
+          <l>Grazia non vo’ da chi salvo mi rende!</l>
+        </sp>
+        <stage>MARCELLO(a Sandoval, con impeto)Grazia non vo’ da chi salvo mi rende!</stage>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>(freddamente)</l>
+          <l>Il Duca lo impone, lo vuol!</l>
+        </sp>
+        <stage>SANDOVAL(freddamente)Il Duca lo impone, lo vuol!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Poiché libero sono,</l>
+          <l>discendo insino a te</l>
+          <l>e ti chiedo ragion</l>
+          <l>d’un perdono che m’offende.</l>
+          <l>Sandoval fa segno con la mano che non lo può.</l>
+          <l>O nobile spagnuol,</l>
+          <l>imposto a te ha pur d’esser un vile?</l>
+        </sp>
+        <stage>MARCELLOPoiché libero sono,discendo insino a tee ti chiedo ragiond’un perdono che m’offende.Sandoval fa segno con la mano che non lo può.O nobile spagnuol,imposto a te ha pur d’esser un vile?</stage>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>(Daniele si frammette fra Marcello e Sandoval)</l>
+          <l>A tanto oltraggio avria</l>
+          <l>di già risposto il ferro mio!</l>
+          <l>Ma tu puoi, nobil belga, insultar senza tema.</l>
+        </sp>
+        <stage>SANDOVAL(Daniele si frammette fra Marcello e Sandoval)A tanto oltraggio avriadi già risposto il ferro mio!Ma tu puoi, nobil belga, insultar senza tema.</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Io?</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>Tu! Che di ferir mi si vietò!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Si spezza il mio core</l>
+          <l>a me mette orrore</l>
+          <l>l’infame mercé!</l>
+          <l>o morte o libertà!</l>
+        </sp>
+        <sp who="#i congiurati">
+          <speaker>I CONGIURATI:</speaker>
+          <l>Moviam! Un fato sol or ci aduni.</l>
+          <l>Faccia trovar insieme:</l>
+          <l>o morte o libertà!</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>ATTO SECONDO</head>
+        <sp who="#atto secondo">
+          <speaker>ATTO SECONDO:</speaker>
+        </sp>
+        <stage>Una sala del palazzo di città a Brusselle, chiusa da largheporte e da invetriate.Scena primaIl Duca d’Alba entra meditabondo.IL DUCANei miei superbi gauditra i conquistati allôr,trovavan plausi e laudid’amor deserto il cor.Ma nel mio sen rinatono, non regna il vuoto più,ché dire ad uom m’è dato:il figlio mio sei tu!Entra Carlos, seguito da uffiziali. Gli presenta un piego,che il Duca legge.Ah! de’ miei voti alfin ebber pietà.(volgendosi verso gli uffiziali)Medina mi succede e re Filippome sulle rive lusitane inviaun nuovo regno a conquistar.(fa un cenno di commiato agli uffiziali e questi escono)Rifulge in ciel la stella mia!Mi arridono vittoriepiù nobili e pure,dell’orrida scuread altri l’onor.Di fiere battaglietra i fumi, tra i lampisignori dei campic’insedia il valor;più nobile spada impugna il valor.Scena secondaEntra Marcello, accompagnato da Sandoval e daalcune guardie.IL DUCASei dunque tu, di cui la mano reanell’ombra, a quanto so squarciarmi volle il sen?</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>A liberar le Fiandre solo il mio braccio aspira</l>
+          <l>e l’oppressor ne sei.</l>
+          <l>Ne volea sfidar lo sdegno</l>
+          <l>e irriderne il dolor…</l>
+          <l>E il mio cor, al suo contegno</l>
+          <l>tutto invade ignoto orror!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Se a’ detti miei tu porgi ascolto</l>
+          <l>arcano un suon non giunge a te!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(a parte)</l>
+          <l>Trasalir io mi sento, vacilla ogni mia fé!</l>
+        </sp>
+        <stage>MARCELLO(a parte)Trasalir io mi sento, vacilla ogni mia fé!</stage>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>La lagrima riga il mio volto</l>
+          <l>ed osi negarmi mercé, ahimè!</l>
+          <l>Non è un suddito rubello</l>
+          <l>che al tirranno innanzi sta,</l>
+          <l>gli è un amico, gli è un fratello</l>
+          <l>che vuol da te solo pietà!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(a parte)</l>
+          <l>Ahi, più del tuo rigore,</l>
+          <l>temo omai tua pietà.</l>
+        </sp>
+        <stage>MARCELLO(a parte)Ahi, più del tuo rigore,temo omai tua pietà.</stage>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Or, poiché divinar non ti giova,</l>
+          <l>questa imagine sacra per te</l>
+          <l>il dubbio omai rimova.</l>
+          <l>(gli dà in mano un ritratto di donna)</l>
+          <l>MARCELLO</l>
+          <l>Mia madre!</l>
+        </sp>
+        <stage>IL DUCAOr, poiché divinar non ti giova,questa imagine sacra per teil dubbio omai rimova.(gli dà in mano un ritratto di donna)MARCELLOMia madre!</stage>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>(dandogli uno scritto)</l>
+          <l>Ed or… leggi…</l>
+        </sp>
+        <stage>IL DUCA(dandogli uno scritto)Ed or… leggi…</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Oh, ciel! Illusion non è questa!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>(fissando Marcello con tenerezza)</l>
+          <l>Oh, quale ebbrezza il nuovo affetto,</l>
+          <l>che il sen m’innonda, prepara a me.</l>
+        </sp>
+        <stage>IL DUCA(fissando Marcello con tenerezza)Oh, quale ebbrezza il nuovo affetto,che il sen m’innonda, prepara a me.</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Madre mia, sei tu, sei tu!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Quello che scorre dentro al suo petto</l>
+          <l>è il sangue mio, ah si, mio figlio,</l>
+          <l>mio figlio egli è!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(mettendo un grido)</l>
+          <l>Ah! del ciel m’ha la folgore percosso</l>
+          <l>io fremo d’affanno, d’orror…</l>
+        </sp>
+        <stage>MARCELLO(mettendo un grido)Ah! del ciel m’ha la folgore percossoio fremo d’affanno, d’orror…</stage>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>(appressandosi a Marcello)</l>
+          <l>Quel nome a te dare non posso</l>
+          <l>che sogna beato il mio cor!</l>
+        </sp>
+        <stage>IL DUCA(appressandosi a Marcello)Quel nome a te dare non possoche sogna beato il mio cor!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(a parte)</l>
+          <l>Deh! per pietà, t’ha il ciel a me rapita</l>
+          <l>mio solo amor, mio ben, mia vita!</l>
+        </sp>
+        <stage>MARCELLO(a parte)Deh! per pietà, t’ha il ciel a me rapitamio solo amor, mio ben, mia vita!</stage>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Il mio nome portar ti mette dunque orror?</l>
+          <l>Pur sai chi sia!</l>
+          <l>Grande, sublime, tu trovi un nome,</l>
+          <l>cinger di lauri potrai le chiome!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(a parte)</l>
+          <l>Amelia! Oh ciel! Io trasalgo di terror!</l>
+        </sp>
+        <stage>MARCELLO(a parte)Amelia! Oh ciel! Io trasalgo di terror!</stage>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>O figlio, oh figlio!</l>
+          <l>Tutto vo’ darti quanto tu brami</l>
+          <l>sol che una volta padre mi chiami!</l>
+          <l>Ah! sol che le braccia mi cinga il sen!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Ah! quel nome ignorato che porto</l>
+          <l>m’è del vostro men duro a portar!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Pur ne’ due mondi, il sai,</l>
+          <l>di tuo padre la gloria il nome irradiò!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Ch’egli è un tiranno, io so!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Ah! qual v’ha maggior dolore,</l>
+          <l>qual più delusa speme?</l>
+          <l>Io trovo e perdo insieme</l>
+          <l>il mio più dolce amor!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Oh, barbara mia sorte!</l>
+          <l>Di questa orribil vita</l>
+          <l>non è la stessa morte</l>
+          <l>che un male assai minor.</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Oh, fato spietato,</l>
+          <l>terribil condanna</l>
+          <l>impreca il mio nato</l>
+          <l>al suo genitor.</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Qual lotta fatale</l>
+          <l>combatte il mio core,</l>
+          <l>il dubbio m’assale</l>
+          <l>mi affanna il terror.</l>
+          <l>Abborra, oppur perdoni</l>
+          <l>infame sempre io son.</l>
+          <l>Il nome ch’offri a me</l>
+          <l>eredità di pianto</l>
+          <l>render mi può colei che adoro?</l>
+          <l>Più patria a me non resta, più fratelli non ho…</l>
+          <l>Mi scaccieran sclamando: colui suo figlio egli è!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>(trattenendo Marcello che vorrebbe uscire)</l>
+          <l>No! al mio fianco déi restar!</l>
+        </sp>
+        <stage>IL DUCA(trattenendo Marcello che vorrebbe uscire)No! al mio fianco déi restar!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Di qua degg’io, signor, sgombrar!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Ah! la mia prece, il pianto mio</l>
+          <l>l’orgoglio tuo non san piegar?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>La tua vittima è dessa…</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Ed a me l’oso dir?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Tu n’hai trafitto il seno</l>
+          <l>e dove io sol la man ti stenda</l>
+          <l>un parricida io son!</l>
+          <l>È la mia patria che a sé mi chiama</l>
+          <l>è d’una madre l’offeso amore!</l>
+          <l>O madre, a me vi chiama i sensi dell’onor!</l>
+          <l>Di lottar tu m’infondi la virtù far tacer</l>
+          <l>sì gran mercé dato è sol amar!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Fato spietato</l>
+          <l>fiera condanna</l>
+          <l>questo mio nato</l>
+          <l>impreca al genitor.</l>
+          <l>È la legge dell’amor</l>
+          <l>che ti chiedo d’osservar.</l>
+          <l>Non è umano tal rigor</l>
+          <l>tu mi puoi, mi dei amar.</l>
+        </sp>
+        <stage>Marcello va per fuggire, si arresta, udendo dal di fuori icanti lugubri.CORO INTERNODe profundis clamaviad te, Domine!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Che ascolto? E quai funeree voci</l>
+          <l>son giunte insino a me?</l>
+          <l>Si diria dal sen delle tenebre</l>
+          <l>un grido udir di dolor!</l>
+        </sp>
+        <stage>Scena terzaEntra Sandoval, con parecchi uffiziali, e siavanza rispettosamente verso il Duca.SANDOVALQual ordin?</stage>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Stien gli Albanesi, le micce accese,</l>
+          <l>colà, sulla gran piazza e, se un murmure scoppi,</l>
+          <l>una sola minaccia… Mi comprendi?</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>Il faran!</l>
+          <l>Va a trasmettere i suoi ordini agli uffiziali, i qual escono,</l>
+          <l>poi torna al fianco del Duca.</l>
+          <l>MARCELLO</l>
+          <l>(al Duca)</l>
+          <l>Or che accade laggiù?</l>
+        </sp>
+        <stage>SANDOVALIl faran!Va a trasmettere i suoi ordini agli uffiziali, i qual escono,poi torna al fianco del Duca.MARCELLO(al Duca)Or che accade laggiù?</stage>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>(freddamente)</l>
+          <l>Riguarda! Puoi vedere da quel verone</l>
+          <l>la piazza di Brusselle!</l>
+        </sp>
+        <stage>IL DUCA(freddamente)Riguarda! Puoi vedere da quel veronela piazza di Brusselle!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(va ad aprire la finestra)</l>
+          <l>Oh, vision fatal! Chi quel palco rizzò?</l>
+          <l>Quei miseri chi son che io veggio apparir?</l>
+        </sp>
+        <stage>MARCELLO(va ad aprire la finestra)Oh, vision fatal! Chi quel palco rizzò?Quei miseri chi son che io veggio apparir?</stage>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>(freddamente)</l>
+          <l>Cospirator!</l>
+        </sp>
+        <stage>IL DUCA(freddamente)Cospirator!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(con un grido)</l>
+          <l>I miei fidi essi son! Amelia! Oh, ciel!</l>
+          <l>(al Duca)</l>
+          <l>Che far tu attenti?</l>
+        </sp>
+        <stage>MARCELLO(con un grido)I miei fidi essi son! Amelia! Oh, ciel!(al Duca)Che far tu attenti?</stage>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Il mio dover.</l>
+          <l>Un dover inflessibile e severo!</l>
+          <l>Il mio quel di servir il re,</l>
+          <l>il tuo, il genitor d’odiare!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Di lor pietà, deh! sia sospeso</l>
+          <l>il cruento supplizio!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>E dritto hai tu</l>
+          <l>per costor di pregar, tu, colpevole com’essi?</l>
+          <l>Di grazia puoi parlar? Io nulla devo</l>
+          <l>al loro complice, tutto potrei ad un figlio accordar.</l>
+          <l>Ov’ei lo chieda, ov’ei mi chiami padre!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>O ciel!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Quella gente che implora chiede invan la mia mercé,</l>
+          <l>sol che tu mi chiami padre e l’avranno allor per te.</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>(traguardando dal verone)</l>
+          <l>Ecco, appressan già!</l>
+        </sp>
+        <stage>SANDOVAL(traguardando dal verone)Ecco, appressan già!</stage>
+        <sp who="#coro interno">
+          <speaker>CORO INTERNO:</speaker>
+          <l>(più vicino)</l>
+          <l>De profundis clamavi</l>
+          <l>ad te, Domine…</l>
+        </sp>
+        <stage>CORO INTERNO(più vicino)De profundis clamaviad te, Domine…</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(con disperazione)</l>
+          <l>Amelia! I fidi miei!</l>
+        </sp>
+        <stage>MARCELLO(con disperazione)Amelia! I fidi miei!</stage>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Tu non hai che un accento a proferir</l>
+          <l>e avran la mia mercé, l’avran per te!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Gran Dio, pietà di me</l>
+          <l>o sorte ria! Fatal martoro!</l>
+          <l>Strazio uman qual v’ha mai del mio maggior?</l>
+          <l>Veder spirar l’angiol che adoro</l>
+          <l>o rinunciar a tanto amor.</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Dio, che acceso hai tanto affetto,</l>
+          <l>pietà concedi al mio dolor!</l>
+          <l>Tocca il cor al mio diletto,</l>
+          <l>un figlio rendi al genitor!</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>E chi d’Alba il nome porta</l>
+          <l>può placar il suo rigor?</l>
+          <l>Sul palco vil sia tutta morta</l>
+          <l>la turba rea dei traditor.</l>
+          <l>(traguardando di nuovo dal verone)</l>
+          <l>Essi avanzan… di qui vegg’io la giovinetta…</l>
+          <l>Con pié fermo al palco vil essa sale…</l>
+          <l>Fiammeggia il ferro!</l>
+        </sp>
+        <stage>SANDOVALE chi d’Alba il nome portapuò placar il suo rigor?Sul palco vil sia tutta mortala turba rea dei traditor.(traguardando di nuovo dal verone)Essi avanzan… di qui vegg’io la giovinetta…Con pié fermo al palco vil essa sale…Fiammeggia il ferro!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Oh terror, oh ciel!</l>
+          <l>Quale orror, oh Signor!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>(a Marcello)</l>
+          <l>Or ben? Or ben?</l>
+        </sp>
+        <stage>IL DUCA(a Marcello)Or ben? Or ben?</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(gettandosi in ginocchio e stringendogli la mano)</l>
+          <l>O padre, padre mio!</l>
+        </sp>
+        <stage>MARCELLO(gettandosi in ginocchio e stringendogli la mano)O padre, padre mio!</stage>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>O crudel, tanto l’amavi allor?</l>
+          <l>(fa un cenno a Sandoval che lo trasmette dal verone ai</l>
+          <l>soldati che sono sulla piazza)</l>
+          <l>Il supplizio sospendasi e qui sian tratti assiem!</l>
+        </sp>
+        <stage>IL DUCAO crudel, tanto l’amavi allor?(fa un cenno a Sandoval che lo trasmette dal verone aisoldati che sono sulla piazza)Il supplizio sospendasi e qui sian tratti assiem!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Oh sorte ria, fatal martoro!</l>
+          <l>Qual strazio umano v’ha di questo maggior:</l>
+          <l>se per salvar colei che adoro</l>
+          <l>perduto avrò sì grande amor!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Dio che acceso hai tanto affetto</l>
+          <l>mercé hai concesso al mio dolor!</l>
+          <l>Il cor toccasti al mio diletto</l>
+          <l>l’hai reso alfin a tanto amor!</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>E chi d’Alba il nome porta</l>
+          <l>può placar il suo rigor?</l>
+          <l>Tutta cader doveva morta</l>
+          <l>la turba vile dei traditor.</l>
+        </sp>
+        <stage>Scena quartaLe porte del fondo si aprono e compariscono Amelia, Daniele,tutti i Congiurati, popolo fiammingo e Soldati.Il Duca e Marcello rimangono a sinistra; Amelia,Daniele e Sandoval a destra.MARCELLO(vedendo comparire Amelia e tenendosi in disparte)Di resister, ahimè, più forza omai non ho!</stage>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>(ad Amelia)</l>
+          <l>Tu, che senza tremar fissasti l’empia scure,</l>
+          <l>o fanciulla, perché vuoi tu miei dì troncar?</l>
+        </sp>
+        <stage>IL DUCA(ad Amelia)Tu, che senza tremar fissasti l’empia scure,o fanciulla, perché vuoi tu miei dì troncar?</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Io figlia son d’Egmont, e vendicava il padre!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>(con emozione)</l>
+          <l>Che? Pel padre tuo? Esser dee l’ombra sua</l>
+          <l>sublimemente altera, se tanto seppe a te ispirar!</l>
+          <l>(piano a Marcello)</l>
+          <l>Morir costei sapea pel genitor…</l>
+          <l>E tu, viver pel tuo, crudel non sai ancor!</l>
+          <l>(appressandosi ad Amelia)</l>
+          <l>E se pietà di tanto errore, or mi traesse a perdonar?</l>
+        </sp>
+        <stage>IL DUCA(con emozione)Che? Pel padre tuo? Esser dee l’ombra suasublimemente altera, se tanto seppe a te ispirar!(piano a Marcello)Morir costei sapea pel genitor…E tu, viver pel tuo, crudel non sai ancor!(appressandosi ad Amelia)E se pietà di tanto errore, or mi traesse a perdonar?</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>No! Tu nol déi per te. Ah! no, nol far!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Perché?</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Il braccio non puoi disarmar di mia vendetta!</l>
+          <l>Che l’odio mio mi resta e nulla vuol da te!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Tu nulla devi a mia clemenza.</l>
+          <l>La grazia tua non vien da me;</l>
+          <l>ma da talun che mi uguaglia in potenza</l>
+          <l>e pari mio creava il re!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(vivamente, a voce bassa)</l>
+          <l>Padre mio, quel nome non lo dir!</l>
+          <l>Deh, fa ch’essa lo ignori</l>
+          <l>per oggi almen, fa che lo ignori.</l>
+          <l>Un sol giorno ancora, o se grazia non dài,</l>
+          <l>io m’immolo a tuoi piè!</l>
+        </sp>
+        <stage>MARCELLO(vivamente, a voce bassa)Padre mio, quel nome non lo dir!Deh, fa ch’essa lo ignoriper oggi almen, fa che lo ignori.Un sol giorno ancora, o se grazia non dài,io m’immolo a tuoi piè!</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>(parlando a Daniele al quale si tenne vicina)</l>
+          <l>Ah sì, comprendo, ei dee partir.</l>
+        </sp>
+        <stage>AMELIA(parlando a Daniele al quale si tenne vicina)Ah sì, comprendo, ei dee partir.</stage>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Ah, crudel!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Deh, o padre!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Egli è a Medina-Celi che la vita or noi dobbiam.</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>(additando Marcello)</l>
+          <l>No, davver; egli è colui!</l>
+        </sp>
+        <stage>SANDOVAL(additando Marcello)No, davver; egli è colui!</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>(scorgendolo)</l>
+          <l>Marcel! Oh ciel!</l>
+        </sp>
+        <stage>AMELIA(scorgendolo)Marcel! Oh ciel!</stage>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>Per quanto ci chieda, nulla ricusa il Duca</l>
+          <l>ed ebbe ognun per lui grazia a trovar!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Ah! uman pensiero</l>
+          <l>il fatal mistero</l>
+          <l>questo orribil vero</l>
+          <l>non de’ mai scoprir!</l>
+          <l>Per me d’atri veli</l>
+          <l>son coperti i cieli</l>
+          <l>pria che alcuno mi sveli</l>
+          <l>mi sia dato morir!</l>
+        </sp>
+        <sp who="#il duca">
+          <speaker>IL DUCA:</speaker>
+          <l>Tra stirpe gagliarda</l>
+          <l>e plebe codarda</l>
+          <l>tarda a optar?</l>
+          <l>Deh, tra un nobil padre</l>
+          <l>e plebe rea, codarda</l>
+          <l>or tu devi optar.</l>
+          <l>Un serto è quel nome</l>
+          <l>ch’orna a te le chiome</l>
+          <l>grande sei, siccome</l>
+          <l>grande è il solo re!</l>
+        </sp>
+        <sp who="#sandoval">
+          <speaker>SANDOVAL:</speaker>
+          <l>D’un uom la preghiera</l>
+          <l>qui, dove egli impera</l>
+          <l>ottiene mercé!</l>
+          <l>Invan cela il vero,</l>
+          <l>ma qual è il mistero</l>
+          <l>che sì grande impero</l>
+          <l>sul duca gli de’?</l>
+        </sp>
+        <sp who="#il popolo">
+          <speaker>IL POPOLO:</speaker>
+          <l>Di speme ho il cor pieno</l>
+          <l>un giorno sereno</l>
+          <l>lo sento nel seno</l>
+          <l>per noi sorgerà.</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Che venduta al tiran hai la patria, la fé!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Ah, Amelia!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Lunge or va!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>M’odi ancor?</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Ahi, vendetti al tiran</l>
+          <l>e la patria e la fé!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Convien che a te favelli…</l>
+          <l>M’odi ancor? Per pietà,</l>
+          <l>m’odi ancor, Amelia!</l>
+        </sp>
+        <stage>Amelia si allontana coi congiurati, senza volgereuno sguardo a Marcello il quale, desolato, si gettatra le braccia del padre. Amelia, in atto di uscire,si volge, lo addita a Daniele, ed esce.</stage>
+      </div>
+      <div type="act">
+        <head>ATTO TERZO</head>
+        <sp who="#atto terzo">
+          <speaker>ATTO TERZO:</speaker>
+        </sp>
+        <sp who="#quadro primo">
+          <speaker>QUADRO PRIMO:</speaker>
+        </sp>
+        <stage>L’oratorio di Amelia.Scena primaMarcello entra avvolto in un ampio mantello.MARCELLO(si guarda intorno con rispetto e s’inchina davantial quadro sovrapposto all’inginocchiatoio)Spirto gentil ne’ sogni mieibrillasti un dì ma ti perdei:fuggi dal core vanita speme,larve d’amor fuggite insieme.Se in crudo esilio dovrò morire,colpevol figlio lontan, ahiméal nostro amor non malediree nel morire dir potrò ancor:spirto gentil ecc.</stage>
+        <stage>Scena secondaAmelia e Marcello.AMELIA(entra vivamente e scorge Marcello)Oh ciel! Si gela il sangue di sgomento, d’orror!Al mio cospetto appar quel vil, quel traditor!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(cadendo in ginocchio)</l>
+          <l>Ascolta, ascolta!</l>
+        </sp>
+        <stage>MARCELLO(cadendo in ginocchio)Ascolta, ascolta!</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Vile!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(molto agitato)</l>
+          <l>Ah!</l>
+          <l>No! d’orror il tuo sen più non frema,</l>
+          <l>cedi, o donna, a cotanto sospir!</l>
+          <l>O una grazia m’accorda, l’estrema!</l>
+          <l>A tuoi piè mi concedi morir!</l>
+        </sp>
+        <stage>MARCELLO(molto agitato)Ah!No! d’orror il tuo sen più non frema,cedi, o donna, a cotanto sospir!O una grazia m’accorda, l’estrema!A tuoi piè mi concedi morir!</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Giammai!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Per pietà!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Giammai! Disertate hai le file,</l>
+          <l>hai venduto il tuo braccio, il tuo cor!</l>
+          <l>Giammai! Perdonar si può il vile</l>
+          <l>ma non colui che tradiva l’onor!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(rialzandosi in preda alla massima commozione)</l>
+          <l>No, non son io colpevole</l>
+          <l>ne attesto Iddio Signor,</l>
+          <l>ei che creò quest’anima</l>
+          <l>ei che ci legge in cor!</l>
+        </sp>
+        <stage>MARCELLO(rialzandosi in preda alla massima commozione)No, non son io colpevolene attesto Iddio Signor,ei che creò quest’animaei che ci legge in cor!</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Ah! del tuo rimorso il fremito</l>
+          <l>accusa il tuo fallir</l>
+          <l>tu tremi, o vile, innante</l>
+          <l>a un Dio vendicator.</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Deh! il credi; a te lo giuro per Egmont,</l>
+          <l>per tuo padre, che innocente io son.</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Tu?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Ma per noi</l>
+          <l>ma per te… deh! non m’interrogar</l>
+          <l>su questo reo mistero! Obliam quanto fu</l>
+          <l>fuggiam lungi di qua… del tuo tiran,</l>
+          <l>del mio, l’infame possa io sfido!</l>
+          <l>Rinuncio a un grado, a un nome, ad ogni fé.</l>
+          <l>Per vendicarti a te sarò sol fido!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>(commossa e perplessa)</l>
+          <l>Marcel, che ascolto! E che di’ tu?</l>
+          <l>Marcello fuggiam!</l>
+          <l>Se narrasti a me il ver, d’Amelia ancor nel core</l>
+          <l>quel che tu fosti ritornar puoi tu!</l>
+        </sp>
+        <stage>AMELIA(commossa e perplessa)Marcel, che ascolto! E che di’ tu?Marcello fuggiam!Se narrasti a me il ver, d’Amelia ancor nel corequel che tu fosti ritornar puoi tu!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(con ebbrezza)</l>
+          <l>In me ridesti il celestial ardore!</l>
+          <l>Parla! Non fia che a me più manchi una virtù!</l>
+        </sp>
+        <stage>MARCELLO(con ebbrezza)In me ridesti il celestial ardore!Parla! Non fia che a me più manchi una virtù!</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>(sottovoce)</l>
+          <l>Il tiran, che di duol copriva il suol materno,</l>
+          <l>pel suo lido natal le vele scioglierà.</l>
+          <l>La Spagna lo richiama e, dei popoli a scherno,</l>
+          <l>il regno suo per pena avrà l’impunità!</l>
+          <l>No! No! Dio non lo vuol!</l>
+          <l>La forza sol difetto può far al loro coraggio!</l>
+          <l>Poiché braccio viril sol un seno può squarciar!</l>
+        </sp>
+        <stage>AMELIA(sottovoce)Il tiran, che di duol copriva il suol materno,pel suo lido natal le vele scioglierà.La Spagna lo richiama e, dei popoli a scherno,il regno suo per pena avrà l’impunità!No! No! Dio non lo vuol!La forza sol difetto può far al loro coraggio!Poiché braccio viril sol un seno può squarciar!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(con raccapriccio)</l>
+          <l>Ciel! Ciel!</l>
+        </sp>
+        <stage>MARCELLO(con raccapriccio)Ciel! Ciel!</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Tu tremi di già?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Chi? Io?</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Giuri non vo’! Ch’ei mora…</l>
+          <l>E credo a te… Ch’ei mora e a te perdono!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Che mai di’ tu? Ahimè!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>D’orror or tu trasali?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(volgendosi altrove)</l>
+          <l>Sì, sì, nol poss’io, non lo vo’!</l>
+        </sp>
+        <stage>MARCELLO(volgendosi altrove)Sì, sì, nol poss’io, non lo vo’!</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Ten va, ten va!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Dal labbro tuo</l>
+          <l>tremante io pendo</l>
+          <l>ch’ei m’apra attendo</l>
+          <l>l’inferno, o il ciel!</l>
+          <l>Fato funesto</l>
+          <l>io ti detesto;</l>
+          <l>sii maledetto,</l>
+          <l>giorno crudel!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Ten va, ten va! Da me ten va!</l>
+          <l>Più non rispondo</l>
+          <l>ten va lontan! Son sola al mondo</l>
+          <l>ten va lontan da me, lo vuole il ciel!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>(con desolazione)</l>
+          <l>Ah, tu non sai… ostacolo fatal…</l>
+        </sp>
+        <stage>MARCELLO(con desolazione)Ah, tu non sai… ostacolo fatal…</stage>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Un uom non è chi a spezzarlo non val!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Fra noi l’inferno sta!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Il ciel ti assisterà! Sì, Dio mi guida.</l>
+          <l>Iddio m’ispira tuo malgrado</l>
+          <l>stanotte il mio pugnal il tiran colpirà!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Mio padre!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>(getta un grido)</l>
+          <l>Ah!</l>
+        </sp>
+        <stage>AMELIA(getta un grido)Ah!</stage>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Or ben! Or noto è a te l’orrendo arcan.</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Che? Quel tiran, quell’infame? Di’ tu il ver?</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>È mio padre!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>L’inferno ci separa, ahimè!</l>
+          <l>Il genitor tu servi, il mio vo’ vendicar!</l>
+        </sp>
+        <sp who="#marcello">
+          <speaker>MARCELLO:</speaker>
+          <l>Qual rea parola hai pronunziato?</l>
+          <l>Tu m’hai rubato</l>
+          <l>per sempre il ciel!</l>
+          <l>Giorno funesto!</l>
+          <l>Io ti detesto.</l>
+          <l>Sii maledetto,</l>
+          <l>fato crudel!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Ten va, ten va!</l>
+          <l>Dio ci separa.</l>
+          <l>Spezzata è l’ara</l>
+          <l>dei nostri amor!</l>
+          <l>Ten va, fiamma funesta</l>
+          <l>che il cor detesta.</l>
+          <l>Sii maledetto,</l>
+          <l>o dì crudel!</l>
+        </sp>
+        <div type="scene">
+          <head>QUADRO SECONDO</head>I1 porto d’Anversa sulle rive della Schelda.Scena primaLa flotta spagnuola che deve condurre il Duca d’Albasta per mettere alla vela. Il vascello ammiraglio èsulla destra. Il porto è coperto di marinai e soldatii quali stanno facendo i preparativi del l’imbarco.I MARINAI e I SOLDATISciogliete le vele!Qual vaga fanciullala nave si cullanel limpido mar.Al sol che tramonta,si leva la brezza:dei forti è l’ebbrezzain patria tornar!<sp who="#quadro secondo">
+            <speaker>QUADRO SECONDO:</speaker>
+            <l>I1 porto d’Anversa sulle rive della Schelda.</l>
+            <l>Scena prima</l>
+            <l>La flotta spagnuola che deve condurre il Duca d’Alba</l>
+            <l>sta per mettere alla vela. Il vascello ammiraglio è</l>
+            <l>sulla destra. Il porto è coperto di marinai e soldati</l>
+            <l>i quali stanno facendo i preparativi del l’imbarco.</l>
+            <l>I MARINAI e I SOLDATI</l>
+            <l>Sciogliete le vele!</l>
+            <l>Qual vaga fanciulla</l>
+            <l>la nave si culla</l>
+            <l>nel limpido mar.</l>
+            <l>Al sol che tramonta,</l>
+            <l>si leva la brezza:</l>
+            <l>dei forti è l’ebbrezza</l>
+            <l>in patria tornar!</l>
+          </sp>
+          <stage>QUADRO SECONDOI1 porto d’Anversa sulle rive della Schelda.Scena primaLa flotta spagnuola che deve condurre il Duca d’Albasta per mettere alla vela. Il vascello ammiraglio èsulla destra. Il porto è coperto di marinai e soldatii quali stanno facendo i preparativi del l’imbarco.I MARINAI e I SOLDATISciogliete le vele!Qual vaga fanciullala nave si cullanel limpido mar.Al sol che tramonta,si leva la brezza:dei forti è l’ebbrezzain patria tornar!</stage>
+          <sp who="#i soldati">
+            <speaker>I SOLDATI:</speaker>
+            <l>A chi vien dalla guerra</l>
+            <l>oltre monti, oltre mar,</l>
+            <l>la materna sua terra</l>
+            <l>quanto è bello rimirar!</l>
+          </sp>
+          <stage>Scena secondaI tamburi e le trombe suonano a raccolta, i marinaivanno correndo sui loro vascelli, i soldati si schieranoin fondo. Comparisce il Duca d’Alba, preceduto eseguito da paggi e uffiziali. Si appoggia sul bracciodi Marcello ed ha al suo fianco il Duca di Medina-Celi.Al suo comparire i vascelli issano le bandiere,l’artiglieria le saluta. Chiudono il corteggio le guardie vallone.Il popolo fiammingo sta in disparte.COROOnor a lui, nobil campiondella gloria spagnuola.L’aste innanzi a luisi debbon curvar.</stage>
+          <sp who="#il duca">
+            <speaker>IL DUCA:</speaker>
+            <l>(al Duca di Medina-Celi)</l>
+            <l>In mani vostre, o Duca, io rassegno il poter.</l>
+            <l>Saluteran fra breve</l>
+            <l>gli spaldi di Lisbona,</l>
+            <l>gli iberici guerrier!</l>
+            <l>Addio! Conquistata mia terra,</l>
+            <l>e voi che seppi alfin domar!</l>
+            <l>O spaldi, addio, su cui, segnal di guerra,</l>
+            <l>sventolan l’aste ch’ebbi a conquistar!</l>
+            <l>Ignoti a me fui i trepidi allarmi,</l>
+            <l>volli il destina’ miei fini fedel!</l>
+            <l>E arrise ognor la vittoria a nostr’armi,</l>
+            <l>ad attestar che con noi stava il ciel!</l>
+          </sp>
+          <stage>IL DUCA(al Duca di Medina-Celi)In mani vostre, o Duca, io rassegno il poter.Saluteran fra brevegli spaldi di Lisbona,gli iberici guerrier!Addio! Conquistata mia terra,e voi che seppi alfin domar!O spaldi, addio, su cui, segnal di guerra,sventolan l’aste ch’ebbi a conquistar!Ignoti a me fui i trepidi allarmi,volli il destina’ miei fini fedel!E arrise ognor la vittoria a nostr’armi,ad attestar che con noi stava il ciel!</stage>
+          <stage>Scena terzaComparisce Amelia accompagnata da Daniele e daparecchie giovinette bianco vestite che recano canestridi fiori.IL DUCA(ad Amelia, la quale gli si accosta lentamente econ gli occhi abbassati)Che vuoi tu, giovinetta? T’accosta e non temer.Volgi lo sguardo a me!</stage>
+          <sp who="#amelia">
+            <speaker>AMELIA:</speaker>
+            <l>(sottovoce a Daniele)</l>
+            <l>Ah! nol poss’io! Tal vista</l>
+            <l>fa vacillar il mio braccio e il mio cor!</l>
+          </sp>
+          <stage>AMELIA(sottovoce a Daniele)Ah! nol poss’io! Tal vistafa vacillar il mio braccio e il mio cor!</stage>
+          <sp who="#il duca">
+            <speaker>IL DUCA:</speaker>
+            <l>Parla!</l>
+          </sp>
+          <sp who="#amelia">
+            <speaker>AMELIA:</speaker>
+            <l>(inchinandosi)</l>
+            <l>Pria che tu parta, imploro a te un favor:</l>
+            <l>in nome delle Fiandre venuta a te son io</l>
+            <l>lor voti ad apportar…</l>
+          </sp>
+          <stage>AMELIA(inchinandosi)Pria che tu parta, imploro a te un favor:in nome delle Fiandre venuta a te son iolor voti ad apportar…</stage>
+          <sp who="#il duca">
+            <speaker>IL DUCA:</speaker>
+            <l>(stendendole la mano per rialzarla)</l>
+            <l>Quali son?</l>
+          </sp>
+          <stage>IL DUCA(stendendole la mano per rialzarla)Quali son?</stage>
+          <sp who="#amelia">
+            <speaker>AMELIA:</speaker>
+            <l>(traendo di sotto le vesti un pugnale per ferire il</l>
+            <l>Duca)</l>
+            <l>Questi son!</l>
+          </sp>
+          <stage>AMELIA(traendo di sotto le vesti un pugnale per ferire ilDuca)Questi son!</stage>
+          <stage>Marcello, il quale osservava inosservato Amelia finodal suo giungere in scena, s’accosta al Duca nelmomento in cui essa alza il pugnale, si slanciarapidamente tra essa e il Duca, e riceve il colpoche gli era destinato.MARCELLOMio padre!(vacillando)AMELIA(manda un grido straziante, lascia cadere ilpugnale e cade fra le braccia di Daniele)Ah!</stage>
+          <sp who="#il duca">
+            <speaker>IL DUCA:</speaker>
+            <l>(stringendo il figlio fra le sue braccia)</l>
+            <l>Che facesti?</l>
+          </sp>
+          <stage>IL DUCA(stringendo il figlio fra le sue braccia)Che facesti?</stage>
+          <sp who="#marcello">
+            <speaker>MARCELLO:</speaker>
+            <l>Il mio dover!</l>
+            <l>Il genitor difesi, costei lo vendicò!</l>
+            <l>(al Duca additando Amelia)</l>
+            <l>A quest’angiol perdona! In lei perdoni a me!</l>
+          </sp>
+          <stage>MARCELLOIl mio dover!Il genitor difesi, costei lo vendicò!(al Duca additando Amelia)A quest’angiol perdona! In lei perdoni a me!</stage>
+          <sp who="#il duca">
+            <speaker>IL DUCA:</speaker>
+            <l>(sostenendo il figlio)</l>
+            <l>Ah! io giuro al Signor!</l>
+          </sp>
+          <stage>IL DUCA(sostenendo il figlio)Ah! io giuro al Signor!</stage>
+          <stage>Amelia si avvicina a Marcello il quale la guarda contenerezza.MARCELLOCon le tue labbra sfiorami,cara adorata, il viso!Perdon mi da’, se, ahi misero,da te mi volli ucciso!(al Duca)Ah! tu non dir colpevolechi m’ha trafitto il cor!Basti, o padre, una sol vittimaal mio filiale amor.</stage>
+          <sp who="#amelia">
+            <speaker>AMELIA:</speaker>
+            <l>Ah! non sarà il tuo cenere</l>
+            <l>gelido fatto ancor</l>
+            <l>che sul recente tumulo</l>
+            <l>m’ucciderà il dolor!</l>
+          </sp>
+          <sp who="#il duca">
+            <speaker>IL DUCA:</speaker>
+            <l>O figlio mio, o figlio mio</l>
+            <l>deh! Non morire ancor</l>
+            <l>troppo punisce Iddio</l>
+            <l>in te il paterno error!</l>
+          </sp>
+          <stage>DANIELE e I FIAMMINGHI(in disparte, additando il Duca)Sia maledetto, sia maledettochi il suol fiammingo insanguinò!Il ciel ch’è giusto nel solo affettoch’uom lo rese lo fulminò!</stage>
+          <sp who="#gli spagnuoli">
+            <speaker>GLI SPAGNUOLI:</speaker>
+            <l>(sul vascello)</l>
+            <l>Sciogliete le vele!</l>
+          </sp>
+          <stage>GLI SPAGNUOLI(sul vascello)Sciogliete le vele!</stage>
+          <sp who="#marcello">
+            <speaker>MARCELLO:</speaker>
+            <l>(con uno sforzo supremo si scioglie dalle braccia</l>
+            <l>del padre cadendo tra quelle di Amelia)</l>
+            <l>Guardami ancor… stringimi!</l>
+            <l>Mancar… mi sento…</l>
+            <l>(muore)</l>
+            <l>AMELIA</l>
+            <l>(con un grido desolato gettandosi sul suo corpo)</l>
+            <l>Ah!</l>
+          </sp>
+          <stage>MARCELLO(con uno sforzo supremo si scioglie dalle bracciadel padre cadendo tra quelle di Amelia)Guardami ancor… stringimi!Mancar… mi sento…(muore)AMELIA(con un grido desolato gettandosi sul suo corpo)Ah!</stage>
+          <sp who="#il duca">
+            <speaker>IL DUCA:</speaker>
+            <l>(mettendogli una mano sul cuore)</l>
+            <l>Fatto è di gelo il suo misero cor.</l>
+            <l>(allontanandosi e salendo il ponte mobile del</l>
+            <l>naviglio ammiraglio)</l>
+            <l>Terra esecrata!</l>
+          </sp>
+          <stage>IL DUCA(mettendogli una mano sul cuore)Fatto è di gelo il suo misero cor.(allontanandosi e salendo il ponte mobile delnaviglio ammiraglio)Terra esecrata!</stage>
+          <sp who="#gli spagnuoli">
+            <speaker>GLI SPAGNUOLI:</speaker>
+            <l>Sciogliete le vele…</l>
+            <l>Onor al nobil campione</l>
+            <l>della gloria spagnuola!</l>
+            <l>L’aste anzi a lui si debbon curvar,</l>
+            <l>onor a lui, onor!</l>
+          </sp>
+          <stage>Il naviglio si muove, e cala la tela.</stage>
+          <sp who="#f i n e">
+            <speaker>F I N E:</speaker>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,3293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">a regina sant’Orsola</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="oronteo">
+            <persName>ORONTEO:</persName>
+          </person>
+          <person xml:id="arimalto">
+            <persName>ARIMALTO:</persName>
+          </person>
+          <person xml:id="coro di demoni">
+            <persName>CORO DI DEMONI:</persName>
+          </person>
+          <person xml:id="coro di sacerdoti di marte">
+            <persName>CORO DI SACERDOTI DI MARTE:</persName>
+          </person>
+          <person xml:id="gauno">
+            <persName>GAUNO:</persName>
+          </person>
+          <person xml:id="coro d’unni">
+            <persName>CORO D’UNNI:</persName>
+          </person>
+          <person xml:id="asmodeo">
+            <persName>ASMODEO:</persName>
+          </person>
+          <person xml:id="cordula">
+            <persName>CORDULA:</persName>
+          </person>
+          <person xml:id="arno">
+            <persName>ARNO:</persName>
+          </person>
+          <person xml:id="furia infernale">
+            <persName>FURIA INFERNALE:</persName>
+          </person>
+          <person xml:id="coro di cristiani">
+            <persName>CORO DI CRISTIANI:</persName>
+          </person>
+          <person xml:id="coro d’angeli">
+            <persName>CORO D’ANGELI:</persName>
+          </person>
+          <person xml:id="coro di soldati unni">
+            <persName>CORO DI SOLDATI UNNI:</persName>
+          </person>
+          <person xml:id="san michele">
+            <persName>SAN MICHELE:</persName>
+          </person>
+          <person xml:id="coro di nobili di colonia">
+            <persName>CORO DI NOBILI DI COLONIA:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="urania">
+            <persName>URANIA:</persName>
+          </person>
+          <person xml:id="ismano">
+            <persName>ISMANO:</persName>
+          </person>
+          <person xml:id="tribuno">
+            <persName>TRIBUNO:</persName>
+          </person>
+          <person xml:id="coro di soldati romani">
+            <persName>CORO DI SOLDATI ROMANI:</persName>
+          </person>
+          <person xml:id="lucifero">
+            <persName>LUCIFERO:</persName>
+          </person>
+          <person xml:id="generale">
+            <persName>GENERALE:</persName>
+          </person>
+          <person xml:id="coro delle muse">
+            <persName>CORO DELLE MUSE:</persName>
+          </person>
+          <person xml:id="sant’orsola">
+            <persName>SANT’ORSOLA:</persName>
+          </person>
+          <person xml:id="centurione">
+            <persName>CENTURIONE:</persName>
+          </person>
+          <person xml:id="orebo">
+            <persName>OREBO:</persName>
+          </person>
+          <person xml:id="coro di sante vergini">
+            <persName>CORO DI SANTE VERGINI:</persName>
+          </person>
+          <person xml:id="ireo">
+            <persName>IREO:</persName>
+          </person>
+          <person xml:id="peraspe">
+            <persName>PERASPE:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>ARNO</castItem>
+        <castItem>URANIA</castItem>
+        <castItem>ASMODEO</castItem>
+        <castItem>LUCIFERO</castItem>
+        <castItem>FURIA INFERNALE</castItem>
+        <castItem>GENERALE</castItem>
+        <castItem>TRIBUNO</castItem>
+        <castItem>CENTURIONE</castItem>
+        <castItem>GAUNO</castItem>
+        <castItem>ISMANO</castItem>
+        <castItem>ARIMALTO</castItem>
+        <castItem>IREO</castItem>
+        <castItem>OREBO</castItem>
+        <castItem>ORONTEO</castItem>
+        <castItem>PERASPE</castItem>
+        <castItem>SANT’ORSOLA</castItem>
+        <castItem>CORDULA</castItem>
+        <castItem>SAN MICHELE</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>La scena si rappresenta appresso le mura di Colonia Agrippina: vedesi da una parte un tempio con l’idolo di Marte, e dall’altra un bastione, che si sporge in fuori dal resto delle mura: nella lontananza apparisce la città di Colonia, il fiume Reno, e più oltre la campagna dove sono attendati gl’unni: apresi nella prima scena dell’atto primo, una voragine, dove si vede in un lago di fiamme seder Lucifero sopra un’Idra, e fatto il concilio de’ demoni contro Sant’Orsola, si riserra. Il coro principale, che divide gl’atti è di Cristiani inglesi prigioni degl’Unni. Quest’azione, acciò possa recitarsi senza musica, è stata dal suo autore più allungata in stampa, di quello che fu cantata in scena.</stage>
+      <div type="act">
+        <head>Al sereniss. ed invittiss.</head>Vladislao Sigismondo principe di Polonia e di Svezia.Temistocle, doppo la nobil vittoria di Salamina, andato in Elea per esser quivi spettatore de’ giochi olimpici, fu egli medesimo glorioso spettacolo al popolo: a lui con lietissimo applauso volgendosi allora quella numerosa moltitudine, il giorno destinato alla celebrazione de’ giochi in onor di Giove, consumò tutto nell’ammirare, e lodare quel famosissimo uomo, dal quale era stata liberata la Grecia, e domata la Persia. Quest’esempio di segnalata gloria ha veduto l’età nostra rinovellarsi nella persona di v. a. Ella dopo i suoi illustri trofei, lasciati in lontanissime parti della terra, essendo venuta a veder Italia, teatro dell’universo, ha meritato, che i popoli di essa, lasciando di ragionar d’ogni altro, rivolgano tutte le lingue alle sue lodi, e tutti gl’animi al suo valore. Prima che in questa provincia si mirassero i lampi della sua real presenza, s’erano uditi i tuoni delle sue armi, caduti sopra ferocissime nazioni, Moscoviti, Tartari, e Turchi: allora non si tenne per favola, che Marte avesse la sua abitazione ne’ regni di Tramontana: e Roma cominciò ad augurare, che il settentrione avesse ad esser per lei l’asta di Achille: ella fu da quello oppressa, e per lui spera di sollevarsi; posciaché solo fra tutti i popoli d’Europa il nobilissimo regno di Polonia ha dimostrato, che il turco non è invitto. V. a. avvezza ad essere accompagnata da numerosi eserciti, si è compiaciuta in compagnia di pochi passar per Italia incognita: ma la schiera delle sue reali virtù, le ha fatto in ogni luogo pubblico corteggio, e la fama del suo valore per tutto l’ha palesata: per esser conosciuto basta che Giove abbia il fulmine: e ‘l sole, ben che celato tra le nuvole, dovunque arriva, apporta il giorno. La nostra Toscana onorata da lei con pubblico favore della sua vista, ha cercato con altrettanta dimostrazion d’amore corrispondere all’onor della sua venuta: ella come perpetua nutrice di essi, richiamando alle scene reali gl’Apelli, i Dedali, e gl’Orfei, ha spiegato per dilettarla le meraviglie degl’antichi spettacoli d’Atene, ed all’incontro v. a. in un vivo teatro d’eroica virtù, ha fatto vedere a Toscana, quella perfetta idea di principe, e di cavaliero, che da i più saggi greci ne è stata designata. Quello, che le muse le hanno cantata in scena, ora le porgono in dono: questa è la Regina Sant’Orsola, opera in ogn’altra parte felicissima, fuori che nell’esser parto d’infelice ingegno. Essa con meraviglioso apparato le è stata fatta rappresentare dal serenissimo gran duca mio signore, ed ora da me le è umilissimamente consacrata. A principe difensore della religione, benissimo si conviene poscia in lode di principessa morta per gloria del nome cristiano: si compiaccia però di gradirla, e con i raggi del suo glorioso nome la tolga da quelle tenebre, che porta dal suo autore, ed io umilissimamente inchinandola, le prego fortunati i suoi magnanimi pensieri.<div type="scene">
+          <head>Al sereniss. ed invittiss.</head>Vladislao Sigismondo principe di Polonia e di Svezia.Temistocle, doppo la nobil vittoria di Salamina, andato in Elea per esser quivi spettatore de’ giochi olimpici, fu egli medesimo glorioso spettacolo al popolo: a lui con lietissimo applauso volgendosi allora quella numerosa moltitudine, il giorno destinato alla celebrazione de’ giochi in onor di Giove, consumò tutto nell’ammirare, e lodare quel famosissimo uomo, dal quale era stata liberata la Grecia, e domata la Persia. Quest’esempio di segnalata gloria ha veduto l’età nostra rinovellarsi nella persona di v. a. Ella dopo i suoi illustri trofei, lasciati in lontanissime parti della terra, essendo venuta a veder Italia, teatro dell’universo, ha meritato, che i popoli di essa, lasciando di ragionar d’ogni altro, rivolgano tutte le lingue alle sue lodi, e tutti gl’animi al suo valore. Prima che in questa provincia si mirassero i lampi della sua real presenza, s’erano uditi i tuoni delle sue armi, caduti sopra ferocissime nazioni, Moscoviti, Tartari, e Turchi: allora non si tenne per favola, che Marte avesse la sua abitazione ne’ regni di Tramontana: e Roma cominciò ad augurare, che il settentrione avesse ad esser per lei l’asta di Achille: ella fu da quello oppressa, e per lui spera di sollevarsi; posciaché solo fra tutti i popoli d’Europa il nobilissimo regno di Polonia ha dimostrato, che il turco non è invitto. V. a. avvezza ad essere accompagnata da numerosi eserciti, si è compiaciuta in compagnia di pochi passar per Italia incognita: ma la schiera delle sue reali virtù, le ha fatto in ogni luogo pubblico corteggio, e la fama del suo valore per tutto l’ha palesata: per esser conosciuto basta che Giove abbia il fulmine: e ‘l sole, ben che celato tra le nuvole, dovunque arriva, apporta il giorno. La nostra Toscana onorata da lei con pubblico favore della sua vista, ha cercato con altrettanta dimostrazion d’amore corrispondere all’onor della sua venuta: ella come perpetua nutrice di essi, richiamando alle scene reali gl’Apelli, i Dedali, e gl’Orfei, ha spiegato per dilettarla le meraviglie degl’antichi spettacoli d’Atene, ed all’incontro v. a. in un vivo teatro d’eroica virtù, ha fatto vedere a Toscana, quella perfetta idea di principe, e di cavaliero, che da i più saggi greci ne è stata designata. Quello, che le muse le hanno cantata in scena, ora le porgono in dono: questa è la Regina Sant’Orsola, opera in ogn’altra parte felicissima, fuori che nell’esser parto d’infelice ingegno. Essa con meraviglioso apparato le è stata fatta rappresentare dal serenissimo gran duca mio signore, ed ora da me le è umilissimamente consacrata. A principe difensore della religione, benissimo si conviene poscia in lode di principessa morta per gloria del nome cristiano: si compiaccia però di gradirla, e con i raggi del suo glorioso nome la tolga da quelle tenebre, che porta dal suo autore, ed io umilissimamente inchinandola, le prego fortunati i suoi magnanimi pensieri.</div>
+        <div type="scene">
+          <head>Del sig. abate Agnolo Capponi all’autore</head>Di bella neve alato alzarsi a voloai forti omeri tuoi non è chi vieti,varcar le sfere, trapassar pianeti,l’orse stellate, e l’uno, e l’altro polo.Non così quei, che van radendo il suolo,cigni di Citerea, cigni di Teti;tu, tu trasvoli, tu contempli i lieticampi celesti, ove ogni pregio è solo.Quindi l’alta armonia, che lece a penabramarsi in terra, e l’ammirabil cantoUrania ti dettò d’ambrosia piena.Per te volse ella risonarsi il vantod’Orsola pia su la real scena,onde sorgesse, e meraviglia, e pianto.Dell’istesso signor abateChe Troia eccelsa, e l’alte moli spentegiaccino a terra, e troppo acerbi, e reirimirar congiurati uomini, e dèila Regia stirpe funestar repente.Che volga i dì canuti egra, e dolenteEcuba schiava in fra mestier plebei,e tra forzati Andromaca imenei;sazi di Pirro la lussuria ardente.Sì fiero aspetto de’ coturni argivi,e l’empio gioco di fortuna indegnaseco han dolor d’ogni conforto privi.Ma ne’ bei canti tuoi vittrice insegnaOrsola spiega, e come al ciel s’arriviper dio cadendo, e trionfar c’insegna.</div>
+        <div type="scene">
+          <head>Del sig. Gabriello Chiabrera</head>I nostri grandi, a cui rifulge in fronteor di diadema egregiosoleano i cigni del Castalio fonteaver quagiuso in pregioquanto sentiasi ornar dal nobil cantolor proprio nome, o de grandi avi il vanto.Da l’altra parte il popolar dilettoa Clio solo permisechioma d’oro cantar, che l’altrui pettolegasse in varie guise,o chiaro sguardo, che vibrasse ardori,o man di neve, che rapisse i cori.Scemo Parnaso, or al gran re superbonon hassi a dar sua gloria?E de lo stato de’ beati eternonon si dée far memoria?Non celebrargli a le devote genti?Non mostrar su la scena i lor tormenti?Muse al fallir, che trapassava il segnodite voi, chi s’oppose?Certo fu Cosmo, al cui reale ingegnonulla virtù s’ascose;di cui l’altiera fama in guardia avete,e per cui non s’addensa ombra di Lete.Poi la gentil, cui par non vede il soledonna, che l’Arno affrena,e sen va cinta d’ammirabil proleBercintia terrenaspose a’ teatri l’alta Istoria; e quivifu trionfato de coturni argivi.Or siasi in fondo, favoloso esempio,col caro Admeto Alceste,siasi di Filomena il grave scempio,siasi non men Tieste;chi di cantata vanità s’avanza?Verità bella ha di giovar possanza.</div>
+      </div>
+      <div type="act">
+        <head>Prologo</head>Scena primaArno, ed Urania con il coro delle Muse in una particolar prospettiva di Fiorenza fanno il Prologo.<div type="scene">
+          <head>Prologo</head>Scena primaArno, ed Urania con il coro delle Muse in una particolar prospettiva di Fiorenza fanno il Prologo. <stage>PrologoScena primaArno, ed Urania con il coro delle Muse in una particolar prospettiva di Fiorenza fanno il Prologo.</stage>
+          <sp who="#arno">
+            <speaker>ARNO:</speaker>
+            <l>Io, dell’alto Appennino ondoso figlio</l>
+            <l>di cento irrigator tirrene valli,</l>
+            <l>fuor de’ vaghi cristalli</l>
+            <l>al sen della mia Flora innalzo il ciglio:</l>
+            <l>e qui, mi specchio al tuo guerriero sole</l>
+            <l>del sarmatico Giove invitta prole.</l>
+            <l>Là, nell’ampio oceano, onde se n’ viene,</l>
+            <l>ed a cui torna il mio famoso fonte,</l>
+            <l>vidi in squallida fronte</l>
+            <l>sanguigni entrar la Volga, e ‘l Boristene,</l>
+            <l>ed estinti da te negl’ermi boschi,</l>
+            <l>pianger i figli lor, Tartari, e Moschi.</l>
+            <l>Udii, ch’armato in quell’eterno gelo,</l>
+            <l>ne’ monti lontanissimi Rifei,</l>
+            <l>drizzasti alti trofei,</l>
+            <l>e l’orse algenti gl’inchinar dal cielo:</l>
+            <l>e Borea inascoltando il suo gran nome</l>
+            <l>sparse d’orror, più che di gel le chiome.</l>
+            <l>L’Istro poi mi narrò, dov’egli bagna,</l>
+            <l>vicine al Nero mar l’ampie contrade,</l>
+            <l>dalla sarmate spade</l>
+            <l>l’ottomano infedel vinto in campagna</l>
+            <l>e che per te discolorata, e bruna,</l>
+            <l>allor de’ traci inorridì la luna.</l>
+            <l>Arsi quinci, signor, d’eterna brama</l>
+            <l>sì chiaro sol di rimirar d’appresso;</l>
+            <l>e ‘l mio dotto permesso</l>
+            <l>bramai tutto sacrare alla tua fama:</l>
+            <l>or qui ti veggio, e a riverirti intanto</l>
+            <l>sveglio le tosche muse a nobil canto.</l>
+            <l>Oggi l’alma real, cui sol fan lieta</l>
+            <l>i guerrieri metalli, e ‘l suon dell’armi,</l>
+            <l>a pacifici carmi</l>
+            <l>volgi signore, e l’alte cure acquieta:</l>
+            <l>e cangia in vaga, imitatrice scena</l>
+            <l>armato campo, e bellicosa arena.</l>
+            <l>Marte così, poiché Geloni, e Sciti</l>
+            <l>ha flagellati al tempestar dell’asta,</l>
+            <l>ed or l’Ercinia vasta.</l>
+            <l>Or dell’Ircania ha funestati i liti;</l>
+            <l>stanco in Parnaso, ov’un bell’antro adombra,</l>
+            <l>spesso il canto di Febo ascolta all’ombra.</l>
+            <l>Or voi, ch’ogn’or viveste alle mie rive,</l>
+            <l>da che v’accolse il mio mediceo Lauro,</l>
+            <l>del regio cor ristauro,</l>
+            <l>quai carmi detterete amabil dive?</l>
+            <l>Tu regina gentil del dotto coro</l>
+            <l>movi Urania la voce, e ‘l plettro d’oro.</l>
+          </sp>
+          <sp who="#urania">
+            <speaker>URANIA:</speaker>
+            <l>Da Parnaso d’amor nuova armonia</l>
+            <l>trasser per emular le scene argive,</l>
+            <l>Arno real sulle tue nobil rive</l>
+            <l>quinci Calliopea, quindi Talia.</l>
+            <l>Udisti al canto lor, vedovo amante</l>
+            <l>pianger gli spenti rai d’Euridice:</l>
+            <l>e la vaga del sol precorritrice</l>
+            <l>vedesti ir dietro al sol d’un bel sembiante.</l>
+            <l>Gioisti ancor di non minor dolcezza,</l>
+            <l>a’ placid’imenei del bel Medoro,</l>
+            <l>quand’amante regina, e scettro d’oro,</l>
+            <l>al merto diede amor della bellezza.</l>
+            <l>Io sacra Urania, io c’ho dal cielo il nome,</l>
+            <l>oggi solo trarrò dal cielo il canto:</l>
+            <l>sdegno mirti profani, e per mio vanto</l>
+            <l>sacra fronde immortal cingo alle chiome.</l>
+            <l>Pregi di beatissime donzelle</l>
+            <l>oda prima da me la tosca scena.</l>
+            <l>Elle cadute in tormentosa arena</l>
+            <l>vinser la morte, ed abbellir le stelle.</l>
+            <l>Tu già regina in terra, ed or di Dio</l>
+            <l>fatta nel più bel ciel sposa novella:</l>
+            <l>tu gloria di Britannia Orsola bella</l>
+            <l>il soggetto sarai del canto mio.</l>
+            <l>Io canterò, qual per celeste zelo</l>
+            <l>cadesti d’empio strale il cor trafitta:</l>
+            <l>e qual poscia volò l’anima invitta</l>
+            <l>di tante dive a popolare il cielo.</l>
+            <l>So ben, ch’a te ne’ luminosi campi</l>
+            <l>degl’amanti immortal coro festeggia,</l>
+            <l>ma non sdegnar, s’io nella tosca reggia</l>
+            <l>aggiungo al tuo bel sol novelli lampi.</l>
+            <l>Voi, di Febo menzogne allettatrici,</l>
+            <l>ond’han regii teatri eterno grido</l>
+            <l>cedete al vero: e sappia Pindo, e Gnido,</l>
+            <l>che nutre ancora il ciel cigni felici.</l>
+          </sp>
+          <sp who="#arno">
+            <speaker>ARNO:</speaker>
+            <l>Canta celeste musa:</l>
+            <l>io delle nuove gemme,</l>
+            <l>che ‘l sacro mi darà nuovo Ippocrene,</l>
+            <l>fiorirò lieto le toscane arene.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>CORO DELLE MUSE</head>O di raggi ornata il crine:delle ninfe d’Elicona,dalle piagge tue divinenon sdegnar mortal corona.Già s’udì, che tra la schieradelle Grazie, e degl’Amori,nova dea se n’ venne fuorida’ bei flutti di Citerea,e che poi la terza sferafu bel seggio, ov’ella suolerider lieta a’ rai del sole.Finto canto, e finto ingannodi permesso lusinghiero:or ne giovi un nobil verocompensar l’antico danno.Venne fuor del mar britannogiovinetta così bella,ch’or in cielo è fatta stella.O di raggi ornata il crine:delle ninfe d’Elicona,dalle piagge tue divinenon sdegnar mortal corona.Atto primoScena primaAsmodeo, Lucifero, Furia infernale, coro di Demoni.<div type="scene">
+          <head>CORO DELLE MUSE</head>O di raggi ornata il crine:delle ninfe d’Elicona,dalle piagge tue divinenon sdegnar mortal corona.Già s’udì, che tra la schieradelle Grazie, e degl’Amori,nova dea se n’ venne fuorida’ bei flutti di Citerea,e che poi la terza sferafu bel seggio, ov’ella suolerider lieta a’ rai del sole.Finto canto, e finto ingannodi permesso lusinghiero:or ne giovi un nobil verocompensar l’antico danno.Venne fuor del mar britannogiovinetta così bella,ch’or in cielo è fatta stella.O di raggi ornata il crine:delle ninfe d’Elicona,dalle piagge tue divinenon sdegnar mortal corona.Atto primoScena primaAsmodeo, Lucifero, Furia infernale, coro di Demoni.<sp who="#coro delle muse">
+            <speaker>CORO DELLE MUSE:</speaker>
+            <l>O di raggi ornata il crine:</l>
+            <l>delle ninfe d’Elicona,</l>
+            <l>dalle piagge tue divine</l>
+            <l>non sdegnar mortal corona.</l>
+            <l>Già s’udì, che tra la schiera</l>
+            <l>delle Grazie, e degl’Amori,</l>
+            <l>nova dea se n’ venne fuori</l>
+            <l>da’ bei flutti di Citerea,</l>
+            <l>e che poi la terza sfera</l>
+            <l>fu bel seggio, ov’ella suole</l>
+            <l>rider lieta a’ rai del sole.</l>
+            <l>Finto canto, e finto inganno</l>
+            <l>di permesso lusinghiero:</l>
+            <l>or ne giovi un nobil vero</l>
+            <l>compensar l’antico danno.</l>
+            <l>Venne fuor del mar britanno</l>
+            <l>giovinetta così bella,</l>
+            <l>ch’or in cielo è fatta stella.</l>
+            <l>O di raggi ornata il crine:</l>
+            <l>delle ninfe d’Elicona,</l>
+            <l>dalle piagge tue divine</l>
+            <l>non sdegnar mortal corona.</l>
+            <l>Atto primo</l>
+            <l>Scena prima</l>
+            <l>Asmodeo, Lucifero, Furia infernale, coro di Demoni.</l>
+          </sp>
+          <stage>CORO DELLE MUSEO di raggi ornata il crine:delle ninfe d’Elicona,dalle piagge tue divinenon sdegnar mortal corona.Già s’udì, che tra la schieradelle Grazie, e degl’Amori,nova dea se n’ venne fuorida’ bei flutti di Citerea,e che poi la terza sferafu bel seggio, ov’ella suolerider lieta a’ rai del sole.Finto canto, e finto ingannodi permesso lusinghiero:or ne giovi un nobil verocompensar l’antico danno.Venne fuor del mar britannogiovinetta così bella,ch’or in cielo è fatta stella.O di raggi ornata il crine:delle ninfe d’Elicona,dalle piagge tue divinenon sdegnar mortal corona.Atto primoScena primaAsmodeo, Lucifero, Furia infernale, coro di Demoni.</stage>
+          <sp who="#asmodeo">
+            <speaker>ASMODEO:</speaker>
+            <l>O negl’orridi abissi</l>
+            <l>adorato signore, e vi è più degno</l>
+            <l>d’aver soggetti i lumi erranti, e i fissi</l>
+            <l>io, tuo fido Asmodeo</l>
+            <l>a’ tuoi piedi, al tuo seggio</l>
+            <l>a’ pro di quest’impero aita chieggio.</l>
+          </sp>
+          <sp who="#lucifero">
+            <speaker>LUCIFERO:</speaker>
+            <l>Che brami, o tu, che de’ mortali al petto</l>
+            <l>primo guerrier d’Averno</l>
+            <l>spiri la face di lascivo affetto?</l>
+            <l>Qual cerca la tua man di nuovo vanto</l>
+            <l>erger trofeo nella città del pianto?</l>
+          </sp>
+          <sp who="#asmodeo">
+            <speaker>ASMODEO:</speaker>
+            <l>Deh, non aggiunger pena</l>
+            <l>con sì famosa lode</l>
+            <l>alla pena immortal, che ‘l sen mi rode.</l>
+            <l>Tempo già fu, che l’infernale arena</l>
+            <l>colmai d’altere prede:</l>
+            <l>allor, che finta madre</l>
+            <l>dell’impuro Cupido,</l>
+            <l>in Amatunta, in Gnido,</l>
+            <l>e nell’alta Citerea ebbi la fede:</l>
+            <l>ora più vil nemico</l>
+            <l>il bestemmiato ciel di me non vede.</l>
+          </sp>
+          <sp who="#lucifero">
+            <speaker>LUCIFERO:</speaker>
+            <l>Chi tante glorie atterra?</l>
+            <l>Chi t’usurpa quel soglio,</l>
+            <l>che l’armi invitte stabiliro in terra?</l>
+          </sp>
+          <sp who="#asmodeo">
+            <speaker>ASMODEO:</speaker>
+            <l>O vergogna immortal, donna mortale</l>
+            <l>fammi perpetua guerra,</l>
+            <l>distruggi i tempi, e ‘l nome mio calpesta.</l>
+            <l>Orsola, o re d’Averno,</l>
+            <l>o tartarei compagni, Orsola è questa</l>
+            <l>real sangue britanno:</l>
+            <l>ella d’ogni mio duolo,</l>
+            <l>ella è fiera cagion d’ogni mio danno.</l>
+            <l>Ah cruda, ah che non solo</l>
+            <l>fece l’empio del ciel le caste membra;</l>
+            <l>ma tutto desolando il regno mio,</l>
+            <l>di seguaci donzelle immenso stuolo</l>
+            <l>toglie al mio foco, e ‘l serba puro a Dio.</l>
+          </sp>
+          <sp who="#furia infernale">
+            <speaker>FURIA INFERNALE:</speaker>
+            <l>Così (legge crudel) sovra le stelle</l>
+            <l>s’empieranno le sedi a noi dovute,</l>
+            <l>noi su l’arso Acheronte a dio rubelle</l>
+            <l>sospireremo il cielo alme perdute.</l>
+          </sp>
+          <sp who="#asmodeo">
+            <speaker>ASMODEO:</speaker>
+            <l>Aita invitto re, compagni aita:</l>
+            <l>ancor ne’ nostri petti</l>
+            <l>la possanza immortal non è smarrita.</l>
+          </sp>
+          <sp who="#lucifero">
+            <speaker>LUCIFERO:</speaker>
+            <l>Odimi, o tu, che nell’amico campo</l>
+            <l>in sembianza di Marte</l>
+            <l>hai (malgrado del ciel) divino onore:</l>
+            <l>odimi tu ministro</l>
+            <l>di torbid’ira, e d’infernal furore.</l>
+          </sp>
+          <sp who="#furia infernale">
+            <speaker>FURIA INFERNALE:</speaker>
+            <l>A te vengo signore:</l>
+            <l>son pronte a’ cenni tuoi</l>
+            <l>queste, ch’in man sostengo atre ceraste,</l>
+            <l>pronte del campo mio le spade, e l’aste.</l>
+          </sp>
+          <sp who="#lucifero">
+            <speaker>LUCIFERO:</speaker>
+            <l>Te, nelle schiere al mio gran nume infesto</l>
+            <l>scelgo di Stige a vendicar gl’affanni:</l>
+            <l>fa’ tu, che pianga il ciel gl’estremi danni,</l>
+            <l>e ‘l nemico immortal deluso reste.</l>
+          </sp>
+          <sp who="#furia infernale">
+            <speaker>FURIA INFERNALE:</speaker>
+            <l>Or quanto brami impera.</l>
+          </sp>
+          <sp who="#lucifero">
+            <speaker>LUCIFERO:</speaker>
+            <l>Là, dove cinge intorno</l>
+            <l>di Colonia le mura il re degl’Unni;</l>
+            <l>andranne in questo giorno</l>
+            <l>l’odiosa regina, e la sua schiera.</l>
+            <l>Tu mentre i micidiali popoli amici</l>
+            <l>tra canti e sacrifici</l>
+            <l>ti chiederan vittoria;</l>
+            <l>palesa al re crudele,</l>
+            <l>che s’ei vuol far di quelle mura acquisto,</l>
+            <l>mandi ad onta di Cristo</l>
+            <l>il campo ad assalir le ree donzelle:</l>
+            <l>sì che, perduto prima</l>
+            <l>il sì gradito al ciel fior d’onestade,</l>
+            <l>restin trofeo d’infuriate spade.</l>
+          </sp>
+          <sp who="#asmodeo">
+            <speaker>ASMODEO:</speaker>
+            <l>O vendetta bramata:</l>
+            <l>rido nel pianto eterno,</l>
+            <l>e già parmi eseguito il tuo volere:</l>
+            <l>non si chiude in Averno</l>
+            <l>alma più scellerata</l>
+            <l>di Gauno re, delle malvage schiere.</l>
+          </sp>
+          <sp who="#furia infernale">
+            <speaker>FURIA INFERNALE:</speaker>
+            <l>Dispiego tosto il volo,</l>
+            <l>per impor quanto brami all’empia setta:</l>
+            <l>tu quando tempo fia,</l>
+            <l>con quanto stuolo in Flegetonte regna</l>
+            <l>vieni signore alla fatal vendetta.</l>
+          </sp>
+          <sp who="#lucifero">
+            <speaker>LUCIFERO:</speaker>
+            <l>Verrò, che di mia man l’impresa è degna.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORO DI DEMONI</head>Contr’il nemico eternocombatti, o nostro re:sarà, sarà l’infernoogn’or fedele a te.Combatti, o nostro re.Sarà, sarà l’infernoogn’or fedele a te.Scena secondaGenerale de’ romani, Tribuno dell’esercito, Centurione, coro di Soldati romani.<sp who="#coro di demoni">
+            <speaker>CORO DI DEMONI:</speaker>
+            <l>Contr’il nemico eterno</l>
+            <l>combatti, o nostro re:</l>
+            <l>sarà, sarà l’inferno</l>
+            <l>ogn’or fedele a te.</l>
+            <l>Combatti, o nostro re.</l>
+            <l>Sarà, sarà l’inferno</l>
+            <l>ogn’or fedele a te.</l>
+            <l>Scena seconda</l>
+            <l>Generale de’ romani, Tribuno dell’esercito, Centurione, coro di Soldati romani.</l>
+          </sp>
+          <stage>CORO DI DEMONIContr’il nemico eternocombatti, o nostro re:sarà, sarà l’infernoogn’or fedele a te.Combatti, o nostro re.Sarà, sarà l’infernoogn’or fedele a te.Scena secondaGenerale de’ romani, Tribuno dell’esercito, Centurione, coro di Soldati romani.</stage>
+          <sp who="#generale">
+            <speaker>GENERALE:</speaker>
+            <l>Poscia che tutte ingombra</l>
+            <l>l’esercito degl’Unni</l>
+            <l>le vicine riviere, e i ricchi piani;</l>
+            <l>fortissimi romani, atto parmi miglior di saggio duce,</l>
+            <l>in quei chiusi ripari</l>
+            <l>frenar di Marte il rapido torrente,</l>
+            <l>che con forze dispari</l>
+            <l>esporsi incontro a innumerabil gente.</l>
+            <l>Sia dunque nostra cura</l>
+            <l>di Colonia lo scampo,</l>
+            <l>sin che miglior ventura</l>
+            <l>ne porga il ciel di debellar quel campo.</l>
+            <l>Quinci all’onor di Roma</l>
+            <l>vegliando intenti, ed all’altrui salute,</l>
+            <l>mostrate, e con l’ardire, e con la fede,</l>
+            <l>ch’in magnanimo core,</l>
+            <l>nel periglio maggiore, è più virtute.</l>
+          </sp>
+          <sp who="#tribuno">
+            <speaker>TRIBUNO:</speaker>
+            <l>Guidane invitto duce,</l>
+            <l>o dove serve intollerabil vampo</l>
+            <l>nell’arene di Noto:</l>
+            <l>o dove Borea accampa</l>
+            <l>l’eterno ghiaccio in aspro lido ignoto:</l>
+            <l>guidane a fiera guerra,</l>
+            <l>o fra l’orride Sirti,</l>
+            <l>o nel centro ne serra;</l>
+            <l>questi cor, questi ferri, ove ne guidi</l>
+            <l>sempre ti saran fidi.</l>
+          </sp>
+          <sp who="#centurione">
+            <speaker>CENTURIONE:</speaker>
+            <l>Mira l’armate destre,</l>
+            <l>ch’alziamo al ciel di nostra fede in segno:</l>
+            <l>sien queste a te signor sicuro pegno,</l>
+            <l>che co’ propri sudori,</l>
+            <l>e con l’onde del sangue</l>
+            <l>irrigheremo i tuoi guerrieri allori.</l>
+          </sp>
+          <sp who="#coro di soldati romani">
+            <speaker>CORO DI SOLDATI ROMANI:</speaker>
+            <l>Questi cor, questi ferri ove ne guidi</l>
+            <l>sempre ti saran fidi.</l>
+          </sp>
+          <sp who="#generale">
+            <speaker>GENERALE:</speaker>
+            <l>Lodo il nobil affetto, e lieto prendo</l>
+            <l>dagl’animosi accenti</l>
+            <l>i pronti giuramenti.</l>
+            <l>Giuro ancor’io per questa armata testa,</l>
+            <l>che per voi cingerò d’eterna fronde,</l>
+            <l>per le ceneri sacri, e per l’impero</l>
+            <l>altissimo di Roma;</l>
+            <l>giuro in qualunque sorte</l>
+            <l>or duce, ed or guerriero,</l>
+            <l>egual partir con voi perigli, e prede,</l>
+            <l>e d’ogni fido, e forte</l>
+            <l>compensar’ il valor, l’amor, la fede.</l>
+            <l>Su dunque amici il piede</l>
+            <l>fermiamo in queste mura:</l>
+            <l>queste del fiero re tolte all’offese</l>
+            <l>ne daranno l’onore,</l>
+            <l>ch’allo spartan valore</l>
+            <l>dier l’anguste Tèermopile difese.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORO DI SOLDATI ROMANI</head>Questi cor, questi ferri ove ne guidisempre ti saran fidi.Scena terzaCoro di Soldati unni, Gauno lor re, Ismano.<sp who="#coro di soldati romani">
+            <speaker>CORO DI SOLDATI ROMANI:</speaker>
+            <l>Questi cor, questi ferri ove ne guidi</l>
+            <l>sempre ti saran fidi.</l>
+            <l>Scena terza</l>
+            <l>Coro di Soldati unni, Gauno lor re, Ismano.</l>
+          </sp>
+          <stage>CORO DI SOLDATI ROMANIQuesti cor, questi ferri ove ne guidisempre ti saran fidi.Scena terzaCoro di Soldati unni, Gauno lor re, Ismano.</stage>
+          <sp who="#coro di soldati unni">
+            <speaker>CORO DI SOLDATI UNNI:</speaker>
+            <l>Alle mura, alle porte</l>
+            <l>guerra, guerra, furore, incendio, e morte.</l>
+          </sp>
+          <sp who="#gauno">
+            <speaker>GAUNO:</speaker>
+            <l>In quai forze, in qual dio</l>
+            <l>confida sì la temeraria gente</l>
+            <l>in Colonia racchiusa,</l>
+            <l>ch’alla novella sol del venir mio</l>
+            <l>le porte non disserra?</l>
+            <l>E già prostrata a terra</l>
+            <l>non mi chiede piangendo, e pace, e vita?</l>
+            <l>Dovrebbon pur le stragi, e le ruine,</l>
+            <l>e de’ Medi, e de’ Daci,</l>
+            <l>dovrebbe l’Istro, e ‘l Reno,</l>
+            <l>ambi sotto al mio freno,</l>
+            <l>a superbi insegnar popoli audaci,</l>
+            <l>che flagello del cielo,</l>
+            <l>e turbine di sdegno</l>
+            <l>scende la destra mia sovra ogni regno.</l>
+          </sp>
+          <sp who="#ismano">
+            <speaker>ISMANO:</speaker>
+            <l>Signor, vivi sicuro:</l>
+            <l>pagherà con la morte il folle ardire</l>
+            <l>chi tanto si confida in chiuso muro.</l>
+            <l>Vedi l’insegne omai spiegate in alto,</l>
+            <l>vedi in quanto terreno accolte sono</l>
+            <l>le tue schiere feroci:</l>
+            <l>mira i fieri sembianti, odi le voci</l>
+            <l>in che terribil suono</l>
+            <l>dell’avversa città chieggion l’assalto.</l>
+          </sp>
+          <sp who="#coro di soldati unni">
+            <speaker>CORO DI SOLDATI UNNI:</speaker>
+            <l>Alle mura, alle porte</l>
+            <l>guerra, guerra, furore, incendio, e morte.</l>
+          </sp>
+          <sp who="#gauno">
+            <speaker>GAUNO:</speaker>
+            <l>Forti, e fidi guerrieri</l>
+            <l>di Colonia non solo,</l>
+            <l>per voi vedrommi al nobil soglio asceso,</l>
+            <l>ma dall’Alpi disceso</l>
+            <l>nell’italico suolo,</l>
+            <l>già parmi all’alta Roma</l>
+            <l>fiaccar l’orgoglio, e lacerar la chioma.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ISMANO</head>Volgi signor lo sguardo a questa parte:ecco il duce Arimaltomoderator della tua forte armata:il marittimo Marte,ch’a te dal mar se n’ riede.Gran re nuovi trionfinuov’onor, nuove prede:vedi, ch’a’ nostri dèi nemica schieralo segue prigioniera.Scena quartaArimalto, Gauno, Coro.<sp who="#ismano">
+            <speaker>ISMANO:</speaker>
+            <l>Volgi signor lo sguardo a questa parte:</l>
+            <l>ecco il duce Arimalto</l>
+            <l>moderator della tua forte armata:</l>
+            <l>il marittimo Marte,</l>
+            <l>ch’a te dal mar se n’ riede.</l>
+            <l>Gran re nuovi trionfi</l>
+            <l>nuov’onor, nuove prede:</l>
+            <l>vedi, ch’a’ nostri dèi nemica schiera</l>
+            <l>lo segue prigioniera.</l>
+            <l>Scena quarta</l>
+            <l>Arimalto, Gauno, Coro.</l>
+          </sp>
+          <stage>ISMANOVolgi signor lo sguardo a questa parte:ecco il duce Arimaltomoderator della tua forte armata:il marittimo Marte,ch’a te dal mar se n’ riede.Gran re nuovi trionfinuov’onor, nuove prede:vedi, ch’a’ nostri dèi nemica schieralo segue prigioniera.Scena quartaArimalto, Gauno, Coro.</stage>
+          <sp who="#arimalto">
+            <speaker>ARIMALTO:</speaker>
+            <l>O di Scizia monarca:</l>
+            <l>io, tuo fido Arimalto,</l>
+            <l>ch’i mari a te so fermi, e i venti amici,</l>
+            <l>dal trascorso oceano,</l>
+            <l>porto a gloria di te nuove felici.</l>
+            <l>Là, negl’umidi regni,</l>
+            <l>cento d’Anglia, e d’Irlanda</l>
+            <l>affrontammo pur or guerrieri legni:</l>
+            <l>pugnammo: e la tua sorte</l>
+            <l>sull’onde accompagnò la virtù nostra.</l>
+            <l>Arsa dalle tue genti</l>
+            <l>parte restò della nemica armata,</l>
+            <l>parte dispersa al tempestar de’ venti</l>
+            <l>inghiottì l’onda irata.</l>
+            <l>Questo misero avanzo</l>
+            <l>dell’acerbo conflitto,</l>
+            <l>cinto di ferreo laccio</l>
+            <l>ti porto, acciò lo calchi il piede invitto,</l>
+            <l>e t’offerisco pronta</l>
+            <l>ne’ perigli maggior di questa guerra,</l>
+            <l>del cor la fede, ed il valor del braccio.</l>
+          </sp>
+          <sp who="#gauno">
+            <speaker>GAUNO:</speaker>
+            <l>Abbiam vinto nell’onde,</l>
+            <l>tosto vincasi in terra: ite guerrieri,</l>
+            <l>ite ver quella parte,</l>
+            <l>ove sembra men forte il sito e ‘l muro:</l>
+            <l>ivi quell’assalite empia cittade;</l>
+            <l>abbattete, ancidete</l>
+            <l>quanto ponno incontrar l’irate spade:</l>
+            <l>provin dell’ira mia dovuti scempi,</l>
+            <l>vegli, donne, fanciulli, altari, e tempi.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORO DI SOLDATI UNNI</head>Alle mura, alle porteguerra, guerra, furore, incendio, e morte.Scena quintaIreo, Orebo, coro di Cristiani.<sp who="#coro di soldati unni">
+            <speaker>CORO DI SOLDATI UNNI:</speaker>
+            <l>Alle mura, alle porte</l>
+            <l>guerra, guerra, furore, incendio, e morte.</l>
+            <l>Scena quinta</l>
+            <l>Ireo, Orebo, coro di Cristiani.</l>
+          </sp>
+          <stage>CORO DI SOLDATI UNNIAlle mura, alle porteguerra, guerra, furore, incendio, e morte.Scena quintaIreo, Orebo, coro di Cristiani.</stage>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>O desiata sposa, o padre, o regno.</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Che veggo, ohimè, che questi</l>
+            <l>è ‘l figlio del re d’Anglia.</l>
+            <l>O generoso Ireo, o mio signore:</l>
+            <l>a che misero segno</l>
+            <l>oggi t’ha spinto lacrimabil sorte?</l>
+            <l>Così nel patrio regno</l>
+            <l>attendi dunque la real consorte?</l>
+            <l>O regia casa afflitta, o fiere stelle.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Dove, dove ti veggio,</l>
+            <l>dove ti trovo, o mio diletto Orebo?</l>
+            <l>Oh con quanto martire,</l>
+            <l>per aver nuova di colei, ch’adoro,</l>
+            <l>misero, ho sospirato il tuo venire.</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Ah, ch’il legato piede</l>
+            <l>m’ha, vietato di fare a te ritorno.</l>
+            <l>Ohimè, ch’a mio malgrado</l>
+            <l>tra le barbare squadre io fo soggiorno.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Dimmi, qual hai novelle</l>
+            <l>del mio sol, del mio cor, della mia vita?</l>
+            <l>Di’, se con tante tue caste donzelle</l>
+            <l>ancor dal mar natio,</l>
+            <l>ha verso il regno mio fatta partita?</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Signore, a’ cenni tuoi</l>
+            <l>andai per ritrovar Orsola bella,</l>
+            <l>che l’alma t’innamora:</l>
+            <l>e vidi, vidi allora</l>
+            <l>tutto il bel della terra in mare unito.</l>
+            <l>Ella dal patrio lito</l>
+            <l>vaghe purpuree vele avea già sciolte,</l>
+            <l>e di caste guerriere</l>
+            <l>belle innocenti schiere</l>
+            <l>su pacifici legni eransi accolte,</l>
+            <l>per lo mobil argento</l>
+            <l>tra dolcissimi canti,</l>
+            <l>lieto se n’ gia l’esercito pudico;</l>
+            <l>ed a mirar tanta bellezza intento,</l>
+            <l>sfavillava di gioia il cielo amico.</l>
+            <l>Se dal carcer antico</l>
+            <l>traeva l’ombre la gelata notte;</l>
+            <l>la bellissima duce</l>
+            <l>con la face di Cinto</l>
+            <l>gareggiava di luce:</l>
+            <l>e dalle caste ancelle</l>
+            <l>spesso mirossi vinto</l>
+            <l>nel notturno seren coro di stelle:</l>
+            <l>poi nel vago mattino</l>
+            <l>videsi al dileguar del fosco velo,</l>
+            <l>ceder al sol del mare, il sol del cielo.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Sospirata bellezza,</l>
+            <l>bramato oggetto mio,</l>
+            <l>sentir lodarti, e non poter gioire,</l>
+            <l>doppia all’alma il martire,</l>
+            <l>e nel vietato ben cresce il desio:</l>
+            <l>bramato oggetto mio.</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Giunto, dove sedendo in aurea poppa</l>
+            <l>l’ammirabil regina,</l>
+            <l>dava legge al suo coro, e gioia al mare,</l>
+            <l>inchinai da tua parte</l>
+            <l>l’alma luce divina,</l>
+            <l>che folgoravan le bellezze rare:</l>
+            <l>rammentai, che finiti eran quegl’anni,</l>
+            <l>ch’alle sospese nozze ella prefisse,</l>
+            <l>e la pregai nel fine,</l>
+            <l>che de’ regni britanni</l>
+            <l>venisse lieta a coronarsi il crine.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Lasso, che ti rispose?</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Cortese ella m’accolse, e poi sì disse.</l>
+            <l>Torna servo fedele al tuo signore,</l>
+            <l>digli, che lieta vegno</l>
+            <l>a’ tormenti, alla morte, e non al regno.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Portino seco i venti</l>
+            <l>auguri così rei:</l>
+            <l>o i minacciati mali</l>
+            <l>sfoghi l’irato ciel ne’ danni miei.</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Confuso al tuo bel soglio</l>
+            <l>con la mesta risposta io ne venia:</l>
+            <l>ma volse, ahi lasso, il mio crudel destino,</l>
+            <l>ch’incontrassi per via,</l>
+            <l>degl’unni predatori avverso stuolo:</l>
+            <l>or sotto acerbo freno</l>
+            <l>piango la libertade, e ‘l natio suolo:</l>
+            <l>e vieppiù fiero sento</l>
+            <l>farsi nel tuo dolore il mio tormento.</l>
+            <l>Ma, deh, come qui sei,</l>
+            <l>signor, qual empia sorte</l>
+            <l>oggi ti mostra tale agl’occhi miei?</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Ah, che più non potendo</l>
+            <l>soffrir la tua dimora, e ‘l mio dolore,</l>
+            <l>là nei soggetti mari</l>
+            <l>diedi all’ale de’ venti armate prore,</l>
+            <l>e sovra quelle assiso,</l>
+            <l>io stesso andai per l’onde</l>
+            <l>a cercar il tesor di quel bel viso.</l>
+            <l>Ohimè, mentr’io credea,</l>
+            <l>ch’amor insieme, e ‘l vento</l>
+            <l>mi guidasser in porto alla mia dea,</l>
+            <l>ecco, ch’in un momento</l>
+            <l>io vidi armarsi il ciel d’ombre profonde,</l>
+            <l>ed a guerra mortal disfidar l’onde.</l>
+            <l>Allora, allor cred’io,</l>
+            <l>non le bocche de’ venti,</l>
+            <l>ma di furie infernali</l>
+            <l>rivolte a danno mio,</l>
+            <l>per l’aria imperversar l’orribil’ ali:</l>
+            <l>e con quanto furore accoglie Averno</l>
+            <l>tutte versar sulle mie stanche antenne</l>
+            <l>le tempeste del mare, e dell’inferno.</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Onda fiera, e sdegnosa,</l>
+            <l>dovevi a tanta fede,</l>
+            <l>dovevi a tanto amore esser pietosa.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Ecco, mentre egualmente</l>
+            <l>proviamo il ciel contrario, e ‘l mar crudele,</l>
+            <l>del tiranno degl’Unni, ecco repente</l>
+            <l>venirne ad assalir predaci vele.</l>
+            <l>Contro il ciel, contro il mar, contro i nemici,</l>
+            <l>in quell’orribil campo</l>
+            <l>pugnai, questi pugnar diletti amici.</l>
+            <l>Perduta alfin de’ miei</l>
+            <l>nell’assalto crudel la maggior parte,</l>
+            <l>cedei, poi che sì volle</l>
+            <l>il cielo, il mare, e Marte.</l>
+            <l>Ma sappi, o mio fedele,</l>
+            <l>che quando in vil servaggio</l>
+            <l>mi vidi trar sovra gl’infami legni,</l>
+            <l>se quell’indegno oltraggio</l>
+            <l>allor non mi diè morte,</l>
+            <l>fu sol, perché sperai,</l>
+            <l>che la bramata mia real consorte,</l>
+            <l>potesse forse compensar’ un giorno</l>
+            <l>con le dilette braccia</l>
+            <l>l’ingiusto ferro, che ‘l mio collo allaccia.</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>O del mar d’Aquilon nobil regina,</l>
+            <l>bella mia patria, o sconsolato regno,</l>
+            <l>qual pur or rimirasti</l>
+            <l>nel tuo famoso soglio</l>
+            <l>il tuo signore, e mio,</l>
+            <l>e qual, qual lo mir’io</l>
+            <l>tra ‘l barbarico orgoglio?</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>In questo mar d’affanno,</l>
+            <l>questa sol mi lusinga aura di speme,</l>
+            <l>quest’unico conforto</l>
+            <l>il mio già morto core in parte avviva:</l>
+            <l>i barbari non sanno,</l>
+            <l>che tra loro io mi viva</l>
+            <l>ma nell’onda crudel mi credon morto:</l>
+            <l>così più facil via</l>
+            <l>fors’avverrà, ch’io trovi</l>
+            <l>alla vostra salute, ed alla mia;</l>
+            <l>e che felice sposo, ancor mi veggia</l>
+            <l>viver col mio bel sol, l’alta mia reggia.</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Benigno ciel seconde</l>
+            <l>così care speranze,</l>
+            <l>e noi rimeni alle paterne sponde.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Spera fedele Orebo:</l>
+            <l>sperate voi, fidi compagni amati.</l>
+            <l>Là su’ lidi bramati</l>
+            <l>del famoso Tamigi,</l>
+            <l>libero regna ancor l’invitto padre:</l>
+            <l>cento guerriere squadre</l>
+            <l>verran per noi alla paterna arena;</l>
+            <l>ma più, sperar mi giova,</l>
+            <l>che la destra del ciel, di sdegno piena</l>
+            <l>sovra l’unno crudel fulmini piova.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>CORO DI CRISTIANI</head>Dove ne guideràquesto perfido re,nemico a nostra fé,mostro di crudeltà.Dove ne guiderà?O dolce libertà,o patria, o fidi amici,tra sì fieri nemicichi ne consolerà?O dolce libertà.Addio, per sempre addio, nativi tetti:addio, per sempre addio, patrio terrenochi stringeravvi al senocare gioie di noi figli diletti?O conforto gentil de’ nostri petti,nostra più cara parte,o bramate consorti,quanto ciel, quanto mar da voi ne parte?Fato dove ne porti?Per quali vi cangiamo infami nidi,amate arene, e sospirati lidi?Miseri noi, dov’è più fosca, ed aspral’aria crudel dell’iperboreo polo,dove di Borea il voloa’ deserti Rifei la fronte inaspra:o dove Teti mai non si disaspra;di vilissima plebecondennati alla rabbia,sarem costretti a rivoltar le glebedella scitica sabbia:e da braccio plebeo, spietata vergane vedrem flagellar le nobil terga.Felici quei, che d’onorate piaghei fortissimi busti aperti in guerra,or lungi dalla terral’alme piagge del ciel rendon più vaghe.Non san, beati lor, come s’indraghecontro un libero corela tirannica fiera:ohimè, che delle furie assai peggiore,quest’umana megeradal fiero petto, e dall’irata facciatutt’i mal dell’inferno a noi minaccia.Solo, il vostro valore, alme latine,che quelle difendete amiche mura,in parte n’assicura,tra tante irreparabili ruine.Vinceste della terra oltre il confine,e del sole, e dell’annotrapassaste le mete:or di barbare squadre un vil tirannoben’ atterrar potrete:alme chiare latine, a voi s’aspettadella terra, e del ciel alta vendetta.Chieggion pietà, gridan vendetta a Roma,sparso il lacero crin donne, e donzelle,e pure verginelletratte dagl’empi per la sacra chioma,il vinto Illirio, e la Pannonia doma,e ridotti in faville.Ed adeguati al suolodi Dacia i tetti, e le germane ville,e delle turbe incatenate il duolo;per loro, e per le misere contrade,a voi con flebil suon chieggion pietade.O dio, vedete diluviar dall’Orsealtre tempeste di guerrieri lampi,e dell’Ausonia i campiil turbin minacciar, che qui trascorsodeh, dall’invitte destre, onde risorsepiù volte Europa afflitta,in mezzo a tanto orgoglio,questa belva infernal resti trafitta.E nel mortal cordoglios’avveggia, come le superbe frontiRoma fere a’ tiranni, e ‘l cielo a monti.Atto secondoScena primaOronteo, Peraspe, coro di Sacerdoti di Marte, Ismano.<div type="scene">
+          <head>CORO DI CRISTIANI</head>Dove ne guideràquesto perfido re,nemico a nostra fé,mostro di crudeltà.Dove ne guiderà?O dolce libertà,o patria, o fidi amici,tra sì fieri nemicichi ne consolerà?O dolce libertà.Addio, per sempre addio, nativi tetti:addio, per sempre addio, patrio terrenochi stringeravvi al senocare gioie di noi figli diletti?O conforto gentil de’ nostri petti,nostra più cara parte,o bramate consorti,quanto ciel, quanto mar da voi ne parte?Fato dove ne porti?Per quali vi cangiamo infami nidi,amate arene, e sospirati lidi?Miseri noi, dov’è più fosca, ed aspral’aria crudel dell’iperboreo polo,dove di Borea il voloa’ deserti Rifei la fronte inaspra:o dove Teti mai non si disaspra;di vilissima plebecondennati alla rabbia,sarem costretti a rivoltar le glebedella scitica sabbia:e da braccio plebeo, spietata vergane vedrem flagellar le nobil terga.Felici quei, che d’onorate piaghei fortissimi busti aperti in guerra,or lungi dalla terral’alme piagge del ciel rendon più vaghe.Non san, beati lor, come s’indraghecontro un libero corela tirannica fiera:ohimè, che delle furie assai peggiore,quest’umana megeradal fiero petto, e dall’irata facciatutt’i mal dell’inferno a noi minaccia.Solo, il vostro valore, alme latine,che quelle difendete amiche mura,in parte n’assicura,tra tante irreparabili ruine.Vinceste della terra oltre il confine,e del sole, e dell’annotrapassaste le mete:or di barbare squadre un vil tirannoben’ atterrar potrete:alme chiare latine, a voi s’aspettadella terra, e del ciel alta vendetta.Chieggion pietà, gridan vendetta a Roma,sparso il lacero crin donne, e donzelle,e pure verginelletratte dagl’empi per la sacra chioma,il vinto Illirio, e la Pannonia doma,e ridotti in faville.Ed adeguati al suolodi Dacia i tetti, e le germane ville,e delle turbe incatenate il duolo;per loro, e per le misere contrade,a voi con flebil suon chieggion pietade.O dio, vedete diluviar dall’Orsealtre tempeste di guerrieri lampi,e dell’Ausonia i campiil turbin minacciar, che qui trascorsodeh, dall’invitte destre, onde risorsepiù volte Europa afflitta,in mezzo a tanto orgoglio,questa belva infernal resti trafitta.E nel mortal cordoglios’avveggia, come le superbe frontiRoma fere a’ tiranni, e ‘l cielo a monti.Atto secondoScena primaOronteo, Peraspe, coro di Sacerdoti di Marte, Ismano.<sp who="#coro di cristiani">
+            <speaker>CORO DI CRISTIANI:</speaker>
+            <l>Dove ne guiderà</l>
+            <l>questo perfido re,</l>
+            <l>nemico a nostra fé,</l>
+            <l>mostro di crudeltà.</l>
+            <l>Dove ne guiderà?</l>
+            <l>O dolce libertà,</l>
+            <l>o patria, o fidi amici,</l>
+            <l>tra sì fieri nemici</l>
+            <l>chi ne consolerà?</l>
+            <l>O dolce libertà.</l>
+            <l>Addio, per sempre addio, nativi tetti:</l>
+            <l>addio, per sempre addio, patrio terreno</l>
+            <l>chi stringeravvi al seno</l>
+            <l>care gioie di noi figli diletti?</l>
+            <l>O conforto gentil de’ nostri petti,</l>
+            <l>nostra più cara parte,</l>
+            <l>o bramate consorti,</l>
+            <l>quanto ciel, quanto mar da voi ne parte?</l>
+            <l>Fato dove ne porti?</l>
+            <l>Per quali vi cangiamo infami nidi,</l>
+            <l>amate arene, e sospirati lidi?</l>
+            <l>Miseri noi, dov’è più fosca, ed aspra</l>
+            <l>l’aria crudel dell’iperboreo polo,</l>
+            <l>dove di Borea il volo</l>
+            <l>a’ deserti Rifei la fronte inaspra:</l>
+            <l>o dove Teti mai non si disaspra;</l>
+            <l>di vilissima plebe</l>
+            <l>condennati alla rabbia,</l>
+            <l>sarem costretti a rivoltar le glebe</l>
+            <l>della scitica sabbia:</l>
+            <l>e da braccio plebeo, spietata verga</l>
+            <l>ne vedrem flagellar le nobil terga.</l>
+            <l>Felici quei, che d’onorate piaghe</l>
+            <l>i fortissimi busti aperti in guerra,</l>
+            <l>or lungi dalla terra</l>
+            <l>l’alme piagge del ciel rendon più vaghe.</l>
+            <l>Non san, beati lor, come s’indraghe</l>
+            <l>contro un libero core</l>
+            <l>la tirannica fiera:</l>
+            <l>ohimè, che delle furie assai peggiore,</l>
+            <l>quest’umana megera</l>
+            <l>dal fiero petto, e dall’irata faccia</l>
+            <l>tutt’i mal dell’inferno a noi minaccia.</l>
+            <l>Solo, il vostro valore, alme latine,</l>
+            <l>che quelle difendete amiche mura,</l>
+            <l>in parte n’assicura,</l>
+            <l>tra tante irreparabili ruine.</l>
+            <l>Vinceste della terra oltre il confine,</l>
+            <l>e del sole, e dell’anno</l>
+            <l>trapassaste le mete:</l>
+            <l>or di barbare squadre un vil tiranno</l>
+            <l>ben’ atterrar potrete:</l>
+            <l>alme chiare latine, a voi s’aspetta</l>
+            <l>della terra, e del ciel alta vendetta.</l>
+            <l>Chieggion pietà, gridan vendetta a Roma,</l>
+            <l>sparso il lacero crin donne, e donzelle,</l>
+            <l>e pure verginelle</l>
+            <l>tratte dagl’empi per la sacra chioma,</l>
+            <l>il vinto Illirio, e la Pannonia doma,</l>
+            <l>e ridotti in faville.</l>
+            <l>Ed adeguati al suolo</l>
+            <l>di Dacia i tetti, e le germane ville,</l>
+            <l>e delle turbe incatenate il duolo;</l>
+            <l>per loro, e per le misere contrade,</l>
+            <l>a voi con flebil suon chieggion pietade.</l>
+            <l>O dio, vedete diluviar dall’Orse</l>
+            <l>altre tempeste di guerrieri lampi,</l>
+            <l>e dell’Ausonia i campi</l>
+            <l>il turbin minacciar, che qui trascorso</l>
+            <l>deh, dall’invitte destre, onde risorse</l>
+            <l>più volte Europa afflitta,</l>
+            <l>in mezzo a tanto orgoglio,</l>
+            <l>questa belva infernal resti trafitta.</l>
+            <l>E nel mortal cordoglio</l>
+            <l>s’avveggia, come le superbe fronti</l>
+            <l>Roma fere a’ tiranni, e ‘l cielo a monti.</l>
+            <l>Atto secondo</l>
+            <l>Scena prima</l>
+            <l>Oronteo, Peraspe, coro di Sacerdoti di Marte, Ismano.</l>
+          </sp>
+          <stage>CORO DI CRISTIANIDove ne guideràquesto perfido re,nemico a nostra fé,mostro di crudeltà.Dove ne guiderà?O dolce libertà,o patria, o fidi amici,tra sì fieri nemicichi ne consolerà?O dolce libertà.Addio, per sempre addio, nativi tetti:addio, per sempre addio, patrio terrenochi stringeravvi al senocare gioie di noi figli diletti?O conforto gentil de’ nostri petti,nostra più cara parte,o bramate consorti,quanto ciel, quanto mar da voi ne parte?Fato dove ne porti?Per quali vi cangiamo infami nidi,amate arene, e sospirati lidi?Miseri noi, dov’è più fosca, ed aspral’aria crudel dell’iperboreo polo,dove di Borea il voloa’ deserti Rifei la fronte inaspra:o dove Teti mai non si disaspra;di vilissima plebecondennati alla rabbia,sarem costretti a rivoltar le glebedella scitica sabbia:e da braccio plebeo, spietata vergane vedrem flagellar le nobil terga.Felici quei, che d’onorate piaghei fortissimi busti aperti in guerra,or lungi dalla terral’alme piagge del ciel rendon più vaghe.Non san, beati lor, come s’indraghecontro un libero corela tirannica fiera:ohimè, che delle furie assai peggiore,quest’umana megeradal fiero petto, e dall’irata facciatutt’i mal dell’inferno a noi minaccia.Solo, il vostro valore, alme latine,che quelle difendete amiche mura,in parte n’assicura,tra tante irreparabili ruine.Vinceste della terra oltre il confine,e del sole, e dell’annotrapassaste le mete:or di barbare squadre un vil tirannoben’ atterrar potrete:alme chiare latine, a voi s’aspettadella terra, e del ciel alta vendetta.Chieggion pietà, gridan vendetta a Roma,sparso il lacero crin donne, e donzelle,e pure verginelletratte dagl’empi per la sacra chioma,il vinto Illirio, e la Pannonia doma,e ridotti in faville.Ed adeguati al suolodi Dacia i tetti, e le germane ville,e delle turbe incatenate il duolo;per loro, e per le misere contrade,a voi con flebil suon chieggion pietade.O dio, vedete diluviar dall’Orsealtre tempeste di guerrieri lampi,e dell’Ausonia i campiil turbin minacciar, che qui trascorsodeh, dall’invitte destre, onde risorsepiù volte Europa afflitta,in mezzo a tanto orgoglio,questa belva infernal resti trafitta.E nel mortal cordoglios’avveggia, come le superbe frontiRoma fere a’ tiranni, e ‘l cielo a monti.Atto secondoScena primaOronteo, Peraspe, coro di Sacerdoti di Marte, Ismano.</stage>
+          <sp who="#oronteo">
+            <speaker>ORONTEO:</speaker>
+            <l>Se dall’orrida tana</l>
+            <l>disceso armato stuol d’unni guerrieri,</l>
+            <l>fulmin di tramontana,</l>
+            <l>del superbo occidente arde gl’imperi,</l>
+            <l>nume del quinto ciel da te dipende:</l>
+            <l>tu, quante volte ascende</l>
+            <l>nemiche mura, e fiere squadre assale,</l>
+            <l>vibri pronta per lui l’asta fatale.</l>
+          </sp>
+          <sp who="#peraspe">
+            <speaker>PERASPE:</speaker>
+            <l>Qual dunque omai presume</l>
+            <l>Colonia ritrovar difesa, o scampo,</l>
+            <l>se tu guerriero nume</l>
+            <l>scendi per gl’unni a guerreggiar nel campo?</l>
+          </sp>
+          <sp who="#coro di sacerdoti di marte">
+            <speaker>CORO DI SACERDOTI DI MARTE:</speaker>
+            <l>Dall’oppugnate mura,</l>
+            <l>ecco, che a noi ritorna il duce Ismano:</l>
+            <l>apporti il suo venir lieta ventura.</l>
+          </sp>
+          <sp who="#ismano">
+            <speaker>ISMANO:</speaker>
+            <l>Amici: il signor nostro,</l>
+            <l>indarno assale ancor la rea cittade:</l>
+            <l>nembi di strali, e fulminar di spade,</l>
+            <l>dal Tebro ivi venuta,</l>
+            <l>sprezza difenditrice ardita schiera:</l>
+            <l>ond’egli al coro vostro</l>
+            <l>sacri ministri, impera,</l>
+            <l>che innanzi al fiero altar del dio dell’armi,</l>
+            <l>cadan vittime cento</l>
+            <l>del bellicoso armento,</l>
+            <l>e plachin l’ira sua devoti carmi.</l>
+          </sp>
+          <sp who="#oronteo">
+            <speaker>ORONTEO:</speaker>
+            <l>E vittime e preghiere</l>
+            <l>tante daransi al bellicoso dio,</l>
+            <l>che vincitrici sien le nostre schiere.</l>
+          </sp>
+          <sp who="#ismano">
+            <speaker>ISMANO:</speaker>
+            <l>Restate dunque intenti</l>
+            <l>a’ vostri sacri affari:</l>
+            <l>ed io, là sotto alle nemiche porte,</l>
+            <l>ritorno ad incontrar vittoria, o morte.</l>
+          </sp>
+          <sp who="#oronteo">
+            <speaker>ORONTEO:</speaker>
+            <l>Ministri: altri di voi nel sacro tempio</l>
+            <l>doni allo dio tremendo</l>
+            <l>gli svenati cavalli:</l>
+            <l>altri tra ‘l suono orrendo</l>
+            <l>di ripercossi scudi,</l>
+            <l>guidi intorno all’altar feroci balli:</l>
+            <l>noi volti al cielo intanto,</l>
+            <l>della vittoria il dono</l>
+            <l>al dio trionfator chiediam nel canto.</l>
+          </sp>
+          <sp who="#coro di sacerdoti di marte">
+            <speaker>CORO DI SACERDOTI DI MARTE:</speaker>
+            <l>(in scena)</l>
+            <l>O fiero Marte, o padre</l>
+            <l>della Scizia guerriera,</l>
+            <l>del sempiterno acciar cingi la fronte:</l>
+            <l>movi dal Termodonte,</l>
+            <l>o dalla quinta sfera,</l>
+            <l>per dar bella vittoria alle tue squadre:</l>
+            <l>o fiero Marte, o padre,</l>
+            <l>o dio delle battaglie, accogli i voti</l>
+            <l>degl’unni a te devoti.</l>
+          </sp>
+          <stage>CORO DI SACERDOTI DI MARTE(in scena)O fiero Marte, o padredella Scizia guerriera,del sempiterno acciar cingi la fronte:movi dal Termodonte,o dalla quinta sfera,per dar bella vittoria alle tue squadre:o fiero Marte, o padre,o dio delle battaglie, accogli i votidegl’unni a te devoti.</stage>
+          <sp who="#oronteo">
+            <speaker>ORONTEO:</speaker>
+            <l>Fiero Marte, se t’aggrada</l>
+            <l>sangue umano,</l>
+            <l>crud’offerta al guardo atroce:</l>
+            <l>opra tu, ch’estinto cada</l>
+            <l>stuol romano</l>
+            <l>dall’esercito feroce.</l>
+          </sp>
+          <sp who="#peraspe">
+            <speaker>PERASPE:</speaker>
+            <l>Prendi l’asta, e quelle mura</l>
+            <l>fa’ crollare,</l>
+            <l>cada omai l’avversa terra,</l>
+            <l>e vedrami in vista oscura,</l>
+            <l>qui svenare</l>
+            <l>l’altro avanzo della guerra.</l>
+          </sp>
+          <sp who="#coro di sacerdoti di marte">
+            <speaker>CORO DI SACERDOTI DI MARTE:</speaker>
+            <l>(nel tempio)</l>
+            <l>Alla tua terribil ara</l>
+            <l>fiero Marte,</l>
+            <l>quest’armento cada esangue:</l>
+            <l>poscia vittima più cara</l>
+            <l>giuro darte</l>
+            <l>di Colonia uccisa il sangue.</l>
+          </sp>
+          <stage>CORO DI SACERDOTI DI MARTE(nel tempio)Alla tua terribil arafiero Marte,quest’armento cada esangue:poscia vittima più caragiuro dartedi Colonia uccisa il sangue.</stage>
+          <sp who="#oronteo">
+            <speaker>ORONTEO:</speaker>
+            <l>Vieni, o Marte: a te la chioma,</l>
+            <l>pompa mesta</l>
+            <l>d’atro sangue orni la morte:</l>
+            <l>tremi lungi afflitta Roma,</l>
+            <l>e tempesta,</l>
+            <l>tal attenda alle sue porte.</l>
+          </sp>
+          <sp who="#peraspe">
+            <speaker>PERASPE:</speaker>
+            <l>Vieni, o Marte, e rio flagello</l>
+            <l>su que’ tetti</l>
+            <l>scuota l’orrida Bellona,</l>
+            <l>il furor di lei fratello</l>
+            <l>là t’affretti,</l>
+            <l>là nell’armi orribil tuona.</l>
+          </sp>
+          <sp who="#coro di sacerdoti di marte">
+            <speaker>CORO DI SACERDOTI DI MARTE:</speaker>
+            <l>(nel tempio)</l>
+            <l>Alla tua terribil ara</l>
+            <l>fiero Marte,</l>
+            <l>quest’armento cada esangue:</l>
+            <l>poscia vittima più cara</l>
+            <l>giuro darte</l>
+            <l>di Colonia uccisa il sangue.</l>
+          </sp>
+          <stage>CORO DI SACERDOTI DI MARTE(nel tempio)Alla tua terribil arafiero Marte,quest’armento cada esangue:poscia vittima più caragiuro dartedi Colonia uccisa il sangue.</stage>
+          <sp who="#oronteo">
+            <speaker>ORONTEO:</speaker>
+            <l>Il mio re, là per tua gloria</l>
+            <l>tende or l’arco,</l>
+            <l>ed or vibra invitta spada:</l>
+            <l>a lui rida alma vittoria,</l>
+            <l>poscia carco</l>
+            <l>di trionfi al Tebro vada.</l>
+          </sp>
+          <sp who="#peraspe">
+            <speaker>PERASPE:</speaker>
+            <l>Doma tu, gente proterva,</l>
+            <l>i tuoi cari</l>
+            <l>alzi al ciel l’altrui ruina:</l>
+            <l>tremi Italia, e d’esser serva</l>
+            <l>Roma impari,</l>
+            <l>se del mondo fu regina.</l>
+          </sp>
+          <sp who="#coro di sacerdoti di marte">
+            <speaker>CORO DI SACERDOTI DI MARTE:</speaker>
+            <l>(nel tempio)</l>
+            <l>Alla tua terribil ara</l>
+            <l>fiero Marte,</l>
+            <l>quest’armento cada esangue:</l>
+            <l>poscia vittima più cara</l>
+            <l>giuro darte</l>
+            <l>di Colonia uccisa il sangue.</l>
+          </sp>
+          <stage>CORO DI SACERDOTI DI MARTE(nel tempio)Alla tua terribil arafiero Marte,quest’armento cada esangue:poscia vittima più caragiuro dartedi Colonia uccisa il sangue.</stage>
+          <sp who="#oronteo">
+            <speaker>ORONTEO:</speaker>
+            <l>Al più riposto altare,</l>
+            <l>ove risponder suol idol feroce,</l>
+            <l>andianne a raddoppiar più forti preghi:</l>
+            <l>e dalla santa voce</l>
+            <l>intendiam la cagione,</l>
+            <l>perché l’usata aita a gl’unni neghi.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORO DI SACERDOTI DI MARTE</head>(nel tempio e in scena)O fiero Marte, o padre,o dio delle battaglie, accogli i voti,degl’Unni a te devoti.Scena secondaCoro di Sante vergini, Sant’Orsola, Cordula.<sp who="#coro di sacerdoti di marte">
+            <speaker>CORO DI SACERDOTI DI MARTE:</speaker>
+            <l>(nel tempio e in scena)</l>
+            <l>O fiero Marte, o padre,</l>
+            <l>o dio delle battaglie, accogli i voti,</l>
+            <l>degl’Unni a te devoti.</l>
+            <l>Scena seconda</l>
+            <l>Coro di Sante vergini, Sant’Orsola, Cordula.</l>
+          </sp>
+          <stage>CORO DI SACERDOTI DI MARTE(nel tempio e in scena)O fiero Marte, o padre,o dio delle battaglie, accogli i voti,degl’Unni a te devoti.Scena secondaCoro di Sante vergini, Sant’Orsola, Cordula.</stage>
+          <sp who="#coro di sante vergini">
+            <speaker>CORO DI SANTE VERGINI:</speaker>
+            <l>O desiate prede:</l>
+            <l>o fortunato acquisto:</l>
+            <l>morir per la tua fede,</l>
+            <l>morir per la tua gloria amato Cristo.</l>
+          </sp>
+          <sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>Serve del re del cielo, e fide scorte</l>
+            <l>dell’esercito mio:</l>
+            <l>ecco il promesso giorno, omai presente,</l>
+            <l>che noi per man di scellerata gente</l>
+            <l>cadremo in questo suol vittime a dio.</l>
+            <l>A così dolce effetto,</l>
+            <l>sinora ho differito</l>
+            <l>col principe degl’Angli altere nozze,</l>
+            <l>e le prore ho drizzate a questo lito.</l>
+            <l>Pegno della certissima novella</l>
+            <l>ammi pur or portato,</l>
+            <l>scesa di paradiso anima bella.</l>
+            <l>O care, o fide amiche,</l>
+            <l>in celeste parlare, ella m’ha detto,</l>
+            <l>ch’empie squadre nemiche</l>
+            <l>degl’Unni micidiali,</l>
+            <l>col darne oggi qui morte,</l>
+            <l>ne faranno lassù dive immortali.</l>
+            <l>Su dunque, or voi, che siete</l>
+            <l>belle duci dell’altre,</l>
+            <l>ite, scorrete voi, di schiera, in schiera,</l>
+            <l>portando il lieto avviso:</l>
+            <l>sappia ogni fida mia casta guerriera,</l>
+            <l>ch’oggi trionferemo in paradiso.</l>
+          </sp>
+          <sp who="#coro di sante vergini">
+            <speaker>CORO DI SANTE VERGINI:</speaker>
+            <l>Pronte siamo, o regina,</l>
+            <l>pronte son le tue squadre,</l>
+            <l>per l’eterno consorte,</l>
+            <l>ad ogn’aspro tormento, ad ogni morte.</l>
+          </sp>
+          <sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>O cara, o dolce, o sospirata terra,</l>
+            <l>porto del mio desire,</l>
+            <l>principio al mio gioire:</l>
+            <l>o cara, o dolce terra,</l>
+            <l>il teatro sarai del mio trionfo,</l>
+            <l>e ‘l fin della mia guerra,</l>
+            <l>per così caro bene,</l>
+            <l>tanti baci ti porgo,</l>
+            <l>quant’hai nel grembo arene,</l>
+            <l>e voi, voi lieta abbraccio</l>
+            <l>aure care, e ridenti,</l>
+            <l>voi tra ‘l sangue, e i tormenti,</l>
+            <l>visto spezzato il mio caduco laccio,</l>
+            <l>aure prendendo in voi lo spirto mio,</l>
+            <l>datelo puro a dio.</l>
+          </sp>
+          <sp who="#coro di sante vergini">
+            <speaker>CORO DI SANTE VERGINI:</speaker>
+            <l>Desiate corone</l>
+            <l>datene omai felici</l>
+            <l>nell’eterna magione.</l>
+          </sp>
+          <sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>Che di’ Cordula mia:</l>
+            <l>deh qual in te s’addita</l>
+            <l>non dovuto timore?</l>
+            <l>Vedi Cordula mia:</l>
+            <l>breve passo è la vita:</l>
+            <l>la morte è breve noia:</l>
+            <l>sempiterna nel ciel regna la gioia.</l>
+          </sp>
+          <sp who="#cordula">
+            <speaker>CORDULA:</speaker>
+            <l>Regina, io non pavento</l>
+            <l>qualunque oggi m’avvenga,</l>
+            <l>per la fé del mio dio, fiero tormento.</l>
+          </sp>
+          <sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>A sì lieta novella</l>
+            <l>ti stringo il caro seno,</l>
+            <l>bacio la cara fronte:</l>
+            <l>quant’è dolce sorella,</l>
+            <l>quant’è dolce per Cristo il venir meno.</l>
+            <l>Sposo dell’alma mia, se nulla oprai,</l>
+            <l>che fosse a te gradito,</l>
+            <l>o quando il soglio di real marito</l>
+            <l>per tua gloria sprezzai,</l>
+            <l>o quando lungi dalla regia fede,</l>
+            <l>con tante prese all’infernal tiranno,</l>
+            <l>dilettissime prede,</l>
+            <l>verginella trascorsi il mar britanno;</l>
+            <l>per sì grate memoria, e per quel sangue,</l>
+            <l>ch’a diffonder per te già pronta sono,</l>
+            <l>fa’ mio signore, e dio,</l>
+            <l>che del mio casto coro,</l>
+            <l>segua ciascuna il bel trionfo mio;</l>
+            <l>ed io contenta moro.</l>
+          </sp>
+          <sp who="#coro di sante vergini">
+            <speaker>CORO DI SANTE VERGINI:</speaker>
+            <l>Prendine tutte, o cielo:</l>
+            <l>egual serbiamo al core</l>
+            <l>puro ardor, puro zelo.</l>
+          </sp>
+          <sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>Signore: omai tu vedi</l>
+            <l>schiere d’umili agnelle,</l>
+            <l>in preda a’ micidial lupi voraci:</l>
+            <l>deh se cieco desio, negl’empi petti</l>
+            <l>impuro foco spira;</l>
+            <l>nell’alme a te rubelle</l>
+            <l>estingui tu l’abominate faci,</l>
+            <l>e fa’, ch’ardano sol d’orgoglio, e d’ira.</l>
+            <l>Pur che l’anime belle</l>
+            <l>tornin, qual le creasti, al patrio cielo:</l>
+            <l>ogni più fiero scempio</l>
+            <l>faccia del mortal velo,</l>
+            <l>congiurato furor di popolo empio.</l>
+          </sp>
+          <sp who="#coro di sante vergini">
+            <speaker>CORO DI SANTE VERGINI:</speaker>
+            <l>Vieni barbaro crudo,</l>
+            <l>sfoga l’empio furore,</l>
+            <l>trafiggi il seno ignudo,</l>
+            <l>vibra la spada al cuore.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>SANT’ORSOLA</head>Su, di Cristo guerriere:su felici donzelle:veggio pronte per noi dall’auree stellescender fulgide schiere.Su, di Cristo guerriere:vinca sforzo di fedei tener anni nostri, e ‘l sesso imbelleo comagne, o sorelle,o spose del signore, o ben nat’alme,a’ trionfi, alle palme.Scena terzaIreo, Orebo.<sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>Su, di Cristo guerriere:</l>
+            <l>su felici donzelle:</l>
+            <l>veggio pronte per noi dall’auree stelle</l>
+            <l>scender fulgide schiere.</l>
+            <l>Su, di Cristo guerriere:</l>
+            <l>vinca sforzo di fede</l>
+            <l>i tener anni nostri, e ‘l sesso imbelle</l>
+            <l>o comagne, o sorelle,</l>
+            <l>o spose del signore, o ben nat’alme,</l>
+            <l>a’ trionfi, alle palme.</l>
+            <l>Scena terza</l>
+            <l>Ireo, Orebo.</l>
+          </sp>
+          <stage>SANT’ORSOLASu, di Cristo guerriere:su felici donzelle:veggio pronte per noi dall’auree stellescender fulgide schiere.Su, di Cristo guerriere:vinca sforzo di fedei tener anni nostri, e ‘l sesso imbelleo comagne, o sorelle,o spose del signore, o ben nat’alme,a’ trionfi, alle palme.Scena terzaIreo, Orebo.</stage>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Orebo: alto timor m’ingombra il petto.</l>
+            <l>Tu pur or mi dicesti,</l>
+            <l>che con purpuree vele</l>
+            <l>scorreva il vicin mar l’alma mia diva,</l>
+            <l>or del color istesso</l>
+            <l>adornate l’antenne,</l>
+            <l>vedi novelli legni al Reno in riva:</l>
+            <l>ohimè, l’empia mia sorte,</l>
+            <l>il mio fiero destino, ohimè non voglia,</l>
+            <l>ch’ad avverar la minacciata morte</l>
+            <l>ella col suo bel coro ivi m’accoglia.</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Deh non immaginar sì rea sventura:</l>
+            <l>le navi, che tu vedi</l>
+            <l>forse è novella armata,</l>
+            <l>dal tiranno degl’Unni</l>
+            <l>fatta venir contro l’avverse mura.</l>
+            <l>Né t’inganni il color, che là rimiri:</l>
+            <l>fors’il barbaro rio, com’egli accenne,</l>
+            <l>che d’orribile sangue</l>
+            <l>vuol inondarla combattuta terra.</l>
+            <l>Il vermiglio colore,</l>
+            <l>per funesto terrore,</l>
+            <l>spiega colà sulle superbe antenne:</l>
+            <l>ma per torti dall’alma mia ogni sospetto,</l>
+            <l>andronne in riva al fiume,</l>
+            <l>e d’appresso vedrò, se d’infedele,</l>
+            <l>o d’esercito pio son quelle vele.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Vanne, e tosto mi porta, o morte, o vita.</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Lasso me, che purtroppo,</l>
+            <l>mentre gl’altri assicuro,</l>
+            <l>tremo in me stesso, e immenso danno auguro.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>IREO</head>O, se come indovina,l’agitato pensieroanima mia sia vero,che tue sien quelle navi: a qual ruinati veggio giunta? A qual insidie espostala real onestade, e la tua vita?Tua pietade infinitaopri signor del cielo,ch’a quelle mura appresso,pria, che farne sentir l’estremo danno,dal latin ferro oppresso,cada col popol rio l’empio tiranno.Scena quartaArimalto, Gauno, Ismano, Tribuno de’ romani dalle mura, coro d’Unni.<sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>O, se come indovina,</l>
+            <l>l’agitato pensiero</l>
+            <l>anima mia sia vero,</l>
+            <l>che tue sien quelle navi: a qual ruina</l>
+            <l>ti veggio giunta? A qual insidie esposta</l>
+            <l>la real onestade, e la tua vita?</l>
+            <l>Tua pietade infinita</l>
+            <l>opri signor del cielo,</l>
+            <l>ch’a quelle mura appresso,</l>
+            <l>pria, che farne sentir l’estremo danno,</l>
+            <l>dal latin ferro oppresso,</l>
+            <l>cada col popol rio l’empio tiranno.</l>
+            <l>Scena quarta</l>
+            <l>Arimalto, Gauno, Ismano, Tribuno de’ romani dalle mura, coro d’Unni.</l>
+          </sp>
+          <stage>IREOO, se come indovina,l’agitato pensieroanima mia sia vero,che tue sien quelle navi: a qual ruinati veggio giunta? A qual insidie espostala real onestade, e la tua vita?Tua pietade infinitaopri signor del cielo,ch’a quelle mura appresso,pria, che farne sentir l’estremo danno,dal latin ferro oppresso,cada col popol rio l’empio tiranno.Scena quartaArimalto, Gauno, Ismano, Tribuno de’ romani dalle mura, coro d’Unni.</stage>
+          <sp who="#arimalto">
+            <speaker>ARIMALTO:</speaker>
+            <l>Mentre, che gl’altri stanchi</l>
+            <l>nel dato assalto alle nemiche torri,</l>
+            <l>là respiran’ in parte</l>
+            <l>dal faticoso Marte;</l>
+            <l>questo nobil drappello</l>
+            <l>d’invitti cavalier, fulmin di guerra,</l>
+            <l>ti supplica signore,</l>
+            <l>poter quinci chiamare a fier duello</l>
+            <l>altrettanti guerrier di quella terra.</l>
+            <l>Sdegna il lor nobile core</l>
+            <l>comun con la turba,</l>
+            <l>aver di guerra i vanti:</l>
+            <l>e di più chiaro onore</l>
+            <l>brama illustrarsi al suo signore innanti.</l>
+          </sp>
+          <sp who="#gauno">
+            <speaker>GAUNO:</speaker>
+            <l>Ardimento sì degno</l>
+            <l>tempra dal vano assalto</l>
+            <l>il concepito in me giusto disdegno.</l>
+            <l>Fortissimi guerrieri</l>
+            <l>s’altrettanti il mio campo</l>
+            <l>nutrisse a voi simili, arditi petti,</l>
+            <l>già mirerei per terra</l>
+            <l>quegl’odiosi tetti,</l>
+            <l>e ‘l cor d’Italia premerei col piede.</l>
+            <l>Ite: pugnate, ed al valor eguale</l>
+            <l>attendete mercede.</l>
+            <l>Tu, sotto il vicin muro</l>
+            <l>porta l’alta disfida, o forte Ismano:</l>
+            <l>di’, che ‘l campo assicuro</l>
+            <l>al nemico romano,</l>
+            <l>e che per Giove altissimo lo giuro.</l>
+          </sp>
+          <sp who="#ismano">
+            <speaker>ISMANO:</speaker>
+            <l>Grazie signor ti rendo,</l>
+            <l>e sotto il forte gl’inimici chiamo.</l>
+            <l>Disfida degl’unni a’ romani.</l>
+            <l>Udite, o voi, che non osando in campo</l>
+            <l>venir col nostro esercito a battaglia,</l>
+            <l>entro chiusa muraglia</l>
+            <l>cercate, anime vili, indegno scampo;</l>
+            <l>udite la magnanima disfida,</l>
+            <l>onde schiera degl’Unni</l>
+            <l>la romana viltà rampogna, e sgrida.</l>
+            <l>O femmine romane:</l>
+            <l>stan le timide fiere</l>
+            <l>ascose entro le tane:</l>
+            <l>ma l’anime guerriere</l>
+            <l>escono in campo ad affrontar le schiere.</l>
+            <l>Romani sol di nome:</l>
+            <l>se v’è petto tra voi,</l>
+            <l>in cui regni d’onor brama gentile,</l>
+            <l>da quel chiuso ovile,</l>
+            <l>oggi contro di noi,</l>
+            <l>a battaglia mortale</l>
+            <l>esca tosto di voi numero eguale.</l>
+            <l>Libero a tutti il campo</l>
+            <l>il mio signor concede:</l>
+            <l>e per Marte, e per Giove egli vi giura</l>
+            <l>salda la regia fede.</l>
+            <l>Codardi, uscite omai da quelle mura,</l>
+            <l>e per legge di guerra</l>
+            <l>i vinti cavalieri</l>
+            <l>de’ vincitor sien prede.</l>
+            <l>Io dell’offerta pugna, ecco per segno</l>
+            <l>l’alte merlate cime,</l>
+            <l>questo mando a ferir dardo sublime.</l>
+            <l>Risposta alla disfida.</l>
+          </sp>
+          <stage>ISMANOGrazie signor ti rendo,e sotto il forte gl’inimici chiamo.Disfida degl’unni a’ romani.Udite, o voi, che non osando in campovenir col nostro esercito a battaglia,entro chiusa muragliacercate, anime vili, indegno scampo;udite la magnanima disfida,onde schiera degl’Unnila romana viltà rampogna, e sgrida.O femmine romane:stan le timide fiereascose entro le tane:ma l’anime guerriereescono in campo ad affrontar le schiere.Romani sol di nome:se v’è petto tra voi,in cui regni d’onor brama gentile,da quel chiuso ovile,oggi contro di noi,a battaglia mortaleesca tosto di voi numero eguale.Libero a tutti il campoil mio signor concede:e per Marte, e per Giove egli vi giurasalda la regia fede.Codardi, uscite omai da quelle mura,e per legge di guerrai vinti cavalieride’ vincitor sien prede.Io dell’offerta pugna, ecco per segnol’alte merlate cime,questo mando a ferir dardo sublime.Risposta alla disfida.</stage>
+          <sp who="#tribuno">
+            <speaker>TRIBUNO:</speaker>
+            <l>(dalle mura)</l>
+            <l>Vilissimi ladroni, arpie de’ regni,</l>
+            <l>a suo tempo vedrete,</l>
+            <l>non ignobili fiere,</l>
+            <l>ma leoni, e pantere,</l>
+            <l>da questi cari alberghi usciti fuore,</l>
+            <l>venirvi a disbranar le membra, e ‘l core.</l>
+            <l>Tosto v’accorgerete</l>
+            <l>alla prova dell’armi,</l>
+            <l>se siam’ petti virili,</l>
+            <l>o femminelle vili.</l>
+            <l>Diranvi le nostr’opre, e ‘l sangue vostro,</l>
+            <l>diranvi, se di noi ciascun si noma</l>
+            <l>degno figlio di Roma.</l>
+            <l>Verremo, e diece, e diece, e cento, e cento,</l>
+            <l>fuori del chiuso muro:</l>
+            <l>poco, o nulla ne cale,</l>
+            <l>che sia fido il re vostro, o sia spergiuro:</l>
+            <l>ad ogni rischio il nostro duce intento,</l>
+            <l>del perfido tiranno</l>
+            <l>poco stima la forza, e men l’inganno.</l>
+            <l>Su dalle porte uscite</l>
+            <l>valorosi compagni,</l>
+            <l>e gl’insolenti barbari assalite.</l>
+            <l>Si fa la battaglia di tanti per parte, perdono gl’Unni, il Re mancando di fede, spinge l’Esercito contro i Romani vincitori, per entrar con essi loro nella città.</l>
+          </sp>
+          <stage>TRIBUNO(dalle mura)Vilissimi ladroni, arpie de’ regni,a suo tempo vedrete,non ignobili fiere,ma leoni, e pantere,da questi cari alberghi usciti fuore,venirvi a disbranar le membra, e ‘l core.Tosto v’accorgeretealla prova dell’armi,se siam’ petti virili,o femminelle vili.Diranvi le nostr’opre, e ‘l sangue vostro,diranvi, se di noi ciascun si nomadegno figlio di Roma.Verremo, e diece, e diece, e cento, e cento,fuori del chiuso muro:poco, o nulla ne cale,che sia fido il re vostro, o sia spergiuro:ad ogni rischio il nostro duce intento,del perfido tirannopoco stima la forza, e men l’inganno.Su dalle porte uscitevalorosi compagni,e gl’insolenti barbari assalite.Si fa la battaglia di tanti per parte, perdono gl’Unni, il Re mancando di fede, spinge l’Esercito contro i Romani vincitori, per entrar con essi loro nella città.</stage>
+          <sp who="#gauno">
+            <speaker>GAUNO:</speaker>
+            <l>Manchisi pur di fede;</l>
+            <l>oltragginsi pur tutti uomini, e dèi;</l>
+            <l>io non voglio soffrire</l>
+            <l>di mirar prigionieri i servi miei.</l>
+            <l>Guerrier, gl’amici vostri</l>
+            <l>ritogliete a coloro:</l>
+            <l>o passate con loro</l>
+            <l>a viva forza entro l’avverse porte.</l>
+          </sp>
+          <sp who="#coro d’unni">
+            <speaker>CORO D’UNNI:</speaker>
+            <l>Guerra, guerra, furore, incendio, e morte.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>CORO DI CRISTIANI</head>Precipitida quelle murail re fierissimo,che ‘l ciel non cura.Di fulminicadan tempeste,che tutte abbattanol’inique teste.Disserrisil’infernal chiostroe ‘l mondo liberi,dal crudo mostro.Ondegginodi sangue i campi,del crudo esercitonon sia chi scampi.Aitaneceleste padre,al giogo toglinedell’empie squadre.Padre eterno del ciel, che d’aurei lampivesti il sole, e le stelle;so ben, che tu ne’ tormentati campihai per l’alme rubelledi fiamme punitrici orrendi laghi.Hai pitoni, e chimere,e portentosi draghi,e mille orride furie, e mille fiere:ma s’anco in vita feretua destra onnipotente, anima reas’induce il mondo a più temere Astrea.Qual mostra esempio il regnator d’Egittoa’ superbi tiranni?Ei, nel vermiglio mar, da te trafittotrasse Israel d’affanni:così spada del ciel dimostra agl’empi,ch’in terra ancora arriva.Ma deh, novelli esempiricerchiamo del Tebro in sulla riva:ivi, mentre infierivapiù l’orgoglioso cor, tra l’atre spume,Massenzio rio precipitò nel fiume.Mira, giusto signor, l’unno rapace,qual sotto Tebe anticail fulminato assalitore audace,di quella terra amicapremer’ i tetti, e minacciare il cielo.Scenda divina piagadi fulminante telo:o sovra l’empio capo il Reno allaga.Signore, il mondo appagadi sì bramata vista, e sì gradita,che la morte dell’empio al giusto è vita.Signor, a te, noi miserabil’ alme,mesta turba piangente,alziam le voci, e percottam’ le palme:mira tua fida gente,col volto afflitto, e le ginocchia a terrasparger di polve il crine,e della lunga guerrabattendo i petti, supplicare il fine.S’alle piagge divinegiusto prego mortale, oggi se n’ vola,signor, doma quest’empio, e noi consola.Atto terzoScena primaGauno, Ismano, coro d’Unni.<div type="scene">
+          <head>CORO DI CRISTIANI</head>Precipitida quelle murail re fierissimo,che ‘l ciel non cura.Di fulminicadan tempeste,che tutte abbattanol’inique teste.Disserrisil’infernal chiostroe ‘l mondo liberi,dal crudo mostro.Ondegginodi sangue i campi,del crudo esercitonon sia chi scampi.Aitaneceleste padre,al giogo toglinedell’empie squadre.Padre eterno del ciel, che d’aurei lampivesti il sole, e le stelle;so ben, che tu ne’ tormentati campihai per l’alme rubelledi fiamme punitrici orrendi laghi.Hai pitoni, e chimere,e portentosi draghi,e mille orride furie, e mille fiere:ma s’anco in vita feretua destra onnipotente, anima reas’induce il mondo a più temere Astrea.Qual mostra esempio il regnator d’Egittoa’ superbi tiranni?Ei, nel vermiglio mar, da te trafittotrasse Israel d’affanni:così spada del ciel dimostra agl’empi,ch’in terra ancora arriva.Ma deh, novelli esempiricerchiamo del Tebro in sulla riva:ivi, mentre infierivapiù l’orgoglioso cor, tra l’atre spume,Massenzio rio precipitò nel fiume.Mira, giusto signor, l’unno rapace,qual sotto Tebe anticail fulminato assalitore audace,di quella terra amicapremer’ i tetti, e minacciare il cielo.Scenda divina piagadi fulminante telo:o sovra l’empio capo il Reno allaga.Signore, il mondo appagadi sì bramata vista, e sì gradita,che la morte dell’empio al giusto è vita.Signor, a te, noi miserabil’ alme,mesta turba piangente,alziam le voci, e percottam’ le palme:mira tua fida gente,col volto afflitto, e le ginocchia a terrasparger di polve il crine,e della lunga guerrabattendo i petti, supplicare il fine.S’alle piagge divinegiusto prego mortale, oggi se n’ vola,signor, doma quest’empio, e noi consola.Atto terzoScena primaGauno, Ismano, coro d’Unni.<sp who="#coro di cristiani">
+            <speaker>CORO DI CRISTIANI:</speaker>
+            <l>Precipiti</l>
+            <l>da quelle mura</l>
+            <l>il re fierissimo,</l>
+            <l>che ‘l ciel non cura.</l>
+            <l>Di fulmini</l>
+            <l>cadan tempeste,</l>
+            <l>che tutte abbattano</l>
+            <l>l’inique teste.</l>
+            <l>Disserrisi</l>
+            <l>l’infernal chiostro</l>
+            <l>e ‘l mondo liberi,</l>
+            <l>dal crudo mostro.</l>
+            <l>Ondeggino</l>
+            <l>di sangue i campi,</l>
+            <l>del crudo esercito</l>
+            <l>non sia chi scampi.</l>
+            <l>Aitane</l>
+            <l>celeste padre,</l>
+            <l>al giogo togline</l>
+            <l>dell’empie squadre.</l>
+            <l>Padre eterno del ciel, che d’aurei lampi</l>
+            <l>vesti il sole, e le stelle;</l>
+            <l>so ben, che tu ne’ tormentati campi</l>
+            <l>hai per l’alme rubelle</l>
+            <l>di fiamme punitrici orrendi laghi.</l>
+            <l>Hai pitoni, e chimere,</l>
+            <l>e portentosi draghi,</l>
+            <l>e mille orride furie, e mille fiere:</l>
+            <l>ma s’anco in vita fere</l>
+            <l>tua destra onnipotente, anima rea</l>
+            <l>s’induce il mondo a più temere Astrea.</l>
+            <l>Qual mostra esempio il regnator d’Egitto</l>
+            <l>a’ superbi tiranni?</l>
+            <l>Ei, nel vermiglio mar, da te trafitto</l>
+            <l>trasse Israel d’affanni:</l>
+            <l>così spada del ciel dimostra agl’empi,</l>
+            <l>ch’in terra ancora arriva.</l>
+            <l>Ma deh, novelli esempi</l>
+            <l>ricerchiamo del Tebro in sulla riva:</l>
+            <l>ivi, mentre infieriva</l>
+            <l>più l’orgoglioso cor, tra l’atre spume,</l>
+            <l>Massenzio rio precipitò nel fiume.</l>
+            <l>Mira, giusto signor, l’unno rapace,</l>
+            <l>qual sotto Tebe antica</l>
+            <l>il fulminato assalitore audace,</l>
+            <l>di quella terra amica</l>
+            <l>premer’ i tetti, e minacciare il cielo.</l>
+            <l>Scenda divina piaga</l>
+            <l>di fulminante telo:</l>
+            <l>o sovra l’empio capo il Reno allaga.</l>
+            <l>Signore, il mondo appaga</l>
+            <l>di sì bramata vista, e sì gradita,</l>
+            <l>che la morte dell’empio al giusto è vita.</l>
+            <l>Signor, a te, noi miserabil’ alme,</l>
+            <l>mesta turba piangente,</l>
+            <l>alziam le voci, e percottam’ le palme:</l>
+            <l>mira tua fida gente,</l>
+            <l>col volto afflitto, e le ginocchia a terra</l>
+            <l>sparger di polve il crine,</l>
+            <l>e della lunga guerra</l>
+            <l>battendo i petti, supplicare il fine.</l>
+            <l>S’alle piagge divine</l>
+            <l>giusto prego mortale, oggi se n’ vola,</l>
+            <l>signor, doma quest’empio, e noi consola.</l>
+            <l>Atto terzo</l>
+            <l>Scena prima</l>
+            <l>Gauno, Ismano, coro d’Unni.</l>
+          </sp>
+          <stage>CORO DI CRISTIANIPrecipitida quelle murail re fierissimo,che ‘l ciel non cura.Di fulminicadan tempeste,che tutte abbattanol’inique teste.Disserrisil’infernal chiostroe ‘l mondo liberi,dal crudo mostro.Ondegginodi sangue i campi,del crudo esercitonon sia chi scampi.Aitaneceleste padre,al giogo toglinedell’empie squadre.Padre eterno del ciel, che d’aurei lampivesti il sole, e le stelle;so ben, che tu ne’ tormentati campihai per l’alme rubelledi fiamme punitrici orrendi laghi.Hai pitoni, e chimere,e portentosi draghi,e mille orride furie, e mille fiere:ma s’anco in vita feretua destra onnipotente, anima reas’induce il mondo a più temere Astrea.Qual mostra esempio il regnator d’Egittoa’ superbi tiranni?Ei, nel vermiglio mar, da te trafittotrasse Israel d’affanni:così spada del ciel dimostra agl’empi,ch’in terra ancora arriva.Ma deh, novelli esempiricerchiamo del Tebro in sulla riva:ivi, mentre infierivapiù l’orgoglioso cor, tra l’atre spume,Massenzio rio precipitò nel fiume.Mira, giusto signor, l’unno rapace,qual sotto Tebe anticail fulminato assalitore audace,di quella terra amicapremer’ i tetti, e minacciare il cielo.Scenda divina piagadi fulminante telo:o sovra l’empio capo il Reno allaga.Signore, il mondo appagadi sì bramata vista, e sì gradita,che la morte dell’empio al giusto è vita.Signor, a te, noi miserabil’ alme,mesta turba piangente,alziam le voci, e percottam’ le palme:mira tua fida gente,col volto afflitto, e le ginocchia a terrasparger di polve il crine,e della lunga guerrabattendo i petti, supplicare il fine.S’alle piagge divinegiusto prego mortale, oggi se n’ vola,signor, doma quest’empio, e noi consola.Atto terzoScena primaGauno, Ismano, coro d’Unni.</stage>
+          <sp who="#gauno">
+            <speaker>GAUNO:</speaker>
+            <l>Questi son dunque i temerari vanti?</l>
+            <l>Questi i superbi voti?</l>
+            <l>Così mi prometteste,</l>
+            <l>di catena servil cinto la fronte,</l>
+            <l>condur dal proprio fonte</l>
+            <l>il Tebro a riverir l’alta Meoti?</l>
+            <l>Ed ora, un debil muro,</l>
+            <l>un debil muro affrena</l>
+            <l>l’esercito, terror dell’occidente?</l>
+            <l>Ite mal nata gente,</l>
+            <l>lasciate della guerra il nobil uso</l>
+            <l>e tra femmine vili</l>
+            <l>la man volgete alla conocchia, e al fuso.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ISMANO</head>Signor, non diffidar de’ servi tuoi:sforzo di nuova guerra,farà cader l’avverse mura a terra.Ma, vedi fuor del tempiod’altissimi pensier carco la fronteil tuo sacro Oronteo, che a te se n’ viene.Scena secondaOronteo, Gauno, Furia infernale, coro d’Unni.<sp who="#ismano">
+            <speaker>ISMANO:</speaker>
+            <l>Signor, non diffidar de’ servi tuoi:</l>
+            <l>sforzo di nuova guerra,</l>
+            <l>farà cader l’avverse mura a terra.</l>
+            <l>Ma, vedi fuor del tempio</l>
+            <l>d’altissimi pensier carco la fronte</l>
+            <l>il tuo sacro Oronteo, che a te se n’ viene.</l>
+            <l>Scena seconda</l>
+            <l>Oronteo, Gauno, Furia infernale, coro d’Unni.</l>
+          </sp>
+          <stage>ISMANOSignor, non diffidar de’ servi tuoi:sforzo di nuova guerra,farà cader l’avverse mura a terra.Ma, vedi fuor del tempiod’altissimi pensier carco la fronteil tuo sacro Oronteo, che a te se n’ viene.Scena secondaOronteo, Gauno, Furia infernale, coro d’Unni.</stage>
+          <sp who="#oronteo">
+            <speaker>ORONTEO:</speaker>
+            <l>Non uccisi destrier, non preghi, o voti</l>
+            <l>oggi gradisce Marte: odi, o gran rege</l>
+            <l>udite, o voi di Scizia eroi più chiari,</l>
+            <l>quanto celeste voce</l>
+            <l>imposto m’ha da riveriti altari,</l>
+            <l>ch’io faccia a voi palese.</l>
+          </sp>
+          <sp who="#gauno">
+            <speaker>GAUNO:</speaker>
+            <l>Tosto il divin volere a noi dispiega:</l>
+            <l>dinne perché vittoria</l>
+            <l>all’invincibil unno oggi si nega.</l>
+          </sp>
+          <sp who="#oronteo">
+            <speaker>ORONTEO:</speaker>
+            <l>Orsola, di re figlia,</l>
+            <l>di sacrileghe donne insieme unita</l>
+            <l>numerosa falange,</l>
+            <l>trionfatrice ardita,</l>
+            <l>or per l’onde trascorre, or per la terra,</l>
+            <l>e d’ogni nostro nume</l>
+            <l>danna gl’antichi riti, e i tempi atterra.</l>
+            <l>Marte vendicatore a questo fiume,</l>
+            <l>dalle paterne rive oggi l’ha scorta,</l>
+            <l>acciò con l’empia setta,</l>
+            <l>sia dal tuo campo, e violata, e morta.</l>
+            <l>Or non sperar già mai</l>
+            <l>vittoria, o re, da queste squadre ardite,</l>
+            <l>se queste tu non dai</l>
+            <l>vittime a Marte, e a Citerea gradite.</l>
+            <l>Ma quale il tempio scuote</l>
+            <l>improvviso tremore?</l>
+            <l>Odi, invitto signore,</l>
+            <l>dell’adorato nume odi le note.</l>
+          </sp>
+          <sp who="#furia infernale">
+            <speaker>FURIA INFERNALE:</speaker>
+            <l>Contro nemica al ciel schiera proterva,</l>
+            <l>o degl’Unni gran re, movi veloce:</l>
+            <l>ed io placato al sacrifizio atroce,</l>
+            <l>Europa ti darò domata, e serva.</l>
+          </sp>
+          <sp who="#gauno">
+            <speaker>GAUNO:</speaker>
+            <l>Sacro, potente nume,</l>
+            <l>quanto nel campo mio sei riverito,</l>
+            <l>sarai tanto obbedito.</l>
+            <l>Guerrieri, in quella parte</l>
+            <l>dispiegate l’insegne,</l>
+            <l>pronti gl’imperi ad eseguir di Marte.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORO D’UNNI</head>Pera l’iniqua setta:vendetta, omai vendetta.Scena terzaLucifero, coro di Demoni, Asmodeo, San Michele, coro d’Angeli.<sp who="#coro d’unni">
+            <speaker>CORO D’UNNI:</speaker>
+            <l>Pera l’iniqua setta:</l>
+            <l>vendetta, omai vendetta.</l>
+            <l>Scena terza</l>
+            <l>Lucifero, coro di Demoni, Asmodeo, San Michele, coro d’Angeli.</l>
+          </sp>
+          <stage>CORO D’UNNIPera l’iniqua setta:vendetta, omai vendetta.Scena terzaLucifero, coro di Demoni, Asmodeo, San Michele, coro d’Angeli.</stage>
+          <sp who="#lucifero">
+            <speaker>LUCIFERO:</speaker>
+            <l>Venite infernal numi:</l>
+            <l>quanti albergate giù nell’arsa Dite,</l>
+            <l>i passi miei seguite.</l>
+          </sp>
+          <sp who="#coro di demoni">
+            <speaker>CORO DI DEMONI:</speaker>
+            <l>Tutte l’orride schiere,</l>
+            <l>tutti i numi d’Averno</l>
+            <l>son pronti al tuo volere.</l>
+          </sp>
+          <sp who="#asmodeo">
+            <speaker>ASMODEO:</speaker>
+            <l>Prendi rettor della perduta gente,</l>
+            <l>prendi la face in mano</l>
+            <l>degl’impuri diletti:</l>
+            <l>spira questa degl’Unni agl’empi petti,</l>
+            <l>acciò che quel crudel più non si vanti,</l>
+            <l>pure le membra aver di caste amanti.</l>
+          </sp>
+          <sp who="#lucifero">
+            <speaker>LUCIFERO:</speaker>
+            <l>Crudo ciel, fiere stelle,</l>
+            <l>farò pur la vendetta</l>
+            <l>nelle tanto gradite a voi donzelle.</l>
+          </sp>
+          <sp who="#san michele">
+            <speaker>SAN MICHELE:</speaker>
+            <l>Spegni ribelle a dio tartareo mostro</l>
+            <l>quella face infernale:</l>
+            <l>vedi l’asta immortale,</l>
+            <l>per cui cadesti al tormentato chiostro,</l>
+            <l>pronta a ferirti ancor sull’empia fronte.</l>
+            <l>Vuol quei, che all’alto impera,</l>
+            <l>vuol per tuo maggior duolo,</l>
+            <l>pura per te quella diletta schiera:</l>
+            <l>or vanne, e vibra solo</l>
+            <l>interna serpe d’infernal disdegno.</l>
+            <l>Vanne in quel campo, e quanta chiudi al core,</l>
+            <l>diffondi in questo dì rabbia, e furore.</l>
+          </sp>
+          <sp who="#lucifero">
+            <speaker>LUCIFERO:</speaker>
+            <l>O detestato duce</l>
+            <l>dell’angeliche menti:</l>
+            <l>conosco la cagione, onde mi sforzi</l>
+            <l>a far incrudelir le perfid’alme</l>
+            <l>nelle schiere innocenti.</l>
+            <l>Vuoi, ch’i martiri lor sien tante palme,</l>
+            <l>vuoi, ch’io ministro sia de’ propri mali.</l>
+            <l>Se così chiede incontrastabil legge,</l>
+            <l>svello questo dal seno atro serpente,</l>
+            <l>e tra l’iniqua gente,</l>
+            <l>tutto rabbia, e furor dispiego l’ali.</l>
+          </sp>
+          <sp who="#san michele">
+            <speaker>SAN MICHELE:</speaker>
+            <l>Moviamo abitator del regno eterno,</l>
+            <l>moviamo a rimirar su quella riva,</l>
+            <l>da schiera femminil vinto l’inferno.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORO D’ANGELI</head>Aprite, o sfere il grembo,raddoppiate la luce, o stelle, o sole:il castissimo sangue,ch’oggi bagna la terra,dia nuovi gigli al ciel, nuove viole.Ecco l’alme corone,ecco il premi immortal di mortal guerra:gloria nell’alto a dio,all’esercito pio vittoria in terra.Scena quartaIreo, coro di Cristiani, Orebo.<sp who="#coro d’angeli">
+            <speaker>CORO D’ANGELI:</speaker>
+            <l>Aprite, o sfere il grembo,</l>
+            <l>raddoppiate la luce, o stelle, o sole:</l>
+            <l>il castissimo sangue,</l>
+            <l>ch’oggi bagna la terra,</l>
+            <l>dia nuovi gigli al ciel, nuove viole.</l>
+            <l>Ecco l’alme corone,</l>
+            <l>ecco il premi immortal di mortal guerra:</l>
+            <l>gloria nell’alto a dio,</l>
+            <l>all’esercito pio vittoria in terra.</l>
+            <l>Scena quarta</l>
+            <l>Ireo, coro di Cristiani, Orebo.</l>
+          </sp>
+          <stage>CORO D’ANGELIAprite, o sfere il grembo,raddoppiate la luce, o stelle, o sole:il castissimo sangue,ch’oggi bagna la terra,dia nuovi gigli al ciel, nuove viole.Ecco l’alme corone,ecco il premi immortal di mortal guerra:gloria nell’alto a dio,all’esercito pio vittoria in terra.Scena quartaIreo, coro di Cristiani, Orebo.</stage>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Vedeste in quanta fretta</l>
+            <l>l’esercito crudel si volse al fiume?</l>
+            <l>Sentiste poi che formidabil grido</l>
+            <l>fe’ risonare il lido?</l>
+            <l>Non so fedeli amici,</l>
+            <l>quel che pensar mi deggia;</l>
+            <l>ma tra fiere tempeste il core ondeggia.</l>
+          </sp>
+          <sp who="#coro di cristiani">
+            <speaker>CORO DI CRISTIANI:</speaker>
+            <l>Tutto dolente in viso</l>
+            <l>Orebo a te ritorna:</l>
+            <l>deh qual n’apporterà sinistro avviso?</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Fuggi dall’alto cielo, o della luce</l>
+            <l>sempiterno rettore, e ‘n mar ti serra,</l>
+            <l>sin che sostien la terra</l>
+            <l>queste in sembiante uman Furie infernali.</l>
+            <l>Stelle vendicatrici i raggi vostri</l>
+            <l>cangiate in tanti strali,</l>
+            <l>e dal ciel fulminate i fieri mostri.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Orebo: io nel tuo volto</l>
+            <l>leggo le mie sventure, e l’altrui morte:</l>
+            <l>o misere donzelle, o mia consorte.</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Signor (ahi che l’orror nell’alma accolto</l>
+            <l>di voce ancor mi priva,)</l>
+            <l>come credesti appunto</l>
+            <l>trovai, signor, che alla dolente riva,</l>
+            <l>l’esercito era giunto</l>
+            <l>delle vergin britanne: o qual sembianza</l>
+            <l>agl’occhi miei s’offerse?</l>
+            <l>Sparse per l’ampia arena</l>
+            <l>le guerriere di Cristo,</l>
+            <l>or carissimi baci,</l>
+            <l>or puri abbracciamenti,</l>
+            <l>alternavan ridenti.</l>
+            <l>Cinta di bianca, e di purpurea veste</l>
+            <l>la magnanima duce,</l>
+            <l>e sparsa al tergo il coronato crine,</l>
+            <l>saettava dal volto</l>
+            <l>raggi di maggior luce:</l>
+            <l>e somigliante all’anime divine,</l>
+            <l>per lo diletto esercito scorrea.</l>
+            <l>Deposto in terra avea</l>
+            <l>l’aureo scettro reale,</l>
+            <l>e ‘n sua voce reggea,</l>
+            <l>assiso in croce il suo bramato amore.</l>
+            <l>Rammentava, or le piaghe, ed or lo zelo</l>
+            <l>del trafitto signore:</l>
+            <l>or promettendo guiderdone in cielo</l>
+            <l>le caste amate schiere,</l>
+            <l>contro il popolo rio</l>
+            <l>di fede armava, e di speranza in dio.</l>
+            <l>Ecco il perfido re, com’Austro suole,</l>
+            <l>cinto d’orridi lampi,</l>
+            <l>venir dell’aria a infuriar ne’ campi,</l>
+            <l>cinto dall’empie squadre,</l>
+            <l>viensene ratto a quel funesto lido.</l>
+            <l>Alzano allora un grido</l>
+            <l>l’umili verginelle,</l>
+            <l>e quel nome chiamato,</l>
+            <l>dalle stelle adorato, e dagl’abissi</l>
+            <l>tutte prostrate a terra,</l>
+            <l>tutte, tenendo i lumi al cielo affissi,</l>
+            <l>attendon liete la spietata guerra.</l>
+            <l>O divino stupore, al santo nome</l>
+            <l>ne’ barbarici cori in tutto spento</l>
+            <l>di libidin’infame il rio talento,</l>
+            <l>gridan di rabbia pieni,</l>
+            <l>pera chi Cristo adora:</l>
+            <l>e tratti all’istess’ora</l>
+            <l>gli scellerati ferri</l>
+            <l>corron’ a lacerar, i casti seni.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Oh dio, che sento? Oh dio?</l>
+            <l>Così cadesti estinta</l>
+            <l>dolcissima cagion del viver mio?</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Signor la tua regina,</l>
+            <l>a tutte l’altre innante,</l>
+            <l>più, che mortal ne’ detti, e nel sembiante,</l>
+            <l>dicea, ferite, o dispietata gente,</l>
+            <l>ferite questo core:</l>
+            <l>al mio sposo, o signore,</l>
+            <l>portin le piaghe mie l’alma innocente:</l>
+            <l>ma, tal di quel bel volto</l>
+            <l>la maestà splendea,</l>
+            <l>che ‘l ferro in lei rivolto</l>
+            <l>in mezzo al suo rigor, d’amore ardea.</l>
+            <l>Morte, morte chiedea</l>
+            <l>la sprezzatrice vergine animosa:</l>
+            <l>ma la ritenne a suo malgrado in vita</l>
+            <l>l’istessa crudeltà fatta pietosa.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Dispietata pietade!</l>
+            <l>Per uccidermi il cor con doppia morte,</l>
+            <l>concedi vita alla real beltade.</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Fuor, che la tua consorte,</l>
+            <l>troncate i sacri busti, aperte il seno,</l>
+            <l>o dolore, o pietade,</l>
+            <l>nell’orribil terreno</l>
+            <l>tutte l’altre cader dall’empie spade.</l>
+            <l>Ma deh, perché mi doglio,</l>
+            <l>o martiri beate al morir vostro,</l>
+            <l>se questi lumi han visto</l>
+            <l>trionfarvi lassù nel divin soglio,</l>
+            <l>e corone portar del sol più belle?</l>
+            <l>Bramo le palme vostre</l>
+            <l>nuovi pregi del ciel pure donzelle:</l>
+            <l>per sì giocondo acquisto,</l>
+            <l>bramo, bramo ancor io morir per Cristo.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Lasso, ma dove resta,</l>
+            <l>se pur è ver, che viva</l>
+            <l>la mia terrena diva?</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Del superbo tiranno</l>
+            <l>la divina beltà preda è rimasta.</l>
+            <l>Egli avvampa per lei d’immenso foco:</l>
+            <l>ed ha pur ora imposto</l>
+            <l>a’ suoi più chiari duci,</l>
+            <l>ch’a quell’anima casta</l>
+            <l>movan’assalto di lusinghe, e preghi:</l>
+            <l>e stassi il fiero core in sé disposto,</l>
+            <l>o ch’ella mora, o al suo voler si pieghi.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Quando, già mai si vide,</l>
+            <l>quando, misero me, già mai s’udio</l>
+            <l>tenor di fiera stella eguale al mio?</l>
+            <l>Non ti bastò privarmi</l>
+            <l>implacabil destin del patrio regno?</l>
+            <l>Non ti bastò legarmi</l>
+            <l>alle piante real servil catena,</l>
+            <l>che per maggior mia pena,</l>
+            <l>innanzi agl’occhi miei,</l>
+            <l>vuoi, ch’io veggia colei,</l>
+            <l>colei, ch’è la mia vita,</l>
+            <l>da barbaro spietato</l>
+            <l>esser a me rapita?</l>
+            <l>Deh pria, che questo veggia, o cielo, o fato,</l>
+            <l>di sì misera vista, il pensier solo</l>
+            <l>ancida il cuor di duolo.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>CORO DI CRISTIANI</head>Alle donzelle,pur or estinte,cedete vintenotturne stelle:più numerose di voi trascendono,nell’alto splendonodi voi più belle:cedete vintenotturne stelle.Quanti splendete,per gl’alti coricelesti amoril’ali movete:al cantar vostrolassù festeggino,al sol lampeggino,che le fa liete:celesti amoril’ali movete.O fortezza d’onore inclita prole,d’insuperabil cor nobil trofeo:ben sovente ti pasced’animose parolela loquace accademia, ed il liceo:ma se uopo talor nel mondo nascedi tua nobil corona,o come spesso avviene,che te, per vil timor l’alma abbandona.Un Codro ammira Atene.Tre Decii, un sol Attilio, e un Curzio nomatra tanti figli suoi l’invitta Roma.Io non parlo di voi, cui spinse a morte,o tema, o sdegno, o fervida cagioned’ambiziosa brama:te dal nome di forteesclude il saggio, o rigido Catone.Era vieppiù dovuto alla tua fama,a Roma in quell’affannoseguir di dar aita,che per non rimirar Cesar tirannocol ferro uscir di vita.Lode viè più, che libero morire,e per la patria vivere, e soffrire.Molto minor tra la femminea schierade’ forti petti il numero rimiro.Te Lucrezia pudica,e te consorte alteradel magnanimo Bruto io ben’ ammiro.Ma, benché generosa, e al ciel nemicavostra morte immatura.Vuol, chi la vita regge,che cediamo a suo tempo alla natura.Voi lungi all’alma leggeviver sdegnando ingloriose, e serve,foste crude a voi stesse, e al ciel proterve.Ma nelle scole altissime di Cristoqualor insegna sacrosanta fededi morir per il cielo,con numeroso acquistovera fortezza trionfar si vede.Ecco ch’ardon non sol, d’invitto zeloviril petti robusti,e gloriose palmehan dalla rabbia di tiranni ingiusti;ma frali, e timid’almedel più debole sesso, io vedo audacisprezzar croci, flagelli, e rote, e faci.Lascio te, che sul Tebro a dio fedelesì tenera cadesti Agnese bella:e te, cui tolse al senobarbara man crudelel’un, E l’altra purissima mammella.Lascio te, che sul Nil venisti menoreal germe d’Egitto:e te, ch’in ree favilletrasse nobil’ardor d’animo invitto.Da palme a mille a mille,oggi di Cristo diletta arena,e più di sangue, e di trionfi è piena.Volgiamo il guardo al Reno: appena tantes’unir del Termodonte in sulla foce,quante spiegonne in campoOrsola trionfantecontro il profano esercito feroce.O sacro lido, o sacrosanto campo:puro teatro, e pio,ove palme sì belleriportaro l’amazzoni di dio.Lascia al cielo le stelle,lascia le gemme alla bell’India, e l’oro:Germania serba in te sì bel tesoro.Atto quartoScena primaSant’Orsola, Ismano, Arimalto, Ireo con il coro de’ Cristiani.<div type="scene">
+          <head>CORO DI CRISTIANI</head>Alle donzelle,pur or estinte,cedete vintenotturne stelle:più numerose di voi trascendono,nell’alto splendonodi voi più belle:cedete vintenotturne stelle.Quanti splendete,per gl’alti coricelesti amoril’ali movete:al cantar vostrolassù festeggino,al sol lampeggino,che le fa liete:celesti amoril’ali movete.O fortezza d’onore inclita prole,d’insuperabil cor nobil trofeo:ben sovente ti pasced’animose parolela loquace accademia, ed il liceo:ma se uopo talor nel mondo nascedi tua nobil corona,o come spesso avviene,che te, per vil timor l’alma abbandona.Un Codro ammira Atene.Tre Decii, un sol Attilio, e un Curzio nomatra tanti figli suoi l’invitta Roma.Io non parlo di voi, cui spinse a morte,o tema, o sdegno, o fervida cagioned’ambiziosa brama:te dal nome di forteesclude il saggio, o rigido Catone.Era vieppiù dovuto alla tua fama,a Roma in quell’affannoseguir di dar aita,che per non rimirar Cesar tirannocol ferro uscir di vita.Lode viè più, che libero morire,e per la patria vivere, e soffrire.Molto minor tra la femminea schierade’ forti petti il numero rimiro.Te Lucrezia pudica,e te consorte alteradel magnanimo Bruto io ben’ ammiro.Ma, benché generosa, e al ciel nemicavostra morte immatura.Vuol, chi la vita regge,che cediamo a suo tempo alla natura.Voi lungi all’alma leggeviver sdegnando ingloriose, e serve,foste crude a voi stesse, e al ciel proterve.Ma nelle scole altissime di Cristoqualor insegna sacrosanta fededi morir per il cielo,con numeroso acquistovera fortezza trionfar si vede.Ecco ch’ardon non sol, d’invitto zeloviril petti robusti,e gloriose palmehan dalla rabbia di tiranni ingiusti;ma frali, e timid’almedel più debole sesso, io vedo audacisprezzar croci, flagelli, e rote, e faci.Lascio te, che sul Tebro a dio fedelesì tenera cadesti Agnese bella:e te, cui tolse al senobarbara man crudelel’un, E l’altra purissima mammella.Lascio te, che sul Nil venisti menoreal germe d’Egitto:e te, ch’in ree favilletrasse nobil’ardor d’animo invitto.Da palme a mille a mille,oggi di Cristo diletta arena,e più di sangue, e di trionfi è piena.Volgiamo il guardo al Reno: appena tantes’unir del Termodonte in sulla foce,quante spiegonne in campoOrsola trionfantecontro il profano esercito feroce.O sacro lido, o sacrosanto campo:puro teatro, e pio,ove palme sì belleriportaro l’amazzoni di dio.Lascia al cielo le stelle,lascia le gemme alla bell’India, e l’oro:Germania serba in te sì bel tesoro.Atto quartoScena primaSant’Orsola, Ismano, Arimalto, Ireo con il coro de’ Cristiani.<sp who="#coro di cristiani">
+            <speaker>CORO DI CRISTIANI:</speaker>
+            <l>Alle donzelle,</l>
+            <l>pur or estinte,</l>
+            <l>cedete vinte</l>
+            <l>notturne stelle:</l>
+            <l>più numerose di voi trascendono,</l>
+            <l>nell’alto splendono</l>
+            <l>di voi più belle:</l>
+            <l>cedete vinte</l>
+            <l>notturne stelle.</l>
+            <l>Quanti splendete,</l>
+            <l>per gl’alti cori</l>
+            <l>celesti amori</l>
+            <l>l’ali movete:</l>
+            <l>al cantar vostro</l>
+            <l>lassù festeggino,</l>
+            <l>al sol lampeggino,</l>
+            <l>che le fa liete:</l>
+            <l>celesti amori</l>
+            <l>l’ali movete.</l>
+            <l>O fortezza d’onore inclita prole,</l>
+            <l>d’insuperabil cor nobil trofeo:</l>
+            <l>ben sovente ti pasce</l>
+            <l>d’animose parole</l>
+            <l>la loquace accademia, ed il liceo:</l>
+            <l>ma se uopo talor nel mondo nasce</l>
+            <l>di tua nobil corona,</l>
+            <l>o come spesso avviene,</l>
+            <l>che te, per vil timor l’alma abbandona.</l>
+            <l>Un Codro ammira Atene.</l>
+            <l>Tre Decii, un sol Attilio, e un Curzio noma</l>
+            <l>tra tanti figli suoi l’invitta Roma.</l>
+            <l>Io non parlo di voi, cui spinse a morte,</l>
+            <l>o tema, o sdegno, o fervida cagione</l>
+            <l>d’ambiziosa brama:</l>
+            <l>te dal nome di forte</l>
+            <l>esclude il saggio, o rigido Catone.</l>
+            <l>Era vieppiù dovuto alla tua fama,</l>
+            <l>a Roma in quell’affanno</l>
+            <l>seguir di dar aita,</l>
+            <l>che per non rimirar Cesar tiranno</l>
+            <l>col ferro uscir di vita.</l>
+            <l>Lode viè più, che libero morire,</l>
+            <l>e per la patria vivere, e soffrire.</l>
+            <l>Molto minor tra la femminea schiera</l>
+            <l>de’ forti petti il numero rimiro.</l>
+            <l>Te Lucrezia pudica,</l>
+            <l>e te consorte altera</l>
+            <l>del magnanimo Bruto io ben’ ammiro.</l>
+            <l>Ma, benché generosa, e al ciel nemica</l>
+            <l>vostra morte immatura.</l>
+            <l>Vuol, chi la vita regge,</l>
+            <l>che cediamo a suo tempo alla natura.</l>
+            <l>Voi lungi all’alma legge</l>
+            <l>viver sdegnando ingloriose, e serve,</l>
+            <l>foste crude a voi stesse, e al ciel proterve.</l>
+            <l>Ma nelle scole altissime di Cristo</l>
+            <l>qualor insegna sacrosanta fede</l>
+            <l>di morir per il cielo,</l>
+            <l>con numeroso acquisto</l>
+            <l>vera fortezza trionfar si vede.</l>
+            <l>Ecco ch’ardon non sol, d’invitto zelo</l>
+            <l>viril petti robusti,</l>
+            <l>e gloriose palme</l>
+            <l>han dalla rabbia di tiranni ingiusti;</l>
+            <l>ma frali, e timid’alme</l>
+            <l>del più debole sesso, io vedo audaci</l>
+            <l>sprezzar croci, flagelli, e rote, e faci.</l>
+            <l>Lascio te, che sul Tebro a dio fedele</l>
+            <l>sì tenera cadesti Agnese bella:</l>
+            <l>e te, cui tolse al seno</l>
+            <l>barbara man crudele</l>
+            <l>l’un, E l’altra purissima mammella.</l>
+            <l>Lascio te, che sul Nil venisti meno</l>
+            <l>real germe d’Egitto:</l>
+            <l>e te, ch’in ree faville</l>
+            <l>trasse nobil’ardor d’animo invitto.</l>
+            <l>Da palme a mille a mille,</l>
+            <l>oggi di Cristo diletta arena,</l>
+            <l>e più di sangue, e di trionfi è piena.</l>
+            <l>Volgiamo il guardo al Reno: appena tante</l>
+            <l>s’unir del Termodonte in sulla foce,</l>
+            <l>quante spiegonne in campo</l>
+            <l>Orsola trionfante</l>
+            <l>contro il profano esercito feroce.</l>
+            <l>O sacro lido, o sacrosanto campo:</l>
+            <l>puro teatro, e pio,</l>
+            <l>ove palme sì belle</l>
+            <l>riportaro l’amazzoni di dio.</l>
+            <l>Lascia al cielo le stelle,</l>
+            <l>lascia le gemme alla bell’India, e l’oro:</l>
+            <l>Germania serba in te sì bel tesoro.</l>
+            <l>Atto quarto</l>
+            <l>Scena prima</l>
+            <l>Sant’Orsola, Ismano, Arimalto, Ireo con il coro de’ Cristiani.</l>
+          </sp>
+          <stage>CORO DI CRISTIANIAlle donzelle,pur or estinte,cedete vintenotturne stelle:più numerose di voi trascendono,nell’alto splendonodi voi più belle:cedete vintenotturne stelle.Quanti splendete,per gl’alti coricelesti amoril’ali movete:al cantar vostrolassù festeggino,al sol lampeggino,che le fa liete:celesti amoril’ali movete.O fortezza d’onore inclita prole,d’insuperabil cor nobil trofeo:ben sovente ti pasced’animose parolela loquace accademia, ed il liceo:ma se uopo talor nel mondo nascedi tua nobil corona,o come spesso avviene,che te, per vil timor l’alma abbandona.Un Codro ammira Atene.Tre Decii, un sol Attilio, e un Curzio nomatra tanti figli suoi l’invitta Roma.Io non parlo di voi, cui spinse a morte,o tema, o sdegno, o fervida cagioned’ambiziosa brama:te dal nome di forteesclude il saggio, o rigido Catone.Era vieppiù dovuto alla tua fama,a Roma in quell’affannoseguir di dar aita,che per non rimirar Cesar tirannocol ferro uscir di vita.Lode viè più, che libero morire,e per la patria vivere, e soffrire.Molto minor tra la femminea schierade’ forti petti il numero rimiro.Te Lucrezia pudica,e te consorte alteradel magnanimo Bruto io ben’ ammiro.Ma, benché generosa, e al ciel nemicavostra morte immatura.Vuol, chi la vita regge,che cediamo a suo tempo alla natura.Voi lungi all’alma leggeviver sdegnando ingloriose, e serve,foste crude a voi stesse, e al ciel proterve.Ma nelle scole altissime di Cristoqualor insegna sacrosanta fededi morir per il cielo,con numeroso acquistovera fortezza trionfar si vede.Ecco ch’ardon non sol, d’invitto zeloviril petti robusti,e gloriose palmehan dalla rabbia di tiranni ingiusti;ma frali, e timid’almedel più debole sesso, io vedo audacisprezzar croci, flagelli, e rote, e faci.Lascio te, che sul Tebro a dio fedelesì tenera cadesti Agnese bella:e te, cui tolse al senobarbara man crudelel’un, E l’altra purissima mammella.Lascio te, che sul Nil venisti menoreal germe d’Egitto:e te, ch’in ree favilletrasse nobil’ardor d’animo invitto.Da palme a mille a mille,oggi di Cristo diletta arena,e più di sangue, e di trionfi è piena.Volgiamo il guardo al Reno: appena tantes’unir del Termodonte in sulla foce,quante spiegonne in campoOrsola trionfantecontro il profano esercito feroce.O sacro lido, o sacrosanto campo:puro teatro, e pio,ove palme sì belleriportaro l’amazzoni di dio.Lascia al cielo le stelle,lascia le gemme alla bell’India, e l’oro:Germania serba in te sì bel tesoro.Atto quartoScena primaSant’Orsola, Ismano, Arimalto, Ireo con il coro de’ Cristiani.</stage>
+          <sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>Dolcissime compagne:</l>
+            <l>voi tra l’empirea corte,</l>
+            <l>per l’eterne campagne</l>
+            <l>spiegate il volo all’immortal consorte:</l>
+            <l>già le stellate porte</l>
+            <l>il luminoso Olimpo a voi disserra;</l>
+            <l>ed io, misera, ed io,</l>
+            <l>io, che vi scorsi, al ciel, rimango in terra.</l>
+            <l>Che più da voi s’aspetta</l>
+            <l>spietatissime squadre?</l>
+            <l>Son io, son io la duce</l>
+            <l>dell’odiosa setta:</l>
+            <l>che più da voi s’aspetta?</l>
+            <l>In me gl’archi tendete,</l>
+            <l>in me l’aste volgete, in me le spade,</l>
+            <l>mostri di crudeltade.</l>
+          </sp>
+          <sp who="#ismano">
+            <speaker>ISMANO:</speaker>
+            <l>Deh questo pianto affrena,</l>
+            <l>e le turbate stelle,</l>
+            <l>vergine avventurosa omai serena.</l>
+            <l>Altro scettro, altro regno, altre donzelle</l>
+            <l>ti renderan beata:</l>
+            <l>a’ sovrani imenei</l>
+            <l>del monarca di Scizia</l>
+            <l>t’innalzano gli dèi:</l>
+            <l>o beltà fortunata,</l>
+            <l>vedi, che tutto il campo a te s’inchina,</l>
+            <l>e ti chiama regina.</l>
+          </sp>
+          <sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>Taci barbaro, taci,</l>
+            <l>taci barbaro rio:</l>
+            <l>mio regno è il cielo, e mio consorte è dio.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>O dolce anima mia,</l>
+            <l>o mio bene, o mia vita, o mio tesoro,</l>
+            <l>qui ti veggio, e non moro?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ARIMALTO</head>Per l’orribile vistadell’estinte compagnenel soverchio dolor costei vaneggia.Deh, mentre l’alma orgogliosetta ondeggiain quest’affanni suoi,togliamo quinci il piede,e le parlin per noiquesti nati in sua patria, e di sua fede,voi prigionieri, voicon amiche parole,della bella dolenteracconsolate il sole:e ditele a qual sorte,l’amor del nostro rege, e ‘l ciel la serba.Se la beltà superba,avvien, ch’a’ detti vostrifacile, e grata al mio signor si renda;oltre la libertadealtissima mercé da voi s’attenda.Scena secondaIreo, Sant’Orsola.<sp who="#arimalto">
+            <speaker>ARIMALTO:</speaker>
+            <l>Per l’orribile vista</l>
+            <l>dell’estinte compagne</l>
+            <l>nel soverchio dolor costei vaneggia.</l>
+            <l>Deh, mentre l’alma orgogliosetta ondeggia</l>
+            <l>in quest’affanni suoi,</l>
+            <l>togliamo quinci il piede,</l>
+            <l>e le parlin per noi</l>
+            <l>questi nati in sua patria, e di sua fede,</l>
+            <l>voi prigionieri, voi</l>
+            <l>con amiche parole,</l>
+            <l>della bella dolente</l>
+            <l>racconsolate il sole:</l>
+            <l>e ditele a qual sorte,</l>
+            <l>l’amor del nostro rege, e ‘l ciel la serba.</l>
+            <l>Se la beltà superba,</l>
+            <l>avvien, ch’a’ detti vostri</l>
+            <l>facile, e grata al mio signor si renda;</l>
+            <l>oltre la libertade</l>
+            <l>altissima mercé da voi s’attenda.</l>
+            <l>Scena seconda</l>
+            <l>Ireo, Sant’Orsola.</l>
+          </sp>
+          <stage>ARIMALTOPer l’orribile vistadell’estinte compagnenel soverchio dolor costei vaneggia.Deh, mentre l’alma orgogliosetta ondeggiain quest’affanni suoi,togliamo quinci il piede,e le parlin per noiquesti nati in sua patria, e di sua fede,voi prigionieri, voicon amiche parole,della bella dolenteracconsolate il sole:e ditele a qual sorte,l’amor del nostro rege, e ‘l ciel la serba.Se la beltà superba,avvien, ch’a’ detti vostrifacile, e grata al mio signor si renda;oltre la libertadealtissima mercé da voi s’attenda.Scena secondaIreo, Sant’Orsola.</stage>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>O donna, o del mio core,</l>
+            <l>del mio cor, del mio regno,</l>
+            <l>mentre piacque ad Amore</l>
+            <l>fortunato sostegno:</l>
+            <l>s’al pallido sembiante,</l>
+            <l>simulacro di morte,</l>
+            <l>non riconosci appieno,</l>
+            <l>il tuo fedele amante,</l>
+            <l>il promesso consorte;</l>
+            <l>volgi i celesti lumi a questo seno,</l>
+            <l>rimira in questo core,</l>
+            <l>e leggi il nome mio nel mio dolore.</l>
+            <l>Ireo, Ireo son io,</l>
+            <l>vago mio sol, quell’infelice Ireo,</l>
+            <l>che servo a te rendeo</l>
+            <l>del suo costante core ogni desio:</l>
+            <l>Ireo, Ireo son io,</l>
+            <l>che sovra il seggio antico</l>
+            <l>di Britannia famosa,</l>
+            <l>sperai di rimirarti</l>
+            <l>fortunata regina, e lieta sposa:</l>
+            <l>ed ora, ahi lasso, ed ora</l>
+            <l>privo del patrio regno,</l>
+            <l>lungi dal nobil soglio,</l>
+            <l>ti veggio esposta di tiranno indegno</l>
+            <l>al furore, all’orgoglio.</l>
+            <l>O barbari crudeli,</l>
+            <l>ch’ivi state in disparte,</l>
+            <l>e quest’amare lacrime mirate:</l>
+            <l>voi forse vi pensate,</l>
+            <l>ch’alla mia vita innanti</l>
+            <l>io sparga questi pianti,</l>
+            <l>sparga queste mestissime parole,</l>
+            <l>per lo dolce desio di libertade:</l>
+            <l>folli, se lo pensate:</l>
+            <l>io, la perduta libertà non piango,</l>
+            <l>piango la prigionia del mio bel sole,</l>
+            <l>e solo, sol mi duole</l>
+            <l>di non conoscer via</l>
+            <l>né men con la mia morte,</l>
+            <l>di poter liberar la vita mia.</l>
+            <l>Care stelle divine,</l>
+            <l>cari bramati lumi,</l>
+            <l>ch’aprite in terra la beltà del cielo:</l>
+            <l>io giuro a’ raggi vostri,</l>
+            <l>che s’io potessi mirar voi contenti,</l>
+            <l>gioirei nel cordoglio,</l>
+            <l>e beato sarei ne’ miei tormenti.</l>
+            <l>Credi a questo mio pianto,</l>
+            <l>credi vergin real, ch’io non mi doglio</l>
+            <l>di mia propria sventura:</l>
+            <l>perder le patrie mura,</l>
+            <l>perder i fidi servi, e ‘l caro padre,</l>
+            <l>tra mille indegni oltraggi</l>
+            <l>prigioniero restar d’inique squadre;</l>
+            <l>pur che libera fussi</l>
+            <l>tu donna, ond’attendeva ogni mio bene,</l>
+            <l>foran diletti al cor, non lacci e pene.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>SANT’ORSOLA</head>Ah, così dunque Ireo,a chi bramasti il regno invìdi il cielo?Lascia, lascia, se m’amiquesti vani lamenti,che quelle. Che tu chiamimie sventure, e tormenti,son dell’anima mia gioie, e contenti.Non all’alte tue nozze,non a’ regni britanniera volto il mio core:bramai da tener’anni,bramai col sangue mio,sposa venir del crocefisso amore:or che vedi adempirsi il bel desio,soverchio, ingiusto sei,se piangi il lieto fin de’ giorni miei.Ireo, diletto Ireo,quest’amor, questo zeloverso donna mortal rivolgi al cielo:Ireo, diletto Ireo,ti rifiutai consorte,or t’eleggo compagnonella via degl’affanni, e della morte.Là vedi in quell’arenesanguinosi torrenti:quelli versar dalle pudiche venele mie schiere innocenti:io regina di lororimasta sola in mezzoall’esercito ingiusto,puro serbando al cielodell’alma pudicizia il bel tesoro;irriterommi al sen tutte le spade,c’han dato morte al mio diletto coro.Su giovine reale,da tenere donzelledi cristiana virtù prendi l’esempio:vanne tra ‘l popolo empio,va’ generoso eroe, confessa Cristo,e fa’ di nuovo regno in cielo acquisto.Scena terzaCoro d’Unni, e di Sacerdoti di Marte, Gauno, Sant’Orsola, Ireo.<sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>Ah, così dunque Ireo,</l>
+            <l>a chi bramasti il regno invìdi il cielo?</l>
+            <l>Lascia, lascia, se m’ami</l>
+            <l>questi vani lamenti,</l>
+            <l>che quelle. Che tu chiami</l>
+            <l>mie sventure, e tormenti,</l>
+            <l>son dell’anima mia gioie, e contenti.</l>
+            <l>Non all’alte tue nozze,</l>
+            <l>non a’ regni britanni</l>
+            <l>era volto il mio core:</l>
+            <l>bramai da tener’anni,</l>
+            <l>bramai col sangue mio,</l>
+            <l>sposa venir del crocefisso amore:</l>
+            <l>or che vedi adempirsi il bel desio,</l>
+            <l>soverchio, ingiusto sei,</l>
+            <l>se piangi il lieto fin de’ giorni miei.</l>
+            <l>Ireo, diletto Ireo,</l>
+            <l>quest’amor, questo zelo</l>
+            <l>verso donna mortal rivolgi al cielo:</l>
+            <l>Ireo, diletto Ireo,</l>
+            <l>ti rifiutai consorte,</l>
+            <l>or t’eleggo compagno</l>
+            <l>nella via degl’affanni, e della morte.</l>
+            <l>Là vedi in quell’arene</l>
+            <l>sanguinosi torrenti:</l>
+            <l>quelli versar dalle pudiche vene</l>
+            <l>le mie schiere innocenti:</l>
+            <l>io regina di loro</l>
+            <l>rimasta sola in mezzo</l>
+            <l>all’esercito ingiusto,</l>
+            <l>puro serbando al cielo</l>
+            <l>dell’alma pudicizia il bel tesoro;</l>
+            <l>irriterommi al sen tutte le spade,</l>
+            <l>c’han dato morte al mio diletto coro.</l>
+            <l>Su giovine reale,</l>
+            <l>da tenere donzelle</l>
+            <l>di cristiana virtù prendi l’esempio:</l>
+            <l>vanne tra ‘l popolo empio,</l>
+            <l>va’ generoso eroe, confessa Cristo,</l>
+            <l>e fa’ di nuovo regno in cielo acquisto.</l>
+            <l>Scena terza</l>
+            <l>Coro d’Unni, e di Sacerdoti di Marte, Gauno, Sant’Orsola, Ireo.</l>
+          </sp>
+          <stage>SANT’ORSOLAAh, così dunque Ireo,a chi bramasti il regno invìdi il cielo?Lascia, lascia, se m’amiquesti vani lamenti,che quelle. Che tu chiamimie sventure, e tormenti,son dell’anima mia gioie, e contenti.Non all’alte tue nozze,non a’ regni britanniera volto il mio core:bramai da tener’anni,bramai col sangue mio,sposa venir del crocefisso amore:or che vedi adempirsi il bel desio,soverchio, ingiusto sei,se piangi il lieto fin de’ giorni miei.Ireo, diletto Ireo,quest’amor, questo zeloverso donna mortal rivolgi al cielo:Ireo, diletto Ireo,ti rifiutai consorte,or t’eleggo compagnonella via degl’affanni, e della morte.Là vedi in quell’arenesanguinosi torrenti:quelli versar dalle pudiche venele mie schiere innocenti:io regina di lororimasta sola in mezzoall’esercito ingiusto,puro serbando al cielodell’alma pudicizia il bel tesoro;irriterommi al sen tutte le spade,c’han dato morte al mio diletto coro.Su giovine reale,da tenere donzelledi cristiana virtù prendi l’esempio:vanne tra ‘l popolo empio,va’ generoso eroe, confessa Cristo,e fa’ di nuovo regno in cielo acquisto.Scena terzaCoro d’Unni, e di Sacerdoti di Marte, Gauno, Sant’Orsola, Ireo.</stage>
+          <sp who="#coro d’unni">
+            <speaker>CORO D’UNNI:</speaker>
+            <l>All’alma Venere</l>
+            <l>sacriamo il canto,</l>
+            <l>e Marte intanto</l>
+            <l>plachi i furori.</l>
+            <l>O diva degl’amori,</l>
+            <l>o Citerea vezzosa,</l>
+            <l>dolce stella amorosa,</l>
+            <l>ch’in ciel tranquilli ogni più fiero aspetto;</l>
+            <l>tu, ch’or infiammi il petto</l>
+            <l>al nuovo Marte, che tra gl’Unni impera;</l>
+            <l>placa per lui questa bellezza altera.</l>
+          </sp>
+          <sp who="#gauno">
+            <speaker>GAUNO:</speaker>
+            <l>Che fai? Che pensi? A che ti lagni, o bella</l>
+            <l>prigioniera felice,</l>
+            <l>preda del vincitor trionfatrice?</l>
+            <l>Dimmi, si placa ancor l’irato core?</l>
+            <l>Conosci a qual onore</l>
+            <l>t’innalza amando il regnator degl’Unni?</l>
+            <l>Deh sì, bella mia dèa,</l>
+            <l>che lieto omai del tuo felice amore,</l>
+            <l>io, non invido a Marte</l>
+            <l>l’amor di Citerea.</l>
+            <l>Vivi lieta, mio sol felice sposa</l>
+            <l>meco verrai per i soggetti regni:</l>
+            <l>al tuo scettro, al tuo nome,</l>
+            <l>i re più chiari, i cavalier più degni</l>
+            <l>piegheran riverenti</l>
+            <l>le soggiogate chiome.</l>
+            <l>Io con l’irata destra</l>
+            <l>fulminerò gl’imperi:</l>
+            <l>tu co’ bei lumi alteri</l>
+            <l>ferirai questo core:</l>
+            <l>io, guerriero di Marte, e tu d’Amore.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Lasso, a che più mi celo?</l>
+            <l>A che più mi riserbo, o regno, o vita?</l>
+            <l>Ah, che con la mia morte</l>
+            <l>son pronto a darti, o mio bel sol aita.</l>
+            <l>Signore: a queste piante,</l>
+            <l>a queste regie piante</l>
+            <l>ch’io di lacrime bagno,</l>
+            <l>vengo a chieder pietà misero amante.</l>
+            <l>Non son, qual forse credi</l>
+            <l>privato cavaliero: alto signore,</l>
+            <l>del gran re di Britannia il figlio vedi,</l>
+            <l>funesto esempio d’infelice amore.</l>
+            <l>Arte di regio core</l>
+            <l>e sollevar gl’oppressi: a questi preghi,</l>
+            <l>a questi amari pianti</l>
+            <l>giustissima pietade, ahi non si nieghi,</l>
+            <l>questa regia donzella</l>
+            <l>è dell’anima mia la miglior parte:</l>
+            <l>l’amai, servii, la desiai consorte:</l>
+            <l>ma lasso, altro dispose</l>
+            <l>di lei, di me l’inesorabil sorte.</l>
+            <l>Deh, se non men che forte</l>
+            <l>sei generoso, invitto re degl’Unni,</l>
+            <l>rendi a’ miei lumi il sole,</l>
+            <l>rendi il mio core al petto,</l>
+            <l>rendimi omai colei,</l>
+            <l>ch’è vita, anima, e sol de’ pensier miei.</l>
+            <l>Deh, de ‘l valore immiti,</l>
+            <l>immita la magnanima pietade</l>
+            <l>di quel nobil romano,</l>
+            <l>che la sì bella preda</l>
+            <l>libera rese all’amatore ispano.</l>
+            <l>Questa nobil vittoria,</l>
+            <l>ch’otterrai di te stesso,</l>
+            <l>farà più chiara ogni passata gloria:</l>
+            <l>e ammireranno cavalieri, e regi,</l>
+            <l>della tua destra, e del tuo core i pregi.</l>
+            <l>Meravigliando il mondo</l>
+            <l>dirà: destino ingiurioso, e reo.</l>
+            <l>In mano ai re degl’Unni,</l>
+            <l>died’Orsola, ed Ireo,</l>
+            <l>ma la nobil pietà del re degl’Unni,</l>
+            <l>negando al proprio petto</l>
+            <l>illecito diletto,</l>
+            <l>Orsola rese, e sé beato Ireo.</l>
+            <l>Ma, se l’empio mio fato</l>
+            <l>non permette ch’io speri</l>
+            <l>da te quel dono, onde vivrei beato;</l>
+            <l>doppia in me le catene, accresci i lacci,</l>
+            <l>danna le regie membra</l>
+            <l>ad eterno servaggio;</l>
+            <l>ma lascia, che sicura</l>
+            <l>alla natia marina,</l>
+            <l>torni innocente vergine regina.</l>
+            <l>Misero, e se t’aggrada,</l>
+            <l>che sia riscosso a prezzo</l>
+            <l>di sì vaga beltà l’alto tesoro;</l>
+            <l>vedi quanto il mio regno</l>
+            <l>por lei può numerarti argento, ed oro;</l>
+            <l>vedi pur quanto sangue</l>
+            <l>ti pon dar le mie vene:</l>
+            <l>ed a sì caro prezzo</l>
+            <l>da’ libertade al mio bramato bene.</l>
+            <l>Per lei, non poca parte</l>
+            <l>ti darò del mio regno,</l>
+            <l>per lei farò ch’a questi invitti piedi</l>
+            <l>mandi tributo il mio famoso padre;</l>
+            <l>il padre mio, che forse</l>
+            <l>or per altro desio della vendetta</l>
+            <l>armati legni a tua ruina affretta.</l>
+            <l>Ma, s’obliando esser guerriero e rege,</l>
+            <l>eleggi sol di far, quanto dispone</l>
+            <l>il tirannico affetto,</l>
+            <l>e non bella ragione,</l>
+            <l>deh pria, che tu mi tolga</l>
+            <l>questa del viver mio cagion gradita;</l>
+            <l>passa il ferro crudel per questo petto,</l>
+            <l>toglimi questa vita:</l>
+            <l>ohimè senza morire,</l>
+            <l>io non posso soffrire,</l>
+            <l>io non posso soffrir, che d’altri sia</l>
+            <l>questa rara beltà se non è mia.</l>
+          </sp>
+          <sp who="#gauno">
+            <speaker>GAUNO:</speaker>
+            <l>O Marte, o nudo arciero,</l>
+            <l>potentissimi numi, un del mio core,</l>
+            <l>l’altro del vasto impero:</l>
+            <l>per voi, per voi mi veggio in un sol giorno</l>
+            <l>di real prigioniero,</l>
+            <l>e di bel volto amato</l>
+            <l>possessor fortunato.</l>
+            <l>Sappi, o tu negl’amori, e nelle guerre</l>
+            <l>temerario egualmente, ed infelice,</l>
+            <l>sappi, che solo lice</l>
+            <l>all’aquila real fissarsi al sole:</l>
+            <l>ogni men degno augello,</l>
+            <l>che ciò di far presume,</l>
+            <l>trabocca a’ rai del troppo ardente lume.</l>
+            <l>Questo sol di bellezza</l>
+            <l>solo può sostenere il guardo mio:</l>
+            <l>cieca a tanta chiarezza</l>
+            <l>rimarrebbe la vista</l>
+            <l>del tuo folle desio:</l>
+            <l>quind’è, che quanto nega</l>
+            <l>al tuo sì basso merto</l>
+            <l>d’ingiuriosa stella il rio tenore;</l>
+            <l>concede al merto mio sorte, ed amore.</l>
+            <l>Usar teco pietade,</l>
+            <l>fora usar con me stesso</l>
+            <l>ingiusta crudelitade:</l>
+            <l>quant’il mio cor, più del tuo core intende</l>
+            <l>il merto di sì nobile bellezza,</l>
+            <l>più ne brama il possesso, e più l’apprezza.</l>
+            <l>Quel tuo nobil romano,</l>
+            <l>ch’adduci in chiaro esempio,</l>
+            <l>so pregi d’esser generoso, e pio:</l>
+            <l>io, pregerommi d’esser forte, ed empio,</l>
+            <l>pur ch’appaghi del core ogni desio.</l>
+            <l>Né per tesoro io vendo</l>
+            <l>il tesoro d’amore:</l>
+            <l>a compensar di sì gentil sembiante</l>
+            <l>l’indicibil valore,</l>
+            <l>non solo il regno tuo, non è bastante.</l>
+            <l>Ma l’impero del mondo è prezzo indegno.</l>
+            <l>Se tutto il tuo bel regno,</l>
+            <l>o l’ocean britannico m’aggrada,</l>
+            <l>dal tuo dono io non voglio</l>
+            <l>quel che posso ottener dalla mia spada.</l>
+            <l>Or tu del regio soglio</l>
+            <l>perdi ogni speme: e a’ piedi miei soggiaci:</l>
+            <l>e questa, che mirare a te non lice,</l>
+            <l>io godrommi felice: or servi, e taci.</l>
+          </sp>
+          <sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>Togli padre del cielo,</l>
+            <l>ch’io senta più quest’esecrabil detti.</l>
+            <l>Deh perché indugi tanto</l>
+            <l>dispietato furore</l>
+            <l>a lacerarmi il seno,</l>
+            <l>a saettarmi il core?</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>O diva degl’amori,</l>
+            <l>o Citerea vezzosa,</l>
+            <l>dolce stella amorosa,</l>
+            <l>ch’in ciel tranquilli ogni più fiero aspetto:</l>
+            <l>tu ch’or infiammi il petto</l>
+            <l>al nuovo Marte, che tra gl’Unni impera,</l>
+            <l>placa per lui questa bellezza altera.</l>
+          </sp>
+          <sp who="#gauno">
+            <speaker>GAUNO:</speaker>
+            <l>Moviam sacri ministri,</l>
+            <l>moviamo al fiume in riva:</l>
+            <l>ivi all’altar dell’amorosa diva</l>
+            <l>celebransi i miei</l>
+            <l>fortunati imenei.</l>
+            <l>Vieni bella consorte,</l>
+            <l>vieni al mio soglio, e lascia</l>
+            <l>così noioso affanno.</l>
+          </sp>
+          <sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>Vengo fiero tiranno,</l>
+            <l>vengo lieta alla morte.</l>
+            <l>Ireo rimanti in pace:</l>
+            <l>più non vedrami in terra:</l>
+            <l>ma se divino zelo</l>
+            <l>spegnerà questa tua non degna face,</l>
+            <l>ancor più bella mi vedrai nel cielo.</l>
+            <l>Ireo, ivi t’aspetto,</l>
+            <l>ivi t’appresto il soglio,</l>
+            <l>ove tu meco assiso</l>
+            <l>vedrai quanto più belle</l>
+            <l>delle real corone,</l>
+            <l>con corone di stelle in paradiso.</l>
+            <l>Venisti pur, venisti</l>
+            <l>ora delle mie pene?</l>
+            <l>Nell’occaso mortal tu pur t’apristi</l>
+            <l>alba d’eterno bene?</l>
+            <l>Fide compagne mie</l>
+            <l>attendete del cielo in sulle porte</l>
+            <l>la vostra amata duce,</l>
+            <l>che per sì care vie</l>
+            <l>a voi si riconduce.</l>
+            <l>O desiata morte,</l>
+            <l>o padre, o sposo, o dio,</l>
+            <l>a te lieta ne vegno,</l>
+            <l>a te lieta m’invio:</l>
+            <l>o padre, o sposo, o dio.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORO</head>O diva degl’amori,o Citerea vezzosa,dolce stella amorosa,ch’in ciel tranquilli ogni più fiero aspetto:tu ch’or infiammi il pettoal nuovo Marte, che tra gl’Unni impera,placa per lui questa bellezza altera.Scena quartaIreo, Orebo, coro di Cristiani.<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>O diva degl’amori,</l>
+            <l>o Citerea vezzosa,</l>
+            <l>dolce stella amorosa,</l>
+            <l>ch’in ciel tranquilli ogni più fiero aspetto:</l>
+            <l>tu ch’or infiammi il petto</l>
+            <l>al nuovo Marte, che tra gl’Unni impera,</l>
+            <l>placa per lui questa bellezza altera.</l>
+            <l>Scena quarta</l>
+            <l>Ireo, Orebo, coro di Cristiani.</l>
+          </sp>
+          <stage>COROO diva degl’amori,o Citerea vezzosa,dolce stella amorosa,ch’in ciel tranquilli ogni più fiero aspetto:tu ch’or infiammi il pettoal nuovo Marte, che tra gl’Unni impera,placa per lui questa bellezza altera.Scena quartaIreo, Orebo, coro di Cristiani.</stage>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Toglietemi di vita</l>
+            <l>fierissimo dolore,</l>
+            <l>aspra pena infinita,</l>
+            <l>toglietemi di vita.</l>
+            <l>Che più, che più ritardi</l>
+            <l>inconsolabil alma?</l>
+            <l>Fuggi da questo core,</l>
+            <l>spira da questo petto</l>
+            <l>tormentato ricetto</l>
+            <l>delle furie d’amore.</l>
+            <l>Barbaro il più crudele,</l>
+            <l>barbaro il più spietato,</l>
+            <l>che del Rifeo gelato</l>
+            <l>abitasse giammai l’orribil selve,</l>
+            <l>torna a star tra le belve</l>
+            <l>della Scizia natia,</l>
+            <l>e lascia, lascia a me l’anima mia.</l>
+            <l>È mio, è mio quel volto,</l>
+            <l>che tu crudel m’involi:</l>
+            <l>son miei quei vaghi soli,</l>
+            <l>che tu crudel m’hai tolto:</l>
+            <l>o cari lumi, o volto:</l>
+            <l>quant’ho per voi sofferto?</l>
+            <l>Quant’ho sparsi per voi pianti, e querele?</l>
+            <l>In premio or del mio merto,</l>
+            <l>da tiranno crudele,</l>
+            <l>ogni spietata gioia, ahi, m’è rapita.</l>
+            <l>Toglietemi di vita</l>
+            <l>fierissimo dolore,</l>
+            <l>aspra pena infinita,</l>
+            <l>toglietemi di vita.</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Ah, ch’infinito è ‘l danno,</l>
+            <l>ed è ragion, che sia</l>
+            <l>infinito l’affanno.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Ove resto, ove sei</l>
+            <l>amatissima donna?</l>
+            <l>Luce degl’occhi miei</l>
+            <l>ove resto, ove sei?</l>
+            <l>A qual termin oh dio,</l>
+            <l>a qual termin sei giunto</l>
+            <l>anima del cor mio?</l>
+            <l>Ohimè, ch’in quest’ arene,</l>
+            <l>tra scellerate spade,</l>
+            <l>o perder ti conviene</l>
+            <l>in questo dì la vita,</l>
+            <l>o perder l’onestade</l>
+            <l>vieppiù di lei gradita.</l>
+            <l>Toglietemi di vita</l>
+            <l>fierissimo dolore,</l>
+            <l>aspra pena infinita,</l>
+            <l>toglietemi di vita.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>O lacrimabil sorte:</l>
+            <l>così tolta ne sei</l>
+            <l>desiata regina?</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Deh se non è chi porte</l>
+            <l>alla bella mia patria il suon di queste</l>
+            <l>dolorose parole,</l>
+            <l>ferma pietoso sole</l>
+            <l>là sovra il regno mio, ferma le rote,</l>
+            <l>al real genitore,</l>
+            <l>a’ servi miei fa note</l>
+            <l>l’alte di lei miserie, e ‘l mio dolore.</l>
+            <l>Volate amiche prore,</l>
+            <l>volate a questo lido,</l>
+            <l>fate vendetta del tiranno infido,</l>
+            <l>che mi toglie il mio core:</l>
+            <l>volate amiche prore.</l>
+            <l>Che parlo? Ah non m’avveggio,</l>
+            <l>ch’indarno al caro padre,</l>
+            <l>indarno alle mie squadre aita chieggio?</l>
+            <l>Troppo è lungi il mio regno,</l>
+            <l>troppo sei tu vicina</l>
+            <l>amata mia regina</l>
+            <l>all’estrema partita.</l>
+            <l>Toglietemi di vita</l>
+            <l>fierissimo dolore,</l>
+            <l>aspra pena infinita,</l>
+            <l>toglietemi di vita.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Chi non piange signore</l>
+            <l>al tuo duolo, al tuo pianto,</l>
+            <l>ben ha di sasso il core.</l>
+          </sp>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>Ditemi, o miei fedeli,</l>
+            <l>ditemi amici voi, che far debb’io</l>
+            <l>in così fiera sorte?</l>
+            <l>Il mio core, il bene mio</l>
+            <l>vorrei torre alla morte:</l>
+            <l>ditemi amici voi, che far debb’io</l>
+            <l>contr’infinito stuolo</l>
+            <l>giovin, privo del regno, inerme, e solo.</l>
+            <l>Ah, ch’io devo là gire,</l>
+            <l>dov’è l’anima mia vicina a morte;</l>
+            <l>ah, ch’io devo morire,</l>
+            <l>ma mora, mora prima</l>
+            <l>il barbaro villano,</l>
+            <l>mora l’empio ladrone,</l>
+            <l>ch’ogni mio ben mi toglie:</l>
+            <l>mia disarmata mano</l>
+            <l>prendi l’arma dall’ira,</l>
+            <l>prendila dalle furie</l>
+            <l>dell’acerbe mie doglie:</l>
+            <l>e contro quel fellone</l>
+            <l>fatti spada animata, o vivo telo,</l>
+            <l>o fulmine del cielo:</l>
+            <l>va’ disperato amante,</l>
+            <l>va’ tra l’iniqua setta,</l>
+            <l>va’ del crudo tiranno a far vendetta,</l>
+            <l>poi lieto mori alla tua vita innante.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Segui fedele Orebo</l>
+            <l>il tuo caro signore:</l>
+            <l>noi qui restando intanto</l>
+            <l>l’onde del Reno accrescerem col pianto.</l>
+            <l>Arresta, arresta il piè:</l>
+            <l>dove ne corri, o misero?</l>
+            <l>Ah non sperar mercé.</l>
+            <l>Se la tua donna uccisero,</l>
+            <l>uccideranno te:</l>
+            <l>arresta, arresta il piè.</l>
+            <l>Ah, non sperar pietà</l>
+            <l>dal mostro crudelissimo,</l>
+            <l>ch’in te pietà non ha.</l>
+            <l>Giovine infelicissimo,</l>
+            <l>qual fin tua vita avria?</l>
+            <l>Ah, non sperar pietà.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>CORO DI CRISTIANI</head>O quali in quell’arenaspettacoli daranno,quinci l’unno tiranno,quindi l’eroe, che la bell’Anglia affrena,quindi ognor più costantela diletta di dio pudica amante?Ogn’aspra tigra ircana,ogni serpe, ogni fieradella stigia riviera,vincerà Gauno con la rabbia insana:e sien di lui più giustiDiomedi, Scironi, Atrei, Procusti.Dalle fiamme d’Orfeoil celebrato grido,e l’altr’amor d’Abidofarà tacer l’innamorato Ireo,per il bel volto, pocoparragli entrar nell’onde, entrar, nel foco.Dall’altra parte accesad’invincibil zelo,e da’ campion del cieloverginella purissima difesa,in mezzo al popol empiofia d’alta pudicizia eterno esempio.Ma d’ambedue la palmaottenga la gentile,che tema, ed amor vileda sé sbandito, in dio beata ha l’alma:ella il tiranno affrene,e ‘l suo troppo amatore a dio rimene.Santa, divina face,che la bell’alma accendi,or tu dal ciel discendiin giovin troppo amante, e troppo audace;tu col tuo foco spegniface di paradiso, ardor men degni.Oggi, a divino affettoceda desire umano:e se spietata manodev’al regio garzon passare il petto,non per mortal desio,ma cada per l’onor dovuto a dio.Deh, se coppia sì bellanon fia quaggiù consorte,per generosa morterisplenda su nel ciel gemina stella:e in quei beati campidi puro foco al sol di gloria avvampi.Dall’orgogliose labbiaminacci pur tormenti:contro i petti innocentisfoghi il crudel l’infuriata rabbia:di Cristo amante coresprezza ogni morte, e vince allor che more.Atto quintoScena primaGenerale de’ romani, Tribuno, coro di Soldati romani.<div type="scene">
+          <head>CORO DI CRISTIANI</head>O quali in quell’arenaspettacoli daranno,quinci l’unno tiranno,quindi l’eroe, che la bell’Anglia affrena,quindi ognor più costantela diletta di dio pudica amante?Ogn’aspra tigra ircana,ogni serpe, ogni fieradella stigia riviera,vincerà Gauno con la rabbia insana:e sien di lui più giustiDiomedi, Scironi, Atrei, Procusti.Dalle fiamme d’Orfeoil celebrato grido,e l’altr’amor d’Abidofarà tacer l’innamorato Ireo,per il bel volto, pocoparragli entrar nell’onde, entrar, nel foco.Dall’altra parte accesad’invincibil zelo,e da’ campion del cieloverginella purissima difesa,in mezzo al popol empiofia d’alta pudicizia eterno esempio.Ma d’ambedue la palmaottenga la gentile,che tema, ed amor vileda sé sbandito, in dio beata ha l’alma:ella il tiranno affrene,e ‘l suo troppo amatore a dio rimene.Santa, divina face,che la bell’alma accendi,or tu dal ciel discendiin giovin troppo amante, e troppo audace;tu col tuo foco spegniface di paradiso, ardor men degni.Oggi, a divino affettoceda desire umano:e se spietata manodev’al regio garzon passare il petto,non per mortal desio,ma cada per l’onor dovuto a dio.Deh, se coppia sì bellanon fia quaggiù consorte,per generosa morterisplenda su nel ciel gemina stella:e in quei beati campidi puro foco al sol di gloria avvampi.Dall’orgogliose labbiaminacci pur tormenti:contro i petti innocentisfoghi il crudel l’infuriata rabbia:di Cristo amante coresprezza ogni morte, e vince allor che more.Atto quintoScena primaGenerale de’ romani, Tribuno, coro di Soldati romani.<sp who="#coro di cristiani">
+            <speaker>CORO DI CRISTIANI:</speaker>
+            <l>O quali in quell’arena</l>
+            <l>spettacoli daranno,</l>
+            <l>quinci l’unno tiranno,</l>
+            <l>quindi l’eroe, che la bell’Anglia affrena,</l>
+            <l>quindi ognor più costante</l>
+            <l>la diletta di dio pudica amante?</l>
+            <l>Ogn’aspra tigra ircana,</l>
+            <l>ogni serpe, ogni fiera</l>
+            <l>della stigia riviera,</l>
+            <l>vincerà Gauno con la rabbia insana:</l>
+            <l>e sien di lui più giusti</l>
+            <l>Diomedi, Scironi, Atrei, Procusti.</l>
+            <l>Dalle fiamme d’Orfeo</l>
+            <l>il celebrato grido,</l>
+            <l>e l’altr’amor d’Abido</l>
+            <l>farà tacer l’innamorato Ireo,</l>
+            <l>per il bel volto, poco</l>
+            <l>parragli entrar nell’onde, entrar, nel foco.</l>
+            <l>Dall’altra parte accesa</l>
+            <l>d’invincibil zelo,</l>
+            <l>e da’ campion del cielo</l>
+            <l>verginella purissima difesa,</l>
+            <l>in mezzo al popol empio</l>
+            <l>fia d’alta pudicizia eterno esempio.</l>
+            <l>Ma d’ambedue la palma</l>
+            <l>ottenga la gentile,</l>
+            <l>che tema, ed amor vile</l>
+            <l>da sé sbandito, in dio beata ha l’alma:</l>
+            <l>ella il tiranno affrene,</l>
+            <l>e ‘l suo troppo amatore a dio rimene.</l>
+            <l>Santa, divina face,</l>
+            <l>che la bell’alma accendi,</l>
+            <l>or tu dal ciel discendi</l>
+            <l>in giovin troppo amante, e troppo audace;</l>
+            <l>tu col tuo foco spegni</l>
+            <l>face di paradiso, ardor men degni.</l>
+            <l>Oggi, a divino affetto</l>
+            <l>ceda desire umano:</l>
+            <l>e se spietata mano</l>
+            <l>dev’al regio garzon passare il petto,</l>
+            <l>non per mortal desio,</l>
+            <l>ma cada per l’onor dovuto a dio.</l>
+            <l>Deh, se coppia sì bella</l>
+            <l>non fia quaggiù consorte,</l>
+            <l>per generosa morte</l>
+            <l>risplenda su nel ciel gemina stella:</l>
+            <l>e in quei beati campi</l>
+            <l>di puro foco al sol di gloria avvampi.</l>
+            <l>Dall’orgogliose labbia</l>
+            <l>minacci pur tormenti:</l>
+            <l>contro i petti innocenti</l>
+            <l>sfoghi il crudel l’infuriata rabbia:</l>
+            <l>di Cristo amante core</l>
+            <l>sprezza ogni morte, e vince allor che more.</l>
+            <l>Atto quinto</l>
+            <l>Scena prima</l>
+            <l>Generale de’ romani, Tribuno, coro di Soldati romani.</l>
+          </sp>
+          <stage>CORO DI CRISTIANIO quali in quell’arenaspettacoli daranno,quinci l’unno tiranno,quindi l’eroe, che la bell’Anglia affrena,quindi ognor più costantela diletta di dio pudica amante?Ogn’aspra tigra ircana,ogni serpe, ogni fieradella stigia riviera,vincerà Gauno con la rabbia insana:e sien di lui più giustiDiomedi, Scironi, Atrei, Procusti.Dalle fiamme d’Orfeoil celebrato grido,e l’altr’amor d’Abidofarà tacer l’innamorato Ireo,per il bel volto, pocoparragli entrar nell’onde, entrar, nel foco.Dall’altra parte accesad’invincibil zelo,e da’ campion del cieloverginella purissima difesa,in mezzo al popol empiofia d’alta pudicizia eterno esempio.Ma d’ambedue la palmaottenga la gentile,che tema, ed amor vileda sé sbandito, in dio beata ha l’alma:ella il tiranno affrene,e ‘l suo troppo amatore a dio rimene.Santa, divina face,che la bell’alma accendi,or tu dal ciel discendiin giovin troppo amante, e troppo audace;tu col tuo foco spegniface di paradiso, ardor men degni.Oggi, a divino affettoceda desire umano:e se spietata manodev’al regio garzon passare il petto,non per mortal desio,ma cada per l’onor dovuto a dio.Deh, se coppia sì bellanon fia quaggiù consorte,per generosa morterisplenda su nel ciel gemina stella:e in quei beati campidi puro foco al sol di gloria avvampi.Dall’orgogliose labbiaminacci pur tormenti:contro i petti innocentisfoghi il crudel l’infuriata rabbia:di Cristo amante coresprezza ogni morte, e vince allor che more.Atto quintoScena primaGenerale de’ romani, Tribuno, coro di Soldati romani.</stage>
+          <sp who="#generale">
+            <speaker>GENERALE:</speaker>
+            <l>O della bella Italia, o del gran Tebro</l>
+            <l>invitti figli: al valor nostro è poco</l>
+            <l>difeso aver quel loco,</l>
+            <l>contro furor d’innumerabil campo:</l>
+            <l>da più degna vittoria.</l>
+            <l>Attendete guerrier più degna gloria.</l>
+            <l>Poscia che da barbarica fierezza</l>
+            <l>sospinto il fier tiranno,</l>
+            <l>fe’ profondi torrenti</l>
+            <l>correr del femminil sangue britanno;</l>
+            <l>acceso all’ammirabile bellezza</l>
+            <l>della regina loro,</l>
+            <l>cerca sol come possa</l>
+            <l>quel magnanimo cor rivolto a Dio,</l>
+            <l>volger al proprio suo folle desio.</l>
+            <l>Quindi in riva del Reno,</l>
+            <l>ad empi sacrifici,</l>
+            <l>e a vani amori intento</l>
+            <l>ebbro vaneggia, e ‘l guerreggiar non cura:</l>
+            <l>io dalle chiuse mura</l>
+            <l>nell’aperte campagne ora vi guido,</l>
+            <l>acciò sovra quel lido</l>
+            <l>tutta per le man vostre oppressa reste</l>
+            <l>l’abominata peste,</l>
+            <l>ch’ingombra di Germania i nobil regni.</l>
+            <l>Romani, or di voi degni</l>
+            <l>veggiansi i fatti: onde l’avversa gente</l>
+            <l>dall’armi vostre doma,</l>
+            <l>con suo gran danno impari</l>
+            <l>a riverire il sacro impero, e Roma.</l>
+          </sp>
+          <sp who="#tribuno">
+            <speaker>TRIBUNO:</speaker>
+            <l>Alla natia palude,</l>
+            <l>o vinto tornerassi il re superbo,</l>
+            <l>o sotto giogo acerbo</l>
+            <l>incatenato al trionfal tuo soglio,</l>
+            <l>fia spettacol’ altero al Campidoglio.</l>
+          </sp>
+          <sp who="#generale">
+            <speaker>GENERALE:</speaker>
+            <l>Spieghisi dunque in alto</l>
+            <l>la sacrosanta croce, e ‘l regio augello:</l>
+            <l>dien di battaglia il segno</l>
+            <l>ardite trombe in bellicosi carmi:</l>
+            <l>guerrieri all’armi, all’armi.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORO</head>All’armi, all’armi.Scena secondaCordula, coro di Cristiani.<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>All’armi, all’armi.</l>
+            <l>Scena seconda</l>
+            <l>Cordula, coro di Cristiani.</l>
+          </sp>
+          <stage>COROAll’armi, all’armi.Scena secondaCordula, coro di Cristiani.</stage>
+          <sp who="#cordula">
+            <speaker>CORDULA:</speaker>
+            <l>Dove corro infelice?</l>
+            <l>In qual antro mi celo</l>
+            <l>agl’occhi de’ mortali. Al sole, al cielo?</l>
+            <l>Qual cerco inabitata aspra pendice?</l>
+            <l>Ah, che dovunque io movo il mesto piede,</l>
+            <l>la tradita regina, e Dio mi vede.</l>
+            <l>Così Cordula vile,</l>
+            <l>così lasci l’insegna</l>
+            <l>di tua schiera gentile?</l>
+            <l>O troppo, troppo indegna</l>
+            <l>alla donna real d’esser compagna,</l>
+            <l>dal suo beato coro</l>
+            <l>qual sì basso timore, ahi, chi ti scompagna?</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Donzella, il passo arresta.</l>
+            <l>Qui vedi amica gente</l>
+            <l>non meno afflitta, e mesta:</l>
+            <l>dinne, per qual tua sorte</l>
+            <l>ti sottraesti al micidial furore?</l>
+          </sp>
+          <sp who="#cordula">
+            <speaker>CORDULA:</speaker>
+            <l>Per viltà, per timore.</l>
+            <l>Non fui degna di morte:</l>
+            <l>ma, lassa or c’ho veduta</l>
+            <l>in quel fiero terreno,</l>
+            <l>la diletta regina</l>
+            <l>da spietata saetta aperta il seno,</l>
+            <l>più non temo il morire, anzi lo bramo,</l>
+            <l>e morte, morte ad alte grida io chiamo.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>O spietata fierezza:</l>
+            <l>il fior delle regine,</l>
+            <l>il sol della bellezza,</l>
+            <l>la fenice d’Europa ebbe tal fine?</l>
+          </sp>
+          <sp who="#cordula">
+            <speaker>CORDULA:</speaker>
+            <l>Amici, ah non piangete</l>
+            <l>l’estrema sua magnanima partita:</l>
+            <l>piuttosto vi dolete,</l>
+            <l>che fra tanta viltade io resti in vita.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Fu divino volere,</l>
+            <l>che sola tu non rimanessi estinta,</l>
+            <l>per far a noi palese,</l>
+            <l>quanto soffrì tra dispietata gente,</l>
+            <l>per la fé del suo dio donna innocente.</l>
+          </sp>
+          <sp who="#cordula">
+            <speaker>CORDULA:</speaker>
+            <l>Il generoso ardire,</l>
+            <l>l’invincibil costanza, e la sua fede,</l>
+            <l>son contenta narrarvi, e poi morire.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Vedi come ciascuno</l>
+            <l>con lacrimose ciglia a te lo chiede.</l>
+          </sp>
+          <sp who="#cordula">
+            <speaker>CORDULA:</speaker>
+            <l>In solitaria parte</l>
+            <l>stavami ascosa, e ‘l vergognoso scampo</l>
+            <l>semiviva attendeva;</l>
+            <l>quando mirai di nuovo il fiero campo</l>
+            <l>tornar con alti gridi</l>
+            <l>d’una folle letizia, agl’empi lidi.</l>
+            <l>Venia la mia regina</l>
+            <l>tra l’orgogliosa gente,</l>
+            <l>sì nel volto ridente,</l>
+            <l>che ben esser parea a dio vicina:</l>
+            <l>nulla l’anima bella</l>
+            <l>movean lusinghe, o preghi,</l>
+            <l>o di certo morir fiera novella.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>O come, o come è vero,</l>
+            <l>che chi ben ama dio di nulla teme.</l>
+          </sp>
+          <sp who="#cordula">
+            <speaker>CORDULA:</speaker>
+            <l>Giunto il fiero tiranno ove si scorge</l>
+            <l>eretto a forza dea profano altare,</l>
+            <l>ivi qual è costume</l>
+            <l>della barbara Scizia,</l>
+            <l>ebro guidò carole</l>
+            <l>al simulacro dell’infame nume,</l>
+            <l>e profane cantò folli parole.</l>
+            <l>Finito il sacrifizio, e l’empia danza</l>
+            <l>baldanzoso si mosse, ove rivolto</l>
+            <l>al cielo, il core, e ‘l volto</l>
+            <l>la vergine real languiva in dio:</l>
+            <l>al tartareo desio</l>
+            <l>sciolse poi tanto il freno,</l>
+            <l>ch’a quel pudico seno</l>
+            <l>corse per avventar l’impure braccia:</l>
+            <l>parve ch’allor dalla divina faccia</l>
+            <l>saettasse per lei sdegnato il cielo</l>
+            <l>folgor di riverenza, e di timore:</l>
+            <l>dal celeste splendore</l>
+            <l>atterrito quell’empio</l>
+            <l>si trasse addietro, e in lei lo sguardo affiso,</l>
+            <l>che tutta ardendo in volto</l>
+            <l>di nobil’ira in guisa tal gli disse.</l>
+            <l>Stanne da me lontano</l>
+            <l>barbaro scellerato,</l>
+            <l>e non osar la temeraria mano</l>
+            <l>stender in questo corpo a dio sacrato.</l>
+            <l>Serva son io di Cristo, e sua consorte:</l>
+            <l>ti basti a darmi morte,</l>
+            <l>a mandarmi contenta al mio bel coro,</l>
+            <l>ch’i falsi dèi disprezzo, e Cristo adoro.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Generoso ardimento, e di te degno</l>
+            <l>purissima donzella,</l>
+            <l>fatta regina omai d’eterno regno.</l>
+          </sp>
+          <sp who="#cordula">
+            <speaker>CORDULA:</speaker>
+            <l>A’ magnanimi detti</l>
+            <l>l’orgoglioso tiranno accolse in seno</l>
+            <l>tutta l’ira d’Averno,</l>
+            <l>e delle furie la spietata rabbia:</l>
+            <l>gonfiò l’orrida labbia,</l>
+            <l>spirò da fieri lumi atro veleno</l>
+            <l>in sembiante feroce</l>
+            <l>curvando poscia l’arco,</l>
+            <l>parve il cielo atterrir con l’empia voce.</l>
+            <l>Or va’, femmina vile, or va’, le disse,</l>
+            <l>l’amor nostro disprezza,</l>
+            <l>oltraggia i nostri numi, e Cristo adora.</l>
+            <l>Amici udissi allora</l>
+            <l>sonar l’orribil arco,</l>
+            <l>e per l’aria volar l’acuto strale,</l>
+            <l>che sulle rapid’ale</l>
+            <l>giunto al candido seno, ivi s’immerse,</l>
+            <l>e ‘l puro cor aperse.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Crudeltade infinita:</l>
+            <l>o mansueta agnella,</l>
+            <l>quando cadde giammai</l>
+            <l>vittima al re del cielo così gradita.</l>
+          </sp>
+          <sp who="#cordula">
+            <speaker>CORDULA:</speaker>
+            <l>Cade la verginella</l>
+            <l>sovr’il suol genuflessa:</l>
+            <l>sparge il pudico sangue,</l>
+            <l>e come rosa langue,</l>
+            <l>da troppo ardore, o troppa pioggia oppressa.</l>
+            <l>Fur delle caste labbra</l>
+            <l>il nome di Gesù gl’estremi accenti:</l>
+            <l>i bei lumi ridenti,</l>
+            <l>si chiuser poscia: e dal beato velo</l>
+            <l>volò la nobil alma</l>
+            <l>di mortal guerra a trionfar nel cielo.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Felice lei, che seppe</l>
+            <l>cangiar lo scettro in sempiterna palma.</l>
+          </sp>
+          <sp who="#cordula">
+            <speaker>CORDULA:</speaker>
+            <l>Ahi, che mi par vedere,</l>
+            <l>che dall’eterna soglia</l>
+            <l>di me cercando, il divin guardo giri;</l>
+            <l>e se doler si puote, ora si doglia,</l>
+            <l>che me nel suo trionfo ella non miri,</l>
+            <l>o regina, o signora</l>
+            <l>attendi, attendi ancora</l>
+            <l>la tua Cordula amata,</l>
+            <l>riserba ancora a me la palma mia:</l>
+            <l>per l’istessa tua via</l>
+            <l>già ti seguo veloce,</l>
+            <l>già volo pronta alle celesti porte.</l>
+            <l>Alla morte, alla morte.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORO</head>Alle perfide squadre ella se n’ riede:o generosa emenda, o quanto puotein un’alma pentita ardor di fede.Scena terzaOrebo, coro di Cristiani.<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Alle perfide squadre ella se n’ riede:</l>
+            <l>o generosa emenda, o quanto puote</l>
+            <l>in un’alma pentita ardor di fede.</l>
+            <l>Scena terza</l>
+            <l>Orebo, coro di Cristiani.</l>
+          </sp>
+          <stage>COROAlle perfide squadre ella se n’ riede:o generosa emenda, o quanto puotein un’alma pentita ardor di fede.Scena terzaOrebo, coro di Cristiani.</stage>
+        </div>
+        <div type="scene">
+          <head>OREBO</head>Compagni udite, e date lodi a dio:mentre ch’inerme, e soloil vostro, il mio signore,animato dall’ira,e trafitto dal duolo,là se ne giva, ove credeva innantial superbo tirannoviva trovar la gloriosa duce;ecco ch’in un istantel’alma di lei beata,allor disciolta dal mortal suo velo,vibrando lampi d’infinita luce,gli rifulse dal cielo:e con amabil volto,e soave parlar di paradiso,tutt’il cor gl’ingombrò di santo zelo.Egli, venuto degnodi mirar l’ineffabile beltadefatta beata nell’eterna gioia,ogni affetto mortale ha preso a sdegno:arde solo nel cielo,e brama sol potereper la gloria di dio,cader trafitto in mezzo all’empie schiere.Ma vedete, ch’appuntoegli di qua se n’ viene,forse per dar a voi l’ultimo addio.Scena quartaIreo, Orebo, coro di Cristiani.<sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Compagni udite, e date lodi a dio:</l>
+            <l>mentre ch’inerme, e solo</l>
+            <l>il vostro, il mio signore,</l>
+            <l>animato dall’ira,</l>
+            <l>e trafitto dal duolo,</l>
+            <l>là se ne giva, ove credeva innanti</l>
+            <l>al superbo tiranno</l>
+            <l>viva trovar la gloriosa duce;</l>
+            <l>ecco ch’in un istante</l>
+            <l>l’alma di lei beata,</l>
+            <l>allor disciolta dal mortal suo velo,</l>
+            <l>vibrando lampi d’infinita luce,</l>
+            <l>gli rifulse dal cielo:</l>
+            <l>e con amabil volto,</l>
+            <l>e soave parlar di paradiso,</l>
+            <l>tutt’il cor gl’ingombrò di santo zelo.</l>
+            <l>Egli, venuto degno</l>
+            <l>di mirar l’ineffabile beltade</l>
+            <l>fatta beata nell’eterna gioia,</l>
+            <l>ogni affetto mortale ha preso a sdegno:</l>
+            <l>arde solo nel cielo,</l>
+            <l>e brama sol potere</l>
+            <l>per la gloria di dio,</l>
+            <l>cader trafitto in mezzo all’empie schiere.</l>
+            <l>Ma vedete, ch’appunto</l>
+            <l>egli di qua se n’ viene,</l>
+            <l>forse per dar a voi l’ultimo addio.</l>
+            <l>Scena quarta</l>
+            <l>Ireo, Orebo, coro di Cristiani.</l>
+          </sp>
+          <stage>OREBOCompagni udite, e date lodi a dio:mentre ch’inerme, e soloil vostro, il mio signore,animato dall’ira,e trafitto dal duolo,là se ne giva, ove credeva innantial superbo tirannoviva trovar la gloriosa duce;ecco ch’in un istantel’alma di lei beata,allor disciolta dal mortal suo velo,vibrando lampi d’infinita luce,gli rifulse dal cielo:e con amabil volto,e soave parlar di paradiso,tutt’il cor gl’ingombrò di santo zelo.Egli, venuto degnodi mirar l’ineffabile beltadefatta beata nell’eterna gioia,ogni affetto mortale ha preso a sdegno:arde solo nel cielo,e brama sol potereper la gloria di dio,cader trafitto in mezzo all’empie schiere.Ma vedete, ch’appuntoegli di qua se n’ viene,forse per dar a voi l’ultimo addio.Scena quartaIreo, Orebo, coro di Cristiani.</stage>
+          <sp who="#ireo">
+            <speaker>IREO:</speaker>
+            <l>È morta la mia vita:</l>
+            <l>anzi è luce novella</l>
+            <l>al più bel ciel salita.</l>
+            <l>Pur or la rimirai</l>
+            <l>tra le vaghe carole</l>
+            <l>di giovinetti alati,</l>
+            <l>vieppiù bella del sole</l>
+            <l>ascendere gl’immortal seggi beati.</l>
+            <l>Udii pur ora il suono</l>
+            <l>di sua dolce favella</l>
+            <l>biasmar dal cielo i miei terreni amori,</l>
+            <l>ed infonderm’al cor celesti ardori.</l>
+            <l>Degno solo di dio</l>
+            <l>eri, o beato volto,</l>
+            <l>e tropp’offesi io,</l>
+            <l>pura celeste stella,</l>
+            <l>ne’ miei bassi pensieri in terra involto.</l>
+            <l>Perdona anima bella</l>
+            <l>se troppo amai la tua caduca spoglia:</l>
+            <l>perdona a’ folli detti,</l>
+            <l>che sciolse il cor per disperata doglia:</l>
+            <l>or di più bel desio</l>
+            <l>avvampando nell’alma,</l>
+            <l>nella celeste tua cangiata forma</l>
+            <l>adoro solo il tuo fattore, e mio.</l>
+            <l>Sì, che seguir’ io voglio</l>
+            <l>quell’istesse bell’orme,</l>
+            <l>che tu pur or segnasti:</l>
+            <l>sì, che nel divin soglio</l>
+            <l>vo’ portar quella palma,</l>
+            <l>che tu pur or portasti:</l>
+            <l>o cara: o beat’alma</l>
+            <l>se non sdegnasti in vita</l>
+            <l>consolarmi talor di tue parole,</l>
+            <l>or dall’eterno sole</l>
+            <l>mandami un raggio di celeste aita,</l>
+            <l>onde da questa notte a te me n’ vole.</l>
+            <l>O cara, o beat’alma</l>
+            <l>ecco com’io conforme al tuo volere</l>
+            <l>il santo nome a confessar di Cristo</l>
+            <l>vo tra l’inique schiere.</l>
+            <l>Passi a me questo core</l>
+            <l>quella man dispietata,</l>
+            <l>che ti trafisse il seno:</l>
+            <l>beato venir meno,</l>
+            <l>dolce sorte beata,</l>
+            <l>s’avverrà, che per merto</l>
+            <l>del tuo pudico sangue,</l>
+            <l>gradisca il re del cielo il morir mio.</l>
+            <l>O padre, o regno addio.</l>
+            <l>Addio fedeli amici:</l>
+            <l>non sia di voi chi vieti</l>
+            <l>al suo caro signore opra sì pia,</l>
+            <l>che ‘l vietarmi il morire</l>
+            <l>con ingiusta pietade,</l>
+            <l>sarebbe tormi un immortal gioire.</l>
+            <l>Voi, (se mai libertade</l>
+            <l>da squadre avrete di pietà rubelle)</l>
+            <l>là nel paterno lido,</l>
+            <l>dite al mio genitor, che più bel regno</l>
+            <l>m’han donato le stelle,</l>
+            <l>e ch’in soglio di gloria ivi m’affido.</l>
+            <l>Io, qui vi lascio amici,</l>
+            <l>e seguo, ove mi chiama, ardente zelo:</l>
+            <l>vivete voi felici,</l>
+            <l>né piangete per me, ch’io volo in cielo.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Dove ne lasci soli,</l>
+            <l>o nostra amata guida?</l>
+            <l>Chi senza te n’aita, e chi n’affida?</l>
+            <l>Ma se voce di dio</l>
+            <l>è quella, che ti chiama,</l>
+            <l>segui signor tua brama,</l>
+            <l>ch’io non so ritardar ardor sì pio:</l>
+            <l>addio signor, dolce signor addio.</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Ohimè, ch’il fier tiranno, il crudo mostro</l>
+            <l>nuda tenendo in man la fiera spada</l>
+            <l>se n’ vien da questa parte:</l>
+            <l>ohimè, ch’appunto incontra il signor nostro:</l>
+            <l>ahi con quanto furore</l>
+            <l>verso di lui si move?</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Vedete come le ginocchia a terra</l>
+            <l>posto il real garzone,</l>
+            <l>con magnanima voce</l>
+            <l>si palesa di Cristo,</l>
+            <l>esser vero seguace.</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Oh dio, di quanta rabbia</l>
+            <l>freme quel crudo all’odiato nome?</l>
+            <l>Ah, che sovra gli corre:</l>
+            <l>ah, che per l’auree chiome</l>
+            <l>prende il bel giovinetto,</l>
+            <l>e la spada crudel gli passa il petto.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Questo novello scempio</l>
+            <l>ancor sopporti, o terra,</l>
+            <l>e non tranghiotti l’empio?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>OREBO</head>O spettacolo atroce,vedete come calcaquella rabbiosa fiera il regio volto:eccolo a noi rivolto:compagni, armiam di fede,armiam di fede il seno:incontriamo ogni sortedi tormento, e di morte,che vive eterno chi per dio vien meno.Scena quintaGauno, Orebo, coro di Cristiani.<sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>O spettacolo atroce,</l>
+            <l>vedete come calca</l>
+            <l>quella rabbiosa fiera il regio volto:</l>
+            <l>eccolo a noi rivolto:</l>
+            <l>compagni, armiam di fede,</l>
+            <l>armiam di fede il seno:</l>
+            <l>incontriamo ogni sorte</l>
+            <l>di tormento, e di morte,</l>
+            <l>che vive eterno chi per dio vien meno.</l>
+            <l>Scena quinta</l>
+            <l>Gauno, Orebo, coro di Cristiani.</l>
+          </sp>
+          <stage>OREBOO spettacolo atroce,vedete come calcaquella rabbiosa fiera il regio volto:eccolo a noi rivolto:compagni, armiam di fede,armiam di fede il seno:incontriamo ogni sortedi tormento, e di morte,che vive eterno chi per dio vien meno.Scena quintaGauno, Orebo, coro di Cristiani.</stage>
+          <sp who="#gauno">
+            <speaker>GAUNO:</speaker>
+            <l>Così vada qualunque</l>
+            <l>segue di Cristo il detestato nome:</l>
+            <l>vada come quel folle,</l>
+            <l>che giace là dal ferro mio trafitto:</l>
+            <l>ma dove, o Gauno invitto,</l>
+            <l>dove son le tue tante armate genti?</l>
+            <l>Dov’il campo infinito, onde pur ora</l>
+            <l>minacciavi le stelle, e gl’elementi?</l>
+            <l>Ah, che mentre tu feri</l>
+            <l>femmina vile, ed uomo inerme, e solo,</l>
+            <l>l’orgoglioso nemico, i tuoi guerrieri,</l>
+            <l>t’ancide a stuolo, a stuolo.</l>
+            <l>Trionfa nazareno, hai vinto, hai vinto:</l>
+            <l>sovra quel lido estinto</l>
+            <l>tutto giace il mio campo:</l>
+            <l>ed io che volger feci</l>
+            <l>a tutt’Europa il tergo,</l>
+            <l>io con indegna fuga</l>
+            <l>da’ feroci romani appena scampo.</l>
+            <l>Ahi, che serpi, che furie al cor mi sento?</l>
+            <l>Qual fiamma mi circonda?</l>
+            <l>Chi mi sgrida dal ciel, chi mi flagella?</l>
+            <l>Sei tu cruda donzella:</l>
+            <l>Orsola certo sei,</l>
+            <l>che lo stral che t’ancise,</l>
+            <l>mostri di fulminare agl’occhi miei.</l>
+            <l>Or contr’a me discendi,</l>
+            <l>venga meco a battaglia</l>
+            <l>il tuo Cristo, il tuo dio,</l>
+            <l>e vegga chi più vaglia,</l>
+            <l>l’odiata sua croce, o ‘l ferro mio.</l>
+            <l>Qui per l’orrenda bestemmia cade un fulmine sopra il Re, e la terra l’inghiotte, cade ancora fulminato il tempio di Marte, e l’idolo va in pezzi.</l>
+          </sp>
+          <stage>GAUNOCosì vada qualunquesegue di Cristo il detestato nome:vada come quel folle,che giace là dal ferro mio trafitto:ma dove, o Gauno invitto,dove son le tue tante armate genti?Dov’il campo infinito, onde pur oraminacciavi le stelle, e gl’elementi?Ah, che mentre tu ferifemmina vile, ed uomo inerme, e solo,l’orgoglioso nemico, i tuoi guerrieri,t’ancide a stuolo, a stuolo.Trionfa nazareno, hai vinto, hai vinto:sovra quel lido estintotutto giace il mio campo:ed io che volger fecia tutt’Europa il tergo,io con indegna fugada’ feroci romani appena scampo.Ahi, che serpi, che furie al cor mi sento?Qual fiamma mi circonda?Chi mi sgrida dal ciel, chi mi flagella?Sei tu cruda donzella:Orsola certo sei,che lo stral che t’ancise,mostri di fulminare agl’occhi miei.Or contr’a me discendi,venga meco a battagliail tuo Cristo, il tuo dio,e vegga chi più vaglia,l’odiata sua croce, o ‘l ferro mio.Qui per l’orrenda bestemmia cade un fulmine sopra il Re, e la terra l’inghiotte, cade ancora fulminato il tempio di Marte, e l’idolo va in pezzi.</stage>
+        </div>
+        <div type="scene">
+          <head>OREBO</head>O divina vendetta:scesa sull’empia frontegiustissima saetta,di natura, e del ciel vendicò l’onte.Dov’è l’iniquo corpo? Ah che la terra,a quel fiero rimbombo il grembo apertol’ha tranghiottito entro gl’orrendi abissi.Purgasti pur il soled’oggetto tanto immondo:sgravasti pur la terradi sì noioso affanno,scellerato tiranno,peste della natura, odio del mondo.Va’ nella reggia elettaa’ tuoi misfatti atroci:va’ da dio maledettanel più profondo centro anima infida!Ivi durino tantoi dovuti tormenti, e le tue strida,quanto d’Orsola in ciel la gioia, e ‘l canto.Scena sestaCenturione romano, Orebo, coro di Cristiani.<sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>O divina vendetta:</l>
+            <l>scesa sull’empia fronte</l>
+            <l>giustissima saetta,</l>
+            <l>di natura, e del ciel vendicò l’onte.</l>
+            <l>Dov’è l’iniquo corpo? Ah che la terra,</l>
+            <l>a quel fiero rimbombo il grembo aperto</l>
+            <l>l’ha tranghiottito entro gl’orrendi abissi.</l>
+            <l>Purgasti pur il sole</l>
+            <l>d’oggetto tanto immondo:</l>
+            <l>sgravasti pur la terra</l>
+            <l>di sì noioso affanno,</l>
+            <l>scellerato tiranno,</l>
+            <l>peste della natura, odio del mondo.</l>
+            <l>Va’ nella reggia eletta</l>
+            <l>a’ tuoi misfatti atroci:</l>
+            <l>va’ da dio maledetta</l>
+            <l>nel più profondo centro anima infida!</l>
+            <l>Ivi durino tanto</l>
+            <l>i dovuti tormenti, e le tue strida,</l>
+            <l>quanto d’Orsola in ciel la gioia, e ‘l canto.</l>
+            <l>Scena sesta</l>
+            <l>Centurione romano, Orebo, coro di Cristiani.</l>
+          </sp>
+          <stage>OREBOO divina vendetta:scesa sull’empia frontegiustissima saetta,di natura, e del ciel vendicò l’onte.Dov’è l’iniquo corpo? Ah che la terra,a quel fiero rimbombo il grembo apertol’ha tranghiottito entro gl’orrendi abissi.Purgasti pur il soled’oggetto tanto immondo:sgravasti pur la terradi sì noioso affanno,scellerato tiranno,peste della natura, odio del mondo.Va’ nella reggia elettaa’ tuoi misfatti atroci:va’ da dio maledettanel più profondo centro anima infida!Ivi durino tantoi dovuti tormenti, e le tue strida,quanto d’Orsola in ciel la gioia, e ‘l canto.Scena sestaCenturione romano, Orebo, coro di Cristiani.</stage>
+          <sp who="#centurione">
+            <speaker>CENTURIONE:</speaker>
+            <l>Libertà, libertà, misere genti:</l>
+            <l>ha vinto il roman duce,</l>
+            <l>son gl’unni in tutto spenti,</l>
+            <l>libertà, libertà, misere genti:</l>
+            <l>sentite il latin campo</l>
+            <l>pien di preda, e di gloria</l>
+            <l>di lietissimo suon ferir le stelle:</l>
+            <l>io, dell’alta vittoria</l>
+            <l>in Colonia me n’ volo a dar novelle.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Verrà, verrà quel giorno</l>
+            <l>cari paterni tetti,</l>
+            <l>che noi liete facciamo a voi ritorno?</l>
+            <l>Quando vi mireremo amati porti?</l>
+            <l>Quando vi stringerem figli, e consorti?</l>
+          </sp>
+          <sp who="#orebo">
+            <speaker>OREBO:</speaker>
+            <l>Ecco le squadre amiche:</l>
+            <l>altri dietro si trae le vinte insegne,</l>
+            <l>altri porta in trionfo elmi, e loriche.</l>
+            <l>Vedete il nobil duce</l>
+            <l>ornato il crin di meritato alloro,</l>
+            <l>altero fiammeggiar tra l’ostro, e l’oro.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORO</head>Ecco dall’altra parte:e d’olivo, e di fior cinti la fronteincontro a’ vincitorida Colonia venire allegri cori,e risonar vittoria il lido, e ‘l monte.Scena settimaCoro di Soldati romani, coro di Nobili di Colonia, Generale de’ romani.<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Ecco dall’altra parte:</l>
+            <l>e d’olivo, e di fior cinti la fronte</l>
+            <l>incontro a’ vincitori</l>
+            <l>da Colonia venire allegri cori,</l>
+            <l>e risonar vittoria il lido, e ‘l monte.</l>
+            <l>Scena settima</l>
+            <l>Coro di Soldati romani, coro di Nobili di Colonia, Generale de’ romani.</l>
+          </sp>
+          <stage>COROEcco dall’altra parte:e d’olivo, e di fior cinti la fronteincontro a’ vincitorida Colonia venire allegri cori,e risonar vittoria il lido, e ‘l monte.Scena settimaCoro di Soldati romani, coro di Nobili di Colonia, Generale de’ romani.</stage>
+          <sp who="#coro di soldati romani">
+            <speaker>CORO DI SOLDATI ROMANI:</speaker>
+            <l>Viva il Tebro, Italia viva:</l>
+            <l>del mio duce il chiaro nome</l>
+            <l>voli omai di riva in riva.</l>
+            <l>Cinga la pace il crin di lieta oliva.</l>
+          </sp>
+          <sp who="#coro di nobili di colonia">
+            <speaker>CORO DI NOBILI DI COLONIA:</speaker>
+            <l>Piango Meoti</l>
+            <l>d’ogni suo figli</l>
+            <l>i lidi voti:</l>
+            <l>tutto vermiglio</l>
+            <l>al mare in seno</l>
+            <l>trascorre il Reno.</l>
+          </sp>
+          <sp who="#coro di soldati romani">
+            <speaker>CORO DI SOLDATI ROMANI:</speaker>
+            <l>Su figli spenti</l>
+            <l>svellan la chioma</l>
+            <l>madri dolenti:</l>
+            <l>festeggi Roma,</l>
+            <l>e ‘l Tebro suone</l>
+            <l>palme, e corone.</l>
+          </sp>
+          <sp who="#generale">
+            <speaker>GENERALE:</speaker>
+            <l>Fortissimi guerrier, s’in quella riva</l>
+            <l>da così poche squadre</l>
+            <l>esercito infinito oggi cadeo,</l>
+            <l>vostra pietade ascriva</l>
+            <l>alle sante donzelle</l>
+            <l>là per Cristo trafitte,</l>
+            <l>ogni nostra vittoria, ogni trofeo.</l>
+            <l>Io stesso, io stesso vidi</l>
+            <l>su ne’ campi immortali</l>
+            <l>schierate le castissime guerriere,</l>
+            <l>dalle gole innocenti</l>
+            <l>trarsi gl’acuti strali,</l>
+            <l>e quelli riversar sull’empie genti.</l>
+            <l>Questo che ‘l crin mi cinge altero alloro,</l>
+            <l>io da te riconosco</l>
+            <l>bella duce immortal del casto coro.</l>
+            <l>Grato a tanta mercé, dell’alte spoglie</l>
+            <l>da’ miei forti romani al popol’ empio</l>
+            <l>ritolte in nobil guerra,</l>
+            <l>a te giuro sacrar sublime tempio,</l>
+            <l>e ‘l tuo nome adorar prostrato a terra.</l>
+          </sp>
+          <sp who="#coro di soldati romani">
+            <speaker>CORO DI SOLDATI ROMANI:</speaker>
+            <l>Viva il Tebro, Italia viva:</l>
+            <l>del mio duce il chiaro nome</l>
+            <l>voli, omai di riva, in riva.</l>
+          </sp>
+          <sp who="#coro di nobili di colonia">
+            <speaker>CORO DI NOBILI DI COLONIA:</speaker>
+            <l>Cinga la pace il crin di lieta oliva.</l>
+          </sp>
+          <sp who="#generale">
+            <speaker>GENERALE:</speaker>
+            <l>Ite, voi che in Colonia albergo avete</l>
+            <l>popoli liberati:</l>
+            <l>ite, e fia vostra cura</l>
+            <l>ornare i patrii tempi</l>
+            <l>degli sparsi cadaveri beati.</l>
+            <l>Riposi il mortal vostro</l>
+            <l>sacrosante donzelle in quelle mura:</l>
+            <l>ivi, tra gl’odorati arabi fiumi,</l>
+            <l>e tra divine lodi,</l>
+            <l>ardan’ a’ vostri altari eterne faci,</l>
+            <l>e siate contr’a’ barbari rapaci</l>
+            <l>dell’imperio roman fide custodi.</l>
+          </sp>
+          <sp who="#coro di soldati romani">
+            <speaker>CORO DI SOLDATI ROMANI:</speaker>
+            <l>Viva il Tebro, Italia viva:</l>
+            <l>del mio duce il chiaro nome</l>
+            <l>voli, omai di riva, in riva.</l>
+          </sp>
+          <sp who="#coro di nobili di colonia">
+            <speaker>CORO DI NOBILI DI COLONIA:</speaker>
+            <l>Cinga la pace il crin di lieta oliva.</l>
+            <l>Qui per applauso della vittoria fu ballato da nobilissimi cavalieri della corte di Toscana, rappresentando parte di loro, Soldati Romani, e parte, Nobili di Colonia. Cangiossi di poi la scena in un bellissimo paradiso, dove in mezzo alle sue sante vergini, e tra cori di santi martiri fu vista trionfar Sant’Orsola.</l>
+            <l>Trionfo di Sant’Orsola in cielo, Coro di Santi Martiri, Sant’Orsola.</l>
+          </sp>
+          <stage>CORO DI NOBILI DI COLONIACinga la pace il crin di lieta oliva.Qui per applauso della vittoria fu ballato da nobilissimi cavalieri della corte di Toscana, rappresentando parte di loro, Soldati Romani, e parte, Nobili di Colonia. Cangiossi di poi la scena in un bellissimo paradiso, dove in mezzo alle sue sante vergini, e tra cori di santi martiri fu vista trionfar Sant’Orsola.Trionfo di Sant’Orsola in cielo, Coro di Santi Martiri, Sant’Orsola.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Vieni alle piagge immortalmente belle,</l>
+            <l>o sol di castitade</l>
+            <l>intorno cinto di pudiche stelle.</l>
+            <l>Questi soavi canti</l>
+            <l>spiegan i pregi della tua vittoria:</l>
+            <l>alla più alta gloria</l>
+            <l>vieni, o bramata dagl’eterni amanti,</l>
+            <l>e nel divino amore</l>
+            <l>appaga il guardo, e fa beato il core.</l>
+          </sp>
+          <sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>O bei campi delle stelle</l>
+            <l>ingemmati di zaffiro,</l>
+            <l>a voi vengo, e tra voi spiro</l>
+            <l>luminose anime belle.</l>
+            <l>Deh quai festeggiano</l>
+            <l>schiere divine?</l>
+            <l>Deh quai lampeggiano</l>
+            <l>raggi al mio crine?</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Vieni alle piagge immortalmente belle,</l>
+            <l>o sol di castitade</l>
+            <l>intorno cinto di pudiche stelle.</l>
+          </sp>
+          <sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>Sommo bene, eterno dio,</l>
+            <l>in qual gloria ora mi veggio?</l>
+            <l>Pur ti godo, e ti vagheggio</l>
+            <l>dolce fin del mio desio.</l>
+            <l>Deh qual circondami</l>
+            <l>beato lume?</l>
+            <l>Deh qual inondami</l>
+            <l>di gioia fiume?</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Vieni, o bramata dagli eterni amanti,</l>
+            <l>e nel divino amore</l>
+            <l>appaga il guardo, e fa’ beato il core.</l>
+          </sp>
+          <sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>Qual tu sei senz’alcun velo</l>
+            <l>puro sol di paradiso</l>
+            <l>ti contemplo, e in te m’affiso</l>
+            <l>alma luce, amor del cielo.</l>
+            <l>Deh sempre accendimi</l>
+            <l>mio divo amore?</l>
+            <l>Deh sempre splendimi</l>
+            <l>sol del mio core.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Vieni alle piagge immortalmente belle,</l>
+            <l>o sol di castitade</l>
+            <l>intorno cinto di pudiche stelle.</l>
+          </sp>
+          <sp who="#sant’orsola">
+            <speaker>SANT’ORSOLA:</speaker>
+            <l>Piaghe mie, beate piaghe,</l>
+            <l>pegni eterni di mia fede,</l>
+            <l>qual si porge a voi mercede</l>
+            <l>piaghe mie del sol più vaghe?</l>
+            <l>O morte amabile,</l>
+            <l>o mio cordoglio,</l>
+            <l>per voi mirabile</l>
+            <l>nel cielo ho soglio.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Vieni, bramata dagl’eterni amanti,</l>
+            <l>e nel divino amore</l>
+            <l>appaga il guardo, e fa’ beato il core.</l>
+            <l>Fine del libretto.</l>
+          </sp>
+          <stage>COROVieni, bramata dagl’eterni amanti,e nel divino amoreappaga il guardo, e fa’ beato il core.Fine del libretto.</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

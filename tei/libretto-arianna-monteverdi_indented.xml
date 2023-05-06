@@ -1,0 +1,1583 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">’Arianna</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="arianna">
+            <persName>ARIANNA:</persName>
+          </person>
+          <person xml:id="amore">
+            <persName>AMORE:</persName>
+          </person>
+          <person xml:id="teseo">
+            <persName>TESEO:</persName>
+          </person>
+          <person xml:id="giove">
+            <persName>GIOVE:</persName>
+          </person>
+          <person xml:id="nunzio secondo">
+            <persName>NUNZIO SECONDO:</persName>
+          </person>
+          <person xml:id="dorilla">
+            <persName>DORILLA:</persName>
+          </person>
+          <person xml:id="bacco">
+            <persName>BACCO:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="consigliero">
+            <persName>CONSIGLIERO:</persName>
+          </person>
+          <person xml:id="venere">
+            <persName>VENERE:</persName>
+          </person>
+          <person xml:id="messaggero">
+            <persName>MESSAGGERO:</persName>
+          </person>
+          <person xml:id="nunzio primo">
+            <persName>NUNZIO PRIMO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Non chieggio no, ch’alcun per me sospiri,</l>
+        <l>o celeste, o mortale;</l>
+        <l>odi quel, ch’io desiri,</l>
+        <l>bel pargoletto, odi il voler di Giove,</l>
+        <l>e la face immortale,</l>
+        <l>e l’arco appresta a gloriose prove.</l>
+      </sp>
+      <sp who="#amore">
+        <speaker>AMORE:</speaker>
+        <l>Soverchio è, bella madre, ogn’altro impero,</l>
+        <l>ove dolce lusinghi, e dolce preghi,</l>
+        <l>ecco pronto al tuo dir l’arco, e l’arciero.</l>
+      </sp>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Non chiuderà ne l’onde</l>
+        <l>Febo il carro immortal de l’aurea luce,</l>
+        <l>figlio, ch’in queste sponde</l>
+        <l>l’ancore fermerà l’inclito duce,</l>
+        <l>che da l’orror del cieco laberinto</l>
+        <l>trasse l’invitte piante,</l>
+        <l>lasciato il mostro rio su l’erba estinto.</l>
+      </sp>
+      <sp who="#amore">
+        <speaker>AMORE:</speaker>
+        <l>Qual destin qual vaghezza</l>
+        <l>Teseo qui tragge, o qual di gloria spene?</l>
+      </sp>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Vago di riveder l’inclita Atene</l>
+        <l>trionfator giocondo,</l>
+        <l>con cento legni, e cento</l>
+        <l>solca l’umido suol del mar profondo.</l>
+        <l>Seco è del re dolente</l>
+        <l>la fuggitiva figlia,</l>
+        <l>che di gran foco accesa,</l>
+        <l>(o d’amoroso cor gentil pietade)</l>
+        <l>reselo vincitor ne l’alta impresa.</l>
+      </sp>
+      <sp who="#amore">
+        <speaker>AMORE:</speaker>
+        <l>Tutto m’è noto, e tutto</l>
+        <l>opra è del mio valor quant’a dir prendi.</l>
+      </sp>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Or sappi figlio, e di pietà t’accendi,</l>
+        <l>che la real donzella</l>
+        <l>priva d’ogni speranza</l>
+        <l>qui lascerà dolente,</l>
+        <l>sì ne l’altera mente</l>
+        <l>desio di mortal fasto avrà possanza.</l>
+        <l>Quanti sospiri, o quanti</l>
+        <l>quest’aere, e questo cielo</l>
+        <l>udrà querele, e pianti;</l>
+        <l>o di che strid’amare</l>
+        <l>oggi risoneran gli scogli, e ‘l mare.</l>
+      </sp>
+      <sp who="#amore">
+        <speaker>AMORE:</speaker>
+        <l>Non sian senza ragion lagrim’e strida,</l>
+        <l>s’in così fero inganno</l>
+        <l>traboccar deve alma innocente, e fida.</l>
+      </sp>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Ma di’, speranza mia, dimmelo Amore;</l>
+        <l>lascerai tu languire,</l>
+        <l>lascerai tu morire</l>
+        <l>anima sì gentil, sì fido core?</l>
+        <l>Chiuderan questi scogli, e queste arene</l>
+        <l>tenera verginella,</l>
+        <l>de l’alto impero tuo devota ancella?</l>
+      </sp>
+      <sp who="#amore">
+        <speaker>AMORE:</speaker>
+        <l>Ah non si narri mai, non sia mai vero,</l>
+        <l>che sì dura mercede</l>
+        <l>trovi servo fedel nel nostro impero;</l>
+        <l>raddoppierogli al cor lacci, e catene,</l>
+        <l>farò più cupa ancor l’aspra ferita,</l>
+        <l>di maggior foco gl’empierò le vene,</l>
+        <l>e faccia poi se può da lei partita.</l>
+      </sp>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Partasi Teseo pur, parta, e s’involi</l>
+        <l>da la negletta sposa,</l>
+        <l>purché tu la soccorra, e la consoli.</l>
+      </sp>
+      <sp who="#amore">
+        <speaker>AMORE:</speaker>
+        <l>Di quest’ardente face,</l>
+        <l>di quest’invitti strali,</l>
+        <l>dispon pur madre mia com’a te piace.</l>
+      </sp>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Pria, che ne l’oceano</l>
+        <l>spenga diman gl’ardenti raggi il sole,</l>
+        <l>qui spingeranno i venti il gran tebano,</l>
+        <l>di Semele, e di Giove inclita prole;</l>
+        <l>sì fermo è su ne l’immortal consiglio,</l>
+        <l>e già d’Atlante il figlio</l>
+        <l>de l’orrida caverna in su la foce,</l>
+        <l>al re che Borea affrena,</l>
+        <l>fatto ha sentir l’incontrastabil voce.</l>
+        <l>Tu, com’ei ponga il piè su quest’arena,</l>
+        <l>colmale Amor di sì gran fiamm’il petto</l>
+        <l>per la bella Arianna,</l>
+        <l>che sol speri per lei pace e diletto;</l>
+        <l>né di cotanto amante</l>
+        <l>sprezzi la nobil donna il bel desio,</l>
+        <l>sì che d’ogn’altro amor le giunga oblio.</l>
+      </sp>
+      <sp who="#amore">
+        <speaker>AMORE:</speaker>
+        <l>Sia pur tuo cor sicuro,</l>
+        <l>arderà fiamm’egual d’entrambi il seno,</l>
+        <l>Amor io sono, e per quest’arco il giuro.</l>
+      </sp>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Per sì bel nodo, Amor, quante bell’alme</l>
+        <l>dopo trionfi, e palme</l>
+        <l>faran più bello, e luminoso il cielo?</l>
+        <l>Già già negl’alti campi</l>
+        <l>scorgo tra raggi, e lampi</l>
+        <l>formar gemme immortali aurea corona;</l>
+        <l>ma qual per l’aria suona,</l>
+        <l>e di voci, e di trombe altero grido?</l>
+      </sp>
+      <sp who="#amore">
+        <speaker>AMORE:</speaker>
+        <l>O quanti legni, o quanti,</l>
+        <l>gira i begl’occhi al lido:</l>
+        <l>deh mira, se non pare</l>
+        <l>in selvoso appennin cangiato il mare!</l>
+      </sp>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Ah riconosch’io ben l’insegne altere:</l>
+        <l>ecco il greco campion, quegli è Teseo.</l>
+        <l>Oh quante, oh quante schiere,</l>
+        <l>di ferro adorne, e gravi,</l>
+        <l>seco scendono, Amor, da l’alte navi.</l>
+      </sp>
+      <sp who="#amore">
+        <speaker>AMORE:</speaker>
+        <l>Mira, che vaghe piume,</l>
+        <l>ornan l’altere fronti;</l>
+        <l>mira di che bel lume</l>
+        <l>ripercossi dal sol, splendon gli scudi.</l>
+      </sp>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Ecco, ch’il nobil duce</l>
+        <l>già posto ha in terra i piedi;</l>
+        <l>no ‘l vedi, Amor, no ‘l vedi?</l>
+      </sp>
+      <sp who="#amore">
+        <speaker>AMORE:</speaker>
+        <l>Tra così folte squadre</l>
+        <l>non so vederlo ancora;</l>
+        <l>deh me l’addita, o madre.</l>
+      </sp>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Vedil’Amor, che verso noi se n’ viene,</l>
+        <l>d’ostro lucente, e d’oro</l>
+        <l>vedi la bella sposa,</l>
+        <l>che sul robusto braccio egli sostiene.</l>
+        <l>O con quanto decoro</l>
+        <l>move il leggiadro piè bella, e pensosa.</l>
+      </sp>
+      <sp who="#amore">
+        <speaker>AMORE:</speaker>
+        <l>O di che bel seren quel ciglio splende;</l>
+        <l>già già di sua sventura</l>
+        <l>e disdegno, e pietà nel cor mi scende.</l>
+      </sp>
+      <sp who="#venere">
+        <speaker>VENERE:</speaker>
+        <l>Tu dunque di bearla Amor procura,</l>
+        <l>io nel mar tratterommi, o qui d’intorno.</l>
+      </sp>
+      <div type="scene">
+        <head>AMORE</head>Et io per trarr’a fin la bella impresa,invisibil tra lor farò soggiorno.Scena terzaTeseo, Arianna, Consigliero, e coro di Soldati.COROSe d’Ismeno in su la riva,per ornar d’Alcide i vanti,fa sentir celesti canti,nobil suon di cetra argiva.Non fia già, che muta Atene,del buon re taccia gl’allori;canteran cigni canori,canteran ninfe, e sirene.E diran, ch’invitto, e fortelasciò spento il mostro fero,e che fuor del rio sentieroper uscir trovò le porte.<sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>Et io per trarr’a fin la bella impresa,</l>
+          <l>invisibil tra lor farò soggiorno.</l>
+          <l>Scena terza</l>
+          <l>Teseo, Arianna, Consigliero, e coro di Soldati.</l>
+          <l>CORO</l>
+          <l>Se d’Ismeno in su la riva,</l>
+          <l>per ornar d’Alcide i vanti,</l>
+          <l>fa sentir celesti canti,</l>
+          <l>nobil suon di cetra argiva.</l>
+          <l>Non fia già, che muta Atene,</l>
+          <l>del buon re taccia gl’allori;</l>
+          <l>canteran cigni canori,</l>
+          <l>canteran ninfe, e sirene.</l>
+          <l>E diran, ch’invitto, e forte</l>
+          <l>lasciò spento il mostro fero,</l>
+          <l>e che fuor del rio sentiero</l>
+          <l>per uscir trovò le porte.</l>
+        </sp>
+        <stage>AMOREEt io per trarr’a fin la bella impresa,invisibil tra lor farò soggiorno.Scena terzaTeseo, Arianna, Consigliero, e coro di Soldati.COROSe d’Ismeno in su la riva,per ornar d’Alcide i vanti,fa sentir celesti canti,nobil suon di cetra argiva.Non fia già, che muta Atene,del buon re taccia gl’allori;canteran cigni canori,canteran ninfe, e sirene.E diran, ch’invitto, e fortelasciò spento il mostro fero,e che fuor del rio sentieroper uscir trovò le porte.</stage>
+        <sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Fortissimi guerrieri,</l>
+          <l>o de gl’affanni, o de gl’onor compagni,</l>
+          <l>non lungi è il dì, che di bel pregio alteri</l>
+          <l>stringeretevi al sen figli, e consorti,</l>
+          <l>e lieti mirerem tra risi, e giochi</l>
+          <l>(elmi disciolti, e scudi)</l>
+          <l>girsene il fumo al ciel de’ patrii fochi.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Iº</l>
+          <l>Dolce i teneri figli,</l>
+          <l>dolce sposa gentil raccorsi in seno;</l>
+          <l>ma dolce ancor non meno</l>
+          <l>per bellissimo onor rischi, e perigli.</l>
+          <l>IIº</l>
+          <l>Ove più ferve il cielo,</l>
+          <l>ove più il mar s’inscoglia,</l>
+          <l>ov’ha più duro gelo,</l>
+          <l>scerrine pur s’alto desio t’invoglia.</l>
+        </sp>
+        <stage>COROIºDolce i teneri figli,dolce sposa gentil raccorsi in seno;ma dolce ancor non menoper bellissimo onor rischi, e perigli.IIºOve più ferve il cielo,ove più il mar s’inscoglia,ov’ha più duro gelo,scerrine pur s’alto desio t’invoglia.</stage>
+        <sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Assai sofferto abbiam turbi, e procelle,</l>
+          <l>tempo è di ricovrar guerrieri eletti</l>
+          <l>sott’i paterni tetti,</l>
+          <l>tra feste, e pompe gloriose, e belle.</l>
+        </sp>
+        <sp who="#consigliero">
+          <speaker>CONSIGLIERO:</speaker>
+          <l>Langue mortal virtù se non ha posa</l>
+          <l>dopo i forti sudori,</l>
+          <l>e se non cinge il crin d’edre, e d’allori,</l>
+          <l>le vittorie disprezza alma sdegnosa.</l>
+        </sp>
+        <sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Itene al porto voi de curvi abeti</l>
+          <l>sia vostro il pondo, e de l’armate genti</l>
+          <l>io fin che l’ombre algenti</l>
+          <l>fuggano al saettar de’ lampi d’oro,</l>
+          <l>con la diletta sposa</l>
+          <l>in terra prenderò posa, e ristoro.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Sian lieti, sian felici</l>
+          <l>i dolci sonni, e più tranquilli ancora</l>
+          <l>destivi in sul mattin la bell’aurora,</l>
+          <l>andianne al porto omai, venite amici.</l>
+        </sp>
+        <sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Quai segni di timor nel tuo bel volto,</l>
+          <l>veggio, o parmi vedere, o core, o vita?</l>
+          <l>Deh rasserena omai</l>
+          <l>l’alma beltà smarrita;</l>
+          <l>tosto vedrai de la famosa Atene</l>
+          <l>le gloriose mura, e gl’aurei tempi,</l>
+          <l>ove mia cara sposa</l>
+          <l>regina, regnerai tranquilla, e lieta,</l>
+          <l>qual già vivesti in Creta.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Signor, deh mi concedi,</l>
+          <l>abbandonando il mio natio terreno,</l>
+          <l>che d’un sospiro almeno</l>
+          <l>la rimembranza onori;</l>
+          <l>so ben, che son tue pene i miei dolori,</l>
+          <l>ma dal materno seno</l>
+          <l>verginella disciolta,</l>
+          <l>non posso ogni sospir tener a freno.</l>
+        </sp>
+        <sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Ben la nobil vittoria</l>
+          <l>del Minotauro estinto,</l>
+          <l>ben dolce è la memoria</l>
+          <l>del cieco laberinto;</l>
+          <l>ma s’il bel volto tuo lieto non miro,</l>
+          <l>ogni gloria, ogni palma,</l>
+          <l>ogni dolcezza al cor si fa martiro.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Un amoroso affetto</l>
+          <l>del mio tradito padre,</l>
+          <l>de l’ingannata madre,</l>
+          <l>mi sforza a sospirar, signor diletto,</l>
+          <l>ma pur raffrena il duolo</l>
+          <l>il tuo gentil aspetto,</l>
+          <l>e di tua nobil fé l’alma consolo.</l>
+        </sp>
+        <sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Lasciar le patrie rive</l>
+          <l>non può senza dolore,</l>
+          <l>chi dentr’il sen non ha di ferro il core:</l>
+          <l>ma pur vergine bella</l>
+          <l>prendi conforto omai,</l>
+          <l>torna sereni i rai</l>
+          <l>de’ begl’occhi lucenti.</l>
+          <l>Tu di felici genti</l>
+          <l>fortunata regina,</l>
+          <l>n’andrai di gemme, e d’oro il crin adorno.</l>
+          <l>A’ tuoi vestigi intorno</l>
+          <l>faran corona le donzelle argive,</l>
+          <l>ma vie più d’altri pronto,</l>
+          <l>ove un tuo sguardo accenne</l>
+          <l>io metterò le penne</l>
+          <l>fedelissimo in un servo, e consorte,</l>
+          <l>fin che ne sciolga morte.</l>
+          <l>Ma deh, ch’io miri lieto</l>
+          <l>quel bel ciglio seren, che m’innamora:</l>
+          <l>troppo, troppo m’accora</l>
+          <l>quel nubiloso velo,</l>
+          <l>ch’il bel viso gentil turba, e scolora.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Sì caro al cor mi scende</l>
+          <l>il ragionar cortese,</l>
+          <l>che del natio paese</l>
+          <l>ogni memoria omai spargo d’oblio,</l>
+          <l>addio padre, addio madre, o patria addio.</l>
+        </sp>
+        <sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Qual di me più felice,</l>
+          <l>o rege, o cavalier, la spada cinge,</l>
+          <l>cui rimirar pur lice</l>
+          <l>sereno il sol, che la mia vita alluma?</l>
+          <l>Ma già ne l’onde ascoso</l>
+          <l>celasi il sole, e se ne fugge il giorno.</l>
+          <l>Forse più dolce avrem quiete, e riposo</l>
+          <l>in qualch’umile albergo,</l>
+          <l>che su l’onda del mar, ch’in un momento</l>
+          <l>turba ogni picciol vento.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Giocondo albergo, e caro</l>
+          <l>per me sia il mar tra nembi, e tra tempeste,</l>
+          <l>e de le più selvagge aspre foreste</l>
+          <l>i più deserti orrori,</l>
+          <l>purché vicina al mio signor dimori.</l>
+        </sp>
+        <sp who="#consigliero">
+          <speaker>CONSIGLIERO:</speaker>
+          <l>Veggio, o parmi veder di faci accese</l>
+          <l>là tra quell’ombre tremolar gl’ardori.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>TESEO</head>Forse è capanna di pastor cortese,dove raccolti caramente, al sonnodarem le membra stanche,finché l’oscuro ciel l’aurora imbianca.Indi al nostro cammin sciorrem le velea l’aura mattutina,or là moviam regina.Scena quartaCoro di Pescatori.COROIºDeh come son lucenti,deh come son ridentile fiamme, oh ciel, che per la notte spieghi;ma quanto più lucenti,ma quanto più ridentison gl’occhi, o Lidia, onde m’accendi, e leghi.IIºGià Febo ha spento in mar gl’ardenti rai,e splendon su nel ciel le stelle accese,tempo è compagni omaidi trar di grembo al mar l’insidie tese,e portarne la preda a’ nostri alberghi.Itene al porto voi celati, e cheti,che ‘l sospettoso pescespesso l’occhiute retiguizzando per timor rompe, e se n’esce.Noi qui posando intantoal lume de le stelle,i dolci sonni allieterem col canto.Fiamme serene, e pure,fregio de l’ombre oscure,del gran regno immortal gemm’e tesori;ninfe degl’alti campi,ch’i sempiterni lampivagheggiate ridenti in grembo a Dori.Perché mortal desirein voi s’affissi, e mirecupido amante di celeste foco,non fu però, che maivelasse i biondi rai,l’accese voglie altrui volgendo in gioco.Ma voi vezzose, e bellelucidissime stelle,che splendete nel ciel d’un mortal visoor mostrate, or chiudetei raggi, onde splendete,risvegliando ne l’alme, or pianto, or riso.Deh se vaghe, e gentiliardete al ciel similiterrene stelle ah non cangiate aspetto;ma sovra i cori amantida lucidi sembiantidolce versate ogn’or pace, e diletto.<sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Forse è capanna di pastor cortese,</l>
+          <l>dove raccolti caramente, al sonno</l>
+          <l>darem le membra stanche,</l>
+          <l>finché l’oscuro ciel l’aurora imbianca.</l>
+          <l>Indi al nostro cammin sciorrem le vele</l>
+          <l>a l’aura mattutina,</l>
+          <l>or là moviam regina.</l>
+          <l>Scena quarta</l>
+          <l>Coro di Pescatori.</l>
+          <l>CORO</l>
+          <l>Iº</l>
+          <l>Deh come son lucenti,</l>
+          <l>deh come son ridenti</l>
+          <l>le fiamme, oh ciel, che per la notte spieghi;</l>
+          <l>ma quanto più lucenti,</l>
+          <l>ma quanto più ridenti</l>
+          <l>son gl’occhi, o Lidia, onde m’accendi, e leghi.</l>
+          <l>IIº</l>
+          <l>Già Febo ha spento in mar gl’ardenti rai,</l>
+          <l>e splendon su nel ciel le stelle accese,</l>
+          <l>tempo è compagni omai</l>
+          <l>di trar di grembo al mar l’insidie tese,</l>
+          <l>e portarne la preda a’ nostri alberghi.</l>
+          <l>Itene al porto voi celati, e cheti,</l>
+          <l>che ‘l sospettoso pesce</l>
+          <l>spesso l’occhiute reti</l>
+          <l>guizzando per timor rompe, e se n’esce.</l>
+          <l>Noi qui posando intanto</l>
+          <l>al lume de le stelle,</l>
+          <l>i dolci sonni allieterem col canto.</l>
+          <l>Fiamme serene, e pure,</l>
+          <l>fregio de l’ombre oscure,</l>
+          <l>del gran regno immortal gemm’e tesori;</l>
+          <l>ninfe degl’alti campi,</l>
+          <l>ch’i sempiterni lampi</l>
+          <l>vagheggiate ridenti in grembo a Dori.</l>
+          <l>Perché mortal desire</l>
+          <l>in voi s’affissi, e mire</l>
+          <l>cupido amante di celeste foco,</l>
+          <l>non fu però, che mai</l>
+          <l>velasse i biondi rai,</l>
+          <l>l’accese voglie altrui volgendo in gioco.</l>
+          <l>Ma voi vezzose, e belle</l>
+          <l>lucidissime stelle,</l>
+          <l>che splendete nel ciel d’un mortal viso</l>
+          <l>or mostrate, or chiudete</l>
+          <l>i raggi, onde splendete,</l>
+          <l>risvegliando ne l’alme, or pianto, or riso.</l>
+          <l>Deh se vaghe, e gentili</l>
+          <l>ardete al ciel simili</l>
+          <l>terrene stelle ah non cangiate aspetto;</l>
+          <l>ma sovra i cori amanti</l>
+          <l>da lucidi sembianti</l>
+          <l>dolce versate ogn’or pace, e diletto.</l>
+        </sp>
+        <stage>TESEOForse è capanna di pastor cortese,dove raccolti caramente, al sonnodarem le membra stanche,finché l’oscuro ciel l’aurora imbianca.Indi al nostro cammin sciorrem le velea l’aura mattutina,or là moviam regina.Scena quartaCoro di Pescatori.COROIºDeh come son lucenti,deh come son ridentile fiamme, oh ciel, che per la notte spieghi;ma quanto più lucenti,ma quanto più ridentison gl’occhi, o Lidia, onde m’accendi, e leghi.IIºGià Febo ha spento in mar gl’ardenti rai,e splendon su nel ciel le stelle accese,tempo è compagni omaidi trar di grembo al mar l’insidie tese,e portarne la preda a’ nostri alberghi.Itene al porto voi celati, e cheti,che ‘l sospettoso pescespesso l’occhiute retiguizzando per timor rompe, e se n’esce.Noi qui posando intantoal lume de le stelle,i dolci sonni allieterem col canto.Fiamme serene, e pure,fregio de l’ombre oscure,del gran regno immortal gemm’e tesori;ninfe degl’alti campi,ch’i sempiterni lampivagheggiate ridenti in grembo a Dori.Perché mortal desirein voi s’affissi, e mirecupido amante di celeste foco,non fu però, che maivelasse i biondi rai,l’accese voglie altrui volgendo in gioco.Ma voi vezzose, e bellelucidissime stelle,che splendete nel ciel d’un mortal visoor mostrate, or chiudetei raggi, onde splendete,risvegliando ne l’alme, or pianto, or riso.Deh se vaghe, e gentiliardete al ciel similiterrene stelle ah non cangiate aspetto;ma sovra i cori amantida lucidi sembiantidolce versate ogn’or pace, e diletto.</stage>
+        <sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Come potrai cor mio,</l>
+          <l>se pur di carne sei,</l>
+          <l>tra quest’orridi scogli, e nude arene</l>
+          <l>lasciar sola colei,</l>
+          <l>che per seguirti, ingrato,</l>
+          <l>perder sostenne ogni più caro bene?</l>
+          <l>Per me scettri, e corone</l>
+          <l>Arianna disprezzi,</l>
+          <l>e i dolci baci, e vezzi</l>
+          <l>de’ tuoi cari parenti,</l>
+          <l>ed io potrò crudele</l>
+          <l>spiegar le vele a’ venti,</l>
+          <l>senza pensar pur dove</l>
+          <l>resti da me tradita</l>
+          <l>tu cagion di mia gloria, e di mia vita.</l>
+        </sp>
+        <sp who="#consigliero">
+          <speaker>CONSIGLIERO:</speaker>
+          <l>Ancor pugna, e contende</l>
+          <l>contr’a bella ragion l’alma turbata.</l>
+          <l>Signor, ah troppo offende</l>
+          <l>la mente innamorata</l>
+          <l>quest’impudico ardore,</l>
+          <l>tiranno indegno del tuo nobil core.</l>
+        </sp>
+        <sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Amor, no ‘l nego, amore,</l>
+          <l>di sì possente, e forte</l>
+          <l>laccio mi stringe il core,</l>
+          <l>che se disciorlo tento</l>
+          <l>sento dolor di morte;</l>
+          <l>ma vi è maggior tormento</l>
+          <l>trafigge il cor de la macchiata fede</l>
+          <l>l’abominevol fallo,</l>
+          <l>fallo ch’unqua in oblio</l>
+          <l>(per rivolger di cielo, o di pianeta)</l>
+          <l>o mio fedel non manderà il cor mio.</l>
+        </sp>
+        <sp who="#consigliero">
+          <speaker>CONSIGLIERO:</speaker>
+          <l>Alma, ch’amor costringe</l>
+          <l>sotto il suo duro impero,</l>
+          <l>non bene discerne, e non conosce il vero.</l>
+          <l>Non è fallo, signore,</l>
+          <l>sprezzar quelle promesse, e quella fede,</l>
+          <l>che tra lascivi ardori</l>
+          <l>incauto amante a bella donna diede;</l>
+          <l>anzi è senno, e virtute,</l>
+          <l>ch’aprendo gl’occhi al ver si cangi, e mute.</l>
+        </sp>
+        <sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Troppo, troppo è severo</l>
+          <l>chi de’ lacci d’amor vive disciolto.</l>
+          <l>Mal può cangiar pensiero</l>
+          <l>chi fe’ de suoi desir tiranno un volto.</l>
+        </sp>
+        <sp who="#consigliero">
+          <speaker>CONSIGLIERO:</speaker>
+          <l>Ma, deh s’il cor magnanimo, e reale</l>
+          <l>di bel pregio d’onor punge vaghezza,</l>
+          <l>se gloria alta immortale</l>
+          <l>prezi non men di femminil bellezza;</l>
+          <l>deh meco a pensar prendi,</l>
+          <l>che diran tanti eroi d’Argo, e Micene,</l>
+          <l>e di Tebe, e di Sparta i duci, e i regi,</l>
+          <l>se del bel regno tuo vedran regina</l>
+          <l>vergine peregrina?</l>
+          <l>O glorie, o vanti egregi,</l>
+          <l>(sorridendo diranno)</l>
+          <l>trionfar vincitor per l’altrui inganno:</l>
+          <l>così, mercé di femminili amori,</l>
+          <l>oscurarsi vedrai</l>
+          <l>l’alto splendor de tuoi guerrieri allori.</l>
+          <l>Dimmi, e come soffrir potrai giammai,</l>
+          <l>che ne’ trionfi tuoi rimiri Atene</l>
+          <l>venirti al fianco femmina impudica,</l>
+          <l>onde sdegnando, e mormorando dica,</l>
+          <l>dunque sarà di noi regina, e donna</l>
+          <l>femmina fuggitiva,</l>
+          <l>del bel fior d’onestate, e di fé priva?</l>
+        </sp>
+        <sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Qual ne la dubbia mente</l>
+          <l>mi fa contrasto e guerra,</l>
+          <l>e d’onor e d’amor desir ardente?</l>
+        </sp>
+        <sp who="#consigliero">
+          <speaker>CONSIGLIERO:</speaker>
+          <l>Aggiungi ancor che palpitanti i cori</l>
+          <l>portano, e gl’occhi molli</l>
+          <l>le madri orbe, e dolenti</l>
+          <l>de’ cari parti lor, per cui satolli</l>
+          <l>fur de l’empio fratel gl’ingordi denti,</l>
+          <l>e pensa con quai volti, con quai cori</l>
+          <l>sosterran di veder nel seggio antico</l>
+          <l>figlia di re nemico,</l>
+          <l>cui dier tributo ogni girar di sole</l>
+          <l>(ahi rimembranza, ahi duolo)</l>
+          <l>lor innocente, e semplicetta prole,</l>
+          <l>e potrà lo splendor d’un fragil viso</l>
+          <l>sì di bella ragion turbarti il lume,</l>
+          <l>che per un van desio,</l>
+          <l>abbandonando ogni real costume,</l>
+          <l>il tuo regno, il tuo onor ponga in oblio?</l>
+        </sp>
+        <sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Mentr’aprirò quest’occhi a’ rai del sole,</l>
+          <l>non sia giammai, ch’alcun possent’affetto</l>
+          <l>sì tiranneggi il petto,</l>
+          <l>ch’io disprezzi l’onor, non pensi al regno.</l>
+          <l>Non è di scettro degno,</l>
+          <l>qual fassi servo vil del suo diletto.</l>
+        </sp>
+        <sp who="#consigliero">
+          <speaker>CONSIGLIERO:</speaker>
+          <l>Deh come lieto ascolto</l>
+          <l>del magnanimo cor le sagge note,</l>
+          <l>alma virtù, che da l’eterne rote</l>
+          <l>ne regi cor discendi</l>
+          <l>non di mille saette armato amore,</l>
+          <l>non di sdegno, o dolore</l>
+          <l>trionfa in campo, ove tu l’arme prendi.</l>
+        </sp>
+        <sp who="#messaggero">
+          <speaker>MESSAGGERO:</speaker>
+          <l>Già pronto ogni nocchiero</l>
+          <l>siede al governo, e per lo ciel si sente</l>
+          <l>spirar soavemente</l>
+          <l>una gentil auretta,</l>
+          <l>che mormorando a navigar n’alletta.</l>
+        </sp>
+        <sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Torna messaggio fido,</l>
+          <l>ed a le schiere mie, come tu vedi,</l>
+          <l>di’ ch’io son mosso, e m’avvicino al lido;</l>
+          <l>poiché convien partire,</l>
+          <l>moviam, partiamo omai,</l>
+          <l>asprissimo martire,</l>
+          <l>che dentr’il cor mi stai,</l>
+          <l>vientene meco, e non mi lasciar mai.</l>
+        </sp>
+        <sp who="#consigliero">
+          <speaker>CONSIGLIERO:</speaker>
+          <l>Ogni mortal dolore</l>
+          <l>fassi col tempo al fin soave, e lieve,</l>
+          <l>ma vie più d’altra in breve</l>
+          <l>sana piaga d’amore.</l>
+        </sp>
+        <sp who="#teseo">
+          <speaker>TESEO:</speaker>
+          <l>Che spenga, o tempo, o morte,</l>
+          <l>la piaga del mio cor nulla mi cale;</l>
+          <l>ma che in sì trista sorte</l>
+          <l>resti donna reale,</l>
+          <l>di sì gran duol m’accora,</l>
+          <l>ch’io non so com’io parta, e ch’io non mora.</l>
+        </sp>
+        <sp who="#consigliero">
+          <speaker>CONSIGLIERO:</speaker>
+          <l>Non temer no signor, il ciel cortese</l>
+          <l>ben recheralle aita,</l>
+          <l>ond’al natio paese</l>
+          <l>farà ritorno ancor lieta, e gradita,</l>
+          <l>che paterna pietà non sente offese.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>CORO</head>IºMiseri peregrin quietar non ponno,e per la notte oscuravanno i riposi altrui turbando, e ‘l sonno.IIºO sorga Febo, o chiugga in mar sua faceda molesti pensierinon san posa impetrar regi, e guerrieri.Ma già le stelle impallidir rimiro,e con candida man la bell’aurorale porte aprir d’oriental zaffiro.Stampa il ciel con l’auree piantebell’aurora, e ‘l dì rimena,vien gioconda, vien serena,non udir quel vecchio amante.Desto già l’aurata brigliaposto ha Febo ai suoi destrieri,e da gl’umidi sentieriverso il ciel la strada piglia;a fuggir l’aperte cigliascuoton l’ali i sogni oscuri,spiega spiega i raggi puribella nunzia al sol davante.Stampa il ciel con l’auree piantebell’aurora, e ‘l dì rimena,vien gioconda, vien serena,non udir quel vecchio amante.Già raccolto il fosco velocon le stelle, e con la luna,se ne va la notte brunaa danzar per altro cielo;ogni fior dal natio stelochiede sol, chiede rugiada,movi omai per l’alta stradasu bel carro di diamante.Stampa il ciel con l’auree piantebell’aurora, e ‘l dì rimenavien gioconda, vien serena,non udir quel vecchio amante.L’alma luce, e ‘l giorno allettamormorando il rivo, e ‘l fiume,l’augellin terse le piumesovra il nido il canto affretta,sospirar di lieve aurettadolce increspa il tergo a Dori,e danzar tra l’erbe i fiorimiri a’ piè de l’alte piante.Stampa il ciel con l’auree piantebell’aurora, e ‘l dì rimenavien gioconda, vien serena,non udir quel vecchio amante.Scena quintaArianna, Dorilla, coro di Pescatori.ARIANNABenché la fé, benché l’amor m’affididel mio re, del mio sposo;pur dentro il cor dubbiosoun gelato timor par che s’annidi,che di futura angoscia, e di tormentodoloroso messaggioreca a l’alma turbata ombra, e spavento.<sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Iº</l>
+          <l>Miseri peregrin quietar non ponno,</l>
+          <l>e per la notte oscura</l>
+          <l>vanno i riposi altrui turbando, e ‘l sonno.</l>
+          <l>IIº</l>
+          <l>O sorga Febo, o chiugga in mar sua face</l>
+          <l>da molesti pensieri</l>
+          <l>non san posa impetrar regi, e guerrieri.</l>
+          <l>Ma già le stelle impallidir rimiro,</l>
+          <l>e con candida man la bell’aurora</l>
+          <l>le porte aprir d’oriental zaffiro.</l>
+          <l>Stampa il ciel con l’auree piante</l>
+          <l>bell’aurora, e ‘l dì rimena,</l>
+          <l>vien gioconda, vien serena,</l>
+          <l>non udir quel vecchio amante.</l>
+          <l>Desto già l’aurata briglia</l>
+          <l>posto ha Febo ai suoi destrieri,</l>
+          <l>e da gl’umidi sentieri</l>
+          <l>verso il ciel la strada piglia;</l>
+          <l>a fuggir l’aperte ciglia</l>
+          <l>scuoton l’ali i sogni oscuri,</l>
+          <l>spiega spiega i raggi puri</l>
+          <l>bella nunzia al sol davante.</l>
+          <l>Stampa il ciel con l’auree piante</l>
+          <l>bell’aurora, e ‘l dì rimena,</l>
+          <l>vien gioconda, vien serena,</l>
+          <l>non udir quel vecchio amante.</l>
+          <l>Già raccolto il fosco velo</l>
+          <l>con le stelle, e con la luna,</l>
+          <l>se ne va la notte bruna</l>
+          <l>a danzar per altro cielo;</l>
+          <l>ogni fior dal natio stelo</l>
+          <l>chiede sol, chiede rugiada,</l>
+          <l>movi omai per l’alta strada</l>
+          <l>su bel carro di diamante.</l>
+          <l>Stampa il ciel con l’auree piante</l>
+          <l>bell’aurora, e ‘l dì rimena</l>
+          <l>vien gioconda, vien serena,</l>
+          <l>non udir quel vecchio amante.</l>
+          <l>L’alma luce, e ‘l giorno alletta</l>
+          <l>mormorando il rivo, e ‘l fiume,</l>
+          <l>l’augellin terse le piume</l>
+          <l>sovra il nido il canto affretta,</l>
+          <l>sospirar di lieve auretta</l>
+          <l>dolce increspa il tergo a Dori,</l>
+          <l>e danzar tra l’erbe i fiori</l>
+          <l>miri a’ piè de l’alte piante.</l>
+          <l>Stampa il ciel con l’auree piante</l>
+          <l>bell’aurora, e ‘l dì rimena</l>
+          <l>vien gioconda, vien serena,</l>
+          <l>non udir quel vecchio amante.</l>
+          <l>Scena quinta</l>
+          <l>Arianna, Dorilla, coro di Pescatori.</l>
+          <l>ARIANNA</l>
+          <l>Benché la fé, benché l’amor m’affidi</l>
+          <l>del mio re, del mio sposo;</l>
+          <l>pur dentro il cor dubbioso</l>
+          <l>un gelato timor par che s’annidi,</l>
+          <l>che di futura angoscia, e di tormento</l>
+          <l>doloroso messaggio</l>
+          <l>reca a l’alma turbata ombra, e spavento.</l>
+        </sp>
+        <stage>COROIºMiseri peregrin quietar non ponno,e per la notte oscuravanno i riposi altrui turbando, e ‘l sonno.IIºO sorga Febo, o chiugga in mar sua faceda molesti pensierinon san posa impetrar regi, e guerrieri.Ma già le stelle impallidir rimiro,e con candida man la bell’aurorale porte aprir d’oriental zaffiro.Stampa il ciel con l’auree piantebell’aurora, e ‘l dì rimena,vien gioconda, vien serena,non udir quel vecchio amante.Desto già l’aurata brigliaposto ha Febo ai suoi destrieri,e da gl’umidi sentieriverso il ciel la strada piglia;a fuggir l’aperte cigliascuoton l’ali i sogni oscuri,spiega spiega i raggi puribella nunzia al sol davante.Stampa il ciel con l’auree piantebell’aurora, e ‘l dì rimena,vien gioconda, vien serena,non udir quel vecchio amante.Già raccolto il fosco velocon le stelle, e con la luna,se ne va la notte brunaa danzar per altro cielo;ogni fior dal natio stelochiede sol, chiede rugiada,movi omai per l’alta stradasu bel carro di diamante.Stampa il ciel con l’auree piantebell’aurora, e ‘l dì rimenavien gioconda, vien serena,non udir quel vecchio amante.L’alma luce, e ‘l giorno allettamormorando il rivo, e ‘l fiume,l’augellin terse le piumesovra il nido il canto affretta,sospirar di lieve aurettadolce increspa il tergo a Dori,e danzar tra l’erbe i fiorimiri a’ piè de l’alte piante.Stampa il ciel con l’auree piantebell’aurora, e ‘l dì rimenavien gioconda, vien serena,non udir quel vecchio amante.Scena quintaArianna, Dorilla, coro di Pescatori.ARIANNABenché la fé, benché l’amor m’affididel mio re, del mio sposo;pur dentro il cor dubbiosoun gelato timor par che s’annidi,che di futura angoscia, e di tormentodoloroso messaggioreca a l’alma turbata ombra, e spavento.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Sovente, ove gran danno il ciel destina,</l>
+          <l>sembra, che mortal mente</l>
+          <l>un secreto terror renda indovina.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Ahi, che del novo lume</l>
+          <l>non appariano in ciel scintille, o rai,</l>
+          <l>che per le molli piume</l>
+          <l>sciolta dal sonno, il mio signor cercai,</l>
+          <l>misera me, ma invano</l>
+          <l>ben cento volte, e cento</l>
+          <l>mossi a cercarlo or l’una, or l’altra mano.</l>
+        </sp>
+        <sp who="#dorilla">
+          <speaker>DORILLA:</speaker>
+          <l>Figlia, non ti turbar, prendi conforto,</l>
+          <l>certo ch’a riveder l’armate navi</l>
+          <l>ei sarà gito al porto,</l>
+          <l>o per mirar s’in mar son quiete l’onde,</l>
+          <l>e se dolci, e soavi</l>
+          <l>spirano al cammin vostro aure seconde.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Ma perch’a l’aer cieco</l>
+          <l>muto da me s’invola?</l>
+          <l>Perché mi lascia sola?</l>
+          <l>Perché non fa ritorno?</l>
+        </sp>
+        <sp who="#dorilla">
+          <speaker>DORILLA:</speaker>
+          <l>Per non turbarti il sonno,</l>
+          <l>e tuoi dolci riposi a l’alba avante,</l>
+          <l>mosso avrà cheto il piè discreto amante,</l>
+          <l>per far ritorno, e là condurti poi;</l>
+          <l>ché sciolt’ancore, e vele,</l>
+          <l>sian pronti a solcar l’onde i legni suoi.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Così creder vogl’io;</l>
+          <l>deh se tema talor l’alma perturba,</l>
+          <l>perdona amato sposo a l’ardor mio.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Spera mai sempre, e teme</l>
+          <l>innamorato core;</l>
+          <l>ma deh voglia oggi amore,</l>
+          <l>che sia vano il timor, vera la speme.</l>
+        </sp>
+        <sp who="#dorilla">
+          <speaker>DORILLA:</speaker>
+          <l>Forse certe novelle</l>
+          <l>ne daran questi pescatori amici.</l>
+          <l>Deh se liete, e felici</l>
+          <l>per voi sempre su in ciel volgan le stelle,</l>
+          <l>dite s’avanti, o su l’aprir del giorno</l>
+          <l>alcun vedeste a queste piagge intorno.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>In questo loco appunto</l>
+          <l>duo cavalier fermarsi all’or ch’in cielo</l>
+          <l>s’accingea l’alma aurora</l>
+          <l>a sgombrar de la notte il fosco velo.</l>
+          <l>Quinci partiro all’ora</l>
+          <l>ch’un messaggero accorto</l>
+          <l>lor sovraggiunse, e s’inviaro al porto.</l>
+        </sp>
+        <sp who="#dorilla">
+          <speaker>DORILLA:</speaker>
+          <l>Avresti a sorte udito,</l>
+          <l>o strepito di trombe, o d’altro suono</l>
+          <l>rimbombar verso il porto, o intorno al lito?</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Non turbò suon di tromba, o d’altre squille</l>
+          <l>il notturno silenzio, e i dolci canti,</l>
+          <l>mentre al vago seren de’ lumi erranti</l>
+          <l>de la notte traean l’ore tranquille.</l>
+        </sp>
+        <sp who="#dorilla">
+          <speaker>DORILLA:</speaker>
+          <l>Or qual hai più di sospettar cagione?</l>
+          <l>Rischiara il guardo, a che più dubbia stai?</l>
+          <l>Qual rimbombo la terra, e ‘l ciel rintuone</l>
+          <l>al partir de l’armate ancor non sai?</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Dolcissima speranza,</l>
+          <l>speranza esca de’ cori, aura d’amore,</l>
+          <l>che sì soave mi lusinghi il core;</l>
+          <l>deh come volentier ti dà ricetto</l>
+          <l>quest’affannato petto.</l>
+          <l>Deh s’il ciel sempr’arrida a’ tuoi desiri</l>
+          <l>scorgimi ospite mio, scorgimi omai</l>
+          <l>ov’il mio sposo, ov’il mio ben rimiri.</l>
+        </sp>
+        <sp who="#dorilla">
+          <speaker>DORILLA:</speaker>
+          <l>Non lungi è il porto, or lieta</l>
+          <l>movi le belle piante</l>
+          <l>real donzella, e ‘l cor turbato acquieta.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Addio rimanti in pace amica schiera,</l>
+          <l>a’ vostri dolci amori</l>
+          <l>torni lieto il mattin, lieta la sera.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>CORO</head>IºVanne felice, amor d’eterna gioiaappaghi, e ricompenside l’affannoso cor la breve noia.IIºTolga benigna stella,ch’oggi non sia il mio cor tristo indovinod’infausta sorte, o misera donzella.IºE che paventi tu, di che t’affanni?Perché sì fisso miriil cielo, e poi sospiri?IIºPavento insidie, e ingannia quei sì tener’anni,e di tanta beltadestruggemi il cor nel pettoe dolore, e pietade.IºOnd’è tanto timor? Non ti sia gravescoprirlo a noi, deh miracome teco ciascun sospira, e pave.IIºTra i confin de la notte, e de l’aurora,udiste voi di quel guerriero i detti,ch’affrettava il partir? Notaste ancorade l’altro i gesti, e i dolorosi affetti?IºVidi, e per quanto intesi,così tra ‘l sonno e la stanchezza vinto,parvemi, che sospintoda quel parlar possentese ne partisse l’un tutto dolente.IIºNon v’accorgeste poiqual timor distruggea la nobil donna?Non udiste i sospiri, e i detti suoi?IºChe narri? E che rammenti,o misera donzella? Or ben conoscoche non senza cagion temi, e paventi.IIºPartirsi a l’aer foscovinto da l’altrui dire,sospirar sì profondo, e pur partire:lasciar sì bella donnain sì deserto lido,non è senza consiglio, o mondo infido.IºMa qual cor sì crudoabbandonar potria tanta bellezzain questo scoglio sì deserto, e nudo?IIºBeltà là non s’apprezza,pietà non punge, e non trionfa amore,ov’arde i cori ambizioso onore.Avventurose genti,noi che lontan da le città superbea le bell’onde a l’erbeguidiam tranquilli i mansueti armenti.O pur nel sen di Tetitendiamo al muto gregge e lacci, e reti.Entr’i placidi pettinon sa l’orme fermar molesta cura,legge severa, e duranon perturba d’amor gl’almi diletti;amor ne scorge, e regge,e sol quant’ei ne detta, è norma, e legge.Paghi d’un dolce risoluce non han per noi le gemme, e l’oro,e qual maggior tesorod’un biondo crin s’ammira, e d’un bel viso?Per noi gran regno è vilegraditi servi di beltà gentile.Ma tu superbo altero,che notturno t’involi a’ liti nostri,là tra le pompe, e gl’ostridannerai forse ancor l’empio pensiero,e tra rie cure involtosospirerai l’ardor di quel bel volto?Scena sestaNunzio primo e coro di Pescatori.NUNZIO PRIMOSe su da l’alto cielodal braccio onnipotentenon scende o fiamma, o telo,o se dal gran tridentenon va sossopra oggi de l’onde il regno,se quel mal nato legnonon si traghiotton l’onde,o frange in mille guise un duro scoglio,(sia pur con vostra pace, o divi, o numi)che sia giustizia in ciel creder non voglio.<sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Iº</l>
+          <l>Vanne felice, amor d’eterna gioia</l>
+          <l>appaghi, e ricompensi</l>
+          <l>de l’affannoso cor la breve noia.</l>
+          <l>IIº</l>
+          <l>Tolga benigna stella,</l>
+          <l>ch’oggi non sia il mio cor tristo indovino</l>
+          <l>d’infausta sorte, o misera donzella.</l>
+          <l>Iº</l>
+          <l>E che paventi tu, di che t’affanni?</l>
+          <l>Perché sì fisso miri</l>
+          <l>il cielo, e poi sospiri?</l>
+          <l>IIº</l>
+          <l>Pavento insidie, e inganni</l>
+          <l>a quei sì tener’anni,</l>
+          <l>e di tanta beltade</l>
+          <l>struggemi il cor nel petto</l>
+          <l>e dolore, e pietade.</l>
+          <l>Iº</l>
+          <l>Ond’è tanto timor? Non ti sia grave</l>
+          <l>scoprirlo a noi, deh mira</l>
+          <l>come teco ciascun sospira, e pave.</l>
+          <l>IIº</l>
+          <l>Tra i confin de la notte, e de l’aurora,</l>
+          <l>udiste voi di quel guerriero i detti,</l>
+          <l>ch’affrettava il partir? Notaste ancora</l>
+          <l>de l’altro i gesti, e i dolorosi affetti?</l>
+          <l>Iº</l>
+          <l>Vidi, e per quanto intesi,</l>
+          <l>così tra ‘l sonno e la stanchezza vinto,</l>
+          <l>parvemi, che sospinto</l>
+          <l>da quel parlar possente</l>
+          <l>se ne partisse l’un tutto dolente.</l>
+          <l>IIº</l>
+          <l>Non v’accorgeste poi</l>
+          <l>qual timor distruggea la nobil donna?</l>
+          <l>Non udiste i sospiri, e i detti suoi?</l>
+          <l>Iº</l>
+          <l>Che narri? E che rammenti,</l>
+          <l>o misera donzella? Or ben conosco</l>
+          <l>che non senza cagion temi, e paventi.</l>
+          <l>IIº</l>
+          <l>Partirsi a l’aer fosco</l>
+          <l>vinto da l’altrui dire,</l>
+          <l>sospirar sì profondo, e pur partire:</l>
+          <l>lasciar sì bella donna</l>
+          <l>in sì deserto lido,</l>
+          <l>non è senza consiglio, o mondo infido.</l>
+          <l>Iº</l>
+          <l>Ma qual cor sì crudo</l>
+          <l>abbandonar potria tanta bellezza</l>
+          <l>in questo scoglio sì deserto, e nudo?</l>
+          <l>IIº</l>
+          <l>Beltà là non s’apprezza,</l>
+          <l>pietà non punge, e non trionfa amore,</l>
+          <l>ov’arde i cori ambizioso onore.</l>
+          <l>Avventurose genti,</l>
+          <l>noi che lontan da le città superbe</l>
+          <l>a le bell’onde a l’erbe</l>
+          <l>guidiam tranquilli i mansueti armenti.</l>
+          <l>O pur nel sen di Teti</l>
+          <l>tendiamo al muto gregge e lacci, e reti.</l>
+          <l>Entr’i placidi petti</l>
+          <l>non sa l’orme fermar molesta cura,</l>
+          <l>legge severa, e dura</l>
+          <l>non perturba d’amor gl’almi diletti;</l>
+          <l>amor ne scorge, e regge,</l>
+          <l>e sol quant’ei ne detta, è norma, e legge.</l>
+          <l>Paghi d’un dolce riso</l>
+          <l>luce non han per noi le gemme, e l’oro,</l>
+          <l>e qual maggior tesoro</l>
+          <l>d’un biondo crin s’ammira, e d’un bel viso?</l>
+          <l>Per noi gran regno è vile</l>
+          <l>graditi servi di beltà gentile.</l>
+          <l>Ma tu superbo altero,</l>
+          <l>che notturno t’involi a’ liti nostri,</l>
+          <l>là tra le pompe, e gl’ostri</l>
+          <l>dannerai forse ancor l’empio pensiero,</l>
+          <l>e tra rie cure involto</l>
+          <l>sospirerai l’ardor di quel bel volto?</l>
+          <l>Scena sesta</l>
+          <l>Nunzio primo e coro di Pescatori.</l>
+          <l>NUNZIO PRIMO</l>
+          <l>Se su da l’alto cielo</l>
+          <l>dal braccio onnipotente</l>
+          <l>non scende o fiamma, o telo,</l>
+          <l>o se dal gran tridente</l>
+          <l>non va sossopra oggi de l’onde il regno,</l>
+          <l>se quel mal nato legno</l>
+          <l>non si traghiotton l’onde,</l>
+          <l>o frange in mille guise un duro scoglio,</l>
+          <l>(sia pur con vostra pace, o divi, o numi)</l>
+          <l>che sia giustizia in ciel creder non voglio.</l>
+        </sp>
+        <stage>COROIºVanne felice, amor d’eterna gioiaappaghi, e ricompenside l’affannoso cor la breve noia.IIºTolga benigna stella,ch’oggi non sia il mio cor tristo indovinod’infausta sorte, o misera donzella.IºE che paventi tu, di che t’affanni?Perché sì fisso miriil cielo, e poi sospiri?IIºPavento insidie, e ingannia quei sì tener’anni,e di tanta beltadestruggemi il cor nel pettoe dolore, e pietade.IºOnd’è tanto timor? Non ti sia gravescoprirlo a noi, deh miracome teco ciascun sospira, e pave.IIºTra i confin de la notte, e de l’aurora,udiste voi di quel guerriero i detti,ch’affrettava il partir? Notaste ancorade l’altro i gesti, e i dolorosi affetti?IºVidi, e per quanto intesi,così tra ‘l sonno e la stanchezza vinto,parvemi, che sospintoda quel parlar possentese ne partisse l’un tutto dolente.IIºNon v’accorgeste poiqual timor distruggea la nobil donna?Non udiste i sospiri, e i detti suoi?IºChe narri? E che rammenti,o misera donzella? Or ben conoscoche non senza cagion temi, e paventi.IIºPartirsi a l’aer foscovinto da l’altrui dire,sospirar sì profondo, e pur partire:lasciar sì bella donnain sì deserto lido,non è senza consiglio, o mondo infido.IºMa qual cor sì crudoabbandonar potria tanta bellezzain questo scoglio sì deserto, e nudo?IIºBeltà là non s’apprezza,pietà non punge, e non trionfa amore,ov’arde i cori ambizioso onore.Avventurose genti,noi che lontan da le città superbea le bell’onde a l’erbeguidiam tranquilli i mansueti armenti.O pur nel sen di Tetitendiamo al muto gregge e lacci, e reti.Entr’i placidi pettinon sa l’orme fermar molesta cura,legge severa, e duranon perturba d’amor gl’almi diletti;amor ne scorge, e regge,e sol quant’ei ne detta, è norma, e legge.Paghi d’un dolce risoluce non han per noi le gemme, e l’oro,e qual maggior tesorod’un biondo crin s’ammira, e d’un bel viso?Per noi gran regno è vilegraditi servi di beltà gentile.Ma tu superbo altero,che notturno t’involi a’ liti nostri,là tra le pompe, e gl’ostridannerai forse ancor l’empio pensiero,e tra rie cure involtosospirerai l’ardor di quel bel volto?Scena sestaNunzio primo e coro di Pescatori.NUNZIO PRIMOSe su da l’alto cielodal braccio onnipotentenon scende o fiamma, o telo,o se dal gran tridentenon va sossopra oggi de l’onde il regno,se quel mal nato legnonon si traghiotton l’onde,o frange in mille guise un duro scoglio,(sia pur con vostra pace, o divi, o numi)che sia giustizia in ciel creder non voglio.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Bell’è il tacer, dove grand’ira abbonda.</l>
+          <l>A piè del gran tonante</l>
+          <l>stassi l’inclita diva,</l>
+          <l>e se tarda tal’or move le piante,</l>
+          <l>severa più quanto più lenta arriva.</l>
+        </sp>
+        <sp who="#nunzio primo">
+          <speaker>NUNZIO PRIMO:</speaker>
+          <l>Pietà mi scusi, e sdegno</l>
+          <l>se forsennata parla</l>
+          <l>la lingua, e di ragion trapassa il segno.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Qual giusto sdegno, od ira</l>
+          <l>così t’infiamma, e incende?</l>
+          <l>E per pietà di chi tuo cor sospira?</l>
+        </sp>
+        <sp who="#nunzio primo">
+          <speaker>NUNZIO PRIMO:</speaker>
+          <l>Una gentil donzella,</l>
+          <l>ch’io non so mai se rugiadosa Aurora</l>
+          <l>spuntasse in sul mattin di lei più bella,</l>
+          <l>abbandonata, e sola, anzi tradita</l>
+          <l>piange la rotta fede,</l>
+          <l>piange l’empia partita</l>
+          <l>d’un amante infedele,</l>
+          <l>e tra caldi sospir sì bei lamenti</l>
+          <l>sparge pur dietro a le fuggenti vele,</l>
+          <l>ch’io non so come i venti</l>
+          <l>non s’arrestin pietosi, o come l’onda</l>
+          <l>mal grado pur del traditor infido</l>
+          <l>non risospinga al lido</l>
+          <l>l’infame legno, o come non s’asconda</l>
+          <l>in sempiterno occaso</l>
+          <l>Febo per non mirar l’orribil caso.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ben son, ben son fallaci</l>
+          <l>le speranze mortali,</l>
+          <l>ma il sospetto, e ‘l timor troppo veraci.</l>
+          <l>Ma come tanti legni</l>
+          <l>senza strepiti alcun sciolser dal porto?</l>
+        </sp>
+        <sp who="#nunzio primo">
+          <speaker>NUNZIO PRIMO:</speaker>
+          <l>Tromba non fe’ sonar, ma muti segni</l>
+          <l>diè di partenza ingannator accorto.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>O che lieve ingannar chi s’assicura,</l>
+          <l>ma fra tanta sventura</l>
+          <l>la misera, che fa, che pensa, o spera?</l>
+          <l>Deh di quanto hai sentito, e quanto hai visto</l>
+          <l>narrane prego a noi l’istoria intera.</l>
+        </sp>
+        <sp who="#nunzio primo">
+          <speaker>NUNZIO PRIMO:</speaker>
+          <l>Sovra quel nudo scoglio.</l>
+          <l>Là dove i pesci ingordi</l>
+          <l>con l’amo, e con la canna ingannar soglio,</l>
+          <l>stava poco anzi il giorno</l>
+          <l>pur de le reti a la custodia intento,</l>
+          <l>quando ecco in un momento</l>
+          <l>veggio da l’alte navi</l>
+          <l>raccorre ancore, e cavi,</l>
+          <l>e le vele spiegar da l’alte antenne:</l>
+          <l>non eran lungi un tirar d’arco appena</l>
+          <l>l’umide prore a l’arenoso lido,</l>
+          <l>quand’a ferir mi venne</l>
+          <l>sì miserabil grido,</l>
+          <l>ch’il sangue m’agghiacciò per ogni vena;</l>
+          <l>volgomi, e per l’arena</l>
+          <l>donna veggio venir tutt’anelante:</l>
+          <l>ahi qual aspro governo</l>
+          <l>de le tenere piante</l>
+          <l>facea quel suol troppo sassoso, e duro,</l>
+          <l>o qual l’almo sembiante</l>
+          <l>nembo di duol copria torbido oscuro.</l>
+          <l>Non mai non mai, ve ‘l giuro,</l>
+          <l>sì miserabil vista</l>
+          <l>a mortal guardo apparse;</l>
+          <l>gioco del vento sparse</l>
+          <l>le chiome a tergo avea,</l>
+          <l>e i lagrimosi lumi</l>
+          <l>fissi correndo pur nel mar tenea,</l>
+          <l>e le palme tendea</l>
+          <l>quasi arrestar, quasi abbracciar volesse</l>
+          <l>i fuggitivi legni,</l>
+          <l>che sordi al suo lamento</l>
+          <l>a par col vento se ne gian per l’onda.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Infelice donzella,</l>
+          <l>ah ben ti scorse a questi nostri lidi</l>
+          <l>fero tenor d’ingiuriosa stella.</l>
+        </sp>
+        <sp who="#nunzio primo">
+          <speaker>NUNZIO PRIMO:</speaker>
+          <l>Poiché correndo venne</l>
+          <l>ove l’onde del mar bagnan l’arene,</l>
+          <l>dal corso il piè ritenne,</l>
+          <l>e con voce di duol gridando disse:</l>
+          <l>«Volgiti ingrato, e mira</l>
+          <l>se quanto infido sei son io fedele.»</l>
+          <l>Indi nel mar s’affisse,</l>
+          <l>e piangendo riprese «Onda crudele,</l>
+          <l>crudel perché m’arresti?»</l>
+          <l>Scorgimi morta almen, se non in vita,</l>
+          <l>là ove lacera, e guasta</l>
+          <l>mi rivegga il crudel, che m’ha tradita:</l>
+          <l>e ripigliando il corso</l>
+          <l>già forsennata s’immergea ne l’acque;</l>
+          <l>ma giunto a’ suo soccorso</l>
+          <l>schiera di pescator, com’al ciel piacque</l>
+          <l>la ritrasser da l’onda in sul terreno.</l>
+          <l>Ivi affannata, e stanca,</l>
+          <l>fredda qual neve, e bianca,</l>
+          <l>mancar gli spirti in quel leggiadro seno.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ahi miserabil caso, ah fero inganno,</l>
+          <l>pur troppo di pietà degno, e di pianto;</l>
+          <l>ma che seguì dopo cotanto affanno?</l>
+        </sp>
+        <sp who="#nunzio primo">
+          <speaker>NUNZIO PRIMO:</speaker>
+          <l>Ne le pietose braccia</l>
+          <l>di quell’amica gente,</l>
+          <l>così tra morta, e viva</l>
+          <l>abbandonossi alquanto;</l>
+          <l>poscia riprese un pianto,</l>
+          <l>che dolce sì da que’ begl’occhi usciva,</l>
+          <l>che non pur l’alme, e i cori,</l>
+          <l>ma intenerir parea gli scogli, e i sassi:</l>
+          <l>più non soffrii mirar fra tai dolori</l>
+          <l>la nobil donna, e qui rivolsi i passi.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Misera giovinetta,</l>
+          <l>nel cui tenero seno</l>
+          <l>sì fiero stral, crudo destin saetta;</l>
+          <l>deh che farai per questo ermo terreno,</l>
+          <l>che farai tu d’ogni conforto lunge?</l>
+          <l>Se ne l’alto sereno</l>
+          <l>pietà di te non giunge,</l>
+          <l>non so, non so qual fine</l>
+          <l>tanto cordoglio avrà tante ruine.</l>
+          <l>Deh se tra gl’alti regi</l>
+          <l>son le frodi, e gl’inganni, e glorie, e pregi,</l>
+          <l>felici noi, cui destinaro i fati</l>
+          <l>abitator di solitarie arene,</l>
+          <l>per questi scogli amati</l>
+          <l>volan l’ore serene,</l>
+          <l>ne dan battaglia a i cori</l>
+          <l>fervida speme, e gelidi timori.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>NUNZIO PRIMO</head>Se non m’inganna il guardo,ecco la nobil donna,deh come move il piè dolente, e tardo.Scena settimaArianna, Dorilla, coro di Pescatori.ARIANNALasciatemi morire,lasciatemi morire,e che volete voi, che mi confortein così dura sorte,in così gran martire?Lasciatemi morire.<sp who="#nunzio primo">
+          <speaker>NUNZIO PRIMO:</speaker>
+          <l>Se non m’inganna il guardo,</l>
+          <l>ecco la nobil donna,</l>
+          <l>deh come move il piè dolente, e tardo.</l>
+          <l>Scena settima</l>
+          <l>Arianna, Dorilla, coro di Pescatori.</l>
+          <l>ARIANNA</l>
+          <l>Lasciatemi morire,</l>
+          <l>lasciatemi morire,</l>
+          <l>e che volete voi, che mi conforte</l>
+          <l>in così dura sorte,</l>
+          <l>in così gran martire?</l>
+          <l>Lasciatemi morire.</l>
+        </sp>
+        <stage>NUNZIO PRIMOSe non m’inganna il guardo,ecco la nobil donna,deh come move il piè dolente, e tardo.Scena settimaArianna, Dorilla, coro di Pescatori.ARIANNALasciatemi morire,lasciatemi morire,e che volete voi, che mi confortein così dura sorte,in così gran martire?Lasciatemi morire.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>In van lingua mortale</l>
+          <l>in van porge conforto,</l>
+          <l>dove infinito è il male.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>O Teseo, o Teseo mio,</l>
+          <l>sì che mio ti vo dir, che mio pur sei,</l>
+          <l>benché t’involi, ahi crudo, a gl’occhi miei.</l>
+          <l>Volgiti Teseo mio,</l>
+          <l>volgiti Teseo, o dio,</l>
+          <l>volgiti indietro a rimirar colei,</l>
+          <l>che lasciato ha per te la patria, e il regno,</l>
+          <l>e in queste arene ancora</l>
+          <l>cibo di fiere dispietate, e crude</l>
+          <l>lascerà l’ossa ignude.</l>
+          <l>O Teseo, o Teseo mio</l>
+          <l>se tu sapessi, o dio,</l>
+          <l>se tu sapessi, ohimè, come s’affanna</l>
+          <l>la povera Arianna,</l>
+          <l>forse forse pentito</l>
+          <l>rivolgeresti ancor la prora al lito;</l>
+          <l>ma con l’aure serene</l>
+          <l>tu te ne vai felice, ed io qui piango.</l>
+          <l>A te prepara Atene</l>
+          <l>liete pompe superbe, ed io rimango</l>
+          <l>cibo di fere in solitarie arene.</l>
+          <l>Te l’uno, e l’altro tuo vecchio parente</l>
+          <l>stringerà lieto, ed io</l>
+          <l>più non vedrovvi, o madre, o padre mio.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ahi, che ‘l cor mi si spezza;</l>
+          <l>a qual misero fin correr ti veggio</l>
+          <l>sventurata bellezza.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Dove, dove è la fede,</l>
+          <l>che tanto mi giuravi</l>
+          <l>così ne l’alta sede</l>
+          <l>tu mi ripon de gl’avi?</l>
+          <l>Son queste le corone,</l>
+          <l>onde m’adorni il crine?</l>
+          <l>Questi gli scettri sono,</l>
+          <l>queste le gemme, e gl’ori?</l>
+          <l>Lasciarmi in abbandono</l>
+          <l>a fera, che mi strazi, e mi divori?</l>
+          <l>Ah Teseo, ah Teseo mio,</l>
+          <l>lascerai tu morire</l>
+          <l>in van piangendo, in van gridando aita</l>
+          <l>la misera Arianna,</l>
+          <l>ch’a te fidossi, e ti diè gloria, e vita?</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Vinta da l’aspro duolo</l>
+          <l>non s’accorge la misera, ch’indarno</l>
+          <l>vanno i preghi, e i sospir, con l’aure a volo.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Ahi, che non pur risponde;</l>
+          <l>ahi, che più d’aspe è sordo a’ miei lamenti.</l>
+          <l>O nembi, o turbi, o venti</l>
+          <l>sommergetelo voi dentr’a quell’onde.</l>
+          <l>Correte orche, balene,</l>
+          <l>e de le membra immonde</l>
+          <l>empite le voragini profonde.</l>
+          <l>Che parlo, ahi, che vaneggio?</l>
+          <l>Misera, ohimè, che chieggio?</l>
+          <l>O Teseo, o Teseo mio,</l>
+          <l>non son, non son quell’io,</l>
+          <l>non son quell’io, che i feri detti sciolse,</l>
+          <l>parlò l’affanno mio, parlò il dolore,</l>
+          <l>parlò la lingua sì, ma non già il core.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Verace amor, degno, ch’il mondo ammiri</l>
+          <l>ne le miserie estreme</l>
+          <l>non sai chieder vendetta, e non t’adiri.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Misera, ancor do loco</l>
+          <l>a la tradita speme, e non si spegne</l>
+          <l>fra tanto scherno ancor d’amor il foco?</l>
+          <l>Spegni tu morte omai le fiamme indegne.</l>
+          <l>O madre, o padre, o de l’antico regno</l>
+          <l>superbi alberghi, ov’ebbi d’or la cuna:</l>
+          <l>o servi, o fidi amici (ahi fato indegno)</l>
+          <l>mirate ove m’ha scorto empia fortuna,</l>
+          <l>mirate di che duol m’han fatto erede</l>
+          <l>l’amor mio, la mia fede, e l’altrui inganno,</l>
+          <l>così va chi tropp’ama, e troppo crede</l>
+          <l>di magnanimo cor che morte sprezza.</l>
+        </sp>
+        <sp who="#dorilla">
+          <speaker>DORILLA:</speaker>
+          <l>Odo le voci, o figlia, o regia figlia</l>
+          <l>arma contr’il destin l’animo altero,</l>
+          <l>mira se ricovrar nel sen di morte</l>
+          <l>è di donna real degno pensiero.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Nacqui regina, e ne l’antica Creta</l>
+          <l>fu bell’il viver mio, fin ch’al ciel piacque,</l>
+          <l>tempo è ch’io mora; al mio voler t’acqueta.</l>
+        </sp>
+        <sp who="#dorilla">
+          <speaker>DORILLA:</speaker>
+          <l>Qual si aggira, e per lo ciel si sente</l>
+          <l>confuso mormorar di voci, e squille,</l>
+          <l>odi, ch’a mille a mille</l>
+          <l>cantan guerriere trombe,</l>
+          <l>odi come rimbombe</l>
+          <l>di timpani e di corni il rauco grido.</l>
+          <l>Regina, al lido al lido,</l>
+          <l>ecco Teseo, che riede,</l>
+          <l>ecco l’amato sposo,</l>
+          <l>che temi omai, che tardi,</l>
+          <l>movigli incontro il piede,</l>
+          <l>ecco lo sposo tuo, che fai, che guardi?</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Vivo, moro, o vaneggio?</l>
+          <l>O pur son larva, od ombra?</l>
+          <l>Lassa, che far debb’io, che creder deggio?</l>
+        </sp>
+        <sp who="#dorilla">
+          <speaker>DORILLA:</speaker>
+          <l>Sgombra ogni tema, sgombra,</l>
+          <l>affisati colà dond’il suon venne.</l>
+          <l>Non vedi omai, non vedi</l>
+          <l>il porto ingombro già da mille antenne?</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Ma che sian di Teseo chi m’assicura?</l>
+          <l>Ancor pensi nudrir gl’aspri dolori</l>
+          <l>speranza iniqua? Ah mori</l>
+          <l>non cercar Arianna altra ventura.</l>
+        </sp>
+        <sp who="#dorilla">
+          <speaker>DORILLA:</speaker>
+          <l>Ne l’ampio sen di morte</l>
+          <l>ricovrar ponno ognor gl’egri mortali,</l>
+          <l>rifugio estremo a disperata sorte.</l>
+          <l>Ma de’ tuoi gravi mali</l>
+          <l>forse non lungi è il fin, deh vien al lido,</l>
+          <l>non sprezzar le mie voci alma gentile,</l>
+          <l>s’ospite pur ti fui cortese, e fido.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Io son, io son contenta,</l>
+          <l>scorgim’ov’a te piace;</l>
+          <l>ma ch’ei mi lasci, e spregi,</l>
+          <l>or torni, e mi raccolga, è folle speme:</l>
+          <l>non si lieve i pensier cangiono i regi.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>CORO</head>Brevi momenti scopriranno il vero;ma di vederti ancor lieta, e felicenel cor mi dice un mio fatal pensiero.Su l’orride paludide l’Acheronte oscuro,sentier penoso, e duro,per mostri orrendi, e crudifermò vedovo amantel’innamorate piante.Non le tre fauci immenseformidabil latrato,non di Caron turbatol’orride luci accenseda la sì dubbia impresaarrestar l’alma accesa.Quinci impetrò mercededi nobil cetra al canto,ma qual più degno vanto,qual più sincera fedescender al regno ombroso,cambio d’amato sposo?E pur pregio sì chiaroha femminil virtute,quinci non fur già mute,ma sovra il sole alzaroquasi nume celestele greche muse Alceste.Deh se quell’arco stessopur tendi invitto arciero,se di tue glorie il veronarrami Amor, Permesso.Ergi novo trionfo,deh rieda omai Teseo.Scena ottavaNunzio secondo e Coro.NUNZIO SECONDOSpiega le penne d’oro,fendi le nubi Amor nunzio giocondo,tu le dolcezze loro,e tu le glorie tue palesa al mondo.Narrar pregi divin, gaudi celesti,è per lingua mortal soverchio pondo.<sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Brevi momenti scopriranno il vero;</l>
+          <l>ma di vederti ancor lieta, e felice</l>
+          <l>nel cor mi dice un mio fatal pensiero.</l>
+          <l>Su l’orride paludi</l>
+          <l>de l’Acheronte oscuro,</l>
+          <l>sentier penoso, e duro,</l>
+          <l>per mostri orrendi, e crudi</l>
+          <l>fermò vedovo amante</l>
+          <l>l’innamorate piante.</l>
+          <l>Non le tre fauci immense</l>
+          <l>formidabil latrato,</l>
+          <l>non di Caron turbato</l>
+          <l>l’orride luci accense</l>
+          <l>da la sì dubbia impresa</l>
+          <l>arrestar l’alma accesa.</l>
+          <l>Quinci impetrò mercede</l>
+          <l>di nobil cetra al canto,</l>
+          <l>ma qual più degno vanto,</l>
+          <l>qual più sincera fede</l>
+          <l>scender al regno ombroso,</l>
+          <l>cambio d’amato sposo?</l>
+          <l>E pur pregio sì chiaro</l>
+          <l>ha femminil virtute,</l>
+          <l>quinci non fur già mute,</l>
+          <l>ma sovra il sole alzaro</l>
+          <l>quasi nume celeste</l>
+          <l>le greche muse Alceste.</l>
+          <l>Deh se quell’arco stesso</l>
+          <l>pur tendi invitto arciero,</l>
+          <l>se di tue glorie il vero</l>
+          <l>narrami Amor, Permesso.</l>
+          <l>Ergi novo trionfo,</l>
+          <l>deh rieda omai Teseo.</l>
+          <l>Scena ottava</l>
+          <l>Nunzio secondo e Coro.</l>
+          <l>NUNZIO SECONDO</l>
+          <l>Spiega le penne d’oro,</l>
+          <l>fendi le nubi Amor nunzio giocondo,</l>
+          <l>tu le dolcezze loro,</l>
+          <l>e tu le glorie tue palesa al mondo.</l>
+          <l>Narrar pregi divin, gaudi celesti,</l>
+          <l>è per lingua mortal soverchio pondo.</l>
+        </sp>
+        <stage>COROBrevi momenti scopriranno il vero;ma di vederti ancor lieta, e felicenel cor mi dice un mio fatal pensiero.Su l’orride paludide l’Acheronte oscuro,sentier penoso, e duro,per mostri orrendi, e crudifermò vedovo amantel’innamorate piante.Non le tre fauci immenseformidabil latrato,non di Caron turbatol’orride luci accenseda la sì dubbia impresaarrestar l’alma accesa.Quinci impetrò mercededi nobil cetra al canto,ma qual più degno vanto,qual più sincera fedescender al regno ombroso,cambio d’amato sposo?E pur pregio sì chiaroha femminil virtute,quinci non fur già mute,ma sovra il sole alzaroquasi nume celestele greche muse Alceste.Deh se quell’arco stessopur tendi invitto arciero,se di tue glorie il veronarrami Amor, Permesso.Ergi novo trionfo,deh rieda omai Teseo.Scena ottavaNunzio secondo e Coro.NUNZIO SECONDOSpiega le penne d’oro,fendi le nubi Amor nunzio giocondo,tu le dolcezze loro,e tu le glorie tue palesa al mondo.Narrar pregi divin, gaudi celesti,è per lingua mortal soverchio pondo.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Già già Tirsi gentil ne’ tuoi sembianti</l>
+          <l>leggo la giocondissima novella:</l>
+          <l>pur giunse anima bella,</l>
+          <l>pur giunse il fin de’ dolorosi pianti.</l>
+        </sp>
+        <sp who="#nunzio secondo">
+          <speaker>NUNZIO SECONDO:</speaker>
+          <l>O quali, o quali amanti</l>
+          <l>oggi congiunge amore: o cieli, o stelle,</l>
+          <l>dite, vedeste mai, rotando intorno,</l>
+          <l>arder in sì bel foco alme sì belle?</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Pur fe’ ritorno, e pur cangiò pensiero:</l>
+          <l>o possanza, o virtute</l>
+          <l>d’un ignudo fanciul, d’un cieco arciero.</l>
+        </sp>
+        <sp who="#nunzio secondo">
+          <speaker>NUNZIO SECONDO:</speaker>
+          <l>Non fu, non fu Teseo</l>
+          <l>quel che dianzi piegò le vele in porto;</l>
+          <l>altr’amante, altro sposo</l>
+          <l>ha messo in quel bel sen pace, e conforto.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Dunque quetar potero</l>
+          <l>altri, ch’il suo Teseo l’aspro tormento?</l>
+          <l>Deh di tanto stupore,</l>
+          <l>ch’al gioir mi fa lento,</l>
+          <l>sgombrami Tirsi omai, sgombram’il core.</l>
+        </sp>
+        <sp who="#nunzio secondo">
+          <speaker>NUNZIO SECONDO:</speaker>
+          <l>Bacco, ch’in cento nomi</l>
+          <l>risonar glorioso il mondo sente;</l>
+          <l>Bacco, che d’oriente</l>
+          <l>mille tiranni, e mille mostri ha domi,</l>
+          <l>fervido amante ha sì gran foco accolto,</l>
+          <l>(fortunata donzella)</l>
+          <l>ch’altro non sa mirar, ch’il suo bel volto!</l>
+          <l>Né di men foco anch’ella</l>
+          <l>arde beata, e negl’amati lumi</l>
+          <l>affissa pur le tremule pupille,</l>
+          <l>che di dolenti stelle</l>
+          <l>pur dianzi scaturir torrenti, e fiumi.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Provvidenza d’amor, gentil’aita,</l>
+          <l>spegner per nova fiamm’antico ardore,</l>
+          <l>e piagando sanar mortal ferita,</l>
+          <l>ma deh fanne palese</l>
+          <l>come qui giunge, e come</l>
+          <l>sì pronto amor le nobil alme accese?</l>
+        </sp>
+        <sp who="#nunzio secondo">
+          <speaker>NUNZIO SECONDO:</speaker>
+          <l>Per far di mille palme, e mille allori</l>
+          <l>corona eterna a le paterne sponde,</l>
+          <l>correa l’onde profonde</l>
+          <l>bel vincitor de gl’indi il gran tebano.</l>
+          <l>Ma qui piegar convenne,</l>
+          <l>spinte dal vento le velate antenne.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>O graziosi venti,</l>
+          <l>pur vi commosse il suon de bei lamenti.</l>
+        </sp>
+        <sp who="#nunzio secondo">
+          <speaker>NUNZIO SECONDO:</speaker>
+          <l>Quando dal mar disceso</l>
+          <l>la bella donna scorse,</l>
+          <l>che perdut’ogni speme</l>
+          <l>empiea d’alti sospir l’aure serene,</l>
+          <l>ratto ver lei l’altere piante torse;</l>
+          <l>e visto (ahi vista oscura)</l>
+          <l>com’ei le fu davanti,</l>
+          <l>l’ammirabil beltà disfarsi in pianti;</l>
+          <l>ne’ lagrimosi rai di quel bel viso</l>
+          <l>l’immortal guardo affisse,</l>
+          <l>e con pietoso suon così le disse:</l>
+          <l>«Qual de le sacre dive</l>
+          <l>vegg’io, che su da l’alto</l>
+          <l>discende a sospirar per queste rive?</l>
+          <l>Deh chi fa lagrimar sì dolci lumi?</l>
+          <l>Qual move aspro destin sì crud’assalto,</l>
+          <l>che celeste beltà turbi, e consumi?»</l>
+          <l>«Donna non pur mortale,</l>
+          <l>ma tra la mortal gente</l>
+          <l>la più misera vedi, e più dolente»,</l>
+          <l>rispose, e col bel velo</l>
+          <l>asciugando i begl’occhi,</l>
+          <l>sciolse un sospir, che lagrimonne il cielo.</l>
+          <l>Indi a contar si diede</l>
+          <l>come dal patrio regno</l>
+          <l>trasse fugace il piede,</l>
+          <l>per seguir l’orme de l’amante indegno:</l>
+          <l>e con sì dolci, e sì pietosi accenti</l>
+          <l>la dolorosa storia</l>
+          <l>tutta narrogli a pien de’ suoi tormenti,</l>
+          <l>che nel celeste seno</l>
+          <l>di pietate, e d’amore</l>
+          <l>fiamme destò sì vive, e sì cocenti,</l>
+          <l>che si vedea nel volto ardergli il core,</l>
+          <l>e ‘n suon più che mortale,</l>
+          <l>che ben lo palesar celeste prole,</l>
+          <l>queste sciolse dal cor dolci parole:</l>
+          <l>«Sgombra ogni duol, che la bell’alm’accora,</l>
+          <l>non fu degno di te terreno amante,</l>
+          <l>servo di tua beltà t’ama e t’adora,</l>
+          <l>figlio immortal de l’immortal tonante.»</l>
+          <l>Al dolce suon de l’infiammate note</l>
+          <l>tacque modesta, e chinò a terra il ciglio</l>
+          <l>e d’un vago vermiglio</l>
+          <l>più bel che rosa colorì le gote.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>O silenzio cortese,</l>
+          <l>quanto tacito più, vi è più facondo.</l>
+        </sp>
+        <sp who="#nunzio secondo">
+          <speaker>NUNZIO SECONDO:</speaker>
+          <l>Ben da quel dio giocondo</l>
+          <l>fur del muto parlar le voci intese,</l>
+          <l>e quella man di tante palme altera</l>
+          <l>nuda le porse, ed ella</l>
+          <l>con la man bella in un le diede il core.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Fortunata bellezza,</l>
+          <l>bellezza al ciel gradita,</l>
+          <l>perch’un dio ti raccolga, un uom ti sprezza.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>NUNZIO SECONDO</head>Arder l’onde, e l’arene,e d’amoroso zelovidesi in quel momento arder il cielo,ma per l’aure serenefermo su le bell’alial guardo de mortalivisibilmente dimostrossi Amore,e con celeste suonoqueste voci s’udir gioconde, e liete:«Ardete anime belle,entr’il bel foco mio beate ardete,il vostro bel desio vien da le stelle,de l’alte gioie mieecco tutto per voi verso il tesoro.»Indi per l’alto ciel battendo i vanni,le nubi colorì di luce, e d’oro.Lampeggiò l’aere, e fuor del mar profondo(spettacolo giocondo)vidersi mille ninfe, e mille dive.Ma de gl’allegri cantiodo il ciel, che rimbomba, amici, amici,ecco gli sposi, ecco i reali amanti.Scena nonaCoro di Soldati di Bacco.COROSpiega omai giocondo numel’aure piume,vien pur lieto, amor t’appella.Stringi, stringi i dolci nodi,stringi, e godid’allacciar coppia sì bella.Di più raggi, o re del giorno,splenda, adornoquesto dì bello, e gentile,dì felice, e fortunato,dì beato,da segnar con aureo stile.A l’aspetto sereno, al nobil volto,(sembianze altere, e nove)deh come degno appar figlio di Giove.<sp who="#nunzio secondo">
+          <speaker>NUNZIO SECONDO:</speaker>
+          <l>Arder l’onde, e l’arene,</l>
+          <l>e d’amoroso zelo</l>
+          <l>videsi in quel momento arder il cielo,</l>
+          <l>ma per l’aure serene</l>
+          <l>fermo su le bell’ali</l>
+          <l>al guardo de mortali</l>
+          <l>visibilmente dimostrossi Amore,</l>
+          <l>e con celeste suono</l>
+          <l>queste voci s’udir gioconde, e liete:</l>
+          <l>«Ardete anime belle,</l>
+          <l>entr’il bel foco mio beate ardete,</l>
+          <l>il vostro bel desio vien da le stelle,</l>
+          <l>de l’alte gioie mie</l>
+          <l>ecco tutto per voi verso il tesoro.»</l>
+          <l>Indi per l’alto ciel battendo i vanni,</l>
+          <l>le nubi colorì di luce, e d’oro.</l>
+          <l>Lampeggiò l’aere, e fuor del mar profondo</l>
+          <l>(spettacolo giocondo)</l>
+          <l>vidersi mille ninfe, e mille dive.</l>
+          <l>Ma de gl’allegri canti</l>
+          <l>odo il ciel, che rimbomba, amici, amici,</l>
+          <l>ecco gli sposi, ecco i reali amanti.</l>
+          <l>Scena nona</l>
+          <l>Coro di Soldati di Bacco.</l>
+          <l>CORO</l>
+          <l>Spiega omai giocondo nume</l>
+          <l>l’aure piume,</l>
+          <l>vien pur lieto, amor t’appella.</l>
+          <l>Stringi, stringi i dolci nodi,</l>
+          <l>stringi, e godi</l>
+          <l>d’allacciar coppia sì bella.</l>
+          <l>Di più raggi, o re del giorno,</l>
+          <l>splenda, adorno</l>
+          <l>questo dì bello, e gentile,</l>
+          <l>dì felice, e fortunato,</l>
+          <l>dì beato,</l>
+          <l>da segnar con aureo stile.</l>
+          <l>A l’aspetto sereno, al nobil volto,</l>
+          <l>(sembianze altere, e nove)</l>
+          <l>deh come degno appar figlio di Giove.</l>
+        </sp>
+        <stage>NUNZIO SECONDOArder l’onde, e l’arene,e d’amoroso zelovidesi in quel momento arder il cielo,ma per l’aure serenefermo su le bell’alial guardo de mortalivisibilmente dimostrossi Amore,e con celeste suonoqueste voci s’udir gioconde, e liete:«Ardete anime belle,entr’il bel foco mio beate ardete,il vostro bel desio vien da le stelle,de l’alte gioie mieecco tutto per voi verso il tesoro.»Indi per l’alto ciel battendo i vanni,le nubi colorì di luce, e d’oro.Lampeggiò l’aere, e fuor del mar profondo(spettacolo giocondo)vidersi mille ninfe, e mille dive.Ma de gl’allegri cantiodo il ciel, che rimbomba, amici, amici,ecco gli sposi, ecco i reali amanti.Scena nonaCoro di Soldati di Bacco.COROSpiega omai giocondo numel’aure piume,vien pur lieto, amor t’appella.Stringi, stringi i dolci nodi,stringi, e godid’allacciar coppia sì bella.Di più raggi, o re del giorno,splenda, adornoquesto dì bello, e gentile,dì felice, e fortunato,dì beato,da segnar con aureo stile.A l’aspetto sereno, al nobil volto,(sembianze altere, e nove)deh come degno appar figlio di Giove.</stage>
+        <sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>Mirate o voi del cielo,</l>
+          <l>mirate, o voi mortali,</l>
+          <l>d’Amor l’altere glorie, o face, o strali.</l>
+        </sp>
+        <sp who="#arianna">
+          <speaker>ARIANNA:</speaker>
+          <l>Gioite al gioir mio,</l>
+          <l>al gioir mio, ch’ogni pensier avanza,</l>
+          <l>talché di maggior ben non è speranza.</l>
+          <l>Sovr’ogn’uman desio</l>
+          <l>beato è il cor ch’ha per conforto un dio.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>CORO</head>Fortunati sospir, pianti beati,cui cotanto confortodestinaron del ciel gl’eterni fati.Scena decimaVenere uscendo dal mare.VENEREAvventurosa sposa,di celeste amator godi gl’amori,godi, e nel sen divin lieta riposa.Ne le dolcezze tue vegg’oggi il mondo,che sotto fé d’amor tradito coresanno gli dèi del ciel tornar giocondo.Scena undicesimaGiove aperto il cielo.<sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Fortunati sospir, pianti beati,</l>
+          <l>cui cotanto conforto</l>
+          <l>destinaron del ciel gl’eterni fati.</l>
+          <l>Scena decima</l>
+          <l>Venere uscendo dal mare.</l>
+          <l>VENERE</l>
+          <l>Avventurosa sposa,</l>
+          <l>di celeste amator godi gl’amori,</l>
+          <l>godi, e nel sen divin lieta riposa.</l>
+          <l>Ne le dolcezze tue vegg’oggi il mondo,</l>
+          <l>che sotto fé d’amor tradito core</l>
+          <l>sanno gli dèi del ciel tornar giocondo.</l>
+          <l>Scena undicesima</l>
+          <l>Giove aperto il cielo.</l>
+        </sp>
+        <stage>COROFortunati sospir, pianti beati,cui cotanto confortodestinaron del ciel gl’eterni fati.Scena decimaVenere uscendo dal mare.VENEREAvventurosa sposa,di celeste amator godi gl’amori,godi, e nel sen divin lieta riposa.Ne le dolcezze tue vegg’oggi il mondo,che sotto fé d’amor tradito coresanno gli dèi del ciel tornar giocondo.Scena undicesimaGiove aperto il cielo.</stage>
+        <sp who="#giove">
+          <speaker>GIOVE:</speaker>
+          <l>Dopo trionfi, e palme,</l>
+          <l>dopo sospiri, e pianti,</l>
+          <l>riposate felici, o ben nat’alme;</l>
+          <l>sovra le sfere erranti,</l>
+          <l>sovra le stelle, e ‘l sole</l>
+          <l>seggio v’attende, o mia diletta prole.</l>
+        </sp>
+        <sp who="#bacco">
+          <speaker>BACCO:</speaker>
+          <l>Ne l’eterno sereno</l>
+          <l>meco raccolta, entro gl’eterei scanni</l>
+          <l>lieta vedrai colmo d’ambrosia il seno,</l>
+          <l>sotto l’immortal piè correr gl’anni.</l>
+          <l>Ivi tra sommi dèi de l’alto coro,</l>
+          <l>le più lucide stelle</l>
+          <l>faran del tuo bel crin ghirland’alloro:</l>
+          <l>gloriosa mercé, d’alma, che sprezza</l>
+          <l>per celeste desio mortal bellezza.</l>
+          <l>Fine del libretto.</l>
+        </sp>
+        <stage>BACCONe l’eterno serenomeco raccolta, entro gl’eterei scannilieta vedrai colmo d’ambrosia il seno,sotto l’immortal piè correr gl’anni.Ivi tra sommi dèi de l’alto coro,le più lucide stellefaran del tuo bel crin ghirland’alloro:gloriosa mercé, d’alma, che sprezzaper celeste desio mortal bellezza.Fine del libretto.</stage>
+      </div>
+    </body>
+  </text>
+</TEI>
