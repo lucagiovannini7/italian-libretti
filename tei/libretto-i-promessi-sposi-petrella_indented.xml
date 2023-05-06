@@ -1,0 +1,3163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main"> promessi sposi</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="abbondio">
+            <persName>ABBONDIO:</persName>
+          </person>
+          <person xml:id="renzo">
+            <persName>RENZO:</persName>
+          </person>
+          <person xml:id="cristoforo">
+            <persName>CRISTOFORO:</persName>
+          </person>
+          <person xml:id="coro interno">
+            <persName>CORO INTERNO:</persName>
+          </person>
+          <person xml:id="agnese">
+            <persName>AGNESE:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="perpetua">
+            <persName>PERPETUA:</persName>
+          </person>
+          <person xml:id="attilio">
+            <persName>ATTILIO:</persName>
+          </person>
+          <person xml:id="contadini">
+            <persName>CONTADINI:</persName>
+          </person>
+          <person xml:id="altri contadini">
+            <persName>ALTRI CONTADINI:</persName>
+          </person>
+          <person xml:id="perpetua e coro">
+            <persName>PERPETUA E CORO:</persName>
+          </person>
+          <person xml:id="voci da fuori">
+            <persName>VOCI DA FUORI:</persName>
+          </person>
+          <person xml:id="lucia, renzo e agnese">
+            <persName>LUCIA, RENZO E AGNESE:</persName>
+          </person>
+          <person xml:id="coro e lucia">
+            <persName>CORO E LUCIA:</persName>
+          </person>
+          <person xml:id="vi">
+            <persName>VI:</persName>
+          </person>
+          <person xml:id="lucia e agnese">
+            <persName>LUCIA E AGNESE:</persName>
+          </person>
+          <person xml:id="rodrigo">
+            <persName>RODRIGO:</persName>
+          </person>
+          <person xml:id="griso">
+            <persName>GRISO:</persName>
+          </person>
+          <person xml:id="alcune donne">
+            <persName>ALCUNE DONNE:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="tiradritto">
+            <persName>TIRADRITTO:</persName>
+          </person>
+          <person xml:id="renzo e lucia">
+            <persName>RENZO E LUCIA:</persName>
+          </person>
+          <person xml:id="uomini">
+            <persName>UOMINI:</persName>
+          </person>
+          <person xml:id="lucia">
+            <persName>LUCIA:</persName>
+          </person>
+          <person xml:id="lucia e renzo">
+            <persName>LUCIA E RENZO:</persName>
+          </person>
+          <person xml:id="l’innominato">
+            <persName>L’INNOMINATO:</persName>
+          </person>
+          <person xml:id="voce interna">
+            <persName>VOCE INTERNA:</persName>
+          </person>
+          <person xml:id="donne">
+            <persName>DONNE:</persName>
+          </person>
+          <person xml:id="griso e tiradritto">
+            <persName>GRISO E TIRADRITTO:</persName>
+          </person>
+          <person xml:id="tutte">
+            <persName>TUTTE:</persName>
+          </person>
+          <person xml:id="contadine">
+            <persName>CONTADINE:</persName>
+          </person>
+          <person xml:id="voci">
+            <persName>VOCI:</persName>
+          </person>
+          <person xml:id="coro e agnese">
+            <persName>CORO E AGNESE:</persName>
+          </person>
+          <person xml:id="altre">
+            <persName>ALTRE:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>RODRIGO</castItem>
+        <castItem>ATTILIO</castItem>
+        <castItem>RENZO</castItem>
+        <castItem>LUCIA</castItem>
+        <castItem>AGNESE</castItem>
+        <castItem>ABBONDIO</castItem>
+        <castItem>PERPETUA</castItem>
+        <castItem>CRISTOFORO</castItem>
+        <castItem>GRISO</castItem>
+        <castItem>TIRADRITTO</castItem>
+        <castItem>AZZECCAGARBUGLI</castItem>
+        <castItem>L’INNOMINATO</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>Nei primi tre atti l’azione ha luogo sul territorio e nelle vicinanze di Lecco, nel quarto atto a Milano. Epoca – La prima metà del secolo XVII.</stage>
+      <div type="act">
+        <head>Due parole agli spettatori</head>Prendendo a svolgere in forma di melodramma I promessi sposi di A. Manzoni, non credo essermi affidato ad una ipotesi troppo ardita supponendo che tutti quanti gli spettatori recheranno in teatro la piena conoscenza del romanzo. Questa convinzione mi ha dato coraggio e mi ha, in certa guisa, appianata la via. Il pubblico (mi son detto) riempirà co’ le proprie reminiscenze le inevitabili lacune del melodramma, e sulle poche scene, sui pochi quadri che io gli andrò esponendo, ricostruirà tutto intero il romanzo. Ho dunque curato, nei tratti che mi fu dato riprodurre, di attenermi fedelmente all’originale; ho fatto quanto era da me acciò le situazioni e i personaggi non apparissero falsati. Qualche volta ho copiato quasi testualmente; e sempre, poi, mi sono studiato di imitare, fin dove i versi lo consentono, quella naturalezza e semplicità di linguaggio, di che il Manzoni è maestro insuperabile. Ragioni ed esigenze che facilmente si indovineranno da chi abbia pratica di teatro, mi imposero di lasciare nella penombra la interessante figura del cardinale Federico Borromeo e di omettere il sublime dialogo della conversione. Quell’episodio, che in ogni modo doveva far parte del melodramma, io fui costretto, per non ingrossare l’elenco già soverchio dei personaggi, a rappresentarlo nelle sue conseguenze e quasi di riflesso. A mio vedere, il cardinale Federigo non poteva figurare in un libretto d’opera se non a patto di essere una parte primaria o una muta apparizione.</div>
+      <div type="act">
+        <head>Ghislanzoni</head>Atto primoPrimo quadro.Scena primaUn trivio di stradicciuole in pendio. A mezzo del trivio, una cappelletta. Muricciolo praticabile. Al di là dei viottoli, un promontorio con case rustiche ed una chiesetta.All’alzarsi della tela, si vedono attraversare la scena e disperdersi in varie direzioni drappelli di Fanciulle che, tornano dalla filanda e Contadini che vengono dai campi, cantando. Griso e Tiradritto si appostano in vicinanza della cappelletta. Più tardi, don Abbondio, che sale verso il paesello, col breviario alla mano. (*)(*) Veggasi, per l’esatta riproduzione della scena, il capitolo primo del romanzo del Manzoni.<div type="scene">
+          <head>Ghislanzoni</head>Atto primoPrimo quadro.Scena primaUn trivio di stradicciuole in pendio. A mezzo del trivio, una cappelletta. Muricciolo praticabile. Al di là dei viottoli, un promontorio con case rustiche ed una chiesetta.All’alzarsi della tela, si vedono attraversare la scena e disperdersi in varie direzioni drappelli di Fanciulle che, tornano dalla filanda e Contadini che vengono dai campi, cantando. Griso e Tiradritto si appostano in vicinanza della cappelletta. Più tardi, don Abbondio, che sale verso il paesello, col breviario alla mano. (*)(*) Veggasi, per l’esatta riproduzione della scena, il capitolo primo del romanzo del Manzoni. <stage>GhislanzoniAtto primoPrimo quadro.Scena primaUn trivio di stradicciuole in pendio. A mezzo del trivio, una cappelletta. Muricciolo praticabile. Al di là dei viottoli, un promontorio con case rustiche ed una chiesetta.All’alzarsi della tela, si vedono attraversare la scena e disperdersi in varie direzioni drappelli di Fanciulle che, tornano dalla filanda e Contadini che vengono dai campi, cantando. Griso e Tiradritto si appostano in vicinanza della cappelletta. Più tardi, don Abbondio, che sale verso il paesello, col breviario alla mano. (*)(*) Veggasi, per l’esatta riproduzione della scena, il capitolo primo del romanzo del Manzoni.</stage>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>(**)</l>
+            <l>Quell’augellin del bosco</l>
+            <l>vola per la campagna;</l>
+            <l>quell’augellin del bosco</l>
+            <l>la notte e il dì si lagna;</l>
+            <l>la notte e il dì si lagna</l>
+            <l>perché non trova amor.</l>
+            <l>(**) L’autore ha seguito il metro e la bizzarra struttura di due canzoni popolari lombarde, di data antichissima, menzionate anche dall’illustre storico Cesare Cantù ne’ suoi «Documenti alla storia universale». Il maestro Petrella, per dare al quadro una tinta affatto locale, volle espressamente riprodurre quelle tradizionali melodie.</l>
+          </sp>
+          <stage>DONNE(**)Quell’augellin del boscovola per la campagna;quell’augellin del boscola notte e il dì si lagna;la notte e il dì si lagnaperché non trova amor.(**) L’autore ha seguito il metro e la bizzarra struttura di due canzoni popolari lombarde, di data antichissima, menzionate anche dall’illustre storico Cesare Cantù ne’ suoi «Documenti alla storia universale». Il maestro Petrella, per dare al quadro una tinta affatto locale, volle espressamente riprodurre quelle tradizionali melodie.</stage>
+          <sp who="#uomini">
+            <speaker>UOMINI:</speaker>
+            <l>Cantiam, danziam, fanciulle,</l>
+            <l>nell’aprile dell’età;</l>
+            <l>cantiam, danziam, fanciulle,</l>
+            <l>presto il verno tornerà.</l>
+          </sp>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>Quell’augellin si arresta</l>
+            <l>sul tuo verone, o bella;</l>
+            <l>quell’augellin ti desta;</l>
+            <l>allo spuntar del dì</l>
+            <l>ti reca una novella:</l>
+            <l>«l’amante tuo morì».</l>
+          </sp>
+          <sp who="#uomini">
+            <speaker>UOMINI:</speaker>
+            <l>Cantiam, danziam, la vita</l>
+            <l>per noi scorra nel piacer;</l>
+            <l>cantiam, danziam, la vita</l>
+            <l>è un baleno passegger.</l>
+            <l>(le voci si allontanano ripetute dagli echi)</l>
+            <l>(appena entrato in scena, leva gli occhi dal breviario, e alla vista dei due bravi si arresta atterrito)</l>
+          </sp>
+          <stage>UOMINICantiam, danziam, la vitaper noi scorra nel piacer;cantiam, danziam, la vitaè un baleno passegger.(le voci si allontanano ripetute dagli echi)(appena entrato in scena, leva gli occhi dal breviario, e alla vista dei due bravi si arresta atterrito)</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Chi saran… quei due… figuri?…</l>
+            <l>Dio… Che facce da galera!…</l>
+            <l>Se mi salvo questa sera</l>
+            <l>un miracolo sarà.</l>
+            <l>Che far debbo?… Chiamar gente?…</l>
+            <l>Fuggir via?… Non è prudente…</l>
+            <l>Altro scampo non vegg’io…</l>
+            <l>(esitando)</l>
+            <l>Ma… se… poi… Mi aiuti iddio!</l>
+            <l>(si avanza verso i bravi recitando un versetto del breviario)</l>
+            <l>Sancti… domine… commendo</l>
+            <l>spirtum meum…Son fritto già…</l>
+          </sp>
+          <stage>ABBONDIOChi saran… quei due… figuri?…Dio… Che facce da galera!…Se mi salvo questa seraun miracolo sarà.Che far debbo?… Chiamar gente?…Fuggir via?… Non è prudente…Altro scampo non vegg’io…(esitando)Ma… se… poi… Mi aiuti iddio!(si avanza verso i bravi recitando un versetto del breviario)Sancti… domine… commendospirtum meum…Son fritto già…</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>(che si sarà accostato)</l>
+            <l>A me badi, o reverendo…</l>
+          </sp>
+          <stage>GRISO(che si sarà accostato)A me badi, o reverendo…</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Chi mi chiama?…</l>
+            <l>(fa per allontanarsi)</l>
+          </sp>
+          <stage>ABBONDIOChi mi chiama?…(fa per allontanarsi)</stage>
+          <sp who="#tiradritto">
+            <speaker>TIRADRITTO:</speaker>
+            <l>Fermo! Olà…</l>
+            <l>(sbarrandogli il cammino)</l>
+          </sp>
+          <stage>TIRADRITTOFermo! Olà…(sbarrandogli il cammino)</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Son qui… Che mi comanda?…</l>
+          </sp>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Ella ha intenzione</l>
+            <l>di congiunger domani in matrimonio</l>
+            <l>il Renzo Tramaglino e la Lucia…</l>
+          </sp>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Intenzione… cioè… no, in fede mia…</l>
+            <l>ma loro sanno bene, o miei signori…</l>
+            <l>che in questi affari… noi… generalmente…</l>
+            <l>mi capiranno…</l>
+          </sp>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>(con forza)</l>
+            <l>Io non capisco niente!</l>
+          </sp>
+          <stage>GRISO(con forza)Io non capisco niente!</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>(balbettando)</l>
+            <l>Gli sposi se la intendono…</l>
+            <l>e quando han combinato…</l>
+            <l>a tormentar poi vengono</l>
+            <l>il povero curato…</l>
+          </sp>
+          <stage>ABBONDIO(balbettando)Gli sposi se la intendono…e quando han combinato…a tormentar poi vengonoil povero curato…</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>(interrompendolo)</l>
+            <l>Or bene: il matrimonio</l>
+            <l>di questi due villani,</l>
+            <l>la sappia, che domani…</l>
+            <l>né mai si dée compir.</l>
+          </sp>
+          <stage>GRISO(interrompendolo)Or bene: il matrimoniodi questi due villani,la sappia, che domani…né mai si dée compir.</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Signori… amabilissimi…</l>
+            <l>è giusto… hanno ragione…</l>
+          </sp>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Don Rodrigo, il magnifico,</l>
+            <l>l’illustre mio padrone</l>
+            <l>la riverisce…</l>
+          </sp>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>(trasalendo)</l>
+            <l>Grazie!…</l>
+            <l>È troppo… è troppo onore…</l>
+            <l>(sento una stretta al cuore…</l>
+            <l>mi sembra di morir).</l>
+            <l>(rimane alcun tempo come pietrificato)</l>
+          </sp>
+          <stage>ABBONDIO(trasalendo)Grazie!…È troppo… è troppo onore…(sento una stretta al cuore…mi sembra di morir).(rimane alcun tempo come pietrificato)</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Dunque?</l>
+          </sp>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Mi suggeriscano…</l>
+            <l>Han detto… che domani?…</l>
+          </sp>
+          <sp who="#griso e tiradritto">
+            <speaker>GRISO E TIRADRITTO:</speaker>
+            <l>(sillabando)</l>
+            <l>Domani, il matrimonio</l>
+            <l>di questi due villani</l>
+            <l>né mai si dée compir…</l>
+          </sp>
+          <stage>GRISO E TIRADRITTO(sillabando)Domani, il matrimoniodi questi due villaniné mai si dée compir…</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Ma… se…</l>
+          </sp>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>(minaccioso)</l>
+            <l>Non più parole…</l>
+          </sp>
+          <stage>GRISO(minaccioso)Non più parole…</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Farò ciò che si vuole…</l>
+          </sp>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>La sua promessa abbiam…</l>
+            <l>(all’altro bravo)</l>
+            <l>Vien gente… allontaniamoci…</l>
+          </sp>
+          <stage>GRISOLa sua promessa abbiam…(all’altro bravo)Vien gente… allontaniamoci…</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Volevo dir…</l>
+          </sp>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Silenzio…</l>
+            <l>Prudenza… o… ci intendiam…</l>
+            <l>(accenna alla pistola e quindi si allontana rapidamente coll’altro bravo)</l>
+          </sp>
+          <stage>GRISOSilenzio…Prudenza… o… ci intendiam…(accenna alla pistola e quindi si allontana rapidamente coll’altro bravo)</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Signori… ascoltino</l>
+            <l>le mie ragioni…</l>
+            <l>ma… dove andarono</l>
+            <l>quei due… birboni?</l>
+            <l>Ho le vertigini,</l>
+            <l>perdo la testa…</l>
+            <l>di forze un briciolo</l>
+            <l>più non mi resta…</l>
+            <l>in sui ginocchi</l>
+            <l>non reggo più…</l>
+          </sp>
+          <sp who="#contadini">
+            <speaker>CONTADINI:</speaker>
+            <l>(che passano per caso)</l>
+            <l>Riveritissimo</l>
+            <l>signor curato…</l>
+            <l>(accostandosi a don Abbondio)</l>
+            <l>Perché… sì pallido?…</l>
+          </sp>
+          <stage>CONTADINI(che passano per caso)Riveritissimosignor curato…(accostandosi a don Abbondio)Perché… sì pallido?…</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Sono ammalato.</l>
+            <l>Nell’ossa… ho un brivido…</l>
+            <l>(Oh! Che pasticcio!…</l>
+            <l>Come cavarmela</l>
+            <l>da questo impiccio?)</l>
+            <l>Sto mal… credetemi…</l>
+            <l>il vero ho detto…</l>
+            <l>(Mi caccio a letto</l>
+            <l>né mi alzo più.)</l>
+          </sp>
+          <sp who="#contadini">
+            <speaker>CONTADINI:</speaker>
+            <l>Alla parrocchia</l>
+            <l>salga con noi…</l>
+            <l>Ciò che le avvenne</l>
+            <l>sapremo poi…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ABBONDIO</head>Grazie… silenzio,un scherzo fu!(sorretto dai contadini, sale barcollando pe ‘l viottolo che mette al paesello)Secondo quadro.Scena secondaCortile nella casa di Lucia. Una scaletta di legno che mette alle stanze superiori. A destra la porta grande d’ingresso. Una vite che si arrampica alla parete. Portichetto. Presso la porta un sedile di pietra.All’alzarsi della tela, una comitiva di donne e di fanciulle si aduna nel mezzo della scena. Più tardi Agnese e Lucia.<sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Grazie… silenzio,</l>
+            <l>un scherzo fu!</l>
+            <l>(sorretto dai contadini, sale barcollando pe ‘l viottolo che mette al paesello)</l>
+            <l>Secondo quadro.</l>
+            <l>Scena seconda</l>
+            <l>Cortile nella casa di Lucia. Una scaletta di legno che mette alle stanze superiori. A destra la porta grande d’ingresso. Una vite che si arrampica alla parete. Portichetto. Presso la porta un sedile di pietra.</l>
+            <l>All’alzarsi della tela, una comitiva di donne e di fanciulle si aduna nel mezzo della scena. Più tardi Agnese e Lucia.</l>
+          </sp>
+          <stage>ABBONDIOGrazie… silenzio,un scherzo fu!(sorretto dai contadini, sale barcollando pe ‘l viottolo che mette al paesello)Secondo quadro.Scena secondaCortile nella casa di Lucia. Una scaletta di legno che mette alle stanze superiori. A destra la porta grande d’ingresso. Una vite che si arrampica alla parete. Portichetto. Presso la porta un sedile di pietra.All’alzarsi della tela, una comitiva di donne e di fanciulle si aduna nel mezzo della scena. Più tardi Agnese e Lucia.</stage>
+          <sp who="#alcune donne">
+            <speaker>ALCUNE DONNE:</speaker>
+            <l>(sottovoce)</l>
+            <l>Che fu?… Che tarda?…</l>
+          </sp>
+          <stage>ALCUNE DONNE(sottovoce)Che fu?… Che tarda?…</stage>
+          <sp who="#altre">
+            <speaker>ALTRE:</speaker>
+            <l>(sottovoce)</l>
+            <l>Gli abiti</l>
+            <l>da sposa or sta provando…</l>
+            <l>Andiam lassù a sorprenderla?</l>
+          </sp>
+          <stage>ALTRE(sottovoce)Gli abitida sposa or sta provando…Andiam lassù a sorprenderla?</stage>
+          <sp who="#altre">
+            <speaker>ALTRE:</speaker>
+            <l>II</l>
+            <l>No… non sta bene…</l>
+          </sp>
+          <stage>ALTREIINo… non sta bene…</stage>
+          <sp who="#altre">
+            <speaker>ALTRE:</speaker>
+            <l>III</l>
+            <l>Quando</l>
+            <l>potrem vederla?…</l>
+          </sp>
+          <stage>ALTREIIIQuandopotrem vederla?…</stage>
+          <sp who="#altre">
+            <speaker>ALTRE:</speaker>
+            <l>IV</l>
+            <l>Diancine!</l>
+            <l>Stasera… L’ha promesso</l>
+            <l>Agnese…</l>
+          </sp>
+          <stage>ALTREIVDiancine!Stasera… L’ha promessoAgnese…</stage>
+          <sp who="#altre">
+            <speaker>ALTRE:</speaker>
+            <l>V</l>
+            <l>E Renzo?</l>
+          </sp>
+          <stage>ALTREVE Renzo?</stage>
+          <sp who="#altre">
+            <speaker>ALTRE:</speaker>
+          </sp>
+          <sp who="#vi">
+            <speaker>VI:</speaker>
+            <l>Anch’esso</l>
+            <l>fra poco qui verrà.</l>
+            <l>(volgendosi verso la scaletta, donde scendono Agnese e Lucia)</l>
+          </sp>
+          <stage>VIAnch’essofra poco qui verrà.(volgendosi verso la scaletta, donde scendono Agnese e Lucia)</stage>
+          <sp who="#tutte">
+            <speaker>TUTTE:</speaker>
+            <l>Viva la sposa! Viva</l>
+            <l>la sposa!…</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(*)</l>
+            <l>(aprendosi il passo col gomito)</l>
+            <l>Eccomi qua.</l>
+            <l>(*) Veggasi la descrizione dell’abbigliamento di Lucia al capitolo II del romanzo.</l>
+            <l>(le donne la circondano esaminandola curiosamente)</l>
+          </sp>
+          <stage>LUCIA(*)(aprendosi il passo col gomito)Eccomi qua.(*) Veggasi la descrizione dell’abbigliamento di Lucia al capitolo II del romanzo.(le donne la circondano esaminandola curiosamente)</stage>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>Il busto di broccato</l>
+            <l>di fiori ricamato,</l>
+            <l>il gonnellin di seta</l>
+            <l>veh! Come ben le sta!</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Dell’alma i sensi esprimervi</l>
+            <l>il labbro mio non sa.</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>(alle donne)</l>
+            <l>Tanto è modesta e timida,</l>
+            <l>quasi parlar non sa.</l>
+            <l>(Lucia si avvicina ad Agnese e le parla con espressione malinconica)</l>
+          </sp>
+          <stage>AGNESE(alle donne)Tanto è modesta e timida,quasi parlar non sa.(Lucia si avvicina ad Agnese e le parla con espressione malinconica)</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Un turbamento insolito</l>
+            <l>m’agita, o madre, il core;</l>
+            <l>in me la gioia alternasi</l>
+            <l>coll’ansie del terrore.</l>
+            <l>All’appressar dell’ora</l>
+            <l>ch’io vagheggiava tanto,</l>
+            <l>mi vien sul ciglio il pianto</l>
+            <l>e la ragion non so.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORO E AGNESE</head>Coraggio! Allegria!Fra poco Luciaa farti felicelo sposo verrà.Sei buona, sei bellanel fior dell’età.Scena terzaRenzo, e dette.<sp who="#coro e agnese">
+            <speaker>CORO E AGNESE:</speaker>
+            <l>Coraggio! Allegria!</l>
+            <l>Fra poco Lucia</l>
+            <l>a farti felice</l>
+            <l>lo sposo verrà.</l>
+            <l>Sei buona, sei bella</l>
+            <l>nel fior dell’età.</l>
+            <l>Scena terza</l>
+            <l>Renzo, e dette.</l>
+          </sp>
+          <stage>CORO E AGNESECoraggio! Allegria!Fra poco Luciaa farti felicelo sposo verrà.Sei buona, sei bellanel fior dell’età.Scena terzaRenzo, e dette.</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(agitato al massimo grado)</l>
+            <l>Lucia… madre…</l>
+          </sp>
+          <stage>RENZO(agitato al massimo grado)Lucia… madre…</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Che fu?</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Così agitato?</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Renzo… Qual novità?…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(dissimulando)</l>
+            <l>Cose da niente…</l>
+            <l>Cose che avvengon… ogni dì. Son stato</l>
+            <l>da don Abbondio. Il nostro matrimonio…</l>
+            <l>doman non si può fare… Egli è malato…</l>
+          </sp>
+          <stage>RENZO(dissimulando)Cose da niente…Cose che avvengon… ogni dì. Son statoda don Abbondio. Il nostro matrimonio…doman non si può fare… Egli è malato…</stage>
+          <sp who="#coro e agnese">
+            <speaker>CORO E AGNESE:</speaker>
+            <l>Malato?… Don Abbondio?…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Gravemente…</l>
+            <l>Sì, mia buona Lucia…</l>
+            <l>e converrà aspettar… fino…</l>
+            <l>(interrompendosi)</l>
+            <l>Ragazze</l>
+            <l>tornate a casa… Come voi vedete,</l>
+            <l>non c’è più il buon umore…</l>
+            <l>(si getta sopra la panca di pietra in attitudine di desolazione)</l>
+          </sp>
+          <stage>RENZOGravemente…Sì, mia buona Lucia…e converrà aspettar… fino…(interrompendosi)Ragazzetornate a casa… Come voi vedete,non c’è più il buon umore…(si getta sopra la panca di pietra in attitudine di desolazione)</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(ad Agnese)</l>
+            <l>Madre… tu il vedi… non mentiva il core!</l>
+          </sp>
+          <stage>LUCIA(ad Agnese)Madre… tu il vedi… non mentiva il core!</stage>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>(sottovoce)</l>
+            <l>È verosimile,</l>
+            <l>è naturale</l>
+            <l>che don Abbondio</l>
+            <l>stia tanto male?…</l>
+            <l>Felice sera!…</l>
+            <l>Coraggio! Addio!</l>
+            <l>(allontanandosi)</l>
+            <l>Saprem domani</l>
+            <l>la verità.</l>
+          </sp>
+          <stage>DONNE(sottovoce)È verosimile,è naturaleche don Abbondiostia tanto male?…Felice sera!…Coraggio! Addio!(allontanandosi)Saprem domanila verità.</stage>
+          <sp who="#lucia, renzo e agnese">
+            <speaker>LUCIA, RENZO E AGNESE:</speaker>
+            <l>Felice sera…</l>
+            <l>Amiche, addio!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>DONNE</head>(uscendo)Poveri sposi!Fanno pietà.(Agnese accompagna le donne fuor della casa, quindi rientra)Scena quartaRenzo, Lucia, Agnese.<sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>(uscendo)</l>
+            <l>Poveri sposi!</l>
+            <l>Fanno pietà.</l>
+            <l>(Agnese accompagna le donne fuor della casa, quindi rientra)</l>
+            <l>Scena quarta</l>
+            <l>Renzo, Lucia, Agnese.</l>
+          </sp>
+          <stage>DONNE(uscendo)Poveri sposi!Fanno pietà.(Agnese accompagna le donne fuor della casa, quindi rientra)Scena quartaRenzo, Lucia, Agnese.</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(balzando in piedi impetuosamente, ed avvicinandosi a Lucia, che è rimasta in disparte desolata)</l>
+            <l>Or che son partite… or che siam soli,</l>
+            <l>possiam parlar. Lucia:</l>
+            <l>vuoi saper chi sia</l>
+            <l>il furfante, il briccone che ha vietato</l>
+            <l>oggi… al signor curato</l>
+            <l>di celebrare il nostro matrimonio?</l>
+          </sp>
+          <stage>RENZO(balzando in piedi impetuosamente, ed avvicinandosi a Lucia, che è rimasta in disparte desolata)Or che son partite… or che siam soli,possiam parlar. Lucia:vuoi saper chi siail furfante, il briccone che ha vietatooggi… al signor curatodi celebrare il nostro matrimonio?</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(da sé sospirando)</l>
+            <l>Dio!… L’indovino già…</l>
+          </sp>
+          <stage>LUCIA(da sé sospirando)Dio!… L’indovino già…</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Quel mostro indegno</l>
+            <l>si chiama don Rodrigo…</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Egli… a tal segno!</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Che?… Voi dunque… sapevate?…</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Io… Purtroppo…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>E tacevate?</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>(avanzandosi)</l>
+            <l>A tua madre… anche a tua madre.</l>
+            <l>O Lucia, celasti il ver!…</l>
+          </sp>
+          <stage>AGNESE(avanzandosi)A tua madre… anche a tua madre.O Lucia, celasti il ver!…</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Perché tacqui lo sa iddio,</l>
+            <l>che mi legge nel pensier.</l>
+            <l>Or… se a voi svelar degg’io…</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Parla!…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Tutto io vuò saper!…</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(con voce commossa)</l>
+            <l>Dalla filanda al paesel salia</l>
+            <l>co’ le compagne… ora faran sei dì;</l>
+            <l>m’era alquanto indugiata nella via,</l>
+            <l>don Rodrigo mi vide… e mi seguì.</l>
+            <l>Confusa… sgomenta… il passo affretto…</l>
+            <l>ma un suon lontano mi ferisce il cor;</l>
+            <l>era una voce che dicea: scommetto!</l>
+            <l>Quindi un riso crudele e schernitor.</l>
+            <l>Venni a casa coll’anima in tempesta…</l>
+            <l>piansi… pregai… repressi anche i sospir…</l>
+            <l>E tacqui, o madre, per non farti mesta…</l>
+            <l>volli esser sola a piangere… a soffrir…</l>
+          </sp>
+          <stage>LUCIA(con voce commossa)Dalla filanda al paesel saliaco’ le compagne… ora faran sei dì;m’era alquanto indugiata nella via,don Rodrigo mi vide… e mi seguì.Confusa… sgomenta… il passo affretto…ma un suon lontano mi ferisce il cor;era una voce che dicea: scommetto!Quindi un riso crudele e schernitor.Venni a casa coll’anima in tempesta…piansi… pregai… repressi anche i sospir…E tacqui, o madre, per non farti mesta…volli esser sola a piangere… a soffrir…</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(impetuosamente, portando la mano al coltello)</l>
+            <l>Oh!… Il birbone! Il dannato! L’assassino!</l>
+          </sp>
+          <stage>RENZO(impetuosamente, portando la mano al coltello)Oh!… Il birbone! Il dannato! L’assassino!</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Deh! Renzo…</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Vi calmate.</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(giungendo le mani)</l>
+            <l>Oh dio!… Pietà!</l>
+          </sp>
+          <stage>LUCIA(giungendo le mani)Oh dio!… Pietà!</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>RENZO</head>Voglio giustizia… Apritemi il cammino…e per mia man giustizia si farà.(si scioglie dalle donne che vorrebbero trattenerlo, ma nell’atto di uscire si incontra col padre Cristoforo il quale gli chiude il passo)Scena quintaIl padre Cristoforo e detti.<div type="scene">
+          <head>RENZO</head>Voglio giustizia… Apritemi il cammino…e per mia man giustizia si farà.(si scioglie dalle donne che vorrebbero trattenerlo, ma nell’atto di uscire si incontra col padre Cristoforo il quale gli chiude il passo)Scena quintaIl padre Cristoforo e detti.<sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Voglio giustizia… Apritemi il cammino…</l>
+            <l>e per mia man giustizia si farà.</l>
+            <l>(si scioglie dalle donne che vorrebbero trattenerlo, ma nell’atto di uscire si incontra col padre Cristoforo il quale gli chiude il passo)</l>
+            <l>Scena quinta</l>
+            <l>Il padre Cristoforo e detti.</l>
+          </sp>
+          <stage>RENZOVoglio giustizia… Apritemi il cammino…e per mia man giustizia si farà.(si scioglie dalle donne che vorrebbero trattenerlo, ma nell’atto di uscire si incontra col padre Cristoforo il quale gli chiude il passo)Scena quintaIl padre Cristoforo e detti.</stage>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(con solennità)</l>
+            <l>Dove corri?</l>
+          </sp>
+          <stage>CRISTOFORO(con solennità)Dove corri?</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(arrestandosi)</l>
+            <l>Padre… voi!…</l>
+          </sp>
+          <stage>RENZO(arrestandosi)Padre… voi!…</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Dio vi manda.</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(sottovoce ad Agnese)</l>
+            <l>Ei tutto sa.</l>
+          </sp>
+          <stage>LUCIA(sottovoce ad Agnese)Ei tutto sa.</stage>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(a Renzo)</l>
+            <l>Provocare il ciel tu vuoi?</l>
+            <l>Fosti sempre onesto e buono…</l>
+            <l>I suoi figli in abbandono</l>
+            <l>il signor non lascerà.</l>
+            <l>(conduce Renzo sul davanti della scena e ripiglia con accento di mite rimprovero, levando le mani al cielo)</l>
+            <l>Ei solo. Ei può confondere</l>
+            <l>chi l’empie trame ordisce;</l>
+            <l>iddio talvolta il reprobo</l>
+            <l>col suo perdon punisce;</l>
+            <l>ma degli afflitti visita</l>
+            <l>le desolate mura,</l>
+            <l>e cangia la sventura</l>
+            <l>in subito gioir.</l>
+          </sp>
+          <stage>CRISTOFORO(a Renzo)Provocare il ciel tu vuoi?Fosti sempre onesto e buono…I suoi figli in abbandonoil signor non lascerà.(conduce Renzo sul davanti della scena e ripiglia con accento di mite rimprovero, levando le mani al cielo)Ei solo. Ei può confonderechi l’empie trame ordisce;iddio talvolta il reprobocol suo perdon punisce;ma degli afflitti visitale desolate mura,e cangia la sventurain subito gioir.</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Come soave all’anima</l>
+            <l>scende la sua parola!</l>
+            <l>Parmi una voce d’angelo</l>
+            <l>che avviva e che consola.</l>
+            <l>Madre… già l’ansie cessano…</l>
+            <l>sparisce ogni tormento;</l>
+            <l>in puro gaudio sento</l>
+            <l>cangiarsi il mio martir.</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(a fra Cristoforo)</l>
+            <l>Di perdonar… di attendere…</l>
+            <l>voi mi parlate ancora…</l>
+            <l>era vicina a sorgere</l>
+            <l>per me una lieta aurora…</l>
+            <l>Un assassino… un demone…</l>
+            <l>ogni mio ben rapisce;</l>
+            <l>se il ciel non lo punisce</l>
+            <l>io lo saprò punir.</l>
+          </sp>
+          <stage>RENZO(a fra Cristoforo)Di perdonar… di attendere…voi mi parlate ancora…era vicina a sorgereper me una lieta aurora…Un assassino… un demone…ogni mio ben rapisce;se il ciel non lo punisceio lo saprò punir.</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Sien grazie a dio, che al povero</l>
+            <l>manda consiglio e aiuto,</l>
+            <l>certo è divin miracolo</l>
+            <l>se il padre è qui venuto.</l>
+            <l>Egli saprà difenderci…</l>
+            <l>vita salvarci e onore;</l>
+            <l>dio gli darà vigore</l>
+            <l>la santa opra a compir.</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(appressandosi a Renzo)</l>
+            <l>Vedi, o Renzo, il ciel ne invia</l>
+            <l>un soccorso inaspettato…</l>
+          </sp>
+          <stage>LUCIA(appressandosi a Renzo)Vedi, o Renzo, il ciel ne inviaun soccorso inaspettato…</stage>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>Sì, mia povera Lucia,</l>
+            <l>ogni mezzo io tenterò…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(al frate)</l>
+            <l>Dunque… a voi già fu narrato…</l>
+            <l>che quel vile?…</l>
+          </sp>
+          <stage>RENZO(al frate)Dunque… a voi già fu narrato…che quel vile?…</stage>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>Io tutto so.</l>
+            <l>(facendosi nel mezzo della scena, ed accennando di voler partire)</l>
+            <l>Il ciel pregate,</l>
+            <l>non vi mostrate;</l>
+            <l>le ciarle inutili</l>
+            <l>convien schivar.</l>
+          </sp>
+          <stage>CRISTOFOROIo tutto so.(facendosi nel mezzo della scena, ed accennando di voler partire)Il ciel pregate,non vi mostrate;le ciarle inutiliconvien schivar.</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Voi ci lasciate?</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Ci abbandonate?</l>
+          </sp>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>Tosto a quell’uomo</l>
+            <l>vado a parlar.</l>
+          </sp>
+          <sp who="#lucia e agnese">
+            <speaker>LUCIA E AGNESE:</speaker>
+            <l>Voi siete un angelo!</l>
+          </sp>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(prendendo la mano a Renzo)</l>
+            <l>Fiducia in dio!</l>
+            <l>Ei sol, rammentalo,</l>
+            <l>vi può salvar.</l>
+            <l>Addio… miei figli…</l>
+          </sp>
+          <stage>CRISTOFORO(prendendo la mano a Renzo)Fiducia in dio!Ei sol, rammentalo,vi può salvar.Addio… miei figli…</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Buon padre… addio.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CRISTOFORO</head>Spero tornar.(Agnese, Renzo e Lucia accompagnano il frate fino alla porta, quindi si addentrano nella casa)Terzo quadro.Scena sestaSale nel palazzo di don Rodrigo.Due porte praticabili, l’una a destra, l’altra nel mezzo, più grande, che mette ad una galleria. (*)Don Rodrigo, il conte Attilio, il dottore Azzeccagarbugli, seduti a tavola con altri Convitati. Domestici che vanno e vengono.(*) Capitolo V del romanzo.<sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>Spero tornar.</l>
+            <l>(Agnese, Renzo e Lucia accompagnano il frate fino alla porta, quindi si addentrano nella casa)</l>
+            <l>Terzo quadro.</l>
+            <l>Scena sesta</l>
+            <l>Sale nel palazzo di don Rodrigo.</l>
+            <l>Due porte praticabili, l’una a destra, l’altra nel mezzo, più grande, che mette ad una galleria. (*)</l>
+            <l>Don Rodrigo, il conte Attilio, il dottore Azzeccagarbugli, seduti a tavola con altri Convitati. Domestici che vanno e vengono.</l>
+            <l>(*) Capitolo V del romanzo.</l>
+          </sp>
+          <stage>CRISTOFOROSpero tornar.(Agnese, Renzo e Lucia accompagnano il frate fino alla porta, quindi si addentrano nella casa)Terzo quadro.Scena sestaSale nel palazzo di don Rodrigo.Due porte praticabili, l’una a destra, l’altra nel mezzo, più grande, che mette ad una galleria. (*)Don Rodrigo, il conte Attilio, il dottore Azzeccagarbugli, seduti a tavola con altri Convitati. Domestici che vanno e vengono.(*) Capitolo V del romanzo.</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>– Era un asino calzato!…</l>
+            <l>– Investire un disarmato!…</l>
+            <l>– Fu una celia… – Fu un misfatto…</l>
+            <l>– Bastonar un messagger!</l>
+            <l>– Non è vero? – Niente affatto!…</l>
+            <l>– Ebbe torto il cavalier.</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(sottovoce al conte Attilio)</l>
+            <l>Caro Attilio, il san Martino</l>
+            <l>non è giunto.</l>
+          </sp>
+          <stage>RODRIGO(sottovoce al conte Attilio)Caro Attilio, il san Martinonon è giunto.</stage>
+          <sp who="#attilio">
+            <speaker>ATTILIO:</speaker>
+            <l>È assai vicino.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Ma tronchiamo la questione…</l>
+            <l>tenga ognuno il suo parer.</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>Orsù!… Un brindisi, signori!</l>
+            <l>Si ricolmino i bicchier!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Bravo!… Viva don Rodrigo!</l>
+            <l>Si ricolmino i bicchier!</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(alzandosi e levando il bicchiere)</l>
+            <l>Fra noi e il nobile</l>
+            <l>nostro cugino,</l>
+            <l>scade, col termine</l>
+            <l>di san Martino,</l>
+            <l>una scommessa</l>
+            <l>che dir non vuo’.</l>
+            <l>Scherzi… facezie…</l>
+            <l>cose da nulla…</l>
+            <l>Infine… trattasi</l>
+            <l>d’una fanciulla…</l>
+            <l>d’un capriccetto,</l>
+            <l>d’una follia</l>
+            <l>che col dispetto</l>
+            <l>più si irritò.</l>
+          </sp>
+          <stage>RODRIGO(alzandosi e levando il bicchiere)Fra noi e il nobilenostro cugino,scade, col terminedi san Martino,una scommessache dir non vuo’.Scherzi… facezie…cose da nulla…Infine… trattasid’una fanciulla…d’un capriccetto,d’una folliache col dispettopiù si irritò.</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Se c’entran femmine</l>
+            <l>trionferete.</l>
+            <l>A voi resistere</l>
+            <l>qual donna può?</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>Debbo combattere</l>
+            <l>l’arte e l’intrigo…</l>
+            <l>di due villani…</l>
+            <l>birbi e impostor…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TUTTI</head>(alzando il bicchiere)Alla vittoriadi don Rodrigo!Vuotiamo i calici,viva l’amor!Scena settimaGriso, indi il padre Cristoforo e detti.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(alzando il bicchiere)</l>
+            <l>Alla vittoria</l>
+            <l>di don Rodrigo!</l>
+            <l>Vuotiamo i calici,</l>
+            <l>viva l’amor!</l>
+            <l>Scena settima</l>
+            <l>Griso, indi il padre Cristoforo e detti.</l>
+          </sp>
+          <stage>TUTTI(alzando il bicchiere)Alla vittoriadi don Rodrigo!Vuotiamo i calici,viva l’amor!Scena settimaGriso, indi il padre Cristoforo e detti.</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>(accostandosi a don Rodrigo e parlandogli all’orecchio)</l>
+            <l>Un frate sta là fuori…</l>
+          </sp>
+          <stage>GRISO(accostandosi a don Rodrigo e parlandogli all’orecchio)Un frate sta là fuori…</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(sorpreso)</l>
+            <l>Un frate!… E vuol?…</l>
+          </sp>
+          <stage>RODRIGO(sorpreso)Un frate!… E vuol?…</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Con lei</l>
+            <l>parlar.</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(Strana è tal visita…)</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Che fu?</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(turbato)</l>
+            <l>Signori miei…</l>
+            <l>a disturbare i brindisi</l>
+            <l>sapete chi arrivò?</l>
+            <l>Un frate…</l>
+          </sp>
+          <stage>RODRIGO(turbato)Signori miei…a disturbare i brindisisapete chi arrivò?Un frate…</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Vada al diavolo!</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>Vada all’inferno…</l>
+            <l>(richiamando il Griso che stava per uscire)</l>
+            <l>No…</l>
+            <l>Aspetta… Griso. – Il nome</l>
+            <l>colui non palesò?</l>
+          </sp>
+          <stage>RODRIGOVada all’inferno…(richiamando il Griso che stava per uscire)No…Aspetta… Griso. – Il nomecolui non palesò?</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Si chiama fra… Cristoforo…</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Egli!… Fra noi… cospetto!</l>
+            <l>(a Rodrigo)</l>
+            <l>È un santo… rammentatelo.</l>
+          </sp>
+          <stage>TUTTIEgli!… Fra noi… cospetto!(a Rodrigo)È un santo… rammentatelo.</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(abbandonando la tavola)</l>
+            <l>(Mal venga al seccator!)</l>
+            <l>(a Griso)</l>
+            <l>Ch’egli entri…</l>
+          </sp>
+          <stage>RODRIGO(abbandonando la tavola)(Mal venga al seccator!)(a Griso)Ch’egli entri…</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(alzandosi)</l>
+            <l>Allontaniamoci…</l>
+            <l>Al fine d’un banchetto,</l>
+            <l>noiose son le prediche…</l>
+            <l>(a Rodrigo)</l>
+            <l>Vi attenderem là fuor.</l>
+          </sp>
+          <stage>TUTTI(alzandosi)Allontaniamoci…Al fine d’un banchetto,noiose son le prediche…(a Rodrigo)Vi attenderem là fuor.</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>Sarò con voi ~ quel tanghero</l>
+            <l>in due minuti sbrigo.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(scherzando)</l>
+            <l>Badate, don Rodrigo…</l>
+            <l>è un santo o un impostor…</l>
+            <l>potrebbe convertirvi…</l>
+          </sp>
+          <stage>TUTTI(scherzando)Badate, don Rodrigo…è un santo o un impostor…potrebbe convertirvi…</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(scherzando)</l>
+            <l>Non son disposto ancor.</l>
+            <l>(i convitati si allontanano per la grande porta, soffermandosi a guardare il padre Cristoforo che viene introdotto da Griso)</l>
+          </sp>
+          <stage>RODRIGO(scherzando)Non son disposto ancor.(i convitati si allontanano per la grande porta, soffermandosi a guardare il padre Cristoforo che viene introdotto da Griso)</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>È un uom che fa miracoli…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CRISTOFORO</head>(levando gli occhi al cielo e giungendo le mani)M’assista ora il signor!(il coro disparisce)Scena ottavaDon Rodrigo e padre Cristoforo.<sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(levando gli occhi al cielo e giungendo le mani)</l>
+            <l>M’assista ora il signor!</l>
+            <l>(il coro disparisce)</l>
+            <l>Scena ottava</l>
+            <l>Don Rodrigo e padre Cristoforo.</l>
+          </sp>
+          <stage>CRISTOFORO(levando gli occhi al cielo e giungendo le mani)M’assista ora il signor!(il coro disparisce)Scena ottavaDon Rodrigo e padre Cristoforo.</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(al frate con piglio brusco)</l>
+            <l>In che posso obbedirla?</l>
+          </sp>
+          <stage>RODRIGO(al frate con piglio brusco)In che posso obbedirla?</stage>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>Vengo a porle un atto di giustizia…</l>
+            <l>A supplicarla d’una carità…</l>
+            <l>Certi uomini… men probi… hanno stornato</l>
+            <l>un povero curato</l>
+            <l>da’ suoi doveri… Ed ella può, signore…</l>
+            <l>la coscienza… l’onore</l>
+            <l>impone dunque a lei…</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(interrompendolo)</l>
+            <l>Dell’onor mio</l>
+            <l>solo custode e difensor son io.</l>
+            <l>Chi alla coscienza mia</l>
+            <l>leggi dettar pretende</l>
+            <l>è un temerario che mi sfida e offende.</l>
+            <l>(breve pausa)</l>
+          </sp>
+          <stage>RODRIGO(interrompendolo)Dell’onor miosolo custode e difensor son io.Chi alla coscienza mialeggi dettar pretendeè un temerario che mi sfida e offende.(breve pausa)</stage>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(con accento umile)</l>
+            <l>Mio signore… ah! Perdonate</l>
+            <l>se vi offese il labbro mio;</l>
+            <l>la parola non sdegnate</l>
+            <l>che per me vi parla iddio.</l>
+            <l>(presentando a don Rodrigo il teschietto di legno appeso al rosario)</l>
+            <l>Tutti un giorno al suo cospetto</l>
+            <l>noi dovremo comparir.</l>
+          </sp>
+          <stage>CRISTOFORO(con accento umile)Mio signore… ah! Perdonatese vi offese il labbro mio;la parola non sdegnateche per me vi parla iddio.(presentando a don Rodrigo il teschietto di legno appeso al rosario)Tutti un giorno al suo cospettonoi dovremo comparir.</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>Una predica mi fate!…</l>
+            <l>Troppo onore, o reverendo!</l>
+            <l>Strani accenti mi parlate…</l>
+            <l>Io davvero non vi comprendo…</l>
+            <l>Vi togliete al mio cospetto…</l>
+            <l>un sermon non voglio udir.</l>
+            <l>(fa per allontanarsi)</l>
+          </sp>
+          <stage>RODRIGOUna predica mi fate!…Troppo onore, o reverendo!Strani accenti mi parlate…Io davvero non vi comprendo…Vi togliete al mio cospetto…un sermon non voglio udir.(fa per allontanarsi)</stage>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(attraversandogli il passo)</l>
+            <l>Don Rodrigo… voi mi udrete…</l>
+            <l>una povera innocente</l>
+            <l>solo voi salvar potete</l>
+            <l>dalle insidie d’un potente…</l>
+          </sp>
+          <stage>CRISTOFORO(attraversandogli il passo)Don Rodrigo… voi mi udrete…una povera innocentesolo voi salvar potetedalle insidie d’un potente…</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(marcando le parole con cinica affettazione)</l>
+            <l>S’ella vuole… nel mio tetto</l>
+            <l>un asil le posso offrir.</l>
+          </sp>
+          <stage>RODRIGO(marcando le parole con cinica affettazione)S’ella vuole… nel mio tettoun asil le posso offrir.</stage>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(co’ la massima indignazione)</l>
+            <l>Nel vostro tetto!… Cotanto osate!…</l>
+            <l>Ah! Don Rodrigo… pietà mi fate…</l>
+            <l>del ciel l’anatema su queste mura</l>
+            <l>già da gran tempo sospeso sta.</l>
+            <l>Ma quella vergine modesta e pura</l>
+            <l>dal vostro artiglio dio salverà.</l>
+          </sp>
+          <stage>CRISTOFORO(co’ la massima indignazione)Nel vostro tetto!… Cotanto osate!…Ah! Don Rodrigo… pietà mi fate…del ciel l’anatema su queste muragià da gran tempo sospeso sta.Ma quella vergine modesta e puradal vostro artiglio dio salverà.</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>Freno a’ tuoi detti – rammenta, o frate –</l>
+            <l>che qui in mia casa…</l>
+          </sp>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(levando il braccio)</l>
+            <l>Giorno verrà…</l>
+          </sp>
+          <stage>CRISTOFORO(levando il braccio)Giorno verrà…</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(afferrandogli il braccio)</l>
+            <l>Vil, temerario! Poltrone indegno!</l>
+            <l>Villan rifatto… ti scosta… va’!…</l>
+            <l>(lo spinge verso la porta)</l>
+          </sp>
+          <stage>RODRIGO(afferrandogli il braccio)Vil, temerario! Poltrone indegno!Villan rifatto… ti scosta… va’!…(lo spinge verso la porta)</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(sulla porta della galleria)</l>
+            <l>Mal capitato ~ l’incappucciato!…</l>
+            <l>(ridendo)</l>
+            <l>Davver fu comica la scena… Ah! Ah!</l>
+          </sp>
+          <stage>CORO(sulla porta della galleria)Mal capitato ~ l’incappucciato!…(ridendo)Davver fu comica la scena… Ah! Ah!</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(appena uscito il padre Cristoforo)</l>
+            <l>Si porti il diavolo quel mascalzone…</l>
+            <l>Spero gli giovi questa lezione…</l>
+            <l>su! Un nuovo brindisi…</l>
+          </sp>
+          <stage>RODRIGO(appena uscito il padre Cristoforo)Si porti il diavolo quel mascalzone…Spero gli giovi questa lezione…su! Un nuovo brindisi…</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Mano ai bicchier!</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>Beviam!</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>TUTTI</head>Quel frate fa dei miracoli…ma questa volta fallì davver!(tutti alzano i bicchieri)Atto secondoPrimo quadro.Scena primaCortile della casa di Lucia come nell’atto primo.Agnese, Lucia, indi Renzo.<div type="scene">
+          <head>TUTTI</head>Quel frate fa dei miracoli…ma questa volta fallì davver!(tutti alzano i bicchieri)Atto secondoPrimo quadro.Scena primaCortile della casa di Lucia come nell’atto primo.Agnese, Lucia, indi Renzo.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Quel frate fa dei miracoli…</l>
+            <l>ma questa volta fallì davver!</l>
+            <l>(tutti alzano i bicchieri)</l>
+            <l>Atto secondo</l>
+            <l>Primo quadro.</l>
+            <l>Scena prima</l>
+            <l>Cortile della casa di Lucia come nell’atto primo.</l>
+            <l>Agnese, Lucia, indi Renzo.</l>
+          </sp>
+          <stage>TUTTIQuel frate fa dei miracoli…ma questa volta fallì davver!(tutti alzano i bicchieri)Atto secondoPrimo quadro.Scena primaCortile della casa di Lucia come nell’atto primo.Agnese, Lucia, indi Renzo.</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(uscendo dall’interno della casa)</l>
+            <l>Un bel ripiego ~ bello davvero!</l>
+          </sp>
+          <stage>LUCIA(uscendo dall’interno della casa)Un bel ripiego ~ bello davvero!</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Eppure in pratica fu messo già…</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Aspettiam Renzo.</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Il mio pensiero</l>
+            <l>vedrai che subito ~ approverà.</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(entrando agitato con due capponi in mano)</l>
+            <l>Corpo di mille diavoli!</l>
+          </sp>
+          <stage>RENZO(entrando agitato con due capponi in mano)Corpo di mille diavoli!</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Che avvenne?</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Sì agitato!…</l>
+            <l>Coll’Azzeccagarbugli vi siete consigliato?</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Bel mobile davvero!… Che schiuma di birbone!</l>
+            <l>Con quel suo naso rosso, che sembra un peperone…</l>
+            <l>Vi so dir io…</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Ma insomma?</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Quando i capponi vide,</l>
+            <l>promise mari e monti, mi lesse cento gride…</l>
+            <l>ma appena gli ho narrato che in questo brutto intrigo</l>
+            <l>c’entra quell’altro birbo, che chiaman don Rodrigo,</l>
+            <l>diventò un basilisco… e senza udir ragioni</l>
+            <l>mi ha cacciato di casa insiem co’ miei capponi.</l>
+            <l>(getta i capponi per terra)</l>
+          </sp>
+          <stage>RENZOQuando i capponi vide,promise mari e monti, mi lesse cento gride…ma appena gli ho narrato che in questo brutto intrigoc’entra quell’altro birbo, che chiaman don Rodrigo,diventò un basilisco… e senza udir ragionimi ha cacciato di casa insiem co’ miei capponi.(getta i capponi per terra)</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(a Renzo cercando di calmarlo)</l>
+            <l>Vedrai che fra Cristoforo…</l>
+          </sp>
+          <stage>LUCIA(a Renzo cercando di calmarlo)Vedrai che fra Cristoforo…</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Poc’anzi l’ho incontrato…</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Ebbene?…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Come sopra… Fu anch’egli discacciato</l>
+            <l>peggio d’un cane…</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Allora… non resta altro da fare…</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>No… no…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(ad Agnese)</l>
+            <l>Che cosa? Diteci…</l>
+            <l>(a Lucia)</l>
+            <l>Lasciatela parlare…</l>
+          </sp>
+          <stage>RENZO(ad Agnese)Che cosa? Diteci…(a Lucia)Lasciatela parlare…</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>(con importanza)</l>
+            <l>Con due testimoni</l>
+            <l>si va dal curato…</l>
+          </sp>
+          <stage>AGNESE(con importanza)Con due testimonisi va dal curato…</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Va bene… bravissima!…</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>No, Renzo… è peccato…</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>(a Renzo)</l>
+            <l>Là giunti, voi dite:</l>
+            <l>«Mia moglie è costei…»</l>
+            <l>(a Lucia)</l>
+            <l>«Questi è mio marito.»</l>
+            <l>Risponder tu déi.</l>
+          </sp>
+          <stage>AGNESE(a Renzo)Là giunti, voi dite:«Mia moglie è costei…»(a Lucia)«Questi è mio marito.»Risponder tu déi.</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(a Lucia)</l>
+            <l>Avete capito?…</l>
+            <l>Di questa maniera</l>
+            <l>siam sposi stasera…</l>
+            <l>Che resta a bramar?…</l>
+          </sp>
+          <stage>RENZO(a Lucia)Avete capito?…Di questa manierasiam sposi stasera…Che resta a bramar?…</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>O Renzo… che dite?</l>
+            <l>Son cose da far?…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(con vivacità)</l>
+            <l>Agnese… l’udite?</l>
+          </sp>
+          <stage>RENZO(con vivacità)Agnese… l’udite?</stage>
+        </div>
+        <div type="scene">
+          <head>AGNESE</head>(sottovoce a Renzo)Tu cerca d’indurla…I due testimonivo intanto a cercar.(Agnese esce; Lucia rimane sul davanti della scena tutta lacrimosa, volgendo le spalle a Renzo)Scena secondaRenzo, Lucia, a suo tempo il Griso in abito da pellegrino.<sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>(sottovoce a Renzo)</l>
+            <l>Tu cerca d’indurla…</l>
+            <l>I due testimoni</l>
+            <l>vo intanto a cercar.</l>
+            <l>(Agnese esce; Lucia rimane sul davanti della scena tutta lacrimosa, volgendo le spalle a Renzo)</l>
+            <l>Scena seconda</l>
+            <l>Renzo, Lucia, a suo tempo il Griso in abito da pellegrino.</l>
+          </sp>
+          <stage>AGNESE(sottovoce a Renzo)Tu cerca d’indurla…I due testimonivo intanto a cercar.(Agnese esce; Lucia rimane sul davanti della scena tutta lacrimosa, volgendo le spalle a Renzo)Scena secondaRenzo, Lucia, a suo tempo il Griso in abito da pellegrino.</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(avvicinandosi timidamente a Lucia che gli volge le spalle, e toccandola leggermente col gomito)</l>
+            <l>Voi dunque non bramate?…</l>
+            <l>Voi dunque… non mi amate?…</l>
+          </sp>
+          <stage>RENZO(avvicinandosi timidamente a Lucia che gli volge le spalle, e toccandola leggermente col gomito)Voi dunque non bramate?…Voi dunque… non mi amate?…</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Renzo… voi foste sempre</l>
+            <l>un buon figliuolo…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>È ver…</l>
+            <l>ma la pazienza ha un limite…</l>
+            <l>(con violenza)</l>
+            <l>Se avervi non degg’io,</l>
+            <l>ei non vi avrà.</l>
+          </sp>
+          <stage>RENZOÈ ver…ma la pazienza ha un limite…(con violenza)Se avervi non degg’io,ei non vi avrà.</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Calmatevi…</l>
+            <l>O Renzo…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(con violenza)</l>
+            <l>Giuro a dio</l>
+            <l>che di quel brutto arnese</l>
+            <l>libererò il paese,</l>
+            <l>e saprò far giustizia</l>
+            <l>per me… pe ‘l mondo intier!</l>
+          </sp>
+          <stage>RENZO(con violenza)Giuro a dioche di quel brutto arneselibererò il paese,e saprò far giustiziaper me… pe ‘l mondo intier!</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Ah! Voi mi fate piangere…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(incrociando le braccia e guardando fissamente Lucia come chi attende una risposta decisiva)</l>
+            <l>Ebbene… Risolvete!</l>
+          </sp>
+          <stage>RENZO(incrociando le braccia e guardando fissamente Lucia come chi attende una risposta decisiva)Ebbene… Risolvete!</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(dopo breve esitazione)</l>
+            <l>(Dio! Che potrei rispondergli?…)</l>
+            <l>Farò… ciò… che… volete.</l>
+          </sp>
+          <stage>LUCIA(dopo breve esitazione)(Dio! Che potrei rispondergli?…)Farò… ciò… che… volete.</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(con gioia)</l>
+            <l>Grazie, Lucia!</l>
+          </sp>
+          <stage>RENZO(con gioia)Grazie, Lucia!</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Domani…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>No: questa sera istessa,</l>
+            <l>o ch’io…</l>
+            <l>(facendo un gesto di collera)</l>
+          </sp>
+          <stage>RENZONo: questa sera istessa,o ch’io…(facendo un gesto di collera)</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Vi do promessa…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Stasera, dunque?…</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(tremando)</l>
+            <l>Sì…</l>
+          </sp>
+          <stage>LUCIA(tremando)Sì…</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(con affetto)</l>
+            <l>Quando sarai mia sposa</l>
+            <l>più nulla temeremo…</l>
+            <l>Lucia, dovunque andremo,</l>
+            <l>ci seguirà l’amor.</l>
+          </sp>
+          <stage>RENZO(con affetto)Quando sarai mia sposapiù nulla temeremo…Lucia, dovunque andremo,ci seguirà l’amor.</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(commossa)</l>
+            <l>Così parlare egli osa…</l>
+            <l>o Renzo, ed io vi ascolto?</l>
+            <l>Sento le fiamme al volto…</l>
+            <l>trema nel petto il cor.</l>
+            <l>(in questo tempo, il Griso in abito da pellegrino, sarà entrato nel cortile)</l>
+            <l>(volgendosi)</l>
+            <l>Qualcun…</l>
+          </sp>
+          <stage>LUCIA(commossa)Così parlare egli osa…o Renzo, ed io vi ascolto?Sento le fiamme al volto…trema nel petto il cor.(in questo tempo, il Griso in abito da pellegrino, sarà entrato nel cortile)(volgendosi)Qualcun…</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(al Griso)</l>
+            <l>Chi è là?</l>
+          </sp>
+          <stage>RENZO(al Griso)Chi è là?</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Son io…</l>
+            <l>un povero mendico…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(dandogli una moneta)</l>
+            <l>A voi.</l>
+          </sp>
+          <stage>RENZO(dandogli una moneta)A voi.</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>(a Renzo)</l>
+            <l>Vi benedico.</l>
+            <l>(Sta ben… la scala è là…)</l>
+            <l>(inchinandosi)</l>
+            <l>Vi assista iddio…</l>
+          </sp>
+          <stage>GRISO(a Renzo)Vi benedico.(Sta ben… la scala è là…)(inchinandosi)Vi assista iddio…</stage>
+        </div>
+        <div type="scene">
+          <head>RENZO</head>Che cera!…(al Griso che fingendo sbagliare la porta, fa alcuni passi verso la scala)Sbagliate!… Per di qua…(lo conduce alla porta di strada)Scena terzaAgnese, Tonio, Gervaso, Lucia e Renzo.<sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Che cera!…</l>
+            <l>(al Griso che fingendo sbagliare la porta, fa alcuni passi verso la scala)</l>
+            <l>Sbagliate!… Per di qua…</l>
+            <l>(lo conduce alla porta di strada)</l>
+            <l>Scena terza</l>
+            <l>Agnese, Tonio, Gervaso, Lucia e Renzo.</l>
+          </sp>
+          <stage>RENZOChe cera!…(al Griso che fingendo sbagliare la porta, fa alcuni passi verso la scala)Sbagliate!… Per di qua…(lo conduce alla porta di strada)Scena terzaAgnese, Tonio, Gervaso, Lucia e Renzo.</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>(a Renzo)</l>
+            <l>Il piano è combinato…</l>
+            <l>Lucia?…</l>
+          </sp>
+          <stage>AGNESE(a Renzo)Il piano è combinato…Lucia?…</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Con noi verrà…</l>
+            <l>Buondì, Gervaso e Tonio…</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Tutto disposto è già…</l>
+            <l>(a Tonio e Gervaso)</l>
+            <l>Appena imbruni l’aria</l>
+            <l>il colpo si farà.</l>
+            <l>(Agnese, Tonio e Gervaso entrano nella casa)</l>
+          </sp>
+          <stage>AGNESETutto disposto è già…(a Tonio e Gervaso)Appena imbruni l’ariail colpo si farà.(Agnese, Tonio e Gervaso entrano nella casa)</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(a Lucia dandole il braccio)</l>
+            <l>Quando sarai mia sposa</l>
+            <l>più nulla temeremo…</l>
+            <l>Lontan, dovunque andremo</l>
+            <l>ci seguirà l’amor.</l>
+          </sp>
+          <stage>RENZO(a Lucia dandole il braccio)Quando sarai mia sposapiù nulla temeremo…Lontan, dovunque andremoci seguirà l’amor.</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>È dunque ver?… Tua sposa</l>
+            <l>sarò fra pochi istanti!</l>
+            <l>Nell’ora avventurosa</l>
+            <l>perché mi trema il cor?…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Vieni… il momento affrettisi…</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(con qualche effusione)</l>
+            <l>O Renzo!</l>
+          </sp>
+          <stage>LUCIA(con qualche effusione)O Renzo!</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>O sposa mia!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>LUCIA E RENZO</head>Coraggio egli ne diache ci ispierò l’amor.(entrano nella casa)Secondo quadro.Scena quartaUna piazzetta di villaggio. A sinistra, sul davanti, la casa di don Abbondio con porta e finestra praticabili. Più indietro, una parte della chiesa. A destra una contradella di rustiche case.È vicina la notte.Don Rodrigo, Griso, alcuni Bravi che si arrestano nel fondo della scena esplorando.<sp who="#lucia e renzo">
+            <speaker>LUCIA E RENZO:</speaker>
+            <l>Coraggio egli ne dia</l>
+            <l>che ci ispierò l’amor.</l>
+            <l>(entrano nella casa)</l>
+            <l>Secondo quadro.</l>
+            <l>Scena quarta</l>
+            <l>Una piazzetta di villaggio. A sinistra, sul davanti, la casa di don Abbondio con porta e finestra praticabili. Più indietro, una parte della chiesa. A destra una contradella di rustiche case.</l>
+            <l>È vicina la notte.</l>
+            <l>Don Rodrigo, Griso, alcuni Bravi che si arrestano nel fondo della scena esplorando.</l>
+          </sp>
+          <stage>LUCIA E RENZOCoraggio egli ne diache ci ispierò l’amor.(entrano nella casa)Secondo quadro.Scena quartaUna piazzetta di villaggio. A sinistra, sul davanti, la casa di don Abbondio con porta e finestra praticabili. Più indietro, una parte della chiesa. A destra una contradella di rustiche case.È vicina la notte.Don Rodrigo, Griso, alcuni Bravi che si arrestano nel fondo della scena esplorando.</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(al Griso)</l>
+            <l>Quanto vali or vedrem. Quella Lucia</l>
+            <l>prima di mezzanotte al mio palazzo</l>
+            <l>deve trovarsi…</l>
+          </sp>
+          <stage>RODRIGO(al Griso)Quanto vali or vedrem. Quella Luciaprima di mezzanotte al mio palazzodeve trovarsi…</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Tutto è preparato.</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>Ordina pur… disponi,</l>
+            <l>hai carta bianca. Lasciami per scorta</l>
+            <l>sol due de’ nostri, gli altri</l>
+            <l>adopera a tuo senno.</l>
+          </sp>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>(ai bravi)</l>
+            <l>Mi seguite!</l>
+            <l>(tutti i bravi, meno due, partono col Griso. I due rimangono in disparte. Si ode in lontananza il canto delle donne e dei contadini che tornano dai campi)</l>
+          </sp>
+          <stage>GRISO(ai bravi)Mi seguite!(tutti i bravi, meno due, partono col Griso. I due rimangono in disparte. Si ode in lontananza il canto delle donne e dei contadini che tornano dai campi)</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(dopo aver ascoltato)</l>
+            <l>Come sono felici! Tutto il mondo</l>
+            <l>felice è dunque; ed io</l>
+            <l>ricco, nobil, potente…</l>
+            <l>nell’anima ho l’inferno!</l>
+            <l>(il coro ripete la canzone)</l>
+          </sp>
+          <stage>RODRIGO(dopo aver ascoltato)Come sono felici! Tutto il mondofelice è dunque; ed ioricco, nobil, potente…nell’anima ho l’inferno!(il coro ripete la canzone)</stage>
+        </div>
+        <div type="scene">
+          <head>RODRIGO</head>(con ira)Oppressi, poveri ~ schiavi al lavorohan lieta l’anima ~ cantan costoro!Me, nei silenzi ~ dell’ampie salela noia assale ~ l’ansia, il martir!Sotto la splendida ~ dorata voltaun lieto cantico ~ mai non si ascolta,m’è rabbia e spasimo ~ l’altrui gioir.(accenna ai due bravi di seguirlo e si allontana)Scena quintaPerpetua, Contadine, indi Agnese.<sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(con ira)</l>
+            <l>Oppressi, poveri ~ schiavi al lavoro</l>
+            <l>han lieta l’anima ~ cantan costoro!</l>
+            <l>Me, nei silenzi ~ dell’ampie sale</l>
+            <l>la noia assale ~ l’ansia, il martir!</l>
+            <l>Sotto la splendida ~ dorata volta</l>
+            <l>un lieto cantico ~ mai non si ascolta,</l>
+            <l>m’è rabbia e spasimo ~ l’altrui gioir.</l>
+            <l>(accenna ai due bravi di seguirlo e si allontana)</l>
+            <l>Scena quinta</l>
+            <l>Perpetua, Contadine, indi Agnese.</l>
+          </sp>
+          <stage>RODRIGO(con ira)Oppressi, poveri ~ schiavi al lavorohan lieta l’anima ~ cantan costoro!Me, nei silenzi ~ dell’ampie salela noia assale ~ l’ansia, il martir!Sotto la splendida ~ dorata voltaun lieto cantico ~ mai non si ascolta,m’è rabbia e spasimo ~ l’altrui gioir.(accenna ai due bravi di seguirlo e si allontana)Scena quintaPerpetua, Contadine, indi Agnese.</stage>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>(avviandosi verso la casa di don Abbondio)</l>
+            <l>Non ho tempo di ascoltarvi…</l>
+          </sp>
+          <stage>PERPETUA(avviandosi verso la casa di don Abbondio)Non ho tempo di ascoltarvi…</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Come sta il signor curato?</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Meglio assai… cioè… malato</l>
+            <l>gravemente…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Dite un po’:</l>
+            <l>la Mondella al Tramaglino</l>
+            <l>perché più non si fa sposa?</l>
+            <l>Ne sapete qualche cosa?…</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Io?…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Parlate…</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>So e non so…</l>
+            <l>(mettendosi in mezzo del crocchio)</l>
+            <l>Talvolta i matrimoni</l>
+            <l>in fumo van per nulla…</l>
+            <l>Eh Sono anch’io fanciulla;</l>
+            <l>so come il mondo va.</l>
+            <l>Quasi ogni dì un partito</l>
+            <l>di rifiutar mi è forza…</l>
+            <l>la scelta di un marito</l>
+            <l>molto a pensar mi dà.</l>
+          </sp>
+          <stage>PERPETUASo e non so…(mettendosi in mezzo del crocchio)Talvolta i matrimoniin fumo van per nulla…Eh Sono anch’io fanciulla;so come il mondo va.Quasi ogni dì un partitodi rifiutar mi è forza…la scelta di un maritomolto a pensar mi dà.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(sottovoce ridendo)</l>
+            <l>Nessun l’ha mai voluta,</l>
+            <l>nessuno la vorrà.</l>
+          </sp>
+          <stage>CORO(sottovoce ridendo)Nessun l’ha mai voluta,nessuno la vorrà.</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>(a Tonio e Gervaso additando la casa di don Abbondio)</l>
+            <l>Orsù, l’ora è venuta…</l>
+            <l>da bravi! Entrate là…</l>
+          </sp>
+          <stage>AGNESE(a Tonio e Gervaso additando la casa di don Abbondio)Orsù, l’ora è venuta…da bravi! Entrate là…</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(avanzandosi al braccio di Renzo)</l>
+            <l>Mi trema il cor…</l>
+          </sp>
+          <stage>LUCIA(avanzandosi al braccio di Renzo)Mi trema il cor…</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Entriamo!</l>
+            <l>Tutto per bene andrà.</l>
+            <l>(Tonio, Gervaso, quindi Renzo e Lucia entrano pian piano nella casa di don Abbondio, Agnese si ferma in scena)</l>
+          </sp>
+          <stage>RENZOEntriamo!Tutto per bene andrà.(Tonio, Gervaso, quindi Renzo e Lucia entrano pian piano nella casa di don Abbondio, Agnese si ferma in scena)</stage>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>(alle donne sempre più animandosi)</l>
+            <l>Il primo, figuratevi!…</l>
+            <l>che a me si è presentato,</l>
+            <l>era figliuol del console</l>
+            <l>un povero spiantato…</l>
+            <l>il Beppo Suolavecchia</l>
+            <l>si presentò secondo;</l>
+            <l>gli ho detto chiaro e tondo:</l>
+            <l>caro non fai per me.</l>
+            <l>Eppur, lo credereste?</l>
+            <l>Malgrado le proteste,</l>
+            <l>quest’oggi ancor pretendono</l>
+            <l>alla mia mano in tre.</l>
+            <l>(le contadine fanno gesti di scherno dietro le spalle di Perpetua, e quindi si allontanano in punta di piedi)</l>
+          </sp>
+          <stage>PERPETUA(alle donne sempre più animandosi)Il primo, figuratevi!…che a me si è presentato,era figliuol del consoleun povero spiantato…il Beppo Suolavecchiasi presentò secondo;gli ho detto chiaro e tondo:caro non fai per me.Eppur, lo credereste?Malgrado le proteste,quest’oggi ancor pretendonoalla mia mano in tre.(le contadine fanno gesti di scherno dietro le spalle di Perpetua, e quindi si allontanano in punta di piedi)</stage>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Infin tutti mi vogliono…</l>
+            <l>(volgendosi, e vedendo che le contadine sono partite)</l>
+            <l>Ma dove sono andate…</l>
+            <l>Quelle?…</l>
+          </sp>
+          <stage>PERPETUAInfin tutti mi vogliono…(volgendosi, e vedendo che le contadine sono partite)Ma dove sono andate…Quelle?…</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>(presentandosi a Perpetua)</l>
+            <l>Di voi ridevano…</l>
+          </sp>
+          <stage>AGNESE(presentandosi a Perpetua)Di voi ridevano…</stage>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>(con stizza)</l>
+            <l>Ridevan… le sguaiate!</l>
+          </sp>
+          <stage>PERPETUA(con stizza)Ridevan… le sguaiate!</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Dicevan che il Suolavecchia</l>
+            <l>è lui che vi rifiuta…</l>
+            <l>E che il figliuol del console</l>
+            <l>lui pur non vi ha voluta…</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Bugiarde!… Bugiardissime!…</l>
+            <l>E ardiscono negare?…</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Eh! via… non t’irritare…</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Di rabbia creperan!</l>
+          </sp>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>la voce dalla casa</l>
+            <l>Aiuto! Ai ladri!… Ai ladri!…</l>
+            <l>Perpetua!</l>
+          </sp>
+          <stage>ABBONDIOla voce dalla casaAiuto! Ai ladri!… Ai ladri!…Perpetua!</stage>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Cosa è stato?</l>
+            <l>Qualcuno è forse entrato</l>
+            <l>in casa…</l>
+            <l>(entra precipitosamente in casa)</l>
+          </sp>
+          <stage>PERPETUACosa è stato?Qualcuno è forse entratoin casa…(entra precipitosamente in casa)</stage>
+        </div>
+        <div type="scene">
+          <head>AGNESE</head>(inquieta)Or che faran?Scena sestaRenzo, Lucia, Tonio, Gervaso che escono dalla casa di don Abbondio; poi Contadini armati di falci e di zappe. Don Abbondio alla finestra. Agnese e Perpetua.<sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>(inquieta)</l>
+            <l>Or che faran?</l>
+            <l>Scena sesta</l>
+            <l>Renzo, Lucia, Tonio, Gervaso che escono dalla casa di don Abbondio; poi Contadini armati di falci e di zappe. Don Abbondio alla finestra. Agnese e Perpetua.</l>
+          </sp>
+          <stage>AGNESE(inquieta)Or che faran?Scena sestaRenzo, Lucia, Tonio, Gervaso che escono dalla casa di don Abbondio; poi Contadini armati di falci e di zappe. Don Abbondio alla finestra. Agnese e Perpetua.</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>(comparendo alla finestra)</l>
+            <l>Ambrogio! Alla campana!…</l>
+            <l>Ai ladri! Agli assassini!</l>
+            <l>(richiude la finestra)</l>
+            <l>(uscendo con Renzo dalla casa)</l>
+          </sp>
+          <stage>ABBONDIO(comparendo alla finestra)Ambrogio! Alla campana!…Ai ladri! Agli assassini!(richiude la finestra)(uscendo con Renzo dalla casa)</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Non reggo…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Oh! Noi meschini!…</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>(a Renzo e Lucia)</l>
+            <l>Il colpo?…</l>
+          </sp>
+          <stage>AGNESE(a Renzo e Lucia)Il colpo?…</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Non riuscì…</l>
+            <l>(suono di campana a martello)</l>
+          </sp>
+          <stage>RENZONon riuscì…(suono di campana a martello)</stage>
+          <sp who="#contadini">
+            <speaker>CONTADINI:</speaker>
+            <l>(irrompendo sulla scena con forche e badili)</l>
+            <l>Campana a martello…</l>
+            <l>un grido s’è udito…</l>
+            <l>da dove è partito?…</l>
+            <l>Che avvenne? Che fu?</l>
+          </sp>
+          <stage>CONTADINI(irrompendo sulla scena con forche e badili)Campana a martello…un grido s’è udito…da dove è partito?…Che avvenne? Che fu?</stage>
+          <sp who="#contadine">
+            <speaker>CONTADINE:</speaker>
+            <l>E proprio il curato</l>
+            <l>che al ladro ha gridato…</l>
+          </sp>
+          <sp who="#uomini">
+            <speaker>UOMINI:</speaker>
+            <l>Che dire? Che fare?</l>
+            <l>Montiamo lassù…</l>
+          </sp>
+          <sp who="#altri contadini">
+            <speaker>ALTRI CONTADINI:</speaker>
+            <l>(che sopravvengono)</l>
+            <l>D’Agnese la casa</l>
+            <l>poc’anzi fu invasa…</l>
+          </sp>
+          <stage>ALTRI CONTADINI(che sopravvengono)D’Agnese la casapoc’anzi fu invasa…</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Che sento?</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Accorriamo…</l>
+            <l>Vediamo che fu.</l>
+            <l>(Renzo con Lucia ed Agnese si allontanano)</l>
+          </sp>
+          <stage>RENZOAccorriamo…Vediamo che fu.(Renzo con Lucia ed Agnese si allontanano)</stage>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>(ai contadini)</l>
+            <l>Ma no… v’ingannate…</l>
+            <l>figliuoli, ascoltate…</l>
+            <l>il grido, il baccano</l>
+            <l>uscì di lassù.</l>
+            <l>(additando la casa di don Abbondio)</l>
+          </sp>
+          <stage>DONNE(ai contadini)Ma no… v’ingannate…figliuoli, ascoltate…il grido, il baccanouscì di lassù.(additando la casa di don Abbondio)</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(affollandosi sotto le finestre di don Abbondio)</l>
+            <l>Signor curato,</l>
+            <l>che cosa è stato?</l>
+            <l>È ver che il grido</l>
+            <l>da lei partì?</l>
+          </sp>
+          <stage>TUTTI(affollandosi sotto le finestre di don Abbondio)Signor curato,che cosa è stato?È ver che il gridoda lei partì?</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>(dalla finestra)</l>
+            <l>Andate… grazie!…</l>
+            <l>Ladri… banditi…</l>
+            <l>già son fuggiti,</l>
+            <l>tutto finì.</l>
+          </sp>
+          <stage>ABBONDIO(dalla finestra)Andate… grazie!…Ladri… banditi…già son fuggiti,tutto finì.</stage>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>(uscendo in sulla porta)</l>
+            <l>Io li ho veduti…</l>
+            <l>li ho conosciuti…</l>
+          </sp>
+          <stage>PERPETUA(uscendo in sulla porta)Io li ho veduti…li ho conosciuti…</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>(gridando)</l>
+            <l>Taci Perpetua,</l>
+            <l>non le badate…</l>
+            <l>vieni, pettegola…</l>
+          </sp>
+          <stage>ABBONDIO(gridando)Taci Perpetua,non le badate…vieni, pettegola…</stage>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>(rientrando)</l>
+            <l>Eh! Non gridate.</l>
+            <l>(la finestra si chiude)</l>
+          </sp>
+          <stage>PERPETUA(rientrando)Eh! Non gridate.(la finestra si chiude)</stage>
+          <sp who="#uomini">
+            <speaker>UOMINI:</speaker>
+            <l>Fine alle chiacchiere,</l>
+            <l>presto, in cammin!</l>
+          </sp>
+          <sp who="#contadini">
+            <speaker>CONTADINI:</speaker>
+            <l>(sul davanti della scena)</l>
+            <l>È un vero scandalo…</l>
+            <l>una vergogna…</l>
+            <l>convien armarsi,</l>
+            <l>correr bisogna…</l>
+            <l>Le donne in casa…</l>
+          </sp>
+          <stage>CONTADINI(sul davanti della scena)È un vero scandalo…una vergogna…convien armarsi,correr bisogna…Le donne in casa…</stage>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>No… vi arrestate…</l>
+          </sp>
+          <sp who="#uomini">
+            <speaker>UOMINI:</speaker>
+            <l>Le porte chiudansi…</l>
+          </sp>
+          <sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>Ma poi… badate…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>UOMINI</head>(alzando le forche ed i randelli)Guerra ai briganti,agli assassin!(i contadini infuriati si danno a correre. Le donne cercano trattenerli, ma questi le respingono. La campana suona a stormo)Scena settimaLa riva dell’Adda sul luogo detto il Bione in vicinanza di Pescarenico. Si vede, in prossimità, il campanile triangolare del convento. Al di là dell’Adda promontori e montagne. – È notte.Lucia, Agnese, un Barcaiolo.<sp who="#uomini">
+            <speaker>UOMINI:</speaker>
+            <l>(alzando le forche ed i randelli)</l>
+            <l>Guerra ai briganti,</l>
+            <l>agli assassin!</l>
+            <l>(i contadini infuriati si danno a correre. Le donne cercano trattenerli, ma questi le respingono. La campana suona a stormo)</l>
+            <l>Scena settima</l>
+            <l>La riva dell’Adda sul luogo detto il Bione in vicinanza di Pescarenico. Si vede, in prossimità, il campanile triangolare del convento. Al di là dell’Adda promontori e montagne. – È notte.</l>
+            <l>Lucia, Agnese, un Barcaiolo.</l>
+          </sp>
+          <stage>UOMINI(alzando le forche ed i randelli)Guerra ai briganti,agli assassin!(i contadini infuriati si danno a correre. Le donne cercano trattenerli, ma questi le respingono. La campana suona a stormo)Scena settimaLa riva dell’Adda sul luogo detto il Bione in vicinanza di Pescarenico. Si vede, in prossimità, il campanile triangolare del convento. Al di là dell’Adda promontori e montagne. – È notte.Lucia, Agnese, un Barcaiolo.</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Qui aspetteremo…</l>
+            <l>(ad Agnese)</l>
+            <l>Ti riposa, o madre…</l>
+            <l>Quanti disagi… Quante pene!… e tutto,</l>
+            <l>tutto per cagion mia!…</l>
+          </sp>
+          <stage>LUCIAQui aspetteremo…(ad Agnese)Ti riposa, o madre…Quanti disagi… Quante pene!… e tutto,tutto per cagion mia!…</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>(con affetto)</l>
+            <l>E qual colpa ci hai tu, buona Lucia?…</l>
+            <l>(Agnese abbraccia la figlia e siede sovra un sasso, mentre il barcaiolo appronta la sua barca)</l>
+          </sp>
+          <stage>AGNESE(con affetto)E qual colpa ci hai tu, buona Lucia?…(Agnese abbraccia la figlia e siede sovra un sasso, mentre il barcaiolo appronta la sua barca)</stage>
+        </div>
+        <div type="scene">
+          <head>LUCIA</head>(Partirò!… E dove andremo? Il cor si spezzadall’affanno… Partire! È dunque vero?…Il paesello mio… la mia casettaal sorger del domaninon vedrò più… sarem lontani assai…)(prorompendo in lagrime)(No… Tanta angoscia io non conobbi mai!)(dopo breve pausa)(Addio montagne sorgenti dall’acquacime ineguali, notea chi crebbe fra voi… Addio torrenti,villette biancheggianti in sul pendio,come branco di pecore pascenti,addio! Addio! Addio!)O mia stanzetta,nido tranquillo,da te il mio cuorenon partirà…Della chiesettal’usato squilloqual voce amicami seguirà.In quella chiesaio pregai tanto…là un rito santosperai compir…Quante memorie!…Quanto dolore!Pietà, o signore,del mio soffrir!Scena ottavaRenzo, il padre Cristoforo, e dette.<sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(Partirò!… E dove andremo? Il cor si spezza</l>
+            <l>dall’affanno… Partire! È dunque vero?…</l>
+            <l>Il paesello mio… la mia casetta</l>
+            <l>al sorger del domani</l>
+            <l>non vedrò più… sarem lontani assai…)</l>
+            <l>(prorompendo in lagrime)</l>
+            <l>(No… Tanta angoscia io non conobbi mai!)</l>
+            <l>(dopo breve pausa)</l>
+            <l>(Addio montagne sorgenti dall’acqua</l>
+            <l>cime ineguali, note</l>
+            <l>a chi crebbe fra voi… Addio torrenti,</l>
+            <l>villette biancheggianti in sul pendio,</l>
+            <l>come branco di pecore pascenti,</l>
+            <l>addio! Addio! Addio!)</l>
+            <l>O mia stanzetta,</l>
+            <l>nido tranquillo,</l>
+            <l>da te il mio cuore</l>
+            <l>non partirà…</l>
+            <l>Della chiesetta</l>
+            <l>l’usato squillo</l>
+            <l>qual voce amica</l>
+            <l>mi seguirà.</l>
+            <l>In quella chiesa</l>
+            <l>io pregai tanto…</l>
+            <l>là un rito santo</l>
+            <l>sperai compir…</l>
+            <l>Quante memorie!…</l>
+            <l>Quanto dolore!</l>
+            <l>Pietà, o signore,</l>
+            <l>del mio soffrir!</l>
+            <l>Scena ottava</l>
+            <l>Renzo, il padre Cristoforo, e dette.</l>
+          </sp>
+          <stage>LUCIA(Partirò!… E dove andremo? Il cor si spezzadall’affanno… Partire! È dunque vero?…Il paesello mio… la mia casettaal sorger del domaninon vedrò più… sarem lontani assai…)(prorompendo in lagrime)(No… Tanta angoscia io non conobbi mai!)(dopo breve pausa)(Addio montagne sorgenti dall’acquacime ineguali, notea chi crebbe fra voi… Addio torrenti,villette biancheggianti in sul pendio,come branco di pecore pascenti,addio! Addio! Addio!)O mia stanzetta,nido tranquillo,da te il mio cuorenon partirà…Della chiesettal’usato squilloqual voce amicami seguirà.In quella chiesaio pregai tanto…là un rito santosperai compir…Quante memorie!…Quanto dolore!Pietà, o signore,del mio soffrir!Scena ottavaRenzo, il padre Cristoforo, e dette.</stage>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(a Renzo)</l>
+            <l>Altra via di salvezza</l>
+            <l>or non rimane a voi…</l>
+            <l>(Agnese, alla voce del frate Cristoforo si leva in piedi)</l>
+            <l>Siete tutti qui?…</l>
+            <l>(Lucia, Agnese e Renzo si fanno intorno al padre Cristoforo)</l>
+            <l>Coraggio, o figli miei. Dio vi sommette</l>
+            <l>a dura prova. Più non è sicura</l>
+            <l>questa terra per voi.</l>
+            <l>(a Renzo)</l>
+            <l>Non ti scordare</l>
+            <l>quanti ti dissi. Sulla opposta riva</l>
+            <l>troverete un barroccio, che alla meta</l>
+            <l>vi guiderà…</l>
+            <l>(alle donne)</l>
+            <l>Piangete? Il cor mi dice che presto ci vedremo…</l>
+          </sp>
+          <stage>CRISTOFORO(a Renzo)Altra via di salvezzaor non rimane a voi…(Agnese, alla voce del frate Cristoforo si leva in piedi)Siete tutti qui?…(Lucia, Agnese e Renzo si fanno intorno al padre Cristoforo)Coraggio, o figli miei. Dio vi sommettea dura prova. Più non è sicuraquesta terra per voi.(a Renzo)Non ti scordarequanti ti dissi. Sulla opposta rivatroverete un barroccio, che alla metavi guiderà…(alle donne)Piangete? Il cor mi dice che presto ci vedremo…</stage>
+          <sp who="#lucia e agnese">
+            <speaker>LUCIA E AGNESE:</speaker>
+            <l>Oh! Fosse vero!…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Voi credete… o padre?…</l>
+          </sp>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(a Renzo)</l>
+            <l>V’è lassù chi provvede all’infelice…</l>
+            <l>non iscordarlo mai…</l>
+          </sp>
+          <stage>CRISTOFORO(a Renzo)V’è lassù chi provvede all’infelice…non iscordarlo mai…</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Ci benedite!</l>
+          </sp>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>Il signor sia con voi. Figli… partite.</l>
+            <l>(Agnese, Renzo, Lucia baciano le mani del frate che li benedice, quindi si avviano verso la barca; il barcaiolo li aiuta a salire)</l>
+          </sp>
+          <stage>CRISTOFOROIl signor sia con voi. Figli… partite.(Agnese, Renzo, Lucia baciano le mani del frate che li benedice, quindi si avviano verso la barca; il barcaiolo li aiuta a salire)</stage>
+          <sp who="#lucia e renzo">
+            <speaker>LUCIA E RENZO:</speaker>
+            <l>(dalla barca)</l>
+            <l>Addio montagne…</l>
+            <l>valli… pendici…</l>
+            <l>fide compagne</l>
+            <l>dei dì felici,</l>
+            <l>ah! Nel lasciarvi</l>
+            <l>si spezza il cor!</l>
+          </sp>
+          <stage>LUCIA E RENZO(dalla barca)Addio montagne…valli… pendici…fide compagnedei dì felici,ah! Nel lasciarvisi spezza il cor!</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>CRISTOFORO</head>(levando al cielo le mani)Gran dio, tu vigilasugli infelici,tergi le lagrimetempra il dolor.(la barca si allontana e le voci di Renzo e Lucia si perdono nella distanza. Un raggio di luna illumina le acque. Il padre Cristoforo rimane immobile sulla scena co’ le braccia levate al cielo)Atto terzoQuadro unico.Scena primaIn un villaggio ai piedi della montagna; sul davanti a destra, la casa parrocchiale con porta ampia che mette ad un cortile. Balcone coperto di ricchi tappeti. Grande viale che conduce alla chiesa. Archi di trionfo, tende, sandaline, addobbi d’ogni genere.Dietro il villaggio, un promontorio, a poca distanza, dove sorge un castello. (*)Uomini e Donne che giungono da diverse vie; altri che escono dal cortile della casa parrocchiale.(*) Manzoni. Capitolo XXIV.<div type="scene">
+          <head>CRISTOFORO</head>(levando al cielo le mani)Gran dio, tu vigilasugli infelici,tergi le lagrimetempra il dolor.(la barca si allontana e le voci di Renzo e Lucia si perdono nella distanza. Un raggio di luna illumina le acque. Il padre Cristoforo rimane immobile sulla scena co’ le braccia levate al cielo)Atto terzoQuadro unico.Scena primaIn un villaggio ai piedi della montagna; sul davanti a destra, la casa parrocchiale con porta ampia che mette ad un cortile. Balcone coperto di ricchi tappeti. Grande viale che conduce alla chiesa. Archi di trionfo, tende, sandaline, addobbi d’ogni genere.Dietro il villaggio, un promontorio, a poca distanza, dove sorge un castello. (*)Uomini e Donne che giungono da diverse vie; altri che escono dal cortile della casa parrocchiale.(*) Manzoni. Capitolo XXIV.<sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(levando al cielo le mani)</l>
+            <l>Gran dio, tu vigila</l>
+            <l>sugli infelici,</l>
+            <l>tergi le lagrime</l>
+            <l>tempra il dolor.</l>
+            <l>(la barca si allontana e le voci di Renzo e Lucia si perdono nella distanza. Un raggio di luna illumina le acque. Il padre Cristoforo rimane immobile sulla scena co’ le braccia levate al cielo)</l>
+            <l>Atto terzo</l>
+            <l>Quadro unico.</l>
+            <l>Scena prima</l>
+            <l>In un villaggio ai piedi della montagna; sul davanti a destra, la casa parrocchiale con porta ampia che mette ad un cortile. Balcone coperto di ricchi tappeti. Grande viale che conduce alla chiesa. Archi di trionfo, tende, sandaline, addobbi d’ogni genere.</l>
+            <l>Dietro il villaggio, un promontorio, a poca distanza, dove sorge un castello. (*)</l>
+            <l>Uomini e Donne che giungono da diverse vie; altri che escono dal cortile della casa parrocchiale.</l>
+            <l>(*) Manzoni. Capitolo XXIV.</l>
+          </sp>
+          <stage>CRISTOFORO(levando al cielo le mani)Gran dio, tu vigilasugli infelici,tergi le lagrimetempra il dolor.(la barca si allontana e le voci di Renzo e Lucia si perdono nella distanza. Un raggio di luna illumina le acque. Il padre Cristoforo rimane immobile sulla scena co’ le braccia levate al cielo)Atto terzoQuadro unico.Scena primaIn un villaggio ai piedi della montagna; sul davanti a destra, la casa parrocchiale con porta ampia che mette ad un cortile. Balcone coperto di ricchi tappeti. Grande viale che conduce alla chiesa. Archi di trionfo, tende, sandaline, addobbi d’ogni genere.Dietro il villaggio, un promontorio, a poca distanza, dove sorge un castello. (*)Uomini e Donne che giungono da diverse vie; altri che escono dal cortile della casa parrocchiale.(*) Manzoni. Capitolo XXIV.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>CORO</head>– Ben giunti alla festa!– Amici, voi qui?– in casa non restache il gatto in tal dì.– Che bella giornata!– Che pompa! Che incanto!Convien fargli onore…si tratta di un santo;già dieci miracolistamane ha compiuti;camminan gli storpi,favellano i muti…dovunque egli passa…profonde tesor;al gran Federigosia gloria ed onor!(volgendosi verso il fondo della scena)Oh! Guardate chi vien dalla montagna!…Del castello il terribil signor…Nessun de’ suoi bravacci lo accompagna…torvo ha lo sguardo, come nero ha il cor.Il passo apritegli…Zitti! Osserviamo…cauti esploriamoche viene a far.(si traggono in disparte)Scena secondaL’innominato e detti.<div type="scene">
+          <head>CORO</head>– Ben giunti alla festa!– Amici, voi qui?– in casa non restache il gatto in tal dì.– Che bella giornata!– Che pompa! Che incanto!Convien fargli onore…si tratta di un santo;già dieci miracolistamane ha compiuti;camminan gli storpi,favellano i muti…dovunque egli passa…profonde tesor;al gran Federigosia gloria ed onor!(volgendosi verso il fondo della scena)Oh! Guardate chi vien dalla montagna!…Del castello il terribil signor…Nessun de’ suoi bravacci lo accompagna…torvo ha lo sguardo, come nero ha il cor.Il passo apritegli…Zitti! Osserviamo…cauti esploriamoche viene a far.(si traggono in disparte)Scena secondaL’innominato e detti.<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>– Ben giunti alla festa!</l>
+            <l>– Amici, voi qui?</l>
+            <l>– in casa non resta</l>
+            <l>che il gatto in tal dì.</l>
+            <l>– Che bella giornata!</l>
+            <l>– Che pompa! Che incanto!</l>
+            <l>Convien fargli onore…</l>
+            <l>si tratta di un santo;</l>
+            <l>già dieci miracoli</l>
+            <l>stamane ha compiuti;</l>
+            <l>camminan gli storpi,</l>
+            <l>favellano i muti…</l>
+            <l>dovunque egli passa…</l>
+            <l>profonde tesor;</l>
+            <l>al gran Federigo</l>
+            <l>sia gloria ed onor!</l>
+            <l>(volgendosi verso il fondo della scena)</l>
+            <l>Oh! Guardate chi vien dalla montagna!…</l>
+            <l>Del castello il terribil signor…</l>
+            <l>Nessun de’ suoi bravacci lo accompagna…</l>
+            <l>torvo ha lo sguardo, come nero ha il cor.</l>
+            <l>Il passo apritegli…</l>
+            <l>Zitti! Osserviamo…</l>
+            <l>cauti esploriamo</l>
+            <l>che viene a far.</l>
+            <l>(si traggono in disparte)</l>
+            <l>Scena seconda</l>
+            <l>L’innominato e detti.</l>
+          </sp>
+          <stage>CORO– Ben giunti alla festa!– Amici, voi qui?– in casa non restache il gatto in tal dì.– Che bella giornata!– Che pompa! Che incanto!Convien fargli onore…si tratta di un santo;già dieci miracolistamane ha compiuti;camminan gli storpi,favellano i muti…dovunque egli passa…profonde tesor;al gran Federigosia gloria ed onor!(volgendosi verso il fondo della scena)Oh! Guardate chi vien dalla montagna!…Del castello il terribil signor…Nessun de’ suoi bravacci lo accompagna…torvo ha lo sguardo, come nero ha il cor.Il passo apritegli…Zitti! Osserviamo…cauti esploriamoche viene a far.(si traggono in disparte)Scena secondaL’innominato e detti.</stage>
+          <sp who="#l’innominato">
+            <speaker>L’INNOMINATO:</speaker>
+            <l>(accostandosi alla folla)</l>
+            <l>Dite… dov’abita</l>
+            <l>il cardinale?…</l>
+            <l>Colui che il santo</l>
+            <l>si fa chiamar…</l>
+          </sp>
+          <stage>L’INNOMINATO(accostandosi alla folla)Dite… dov’abitail cardinale?…Colui che il santosi fa chiamar…</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(additando la casa parrocchiale)</l>
+            <l>Presso il curato…</l>
+            <l>lassù dimora…</l>
+            <l>andrà alla chiesa</l>
+            <l>fra un quarto d’ora…</l>
+            <l>pieno è il cortile</l>
+            <l>nessun può entrar.</l>
+          </sp>
+          <stage>CORO(additando la casa parrocchiale)Presso il curato…lassù dimora…andrà alla chiesafra un quarto d’ora…pieno è il cortilenessun può entrar.</stage>
+          <sp who="#l’innominato">
+            <speaker>L’INNOMINATO:</speaker>
+            <l>(bruscamente)</l>
+            <l>Sgombrate il passo…</l>
+            <l>io debbo entrar.</l>
+            <l>(entra nella casa parrocchiale facendosi largo tra la folla)</l>
+          </sp>
+          <stage>L’INNOMINATO(bruscamente)Sgombrate il passo…io debbo entrar.(entra nella casa parrocchiale facendosi largo tra la folla)</stage>
+        </div>
+        <div type="scene">
+          <head>CORO</head>Il nostro gaudio,la nostra festa,quest’uom terribilevenne a turbar.(tutti si aggruppano sul davanti della scena parlando a bassa voce)Una carrozza fu veduta ierisalire i gioghi al tramontar del dì.Di sgherri brulicavano i sentieri…Di donna un grido… risuonar si udì…Qualche nuovo delitto han consumatodentro i covi dell’orrido castel…e oggi ancora quest’uomo abominatoa scherno prende gli uomini ed il ciel.(si spingono dentro il cortile della casa parrocchiale)Scena terzaDon Abbondio, Perpetua, indi il Coro.<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Il nostro gaudio,</l>
+            <l>la nostra festa,</l>
+            <l>quest’uom terribile</l>
+            <l>venne a turbar.</l>
+            <l>(tutti si aggruppano sul davanti della scena parlando a bassa voce)</l>
+            <l>Una carrozza fu veduta ieri</l>
+            <l>salire i gioghi al tramontar del dì.</l>
+            <l>Di sgherri brulicavano i sentieri…</l>
+            <l>Di donna un grido… risuonar si udì…</l>
+            <l>Qualche nuovo delitto han consumato</l>
+            <l>dentro i covi dell’orrido castel…</l>
+            <l>e oggi ancora quest’uomo abominato</l>
+            <l>a scherno prende gli uomini ed il ciel.</l>
+            <l>(si spingono dentro il cortile della casa parrocchiale)</l>
+            <l>Scena terza</l>
+            <l>Don Abbondio, Perpetua, indi il Coro.</l>
+          </sp>
+          <stage>COROIl nostro gaudio,la nostra festa,quest’uom terribilevenne a turbar.(tutti si aggruppano sul davanti della scena parlando a bassa voce)Una carrozza fu veduta ierisalire i gioghi al tramontar del dì.Di sgherri brulicavano i sentieri…Di donna un grido… risuonar si udì…Qualche nuovo delitto han consumatodentro i covi dell’orrido castel…e oggi ancora quest’uomo abominatoa scherno prende gli uomini ed il ciel.(si spingono dentro il cortile della casa parrocchiale)Scena terzaDon Abbondio, Perpetua, indi il Coro.</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>(ansante e trafelato)</l>
+            <l>Fare a piedi cinque miglia</l>
+            <l>per venir tra questa folla!</l>
+          </sp>
+          <stage>ABBONDIO(ansante e trafelato)Fare a piedi cinque migliaper venir tra questa folla!</stage>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Oh! Davver! Gran meraviglia!</l>
+            <l>Siete un uom di pasta frolla…</l>
+          </sp>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>E quest’altro… non poteva</l>
+            <l>rimanersene a Milano?…</l>
+            <l>Signor no!…</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Parlate piano,</l>
+            <l>vi farete lapidar!…</l>
+          </sp>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>(con stizza)</l>
+            <l>Perché son ricchi ~ perché son santi,</l>
+            <l>costor disturbano ~ borghi e villaggi…</l>
+            <l>essi raccolgono ~ plausi ed omaggi</l>
+            <l>e a noi le spese convien pagar…</l>
+          </sp>
+          <stage>ABBONDIO(con stizza)Perché son ricchi ~ perché son santi,costor disturbano ~ borghi e villaggi…essi raccolgono ~ plausi ed omaggie a noi le spese convien pagar…</stage>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Se foste un uomo ~ com’io la intendo…</l>
+            <l>dell’occasione ~ profittereste…</l>
+            <l>Le vostre suppliche ~ pretendereste…</l>
+            <l>ma a voi consigli ~ nessun può dar.</l>
+          </sp>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Il bel consiglio ~ ch’oggi m’hai dato!…</l>
+            <l>Grazie Perpetua ~ grazie davver!</l>
+            <l>Sarai contenta ~ cadrò malato…</l>
+            <l>mi vedrai presto ~ nel cimiter.</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Ah! Don Abbondio…</l>
+          </sp>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Perpetua mia…</l>
+            <l>non facciam scene… non pianger… via!</l>
+            <l>Poiché siam giunti ~ vediam, tentiamo…</l>
+            <l>se questo santo ~ si può veder.</l>
+            <l>(fa per entrare nel cortile)</l>
+          </sp>
+          <stage>ABBONDIOPerpetua mia…non facciam scene… non pianger… via!Poiché siam giunti ~ vediam, tentiamo…se questo santo ~ si può veder.(fa per entrare nel cortile)</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(dal cortile)</l>
+            <l>Don Abbondio!</l>
+          </sp>
+          <stage>CORO(dal cortile)Don Abbondio!</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>(dando indietro)</l>
+            <l>Il nome mio!…</l>
+            <l>Che vuol dir?</l>
+          </sp>
+          <stage>ABBONDIO(dando indietro)Il nome mio!…Che vuol dir?</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(uscendo)</l>
+            <l>Signor curato…</l>
+            <l>Entri tosto… Ella è chiamato…</l>
+          </sp>
+          <stage>CORO(uscendo)Signor curato…Entri tosto… Ella è chiamato…</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Io?… Da chi?…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Dal cardinal…</l>
+            <l>Venga tosto…</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Qual fortuna!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Viva, viva il cardinal!</l>
+            <l>(a don Abbondio)</l>
+            <l>Su, don Abbondio…</l>
+            <l>non indugiate…</l>
+            <l>lassù vi attendono…</l>
+            <l>presto… affrettate!</l>
+            <l>Tutti vi invidiano</l>
+            <l>sì grande onor.</l>
+          </sp>
+          <stage>TUTTIViva, viva il cardinal!(a don Abbondio)Su, don Abbondio…non indugiate…lassù vi attendono…presto… affrettate!Tutti vi invidianosì grande onor.</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Non è possibile…</l>
+            <l>chiedo perdono…</l>
+            <l>di tanta gloria</l>
+            <l>degno non sono…</l>
+            <l>Oh! Che pasticcio!</l>
+            <l>Che brutto impiccio!</l>
+            <l>Vengo… Lasciatemi…</l>
+            <l>Dio! Qual rumor!…</l>
+            <l>(entra nel cortile turandosi le orecchie co’ le mani)</l>
+          </sp>
+          <stage>ABBONDIONon è possibile…chiedo perdono…di tanta gloriadegno non sono…Oh! Che pasticcio!Che brutto impiccio!Vengo… Lasciatemi…Dio! Qual rumor!…(entra nel cortile turandosi le orecchie co’ le mani)</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(facendosi davanti della scena)</l>
+            <l>Miracolo! Miracolo</l>
+            <l>cui non si diè l’eguale!…</l>
+            <l>Evviva il cardinale!</l>
+          </sp>
+          <stage>CORO(facendosi davanti della scena)Miracolo! Miracolocui non si diè l’eguale!…Evviva il cardinale!</stage>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Spiegatevi, che fu?…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Il nostro feudatario,</l>
+            <l>quell’uom terribil tanto,</l>
+            <l>ai piè del nuovo apostolo</l>
+            <l>i suoi delitti ha pianto.</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Sta ben… ma don Abbondio</l>
+            <l>che c’entra in questo affare?</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>D’una fanciulla trattasi</l>
+            <l>rapita a quel che pare…</l>
+            <l>per suo voler…</l>
+          </sp>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>(entrando in scena barcollando)</l>
+            <l>Perpetua!</l>
+            <l>Oh dio! Non reggo più…</l>
+          </sp>
+          <stage>ABBONDIO(entrando in scena barcollando)Perpetua!Oh dio! Non reggo più…</stage>
+          <sp who="#perpetua e coro">
+            <speaker>PERPETUA E CORO:</speaker>
+            <l>Perché sì pallido?</l>
+            <l>Che avvenne mai?</l>
+          </sp>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Nulla… credetelo…</l>
+            <l>son lieto assai…</l>
+            <l>(volgendosi verso casa)</l>
+            <l>Ben obbligato!</l>
+            <l>Grazie, eminenza!…</l>
+            <l>d’avermi dato</l>
+            <l>la preferenza!</l>
+            <l>Bella! Magnifica</l>
+            <l>la commissione!</l>
+            <l>(a Perpetua con occhi da spiritato)</l>
+            <l>Vado al castello</l>
+            <l>di quel birbone!…</l>
+            <l>Farem la strada</l>
+            <l>in compagnia…</l>
+            <l>Oh! Il bel viaggio!</l>
+            <l>Oh! Che allegria!</l>
+            <l>(a Perpetua sottovoce)</l>
+            <l>Un nuovo intrigo</l>
+            <l>di don Rodrigo…</l>
+            <l>Lucia Mondella…</l>
+            <l>chiusa è lassù…</l>
+            <l>Il feudatario…</l>
+            <l>colui… quel mostro…</l>
+            <l>(vedendo L’innominato che sarà disceso sulla piazza)</l>
+            <l>Sì, quell’emporio</l>
+            <l>d’ogni virtù…</l>
+            <l>(inchinandosi fino a terra)</l>
+            <l>Ecco… scusatemi…</l>
+            <l>All’ordin vostro…</l>
+            <l>(a Perpetua)</l>
+            <l>Addio, Perpetua…</l>
+            <l>non torno più.</l>
+            <l>(in questo tempo si saranno avanzati quattro uomini con una lettiga, e due cavalcature)</l>
+          </sp>
+          <stage>ABBONDIONulla… credetelo…son lieto assai…(volgendosi verso casa)Ben obbligato!Grazie, eminenza!…d’avermi datola preferenza!Bella! Magnificala commissione!(a Perpetua con occhi da spiritato)Vado al castellodi quel birbone!…Farem la stradain compagnia…Oh! Il bel viaggio!Oh! Che allegria!(a Perpetua sottovoce)Un nuovo intrigodi don Rodrigo…Lucia Mondella…chiusa è lassù…Il feudatario…colui… quel mostro…(vedendo L’innominato che sarà disceso sulla piazza)Sì, quell’emporiod’ogni virtù…(inchinandosi fino a terra)Ecco… scusatemi…All’ordin vostro…(a Perpetua)Addio, Perpetua…non torno più.(in questo tempo si saranno avanzati quattro uomini con una lettiga, e due cavalcature)</stage>
+          <sp who="#l’innominato">
+            <speaker>L’INNOMINATO:</speaker>
+            <l>(volgendosi ai portatori della lettiga)</l>
+            <l>È tutto in ordine?</l>
+          </sp>
+          <stage>L’INNOMINATO(volgendosi ai portatori della lettiga)È tutto in ordine?</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>L’inferno ho indosso…</l>
+            <l>(avvicinandosi alla cavalcatura)</l>
+            <l>Di questa bestia</l>
+            <l>fidarmi posso?</l>
+            <l>(monta a cavallo aiutato dai villici)</l>
+          </sp>
+          <stage>ABBONDIOL’inferno ho indosso…(avvicinandosi alla cavalcatura)Di questa bestiafidarmi posso?(monta a cavallo aiutato dai villici)</stage>
+          <sp who="#l’innominato">
+            <speaker>L’INNOMINATO:</speaker>
+            <l>È buono… è docile…</l>
+            <l>come un agnello.</l>
+            <l>Presto al castello!</l>
+          </sp>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>(gridando)</l>
+            <l>Per carità!…</l>
+            <l>Piano… fermatevi…</l>
+            <l>c’è un precipizio…</l>
+            <l>Non han giudizio…</l>
+            <l>Pietà… pietà!…</l>
+          </sp>
+          <stage>ABBONDIO(gridando)Per carità!…Piano… fermatevi…c’è un precipizio…Non han giudizio…Pietà… pietà!…</stage>
+        </div>
+        <div type="scene">
+          <head>CORO</head>Eh! Buon viaggio!Lieto ritorno!…Sempre, il villaggio,sì fausto giorno,con pia memoriaricorderà.(ad un cenno de L’innominato, la lettiga si allontana. – Don Abbondio la segue a cavallo gridando a tutta gola. – Perpetua ed il Coro tengono dietro alla comitiva, che sale verso la montagna)Scena quartaAgnese che entra affaticata dalla corsa, indi Perpetua.<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Eh! Buon viaggio!</l>
+            <l>Lieto ritorno!…</l>
+            <l>Sempre, il villaggio,</l>
+            <l>sì fausto giorno,</l>
+            <l>con pia memoria</l>
+            <l>ricorderà.</l>
+            <l>(ad un cenno de L’innominato, la lettiga si allontana. – Don Abbondio la segue a cavallo gridando a tutta gola. – Perpetua ed il Coro tengono dietro alla comitiva, che sale verso la montagna)</l>
+            <l>Scena quarta</l>
+            <l>Agnese che entra affaticata dalla corsa, indi Perpetua.</l>
+          </sp>
+          <stage>COROEh! Buon viaggio!Lieto ritorno!…Sempre, il villaggio,sì fausto giorno,con pia memoriaricorderà.(ad un cenno de L’innominato, la lettiga si allontana. – Don Abbondio la segue a cavallo gridando a tutta gola. – Perpetua ed il Coro tengono dietro alla comitiva, che sale verso la montagna)Scena quartaAgnese che entra affaticata dalla corsa, indi Perpetua.</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Dove va quella gente? Perché mai…</l>
+            <l>tanta angoscia ho nel cuore?</l>
+            <l>Dal paesello anch’io son venuta</l>
+            <l>per veder questo santo. E qui arrivata,</l>
+            <l>invece della gioia</l>
+            <l>ch’io m’attendea, mi assalì il terrore.</l>
+            <l>Di che posso temer? La mia Lucia,</l>
+            <l>presso la pia signora</l>
+            <l>di Monza al monaster ricoverata,</l>
+            <l>vive in pace i suoi dì… Povera figlia!</l>
+            <l>Il signore soltanto,</l>
+            <l>sol egli può saper se mi fia dato</l>
+            <l>di presto rivederla… Oh! Quando mai</l>
+            <l>cesseran sulla terra i nostri guai?</l>
+            <l>Sotto il modesto tetto,</l>
+            <l>della mia figlia accanto,</l>
+            <l>per me felice tanto</l>
+            <l>scorrea la vecchia età…</l>
+            <l>O figlia… o figlia mia…</l>
+            <l>o povera Lucia…</l>
+            <l>saper potessi almeno</l>
+            <l>quando al materno seno</l>
+            <l>iddio ti renderà!</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>(da sé venendo dalla piazza)</l>
+            <l>Tutto ho saputo… Dio! Quante sciocchezze,</l>
+            <l>quanto fracasso per questa Lucia!</l>
+            <l>Infine… non è il fior delle bellezze!</l>
+            <l>(pavoneggiandosi)</l>
+            <l>Avesse almeno la statura mia…</l>
+            <l>La taglia… il portamento…</l>
+            <l>il mio brio… la mia grazia… e il mio talento…</l>
+          </sp>
+          <stage>PERPETUA(da sé venendo dalla piazza)Tutto ho saputo… Dio! Quante sciocchezze,quanto fracasso per questa Lucia!Infine… non è il fior delle bellezze!(pavoneggiandosi)Avesse almeno la statura mia…La taglia… il portamento…il mio brio… la mia grazia… e il mio talento…</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Veh! Perpetua…</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Tu qui… mia buona Agnese!</l>
+            <l>Dunque… lassù al paese</l>
+            <l>la nuova è già arrivata?</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Qual nuova?</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Che? Non sai… della Lucia?</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Parla… per carità… cosa è avvenuto?</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Brutte scene… cioè… basta, non voglio</l>
+            <l>addolorarti…</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>(supplichevole)</l>
+            <l>In nome del signore!</l>
+          </sp>
+          <stage>AGNESE(supplichevole)In nome del signore!</stage>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Coraggio… ogni pericolo è cessato…</l>
+            <l>Tu rivedrai Lucia…</l>
+            <l>Dessa è qui…</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Come mai?</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>(additando)</l>
+            <l>Presso il signore</l>
+            <l>di quel castello…</l>
+          </sp>
+          <stage>PERPETUA(additando)Presso il signoredi quel castello…</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Ah tu mi strazi il cuore!…</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Di don Rodrigo ~ degno alleato,</l>
+            <l>colui tua figlia ~ facea rapir.</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Povera figlia!</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Lo scellerato</l>
+            <l>dovea poi cederla…</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Mi fai morir…</l>
+            <l>(vacilla e sviene nelle braccia di Perpetua)</l>
+          </sp>
+          <stage>AGNESEMi fai morir…(vacilla e sviene nelle braccia di Perpetua)</stage>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Coraggio… ascoltami… non ho finito…</l>
+            <l>Or… quel birbone… s’è convertito;</l>
+            <l>e don Abbondio fra pochi istanti</l>
+            <l>a te la figlia ricondurrà.</l>
+          </sp>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Dio… quale spasimo!…</l>
+          </sp>
+          <sp who="#voci da fuori">
+            <speaker>VOCI DA FUORI:</speaker>
+            <l>Da bravo!… Avanti!…</l>
+            <l>Signor curato…</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>Vedi… son qua…</l>
+            <l>Corriamgli incontro…</l>
+          </sp>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>(voce da fuori)</l>
+            <l>Largo… bricconi…</l>
+            <l>Dov’è Perpetua?…</l>
+          </sp>
+          <stage>ABBONDIO(voce da fuori)Largo… bricconi…Dov’è Perpetua?…</stage>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>(accorrendo)</l>
+            <l>Vengo…</l>
+          </sp>
+          <stage>PERPETUA(accorrendo)Vengo…</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>(accorrendo)</l>
+            <l>O Lucia!</l>
+            <l>Veder lasciatemi la figlia mia…</l>
+          </sp>
+          <stage>AGNESE(accorrendo)O Lucia!Veder lasciatemi la figlia mia…</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(voce da fuori)</l>
+            <l>O madre, o madre…</l>
+          </sp>
+          <stage>LUCIA(voce da fuori)O madre, o madre…</stage>
+        </div>
+        <div type="scene">
+          <head>CORO</head>Lode al signor!Scena quintaDon Abbondio che si avanza a cavallo, circondato dalla Folla. Lucia che esce dalla lettiga e si porta sul davanti della scena abbracciata ad Agnese. L’innominato, Perpetua, Bravi, Popolo; da ultimo il cardinale Federico Borromeo con séguito di Prelati.<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Lode al signor!</l>
+            <l>Scena quinta</l>
+            <l>Don Abbondio che si avanza a cavallo, circondato dalla Folla. Lucia che esce dalla lettiga e si porta sul davanti della scena abbracciata ad Agnese. L’innominato, Perpetua, Bravi, Popolo; da ultimo il cardinale Federico Borromeo con séguito di Prelati.</l>
+          </sp>
+          <stage>COROLode al signor!Scena quintaDon Abbondio che si avanza a cavallo, circondato dalla Folla. Lucia che esce dalla lettiga e si porta sul davanti della scena abbracciata ad Agnese. L’innominato, Perpetua, Bravi, Popolo; da ultimo il cardinale Federico Borromeo con séguito di Prelati.</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>(scendendo dalla cavalcatura aiutato da Perpetua)</l>
+            <l>Adagio… o furia… Dio! Che burroni!</l>
+            <l>Che precipizi! Li veggo ancor!…</l>
+          </sp>
+          <stage>ABBONDIO(scendendo dalla cavalcatura aiutato da Perpetua)Adagio… o furia… Dio! Che burroni!Che precipizi! Li veggo ancor!…</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(ad Agnese)</l>
+            <l>Nel tuo materno amplesso</l>
+            <l>già si ritempra il core…</l>
+            <l>fu immenso il mio dolore…</l>
+            <l>è immenso il mio gioir.</l>
+            <l>Da te disgiunta, o madre,</l>
+            <l>io non starò più mai;</l>
+            <l>tal voto a Dio giurai</l>
+            <l>e lo saprò compir.</l>
+          </sp>
+          <stage>LUCIA(ad Agnese)Nel tuo materno amplessogià si ritempra il core…fu immenso il mio dolore…è immenso il mio gioir.Da te disgiunta, o madre,io non starò più mai;tal voto a Dio giuraie lo saprò compir.</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>Ah! Sì, il materno amplesso</l>
+            <l>sicuro asil ti sia;</l>
+            <l>da questo sen, Lucia,</l>
+            <l>nessun ti può rapir.</l>
+            <l>Per lui… per Renzo intanto</l>
+            <l>noi pregheremo uniti,</l>
+            <l>fin quando il voto santo</l>
+            <l>si piaccia iddio compir.</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>(avvicinandosi a Lucia)</l>
+            <l>Di Renzo abbiam notizie?</l>
+            <l>Dicon che giù a Milano,</l>
+            <l>ha fato del baccano…</l>
+            <l>che poi dové fuggir.</l>
+            <l>Se è ver quanto ho sentito…</l>
+            <l>per sempre ei fu bandito…</l>
+            <l>o povera Lucia,</l>
+            <l>quanto tu déi soffrir!</l>
+          </sp>
+          <stage>PERPETUA(avvicinandosi a Lucia)Di Renzo abbiam notizie?Dicon che giù a Milano,ha fato del baccano…che poi dové fuggir.Se è ver quanto ho sentito…per sempre ei fu bandito…o povera Lucia,quanto tu déi soffrir!</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>(trattenendo Perpetua e cercando allontanarla da Lucia)</l>
+            <l>Or su, lingua di vipera,</l>
+            <l>quando tacer vorrai?…</l>
+            <l>Da questo mar di guai</l>
+            <l>quando potremo uscir?</l>
+            <l>Quel birbo eccellentissimo,</l>
+            <l>è ver… s’è convertito,</l>
+            <l>ma ancor non hai capito</l>
+            <l>ch’ei si potria pentir?</l>
+          </sp>
+          <stage>ABBONDIO(trattenendo Perpetua e cercando allontanarla da Lucia)Or su, lingua di vipera,quando tacer vorrai?…Da questo mar di guaiquando potremo uscir?Quel birbo eccellentissimo,è ver… s’è convertito,ma ancor non hai capitoch’ei si potria pentir?</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Ah! Nel materno amplesso</l>
+            <l>ella scordò il dolore,</l>
+            <l>quel travagliato core</l>
+            <l>già troppo ebbe a soffrir.</l>
+          </sp>
+          <sp who="#l’innominato">
+            <speaker>L’INNOMINATO:</speaker>
+            <l>(uscendo dalla casa parrocchiale, ed accostandosi a Lucia)</l>
+            <l>Compiuto il rito, il cardinale a voi</l>
+            <l>provvederà… Sicuro asilo entrambe</l>
+            <l>a Milan troverete,</l>
+            <l>e quivi in pace i vostri dì trarrete.</l>
+            <l>(squillo di trombe dall’interno della casa parrocchiale)</l>
+          </sp>
+          <stage>L’INNOMINATO(uscendo dalla casa parrocchiale, ed accostandosi a Lucia)Compiuto il rito, il cardinale a voiprovvederà… Sicuro asilo entrambea Milan troverete,e quivi in pace i vostri dì trarrete.(squillo di trombe dall’interno della casa parrocchiale)</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Alla chiesa! Alla chiesa!</l>
+            <l>(movimento generale)</l>
+            <l>Plauso, viva</l>
+            <l>al cardinale!</l>
+          </sp>
+          <stage>TUTTIAlla chiesa! Alla chiesa!(movimento generale)Plauso, vivaal cardinale!</stage>
+          <sp who="#agnese">
+            <speaker>AGNESE:</speaker>
+            <l>(all’Innominato)</l>
+            <l>Grazie, buon signore!…</l>
+          </sp>
+          <stage>AGNESE(all’Innominato)Grazie, buon signore!…</stage>
+          <sp who="#l’innominato">
+            <speaker>L’INNOMINATO:</speaker>
+            <l>Io vi chieggo perdon!</l>
+          </sp>
+          <sp who="#perpetua">
+            <speaker>PERPETUA:</speaker>
+            <l>(a don Abbondio)</l>
+            <l>Da quel che vedo</l>
+            <l>convertito è davver…</l>
+          </sp>
+          <stage>PERPETUA(a don Abbondio)Da quel che vedoconvertito è davver…</stage>
+          <sp who="#abbondio">
+            <speaker>ABBONDIO:</speaker>
+            <l>Credo e non credo.</l>
+            <l>(dal cortile della casa parrocchiale esce la banda musicale e dietro quella il corteggio dei prelati che fanno séguito al cardinale Federico Borromeo. L’innominato si pone a lato del cardinale. Il popolo si inginocchia, e quindi segue il corteggio, lungo il viale che mette alla chiesa. Agnese, Lucia e Perpetua si confondono col popolo. Don Abbondio si mette in coda ai prelati)</l>
+          </sp>
+          <stage>ABBONDIOCredo e non credo.(dal cortile della casa parrocchiale esce la banda musicale e dietro quella il corteggio dei prelati che fanno séguito al cardinale Federico Borromeo. L’innominato si pone a lato del cardinale. Il popolo si inginocchia, e quindi segue il corteggio, lungo il viale che mette alla chiesa. Agnese, Lucia e Perpetua si confondono col popolo. Don Abbondio si mette in coda ai prelati)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>TUTTI</head>Al tempio muoviamo!Cantiamo! Esultiamo!La santa parolache avviva e consola,dal labbro ispiratodiscenda nei cuor;la speme ravvivi,cancelli il dolor.(la processione si allontana)Atto quartoQuadro primo.Scena primaAnticamera nel palazzo di don Rodrigo, a Milano. Porta di mezzo, altra porta a destra, poche sedie, un banco.Il Griso sdraiato su un banco, indi don Rodrigo. (*)(*) Manzoni. Capitolo XXXIII.<div type="scene">
+          <head>TUTTI</head>Al tempio muoviamo!Cantiamo! Esultiamo!La santa parolache avviva e consola,dal labbro ispiratodiscenda nei cuor;la speme ravvivi,cancelli il dolor.(la processione si allontana)Atto quartoQuadro primo.Scena primaAnticamera nel palazzo di don Rodrigo, a Milano. Porta di mezzo, altra porta a destra, poche sedie, un banco.Il Griso sdraiato su un banco, indi don Rodrigo. (*)(*) Manzoni. Capitolo XXXIII.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Al tempio muoviamo!</l>
+            <l>Cantiamo! Esultiamo!</l>
+            <l>La santa parola</l>
+            <l>che avviva e consola,</l>
+            <l>dal labbro ispirato</l>
+            <l>discenda nei cuor;</l>
+            <l>la speme ravvivi,</l>
+            <l>cancelli il dolor.</l>
+            <l>(la processione si allontana)</l>
+            <l>Atto quarto</l>
+            <l>Quadro primo.</l>
+            <l>Scena prima</l>
+            <l>Anticamera nel palazzo di don Rodrigo, a Milano. Porta di mezzo, altra porta a destra, poche sedie, un banco.</l>
+            <l>Il Griso sdraiato su un banco, indi don Rodrigo. (*)</l>
+            <l>(*) Manzoni. Capitolo XXXIII.</l>
+          </sp>
+          <stage>TUTTIAl tempio muoviamo!Cantiamo! Esultiamo!La santa parolache avviva e consola,dal labbro ispiratodiscenda nei cuor;la speme ravvivi,cancelli il dolor.(la processione si allontana)Atto quartoQuadro primo.Scena primaAnticamera nel palazzo di don Rodrigo, a Milano. Porta di mezzo, altra porta a destra, poche sedie, un banco.Il Griso sdraiato su un banco, indi don Rodrigo. (*)(*) Manzoni. Capitolo XXXIII.</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>(guardando verso la porta a destra)</l>
+            <l>Ch’ei dorma ancora… O ch’ei fosse partito</l>
+            <l>per l’altro mondo, senza dirmi addio!…</l>
+            <l>(alzandosi)</l>
+            <l>Non oso avvicinarmi a quella stanza…</l>
+            <l>Ier sera, il mio degnissimo padrone</l>
+            <l>avea cert’occhi lustri… un certo aspetto…</l>
+            <l>dei nobili, dei ricchi e dei birboni</l>
+            <l>la perfida moria non ha rispetto.</l>
+            <l>All’erta… Don Rodrigo!…</l>
+          </sp>
+          <stage>GRISO(guardando verso la porta a destra)Ch’ei dorma ancora… O ch’ei fosse partitoper l’altro mondo, senza dirmi addio!…(alzandosi)Non oso avvicinarmi a quella stanza…Ier sera, il mio degnissimo padroneavea cert’occhi lustri… un certo aspetto…dei nobili, dei ricchi e dei birbonila perfida moria non ha rispetto.All’erta… Don Rodrigo!…</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(voce interna)</l>
+            <l>Olà… buon Griso!…</l>
+          </sp>
+          <stage>RODRIGO(voce interna)Olà… buon Griso!…</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Aspetta un poco…</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(voce interna)</l>
+            <l>Mio fedele amico!…</l>
+          </sp>
+          <stage>RODRIGO(voce interna)Mio fedele amico!…</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Amico! Qual bontà!… Qual degnazione!</l>
+            <l>Giammai non mi ha parlato</l>
+            <l>sì gentilmente… Oh! Certo… Egli è malato…</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(voce interna)</l>
+            <l>Dunque nessuno è là? Son tutti morti?…</l>
+          </sp>
+          <stage>RODRIGO(voce interna)Dunque nessuno è là? Son tutti morti?…</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Ah!… Se i monatti ad avvertir corressi…</l>
+            <l>(Rodrigo entra in scena col viso stravolto ed abbigliato col massimo disordine)</l>
+          </sp>
+          <stage>GRISOAh!… Se i monatti ad avvertir corressi…(Rodrigo entra in scena col viso stravolto ed abbigliato col massimo disordine)</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>(dando indietro)</l>
+            <l>Largo!… Non si appressi…</l>
+          </sp>
+          <stage>GRISO(dando indietro)Largo!… Non si appressi…</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>Di che temi?…</l>
+          </sp>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Signore… La prudenza</l>
+            <l>non è mai troppa… ed il contagio è lesto…</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>Tu scherzi, Griso… Ma ti pare?…</l>
+          </sp>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Avete</l>
+            <l>una cera sì fosca…</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>Eppur… sto… bene…</l>
+            <l>Bene assai… Vuoi tu ridere, o mio Griso?</l>
+            <l>Ah sì! Ridi di me… Questo pallore</l>
+            <l>che sul volto mi sta, questo terrore</l>
+            <l>che i sensi mi invadea…</l>
+            <l>di palesarlo a te non mi vergogno,</l>
+            <l>era l’effetto d’un terribil sogno.</l>
+          </sp>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>(fissando don Rodrigo con terrore e tenendosi sempre discosto)</l>
+            <l>Davvero!</l>
+          </sp>
+          <stage>GRISO(fissando don Rodrigo con terrore e tenendosi sempre discosto)Davvero!</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>In un vasto tempio</l>
+            <l>da immensa folla avvinto,</l>
+            <l>verso il lontano pergamo</l>
+            <l>io mi sentia sospinto…</l>
+            <l>Di volti biechi e squallidi</l>
+            <l>un’onda m’avvolgea,</l>
+            <l>il petto m’opprimea…</l>
+            <l>toglievami il respir…</l>
+            <l>Voce tuonò fatidica</l>
+            <l>sotto le nere arcate</l>
+            <l>levai lo sguardo al pergamo…</l>
+            <l>vidi rizzarsi un frate…</l>
+            <l>che mi affissò terribile…</l>
+            <l>alzò la scarna mano,</l>
+            <l>e parve da lontano</l>
+            <l>segnarmi e maledir.</l>
+            <l>Allor… la spada stringere</l>
+            <l>nel mio furor tentai…</l>
+            <l>tosto un orrendo spasimo</l>
+            <l>qui… presso il cor provai…</l>
+            <l>L’elsa parea configgersi</l>
+            <l>entro la fibra ardente…</l>
+            <l>io mi destai repente…</l>
+            <l>ma non cessò il martir…</l>
+          </sp>
+          <sp who="#voci da fuori">
+            <speaker>VOCI DA FUORI:</speaker>
+            <l>Il carro di morte,</l>
+            <l>signori, vi invita!…</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(con terrore)</l>
+            <l>O ciel! Dei monatti</l>
+            <l>la ciurma aborrita…</l>
+            <l>mio Griso… buon Griso…</l>
+          </sp>
+          <stage>RODRIGO(con terrore)O ciel! Dei monattila ciurma aborrita…mio Griso… buon Griso…</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>(indietreggiando)</l>
+            <l>Al largo… signor!…</l>
+          </sp>
+          <stage>GRISO(indietreggiando)Al largo… signor!…</stage>
+          <sp who="#voci">
+            <speaker>VOCI:</speaker>
+            <l>Sul nostro carro</l>
+            <l>tutti accogliamo;</l>
+            <l>siam gente onesta,</l>
+            <l>nulla chiediamo;</l>
+            <l>per l’altro mondo</l>
+            <l>chi vuol partir?</l>
+            <l>Sei posti ancora</l>
+            <l>possiamo offrir…</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(al Griso)</l>
+            <l>T’ho sempre amato…</l>
+            <l>beneficato…</l>
+          </sp>
+          <stage>RODRIGO(al Griso)T’ho sempre amato…beneficato…</stage>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Sì… ma… scusatemi…</l>
+          </sp>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>Non mi tradir…</l>
+          </sp>
+          <sp who="#griso">
+            <speaker>GRISO:</speaker>
+            <l>Il dover mio</l>
+            <l>corro a compir…</l>
+            <l>(esce)</l>
+          </sp>
+          <stage>GRISOIl dover miocorro a compir…(esce)</stage>
+          <sp who="#rodrigo">
+            <speaker>RODRIGO:</speaker>
+            <l>(nel massimo furore, inseguendo il Griso con una pistola alla mano)</l>
+            <l>Scellerato! Ai monatti ei mi consegna…</l>
+            <l>Ma in tempo non sarà. Canaglia indegna!</l>
+            <l>(esce gridando, e si ode tosto nelle anticamere un colpo di pistola)</l>
+          </sp>
+          <stage>RODRIGO(nel massimo furore, inseguendo il Griso con una pistola alla mano)Scellerato! Ai monatti ei mi consegna…Ma in tempo non sarà. Canaglia indegna!(esce gridando, e si ode tosto nelle anticamere un colpo di pistola)</stage>
+        </div>
+        <div type="scene">
+          <head>CORO INTERNO</head>Non faccia strepito,mio bel signor;siam gente onesta,d’ottimo cuor…Lungo la stradasi canterà;se il vin le aggradacon noi berrà.(le voci si allontanano insensibilmente)Quadro secondo.Scena secondaLa vasta spianata del lazzaretto di Milano.A destra e nel fondo il porticato. Al lato sinistro, all’estremità della scena, una croce. (*)Renzo.Il canto dei monatti risuona in lontananza, e quindi cessa completamente.(*) Manzoni. Cap. XXXV.Untore a me!… Fortuna che quel carropassò in buon punto… e ch’ioa salirvi fui destro… Ah! Ne ho passatidei brutti quarti d’ora… Catturato…bandito… ed oggi, che a Milano torno,per cercare di lei… «Dalli all’untore!»mi gridan quei baggiani maledetti…E dio sa qual malanno ancor mi aspetti.(pausa)E la buona Lucia? Chi m’avria detto,che disgiunto da lei per tanti mesi,io dovessi trovarla in questo luogo?…Trovarla?… E son certoch’ella viva? Oh! Vivrà… Se è giusto iddio…salva l’avrà, poiché fui salvo anch’io…Ai nostri laghi argentei,alle natie pendici,donde partimmo in lacrime,ritornerem felici…E il rito che ci aspetta,là… nella pia chiesetta,in santo, eterno giubilogli affanni cangerà.<sp who="#coro interno">
+            <speaker>CORO INTERNO:</speaker>
+            <l>Non faccia strepito,</l>
+            <l>mio bel signor;</l>
+            <l>siam gente onesta,</l>
+            <l>d’ottimo cuor…</l>
+            <l>Lungo la strada</l>
+            <l>si canterà;</l>
+            <l>se il vin le aggrada</l>
+            <l>con noi berrà.</l>
+            <l>(le voci si allontanano insensibilmente)</l>
+            <l>Quadro secondo.</l>
+            <l>Scena seconda</l>
+            <l>La vasta spianata del lazzaretto di Milano.</l>
+            <l>A destra e nel fondo il porticato. Al lato sinistro, all’estremità della scena, una croce. (*)</l>
+            <l>Renzo.</l>
+            <l>Il canto dei monatti risuona in lontananza, e quindi cessa completamente.</l>
+            <l>(*) Manzoni. Cap. XXXV.</l>
+            <l>Untore a me!… Fortuna che quel carro</l>
+            <l>passò in buon punto… e ch’io</l>
+            <l>a salirvi fui destro… Ah! Ne ho passati</l>
+            <l>dei brutti quarti d’ora… Catturato…</l>
+            <l>bandito… ed oggi, che a Milano torno,</l>
+            <l>per cercare di lei… «Dalli all’untore!»</l>
+            <l>mi gridan quei baggiani maledetti…</l>
+            <l>E dio sa qual malanno ancor mi aspetti.</l>
+            <l>(pausa)</l>
+            <l>E la buona Lucia? Chi m’avria detto,</l>
+            <l>che disgiunto da lei per tanti mesi,</l>
+            <l>io dovessi trovarla in questo luogo?…</l>
+            <l>Trovarla?… E son certo</l>
+            <l>ch’ella viva? Oh! Vivrà… Se è giusto iddio…</l>
+            <l>salva l’avrà, poiché fui salvo anch’io…</l>
+            <l>Ai nostri laghi argentei,</l>
+            <l>alle natie pendici,</l>
+            <l>donde partimmo in lacrime,</l>
+            <l>ritornerem felici…</l>
+            <l>E il rito che ci aspetta,</l>
+            <l>là… nella pia chiesetta,</l>
+            <l>in santo, eterno giubilo</l>
+            <l>gli affanni cangerà.</l>
+          </sp>
+          <stage>CORO INTERNONon faccia strepito,mio bel signor;siam gente onesta,d’ottimo cuor…Lungo la stradasi canterà;se il vin le aggradacon noi berrà.(le voci si allontanano insensibilmente)Quadro secondo.Scena secondaLa vasta spianata del lazzaretto di Milano.A destra e nel fondo il porticato. Al lato sinistro, all’estremità della scena, una croce. (*)Renzo.Il canto dei monatti risuona in lontananza, e quindi cessa completamente.(*) Manzoni. Cap. XXXV.Untore a me!… Fortuna che quel carropassò in buon punto… e ch’ioa salirvi fui destro… Ah! Ne ho passatidei brutti quarti d’ora… Catturato…bandito… ed oggi, che a Milano torno,per cercare di lei… «Dalli all’untore!»mi gridan quei baggiani maledetti…E dio sa qual malanno ancor mi aspetti.(pausa)E la buona Lucia? Chi m’avria detto,che disgiunto da lei per tanti mesi,io dovessi trovarla in questo luogo?…Trovarla?… E son certoch’ella viva? Oh! Vivrà… Se è giusto iddio…salva l’avrà, poiché fui salvo anch’io…Ai nostri laghi argentei,alle natie pendici,donde partimmo in lacrime,ritornerem felici…E il rito che ci aspetta,là… nella pia chiesetta,in santo, eterno giubilogli affanni cangerà.</stage>
+          <sp who="#voce interna">
+            <speaker>VOCE INTERNA:</speaker>
+            <l>Alla madre del cielo, o avventurate,</l>
+            <l>l’inno di grazia alzate!</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Una devota schiera</l>
+            <l>di donne il vasto piano</l>
+            <l>attraversa. Vediam! Forse… Lucia…</l>
+            <l>perché mi trema il cor?…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>DONNE</head>Salve o Maria!Scena terzaRenzo. Processione di donne che escono dal portico a sinistra e muovono verso la croce. Lucia da ultimo.<sp who="#donne">
+            <speaker>DONNE:</speaker>
+            <l>Salve o Maria!</l>
+            <l>Scena terza</l>
+            <l>Renzo. Processione di donne che escono dal portico a sinistra e muovono verso la croce. Lucia da ultimo.</l>
+          </sp>
+          <stage>DONNESalve o Maria!Scena terzaRenzo. Processione di donne che escono dal portico a sinistra e muovono verso la croce. Lucia da ultimo.</stage>
+          <sp who="#coro e lucia">
+            <speaker>CORO E LUCIA:</speaker>
+            <l>Salve o Maria</l>
+            <l>del ciel regina,</l>
+            <l>su noi gementi</l>
+            <l>lo sguardo inchina,</l>
+            <l>Maria di grazia</l>
+            <l>madre d’amor.</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Ah! La sua voce</l>
+            <l>udir mi pare…</l>
+          </sp>
+          <sp who="#coro e lucia">
+            <speaker>CORO E LUCIA:</speaker>
+            <l>Salve Maria,</l>
+            <l>stella del mare;</l>
+            <l>fra le tempeste</l>
+            <l>dell’egra vita,</l>
+            <l>all’alma errante</l>
+            <l>tu il porto addita,</l>
+            <l>dove hanno tregua</l>
+            <l>l’ansie e i dolor.</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>È dessa! È dessa!</l>
+            <l>Mi scoppia il cor.</l>
+            <l>(la processione si allontana. Renzo si avvicina a Lucia che segue il drappello)</l>
+          </sp>
+          <stage>RENZOÈ dessa! È dessa!Mi scoppia il cor.(la processione si allontana. Renzo si avvicina a Lucia che segue il drappello)</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Lucia?</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Voi!… Renzo!… Voi!</l>
+            <l>Come?… Perché veniste?</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Perché qui venni? E chiederlo</l>
+            <l>potete?…</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Illeso usciste</l>
+            <l>voi pur?… Sia lode a dio!…</l>
+            <l>E di mia madre?</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Liete</l>
+            <l>nuove recar poss’io…</l>
+            <l>Ella ne aspetta…</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(con dolore)</l>
+            <l>(Oh ciel!</l>
+            <l>Come narrargli?)</l>
+          </sp>
+          <stage>LUCIA(con dolore)(Oh ciel!Come narrargli?)</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Sposi</l>
+            <l>fra pochi dì saremo…</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Che dite mai?…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Beati</l>
+            <l>del nostro amor vivremo…</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Ah! No… non è possibile…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Spiegatevi… Che fu?</l>
+            <l>Quai dubbi?</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(piangendo)</l>
+            <l>Vostra sposa…</l>
+          </sp>
+          <stage>LUCIA(piangendo)Vostra sposa…</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(con vivacità)</l>
+            <l>Ebbene… udiam!</l>
+          </sp>
+          <stage>RENZO(con vivacità)Ebbene… udiam!</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Mai più…</l>
+            <l>Là… nel castello orribile…</l>
+            <l>fra l’ansie del terrore…</l>
+            <l>alla divina Vergine</l>
+            <l>ho consacrato il core…</l>
+            <l>È un voto indissolubile…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Che dite mai, Lucia?</l>
+            <l>E la promessa… il vincolo</l>
+            <l>sacro che a me vi unia?…</l>
+            <l>Ah! Ciò che voi scordaste…</l>
+            <l>non io potrei scordar…</l>
+            <l>(con passione)</l>
+            <l>Io, che lontano e povero,</l>
+            <l>travolto in mar di guai,</l>
+            <l>di tanti mali il premio</l>
+            <l>nel vostro amor sperai…</l>
+            <l>Io… che straziato… affranto</l>
+            <l>pensavo a voi soltanto…</l>
+            <l>e in quel pensier… la forza</l>
+            <l>sentia di perdonar…</l>
+            <l>(prorompendo con ira)</l>
+            <l>Ora non più…</l>
+          </sp>
+          <stage>RENZOChe dite mai, Lucia?E la promessa… il vincolosacro che a me vi unia?…Ah! Ciò che voi scordaste…non io potrei scordar…(con passione)Io, che lontano e povero,travolto in mar di guai,di tanti mali il premionel vostro amor sperai…Io… che straziato… affrantopensavo a voi soltanto…e in quel pensier… la forzasentia di perdonar…(prorompendo con ira)Ora non più…</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Calmatevi…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Io troverò l’indegno…</l>
+            <l>se dio non fa giustizia…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>LUCIA</head>(trattenendolo)Ah! Renzo… Per pietà!Scena ultimaFra Cristoforo, e detti.<sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(trattenendolo)</l>
+            <l>Ah! Renzo… Per pietà!</l>
+            <l>Scena ultima</l>
+            <l>Fra Cristoforo, e detti.</l>
+          </sp>
+          <stage>LUCIA(trattenendolo)Ah! Renzo… Per pietà!Scena ultimaFra Cristoforo, e detti.</stage>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(uscendo dal porticato a destra)</l>
+            <l>Chi dei morenti al gemito</l>
+            <l>mesce l’umano sdegno?</l>
+            <l>Vergogna!</l>
+          </sp>
+          <stage>CRISTOFORO(uscendo dal porticato a destra)Chi dei morenti al gemitomesce l’umano sdegno?Vergogna!</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Fra Cristoforo!…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(avvicinandosi al frate)</l>
+            <l>Ei ne consiglierà…</l>
+          </sp>
+          <stage>RENZO(avvicinandosi al frate)Ei ne consiglierà…</stage>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(con severità)</l>
+            <l>E qual consiglio attenderti</l>
+            <l>potresti? ~ Hai l’odio in core…</l>
+            <l>La grazia del signore</l>
+            <l>muta per te sarà.</l>
+            <l>(conducendo Renzo alla cella)</l>
+            <l>L’uom che tu aborri ~ cui morte imprechi…</l>
+            <l>è là… ti inoltra… fissalo in volto…</l>
+            <l>dalla giustizia di dio fu colto…</l>
+            <l>ma il tuo perdono salvarlo può…</l>
+          </sp>
+          <stage>CRISTOFORO(con severità)E qual consiglio attendertipotresti? ~ Hai l’odio in core…La grazia del signoremuta per te sarà.(conducendo Renzo alla cella)L’uom che tu aborri ~ cui morte imprechi…è là… ti inoltra… fissalo in volto…dalla giustizia di dio fu colto…ma il tuo perdono salvarlo può…</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(arretrando dalla cella)</l>
+            <l>Oh che mai veggo! Desso è spirante…</l>
+            <l>E d’imprecargli ~ poc’anzi ho osato!</l>
+            <l>Ch’egli dal cielo sia perdonato</l>
+            <l>come il mio cuore gli perdonò.</l>
+          </sp>
+          <stage>RENZO(arretrando dalla cella)Oh che mai veggo! Desso è spirante…E d’imprecargli ~ poc’anzi ho osato!Ch’egli dal cielo sia perdonatocome il mio cuore gli perdonò.</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>(a Renzo)</l>
+            <l>Qual ti conobbi ~ qual fosti sempre…</l>
+            <l>ti serba, o Renzo ~ onesto e pio…</l>
+            <l>esserti sposa ~ più non poss’io…</l>
+            <l>ma nelle preci ~ con te vivrò.</l>
+          </sp>
+          <stage>LUCIA(a Renzo)Qual ti conobbi ~ qual fosti sempre…ti serba, o Renzo ~ onesto e pio…esserti sposa ~ più non poss’io…ma nelle preci ~ con te vivrò.</stage>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>Sposi sarete.</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>(a Lucia)</l>
+            <l>Tu l’odi?</l>
+          </sp>
+          <stage>RENZO(a Lucia)Tu l’odi?</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>E il voto</l>
+            <l>ch’io profferia?…</l>
+          </sp>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(con solennità)</l>
+            <l>Tutto mi è noto…</l>
+            <l>Dio, che la prece del giusto accoglie,</l>
+            <l>dio, che dei poveri è il protettor,</l>
+            <l>or pe ‘l mio labbro ~ Lucia ti scioglie…</l>
+            <l>e a lui ti dona… lode al signor!…</l>
+            <l>(unisce Renzo e Lucia)</l>
+          </sp>
+          <stage>CRISTOFORO(con solennità)Tutto mi è noto…Dio, che la prece del giusto accoglie,dio, che dei poveri è il protettor,or pe ‘l mio labbro ~ Lucia ti scioglie…e a lui ti dona… lode al signor!…(unisce Renzo e Lucia)</stage>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>È dunque vero? – Creder degg’io?</l>
+            <l>Tua sposa… o Renzo…</l>
+          </sp>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Dubiti ancor?…</l>
+            <l>Tutti, al paese ritorneremo…</l>
+          </sp>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>Io qui rimango…</l>
+          </sp>
+          <sp who="#lucia">
+            <speaker>LUCIA:</speaker>
+            <l>Vi aspetteremo</l>
+            <l>le nostre nozze ~ a benedir…</l>
+          </sp>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>Più sulla terra ~ non ci vedremo,</l>
+            <l>da queste mura non debbo uscir…</l>
+            <l>(squillo funebre, la processione delle donne si avanza)</l>
+          </sp>
+          <stage>CRISTOFOROPiù sulla terra ~ non ci vedremo,da queste mura non debbo uscir…(squillo funebre, la processione delle donne si avanza)</stage>
+          <sp who="#renzo e lucia">
+            <speaker>RENZO E LUCIA:</speaker>
+            <l>Oh! Il buono… il santo frate!…</l>
+            <l>né il rivedrem mai più!…</l>
+          </sp>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(tornando dalla cella)</l>
+            <l>O figli… vi prostrate…</l>
+          </sp>
+          <stage>CRISTOFORO(tornando dalla cella)O figli… vi prostrate…</stage>
+          <sp who="#renzo">
+            <speaker>RENZO:</speaker>
+            <l>Ah!… Don Rodrigo?…</l>
+          </sp>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>Ei fu.</l>
+            <l>(tutti si prostrano mormorando una preghiera)</l>
+            <l>(fra Cristoforo prende in disparte Renzo e Lucia)</l>
+          </sp>
+          <stage>CRISTOFOROEi fu.(tutti si prostrano mormorando una preghiera)(fra Cristoforo prende in disparte Renzo e Lucia)</stage>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>Ai vostri monti ~ figli, tornate…</l>
+            <l>all’aure miti ~ del ciel natio…</l>
+            <l>per me talvolta ~ pregate iddio…</l>
+          </sp>
+          <sp who="#renzo e lucia">
+            <speaker>RENZO E LUCIA:</speaker>
+            <l>Né rivedervi… potrem?</l>
+          </sp>
+          <sp who="#cristoforo">
+            <speaker>CRISTOFORO:</speaker>
+            <l>(additando il cielo)</l>
+            <l>Lassù!</l>
+            <l>Fine del libretto.</l>
+          </sp>
+          <stage>CRISTOFORO(additando il cielo)Lassù!Fine del libretto.</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

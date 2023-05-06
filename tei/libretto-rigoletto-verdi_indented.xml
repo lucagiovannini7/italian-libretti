@@ -1,0 +1,2190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">igoletto</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="giovanna">
+            <persName>GIOVANNA:</persName>
+          </person>
+          <person xml:id="conte di ceprano">
+            <persName>CONTE DI CEPRANO::</persName>
+          </person>
+          <person xml:id="ceprano">
+            <persName>CEPRANO::</persName>
+          </person>
+          <person xml:id="giovanna">
+            <persName>GIOVANNA::</persName>
+          </person>
+          <person xml:id="prologo">
+            <persName>PROLOGO:</persName>
+          </person>
+          <person xml:id="marullo">
+            <persName>MARULLO::</persName>
+          </person>
+          <person xml:id="duca">
+            <persName>DUCA::</persName>
+          </person>
+          <person xml:id="sparafucile">
+            <persName>SPARAFUCILE::</persName>
+          </person>
+          <person xml:id="duca, rigoletto">
+            <persName>DUCA, RIGOLETTO::</persName>
+          </person>
+          <person xml:id="gilda">
+            <persName>GILDA::</persName>
+          </person>
+          <person xml:id="a2">
+            <persName>A2::</persName>
+          </person>
+          <person xml:id="paggio">
+            <persName>PAGGIO::</persName>
+          </person>
+          <person xml:id="borsa, marullo, ceprano">
+            <persName>BORSA, MARULLO, CEPRANO::</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO::</persName>
+          </person>
+          <person xml:id="borsa, marullo">
+            <persName>BORSA, MARULLO:</persName>
+          </person>
+          <person xml:id="borsa, marullo">
+            <persName>BORSA, MARULLO::</persName>
+          </person>
+          <person xml:id="contessa di ceprano">
+            <persName>CONTESSA DI CEPRANO::</persName>
+          </person>
+          <person xml:id="rigoletto">
+            <persName>RIGOLETTO::</persName>
+          </person>
+          <person xml:id="borsa">
+            <persName>BORSA::</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI::</persName>
+          </person>
+          <person xml:id="maddalena">
+            <persName>MADDALENA::</persName>
+          </person>
+          <person xml:id="monterone">
+            <persName>MONTERONE::</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>Atto Primo</head>Scena I<div type="scene">
+          <head>Atto Primo</head>Scena I <stage>Sala magnifica nel palazzo ducale, con porte nel fondo che mettono ad altre sale, pure splendidamente illuminate.Folla di Cavalieri e Dame che passeggiano nelle sale del fondo – Paggi che vanno e vengono – Nelle sale in fondo si vedrà ballare. Da una delle sale vengono parlando fra loro il Duca e Borsa.</stage>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Della mia bella incognita borghese</l>
+            <l>Toccare il fin dell’avventura io voglio.</l>
+          </sp>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>Di quella giovin che vedete al tempio?</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Da tre mesi ogni festa.</l>
+          </sp>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>La sua dimora?</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>In un remoto calle;</l>
+            <l>Misterioso un uom v’entra ogni notte.</l>
+          </sp>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>E sa colei chi sia l’amante suo?</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Lo ignora.</l>
+            <l>(Un gruppo di dame e cavalieri attraversano la sala)</l>
+            <l>BORSA:</l>
+            <l>Quante beltà!… Mirate.</l>
+          </sp>
+          <stage>DUCA:Lo ignora.(Un gruppo di dame e cavalieri attraversano la sala)BORSA:Quante beltà!… Mirate.</stage>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Le vince tutte di Cepran la sposa.</l>
+          </sp>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>Non v’oda il conte, o Duca…</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>A me che importa?</l>
+          </sp>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>Dirlo ad altra ei potria…</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Né sventura per me certo saria.</l>
+            <l>Questa o quella per me pari sono</l>
+            <l>a quant’altre d’intorno, d’intorno mi vedo;</l>
+            <l>del mio core l’impero non cedo</l>
+            <l>meglio ad una che ad altra beltà.</l>
+            <l>La costoro avvenenza è qual dono</l>
+            <l>di che il fato ne infiora la vita;</l>
+            <l>s’oggi questa mi torna gradita,</l>
+            <l>forse un’altra, forse un’altra doman lo sarà,</l>
+            <l>un’altra, forse un’altra doman lo sarà.</l>
+            <l>La costanza, tiranna del core,</l>
+            <l>detestiamo qual morbo, qual morbo crudele;</l>
+            <l>sol chi vuole si serbe fidele;</l>
+            <l>non v’ha amor, se non v’è libertà.</l>
+            <l>De’ mariti il geloso furore,</l>
+            <l>degli amanti le smanie derido;</l>
+            <l>anco d’Argo i cent’occhi disfido</l>
+            <l>se mi punge, se mi punge una qualche beltà,</l>
+            <l>se mi punge una qualche beltà.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto Primo</head>Scena II<div type="scene">
+          <head>Atto Primo</head>Scena II <stage>DUCA: (alla Contessa di Ceprano movendo ad incontrarla con molta galanteria)Partite?… crudele!…</stage>
+          <sp who="#contessa di ceprano">
+            <speaker>CONTESSA DI CEPRANO::</speaker>
+            <l>Seguire lo sposo</l>
+            <l>m’è forza a Ceprano.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Ma dee luminoso</l>
+            <l>in Corte tal astro qual sole brillare.</l>
+            <l>Per voi qui ciascuno dovrà palpitare.</l>
+            <l>Per voi già possente la fiamma d’amore</l>
+            <l>(con enfasi baciandole la mano)</l>
+            <l>inebria, conquide, distrugge il mio core.</l>
+          </sp>
+          <stage>DUCA:Ma dee luminosoin Corte tal astro qual sole brillare.Per voi qui ciascuno dovrà palpitare.Per voi già possente la fiamma d’amore(con enfasi baciandole la mano)inebria, conquide, distrugge il mio core.</stage>
+          <sp who="#contessa di ceprano">
+            <speaker>CONTESSA DI CEPRANO::</speaker>
+            <l>Calmatevi…</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>La fiamma d’amore</l>
+            <l>inebria, conquide, distrugge il mio core.</l>
+          </sp>
+          <sp who="#contessa di ceprano">
+            <speaker>CONTESSA DI CEPRANO::</speaker>
+            <l>Calmatevi, calmatevi…</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Per voi già possente la fiamma d’amore</l>
+            <l>inebria, conquide,</l>
+            <l>(dà il braccio alla Contessa ed esce con lei)</l>
+            <l>distrugge il mio core.</l>
+          </sp>
+          <stage>DUCA:Per voi già possente la fiamma d’amoreinebria, conquide,(dà il braccio alla Contessa ed esce con lei)distrugge il mio core.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto Primo</head>Scena III<div type="scene">
+          <head>Atto Primo</head>Scena III <stage>RIGOLETTO: (al Conte Ceprano)In testa che avete, signor di Ceprano?</stage>
+          <stage>(Ceprano fa un gesto d’impazienza e segue il Duca)RIGOLETTO: (ai Cortigiani)Ei sbuffa! Vedete?</stage>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>Che festa!</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Oh sì!..</l>
+          </sp>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>Il Duca qui pur si diverte!…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Così non è sempre? Che nuove scoperte!</l>
+            <l>Il giuoco ed il vino, le feste, la danza,</l>
+            <l>battaglie, conviti, ben tutto gli sta.</l>
+            <l>Or della Contessa l’assedio egli avanza,</l>
+            <l>(ridendo)</l>
+            <l>e intanto il marito fremendo ne va.</l>
+            <l>(esce)</l>
+          </sp>
+          <stage>RIGOLETTO:Così non è sempre? Che nuove scoperte!Il giuoco ed il vino, le feste, la danza,battaglie, conviti, ben tutto gli sta.Or della Contessa l’assedio egli avanza,(ridendo)e intanto il marito fremendo ne va.(esce)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto Primo</head>Scena IV<div type="scene">
+          <head>Atto Primo</head>Scena IV <stage>MARULLO: (entra premuroso)Gran nuova! Gran nuova!</stage>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>Che avvenne? parlate!</l>
+          </sp>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Stupir ne dovrete…</l>
+          </sp>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>Narrate, narrate…</l>
+          </sp>
+          <stage>MARULLO: (ridendo)Ah, ah!… Rigoletto…</stage>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>Ebben?</l>
+          </sp>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Caso enorme!…</l>
+          </sp>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>Perduto ha la gobba? non è più difforme?</l>
+          </sp>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Più strana è la cosa!</l>
+            <l>(con gravità)</l>
+            <l>Il pazzo possiede…</l>
+          </sp>
+          <stage>MARULLO:Più strana è la cosa!(con gravità)Il pazzo possiede…</stage>
+          <stage>BORSA: (con sorpresa)Infine?</stage>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Un’amante!</l>
+          </sp>
+          <stage>BORSA: (con sorpresa)Un’amante! Chi il crede?</stage>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Il gobbo in Cupido or s’è trasformato…</l>
+          </sp>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>Quel mostro? Cupido!</l>
+          </sp>
+          <sp who="#borsa, marullo">
+            <speaker>BORSA, MARULLO::</speaker>
+            <l>Cupido beato!</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto Primo</head>Scena V<div type="scene">
+          <head>Atto Primo</head>Scena V <stage>DUCA: (a Rigoletto)Ah, più di Ceprano importuno non v’è…La cara sua sposa è un angiol per me!</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Rapitela.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>È detto; ma il farlo?</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Sta sera.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Non pensi tu al conte?</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Non c’è la prigione?</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Ah no.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Ebben… s’esilia.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Nemmeno, buffone.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Allora…</l>
+            <l>(indicando di farla tagliare)</l>
+            <l>allora la testa…</l>
+          </sp>
+          <stage>RIGOLETTO:Allora…(indicando di farla tagliare)allora la testa…</stage>
+          <sp who="#conte di ceprano">
+            <speaker>CONTE DI CEPRANO::</speaker>
+            <l>(Oh l’anima nera!)</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>(battendo colla mano una spalla al Conte)</l>
+            <l>Che dì, questa testa?…</l>
+          </sp>
+          <stage>DUCA:(battendo colla mano una spalla al Conte)Che dì, questa testa?…</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>È ben naturale!</l>
+            <l>Che far di tal testa? A cosa ella vale?</l>
+          </sp>
+          <stage>CONTE DI CEPRANO: (infuriato brandendo la spada)Marrano!</stage>
+          <stage>DUCA: (a Ceprano)Fermate!</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Da rider mi fa.</l>
+          </sp>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>In furia è montato!</l>
+          </sp>
+          <stage>DUCA: (a Rigoletto)Buffone, vien qua.</stage>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>In furia è montato!</l>
+          </sp>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>In furia è montato!</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>In furia è montato!</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Ah sempre tu spingi</l>
+            <l>lo scherzo all’estremo.</l>
+          </sp>
+          <stage>CONTE DI CEPRANO: (a Cortigiani)Vendetta del pazzo!Contr’esso un rancore di noi chi non ha?</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Che coglier mi puote? Di loro non temo.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Quell’ira che sfidi, colpir… ti potrà…</l>
+          </sp>
+          <sp who="#conte di ceprano">
+            <speaker>CONTE DI CEPRANO::</speaker>
+            <l>Vendetta! In armi chi ha core</l>
+          </sp>
+          <sp who="#borsa, marullo">
+            <speaker>BORSA, MARULLO:</speaker>
+            <l>Ma come?</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Del duca il protetto nessun… toccherà.</l>
+          </sp>
+          <sp who="#conte di ceprano">
+            <speaker>CONTE DI CEPRANO::</speaker>
+            <l>doman sia da me. A notte.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Ah sempre tu spingi</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Che coglier mi puote? Di loro non temo,</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Lo scherzo all’estremo,</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Del duca il protetto nessun toccherà, no, no,</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Ah sempre tu spingi lo scherzo all’estremo,</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Nessun, nessuno, nessun, nessuno</l>
+          </sp>
+          <sp who="#conte di ceprano">
+            <speaker>CONTE DI CEPRANO::</speaker>
+            <l>Vendetta! vendetta!</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Quell’ira che sfidi,</l>
+            <l>quell’ira che sfidi, colpir ti potrà.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>nessun, nessuno</l>
+            <l>del duca il protetto, nessuno toccherà.</l>
+          </sp>
+          <sp who="#conte di ceprano">
+            <speaker>CONTE DI CEPRANO::</speaker>
+            <l>Vendetta! Sta notte chi ha core sia in armi da me.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Ah sempre tu spingi</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Che coglier mi puote? Di loro non temo,</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Lo scherzo all’estremo,</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Del duca il protetto nessun toccherà, no, no,</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Ah sempre tu spingi lo scherzo all’estremo,</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Nessun, nessuno, nessun, nessuno</l>
+          </sp>
+          <sp who="#conte di ceprano">
+            <speaker>CONTE DI CEPRANO::</speaker>
+            <l>Vendetta! vendetta!</l>
+          </sp>
+          <sp who="#borsa, marullo">
+            <speaker>BORSA, MARULLO:</speaker>
+            <l>Vendetta! vendetta!</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Quell’ira che sfidi,</l>
+            <l>quell’ira che sfidi, colpir ti potrà.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Nessun, nessuno del duca il protetto,</l>
+            <l>nessuno toccherà.</l>
+          </sp>
+          <sp who="#conte di ceprano">
+            <speaker>CONTE DI CEPRANO::</speaker>
+            <l>Vendetta!</l>
+            <l>sta notte chi ha core sia in armi da me.</l>
+          </sp>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>Sì vendetta!</l>
+          </sp>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Sì, vendetta!</l>
+          </sp>
+          <sp who="#ceprano">
+            <speaker>CEPRANO::</speaker>
+            <l>Sì, vendetta!</l>
+          </sp>
+          <stage>(La folla dei danzatori invade la sala)</stage>
+          <sp who="#duca, rigoletto">
+            <speaker>DUCA, RIGOLETTO::</speaker>
+            <l>Tutto è gioja!</l>
+          </sp>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>Sì vendetta!</l>
+          </sp>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Sì, vendetta!</l>
+          </sp>
+          <sp who="#ceprano">
+            <speaker>CEPRANO::</speaker>
+            <l>Sì, vendetta!</l>
+          </sp>
+          <sp who="#duca, rigoletto">
+            <speaker>DUCA, RIGOLETTO::</speaker>
+            <l>Tutto è festa!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI::</speaker>
+            <l>Tutto è gioja, tutto è festa;</l>
+            <l>tutto invitaci a godere!</l>
+            <l>Oh guardate, non par questa</l>
+            <l>or la reggia del piacere!</l>
+            <l>Oh guardate, non par questa,</l>
+            <l>oh guardate, non par questa</l>
+            <l>or la reggia del piacer!</l>
+            <l>Oh guardate, non par questa</l>
+            <l>or la reggia del piacer!</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto Primo</head>SCENA VI<div type="scene">
+          <head>Atto Primo</head>SCENA VI <stage>MONTERONE: (entro la scena)Ch’io gli parli.</stage>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>No!</l>
+          </sp>
+          <stage>MONTERONE: (presentandosi)Il voglio.</stage>
+          <stage>MONTERONE: (fissando il Duca con nobile orgoglio)Sì, Monteron… la voce miaqual tuono vi scuoterà dovunque.</stage>
+          <stage>RIGOLETTO: (al Duca contraffacendo la voce di Monterone)Ch’io gli parli.(con caricatura)Voi congiuraste,voi congiuraste contro noi, signore;e noi, e noi, clementi in vero, perdonammo…Qual vi piglia or delirio, a tutte l’oredi vostra figlia a reclamar l’onore?</stage>
+          <stage>MONTERONE: (guardando Rigoletto con ira sprezzante)Novello insulto!(al Duca)Ah sì, a turbare, ah sì, a turbare sarò vostr’orgie…verrò a gridare fino a che vegga restarsi inultodi mia famiglia l’atroce insulto;e se al carnefice pur mi darete.spettro terribile mi rivedrete,portante in mano il teschio mio,vendetta a chiedere,vendetta a chiedere al mondo, al mondo, a Dio.</stage>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Non più, arrestatelo.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>È matto!</l>
+          </sp>
+          <stage>MONTERONE: (al Duca e Rigoletto)Ah, siate entrambi voi maledetti!</stage>
+          <sp who="#monterone">
+            <speaker>MONTERONE::</speaker>
+            <l>Slanciare il cane a leon morente</l>
+            <l>è vile, o Duca… e tu, serpente,</l>
+            <l>(a Rigoletto)</l>
+            <l>tu che d’un padre ridi al dolore,</l>
+            <l>sii maledetto!</l>
+          </sp>
+          <stage>MONTERONE:Slanciare il cane a leon morenteè vile, o Duca… e tu, serpente,(a Rigoletto)tu che d’un padre ridi al dolore,sii maledetto!</stage>
+          <stage>RIGOLETTO: (da sè colpito)(Che sento! orrore!)</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>(Orrore!)</l>
+          </sp>
+          <stage>(Monterone parte fra due alabardieri, tutti gli altri seguono il Duca in altra stanza).</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto Primo</head>SCENA VIIL’estremità più deserta d’una via cieca.A sinistra una casa di discreta apparenza con una piccola corte circondata da muro. Nella corte un grosso ed alto albero ed un sedile di marmo; nel muro una porta che mette alla strada; sopra il muro un terrazzo praticabile, sostenuto da arcate. La porta del primo piano dà sul detto terrazzo. A destra della via è il muro altissimo del giardino, e un fianco del palazzo di Ceprano. È notte.Rigoletto chiuso nel suo mantello. Sparafucile lo segue, portando sotto il mantello una lunga spada.<div type="scene">
+          <head>Atto Primo</head>SCENA VIIL’estremità più deserta d’una via cieca.A sinistra una casa di discreta apparenza con una piccola corte circondata da muro. Nella corte un grosso ed alto albero ed un sedile di marmo; nel muro una porta che mette alla strada; sopra il muro un terrazzo praticabile, sostenuto da arcate. La porta del primo piano dà sul detto terrazzo. A destra della via è il muro altissimo del giardino, e un fianco del palazzo di Ceprano. È notte.Rigoletto chiuso nel suo mantello. Sparafucile lo segue, portando sotto il mantello una lunga spada. <stage>Atto PrimoSCENA VIIL’estremità più deserta d’una via cieca.A sinistra una casa di discreta apparenza con una piccola corte circondata da muro. Nella corte un grosso ed alto albero ed un sedile di marmo; nel muro una porta che mette alla strada; sopra il muro un terrazzo praticabile, sostenuto da arcate. La porta del primo piano dà sul detto terrazzo. A destra della via è il muro altissimo del giardino, e un fianco del palazzo di Ceprano. È notte.Rigoletto chiuso nel suo mantello. Sparafucile lo segue, portando sotto il mantello una lunga spada.</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>(Quel vecchio maledivami!)</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Signor?…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Va, non ho niente.</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Né il chiesi… a Voi presente</l>
+            <l>Un uom di spada sta.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Un ladro?</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Un uorn che libera</l>
+            <l>Per poco da un rivale,</l>
+            <l>E voi ne avete…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Quale?</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>La vostra donna è là.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>(Che sento!)</l>
+            <l>E quanto spendere</l>
+            <l>Per un signor dovrei?</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Prezzo maggior vorrei…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Com’usasi pagar?</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Una metà s’anticipa,</l>
+            <l>Il resto si dà poi…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>(Dimonio!) E come puoi</l>
+            <l>Tanto securo oprar?</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Soglio in cittade uccidere.</l>
+            <l>Oppure nel mio tetto.</l>
+            <l>L’uomo di sera aspetto</l>
+            <l>Una stoccata, e muor.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>E come in casa?</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>È facile…</l>
+            <l>M’aiuta mia sorella…</l>
+            <l>Per le vie danza,.. è bella…</l>
+            <l>Chi voglio attira… e allor…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Comprendo…</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Senza strepito…</l>
+            <l>È questo il mio stromento,</l>
+            <l>(mostra la spada)</l>
+            <l>Vi serve?</l>
+          </sp>
+          <stage>SPARAFUCILE:Senza strepito…È questo il mio stromento,(mostra la spada)Vi serve?</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>No… al momento…</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Peggio per voi…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Chi sa?…</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Sparafucil mi nomino…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Straniero?…</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Borgognone…</l>
+            <l>(Per andarsene.)</l>
+            <l>RIGOLETTO:</l>
+            <l>E dove all’occasione?…</l>
+          </sp>
+          <stage>SPARAFUCILE:Borgognone…(Per andarsene.)RIGOLETTO:E dove all’occasione?…</stage>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Qui sempre a sera.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Va.</l>
+          </sp>
+          <stage>(Sparafucile parte).</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto Primo</head>SCENA VIIIRigoletto, guardando dietro a SparafucileRIGOLETTO:Pari siamo!… io la lingua, egli ha il pugnale;L’uomo son io che ride, ei quel che spegne!…Quel vecchio maledivami!…O uomini!… o natura!…Vil scellerato mi faceste voi…!Oh rabbia!… esser difforme!… esser buffone!…Non dover, non poter altro che ridere!…Il retaggio d’ogni uom m’è tolto… il pianto!…Questo padrone mio,Giovin, giocondo, sì possente, bello,Sonnecchiando mi dice:Fa ch’io rida, buffone…Forzarmi deggio, e farlo!… Oh, dannazione!…Odio a voi, cortigiani schernitori!…Quanta in mordervi ho gioia!..Se iniquo son, per cagion vostra è solo…Ma in altr’uom qui mi cangio!…Quel vecchio malediami!… tal pensieroPerché conturba ognor la mente mia!.,.Mi coglierà sventura?… Ah no, è follia.<div type="scene">
+          <head>Atto Primo</head>SCENA VIIIRigoletto, guardando dietro a SparafucileRIGOLETTO:Pari siamo!… io la lingua, egli ha il pugnale;L’uomo son io che ride, ei quel che spegne!…Quel vecchio maledivami!…O uomini!… o natura!…Vil scellerato mi faceste voi…!Oh rabbia!… esser difforme!… esser buffone!…Non dover, non poter altro che ridere!…Il retaggio d’ogni uom m’è tolto… il pianto!…Questo padrone mio,Giovin, giocondo, sì possente, bello,Sonnecchiando mi dice:Fa ch’io rida, buffone…Forzarmi deggio, e farlo!… Oh, dannazione!…Odio a voi, cortigiani schernitori!…Quanta in mordervi ho gioia!..Se iniquo son, per cagion vostra è solo…Ma in altr’uom qui mi cangio!…Quel vecchio malediami!… tal pensieroPerché conturba ognor la mente mia!.,.Mi coglierà sventura?… Ah no, è follia. <stage>Atto PrimoSCENA VIIIRigoletto, guardando dietro a SparafucileRIGOLETTO:Pari siamo!… io la lingua, egli ha il pugnale;L’uomo son io che ride, ei quel che spegne!…Quel vecchio maledivami!…O uomini!… o natura!…Vil scellerato mi faceste voi…!Oh rabbia!… esser difforme!… esser buffone!…Non dover, non poter altro che ridere!…Il retaggio d’ogni uom m’è tolto… il pianto!…Questo padrone mio,Giovin, giocondo, sì possente, bello,Sonnecchiando mi dice:Fa ch’io rida, buffone…Forzarmi deggio, e farlo!… Oh, dannazione!…Odio a voi, cortigiani schernitori!…Quanta in mordervi ho gioia!..Se iniquo son, per cagion vostra è solo…Ma in altr’uom qui mi cangio!…Quel vecchio malediami!… tal pensieroPerché conturba ognor la mente mia!.,.Mi coglierà sventura?… Ah no, è follia.</stage>
+          <stage>(Apre con chiave, ed entra nel cortile.)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto Primo</head>SCENA IXDetto e Gilda ch’esce dalla casa e si getta nelle sue braccia.RIGOLETTO:Figlia…<div type="scene">
+          <head>Atto Primo</head>SCENA IXDetto e Gilda ch’esce dalla casa e si getta nelle sue braccia.RIGOLETTO:Figlia…<sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Mio padre!</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>A te dappresso</l>
+            <l>Trova sol gioia il core oppresso.</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Oh quanto amore!</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Mia vita sei!</l>
+            <l>Senza te in terra qual bene avrei?</l>
+            <l>(Sospira)</l>
+            <l>GILDA:</l>
+            <l>Voi sospirate!… che v’ange tanto?</l>
+            <l>Lo dite a questa povera figlia…</l>
+            <l>Se v’ha mistero… per lei sia franto…</l>
+            <l>Ch’ella conosca la sua famiglia.</l>
+          </sp>
+          <stage>RIGOLETTO:Mia vita sei!Senza te in terra qual bene avrei?(Sospira)GILDA:Voi sospirate!… che v’ange tanto?Lo dite a questa povera figlia…Se v’ha mistero… per lei sia franto…Ch’ella conosca la sua famiglia.</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Tu non ne hai…</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Qual nome avete?</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>A te che importa?</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Se non volete</l>
+            <l>Di voi parlarmi…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Non uscir mai</l>
+            <l>(interrompendola)</l>
+            <l>GILDA:</l>
+            <l>Non vo’ che al tempio.</l>
+          </sp>
+          <stage>RIGOLETTO:Non uscir mai(interrompendola)GILDA:Non vo’ che al tempio.</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Or ben tu fai.</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Se non di voi, almen chi sia</l>
+            <l>Fate ch’io sappia la madre mia.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Deh non parlare al misero</l>
+            <l>Del suo perduto bene…</l>
+            <l>Ella sentia, quell’angelo,</l>
+            <l>Pietà delle mie pene…</l>
+            <l>Solo, difforme, povero,</l>
+            <l>Per compassion mi amò,</l>
+            <l>Moria… le zolle coprano</l>
+            <l>Lievi quel capo amato…</l>
+            <l>Sola or tu resti al misero…</l>
+            <l>O Dio, sii ringraziato!…</l>
+            <l>(Singhiozzando)</l>
+            <l>GILDA:</l>
+            <l>Quanto dolor!… che spremere</l>
+            <l>Sì amaro pianto può?</l>
+            <l>Padre, non più, calmatevi…</l>
+            <l>Mi lacera tal vista…</l>
+            <l>Il nome vostro ditemi,</l>
+            <l>Il duol che sì v’attrista…</l>
+          </sp>
+          <stage>RIGOLETTO:Deh non parlare al miseroDel suo perduto bene…Ella sentia, quell’angelo,Pietà delle mie pene…Solo, difforme, povero,Per compassion mi amò,Moria… le zolle copranoLievi quel capo amato…Sola or tu resti al misero…O Dio, sii ringraziato!…(Singhiozzando)GILDA:Quanto dolor!… che spremereSì amaro pianto può?Padre, non più, calmatevi…Mi lacera tal vista…Il nome vostro ditemi,Il duol che sì v’attrista…</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>A che nomarmi?… è inutile!…</l>
+            <l>Padre ti sono, e basti…</l>
+            <l>Me forse al mondo temono,</l>
+            <l>D’alcuno ho forse gli asti…</l>
+            <l>Altri mi maledicono…</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Patria, parenti, amici</l>
+            <l>Voi dunque non avete?</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Patria!… parenti!… dici?…</l>
+            <l>Culto, famiglia, patria,</l>
+            <l>(con effusione)</l>
+            <l>Il mio universo è in te!</l>
+          </sp>
+          <stage>RIGOLETTO:Patria!… parenti!… dici?…Culto, famiglia, patria,(con effusione)Il mio universo è in te!</stage>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Ah se può lieto rendervi,</l>
+            <l>Gioia è la vita a me!</l>
+            <l>Già da tre lune son qui venuta,</l>
+            <l>Né la cittade ho ancor veduta;</l>
+            <l>Se il concedete, farlo or potrei…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Mai?… mai!… uscita, dimmi unqua sei?</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>No.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Guai!</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>(Che dissi!)</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Ben te ne guarda!</l>
+            <l>(Potrien seguirla, rapirla ancora!</l>
+            <l>Qui d’un buffone si disonora</l>
+            <l>La figlia, e ridesi… Orror!) Olà?</l>
+            <l>(Verso la casa)</l>
+          </sp>
+          <stage>RIGOLETTO:Ben te ne guarda!(Potrien seguirla, rapirla ancora!Qui d’un buffone si disonoraLa figlia, e ridesi… Orror!) Olà?(Verso la casa)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto Primo</head>SCENA XDetti e Giovanna dalla casa.GIOVANNA:Signor!<div type="scene">
+          <head>Atto Primo</head>SCENA XDetti e Giovanna dalla casa.GIOVANNA:Signor!<sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Venendo, mi vede alcuno?</l>
+            <l>Bada, di’ il vero…</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Ah no, nessuno.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Sta ben… la porta che dà al bastione</l>
+            <l>È sempre chiusa?</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Lo fu e sarà.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Veglia, o donna, questo fiore</l>
+            <l>(a Giovanna)</l>
+            <l>Che a te puro confidai</l>
+            <l>Veglia attenta, e non sia mai</l>
+            <l>Che s’offuschi il suo candor.</l>
+            <l>Tu dei venti dal furore</l>
+            <l>Ch ‘altri fiori hanno piegato</l>
+            <l>Lo difendi, e immacolato</l>
+            <l>Lo ridona al genitor</l>
+          </sp>
+          <stage>RIGOLETTO:Veglia, o donna, questo fiore(a Giovanna)Che a te puro confidaiVeglia attenta, e non sia maiChe s’offuschi il suo candor.Tu dei venti dal furoreCh ‘altri fiori hanno piegatoLo difendi, e immacolatoLo ridona al genitor</stage>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Quanto affetto!… quali cure!</l>
+            <l>Che temete, padre mio?</l>
+            <l>Lassù in cielo, presso Dio</l>
+            <l>Veglia un angiol protettor.</l>
+            <l>Da noi stoglie le sventure</l>
+            <l>Di mia madre il priego Santo;</l>
+            <l>Non fia mai divelto o infranto</l>
+            <l>Questo a voi diletto fior.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head></head>Atto PrimoSCENA XIDetti ed il Duca in costume borghese dalla strada.RIGOLETTO:Alcuno è fuori…(Apre la porta della corte e, mentre esce a guardar sulla strada, il Duca guizza furtivo nella corte e si nasconde dietro l’albero, gettandoa Giovanna una borsa la fa tacere)GILDA:Cielo!Sempre novel sospetto…<div type="scene">
+          <head></head>Atto PrimoSCENA XIDetti ed il Duca in costume borghese dalla strada.RIGOLETTO:Alcuno è fuori…(Apre la porta della corte e, mentre esce a guardar sulla strada, il Duca guizza furtivo nella corte e si nasconde dietro l’albero, gettandoa Giovanna una borsa la fa tacere)GILDA:Cielo!Sempre novel sospetto… <stage>Atto PrimoSCENA XIDetti ed il Duca in costume borghese dalla strada.RIGOLETTO:Alcuno è fuori…(Apre la porta della corte e, mentre esce a guardar sulla strada, il Duca guizza furtivo nella corte e si nasconde dietro l’albero, gettandoa Giovanna una borsa la fa tacere)GILDA:Cielo!Sempre novel sospetto…</stage>
+          <stage>RIGOLETTO: (a Gilda tornando)Alla chiesa vi seguiva mai nessuno?</stage>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Mai.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>(Rigoletto!)</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Se talor qui picchiano</l>
+            <l>Guardatevi da aprir…</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Nemmeno al duca…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Meno che a tutti a lui…</l>
+            <l>Mia figlia addio.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>(Sua figlia!)</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Addio, mio Padre.</l>
+          </sp>
+          <stage>(S’abbracciano e Rigolettoparte chiudendosi dietro la porta)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto Primo</head>SCENA XIIGilda, Giovanna, il Duca nella corte, poi Ceprano e Borsa a tempo sulla via.GILDA:Giovanna, ho dei rimorsi…<div type="scene">
+          <head>Atto Primo</head>SCENA XIIGilda, Giovanna, il Duca nella corte, poi Ceprano e Borsa a tempo sulla via.GILDA:Giovanna, ho dei rimorsi…<sp who="#giovanna">
+            <speaker>GIOVANNA:</speaker>
+            <l>E perché mai?</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Tacqui che un giovin ne seguiva al tempio.</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Perché ciò dirgli?… l’odiate dunque</l>
+            <l>Cotesto giovin, voi?</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>No, no, ché troppo è bello e spira amore…</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>E magnanimo sembra e gran signore.</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Signor né principe – io lo vorrei;</l>
+            <l>Sento che povero – più l’amerei.</l>
+            <l>Sognando o vigile – sempre lo chiamo.</l>
+            <l>E l’alma in estasi – gli dice t’a…</l>
+          </sp>
+          <stage>DUCA: (esce improvviso, fa cenno a Giovanna d’andarsene, e inginocchiandosi a’ piedi di Gilda termina la frase):T’amo!T’amo ripetilo – sì caro accento,Un puro schiudimi – ciel di contento!</stage>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Giovanna?… Ahi misera! -non v’è più alcuno</l>
+            <l>Che qui rispondami!… – Oh Dio!… nessuno!…</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Son io coll’anima – che ti rispondo…</l>
+            <l>Ah due che s’amano – son tutto un mondo!…</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Chi mai, chi giungere – vi fece a me?</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>S’angelo o demone – che importa a te?</l>
+            <l>Io t’amo…</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Uscitene.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Uscire!… adesso!…</l>
+            <l>Ora che accendene – un fuoco istesso!…</l>
+            <l>Ah inseparabile – d’amore il dio</l>
+            <l>Stringeva, o vergine, – tuo fato al mio! –</l>
+            <l>È il sol dell’anima, – la vita è amore,</l>
+            <l>Sua voce è il palpito – del nostro core…</l>
+            <l>E fama e gloria, – potenza e trono.</l>
+            <l>Terrene, fragili – cose qui sono.</l>
+            <l>Una pur avvene – sola, divina,</l>
+            <l>È amor che agli angeli – più ne avvicina!</l>
+            <l>Adunque amiamoci, – donna celeste,</l>
+            <l>D’invidia agli uomini – sarò per te.</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>(Ah de’ miei vergini – sogni son queste</l>
+            <l>Le voci tenere – sì care a me!)</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Che m’ami, deh ripetimi…</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>L’udiste.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Oh me felice!</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Il nome vostro ditemi…</l>
+            <l>Saperlo non mi lice?</l>
+          </sp>
+          <sp who="#ceprano">
+            <speaker>CEPRANO::</speaker>
+            <l>Il loco è qui…</l>
+            <l>(A Borsa dalla via)</l>
+          </sp>
+          <stage>CEPRANO:Il loco è qui…(A Borsa dalla via)</stage>
+          <stage>DUCA (pensando):Mi nomino…</stage>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>Sta ben…</l>
+            <l>(A Ceprano e partono)</l>
+            <l>DUCA:</l>
+            <l>Gualtier Maldè…</l>
+            <l>Studente sono… povero…</l>
+          </sp>
+          <stage>BORSA:Sta ben…(A Ceprano e partono)DUCA:Gualtier Maldè…Studente sono… povero…</stage>
+          <stage>GIOVANNA: (tornando spaventata):Romor di passi è fuore…</stage>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Forse mio padre…</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>(Ah cogliere</l>
+            <l>Potessi il traditore</l>
+            <l>Che sì mi sturba!)</l>
+          </sp>
+          <stage>GILDA: (a Giovanna):AdduciloDi qua al bastione… ite…</stage>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Di’ m’amerai tu?…</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>E voi?</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>L’intera vita… poi…</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Non più… non più… partite…</l>
+          </sp>
+          <sp who="#a2">
+            <speaker>A2::</speaker>
+            <l>Addio… speranza ed anima</l>
+            <l>Sol tu sarai per me.</l>
+            <l>Addio… vivrà immutabile</l>
+            <l>L’affetto mio per te.</l>
+            <l>(Il Duca entra in casa scortato da Giovanna. Gilda resta fissando la porta ond’è partito)</l>
+          </sp>
+          <stage>A2:Addio… speranza ed animaSol tu sarai per me.Addio… vivrà immutabileL’affetto mio per te.(Il Duca entra in casa scortato da Giovanna. Gilda resta fissando la porta ond’è partito)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto Primo</head>SCENA XIIIGildaGILDA:Gualtier Maldè!… nome di lui sì amato,Scolpisciti nel core innamorato!Caro nome che il mio corFesti primo palpitar,Le delizie dell’amorMi dêi sempre rammentar!Col pensiero il mio desirA te ognora volerà,E pur l’ultimo sospir,Caro nome, tuo sarà.(Entra in casa e compariscce sul terrazzo con una lucerna per vedere ancora una volta il creduto Gualtiero, che si suppone partito dall’altra parte)<div type="scene">
+          <head>Atto Primo</head>SCENA XIIIGildaGILDA:Gualtier Maldè!… nome di lui sì amato,Scolpisciti nel core innamorato!Caro nome che il mio corFesti primo palpitar,Le delizie dell’amorMi dêi sempre rammentar!Col pensiero il mio desirA te ognora volerà,E pur l’ultimo sospir,Caro nome, tuo sarà.(Entra in casa e compariscce sul terrazzo con una lucerna per vedere ancora una volta il creduto Gualtiero, che si suppone partito dall’altra parte) <stage>Atto PrimoSCENA XIIIGildaGILDA:Gualtier Maldè!… nome di lui sì amato,Scolpisciti nel core innamorato!Caro nome che il mio corFesti primo palpitar,Le delizie dell’amorMi dêi sempre rammentar!Col pensiero il mio desirA te ognora volerà,E pur l’ultimo sospir,Caro nome, tuo sarà.(Entra in casa e compariscce sul terrazzo con una lucerna per vedere ancora una volta il creduto Gualtiero, che si suppone partito dall’altra parte)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto Primo</head>SCENA XIVMarullo, Ceprano, Borsa, Cortigiani armati e mascherati dalla via. Gilda sul terrazzo che tosto rientra.BORSA (indicando Gilda al Coro):È là.<div type="scene">
+          <head>Atto Primo</head>SCENA XIVMarullo, Ceprano, Borsa, Cortigiani armati e mascherati dalla via. Gilda sul terrazzo che tosto rientra.BORSA (indicando Gilda al Coro):È là. <stage>Atto PrimoSCENA XIVMarullo, Ceprano, Borsa, Cortigiani armati e mascherati dalla via. Gilda sul terrazzo che tosto rientra.BORSA (indicando Gilda al Coro):È là.</stage>
+          <sp who="#ceprano">
+            <speaker>CEPRANO::</speaker>
+            <l>Miratela…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>Oh quanto è bella!</l>
+          </sp>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Par fata od angiol.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>L’amante è quella</l>
+            <l>Di Rigoletto!</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto Primo</head>SCENA XVDetti e Rigoletto concentrato.RIGOLETTO:(Riedo!… perché?)<div type="scene">
+          <head>Atto Primo</head>SCENA XVDetti e Rigoletto concentrato.RIGOLETTO:(Riedo!… perché?) <stage>Atto PrimoSCENA XVDetti e Rigoletto concentrato.RIGOLETTO:(Riedo!… perché?)</stage>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>Silenzio… all’opra… badate a me.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>(Ah da quel vecchio fui maledetto!)</l>
+            <l>(Urta in Borsa)</l>
+            <l>Chi è là?</l>
+          </sp>
+          <stage>RIGOLETTO:(Ah da quel vecchio fui maledetto!)(Urta in Borsa)Chi è là?</stage>
+          <stage>BORSA:(ai compagni)Tacete… c’è Rigoletto.</stage>
+          <sp who="#ceprano">
+            <speaker>CEPRANO::</speaker>
+            <l>Vittoria doppia!… l’uccideremo…</l>
+          </sp>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>No, ché domani più rideremo…</l>
+          </sp>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Or tutto aggiusto…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>(Chi parla qua?)</l>
+          </sp>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Ehi Rigoletto?… Di’?</l>
+          </sp>
+          <stage>RIGOLETTO (con voce terribile):(Chi va là)</stage>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Eh non mangiarci!… Son…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Chi?</l>
+          </sp>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Marullo.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>In tanto bujo lo sguardo è nullo.</l>
+          </sp>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Qui ne condusse ridevol cosa…</l>
+            <l>Torre a Ceprano vogliam la sposa.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>(Ohimè respiro!..)</l>
+            <l>Ma come entrare?</l>
+          </sp>
+          <stage>MARULLO (piano a Ceprano):La vostra chiave?(A Rigoletto)Non dubitareNon dee mancarci lo stratagemma..(Gli dà la chiave avuta da Ceprano)Ecco le chiavi…</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Sento il tuo stemma.</l>
+            <l>(Palpandole)</l>
+            <l>(Ah terror vano fu dunque il mio!)</l>
+            <l>(Respirando)</l>
+            <l>N’è là il palazzo… con voi son ‘io.</l>
+          </sp>
+          <stage>RIGOLETTO:Sento il tuo stemma.(Palpandole)(Ah terror vano fu dunque il mio!)(Respirando)N’è là il palazzo… con voi son ‘io.</stage>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Siam mascherati…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Ch’io pur mi mascheri</l>
+            <l>A me una larva?</l>
+          </sp>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Sì, pronta è già.</l>
+            <l>Terrai la scala…</l>
+          </sp>
+          <stage>(Gli mette una maschera, e nello stesso tempo lo benda con un fazzoletto, e lo pone a reggere una scala, che avranno appostata al terrazzo)RIGOLETTO:Fitta è la tenebra…</stage>
+          <stage>MARULLO: (ai compagni):La benda cieco e sordo il fa.</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI::</speaker>
+            <l>Zitti, zitti moviamo a vendetta,</l>
+            <l>Ne sia colto or che meno l’aspetta.</l>
+            <l>Derisore sì audace costante</l>
+            <l>A sua volta schernito sarà!…</l>
+            <l>Cheti, cheti, rubiamgli l’amante,</l>
+            <l>E la corte doman riderà.</l>
+          </sp>
+          <stage>(Alcuni salgono al terrazzo, rompon la porta del primo piano, scendono, aprono ad altri ch’entrano dalla strada, e riescono, trascinando Gilda, la quale avrà la bocca chiusa da un fazzoletto. Nel traversare la scena, ella perde una sciarpa)GILDA (da lontano):Soccorso, padre mio…</stage>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>Vittoria!…</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Aita! (Più lontano)</l>
+            <l>RIGOLETTO:</l>
+            <l>Non han finito ancor!…</l>
+            <l>qual derisione!…</l>
+          </sp>
+          <stage>GILDA:Aita! (Più lontano)RIGOLETTO:Non han finito ancor!…qual derisione!…</stage>
+          <stage>(Si tocca gli occhi)</stage>
+          <stage>(Si strappa impetuosamente la benda e la maschera, ed al chiarore d’una lanterna scordata riconisce la sciarpa, vede la porta aperta, entra, ne trae Giovanna spaventata: la fissa con istupore, si strappa i capelli senza poter gridare; finalmente, dopo molti sforzi esclama:Ah!… la maledizione!!</stage>
+          <stage>(sviene)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head></head>Atto SECONDoSCENA I<div type="scene">
+          <head></head>Atto SECONDoSCENA I <stage>Salotto nel palazzo ducale. Vi sono due porte laterali, una maggiore nel fondo che si chiude. Al suoi lati pendono i ritratti, in tutta figura, a sinistra del Duca, a destra della sua sposa. V’ha un seggiolone presso una tavola coperta di velluto e altri mobili</stage>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Ella mi fu rapita!</l>
+            <l>E quando, o ciel… ne’brevi istanti, prima</l>
+            <l>che il mio presagio interno</l>
+            <l>sull’orma corsa ancora mi spingesse!</l>
+            <l>Schiuso era l’uscio!… e la magion deserta!</l>
+            <l>E dove ora sarà quell’angiol caro?…</l>
+            <l>colei che prima potè in questo core</l>
+            <l>destar la fiamma di costanti affetti?…</l>
+            <l>colei sì pura, al cui modesto sguardo</l>
+            <l>quasi spinto a virtù talor mi credo!…</l>
+            <l>Ella mi fu rapita!</l>
+            <l>E chi l’ardiva?… Ma ne avrò vendetta</l>
+            <l>lo chiede il pianto della mia diletta.</l>
+            <l>Parmi veder le lagrime</l>
+            <l>scorrenti da quel ciglio,</l>
+            <l>quando fra il dubbio e l’ansia</l>
+            <l>del subito periglio,</l>
+            <l>dell’amor nostro memore,</l>
+            <l>Il suo Gualtier chiamò.</l>
+            <l>Ned ei potea soccorrerti,</l>
+            <l>cara fanciulla amata,</l>
+            <l>ei che vorria coll’anima</l>
+            <l>farti quaggiù beata;</l>
+            <l>ei che le sfere agli angeli,</l>
+            <l>per te non invidiò.</l>
+            <l>(entrano frettolosi i cortigiani)</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto SECONDo</head>SCENA II<div type="scene">
+          <head>Atto SECONDo</head>SCENA II<sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Ebben?</l>
+          </sp>
+          <sp who="#borsa, marullo, ceprano">
+            <speaker>BORSA, MARULLO, CEPRANO::</speaker>
+            <l>L’amante fu rapita a Rigoletto.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Come? e donde?</l>
+          </sp>
+          <sp who="#borsa, marullo, ceprano">
+            <speaker>BORSA, MARULLO, CEPRANO::</speaker>
+            <l>Dal suo tetto.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Ah, ah! dite, come fu?</l>
+            <l>(siede)</l>
+          </sp>
+          <stage>DUCA:Ah, ah! dite, come fu?(siede)</stage>
+          <sp who="#borsa, marullo, ceprano">
+            <speaker>BORSA, MARULLO, CEPRANO::</speaker>
+            <l>Scorrendo uniti remota via,</l>
+            <l>brev’ora dopo caduto il dì,</l>
+            <l>come previsto ben s’era in pria,</l>
+            <l>rara beltà ci si scoprì.</l>
+            <l>Era l’amante di Rigoletto,</l>
+            <l>che, vista appena, si dileguò.</l>
+            <l>Già di rapirla s’avea il progetto,</l>
+            <l>quando il buffone vêr noi spuntò;</l>
+            <l>che di Ceprano noi la contessa</l>
+            <l>rapir volessimo, stolto credé;</l>
+            <l>la scala, quindi, all’uopo messa,</l>
+            <l>bendato, ei stesso ferma tenè.</l>
+            <l>Salimmo, e rapidi la giovinetta</l>
+            <l>a noi riusciva quindi asportar.</l>
+            <l>Quand’ei s’accorse della vendetta</l>
+            <l>restò scornato ad imprecar, ad imprecar.</l>
+          </sp>
+          <stage>DUCA: (da sè)(Cielo! è dessa!..la mia diletta!)(al coro)Ma dove or trovasi la poveretta?</stage>
+          <sp who="#borsa, marullo, ceprano">
+            <speaker>BORSA, MARULLO, CEPRANO::</speaker>
+            <l>Fu da noi stessi addotta or qui.</l>
+          </sp>
+          <stage>DUCA: (da sè)(Ah, tutto il ciel non mi rapì!)(da sè, alzandosi con gioia)(Possente amor mi chiama,volar io deggio a lei;il serto mio dareiper consolar quel cor.Ah! sappia alfin chi l’ama,conosca alfin chi sono,apprenda ch’anco in tronoha degli schiavi Amor)(Esce frettoloso dal mezzo)BORSA, MARULLO, CEPRANO:Oh qual pensier or l’agita,come cangiò d’umor!)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto SECONDo</head>SCENA III<div type="scene">
+          <head>Atto SECONDo</head>SCENA III<sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Povero Rigoletto!</l>
+          </sp>
+          <stage>RIGOLETTO: (entro la scena)La rà, la rà, la la, la rà, la rà, la rà, la rà la rà, la la, la rà, la rà.</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI::</speaker>
+            <l>Ei vien! Silenzio.</l>
+            <l>(Rigoletto entra la scena affettando indifferenza)</l>
+            <l>BORSA, MARULLO, CEPRANO:</l>
+            <l>Oh buon giorno, Rigoletto…</l>
+          </sp>
+          <stage>TUTTI:Ei vien! Silenzio.(Rigoletto entra la scena affettando indifferenza)BORSA, MARULLO, CEPRANO:Oh buon giorno, Rigoletto…</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>(Han tutti fatto il colpo!)</l>
+          </sp>
+          <sp who="#ceprano">
+            <speaker>CEPRANO::</speaker>
+            <l>Ch’hai di nuovo, buffon?..</l>
+          </sp>
+          <stage>RIGOLETTO: (contraffacendo Ceprano)Ch’hai di nuovo, buffon?..Che dell’usato più nojoso voi siete.</stage>
+          <sp who="#borsa, marullo, ceprano">
+            <speaker>BORSA, MARULLO, CEPRANO::</speaker>
+            <l>(ridendo)</l>
+            <l>Ah! ah! ah!</l>
+          </sp>
+          <stage>BORSA, MARULLO, CEPRANO:(ridendo)Ah! ah! ah!</stage>
+          <stage>RIGOLETTO: (aggirandosi per la scena)La rà, la rà, la la la rà, la rà, la rà, la rà.(spiando inquieto dovunque)(Ove l’avran nascosta?)</stage>
+          <sp who="#borsa, marullo, ceprano">
+            <speaker>BORSA, MARULLO, CEPRANO::</speaker>
+            <l>Guardate com’è inquieto!</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>La rà, la rà, la rà, la rà, la rà, la rà, la rà, la rà, la rà, la rà, la rà.</l>
+          </sp>
+          <sp who="#borsa, marullo, ceprano">
+            <speaker>BORSA, MARULLO, CEPRANO::</speaker>
+            <l>Sì! sì! guardate com’è inquieto!</l>
+          </sp>
+          <stage>RIGOLETTO: (a Marullo)Son feliceche nulla a voi nuocessel’aria di questa notte.</stage>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>Questa notte!..</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Sì… Oh fu il bel colpo!..</l>
+          </sp>
+          <sp who="#marullo">
+            <speaker>MARULLO::</speaker>
+            <l>S’ho dormito sempre!</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Ah, voi dormiste!.. Avrò dunque sognato!..</l>
+            <l>(S’allontana cantarellando, e visto un fazzoletto lo afferra)</l>
+            <l>La rà, la rà, la la, la rà, la rà, la rà, la la.</l>
+          </sp>
+          <stage>RIGOLETTO:Ah, voi dormiste!.. Avrò dunque sognato!..(S’allontana cantarellando, e visto un fazzoletto lo afferra)La rà, la rà, la la, la rà, la rà, la rà, la la.</stage>
+          <sp who="#borsa, marullo, ceprano">
+            <speaker>BORSA, MARULLO, CEPRANO::</speaker>
+            <l>(Ve’, come tutto osserva!)</l>
+          </sp>
+          <stage>RIGOLETTO: (gettando il fazzoletto)Non è il suo. Dorme il Duca tuttor?</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>BORSA, MARULLO, CEPRANO:</head>Sì, dorme ancora.Atto SECONDoSCENA IV<div type="scene">
+          <head>BORSA, MARULLO, CEPRANO:</head>Sì, dorme ancora.Atto SECONDoSCENA IV<sp who="#borsa, marullo, ceprano">
+            <speaker>BORSA, MARULLO, CEPRANO::</speaker>
+            <l>Sì, dorme ancora.</l>
+            <l>Atto SECONDo</l>
+            <l>SCENA IV</l>
+          </sp>
+          <stage>BORSA, MARULLO, CEPRANO:Sì, dorme ancora.Atto SECONDoSCENA IV</stage>
+          <sp who="#paggio">
+            <speaker>PAGGIO::</speaker>
+            <l>Al suo sposo parlar vuol la Duchessa.</l>
+          </sp>
+          <sp who="#ceprano">
+            <speaker>CEPRANO::</speaker>
+            <l>Dorme.</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO::</speaker>
+            <l>Qui or or con voi non era?..</l>
+          </sp>
+          <sp who="#borsa">
+            <speaker>BORSA::</speaker>
+            <l>È a caccia…</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO::</speaker>
+            <l>Senza paggi!.. senz’armi!..</l>
+          </sp>
+          <sp who="#borsa, marullo, ceprano">
+            <speaker>BORSA, MARULLO, CEPRANO::</speaker>
+            <l>E non capisci</l>
+            <l>che per ora vedere non può alcuno?..</l>
+          </sp>
+          <sp who="#borsa, marullo, ceprano">
+            <speaker>BORSA, MARULLO, CEPRANO::</speaker>
+            <l>Chi?</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>La giovin che sta notte al mio tetto rapiste…</l>
+            <l>Ma la saprò riprender… Ella è la…</l>
+          </sp>
+          <sp who="#borsa, marullo, ceprano">
+            <speaker>BORSA, MARULLO, CEPRANO::</speaker>
+            <l>Se l’amante perdesti, la ricerca altrove.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Io vo’ mia figlia…</l>
+          </sp>
+          <sp who="#borsa, marullo, ceprano">
+            <speaker>BORSA, MARULLO, CEPRANO::</speaker>
+            <l>La sua figlia!..</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Sì… la mia figlia… D’una tal vittoria…</l>
+            <l>che?.. adesso non ridete?..</l>
+          </sp>
+          <stage>(corre verso la porta, ma i cortigiani gli attraversano il passaggio)Ella è la!.. la vogl’io… la rendete.Cortigiani, vil razza dannata,per qual prezzo vendeste il mio bene?A voi nulla per l’oro sconviene!..ma mia figlia è impagabil tesor.La rendete… o se pur disarmata,questa man per voi fora cruenta;nulla in terra più l’uomo paventa,se dei figli difende l’onor.(si getta ancora sulla porta che gli è nuovamente contesa)Quella porta, assassini, assassini, m’aprite,la porta, la porta, assassini, m’aprite.(lotta alquanto coi cortigiani, poi torna spossato sul davanti della scena)Ah! voi tutti a me contro venite!..(piange)tutti contra me!.. Ah!..Ebben, piango… Marullo… signore,tu ch’hai l’alma gentil come il core,dimmi tu dove l’hanno nascosta?..È là? non è vero? … tu taci!.. ohimè!(piange)Miei signori.. perdono, pietate…al vegliardo la figlia ridate…ridonarla a voi nulla ora costa,tutto al mondo è tal figlia per me.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto SECONDo</head>SCENA V<div type="scene">
+          <head>Atto SECONDo</head>SCENA V<sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Mio padre!</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Dio! mia Gilda!..</l>
+            <l>Signori… in essa… è tutta la mia famiglia…</l>
+            <l>Non temer più nulla, angelo mio…</l>
+            <l>(ai Cortigiani)</l>
+            <l>fu scherzo!.. non è vero? Io che pur piansi orrido…</l>
+            <l>(a Gilda)</l>
+            <l>E tu a che piangi?..</l>
+          </sp>
+          <stage>RIGOLETTO:Dio! mia Gilda!..Signori… in essa… è tutta la mia famiglia…Non temer più nulla, angelo mio…(ai Cortigiani)fu scherzo!.. non è vero? Io che pur piansi orrido…(a Gilda)E tu a che piangi?..</stage>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Ah l’onta, padre mio…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Cielo! Che dici?</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Arrosir voglio innanzi a voi soltanto…</l>
+          </sp>
+          <stage>RIGOLETTO: (rivolto al Cortigiani con imperioso modo)Ite di qua, voi tutti…Se il duca vostro d’appressarsi osasse,ch’ei non entri, gli dite, e ch’io ci sono.(si abbandona sul seggiolone)BORSA, MARULLO, CEPRANO: (tra loro)Coi fanciulli e co’dementispesso giova il simular.Partiam pur, ma quel ch’ei tentinon lasciamo d’osservar.</stage>
+          <stage>(partono)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto SECONDo</head>SCENA VI<div type="scene">
+          <head>Atto SECONDo</head>SCENA VI<sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Parla… siam soli…</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>(Ciel dammi coraggio!)</l>
+            <l>Tutte le feste al tempio</l>
+            <l>mentre pregava Iddio,</l>
+            <l>bella e fatale un giovine</l>
+            <l>offriasi al guardo mio…</l>
+            <l>se i labbri nostri tacquero,</l>
+            <l>dagl’occhi il cor, il cor parlò.</l>
+            <l>Furtivo fra le tenebre</l>
+            <l>sol ieri a me giungeva…</l>
+            <l>Sono studente, povero,</l>
+            <l>commosso mi diceva,</l>
+            <l>e con ardente palpito</l>
+            <l>amor mi protestò.</l>
+            <l>Partì… il mio core aprivasi</l>
+            <l>a speme più gradita,</l>
+            <l>quando improvvisi apparvero</l>
+            <l>color che m’han rapita,</l>
+            <l>e a forza qui m’addussero</l>
+            <l>nell’ansia più crudel.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Ah!</l>
+            <l>(da sè)</l>
+            <l>(Solo per me l’infamia</l>
+            <l>a te chiedeva, o Dio…</l>
+            <l>ch’ella potesse ascendere</l>
+            <l>quanto caduto er’io…</l>
+            <l>Ah presso del patibolo</l>
+            <l>bisogna ben l’altare!..</l>
+            <l>ma tutto ora scompare…</l>
+            <l>l’altare… si rovesciò!)</l>
+            <l>(a Gilda)</l>
+            <l>Piangi! piangi fanciulla, fanciulla piangi…</l>
+            <l>scorrer, scorrer fa il pianto sul mio cor.</l>
+          </sp>
+          <stage>RIGOLETTO:Ah!(da sè)(Solo per me l’infamiaa te chiedeva, o Dio…ch’ella potesse ascenderequanto caduto er’io…Ah presso del patibolobisogna ben l’altare!..ma tutto ora scompare…l’altare… si rovesciò!)(a Gilda)Piangi! piangi fanciulla, fanciulla piangi…scorrer, scorrer fa il pianto sul mio cor.</stage>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Padre, in voi parla un angel</l>
+            <l>per me consolator.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Compiuto pur quanto a fare mi resta…</l>
+            <l>lasciare potremo quest’aura funesta.</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Sì</l>
+          </sp>
+          <stage>RIGOLETTO: (da sè)(E tutto un sol giorno cangiare potè)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto SECONDo</head>SCENA VII<div type="scene">
+          <head>Atto SECONDo</head>SCENA VII <stage>Usciere:(alle guardie)Schiudete… ire al carcere Monteron dee.</stage>
+          <stage>MONTERONE: (fermandosi verso il ritratto del Duca)Poichè fosti invano da me maledetto,nè un fulmine o un ferro colpiva il tuo petto,felice pur anco, o duca, vivrai!…(esce fra le guardie dal mezzo)RIGOLETTO:No, vecchio t’inganni… un vindice avrai!</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto SECONDo</head>SCENA VIII<div type="scene">
+          <head>Atto SECONDo</head>SCENA VIII <stage>RIGOLETTO: (con impeto volto al ritratto)Sì, vendetta, tremenda vendettadi quest’anima è solo desio…di punirti già l’ora saffretta,che fatale per te tuonerà.Come fulmin scagliato da Dio,te colpire il buffone saprà.</stage>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>O mio padre, qual gioja feroce</l>
+            <l>balenarvi ne gl’occhi vegg’io!..</l>
+            <l>Perdonate, a noi pure una voce</l>
+            <l>di perdono dal cielo verrà,</l>
+            <l>(Mi tradiva, pur l’amo, gran Dio!</l>
+            <l>per l’ingrato ti chiedo pietà!)</l>
+          </sp>
+          <stage>(escono dal mezzo)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head></head>Atto TERZoSCENA I<div type="scene">
+          <head></head>Atto TERZoSCENA I <stage>Deserta sponda del Mincio. A sinistra è una casa a due piani, mezzo diroccata, la cui fronte, volta allo spettatore, lascia vedere per una grande arcata l’interno d’una rustica osteria al pian terreno, ed una rozza scala che mette al granaio, entro cui, da un balcone senza imposte, si vede un lettuccio. Nella facciata che guarda la strada è una porta che s’apre per dietro; il muro poi è sì pieno di fessure che dal di fuori si può facilmente scorgere quanto avviene nell’interno. Il resto del teatro rappresenta la destra parte del Mincio, che nel fondo scorre dietro un parapetto in mezza ruina; al di là del fiume è Mantova. È notte.Gilda e Rigoletto, inquieto, sono sulla strada. Sparafucile nell’interno dell’osteria, seduto sopra una tavola, sta ripulendo il suo cinturone senza nulla intendere di quanto accade al di fuori.RIGOLETTO:E l’ami?</stage>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Sempre.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Pure</l>
+            <l>tempo a guarirne t’ho lasciato.</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Io l’amo.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Povero cor di donna!.. Ah il vile infame!..</l>
+            <l>Ma ne avrai vendetta, o Gilda…</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Pietà, mio padre…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>E se tu certa fossi</l>
+            <l>ch’ei ti tradisse, l’ameresti ancora?</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Nol so… ma pur m’adora.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Egli!</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Sì.</l>
+          </sp>
+          <stage>RIGOLETTO: (la conduce presso una delle fessure del muro, ed ella vi guarda)Ebben, osserva dunque.</stage>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Un uomo vedo.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Per poco attendi.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head></head>Atto TERZoSCENA II<div type="scene">
+          <head></head>Atto TERZoSCENA II <stage>Atto TERZoSCENA II</stage>
+          <stage>GILDA: (trasalendo)Ah padre mio!</stage>
+          <stage>DUCA: (a Sparafucile)Due cose, e tosto…</stage>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Quali?</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Una stanza e del vino…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Son questi i suoi costumi!</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Oh il bel zerbino!</l>
+            <l>(entra nell’interno)</l>
+            <l>DUCA:</l>
+            <l>La donna è mobile</l>
+            <l>qual piuma al vento,</l>
+            <l>muta d’accento e di pensiero.</l>
+            <l>Sempre un amabile</l>
+            <l>leggiadro viso,</l>
+            <l>in pianto o in riso, è menzognero.</l>
+            <l>È sempre misero</l>
+            <l>chi a lei s’affida,</l>
+            <l>chi le confida mal cauto il core!</l>
+            <l>Pur mai non sentesi</l>
+            <l>felice appieno</l>
+            <l>chi su quel seno non liba amore!</l>
+          </sp>
+          <stage>SPARAFUCILE:Oh il bel zerbino!(entra nell’interno)DUCA:La donna è mobilequal piuma al vento,muta d’accento e di pensiero.Sempre un amabileleggiadro viso,in pianto o in riso, è menzognero.È sempre miserochi a lei s’affida,chi le confida mal cauto il core!Pur mai non sentesifelice appienochi su quel seno non liba amore!</stage>
+          <stage>(Sparafucile rientra con una bottiglia di vino e due bicchieri che depone sulla tavola, quindi batte col pomo della sua lunga spada due colpi al soffitto. A quel segnale una ridente giovane, in costume di zingara, scende a salti la scala. Il Duca corre per abbracciarla, ma ella gli sfugge. Frattanto Sparafucile, uscito sulla via, dice a parte a Rigoletto)SPARAFUCILE:È là il vostr’uomo… viver dee o morire?</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Più tardi tornerò l’opra a compire.</l>
+          </sp>
+          <stage>(Sparafucile si allontana dietro la casa lungo il fiume)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto TERZo</head>SCENA III<div type="scene">
+          <head>Atto TERZo</head>SCENA III<sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Un dì, si ben rammentomi,</l>
+            <l>o bella, t’incontrai…</l>
+            <l>mi piacque di te chiedere,</l>
+            <l>e intesi che qui stai.</l>
+            <l>Or sappi, che d’allora</l>
+            <l>sol te quest’alma adora.</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Iniquo!…</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Ah, ah!… e vent’altre appresso</l>
+            <l>le scorda forse a desso?</l>
+            <l>Ha un’aria il signorino da vero libertino…</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Sì… un mostro son…</l>
+            <l>(per abbracciarla)</l>
+            <l>GILDA:</l>
+            <l>Ah padre mio!…</l>
+          </sp>
+          <stage>DUCA:Sì… un mostro son…(per abbracciarla)GILDA:Ah padre mio!…</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Lasciatemi, stordito.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Ih, che fracasso!</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Stia saggio.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>E tu sii docile,</l>
+            <l>non farmi tanto chiasso.</l>
+            <l>Ogni saggezza chiudesi</l>
+            <l>nel gaudio e nell’amore…</l>
+            <l>(le prende la mano)</l>
+            <l>La bella mano candida!…</l>
+          </sp>
+          <stage>DUCA:E tu sii docile,non farmi tanto chiasso.Ogni saggezza chiudesinel gaudio e nell’amore…(le prende la mano)La bella mano candida!…</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Scherzate voi, signore.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>No, no.</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Son brutta.</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Abbracciami.</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Iniquo!</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Ebro!…</l>
+          </sp>
+          <stage>DUCA: (ridendo)D’amor ardente.</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Signor l’indifferente,</l>
+            <l>vi piace canzonar?</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>No, no, ti vo’sposar.</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Ne voglio la parola…</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Amabile figliuola!</l>
+          </sp>
+          <stage>RIGOLETTO: (a Gilda che avrà tutto osservato ed inteso)E non ti basta ancor?</stage>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Iniquo traditor!</l>
+          </sp>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Bella figlia dell’amore,</l>
+            <l>schiavo son de’vezzi tuoi;</l>
+            <l>con un detto sol tu puoi</l>
+            <l>le mie pene consolar.</l>
+            <l>Vieni e senti del mio core</l>
+            <l>il frequente palpitar.</l>
+            <l>Con un detto sol tu puoi</l>
+            <l>le mie pene consolar.</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Ah! ah! rido ben di core,</l>
+            <l>chè tai baje costan poco,</l>
+            <l>quanto valga il vostro gioco,</l>
+            <l>mel credete so apprezzar.</l>
+            <l>Sono avvezza, bel signore</l>
+            <l>Ad un simile scherzar.</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Ah così parlar d’amore</l>
+            <l>a me pur l’infame ho udito!</l>
+            <l>Infelice cor tradito,</l>
+            <l>per angoscia non scoppiar,</l>
+            <l>Perché o credulo mio core,</l>
+            <l>un tal uomo dovevi amar!</l>
+          </sp>
+          <stage>RIGOLETTO: (a Gilda)Taci, il piangere non vale;Ch’ei mentiva or sei sicura…Taci, e mia sarà la curala vendetta d’affrettar.Pronta fia sarà fatale,io saprollo fulminar.</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>M’odì!… ritorna a casa…</l>
+            <l>oro prendi, un destriero,</l>
+            <l>una veste viril che t’apprestai,</l>
+            <l>e per Verona parti…</l>
+            <l>Sarovvi io pur doman…</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Or venite…</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Impossibil.</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Tremo.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Va!</l>
+          </sp>
+          <stage>(Il Duca e Maddalena stanno fra loro parlando, ridendo e bevendo. Rigoletto va dietro la casa, e ritorna con Sparafucile, contandogli delle monete)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto TERZo</head>SCENA IV<div type="scene">
+          <head>Atto TERZo</head>SCENA IV<sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Venti scudi hai tu detto?… Eccone dieci;</l>
+            <l>e dopo l’opra il resto.</l>
+            <l>Ei qui rimane?</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Sì.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Alla mezzanotte ritornerò.</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Non cale.</l>
+            <l>A gettarlo nel fiume basto io solo.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>No, no, il vo’ far io stesso.</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Sia!… Il suo nome?</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Vuoi saper anche il mio?</l>
+            <l>Egli è Delitto, Punizion son io.</l>
+          </sp>
+          <stage>RIGOLETTO:Vuoi saper anche il mio?Egli è Delitto, Punizion son io.</stage>
+          <stage>(Parte. Entro le scene si vedrà un lampo)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto TERZo</head>SCENA V<div type="scene">
+          <head>Atto TERZo</head>SCENA V<sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>La tempesta è vicina!…</l>
+            <l>più scura fia la notte.</l>
+          </sp>
+          <stage>DUCA: (per prenderla)Maddalena…</stage>
+          <stage>MADDALENA: (sfuggendogli)Aspettate… mio fratelloviene…</stage>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Che importa?</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Tuona!</l>
+          </sp>
+          <stage>SPARAFUCILE: (entrando in casa)E pioverà fra poco.</stage>
+          <sp who="#duca">
+            <speaker>DUCA::</speaker>
+            <l>Tanto meglio!</l>
+            <l>(a Sparafucile)</l>
+            <l>Tu dormerai in scuderia…</l>
+            <l>all’inferno… ove vorrai.</l>
+          </sp>
+          <stage>DUCA:Tanto meglio!(a Sparafucile)Tu dormerai in scuderia…all’inferno… ove vorrai.</stage>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Oh, grazie.</l>
+          </sp>
+          <stage>MADDALENA: (piano al Duca)Ah, no, partite.</stage>
+          <stage>DUCA: (a Maddalena)Con tal tempo?</stage>
+          <stage>SPARAFUCILE: (piano a Maddalena)Son venti scudi d’oro.(al Duca)Ben felice d’offrirvi la mia stanza…se a voi piace tosto a vederla andiamo.(prende un lume e s’avvia per la scala)DUCA:Ebben! sono con te… presto… vediamo.(dice una parola all’orecchio di Maddalena e segue Sparafucile)MADDALENA:Povero giovin!.. grazioso tanto!Dio, qual notte è questa!</stage>
+          <stage>DUCA: (sul granaio)Si dorme all’aria aperta? bene, bene!..Buona notte.</stage>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Signor, vi guardi Iddio.</l>
+            <l>(il Duca depone la spada e il cappello)</l>
+            <l>DUCA:</l>
+            <l>Breve sonno dormiam…</l>
+            <l>stanco son io.</l>
+          </sp>
+          <stage>SPARAFUCILE:Signor, vi guardi Iddio.(il Duca depone la spada e il cappello)DUCA:Breve sonno dormiam…stanco son io.</stage>
+          <stage>(Depone il cappello, la spada e si stende sul letto, dove in breve addormentasi. maddalena frattanto siede presso la tavola, Sparafucile beve della bottiglia lasciata dal Duca. Rimangono ambidue taciturni per qualche istante, e preoccupati da gravi pensieri)</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>È amabile in vero cotal giovinotto!</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Oh sì, venti scudi ne dà di prodotto.</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Sol venti?.. son pochi!.. valeva di più.</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>La spada, s’ei dorme, va… portami giù.</l>
+          </sp>
+          <stage>MADDALENA: (Sale al granaio e contemplando il dormente)Peccato è pur bello!</stage>
+          <stage>(Ripara alla meglio il balcone e scende).</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto TERZo</head>SCENA VI<div type="scene">
+          <head>Atto TERZo</head>SCENA VI<sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Ah, più non ragiono!..</l>
+            <l>Amor mi trascina!.. mio padre, perdono…</l>
+            <l>Qual notte d’orrore!.. Gran Dio, che accadrà!</l>
+          </sp>
+          <stage>MADDALENA: (sarà discesa ed avrà posata la spada del Duca sulla tavola)Fratello?..</stage>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Chi parla?..</l>
+            <l>(osserva per la fessura)</l>
+            <l>SPARAFUCILE:</l>
+            <l>Al diavol ten va…</l>
+          </sp>
+          <stage>GILDA:Chi parla?..(osserva per la fessura)SPARAFUCILE:Al diavol ten va…</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Somiglia un Apollo quel giovine… io l’amo…</l>
+            <l>ei m’ama…riposi… nè più l’uccidiamo.</l>
+          </sp>
+          <stage>GILDA: (ascoltando)Oh cielo!</stage>
+          <stage>SPARAFUCILE: (gettandole un sacco)Rattoppa quel sacco…</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Perchè?</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Entr’esso il tuo Apollo, sgozzato da me,</l>
+            <l>gettar dovrò al fiume…</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>L’inferno qui vedo!</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Eppure il danaro salvarti scommetto,</l>
+            <l>serbandolo in vita.</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Difficile il credo.</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>M’ascolta… anzi facil ti svelo un progetto.</l>
+            <l>De’scudi già dieci dal gobbo ne avesti;</l>
+            <l>venire cogl’altri più tardi il vedrai…</l>
+            <l>Uccidilo e, venti allora ne avrai,</l>
+            <l>Così tutto il prezzo goder si potrà.</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Che sento! mio padre!</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Uccider quel gobbo!… che diavol dicesti!</l>
+            <l>Un ladro son forse?… Son forse un bandito?…</l>
+            <l>Qual altro cliente da me fu tradito?…</l>
+            <l>Mi paga quest’uomo… fedele m’avrà</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Ah, grazia per esso.</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>È duopo ch’ei muoja…</l>
+          </sp>
+          <stage>MADDALENA: (va per salire)Fuggire il˛7 íï¯{íÏ: (¿   ¿       )</stage>
+          <sp who="#prologo">
+            <speaker>PROLOGO:</speaker>
+            <l>Simon Boccanegra, corsaro al servizio deÈla repubblica genovese, Baritono</l>
+            <l>Jacop</l>
+            <l>o Fiesco, nobile genovese, Basso</l>
+            <l>Paolo Albiani, filatore d’oro genovese, Baritono</l>
+            <l>Pietro, po</l>
+            <l>polano di Genovadre!.. Oh cielo, pietà! st(Battono le 11 1/2)</l>
+          </sp>
+          <stage>PROLOGOSimon Boccanegra, corsaro al servizio deÈla repubblica genovese, BaritonoJacopo Fiesco, nobile genovese, BassoPaolo Albiani, filatore d’oro genovese, BaritonoPietro, popolano di Genovadre!.. Oh cielo, pietà! st(Battono le 11 1/2)</stage>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Ancor c’è mezz’ora…</l>
+          </sp>
+          <stage>MADDALENA: (piangendo)Attendi, fratello…</stage>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Che! piange tal donna!.. N’è a lui darò aita!..</l>
+            <l>Ah, s’egli al mio amore divenne rubello,</l>
+            <l>io vo’per la sua gettar la mia vita…</l>
+            <l>(scoppio di fulmine, lampo, e tuono; colpi di battente Gilda batte all porta)</l>
+            <l>MADDALENA:</l>
+            <l>Si picchia?</l>
+          </sp>
+          <stage>GILDA:Che! piange tal donna!.. N’è a lui darò aita!..Ah, s’egli al mio amore divenne rubello,io vo’per la sua gettar la mia vita…(scoppio di fulmine, lampo, e tuono; colpi di battente Gilda batte all porta)MADDALENA:Si picchia?</stage>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Fu il vento…</l>
+            <l>(Gilda batte ancora)</l>
+            <l>MADDALENA:</l>
+            <l>Si picchia, ti dico.</l>
+          </sp>
+          <stage>SPARAFUCILE:Fu il vento…(Gilda batte ancora)MADDALENA:Si picchia, ti dico.</stage>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>È strano!.. Chi è?</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Pietà d’un mendico;</l>
+            <l>asil per la notte a lui concedete.</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Fia lunga tal notte!</l>
+          </sp>
+          <stage>SPARAFUCILE: (va a cercare nel credenzone)Alquanto attendete.</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Su, spicciati. presto, fa l’opra compita</l>
+            <l>anelo una vita con altra salvar.</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Ebbene… son pronto,</l>
+            <l>quell’uscio dischiudi;</l>
+            <l>più ch’altro gli scudi</l>
+            <l>mi preme salvar.</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Ah! presso alla morte, sì giovine, sono!</l>
+            <l>Oh ciel, per gl’empi ti chieggo perdono!</l>
+            <l>Perdona tu, o padre, questa infelice! …</l>
+            <l>Sia l’uomo felice – ch’or vado a salvar.</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA::</speaker>
+            <l>Su spicciati, presto fa l’opra compita</l>
+            <l>Anelo una vita – con l’altra salvar.</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Bene.. son pronto</l>
+            <l>quell’uscio dischiudi;</l>
+            <l>più ch’altro gli scudi</l>
+            <l>mi preme salvar;</l>
+          </sp>
+          <stage>(fulmine, lampo, e tuono Gilda picchia di nuovo. Sparafucile va a postarsi con un pugnale dietro la porta; Maddalena apre, poi corre a chiudere la grande arcata di fronte, mentre entra Gilda, dietro a cui Sparafucile chiude la porta, e tutto resta sepolto nel silenzio e nel bujo)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto TERZo</head>SCENA VII<div type="scene">
+          <head>Atto TERZo</head>SCENA VII</div>
+        <div type="scene">
+          <head>Rigoletto solo si avanza dal fondo della scena chiuso nel suo mantello. La violenza del temporale è diminuita, nè più si vede e sente che qualche lampo e tuono</head>RigolettoRIGOLETTO:Della vendetta alfin giunge l’istante!da trenta dì l’aspettodi vivo sangue a lagrime piangendo,sotto la larva del buffon…(esaminando la casa)Quest’uscio è chiuso!..Ah, non è tempo ancor!.. S’attenda.Qual notte di mistero!una tempesta in cielo!..in terra un omicidio!..Oh come in vero qui grande mi sento!..(L’orologio suona mezzanotte)Mezza notte!..(batte alla porta) <stage>Rigoletto solo si avanza dal fondo della scena chiuso nel suo mantello. La violenza del temporale è diminuita, nè più si vede e sente che qualche lampo e tuonoRigolettoRIGOLETTO:Della vendetta alfin giunge l’istante!da trenta dì l’aspettodi vivo sangue a lagrime piangendo,sotto la larva del buffon…(esaminando la casa)Quest’uscio è chiuso!..Ah, non è tempo ancor!.. S’attenda.Qual notte di mistero!una tempesta in cielo!..in terra un omicidio!..Oh come in vero qui grande mi sento!..(L’orologio suona mezzanotte)Mezza notte!..(batte alla porta)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto TERZo</head>SCENA VIII<div type="scene">
+          <head>Atto TERZo</head>SCENA VIII<sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Chi è là?</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Son io…</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Sostate.</l>
+            <l>(rientra e torna trascinando un sacco)</l>
+            <l>è qua spento il vostr’uomo!..</l>
+          </sp>
+          <stage>SPARAFUCILE:Sostate.(rientra e torna trascinando un sacco)è qua spento il vostr’uomo!..</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Oh gioja!.. Un lume!..</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Un lume?.. No, il danaro.</l>
+            <l>Lesti, all’onda il gettiam…</l>
+          </sp>
+          <sp who="#sparafucile">
+            <speaker>SPARAFUCILE::</speaker>
+            <l>Come vi piace… Qui men atto è il sito…</l>
+            <l>più avanti è più profondo il gorgo… Presto,</l>
+            <l>che alcun non vi sorprenda… Buona notte.</l>
+            <l>(rientra in casa)</l>
+          </sp>
+          <stage>SPARAFUCILE:Come vi piace… Qui men atto è il sito…più avanti è più profondo il gorgo… Presto,che alcun non vi sorprenda… Buona notte.(rientra in casa)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto TERZo</head>SCENA IX<div type="scene">
+          <head>Atto TERZo</head>SCENA IX<sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Egli è là!.. morto!.. oh sì!.. vorrei vederlo!</l>
+            <l>ma che importa!.. è ben desso!.. Ecco i suoi sproni!..</l>
+            <l>Ora mi guarda, o mondo!..</l>
+            <l>Quest’è un buffone, ed un potente è questo!</l>
+            <l>Ei sta sotto i miei piedi!.. è desso! oh gioja!..</l>
+            <l>è giunta alfine la tua vendetta, o duolo!..</l>
+            <l>Sia l’onda a lui sepolcro,</l>
+            <l>un sacco il suo lenzuolo!.. All’onda! all’onda!</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>(fa per trascinare il sacco verso la sponda, quando è sorpreso dalla lontana voce del Duca, che nel fondo attraversa la scena)</head>RIGOLETTO:Qual voce!.. illusion notturna è questa!..(traselando)No, no!..egli è desso!..Maledizione!(verso la casa)Olà… dimon bandito?..Chi è mai, chi è qui in sua vece?..(taglia il sacco)Io tremo… è umano corpo!..(lampeggia)Atto TERZoSCENA ULTIMA<div type="scene">
+          <head>(fa per trascinare il sacco verso la sponda, quando è sorpreso dalla lontana voce del Duca, che nel fondo attraversa la scena)</head>RIGOLETTO:Qual voce!.. illusion notturna è questa!..(traselando)No, no!..egli è desso!..Maledizione!(verso la casa)Olà… dimon bandito?..Chi è mai, chi è qui in sua vece?..(taglia il sacco)Io tremo… è umano corpo!..(lampeggia)Atto TERZoSCENA ULTIMA <stage>(fa per trascinare il sacco verso la sponda, quando è sorpreso dalla lontana voce del Duca, che nel fondo attraversa la scena)RIGOLETTO:Qual voce!.. illusion notturna è questa!..(traselando)No, no!..egli è desso!..Maledizione!(verso la casa)Olà… dimon bandito?..Chi è mai, chi è qui in sua vece?..(taglia il sacco)Io tremo… è umano corpo!..(lampeggia)Atto TERZoSCENA ULTIMA</stage>
+          <stage>Mia figlia!.. Dio!.. mia figlia!..Ah, no!.. è impossibil!.. per Verona è in via!..Fu vision!.. è dessa!..(inginocchiandosi)Oh mia Gilda!.. fanciulla… a me rispondi!..l’assassino mi svela… Olà?(picchia disperatamente alla porta)Nessuno!.. nessun!.. Mia figlia?.. mia Gilda?.. oh mia figlia?..</stage>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Chi mi chiama?</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Ella parla!.. si move!.. è viva!.. oh Dio!</l>
+            <l>Ah, mio ben solo in terra… mi guarda, mi conosci…</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Ah… padre mio!..</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Qual mistero!.. che fu!.. sei tu ferita?.. dimmi…</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>L’acciar…</l>
+            <l>(indicando il core)</l>
+            <l>qui… qui mi piagò..</l>
+          </sp>
+          <stage>GILDA:L’acciar…(indicando il core)qui… qui mi piagò..</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Chi t’ha colpita?..</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>V’ho l’ingannato… colpevole fui…</l>
+            <l>l’amai troppo… ora muojo per lui!..</l>
+          </sp>
+          <stage>RIGOLETTO: (da sè)(Dio tremendo! ella stessa fu côltadallo stral di mia giusta vendetta!)(a Gilda)Angiol caro, mi guarda, m’ascolta…parla, parlami, figlia diletta!</stage>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Ah, ch’io taccia!.. a me… a lui perdonate!..</l>
+            <l>benedite… alla figlia… o mio padre..</l>
+            <l>lassù… in cielo, vicina alla madre…</l>
+            <l>in eterno per voi … pregherò.</l>
+          </sp>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Non morir… mio tesoro, pietade…</l>
+            <l>se t’involi qui sol rimarrei…</l>
+            <l>non morire, o qui teco morrò!..</l>
+          </sp>
+          <sp who="#gilda">
+            <speaker>GILDA::</speaker>
+            <l>Non più… A lui… perdonate…</l>
+            <l>mio padre… Ad… dio!</l>
+            <l>(Muore)</l>
+          </sp>
+          <stage>GILDA:Non più… A lui… perdonate…mio padre… Ad… dio!(Muore)</stage>
+          <sp who="#rigoletto">
+            <speaker>RIGOLETTO::</speaker>
+            <l>Gilda! mia Gilda! è morta!..</l>
+            <l>Ah! la maledizione!!</l>
+          </sp>
+          <stage>(Strappandosi i capelli cade sul cadavere della figlia)</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

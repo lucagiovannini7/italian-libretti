@@ -1,0 +1,3210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">a fille du régiment</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="hortensius">
+            <persName>HORTENSIUS:</persName>
+          </person>
+          <person xml:id="la duchesse">
+            <persName>LA DUCHESSE:</persName>
+          </person>
+          <person xml:id="el duc">
+            <persName>EL DUC:</persName>
+          </person>
+          <person xml:id="tonio, sulpice, soldats">
+            <persName>TONIO, SULPICE, SOLDATS:</persName>
+          </person>
+          <person xml:id="marie">
+            <persName>MARIE:</persName>
+          </person>
+          <person xml:id="invités">
+            <persName>INVITÉS:</persName>
+          </person>
+          <person xml:id="caporal, soldats">
+            <persName>CAPORAL, SOLDATS:</persName>
+          </person>
+          <person xml:id="tous">
+            <persName>TOUS:</persName>
+          </person>
+          <person xml:id="tonio, caporal, soldats">
+            <persName>TONIO, CAPORAL, SOLDATS:</persName>
+          </person>
+          <person xml:id="notaire">
+            <persName>NOTAIRE:</persName>
+          </person>
+          <person xml:id="les villageois">
+            <persName>LES VILLAGEOIS:</persName>
+          </person>
+          <person xml:id="soldats, sulpice">
+            <persName>SOLDATS, SULPICE:</persName>
+          </person>
+          <person xml:id="soldats">
+            <persName>SOLDATS:</persName>
+          </person>
+          <person xml:id="tonio, sulpice">
+            <persName>TONIO, SULPICE:</persName>
+          </person>
+          <person xml:id="le caporal">
+            <persName>LE CAPORAL:</persName>
+          </person>
+          <person xml:id="sulpice, soldats">
+            <persName>SULPICE, SOLDATS:</persName>
+          </person>
+          <person xml:id="la marquise">
+            <persName>LA MARQUISE:</persName>
+          </person>
+          <person xml:id="fin de l’opéra">
+            <persName>FIN DE L’OPÉRA:</persName>
+          </person>
+          <person xml:id="tonio">
+            <persName>TONIO:</persName>
+          </person>
+          <person xml:id="les deux">
+            <persName>LES DEUX:</persName>
+          </person>
+          <person xml:id="sulpice">
+            <persName>SULPICE:</persName>
+          </person>
+          <person xml:id="un paysan">
+            <persName>UN PAYSAN:</persName>
+          </person>
+          <person xml:id="marie, tonio…">
+            <persName>MARIE, TONIO…:</persName>
+          </person>
+          <person xml:id="les soldats">
+            <persName>LES SOLDATS:</persName>
+          </person>
+          <person xml:id="paysan">
+            <persName>PAYSAN:</persName>
+          </person>
+          <person xml:id="les trois">
+            <persName>LES TROIS:</persName>
+          </person>
+          <person xml:id="hortensius, les villageois">
+            <persName>HORTENSIUS, LES VILLAGEOIS:</persName>
+          </person>
+          <person xml:id="marie, tonio, sulpice">
+            <persName>MARIE, TONIO, SULPICE:</persName>
+          </person>
+          <person xml:id="deuxième acte">
+            <persName>DEUXIÈME ACTE:</persName>
+          </person>
+          <person xml:id="femmes">
+            <persName>FEMMES:</persName>
+          </person>
+          <person xml:id="marie, la marquise">
+            <persName>MARIE, LA MARQUISE:</persName>
+          </person>
+          <person xml:id="marie, sulpice">
+            <persName>MARIE, SULPICE:</persName>
+          </person>
+          <person xml:id="le duc">
+            <persName>LE DUC:</persName>
+          </person>
+          <person xml:id="marie, tonio">
+            <persName>MARIE, TONIO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>(Un site champêtre du Tyrol. A gauche,une chaumière; à droite, un commencementde village. Des Tyroliens sont enobservation sur la montagne du fond.Un groupe de femmes est agenouillédevant une madone de pierre. La marquisede Berkenfield se trouve mal de frayer ets’est assise, soutenue par Hortensius, sonintendant, qui lui fait respirer des sels.On entend le canon dans le lointain)</stage>
+      <stage>IntroductionLES VILLAGEOISL’ennemi s’avance,Amis, armons-nous!Et daos le silence,Préparons-nous.Amis, amis, préparons-nous.</stage>
+      <stage>PrièreFEMMES(À genoux devant une Madone)Sainte Madone!Douce patronne!A tes genoux,Chacun te prie!Vierge Marie,Protège-nous!Sainte MadoneProtège-nous!Vierge Marie,Protège-nous!</stage>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>Allons, madame la marquise,</l>
+        <l>Remettez-vous et faites un effort!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Par l’ennemi se voir ainsi surprise!</l>
+        <l>Hélas! C’est pire que la mort!</l>
+      </sp>
+      <sp who="#les villageois">
+        <speaker>LES VILLAGEOIS:</speaker>
+        <l>L’ennemi s’avance,</l>
+      </sp>
+      <stage>(Ils descendent tous)</stage>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>Allons, madame!</l>
+      </sp>
+      <sp who="#les villageois">
+        <speaker>LES VILLAGEOIS:</speaker>
+        <l>L’ennemi s’avance,</l>
+        <l>amis, armons-nous, qu’importe la vie</l>
+        <l>Au prix de 1′ honneur!</l>
+      </sp>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>Marquise, remettez-vous!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Se voir ainsi surprise!</l>
+        <l>Hélas! C’est pire que la mort!</l>
+      </sp>
+      <sp who="#femmes">
+        <speaker>FEMMES:</speaker>
+        <l>Vierge Marie!</l>
+      </sp>
+      <sp who="#tous">
+        <speaker>TOUS:</speaker>
+        <l>Sainte Madone!</l>
+        <l>Douce patronne!</l>
+        <l>A tes genoux,</l>
+        <l>Chacun te prie!</l>
+        <l>Vierge Marie,</l>
+        <l>Protège-nous!</l>
+        <l>Sainte Madone</l>
+        <l>Protège-nous!</l>
+      </sp>
+      <sp who="#un paysan">
+        <speaker>UN PAYSAN:</speaker>
+        <l>(Sur la montagne)</l>
+        <l>Les Français quittent la montagne,..</l>
+        <l>Nous sommes sauvés, mes amis!</l>
+      </sp>
+      <stage>UN PAYSAN(Sur la montagne)Les Français quittent la montagne,..Nous sommes sauvés, mes amis!</stage>
+      <sp who="#les villageois">
+        <speaker>LES VILLAGEOIS:</speaker>
+        <l>Ah! quel bonheur,</l>
+        <l>Quelle bonne nouvelle</l>
+        <l>Tonio d’apporter ici.</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Pour une femme de mon nom.,</l>
+        <l>Quel temps, hélas! Le temps de guerre!</l>
+        <l>Aux grandeurs on ne pense guère…</l>
+        <l>Rien n’est sacré pour le canon!</l>
+        <l>Aussi, vraiment, je vis à peine…</l>
+        <l>Je dépéris, je le sens bien…</l>
+        <l>Jusqu’aux vapeurs, et la migraine,</l>
+        <l>Les ennemis, hélas!</l>
+        <l>Les ennemis ne respectent rien!</l>
+      </sp>
+      <sp who="#les villageois">
+        <speaker>LES VILLAGEOIS:</speaker>
+        <l>Ne respectent rien!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Les Français, chacun me l’assure,</l>
+        <l>Sont une troupe de brigands…</l>
+        <l>Pour peu qu’on ait de la figure</l>
+        <l>Ils deviennent entreprenants, les brigands.</l>
+        <l>Aussi, je frémis quand j’y pense!</l>
+        <l>Mon sort je le connais trop bien…</l>
+        <l>La beauté, les moeurs, l’innocence…</l>
+        <l>Ces gens-là ne respectent rien!</l>
+        <l>Les brigands de Français ne respectent rien!</l>
+      </sp>
+      <sp who="#tous">
+        <speaker>TOUS:</speaker>
+        <l>Les brigands de Français ne respectent rien!</l>
+        <l>Non, rien!</l>
+      </sp>
+      <sp who="#paysan">
+        <speaker>PAYSAN:</speaker>
+        <l>Les voilà loin; que votre frayeur cesse!</l>
+      </sp>
+      <sp who="#hortensius, les villageois">
+        <speaker>HORTENSIUS, LES VILLAGEOIS:</speaker>
+        <l>Ils sont partis!</l>
+      </sp>
+      <sp who="#les villageois">
+        <speaker>LES VILLAGEOIS:</speaker>
+        <l>Quelle allégresse!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Puisent-ils ne plus revenir!</l>
+      </sp>
+      <sp who="#tous">
+        <speaker>TOUS:</speaker>
+        <l>Allons, plus d’alarmes!</l>
+        <l>Vive le plaisir!</l>
+        <l>Le sort de leurs armes</l>
+        <l>Bientôt va pâlir.</l>
+        <l>De la paix chérie</l>
+        <l>Goûtons les douceurs;</l>
+        <l>Enfin la patrie</l>
+        <l>Va naître au bonheur!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Merci, mes aïeux!</l>
+        <l>L’honneur est sauf!</l>
+        <l>Oh! merci, mes aïeux!</l>
+        <l>Enfin la patrie</l>
+        <l>Va naître au bonheur!</l>
+        <l>Allons, plus d’alarmes!</l>
+        <l>Puisent-ils ne plus revenir!</l>
+        <l>Jamais, jamais, jamais!</l>
+      </sp>
+      <sp who="#tous">
+        <speaker>TOUS:</speaker>
+        <l>La, la, la, la.</l>
+        <l>Allons, plus d’alarmes!</l>
+        <l>Vive le plaisir!</l>
+        <l>Enfin la patrie va naître au bonheur!</l>
+        <l>Pour nous, plus d’alarmes!</l>
+      </sp>
+      <stage>ParléLA MARQUISE(Aux villageois)Mes chers amis, ne m’abandonnez pas.J’ai les nerfs dans un état…Ces terribles soldats!</stage>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>Je suis là pur vous défendre, madame!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Pfui! Allez!</l>
+        <l>Assurez-vous s’il n’y a plus de danger…</l>
+        <l>Je vous attends. Et surtout,</l>
+        <l>veillez bien sur ma voiture, mon or,</l>
+        <l>mes bijoux….</l>
+      </sp>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>Oui, madame la marquise!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Aux villageois)</l>
+        <l>Mes amis, je ne vous quitte pas…</l>
+        <l>Je vous confie mon honneur.</l>
+      </sp>
+      <stage>LA MARQUISE(Aux villageois)Mes amis, je ne vous quitte pas…Je vous confie mon honneur.</stage>
+      <stage>(Apparaît Sulpice, un vieux sergentrobuste et bourru de l’armée française.Les femmes se dispersent en hurlant ,tandis que les hommes se sauventeux et que la marquise s’engouffreen criant dans la chaumière)</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(Aux femmes)</l>
+        <l>Sacré non d’une pipe!</l>
+        <l>Quelles jambes ont-ils, ces gaillards-là!</l>
+        <l>Voyez donc ces trembleurs!</l>
+        <l>Nous leur appertons la paix,</l>
+        <l>ils devraient le savoir.</l>
+        <l>La proclamation est plus claire que le jour.</l>
+        <l>Nous protégeons les hommes quand il vont au pas.</l>
+        <l>Et toutes les femmes, quand elles sont jolies.</l>
+      </sp>
+      <stage>SULPICE(Aux femmes)Sacré non d’une pipe!Quelles jambes ont-ils, ces gaillards-là!Voyez donc ces trembleurs!Nous leur appertons la paix,ils devraient le savoir.La proclamation est plus claire que le jour.Nous protégeons les hommes quand il vont au pas.Et toutes les femmes, quand elles sont jolies.</stage>
+      <stage>(Les quelques femmes qui n’avaient pas bougése dispersent en hurlant)</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Approchant)</l>
+        <l>La, la, la, la, la.</l>
+      </sp>
+      <stage>MARIE(Approchant)La, la, la, la, la.</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(A voir arriver a Marie)</l>
+        <l>Mais, qui vient! tiens, Marie,</l>
+        <l>notre fille, et l’honneur et la gloire,</l>
+        <l>la perle du Vingt-unième!</l>
+        <l>Musique</l>
+        <l>Duetto</l>
+        <l>La voilà! La voilà…</l>
+        <l>Mordieu, qu’elle est gentille!</l>
+        <l>Est-il heureux. le régiment</l>
+        <l>Qui possède une telle fille!</l>
+      </sp>
+      <stage>SULPICE(A voir arriver a Marie)Mais, qui vient! tiens, Marie,notre fille, et l’honneur et la gloire,la perle du Vingt-unième!MusiqueDuettoLa voilà! La voilà…Mordieu, qu’elle est gentille!Est-il heureux. le régimentQui possède une telle fille!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Émouvée)</l>
+        <l>Mon régiment, j’en suis fière vraiment!</l>
+        <l>C’est lui dont l’amitié sincère</l>
+        <l>a veillé sur mes jeunes ans…</l>
+      </sp>
+      <stage>MARIE(Émouvée)Mon régiment, j’en suis fière vraiment!C’est lui dont l’amitié sincèrea veillé sur mes jeunes ans…</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>N’est-ce pas?</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>C’est lui seul qui m’a servi de père,</l>
+        <l>De famille, et de parents.</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(Avec joie)</l>
+        <l>N’est-ce pas?</l>
+      </sp>
+      <stage>SULPICE(Avec joie)N’est-ce pas?</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Aussi, sans flatterie,</l>
+        <l>Je crois que je lui fais honneur!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(La montrant)</l>
+        <l>Oui, comme un ange, elle est jolie!</l>
+      </sp>
+      <stage>SULPICE(La montrant)Oui, comme un ange, elle est jolie!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Avec énergie)</l>
+        <l>Et comme un soldat j’ai du coeur!</l>
+        <l>Au bruit de la guerre</l>
+        <l>J’ai reçu le jour.</l>
+        <l>A tout je préfère</l>
+        <l>Le son du tambour.</l>
+        <l>Sans crainte, à la gloire</l>
+        <l>Je marche soudain…</l>
+        <l>Patrie et victoire,</l>
+        <l>Voilà mon refrain!</l>
+      </sp>
+      <stage>MARIE(Avec énergie)Et comme un soldat j’ai du coeur!Au bruit de la guerreJ’ai reçu le jour.A tout je préfèreLe son du tambour.Sans crainte, à la gloireJe marche soudain…Patrie et victoire,Voilà mon refrain!</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(Avec orgueil)</l>
+        <l>C’est pourtant moi,</l>
+        <l>Je le confesse,</l>
+        <l>Qui l’élevai comme cela.</l>
+        <l>Jamais, jamais une duchesse,</l>
+        <l>Jamais n’aurait de ces manières-là!</l>
+      </sp>
+      <stage>SULPICE(Avec orgueil)C’est pourtant moi,Je le confesse,Qui l’élevai comme cela.Jamais, jamais une duchesse,Jamais n’aurait de ces manières-là!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Ah!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Jamais, jamais, jamais!</l>
+      </sp>
+      <sp who="#marie, sulpice">
+        <speaker>MARIE, SULPICE:</speaker>
+        <l>Au bruit de le guerre</l>
+        <l>J’ai/elle a reçu le jour,</l>
+        <l>A tout je/elle son coeur préfère</l>
+        <l>Le son du tambour.</l>
+        <l>Sans crainte à la gloire</l>
+        <l>Je/elle marche soudain…</l>
+        <l>Patrie et victoire,</l>
+        <l>Voilà mon/son refrain.</l>
+        <l>Patrie, victoire…</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>… voilà…</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Qu’elle est jolie!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>… voilà mon refrain!</l>
+      </sp>
+      <sp who="#les deux">
+        <speaker>LES DEUX:</speaker>
+        <l>Patrie, victoire, victoire…</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>…ah! son refrain le voilà!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Voilà, voilà mon refrain!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(À Marie)</l>
+        <l>Quel beau jour, quand la providence,</l>
+        <l>Enfant, te jeta dans mes bras;</l>
+        <l>Quand tes cris rompaient le silence</l>
+        <l>De nos camps ou de nos bivouacs!</l>
+      </sp>
+      <stage>SULPICE(À Marie)Quel beau jour, quand la providence,Enfant, te jeta dans mes bras;Quand tes cris rompaient le silenceDe nos camps ou de nos bivouacs!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Chacun de vous, en tendre père,</l>
+        <l>Sur son dos me portait gaiement!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Quel beau jour!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Et j’avais, fille militaire,</l>
+        <l>Pour berceau votre fourniment!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Où tu dormais paisiblement…</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Où je dormais complètement</l>
+      </sp>
+      <sp who="#les deux">
+        <speaker>LES DEUX:</speaker>
+        <l>…au doux bruit du tambour battant!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Mais, maintenant que je suis grande,</l>
+        <l>Comme on a la main au bonnet!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>C’est la consigne… on recommande</l>
+        <l>A tous les pères, le respect!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Aux jours de fête ou de ravage</l>
+        <l>On me trouve au champ d’honneur!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Aux blessés rendant le courage</l>
+        <l>Ou serrant la main du vainqueur!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Et puis le soir, à la cantine,</l>
+        <l>Qui vous égaie par son chant?</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Qui nous excite et nous lutine?</l>
+        <l>Crédié, c’est encore notre enfant!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Puis, au régiment, voulant faire</l>
+        <l>Une preuve de capacité.</l>
+        <l>On m’a fait passer vivandière.</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Nommée à l’unanimité!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Morbleu!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Vivandière, nommée a l’unanimité!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Avec énergie)</l>
+        <l>Oui, je le crois, à la bataille</l>
+        <l>S’il le fallait, je marcherais!</l>
+      </sp>
+      <stage>MARIE(Avec énergie)Oui, je le crois, à la batailleS’il le fallait, je marcherais!</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(Avec admiration)</l>
+        <l>Elle marcherait!</l>
+      </sp>
+      <stage>SULPICE(Avec admiration)Elle marcherait!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Oui, je braverais la mitraille,</l>
+        <l>Et comme vous je me battrais!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Elle se battrait!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>On dit que l’on tient de son père;</l>
+        <l>Je tiens du mien!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Oui, elle tient du sien!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Je marcherais!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Elle marcherait!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Je me battrais.</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Elle se battrait.</l>
+      </sp>
+      <sp who="#les deux">
+        <speaker>LES DEUX:</speaker>
+        <l>En avant!</l>
+        <l>C’est le cri du régiment.</l>
+        <l>En avant! en avant!</l>
+      </sp>
+      <sp who="#marie, sulpice">
+        <speaker>MARIE, SULPICE:</speaker>
+        <l>A bruit de la guerre,</l>
+        <l>J’ai reçu le jour,</l>
+        <l>A tout, je préfère</l>
+        <l>Le son du tambour.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Rataplan, rataplan, plan, plan, plan</l>
+      </sp>
+      <sp who="#les deux">
+        <speaker>LES DEUX:</speaker>
+        <l>Rataplan…</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Rataplan, rataplan…</l>
+        <l>Oh! Mon Dieu, comme elle se battrait!</l>
+        <l>Victoire et patrie,</l>
+        <l>voilà son refrain!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Rataplan, rataplan…</l>
+        <l>Rataplan march’! Rataplan…</l>
+        <l>Voilà mon refrain!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Vivandière du régiment!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Présent! March”! March’!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Rataplan rataplan…</l>
+        <l>Rataplan rataplan!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Sergent du régiment!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Présent!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>En avant rataplan!</l>
+        <l>Voilà mon refrain,</l>
+        <l>patrie et victoire,…</l>
+        <l>Voilà!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>En avant rataplan.</l>
+        <l>Oh! Mon Dieu comme elle se battrait!</l>
+        <l>Victoire et patrie,</l>
+        <l>voilà son refrain!</l>
+        <l>Rataplan…</l>
+        <l>Patrie, victoire!</l>
+      </sp>
+      <stage>ParléMARIE(Riant)Bonjour, mon père!</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Maintenant, Marie, j’ai à te parler.</l>
+        <l>Tes camarades racontent que tu sembles</l>
+        <l>les éviter et ils ont vu quelqu’un parler</l>
+        <l>souvent avec toi.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Eh, bien! c’était un jeune homme</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(Ennui)</l>
+        <l>Hein?</l>
+      </sp>
+      <stage>SULPICE(Ennui)Hein?</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>… un Tyrolien…</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(Encore plus ennui)</l>
+        <l>Hein?</l>
+      </sp>
+      <stage>SULPICE(Encore plus ennui)Hein?</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>…qui m’a sauvée la vie!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Qui t’a sauvé la vie? et comment?</l>
+      </sp>
+      <stage>(Ils sont interrompuspar un groupede soldats au milieu duquel marche Tonio)</stage>
+      <stage>MusiqueChoeur et CoupletLES SOLDATS(poussant Tonio)Allons, allons, march’, march’,Marche a l’instant!Tu rôdais près de notre camp!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(apercevant Tonio, à part)</l>
+        <l>Qu’ai-je vu, grand Dieu!</l>
+        <l>le voici!</l>
+      </sp>
+      <stage>MARIE(apercevant Tonio, à part)Qu’ai-je vu, grand Dieu!le voici!</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Qu’on l’entraîne!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Aux soldats)</l>
+        <l>Arrêtez!</l>
+      </sp>
+      <stage>MARIE(Aux soldats)Arrêtez!</stage>
+      <stage>(Balbutiant, étourdi,bas à Sulpice)</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(A Marie)</l>
+        <l>Eh quoi! c’est l’étranger qui t’aime!</l>
+      </sp>
+      <stage>SULPICE(A Marie)Eh quoi! c’est l’étranger qui t’aime!</stage>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>(à part, regardant Marie)</l>
+        <l>Ah! pour man coeur quel trouble extrême!</l>
+      </sp>
+      <stage>TONIO(à part, regardant Marie)Ah! pour man coeur quel trouble extrême!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Bas, à Tonio)</l>
+        <l>Qui vous amène parmi nous?</l>
+      </sp>
+      <stage>MARIE(Bas, à Tonio)Qui vous amène parmi nous?</stage>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>(bas, à Marie)</l>
+        <l>Puis-je chercher d’autre que vous!</l>
+      </sp>
+      <stage>TONIO(bas, à Marie)Puis-je chercher d’autre que vous!</stage>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>(Entourant Tonio)</l>
+        <l>C’est un traître</l>
+        <l>Qui, peut-être,</l>
+        <l>Vient connaître</l>
+        <l>Nos secrets.</l>
+        <l>Qu’il périsse!</l>
+        <l>La justice</l>
+        <l>Est propice</l>
+        <l>Aux Français!</l>
+      </sp>
+      <stage>SOLDATS(Entourant Tonio)C’est un traîtreQui, peut-être,Vient connaîtreNos secrets.Qu’il périsse!La justiceEst propiceAux Français!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Se précipitant au milieu d’eux)</l>
+        <l>Un instant, mes amis…</l>
+      </sp>
+      <stage>MARIE(Se précipitant au milieu d’eux)Un instant, mes amis…</stage>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>C’est un traître!…</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>…un instant, je vous en prie…</l>
+        <l>…mes amis, je vous en prie,</l>
+        <l>Mes amis!</l>
+      </sp>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>C’est un traître!</l>
+        <l>Qu’il périsse!</l>
+        <l>La justice soit propice..</l>
+        <l>…aux Français….</l>
+        <l>C’est un traître!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Indiquant Tonio)</l>
+        <l>Quoi! la mort à celui qui m’a sauvé la vie!</l>
+      </sp>
+      <stage>MARIE(Indiquant Tonio)Quoi! la mort à celui qui m’a sauvé la vie!</stage>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>Que dit-elle?</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Oui, c’est vrai!</l>
+      </sp>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>Ce mot change son sort.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Un soir, au fond d’un précipice,</l>
+        <l>J’allais tomber sans son secours</l>
+        <l>il m’a sauvée en exposant ses jours.</l>
+        <l>(Avec énergie)</l>
+        <l>Vouiez-vous encore qu’il périsse?</l>
+      </sp>
+      <stage>MARIEUn soir, au fond d’un précipice,J’allais tomber sans son secoursil m’a sauvée en exposant ses jours.(Avec énergie)Vouiez-vous encore qu’il périsse?</stage>
+      <sp who="#sulpice, soldats">
+        <speaker>SULPICE, SOLDATS:</speaker>
+        <l>Non, vraiment, non, vraiment!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>S’il est ainsi,</l>
+        <l>le camarade est notre ami!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>(à part)</l>
+        <l>Je le veux bien.!</l>
+        <l>(Tendant la main aux soldats)</l>
+        <l>Car de cette manière,</l>
+        <l>Je puis me rapprocher</l>
+        <l>de celle qui m’est chère.</l>
+      </sp>
+      <stage>TONIO(à part)Je le veux bien.!(Tendant la main aux soldats)Car de cette manière,Je puis me rapprocherde celle qui m’est chère.</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Allons, allons, pour fêter le sauveur</l>
+        <l>De notre enfant, de notre fille,</l>
+        <l>Buvons tous, trinquons a son libérateur!</l>
+      </sp>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>Trinquons à son libérateur!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Un tour de rhum: c’est fête de famille!</l>
+      </sp>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>C’est fête de famille!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Trinquons à la Bavière,</l>
+        <l>qui va devenir ton pays!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>(Avec force)</l>
+        <l>Jamais! jamais! plutôt briser mon verre</l>
+      </sp>
+      <stage>TONIO(Avec force)Jamais! jamais! plutôt briser mon verre</stage>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>Que dit-il?</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>À la France, à mes nouveaux amis!</l>
+      </sp>
+      <sp who="#sulpice, soldats">
+        <speaker>SULPICE, SOLDATS:</speaker>
+        <l>À la France, à tes nouveaux amis!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(A Marie)</l>
+        <l>Pour que la fête soit complète,</l>
+        <l>Tu vas nous dire, mon enfant,</l>
+        <l>Notre ronde du régiment.</l>
+      </sp>
+      <stage>SULPICE(A Marie)Pour que la fête soit complète,Tu vas nous dire, mon enfant,Notre ronde du régiment.</stage>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>Écoutons, écoutons,</l>
+        <l>Le chant du régiment!</l>
+      </sp>
+      <stage>CoupletMARIEChacun le sait, chacun le dit,Le régiment par excellence,Le seul à qui l’on fasse créditDans tous les cabarets de France…Le régiment, en tous pays,L’effroi des amants, des maris…Mais de la beauté bien suprême!Il est là, il est là, il est là, morbleu!Le voilà le voilà, le voilà, corbleu!Il est là, ah!Le beau Vingt-unième!</stage>
+      <sp who="#tonio, sulpice, soldats">
+        <speaker>TONIO, SULPICE, SOLDATS:</speaker>
+        <l>Le voilà, le voilà, le voilà, morbleu!</l>
+        <l>Il est là, il est là, il est là, corbleu!</l>
+        <l>Le voilà, le voilà, le voilà</l>
+        <l>le beau Vingt-unième!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Vive le Vingt-unième!</l>
+      </sp>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>Le Vingt-unième!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Silence, silence.!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Il a gagné tant de combats,</l>
+        <l>Que notre empereur, on le pense,</l>
+        <l>fera chacun de ses soldats,</l>
+        <l>à la paix, maréchal de France!</l>
+        <l>Car, c’est connu… le régiment</l>
+        <l>le plus vainqueur,</l>
+        <l>le plus charmant,</l>
+        <l>Qu’un sexe craint, et que l’autre aime</l>
+        <l>il est là, il est là, il est là,</l>
+        <l>(Avec les soldats)</l>
+        <l>morbleu!</l>
+        <l>(Seule)</l>
+        <l>Le voilà, le voilà, le voilà,</l>
+        <l>(Avec les soldats)</l>
+        <l>corbleu!</l>
+        <l>(Seule)</l>
+        <l>Il est Là, il est Là, le voilà,</l>
+        <l>Le beau Vingt-unième!</l>
+        <l>Le beau Vingt-unième!</l>
+      </sp>
+      <stage>MARIEIl a gagné tant de combats,Que notre empereur, on le pense,fera chacun de ses soldats,à la paix, maréchal de France!Car, c’est connu… le régimentle plus vainqueur,le plus charmant,Qu’un sexe craint, et que l’autre aimeil est là, il est là, il est là,(Avec les soldats)morbleu!(Seule)Le voilà, le voilà, le voilà,(Avec les soldats)corbleu!(Seule)Il est Là, il est Là, le voilà,Le beau Vingt-unième!Le beau Vingt-unième!</stage>
+      <sp who="#tonio, sulpice, soldats">
+        <speaker>TONIO, SULPICE, SOLDATS:</speaker>
+        <l>Le voilà, le voilà, le voilà, morbleu!</l>
+        <l>Il est Là, il est là, il est là corbleu!</l>
+        <l>Le voilà, le voilà, le voilà,</l>
+        <l>Le beau Vingt-unième!</l>
+      </sp>
+      <sp who="#tous">
+        <speaker>TOUS:</speaker>
+        <l>Le beau Vingt-unième!</l>
+        <l>Le voilà, le voilà, …</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Vive le Vingt-unième!</l>
+      </sp>
+      <sp who="#tonio, sulpice, soldats">
+        <speaker>TONIO, SULPICE, SOLDATS:</speaker>
+        <l>Vive! vive!</l>
+      </sp>
+      <stage>(On entend un roulement de tambours)</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(Aux soldats)</l>
+        <l>C’est l’instant de l’appel! en avant!</l>
+        <l>Et ne plaisentons pus avec le règlement.</l>
+        <l>(À Tonio)</l>
+        <l>Toi, garçon, hors d’ici.</l>
+      </sp>
+      <stage>SULPICE(Aux soldats)C’est l’instant de l’appel! en avant!Et ne plaisentons pus avec le règlement.(À Tonio)Toi, garçon, hors d’ici.</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Il est mon prisonnier et je réponds de lui</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(se mettant entre eux)</l>
+        <l>Moi, je n’en réponds pas….</l>
+        <l>Allons, suis-les, l’ami!</l>
+      </sp>
+      <stage>SULPICE(se mettant entre eux)Moi, je n’en réponds pas….Allons, suis-les, l’ami!</stage>
+      <sp who="#sulpice, soldats">
+        <speaker>SULPICE, SOLDATS:</speaker>
+        <l>Dès que l’appel sonne</l>
+        <l>l’on doit obéir.</l>
+        <l>Le tambour résonne,</l>
+        <l>vite, il but courir.</l>
+        <l>Mais, en temps de guerre,</l>
+        <l>narguons le chagrin.</l>
+        <l>Nous ne sommes guère</l>
+        <l>Sûrs du lendemain!</l>
+        <l>Il faut courir, il faut courir!</l>
+      </sp>
+      <stage>Parlé sur la musiqueSULPICE(À Marie)Viens-tu avec nous, Marie?(Marie fait un signe de tête pour dire non)Tu boudes?(Marie fait un signe de tête pour dire si)A tan aise, ma fille!(En sortant)Ah! quel mauvais caractère!(Sulpice et les soldats sortent avec Tonio)</stage>
+      <stage>ParléMARIE(Seule)Ils m’ont emmené brutalement…Et moi qui voulais lui parler…Pauvre garçon, pur me voir un instant,Il a risqué la mort,(Apercevant Tonio qui descend la montagne)Oh, ciel!</stage>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>(Accourant)</l>
+        <l>Me voilà, mamzelle.</l>
+      </sp>
+      <stage>TONIO(Accourant)Me voilà, mamzelle.</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Comment? c’est vous?</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Ils ont cru que je les suivais</l>
+        <l>Et je le leur ai fait croire.</l>
+        <l>Au premier contour</l>
+        <l>Je me suis envolé,</l>
+        <l>Le sergent a hurlé comme un fou.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Mon père!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Non, certes, non! Cet autre…</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>C’est mon père!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Mais non!, Le vieux.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>C’est aussi mon père.</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Ah, mais Marie, voyons donc un instant</l>
+        <l>avez vous donc pour père tout un régiment?</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>C’est juste.</l>
+        <l>Le régiment est mon père adoptif.</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Ah! dans ce cas, cela nous change</l>
+        <l>nos bien des choses.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Mais pourquoi? après m’avoir quittée</l>
+        <l>m’avez vous suivie?</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Parce que je vous aime.</l>
+      </sp>
+      <stage>MusiqueDuettoMARIEQuoi! vous m’aimez!</stage>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Si je vous aime!</l>
+        <l>Écoutez! écoutez! et jugez vous même.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Souriant)</l>
+        <l>Voyons, écoutons!</l>
+        <l>Écoutons et jugeons!</l>
+      </sp>
+      <stage>MARIE(Souriant)Voyons, écoutons!Écoutons et jugeons!</stage>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Depuis l’instant ou, dans mes bras,</l>
+        <l>Je vous reçus toute tremblante,</l>
+        <l>Votre image douce et charmante</l>
+        <l>Nuit et jour, s’attache à mes pas.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Mais, monsieur, c’est de la mémoire,</l>
+        <l>Et voilà tout.</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Attendez.. attendez..</l>
+        <l>Vous n’êtes pas au bout!</l>
+        <l>A mes aveux vous pouvez croire!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Voyons, écoutons!</l>
+        <l>Écoutons et jugeons!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Le beau pays de man enfance,</l>
+        <l>Les amis que je chérissais…</l>
+        <l>Ah! pour vous, je le sens d’avance,</l>
+        <l>Sans peine je les quitterais!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Avec malice)</l>
+        <l>Mais une talle indifférence</l>
+        <l>Est bien coupable, assurément!</l>
+      </sp>
+      <stage>MARIE(Avec malice)Mais une talle indifférenceEst bien coupable, assurément!</stage>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Et puis enfin, de votre absence,</l>
+        <l>Ne peuvent vaincre le tourment,</l>
+        <l>J’ai bravé jusque dans ce camp</l>
+        <l>Le coup d’une balle ennemie.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Quand on aime les gens pour eux, monsieur,</l>
+        <l>L’on conserve son existence.</l>
+        <l>Entendez-vous, monsieur?</l>
+        <l>De cet aveu si tendre,</l>
+        <l>Non, mon coeur, en ce jour,</l>
+        <l>Ne sait pas se défendre,</l>
+        <l>Non, car c’est de l’amour!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>A cet aveu si tendre,</l>
+        <l>Non, son coeur en ce jour.</l>
+        <l>Ne peut pas se défendre,</l>
+        <l>De croire a mon amour!</l>
+        <l>Vous voyez bien que je vous aime!</l>
+        <l>Mais j’aime seul…</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Jugez vous-même!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Voyons, écoutons!</l>
+        <l>Écoutons et jugeons!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Longtemps coquette, heureuse et vive,</l>
+        <l>je riais d’un adorateur…</l>
+        <l>Maintenant mon âme pensive</l>
+        <l>Sent qu’il est un autre bonheur!</l>
+        <l>J’aimais la guerre,</l>
+        <l>Je détestais nos ennemis.</l>
+        <l>Mais, à présent, je suis sincère,</l>
+        <l>(Regardant à Tonio)</l>
+        <l>Pour l’un d’eux, hélas! je frémis!</l>
+        <l>Et du jour plein d’alarmes,</l>
+        <l>Où ranimant mes sens au parfum</l>
+        <l>d’un fleur,</l>
+        <l>Je la sentis humide de vos larmes,</l>
+        <l>(On la montre)</l>
+        <l>La douce fleur, trésor rempli de charmes,</l>
+        <l>Depuis ce jour</l>
+        <l>n’a pas quitté man coeur,</l>
+        <l>Jugez vous-même!</l>
+      </sp>
+      <stage>MARIELongtemps coquette, heureuse et vive,je riais d’un adorateur…Maintenant mon âme pensiveSent qu’il est un autre bonheur!J’aimais la guerre,Je détestais nos ennemis.Mais, à présent, je suis sincère,(Regardant à Tonio)Pour l’un d’eux, hélas! je frémis!Et du jour plein d’alarmes,Où ranimant mes sens au parfumd’un fleur,Je la sentis humide de vos larmes,(On la montre)La douce fleur, trésor rempli de charmes,Depuis ce journ’a pas quitté man coeur,Jugez vous-même!</stage>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Marie!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Ah! De cet aveu si tendre..</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>A cet aveu si tendre…</l>
+        <l>Je t’aime, Marie,</l>
+        <l>je t’aime et pour toujours,</l>
+        <l>Plutôt perdre la vie</l>
+        <l>Que perdre nos amours.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Sur le coeur de Marie,</l>
+        <l>Tonio compte toujours!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Oui, je t’aime, Marie,</l>
+        <l>Je t’aime et pour toujours!</l>
+        <l>Plutôt…</l>
+      </sp>
+      <sp who="#les deux">
+        <speaker>LES DEUX:</speaker>
+        <l>…perdre la vie</l>
+        <l>Que perdre nos amours…</l>
+      </sp>
+      <stage>Parlé(Sulpice arrive, les surprenant aumoment où Tonio embrasse Marie)</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Ah! mille z’yeux!</l>
+        <l>Encore le tyrolien!</l>
+      </sp>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>(Entre, accompagnant la marquise.</l>
+        <l>Il lui montre Sulpice)</l>
+        <l>Voilà l’officier français en question.</l>
+        <l>N’ayez pas peur… Il est fort laid,</l>
+        <l>mais très aimable!</l>
+      </sp>
+      <stage>HORTENSIUS(Entre, accompagnant la marquise.Il lui montre Sulpice)Voilà l’officier français en question.N’ayez pas peur… Il est fort laid,mais très aimable!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Tremblant)</l>
+        <l>Rien que l’habit me fait mal aux nerfs!</l>
+      </sp>
+      <stage>LA MARQUISE(Tremblant)Rien que l’habit me fait mal aux nerfs!</stage>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>(à Sulpice, présentant la marquise)</l>
+        <l>C’est madame la marquise</l>
+        <l>qui demande vous parler.</l>
+      </sp>
+      <stage>HORTENSIUS(à Sulpice, présentant la marquise)C’est madame la marquisequi demande vous parler.</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Corbleu la belle plante!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(À Sulpice)</l>
+        <l>Oui, monsieur le capitaine…</l>
+      </sp>
+      <stage>LA MARQUISE(À Sulpice)Oui, monsieur le capitaine…</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(Flatté par ce titre)</l>
+        <l>Merci!</l>
+        <l>(À part)</l>
+        <l>Elle me fait monter en garde.</l>
+      </sp>
+      <stage>SULPICE(Flatté par ce titre)Merci!(À part)Elle me fait monter en garde.</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Disant directement ses désirs)</l>
+        <l>Monsieur le capitaine,</l>
+        <l>J’ai pensé que vous accepteriez de</l>
+        <l>me faire protéger</l>
+        <l>Jusqu’à mon château.</l>
+        <l>Il n’est d’ailleurs pas loin: de</l>
+        <l>cette montagne, on peut apercevoir les tours</l>
+        <l>de Berkenfield.</l>
+      </sp>
+      <stage>LA MARQUISE(Disant directement ses désirs)Monsieur le capitaine,J’ai pensé que vous accepteriez deme faire protégerJusqu’à mon château.Il n’est d’ailleurs pas loin: decette montagne, on peut apercevoir les toursde Berkenfield.</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(surpris par un pensée)</l>
+        <l>Votre château,</l>
+        <l>vous le nommez?</l>
+      </sp>
+      <stage>SULPICE(surpris par un pensée)Votre château,vous le nommez?</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Hé! mais du même nom. que moi: Berkenfield</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(À la Marquise)</l>
+        <l>Vous! Sacrebleu! il se pourrait…</l>
+        <l>Quel rapport</l>
+        <l>entre ce nom-là et celui du Robert?</l>
+      </sp>
+      <stage>SULPICE(À la Marquise)Vous! Sacrebleu! il se pourrait…Quel rapportentre ce nom-là et celui du Robert?</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Surprise)</l>
+        <l>Plaît-il? Le capitaine Robert?</l>
+      </sp>
+      <stage>LA MARQUISE(Surprise)Plaît-il? Le capitaine Robert?</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Un français!…Vous avez connu?</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Beaucoup, monsieur!</l>
+        <l>(Se reprenant)</l>
+        <l>C’est-à-dire, non pas moi,</l>
+        <l>mais une personne de ma famille…</l>
+        <l>ma soeur</l>
+        <l>Oui, monsieur, c’était ma soeur!</l>
+      </sp>
+      <stage>LA MARQUISEBeaucoup, monsieur!(Se reprenant)C’est-à-dire, non pas moi,mais une personne de ma famille…ma soeurOui, monsieur, c’était ma soeur!</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Et cette soeur?</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Elle n’existe plus! Mais de ce mariage</l>
+        <l>avec ce français, naquit un enfant…</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Une fille!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Comment savez-vous?</l>
+        <l>En effet, une pauvre enfant que le capitaine</l>
+        <l>m’adressait avant de mourir…</l>
+        <l>Mais le vieux serviteur</l>
+        <l>à qui elle fut confiée y perdit la vie,</l>
+        <l>Et la seule héritière de ma fortune</l>
+        <l>et de mon nom…</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Votre nièce?</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Qui serait baronne aujourd’hui…</l>
+        <l>Perdue, abandonnée,</l>
+        <l>écrasée dans la foule,</l>
+        <l>Morte, la pauvre enfant!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Sauvée, Sauvée, madame de Berkenfield!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(À Hortensius)</l>
+        <l>Ah! man Dieu! Monsieur, soutenez-moi!</l>
+      </sp>
+      <stage>LA MARQUISE(À Hortensius)Ah! man Dieu! Monsieur, soutenez-moi!</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Mais non, madame de Berkenfield!</l>
+        <l>Sauvée, grâce à nous!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Vous la connaissez donc?</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Si je la connais!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Monsieur, rendez-moi ma nièce,</l>
+        <l>car vous avez la preuve, n’est-ce pas?</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Certainement, madame.</l>
+        <l>Cette lettre moi je n’ai pas pu la lire.</l>
+        <l>LA MARQUISE</l>
+        <l>Comment?</l>
+        <l>Vous ne savez pas lire?</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Non, madame, je ne sois pas lire.</l>
+        <l>Mais je sois écrire, c’est bien plus difficile.</l>
+        <l>Les autres, les savants, prétendent qu’avec cette lettre personne</l>
+        <l>ne doutera de ce qu’est notre Marie.</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Marie? Elle est loin d’ici?</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>A deux pas.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(paraissant au fond)</l>
+        <l>Corbleu!Qui est donc cette dame?</l>
+      </sp>
+      <stage>MARIE(paraissant au fond)Corbleu!Qui est donc cette dame?</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Elle dit… elle dit; mon enfant…</l>
+        <l>(Il la pousse dans les bras de la marquise)</l>
+        <l>Elle dit que tu es sa nièce.</l>
+      </sp>
+      <stage>SULPICEElle dit… elle dit; mon enfant…(Il la pousse dans les bras de la marquise)Elle dit que tu es sa nièce.</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Riant)</l>
+        <l>Ma tante! Vous êtes ma tante?</l>
+        <l>Ah! Sacrebleu!</l>
+      </sp>
+      <stage>MARIE(Riant)Ma tante! Vous êtes ma tante?Ah! Sacrebleu!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Très impressionnée)</l>
+        <l>Ah! man Dieu! elle jure!</l>
+      </sp>
+      <stage>LA MARQUISE(Très impressionnée)Ah! man Dieu! elle jure!</stage>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>(À part)</l>
+        <l>Quelle éducation!</l>
+      </sp>
+      <stage>HORTENSIUS(À part)Quelle éducation!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(À la marquise)</l>
+        <l>Si vous êtes ma tante,</l>
+        <l>je vais vous présenter mon père…</l>
+        <l>Le régiment tout entier!</l>
+      </sp>
+      <stage>MARIE(À la marquise)Si vous êtes ma tante,je vais vous présenter mon père…Le régiment tout entier!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Plus tarde, plus tard…</l>
+        <l>(Bas à Hortensius)</l>
+        <l>Il faut l’enlever à ces gens-là.</l>
+      </sp>
+      <stage>LA MARQUISEPlus tarde, plus tard…(Bas à Hortensius)Il faut l’enlever à ces gens-là.</stage>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>(Bas à la marquise)</l>
+        <l>Le plus vite possible!</l>
+      </sp>
+      <stage>HORTENSIUS(Bas à la marquise)Le plus vite possible!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(À Marie)</l>
+        <l>Mademoiselle… mademoiselle Marie!</l>
+        <l>(Flattée, Marie fait des grâces)</l>
+        <l>Il faut que vous repreniez le titre</l>
+        <l>et le rang qui vous conviennent,</l>
+        <l>et vous allez me suivre à l’instant.</l>
+      </sp>
+      <stage>LA MARQUISE(À Marie)Mademoiselle… mademoiselle Marie!(Flattée, Marie fait des grâces)Il faut que vous repreniez le titreet le rang qui vous conviennent,et vous allez me suivre à l’instant.</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Vous suivre! les abandonner… C’est impossible.</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Je le désire, et, au besoin, je le veux!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Et de quel droit, madame?</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Émue)</l>
+        <l>De celui que votre malheureux père m’a donné</l>
+        <l>sur vous en mourant.. Lisez..</l>
+      </sp>
+      <stage>LA MARQUISE(Émue)De celui que votre malheureux père m’a donnésur vous en mourant.. Lisez..</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Mon père!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(ému, à Marie)</l>
+        <l>Allons! du courage…. il le faut!</l>
+        <l>(Il va au fond parler à un tambour qui paraît)</l>
+        <l>MARIE</l>
+        <l>Et bien, oui! je partirai,</l>
+        <l>mais vous viendrez tous avec moi…Tous!</l>
+      </sp>
+      <stage>SULPICE(ému, à Marie)Allons! du courage…. il le faut!(Il va au fond parler à un tambour qui paraît)MARIEEt bien, oui! je partirai,mais vous viendrez tous avec moi…Tous!</stage>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>(À part)</l>
+        <l>Miséricorde! un régiment!</l>
+      </sp>
+      <stage>HORTENSIUS(À part)Miséricorde! un régiment!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Silence! nous resterons! Hortensius, louez cette maison.</l>
+        <l>Nous resterons quelques semaines,</l>
+        <l>le temps pour vous de perdre ces manières soldatesques.</l>
+        <l>Et que je ne voie personne sous mes balcons.</l>
+        <l>Venez, ma nièce… Hâtez-vous, Hortensius!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Hâte-toi, Hortensius!</l>
+        <l>(La marquise et Marie, puis Sulpice,</l>
+        <l>entrent dans la chaumière.</l>
+        <l>Le tambour résonne.</l>
+        <l>Les soldats accourent de tous côtés)</l>
+      </sp>
+      <stage>SULPICEHâte-toi, Hortensius!(La marquise et Marie, puis Sulpice,entrent dans la chaumière.Le tambour résonne.Les soldats accourent de tous côtés)</stage>
+      <stage>MusiqueChoeurCAPORAL, SOLDATSRataplan, rataplan, plan, plan!Quand le son charmantDu tambour bruyantNous appelle au régiment,Rataplan, rataplan, rataplan,Chaque coeur à l’instantD’un doux battementÀ ce roulementFait l’accompagnement,Rataplan, plan, plan!Vive la guerre et ses alarmes!Et la victoire et ses combats!Vive la mort, quand, sous les armes,On la trouve en brave soldat!Rataplan, vive la guerre!Rataplan, vive la morte!</stage>
+      <stage>ParléLE CAPORAL(Regardant au fond)Qui nous arrive là? Eh, Eh!C’est le jeune paysan de ce matin,une nouvelle recrue, un nouveau soldat!</stage>
+      <stage>MusiqueCavatine(Tonio parait: il porte la cocarde française à son bonnet)</stage>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Ah! mes amis, quel jour de fête!</l>
+        <l>Je vais marcher sous vos drapeaux.</l>
+        <l>L’amour, qui m’a tourné la tête.</l>
+        <l>Désormais me rend un héros,</l>
+        <l>Ah! quel bonheur, oui, mes amis,</l>
+        <l>Je vais marcher sous vos drapeaux!</l>
+        <l>Qui, celle pour qui je respire,</l>
+        <l>A mes voeux a daigné sourire</l>
+        <l>Et ce doux espoir de bonheur</l>
+        <l>Trouble ma raison et man coeur! Ah!</l>
+      </sp>
+      <sp who="#le caporal">
+        <speaker>LE CAPORAL:</speaker>
+        <l>Le camarade est amoureux!</l>
+        <l>(Les soldats rient)</l>
+      </sp>
+      <stage>LE CAPORALLe camarade est amoureux!(Les soldats rient)</stage>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Et c’est vous seuls que j’espère.</l>
+      </sp>
+      <sp who="#caporal, soldats">
+        <speaker>CAPORAL, SOLDATS:</speaker>
+        <l>Quoi! c’est notre enfant que tu veux!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Écoutez-moi, écoutez-moi.</l>
+        <l>Messieurs son père, écoutez-moi,</l>
+        <l>Car je sais qu’il dépend de vous</l>
+        <l>De me rendre ici son époux.</l>
+      </sp>
+      <sp who="#caporal, soldats">
+        <speaker>CAPORAL, SOLDATS:</speaker>
+        <l>Notre fille qui nous est chère</l>
+        <l>N’est pas, n’est pas pour un ennemi.</l>
+        <l>Non! Il lui faut un meilleur parti,</l>
+        <l>Telle est la volonté d’un père.</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Vous refusez?</l>
+      </sp>
+      <sp who="#caporal, soldats">
+        <speaker>CAPORAL, SOLDATS:</speaker>
+        <l>Complètement.D’ailleurs, elle est promise…</l>
+      </sp>
+      <sp who="#le caporal">
+        <speaker>LE CAPORAL:</speaker>
+        <l>… a notre régiment…</l>
+      </sp>
+      <sp who="#les soldats">
+        <speaker>LES SOLDATS:</speaker>
+        <l>… a notre régiment…</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>(Avec force)</l>
+        <l>Mais j’en suis, puisqu’en cet instant</l>
+        <l>Je viens de m’engager, pour cela seulement!</l>
+      </sp>
+      <stage>TONIO(Avec force)Mais j’en suis, puisqu’en cet instantJe viens de m’engager, pour cela seulement!</stage>
+      <sp who="#caporal, soldats">
+        <speaker>CAPORAL, SOLDATS:</speaker>
+        <l>Tant pis pour toi!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Messieurs son père…</l>
+        <l>LES SOLDATS</l>
+        <l>Tant pis pour toi!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>… écoutez-moi!</l>
+      </sp>
+      <sp who="#caporal, soldats">
+        <speaker>CAPORAL, SOLDATS:</speaker>
+        <l>Tant pis pour toi!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Ma votre fille m’aime!</l>
+      </sp>
+      <sp who="#caporal, soldats">
+        <speaker>CAPORAL, SOLDATS:</speaker>
+        <l>(Avec surprise)</l>
+        <l>Se pourrait-il! quoi! notre enfant!</l>
+      </sp>
+      <stage>CAPORAL, SOLDATS(Avec surprise)Se pourrait-il! quoi! notre enfant!</stage>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Elle m’aime, vous dis-je, j’en fais serment!</l>
+      </sp>
+      <sp who="#caporal, soldats">
+        <speaker>CAPORAL, SOLDATS:</speaker>
+        <l>Eh! quoi… notre Marie…</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Elle m’aime, j’en fais serment!</l>
+      </sp>
+      <sp who="#caporal, soldats">
+        <speaker>CAPORAL, SOLDATS:</speaker>
+        <l>Que dire, que faire?</l>
+        <l>Puisqu’il a su plaire, Il faut, en bon père</l>
+        <l>Ici, consentir. Mais pourtant j’enrage,</l>
+        <l>Car c’est grand dommage</l>
+        <l>De l’unir avec</l>
+        <l>Un pareil blanc-bec!</l>
+        <l>Oui, c’est un grand dommage!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Eh! bien?</l>
+      </sp>
+      <sp who="#le caporal">
+        <speaker>LE CAPORAL:</speaker>
+        <l>Si tu dis vrai, son père en ce moment</l>
+        <l>Te promet son consentement</l>
+      </sp>
+      <sp who="#caporal, soldats">
+        <speaker>CAPORAL, SOLDATS:</speaker>
+        <l>Oui, te promet son consentement</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>(Enchanté)</l>
+        <l>Pour mon âme,Quel destin! J’ai sa flamme,</l>
+        <l>Et j’ai sa main! Jour prospère! Me voici</l>
+        <l>Militaire et mari!</l>
+      </sp>
+      <stage>TONIO(Enchanté)Pour mon âme,Quel destin! J’ai sa flamme,Et j’ai sa main! Jour prospère! Me voiciMilitaire et mari!</stage>
+      <sp who="#caporal, soldats">
+        <speaker>CAPORAL, SOLDATS:</speaker>
+        <l>Mais elle t’aime? elle t’aime?</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>J’en fais serment.</l>
+        <l>CAPORAL, SOLDATS</l>
+        <l>Tu dis vrai? tu dis vrai?</l>
+      </sp>
+      <stage>Musique FinaleTONIO(À Sulpice)Je suis soldat, je suis soldat,Il faut qu’on me la donne!</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(Avec bonne humeur)</l>
+        <l>Elle ne peut être à personne</l>
+        <l>Qu’à sa tante, qui va l’emmener de ces lieux!</l>
+      </sp>
+      <stage>SULPICE(Avec bonne humeur)Elle ne peut être à personneQu’à sa tante, qui va l’emmener de ces lieux!</stage>
+      <sp who="#caporal, soldats">
+        <speaker>CAPORAL, SOLDATS:</speaker>
+        <l>Emmener notre enfant,</l>
+        <l>Que dit-il donc? Grand Dieu!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>L’emmener loin de moi!</l>
+        <l>Mais c’est un rêve affreux!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Sort de la chaumière)</l>
+        <l>Il faut partir!</l>
+        <l>Romance</l>
+        <l>Il faut partir, mes bons compagnons d’armes,</l>
+        <l>Désormais, loin de vous m’enfuir!</l>
+        <l>Mais par pitié, cachez-moi bien vos larmes,</l>
+        <l>Vos regrets pour mon coeur Hélas!</l>
+        <l>ont trop de charmes! Il faut partir!</l>
+        <l>Ah! per pitié, cachez vos larmes!</l>
+        <l>Adieu, adieu! il faut partir!</l>
+      </sp>
+      <stage>MARIE(Sort de la chaumière)Il faut partir!RomanceIl faut partir, mes bons compagnons d’armes,Désormais, loin de vous m’enfuir!Mais par pitié, cachez-moi bien vos larmes,Vos regrets pour mon coeur Hélas!ont trop de charmes! Il faut partir!Ah! per pitié, cachez vos larmes!Adieu, adieu! il faut partir!</stage>
+      <sp who="#tonio, sulpice">
+        <speaker>TONIO, SULPICE:</speaker>
+        <l>(Pleurant)</l>
+        <l>Je perds, hélas! en un instant</l>
+        <l>Tout mon bonheur en la perdant.</l>
+      </sp>
+      <stage>TONIO, SULPICE(Pleurant)Je perds, hélas! en un instantTout mon bonheur en la perdant.</stage>
+      <sp who="#le caporal">
+        <speaker>LE CAPORAL:</speaker>
+        <l>Tant de chagrin, ah! c’est vraiment</l>
+        <l>Fort incroyable assurément!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Il faut partir, adieu!</l>
+        <l>Vous que, dès mon enfance,</l>
+        <l>Sans peine, j’appris à chérir.</l>
+        <l>Vous, dont j’ai partagé</l>
+        <l>Le plaisir, la souffrance!</l>
+        <l>Au lieu d’un vrai bonheur</l>
+        <l>On m’offre l’opulence! Il faut partir!</l>
+        <l>Ah! per pitié, cachez-moi votre souffrance!</l>
+        <l>Adieu, adieu! il faut partir!</l>
+        <l>Concertant</l>
+        <l>TONIO</l>
+        <l>Oh! mes amis, je vous en prie.</l>
+        <l>Ne laissez pas partir Maire…!</l>
+      </sp>
+      <stage>MARIEIl faut partir, adieu!Vous que, dès mon enfance,Sans peine, j’appris à chérir.Vous, dont j’ai partagéLe plaisir, la souffrance!Au lieu d’un vrai bonheurOn m’offre l’opulence! Il faut partir!Ah! per pitié, cachez-moi votre souffrance!Adieu, adieu! il faut partir!ConcertantTONIOOh! mes amis, je vous en prie.Ne laissez pas partir Maire…!</stage>
+      <sp who="#le caporal">
+        <speaker>LE CAPORAL:</speaker>
+        <l>Tant de chagrin, ah!, c’est vraiment…</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Je perds, hélas! ma pauvre enfant…</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Ah! il faut partir, mes amis, Il faut partir…</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Non, non, ô mes amis, je vous en supplie,</l>
+        <l>Ne laissez pas partir Marie.</l>
+      </sp>
+      <sp who="#le caporal">
+        <speaker>LE CAPORAL:</speaker>
+        <l>…fort incroyable assurément</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>…tout mon bonheur en te perdant. Hélas!</l>
+      </sp>
+      <sp who="#les soldats">
+        <speaker>LES SOLDATS:</speaker>
+        <l>Partir, non, non! Hélas!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>(À Marie)</l>
+        <l>Ah! si vous nous quittez, je vous suis…</l>
+      </sp>
+      <stage>TONIO(À Marie)Ah! si vous nous quittez, je vous suis…</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Impossible, vraiment!</l>
+        <l>N’es-tu pus engagé?</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Ah! mon Dieu, Tonio!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Chère Marie!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Ce coup manquait à mon tourment.</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Marie, Marie!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Le perdre!</l>
+        <l>quand à lui je pourrais être unie!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Marie, Marie!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Il est engagé!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Ah! ce coup manquait à mon tourment.</l>
+        <l>Ah! mon Dieu!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Pour vous, pour vous Marie.</l>
+        <l>O douleur! ô surprise!</l>
+        <l>Elle quitte ces lieux!</l>
+        <l>Au diable la marquise,</l>
+        <l>Qui l’enlève à nos voeux!</l>
+      </sp>
+      <sp who="#les soldats">
+        <speaker>LES SOLDATS:</speaker>
+        <l>O douleur! ô surprise!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Aux combats, à la guerre,</l>
+        <l>Prés de nous cette enfant</l>
+        <l>Est l’ange tutélaire</l>
+        <l>De notre régiment!</l>
+      </sp>
+      <sp who="#marie, tonio">
+        <speaker>MARIE, TONIO:</speaker>
+        <l>Ah! plus d’avenir! plus d’espérance!</l>
+        <l>Mon bonheur n’a duré qu’un jour.</l>
+        <l>Ah! que faire, hélas! de l’existence,</l>
+        <l>Quand on perd son unique amour!</l>
+        <l>SULPICE</l>
+        <l>Au diable la marquise!</l>
+      </sp>
+      <sp who="#marie, tonio">
+        <speaker>MARIE, TONIO:</speaker>
+        <l>Plus d’avenir!</l>
+      </sp>
+      <sp who="#les soldats">
+        <speaker>LES SOLDATS:</speaker>
+        <l>Au diable! au diable!</l>
+      </sp>
+      <sp who="#marie, tonio">
+        <speaker>MARIE, TONIO:</speaker>
+        <l>Plus d’espérance!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Au diable! au diable!</l>
+      </sp>
+      <sp who="#les soldats">
+        <speaker>LES SOLDATS:</speaker>
+        <l>Au diable! au diable!</l>
+      </sp>
+      <sp who="#marie, tonio">
+        <speaker>MARIE, TONIO:</speaker>
+        <l>Que faire, hélas, de l’existence…</l>
+      </sp>
+      <sp who="#les soldats">
+        <speaker>LES SOLDATS:</speaker>
+        <l>Au diable! au diable!</l>
+      </sp>
+      <sp who="#marie, tonio…">
+        <speaker>MARIE, TONIO…:</speaker>
+        <l>quand on perd son unique amour…</l>
+        <l>(La marquise sort de la chaumière)</l>
+      </sp>
+      <stage>MARIE, TONIO…quand on perd son unique amour…(La marquise sort de la chaumière)</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(À les soldats)</l>
+        <l>Mes chers amis, recevez mes adieux!</l>
+        <l>La main, Pierre!Jacques, la tienne!</l>
+        <l>Et toi, mon vieux Thomas!</l>
+      </sp>
+      <stage>MARIE(À les soldats)Mes chers amis, recevez mes adieux!La main, Pierre!Jacques, la tienne!Et toi, mon vieux Thomas!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ah! quelle horreur!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(À les soldats)</l>
+        <l>Qui tout enfant me portait dans tes bras…</l>
+      </sp>
+      <stage>MARIE(À les soldats)Qui tout enfant me portait dans tes bras…</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ma nièce…</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Embrasse-moi, Sulpice!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ah! L’horreur! quelle horreur!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>De ces braves je suis l’enfant!</l>
+      </sp>
+      <sp who="#soldats, sulpice">
+        <speaker>SOLDATS, SULPICE:</speaker>
+        <l>C’est la fille du régiment,</l>
+        <l>C’est la fille du régiment</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>A toi mon coeur, à toi, Marie!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Tonio!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Bientôt je suivrais ses pas,</l>
+        <l>Quand je devrais y trouver le trépas!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Partons, Marie!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Allons, enfant!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>A toi mon coeur.</l>
+      </sp>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>Partons, partons!</l>
+      </sp>
+      <sp who="#les soldats">
+        <speaker>LES SOLDATS:</speaker>
+        <l>Allons, allons!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>No m’oubliez pas, Tonio. Ah!</l>
+        <l>Adieu, adieu. Adieu, Tonio, adieu!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Partons, Marie, la poste attend.</l>
+        <l>Viens! partons, Marie,</l>
+        <l>Viens, ma nièce!</l>
+        <l>Viens donc, partons! Marie, partons!</l>
+      </sp>
+      <sp who="#sulpice, soldats">
+        <speaker>SULPICE, SOLDATS:</speaker>
+        <l>Allons, enfant, assez de larmes!</l>
+        <l>Pour noue fille, Portez/ portons les armes!</l>
+        <l>Au diable la marquise!</l>
+        <l>Et puis, en route à la grâce de Dieu!</l>
+        <l>Au diable la marquise,</l>
+        <l>Qui l’enlève à nos voeux! Adieu!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>A toi mon coeur, à toi ma vie,</l>
+        <l>Chère Marie, à toi mon coeur!</l>
+        <l>A toi, Marie, à toi mon coeur!</l>
+        <l>Adieu, adieu, Marie, Marie!</l>
+        <l>Mon coeur à toi, ma vie a toi!</l>
+        <l>Ah, ah, adieu!</l>
+        <l>Partons, partons, madame, partons!</l>
+      </sp>
+      <stage>(Les tambours battent aux champs.Les soldats présentent les armes à Marie,commandés par Sulpice qui s’essuie les yeux.Marie, au fond du théâtre, leur fait un signe d’adieu,en pleurant; tandis que Tonio,sur le devant de la scène, rejette sacocardeet la foule aux pieds avec désespoir)</stage>
+      <sp who="#deuxième acte">
+        <speaker>DEUXIÈME ACTE:</speaker>
+      </sp>
+      <stage>(Dans le château de la marquise. Un salonouvrant, par trois portes au fond, surune vaste galerie donnant sur le parc.Portes latérales. A droite, un piano.A gauche, une fenêtre et un balcon)</stage>
+      <stage>(Un notaire, que finit à peine de préparerun contrat de mariage pour Marie, quittele salon en saluant bas la marquise.Elle reste seule)</stage>
+      <stage>ParléLA MARQUISEJ’avais demandé que l’on tire le rideau…J’avais demandé que l’on tire le rideau…Enfin je vous ai ditque je ne veux plus voir ce…</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(Se présentant)</l>
+        <l>Madame la marquise, vous me désirez?</l>
+      </sp>
+      <stage>SULPICE(Se présentant)Madame la marquise, vous me désirez?</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Approchez-vous… approchez-vous…</l>
+        <l>Je vous le permets. Vous êtes un brave</l>
+        <l>homme, un bon soldat, Sulpice…</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Je crois, morbleu!</l>
+      </sp>
+      <stage>(Se reprenant)</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Marie vous écoute…Vous avez sa</l>
+        <l>confiance…Vous m’avez aidée à</l>
+        <l>la rendre plus docile. Grâce a mes</l>
+        <l>soins, son ton et ses manières soldatesques</l>
+        <l>ont presque entièrement disparu</l>
+        <l>et j’ai pu lui choisir pour époux</l>
+        <l>l’un des plus illustres</l>
+        <l>seigneurs de la Bavière,</l>
+        <l>le Duc de Crakentorp.</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Celui-la, je ne pourrai jamais…</l>
+        <l>Et Marie… Mademoiselle Marie?</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Avec un soupir)</l>
+        <l>Elle a consenti. Je compte sur vous pour lui</l>
+        <l>donner du courage.</l>
+        <l>Nous signons le contrat ce soir même, ici.</l>
+        <l>Le bonnes âmes de pays,</l>
+        <l>jalouses de cette union,</l>
+        <l>ont prétendu que Marie était gauche</l>
+        <l>et mal élevée…</l>
+      </sp>
+      <stage>LA MARQUISE(Avec un soupir)Elle a consenti. Je compte sur vous pour luidonner du courage.Nous signons le contrat ce soir même, ici.Le bonnes âmes de pays,jalouses de cette union,ont prétendu que Marie était gaucheet mal élevée…</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Vivandière!… Une future duchesse!…</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Taisez-vous! Je veux que la voix charmante</l>
+        <l>de Marie les ravisse, les transporte…</l>
+        <l>Silence! la voici!…</l>
+        <l>(Â Marie qui parait)</l>
+        <l>Allons, approchez, approchez, mon enfant!</l>
+        <l>(Elle l’embrasse, puis se met au</l>
+        <l>piano et ouvre une partition)</l>
+        <l>Le romance perdue, on l’a retrouvée.</l>
+        <l>C’est une chose exquise.</l>
+        <l>Vénus descend…</l>
+      </sp>
+      <stage>LA MARQUISETaisez-vous! Je veux que la voix charmantede Marie les ravisse, les transporte…Silence! la voici!…(Â Marie qui parait)Allons, approchez, approchez, mon enfant!(Elle l’embrasse, puis se met aupiano et ouvre une partition)Le romance perdue, on l’a retrouvée.C’est une chose exquise.Vénus descend…</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Et man angoisse monte!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(À Sulpice)</l>
+        <l>Que dites-vous?</l>
+      </sp>
+      <stage>LA MARQUISE(À Sulpice)Que dites-vous?</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(s’asseyant)</l>
+        <l>Moi? Rien de tout!</l>
+      </sp>
+      <stage>SULPICE(s’asseyant)Moi? Rien de tout!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Chantant)</l>
+        <l>Venus descend dans la nuit opaque,</l>
+        <l>Pour voir le Dieu que l’amour lui inspire.</l>
+        <l>La musique est du maître Caffariello.</l>
+      </sp>
+      <stage>LA MARQUISE(Chantant)Venus descend dans la nuit opaque,Pour voir le Dieu que l’amour lui inspire.La musique est du maître Caffariello.</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Bas, en riant)</l>
+        <l>Sulpice, t’as entendu?</l>
+      </sp>
+      <stage>MARIE(Bas, en riant)Sulpice, t’as entendu?</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Superbe!</l>
+      </sp>
+      <stage>(Marie et Sulpice éclatent de rire. Lamarquise tapote le piano avec impatience)</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Eh bien! Marie, maudite innocente</l>
+        <l>Pas de respect! Faîtes silence!</l>
+        <l>(Marie et Sulpice ne peuvent se contenir.</l>
+        <l>La marquise frappe le clavier en lançant</l>
+        <l>un regard furieux à Sulpice)</l>
+        <l>Toi, attention! Nous commençons.</l>
+      </sp>
+      <stage>LA MARQUISEEh bien! Marie, maudite innocentePas de respect! Faîtes silence!(Marie et Sulpice ne peuvent se contenir.La marquise frappe le clavier en lançantun regard furieux à Sulpice)Toi, attention! Nous commençons.</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Se préparant)</l>
+        <l>Mi mi mi mi mi.</l>
+      </sp>
+      <stage>MARIE(Se préparant)Mi mi mi mi mi.</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Attendez!</l>
+      </sp>
+      <stage>(Elle commence l’accompagnement,de manière plutôt maladroite)</stage>
+      <stage>MusiqueTrioMARIE(Chantant)Le jour naissait dans le bocage,Et Cypris descendant des cieux…</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(à part)</l>
+        <l>Nous chants étaient mains langoureux!</l>
+      </sp>
+      <stage>SULPICE(à part)Nous chants étaient mains langoureux!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Venait chercher dans le feuillage</l>
+        <l>L’objet si tendre de ses feux.</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(Bas, à Marie)</l>
+        <l>Rataplan, rataplan, rataplán,</l>
+        <l>C’est le refrain du régiment!</l>
+      </sp>
+      <stage>SULPICE(Bas, à Marie)Rataplan, rataplan, rataplán,C’est le refrain du régiment!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Rataplan, rataplán, rataplán,</l>
+        <l>C’est le refrain du régiment!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Eh! …. mais! qu’entends-je donne?</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Pardon! pardon! ma tante,</l>
+        <l>C’était une distraction!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>C’était une distraction!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(En battant des mains)</l>
+        <l>C’est bon, c’est bon…. recommençons!</l>
+      </sp>
+      <stage>LA MARQUISE(En battant des mains)C’est bon, c’est bon…. recommençons!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Ah! ma tante, pardon.</l>
+        <l>(Continuant la chanson)</l>
+        <l>Cet amant, à qui Venus même</l>
+        <l>De la valeur donnait le prix…</l>
+      </sp>
+      <stage>MARIEAh! ma tante, pardon.(Continuant la chanson)Cet amant, à qui Venus mêmeDe la valeur donnait le prix…</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Rataplan, rataplan!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>…le plus aimable…</l>
+      </sp>
+      <stage>(Elle hésite)</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Parlant)</l>
+        <l>Allez donc!</l>
+      </sp>
+      <stage>LA MARQUISE(Parlant)Allez donc!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>…le plus aimable du pays</l>
+        <l>et de la beauté…</l>
+        <l>(hésitant)</l>
+        <l>de la beauté….</l>
+      </sp>
+      <stage>MARIE…le plus aimable du payset de la beauté…(hésitant)de la beauté….</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(citant le chant du régiment)</l>
+        <l>De la beauté bien suprême!</l>
+      </sp>
+      <stage>SULPICE(citant le chant du régiment)De la beauté bien suprême!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(s’oubliant et répétant le vieux refrain)</l>
+        <l>De la beauté, bien suprême!</l>
+        <l>Le voilà, le voilà…</l>
+      </sp>
+      <stage>MARIE(s’oubliant et répétant le vieux refrain)De la beauté, bien suprême!Le voilà, le voilà…</stage>
+      <sp who="#marie, sulpice">
+        <speaker>MARIE, SULPICE:</speaker>
+        <l>Morbleu!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Le voilà, il est là, il est là</l>
+      </sp>
+      <sp who="#marie, sulpice">
+        <speaker>MARIE, SULPICE:</speaker>
+        <l>Corbleu!</l>
+        <l>Le voilà, le voilà, le voilà,</l>
+        <l>Le beau Vingt-unième!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Que dites-vous?</l>
+      </sp>
+      <sp who="#marie, sulpice">
+        <speaker>MARIE, SULPICE:</speaker>
+        <l>Le beau Vingt-unième!</l>
+        <l>(À part)</l>
+        <l>Ah! quel ennui!… son air sensible</l>
+        <l>Ne vaut pus nos refrains, vraiment!</l>
+        <l>Et je sens qu’il m’est impossible</l>
+        <l>De les oublier, maintenant.</l>
+      </sp>
+      <stage>MARIE, SULPICELe beau Vingt-unième!(À part)Ah! quel ennui!… son air sensibleNe vaut pus nos refrains, vraiment!Et je sens qu’il m’est impossibleDe les oublier, maintenant.</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Quelle horreur, quelle horreur!</l>
+      </sp>
+      <sp who="#marie, sulpice">
+        <speaker>MARIE, SULPICE:</speaker>
+        <l>Quel ennui, quel ennui!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Frappant encore le piano)</l>
+        <l>Continuons!</l>
+      </sp>
+      <stage>LA MARQUISE(Frappant encore le piano)Continuons!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Je le veux bien! mais, hélas!</l>
+        <l>je n’y comprends rien!</l>
+        <l>(…)</l>
+        <l>En voyant Cypris aussi belle,</l>
+        <l>Bientôt les échos d’alentour…</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Soufflant)</l>
+        <l>De la jalouse Philomèle…</l>
+      </sp>
+      <stage>LA MARQUISE(Soufflant)De la jalouse Philomèle…</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>De la jalouse Philomèle…</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(De même)</l>
+        <l>Rediront les soupirs d’amour…</l>
+      </sp>
+      <stage>LA MARQUISE(De même)Rediront les soupirs d’amour…</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Rediront les soupirs d’amour…</l>
+      </sp>
+      <sp who="#marie, la marquise">
+        <speaker>MARIE, LA MARQUISE:</speaker>
+        <l>…. les soupirs d’amour!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(Bas, à Marie)</l>
+        <l>A tous les soupirs de la belle,</l>
+        <l>Moi, je préfère le tambour!</l>
+      </sp>
+      <stage>SULPICE(Bas, à Marie)A tous les soupirs de la belle,Moi, je préfère le tambour!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ma nièce, soupirons ensemble!</l>
+      </sp>
+      <sp who="#marie, la marquise">
+        <speaker>MARIE, LA MARQUISE:</speaker>
+        <l>Ah!…</l>
+      </sp>
+      <sp who="#marie, la marquise">
+        <speaker>MARIE, LA MARQUISE:</speaker>
+        <l>(tour à tour)</l>
+        <l>Tra la la, la!</l>
+      </sp>
+      <stage>MARIE, LA MARQUISE(tour à tour)Tra la la, la!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>… la la la!…</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Non, non! ce n’est pas cela!</l>
+        <l>Non, non, non, non.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Fait des roulades)</l>
+        <l>…la..</l>
+      </sp>
+      <stage>MARIE(Fait des roulades)…la..</stage>
+      <stage>(Sulpice imite la rouladede Marie, en riant)</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Parlant)</l>
+        <l>C’est trop brillant, cela!</l>
+      </sp>
+      <stage>LA MARQUISE(Parlant)C’est trop brillant, cela!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Continuant)</l>
+        <l>Tra la la la…</l>
+      </sp>
+      <stage>MARIE(Continuant)Tra la la la…</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Plus fort!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(obéissant)</l>
+        <l>Ah..</l>
+      </sp>
+      <stage>MARIE(obéissant)Ah..</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Ah!… Mais c’est charmant cela..</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Non, non, non!</l>
+        <l>(Marie continue)</l>
+        <l>Plus doux, plus doux!….</l>
+        <l>C’est bien!</l>
+        <l>(Marie ne s’arrête pas)</l>
+        <l>C’est bien! c’est bien!…</l>
+        <l>(Marie se tait un instant)</l>
+        <l>Enfin!</l>
+        <l>(Marie recommence, faisant des roulades</l>
+        <l>toujours plus brillantes. La marquise</l>
+        <l>cherche frénétiquement la page juste)</l>
+        <l>Non! eh bien! Mon Dieu!…</l>
+      </sp>
+      <stage>LA MARQUISENon, non, non!(Marie continue)Plus doux, plus doux!….C’est bien!(Marie ne s’arrête pas)C’est bien! c’est bien!…(Marie se tait un instant)Enfin!(Marie recommence, faisant des rouladestoujours plus brillantes. La marquisecherche frénétiquement la page juste)Non! eh bien! Mon Dieu!…</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(S’arrête en poussant un cri)</l>
+        <l>Ah! ma foi, j’y renonce.</l>
+        <l>Au moins au régiment</l>
+        <l>Le chant allait tout seul.</l>
+      </sp>
+      <stage>MARIE(S’arrête en poussant un cri)Ah! ma foi, j’y renonce.Au moins au régimentLe chant allait tout seul.</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Oh! ciel, quelle réponse!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>En avant!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>En avant!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>En avant!</l>
+      </sp>
+      <sp who="#marie, sulpice">
+        <speaker>MARIE, SULPICE:</speaker>
+        <l>C’est le refrain du régiment!</l>
+        <l>En avant, en avant!</l>
+        <l>Rataplan, plan, plan!</l>
+        <l>En avant, en avant!</l>
+        <l>C’est le refrain du régiment!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ah! quelle horreur!</l>
+      </sp>
+      <sp who="#marie, sulpice">
+        <speaker>MARIE, SULPICE:</speaker>
+        <l>En avant, en avant!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Est-il possible?</l>
+      </sp>
+      <sp who="#marie, sulpice">
+        <speaker>MARIE, SULPICE:</speaker>
+        <l>Rataplan, plan, plan!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ah!</l>
+      </sp>
+      <sp who="#marie, sulpice">
+        <speaker>MARIE, SULPICE:</speaker>
+        <l>En avant, en avant!</l>
+        <l>C’est le refrain du régiment!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Cependant Marie et Sulpice</l>
+        <l>continuant la chanson)</l>
+        <l>Ah! quelle horreur!</l>
+        <l>De mêler un chant si doux,</l>
+        <l>Une romance si sensible,</l>
+        <l>Avec un chant de régiment!</l>
+        <l>Ah! l’horreur! ah! l’horreur!</l>
+        <l>Est-il possible</l>
+        <l>De mêler un chant si doux,</l>
+        <l>Une romance si sensible,</l>
+        <l>Avec un chant de régiment!</l>
+      </sp>
+      <stage>LA MARQUISE(Cependant Marie et Sulpicecontinuant la chanson)Ah! quelle horreur!De mêler un chant si doux,Une romance si sensible,Avec un chant de régiment!Ah! l’horreur! ah! l’horreur!Est-il possibleDe mêler un chant si doux,Une romance si sensible,Avec un chant de régiment!</stage>
+      <stage>(La marquise, contre sa volonté,finit chantant avec les autres)</stage>
+      <stage>ParléLA MARQUISEVoilà,vos anciennes habitudes qui reviennent!Sulpice, c’est de votre faute…Vous l’encouragez!</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Certainement!, c’est trop gaillard pour</l>
+        <l>la circonstance!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ce n’est pus tous les jours que lien épouse</l>
+        <l>un Duc de Crakentorp.</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Voilà un fameux nom…</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Au nom du ciel, Marie,</l>
+        <l>ne soyez pas ainsi</l>
+        <l>devant votre nouvelle famille,</l>
+        <l>Aujourd’hui surtout, que je réunis</l>
+        <l>les plus nobles têtes du pays…</l>
+        <l>Des têtes égales à la mienne! Ah!</l>
+        <l>S’ayez raisonnable, mon enfant,</l>
+        <l>Allons, embrassez-moi…Tenez-vous</l>
+        <l>droite… levez la tête… la… comme ça!…</l>
+        <l>Quelle jolie duchesse cela fera!…</l>
+        <l>Embrassez-moi encore…</l>
+        <l>Sulpice, venez avec moi.</l>
+        <l>(À Sulpice)</l>
+        <l>Je compte sur vous pour…</l>
+        <l>Enfin, vous comprenez</l>
+        <l>ce que je veux dire…</l>
+        <l>je ne veux plus voir ce…</l>
+        <l>Il faut mettre un terme à la nudité</l>
+        <l>de la dame.</l>
+      </sp>
+      <stage>LA MARQUISEAu nom du ciel, Marie,ne soyez pas ainsidevant votre nouvelle famille,Aujourd’hui surtout, que je réunisles plus nobles têtes du pays…Des têtes égales à la mienne! Ah!S’ayez raisonnable, mon enfant,Allons, embrassez-moi…Tenez-vousdroite… levez la tête… la… comme ça!…Quelle jolie duchesse cela fera!…Embrassez-moi encore…Sulpice, venez avec moi.(À Sulpice)Je compte sur vous pour…Enfin, vous comprenezce que je veux dire…je ne veux plus voir ce…Il faut mettre un terme à la nuditéde la dame.</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Je vois ce qu’il vous faut.</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Se retournant au moment de sortir)</l>
+        <l>Elle est charmante!</l>
+      </sp>
+      <stage>LA MARQUISE(Se retournant au moment de sortir)Elle est charmante!</stage>
+      <stage>(Elle sort)</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(suivant la marquise)</l>
+        <l>Charmante!</l>
+      </sp>
+      <stage>SULPICE(suivant la marquise)Charmante!</stage>
+      <stage>MusiqueAria et ChoeurMARIE(seule)C’en est donc faitet mon sort va changer,Et personne en ce lieu ne vient me protéger!Par le rang et par l’opulence,En vain l’on a cru m’éblouir;Il me faut faire ma souffranceEt ne vivre que de souvenir!Sous les bijoux et la dentelle,Je cache un chagrin sans espoir.Ah!A quoi me sert d’être si belle,Lui seul, il ne doit pas me voir.Ah!Ô vous à qui je fuis ravie,Dont j’ai partagé le destin.Je donnerais toute ma viePour pouvoir vous serrer la main!Pour ce contrat fatalTout prend un aire de fête…Allons, allons signerMon malheur qui s’apprête!(Elle va pour sortir, mais s’arrêtetout à coupe en entendant au loinune marche militaire; elle écouteattentivement et avec joie)Mais qu’entends-je au lointain? Ciel!Ne rêve-je pas?Cette marche guerrière…(Elle ouvrit la fenêtre)Ah! voilà bien leurs pas.Oh! transport! oh! douce ivresse!Mes amis, mes amis!Souvenirs de jeunesse,Revenez, revenez avec eux!(Enthousiasmée)Ah! salut à la France!À mes beaux jours!À l’espérance!À mes amours!Salut à la France!À l’espérance!À mes amis!Salut à la gloire!Voilà pour mon coeur,Avec la victoire,L’instant du bonheur!</stage>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>(Entrent tumultueusement de tous côtés</l>
+        <l>et se groupent autour de Marie)</l>
+        <l>C’est elle! notre fille!</l>
+        <l>Notre enfant! quel destin!</l>
+        <l>Tes amis, ta famille,</l>
+        <l>Te retrouvent enfin!</l>
+      </sp>
+      <stage>SOLDATS(Entrent tumultueusement de tous côtéset se groupent autour de Marie)C’est elle! notre fille!Notre enfant! quel destin!Tes amis, ta famille,Te retrouvent enfin!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Mes amis! mes amis!</l>
+        <l>Votre main! dans vos bras!</l>
+        <l>De plaisir, de surprise, ah!</l>
+        <l>L’on ne meurt donc pas!</l>
+        <l>O mes amis, ô mes amis!</l>
+      </sp>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>C’est elle! c’est elle!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Salut à la France!</l>
+      </sp>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>Salut à la France!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Salut à la gloire!</l>
+      </sp>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>Salut à la gloire!</l>
+      </sp>
+      <stage>ParléSULPICE(en retournant)Les amis, les camarades, ici!</stage>
+      <stage>(Les soldats entourant à Sulpice)</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Sulpice, Sulpice!</l>
+      </sp>
+      <stage>(Tonio paraît. Il porte l’épauletted’officier)</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(avec joie)</l>
+        <l>Tonio! Mon Tonio!</l>
+      </sp>
+      <stage>MARIE(avec joie)Tonio! Mon Tonio!</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(A Tonio)</l>
+        <l>Salut, mon officier… et ces camarades,</l>
+        <l>qui sont taus bien fatigués sans doute…</l>
+        <l>Il faut les faire boira à ta santé.</l>
+      </sp>
+      <stage>SULPICE(A Tonio)Salut, mon officier… et ces camarades,qui sont taus bien fatigués sans doute…Il faut les faire boira à ta santé.</stage>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Bien volontiers!</l>
+      </sp>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>(Paraissant)</l>
+        <l>Ah! miséricorde!…Toujours des soldats!</l>
+        <l>Qu’est-ce que c’est ça!</l>
+      </sp>
+      <stage>HORTENSIUS(Paraissant)Ah! miséricorde!…Toujours des soldats!Qu’est-ce que c’est ça!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(À Hortensius)</l>
+        <l>Hortensius! Apportez tout de suite</l>
+        <l>le meilleur vin de ma tante!</l>
+      </sp>
+      <stage>MARIE(À Hortensius)Hortensius! Apportez tout de suitele meilleur vin de ma tante!</stage>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>Par exemple!…</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(À Hortensius)</l>
+        <l>Tu as entendu le mot d’ordre… marche!</l>
+      </sp>
+      <stage>SULPICE(À Hortensius)Tu as entendu le mot d’ordre… marche!</stage>
+      <stage>(Les soldats l’enlèvent et sortenten tumulte)</stage>
+      <stage>MusiqueTrioMARIE, TONIO, SULPICETous les trois réunis,Quel plaisir, mes amis!Quel bonheur, quelle ivresse!Nous voilà réunis!</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Doux souvenir!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Doux temps de guerre!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Ah! loin de nous…</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Vous avez fui!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Il reviendra.</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Je n’y crois guère.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Ce temps passé, mais le voici!</l>
+        <l>Près de toi, Sulpice, et près de lui!</l>
+      </sp>
+      <sp who="#les trois">
+        <speaker>LES TROIS:</speaker>
+        <l>Tous le trois réunis.</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>(À Sulpice)</l>
+        <l>Tu parleras pour moi.</l>
+      </sp>
+      <stage>TONIO(À Sulpice)Tu parleras pour moi.</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(de même)</l>
+        <l>Tu parleras pour lui.</l>
+      </sp>
+      <stage>MARIE(de même)Tu parleras pour lui.</stage>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Pour moi!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Pour lui!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Mais…</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Tu combleras mes voeux.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Tu le dois, tu le dois!</l>
+      </sp>
+      <sp who="#marie, tonio">
+        <speaker>MARIE, TONIO:</speaker>
+        <l>Tu le dois, tu le dois!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Mais, écoutez-moi donc!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>IL me faut ta promesse.</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Mais vous ne savez pas.</l>
+        <l>Écoutez donc, écoutez-moi.</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Puisque j’ai sa tendresse.</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Écoutez-moi!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Et puisque j’ai sa foi.</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Écoutez-moi!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Puisque j’ai son amour!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Écoutez-moi, écoutez-moi!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Tu parleras pour lui!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Écoutez-moi! vous ne savez pas.</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Tu nous rendras heureux!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Tu le dois, man ami!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Mais vous ne savez pas.</l>
+      </sp>
+      <sp who="#marie, tonio">
+        <speaker>MARIE, TONIO:</speaker>
+        <l>Tu parleras, tu parleras!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Mais vous ne… oui…</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Tu parleras!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Tu parleras!</l>
+        <l>Puis-je en aimer un autre</l>
+        <l>Quand j’ai son amour!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>… vous, … mais, …mais…</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Tu parleras!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Au diable, écoutez-moi!</l>
+      </sp>
+      <stage>Parlé(Sulpice ouvre la porte pour fairesortir Tonio, mais la marquiseparaît sur le seuil)</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Qu’ai-je vu? Un soldat ici!…</l>
+        <l>prés da ma nièce!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(À part)</l>
+        <l>Voilà que ça commence!</l>
+      </sp>
+      <stage>SULPICE(À part)Voilà que ça commence!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Vous feriez mieux de tirer ce rideau!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>(entourant)</l>
+        <l>Madame…</l>
+      </sp>
+      <stage>TONIO(entourant)Madame…</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(À Tonio)</l>
+        <l>Qui êtes vous, monsieur?</l>
+        <l>Que voulez-vous? que venez-vous faire ici?</l>
+      </sp>
+      <stage>LA MARQUISE(À Tonio)Qui êtes vous, monsieur?Que voulez-vous? que venez-vous faire ici?</stage>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Écoutez-moi, de grâce!</l>
+        <l>Musique</l>
+        <l>Romance</l>
+        <l>Pour me rapprocher de Marie</l>
+        <l>Je m’enrôlai, pauvre soldat.</l>
+        <l>J’ai pour elle risqué ma vie,</l>
+        <l>Et je disais dans les combats:</l>
+        <l>Si jamais la grandeur enivre,</l>
+        <l>Cet ange qui m’a su charmer, ah!</l>
+        <l>Il me faudrait cesser de vivre,</l>
+        <l>S’il me fallait, cesser d’aimer!</l>
+        <l>Tout en tremblant, je viens, madame,</l>
+        <l>Réclamer mon unique bien!</l>
+        <l>Si j’ai su lire dans son âme,</l>
+        <l>Mon bonheur est aussi le sien!</l>
+        <l>Lorsqu’à l’espoir man coeur se livre,</l>
+        <l>Sa voix saura vous désarmer. Ah!</l>
+        <l>Il me faudrait cesser de vivre,</l>
+        <l>S’il me fallait cesser d’aimer.</l>
+      </sp>
+      <stage>TONIOÉcoutez-moi, de grâce!MusiqueRomancePour me rapprocher de MarieJe m’enrôlai, pauvre soldat.J’ai pour elle risqué ma vie,Et je disais dans les combats:Si jamais la grandeur enivre,Cet ange qui m’a su charmer, ah!Il me faudrait cesser de vivre,S’il me fallait, cesser d’aimer!Tout en tremblant, je viens, madame,Réclamer mon unique bien!Si j’ai su lire dans son âme,Mon bonheur est aussi le sien!Lorsqu’à l’espoir man coeur se livre,Sa voix saura vous désarmer. Ah!Il me faudrait cesser de vivre,S’il me fallait cesser d’aimer.</stage>
+      <stage>ParléLA MARQUISE(Avec sévérité, à Tonio)Monsieur, ma nièce est promise…Dans une heure, on signe le contrat…Je vous prie de quitter ces lieux àl’instant même….. Restez, Sulpice.</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(Surprendu)</l>
+        <l>Moi?</l>
+      </sp>
+      <stage>SULPICE(Surprendu)Moi?</stage>
+      <stage>(Marie et Tonio sortent parles portes opposées)</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(À Sulpice)</l>
+        <l>Nous sommes seuils, Sulpice.</l>
+        <l>(S’arrête)</l>
+        <l>Écoutez-moi, vous êtes un honnête homme,</l>
+        <l>vous ne voudriez pas perdre une pauvre femme</l>
+        <l>qui se confie à vous.</l>
+      </sp>
+      <stage>LA MARQUISE(À Sulpice)Nous sommes seuils, Sulpice.(S’arrête)Écoutez-moi, vous êtes un honnête homme,vous ne voudriez pas perdre une pauvre femmequi se confie à vous.</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>C’est bien de l’honneur, madame la marquise.</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>La haute noblesse de ma famille,</l>
+        <l>son désir de me faire contracter</l>
+        <l>un mariage digne</l>
+        <l>de mon nom m’avait</l>
+        <l>condamnée au célibat. J’avais trente ans</l>
+        <l>et quoique belle encore, j’étais libre.</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(À part)</l>
+        <l>Pauvre fille!</l>
+      </sp>
+      <stage>SULPICE(À part)Pauvre fille!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Le capitaine Robert m’avait vue… et mes</l>
+        <l>faibles attraits lui inspirèrent des pensées</l>
+        <l>bien coupables…</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>On dit qu’il était..</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Charmant! Je l ‘aimais . et malgré mon</l>
+        <l>horreur pour une mésalliance,</l>
+        <l>je lui aurais donné</l>
+        <l>ma main, si son départ pour une campagne</l>
+        <l>nouvelle ne nous eût brusquement séparés.</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Ah! ah!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Quelque temps après, je vins</l>
+        <l>l’attendre à Berkenfield, mais j’y revins</l>
+        <l>seule… sans elle.</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Elle! Qui donc?</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ma fille!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Marie!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ma fille… dont il fallait cacher</l>
+        <l>la naissance au risque de me perdre.</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(À part)</l>
+        <l>Oui, oui… j’y suis à présent!</l>
+      </sp>
+      <stage>SULPICE(À part)Oui, oui… j’y suis à présent!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Comprenez-vous? Maintenant, je tremble</l>
+        <l>que mon secret n’éclare à tous les yeux.</l>
+        <l>Comprenez-vous aussi que j’aime Marie,</l>
+        <l>et que me l’enlever</l>
+        <l>serait m’arracher la vie!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>On ne vous l’enlèvera pas, madame</l>
+        <l>la marquise, on ne vous l’enlèvera pas!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ce mariage sauve tout… Il donne</l>
+        <l>un nom, un rang à ma fille</l>
+        <l>et me permet de lui assurer toute ma fortune.</l>
+        <l>Décidez Marie à le contracter et j’aurai</l>
+        <l>pour vous, Sulpice,</l>
+        <l>une éternelle reconnaissance!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Fiez-vous à moi, madame la marquise…</l>
+        <l>Un coeur de soldat, ça ne trompe pas et</l>
+        <l>ça ne trahit jamais! Je vais chercher Marie.</l>
+      </sp>
+      <stage>(Il la prend dans ses bras etl’embrasse très fort)</stage>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>(Paraît)</l>
+        <l>Hm hm!</l>
+        <l>(Ils se séparent avec effroi. Sulpice sort.)</l>
+        <l>Madame la marquise! Les invités</l>
+        <l>commencent à venir et le notaire</l>
+        <l>attend déjà dans la bibliothèque.</l>
+      </sp>
+      <stage>HORTENSIUS(Paraît)Hm hm!(Ils se séparent avec effroi. Sulpice sort.)Madame la marquise! Les invitéscommencent à venir et le notaireattend déjà dans la bibliothèque.</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ah! mon Dieu! Recevoir dans un pareil moment!</l>
+      </sp>
+      <sp who="#hortensius">
+        <speaker>HORTENSIUS:</speaker>
+        <l>(Annouciant)</l>
+        <l>Madame la duchesse de Crakentorp et monsieur</l>
+        <l>le duc!</l>
+      </sp>
+      <stage>HORTENSIUS(Annouciant)Madame la duchesse de Crakentorp et monsieurle duc!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ah! madame la duchesse! monsieur le duc!</l>
+        <l>Avec quelle impatience nos vous attendions,</l>
+        <l>ma nièce et moi.</l>
+      </sp>
+      <sp who="#la duchesse">
+        <speaker>LA DUCHESSE:</speaker>
+        <l>Bonjour, madame la marquise,</l>
+      </sp>
+      <sp who="#le duc">
+        <speaker>LE DUC:</speaker>
+        <l>Madame la marquise…</l>
+      </sp>
+      <sp who="#la duchesse">
+        <speaker>LA DUCHESSE:</speaker>
+        <l>Ces rideaux vous vont à ravir!!!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Pardon?</l>
+      </sp>
+      <sp who="#la duchesse">
+        <speaker>LA DUCHESSE:</speaker>
+        <l>Et votre nouvelle résidence est charmante.</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ou! Vous savez…</l>
+        <l>À la guerre comme a la guerre!</l>
+      </sp>
+      <sp who="#la duchesse">
+        <speaker>LA DUCHESSE:</speaker>
+        <l>Il y règne une chaleur</l>
+        <l>digne des plus nobles écuries!</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>C’est à dire… Enfin…</l>
+      </sp>
+      <sp who="#la duchesse">
+        <speaker>LA DUCHESSE:</speaker>
+        <l>J’étouffe! Ne pourrait-on ouvrir les fenêtres!!!</l>
+      </sp>
+      <sp who="#le duc">
+        <speaker>LE DUC:</speaker>
+        <l>Si vous permettez!…</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Mon Dieu!…</l>
+      </sp>
+      <sp who="#el duc">
+        <speaker>EL DUC:</speaker>
+        <l>(Il tourne de derrière les rideaux)</l>
+        <l>Oh, mamman! J’ai cru voir.. une chose horrible.</l>
+      </sp>
+      <stage>EL DUC(Il tourne de derrière les rideaux)Oh, mamman! J’ai cru voir.. une chose horrible.</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ne pourrait-on lire le contract?</l>
+      </sp>
+      <sp who="#la duchesse">
+        <speaker>LA DUCHESSE:</speaker>
+        <l>Mais, votre nièce, n’est elle point ici?</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Elle va venir… sa toilette qu’elle</l>
+        <l>finit… elle a tant à coeur de</l>
+        <l>la duchesse…</l>
+      </sp>
+      <sp who="#notaire">
+        <speaker>NOTAIRE:</speaker>
+        <l>(dépliant le contrat)</l>
+        <l>Tout le monde est-il présent?</l>
+      </sp>
+      <stage>NOTAIRE(dépliant le contrat)Tout le monde est-il présent?</stage>
+      <sp who="#la duchesse">
+        <speaker>LA DUCHESSE:</speaker>
+        <l>(Avec ironie)</l>
+        <l>Tout le monde, excepté la future!</l>
+        <l>(Très irritée)</l>
+        <l>On ne se conduit pus ainsi avec la</l>
+        <l>première noblesse du pays!</l>
+      </sp>
+      <stage>LA DUCHESSE(Avec ironie)Tout le monde, excepté la future!(Très irritée)On ne se conduit pus ainsi avec lapremière noblesse du pays!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(à part)</l>
+        <l>Ah, je me sens mourir!</l>
+      </sp>
+      <stage>LA MARQUISE(à part)Ah, je me sens mourir!</stage>
+      <sp who="#la duchesse">
+        <speaker>LA DUCHESSE:</speaker>
+        <l>Quelle scandale! Moi, je suis la</l>
+        <l>duchesse de Crakentorp, et ce jeune</l>
+        <l>homme c’est le duc de Crakentorp!</l>
+      </sp>
+      <stage>(Elle s’assied en gémissant)</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Sans doute… elle a les nerfs si</l>
+        <l>délicats… je vais envoyer savoir…</l>
+        <l>(Paraît Sulpice. Bas à Sulpice)</l>
+        <l>Ah! Sulpice!… et bien, Marie?</l>
+      </sp>
+      <stage>LA MARQUISESans doute… elle a les nerfs sidélicats… je vais envoyer savoir…(Paraît Sulpice. Bas à Sulpice)Ah! Sulpice!… et bien, Marie?</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(Bas, à la marquise)</l>
+        <l>Impossible de la décider à venir!</l>
+      </sp>
+      <stage>SULPICE(Bas, à la marquise)Impossible de la décider à venir!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(de même)</l>
+        <l>Ah! mon Dieu!</l>
+      </sp>
+      <stage>LA MARQUISE(de même)Ah! mon Dieu!</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Mes instances, mes prières… rien n’a</l>
+        <l>réussi… elle refuse…</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Que faire?… que devenir?</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Je le connais… elle ne viendra pas!</l>
+      </sp>
+      <sp who="#notaire">
+        <speaker>NOTAIRE:</speaker>
+        <l>Monsieur le duc Scipion, retenu par</l>
+        <l>son service à la cour, m’a fait</l>
+        <l>remettre sa procuration, par laquelle</l>
+        <l>il consent à s’unir à mademoiselle Marie…</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Avec orgueil)</l>
+        <l>De Berkenfield!</l>
+      </sp>
+      <stage>LA MARQUISE(Avec orgueil)De Berkenfield!</stage>
+      <sp who="#notaire">
+        <speaker>NOTAIRE:</speaker>
+        <l>De Berkenfield…Tous les articles</l>
+        <l>du contrat étant arrêtés entre les</l>
+        <l>deux familles… il ne reste plus qu’a signer!</l>
+      </sp>
+      <sp who="#la duchesse">
+        <speaker>LA DUCHESSE:</speaker>
+        <l>(Irritée)</l>
+        <l>Signer!… mais encore une fois,</l>
+        <l>madame la marquise, et</l>
+        <l>votre nièce?… On ne se conduit</l>
+        <l>pas ainsi avec la première</l>
+        <l>noblesse du pays!</l>
+      </sp>
+      <stage>LA DUCHESSE(Irritée)Signer!… mais encore une fois,madame la marquise, etvotre nièce?… On ne se conduitpas ainsi avec la premièrenoblesse du pays!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(À part)</l>
+        <l>Ah! Je me sens mourir!</l>
+      </sp>
+      <stage>LA MARQUISE(À part)Ah! Je me sens mourir!</stage>
+      <stage>MusiqueFinaleLA MARQUISE(Apercevant Marie qui entre)Ah! c’est elle!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(s’élançant)</l>
+        <l>Ma mère!</l>
+      </sp>
+      <stage>MARIE(s’élançant)Ma mère!</stage>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Marie! mon enfant!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>(À la Marquise)</l>
+        <l>Prenez garde!…</l>
+        <l>on a les yeux sur vous!</l>
+      </sp>
+      <stage>SULPICE(À la Marquise)Prenez garde!…on a les yeux sur vous!</stage>
+      <sp who="#la duchesse">
+        <speaker>LA DUCHESSE:</speaker>
+        <l>Enfin, madame la marquise…</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(Avec effort, regardant à la duchesse)</l>
+        <l>Oh, maintenant, j’obérai… ce</l>
+        <l>contrat… Donnez, je suis prête.</l>
+      </sp>
+      <stage>MARIE(Avec effort, regardant à la duchesse)Oh, maintenant, j’obérai… cecontrat… Donnez, je suis prête.</stage>
+      <stage>(On entend du bruit au dehors)</stage>
+      <sp who="#tous">
+        <speaker>TOUS:</speaker>
+        <l>Mais, ô ciel! quel bruit et quel éclat!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>(aux soldats, dehors)</l>
+        <l>Suivez-moi! suivez-moi!</l>
+      </sp>
+      <stage>TONIO(aux soldats, dehors)Suivez-moi! suivez-moi!</stage>
+      <stage>(Il entre avec les soldats)</stage>
+      <sp who="#invités">
+        <speaker>INVITÉS:</speaker>
+        <l>D’où viennent ces soldats?</l>
+      </sp>
+      <sp who="#soldats">
+        <speaker>SOLDATS:</speaker>
+        <l>Au secours de notre fille</l>
+        <l>Nous accourons tous ici,</l>
+        <l>Oui, nous sommes sa famille,</l>
+        <l>Et nous serons son appui.</l>
+        <l>Plus de crainte et plus d’alarmes</l>
+        <l>Plus de peines, plus de larmes,</l>
+        <l>Mon enfant, non, plus d’effroi;</l>
+        <l>Nous voici taus près de toi!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>(montrant à Marie)</l>
+        <l>Ils viennent la sauver, car on la sacrifice;</l>
+        <l>On voudrait nous ravir le bonheur et la vie.</l>
+        <l>D’in Hymen odieux</l>
+        <l>lui faire ici serrer les noeuds.</l>
+      </sp>
+      <stage>TONIO(montrant à Marie)Ils viennent la sauver, car on la sacrifice;On voudrait nous ravir le bonheur et la vie.D’in Hymen odieuxlui faire ici serrer les noeuds.</stage>
+      <sp who="#caporal, soldats">
+        <speaker>CAPORAL, SOLDATS:</speaker>
+        <l>Jamais! Jamais! jamais!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Jamais! Jamais!</l>
+      </sp>
+      <sp who="#invités">
+        <speaker>INVITÉS:</speaker>
+        <l>Expliquez-vous!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Je ne dois plus me taire.</l>
+      </sp>
+      <sp who="#tonio, caporal, soldats">
+        <speaker>TONIO, CAPORAL, SOLDATS:</speaker>
+        <l>Marie était vivandière,</l>
+        <l>Et la fille du régiment!</l>
+      </sp>
+      <sp who="#invités">
+        <speaker>INVITÉS:</speaker>
+        <l>Quelle horreur! Une vivandière,</l>
+        <l>Une fille du régiment!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Tout est perdu maintenant!</l>
+      </sp>
+      <sp who="#invités">
+        <speaker>INVITÉS:</speaker>
+        <l>Vivandière!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>(s’avançant)</l>
+        <l>Oui! Quand le destin, au milieu de la guerre,</l>
+        <l>Enfant me jeta dans leurs bras,</l>
+        <l>ils ont recueilli ma misère,</l>
+        <l>ils on guidé mes premiers pas!</l>
+      </sp>
+      <stage>MARIE(s’avançant)Oui! Quand le destin, au milieu de la guerre,Enfant me jeta dans leurs bras,ils ont recueilli ma misère,ils on guidé mes premiers pas!</stage>
+      <sp who="#invités">
+        <speaker>INVITÉS:</speaker>
+        <l>(émus et se rapprochant d’elle)</l>
+        <l>Au fait, elle est charmante!</l>
+      </sp>
+      <stage>INVITÉS(émus et se rapprochant d’elle)Au fait, elle est charmante!</stage>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Peut-il man coeur les oublier…</l>
+      </sp>
+      <sp who="#invités">
+        <speaker>INVITÉS:</speaker>
+        <l>Ce noble, aveu, vraiment</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Quand j’existe par leurs bienfaits!…</l>
+      </sp>
+      <sp who="#invités">
+        <speaker>INVITÉS:</speaker>
+        <l>Prouve une âme excellente,</l>
+        <l>Et mon coeur la comprend!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Vous savez tout, faut-il que je signe à présent?</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Elle y consent!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>J’en mourrai.</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Mon enfant, tant de douleur,</l>
+        <l>Chère Marie, et pour moi seule.</l>
+        <l>(Courant à Marie qui va signer)</l>
+        <l>Arrêtez!</l>
+      </sp>
+      <stage>LA MARQUISEMon enfant, tant de douleur,Chère Marie, et pour moi seule.(Courant à Marie qui va signer)Arrêtez!</stage>
+      <sp who="#invités">
+        <speaker>INVITÉS:</speaker>
+        <l>Grand Dieu! que signifie?…</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>Ah! c’est en trop C’est moi, moi qui la sacrifie!</l>
+        <l>Non plus d’orgueil!</l>
+        <l>L’époux que son coeur a choisi, que je lui donne.</l>
+      </sp>
+      <sp who="#marie, tonio, sulpice">
+        <speaker>MARIE, TONIO, SULPICE:</speaker>
+        <l>Ah! Parlez!…</l>
+      </sp>
+      <sp who="#la marquise">
+        <speaker>LA MARQUISE:</speaker>
+        <l>(Montrant a Tonio)</l>
+        <l>Le voici!</l>
+      </sp>
+      <stage>LA MARQUISE(Montrant a Tonio)Le voici!</stage>
+      <sp who="#invités">
+        <speaker>INVITÉS:</speaker>
+        <l>C’est vrai?</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>C’est bien, morbleu!</l>
+      </sp>
+      <sp who="#marie">
+        <speaker>MARIE:</speaker>
+        <l>Tonio!</l>
+      </sp>
+      <sp who="#tonio">
+        <speaker>TONIO:</speaker>
+        <l>Marie!</l>
+      </sp>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Bravo!</l>
+      </sp>
+      <sp who="#la duchesse">
+        <speaker>LA DUCHESSE:</speaker>
+        <l>(en sortant, outragée)</l>
+        <l>Quel scandale!</l>
+      </sp>
+      <stage>LA DUCHESSE(en sortant, outragée)Quel scandale!</stage>
+      <sp who="#sulpice">
+        <speaker>SULPICE:</speaker>
+        <l>Je crois qu’si j’osais,</l>
+        <l>Pour ce trait-là, je l’embrasserais!</l>
+        <l>(Les invités sortent)</l>
+      </sp>
+      <stage>SULPICEJe crois qu’si j’osais,Pour ce trait-là, je l’embrasserais!(Les invités sortent)</stage>
+      <sp who="#tous">
+        <speaker>TOUS:</speaker>
+        <l>Salut à la France! A ses beaux jours!</l>
+        <l>A l’espérance! A nos/leurs amours!</l>
+        <l>Salut à la gloire! Salut à la France!</l>
+      </sp>
+      <sp who="#fin de l’opéra">
+        <speaker>FIN DE L’OPÉRA:</speaker>
+      </sp>
+    </body>
+  </text>
+</TEI>

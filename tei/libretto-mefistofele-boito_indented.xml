@@ -1,0 +1,2670 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">efistofele</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="atto i">
+            <persName>ATTO I:</persName>
+          </person>
+          <person xml:id="atto iii">
+            <persName>ATTO III:</persName>
+          </person>
+          <person xml:id="la folla">
+            <persName>LA FOLLA:</persName>
+          </person>
+          <person xml:id="epilogo">
+            <persName>EPILOGO:</persName>
+          </person>
+          <person xml:id="fanciulle">
+            <persName>FANCIULLE:</persName>
+          </person>
+          <person xml:id="voci">
+            <persName>VOCI:</persName>
+          </person>
+          <person xml:id="atto primo">
+            <persName>ATTO PRIMO.:</persName>
+          </person>
+          <person xml:id="coretidi, corifei">
+            <persName>CORETIDI, CORIFEI:</persName>
+          </person>
+          <person xml:id="margherita, fausto">
+            <persName>MARGHERITA, FAUSTO:</persName>
+          </person>
+          <person xml:id="marta">
+            <persName>MARTA:</persName>
+          </person>
+          <person xml:id="mefistofele, coro">
+            <persName>MEFISTOFELE, CORO:</persName>
+          </person>
+          <person xml:id="elena, fausto">
+            <persName>ELENA, FAUSTO:</persName>
+          </person>
+          <person xml:id="prologo">
+            <persName>PROLOGO:</persName>
+          </person>
+          <person xml:id="falangi celesti">
+            <persName>FALANGI CELESTI:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO.:</persName>
+          </person>
+          <person xml:id="le penitenti, cherubini">
+            <persName>LE PENITENTI, CHERUBINI,:</persName>
+          </person>
+          <person xml:id="wagner">
+            <persName>WAGNER:</persName>
+          </person>
+          <person xml:id="pantalis">
+            <persName>PANTALIS:</persName>
+          </person>
+          <person xml:id="gruppo 2">
+            <persName>GRUPPO 2:</persName>
+          </person>
+          <person xml:id="coretidi">
+            <persName>CORETIDI:</persName>
+          </person>
+          <person xml:id="mefistofele">
+            <persName>MEFISTOFELE:</persName>
+          </person>
+          <person xml:id="le penitenti">
+            <persName>LE PENITENTI,:</persName>
+          </person>
+          <person xml:id="nero">
+            <persName>NERO:</persName>
+          </person>
+          <person xml:id="ambi gruppi">
+            <persName>AMBI GRUPPI:</persName>
+          </person>
+          <person xml:id="coro celestiale">
+            <persName>CORO CELESTIALE:</persName>
+          </person>
+          <person xml:id="streghe">
+            <persName>STREGHE:</persName>
+          </person>
+          <person xml:id="falangi, celesti">
+            <persName>FALANGI, CELESTI:</persName>
+          </person>
+          <person xml:id="atto quarto">
+            <persName>ATTO QUARTO.:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="margherita">
+            <persName>MARGHERITA:</persName>
+          </person>
+          <person xml:id="streghe, stregoni">
+            <persName>STREGHE, STREGONI:</persName>
+          </person>
+          <person xml:id="stregoni">
+            <persName>STREGONI:</persName>
+          </person>
+          <person xml:id="gruppo 1">
+            <persName>GRUPPO 1:</persName>
+          </person>
+          <person xml:id="popolane">
+            <persName>POPOLANE:</persName>
+          </person>
+          <person xml:id="elena">
+            <persName>ELENA:</persName>
+          </person>
+          <person xml:id="fausto, elena">
+            <persName>FAUSTO, ELENA:</persName>
+          </person>
+          <person xml:id="popolani">
+            <persName>POPOLANI:</persName>
+          </person>
+          <person xml:id="epilogo">
+            <persName>EPILOGO.:</persName>
+          </person>
+          <person xml:id="atto ii">
+            <persName>ATTO II:</persName>
+          </person>
+          <person xml:id="fausto, mefistofele">
+            <persName>FAUSTO, MEFISTOFELE:</persName>
+          </person>
+          <person xml:id="cherubini">
+            <persName>CHERUBINI:</persName>
+          </person>
+          <person xml:id="prologo">
+            <persName>PROLOGO.:</persName>
+          </person>
+          <person xml:id="fausto">
+            <persName>FAUSTO:</persName>
+          </person>
+          <person xml:id="atto iv">
+            <persName>ATTO IV:</persName>
+          </person>
+          <person xml:id="mefistofele, marta">
+            <persName>MEFISTOFELE, MARTA:</persName>
+          </person>
+          <person xml:id="le penitenti">
+            <persName>LE PENITENTI:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#prologo">
+        <speaker>PROLOGO.:</speaker>
+        <l>Mefistofilis, scrive Marlowe nel suo Faust; Mefistofilus, scrive Shakespeare nelle Gaie comari di Windsor; Mefistofiles, scrive Widmann nella sua leggenda di Faust; Mefisto e Mefistofola si trovano spesso nelle complaintes, nelle ballate e nei romanzi del XVI secolo; Giovanni Pfitzer nel 1726 stampò la variante attuale: Mefistofele, che fu poscia adottata da Goethe, da Lenau, ecc.</l>
+        <l>Düntzer, nella Faustage, dà a questo nome una etimologia greca, lo fa derivare da mé fotofilos, nemico della luce.</l>
+      </sp>
+      <sp who="#atto primo">
+        <speaker>ATTO PRIMO.:</speaker>
+        <l>È noto come Goethe ponga al posto del frate grigio un can barbone, ma è noto altresì che le vecchie leggende e gli antichi dipinti del Faust mettono il frate grigio. Noi abbiamo seguita la tradizione leggendaria. – (V. Widmann, Vita di Faust).</l>
+      </sp>
+      <sp who="#atto secondo">
+        <speaker>ATTO SECONDO.:</speaker>
+        <l>Sahoé har Sabbah! Les initiés chantaient Sahoé et les sorcières au Sabbat criaient à tue-tête har Sabbah! – (Vedi Le Loyer: Des spectres. L. VII, c. 3).</l>
+      </sp>
+      <sp who="#atto quarto">
+        <speaker>ATTO QUARTO.:</speaker>
+        <l>Il quarto atto e l’epilogo dell’opera sono tolti dal secondo Faust di Goethe che è la continuazione ed il complemento necessario del primo. Senza questa continuazione, il dramma rimane monco nel suo sviluppo e nel suo scopo. Una scommessa fra Dio e il Demonio, ecco il punto di partenza del poema goethiano; se l’azione si arresta alla morte di Margherita, la scommessa non ha luogo, né il dramma scioglimento di sorta. Perché la lotta del dualismo si compia, conviene seguirla fino alla morte di Faust, che è l’anima della scommessa.</l>
+        <l>Notte del Sabba classico. In questa parte tutta classica della tragedia, abbiamo tentato di trasportare nella nostra lingua il metro del verso greco, per aggiungere alla scena colore di poetica verità. Fin dal secolo XVI alcuni poeti francesi tentarono l’esametro nella loro lingua, ma con ispiacente risultato. Jodelle diede il primo saggio d’esametro francese nel 1553, scrivendo un distico in lode di Olivier de Magny:</l>
+      </sp>
+      <sp who="#epilogo">
+        <speaker>EPILOGO.:</speaker>
+        <l>Goethe mette nel principio di questa scena quattro larve intorno a Faust, le quali profferiscono parole oscure e sinistre; ciò che Goethe collocò sul palco, noi lo collocammo in orchestra, invece delle parole mettemmo i suoni a fine di rendere più incorporee ancora ed extraumane le allucinazioni che conturbano Faust all’orlo della tomba.</l>
+        <l>Goethe, grande adoratore della forma, incomincia il suo poema come lo finisce, la prima e l’ultima parola del Faust si ricongiungono in cielo. ~ Le motif glorieux, scrive il signor Blaxe de Bury, que les immortelles phalanges chantent dans l’introduction de la première partie de «Faust» revient à la fin enveloppé d’harmonie et de vapeurs mystiques. Goethe a fait cette fois comme les musiciens, comme Mozart, qui ramène à la dernière scène de «Don Juan» la phrase imposante de l’ouverture. ~ Ci siamo provati di realizzare, di sviluppare coi suoni questa aspirazione musicale di Goethe, e perciò abbiamo ricondotto nell’epilogo il tema del prologo, procurando di compendiare più che fosse possibile il pensiero del nostro poeta. – (Vedi Baron Blaze de Bury: Essai sur Goethe). – A. B.</l>
+      </sp>
+      <div type="act">
+        <head>PROLOGO</head>Prologo in cielo.Nebulosa.atto  – Lo squillo delle sette trombe. – I sette tuoni.Le Falangi celesti dietro la nebulosa invisibili.Chorus mysticus. I Cherubini. Le Penitenti.Poi Mefistofele solo nell’ombra.</div>
+      <div type="act">
+        <head>PROLOGO</head>Prologo in cielo.Nebulosa.atto  – Lo squillo delle sette trombe. – I sette tuoni.Le Falangi celesti dietro la nebulosa invisibili.Chorus mysticus. I Cherubini. Le Penitenti.Poi Mefistofele solo nell’ombra.<sp who="#prologo">
+          <speaker>PROLOGO:</speaker>
+          <l>Prologo in cielo.</l>
+          <l>Nebulosa.atto  – Lo squillo delle sette trombe. – I sette tuoni.</l>
+          <l>Le Falangi celesti dietro la nebulosa invisibili.</l>
+          <l>Chorus mysticus. I Cherubini. Le Penitenti.</l>
+          <l>Poi Mefistofele solo nell’ombra.</l>
+        </sp>
+        <stage>PROLOGOPrologo in cielo.Nebulosa.atto  – Lo squillo delle sette trombe. – I sette tuoni.Le Falangi celesti dietro la nebulosa invisibili.Chorus mysticus. I Cherubini. Le Penitenti.Poi Mefistofele solo nell’ombra.</stage>
+        <sp who="#falangi celesti">
+          <speaker>FALANGI CELESTI:</speaker>
+          <l>Ave Signor</l>
+          <l>Degli angeli e dei santi,</l>
+          <l>Ave Signor, Signor degli angeli,</l>
+          <l>O Signor degli angeli</l>
+          <l>E dei volanti cherubini d’or, ecc.</l>
+          <l>Ave, ave Signor.</l>
+          <l>Dall’eterna armonia dell’Universo</l>
+          <l>Nel glauco spazio immerso</l>
+          <l>Emana un verso</l>
+          <l>Di supremo amor.</l>
+          <l>E s’erge a Te</l>
+          <l>Per l’aure azzurre e cave</l>
+          <l>In un suon soave.</l>
+          <l>Ave, ave, ave, ave.</l>
+        </sp>
+        <stage>(Comparisce Mefistofele)</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(Coi piè fermi sul lembo del suo mantello)</l>
+          <l>Ave Signor.</l>
+          <l>Perdona se il mio gergo</l>
+          <l>Si lascia un po’ da tergo</l>
+          <l>Le supreme teodfe del paradiso;</l>
+          <l>Perdona se il mio viso</l>
+          <l>Non porta il raggio</l>
+          <l>Che inghirlanda i crini</l>
+          <l>Degli alti cherubini;</l>
+          <l>Perdona se dicendo</l>
+          <l>Io corro rischio</l>
+          <l>Di buscar qualche fischio.</l>
+          <l>Il Dio della piccina terra</l>
+          <l>Ognor traligna ed erra,</l>
+          <l>E, a par di grillo</l>
+          <l>Saltellante, a caso</l>
+          <l>Spinge fra gli astri il naso,</l>
+          <l>Poi con tenace fatuità superba</l>
+          <l>Fa il suo trillo nell’erba.</l>
+          <l>Boriosa polve! Tracotato atomo!</l>
+          <l>Fantasima dell’uomo</l>
+          <l>E tale il fa</l>
+          <l>Quell’ebbra illusione</l>
+          <l>Ch’egli chiama: Ragion, Ragion.</l>
+          <l>Ah! Sì, Maestro divino,</l>
+          <l>In buio fondo</l>
+          <l>Crolla il padron del mondo,</l>
+          <l>E non mi dà più il cuor,</l>
+          <l>Tant’ è fiaccato,</l>
+          <l>Di tentarlo al mal.</l>
+        </sp>
+        <stage>MEFISTOFELE(Coi piè fermi sul lembo del suo mantello)Ave Signor.Perdona se il mio gergoSi lascia un po’ da tergoLe supreme teodfe del paradiso;Perdona se il mio visoNon porta il raggioChe inghirlanda i criniDegli alti cherubini;Perdona se dicendoIo corro rischioDi buscar qualche fischio.Il Dio della piccina terraOgnor traligna ed erra,E, a par di grilloSaltellante, a casoSpinge fra gli astri il naso,Poi con tenace fatuità superbaFa il suo trillo nell’erba.Boriosa polve! Tracotato atomo!Fantasima dell’uomoE tale il faQuell’ebbra illusioneCh’egli chiama: Ragion, Ragion.Ah! Sì, Maestro divino,In buio fondoCrolla il padron del mondo,E non mi dà più il cuor,Tant’ è fiaccato,Di tentarlo al mal.</stage>
+        <sp who="#coro celestiale">
+          <speaker>CORO CELESTIALE:</speaker>
+          <l>(interno)</l>
+          <l>T’ è noto Fausto?</l>
+        </sp>
+        <stage>CORO CELESTIALE(interno)T’ è noto Fausto?</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Il più bizzarro pazzo</l>
+          <l>Ch’io mi conosca;</l>
+          <l>In curiosa forma</l>
+          <l>Ei ti serve da senno.</l>
+          <l>Inassopita bramosia di saper</l>
+          <l>Il fa tapino ed anelante;</l>
+          <l>Egli vorrebbe quasi trasumanar</l>
+          <l>E nulla scienze</l>
+          <l>Al cupo suo delirio è confine.</l>
+          <l>Io mi sobbarco ad aescarlo</l>
+          <l>Per modo ch’ei si trovi</l>
+          <l>Nelle mie reti;</l>
+          <l>Vuoi tu farne sommessa?</l>
+        </sp>
+        <sp who="#coro celestiale">
+          <speaker>CORO CELESTIALE:</speaker>
+          <l>E sia.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Sia! Vecchio Padre!</l>
+          <l>A un rude gioco t’avventurasti.</l>
+          <l>Ei morderà nel dolce</l>
+          <l>Pomo de’vizi</l>
+          <l>E sovra il Re del ciel</l>
+          <l>Avrò vittoria!</l>
+        </sp>
+        <sp who="#falangi celesti">
+          <speaker>FALANGI CELESTI:</speaker>
+          <l>Sanctus! Sanctus! Sanctus! Sanctus!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(fra sè)</l>
+          <l>Di un tratto</l>
+          <l>M’ è piacevol cosa</l>
+          <l>Vedere il Vecchio</l>
+          <l>E dal guastarmi seco</l>
+          <l>Molto mi guardo;</l>
+          <l>E’ bello udir l’Eterno</l>
+          <l>Col Diavolo parlar</l>
+          <l>Sì umanamente.</l>
+        </sp>
+        <stage>MEFISTOFELE(fra sè)Di un trattoM’ è piacevol cosaVedere il VecchioE dal guastarmi secoMolto mi guardo;E’ bello udir l’EternoCol Diavolo parlarSì umanamente.</stage>
+        <sp who="#cherubini">
+          <speaker>CHERUBINI:</speaker>
+          <l>(dietro la nebulosa)</l>
+          <l>Siam nimbi volanti dai limbi,</l>
+          <l>Nei santi splendori vaganti,</l>
+          <l>Siam cori di bimbi, d’amori.</l>
+          <l>Siam nimbi volanti dai limbi, ecc.</l>
+        </sp>
+        <stage>CHERUBINI(dietro la nebulosa)Siam nimbi volanti dai limbi,Nei santi splendori vaganti,Siam cori di bimbi, d’amori.Siam nimbi volanti dai limbi, ecc.</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>E’ lo sciame legger</l>
+          <l>Degli angioletti;</l>
+          <l>Come dell’api n’ho ribrezzo e noia.</l>
+        </sp>
+        <stage>(Scompare)</stage>
+        <sp who="#cherubini">
+          <speaker>CHERUBINI:</speaker>
+          <l>Fratelli, teniamci per mano,</l>
+          <l>Fin l’ultimo cielo lontano</l>
+          <l>Noi sempre dobbiamo danzar;</l>
+          <l>Fratelli, le morbide penne</l>
+          <l>Non cessino il volo perenne</l>
+          <l>Che intorno al Santissimo Altar.</l>
+          <l>Fratelli, teniamci per mano, ecc.</l>
+          <l>La danza in angelica spira</l>
+          <l>Si gira, si gira, si gira, ecc.</l>
+          <l>Siam nimbi volanti dai limbi,</l>
+          <l>Nei santi splendori vaganti,</l>
+          <l>Siam cori di bimbi, d’amori,</l>
+          <l>Siam nimbi volanti dai limbi, ecc.</l>
+        </sp>
+        <sp who="#le penitenti">
+          <speaker>LE PENITENTI:</speaker>
+          <l>(dalla terra)</l>
+          <l>Salve Regina!</l>
+          <l>S’innalzi un eco</l>
+          <l>Dal mondo cieco</l>
+          <l>Alla divina reggia del ciel.</l>
+          <l>Col nostro canto</l>
+          <l>Col nostro pianto,</l>
+          <l>Domiam l’intenso</l>
+          <l>Foco del senso,</l>
+          <l>Col nostro canto mite e fedel.</l>
+        </sp>
+        <stage>LE PENITENTI(dalla terra)Salve Regina!S’innalzi un ecoDal mondo ciecoAlla divina reggia del ciel.Col nostro cantoCol nostro pianto,Domiam l’intensoFoco del senso,Col nostro canto mite e fedel.</stage>
+        <sp who="#cherubini">
+          <speaker>CHERUBINI:</speaker>
+          <l>Sugli astri, sui venti, sui mondi,</l>
+          <l>Sui limpidi azzurri profondi,</l>
+          <l>Sui raggi del sol,</l>
+          <l>La danza in angelica spira</l>
+          <l>Si gira, si gira, si gira, ecc.</l>
+          <l>Ave Maria, gratia plena.</l>
+        </sp>
+        <sp who="#le penitenti">
+          <speaker>LE PENITENTI:</speaker>
+          <l>Odi la pia,</l>
+          <l>La pia prece serena.</l>
+          <l>Ave Maria, gratia plena,</l>
+          <l>Odi la pia prece serena.</l>
+          <l>Ave Maria, gratia plena.</l>
+        </sp>
+        <sp who="#falangi celesti">
+          <speaker>FALANGI CELESTI:</speaker>
+          <l>Oriam, oriam.</l>
+          <l>Oriam per quei m’orienti,</l>
+          <l>Per quei m’orienti oriam, ecc.</l>
+          <l>Ave Maria, gratia plena.</l>
+        </sp>
+        <sp who="#le penitenti">
+          <speaker>LE PENITENTI:</speaker>
+          <l>Il pentimento lagrime spande.</l>
+          <l>Di queste blande</l>
+          <l>Turbe il lamento</l>
+          <l>Accolga il ciel.</l>
+        </sp>
+        <sp who="#falangi celesti">
+          <speaker>FALANGI CELESTI:</speaker>
+          <l>Oriam per quelle</l>
+          <l>Di m’orienti ignave</l>
+          <l>Anime schiave,</l>
+          <l>Sì per quell’anime</l>
+          <l>Schiave preghiam.</l>
+        </sp>
+        <sp who="#cherubini">
+          <speaker>CHERUBINI:</speaker>
+          <l>Siam nimbi volanti dai limbi,</l>
+          <l>Nei santi splendori vaganti,</l>
+          <l>Siam cori di bimbi, d’amori</l>
+          <l>Siam nimbi, volanti dai limbi.</l>
+        </sp>
+        <sp who="#le penitenti, cherubini">
+          <speaker>LE PENITENTI, CHERUBINI,:</speaker>
+          <l>FALANGI CELESTI</l>
+          <l>Odi la pia,</l>
+          <l>La pia prece serena.</l>
+          <l>Ave, ave, ave, ecc.</l>
+          <l>Ah! ah! ah! ecc.</l>
+          <l>Ave Signor,</l>
+          <l>Signor degli angeli e dei santi</l>
+          <l>E delle sfere erranti,</l>
+          <l>E dei volanti cherubini d’or.</l>
+        </sp>
+        <sp who="#le penitenti">
+          <speaker>LE PENITENTI,:</speaker>
+          <l>FALANGI CELESTI</l>
+          <l>Dall’eterna armonia dell’Universo</l>
+          <l>Nel glauco spazio immerso</l>
+          <l>Emana un verso di supremo amor.</l>
+        </sp>
+        <sp who="#cherubini">
+          <speaker>CHERUBINI:</speaker>
+          <l>Ave, ave,</l>
+          <l>Signor degli angeli e dei santi,</l>
+          <l>Ave Signor.</l>
+        </sp>
+        <sp who="#le penitenti, cherubini">
+          <speaker>LE PENITENTI, CHERUBINI,:</speaker>
+          <l>FALANGI CELESTI</l>
+          <l>E s’erge a Te</l>
+          <l>Per l’aure azzurre e cave</l>
+          <l>In suon soave.</l>
+          <l>Ave, ave.</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>ATTO I</head>
+        <sp who="#atto i">
+          <speaker>ATTO I:</speaker>
+        </sp>
+        <stage>(Francoforte sul Meno. Porta e bastioni. Passeggiati d’ogni sorta ch’escono dalla città a gruppi. Chiacchiere, risate, grida, mormorio di folla, andirivieni. A intervalli campane di festa. Poi Fausto e Wagner)</stage>
+        <sp who="#gruppo 1">
+          <speaker>GRUPPO 1:</speaker>
+          <l>Perchè di la?</l>
+        </sp>
+        <sp who="#gruppo 2">
+          <speaker>GRUPPO 2:</speaker>
+          <l>Volgiam verso il casin di caccia.</l>
+        </sp>
+        <sp who="#gruppo 1">
+          <speaker>GRUPPO 1:</speaker>
+          <l>E noi verso il mulino.</l>
+        </sp>
+        <sp who="#fanciulle">
+          <speaker>FANCIULLE:</speaker>
+          <l>(traversando la scena cantando)</l>
+          <l>Del vago. April la traccia</l>
+          <l>Brilla e ride d’intorno</l>
+          <l>Baldezza e leggiadria.</l>
+        </sp>
+        <stage>FANCIULLE(traversando la scena cantando)Del vago. April la tracciaBrilla e ride d’intornoBaldezza e leggiadria.</stage>
+        <stage>(Le fanciulle passano)</stage>
+        <sp who="#gruppo 2">
+          <speaker>GRUPPO 2:</speaker>
+          <l>Che fate voi, compari?</l>
+        </sp>
+        <sp who="#gruppo 1">
+          <speaker>GRUPPO 1:</speaker>
+          <l>Stiam colla compagnia.</l>
+        </sp>
+        <sp who="#gruppo 2">
+          <speaker>GRUPPO 2:</speaker>
+          <l>Messeri, andiamo a Burgdorf.</l>
+          <l>Costà son le più buffe mattie,</l>
+          <l>La miglior birra,</l>
+          <l>Le donne e le baruffe</l>
+          <l>Più dilettose.</l>
+        </sp>
+        <sp who="#gruppo 1">
+          <speaker>GRUPPO 1:</speaker>
+          <l>Pazzi! Pazzi!</l>
+          <l>Vi prude ancor la schiena?</l>
+        </sp>
+        <stage>(Un banditore con una scritta in mano e a suon di tromba attrae la folla dei passeggiati; sta con lui un araldo. Dalla parte opposta un cerretano seguito da Hanswurst. La passeggiata diventa sempre più vivace. Un gruppo di balestrieri e popolani, avvicinandosi ad un rivenditore di birra)</stage>
+        <sp who="#gruppo 1">
+          <speaker>GRUPPO 1:</speaker>
+          <l>Qua il bicchier!</l>
+        </sp>
+        <sp who="#gruppo 2">
+          <speaker>GRUPPO 2:</speaker>
+          <l>Vogliam ber!</l>
+        </sp>
+        <sp who="#gruppo 1">
+          <speaker>GRUPPO 1:</speaker>
+          <l>E fare un brindisi.</l>
+        </sp>
+        <sp who="#gruppo 2">
+          <speaker>GRUPPO 2:</speaker>
+          <l>Ai folli amor!</l>
+        </sp>
+        <sp who="#gruppo 1">
+          <speaker>GRUPPO 1:</speaker>
+          <l>E alla beltà corriva!</l>
+        </sp>
+        <sp who="#gruppo 2">
+          <speaker>GRUPPO 2:</speaker>
+          <l>Evviva!</l>
+        </sp>
+        <sp who="#ambi gruppi">
+          <speaker>AMBI GRUPPI:</speaker>
+          <l>Beviam, ridiamo, cantiamo.</l>
+        </sp>
+        <stage>(Un frate grigio col cappuccio sul volto cammina tra la folla; alcuni lo inchinano, altri lo sfuggono)</stage>
+        <sp who="#la folla">
+          <speaker>LA FOLLA:</speaker>
+          <l>(traendo verso un lato della scena)</l>
+          <l>Guarda!</l>
+          <l>Là!</l>
+          <l>Quanti focosi destrieri</l>
+          <l>Scalpitan là!</l>
+          <l>C’è il buffon,</l>
+          <l>C’è il falconier,</l>
+          <l>C’è il buffon.</l>
+          <l>Rendiam omaggio al prence!</l>
+          <l>Fate omaggio al prence!</l>
+          <l>Largo, largo al suo passaggio!</l>
+          <l>Che abbarbaglio di gualdane!</l>
+          <l>Gloria al…</l>
+          <l>Principe!</l>
+          <l>Che rastuono di campane!</l>
+          <l>Vien la folla a onde, a onde,</l>
+          <l>S’arrabatta, si confonde . . .</l>
+          <l>Largo!</l>
+          <l>Che abbarbaglio di gualdane!</l>
+          <l>Largo!</l>
+          <l>Che frastuono di campane!</l>
+          <l>Guarda là! Ah!</l>
+        </sp>
+        <stage>LA FOLLA(traendo verso un lato della scena)Guarda!Là!Quanti focosi destrieriScalpitan là!C’è il buffon,C’è il falconier,C’è il buffon.Rendiam omaggio al prence!Fate omaggio al prence!Largo, largo al suo passaggio!Che abbarbaglio di gualdane!Gloria al…Principe!Che rastuono di campane!Vien la folla a onde, a onde,S’arrabatta, si confonde . . .Largo!Che abbarbaglio di gualdane!Largo!Che frastuono di campane!Guarda là! Ah!</stage>
+        <stage>(Risate, frastuono, la cavalcata passa. Alla sua testa il Principe elettore, dame, dignitari, paggi, il buffone, il falconiere, ecc. Molti passeggiati seguono curiosamente la cavalcata)</stage>
+        <sp who="#la folla">
+          <speaker>LA FOLLA:</speaker>
+          <l>Quanti focosi destrier!</l>
+          <l>Quanti bei cavalier!</l>
+          <l>I focosi destrieti scalpitan là!</l>
+          <l>Fate omaggio al principe,</l>
+          <l>Fate omaggio, omaggio al prence.</l>
+          <l>Ah!</l>
+        </sp>
+        <stage>(si disperdono. Fausto e Wagner discendono da un’altura)</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Al soave raggiar</l>
+          <l>Di primavera</l>
+          <l>Si scoscendono i ghiacci</l>
+          <l>E già rinverda</l>
+          <l>Di speranza la valle;</l>
+          <l>Il vecchio inverno fugge al monte</l>
+          <l>E il sol rallegra e avviva</l>
+          <l>Forme e color;</l>
+          <l>Se per anco al pianto</l>
+          <l>Non isbocciano i fior,</l>
+          <l>La somma luce</l>
+          <l>Fa pullulare in cambio</l>
+          <l>I bei borghesi</l>
+          <l>Azzimati da festa.</l>
+        </sp>
+        <stage>(Entra rumorosamente una frotta di popolani e popolane)</stage>
+        <sp who="#wagner">
+          <speaker>WAGNER:</speaker>
+          <l>Movere a diporto</l>
+          <l>Con voi, Dottor,</l>
+          <l>E’ onorevole e saggio;</l>
+          <l>Pur da me solo,</l>
+          <l>Qui mi schiferei</l>
+          <l>Fra questa gente.</l>
+          <l>M’è di noia il vulgo.</l>
+        </sp>
+        <stage>(Fausto e Wagner si ritirano nel fondo)</stage>
+        <sp who="#popolani">
+          <speaker>POPOLANI:</speaker>
+          <l>Juhè! Juhè! Juheisa! Juhè!</l>
+          <l>Hè! Ah! Hè!</l>
+          <l>Il bel giovanetto</l>
+          <l>Sen vien alla festa,</l>
+          <l>Coi nastri al farsetto,</l>
+          <l>Coi fior sulla testa.</l>
+          <l>E sotto ad un pioppo,</l>
+          <l>Fanciulle e compar</l>
+          <l>Si danno a danzar</l>
+          <l>Un matto galoppo.</l>
+        </sp>
+        <stage>(Incominciano a danzare l’Obertas)</stage>
+        <stage>(Popolani e danzatrici s’allontanano)</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>(a Wagner)</l>
+          <l>Sediam sovra quel sasso.</l>
+          <l>Osserva come</l>
+          <l>Fulgoreggian a vespro</l>
+          <l>Le capanne;</l>
+          <l>Declina il giorno.</l>
+        </sp>
+        <stage>FAUSTO(a Wagner)Sediam sovra quel sasso.Osserva comeFulgoreggian a vesproLe capanne;Declina il giorno.</stage>
+        <sp who="#wagner">
+          <speaker>WAGNER:</speaker>
+          <l>E l’ora degli spettri;</l>
+          <l>Essi sen vanno, fra i vapor</l>
+          <l>Della sera, ordendo reti</l>
+          <l>Sotti i piedi dell’uom.</l>
+          <l>Andiam;</l>
+          <l>S’impregna l’orizzonte di nebbia.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ah!</l>
+        </sp>
+        <sp who="#wagner">
+          <speaker>WAGNER:</speaker>
+          <l>A notte bruna</l>
+          <l>Torna dolce la casa.</l>
+          <l>A che sogguardi,</l>
+          <l>Nel crepuscolo assorto</l>
+          <l>Immobilmente?</l>
+        </sp>
+        <stage>(Ritorna il Frate grigio e si dirige lento e spettrale alla volta di Fausto)</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Vedi quel frate grigio</l>
+          <l>In mezzo i campi</l>
+          <l>Vagolante laggiù?</l>
+        </sp>
+        <sp who="#wagner">
+          <speaker>WAGNER:</speaker>
+          <l>Da lungo tratto,</l>
+          <l>Maestro, l’avvisai;</l>
+          <l>Nulla di strano appare in esso.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Aguzza ben lo sguardo.</l>
+          <l>Per chi tieni quel frate?</l>
+        </sp>
+        <sp who="#wagner">
+          <speaker>WAGNER:</speaker>
+          <l>E’ un questuante</l>
+          <l>Che va alla cerca.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Lo contempla.</l>
+          <l>Ei move in tortuose spire</l>
+          <l>E s’avvicina</l>
+          <l>Lento alla nostra volta.</l>
+          <l>Oh! se non erro,</l>
+          <l>Orme di foco imprime al suol!</l>
+        </sp>
+        <sp who="#wagner">
+          <speaker>WAGNER:</speaker>
+          <l>Ah! No! Fantasma quest’è,</l>
+          <l>Quest’è del tuo cervello,</l>
+          <l>Io non iscorgo</l>
+          <l>Che un frate grigio.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Par vada filando</l>
+          <l>De’ lacci intorno a noi.</l>
+        </sp>
+        <sp who="#wagner">
+          <speaker>WAGNER:</speaker>
+          <l>Timidamente va per la sua via,</l>
+          <l>Due sconosciuti noi siam per esso.</l>
+          <l>Ah! Fantasma quest’è,</l>
+          <l>Quest’è del tuo cervello.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>La spira si stringe.</l>
+          <l>Ei n’è vicin… ah!</l>
+        </sp>
+        <sp who="#wagner">
+          <speaker>WAGNER:</speaker>
+          <l>(freddamente)</l>
+          <l>L’osserva.</l>
+          <l>E’ un frate grigio,</l>
+          <l>Non è uno spettro;</l>
+          <l>Brontola orazioni</l>
+          <l>Rigirando un rosario.</l>
+          <l>Andiam, Maestro.</l>
+        </sp>
+        <stage>WAGNER(freddamente)L’osserva.E’ un frate grigio,Non è uno spettro;Brontola orazioniRigirando un rosario.Andiam, Maestro.</stage>
+        <stage>(Fausto e Wagner escono. Il frate li segue)</stage>
+        <sp who="#popolane">
+          <speaker>POPOLANE:</speaker>
+          <l>(lontanissime)</l>
+          <l>Il bel giovinetto</l>
+          <l>Sen vien alla festa.</l>
+          <l>Il bruno e la bionda</l>
+          <l>Son stretti in un vol.</l>
+          <l>Scena Seconda</l>
+        </sp>
+        <stage>POPOLANE(lontanissime)Il bel giovinettoSen vien alla festa.Il bruno e la biondaSon stretti in un vol.Scena Seconda</stage>
+        <stage>(Officina di Fausto Alcova. Notte)</stage>
+        <sp who="#voci">
+          <speaker>VOCI:</speaker>
+          <l>(lontanissime)</l>
+          <l>Ah! Ah! Ah!</l>
+        </sp>
+        <stage>VOCI(lontanissime)Ah! Ah! Ah!</stage>
+        <stage>(Fausto entrando. Il Frate grigio lo segue e si nasconde entro l’alcova)</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Dai campi, dai prati</l>
+          <l>Che inonda la notte,</l>
+          <l>Dai questi sentier</l>
+          <l>Ritorno e di pace,</l>
+          <l>Di calma profonda</l>
+          <l>Son pieno, di sacro mister.</l>
+          <l>Le torve passioni del core</l>
+          <l>S’assonnano in placido oblio,</l>
+          <l>Mi ferve soltanto</l>
+          <l>L’amore dell’uomo!</l>
+          <l>L’amore di Dio!</l>
+          <l>Ah! Dai campi, dai prati</l>
+          <l>Ritorno e verso all’Evangel</l>
+          <l>Mi sento attratto,</l>
+          <l>M’accingo a meditar.</l>
+        </sp>
+        <stage>(Apre un Vangelo posto su d’un alto leggio. Mentre si accinge a meditare è scosso dall’urlo del Frate che esce dall’alcova)</stage>
+        <stage>(All’ultima parole di Fausto il Frate si trasforma e appare Mefistofele in abito da cavaliere con un mantello nero sul braccio)</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Che baccano!</l>
+          <l>Messer, mi comandate.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Questo era dunque</l>
+          <l>Il nocciuol del frate?</l>
+          <l>Un cavalier!</l>
+          <l>Mi fa rider la facezia.</l>
+          <l>Come ti chiami?</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>La domanda</l>
+          <l>E’inezia puerile</l>
+          <l>Per tale che gli argomenti</l>
+          <l>Sdegna del Verbo</l>
+          <l>E crede sol agli Enti.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>In voi, messeri,</l>
+          <l>Il nome ha tal virtù</l>
+          <l>Che rivela l’Essenza.</l>
+          <l>Dimmi or su,</l>
+          <l>Chi sei tu dunque?</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Una parte vivente</l>
+          <l>Di quella forza</l>
+          <l>Che perpetuamente</l>
+          <l>Pensa il Male e fa il Bene.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>E che dir vuole</l>
+          <l>Codesto gioco di strane parole?</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Son lo Spirito</l>
+          <l>Che nega sempre, tutto;</l>
+          <l>L’astro, il fior.</l>
+          <l>Il mio ghingno e la mia bega</l>
+          <l>Turbano gli ozi al Creator.</l>
+          <l>Voglio il Nulla e del Creato</l>
+          <l>La ruina universal,</l>
+          <l>E’ atmosfera mia,</l>
+          <l>E’ atmosfera mia vital,</l>
+          <l>Ciò che chiamasi,</l>
+          <l>Ciò che chiamasi peccato,</l>
+          <l>Morte e Mal.</l>
+          <l>Rido e avvento questa sillaba:</l>
+          <l>“No!”</l>
+          <l>Struggo, tento, ruggo, sibilo:</l>
+          <l>“No!”</l>
+          <l>Mordo, invischio,</l>
+          <l>Struggo, tento, ruggo, sibilo:</l>
+          <l>Fischio! Fischio! Fischio!</l>
+          <l>Eh!</l>
+        </sp>
+        <stage>(Fichia violentemente colle dita fra le labbra)</stage>
+        <stage>(Fischia violentemente colle dita fra le labbra)</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Strano figlio del Caos.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>E tu, se brami farti mio socio,</l>
+          <l>Di buon grado accetto</l>
+          <l>Fin da quest’ora</l>
+          <l>E tuo compar mi chiamo,</l>
+          <l>O, se ti piace,</l>
+          <l>Tuo schiavo, tuo servo.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>E quali patti in ricambio</l>
+          <l>Adempier deggio?</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>V’è tempo a ciò.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>No, i patti</l>
+          <l>E parla chiaro.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Io qui mi lego</l>
+          <l>Ai tuoi servigi</l>
+          <l>E senza tregua accorro</l>
+          <l>Alle tue voglie;</l>
+          <l>Ma laggiù – m’intendi? –</l>
+          <l>La vece muterà.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Per l’altra vita</l>
+          <l>Non mi turba pensier.</l>
+          <l>Se tu mi doni</l>
+          <l>Un’ora di riposo</l>
+          <l>In cui s’acqueti l’alma.</l>
+          <l>Se sveli al mio buio pensier</l>
+          <l>Me stesso e il mondo.</l>
+          <l>Se avvien ch’io dica</l>
+          <l>All’attimo fuggente:</l>
+          <l>Arrestati, sei bello!</l>
+          <l>Allor ch’io muoia</l>
+          <l>E m’inghiotta l’averno.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Sta ben!</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Venga il contratto.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(si danno la mano)</l>
+          <l>Top, è già fatto.</l>
+          <l>Fin da stanotte,</l>
+          <l>Nell’orgie ghiotte</l>
+          <l>Del mio messer,</l>
+          <l>Da camerier,</l>
+          <l>Da camerier lo servirò.</l>
+          <l>Fin da stanotte, ecc.</l>
+        </sp>
+        <stage>MEFISTOFELE(si danno la mano)Top, è già fatto.Fin da stanotte,Nell’orgie ghiotteDel mio messer,Da camerier,Da camerier lo servirò.Fin da stanotte, ecc.</stage>
+        <sp who="#fausto, mefistofele">
+          <speaker>FAUSTO, MEFISTOFELE:</speaker>
+          <l>Fin da stanotte</l>
+          <l>Nell’orgie ghiotte,</l>
+          <l>Del suo/mio messer,</l>
+          <l>Da cameriere lo servirà/servirò.</l>
+          <l>Fin da stanotte, ecc.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>E quando s’incomincia?</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Tosto.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Or ben, presto, a noi,</l>
+          <l>Dove andiam?</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Dove t’aggrada.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Come s’esce di qua?</l>
+          <l>Dove i cavalli,</l>
+          <l>Le carrozze, i staffier?</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Pur ch’io distenda</l>
+          <l>Questo mantel;</l>
+          <l>Noi viaggeremo sull’aria.</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>ATTO II</head>
+        <sp who="#atto ii">
+          <speaker>ATTO II:</speaker>
+        </sp>
+        <stage>(Un giardino di rustica apparenza. Fausto sotto il nome di Enrico, Margherita, Mefistofele e Marta passeggiano due a due in lungo e in largo)</stage>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Cavaliero illustre e saggio,</l>
+          <l>Come mai vi può allettar</l>
+          <l>La fanciulla del villaggio</l>
+          <l>Col suo rustico parlar?</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Dalle labbra imporporate</l>
+          <l>Spandi accento sovruman.</l>
+          <l>Parla, parla.</l>
+        </sp>
+        <stage>(baciandole la mano)</stage>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Ah! Non baciate</l>
+          <l>Questa ruvida mia man,</l>
+          <l>No, no, no, cavalier.</l>
+        </sp>
+        <stage>(passano)</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(a Marta)</l>
+          <l>Sta ben al nubile</l>
+          <l>Correr giocondo,</l>
+          <l>In traccia d’ilari venture,</l>
+          <l>Il mondo,</l>
+          <l>In traccia d’ilari venture,</l>
+          <l>Il mondo.</l>
+        </sp>
+        <stage>MEFISTOFELE(a Marta)Sta ben al nubileCorrer giocondo,In traccia d’ilari venture,Il mondo,In traccia d’ilari venture,Il mondo.</stage>
+        <sp who="#marta">
+          <speaker>MARTA:</speaker>
+          <l>(ridendo)</l>
+          <l>Ah! Ah! Ah! Ah!</l>
+        </sp>
+        <stage>MARTA(ridendo)Ah! Ah! Ah! Ah!</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Ma quando lugubre</l>
+          <l>Tempo verrà,</l>
+          <l>Vecchio nel vedovo letto morrà,</l>
+          <l>Purtroppo! E Trepido</l>
+          <l>Vedo quell’ora.</l>
+          <l>Ah! Sì! Ah! Sì! Ahimè!</l>
+        </sp>
+        <sp who="#marta">
+          <speaker>MARTA:</speaker>
+          <l>Baie! Pensateci,</l>
+          <l>C’è tempo ancora.</l>
+        </sp>
+        <stage>(Fausto e Margherita ritornano)</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Mi perdona l’ardimento</l>
+          <l>Che dal labbro mi sfuggi</l>
+          <l>Quando il magico portento</l>
+          <l>Del tuo viso m’appari.</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Fui dolente, fui turbata,</l>
+          <l>Dubitai nel mio pensier</l>
+          <l>Che fanciulla scostumata</l>
+          <l>Piansi molto,</l>
+          <l>Piansi molto…</l>
+        </sp>
+        <sp who="#mefistofele, marta">
+          <speaker>MEFISTOFELE, MARTA:</speaker>
+          <l>(ridendo)</l>
+          <l>Ah! Ah!</l>
+        </sp>
+        <stage>MEFISTOFELE, MARTA(ridendo)Ah! Ah!</stage>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>… ma rimasemi nel cor</l>
+          <l>Sempre fiso il vostro volto.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Segui, segui, mio tesor.</l>
+        </sp>
+        <stage>(Margherita e Fausto passano)</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Da un’antichissimo detto s’impara</l>
+          <l>Che moglie saggia è cosa rara.</l>
+        </sp>
+        <sp who="#marta">
+          <speaker>MARTA:</speaker>
+          <l>Davver?</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Rara davver.</l>
+        </sp>
+        <sp who="#marta">
+          <speaker>MARTA:</speaker>
+          <l>Davver! Nè in trappola</l>
+          <l>Cadeste ancor?</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Non so, credetelo,</l>
+          <l>Che sia l’amor.</l>
+        </sp>
+        <sp who="#marta">
+          <speaker>MARTA:</speaker>
+          <l>Nè mai d’un palpito,</l>
+          <l>Nè mai d’un sogno,</l>
+          <l>V’arse bisogno fascinator?</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Non so, credetelo,</l>
+          <l>Che sia l’amor.</l>
+          <l>Non so credetelo.</l>
+        </sp>
+        <sp who="#marta">
+          <speaker>MARTA:</speaker>
+          <l>Ah! Ah! Ah! Ah!</l>
+        </sp>
+        <stage>(passano Margherita ritorna con Fausto) </stage>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Dimmi se credi, Enrico</l>
+          <l>Nella religione.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Non vo’ turbar le fedi</l>
+          <l>Delle coscienze buone.</l>
+          <l>D’altro parliam;</l>
+          <l>Darei per chi amo, fanciulla,</l>
+          <l>Sangue e vita.</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Non basta.</l>
+          <l>Creder bisogna</l>
+          <l>E a nulla tu credi, Enrico.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Ascolta, vezzoso angelo mio.</l>
+          <l>Chi oserbbe affermar tal detto:</l>
+          <l>Credo in Dio?</l>
+          <l>Le parole dei santi</l>
+          <l>Son beffe al ver ch’io chiedo,</l>
+          <l>E qual uomo oserebbe</l>
+          <l>Tanto da dir: non credo?</l>
+          <l>Colma il tuo cor d’un palpito</l>
+          <l>Ineffabile e vero d’amor</l>
+          <l>E chiama poi quell’estasi</l>
+          <l>Natura! Amor! Mistero!</l>
+          <l>Vita! Dio! Vita! Dio!</l>
+          <l>Non è che fumo e fola</l>
+          <l>In paragon del senso</l>
+          <l>Il nome e la parola.</l>
+          <l>Ah! Chiama tu poi quell’estasi</l>
+          <l>Natura! Amor! Mistero!</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Convien che vada,</l>
+          <l>Addio.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Vita! Dio!</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Addio, convien ch’io vada.</l>
+        </sp>
+        <stage>(fa per allontanarsi)</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Dimmi,</l>
+          <l>In casa sei sola sovente?</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>E’ piccioletta la nostra famigliola.</l>
+          <l>Io veglio all’orto,</l>
+          <l>Al desco ed allo staio,</l>
+          <l>Attendo ad ogni cura,</l>
+          <l>Filo sull’arcolaio.</l>
+          <l>E’ assai minuziosa la mamma,</l>
+          <l>Eppur, beate</l>
+          <l>Placidamente passo</l>
+          <l>Tutte le mie giornate.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Di’, non potrò giammai</l>
+          <l>Dolce un’ora d’amore</l>
+          <l>Viver teco e confondere</l>
+          <l>Il mio cuore col tuo cuore?</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Non dormo sola e in lieve</l>
+          <l>Sopor mia madre giace;</l>
+          <l>S’ella t’udisse</l>
+          <l>Credo, ne morrei.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Datti pace. A te;</l>
+        </sp>
+        <stage>(porgendole un’ampollina)</stage>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>(prende l’ampolla)</l>
+          <l>Porgi. Ne può venire</l>
+          <l>Alcun male a mia madre?</l>
+        </sp>
+        <stage>MARGHERITA(prende l’ampolla)Porgi. Ne può venireAlcun male a mia madre?</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Nessuno, nessuno, angiol soave</l>
+          <l>Dalle guance leggiadre! Ah!</l>
+        </sp>
+        <stage>(Marta e Mefistofele rientrano)</stage>
+        <sp who="#marta">
+          <speaker>MARTA:</speaker>
+          <l>Ah! Davver? Nè in trappola,</l>
+          <l>Nè in trappola cadeste ancor,</l>
+          <l>Ancor? Davver? Nè in trappola… ecc.</l>
+          <l>Ah! Sì.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Non so, credetelo,</l>
+          <l>Che sia l’amore,</l>
+          <l>Non so, credetelo, ecc.</l>
+          <l>Moglie saggia</l>
+          <l>E’ cosa rara davver, davver.</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Dio clemente, nuova, ignara</l>
+          <l>Son del mondo, dell’amore;</l>
+          <l>Sento un’aura arcana e cara</l>
+          <l>Che mi penetra nel core,</l>
+          <l>Sento un’aura arcana… ecc.</l>
+          <l>Ah! Sento…</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>E’ l’anelito supremo,</l>
+          <l>Il miracolo divino</l>
+          <l>Della vita!</l>
+          <l>Senza freno, senza fine!</l>
+          <l>E’ il miracolo d’amor, sì.</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Ah! Sento un’aura arcana e cara.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Ah! Sento un’aura arcana e cara.</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>(si svincola dalle mani di Fausto)</l>
+          <l>Addio! Fuggo, fuggo, lesta, lesta.</l>
+        </sp>
+        <stage>MARGHERITA(si svincola dalle mani di Fausto)Addio! Fuggo, fuggo, lesta, lesta.</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>(insegue Margherita)</l>
+          <l>Resta, resta Margherita.</l>
+        </sp>
+        <stage>FAUSTO(insegue Margherita)Resta, resta Margherita.</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(insegue Marta)</l>
+          <l>Marta! Marta!</l>
+        </sp>
+        <stage>MEFISTOFELE(insegue Marta)Marta! Marta!</stage>
+        <sp who="#marta">
+          <speaker>MARTA:</speaker>
+          <l>Corri, corri, lesto, lesto.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Margherita, resta, resta.</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Fuggo, fuggo, lesta, lesta.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Marta! Marta!</l>
+        </sp>
+        <sp who="#marta">
+          <speaker>MARTA:</speaker>
+          <l>Fuggo, fuggo, corri, corri.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Amor mio, vieni, vieni,</l>
+          <l>Dove corri? Dove fuggi?</l>
+          <l>Margherita! Margherita!</l>
+          <l>Dove corri?</l>
+        </sp>
+        <stage>(Afferrando Margherita)</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Dove corri? Dove corri?</l>
+          <l>Marta! Marta! Marta! Marta!</l>
+          <l>Dove corri? Dove corri?</l>
+        </sp>
+        <stage>(afferrando Marta)</stage>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Fuggo, fuggo,</l>
+          <l>Ah! Ah! Ah! Ah! Ah!</l>
+          <l>Fuggo, fuggo, ah! Ah!</l>
+          <l>Fuggo, fuggo,</l>
+        </sp>
+        <stage>(scroscio di risa)</stage>
+        <sp who="#marta">
+          <speaker>MARTA:</speaker>
+          <l>Corri, corri, ecc.</l>
+          <l>Ah! Ah!</l>
+          <l>T’amo! T’amo!</l>
+        </sp>
+        <stage>(Tutti sì disperdono)Scena Seconda</stage>
+        <stage>(Scena deserta e selvaggia nella valle di Schirk, costeggiata dagli spaventosi culmini del Brocken, monte delle streghe. I sinistri profili di roccie staccano in nero sul cielo grigio; un’aurora rosicchia di luna illumina stranamente la scena. Una caverna da un lato. Il picco di Rosstrappe a sinistra. Il vento soffia nei burroni)</stage>
+        <stage>(Mefistofele aizza Fausto a salir sulla montagna)</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(lontano)</l>
+          <l>Su cammina, cammina, cammina;</l>
+          <l>Buio è il cielo,</l>
+          <l>Scoscesa è la china;</l>
+          <l>Su cammina, cammina, cammina.</l>
+        </sp>
+        <stage>MEFISTOFELE(lontano)Su cammina, cammina, cammina;Buio è il cielo,Scoscesa è la china;Su cammina, cammina, cammina.</stage>
+        <sp who="#mefistofele, coro">
+          <speaker>MEFISTOFELE, CORO:</speaker>
+          <l>(come un eco)</l>
+          <l>Su cammina, cammina, cammina,</l>
+          <l>Che lontano, lontano, lontan</l>
+          <l>S’erge il monte del vecchio Satan.</l>
+          <l>Buio è il cielo,</l>
+          <l>Scoscesa è la china;</l>
+          <l>Su cammina.</l>
+        </sp>
+        <stage>MEFISTOFELE, CORO(come un eco)Su cammina, cammina, cammina,Che lontano, lontano, lontanS’erge il monte del vecchio Satan.Buio è il cielo,Scoscesa è la china;Su cammina.</stage>
+        <stage>(Appariscono dei fuochi fatui, uno di questi si dirige alla volta di Fausto e di Mefistofele)</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Folletto!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Folletto!</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Folletto, folletto,</l>
+          <l>Veloce, leggier.</l>
+          <l>Che splendi soletto</l>
+          <l>Per l’ermo sentier,</l>
+          <l>A noi t’avvicina,</l>
+          <l>Che buia è la china,</l>
+          <l>Folletto, folletto,</l>
+          <l>A noi t’avvicina.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Cammina, cammina, cammina.</l>
+        </sp>
+        <sp who="#fausto, mefistofele">
+          <speaker>FAUSTO, MEFISTOFELE:</speaker>
+          <l>Folletto, folletto,</l>
+          <l>Veloce, leggier,</l>
+          <l>Che splendi soletto, ecc.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Folletto…</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Cammina…</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>… folletto.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>…cammina.</l>
+        </sp>
+        <stage>(Mefistofele e Fausto appariscono sovra un’alta roccia isolati ed immobili)</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Ascolta.</l>
+          <l>S’agita il bosco</l>
+          <l>E gli alti pini antichi</l>
+          <l>Cozzan furenti</l>
+          <l>Colle giganti braccia.</l>
+        </sp>
+        <sp who="#voci">
+          <speaker>VOCI:</speaker>
+          <l>Ah!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Ascolta, ascolta!</l>
+        </sp>
+        <sp who="#voci">
+          <speaker>VOCI:</speaker>
+          <l>Ah!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Ad imo della valle</l>
+          <l>Un ululato di mille voci</l>
+          <l>Odo sonar.</l>
+        </sp>
+        <sp who="#voci">
+          <speaker>VOCI:</speaker>
+          <l>Ah!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>S’accosta l’infernale congrega.</l>
+        </sp>
+        <sp who="#voci">
+          <speaker>VOCI:</speaker>
+          <l>Ah!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Oh! Meraviglia!</l>
+          <l>Già i nembi, il monte,</l>
+          <l>Le boscaglie, i cieli</l>
+          <l>Un furioso intuonar</l>
+          <l>Magico carme!</l>
+        </sp>
+        <sp who="#streghe">
+          <speaker>STREGHE:</speaker>
+          <l>(dalla montagna)</l>
+          <l>Rampiamo, rampiamo</l>
+          <l>Che il tempo ci gabba,</l>
+          <l>E il ballo perdiamo</l>
+          <l>di Re Belzebù;</l>
+          <l>E’ notte fatale,</l>
+          <l>La notte del Sabba;</l>
+          <l>Il primo che sale</l>
+          <l>Ha un premio in più;</l>
+          <l>Su! Su! Su! Su!</l>
+        </sp>
+        <stage>STREGHE(dalla montagna)Rampiamo, rampiamoChe il tempo ci gabba,E il ballo perdiamodi Re Belzebù;E’ notte fatale,La notte del Sabba;Il primo che saleHa un premio in più;Su! Su! Su! Su!</stage>
+        <sp who="#stregoni">
+          <speaker>STREGONI:</speaker>
+          <l>Su! Su! Su! Su!</l>
+        </sp>
+        <sp who="#streghe">
+          <speaker>STREGHE:</speaker>
+          <l>Su! Su! Su! Su!</l>
+        </sp>
+        <sp who="#stregoni">
+          <speaker>STREGONI:</speaker>
+          <l>Su! Su! Su! Su!</l>
+        </sp>
+        <sp who="#streghe, stregoni">
+          <speaker>STREGHE, STREGONI:</speaker>
+          <l>E’ notte tremenda</l>
+          <l>La notte del Sabba.</l>
+        </sp>
+        <sp who="#stregoni">
+          <speaker>STREGONI:</speaker>
+          <l>Su svelti, su forti</l>
+          <l>Che il tempo ci gabba;</l>
+          <l>Le nostre consorti</l>
+          <l>Son giunte lassù.</l>
+          <l>E’ notte tremenda</l>
+          <l>La notte del Sabba;</l>
+          <l>E il primo che ascenda</l>
+          <l>Ha un premio di più.</l>
+        </sp>
+        <sp who="#streghe, stregoni">
+          <speaker>STREGHE, STREGONI:</speaker>
+          <l>Su! Su! Su! Su! ecc.</l>
+        </sp>
+        <stage>(irrompono freneticamente)</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Largo, largo a Mefistofele,</l>
+          <l>Al vostro Re!</l>
+          <l>O razza putrida,</l>
+          <l>Vuota di fè.</l>
+          <l>Che ognun m’adori</l>
+          <l>Ed umile si prostri al Re.</l>
+          <l>O razza putrida,</l>
+          <l>Vuota di fè.</l>
+        </sp>
+        <sp who="#streghe, stregoni">
+          <speaker>STREGHE, STREGONI:</speaker>
+          <l>(inginocchiati in circolo attorno a Mefistofele)</l>
+          <l>Ci prostriamo a Mefistofele,</l>
+          <l>Al nostro Re;</l>
+          <l>Ognuno atterrasi dinanzi a te,</l>
+          <l>Ci prostriamo a Mefistofele,</l>
+          <l>Al nostro Re.</l>
+        </sp>
+        <stage>STREGHE, STREGONI(inginocchiati in circolo attorno a Mefistofele)Ci prostriamo a Mefistofele,Al nostro Re;Ognuno atterrasi dinanzi a te,Ci prostriamo a Mefistofele,Al nostro Re.</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(su d’un sasso in forma di trono, con ampollosità)</l>
+          <l>Popoli! E scettro e clamide</l>
+          <l>Non date al Re sovrano?</l>
+          <l>La formidabil mano</l>
+          <l>Vuota dovrò serrar?</l>
+        </sp>
+        <stage>MEFISTOFELE(su d’un sasso in forma di trono, con ampollosità)Popoli! E scettro e clamideNon date al Re sovrano?La formidabil manoVuota dovrò serrar?</stage>
+        <sp who="#streghe">
+          <speaker>STREGHE:</speaker>
+          <l>(porgendo una clamide a Mefistofele)</l>
+          <l>Ecco la clamide,</l>
+          <l>Non t’adirar.</l>
+        </sp>
+        <stage>STREGHE(porgendo una clamide a Mefistofele)Ecco la clamide,Non t’adirar.</stage>
+        <sp who="#stregoni">
+          <speaker>STREGONI:</speaker>
+          <l>Or t’ubbidiscono ciel,</l>
+          <l>Terra e mar.</l>
+        </sp>
+        <sp who="#streghe">
+          <speaker>STREGHE:</speaker>
+          <l>Non t’adirar.</l>
+        </sp>
+        <sp who="#stregoni">
+          <speaker>STREGONI:</speaker>
+          <l>Non t’adirar.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Ho soglio,</l>
+          <l>Ho scettro e despota</l>
+          <l>Son del mio regno fiero.</l>
+          <l>Ma voglio il mondo interno</l>
+          <l>Nel pugno mio serrar.</l>
+        </sp>
+        <sp who="#streghe, stregoni">
+          <speaker>STREGHE, STREGONI:</speaker>
+          <l>(correndo intorno ad una caldaia)</l>
+          <l>Sotto la pentola</l>
+          <l>Corri a soffiar,</l>
+          <l>Entro la pentola</l>
+          <l>Corri a mischiar,</l>
+          <l>Sopra la pentola</l>
+          <l>Corri a danzar.</l>
+        </sp>
+        <stage>STREGHE, STREGONI(correndo intorno ad una caldaia)Sotto la pentolaCorri a soffiar,Entro la pentolaCorri a mischiar,Sopra la pentolaCorri a danzar.</stage>
+        <stage>(porgendo a Mefistofele un globo di vetro)</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(col globo di vetro in mano)</l>
+          <l>Ecco il mondo,</l>
+          <l>Vuoto e tondo,</l>
+          <l>S’alza, scende,</l>
+          <l>Balza e splende.</l>
+          <l>Fa carole intorno al sole,</l>
+          <l>Trema, rugge, dà e distrugge,</l>
+          <l>Ora sterile or fecondo.</l>
+          <l>Ecco il mondo.</l>
+          <l>Sul suo grosso</l>
+          <l>Antico dosso</l>
+          <l>V’è una schiatta</l>
+          <l>E sozza e matta,</l>
+          <l>Fiera, vile, ria, sottile,</l>
+          <l>Che ad ognora si divora</l>
+          <l>Dalla cima sino al fondo</l>
+          <l>Del reo mondo.</l>
+          <l>Fola vana è a lei Satana,</l>
+          <l>Riso e scherno</l>
+          <l>E’ a lei l’inferno,</l>
+          <l>Scherno e riso il Paradiso.</l>
+          <l>Oh per Dio!</l>
+          <l>Che or rido anch’io,</l>
+          <l>Oh per Dio! ecc.</l>
+          <l>Nel pensare ciò</l>
+          <l>Che le ascondo.</l>
+          <l>Ah! Ah! Ah! Ah!</l>
+          <l>Ecco il mondo!</l>
+        </sp>
+        <stage>MEFISTOFELE(col globo di vetro in mano)Ecco il mondo,Vuoto e tondo,S’alza, scende,Balza e splende.Fa carole intorno al sole,Trema, rugge, dà e distrugge,Ora sterile or fecondo.Ecco il mondo.Sul suo grossoAntico dossoV’è una schiattaE sozza e matta,Fiera, vile, ria, sottile,Che ad ognora si divoraDalla cima sino al fondoDel reo mondo.Fola vana è a lei Satana,Riso e schernoE’ a lei l’inferno,Scherno e riso il Paradiso.Oh per Dio!Che or rido anch’io,Oh per Dio! ecc.Nel pensare ciòChe le ascondo.Ah! Ah! Ah! Ah!Ecco il mondo!</stage>
+        <stage>(getta con impeto il globo di vetro che sì frange)</stage>
+        <sp who="#streghe, stregoni">
+          <speaker>STREGHE, STREGONI:</speaker>
+          <l>Ridiamo! Ridiamo!</l>
+          <l>Che il mondo è caduto!</l>
+          <l>Ridiamo! Ridiamo!</l>
+          <l>Che il mondo è perduto!</l>
+          <l>Sui morti frantumi</l>
+          <l>Del globo fatal</l>
+          <l>S’accenda, s’intrecci</l>
+          <l>La ridda infernal.</l>
+          <l>Ridiamo! Ridiamo!</l>
+          <l>Che il mondo è caduto,</l>
+          <l>Ridiamo, ridiamo</l>
+          <l>Che il mondo è caduto,</l>
+          <l>Ridiamo, ridiamo</l>
+          <l>Per lungo, per tondo ridiam!</l>
+          <l>Ridiam, ridiamo, ecc.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Stupor! Stupor!</l>
+          <l>Là nel lontano,</l>
+          <l>Nel nebuloso ciel,</l>
+          <l>Una fanciulla pallida,</l>
+          <l>Mesta, la scerni?</l>
+          <l>Il piede lento conduce</l>
+          <l>E di catene avvinto!</l>
+          <l>Ahi, pietosa vision,</l>
+          <l>Mi rassomiglia</l>
+          <l>Quella dolce figura</l>
+          <l>A Margherita.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Torci il guardo,</l>
+          <l>Quello è spettro seduttor,</l>
+          <l>E’ fantasma maliardo,</l>
+          <l>Che a chi il fissa ammorba il cor.</l>
+          <l>Torci il guardo,</l>
+          <l>Anima illusa,</l>
+          <l>Dalla testa di Medusa!</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Quell’occhio da celeste</l>
+          <l>Spalancato cadavericamente!</l>
+          <l>E il bianco sen</l>
+          <l>Che tanti ebbe da me</l>
+          <l>Baci d’amor!</l>
+          <l>Sì, è Margherita,</l>
+          <l>L’angelo mio, ah!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Torci il guardo! Nella fata</l>
+          <l>Sogna ognun colei che amò.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Ah, strano vezzo</l>
+          <l>Il collo le circonda</l>
+          <l>D’una riga sanguigna.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Ha la testa distaccata,</l>
+          <l>Perseo fu che la tagliò.</l>
+        </sp>
+        <sp who="#streghe, stregoni">
+          <speaker>STREGHE, STREGONI:</speaker>
+          <l>Ah! Su! Ridiamo, ridiamo,</l>
+          <l>Che il tempo ci gabba;</l>
+          <l>Sui vecchi rottami</l>
+          <l>Del globo fatal;</l>
+          <l>E’ notte tremenda</l>
+          <l>La notte del Sabba;</l>
+          <l>Rimbombi sul monte</l>
+          <l>La ridda infernal,</l>
+          <l>E’ notte tremenda, ecc.</l>
+          <l>Sabba, Sabba, Saboè!</l>
+          <l>E’ notte tremenda, ecc.</l>
+          <l>Tuoni sul monte,</l>
+          <l>Tuoni la ridda monte,</l>
+          <l>Ridiam, ridiam, ecc.</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>ATTO III</head>
+        <sp who="#atto iii">
+          <speaker>ATTO III:</speaker>
+        </sp>
+        <stage>(Carcere. Margherita stesa a terra su di un giaciglio di paglia, canticchiando e vaneggiando. Notte. Una lampada accesa inchiodata al muro. Un cancello nel fondo)</stage>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>L’altra notte in fondo al mare</l>
+          <l>Il mio bimbo hanno gittato,</l>
+          <l>Or per farmi delirare dicon ch’io</l>
+          <l>L’abbia affogato.</l>
+          <l>L’aura è fredda,</l>
+          <l>Il carcer fosco,</l>
+          <l>E la mesta anima mia</l>
+          <l>Come il passero del bosco</l>
+          <l>Vola, vola, vola via.</l>
+          <l>Ah! Pietà di me!</l>
+          <l>In letargico sopore</l>
+          <l>E’ mia madre addormentata,</l>
+          <l>E per colmo dell’orrore dicon ch’io</l>
+          <l>L’abbia attoscata.</l>
+          <l>L’aura è fredda,</l>
+          <l>Il carcer fosco, ecc.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>(fuori dal cancello)</l>
+          <l>Salvala!</l>
+        </sp>
+        <stage>FAUSTO(fuori dal cancello)Salvala!</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(fuori dal cancello)</l>
+          <l>E chi la spinse nell’abisso?</l>
+          <l>Io? O tu?</l>
+          <l>Ciò che posso farò.</l>
+          <l>Ecco le chiavi.</l>
+          <l>Dormono i carcerieri,</l>
+          <l>I puledri fatati</l>
+          <l>Son pronti alla fuga…</l>
+        </sp>
+        <stage>MEFISTOFELE(fuori dal cancello)E chi la spinse nell’abisso?Io? O tu?Ciò che posso farò.Ecco le chiavi.Dormono i carcerieri,I puledri fatatiSon pronti alla fuga…</stage>
+        <stage>(apre il cancello e parte)</stage>
+        <stage>(Fausto entra in carcere)</stage>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Dio di pietà!</l>
+          <l>Son essi . . .</l>
+          <l>Eccoli, aita!</l>
+          <l>Dura cosa è il morir…</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Pace… pace!</l>
+          <l>Io son un che ti salva.</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Un uom… tu sei…</l>
+          <l>Di carità…</l>
+          <l>L’abbi per me…</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Silenzio,</l>
+          <l>Margherita!</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Cielo!</l>
+          <l>Ah! Parla ancora!</l>
+          <l>Ah! Parla!</l>
+          <l>Ah! Tu mi salvi!</l>
+          <l>Ah! M’hai salvata!</l>
+          <l>Ecco, la strada è questa</l>
+          <l>Dov’io ti vidi</l>
+          <l>Per la prima volta!</l>
+          <l>Ecco il giardin di Marta…</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Ah! Vieni,</l>
+          <l>Ah! Vieni…</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Resta ancor, resta ancor…</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>T’affretta o a prezzo tremendo</l>
+          <l>Pagherem l’indugio.</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>E non mi baci?</l>
+          <l>E non mi baci?</l>
+          <l>Ah! Le tue labbra son gelo…</l>
+          <l>Che festi dell’amor tuo?</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Cessa!</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Tu mi togli pietoso</l>
+          <l>Alle catene?</l>
+          <l>E ignori chi tu salvi,</l>
+          <l>O pietoso?</l>
+          <l>Ho avvelenata…</l>
+          <l>La mia povera madre…</l>
+          <l>Ed ho affogato…</l>
+          <l>Il fantolino mio…</l>
+          <l>Qua… la tua mano…</l>
+          <l>Vien… vo’narrarti…</l>
+          <l>Il tetro ordin di tombe…</l>
+          <l>Che doman scaverai…</l>
+          <l>Là…</l>
+          <l>Fra le zolle più verdeggianti…</l>
+          <l>Stenderai mia madre</l>
+          <l>Nel più bel sito del cimiter…</l>
+          <l>Discosto… ma pur vicino…</l>
+          <l>Scaverai la mia…</l>
+          <l>La mia povera fossa…</l>
+          <l>E il mio bambino</l>
+          <l>Poserà sul mio sen.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Deh! Ti scongiuro, fuggiamo.</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>No. Sta l’inferno a quella porta…</l>
+          <l>Ah! Perchè fuggi?</l>
+          <l>Perchè non t’arresti?</l>
+          <l>Non ti posso seguir…</l>
+          <l>E poi…</l>
+          <l>La vita per me è dolor;</l>
+          <l>Che far sulla terra?</l>
+          <l>Mendicare il mio pane</l>
+          <l>A frusto a frusto</l>
+          <l>Dovrò colla coscienza</l>
+          <l>Paurosa de’ miei delitti.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Rivolgi a me lo sguardo!</l>
+          <l>Ah! Odi</l>
+          <l>La voce dell’amor che prega!</l>
+          <l>Vieni… fuggiam.</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Sì, fuggiamo…</l>
+          <l>Già sogno un incantato</l>
+          <l>Asil di pace,</l>
+          <l>Dove soavemente uniti ognor vivrem.</l>
+        </sp>
+        <stage>(Fausto e Margherita avvinti, guardandosi negli occhi e mormorando languidamente insieme)</stage>
+        <sp who="#margherita, fausto">
+          <speaker>MARGHERITA, FAUSTO:</speaker>
+          <l>Lontano, lontano, lontano,</l>
+          <l>Sui flutti d’un ampio oceano,</l>
+          <l>Fra i roridi effluvi del mar,</l>
+          <l>Fra l’alghe, fra i fior,</l>
+          <l>Fra le palme,</l>
+          <l>Il porto dell’intime calme,</l>
+          <l>L’azzurra isoletta m’appar.</l>
+          <l>M’appare sul cielo sereno</l>
+          <l>Ricinta d’un arcobaleno</l>
+          <l>Specchiante il sorriso del sol.</l>
+          <l>La fuga dei liberi amanti speranti,</l>
+          <l>Migranti, raggianti,</l>
+          <l>Dirige a quell’isola il volo,</l>
+          <l>La fuga dei liberi amanti, ecc.</l>
+          <l>Lontano, lontano, lontano.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(comparendo dal fondo)</l>
+          <l>Sorge il di!</l>
+        </sp>
+        <stage>MEFISTOFELE(comparendo dal fondo)Sorge il di!</stage>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Ah! Satana rugge!</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Ah! Deh! T’affretta,</l>
+          <l>Il tempo fugge!</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>(a Fausto)</l>
+          <l>Ah! No,</l>
+          <l>Non lasciarmi in abbandono!</l>
+        </sp>
+        <stage>MARGHERITA(a Fausto)Ah! No,Non lasciarmi in abbandono!</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Squilla già da quelle porte</l>
+          <l>La fanfara, la fanfara</l>
+          <l>Della morte.</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Ahimè! Gran Dio,</l>
+        </sp>
+        <stage>(staccandosi da Fausto)</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(accanto a Fausto)</l>
+          <l>Cessate, cessate le vane parole,</l>
+          <l>Dal ciel d’oriente</l>
+          <l>Già levasi il sole,</l>
+          <l>De’ neri puledri</l>
+          <l>Già s’ode il nitrire,</l>
+          <l>C’è d’uopo fuggir,</l>
+          <l>Fuggiam, ah! fuggiam, fuggiam.</l>
+        </sp>
+        <stage>MEFISTOFELE(accanto a Fausto)Cessate, cessate le vane parole,Dal ciel d’orienteGià levasi il sole,De’ neri puledriGià s’ode il nitrire,C’è d’uopo fuggir,Fuggiam, ah! fuggiam, fuggiam.</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Serena, fanciulla,</l>
+          <l>Lo spirto sconvolto;</l>
+          <l>Ch’io vegga tranquillo</l>
+          <l>Quel pallido volto;</l>
+          <l>Pon freno alla foga</l>
+          <l>De’ vani sospiri,</l>
+          <l>C’è d’uopo fuggir,</l>
+          <l>Ah! Sì, c’è d’uopo fuggir.</l>
+          <l>Ah! Non fossi mai nato!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Ebben?</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Chi s’erge?</l>
+          <l>Chi s’erge dalla terra?</l>
+          <l>E’ il mostro! Misericordia!</l>
+          <l>In questo santo asilo,</l>
+          <l>Che vuole il maledetto?</l>
+          <l>Ah! lo disaccia,</l>
+          <l>E’ forse me ch’ei vuol!</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Ah! Vieni e vivi, deh!</l>
+          <l>Vivi, Margherita.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Mi segui, o entrambi</l>
+          <l>V’abbandono alla mannaia.</l>
+        </sp>
+        <stage>(Luce d’alba. Mefistofele va ad esplorare nel fondo, sul cancello. Margherita, affranta, agonizzando nelle braccia di Fausto)</stage>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Spunta… l’aurora pallida…</l>
+          <l>L’ultimo di già viene…</l>
+          <l>Esser doveva…</l>
+          <l>Il fulgido giorno…</l>
+          <l>Del nostro imene…</l>
+          <l>Tutto è finito</l>
+          <l>In vita.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>O strazio crudel!</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Taci… ad ognun s’asconda,</l>
+          <l>S’asconda che amasti Margherita</l>
+          <l>E ch’io ti diedi il cor.</l>
+          <l>Ah! A questa moribonda perdonerai…</l>
+          <l>Signor… perdonerai, Signor.</l>
+          <l>Padre santo…</l>
+          <l>Mi salva… e voi, celesti,</l>
+          <l>Proteggete</l>
+          <l>Questa che a voi si volge.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>E’ giudicata.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>O strazio!</l>
+        </sp>
+        <sp who="#margherita">
+          <speaker>MARGHERITA:</speaker>
+          <l>Enrico…</l>
+        </sp>
+        <stage>(cade)</stage>
+        <sp who="#falangi celesti">
+          <speaker>FALANGI CELESTI:</speaker>
+          <l>E’ salva!…</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>A me, Fausto!</l>
+        </sp>
+        <stage>(Fausto e Mefistofele scompaiono. Nel fondo il carnefice circondato da sgherri)</stage>
+      </div>
+      <div type="act">
+        <head>ATTO IV</head>
+        <sp who="#atto iv">
+          <speaker>ATTO IV:</speaker>
+        </sp>
+        <stage>(Il fiume Penejos. Acque limpide, cespugli folti, fiori e fronde. La luna immobile allo Zenuit spande sulla scena una luce incantevole. Un tempio con due sfingi a sinistra. Nel fondo Elena a Pantalis, in una cimba di madreperla e d’argento; un gruppo di sirene intorno alla barca. Fausto giacerà assopito sulle zolle fiorite)</stage>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>La luna</l>
+          <l>Immobile inonda l’etere…</l>
+        </sp>
+        <sp who="#pantalis">
+          <speaker>PANTALIS:</speaker>
+          <l>Canta.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>…d’un raggio pallido.</l>
+        </sp>
+        <sp who="#pantalis">
+          <speaker>PANTALIS:</speaker>
+          <l>Caldo Balsamo stillan le ramora…</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Canta.</l>
+        </sp>
+        <sp who="#pantalis">
+          <speaker>PANTALIS:</speaker>
+          <l>…dai cespi roridi.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Doridi e</l>
+          <l>Silfidi, cigni e nereidi…</l>
+        </sp>
+        <sp who="#pantalis">
+          <speaker>PANTALIS:</speaker>
+          <l>Canta. nind</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>… vagan sull’alighe.</l>
+          <l>L’aura è serena,</l>
+          <l>La luna è piena,</l>
+          <l>Canta, o sirena,</l>
+          <l>La serenata!</l>
+        </sp>
+        <sp who="#pantalis">
+          <speaker>PANTALIS:</speaker>
+          <l>Canta, canta,</l>
+          <l>Canta, sirena, canta.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>(dietro le quinte)</l>
+          <l>Elena, Elena, Elena, Elena!</l>
+        </sp>
+        <stage>FAUSTO(dietro le quinte)Elena, Elena, Elena, Elena!</stage>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Viandante</l>
+          <l>Languido, t’appressa al margine…</l>
+        </sp>
+        <sp who="#pantalis">
+          <speaker>PANTALIS:</speaker>
+          <l>Canta.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>…del flutto flebile.</l>
+        </sp>
+        <sp who="#pantalis">
+          <speaker>PANTALIS:</speaker>
+          <l>Debile</l>
+          <l>Cantico t’invita; è florida…</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Canta.</l>
+        </sp>
+        <sp who="#pantalis">
+          <speaker>PANTALIS:</speaker>
+          <l>…la via di mammole.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Cantan le</l>
+          <l>Tenere sirene, amabili…</l>
+        </sp>
+        <sp who="#pantalis">
+          <speaker>PANTALIS:</speaker>
+          <l>Canta.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>…Grazie del mar.</l>
+          <l>L’aura è serena,</l>
+          <l>La luna è piena,</l>
+          <l>Canta, sirena,</l>
+          <l>La serenata!</l>
+        </sp>
+        <sp who="#pantalis">
+          <speaker>PANTALIS:</speaker>
+          <l>Canta, Canta,</l>
+          <l>Canta, sirena, canta!</l>
+        </sp>
+        <stage>(Partono)</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>(sempre dietro le quinte)</l>
+          <l>Elena, Elena, Elena, Elena!</l>
+        </sp>
+        <stage>FAUSTO(sempre dietro le quinte)Elena, Elena, Elena, Elena!</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(entrando con Fausto)</l>
+          <l>Ecco la notte del classico Sabba.</l>
+          <l>Gran ventura per te</l>
+          <l>Che cerchi vita</l>
+          <l>Nel regno delle favole;</l>
+          <l>Nel regno delle favole tu sei.</l>
+          <l>Saggio consiglio</l>
+          <l>E’ di spiar ciascun</l>
+          <l>Nostra fortuna</l>
+          <l>Per opposto sentier.</l>
+        </sp>
+        <stage>MEFISTOFELE(entrando con Fausto)Ecco la notte del classico Sabba.Gran ventura per teChe cerchi vitaNel regno delle favole;Nel regno delle favole tu sei.Saggio consiglioE’ di spiar ciascunNostra fortunaPer opposto sentier.</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Delibo l’aura</l>
+          <l>Del suo vago idioma cantatrice!</l>
+          <l>Son sul suol di Grecia!</l>
+          <l>Ogni mia fibra</l>
+          <l>E’ posseduta dall’amor.</l>
+        </sp>
+        <stage>(Fausto esce)</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Al Brocken,</l>
+          <l>Fra le streghe del Nord,</l>
+          <l>Ben io sapevo farmi obbedir,</l>
+          <l>Ma qui, fra stranie larve,</l>
+          <l>Più me stesso non trovo.</l>
+          <l>Atri vapori dell’irto Harz,</l>
+          <l>O prediletti alle mie nari!</l>
+          <l>Un’orma di voi non fiuto</l>
+          <l>In quest’attica terra.</l>
+          <l>Ma qual s’inoltra</l>
+          <l>Volante o danzante</l>
+          <l>Gaietto sciame femminil?</l>
+          <l>Vediamo.</l>
+        </sp>
+        <stage>(Entrano le Coretidi. Danze in cerchi. Mefistofele, confuso ed annoiato, esce)</stage>
+        <stage>(Entra Elena seguita dalle Coretidi)</stage>
+        <sp who="#coretidi">
+          <speaker>CORETIDI:</speaker>
+          <l>Ah!</l>
+          <l>Trionfi ad Elena,</l>
+          <l>Carmini, corone,</l>
+          <l>Danze patetiche,</l>
+          <l>Ludi di cetera.</l>
+          <l>Circonfusa di sol</l>
+          <l>Il magico viso,</l>
+          <l>Tu irradi l’anime,</l>
+          <l>Riverberi il cielo.</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>(assorta in una fatale visione)</l>
+          <l>Notte cupa, truce,</l>
+          <l>Senza fine, funebre!</l>
+          <l>Orrida notte d’Illio!</l>
+          <l>Implacato rimorso!</l>
+          <l>Nugoli d’arsa</l>
+          <l>Polvere al vento</l>
+          <l>Surgono e fanno</l>
+          <l>Più cieca la tenebra.</l>
+        </sp>
+        <stage>ELENA(assorta in una fatale visione)Notte cupa, truce,Senza fine, funebre!Orrida notte d’Illio!Implacato rimorso!Nugoli d’arsaPolvere al ventoSurgono e fannoPiù cieca la tenebra.</stage>
+        <sp who="#coretidi">
+          <speaker>CORETIDI:</speaker>
+          <l>Pace!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Di cozzantisi scudi</l>
+          <l>E di carri scroscianti</l>
+          <l>E di catapulte sonanti</l>
+          <l>L’etere è scossa!</l>
+          <l>Sì muta il suol</l>
+          <l>In volutabro di sangue.</l>
+        </sp>
+        <sp who="#coretidi">
+          <speaker>CORETIDI:</speaker>
+          <l>Numi! Numi!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>I numi terribili</l>
+          <l>Già ruggono,</l>
+          <l>L’ire inferocendo</l>
+          <l>Della pugna;</l>
+          <l>L’ispide torri</l>
+          <l>Ergonsi tragiche, negre,</l>
+          <l>Fra la caligin densa.</l>
+        </sp>
+        <sp who="#coretidi">
+          <speaker>CORETIDI:</speaker>
+          <l>Elena!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>L’incendio già lambe le case.</l>
+          <l>Veggonsi l’ombre degli Achei</l>
+          <l>Proiette bui profili giganti</l>
+          <l>Vagolar le pareti</l>
+          <l>In mezzo ai roghi.</l>
+          <l>Ahimè! Ah!</l>
+          <l>Alto silenzio</l>
+          <l>Regna poscia</l>
+          <l>Dove fu Troia.</l>
+          <l>(Entra Fausto splendidamente vestito coll’abito dei </l>
+          <l>Cavalieri del XV secolo; è seguito da Mefistofele, </l>
+          <l>Nero, Pantalis, di piccoli Fauni e da Sirene)</l>
+        </sp>
+        <stage>ELENAL’incendio già lambe le case.Veggonsi l’ombre degli AcheiProiette bui profili gigantiVagolar le paretiIn mezzo ai roghi.Ahimè! Ah!Alto silenzioRegna posciaDove fu Troia.(Entra Fausto splendidamente vestito coll’abito dei Cavalieri del XV secolo; è seguito da Mefistofele, Nero, Pantalis, di piccoli Fauni e da Sirene)</stage>
+        <sp who="#coretidi">
+          <speaker>CORETIDI:</speaker>
+          <l>Chi vien?</l>
+          <l>Chi vien?</l>
+          <l>O strana, o mirabile vista!</l>
+          <l>Un eroe tutto splendido s’inoltra!</l>
+          <l>Sul suo viso mestissimo</l>
+          <l>Sì legge: Amor!</l>
+          <l>Volgiti, Regina!</l>
+          <l>Regina, volgiti e guarda.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>(inchinato davanti ad Elena) </l>
+          <l>Forma ideal purissima</l>
+          <l>Della bellezza eterna!</l>
+          <l>Un uom ti si prosterna</l>
+          <l>Innamorato al suolo.</l>
+          <l>Volgi ver me,</l>
+          <l>Di tua pupilla bruna,</l>
+          <l>Vaga come la luna,</l>
+          <l>Ardente come il sole.</l>
+          <l>Un uom ti si prosterna,</l>
+          <l>Innamorato, innamorato al suol.</l>
+        </sp>
+        <stage>FAUSTO(inchinato davanti ad Elena) Forma ideal purissimaDella bellezza eterna!Un uom ti si prosternaInnamorato al suolo.Volgi ver me,Di tua pupilla bruna,Vaga come la luna,Ardente come il sole.Un uom ti si prosterna,Innamorato, innamorato al suol.</stage>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Dal tuo respiro</l>
+          <l>Prendo e mi chiamo beata</l>
+          <l>Ch’unica fra tutte</l>
+          <l>Le troadi e le argive ninfe</l>
+          <l>Spargo i voluttuosi</l>
+          <l>Fascini su cotanto amante!</l>
+          <l>Dal suo respiro pendo,</l>
+          <l>E mi chiamo beata, ah! beata.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>La tranquilla immagine</l>
+          <l>Della fanciulla blanda</l>
+          <l>Ch’amai, là fra le nebbie</l>
+          <l>D’una perduta landa</l>
+          <l>Già disvanì;</l>
+          <l>Un più sublime sguardo,</l>
+          <l>Un più folgorato viso,</l>
+          <l>E tremo ed ardo!</l>
+          <l>Adoro e tremo ed ardo!</l>
+          <l>Conquiso m’ha.</l>
+          <l>Più sublime amor, ecc.</l>
+        </sp>
+        <sp who="#coretidi">
+          <speaker>CORETIDI:</speaker>
+          <l>Quivi l’amor li aduna!</l>
+          <l>Prodigo! Li aduna l’amor!</l>
+          <l>O stupor!</l>
+          <l>O celeste coppia!</l>
+          <l>Sembran Endimione e Luna!</l>
+          <l>La dea deliba l’alito</l>
+          <l>Dell’eroe rapito!</l>
+          <l>Li aduna qui l’amor!</l>
+          <l>Lo contempla! O stupor! ecc.</l>
+          <l>Quasi lo bacia, o stupor!</l>
+          <l>O coppia del ciel!</l>
+          <l>Quivi l’amor li aduna, l’amor!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>O stupore! Prodigo!</l>
+          <l>Quivi l’amor li aduna!</l>
+          <l>Stupor! Stupor!</l>
+          <l>Guarda!</l>
+          <l>Ah! Qui li aduna l’amor!</l>
+        </sp>
+        <stage>(alle coretidi)</stage>
+        <sp who="#pantalis">
+          <speaker>PANTALIS:</speaker>
+          <l>Ah! Quivi l’amor li aduna!</l>
+          <l>Guarda!</l>
+          <l>Coppia del ciel!</l>
+          <l>O coppia celeste!</l>
+        </sp>
+        <sp who="#nero">
+          <speaker>NERO:</speaker>
+          <l>Prodigo, prodigo!</l>
+          <l>O prodigo!</l>
+          <l>Stupor! Celeste coppia!</l>
+          <l>Qui li aduna l’amor!</l>
+          <l>Sì, quivi l’amor li aduna,</l>
+          <l>L’amor, l’amor!</l>
+        </sp>
+        <stage>(Mefistofele, Pantalis, Nero e le Coretidi s’allontanano)</stage>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>O incantesimo!</l>
+          <l>Parla! Parla!</l>
+          <l>Qual magico soffio</l>
+          <l>Cotanto bea la tua dolce</l>
+          <l>Loquela d’amore?</l>
+          <l>Il suon tu inserti al suon,</l>
+          <l>Quasi alito d’eco</l>
+          <l>D’estasi piena.</l>
+          <l>Dimmi, como farò a palar</l>
+          <l>L’idioma soave?</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Frugo nel cor</l>
+          <l>E ti rispondo: Ave!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>E mi rispondi: Ave.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Così tu pur come</l>
+          <l>Augello a richiamo,</l>
+          <l>Frughi nel cor e mi rispondi:</l>
+          <l>T’amo!</l>
+          <l>T’amo!</l>
+          <l>Ah! T’amo, t’amo!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>T’amo! T’amo, t’amo!</l>
+        </sp>
+        <sp who="#elena, fausto">
+          <speaker>ELENA, FAUSTO:</speaker>
+          <l>Ah! Amore! Mistero celeste,</l>
+          <l>Profondo!</l>
+          <l>Già il tempo dilegua</l>
+          <l>Cancellasi il mondo!</l>
+          <l>Già l’ore dai tetri mortali contate</l>
+          <l>Ramingan serene</l>
+          <l>Per plaghe beate!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Per plaghe beate</l>
+          <l>Ramingan serene!</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Amore!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>E brividi ignoti</l>
+          <l>Mi cercan le vene.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Amore!</l>
+        </sp>
+        <sp who="#fausto, elena">
+          <speaker>FAUSTO, ELENA:</speaker>
+          <l>E un’aura di cantici</l>
+          <l>Esala il mio core.</l>
+          <l>Guardandoci in viso,</l>
+          <l>Cantiamo l’amore!</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Cantiamo l’amore</l>
+          <l>Guardandoci in viso!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Cantiam l’amor!</l>
+          <l>Ah! L’amore, l’amore delirio!</l>
+        </sp>
+        <sp who="#elena, fausto">
+          <speaker>ELENA, FAUSTO:</speaker>
+          <l>L’amore sorriso!</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Ah! L’amore visione…</l>
+          <l>L’amore canzone,</l>
+          <l>Sia sempre nel tardo</l>
+          <l>Futuro sommerso</l>
+          <l>L’estremo suo canto</l>
+          <l>L’estremo suo verso!</l>
+          <l>Cantiamo l’amor!</l>
+          <l>Ah! Cantiamo l’amor!</l>
+          <l>Mister! L’amor, l’amor!</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>Ah! L’amore canzone,</l>
+          <l>Sia sempre nel tardo</l>
+          <l>Futuro sommerso</l>
+          <l>L’estremo suo verso!</l>
+          <l>Amor! Amor! Amore! Mister! Amor!</l>
+        </sp>
+        <sp who="#coretidi, corifei">
+          <speaker>CORETIDI, CORIFEI:</speaker>
+          <l>Poesia libera,</l>
+          <l>T’alza pe’ cieli!</l>
+          <l>Voli di folgore!</l>
+          <l>Impeti d’aquila!</l>
+          <l>Spinganti all’ultime</l>
+          <l>Regge del sol, poesia!</l>
+          <l>Sì, spinganti a vol!</l>
+        </sp>
+        <stage>(allontanandosi)</stage>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>(mormorato)</l>
+          <l>Giace in Arcadia</l>
+          <l>Una placida valle…</l>
+        </sp>
+        <stage>ELENA(mormorato)Giace in ArcadiaUna placida valle…</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>(mormorato)</l>
+          <l>Ivi insieme vivrem.</l>
+        </sp>
+        <stage>FAUSTO(mormorato)Ivi insieme vivrem.</stage>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>E avrem per nido</l>
+          <l>Le grotte delle ninfe…</l>
+          <l>E per guanciale . . .</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Le tue morbide chiome…</l>
+        </sp>
+        <sp who="#elena">
+          <speaker>ELENA:</speaker>
+          <l>E i fior di prato…</l>
+        </sp>
+        <stage>(Sì perdono, mormorando, fra i cespugli)</stage>
+        <sp who="#coretidi, corifei">
+          <speaker>CORETIDI, CORIFEI:</speaker>
+          <l>Ah!</l>
+        </sp>
+        <sp who="#epilogo">
+          <speaker>EPILOGO:</speaker>
+        </sp>
+        <stage>(Laboratorio di Fausto come nell’atto primo ma qua e là diroccato dal tempo. Voci magiche sparse nell’aria. Fausto, seduto sul seggiolone e conturbato, medita. Mefistofele gli sta dietro come un incubo. Notte. Una lampada arde languidamente; scena quasi oscura. Il Vangelo aperto, come nel primo atto, sul leggio.</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(fissando Fausto)</l>
+          <l>Cammina, cammina,</l>
+          <l>Superbo, pensier.</l>
+        </sp>
+        <stage>MEFISTOFELE(fissando Fausto)Cammina, cammina,Superbo, pensier.</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>(alzondosi, come assorto in un’estatica visione)</l>
+          <l>O rimembranza!</l>
+        </sp>
+        <stage>FAUSTO(alzondosi, come assorto in un’estatica visione)O rimembranza!</stage>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(fra sè)</l>
+          <l>La morte è vicina,</l>
+          <l>Cammina, cammina,</l>
+          <l>Superbo pensiero.</l>
+        </sp>
+        <stage>MEFISTOFELE(fra sè)La morte è vicina,Cammina, cammina,Superbo pensiero.</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Corsi attraverso il mondo</l>
+          <l>E i suoi miraggi!</l>
+          <l>Ghermii pel crine</l>
+          <l>Il desiderlo alato!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(fra sè)</l>
+          <l>O canti! O memorie</l>
+          <l>D’incanti e di glorie,</l>
+          <l>Guidate a ruina</l>
+          <l>Quell’animo altier.</l>
+        </sp>
+        <stage>MEFISTOFELE(fra sè)O canti! O memorieD’incanti e di glorie,Guidate a ruinaQuell’animo altier.</stage>
+        <stage>(a Fausto)</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Ogni mortal mister gustai,</l>
+          <l>Il Real, l’Ideale,</l>
+          <l>L’Amore della vergine,</l>
+          <l>L’Amore della Dea… sì.</l>
+          <l>Ma il Real fu dolore</l>
+          <l>E l’Ideal fu sogno…</l>
+          <l>Giunto sul passo estremo</l>
+          <l>Della più estrema, età,</l>
+          <l>In un sogno supremo</l>
+          <l>Sì bea l’anima già,</l>
+          <l>In un sogno supremo, ecc.</l>
+          <l>Re d’un placido mondo,</l>
+          <l>D’una landa infinita,</l>
+          <l>A un popola fecondo</l>
+          <l>Voglio donar la vita.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(fra sè)</l>
+          <l>Spiar voglio il suo cor.</l>
+        </sp>
+        <stage>MEFISTOFELE(fra sè)Spiar voglio il suo cor.</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Sotto una savia legge</l>
+          <l>Vo’che surgano a mille</l>
+          <l>A mille e genti e gregge</l>
+          <l>E case e campi e ville.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(fra sè)</l>
+          <l>Ah! All’erta, tentator!</l>
+        </sp>
+        <stage>MEFISTOFELE(fra sè)Ah! All’erta, tentator!</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Ah! Voglio</l>
+          <l>Che questo sogno</l>
+          <l>Sia la santa poesia</l>
+          <l>E l’ultimo bisogno</l>
+          <l>Dell’esistenza mia.</l>
+          <l>Voglio che questo sogno</l>
+          <l>Sia la santa poesia</l>
+          <l>Dell’esistenza!</l>
+          <l>Ecco…</l>
+          <l>La nuova turba</l>
+          <l>Al guardo mio si svela!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(fra sè)</l>
+          <l>Ah! Qual baglior conturba</l>
+          <l>Il muto tenebror?!</l>
+        </sp>
+        <stage>MEFISTOFELE(fra sè)Ah! Qual baglior conturbaIl muto tenebror?!</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>S’ode un cantico in ciel.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(fra sè)</l>
+          <l>All’erta!</l>
+        </sp>
+        <stage>MEFISTOFELE(fra sè)All’erta!</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>S’ode un cantico in ciel.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(fra sè)</l>
+          <l>All’erta tentator!</l>
+        </sp>
+        <stage>MEFISTOFELE(fra sè)All’erta tentator!</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Già mi beo nell’augusto raggio</l>
+          <l>Di tanta aurora!</l>
+          <l>Già nell’idea pregusto</l>
+          <l>L’alta ineffabil ora!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(fra sè)</l>
+          <l>All’erta, all’erta!</l>
+          <l>E’ la battaglia incerta</l>
+          <l>Fra Satana ed il Ciel.</l>
+        </sp>
+        <stage>MEFISTOFELE(fra sè)All’erta, all’erta!E’ la battaglia incertaFra Satana ed il Ciel.</stage>
+        <stage>(a Fausto, dispiegando il mantello come nell’atto primo)</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Cielo!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>…e volerem sull’aria!</l>
+          <l>Fausto! Fausto! Fausto!</l>
+        </sp>
+        <sp who="#falangi celesti">
+          <speaker>FALANGI CELESTI:</speaker>
+          <l>Ah!</l>
+          <l>Ave Signor,</l>
+          <l>Signor degli angeli,</l>
+          <l>Dei santi, delle sfere…</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(esorcizzando verso l’alcova dove appariscono</l>
+          <l>le Sirene in mezzo ad una luce calda)</l>
+          <l>Odi il canto d’amor</l>
+          <l>Che un dì beò il tuo cor!</l>
+          <l>Vieni a inebbriar le vene</l>
+          <l>Sul sen delle Sirene!</l>
+          <l>Vieni!</l>
+        </sp>
+        <stage>MEFISTOFELE(esorcizzando verso l’alcova dove apparisconole Sirene in mezzo ad una luce calda)Odi il canto d’amorChe un dì beò il tuo cor!Vieni a inebbriar le veneSul sen delle Sirene!Vieni!</stage>
+        <stage>(Le Sirene scompaiono)</stage>
+        <sp who="#falangi, celesti">
+          <speaker>FALANGI, CELESTI:</speaker>
+          <l>…delle sfere, dei volanti,</l>
+          <l>…e dei santi, dei volanti,</l>
+          <l>E dei volanti Cherubini d’or</l>
+          <l>Ave, Signor!</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Arrestati, sei bello!</l>
+        </sp>
+        <sp who="#cherubini">
+          <speaker>CHERUBINI:</speaker>
+          <l>Ave!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Torci il guardo,</l>
+          <l>Torci il guardo!</l>
+        </sp>
+        <stage>(Fausto con un gesto possente va ad afferrare il Vangelo)</stage>
+        <sp who="#falangi celesti">
+          <speaker>FALANGI CELESTI:</speaker>
+          <l>E dei volanti Cherubini d’or.</l>
+          <l>Ave, Signor degli angeli.</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Baluardo m’è il Vangelo!</l>
+        </sp>
+        <sp who="#cherubini">
+          <speaker>CHERUBINI:</speaker>
+          <l>Ave!</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Torci il guardo,</l>
+          <l>Torci il guardo!</l>
+        </sp>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Dio clemente, m’allontana</l>
+          <l>Dal demonio mio beffardo,</l>
+          <l>Non indurmi in tentazione!</l>
+        </sp>
+        <stage>(rapito nell’estasi della visione)</stage>
+        <sp who="#falangi celesti">
+          <speaker>FALANGI CELESTI:</speaker>
+          <l>Dall’eterna armonia</l>
+          <l>Dell’Universo</l>
+          <l>Nel glauco spazio immerso…</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>(fra sè)</l>
+          <l>Già strilla l’angelico stuolo,</l>
+          <l>Ghermiamo quell’anima al volo.</l>
+          <l>Già l’opra del male distrugge</l>
+          <l>Iddio col suo stolto perdon,</l>
+          <l>Col suo stolto perdon!</l>
+        </sp>
+        <stage>MEFISTOFELE(fra sè)Già strilla l’angelico stuolo,Ghermiamo quell’anima al volo.Già l’opra del male distruggeIddio col suo stolto perdon,Col suo stolto perdon!</stage>
+        <sp who="#fausto">
+          <speaker>FAUSTO:</speaker>
+          <l>Sacro attimo fuggente,</l>
+          <l>Arrestati, sei bello!</l>
+          <l>A me l’eternità!</l>
+        </sp>
+        <stage>(muore)</stage>
+        <sp who="#falangi celesti">
+          <speaker>FALANGI CELESTI:</speaker>
+          <l>…emana un verso,</l>
+          <l>Un verso di supremo amor…</l>
+        </sp>
+        <stage>(Scende una pioggia di rose sulla salma di Fausto)</stage>
+        <sp who="#cherubini">
+          <speaker>CHERUBINI:</speaker>
+          <l>Spargiamo un profluvio di rose,</l>
+          <l>Un nembo di foglie odorose,</l>
+          <l>Un effluvio di fior.</l>
+        </sp>
+        <sp who="#falangi, celesti">
+          <speaker>FALANGI, CELESTI:</speaker>
+          <l>…e s’erge a Te.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Diluvian le rose</l>
+          <l>Sull’arsa mia testa,</l>
+          <l>Le membra ho corrose</l>
+          <l>Dai raggi dai fior.</l>
+        </sp>
+        <sp who="#cherubini">
+          <speaker>CHERUBINI:</speaker>
+          <l>Oriamo, la povera salma s’invola,</l>
+          <l>Redenta quell’alma nel mistico amor.</l>
+        </sp>
+        <sp who="#falangi celesti">
+          <speaker>FALANGI CELESTI:</speaker>
+          <l>S’erge a Te per l’aure…</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>M’assale la mischia</l>
+          <l>Di mille angioletti.</l>
+          <l>Trionfan gli eletti,</l>
+          <l>Ma il reprobo fischia!</l>
+        </sp>
+        <sp who="#cherubini">
+          <speaker>CHERUBINI:</speaker>
+          <l>Spargiamo un diluvio</l>
+          <l>Di rose sul mostro,</l>
+          <l>Le gelide e irose</l>
+          <l>Sue membra contorca…</l>
+        </sp>
+        <sp who="#falangi celesti">
+          <speaker>FALANGI CELESTI:</speaker>
+          <l>…in suon soave.</l>
+        </sp>
+        <sp who="#mefistofele">
+          <speaker>MEFISTOFELE:</speaker>
+          <l>Trionfa il Signor,</l>
+          <l>Ma il reprobo fischia!</l>
+          <l>Eh!</l>
+        </sp>
+        <sp who="#cherubini">
+          <speaker>CHERUBINI:</speaker>
+          <l>…furente in mezzo</l>
+          <l>Alla pioggia rovente,</l>
+          <l>Alla pioggia rovente che spargon</l>
+          <l>I cherubini d’oro.</l>
+          <l>Siam nimbi volanti dai limbi,</l>
+          <l>Nei santi splendori vaganti.</l>
+        </sp>
+        <sp who="#falangi celesti">
+          <speaker>FALANGI CELESTI:</speaker>
+          <l>Ave, ave!</l>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

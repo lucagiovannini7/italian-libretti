@@ -1,0 +1,1608 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">aterina Cornaro</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="prologo">
+            <persName>PROLOGO:</persName>
+          </person>
+          <person xml:id="gerardo">
+            <persName>GERARDO:</persName>
+          </person>
+          <person xml:id="atto primo">
+            <persName>ATTO PRIMO:</persName>
+          </person>
+          <person xml:id="lusignano">
+            <persName>LUSIGNANO:</persName>
+          </person>
+          <person xml:id="una voce">
+            <persName>UNA VOCE:</persName>
+          </person>
+          <person xml:id="strozzi">
+            <persName>STROZZI:</persName>
+          </person>
+          <person xml:id="gli altri">
+            <persName>GLI ALTRI:</persName>
+          </person>
+          <person xml:id="matilde">
+            <persName>MATILDE:</persName>
+          </person>
+          <person xml:id="cavaliere">
+            <persName>CAVALIERE:</persName>
+          </person>
+          <person xml:id="caterina">
+            <persName>CATERINA:</persName>
+          </person>
+          <person xml:id="la maschera">
+            <persName>LA MASCHERA:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="mocenigo">
+            <persName>MOCENIGO:</persName>
+          </person>
+          <person xml:id="un’altra voce">
+            <persName>UN’ALTRA VOCE:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="f i n e">
+            <persName>F I N E:</persName>
+          </person>
+          <person xml:id="andrea">
+            <persName>ANDREA:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>PROLOGO</head>
+        <sp who="#prologo">
+          <speaker>PROLOGO:</speaker>
+        </sp>
+        <stage>Sala nel palazzo Cornaro.Scena primaLa sala è ingombra di cavalieri e dame, indi entranoCaterina, Gerardo, Andrea e Matilde. Il Corosaluta i giovani sposi.COROSalve, o beati, al giubilodi puro amor promessi;salve, o serbati, all’estasidei maritali amplessi!Per voi, qual oggi, un’auradel ciel soave e blandarenda di fior perpetuala nuzial ghirlanda,e corrisposto un palpitov’agiti sempre il cor.</stage>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Mercé dei lieti auguri.</l>
+        </sp>
+        <stage>GERARDO e CATERINA(in disparte)Tu l’amor mio, tu l’iridedei giorni miei sarai;or che m’è dato stringertiper non lasciarti mai.A te il desìo dell’anima,a te il sospir d’amore;e vita, e affetti, e coretutto consacro a te.</stage>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Il sacro rito a compiere</l>
+          <l>volgiamo, o figli, il piè.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Al tempio!</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Andiam…</l>
+        </sp>
+        <stage>Scena secondaUn uomo mascherato e detti.LA MASCHERAFermatevi.</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Che avvenne?</l>
+        </sp>
+        <sp who="#la maschera">
+          <speaker>LA MASCHERA:</speaker>
+          <l>Sian sospese le nozze.</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Perché?</l>
+        </sp>
+        <sp who="#la maschera">
+          <speaker>LA MASCHERA:</speaker>
+          <l>(sottovoce ad Andrea)</l>
+          <l>A nome</l>
+          <l>dei Dieci io vengo.</l>
+        </sp>
+        <stage>LA MASCHERA(sottovoce ad Andrea)A nomedei Dieci io vengo.</stage>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>(Oh ciel!)</l>
+        </sp>
+        <sp who="#la maschera">
+          <speaker>LA MASCHERA:</speaker>
+          <l>Escano.</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Uscite:</l>
+          <l>è mestier ch’io l’oda.</l>
+        </sp>
+        <stage>Partono.LA MASCHERAOr che siam soli, ascoltami.</stage>
+        <stage>Egli si cava la maschera, ed Andrea restariverentemente attonito riconoscendo Mocenigo.ANDREASignore!</stage>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Tua figlia, è vero, sposar dee Gerardo?</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Si.</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Ebben quando?</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Oggi.</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Scioglier questo nodo</l>
+          <l>déi tu.</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Nò’l posso. Detti fé.</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Non monta.</l>
+          <l>Venezia il vuole. E in guiderdon tua figlia</l>
+          <l>un altro sposo avrà.</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Foss’egli un re</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Egli è tale.</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>(con sorpresa)</l>
+          <l>Che di’?</l>
+        </sp>
+        <stage>ANDREA(con sorpresa)Che di’?</stage>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Riposa in me.</l>
+          <l>Dell’empia Cipro il popolo,</l>
+          <l>stolto e ribelle ognora,</l>
+          <l>spinse in esilio l’ultimo</l>
+          <l>re Lusignano.</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Ed ora?</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Noi tornerem quell’esule</l>
+          <l>ne’ pieni dritti suoi,</l>
+          <l>e a far più saldo un vincolo</l>
+          <l>util cotanto a noi,</l>
+          <l>l’alto sovran consiglio</l>
+          <l>sposa di lui farà</l>
+          <l>tua figlia.</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>(Ciel!)</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Tua figlia,</l>
+          <l>si, una corona avrà.</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>(con superba meraviglia)</l>
+          <l>Oh!</l>
+        </sp>
+        <stage>ANDREA(con superba meraviglia)Oh!</stage>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Udisti? I Dieci fidano che obbedirai.</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>(Qual sorte!)</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Io tornerò. Delibera:</l>
+          <l>o una corona, o morte.</l>
+          <l>Mocenigo parte: Andrea resta tristamente attonito.</l>
+          <l>Scena terza</l>
+          <l>Caterina, Gerardo, Matilde, dame e cavalieri.</l>
+          <l>TUTTI</l>
+          <l>Parti?</l>
+        </sp>
+        <stage>MOCENIGOIo tornerò. Delibera:o una corona, o morte.Mocenigo parte: Andrea resta tristamente attonito.Scena terzaCaterina, Gerardo, Matilde, dame e cavalieri.TUTTIParti?</stage>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>(Che dire!)</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Al tempio!</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Cessate.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Qual guardo! Vien…</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Non più nozze, o misera: parti da qui, o Gerardo.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Deliri?</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Io deggio sciogliere tal nodo.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>E la tua fé?</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>La sciolgo anch’essa.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Barbaro!</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Come! Tal onta a me!</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(strappandosi gli ornamenti nuziali)</l>
+          <l>Sprezza, o padre, e fede e onore:</l>
+          <l>via corona, e fiori, e velo;</l>
+          <l>ma se sorda al mio dolore</l>
+          <l>esser dee la tua pietà,</l>
+          <l>v’è per tutti un padre in cielo,</l>
+          <l>che il mio grido ascolterà.</l>
+        </sp>
+        <stage>CATERINA(strappandosi gli ornamenti nuziali)Sprezza, o padre, e fede e onore:via corona, e fiori, e velo;ma se sorda al mio doloreesser dee la tua pietà,v’è per tutti un padre in cielo,che il mio grido ascolterà.</stage>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Tutto oblìa: ma bada indegno,</l>
+          <l>che l’oltraggio ho in mente sculto:</l>
+          <l>che da te son fatto segno</l>
+          <l>di disprezzo e di pietà;</l>
+          <l>ma il rossor di questo insulto</l>
+          <l>vendicato un dì sarà.</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>(Ahi! per lor più non avanza</l>
+          <l>raggio alcun di miglior sorte.</l>
+          <l>È perduta ogni speranza,</l>
+          <l>né sentir poss’io pietà.</l>
+          <l>O dividerli, o la morte</l>
+          <l>questo nodo troncherà!)</l>
+        </sp>
+        <stage>CORO e MATILDE(tra loro)Parla pur, ma vendicatosarà un’atto sì villano;al suo sdegno provocatol’ira nostra unita andrà:e il voler di quest’insanocancellato appien sarà.Partono.Gabinetto di Caterina: in fondo un uscio, che chiude unacamera segreta: da un lato porta che mette negliappartamenti, dall’altro finestre che guardano sul canale.Una lampada rischiara la stanza solitaria.Scena quartaVoci lontane di gondolieri, poi Caterina.COROOr che l’astro in mar si cela,e l’uom toglie alla fatica,sulla fragile mia velalieve auretta spira amica:fa, ch’io giunga all’umil tetto,dove anela il mio desir,ond’io stringa i figli al petto,e li possa benedir.</stage>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Torna all’ospite tetto, o gondoliere,</l>
+          <l>fra la gioia del canto.</l>
+          <l>E a me cui nulla arride, a me dal Cielo</l>
+          <l>prega giorni men rei. Chi vien?</l>
+        </sp>
+        <stage>Scena quintaMatilde e detta.CATERINAMatilde</stage>
+        <sp who="#matilde">
+          <speaker>MATILDE:</speaker>
+          <l>(dandole un foglio)</l>
+          <l>Fa core.</l>
+        </sp>
+        <stage>MATILDE(dandole un foglio)Fa core.</stage>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Questa scritta?</l>
+        </sp>
+        <sp who="#matilde">
+          <speaker>MATILDE:</speaker>
+          <l>Da Gerardo</l>
+          <l>mi venne.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Oh ciel! Che spera?</l>
+          <l>(essa l’apre e legge)</l>
+          <l>Oh! immensa gioia.</l>
+        </sp>
+        <stage>CATERINAOh ciel! Che spera?(essa l’apre e legge)Oh! immensa gioia.</stage>
+        <sp who="#matilde">
+          <speaker>MATILDE:</speaker>
+          <l>Che spera?</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Ei venir vuole questa notte</l>
+          <l>a liberarmi dal poter tremendo</l>
+          <l>del senato.</l>
+        </sp>
+        <sp who="#matilde">
+          <speaker>MATILDE:</speaker>
+          <l>Che di’?</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Sì: parti, corri,</l>
+          <l>e veglia ben, che non veduto ei giunga</l>
+          <l>alle mie stanze.</l>
+        </sp>
+        <sp who="#matilde">
+          <speaker>MATILDE:</speaker>
+          <l>In me confida.</l>
+          <l>Parte.</l>
+          <l>CATERINA</l>
+          <l>Oh! presto</l>
+          <l>scorran l’ore per me, che la mia vita</l>
+          <l>render denno alla sua per sempre unita.</l>
+          <l>Vieni, o tu, che ognora io chiamo</l>
+          <l>con dolcissime parole.</l>
+          <l>Vieni a me, che aspetto ed amo,</l>
+          <l>come fior che aspetta il sole.</l>
+          <l>Né temer per la laguna</l>
+          <l>della torbida fortuna:</l>
+          <l>sui tuoi giorni, amato mio,</l>
+          <l>veglia ognor propizio il ciel.</l>
+          <l>Ah! vieni t’affretta</l>
+          <l>mio dolce tesoro;</l>
+          <l>ti chiama, t’aspetta</l>
+          <l>fedele il tuo ben.</l>
+          <l>Più nulla non bramo,</l>
+          <l>se il ciel mi concede</l>
+          <l>ridirti che t’amo,</l>
+          <l>stringendoti al sen.</l>
+        </sp>
+        <stage>MATILDEIn me confida.Parte.CATERINAOh! prestoscorran l’ore per me, che la mia vitarender denno alla sua per sempre unita.Vieni, o tu, che ognora io chiamocon dolcissime parole.Vieni a me, che aspetto ed amo,come fior che aspetta il sole.Né temer per la lagunadella torbida fortuna:sui tuoi giorni, amato mio,veglia ognor propizio il ciel.Ah! vieni t’affrettamio dolce tesoro;ti chiama, t’aspettafedele il tuo ben.Più nulla non bramo,se il ciel mi concederidirti che t’amo,stringendoti al sen.</stage>
+        <stage>Scena sestaAndrea e Caterina.CATERINA(con spavento)Ahi! qui ancor, padre mio?</stage>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>(con dolce bontà)</l>
+          <l>Non maledirmi:</l>
+          <l>dal consiglio sovrano io fui costretto</l>
+          <l>a lacerar l’affetto vostro.</l>
+        </sp>
+        <stage>ANDREA(con dolce bontà)Non maledirmi:dal consiglio sovrano io fui costrettoa lacerar l’affetto vostro.</stage>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Il cielo</l>
+          <l>giudichi te.</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Né ancor la tua sventura</l>
+          <l>tutta conosci.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Quale?</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Un altro sposo</l>
+          <l>t’è destinato.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Un altro!</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Un re.</l>
+          <l>CATERINA</l>
+          <l>Non mai!</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>Vuoi tu perder Gerardo?</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Oh ciel! Che sento!</l>
+          <l>Parla…</l>
+        </sp>
+        <sp who="#andrea">
+          <speaker>ANDREA:</speaker>
+          <l>L’apprendi da costui.</l>
+        </sp>
+        <stage>Parte additandogli Mocenigo.Scena settimaCaterina abbrividisce, trovandosi soladinnanzi a Mocenigo.CATERINASignore…</stage>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Non temer, Caterina, udisti?</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Udii.</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Vuoi tu salvar Gerardo?</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Come?</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Or, ch’esso</l>
+          <l>verrà, dirgli dovrai che più non l’ami,</l>
+          <l>e che tu aspiri a illustri nozze.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Orrenda</l>
+          <l>bestemmia!</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Ed ei morrà…</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Per chi?</l>
+        </sp>
+        <stage>Mocenigo schiudendo l’uscio della stanza segreta, emostrandole degli sgherri armati.MOCENIGOPel bracciodi costoro; l’intendi? Bada!</stage>
+        <stage>Entra in quella stanza.CATERINAOh sorte!Avvertirlo io potessi! Ahi! sentir parmilieve romor d’un piè che s’avvicina…È desso… egli si perde… Io non ho core!…Non posso… ahimè!</stage>
+        <stage>Scena ottavaGerardo e Caterina.GERARDODolce amor mio!</stage>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Gerardo!</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Fuggiamo, o Caterina: il ciel protegge</l>
+          <l>i nostri voti.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(Deh, m’assisti, o cielo!)</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Sospiri tu?</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(Che dirgli?)</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Alla mia gioia</l>
+          <l>tu non esulti?</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(Oh, supplizio!) Perdona</l>
+          <l>al tumulto del cor.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Càlmati, o cara,</l>
+          <l>per me avrà fine la tua vita amara.</l>
+          <l>Spera in me, della tua vita</l>
+          <l>l’ombra cupa si dirada:</l>
+          <l>sulla rosa inaridita</l>
+          <l>manda il ciel la sua rugiada.</l>
+          <l>Tristo verno innanzi sera</l>
+          <l>oltraggiò la tua beltà:</l>
+          <l>or per nuova primavera</l>
+          <l>vaga più rifiorirà.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(Che far deggio? Oh, pena atroce!</l>
+          <l>La mia piaga ei più ritenta.</l>
+          <l>Dir vorrei, ma la sua voce</l>
+          <l>mi commuove, e mi spaventa:</l>
+          <l>mentr’io l’amo, e un foco immenso</l>
+          <l>consumando il cor mi va.</l>
+          <l>Come mai più a te non penso</l>
+          <l>più non t’amo udir dovrà?)</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Vieni.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Oh! No.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Che dici?</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Parti.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Che!</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>M’oblìa.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Potresti farti</l>
+          <l>tu spergiura?</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(Oh, pena estrema!)</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Più non m’ami?</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(Oh, istante!)</l>
+        </sp>
+        <stage>Guardando l’uscio. Mocenigo si affaccia all’uscio dellaporta segreta, e le mostra gli sgherri armati.MOCENIGOTrema.</stage>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Parla…</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Or bene. Io più non t’amo…</l>
+          <l>Più non t’amo.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Oh, rea bestemmia!</l>
+          <l>Tu vaneggi? Ah no!… Partiamo.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(Ciel pietà!)</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Cedi…</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>E impossibile.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Dunque è ver bugiardo core,</l>
+          <l>che un re t’offra e serto e amore?</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(Io non reggo!)</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>S’è fallace</l>
+          <l>questa nuova, un solo accento</l>
+          <l>proferisci, ed avran pace</l>
+          <l>le mie smanie.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(guardando all’uscio)</l>
+          <l>(Oh, mio spavento!)</l>
+        </sp>
+        <stage>CATERINA(guardando all’uscio)(Oh, mio spavento!)</stage>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Parla, dici il vero?</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>(si affaccia ancora minaccioso)</l>
+          <l>Bada!</l>
+        </sp>
+        <stage>MOCENIGO(si affaccia ancora minaccioso)Bada!</stage>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Tutto è vero.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>E vero?</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Si.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Sciagurata or su te cada</l>
+          <l>del ciel l’ira.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(Orribil dì!)</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Va’, crudel: maledetto quel giorno</l>
+          <l>che ti vidi, e perduto t’amai.</l>
+          <l>Maledetto quest’empio soggiorno,</l>
+          <l>da cui fede ed affetto sperai.</l>
+          <l>L’ira mia che implacabile estrema</l>
+          <l>ora impreca all’infranta tua fé,</l>
+          <l>notte e dì fino all’ora suprema</l>
+          <l>posi infausta e tremenda su te.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(Lassa me! Qual orrenda, blasfema!</l>
+          <l>qual parola esecranda m’è uscita!</l>
+          <l>Provocai la sua collera estrema,</l>
+          <l>ma salvai la diletta sua vita.</l>
+          <l>E mentr’egli colpevol mi crede,</l>
+          <l>e insultando mi scaccia da sé,</l>
+          <l>ahi! non sa, che illibata è la fede,</l>
+          <l>che il mio core spergiuro non è!)</l>
+          <l>Senti almen…</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Più non deggio ascoltarti.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Ah pietà!</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Non la merti, o crudel!</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Tu non sai…</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Non importa.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Tu parti?</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Sì, per sempre abborrirti, o infedel!</l>
+          <l>Gerardo parte: Caterina cade svenuta.</l>
+        </sp>
+        <stage>GERARDOSì, per sempre abborrirti, o infedel!Gerardo parte: Caterina cade svenuta.</stage>
+      </div>
+      <div type="act">
+        <head>ATTO PRIMO</head>
+        <sp who="#atto primo">
+          <speaker>ATTO PRIMO:</speaker>
+        </sp>
+        <stage>Piazza in Nicosia: di fianco il palagio del re Lusignano;in fondo il mare sparso di navi. È notte.Scena primaMocenigo solo.MOCENIGOSei bella, o Cipro! A te versan tesorile strane navi, a te l’aure felici,e i più vitali rai prodiga il cielo.Oh! Fossi pur soggettaalla sovrana dell’adriaco mare!Malo sarai. Gittato è il dado; compreson da me queste genti, e Cipro in brevese al mio pensier sorride amica stellafia di Venezia tributaria ancella.</stage>
+        <stage>Scena secondaStrozzi e detto.STROZZISignore…</stage>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Che nuove?</l>
+        </sp>
+        <sp who="#strozzi">
+          <speaker>STROZZI:</speaker>
+          <l>L’audace Gerardo</l>
+          <l>è in Cipro.</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Egli stesso! Sei certo?</l>
+        </sp>
+        <sp who="#strozzi">
+          <speaker>STROZZI:</speaker>
+          <l>L’ho visto</l>
+          <l>io stesso, poc’anzi.</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Ed era il codardo?</l>
+        </sp>
+        <sp who="#strozzi">
+          <speaker>STROZZI:</speaker>
+          <l>In abito armato.</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Armato! Quel tristo</l>
+          <l>pretende egli forse lottare con noi?</l>
+          <l>E lotti: non monta! Del nostro rival</l>
+          <l>ricerca, o mio Strozzi, coi militi tuoi.</l>
+        </sp>
+        <sp who="#strozzi">
+          <speaker>STROZZI:</speaker>
+          <l>Se avvien ch’io lo giunga?</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Hai braccio, e pugnal.</l>
+          <l>Credi che dorma, o incauto,</l>
+          <l>perché il leon non rugge?</l>
+          <l>No! Più tremendo è il turbine</l>
+          <l>quando nel ciel non mugge.</l>
+          <l>Va’: guata armato e vigile;</l>
+          <l>opra in silenzio ognor;</l>
+          <l>e poi del mare i vortici</l>
+          <l>fian tomba al traditor.</l>
+        </sp>
+        <sp who="#strozzi">
+          <speaker>STROZZI:</speaker>
+          <l>E poi del mare i vortici</l>
+          <l>fian tomba al traditor.</l>
+        </sp>
+        <stage>Partono.Scena terzaLusignano, sotto private spoglie, ed un cavaliere.LUSIGNANOLasciami, o cavalier.</stage>
+        <sp who="#cavaliere">
+          <speaker>CAVALIERE:</speaker>
+          <l>Perché, o mio prence,</l>
+          <l>solo rimaner vuoi?</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Note mi sono</l>
+          <l>le audaci mire del sovran consiglio…</l>
+        </sp>
+        <sp who="#cavaliere">
+          <speaker>CAVALIERE:</speaker>
+          <l>Esso forse?</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Congiura a rovesciarmi</l>
+          <l>dal soglio ove mi pose.</l>
+        </sp>
+        <sp who="#cavaliere">
+          <speaker>CAVALIERE:</speaker>
+          <l>E tu?</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Se il posso,</l>
+          <l>tento il filo spezzar delle lor trame,</l>
+          <l>e insiem fiaccar quell’arroganza infame.</l>
+          <l>Da che a sposa Caterina</l>
+          <l>diemmi il veneto Senato,</l>
+          <l>del mio regno la ruina</l>
+          <l>si comprò con quel mercato.</l>
+          <l>Or che intera, e certa appare</l>
+          <l>la viltà dei traditor,</l>
+          <l>chiedo al cielo, e chiedo al mare</l>
+          <l>nuove tempre al mio furor.</l>
+          <l>Ma colei, la sventurata</l>
+          <l>che far lieta io pur vorrei,</l>
+          <l>fu dai vili condannata</l>
+          <l>a soffrir gli affanni miei:</l>
+          <l>tuttavia nel lutto immersa</l>
+          <l>celar tenta il suo dolor;</l>
+          <l>ma ogni lagrima che versa,</l>
+          <l>si distempra sul mio cor.</l>
+        </sp>
+        <sp who="#cavaliere">
+          <speaker>CAVALIERE:</speaker>
+          <l>O mio re…</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Va’, discaccia ogni timore,</l>
+          <l>sovra i giorni dei re vegli il Signore.</l>
+        </sp>
+        <stage>Partono.Scena quartaSgherri, indi Strozzi.CORO(vedendo comparire Strozzi)Core, e prontezza.</stage>
+        <sp who="#strozzi">
+          <speaker>STROZZI:</speaker>
+          <l>Prontezza, e core.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ben svelto ha il passo quel traditore!</l>
+        </sp>
+        <sp who="#strozzi">
+          <speaker>STROZZI:</speaker>
+          <l>In bando, amici, scherzi e parole;</l>
+          <l>Venezia il vuole.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Siccome veltri per le foreste</l>
+          <l>di quel ribaldo cerchiam le peste,</l>
+          <l>estinto prima che torni il sole</l>
+          <l>Venezia il vuole.</l>
+          <l>Dannato a morte pel tradimento,</l>
+          <l>è troppo giusto ch’ei cada spento.</l>
+          <l>Lasciam per ora nappi, e carole:</l>
+          <l>Venezia il vuole.</l>
+          <l>A celar l’opra, compagni, basta</l>
+          <l>la cupa notte, che ci sovrasta.</l>
+          <l>Sia fermo il braccio qual esser suole.</l>
+          <l>Venezia il vuole.</l>
+        </sp>
+        <stage>Partono. Dopo qualche istante.CORO DI DENTROMorte all’indegno!</stage>
+        <sp who="#una voce">
+          <speaker>UNA VOCE:</speaker>
+          <l>Infami aiuto!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Morte.</l>
+        </sp>
+        <sp who="#un’altra voce">
+          <speaker>UN’ALTRA VOCE:</speaker>
+          <l>Indietro, o scellerati.</l>
+        </sp>
+        <stage>Entra Strozzi precipitoso.STROZZIOh! iniquo caso!Fallito è il colpo!</stage>
+        <stage>Parte fuggendo.Scena quintaGerardo e Lusignano.GERARDOGrazie, o generoso,che sei corso a salvarmi.</stage>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Altri qualunque,</l>
+          <l>stranier, t’avria difeso.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Or potrei, spero,</l>
+          <l>saper, chi sia l’uomo per cui mi corre</l>
+          <l>debito tanto.</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>In premio del favore,</l>
+          <l>concedimi ch’io il taccia.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Almen la patria tua?</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>È la Francia.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>La Francia è patria mia.</l>
+        </sp>
+        <stage>Si stringono le destre.LUSIGNANOSe d’uopo in qualsisiatempo avrai del mio braccio,vieni presso del re.</stage>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Del re? Prosegui…</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Tu raccapricci? È pur figlio di Francia</l>
+          <l>re Lusignano.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>E ver ma…</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>(stringendogli la destra)</l>
+          <l>Franco parla.</l>
+        </sp>
+        <stage>LUSIGNANO(stringendogli la destra)Franco parla.</stage>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Io l’aborro.</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Perché?</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Perch’ei mi tolse</l>
+          <l>l’amor mio.</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Caterina?</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Lo dicesti.</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>(Che intendo!) Ed ora?</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Io voglio i miei tormenti</l>
+          <l>rinfacciargli.</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Sta bene: io mostrerotti</l>
+          <l>colui.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Dov’è? Su! me l’addita.</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Insano!</l>
+          <l>Eccolo.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Che! Tu stesso!</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Io Lusignano.</l>
+          <l>Parla, ardisci: io son quel desso,</l>
+          <l>che ti tolsi il primo amore.</l>
+          <l>Tu non l’osi?</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>E tanto eccesso</l>
+          <l>consumar potrebbe un core?</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Se di rabbia ardente sei,</l>
+          <l>facil’opra è l’empio vanto.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Guarda, o re, dagli occhi miei,</l>
+          <l>come il cor m’hai posto in pianto.</l>
+          <l>Vedi: io piango. Non por mente</l>
+          <l>al mio sdegno, io non ragiono.</l>
+          <l>Se fui stolto e sconoscente,</l>
+          <l>né un fellon, né un vile io sono.</l>
+          <l>Oh! perdona a un disperato,</l>
+          <l>che più senno e cor non ha.</l>
+          <l>Il martirio che ho durato</l>
+          <l>solamente il ciel lo sa.</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Se tu piangi, e sei pentito,</l>
+          <l>ti compiango, e ti perdono.</l>
+          <l>Come te fui pur tradito,</l>
+          <l>più dite perduto io sono.</l>
+          <l>E colei, che m’ebbi in patto</l>
+          <l>d’alleanza e d’amistà;</l>
+          <l>fu stromento d’un misfatto,</l>
+          <l>che cader su me dovrà.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>(toccandosi il petto)</l>
+          <l>Che qui non batte un core ingrato</l>
+          <l>provarti forse a me fia dato.</l>
+          <l>Vivi felice e congiunto a lei,</l>
+          <l>che pianser tanto questi occhi miei.</l>
+          <l>Sacra è la fede, che ti giurai.</l>
+        </sp>
+        <stage>GERARDO(toccandosi il petto)Che qui non batte un core ingratoprovarti forse a me fia dato.Vivi felice e congiunto a lei,che pianser tanto questi occhi miei.Sacra è la fede, che ti giurai.</stage>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Viver felice! Ma tu non sai,</l>
+          <l>ch’avido il guardo su questa terra</l>
+          <l>gittò il Leone per farmi guerra?</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Bando ai timori!</l>
+          <l>S’odono avvicinarsi le guardie.</l>
+          <l>LUSIGNANO</l>
+          <l>Senti?</l>
+        </sp>
+        <stage>GERARDOBando ai timori!S’odono avvicinarsi le guardie.LUSIGNANOSenti?</stage>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>(in atto di partire)</l>
+          <l>La scorta</l>
+          <l>notturna avanzasi a questa volta.</l>
+        </sp>
+        <stage>GERARDO(in atto di partire)La scortanotturna avanzasi a questa volta.</stage>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Mi lasci?</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Il deggio: ma sappi, o sire,</l>
+          <l>che sui tuoi giorni veglia un fratel.</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>(abbracciandolo)</l>
+          <l>Non più pavento l’ostile ardire,</l>
+          <l>se in te un custode mi manda il ciel.</l>
+        </sp>
+        <stage>LUSIGNANO(abbracciandolo)Non più pavento l’ostile ardire,se in te un custode mi manda il ciel.</stage>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Sì: dall’ardir degli empi</l>
+          <l>per me difeso andrai,</l>
+          <l>perché t’è sposa, o principe,</l>
+          <l>quella che un giorno amai,</l>
+          <l>della mia vita il debito</l>
+          <l>sento due volte a te:</l>
+          <l>e la mia man difendere</l>
+          <l>dovrà il fratello, e il re.</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Dunque tu vuoi dividere</l>
+          <l>meco ogni mio periglio?</l>
+          <l>O generoso giovine</l>
+          <l>sei ben di Francia figlio!</l>
+          <l>Dal reo mercato sciogliere</l>
+          <l>potessi almen la fé!</l>
+          <l>Più Caterina vittima</l>
+          <l>non io vorrei, né te.</l>
+        </sp>
+        <stage>Partono.Gabinetto della regina: in fondo la camera del re: da unlato la porta esteriore, dall’altro un poggiuolo, che guardasul porto.</stage>
+        <stage>Scena sestaCaterina siede mesta, le dame stannoaccanto a lei. Poi Lusignano.COROGemmata il serto, giovineregina, e bella tanto:eppur si strugge tacitada molti giorni in pianto:sgombra dagli occhi languidile dolorose stille:di gioia ognor risplenderedenno le tue pupille;e mille cori anelanoal riso tuo gentil,siccome i campi ai zefirigiocondi dell’april.Guarda, s’avanza il re.</stage>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Partite. O sposo</l>
+          <l>Le dame partono.</l>
+          <l>LUSIGNANO</l>
+          <l>Che hai? Tu soffri?</l>
+        </sp>
+        <stage>CATERINAPartite. O sposoLe dame partono.LUSIGNANOChe hai? Tu soffri?</stage>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>E ver, pei giorni tuoi,</l>
+          <l>che fosca nube di dolore ammanta.</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Oh! tosto a sé chiamarmi il ciel volesse!…</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Che dici, o sposo!</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Il simular che vale?</l>
+          <l>O sposa, o nobil core!</l>
+          <l>Io ben t’ammiro, e soffro al tuo dolore.</l>
+          <l>Non turbarti a questi accenti,</l>
+          <l>o sublime creatura;</l>
+          <l>dei tuoi lunghi patimenti</l>
+          <l>so la storia acerba e dura;</l>
+          <l>so ben io perché sfiorando</l>
+          <l>il tuo riso ognor si va:</l>
+          <l>e per questo al ciel domando</l>
+          <l>la perenne libertà.</l>
+        </sp>
+        <stage>Scena settimaStrozzi e detti.STROZZIO re!</stage>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Strozzi!</l>
+        </sp>
+        <sp who="#strozzi">
+          <speaker>STROZZI:</speaker>
+          <l>Un francese</l>
+          <l>chiede parlarti.</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Inoltri.</l>
+          <l>Strozzi parte.</l>
+          <l>O Caterina,</l>
+          <l>l’ascolta tu per me; d’uopo ha di pace</l>
+          <l>il travagliato spirito mio.</l>
+          <l>Lusignano parte accompagnato da Caterina.</l>
+          <l>Scena ottava</l>
+          <l>Strozzi, Gerardo, indi Caterina.</l>
+          <l>STROZZI</l>
+          <l>T’avanza.</l>
+          <l>(Oh ciel! Gerardo! A Mocenigo tosto</l>
+          <l>si corra.) La regina.</l>
+        </sp>
+        <stage>LUSIGNANOInoltri.Strozzi parte.O Caterina,l’ascolta tu per me; d’uopo ha di paceil travagliato spirito mio.Lusignano parte accompagnato da Caterina.Scena ottavaStrozzi, Gerardo, indi Caterina.STROZZIT’avanza.(Oh ciel! Gerardo! A Mocenigo tostosi corra.) La regina.</stage>
+        <stage>Entra Caterina; Strozzi parte.GERARDO(Oh, Caterina!)</stage>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Del re, consorte mio, debole e infermo</l>
+          <l>io sostengo le veci, o cavaliere.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>(Che tumulto ho nel cor!)</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Parla: che chiedi?</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Da te, o regina, nulla più.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(riconoscendolo, e mettendo un grido)</l>
+          <l>Qual voce! Gerardo?</l>
+        </sp>
+        <stage>CATERINA(riconoscendolo, e mettendo un grido)Qual voce! Gerardo?</stage>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Io stesso. Un dover sacro, o donna.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Infelice!</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Io non vengo a suscitare</l>
+          <l>nel tuo misero cor l’antica guerra:</l>
+          <l>per me, lo so, più non esisti in terra.</l>
+          <l>Qui m’ha chiamato, e testimon n’è il cielo.</l>
+          <l>Da quel dì che lacerato</l>
+          <l>questo cor fu crudelmente,</l>
+          <l>mari, e monti ho valicato,</l>
+          <l>tristo ognora, ognor furente.</l>
+          <l>Il mio stato doloroso</l>
+          <l>non si puote immaginar.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(In quest’ora, o ciel pietoso,</l>
+          <l>non volermi abbandonar!)</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>D’un conforto, nella gloria,</l>
+          <l>ebbi speme e corsi all’armi;</l>
+          <l>ma venia la tua memoria</l>
+          <l>pur nel campo ad agitarmi…</l>
+          <l>La sua grazia, il suo favore</l>
+          <l>chiesi al ciel per obliarti,</l>
+          <l>soffocar l’insano ardore,</l>
+          <l>viver mesto, e perdonarti…</l>
+          <l>Poi pensando al duro oltraggio</l>
+          <l>l’ira mia s’inacerbò.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(Dammi, o cielo, il tuo coraggio,</l>
+          <l>e l’arcan gli svelerò.)</l>
+          <l>Troppo giusto è il tuo rigore,</l>
+          <l>ma sai tu qual trama orrenda</l>
+          <l>fece reo questo mio core?</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Trama! E qual? Fa’ ch’io l’apprenda…</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>In quel dì che rinnegai</l>
+          <l>la promessa dell’amore,</l>
+          <l>in quel giorno io ti salvai</l>
+          <l>dal pugnal d’un traditore.</l>
+          <l>Io però sacrificai,</l>
+          <l>per salvarti, e vita e amor.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Cielo! Il ver da te ascoltai?</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Sì, pur troppo!</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Oh, nobil cor!</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Da me fosti ognor compianto,</l>
+          <l>fratel mio, mio dolce amico;</l>
+          <l>ogni dì cogli occhi in pianto</l>
+          <l>ti ricordo, e benedico</l>
+          <l>d’amistà, non più d’amore</l>
+          <l>sia l’affetto vivo in te:</l>
+          <l>nella pace del tuo core</l>
+          <l>prega, o misero, per me.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Sventurata, piango anch’io,</l>
+          <l>ma per te m’è il duol gradito:</l>
+          <l>ti rammenta il pensier mio</l>
+          <l>come un ben che fu smarrito.</l>
+          <l>E se in lagrime la sera</l>
+          <l>io domando al ciel mercé,</l>
+          <l>la più fervida preghiera</l>
+          <l>io la sciolgo ognor per te.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Ora parti.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Un mistero tremendo</l>
+          <l>odi pria; Lusignano e il tuo regno</l>
+          <l>corron certo periglio.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Che intendo!</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>E coll’armi a difenderlo io vengo.</l>
+        </sp>
+        <stage>Scena nonaMocenigo e detti.MOCENIGOTroppo tardi.</stage>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Oh, spavento!</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Da lui</l>
+          <l>il tuo sposo, il buon re Lusignano</l>
+          <l>è tradito.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Empio core!</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Lo fui:</l>
+          <l>sì! Venezia lo scettro di mano</l>
+          <l>gli vuol tolto.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Oh! vilissimo ardire!</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Tu per noi regnar devi e morire.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>No! Il suo prence a difender da’ rei</l>
+          <l>sorgerà questo popolo ardito.</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Ed io allor che manchevole sei</l>
+          <l>gli dirò, che da te fu tradito</l>
+          <l>il sovrano…</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Ah!</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Da colpo sì rio,</l>
+          <l>dimmi, allor chi ti salva? Chi?</l>
+        </sp>
+        <stage>Scena decimaLusignano ed i precedenti.LUSIGNANOIo!Indietro! Io, vil carnefice!difenderò costei:io farò noto al popolo,che malfattor tu sei.Di fato reo lo sdegnose morto mi vorrà;chi mi tradisce, indegno!prima di me morrà!</stage>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Cerca, se il vuoi, supplizi;</l>
+          <l>scaglia su me la morte;</l>
+          <l>ma non per questo un fremito</l>
+          <l>darà il leon men forte.</l>
+          <l>Al nunzio dell’estrema</l>
+          <l>mia sorte ei ruggirà.</l>
+          <l>E l’ora mia suprema,</l>
+          <l>l’ultima tua sarà.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Scaglia la giusta folgore</l>
+          <l>sulla superba fronte:</l>
+          <l>tronca in costui l’origine</l>
+          <l>dei danni nostri e l’onte.</l>
+          <l>Pera chi spregia e insulta</l>
+          <l>colui, che il punirà:</l>
+          <l>più non rimanga inulta</l>
+          <l>l’offesa maestà.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Ti prostra nella polvere</l>
+          <l>senza levar lo sguardo,</l>
+          <l>or che del ciel l’anatema</l>
+          <l>ti fulminò, codardo.</l>
+          <l>Non sempre arrise il fato</l>
+          <l>dei Dieci alla viltà.</l>
+          <l>E il loro ardir scontato</l>
+          <l>col sangue tuo sarà.</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Olà?</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Gran re, la collera</l>
+          <l>vendicatrice è tarda.</l>
+          <l>Un cenno, e di Venezia scoppierà</l>
+          <l>il tuono. Guarda…</l>
+          <l>Egli getta in mare, dal poggiuolo, una sciarpa,</l>
+          <l>e s’ode all’istante un colpo di cannone.</l>
+          <l>Guerra!</l>
+          <l>Entrano le guardie del re.</l>
+          <l>LUSIGNANO</l>
+          <l>Giacché lo vuoi, guerra fra noi sarà.</l>
+          <l>Guardie, l’affido a voi.</l>
+        </sp>
+        <stage>MOCENIGOGran re, la colleravendicatrice è tarda.Un cenno, e di Venezia scoppieràil tuono. Guarda…Egli getta in mare, dal poggiuolo, una sciarpa,e s’ode all’istante un colpo di cannone.Guerra!Entrano le guardie del re.LUSIGNANOGiacché lo vuoi, guerra fra noi sarà.Guardie, l’affido a voi.</stage>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>(Oh! rabbia!)</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>All’armi or va.</l>
+        </sp>
+        <sp who="#mocenigo">
+          <speaker>MOCENIGO:</speaker>
+          <l>Su, di morte alla tenzone</l>
+          <l>corra pur la gente tutta,</l>
+          <l>pria d’abbattere il leone</l>
+          <l>la tua Cipro andrà distrutta,</l>
+          <l>benché il braccio ho incatenato</l>
+          <l>pur tremar per me non so.</l>
+          <l>Osa pur, ma vendicato,</l>
+          <l>vendicato io morirò.</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>ATTO SECONDO</head>
+        <sp who="#atto secondo">
+          <speaker>ATTO SECONDO:</speaker>
+        </sp>
+        <stage>Atrio nel palazzo di Lusignano: in fondo una piazza diNicosia. Si ode frastuono di militari strumenti.Scena primaIl cavaliere del re, poi Gerardo.CAVALIEREMisera patria! Ahi! sopra te la guerrascuoterà il suo flagello!… E chi in soccorsoverrà d’un re tradito?</stage>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Io.</l>
+        </sp>
+        <sp who="#cavaliere">
+          <speaker>CAVALIERE:</speaker>
+          <l>Tu straniero!</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Qual ch’io sia non cercarlo. Un dover sacro</l>
+          <l>a Lusignan m’annoda, e la sua vita</l>
+          <l>a difendere io venni.</l>
+        </sp>
+        <sp who="#cavaliere">
+          <speaker>CAVALIERE:</speaker>
+          <l>O cor sublime!</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>A tal uopo raccolsi, e in arme posi</l>
+          <l>questa perplessa impaurita gente,</l>
+          <l>e qui presto l’attendo.</l>
+        </sp>
+        <sp who="#cavaliere">
+          <speaker>CAVALIERE:</speaker>
+          <l>Ascolto il vero?</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Ne attesto il ciel, cui noto è il mio pensiero</l>
+          <l>io trar non voglio campi ed onori</l>
+          <l>dalla imminente vostra ruina:</l>
+          <l>mi basta in premio dei miei sudori</l>
+          <l>far salva e lieta questa regina.</l>
+          <l>Di più non bramo, se al vostro amore</l>
+          <l>un re tradito render potrò.</l>
+          <l>E poi d’un antro nello squallore</l>
+          <l>a seppellirmi per sempre andrò.</l>
+        </sp>
+        <sp who="#cavaliere">
+          <speaker>CAVALIERE:</speaker>
+          <l>Sei ben pietoso, se tanto al core</l>
+          <l>il nostro affanno parlar ti può.</l>
+        </sp>
+        <stage>Scena secondaI predetti e gente in armi.COROGuerra, guerra! Corriam gl’insolentitroppo incauti oppressori a punir.</stage>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Su, corriamo concordi e possenti:</l>
+          <l>per dar morte al leone, o morir.</l>
+        </sp>
+        <stage>Partono.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Oh ciel! Che tumulto! Che fieri lamenti!</l>
+          <l>Il grido di sangue terribile echeggia.</l>
+          <l>Risuonano d’urli, d’atroci spaventi</l>
+          <l>le strade cruenti, le case, la reggia.</l>
+          <l>Scomporsi in abissi ci sembra la terra:</l>
+          <l>dovunque tenebre, dovunque terror.</l>
+          <l>E il folgor, che vola dai bronzi di guerra,</l>
+          <l>ricaccia più forte la morte nel cor.</l>
+        </sp>
+        <stage>Scena quartaCaterina e dette.</stage>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Dolorosa incertezza! Ancor dei nostri</l>
+          <l>non è giunta novella?</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ancor nessuna.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>E più incalza la mischia! Oh maledetta</l>
+          <l>d’impero ambizion! Spegnete l’ire…</l>
+          <l>È grave questo serto!</l>
+          <l>Ah! il ciel non possa mai dimandar conto,</l>
+          <l>a chi m’assunse per un vil mercato</l>
+          <l>allo splendor del più superbo stato.</l>
+          <l>Pietà, o Signor, ti muovano</l>
+          <l>le angosce del mio core,</l>
+          <l>e l’affannoso gemito</l>
+          <l>d’un popolo che muore!</l>
+          <l>Sangue le gemme grondano</l>
+          <l>di mia corona, è vero;</l>
+          <l>fieri nemici investono</l>
+          <l>l’uom che splendor mi die’;</l>
+          <l>pur la salute io spero</l>
+          <l>di tutto un regno in te.</l>
+        </sp>
+        <stage>Odesi internamente musica lieta.VOCI LONTANEVittoria! Vittoria!</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Giulivo concento!</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Chi vinse? E il mio sposo? Beato momento?</l>
+        </sp>
+        <stage>Scena quintaLe precedenti, il popolo ed i guerrieri.POPOLO e GUERRIERIEsulta, o regina! Le rose più belleritornino ancora, sul mesto tuo volto,è libera Cipro, sul fronte al tuo sposola gemma regale ritorna a brillar.</stage>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>E Lusignano?</l>
+        </sp>
+        <stage>Scena ultima Lusignano ferito, sorretto da Gerardo e iprecedenti.GERARDOGuardalo.</stage>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Oh ciel! Ferito…</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>E a morte.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Pugnando.</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Sì; ma liberi</l>
+          <l>siam delle altrui ritorte.</l>
+          <l>Orsù della vittoria</l>
+          <l>l’inno sciogliete ancora;</l>
+          <l>fatemi lieve all’anima</l>
+          <l>questa terribil ora.</l>
+        </sp>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Oh! acerbo affanno! Oh duol!</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Sposa perdona, e volgimi</l>
+          <l>il generoso sguardo.</l>
+          <l>Caterina e Gerardo piangono.</l>
+          <l>CATERINA</l>
+          <l>Oh! strazio!</l>
+        </sp>
+        <stage>LUSIGNANOSposa perdona, e volgimiil generoso sguardo.Caterina e Gerardo piangono.CATERINAOh! strazio!</stage>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>Oh! compiangetemi!</l>
+          <l>E perdonate a me.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Reggi, tu, o ciel, lo spirito</l>
+          <l>che sta anelando a te.</l>
+        </sp>
+        <sp who="#lusignano">
+          <speaker>LUSIGNANO:</speaker>
+          <l>(a Gerardo)</l>
+          <l>Addio: fratello, giovine</l>
+          <l>sposa infelice addio.</l>
+          <l>Le sorti del mio popolo</l>
+          <l>a te confido, e al ciel.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>Ei muore…</l>
+        </sp>
+        <stage>Lusignano spira. Caterina mette un grido di dolore.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Il re magnanimo</l>
+          <l>accogli, o cielo!</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(piangendo sul corpo del re)</l>
+          <l>Ahimè!</l>
+        </sp>
+        <stage>CATERINA(piangendo sul corpo del re)Ahimè!</stage>
+        <sp who="#gerardo">
+          <speaker>GERARDO:</speaker>
+          <l>Se hai caro questo popolo,</l>
+          <l>pensa al tuo regno, e a te.</l>
+        </sp>
+        <sp who="#caterina">
+          <speaker>CATERINA:</speaker>
+          <l>(volgendosi al popolo)</l>
+          <l>Non più affanni, o mie genti, e preghiere,</l>
+          <l>voi sorgeste dai vostri dolori:</l>
+          <l>fur protette le giuste bandiere,</l>
+          <l>furon vinti i codardi oppressori,</l>
+          <l>or che il nostro sublime riscatto</l>
+          <l>fu comprato col sangue di un re,</l>
+          <l>o mie genti, con alma sincera,</l>
+          <l>per quel sangue giuratemi fé.</l>
+          <l>(Perdi tutto, infelice regina,</l>
+          <l>ed il pianto è delitto per te.)</l>
+        </sp>
+        <stage>CATERINA(volgendosi al popolo)Non più affanni, o mie genti, e preghiere,voi sorgeste dai vostri dolori:fur protette le giuste bandiere,furon vinti i codardi oppressori,or che il nostro sublime riscattofu comprato col sangue di un re,o mie genti, con alma sincera,per quel sangue giuratemi fé.(Perdi tutto, infelice regina,ed il pianto è delitto per te.)</stage>
+        <sp who="#gli altri">
+          <speaker>GLI ALTRI:</speaker>
+          <l>Noi giuriam d’obbedirti, o regina:</l>
+          <l>lo giuriam sulla spoglia d’un re.</l>
+          <l>Tutti s’inchinano alla regina, e cade la tela.</l>
+        </sp>
+        <stage>GLI ALTRINoi giuriam d’obbedirti, o regina:lo giuriam sulla spoglia d’un re.Tutti s’inchinano alla regina, e cade la tela.</stage>
+        <sp who="#f i n e">
+          <speaker>F I N E:</speaker>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

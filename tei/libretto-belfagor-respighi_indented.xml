@@ -1,0 +1,3219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">elfagor</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="menica">
+            <persName>MENICA:</persName>
+          </person>
+          <person xml:id="mirocleto">
+            <persName>MIROCLETO:</persName>
+          </person>
+          <person xml:id="fidelia e maddalena">
+            <persName>FIDELIA E MADDALENA:</persName>
+          </person>
+          <person xml:id="il ragazzo">
+            <persName>IL RAGAZZO:</persName>
+          </person>
+          <person xml:id="gli invitati">
+            <persName>GLI INVITATI:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="don biagio">
+            <persName>DON BIAGIO:</persName>
+          </person>
+          <person xml:id="il canto del gallo">
+            <persName>IL CANTO DEL GALLO:</persName>
+          </person>
+          <person xml:id="il vecchio, il ragazzo">
+            <persName>IL VECCHIO, IL RAGAZZO:</persName>
+          </person>
+          <person xml:id="il vecchio">
+            <persName>IL VECCHIO:</persName>
+          </person>
+          <person xml:id="olimpia">
+            <persName>OLIMPIA:</persName>
+          </person>
+          <person xml:id="fidelia">
+            <persName>FIDELIA:</persName>
+          </person>
+          <person xml:id="altri">
+            <persName>ALTRI:</persName>
+          </person>
+          <person xml:id="voci fuggenti">
+            <persName>VOCI FUGGENTI:</persName>
+          </person>
+          <person xml:id="belfagor">
+            <persName>BELFAGOR:</persName>
+          </person>
+          <person xml:id="candida">
+            <persName>CANDIDA:</persName>
+          </person>
+          <person xml:id="l’altro">
+            <persName>L’ALTRO:</persName>
+          </person>
+          <person xml:id="il maggiordomo">
+            <persName>IL MAGGIORDOMO:</persName>
+          </person>
+          <person xml:id="l’un de’ compagni">
+            <persName>L’UN DE’ COMPAGNI:</persName>
+          </person>
+          <person xml:id="baldo">
+            <persName>BALDO:</persName>
+          </person>
+          <person xml:id="alcuni">
+            <persName>ALCUNI:</persName>
+          </person>
+          <person xml:id="candida e olimpia">
+            <persName>CANDIDA E OLIMPIA:</persName>
+          </person>
+          <person xml:id="invitati">
+            <persName>INVITATI:</persName>
+          </person>
+          <person xml:id="mirocleto e il maggiordomo">
+            <persName>MIROCLETO E IL MAGGIORDOMO:</persName>
+          </person>
+          <person xml:id="fidelia, maddalena e belfagor">
+            <persName>FIDELIA, MADDALENA E BELFAGOR:</persName>
+          </person>
+          <person xml:id="maddalena">
+            <persName>MADDALENA:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>BELFAGOR</castItem>
+        <castItem>MIROCLETO</castItem>
+        <castItem>OLIMPIA</castItem>
+        <castItem>Le loro figliole</castItem>
+        <castItem>CANDIDA</castItem>
+        <castItem>FIDELIA</castItem>
+        <castItem>MADDALENA</castItem>
+        <castItem>BALDO</castItem>
+        <castItem>DON BIAGIO</castItem>
+        <castItem>MENICA</castItem>
+        <castItem>Due vagabondi</castItem>
+        <castItem>IL VECCHIO</castItem>
+        <castItem>IL RAGAZZO</castItem>
+        <castItem>IL MAGGIORDOMO</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>In un piccolo paese del litorale toscano.Quando non tutti i diavoli portavan corna.</stage>
+      <div type="act">
+        <head>Prologo</head>
+        <div type="scene">
+          <head>Scena unica</head>La piazzetta di un piccolo paese del litorale toscano.A destra, su tre gradini, un’antichissima facciata di chiesa con il campanile da un lato e dall’altro la casa del prevosto. A sinistra la casetta dello speziale, con il portoncino a due battenti e sul fianco una finestra munita di inferriata.Nel mezzo della piazza una fontana con vasca adorna di mostri.Notte: una pallida alba lunare illumina quel poco orizzonte che si vede; il resto è nel buio profondo.Baldo sguscia guardingo da destra, ansando; nel passare davanti alla chiesa si segna; traversa a passi di lupo, s’acquatta presso alla finestra della casetta dello speziale. Dopo un momento apparirà dietro l’inferriata Candida. <stage>Scena unicaLa piazzetta di un piccolo paese del litorale toscano.A destra, su tre gradini, un’antichissima facciata di chiesa con il campanile da un lato e dall’altro la casa del prevosto. A sinistra la casetta dello speziale, con il portoncino a due battenti e sul fianco una finestra munita di inferriata.Nel mezzo della piazza una fontana con vasca adorna di mostri.Notte: una pallida alba lunare illumina quel poco orizzonte che si vede; il resto è nel buio profondo.Baldo sguscia guardingo da destra, ansando; nel passare davanti alla chiesa si segna; traversa a passi di lupo, s’acquatta presso alla finestra della casetta dello speziale. Dopo un momento apparirà dietro l’inferriata Candida.</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(con voce soffocata)</l>
+            <l>Candida… Oh, dio! Non c’è ancora…</l>
+            <l>Ma che fa? Ma perché non s’affaccia?</l>
+            <l>Non lo sa che si salpa all’aurora?</l>
+            <l>Candidaccia!… Candidaccia!</l>
+            <l>(l’inferriata s’illumina d’un fiochissimo lume rossastro)</l>
+            <l>Ah, sei tu? Ti domando perdono,</l>
+            <l>amore mio buono ~ amore mio santo!</l>
+          </sp>
+          <stage>BALDO(con voce soffocata)Candida… Oh, dio! Non c’è ancora…Ma che fa? Ma perché non s’affaccia?Non lo sa che si salpa all’aurora?Candidaccia!… Candidaccia!(l’inferriata s’illumina d’un fiochissimo lume rossastro)Ah, sei tu? Ti domando perdono,amore mio buono ~ amore mio santo!</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Di che? Che m’hai fatto? Di’ presto!</l>
+            <l>Vuoi farmi morire di pianto?</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Io farti morire? Io farti…</l>
+            <l>Io che muoio ogni mattina</l>
+            <l>che t’ho sognata, e mi desto,</l>
+            <l>e non ti trovo vicina?…</l>
+            <l>Ahmm!</l>
+            <l>le afferra una mano e si mette a mangiargliela di baci</l>
+          </sp>
+          <stage>BALDOIo farti morire? Io farti…Io che muoio ogni mattinache t’ho sognata, e mi desto,e non ti trovo vicina?…Ahmm!le afferra una mano e si mette a mangiargliela di baci</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>No, Baldo, no, Baldo, su!</l>
+            <l>Basta… Fa’ piano…</l>
+            <l>(ritirando lentamente la mano)</l>
+            <l>Ma tu</l>
+            <l>davvero mi vuoi tanto bene?</l>
+            <l>E allora perché sempre parti?</l>
+            <l>Dall’ultima finestra io guardo il mare</l>
+            <l>e ne ascolto il respiro lento ~ e sento</l>
+            <l>il cuore che mi piange dentro e canta:</l>
+            <l>~ O stelle dagli occhietti adamantini,</l>
+            <l>guardatemelo voi, tremule stelle!</l>
+            <l>O mare grande, sii buono:</l>
+            <l>tramuta l’onde del selvaggio flutto</l>
+            <l>in un gregge di bianche pecorelle</l>
+            <l>e trattieni lontane le sirene!</l>
+            <l>O maestrale amico, affretta, affretta:</l>
+            <l>fagli volgere l’ala delle vele</l>
+            <l>verso la sua bambina che l’aspetta…</l>
+            <l>Ma tu ti parti con il ciglio asciutto</l>
+            <l>e dici di volermi tanto bene…</l>
+          </sp>
+          <stage>CANDIDANo, Baldo, no, Baldo, su!Basta… Fa’ piano…(ritirando lentamente la mano)Ma tudavvero mi vuoi tanto bene?E allora perché sempre parti?Dall’ultima finestra io guardo il maree ne ascolto il respiro lento ~ e sentoil cuore che mi piange dentro e canta:~ O stelle dagli occhietti adamantini,guardatemelo voi, tremule stelle!O mare grande, sii buono:tramuta l’onde del selvaggio fluttoin un gregge di bianche pecorellee trattieni lontane le sirene!O maestrale amico, affretta, affretta:fagli volgere l’ala delle veleverso la sua bambina che l’aspetta…Ma tu ti parti con il ciglio asciuttoe dici di volermi tanto bene…</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Ancor che col partire</l>
+            <l>io mi senta morire,</l>
+            <l>partir vorrei ogn’ora, ogni momento</l>
+            <l>tant’è il piacer ch’io sento</l>
+            <l>e la gioia ch’io provo del ritorno:</l>
+            <l>così che mille e mille volte al giorno</l>
+            <l>partir da te vorrei</l>
+            <l>tanto son dolci li ritorni miei.</l>
+            <l>madrigale di Alfonso del Vasto (sec. XVI)</l>
+          </sp>
+          <stage>BALDOAncor che col partireio mi senta morire,partir vorrei ogn’ora, ogni momentotant’è il piacer ch’io sentoe la gioia ch’io provo del ritorno:così che mille e mille volte al giornopartir da te vorreitanto son dolci li ritorni miei.madrigale di Alfonso del Vasto (sec. XVI)</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(voce)</l>
+            <l>Est… Non est… Est… Non est…</l>
+          </sp>
+          <stage>MIROCLETO(voce)Est… Non est… Est… Non est…</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(spaventata)</l>
+            <l>Il babbo, il babbo! Va’ via!…</l>
+          </sp>
+          <stage>CANDIDA(spaventata)Il babbo, il babbo! Va’ via!…</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(esitando)</l>
+            <l>Ma ti debbo dire ancora</l>
+            <l>del viaggio…</l>
+          </sp>
+          <stage>BALDO(esitando)Ma ti debbo dire ancoradel viaggio…</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Anima mia,</l>
+            <l>a più tardi… via!</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Fra mezz’ora!</l>
+            <l>(via)</l>
+            <l>Maestro Mirocleto avanza dal fondo con pesantissima dignità ma con pochissimo equilibrio: e girandosi fra le mani un mazzo di chiavi ad una ad una come se sfogliasse una margherita.</l>
+          </sp>
+          <stage>BALDOFra mezz’ora!(via)Maestro Mirocleto avanza dal fondo con pesantissima dignità ma con pochissimo equilibrio: e girandosi fra le mani un mazzo di chiavi ad una ad una come se sfogliasse una margherita.</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Est. Non est. Est. Non est. Est! Est!</l>
+            <l>Io t’ho in pugno! Tu sei mia!</l>
+            <l>Ora non mi scappi più!</l>
+            <l>Chiave, porta, toppa, letto:</l>
+            <l>quattro punti cardinali…</l>
+            <l>Quattro semplici elementi…</l>
+            <l>(si precipita sulla porta della chiesa e cerca furiosamente la toppa che non c’è)</l>
+            <l>Qual nuova soperchieria?</l>
+            <l>Chi m’ha rubato la toppa?</l>
+            <l>Belfagor, diavolo con grandissime orecchie, lunghissima coda, senza corna, entra rasente al campanile, posa un pesantissimo sacchetto a piè dei gradini della chiesa, guarda a destra e a sinistra come forestiero.</l>
+          </sp>
+          <stage>MIROCLETOEst. Non est. Est. Non est. Est! Est!Io t’ho in pugno! Tu sei mia!Ora non mi scappi più!Chiave, porta, toppa, letto:quattro punti cardinali…Quattro semplici elementi…(si precipita sulla porta della chiesa e cerca furiosamente la toppa che non c’è)Qual nuova soperchieria?Chi m’ha rubato la toppa?Belfagor, diavolo con grandissime orecchie, lunghissima coda, senza corna, entra rasente al campanile, posa un pesantissimo sacchetto a piè dei gradini della chiesa, guarda a destra e a sinistra come forestiero.</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>Psss, amico!</l>
+            <l>Mirocleto si volta di scatto, strabuzzando gli occhi.</l>
+            <l>Belfagor saluta con molta compitezza facendo un passo avanti.</l>
+            <l>Mirocleto retrocede verso il centro della piazza.</l>
+            <l>Belfagor rinnova il saluto e tende la mano a Mirocleto.</l>
+            <l>Mirocleto fa un altro passo indietro e cade sconciamente seduto sull’orlo della fontana: per miracolo soltanto il suo cappello cade in acqua.</l>
+          </sp>
+          <stage>BELFAGORPsss, amico!Mirocleto si volta di scatto, strabuzzando gli occhi.Belfagor saluta con molta compitezza facendo un passo avanti.Mirocleto retrocede verso il centro della piazza.Belfagor rinnova il saluto e tende la mano a Mirocleto.Mirocleto fa un altro passo indietro e cade sconciamente seduto sull’orlo della fontana: per miracolo soltanto il suo cappello cade in acqua.</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(accorrendo)</l>
+            <l>Amico caro,</l>
+            <l>che vi siete fatto male?</l>
+          </sp>
+          <stage>BELFAGOR(accorrendo)Amico caro,che vi siete fatto male?</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(girando attorno alla fontana con la scusa di ripescare il cappello)</l>
+            <l>Non è nulla, grazie. Servo.</l>
+          </sp>
+          <stage>MIROCLETO(girando attorno alla fontana con la scusa di ripescare il cappello)Non è nulla, grazie. Servo.</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(girando anch’esso)</l>
+            <l>Io sento un profondissimo dolore</l>
+            <l>d’esser stato involontaria causa…</l>
+          </sp>
+          <stage>BELFAGOR(girando anch’esso)Io sento un profondissimo dolored’esser stato involontaria causa…</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(girando sempre)</l>
+            <l>Per carità signor mio colendissimo,</l>
+            <l>son causa gli anni…</l>
+          </sp>
+          <stage>MIROCLETO(girando sempre)Per carità signor mio colendissimo,son causa gli anni…</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(sorridendo)</l>
+            <l>Gli anni della grappa?</l>
+          </sp>
+          <stage>BELFAGOR(sorridendo)Gli anni della grappa?</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(offeso)</l>
+            <l>La grappa? Ah, prego; era Lacryma Christi!</l>
+            <l>Belfagor cade pesantemente al suolo.</l>
+          </sp>
+          <stage>MIROCLETO(offeso)La grappa? Ah, prego; era Lacryma Christi!Belfagor cade pesantemente al suolo.</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(accorrendo)</l>
+            <l>Quid video? Vosustrissima</l>
+            <l>soffre di morbus sacer?</l>
+            <l>La mia bottega è prossima:</l>
+            <l>ho il farmaco infallibile…</l>
+          </sp>
+          <stage>MIROCLETO(accorrendo)Quid video? Vosustrissimasoffre di morbus sacer?La mia bottega è prossima:ho il farmaco infallibile…</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(alzandosi)</l>
+            <l>No, non v’incomodate! Sto già meglio.</l>
+          </sp>
+          <stage>BELFAGOR(alzandosi)No, non v’incomodate! Sto già meglio.</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Non saprei dirvi tutto il mio dolore</l>
+            <l>s’io fossi stato involontaria causa…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>Risparmiate il dolore: è già passato.</l>
+            <l>Voi dunque siete medico?</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Molto di più: maestro Mirocleto</l>
+            <l>emerito unguentario, sempre agli ordini</l>
+            <l>del signor…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>Belfagor.</l>
+            <l>si stringono cordialmente la mano</l>
+          </sp>
+          <stage>BELFAGORBelfagor.si stringono cordialmente la mano</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Bel… Bel… Bel… lissimo</l>
+            <l>nome!</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>Non ho finito:</l>
+            <l>Belfagor arcidiavolo.</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Arci?…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>Il mio arci vale il vostro emerito…</l>
+            <l>E vengo dall’inferno a questo mondo</l>
+            <l>~ indovinate un po’? ~ per prender moglie…</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(pronto)</l>
+            <l>Prendetevi la mia!</l>
+          </sp>
+          <stage>MIROCLETO(pronto)Prendetevi la mia!</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>No, caro amico,</l>
+            <l>io non voglio la moglie di nessuno:</l>
+            <l>ne cerco una per me.</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(con profonda compassione)</l>
+            <l>Povero diavolo!</l>
+          </sp>
+          <stage>MIROCLETO(con profonda compassione)Povero diavolo!</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>Voi dovreste aiutarmi…</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(offeso)</l>
+            <l>Signor mio,</l>
+            <l>io faccio lo speziale!</l>
+          </sp>
+          <stage>MIROCLETO(offeso)Signor mio,io faccio lo speziale!</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>Eh via, fra amici…</l>
+            <l>Io vi domando un onesto consiglio</l>
+            <l>perché di questo mondo non son pratico.</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Un consiglio da amico?</l>
+            <l>Ritornate all’inferno</l>
+            <l>ché sarà molto meglio.</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>Mi dispiace: è impossibile.</l>
+            <l>Io sono qui per ordine</l>
+            <l>superiore: ho un incarico</l>
+            <l>di fiducia da assolvere.</l>
+            <l>Innumerevoli anime d’uomini</l>
+            <l>nel nostro regno scendono</l>
+            <l>e tutti, o quasi tutti, si dichiarano</l>
+            <l>non altro rei che d’aver tolta moglie.</l>
+            <l>Minosse e gli altri giudici</l>
+            <l>da prima n’ebber grande meraviglia</l>
+            <l>e ritennero fossero calunnie</l>
+            <l>contro il sesso femmineo;</l>
+            <l>poi, colti da uno scrupolo,</l>
+            <l>decisero di chiedere consiglio</l>
+            <l>al nostro re Plutone e agli altri principi.</l>
+            <l>Il caso parve a tutti importantissimo</l>
+            <l>e fu lungo il dibattito,</l>
+            <l>ma si convenne alfin nella sentenza</l>
+            <l>di mandare un di noi per esperienza.</l>
+            <l>Né trovandosi alcun che volontario</l>
+            <l>si sobbarcasse a impresa così forte</l>
+            <l>si dovette ricorrere alla sorte:</l>
+            <l>la quale cadde sopra l’umilissimo</l>
+            <l>Belfagor, arcidiavolo</l>
+            <l>e vostro servo, cui furono dati</l>
+            <l>centomila ducati</l>
+            <l>e istruzioni precise e perentorie:</l>
+            <l>venire al mondo e prender moglie subito…</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(Centomila ducati!)</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>…E con lei vivere</l>
+            <l>dieci anni e poi tornarsene</l>
+            <l>e riferire quali siano i carichi</l>
+            <l>e le comodità del matrimonio.</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(Centomila ducati!)</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>Ho preferito</l>
+            <l>questa gentile terra di Toscana,</l>
+            <l>fior d’ogni terra, ove ciascuna donna</l>
+            <l>tanto gentile e tanto onesta pare;</l>
+            <l>e vo in cerca, schivando le città</l>
+            <l>grandi e pericolose, perché troppo</l>
+            <l>vituperio ne disse un tal poeta</l>
+            <l>quando ci fece visita all’inferno.</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(Centomila ducati!)</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>Or che sapete</l>
+            <l>la cagion che mi muove e fa parlare,</l>
+            <l>ditemi senza indugi e senza ambagi</l>
+            <l>se qui c’è una fanciulla virtuosa,</l>
+            <l>una fanciulla semplice e modesta,</l>
+            <l>degna di me, degna della mia mano,</l>
+            <l>degna dei miei…</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(Centomila ducati!)</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>… titoli principeschi e di dieci anni</l>
+            <l>di vita umana e di fedele amore.</l>
+            <l>Non ho tempo da perdere: qual è</l>
+            <l>la ragazza migliore del paese?</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Em! La migliore non c’è…</l>
+            <l>Non c’è… Perché… Sono tre…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>E come si fa?</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Si sceglie</l>
+            <l>quella che piace di più.</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>E dove stanno di casa?</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(indica la sua bottega)</l>
+            <l>Là.</l>
+          </sp>
+          <stage>MIROCLETO(indica la sua bottega)Là.</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>Tutt’e tre?</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Tutt’e tre.</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>Dov’è la vostra bottega…</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Appunto, signor Belfagor…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(indovinando)</l>
+            <l>Vostre figlie? Ma benone!</l>
+            <l>Avrò un suocero simpatico!</l>
+            <l>(solleva facilmente il sacchetto con la sinistra e tende la destra a Mirocleto)</l>
+            <l>A domani: e preparatemi</l>
+            <l>una buona colazione.</l>
+          </sp>
+          <stage>BELFAGOR(indovinando)Vostre figlie? Ma benone!Avrò un suocero simpatico!(solleva facilmente il sacchetto con la sinistra e tende la destra a Mirocleto)A domani: e preparatemiuna buona colazione.</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Ma perché domani? Subito!</l>
+            <l>Ho un vinetto giù in cantina…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>No… mi debbo mutar abito…</l>
+            <l>lo berremo domattina…</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Sia, ma almeno la valigia</l>
+            <l>la potete lasciar qui…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>Grazie, no. Vedete? Albeggia,</l>
+            <l>debbo andar…</l>
+          </sp>
+          <sp who="#il canto del gallo">
+            <speaker>IL CANTO DEL GALLO:</speaker>
+            <l>Chicchirichììì!</l>
+            <l>Al canto del gallo Belfagor dilegua. Mirocleto fa un gesto come per dire: «Che peccato!» e si dirige verso la porta della sua casa: apre, entra.</l>
+            <l>Prime luci dell’alba. Un altro gallo, lontano, un altro più vicino, chiamano il sole.</l>
+            <l>Si chiude il velario per l’interludio e subito si riapre sul primo atto.</l>
+          </sp>
+          <stage>IL CANTO DEL GALLOChicchirichììì!Al canto del gallo Belfagor dilegua. Mirocleto fa un gesto come per dire: «Che peccato!» e si dirige verso la porta della sua casa: apre, entra.Prime luci dell’alba. Un altro gallo, lontano, un altro più vicino, chiamano il sole.Si chiude il velario per l’interludio e subito si riapre sul primo atto.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto primo</head>
+      </div>
+      <div type="act">
+        <head>Scena unica</head>Una specie di strana sala un po’ da pranzo e un po’ da ricevere e che serve poi anche da cucina e da laboratorio farmaceutico nel lato destro, dove una arco largo e basso mostra l’interno della minuscola bottega dello speziale. Se ne vedono: la porta in fondo che dà sulla piazzetta; una controporta vetrata con la scritta Maestro Mirocleto Unguentario Emerito; il banco di vendita quasi sotto l’arco; e una finestra con inferriata (la stessa del prologo) a destra.L’arco ha una tenda da tirarsi.La grande stanza è molto ordinata e pulita sul lato sinistro, sebbene la credenza in fondo, la tavola da pranzo e le seggiole nel mezzo, e un divano e poltrone sul davanti siano di aspetto assai povero. Invece il lato destro è disordinatissimo e sudicissimo: vi si ammucchiano mortai, bilance, storte, bacili, vasi, barattoli, scatole, serviziali, torchi, trepiedi, mucchi d’erbe secche, e altri arnesi d’ogni sorta, fin sul davanzale d’una seconda finestra, fin sulla pietra del camino dove si mischiano stranamente laboratorio e cucina.Nell’angolo sinistro una vecchia scala di legno conduce al piano superiore. Nella parete sinistra un uscio. Sul davanti, a destra, presso il camino, una botola per la quale si scende in cantina.Quando si apre il velario, Candida è alla finestra e parla con Baldo che è fuori. La stanza è illuminata fiocamente da un lumino a olio posato sulla tavola da pranzo: dalla finestra entra la pallida luce del crepuscolo mattutino.</div>
+      <div type="act">
+        <head>Scena unica</head>Una specie di strana sala un po’ da pranzo e un po’ da ricevere e che serve poi anche da cucina e da laboratorio farmaceutico nel lato destro, dove una arco largo e basso mostra l’interno della minuscola bottega dello speziale. Se ne vedono: la porta in fondo che dà sulla piazzetta; una controporta vetrata con la scritta Maestro Mirocleto Unguentario Emerito; il banco di vendita quasi sotto l’arco; e una finestra con inferriata (la stessa del prologo) a destra.L’arco ha una tenda da tirarsi.La grande stanza è molto ordinata e pulita sul lato sinistro, sebbene la credenza in fondo, la tavola da pranzo e le seggiole nel mezzo, e un divano e poltrone sul davanti siano di aspetto assai povero. Invece il lato destro è disordinatissimo e sudicissimo: vi si ammucchiano mortai, bilance, storte, bacili, vasi, barattoli, scatole, serviziali, torchi, trepiedi, mucchi d’erbe secche, e altri arnesi d’ogni sorta, fin sul davanzale d’una seconda finestra, fin sulla pietra del camino dove si mischiano stranamente laboratorio e cucina.Nell’angolo sinistro una vecchia scala di legno conduce al piano superiore. Nella parete sinistra un uscio. Sul davanti, a destra, presso il camino, una botola per la quale si scende in cantina.Quando si apre il velario, Candida è alla finestra e parla con Baldo che è fuori. La stanza è illuminata fiocamente da un lumino a olio posato sulla tavola da pranzo: dalla finestra entra la pallida luce del crepuscolo mattutino.<div type="scene">
+          <head>Scena unica</head>Una specie di strana sala un po’ da pranzo e un po’ da ricevere e che serve poi anche da cucina e da laboratorio farmaceutico nel lato destro, dove una arco largo e basso mostra l’interno della minuscola bottega dello speziale. Se ne vedono: la porta in fondo che dà sulla piazzetta; una controporta vetrata con la scritta Maestro Mirocleto Unguentario Emerito; il banco di vendita quasi sotto l’arco; e una finestra con inferriata (la stessa del prologo) a destra.L’arco ha una tenda da tirarsi.La grande stanza è molto ordinata e pulita sul lato sinistro, sebbene la credenza in fondo, la tavola da pranzo e le seggiole nel mezzo, e un divano e poltrone sul davanti siano di aspetto assai povero. Invece il lato destro è disordinatissimo e sudicissimo: vi si ammucchiano mortai, bilance, storte, bacili, vasi, barattoli, scatole, serviziali, torchi, trepiedi, mucchi d’erbe secche, e altri arnesi d’ogni sorta, fin sul davanzale d’una seconda finestra, fin sulla pietra del camino dove si mischiano stranamente laboratorio e cucina.Nell’angolo sinistro una vecchia scala di legno conduce al piano superiore. Nella parete sinistra un uscio. Sul davanti, a destra, presso il camino, una botola per la quale si scende in cantina.Quando si apre il velario, Candida è alla finestra e parla con Baldo che è fuori. La stanza è illuminata fiocamente da un lumino a olio posato sulla tavola da pranzo: dalla finestra entra la pallida luce del crepuscolo mattutino. <stage>Scena unicaUna specie di strana sala un po’ da pranzo e un po’ da ricevere e che serve poi anche da cucina e da laboratorio farmaceutico nel lato destro, dove una arco largo e basso mostra l’interno della minuscola bottega dello speziale. Se ne vedono: la porta in fondo che dà sulla piazzetta; una controporta vetrata con la scritta Maestro Mirocleto Unguentario Emerito; il banco di vendita quasi sotto l’arco; e una finestra con inferriata (la stessa del prologo) a destra.L’arco ha una tenda da tirarsi.La grande stanza è molto ordinata e pulita sul lato sinistro, sebbene la credenza in fondo, la tavola da pranzo e le seggiole nel mezzo, e un divano e poltrone sul davanti siano di aspetto assai povero. Invece il lato destro è disordinatissimo e sudicissimo: vi si ammucchiano mortai, bilance, storte, bacili, vasi, barattoli, scatole, serviziali, torchi, trepiedi, mucchi d’erbe secche, e altri arnesi d’ogni sorta, fin sul davanzale d’una seconda finestra, fin sulla pietra del camino dove si mischiano stranamente laboratorio e cucina.Nell’angolo sinistro una vecchia scala di legno conduce al piano superiore. Nella parete sinistra un uscio. Sul davanti, a destra, presso il camino, una botola per la quale si scende in cantina.Quando si apre il velario, Candida è alla finestra e parla con Baldo che è fuori. La stanza è illuminata fiocamente da un lumino a olio posato sulla tavola da pranzo: dalla finestra entra la pallida luce del crepuscolo mattutino.</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Non mi tentare, Baldo, siamo buoni…</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Un bacio solo…</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>È notte… Non si può…</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>È l’amore che parla, e ‘l pensier mesto</l>
+            <l>ch’io parto e che non so se tornerò…</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Ah taci! Non dir questo, non dir questo!</l>
+            <l>(con improvvisa risoluzione)</l>
+            <l>Apro. Dio mi perdoni!</l>
+            <l>(corre alla porta, l’apre, e subito se ne allontana. Baldo entra titubante; accosta pian piano la porta; fa qualche timido passo verso Candida, che via via si ritira prima dietro il bancone, poi dietro la tavola e finalmente dietro il divano)</l>
+          </sp>
+          <stage>CANDIDAAh taci! Non dir questo, non dir questo!(con improvvisa risoluzione)Apro. Dio mi perdoni!(corre alla porta, l’apre, e subito se ne allontana. Baldo entra titubante; accosta pian piano la porta; fa qualche timido passo verso Candida, che via via si ritira prima dietro il bancone, poi dietro la tavola e finalmente dietro il divano)</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>È molto male quello che facciamo…</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(esitando)</l>
+            <l>Lo so… vo via… Soltanto</l>
+            <l>volevo dirti… Candida… che t’amo…</l>
+          </sp>
+          <stage>BALDO(esitando)Lo so… vo via… Soltantovolevo dirti… Candida… che t’amo…</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(col pianto nella voce)</l>
+            <l>Anche… io… tanto, tanto…</l>
+            <l>Ma tu ritornerai, vero?</l>
+          </sp>
+          <stage>CANDIDA(col pianto nella voce)Anche… io… tanto, tanto…Ma tu ritornerai, vero?</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(sicuro)</l>
+            <l>Non temo</l>
+            <l>più, non dubito più, vicino a te!</l>
+          </sp>
+          <stage>BALDO(sicuro)Non temopiù, non dubito più, vicino a te!</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Tornerò… tornerò ricco! E vivremo</l>
+            <l>io per te, tu per me!</l>
+            <l>E avremo una casetta in riva al mare…</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>La capanna e il tuo cuore…</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>…e le sere d’inverno, al focolare,</l>
+            <l>parleremo d’amore…</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(con i gomiti appoggiati alla spalliera del divano, e il mento nella palma, sognando)</l>
+            <l>E tutt’intorno il rame che risplende</l>
+            <l>ai guizzi della fiamma…</l>
+          </sp>
+          <stage>CANDIDA(con i gomiti appoggiati alla spalliera del divano, e il mento nella palma, sognando)E tutt’intorno il rame che risplendeai guizzi della fiamma…</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(con un ginocchio sul divano)</l>
+            <l>E dal tuo labbro un dolce canto scende:</l>
+            <l>canto di ninna nanna…</l>
+          </sp>
+          <stage>BALDO(con un ginocchio sul divano)E dal tuo labbro un dolce canto scende:canto di ninna nanna…</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Un bimbo, un bimbo! Una testina bruna</l>
+            <l>con i capelli a onda</l>
+            <l>come i tuoi, Baldo…</l>
+            <l>(gli passa le dita tra i capelli)</l>
+          </sp>
+          <stage>CANDIDAUn bimbo, un bimbo! Una testina brunacon i capelli a ondacome i tuoi, Baldo…(gli passa le dita tra i capelli)</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(guardandole amorosamente le trecce d’oro)</l>
+            <l>O una testina bionda…</l>
+          </sp>
+          <stage>BALDO(guardandole amorosamente le trecce d’oro)O una testina bionda…</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>…e dondola la cuna…</l>
+            <l>Si udrà un suono di campana.</l>
+          </sp>
+          <stage>CANDIDA…e dondola la cuna…Si udrà un suono di campana.</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(riscuotendosi)</l>
+            <l>Amore, amore, è giorno!</l>
+            <l>Addio, Candida…</l>
+          </sp>
+          <stage>BALDO(riscuotendosi)Amore, amore, è giorno!Addio, Candida…</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Ascolta, domattina,</l>
+            <l>nella sosta a Livorno,</l>
+            <l>sali devotamente a Montenero,</l>
+            <l>prega la Madonnina</l>
+            <l>che ti guardi, e fa’ voto che al ritorno</l>
+            <l>andremo insieme a ringraziarla, e un cero</l>
+            <l>le porteremo e un cuore</l>
+            <l>d’argento… Addio, amore!</l>
+            <l>(gli stringe le tempie e lo bacia sulla fronte: Baldo le cinge la vita e la bacia in bocca)</l>
+          </sp>
+          <stage>CANDIDAAscolta, domattina,nella sosta a Livorno,sali devotamente a Montenero,prega la Madonninache ti guardi, e fa’ voto che al ritornoandremo insieme a ringraziarla, e un cerole porteremo e un cuored’argento… Addio, amore!(gli stringe le tempie e lo bacia sulla fronte: Baldo le cinge la vita e la bacia in bocca)</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Il bacio che m’hai dato sulla bocca</l>
+            <l>m’è promessa di fede nell’attesa,</l>
+            <l>e l’altro m’è viatico e difesa!</l>
+            <l>Non mi tocca procella!</l>
+            <l>Periglio non mi tocca!</l>
+            <l>Io sulla fronte porto la mia stella!</l>
+            <l>(si distacca bruscamente dall’abbraccio e fugge via. Candida chiude senza rumore la porta, e dalla finestra getta piangendo un ultimo saluto)</l>
+          </sp>
+          <stage>BALDOIl bacio che m’hai dato sulla boccam’è promessa di fede nell’attesa,e l’altro m’è viatico e difesa!Non mi tocca procella!Periglio non mi tocca!Io sulla fronte porto la mia stella!(si distacca bruscamente dall’abbraccio e fugge via. Candida chiude senza rumore la porta, e dalla finestra getta piangendo un ultimo saluto)</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Buon viaggio, amor mio!</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(la voce già lontana)</l>
+            <l>Candida, addio!</l>
+            <l>(Candida resta col viso appoggiato all’inferriata, soffocando il pianto che le scuote il petto. Quando sente un rumor di passi nella stanza vicina, si terge in fretta le lacrime, si ricompone e finge d’essere intenta a mettere in ordine la bottega)</l>
+            <l>Olimpia entra dalla porta di sinistra, recando in mano un lumino a olio: richiude.</l>
+          </sp>
+          <stage>BALDO(la voce già lontana)Candida, addio!(Candida resta col viso appoggiato all’inferriata, soffocando il pianto che le scuote il petto. Quando sente un rumor di passi nella stanza vicina, si terge in fretta le lacrime, si ricompone e finge d’essere intenta a mettere in ordine la bottega)Olimpia entra dalla porta di sinistra, recando in mano un lumino a olio: richiude.</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Brava, Candida mia! Di già levata!</l>
+            <l>Buon dì!</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(in fretta, senza volgersi)</l>
+            <l>Buon dì!</l>
+          </sp>
+          <stage>CANDIDA(in fretta, senza volgersi)Buon dì!</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(accennando al piano superiore)</l>
+            <l>Son deste?</l>
+            <l>(Candida stringe le spalle, come per dire che non sa)</l>
+          </sp>
+          <stage>OLIMPIA(accennando al piano superiore)Son deste?(Candida stringe le spalle, come per dire che non sa)</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(guardando in alto e levando la voce)</l>
+            <l>Fidelia, Maddalena, leste, leste,</l>
+            <l>ché la prima è suonata!</l>
+            <l>(all’uscio di sinistra:)</l>
+            <l>O Mirocleto, noi si va alla messa!</l>
+            <l>(Si udrà rumore di calci robustissimi alla porta della farmacia.)</l>
+            <l>O Mirocleto, c’è gente che bussa!</l>
+            <l>(Candida corre ad aprire: la bottega si illumina; si vedrà nella piazza una ricca portantina dorata, uno stuolo di servi in livrea rossa e contadini che guardano a bocca aperta; Candida, rientrando spaurita:</l>
+          </sp>
+          <stage>OLIMPIA(guardando in alto e levando la voce)Fidelia, Maddalena, leste, leste,ché la prima è suonata!(all’uscio di sinistra:)O Mirocleto, noi si va alla messa!(Si udrà rumore di calci robustissimi alla porta della farmacia.)O Mirocleto, c’è gente che bussa!(Candida corre ad aprire: la bottega si illumina; si vedrà nella piazza una ricca portantina dorata, uno stuolo di servi in livrea rossa e contadini che guardano a bocca aperta; Candida, rientrando spaurita:</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Mamma, è un signore…</l>
+          </sp>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(scorgendo il personaggio che entra dietro Candida)</l>
+            <l>Madonna mia!</l>
+            <l>Entra il signor Ipsilonne, imponentissimo, sfarzosissimo, luccicantissimo d’oro. Parrucca nera inanellata. Il suo viso somiglia meravigliosamente a quello di Belfagor. Lo segue un Servo in livrea rossa.</l>
+          </sp>
+          <stage>OLIMPIA(scorgendo il personaggio che entra dietro Candida)Madonna mia!Entra il signor Ipsilonne, imponentissimo, sfarzosissimo, luccicantissimo d’oro. Parrucca nera inanellata. Il suo viso somiglia meravigliosamente a quello di Belfagor. Lo segue un Servo in livrea rossa.</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(tolto di sotto la scala uno scialletto, se ne ravvolge)</l>
+            <l>Mamma, io vo via.</l>
+            <l>(Ipsilonne si inchina galantemente a Candida che esce; Olimpia esterrefatta, si sprofonda in reverenze)</l>
+          </sp>
+          <stage>CANDIDA(tolto di sotto la scala uno scialletto, se ne ravvolge)Mamma, io vo via.(Ipsilonne si inchina galantemente a Candida che esce; Olimpia esterrefatta, si sprofonda in reverenze)</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>In che posso servir vossignoria?</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(ammiccando)</l>
+            <l>Scusate: è la minore?</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(ammiccando)Scusate: è la minore?</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Che mi comanda?</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Dico</l>
+            <l>se quella è la minore vostra figlia…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Dicose quella è la minore vostra figlia…</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Sì, sì, la più piccina…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Rallegramenti, mia cara signora:</l>
+            <l>molto carina!</l>
+            <l>(Fidelia e Maddalena appaiono e scompaiono, curiosando, sull’alto della scaletta)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Rallegramenti, mia cara signora:molto carina!(Fidelia e Maddalena appaiono e scompaiono, curiosando, sull’alto della scaletta)</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Come fate a sapere?</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Vecchio amico</l>
+            <l>di Mirocleto, amico di famiglia,</l>
+            <l>che viene a mantenere una promessa…</l>
+            <l>E il nostro Mirocleto dorme ancora?…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Vecchio amicodi Mirocleto, amico di famiglia,che viene a mantenere una promessa…E il nostro Mirocleto dorme ancora?…</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(premurosa)</l>
+            <l>Ora lo desto…</l>
+          </sp>
+          <stage>OLIMPIA(premurosa)Ora lo desto…</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(trattenendola)</l>
+            <l>Ma non lo disturbate… È così presto!</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(trattenendola)Ma non lo disturbate… È così presto!</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(impacciata)</l>
+            <l>Egli è che noi dovremmo andar a messa…</l>
+            <l>Fidelia e Maddalena scendono la scaletta, pronte per uscire.</l>
+          </sp>
+          <stage>OLIMPIA(impacciata)Egli è che noi dovremmo andar a messa…Fidelia e Maddalena scendono la scaletta, pronte per uscire.</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Oh, prego, prego! Io resto,</l>
+            <l>se me lo permettete qui ad attendere…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Oh, prego, prego! Io resto,se me lo permettete qui ad attendere…</stage>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>(inchinandosi)</l>
+            <l>Eccellenza!</l>
+          </sp>
+          <stage>FIDELIA(inchinandosi)Eccellenza!</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>(inchinandosi)</l>
+            <l>Eccellenza!</l>
+          </sp>
+          <stage>MADDALENA(inchinandosi)Eccellenza!</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(inchinandosi)</l>
+            <l>Signora, damigelle vezzosissime…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(inchinandosi)Signora, damigelle vezzosissime…</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Allora…</l>
+            <l>(nuovo inchino)</l>
+            <l>con licenza…</l>
+            <l>(esce, seguita dalle due fanciulle, che si voltano a gettar furtive occhiate)</l>
+          </sp>
+          <stage>OLIMPIAAllora…(nuovo inchino)con licenza…(esce, seguita dalle due fanciulle, che si voltano a gettar furtive occhiate)</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(al servo)</l>
+            <l>Alichino, lo vedi:</l>
+            <l>siamo alla corte di madonna Fame…</l>
+            <l>Qui si rischia di stare a denti asciutti</l>
+            <l>od a pane e salame.</l>
+            <l>Corri a palazzo e avverti Il maggiordomo</l>
+            <l>che desti i cuochi e i fuochi</l>
+            <l>e prepari per tutti.</l>
+            <l>Cipolle e peperoni sott’aceto,</l>
+            <l>tartine con acciughe e cervellate,</l>
+            <l>risotto con moltissimi tartufi,</l>
+            <l>cibreo di fegatelli e di carciofi,</l>
+            <l>gamberi ed ariguste in salsa verde,</l>
+            <l>gallinacci infarciti di mostarde…</l>
+            <l>Ed il tutto ben pepato,</l>
+            <l>ben capperato,</l>
+            <l>ben senapato,</l>
+            <l>garofolato,</l>
+            <l>zafferanato,</l>
+            <l>come piace a me.</l>
+            <l>Cacio di Gorgonzola</l>
+            <l>e frutta d’ogni sorta ~ e una gran torta</l>
+            <l>al rum brulé.</l>
+            <l>Vini di Spagna ~ vini di Sciampagna,</l>
+            <l>cognac, caffè.</l>
+            <l>Pronto fra un’ora. Vola.</l>
+            <l>(il servo s’inchina ed esce di gran corsa)</l>
+            <l>(Ipsilonne, solo passeggia per la scena nella brevissima attesa; ché subito scorge Maddalena venir dalla strada ed entrar nella bottega)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(al servo)Alichino, lo vedi:siamo alla corte di madonna Fame…Qui si rischia di stare a denti asciuttiod a pane e salame.Corri a palazzo e avverti Il maggiordomoche desti i cuochi e i fuochie prepari per tutti.Cipolle e peperoni sott’aceto,tartine con acciughe e cervellate,risotto con moltissimi tartufi,cibreo di fegatelli e di carciofi,gamberi ed ariguste in salsa verde,gallinacci infarciti di mostarde…Ed il tutto ben pepato,ben capperato,ben senapato,garofolato,zafferanato,come piace a me.Cacio di Gorgonzolae frutta d’ogni sorta ~ e una gran tortaal rum brulé.Vini di Spagna ~ vini di Sciampagna,cognac, caffè.Pronto fra un’ora. Vola.(il servo s’inchina ed esce di gran corsa)(Ipsilonne, solo passeggia per la scena nella brevissima attesa; ché subito scorge Maddalena venir dalla strada ed entrar nella bottega)</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(Ah, ah!… Volevo dire! Ecco la bruna.)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(Ah, ah!… Volevo dire! Ecco la bruna.)</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>(curiosa, esitante, si arresta all’arco)</l>
+            <l>Scusi: ho dimenticato</l>
+            <l>i guanti…</l>
+          </sp>
+          <stage>MADDALENA(curiosa, esitante, si arresta all’arco)Scusi: ho dimenticatoi guanti…</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(galante)</l>
+            <l>Gran fortuna</l>
+            <l>per me, madamigella:</l>
+            <l>insperata fortuna m’è concessa</l>
+            <l>e i miei piani asseconda…</l>
+            <l>(intravvede Fidelia, che, saltellante, sorridente, entra anch’essa nella bottega)</l>
+            <l>(Ah, ah! Volevo dire!… Ecco la bionda!)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(galante)Gran fortunaper me, madamigella:insperata fortuna m’è concessae i miei piani asseconda…(intravvede Fidelia, che, saltellante, sorridente, entra anch’essa nella bottega)(Ah, ah! Volevo dire!… Ecco la bionda!)</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>Dio! Mia sorella!…</l>
+          </sp>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>(imbarazzata)</l>
+            <l>Ho lasciato</l>
+            <l>sul tavolo il libro da messa…</l>
+            <l>Corre con l’occhio dall’uno all’altra, e insinua velenosetta.</l>
+            <l>Disturbo forse?</l>
+          </sp>
+          <stage>FIDELIA(imbarazzata)Ho lasciatosul tavolo il libro da messa…Corre con l’occhio dall’uno all’altra, e insinua velenosetta.Disturbo forse?</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Eh via!</l>
+            <l>Doppiamente fortunato</l>
+            <l>sarò in doppia compagnia!</l>
+            <l>(le due ragazze fingono di cercare su ogni mobile i guanti e il libro, e Ipsilonne si volge intorno come premuroso di aiutarle nella ricerca)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Eh via!Doppiamente fortunatosarò in doppia compagnia!(le due ragazze fingono di cercare su ogni mobile i guanti e il libro, e Ipsilonne si volge intorno come premuroso di aiutarle nella ricerca)</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>E volete, mentre cerchiamo,</l>
+            <l>rispondermi a una dimanda?</l>
+            <l>Una sola?</l>
+            <l>(le ragazze interrompono la ricerca e accennano di sì)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)E volete, mentre cerchiamo,rispondermi a una dimanda?Una sola?(le ragazze interrompono la ricerca e accennano di sì)</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Sì? Supponiamo</l>
+            <l>che stanco di viaggi, stanco di grassi affari,</l>
+            <l>di amori lieti e tristi, principeschi e volgari,</l>
+            <l>di voluttà perverse</l>
+            <l>(le ragazze chinano il capo e arrossiscono)</l>
+            <l>e di infernali ebbrezze</l>
+            <l>volessi quietamente goder le mie ricchezze</l>
+            <l>nelle pure delizie del viver coniugale</l>
+            <l>e scegliessi per moglie una di voi…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Sì? Supponiamoche stanco di viaggi, stanco di grassi affari,di amori lieti e tristi, principeschi e volgari,di voluttà perverse(le ragazze chinano il capo e arrossiscono)e di infernali ebbrezzevolessi quietamente goder le mie ricchezzenelle pure delizie del viver coniugalee scegliessi per moglie una di voi…</stage>
+          <sp who="#fidelia e maddalena">
+            <speaker>FIDELIA E MADDALENA:</speaker>
+            <l>(insieme)</l>
+            <l>Chi?</l>
+            <l>Quale?</l>
+          </sp>
+          <stage>FIDELIA E MADDALENA(insieme)Chi?Quale?</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Supponiamo che un giorno, là, nel nostro castello</l>
+            <l>ci capitasse un ospite giovine, ricco, bello,</l>
+            <l>preceduto da fama di gran conquistatore,</l>
+            <l>un uomo irresistibile… Capite?</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Supponiamo che un giorno, là, nel nostro castelloci capitasse un ospite giovine, ricco, bello,preceduto da fama di gran conquistatore,un uomo irresistibile… Capite?</stage>
+          <sp who="#fidelia e maddalena">
+            <speaker>FIDELIA E MADDALENA:</speaker>
+            <l>(a capo chino)</l>
+            <l>Sì, signore.</l>
+          </sp>
+          <stage>FIDELIA E MADDALENA(a capo chino)Sì, signore.</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>E supponiamo infine che la mattina istessa</l>
+            <l>io avessi desiderio di assistere alla messa:</l>
+            <l>la mia fedele sposa ~ questo vorrei sapere ~</l>
+            <l>lascerà a casa i guanti o il libro di preghiere?</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)E supponiamo infine che la mattina istessaio avessi desiderio di assistere alla messa:la mia fedele sposa ~ questo vorrei sapere ~lascerà a casa i guanti o il libro di preghiere?</stage>
+          <sp who="#fidelia e maddalena">
+            <speaker>FIDELIA E MADDALENA:</speaker>
+            <l>Oh, no, no!</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Dunque potrei fidarmi?</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Dunque potrei fidarmi?</stage>
+          <sp who="#fidelia e maddalena">
+            <speaker>FIDELIA E MADDALENA:</speaker>
+            <l>Oh, sì, sì!</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Com’oggi vostra madre?</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Com’oggi vostra madre?</stage>
+          <sp who="#fidelia e maddalena">
+            <speaker>FIDELIA E MADDALENA:</speaker>
+            <l>Di più, molto di più!</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>E… fra le due, di quale?</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)E… fra le due, di quale?</stage>
+          <sp who="#fidelia e maddalena">
+            <speaker>FIDELIA E MADDALENA:</speaker>
+            <l>(insieme)</l>
+            <l>Di me!</l>
+            <l>Di me!</l>
+          </sp>
+          <stage>FIDELIA E MADDALENA(insieme)Di me!Di me!</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(s’inchina sorridendo e annuendo; poi, con volto compunto e aprendo le braccia)</l>
+            <l>Peccato ch’io non pensi affatto a prender moglie…</l>
+            <l>Ho detto «supponiamo»… Non ho di queste voglie!</l>
+            <l>E farmele venire, farmi girar la testa</l>
+            <l>non è una cosa facile… Non c’è riuscita questa!</l>
+            <l>(mostra una grossa miniatura inserita nella spilla della cravatta)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(s’inchina sorridendo e annuendo; poi, con volto compunto e aprendo le braccia)Peccato ch’io non pensi affatto a prender moglie…Ho detto «supponiamo»… Non ho di queste voglie!E farmele venire, farmi girar la testanon è una cosa facile… Non c’è riuscita questa!(mostra una grossa miniatura inserita nella spilla della cravatta)</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>Uh! Bruna come me…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Bella quant’altra mai</l>
+            <l>fosse in Costantinopoli, e il dì che la lasciai</l>
+            <l>cercò morte gittandosi nel Bosforo…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Bella quant’altra maifosse in Costantinopoli, e il dì che la lasciaicercò morte gittandosi nel Bosforo…</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>E perché</l>
+            <l>la lasciaste?</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Per questa.</l>
+            <l>(mostra un’altra grossa miniatura, incastonata nell’anello che porta all’indice destro)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Per questa.(mostra un’altra grossa miniatura, incastonata nell’anello che porta all’indice destro)</stage>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>Uh! Bionda come me…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Moglie d’un arciduca: mi vide… le sorrisi…</l>
+            <l>s’innamorò… l’amai!</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Moglie d’un arciduca: mi vide… le sorrisi…s’innamorò… l’amai!</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>E il marito?</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>L’uccisi!</l>
+            <l>(siede sul divano e fa seder le ragazze a’ suoi lati)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)L’uccisi!(siede sul divano e fa seder le ragazze a’ suoi lati)</stage>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>Ma che vita, la vostra!</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>Un romanzo!</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Uno?… Quanti!</l>
+            <l>(mostra il giustacuore attraversato da una lunga catena tutta composta di miniature)</l>
+            <l>Guardate!</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Uno?… Quanti!(mostra il giustacuore attraversato da una lunga catena tutta composta di miniature)Guardate!</stage>
+          <sp who="#fidelia e maddalena">
+            <speaker>FIDELIA E MADDALENA:</speaker>
+            <l>Tutte queste?</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Son le più interessanti:</l>
+            <l>l’altre vorrei scordarle… Ma ogni donna ha qualcosa</l>
+            <l>di non dimenticabile… Questa le unghiette rosa</l>
+            <l>(indica una delle miniature: Fidelia e Maddalena si guardano attentamente le unghie)</l>
+            <l>un po’ come le vostre, mia bella Maddalena…</l>
+            <l>e quando mi graffiavano, che deliziosa pena!</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Son le più interessanti:l’altre vorrei scordarle… Ma ogni donna ha qualcosadi non dimenticabile… Questa le unghiette rosa(indica una delle miniature: Fidelia e Maddalena si guardano attentamente le unghie)un po’ come le vostre, mia bella Maddalena…e quando mi graffiavano, che deliziosa pena!</stage>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>(toccandogli la spalla per richiamar la sua attenzione)</l>
+            <l>E questa?</l>
+          </sp>
+          <stage>FIDELIA(toccandogli la spalla per richiamar la sua attenzione)E questa?</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Avea le guance d’un candor di camelia,</l>
+            <l>un po’ come le vostre, mia graziosa Fidelia!</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Avea le guance d’un candor di camelia,un po’ come le vostre, mia graziosa Fidelia!</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>(toccandogli la spalla per richiamar la sua attenzione)</l>
+            <l>E questa?</l>
+          </sp>
+          <stage>MADDALENA(toccandogli la spalla per richiamar la sua attenzione)E questa?</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(si ferma un istante e corruga i sopraccigli, come per richiamare un ricordo lontano)</l>
+            <l>Ah, mi ricordo. Era la fidanzata</l>
+            <l>d’un rajà indiano; e aveva un piedino di fata…</l>
+            <l>Mostratemi un po’ i vostri…</l>
+            <l>(Maddalena e Fidelia obbediscono a gara)</l>
+            <l>Ecco: il vostro piedino</l>
+            <l>(tocca il piede di Fidelia poi il malleolo di Maddalena)</l>
+            <l>attaccato a un malleolo così fragile e fino.</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(si ferma un istante e corruga i sopraccigli, come per richiamare un ricordo lontano)Ah, mi ricordo. Era la fidanzatad’un rajà indiano; e aveva un piedino di fata…Mostratemi un po’ i vostri…(Maddalena e Fidelia obbediscono a gara)Ecco: il vostro piedino(tocca il piede di Fidelia poi il malleolo di Maddalena)attaccato a un malleolo così fragile e fino.</stage>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>E questa? È meno bella di me…</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>Meno di me…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(quasi toccato da un tizzo ardente)</l>
+            <l>Ah, Per pietà, tacete! Voi non sapete…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(quasi toccato da un tizzo ardente)Ah, Per pietà, tacete! Voi non sapete…</stage>
+          <sp who="#fidelia e maddalena">
+            <speaker>FIDELIA E MADDALENA:</speaker>
+            <l>Che?</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(afferra le mani di Fidelia e di Maddalena e se le preme sul cuore: poi, mentre nel parlar s’esalta, si trae sempre più vicine le due fanciulle)</l>
+            <l>Non ravvivate fuoco che qui nascosto langue,</l>
+            <l>non ridestate brividi sopiti entro il mio sangue!</l>
+            <l>Dolce bocca! Dolcissime labbra! Non era bella,</l>
+            <l>ma niuna seppe mai baciarmi come quella…</l>
+            <l>Quella l’avrei sposata, quella sì, quella sì!</l>
+            <l>Non avrò più nessuna che mi baci così…</l>
+            <l>(Fidelia e Maddalena, nascondendosi l’una all’altra, già sfiorano con le labbra le due guance d’Ipsilonne)</l>
+            <l>Dall’uscio di sinistra entra tranquillamente maestro Mirocleto, occupato ad abbottonarsi il panciotto, mentre la giubba gli pende da un lato mezza infilata e mezza no: vede e resta come impietrito. Ipsilonne è preso da un convulso di tosse e di riso.</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(afferra le mani di Fidelia e di Maddalena e se le preme sul cuore: poi, mentre nel parlar s’esalta, si trae sempre più vicine le due fanciulle)Non ravvivate fuoco che qui nascosto langue,non ridestate brividi sopiti entro il mio sangue!Dolce bocca! Dolcissime labbra! Non era bella,ma niuna seppe mai baciarmi come quella…Quella l’avrei sposata, quella sì, quella sì!Non avrò più nessuna che mi baci così…(Fidelia e Maddalena, nascondendosi l’una all’altra, già sfiorano con le labbra le due guance d’Ipsilonne)Dall’uscio di sinistra entra tranquillamente maestro Mirocleto, occupato ad abbottonarsi il panciotto, mentre la giubba gli pende da un lato mezza infilata e mezza no: vede e resta come impietrito. Ipsilonne è preso da un convulso di tosse e di riso.</stage>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>Uh!</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>Poveretta me!</l>
+            <l>(e scappano, piene di vergogna, su per la scaletta)</l>
+          </sp>
+          <stage>MADDALENAPoveretta me!(e scappano, piene di vergogna, su per la scaletta)</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(inseguendole per due o tre gradini)</l>
+            <l>E ba… sta… E mi congratulo</l>
+            <l>con vostra madre, che</l>
+            <l>vi fa sì buona guardia!…</l>
+          </sp>
+          <stage>MIROCLETO(inseguendole per due o tre gradini)E ba… sta… E mi congratulocon vostra madre, chevi fa sì buona guardia!…</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(con voce soffocata dal riso.)</l>
+            <l>Ma… a-mi-co… mi-o…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(con voce soffocata dal riso.)Ma… a-mi-co… mi-o…</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(rivolgendosi infuriatissimo)</l>
+            <l>Signore!</l>
+            <l>(ma veduto l’aspetto imponente di Ipsilonne, muta subito tono e si inchina dignitosamente)</l>
+            <l>Vi prego, accomodatevi…</l>
+            <l>A che debbo l’onore?…</l>
+          </sp>
+          <stage>MIROCLETO(rivolgendosi infuriatissimo)Signore!(ma veduto l’aspetto imponente di Ipsilonne, muta subito tono e si inchina dignitosamente)Vi prego, accomodatevi…A che debbo l’onore?…</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(sempre ridendo.)</l>
+            <l>Dunque, amico carissimo,</l>
+            <l>non mi riconoscete?</l>
+            <l>(Mirocleto si toglie gli occhiali e lo guarda: la sua faccia fissando quella di Ipsilonne, passa attraverso varie alternative di stupidità e di paura, prima di decidersi per quest’ultima)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(sempre ridendo.)Dunque, amico carissimo,non mi riconoscete?(Mirocleto si toglie gli occhiali e lo guarda: la sua faccia fissando quella di Ipsilonne, passa attraverso varie alternative di stupidità e di paura, prima di decidersi per quest’ultima)</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Il signor B…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(rapidamente chiude la bocca di Mirocleto con una mano)</l>
+            <l>Ipsilonne.</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(rapidamente chiude la bocca di Mirocleto con una mano)Ipsilonne.</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(ammiccando)</l>
+            <l>Andiamo, via! Voi siete…</l>
+          </sp>
+          <stage>MIROCLETO(ammiccando)Andiamo, via! Voi siete…</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(imperioso interrompe)</l>
+            <l>Il signor Ipsilonne.</l>
+            <l>(prende Mirocleto per un braccio e parlandogli sottovoce lo conduce fino alla porta: gli mostra la portantina e i servi, gli indica lontano, in alto, il castello… durante tutto il mimico racconto di Ipsilonne, Mirocleto si lascia sfuggire frequenti esclamazioni di meraviglia; rientrano: evidentemente Ipsilonne parla del suo progetto di matrimonio)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(imperioso interrompe)Il signor Ipsilonne.(prende Mirocleto per un braccio e parlandogli sottovoce lo conduce fino alla porta: gli mostra la portantina e i servi, gli indica lontano, in alto, il castello… durante tutto il mimico racconto di Ipsilonne, Mirocleto si lascia sfuggire frequenti esclamazioni di meraviglia; rientrano: evidentemente Ipsilonne parla del suo progetto di matrimonio)</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(accennando alla scala per la quale sono scappate le ragazze)</l>
+            <l>E delle due lassù</l>
+            <l>qual ebbe la fortuna</l>
+            <l>di piacervi di più?</l>
+          </sp>
+          <stage>MIROCLETO(accennando alla scala per la quale sono scappate le ragazze)E delle due lassùqual ebbe la fortunadi piacervi di più?</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Di quelle due, nessuna.</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Di quelle due, nessuna.</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(offeso)</l>
+            <l>Nessuna? O che si scherza?</l>
+            <l>Eppure… Mi sembrò…</l>
+          </sp>
+          <stage>MIROCLETO(offeso)Nessuna? O che si scherza?Eppure… Mi sembrò…</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Preferisco la terza.</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Preferisco la terza.</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(un po’ pensieroso)</l>
+            <l>Ah! Candida. Però…</l>
+          </sp>
+          <stage>MIROCLETO(un po’ pensieroso)Ah! Candida. Però…</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(con grande enfasi)</l>
+            <l>«Candida»! Nome lunare!…</l>
+            <l>Ala di cigno che batte</l>
+            <l>su l’acque chiare!</l>
+            <l>Splendore di marmo polito!</l>
+            <l>Odore di giglio!</l>
+            <l>Freschezza di neve non tocca,</l>
+            <l>di spuma di mare!</l>
+            <l>Dolcezza di panna di latte</l>
+            <l>che si scioglie</l>
+            <l>in bocca!</l>
+            <l>Nome che mette appetito!</l>
+            <l>Mi piace. La piglio</l>
+            <l>per moglie.</l>
+            <l>Avete capito?</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(con grande enfasi)«Candida»! Nome lunare!…Ala di cigno che battesu l’acque chiare!Splendore di marmo polito!Odore di giglio!Freschezza di neve non tocca,di spuma di mare!Dolcezza di panna di latteche si sciogliein bocca!Nome che mette appetito!Mi piace. La piglioper moglie.Avete capito?</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Ho capito. Solamente…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Solamente?…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Solamente?…</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>È la più piccola…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Tanto meglio!</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Tanto meglio!</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>…non sa niente…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Tanto meglio!</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Tanto meglio!</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>…è così timida…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Tanto meglio!</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Tanto meglio!</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>…e ci vorrà</l>
+            <l>ch’io le parli e forse adoperi</l>
+            <l>la paterna autorità.</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(cominciando a impazientirsi)</l>
+            <l>Che temete?</l>
+            <l>Ch’io non piaccia?</l>
+            <l>Non vi sembrano simpatiche</l>
+            <l>queste spoglie</l>
+            <l>questa faccia?</l>
+            <l>Non vi sembran seducenti</l>
+            <l>gli argomenti</l>
+            <l>che sapete?</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(cominciando a impazientirsi)Che temete?Ch’io non piaccia?Non vi sembrano simpatichequeste spogliequesta faccia?Non vi sembran seducentigli argomentiche sapete?</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Sì, sì, ma non vorrei…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(furente)</l>
+            <l>Basta! Tacete! Tornano!</l>
+            <l>Lasciatemi solo con lei</l>
+            <l>e portate via vostra moglie!</l>
+            <l>Entrano dalla strada Olimpia e Candida. Mirocleto muove loro incontro con ampio gesto cerimonioso.</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(furente)Basta! Tacete! Tornano!Lasciatemi solo con leie portate via vostra moglie!Entrano dalla strada Olimpia e Candida. Mirocleto muove loro incontro con ampio gesto cerimonioso.</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Signora, ho la fortuna impareggiabile</l>
+            <l>di presentarvi al nobile e magnifico</l>
+            <l>cavaliere Ipsilonne, che a quest’umile</l>
+            <l>mensa degna sedere ospite splendido.</l>
+            <l>Conciossiaché egli venne nel proposito</l>
+            <l>di conoscere le nostre figlie e accoglierne</l>
+            <l>una, consorte al fasto del suo talamo.</l>
+          </sp>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Già briaco… a quest’ora!</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>La verità, signora.</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)La verità, signora.</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(imperturbato)</l>
+            <l>Vogliate dunque immantinente andarvene</l>
+            <l>a cercar le fanciulle, e presentatele</l>
+            <l>degnamente al futuro vostro genero.</l>
+            <l>(a Ipsilonne)</l>
+            <l>Dico bene?</l>
+          </sp>
+          <stage>MIROCLETO(imperturbato)Vogliate dunque immantinente andarvenea cercar le fanciulle, e presentateledegnamente al futuro vostro genero.(a Ipsilonne)Dico bene?</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Ben detto.</l>
+            <l>(Olimpia, confusa, si profonde in inchini, mormora qualche parola a Candida, esce dalla porta di sinistra; Candida incomincia ad apparecchiare la tavola)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Ben detto.(Olimpia, confusa, si profonde in inchini, mormora qualche parola a Candida, esce dalla porta di sinistra; Candida incomincia ad apparecchiare la tavola)</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(a Mirocleto)</l>
+            <l>Ora a voi… Questo vinetto…</l>
+            <l>(Mirocleto alza la ribalta della botola e comincia a discendere la scaletta della cantina; dopo i primi gradini si ferma; si volge a Candida, e aprendo solennemente le braccia ammonisce)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(a Mirocleto)Ora a voi… Questo vinetto…(Mirocleto alza la ribalta della botola e comincia a discendere la scaletta della cantina; dopo i primi gradini si ferma; si volge a Candida, e aprendo solennemente le braccia ammonisce)</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Figlia mia, l’alto destino…</l>
+            <l>(ma Ipsilonne l’interrompe subito)</l>
+          </sp>
+          <stage>MIROCLETOFiglia mia, l’alto destino…(ma Ipsilonne l’interrompe subito)</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Questo vino! Questo vino!</l>
+            <l>(e mette un piede sulla ribalta della botola per decidere Mirocleto a scomparire)</l>
+            <l>(Ipsilonne si rassetta la parrucca, si dà qualche buffetto sul vestito, si tocca ad uno ad uno i più vistosi gioielli, si gonfia come un tacchino per attirare l’attenzione di Candida: ma la fanciulla, indifferente, continua ad apparecchiare la tavola)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Questo vino! Questo vino!(e mette un piede sulla ribalta della botola per decidere Mirocleto a scomparire)(Ipsilonne si rassetta la parrucca, si dà qualche buffetto sul vestito, si tocca ad uno ad uno i più vistosi gioielli, si gonfia come un tacchino per attirare l’attenzione di Candida: ma la fanciulla, indifferente, continua ad apparecchiare la tavola)</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Candida!</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Candida!</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Mi comandi, signoria!</l>
+            <l>Ipsilonne apre la mano destra, con la palma volta verso la sua interlocutrice, come per dire: «Ascoltatemi».</l>
+          </sp>
+          <stage>CANDIDAMi comandi, signoria!Ipsilonne apre la mano destra, con la palma volta verso la sua interlocutrice, come per dire: «Ascoltatemi».</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Sono un grosso mercante ritirato,</l>
+            <l>ricco sfondato,</l>
+            <l>ormai stanco di vita avventurosa,</l>
+            <l>che cerca un quieto nido</l>
+            <l>e un cuor fido</l>
+            <l>di dolce sposa.</l>
+            <l>E per nido ho acquistato quel castello</l>
+            <l>e lo farò più bello</l>
+            <l>di stucchi e d’ori</l>
+            <l>dentro e di fuori.</l>
+            <l>Vengo a rapirvi in quella portantina,</l>
+            <l>degna d’una regina,</l>
+            <l>gialla e fragrante</l>
+            <l>come un croccante.</l>
+            <l>Là son quei servi a’ vostri cenni pronti,</l>
+            <l>io qui vostro valletto</l>
+            <l>v’offro e prometto</l>
+            <l>mari e monti:</l>
+            <l>monti di trine e mari di broccati,</l>
+            <l>laghi di perle, prati</l>
+            <l>di diamanti, giardini</l>
+            <l>tutti rubini,</l>
+            <l>smeraldi a fiumi</l>
+            <l>e nubi di profumi…</l>
+            <l>Tutto quel che vorrete:</l>
+            <l>chiedete e avrete.</l>
+            <l>(il tentatore ghermisce la fanciulla e si protende per baciarle la bocca: ella si torce e repugna e con la mano aperta colpisce Ipsilonne sulla guancia)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Sono un grosso mercante ritirato,ricco sfondato,ormai stanco di vita avventurosa,che cerca un quieto nidoe un cuor fidodi dolce sposa.E per nido ho acquistato quel castelloe lo farò più bellodi stucchi e d’oridentro e di fuori.Vengo a rapirvi in quella portantina,degna d’una regina,gialla e fragrantecome un croccante.Là son quei servi a’ vostri cenni pronti,io qui vostro vallettov’offro e promettomari e monti:monti di trine e mari di broccati,laghi di perle, pratidi diamanti, giardinitutti rubini,smeraldi a fiumie nubi di profumi…Tutto quel che vorrete:chiedete e avrete.(il tentatore ghermisce la fanciulla e si protende per baciarle la bocca: ella si torce e repugna e con la mano aperta colpisce Ipsilonne sulla guancia)</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(chiamando al soccorso)</l>
+            <l>Mamma! Babbo!</l>
+          </sp>
+          <stage>CANDIDA(chiamando al soccorso)Mamma! Babbo!</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(coprendosi con la mano la guancia schiaffeggiata)</l>
+            <l>Ah, cara! Cara!</l>
+            <l>Questo volevo!</l>
+            <l>Questo bramavo!</l>
+            <l>Ecco la prova!</l>
+            <l>Fanciulla rara!</l>
+            <l>Creatura</l>
+            <l>pura…</l>
+            <l>Accorre da sinistra Olimpia, sale dalla cantina Mirocleto, discendono dalla scaletta Fidelia e Maddalena.</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(coprendosi con la mano la guancia schiaffeggiata)Ah, cara! Cara!Questo volevo!Questo bramavo!Ecco la prova!Fanciulla rara!Creaturapura…Accorre da sinistra Olimpia, sale dalla cantina Mirocleto, discendono dalla scaletta Fidelia e Maddalena.</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Maestro Mirocleto,</l>
+            <l>chieggo la man di vostra figlia Candida!</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Maestro Mirocleto,chieggo la man di vostra figlia Candida!</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Ed io sono ben lieto,</l>
+            <l>figlio mio, di accordarvela!</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(getta un grido altissimo)</l>
+            <l>No, mio dio, no!</l>
+            <l>(e cade fra le braccia di Olimpia)</l>
+          </sp>
+          <stage>CANDIDA(getta un grido altissimo)No, mio dio, no!(e cade fra le braccia di Olimpia)</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(a Ipsilonne)</l>
+            <l>La gioia… L’emozione…</l>
+            <l>Una schiera di Servi in ricchissime livree rosse, guidati da un maggiordomo, sfila recando piatti colmi di vivande e vini per un pantagruelico banchetto.</l>
+          </sp>
+          <stage>MIROCLETO(a Ipsilonne)La gioia… L’emozione…Una schiera di Servi in ricchissime livree rosse, guidati da un maggiordomo, sfila recando piatti colmi di vivande e vini per un pantagruelico banchetto.</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(a parte)</l>
+            <l>Ed ora, ventre mio, fatti capanna,</l>
+            <l>poi che trovai la panacea divina!</l>
+            <l>Piove su noi la salutare manna…</l>
+            <l>e adesso, ventre mio, fatti capanna!</l>
+          </sp>
+          <stage>MIROCLETO(a parte)Ed ora, ventre mio, fatti capanna,poi che trovai la panacea divina!Piove su noi la salutare manna…e adesso, ventre mio, fatti capanna!</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Non so se di timore o d’allegrezza</l>
+            <l>mi trema il cuore mentre benedice</l>
+            <l>e mi trema la man che t’accarezza…</l>
+            <l>Dio ti protegga, o figlia, e sii felice!</l>
+          </sp>
+          <sp who="#fidelia e maddalena">
+            <speaker>FIDELIA E MADDALENA:</speaker>
+            <l>Ah mia cara speranza! Ahi, fatua fiamma spenta!</l>
+            <l>Ahi, cieca sorte che gitta il suo dono!</l>
+            <l>Lei, che alla rocca e al fuso era contenta:</l>
+            <l>io, ch’ero nata per salire in trono!</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Corrò la fresca e mattutina rosa,</l>
+            <l>m’oblierò nell’amoroso gioco:</l>
+            <l>verginità, dolcezza misteriosa,</l>
+            <l>brivido d’acqua chiara sul mio foco!</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Corrò la fresca e mattutina rosa,m’oblierò nell’amoroso gioco:verginità, dolcezza misteriosa,brivido d’acqua chiara sul mio foco!</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>O Baldo, o Baldo mio, non odi il pianto,</l>
+            <l>non odi il grido del mio cor profondo!</l>
+            <l>Accorri, accorri! Io sono tua soltanto</l>
+            <l>e difendo il mio amore contro il mondo!</l>
+            <l>Il Maggiordomo s’inchina dinanzi al signor Ipsilonne, che fa cenno di assenso e offre il braccio a Olimpia. Mentre tutti siedono a mensa, si chiude il velario.</l>
+          </sp>
+          <stage>CANDIDAO Baldo, o Baldo mio, non odi il pianto,non odi il grido del mio cor profondo!Accorri, accorri! Io sono tua soltantoe difendo il mio amore contro il mondo!Il Maggiordomo s’inchina dinanzi al signor Ipsilonne, che fa cenno di assenso e offre il braccio a Olimpia. Mentre tutti siedono a mensa, si chiude il velario.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto secondo</head>
+        <div type="scene">
+          <head>Scena unica</head>Sala ottagonale in una torre del castello del signor Ipsilonne.Nel primo lato (a sinistra dello spettatore) una porta d’accesso alle stanze di Candida, poi un grande divano alla turca, un tavolinetto, due ampie poltrone profonde e un paravento ricchissimo.Nel secondo lato, larga finestra che s’apre su un verone angolare: al verone si deve accedere anche dalla prima stanza dell’appartamento di Candida. Il verone è illuminato da torce; si intravvedono grandi chiome d’alberi e il mare lontano.Il terzo lato è tutto a vetrate al di là grandi sale da ballo folgoranti di luce.Nel quarto lato un magnifico camino con sopra una pendola d’oro, e dinnanzi al camino altro tavolinetto e altre comodissime poltrone; sul tavolino tre bottiglie, una delle quali già vuota, e un enorme pezzo di dolce.Un ricchissimo lampadario acceso pende dal mezzo del soffitto: tutto nella sala è ricco, sfarzoso, sovraccarico d’oro, di ricami, di ornamenti barocchi.Si udranno voci alte e irose e un fracassio di cristalli. Poi, mentre si apre il velario, si vedranno uscir dalle stanze di Candida tre Cameriere vestite di rosso, con volti di bragia e accorrere contro il signor Ipsilonne: gracidano confusamente alcun che in una lingua incomprensibile, fan gesti come per esprimere una ben ferma decisione e se ne vanno dal fondo in gran furia, come son venute.Il signor Ipsilonne, agitatissimo, le accompagna con le braccia protese e con rabbioso grido. <stage>Scena unicaSala ottagonale in una torre del castello del signor Ipsilonne.Nel primo lato (a sinistra dello spettatore) una porta d’accesso alle stanze di Candida, poi un grande divano alla turca, un tavolinetto, due ampie poltrone profonde e un paravento ricchissimo.Nel secondo lato, larga finestra che s’apre su un verone angolare: al verone si deve accedere anche dalla prima stanza dell’appartamento di Candida. Il verone è illuminato da torce; si intravvedono grandi chiome d’alberi e il mare lontano.Il terzo lato è tutto a vetrate al di là grandi sale da ballo folgoranti di luce.Nel quarto lato un magnifico camino con sopra una pendola d’oro, e dinnanzi al camino altro tavolinetto e altre comodissime poltrone; sul tavolino tre bottiglie, una delle quali già vuota, e un enorme pezzo di dolce.Un ricchissimo lampadario acceso pende dal mezzo del soffitto: tutto nella sala è ricco, sfarzoso, sovraccarico d’oro, di ricami, di ornamenti barocchi.Si udranno voci alte e irose e un fracassio di cristalli. Poi, mentre si apre il velario, si vedranno uscir dalle stanze di Candida tre Cameriere vestite di rosso, con volti di bragia e accorrere contro il signor Ipsilonne: gracidano confusamente alcun che in una lingua incomprensibile, fan gesti come per esprimere una ben ferma decisione e se ne vanno dal fondo in gran furia, come son venute.Il signor Ipsilonne, agitatissimo, le accompagna con le braccia protese e con rabbioso grido.</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>All’inferno!</l>
+            <l>(si volge verso il proscenio: è sparuto, livido)</l>
+            <l>(Candida è seduta su una poltrona, a sinistra; presso di lei sono Olimpia, anch’essa seduta, Fidelia e Maddalena; dall’altra parte, accanto al camino, Mirocleto; son tutti vestiti in gran gala: Olimpia molto im soggezione nella ricca veste, Fidelia e Maddalena infioccatissime; Mirocleto ha cera assai soddisfatta e nutrita, e senza levarsi dalla poltrona si versa da bere e beve, taglia grosse fette di dolce e mangia, con grande dignità in ogni gesto)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)All’inferno!(si volge verso il proscenio: è sparuto, livido)(Candida è seduta su una poltrona, a sinistra; presso di lei sono Olimpia, anch’essa seduta, Fidelia e Maddalena; dall’altra parte, accanto al camino, Mirocleto; son tutti vestiti in gran gala: Olimpia molto im soggezione nella ricca veste, Fidelia e Maddalena infioccatissime; Mirocleto ha cera assai soddisfatta e nutrita, e senza levarsi dalla poltrona si versa da bere e beve, taglia grosse fette di dolce e mangia, con grande dignità in ogni gesto)</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(col capo abbandonato sulla spalliera, guarda il soffitto e ride)</l>
+            <l>Ah! Ah!</l>
+          </sp>
+          <stage>CANDIDA(col capo abbandonato sulla spalliera, guarda il soffitto e ride)Ah! Ah!</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(a Olimpia)</l>
+            <l>Le avete intese?</l>
+            <l>Se ne vanno!… Anche queste</l>
+            <l>devote e oneste</l>
+            <l>e antiche serve della mia famiglia</l>
+            <l>non ne possono più di vostra figlia…</l>
+            <l>Ritornano al paese…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(a Olimpia)Le avete intese?Se ne vanno!… Anche questedevote e onestee antiche serve della mia famiglianon ne possono più di vostra figlia…Ritornano al paese…</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(senza muoversi)</l>
+            <l>Fate altrettanto!</l>
+            <l>(Ipsilonne la guarda, apre la bocca in gesto disperato, e comincia a misurare a gran passi la sala, innanzi e indietro)</l>
+          </sp>
+          <stage>CANDIDA(senza muoversi)Fate altrettanto!(Ipsilonne la guarda, apre la bocca in gesto disperato, e comincia a misurare a gran passi la sala, innanzi e indietro)</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(severa)</l>
+            <l>È tuo marito!</l>
+          </sp>
+          <stage>OLIMPIA(severa)È tuo marito!</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>No!</l>
+          </sp>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(dolcemente)</l>
+            <l>Sii buona…</l>
+          </sp>
+          <stage>OLIMPIA(dolcemente)Sii buona…</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(come una bimba che fa i capricci)</l>
+            <l>No.</l>
+          </sp>
+          <stage>CANDIDA(come una bimba che fa i capricci)No.</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Bisogna che tu venga:</l>
+            <l>ragiona…</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Non verrò.</l>
+          </sp>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>La tua mamma ti prega…</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Ed io non voglio.</l>
+          </sp>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>(a Maddalena)</l>
+            <l>Mansueta! E l’ha scelta!</l>
+          </sp>
+          <stage>FIDELIA(a Maddalena)Mansueta! E l’ha scelta!</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>(a Fidelia)</l>
+            <l>Or se la tenga!</l>
+          </sp>
+          <stage>MADDALENA(a Fidelia)Or se la tenga!</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(con dolore)</l>
+            <l>Quest’insolito orgoglio</l>
+            <l>mal ti s’addice e mi fa male tanto…</l>
+          </sp>
+          <stage>OLIMPIA(con dolore)Quest’insolito orgogliomal ti s’addice e mi fa male tanto…</stage>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>(a Maddalena)</l>
+            <l>(accennando Ipsilonne)</l>
+            <l>Ben gli sta…</l>
+          </sp>
+          <stage>FIDELIA(a Maddalena)(accennando Ipsilonne)Ben gli sta…</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>(a Fidelia)</l>
+            <l>…come un guanto…</l>
+          </sp>
+          <stage>MADDALENA(a Fidelia)…come un guanto…</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(timidamente)</l>
+            <l>Rimandiamo la festa…</l>
+          </sp>
+          <stage>OLIMPIA(timidamente)Rimandiamo la festa…</stage>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>(con sùbita ira)</l>
+            <l>E gli invitati?</l>
+          </sp>
+          <stage>MADDALENA(con sùbita ira)E gli invitati?</stage>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>E i nostri fidanzati?</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>Era dunque un’insidia?</l>
+          </sp>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>(beffarda, a Candida)</l>
+            <l>O madonna Ipsilonne, non s’adonti,</l>
+            <l>non si strugga d’invidia</l>
+            <l>se la nostra fortuna ci marita…</l>
+            <l>Appare sulla soglia della sala da ballo il Maggiordomo e interrompendo annunzia.</l>
+          </sp>
+          <stage>FIDELIA(beffarda, a Candida)O madonna Ipsilonne, non s’adonti,non si strugga d’invidiase la nostra fortuna ci marita…Appare sulla soglia della sala da ballo il Maggiordomo e interrompendo annunzia.</stage>
+          <sp who="#il maggiordomo">
+            <speaker>IL MAGGIORDOMO:</speaker>
+            <l>Il barone di Miramonti…</l>
+          </sp>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>(accorrendo)</l>
+            <l>Vengo!</l>
+          </sp>
+          <stage>FIDELIA(accorrendo)Vengo!</stage>
+          <sp who="#il maggiordomo">
+            <speaker>IL MAGGIORDOMO:</speaker>
+            <l>…e il conte di Valfiorita.</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>(accorrendo)</l>
+            <l>Eccomi!</l>
+            <l>(le due fanciulle svolazzando scompaiono dal fondo)</l>
+            <l>Insieme</l>
+          </sp>
+          <stage>MADDALENA(accorrendo)Eccomi!(le due fanciulle svolazzando scompaiono dal fondo)Insieme</stage>
+          <sp who="#candida e olimpia">
+            <speaker>CANDIDA E OLIMPIA:</speaker>
+            <l>Candida (senza muoversi)</l>
+            <l>Sciocche!</l>
+            <l>Olimpia (insistendo)</l>
+            <l>Vedi,</l>
+            <l>Candida, non si può…</l>
+            <l>Te ne supplico… Cedi!</l>
+            <l>Candida</l>
+            <l>Ho detto no.</l>
+          </sp>
+          <stage>CANDIDA E OLIMPIACandida (senza muoversi)Sciocche!Olimpia (insistendo)Vedi,Candida, non si può…Te ne supplico… Cedi!CandidaHo detto no.</stage>
+          <sp who="#mirocleto e il maggiordomo">
+            <speaker>MIROCLETO E IL MAGGIORDOMO:</speaker>
+            <l>Mirocleto</l>
+            <l>Maggiordomo!</l>
+            <l>Il maggiordomo</l>
+            <l>Eccellenza!</l>
+            <l>Mirocleto</l>
+            <l>Voglio qui due scaffali</l>
+            <l>antichi… molto antichi… pieni di libri…</l>
+          </sp>
+          <stage>MIROCLETO E IL MAGGIORDOMOMirocletoMaggiordomo!Il maggiordomoEccellenza!MirocletoVoglio qui due scaffaliantichi… molto antichi… pieni di libri…</stage>
+          <sp who="#il maggiordomo">
+            <speaker>IL MAGGIORDOMO:</speaker>
+            <l>E quali</l>
+            <l>libri?</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>M’è indifferente; ma belli e ben legati.</l>
+          </sp>
+          <sp who="#il maggiordomo">
+            <speaker>IL MAGGIORDOMO:</speaker>
+            <l>Sarà fatto.</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>E lì voglio ritratti d’antenati…</l>
+          </sp>
+          <sp who="#il maggiordomo">
+            <speaker>IL MAGGIORDOMO:</speaker>
+            <l>Antenati?</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Ritratti di dame, e cavalieri,</l>
+            <l>vescovi, cardinali, magistrati, guerrieri…</l>
+            <l>insomma chi vi pare… Ma in cornici dorate</l>
+            <l>e antichi, molto antichi…</l>
+          </sp>
+          <sp who="#il maggiordomo">
+            <speaker>IL MAGGIORDOMO:</speaker>
+            <l>Bene, eccellenza!</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Andate!</l>
+            <l>(Ipsilonne a quando a quando si ferma, guarda Candida, riflette: poi, uscito Il maggiordomo, si avvicina alle donne)</l>
+            <l>(il maggiordomo s’inchina ed esce)</l>
+          </sp>
+          <stage>MIROCLETOAndate!(Ipsilonne a quando a quando si ferma, guarda Candida, riflette: poi, uscito Il maggiordomo, si avvicina alle donne)(il maggiordomo s’inchina ed esce)</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Candida, ancora una volta</l>
+            <l>ti prego, ascolta…</l>
+            <l>(appena Ipsilonne ha proferito il nome di Candida, subito essa si leva, lo squadra, gli volge le spalle e s’allontana verso le sue stanze; entra e sbatte la porta ventando l’aria sul viso d’Ipsilonne che la segue; rosso d’ira, Ipsilonne attraversa rapidamente la scena ed esce dal fondo, verso la sala da ballo che si vien popolando di invitati)</l>
+            <l>(rimasta sola con Mirocleto, Olimpia gli si rivolge inquietissima)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Candida, ancora una voltati prego, ascolta…(appena Ipsilonne ha proferito il nome di Candida, subito essa si leva, lo squadra, gli volge le spalle e s’allontana verso le sue stanze; entra e sbatte la porta ventando l’aria sul viso d’Ipsilonne che la segue; rosso d’ira, Ipsilonne attraversa rapidamente la scena ed esce dal fondo, verso la sala da ballo che si vien popolando di invitati)(rimasta sola con Mirocleto, Olimpia gli si rivolge inquietissima)</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Avete visto?</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(impassibile)</l>
+            <l>Ho visto: ma fra moglie e marito</l>
+            <l>ho la buona abitudine di non mettere dito.</l>
+          </sp>
+          <stage>MIROCLETO(impassibile)Ho visto: ma fra moglie e maritoho la buona abitudine di non mettere dito.</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(a voce alta)</l>
+            <l>O Madonna santissima, e non volete ancora…</l>
+          </sp>
+          <stage>OLIMPIA(a voce alta)O Madonna santissima, e non volete ancora…</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(calmissimo interrompe)</l>
+            <l>Ho già avuto l’onor di ammonirvi, signora,</l>
+            <l>che volgare è l’esprimersi in tal guisa e sì forte!</l>
+          </sp>
+          <stage>MIROCLETO(calmissimo interrompe)Ho già avuto l’onor di ammonirvi, signora,che volgare è l’esprimersi in tal guisa e sì forte!</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(guardandosi intorno)</l>
+            <l>C’è qualcuno che sente?</l>
+          </sp>
+          <stage>OLIMPIA(guardandosi intorno)C’è qualcuno che sente?</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(solenne)</l>
+            <l>Sì, c’è il vostro consorte.</l>
+            <l>(compitissimo)</l>
+            <l>Permettete ch’io v’offra? Squisito!</l>
+          </sp>
+          <stage>MIROCLETO(solenne)Sì, c’è il vostro consorte.(compitissimo)Permettete ch’io v’offra? Squisito!</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(con cenno di diniego)</l>
+            <l>Grazie.</l>
+          </sp>
+          <stage>OLIMPIA(con cenno di diniego)Grazie.</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Prego.</l>
+            <l>Torno a raccomandarvi un po’ più di sussiego…</l>
+          </sp>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Sussiego? Non capisco…</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Male. Una pari vostra</l>
+            <l>capisce sempre tutto… o almeno… lo dimostra:</l>
+            <l>evitate il ridicolo di puerili «perché»…</l>
+            <l>guardate quel ch’io faccio e fate come me.</l>
+          </sp>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Sì, sì… Ma penso a Candida. Ne va della salute</l>
+            <l>sua, forse… Queste nozze voi le avete volute…</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Volute? Chieggo scusa. Ho dato il mio consenso</l>
+            <l>a un parentado ricco e onorevole, e penso…</l>
+            <l>Di là dalla vetrata è apparso Baldo: getta uno sguardo rapido nel salotto, vede Mirocleto e Olimpia, entra risoluto. Dalla sala affollata vengono onde di suoni e di voci.</l>
+          </sp>
+          <stage>MIROCLETOVolute? Chieggo scusa. Ho dato il mio consensoa un parentado ricco e onorevole, e penso…Di là dalla vetrata è apparso Baldo: getta uno sguardo rapido nel salotto, vede Mirocleto e Olimpia, entra risoluto. Dalla sala affollata vengono onde di suoni e di voci.</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Dov’è Candida?</l>
+          </sp>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(balzando in piedi spaventata)</l>
+            <l>Voi qui, Baldo?</l>
+          </sp>
+          <stage>OLIMPIA(balzando in piedi spaventata)Voi qui, Baldo?</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(levandosi)</l>
+            <l>E quale</l>
+            <l>audacia d’apparire al mio cospetto?</l>
+          </sp>
+          <stage>MIROCLETO(levandosi)E qualeaudacia d’apparire al mio cospetto?</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Candida… Che ne avete fatto? Dite!</l>
+            <l>(Olimpia corre a chiudere la porta)</l>
+          </sp>
+          <stage>BALDOCandida… Che ne avete fatto? Dite!(Olimpia corre a chiudere la porta)</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Io vi proibisco…</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Voi? Che mi proibite,</l>
+            <l>venditor di figliole?</l>
+            <l>Son io, capite, che non vi permetto</l>
+            <l>né gesti, né parole…</l>
+            <l>(Mirocleto muove un passo verso la sua poltrona)</l>
+            <l>…né venirmi vicino,</l>
+            <l>se v’è cara…</l>
+          </sp>
+          <stage>BALDOVoi? Che mi proibite,venditor di figliole?Son io, capite, che non vi permettoné gesti, né parole…(Mirocleto muove un passo verso la sua poltrona)…né venirmi vicino,se v’è cara…</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(con un gesto di sovrano disprezzo)</l>
+            <l>(Affamati e insolenti!)</l>
+            <l>(siede, e si taglia un’altra fetta di torta e ricomincia a mangiare)</l>
+          </sp>
+          <stage>MIROCLETO(con un gesto di sovrano disprezzo)(Affamati e insolenti!)(siede, e si taglia un’altra fetta di torta e ricomincia a mangiare)</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>…quell’epa croia e gravida di vino.</l>
+            <l>(a Olimpia)</l>
+            <l>E voi, che sapevate il nostro amore</l>
+            <l>e i nostri giuramenti,</l>
+            <l>voi che chiamavo mamma, patteggiato</l>
+            <l>avete, senza orrore,</l>
+            <l>codesto ignobilissimo mercato,</l>
+            <l>seme di lutto…</l>
+          </sp>
+          <stage>BALDO…quell’epa croia e gravida di vino.(a Olimpia)E voi, che sapevate il nostro amoree i nostri giuramenti,voi che chiamavo mamma, patteggiatoavete, senza orrore,codesto ignobilissimo mercato,seme di lutto…</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(tremante)</l>
+            <l>No, figlio, no! Calmatevi, chetatevi,</l>
+            <l>per amore di Dio! Saprete tutto…</l>
+          </sp>
+          <stage>OLIMPIA(tremante)No, figlio, no! Calmatevi, chetatevi,per amore di Dio! Saprete tutto…</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Non da voi! Non da voi!</l>
+          </sp>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(tremante, smarrita.)</l>
+            <l>Sì, figlio, sì!</l>
+          </sp>
+          <stage>OLIMPIA(tremante, smarrita.)Sì, figlio, sì!</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Voglio parlare a Candida! Chiamatela!</l>
+            <l>L’aspetto qui…</l>
+          </sp>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Baldo…</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>L’aspetto qui.</l>
+          </sp>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(supplichevole, accarezzando Baldo e respingendolo)</l>
+            <l>Figlio, per carità, per quell’affetto</l>
+            <l>che le portate… Non mi fate scandali!</l>
+            <l>Ve la condurrò qui, ma adesso andate…</l>
+            <l>Siate buono… e tornate… Vi prometto!</l>
+          </sp>
+          <stage>OLIMPIA(supplichevole, accarezzando Baldo e respingendolo)Figlio, per carità, per quell’affettoche le portate… Non mi fate scandali!Ve la condurrò qui, ma adesso andate…Siate buono… e tornate… Vi prometto!</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Vado. Pochi minuti. Ma… badate!</l>
+            <l>Olimpia lo accompagna con cenni rassicuranti: uscendo, Baldo si incontra sulla porta col signor Ipsilonne, che rientra. Si fermano, si squadrano; piccolo inchino indeciso; poi entrambi si volgono a guardarsi ancora, senza ostilità, ma con inconsapevole sospetto. Mirocleto porta alla bocca l’ultimo pezzo di torta e si spolvera le briciole dal panciotto.</l>
+          </sp>
+          <stage>BALDOVado. Pochi minuti. Ma… badate!Olimpia lo accompagna con cenni rassicuranti: uscendo, Baldo si incontra sulla porta col signor Ipsilonne, che rientra. Si fermano, si squadrano; piccolo inchino indeciso; poi entrambi si volgono a guardarsi ancora, senza ostilità, ma con inconsapevole sospetto. Mirocleto porta alla bocca l’ultimo pezzo di torta e si spolvera le briciole dal panciotto.</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Buon appetito!</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Buon appetito!</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Io voglio apertamente</l>
+            <l>deplorare…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Non basta: vi bisogna</l>
+            <l>subito provvedere, o finalmente</l>
+            <l>farò veder chi sono… È una vergogna!</l>
+            <l>Ride tutto il paese</l>
+            <l>che m’ha visto umiliato</l>
+            <l>a’ piè d’una figliola di speziale…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Non basta: vi bisognasubito provvedere, o finalmentefarò veder chi sono… È una vergogna!Ride tutto il paeseche m’ha visto umiliatoa’ piè d’una figliola di speziale…</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(offeso)</l>
+            <l>Ma signor mio…</l>
+          </sp>
+          <stage>MIROCLETO(offeso)Ma signor mio…</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>…prodigare da un mese</l>
+            <l>ori e tesori ch’essa non apprezza,</l>
+            <l>ride di me, che mi sono degnato</l>
+            <l>di sollevarvi tutti alla mia altezza!</l>
+            <l>(Mirocleto fa ancora cenno di voler interrompere)</l>
+            <l>Io pretendo obbedienza</l>
+            <l>o vi lascio bollire in questo inferno</l>
+            <l>e me ne vado!… Sì! Ché l’esperienza</l>
+            <l>mi basta in sempiterno;</l>
+            <l>ché son sazio di voi, sazio di questa</l>
+            <l>suocera tutta lacrime e sospiri,</l>
+            <l>sazio di quei vampiri</l>
+            <l>di cognate, e digiuno</l>
+            <l>sol della casta sposa, ahi, troppo onesta,</l>
+            <l>che a così dura prova</l>
+            <l>mi tiene sospirando</l>
+            <l>da sette notti fuori dell’alcova!</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)…prodigare da un meseori e tesori ch’essa non apprezza,ride di me, che mi sono degnatodi sollevarvi tutti alla mia altezza!(Mirocleto fa ancora cenno di voler interrompere)Io pretendo obbedienzao vi lascio bollire in questo infernoe me ne vado!… Sì! Ché l’esperienzami basta in sempiterno;ché son sazio di voi, sazio di questasuocera tutta lacrime e sospiri,sazio di quei vampiridi cognate, e digiunosol della casta sposa, ahi, troppo onesta,che a così dura provami tiene sospirandoda sette notti fuori dell’alcova!</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Il ritegno… Il pudor la fa ritrosa…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Sarà: non me ne intendo. Ma domando</l>
+            <l>a voi, signor mio suocero: pulcella</l>
+            <l>era la vostra sposa?</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Sarà: non me ne intendo. Ma domandoa voi, signor mio suocero: pulcellaera la vostra sposa?</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(coprendosi il volto)</l>
+            <l>Uh! Madonnina bella!</l>
+          </sp>
+          <stage>OLIMPIA(coprendosi il volto)Uh! Madonnina bella!</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>E sette giorni dopo il matrimonio</l>
+            <l>voi eravate al punto dov’io sono?</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)E sette giorni dopo il matrimoniovoi eravate al punto dov’io sono?</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(fuggendo verso le stanze di Candida)</l>
+            <l>Sant’Antonio ~ perdono!</l>
+            <l>(esce)</l>
+          </sp>
+          <stage>OLIMPIA(fuggendo verso le stanze di Candida)Sant’Antonio ~ perdono!(esce)</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(solenne)</l>
+            <l>Signor genero, non vi fate lecito</l>
+            <l>d’insister sopra un argomento simile.</l>
+            <l>E quanto a voi, se non sapete cogliere</l>
+            <l>quel frutto che agli amanti amore accorda,</l>
+            <l>è questione che a me non mi riguarda.</l>
+            <l>(s’inchina, s’allontana, esce)</l>
+          </sp>
+          <stage>MIROCLETO(solenne)Signor genero, non vi fate lecitod’insister sopra un argomento simile.E quanto a voi, se non sapete coglierequel frutto che agli amanti amore accorda,è questione che a me non mi riguarda.(s’inchina, s’allontana, esce)</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(solo)</l>
+            <l>Benone! E se ne va!</l>
+            <l>Se mai gli chiedo aiuto, ecco, s’ammanta</l>
+            <l>nella sua dignità</l>
+            <l>e s’inchina e galoppa!</l>
+            <l>Dignità? Ma non tanta!</l>
+            <l>(accennando alle stanze di Candida)</l>
+            <l>Onestà? Ma non troppa!</l>
+            <l>Ed io non so che fare… Astuzia? Ché!</l>
+            <l>Se quella ne sa un punto più di me…</l>
+            <l>Violenza? Non posso. Adesso io provo</l>
+            <l>un sentimento nuovo,</l>
+            <l>un sentimento assurdo e inverosimile</l>
+            <l>che m’ammollisce, mi disarma e getta</l>
+            <l>nella manine d’una femminetta!</l>
+            <l>Ah! Quelli di laggiù, se mi vedessero</l>
+            <l>con l’effigie d’Adamo!</l>
+            <l>Se sapessero! IO… AMO!</l>
+            <l>Dalla porta del suo appartamento entra, quasi di corsa, Candida: ha gli occhi rossi di pianto. Olimpia la segue a fatica. Ipsilonne sorride di lieta sorpresa.</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(solo)Benone! E se ne va!Se mai gli chiedo aiuto, ecco, s’ammantanella sua dignitàe s’inchina e galoppa!Dignità? Ma non tanta!(accennando alle stanze di Candida)Onestà? Ma non troppa!Ed io non so che fare… Astuzia? Ché!Se quella ne sa un punto più di me…Violenza? Non posso. Adesso io provoun sentimento nuovo,un sentimento assurdo e inverosimileche m’ammollisce, mi disarma e gettanella manine d’una femminetta!Ah! Quelli di laggiù, se mi vedesserocon l’effigie d’Adamo!Se sapessero! IO… AMO!Dalla porta del suo appartamento entra, quasi di corsa, Candida: ha gli occhi rossi di pianto. Olimpia la segue a fatica. Ipsilonne sorride di lieta sorpresa.</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(guardandosi intorno, a Olimpia, piano)</l>
+            <l>E dov’è?</l>
+          </sp>
+          <stage>CANDIDA(guardandosi intorno, a Olimpia, piano)E dov’è?</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(a voce bassissima)</l>
+            <l>Taci.</l>
+          </sp>
+          <stage>OLIMPIA(a voce bassissima)Taci.</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(raggiante)</l>
+            <l>Ah, grazie d’esser ritornata buona</l>
+            <l>e d’avere esaudita la preghiera</l>
+            <l>di tutti… e mia!</l>
+            <l>Ecco, di te stasera…</l>
+            <l>la festa s’incorona…</l>
+            <l>Grazie! La mano tua, ch’io te la baci…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(raggiante)Ah, grazie d’esser ritornata buonae d’avere esaudita la preghieradi tutti… e mia!Ecco, di te stasera…la festa s’incorona…Grazie! La mano tua, ch’io te la baci…</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(nascondendo le mani)</l>
+            <l>Vi prego… Andate via!</l>
+            <l>Fidelia e Maddalena entrano correndo dal fondo.</l>
+          </sp>
+          <stage>CANDIDA(nascondendo le mani)Vi prego… Andate via!Fidelia e Maddalena entrano correndo dal fondo.</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Vedete: vi cercano…</l>
+            <l>Insieme</l>
+          </sp>
+          <sp who="#fidelia, maddalena e belfagor">
+            <speaker>FIDELIA, MADDALENA E BELFAGOR:</speaker>
+            <l>Fidelia e Maddalena</l>
+            <l>(si mettono ai fianchi di Ipsilonne e lo traggono in disparte, sfringuellando)</l>
+            <l>Cognato, cognato,</l>
+            <l>v’abbiamo trovato!</l>
+            <l>V’aspettano al gioco…</l>
+            <l>Belfagor (Ipsilonne)</l>
+            <l>Sta bene: verrò.</l>
+            <l>Maddalena</l>
+            <l>Cognato garbato,</l>
+            <l>il mio fidanzato,</l>
+            <l>il conte, ha perduto…</l>
+            <l>Belfagor (Ipsilonne)</l>
+            <l>Sta ben: pagherò.</l>
+            <l>Fidelia</l>
+            <l>Vi cerca il barone;</l>
+            <l>si tratta d’affari…</l>
+            <l>Vorrebbe…</l>
+            <l>Belfagor (Ipsilonne)</l>
+            <l>Denari,</l>
+            <l>denari… Lo so.</l>
+          </sp>
+          <stage>FIDELIA, MADDALENA E BELFAGORFidelia e Maddalena(si mettono ai fianchi di Ipsilonne e lo traggono in disparte, sfringuellando)Cognato, cognato,v’abbiamo trovato!V’aspettano al gioco…Belfagor (Ipsilonne)Sta bene: verrò.MaddalenaCognato garbato,il mio fidanzato,il conte, ha perduto…Belfagor (Ipsilonne)Sta ben: pagherò.FideliaVi cerca il barone;si tratta d’affari…Vorrebbe…Belfagor (Ipsilonne)Denari,denari… Lo so.</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(scorge Baldo che spia attraverso la vetrata, e stringendosi a Olimpia, pianissimo)</l>
+            <l>È lui, mamma, eccolo!</l>
+            <l>(fa con la mano un cenno a Baldo di aspettare e muove le labbra per dire:)</l>
+            <l>Fra poco… fra poco…</l>
+            <l>(e mentre Olimpia, l’accarezza per acquetarla, ripete tra sé)</l>
+            <l>È lui… l’ho veduto!</l>
+            <l>(e si comprime il cuore che batte forte forte)</l>
+            <l>O dio, che emozione!</l>
+            <l>(subitamente si trasfigura: si avvicina a Ipsilonne, gli posa con grazia una mano sulla spalla, e sorridendo)</l>
+            <l>Andate, amico mio! Fra poco anch’io</l>
+            <l>interverrò alla festa…</l>
+          </sp>
+          <stage>CANDIDA(scorge Baldo che spia attraverso la vetrata, e stringendosi a Olimpia, pianissimo)È lui, mamma, eccolo!(fa con la mano un cenno a Baldo di aspettare e muove le labbra per dire:)Fra poco… fra poco…(e mentre Olimpia, l’accarezza per acquetarla, ripete tra sé)È lui… l’ho veduto!(e si comprime il cuore che batte forte forte)O dio, che emozione!(subitamente si trasfigura: si avvicina a Ipsilonne, gli posa con grazia una mano sulla spalla, e sorridendo)Andate, amico mio! Fra poco anch’iointerverrò alla festa…</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(sbalordito)</l>
+            <l>Ha detto?… Come ha detto?… Amico mio!</l>
+            <l>C’è da perder la testa.</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(sbalordito)Ha detto?… Come ha detto?… Amico mio!C’è da perder la testa.</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(dolcissima)</l>
+            <l>Ho pianto tanto! Ho ancor gli occhi di fiamma</l>
+            <l>e il volto bianco e stanco!</l>
+            <l>Ecco: mi siedo qui con la mia mamma</l>
+            <l>e un poco mi rinfranco…</l>
+            <l>Così sarò più bella al vostro fianco!</l>
+          </sp>
+          <stage>CANDIDA(dolcissima)Ho pianto tanto! Ho ancor gli occhi di fiammae il volto bianco e stanco!Ecco: mi siedo qui con la mia mammae un poco mi rinfranco…Così sarò più bella al vostro fianco!</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>E danzerai?</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)E danzerai?</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Certo!</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Con me?</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Con me?</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Con voi.</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>E poi, Candida, e poi?</l>
+            <l>La porta della gioia s’aprirà?</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)E poi, Candida, e poi?La porta della gioia s’aprirà?</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(con un sorriso ambiguo)</l>
+            <l>Dopo?… Chi sa!</l>
+            <l>(un cenno grazioso di Candida congeda Ipsilonne, che Fidelia e Maddalena sospingono impazienti verso la porta; Ipsilonne, stordito di gioia, s’allontana volgendo più volte il viso ridente)</l>
+            <l>Insieme</l>
+          </sp>
+          <stage>CANDIDA(con un sorriso ambiguo)Dopo?… Chi sa!(un cenno grazioso di Candida congeda Ipsilonne, che Fidelia e Maddalena sospingono impazienti verso la porta; Ipsilonne, stordito di gioia, s’allontana volgendo più volte il viso ridente)Insieme</stage>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>Cognato, cognato,</l>
+            <l>se aveste sposato</l>
+            <l>un’altra – più scaltra…</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>Cognato, cognato,</l>
+            <l>ben più fortunato</l>
+            <l>sareste – se aveste…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>L’amor s’apprende!</l>
+            <l>La bella s’arrende!</l>
+            <l>Vittoria! Baldoria!</l>
+            <l>(le voci si perdono al di là della vetrata)</l>
+            <l>(Candida s’avvicina alla vetrata e cerca con lo sguardo, tra la folla degli invitati, Baldo: non lo scorge; ritorna verso Olimpia)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)L’amor s’apprende!La bella s’arrende!Vittoria! Baldoria!(le voci si perdono al di là della vetrata)(Candida s’avvicina alla vetrata e cerca con lo sguardo, tra la folla degli invitati, Baldo: non lo scorge; ritorna verso Olimpia)</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(con angoscia)</l>
+            <l>O creatura mia, che gli dirai?</l>
+            <l>Ogni parola è peccato mortale!</l>
+            <l>È troppo tardi omai…</l>
+            <l>Io l’ho fatto per te… ma ho fatto male!</l>
+          </sp>
+          <stage>OLIMPIA(con angoscia)O creatura mia, che gli dirai?Ogni parola è peccato mortale!È troppo tardi omai…Io l’ho fatto per te… ma ho fatto male!</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Gli dirò il voto dell’anima mia</l>
+            <l>e il mio martirio della lontananza</l>
+            <l>e l’ultima speranza</l>
+            <l>ch’egli mi salvi e mi conduca via.</l>
+          </sp>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Non puoi, figlia, non puoi. Per sacramento</l>
+            <l>tu sei congiunta e il destino è compiuto:</l>
+            <l>è dio che l’ha voluto…</l>
+            <l>Non ti dannare a eterno pentimento!</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>O mamma, mamma, quando dall’altare</l>
+            <l>Don Biagio mi richiese la parola</l>
+            <l>che innanzi a dio ci lega per la vita,</l>
+            <l>io non la dissi!… Tutta in me romita</l>
+            <l>offrivo il cuore alla stella del mare,</l>
+            <l>fisa in lei sola…</l>
+            <l>Ardevo tutta quanta come cero</l>
+            <l>e attendevo il miracolo:</l>
+            <l>«O madonnina mia di Montenero</l>
+            <l>fa’ il miracolo, salvami!»</l>
+            <l>E venne il segno della mia salute!</l>
+            <l>Ricordi? Le campane, le campane!</l>
+            <l>E le fatiche vane</l>
+            <l>di tante braccia? E le campane immobili!</l>
+            <l>E tira… e tira… E le campane mute!</l>
+            <l>«Che sarà? Che sarà?» Tutti dicevano ~</l>
+            <l>sventura… malefizio… qui c’è il diavolo…</l>
+            <l>Don Biagio spaurito</l>
+            <l>riguardava la cupola del duomo.</l>
+            <l>Mamma! Era il segno della madonnina!</l>
+            <l>Io sola l’ho capito…</l>
+            <l>E mi diceva: «Abbi fede, bambina!</l>
+            <l>Io ti proteggo: spera!»</l>
+            <l>Mamma, io non sono sposa di quell’uomo!</l>
+            <l>Io tengo fede a un solo giuramento,</l>
+            <l>a quello che una sera</l>
+            <l>di maggio Baldo ed io</l>
+            <l>giurammo, testimoni il firmamento</l>
+            <l>e il mare…</l>
+            <l>Ode l’aprirsi e il batter della porta a vetri: si volge, vede Baldo che entra, e con un grido gli vola incontro e gli getta le braccia al collo.</l>
+          </sp>
+          <stage>CANDIDAO mamma, mamma, quando dall’altareDon Biagio mi richiese la parolache innanzi a dio ci lega per la vita,io non la dissi!… Tutta in me romitaoffrivo il cuore alla stella del mare,fisa in lei sola…Ardevo tutta quanta come ceroe attendevo il miracolo:«O madonnina mia di Montenerofa’ il miracolo, salvami!»E venne il segno della mia salute!Ricordi? Le campane, le campane!E le fatiche vanedi tante braccia? E le campane immobili!E tira… e tira… E le campane mute!«Che sarà? Che sarà?» Tutti dicevano ~sventura… malefizio… qui c’è il diavolo…Don Biagio spauritoriguardava la cupola del duomo.Mamma! Era il segno della madonnina!Io sola l’ho capito…E mi diceva: «Abbi fede, bambina!Io ti proteggo: spera!»Mamma, io non sono sposa di quell’uomo!Io tengo fede a un solo giuramento,a quello che una seradi maggio Baldo ed iogiurammo, testimoni il firmamentoe il mare…Ode l’aprirsi e il batter della porta a vetri: si volge, vede Baldo che entra, e con un grido gli vola incontro e gli getta le braccia al collo.</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Ah, Baldo mio!</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(sciogliendosi a forza dall’abbraccio, con voce d’ira)</l>
+            <l>No, prima mi dirai, Candida, tu…</l>
+          </sp>
+          <stage>BALDO(sciogliendosi a forza dall’abbraccio, con voce d’ira)No, prima mi dirai, Candida, tu…</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Mi raccomando…</l>
+            <l>(e corre alla vetrata ad osservare se alcuno s’avvicini, e resta in guardia, spesso volgendosi trepidante verso la figliuola)</l>
+          </sp>
+          <stage>OLIMPIAMi raccomando…(e corre alla vetrata ad osservare se alcuno s’avvicini, e resta in guardia, spesso volgendosi trepidante verso la figliuola)</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(a Baldo appassionatamente)</l>
+            <l>Tutto! Sì… Ma intanto</l>
+            <l>lascia ch’io posi il capo sul tuo cuore,</l>
+            <l>o mio liberatore!</l>
+            <l>Sei ritornato! ~ Io non ti lascio più!</l>
+          </sp>
+          <stage>CANDIDA(a Baldo appassionatamente)Tutto! Sì… Ma intantolascia ch’io posi il capo sul tuo cuore,o mio liberatore!Sei ritornato! ~ Io non ti lascio più!</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Se m’ami ancora…</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Oh, quanto, Baldo, quanto!</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(commosso)</l>
+            <l>Se m’ami ancora, Candida, perché</l>
+            <l>hai fatto questo? Perché m’hai spezzato</l>
+            <l>il core? Avevo tanta fede in te!</l>
+            <l>T’amavo tanto! E adesso la mia vita</l>
+            <l>è finita… è finita…</l>
+          </sp>
+          <stage>BALDO(commosso)Se m’ami ancora, Candida, perchéhai fatto questo? Perché m’hai spezzatoil core? Avevo tanta fede in te!T’amavo tanto! E adesso la mia vitaè finita… è finita…</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Guardami gli occhi, guarda la pupilla</l>
+            <l>dove la verità raggia e sfavilla:</l>
+            <l>io sono tua… lo vedi?</l>
+            <l>Soltanto tua… Mi credi?</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(vinto)</l>
+            <l>Sì… vedo… e credo… e t’amo!</l>
+          </sp>
+          <stage>BALDO(vinto)Sì… vedo… e credo… e t’amo!</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>E allor portami via con te…</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Fuggiamo</l>
+            <l>via subito!</l>
+          </sp>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(dalla vetrata, volgendo il capo)</l>
+            <l>Attenti!</l>
+          </sp>
+          <stage>OLIMPIA(dalla vetrata, volgendo il capo)Attenti!</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(a Baldo, rapidamente)</l>
+            <l>No: scendi</l>
+            <l>giù… Guarda… Qui sotto al balcone</l>
+            <l>la scala…</l>
+            <l>(lo conduce al balcone: guardano fuori, rientrano)</l>
+          </sp>
+          <stage>CANDIDA(a Baldo, rapidamente)No: scendigiù… Guarda… Qui sotto al balconela scala…(lo conduce al balcone: guardano fuori, rientrano)</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Vien gente! Attenzione!</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Se avessi un cavallo!…</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(sospingendolo via)</l>
+            <l>E m’attendi</l>
+            <l>finché…</l>
+          </sp>
+          <stage>CANDIDA(sospingendolo via)E m’attendifinché…</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Sì.</l>
+            <l>(s’allontana, si confonde tra la folla che irrompe)</l>
+            <l>Gran numero di Invitati invade tumultuosamente la scena e con lieto clamore saluta Candida. Rientrano via via il signor Ipsilonne, Mirocleto, Olimpia, e Fidelia al braccio del Barone di Miramonti, e Maddalena al braccio del Conte di Valfiorita.</l>
+          </sp>
+          <stage>BALDOSì.(s’allontana, si confonde tra la folla che irrompe)Gran numero di Invitati invade tumultuosamente la scena e con lieto clamore saluta Candida. Rientrano via via il signor Ipsilonne, Mirocleto, Olimpia, e Fidelia al braccio del Barone di Miramonti, e Maddalena al braccio del Conte di Valfiorita.</stage>
+          <sp who="#gli invitati">
+            <speaker>GLI INVITATI:</speaker>
+            <l>~ La sposa!</l>
+            <l>~ La sposa!</l>
+            <l>~ Dov’è la regina ritrosa?</l>
+            <l>~ Pudica violetta nascosa…</l>
+            <l>~ Aulente, Candida rosa…</l>
+            <l>~ L’omaggio…</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>~ L’omaggio alla sposa!</l>
+            <l>(e tutti fanno corona a Candida, che risponde all’omaggio con sorrisi e inchini. Un’invisibile orchestra invita alla danza: sono le note della gagliarda e del saltarello de L’AURA SUAVE “balletto in lode della serenissima madama Christena Lorena de Medici granduchessa di Toscana” – del s. r. Fabritio Caroso da Sermoneta)</l>
+            <l>Danze.</l>
+            <l>(Candida con Ipsilonne, Fidelia col Barone di Miramonti, Maddalena col Conte di Valfiorita guidano il ballo che si va a poco a poco allontanando verso le grandi sale: e il salotto resta per un momento deserto)</l>
+            <l>Due Servi sono intenti e richiudere l’ampia vetrata e a riordinare i mobili del salotto, quando rientra Candida seguita di Ipsilonne.</l>
+          </sp>
+          <stage>TUTTI~ L’omaggio alla sposa!(e tutti fanno corona a Candida, che risponde all’omaggio con sorrisi e inchini. Un’invisibile orchestra invita alla danza: sono le note della gagliarda e del saltarello de L’AURA SUAVE “balletto in lode della serenissima madama Christena Lorena de Medici granduchessa di Toscana” – del s. r. Fabritio Caroso da Sermoneta)Danze.(Candida con Ipsilonne, Fidelia col Barone di Miramonti, Maddalena col Conte di Valfiorita guidano il ballo che si va a poco a poco allontanando verso le grandi sale: e il salotto resta per un momento deserto)Due Servi sono intenti e richiudere l’ampia vetrata e a riordinare i mobili del salotto, quando rientra Candida seguita di Ipsilonne.</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(impaziente, ai servi)</l>
+            <l>Andate via!</l>
+            <l>(i servi interrompono il loro lavoro e si allontanano rapidi)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(impaziente, ai servi)Andate via!(i servi interrompono il loro lavoro e si allontanano rapidi)</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Ah, finalmente mia!</l>
+            <l>Questa piccola mano più non fugge</l>
+            <l>le mie mani curiose ed impazienti</l>
+            <l>ed io ti stringo sul petto, e tu senti</l>
+            <l>il fuoco che mi strugge</l>
+            <l>e il desiderio che dentro mi rugge.</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Ah, finalmente mia!Questa piccola mano più non fuggele mie mani curiose ed impazientied io ti stringo sul petto, e tu sentiil fuoco che mi struggee il desiderio che dentro mi rugge.</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(ritraendosi, poi con falsa umiltà)</l>
+            <l>No… mi fate paura!</l>
+            <l>Voi siete l mio signore</l>
+            <l>ed io son cosa vostra, creatura</l>
+            <l>deboletta, che langue</l>
+            <l>e trepida s’arrende</l>
+            <l>affascinata da cotanto ardore…</l>
+          </sp>
+          <stage>CANDIDA(ritraendosi, poi con falsa umiltà)No… mi fate paura!Voi siete l mio signoreed io son cosa vostra, creaturadeboletta, che languee trepida s’arrendeaffascinata da cotanto ardore…</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>È la mia fiammma viva, che s’apprende</l>
+            <l>alle tue carni giovani e al tuo sangue!</l>
+            <l>Vieni, Candida, vieni…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)È la mia fiammma viva, che s’apprendealle tue carni giovani e al tuo sangue!Vieni, Candida, vieni…</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(evitando l’abbraccio)</l>
+            <l>Non ancora…</l>
+            <l>Di grazia, non ancora… Un quarto d’ora</l>
+            <l>tanto ch’io muti vesta</l>
+            <l>e m’acconci la testa…</l>
+          </sp>
+          <stage>CANDIDA(evitando l’abbraccio)Non ancora…Di grazia, non ancora… Un quarto d’oratanto ch’io muti vestae m’acconci la testa…</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Deh, concedi</l>
+            <l>ch’io sciolga i bianchi lini</l>
+            <l>e fioccare li vegga ad uno ad uno,</l>
+            <l>lieve cumulo ai tuoi piedi…</l>
+            <l>Ah, ch’io laceri il bel freno</l>
+            <l>che trattiene</l>
+            <l>la primizia</l>
+            <l>del tuo seno!</l>
+            <l>Ch’io ti tocchi e tu, smarrita,</l>
+            <l>senta correr per le vene</l>
+            <l>la delizia</l>
+            <l>che mi trema nelle dita…</l>
+            <l>Ah, concedi alle mie ciglia</l>
+            <l>questa ignota meraviglia</l>
+            <l>che da tante notti io sogno…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Deh, concedich’io sciolga i bianchi linie fioccare li vegga ad uno ad uno,lieve cumulo ai tuoi piedi…Ah, ch’io laceri il bel frenoche trattienela primiziadel tuo seno!Ch’io ti tocchi e tu, smarrita,senta correr per le venela deliziache mi trema nelle dita…Ah, concedi alle mie cigliaquesta ignota meravigliache da tante notti io sogno…</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Mi vergogno, mi vergogno…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Ah, ch’io ti veda</l>
+            <l>ignuda e lampeggiante come spada,</l>
+            <l>ch’io ti ghermisca palpitante preda</l>
+            <l>e al fonte della bella bocca pura</l>
+            <l>io mi disseti della lunga arsura.</l>
+            <l>Vieni Candida…</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Ah, ch’io ti vedaignuda e lampeggiante come spada,ch’io ti ghermisca palpitante predae al fonte della bella bocca puraio mi disseti della lunga arsura.Vieni Candida…</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(con un sorriso ambiguo, respingendo dolcemente Ipsilonne e via via indietreggiando verso la porta delle sue stanze)</l>
+            <l>Han sete di rugiada</l>
+            <l>pur le mie labbra!… Tanta, tanta sete…</l>
+            <l>Ma… Vi supplico… E grazia non si nega</l>
+            <l>all’amata che prega…</l>
+            <l>Restate qui… Vi chiamerò… Sedete</l>
+            <l>qui… A mezzanotte sarò pronta…</l>
+            <l>(indica l’orologio che segna la mezzanotte meno pochi minuti)</l>
+          </sp>
+          <stage>CANDIDA(con un sorriso ambiguo, respingendo dolcemente Ipsilonne e via via indietreggiando verso la porta delle sue stanze)Han sete di rugiadapur le mie labbra!… Tanta, tanta sete…Ma… Vi supplico… E grazia non si negaall’amata che prega…Restate qui… Vi chiamerò… Sedetequi… A mezzanotte sarò pronta…(indica l’orologio che segna la mezzanotte meno pochi minuti)</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Candida!</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Candida!</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(è giunta sulla soglia della porta; retrocede ancora d’un passo; è scomparsa quasi del tutto; si vedrà soltanto il volto sorridente ambiguo e una mano aperta in cenno d’attesa)</l>
+            <l>E allor, baci, piovete!</l>
+            <l>(la porta si chiude leggera: si udrà lo stridere della chiave)</l>
+          </sp>
+          <stage>CANDIDA(è giunta sulla soglia della porta; retrocede ancora d’un passo; è scomparsa quasi del tutto; si vedrà soltanto il volto sorridente ambiguo e una mano aperta in cenno d’attesa)E allor, baci, piovete!(la porta si chiude leggera: si udrà lo stridere della chiave)</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(fa un gesto come per scrollar di dosso la piccola contrarietà e si spampana in un sorriso di trionfo. Si lascia cader sul divano, accavalla una gamba sull’altra e batte il tempo col piede; infila ambo i pollici nel giro ascellare del panciotto e si batte sul petto le mani aperte; si alza, attraversa la scena, guarda la pendola, tende l’orecchio per assicurarsi del suo moto regolare)</l>
+            <l>Ma sono istanti o secoli?</l>
+            <l>(ritorna all’uscio delle stanze di Candida, accosta l’orecchio alla toppa, poi l’occhio, e scruta)</l>
+            <l>(intanto sul balcone, alla luce delle torce, si vedrà una figura d’uomo salir dall’esterno al davanzale e aiutare Candida a scavalcare la balaustrata… Le due ombre discendono: lieve ma chiaro s’udrà lo scoccar d’un bacio)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(fa un gesto come per scrollar di dosso la piccola contrarietà e si spampana in un sorriso di trionfo. Si lascia cader sul divano, accavalla una gamba sull’altra e batte il tempo col piede; infila ambo i pollici nel giro ascellare del panciotto e si batte sul petto le mani aperte; si alza, attraversa la scena, guarda la pendola, tende l’orecchio per assicurarsi del suo moto regolare)Ma sono istanti o secoli?(ritorna all’uscio delle stanze di Candida, accosta l’orecchio alla toppa, poi l’occhio, e scruta)(intanto sul balcone, alla luce delle torce, si vedrà una figura d’uomo salir dall’esterno al davanzale e aiutare Candida a scavalcare la balaustrata… Le due ombre discendono: lieve ma chiaro s’udrà lo scoccar d’un bacio)</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(voce)</l>
+            <l>Han sete di rugiada</l>
+            <l>pur le mie labbra! Tanta, tanta sete…</l>
+            <l>Baci, piovete!…</l>
+            <l>Ipsilonne s’aderge, aggrotta i sopraccigli, si volge intorno.</l>
+            <l>Balza al verone, guarda fuori: s’ode lo scalpitio di cavalli che si allontanano al galoppo. E gitta un urlo bestiale.</l>
+          </sp>
+          <stage>BALDO(voce)Han sete di rugiadapur le mie labbra! Tanta, tanta sete…Baci, piovete!…Ipsilonne s’aderge, aggrotta i sopraccigli, si volge intorno.Balza al verone, guarda fuori: s’ode lo scalpitio di cavalli che si allontanano al galoppo. E gitta un urlo bestiale.</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>Ah, Satanasso!</l>
+            <l>(rientra in scena, trasfigurato, terribile)</l>
+            <l>A me, gente d’Averno,</l>
+            <l>a me!</l>
+            <l>(si batte con violenza le palme sulla fronte, ma subito le ritrae come punto da alcunché di aguzzo; si tocca ancora con le dita: due piccole corna gli son spuntate alla radice dei capelli)</l>
+            <l>Irrompe nel salotto una schiera di Servi rossovestiti: accorrono Mirocleto, Olimpia, Fidelia, Maddalena e gli ultimi Invitati, ravvolti già nei loro mantelli, come gente sorpresa dal grido di Ipsilonne mentre stava per andarsene.</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)Ah, Satanasso!(rientra in scena, trasfigurato, terribile)A me, gente d’Averno,a me!(si batte con violenza le palme sulla fronte, ma subito le ritrae come punto da alcunché di aguzzo; si tocca ancora con le dita: due piccole corna gli son spuntate alla radice dei capelli)Irrompe nel salotto una schiera di Servi rossovestiti: accorrono Mirocleto, Olimpia, Fidelia, Maddalena e gli ultimi Invitati, ravvolti già nei loro mantelli, come gente sorpresa dal grido di Ipsilonne mentre stava per andarsene.</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(Ipsilonne)</l>
+            <l>(rotea intorno gli occhi fiammeggianti: sembra esitare un attimo… poi ordina)</l>
+            <l>Via! Distruzione!</l>
+            <l>(ed esce urlando, seguito dalla rossa torma)</l>
+          </sp>
+          <stage>BELFAGOR(Ipsilonne)(rotea intorno gli occhi fiammeggianti: sembra esitare un attimo… poi ordina)Via! Distruzione!(ed esce urlando, seguito dalla rossa torma)</stage>
+          <sp who="#invitati">
+            <speaker>INVITATI:</speaker>
+            <l>(si asfollano in gruppi intorno a Mirocleto, a Olimpia, a Fidelia, a Maddalena e interrogano tumultuosamente; ma nessuno sa dare spiegazioni; poi Mirocleto e altri escono sul balcone e s’affacciano)</l>
+            <l>~ È folle!</l>
+            <l>~ Ma che avviene?</l>
+            <l>~ È indemoniato!</l>
+            <l>~ Fermatelo!</l>
+            <l>~ Delira!</l>
+            <l>~ Che succede?</l>
+            <l>– E Candida?</l>
+            <l>~ È con lui…</l>
+          </sp>
+          <stage>INVITATI(si asfollano in gruppi intorno a Mirocleto, a Olimpia, a Fidelia, a Maddalena e interrogano tumultuosamente; ma nessuno sa dare spiegazioni; poi Mirocleto e altri escono sul balcone e s’affacciano)~ È folle!~ Ma che avviene?~ È indemoniato!~ Fermatelo!~ Delira!~ Che succede?– E Candida?~ È con lui…</stage>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>Dov’è il Barone?</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>Dov’è andato il mio Conte?</l>
+          </sp>
+          <sp who="#invitati">
+            <speaker>INVITATI:</speaker>
+            <l>~ Se n’è andato!</l>
+            <l>~ Tutti via!</l>
+            <l>~ No, ritorna…</l>
+            <l>~ Che si vede?</l>
+            <l>(gran rumore di carrozze, nel giardino: urla di cocchieri e schioccar di fruste)</l>
+            <l>~ Tante carrozze!</l>
+            <l>~ Un frastuono d’inferno!</l>
+            <l>~ Che strana festa…</l>
+            <l>(i rumori di fuori s’allontanano)</l>
+            <l>~ Ed ecco la tempesta</l>
+            <l>che s’allontana…</l>
+          </sp>
+          <stage>INVITATI~ Se n’è andato!~ Tutti via!~ No, ritorna…~ Che si vede?(gran rumore di carrozze, nel giardino: urla di cocchieri e schioccar di fruste)~ Tante carrozze!~ Un frastuono d’inferno!~ Che strana festa…(i rumori di fuori s’allontanano)~ Ed ecco la tempestache s’allontana…</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(dalla soglia del balcone, trionfalmente, con voce che domina il coro)</l>
+            <l>Ma il palazzo resta!</l>
+          </sp>
+          <stage>MIROCLETO(dalla soglia del balcone, trionfalmente, con voce che domina il coro)Ma il palazzo resta!</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>(muove incontro a Mirocleto e supplica)</l>
+            <l>Se n’è andato, se n’è andato…</l>
+            <l>il signore sia lodato!</l>
+            <l>Mirocleto mio, fuggiamo</l>
+            <l>via lontano, via lontano…</l>
+          </sp>
+          <stage>OLIMPIA(muove incontro a Mirocleto e supplica)Se n’è andato, se n’è andato…il signore sia lodato!Mirocleto mio, fuggiamovia lontano, via lontano…</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Io fuggire? E perché? Dove?</l>
+            <l>Chi sta bene non si muove!</l>
+            <l>Voi, signora, andate via:</l>
+            <l>io rimango in casa mia.</l>
+            <l>Colpi di piccone e rumor di crollo.</l>
+          </sp>
+          <stage>MIROCLETOIo fuggire? E perché? Dove?Chi sta bene non si muove!Voi, signora, andate via:io rimango in casa mia.Colpi di piccone e rumor di crollo.</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(meno Mirocleto)</l>
+            <l>~ Che c’è?</l>
+            <l>~ Che cosa accade?</l>
+            <l>~ Qui sopra…</l>
+            <l>~ Per le strade…</l>
+            <l>(ascoltano; Fidelia e Maddalena corrono ad esplorare verso il fondo)</l>
+          </sp>
+          <stage>TUTTI(meno Mirocleto)~ Che c’è?~ Che cosa accade?~ Qui sopra…~ Per le strade…(ascoltano; Fidelia e Maddalena corrono ad esplorare verso il fondo)</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Ma niente! Ma nientissimo!</l>
+            <l>Che volete che sia?</l>
+            <l>Uno di quei veicoli</l>
+            <l>ruzzolato per la via!</l>
+            <l>Alzate dunque i calici</l>
+            <l>e brindate con noi:</l>
+            <l>a colui che tornarsene</l>
+            <l>volle ai paesi suoi</l>
+            <l>lasciandoci il retaggio,</l>
+            <l>salute e buon viaggio!</l>
+            <l>Fidelia e Maddalena rientrano a precipizio.</l>
+          </sp>
+          <stage>MIROCLETOMa niente! Ma nientissimo!Che volete che sia?Uno di quei veicoliruzzolato per la via!Alzate dunque i calicie brindate con noi:a colui che tornarsenevolle ai paesi suoilasciandoci il retaggio,salute e buon viaggio!Fidelia e Maddalena rientrano a precipizio.</stage>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>Mamma…</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>Babbo…</l>
+          </sp>
+          <sp who="#fidelia">
+            <speaker>FIDELIA:</speaker>
+            <l>Aiuto…</l>
+          </sp>
+          <sp who="#maddalena">
+            <speaker>MADDALENA:</speaker>
+            <l>Aiuto…</l>
+            <l>TUTTI</l>
+            <l>~ Che c’è?</l>
+            <l>~ Che cos’è avvenuto?</l>
+            <l>Tutti si volgono verso il fondo dove molti muratori armati di piccone e incappucciati di rosso passano silenziosi, in fila, senza affatto guardare la folla esterefatta, impietrita. Nel silenzio pauroso si ode il sordo battere dei picconi al piano superiore.</l>
+          </sp>
+          <stage>MADDALENAAiuto…TUTTI~ Che c’è?~ Che cos’è avvenuto?Tutti si volgono verso il fondo dove molti muratori armati di piccone e incappucciati di rosso passano silenziosi, in fila, senza affatto guardare la folla esterefatta, impietrita. Nel silenzio pauroso si ode il sordo battere dei picconi al piano superiore.</stage>
+          <sp who="#olimpia">
+            <speaker>OLIMPIA:</speaker>
+            <l>Mirocleto mio, fuggiamo</l>
+            <l>via lontano, via lontano…</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>~ Scappa, scappa!</l>
+            <l>~ Via scappiamo!</l>
+            <l>~ Svelti!</l>
+            <l>~ Presto!</l>
+            <l>~ Lesti!</l>
+            <l>~ Piano…</l>
+            <l>Un grosso crollo al piano superiore fa tremare tutto. Mentre Olimpia, Fidelia, Maddalena e gli invitati si accalcano in tumulto alle porte e fuggono, alcuni incappucciati sgombrano rapidamente il salotto, facendo volar dal balcone mobili, quadri, soprammobili.</l>
+          </sp>
+          <stage>TUTTI~ Scappa, scappa!~ Via scappiamo!~ Svelti!~ Presto!~ Lesti!~ Piano…Un grosso crollo al piano superiore fa tremare tutto. Mentre Olimpia, Fidelia, Maddalena e gli invitati si accalcano in tumulto alle porte e fuggono, alcuni incappucciati sgombrano rapidamente il salotto, facendo volar dal balcone mobili, quadri, soprammobili.</stage>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>(furiosissimo, insegue ora l’uno ora l’altro tentando d’impedire la devastazione)</l>
+            <l>Ladri! Ladri!</l>
+          </sp>
+          <stage>MIROCLETO(furiosissimo, insegue ora l’uno ora l’altro tentando d’impedire la devastazione)Ladri! Ladri!</stage>
+          <sp who="#voci fuggenti">
+            <speaker>VOCI FUGGENTI:</speaker>
+            <l>~ Lesto!</l>
+            <l>~ Presto!…</l>
+          </sp>
+          <sp who="#mirocleto">
+            <speaker>MIROCLETO:</speaker>
+            <l>Io protesto! Io protesto!</l>
+            <l>Un nuovo crollo fa cadere dal soffitto pezzi di stucco e pioggia di calcinacci. Mirocleto se la dà a gambe dal fondo. Mentre sotto i colpi di piccone la pioggia dei calcinacci continua, si chiude il velario.</l>
+          </sp>
+          <stage>MIROCLETOIo protesto! Io protesto!Un nuovo crollo fa cadere dal soffitto pezzi di stucco e pioggia di calcinacci. Mirocleto se la dà a gambe dal fondo. Mentre sotto i colpi di piccone la pioggia dei calcinacci continua, si chiude il velario.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Scena unica</head>La piazzetta, come nel prologo.Sulla gradinata della chiesa è sdraiato un Vagabondo dalla spessa barba grigia, ravvolto in un gran mantello e col cappuccio fin sugli occhi. Sopraggiungono Candida e Baldo seguiti da due giovani Compagni: Baldo picchia alla porta della casa del prevosto, fin che s’apre la finestra e s’affaccia, rabbuiata e sonnolenta, Menica.<div type="scene">
+          <head>Scena unica</head>La piazzetta, come nel prologo.Sulla gradinata della chiesa è sdraiato un Vagabondo dalla spessa barba grigia, ravvolto in un gran mantello e col cappuccio fin sugli occhi. Sopraggiungono Candida e Baldo seguiti da due giovani Compagni: Baldo picchia alla porta della casa del prevosto, fin che s’apre la finestra e s’affaccia, rabbuiata e sonnolenta, Menica. <stage>Scena unicaLa piazzetta, come nel prologo.Sulla gradinata della chiesa è sdraiato un Vagabondo dalla spessa barba grigia, ravvolto in un gran mantello e col cappuccio fin sugli occhi. Sopraggiungono Candida e Baldo seguiti da due giovani Compagni: Baldo picchia alla porta della casa del prevosto, fin che s’apre la finestra e s’affaccia, rabbuiata e sonnolenta, Menica.</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Signor curato! Menica… O Menica!</l>
+          </sp>
+          <sp who="#menica">
+            <speaker>MENICA:</speaker>
+            <l>(voce)</l>
+            <l>Chi è?</l>
+          </sp>
+          <stage>MENICA(voce)Chi è?</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Son io… Baldo… con Candida di Mirocleto, che</l>
+            <l>dobbiam dire a Don Biagio…</l>
+          </sp>
+          <sp who="#menica">
+            <speaker>MENICA:</speaker>
+            <l>(con voce stizzosa)</l>
+            <l>È ora da cristiani</l>
+            <l>questa? Che discrezione! Ritornate domani…</l>
+          </sp>
+          <stage>MENICA(con voce stizzosa)È ora da cristianiquesta? Che discrezione! Ritornate domani…</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>…una parola sola… subito… È cosa grave…</l>
+          </sp>
+          <sp who="#menica">
+            <speaker>MENICA:</speaker>
+            <l>(brontolando)</l>
+            <l>Don Biagio dorme…</l>
+          </sp>
+          <stage>MENICA(brontolando)Don Biagio dorme…</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Aprite…</l>
+          </sp>
+          <sp who="#menica">
+            <speaker>MENICA:</speaker>
+            <l>(di dentro)</l>
+            <l>Vengo; prendo la chiave.</l>
+          </sp>
+          <stage>MENICA(di dentro)Vengo; prendo la chiave.</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(si volge ai due compagni e tende loro la mano)</l>
+            <l>Ecco: siamo al sicuro. Grazie, figliuoli… Andate!</l>
+          </sp>
+          <stage>BALDO(si volge ai due compagni e tende loro la mano)Ecco: siamo al sicuro. Grazie, figliuoli… Andate!</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Grazie.</l>
+          </sp>
+          <sp who="#l’un de’ compagni">
+            <speaker>L’UN DE’ COMPAGNI:</speaker>
+            <l>Nulla…</l>
+          </sp>
+          <sp who="#l’altro">
+            <speaker>L’ALTRO:</speaker>
+            <l>Vi pare?</l>
+          </sp>
+          <sp who="#menica">
+            <speaker>MENICA:</speaker>
+            <l>(aprendo la porta, con un lume ad olio nella mano sinistra)</l>
+            <l>Cos’è accaduto? Entrate.</l>
+            <l>(mentre i due compagni si allontanano, Candida e Baldo entrano in casa del prevosto, e Menica spranga la porta)</l>
+            <l>Silenzio. S’ode soltanto il parlottar della fontana. Il Vagabondo ammantato si rivolta nel suo letto di pietra: par che dorma. Dietro la chiesa il cielo a poco a poco imbianca. Vengono dal fondo, a passo lento, due altri vagabondi, un Vecchio e un Ragazzo, lacerissimi: seggono sull’orlo della fontana, si dividono un po’ di pane e di pesce secco, e mangiano, e bevono l’acqua nel cavo della mano.</l>
+          </sp>
+          <stage>MENICA(aprendo la porta, con un lume ad olio nella mano sinistra)Cos’è accaduto? Entrate.(mentre i due compagni si allontanano, Candida e Baldo entrano in casa del prevosto, e Menica spranga la porta)Silenzio. S’ode soltanto il parlottar della fontana. Il Vagabondo ammantato si rivolta nel suo letto di pietra: par che dorma. Dietro la chiesa il cielo a poco a poco imbianca. Vengono dal fondo, a passo lento, due altri vagabondi, un Vecchio e un Ragazzo, lacerissimi: seggono sull’orlo della fontana, si dividono un po’ di pane e di pesce secco, e mangiano, e bevono l’acqua nel cavo della mano.</stage>
+          <sp who="#il vecchio">
+            <speaker>IL VECCHIO:</speaker>
+            <l>(entrando)</l>
+            <l>Qui, che c’è l’acqua… Un pane ed un’aringa. Prendi.</l>
+            <l>Ed anche oggi si cena…</l>
+          </sp>
+          <stage>IL VECCHIO(entrando)Qui, che c’è l’acqua… Un pane ed un’aringa. Prendi.Ed anche oggi si cena…</stage>
+          <sp who="#il ragazzo">
+            <speaker>IL RAGAZZO:</speaker>
+            <l>Tarduccio!</l>
+          </sp>
+          <sp who="#il vecchio">
+            <speaker>IL VECCHIO:</speaker>
+            <l>O che pretendi</l>
+            <l>che Iddio ti serva il pranzo all’ora che a te piace?</l>
+          </sp>
+          <sp who="#il ragazzo">
+            <speaker>IL RAGAZZO:</speaker>
+            <l>Hai ragione, nonnetto…</l>
+          </sp>
+          <sp who="#il vecchio">
+            <speaker>IL VECCHIO:</speaker>
+            <l>Ségnati, e mangia in pace.</l>
+            <l>(il Ragazzo si fa il segno della croce)</l>
+          </sp>
+          <stage>IL VECCHIOSégnati, e mangia in pace.(il Ragazzo si fa il segno della croce)</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(il vagabondo)</l>
+            <l>(levandosi a sedere)</l>
+            <l>Puah!</l>
+          </sp>
+          <stage>BELFAGOR(il vagabondo)(levandosi a sedere)Puah!</stage>
+          <sp who="#il ragazzo">
+            <speaker>IL RAGAZZO:</speaker>
+            <l>Un altro signorone come noi due…</l>
+          </sp>
+          <sp who="#il vecchio">
+            <speaker>IL VECCHIO:</speaker>
+            <l>Compare,</l>
+            <l>se v’aggrada, servitevi…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(il vagabondo)</l>
+            <l>Potevate rubare</l>
+            <l>qualche cosa di meglio…</l>
+          </sp>
+          <stage>BELFAGOR(il vagabondo)Potevate rubarequalche cosa di meglio…</stage>
+          <sp who="#il vecchio">
+            <speaker>IL VECCHIO:</speaker>
+            <l>(risentito)</l>
+            <l>Rubare? Per tua regola,</l>
+            <l>vagabondi, non ladri! Non siam della tua pegola!</l>
+          </sp>
+          <stage>IL VECCHIO(risentito)Rubare? Per tua regola,vagabondi, non ladri! Non siam della tua pegola!</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(il vagabondo)</l>
+            <l>Bah! Tanto peggio… Meno scrupoli, e meno amara</l>
+            <l>vecchiezza oggi vivresti… E tu, ragazzo, impara!</l>
+          </sp>
+          <stage>BELFAGOR(il vagabondo)Bah! Tanto peggio… Meno scrupoli, e meno amaravecchiezza oggi vivresti… E tu, ragazzo, impara!</stage>
+          <sp who="#il vecchio">
+            <speaker>IL VECCHIO:</speaker>
+            <l>Bei consigli!…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(il vagabondo)</l>
+            <l>Esperienza!</l>
+          </sp>
+          <stage>BELFAGOR(il vagabondo)Esperienza!</stage>
+          <sp who="#il vecchio">
+            <speaker>IL VECCHIO:</speaker>
+            <l>…per dar l’anima ai diavoli!</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(il vagabondo)</l>
+            <l>Io non ci credo ai diavoli! Favole di bisavoli!</l>
+          </sp>
+          <stage>BELFAGOR(il vagabondo)Io non ci credo ai diavoli! Favole di bisavoli!</stage>
+          <sp who="#il ragazzo">
+            <speaker>IL RAGAZZO:</speaker>
+            <l>(pieno di meraviglia)</l>
+            <l>Non ci credete? Io sì! E qui per il paese</l>
+            <l>ce n’è uno che gira, dice… Quello che prese</l>
+            <l>moglie, or fa…</l>
+          </sp>
+          <stage>IL RAGAZZO(pieno di meraviglia)Non ci credete? Io sì! E qui per il paesece n’è uno che gira, dice… Quello che presemoglie, or fa…</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(il vagabondo)</l>
+            <l>(interrompendo)</l>
+            <l>Farfalloni che t’han fatto ingollare!</l>
+          </sp>
+          <stage>BELFAGOR(il vagabondo)(interrompendo)Farfalloni che t’han fatto ingollare!</stage>
+          <sp who="#il ragazzo">
+            <speaker>IL RAGAZZO:</speaker>
+            <l>(chiamando il Vecchio a testimone)</l>
+            <l>Ci son le prove, eh nonno? Gli han visto risputare…</l>
+          </sp>
+          <stage>IL RAGAZZO(chiamando il Vecchio a testimone)Ci son le prove, eh nonno? Gli han visto risputare…</stage>
+          <sp who="#il vecchio, il ragazzo">
+            <speaker>IL VECCHIO, IL RAGAZZO:</speaker>
+            <l>Già!</l>
+            <l>…l’ostia consacrata…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(il vagabondo)</l>
+            <l>Frottole!</l>
+          </sp>
+          <stage>BELFAGOR(il vagabondo)Frottole!</stage>
+          <sp who="#il ragazzo">
+            <speaker>IL RAGAZZO:</speaker>
+            <l>E le campane?</l>
+            <l>O perché non suonarono? Era un segno!</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(il vagabondo)</l>
+            <l>Panzane!</l>
+          </sp>
+          <stage>BELFAGOR(il vagabondo)Panzane!</stage>
+          <sp who="#il ragazzo">
+            <speaker>IL RAGAZZO:</speaker>
+            <l>Perché quello era un diavolo…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(il vagabondo)</l>
+            <l>Fole, bambino! Quello</l>
+            <l>era un mercante ricco, ricco straricco, bello…</l>
+          </sp>
+          <stage>BELFAGOR(il vagabondo)Fole, bambino! Quelloera un mercante ricco, ricco straricco, bello…</stage>
+          <sp who="#il ragazzo">
+            <speaker>IL RAGAZZO:</speaker>
+            <l>Brutto, dicono…</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(il vagabondo)</l>
+            <l>Brutto? Quant’è maligno il mondo!</l>
+            <l>Un forestiero splendido, magnifico, giocondo,</l>
+            <l>che s’è voluto togliere un capriccio, e poi… via</l>
+            <l>in cerca d’avventure e d’altra compagnia…</l>
+            <l>Dalla casa del prevosto è uscito Baldo, ha richiuso la porta… subito il Vagabondo alza la voce, perché Baldo l’oda.</l>
+          </sp>
+          <stage>BELFAGOR(il vagabondo)Brutto? Quant’è maligno il mondo!Un forestiero splendido, magnifico, giocondo,che s’è voluto togliere un capriccio, e poi… viain cerca d’avventure e d’altra compagnia…Dalla casa del prevosto è uscito Baldo, ha richiuso la porta… subito il Vagabondo alza la voce, perché Baldo l’oda.</stage>
+          <sp who="#il vecchio">
+            <speaker>IL VECCHIO:</speaker>
+            <l>Come via? Se n’è andato?</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(il vagabondo)</l>
+            <l>Questa notte…</l>
+          </sp>
+          <stage>BELFAGOR(il vagabondo)Questa notte…</stage>
+          <sp who="#il vecchio">
+            <speaker>IL VECCHIO:</speaker>
+            <l>Davvero?</l>
+            <l>(Baldo si ferma in ascolto)</l>
+          </sp>
+          <stage>IL VECCHIODavvero?(Baldo si ferma in ascolto)</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(il vagabondo)</l>
+            <l>O che immaginavate un sì ricco straniero</l>
+            <l>qui per tutta la vita a sbaciucchiar la moglie,</l>
+            <l>figlia d’uno speziale… Saziate le sue voglie,</l>
+            <l>via…</l>
+            <l>(fa con la mano cenno di partenza)</l>
+          </sp>
+          <stage>BELFAGOR(il vagabondo)O che immaginavate un sì ricco stranieroqui per tutta la vita a sbaciucchiar la moglie,figlia d’uno speziale… Saziate le sue voglie,via…(fa con la mano cenno di partenza)</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(torvo, battendo una mano su una spalla del vagabondo)</l>
+            <l>Amico, s’è saziato di schiaffi e beffe e scorni:</l>
+            <l>nient’altro… Avete inteso?</l>
+          </sp>
+          <stage>BALDO(torvo, battendo una mano su una spalla del vagabondo)Amico, s’è saziato di schiaffi e beffe e scorni:nient’altro… Avete inteso?</stage>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(il vagabondo)</l>
+            <l>(fingendo meraviglia)</l>
+            <l>Senti, se’!… In tanti giorni.</l>
+          </sp>
+          <stage>BELFAGOR(il vagabondo)(fingendo meraviglia)Senti, se’!… In tanti giorni.</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Nient’altro.</l>
+          </sp>
+          <sp who="#belfagor">
+            <speaker>BELFAGOR:</speaker>
+            <l>(il vagabondo)</l>
+            <l>E in tante notti… Nient’altro? Giusto quello,</l>
+            <l>giusto quello era l’uomo da farsene zimbello!</l>
+            <l>Conquistator di femmine! Seduttor provetto!</l>
+            <l>Uno stallone! Un riccio! Un mandrillo! Un galletto!</l>
+            <l>Chi volete che creda? Eh via! Scommetterei</l>
+            <l>che questa novelletta la va spargendo lei,</l>
+            <l>la sposina… per tender una pania, o chi sa,</l>
+            <l>forse solo per fingersi una verginità…</l>
+            <l>Voi ve la sposereste? Né voi, penso, né alcuno…</l>
+            <l>Io, per me, non vorrei gli avanzi di nessuno!</l>
+          </sp>
+          <stage>BELFAGOR(il vagabondo)E in tante notti… Nient’altro? Giusto quello,giusto quello era l’uomo da farsene zimbello!Conquistator di femmine! Seduttor provetto!Uno stallone! Un riccio! Un mandrillo! Un galletto!Chi volete che creda? Eh via! Scommettereiche questa novelletta la va spargendo lei,la sposina… per tender una pania, o chi sa,forse solo per fingersi una verginità…Voi ve la sposereste? Né voi, penso, né alcuno…Io, per me, non vorrei gli avanzi di nessuno!</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(che s’è contenuto a gran stento, per non perdere una delle bieche parole del suo interlocutore, prorompe in un urlo, e afferra il Vagabondo per la barba, e lo spinge contro il muro del campanile)</l>
+            <l>Avanzi? Ah, cane! Avanzi! Maledetto serpente…</l>
+            <l>Avanzi… To’…</l>
+          </sp>
+          <stage>BALDO(che s’è contenuto a gran stento, per non perdere una delle bieche parole del suo interlocutore, prorompe in un urlo, e afferra il Vagabondo per la barba, e lo spinge contro il muro del campanile)Avanzi? Ah, cane! Avanzi! Maledetto serpente…Avanzi… To’…</stage>
+          <sp who="#il ragazzo">
+            <speaker>IL RAGAZZO:</speaker>
+            <l>(spaventato)</l>
+            <l>S’ammazzano…</l>
+          </sp>
+          <stage>IL RAGAZZO(spaventato)S’ammazzano…</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(sbattendo l’avversario contro il muro)</l>
+            <l>To’, cane!</l>
+          </sp>
+          <stage>BALDO(sbattendo l’avversario contro il muro)To’, cane!</stage>
+          <sp who="#il vecchio">
+            <speaker>IL VECCHIO:</speaker>
+            <l>(esce da destra chiamando al soccorso)</l>
+            <l>Gente! Gente!</l>
+          </sp>
+          <stage>IL VECCHIO(esce da destra chiamando al soccorso)Gente! Gente!</stage>
+          <sp who="#il ragazzo">
+            <speaker>IL RAGAZZO:</speaker>
+            <l>(corre a bussare alla casa del prevosto)</l>
+            <l>S’ammazzano!</l>
+            <l>(Belfagor scivola agilmente via, lasciando barba e mantello da vagabondo nelle infuriate mani di Baldo, e svolta dietro il campanile, tenendosi con la mano la lunga coda; riappare per un attimo il ceffo maligno e cornuto: ride; scompare)</l>
+          </sp>
+          <stage>IL RAGAZZO(corre a bussare alla casa del prevosto)S’ammazzano!(Belfagor scivola agilmente via, lasciando barba e mantello da vagabondo nelle infuriate mani di Baldo, e svolta dietro il campanile, tenendosi con la mano la lunga coda; riappare per un attimo il ceffo maligno e cornuto: ride; scompare)</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(continuando a sbattere cieco di furore)</l>
+            <l>Tizzone d’inferno! Tizzo nero</l>
+            <l>d’inferno…</l>
+            <l>(getta via con gran forza quella spoglia, e si prende la testa fra le mani, e corre verso la fontana: si ferma, si lascia cadere sul gradino, piangendo disperatamente; geme attraverso le palme, che ora chiudono la bocca, una voce rotta e soffocata:)</l>
+            <l>Ma se fosse vero?… Se fosse vero?</l>
+            <l>(a poco a poco il singhiozzo dirada, si calma: Baldo leva il viso tra i pugni stretti, e resta lungamente immobile, con gli occhi sbarrati e fissi nel vuoto)</l>
+            <l>Chi mi torrà dal cuor l’aspro tormento?</l>
+            <l>Chi potrà far che un’ombra di vergogna</l>
+            <l>non mi offuschi il suo viso, e in ogni accento</l>
+            <l>del suo labbro io non oda una menzogna?</l>
+            <l>Al dolce porto omai più non agogna</l>
+            <l>la giovinezza mia, ché il faro è spento;</l>
+            <l>non ama più, non crede più, non sogna</l>
+            <l>più: le speranze le ha rapite il vento…</l>
+            <l>Me pur, me pure sopra il vento e l’onde</l>
+            <l>tempestose del mio mare selvaggio</l>
+            <l>porti la vela verso ignote sponde,</l>
+            <l>fin che la grazia dell’oblio mi tocchi,</l>
+            <l>né l’auree trecce io vegga in ogni raggio</l>
+            <l>di sole, e in ogni stella i suoi begli occhi.</l>
+            <l>Affranto, Baldo si curva in sé medesimo, con il viso quasi tra le ginocchia. Ed ecco uscir dalla porta della parrocchia Menica, col suo lumino, poi Don Biagio, che reca l’ampolla dell’olio santo, e s’incontrano col vecchio e col ragazzo che rientrano, e con qualche paesano accorso alle grida. Alla finestra appare Candida.</l>
+          </sp>
+          <stage>BALDO(continuando a sbattere cieco di furore)Tizzone d’inferno! Tizzo nerod’inferno…(getta via con gran forza quella spoglia, e si prende la testa fra le mani, e corre verso la fontana: si ferma, si lascia cadere sul gradino, piangendo disperatamente; geme attraverso le palme, che ora chiudono la bocca, una voce rotta e soffocata:)Ma se fosse vero?… Se fosse vero?(a poco a poco il singhiozzo dirada, si calma: Baldo leva il viso tra i pugni stretti, e resta lungamente immobile, con gli occhi sbarrati e fissi nel vuoto)Chi mi torrà dal cuor l’aspro tormento?Chi potrà far che un’ombra di vergognanon mi offuschi il suo viso, e in ogni accentodel suo labbro io non oda una menzogna?Al dolce porto omai più non agognala giovinezza mia, ché il faro è spento;non ama più, non crede più, non sognapiù: le speranze le ha rapite il vento…Me pur, me pure sopra il vento e l’ondetempestose del mio mare selvaggioporti la vela verso ignote sponde,fin che la grazia dell’oblio mi tocchi,né l’auree trecce io vegga in ogni raggiodi sole, e in ogni stella i suoi begli occhi.Affranto, Baldo si curva in sé medesimo, con il viso quasi tra le ginocchia. Ed ecco uscir dalla porta della parrocchia Menica, col suo lumino, poi Don Biagio, che reca l’ampolla dell’olio santo, e s’incontrano col vecchio e col ragazzo che rientrano, e con qualche paesano accorso alle grida. Alla finestra appare Candida.</stage>
+          <sp who="#don biagio">
+            <speaker>DON BIAGIO:</speaker>
+            <l>Dov’è il morto?</l>
+          </sp>
+          <sp who="#il ragazzo">
+            <speaker>IL RAGAZZO:</speaker>
+            <l>Se n’è andato,</l>
+            <l>reverendo, mi dispiace…</l>
+          </sp>
+          <sp who="#don biagio">
+            <speaker>DON BIAGIO:</speaker>
+            <l>Be’… Buon segno!</l>
+          </sp>
+          <sp who="#il ragazzo">
+            <speaker>IL RAGAZZO:</speaker>
+            <l>Già!</l>
+          </sp>
+          <sp who="#don biagio">
+            <speaker>DON BIAGIO:</speaker>
+            <l>Ma ascolta:</l>
+            <l>il curato ~ un’altra volta</l>
+            <l>lo potrai lasciare in pace…</l>
+            <l>(intravvede Baldo che singhiozza nell’ombra)</l>
+            <l>O chi piange là seduto?</l>
+            <l>(a Menica)</l>
+            <l>Be’: tu intanto</l>
+            <l>porta a casa l’olio santo.</l>
+            <l>(si avvicina al piangente, lo scuote, lo guarda in viso)</l>
+            <l>Baldo?</l>
+          </sp>
+          <stage>DON BIAGIOMa ascolta:il curato ~ un’altra voltalo potrai lasciare in pace…(intravvede Baldo che singhiozza nell’ombra)O chi piange là seduto?(a Menica)Be’: tu intantoporta a casa l’olio santo.(si avvicina al piangente, lo scuote, lo guarda in viso)Baldo?</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(dalla finestra con un grido)</l>
+            <l>Baldo!</l>
+            <l>E si ritrae per apparire subito dopo nella piazzetta.</l>
+          </sp>
+          <stage>CANDIDA(dalla finestra con un grido)Baldo!E si ritrae per apparire subito dopo nella piazzetta.</stage>
+          <sp who="#don biagio">
+            <speaker>DON BIAGIO:</speaker>
+            <l>O ch’è accaduto?</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(senza levare il viso)</l>
+            <l>Perché è vero… Perché è vero…</l>
+          </sp>
+          <stage>BALDO(senza levare il viso)Perché è vero… Perché è vero…</stage>
+          <sp who="#don biagio">
+            <speaker>DON BIAGIO:</speaker>
+            <l>Che ti passa per la zucca?</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(senza levare il viso)</l>
+            <l>O mio amore!</l>
+          </sp>
+          <stage>BALDO(senza levare il viso)O mio amore!</stage>
+          <sp who="#don biagio">
+            <speaker>DON BIAGIO:</speaker>
+            <l>Eh! Fatti cuore!</l>
+            <l>Casseremo il matrimonio…</l>
+            <l>Via! Domani si va a Lucca,</l>
+            <l>si discorre a monsignore</l>
+            <l>ed il vescovo… vedrai…</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Che m’importa? No! No! Mai!</l>
+            <l>(don Biagio s’interrompe sorpreso; ma poiché Candida sopraggiunge, si allontana stringendosi nelle spalle e mormorando: «Benedetti ragazzi! Chi vi capisce?… Be’… Sbrigatevela un po’ tra voi…»)</l>
+            <l>I Paesani discesi in piazza formano un crocchio intorno al vecchio e al ragazzo, che raccontano la scena alla quale hanno poco prima assistito: Don Biagio entra nel gruppo e domanda anch’egli notizie. Ma ecco qualcuno che sembra aver novelle ben più interessanti, e narra con gran gesti, e indica allo stupore di tutti, lassù in alto, il castello demolito. Finalmente, quando il colloquio tra Candida e Baldo volge al suo termine, accorrono, ancora vestiti per il ballo e mal ravvolti in scialli e mantelli, Mirocleto, Olimpia, Fidelia e Maddalena e qualcuno degli invitati. E mentre Olimpia, senza nemmeno accorgersi dei due innamorati, apre la porta della farmacia abbandonata e rientra nella sua casa, intorno ai sopraggiunti si affollano i curiosi ad ascoltare i racconti della meravigliosa avventura.</l>
+          </sp>
+          <stage>BALDOChe m’importa? No! No! Mai!(don Biagio s’interrompe sorpreso; ma poiché Candida sopraggiunge, si allontana stringendosi nelle spalle e mormorando: «Benedetti ragazzi! Chi vi capisce?… Be’… Sbrigatevela un po’ tra voi…»)I Paesani discesi in piazza formano un crocchio intorno al vecchio e al ragazzo, che raccontano la scena alla quale hanno poco prima assistito: Don Biagio entra nel gruppo e domanda anch’egli notizie. Ma ecco qualcuno che sembra aver novelle ben più interessanti, e narra con gran gesti, e indica allo stupore di tutti, lassù in alto, il castello demolito. Finalmente, quando il colloquio tra Candida e Baldo volge al suo termine, accorrono, ancora vestiti per il ballo e mal ravvolti in scialli e mantelli, Mirocleto, Olimpia, Fidelia e Maddalena e qualcuno degli invitati. E mentre Olimpia, senza nemmeno accorgersi dei due innamorati, apre la porta della farmacia abbandonata e rientra nella sua casa, intorno ai sopraggiunti si affollano i curiosi ad ascoltare i racconti della meravigliosa avventura.</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Baldo mio, sei ferito?</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Ah, fossi morto!</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Che dici? Che dici?</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Né più visto, né udito</l>
+            <l>mai più avessi, o labbra ingannatrici!</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Che dici? Chi t’ha volto</l>
+            <l>subitamente l’anima e t’acceca?</l>
+            <l>A qual parola bieca,</l>
+            <l>a qual maligna voce hai dato ascolto?</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Non m’acceca! Mi sbenda!</l>
+            <l>Vedo… E so tutto!</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>E tutto non diss’io</l>
+            <l>come nella tremenda</l>
+            <l>ultima confessione, innanzi a dio?</l>
+          </sp>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Ah, taci! Iddio ti vede!</l>
+            <l>Tu non sei la mia Candida… Il tuo nome</l>
+            <l>è menzogna, e la fede</l>
+            <l>menzogna, e la promessa inganno…</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(con voce di pianto)</l>
+            <l>Come?</l>
+            <l>Non son più la fanciulla</l>
+            <l>dei cari sogni? «Un cuore, una capanna,</l>
+            <l>un dondolar di culla,</l>
+            <l>la cantilena d’una ninna nanna»…</l>
+            <l>Baldo, non son più quella</l>
+            <l>che contro il mondo l’amor tuo difese?</l>
+            <l>Candida che t’accese</l>
+            <l>in fronte con un bacio la tua stella?</l>
+          </sp>
+          <stage>CANDIDA(con voce di pianto)Come?Non son più la fanciulladei cari sogni? «Un cuore, una capanna,un dondolar di culla,la cantilena d’una ninna nanna»…Baldo, non son più quellache contro il mondo l’amor tuo difese?Candida che t’accesein fronte con un bacio la tua stella?</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>(tormentato, tentato)</l>
+            <l>Non so… Non mi rammento…</l>
+            <l>un sospetto mi sgombra</l>
+            <l>ogn’altro sentimento</l>
+            <l>e ogn’altra luce adombra…</l>
+          </sp>
+          <stage>BALDO(tormentato, tentato)Non so… Non mi rammento…un sospetto mi sgombraogn’altro sentimentoe ogn’altra luce adombra…</stage>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>(disperata, singhiozzando)</l>
+            <l>No! Lo vedo… È finita!</l>
+            <l>Tu non mi credi più…</l>
+            <l>Ed allora… addio vita!</l>
+            <l>Addio… sogni… addio tu… tto…</l>
+          </sp>
+          <stage>CANDIDA(disperata, singhiozzando)No! Lo vedo… È finita!Tu non mi credi più…Ed allora… addio vita!Addio… sogni… addio tu… tto…</stage>
+          <sp who="#baldo">
+            <speaker>BALDO:</speaker>
+            <l>Taci: ogni tua parola</l>
+            <l>il tormento rinnova…</l>
+            <l>Dammi una prova sola,</l>
+            <l>se puoi… Dammi una prova!</l>
+          </sp>
+          <sp who="#candida">
+            <speaker>CANDIDA:</speaker>
+            <l>Che prova gli darò,</l>
+            <l>vergine benedetta?</l>
+            <l>Come gli renderò</l>
+            <l>la bella fede schietta?</l>
+            <l>La fede del mio amore,</l>
+            <l>nell’innocenza mia,</l>
+            <l>o specchio di candore,</l>
+            <l>o vergine Maria!</l>
+            <l>(cade in ginocchio e rimane immobile con le braccia aperte, come nella fervida attesa del miracolo… ed ecco che, mosse dal vento, le campane della piccola chiesa ondeggiano, tintinnano… tutti volgono gli occhi al cielo in alto, al campanile)</l>
+          </sp>
+          <stage>CANDIDAChe prova gli darò,vergine benedetta?Come gli renderòla bella fede schietta?La fede del mio amore,nell’innocenza mia,o specchio di candore,o vergine Maria!(cade in ginocchio e rimane immobile con le braccia aperte, come nella fervida attesa del miracolo… ed ecco che, mosse dal vento, le campane della piccola chiesa ondeggiano, tintinnano… tutti volgono gli occhi al cielo in alto, al campanile)</stage>
+          <sp who="#alcuni">
+            <speaker>ALCUNI:</speaker>
+            <l>Chi muove le campane</l>
+            <l>nel cielo sonnolento?</l>
+          </sp>
+          <sp who="#altri">
+            <speaker>ALTRI:</speaker>
+            <l>Il vento… Il vento…</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Oh, prodigio… oh, portento!</l>
+          </sp>
+          <sp who="#alcuni">
+            <speaker>ALCUNI:</speaker>
+            <l>Che dicon le campane</l>
+            <l>con la voce d’argento</l>
+            <l>al vento, al vento?</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Miracolo… Miracolo…</l>
+            <l>Tutti scoprono il capo e piegano i ginocchi.</l>
+            <l>È l’aurora.</l>
+          </sp>
+          <stage>TUTTIMiracolo… Miracolo…Tutti scoprono il capo e piegano i ginocchi.È l’aurora.</stage>
+          <stage>Fine del libretto.</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

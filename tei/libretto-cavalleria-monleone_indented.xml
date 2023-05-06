@@ -1,0 +1,850 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">avalleria Rusticana</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="gnà nunzia">
+            <persName>GNÀ NUNZIA:</persName>
+          </person>
+          <person xml:id="gli uomini">
+            <persName>GLI UOMINI:</persName>
+          </person>
+          <person xml:id="le altre">
+            <persName>LE ALTRE:</persName>
+          </person>
+          <person xml:id="turiddu">
+            <persName>TURIDDU:</persName>
+          </person>
+          <person xml:id="alcuni uomini">
+            <persName>ALCUNI UOMINI:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="lo zio brasi">
+            <persName>LO ZIO BRASI:</persName>
+          </person>
+          <person xml:id="prologo">
+            <persName>PROLOGO:</persName>
+          </person>
+          <person xml:id="lola">
+            <persName>LOLA:</persName>
+          </person>
+          <person xml:id="le donne">
+            <persName>LE DONNE:</persName>
+          </person>
+          <person xml:id="i giovani">
+            <persName>I GIOVANI:</persName>
+          </person>
+          <person xml:id="atto unico">
+            <persName>ATTO UNICO:</persName>
+          </person>
+          <person xml:id="santuzza">
+            <persName>SANTUZZA:</persName>
+          </person>
+          <person xml:id="le fanciulle">
+            <persName>LE FANCIULLE:</persName>
+          </person>
+          <person xml:id="alcune donne">
+            <persName>ALCUNE DONNE:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="alfio">
+            <persName>ALFIO:</persName>
+          </person>
+          <person xml:id="le altre donne">
+            <persName>LE ALTRE DONNE:</persName>
+          </person>
+          <person xml:id="altre">
+            <persName>ALTRE:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>PROLOGO</head>Una notte primaverile regna dolce e serena sul villaggio siciliano. Non canti, non voci, non lumi entro le finestre. Le casucce bianche, sparse qua e là sui declivi odoranti, dormono silenziose e sui tetti e sugli alberi splende alta la luna.<sp who="#prologo">
+          <speaker>PROLOGO:</speaker>
+          <l>Una notte primaverile regna dolce e serena sul villaggio siciliano. Non canti, non voci, non lumi entro le finestre. Le casucce bianche, sparse qua e là sui declivi odoranti, dormono silenziose e sui tetti e sugli alberi splende alta la luna.</l>
+        </sp>
+        <stage>PROLOGOUna notte primaverile regna dolce e serena sul villaggio siciliano. Non canti, non voci, non lumi entro le finestre. Le casucce bianche, sparse qua e là sui declivi odoranti, dormono silenziose e sui tetti e sugli alberi splende alta la luna.</stage>
+        <stage>TURIDDU (presso la casa di Lola)Sulla finestra tua la luna splendee la crudele mi ruba i tuoi baci.Amor che ogni mia fibra muove e accendeti vuole e chiama, ma tu resti e taci.O Lola bella, vieni, non tardare;qui la notte ha per te candido un velo.Scendon le stelle dalle vie del cielo,scendi tu in braccio a me, fata lunare!</stage>
+        <stage>LOLA (dalla finestra)Ah, Turiddu!…</stage>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Si!…</l>
+        </sp>
+        <stage>LOLA (discesa, gettandosi nelle sue braccia)Quanto soffrire!…</stage>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Le tue labbra!…</l>
+        </sp>
+        <sp who="#lola">
+          <speaker>LOLA:</speaker>
+          <l>Attendevo… ora sei qua!…</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Tutta mia!</l>
+        </sp>
+        <sp who="#lola">
+          <speaker>LOLA:</speaker>
+          <l>Sempre?</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Prima morire!</l>
+        </sp>
+        <stage>LOLA e TURIDDUO del labbro, o del cor voluttà!(entrano)</stage>
+        <stage>Ritorna il silenzio. Un’aura tiepida e leggera passa a quando a quando tra le fronde novelle riempiendole di fremiti e di sussurri. Qualche uccello notturno getta nell’aria il suo grido lamentevole; e le mille voci indefinite della notte corrono di collina in collina, mentre il torrente ripete il suo triste cantare nel cupo della valle. […] Sulle cime orientali sovrasta un chiarore incerto; la luna impallidisce… È l’alba che s’appressa, è l’aurora che arriva gioconda, toccando con le sue dita di rosa ogni prato, ogni albero, ogni casa! È l’alba di Pasqua!</stage>
+        <stage>I PASTORI (lontanamente)Recinta d’aurora la vetta riluce;gli augelli risvegliansi e cantan d’amore.È l’alba; il tuo gregge sospingi, pastore;è il sole che giubilo agli animi induce.</stage>
+        <stage>Così in questo mattino di Pasqua tutte le cose sembrano coprirsi d’inusitata beatitudine. Salgono su dai prati le più recondite fragranze; i casolari si schiudono più allegramente al bacio del sole, e dai balconi spalancati s’affacciano visi pieni d’infinita letizia. Per tutto il villaggio è un movimento insolito, un chiacchierìo festevole. Gruppi di fanciulle errano pei sentieri fioriti; frotte di bimbi giuocano tra il verde. È Pasqua!Ogni cuore palpita di giubilo, ogni anima crede in Dio; l’inno della Resurrezione s’innalza solenne e glorioso nella festa degli uomini e della primavera.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ne’ cieli esultanti – d’angelici cori,</l>
+          <l>un inno echeggiò.</l>
+          <l>Tra un nimbo di fiori – sull’aure odoranti</l>
+          <l>Gesù s’involò.</l>
+          <l>Fanciulle, adornate – di rose le chiome!</l>
+          <l>Risorto è il Signor!</l>
+          <l>Fanciulle, invocate – l’altissimo Nome!</l>
+          <l>Sia Fede, sia Gaudio,</l>
+          <l>sia Pace, sia Amor!</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>Fine del Prologo</head>
+        <stage>Fine del Prologo</stage>
+      </div>
+      <div type="act">
+        <head>ATTO UNICO</head>La piazza del villaggio. In fondo una distesa d’alberi e di prati, tra i quali serpeggia la strada carrozzabile che fa capo alla piazza. A destra, in linea obliqua, la chiesetta col suo viale alberato. Accanto a questa la casa di Lola. A sinistra l’osteria di Nunzia con la frasca di pino appesa all’uscio, una panca addossata al muro e un rozzo tavolo con sgabelli. La bettola fa angolo con una viottola che conduce al villaggio. Di là da questa lo “stallazzo” dello zio Brasi, con un’ampia tettoia sul davanti. Un altra stradicciuola è a destra, lungo un fianco della chiesa. […]<sp who="#atto unico">
+          <speaker>ATTO UNICO:</speaker>
+          <l>La piazza del villaggio. In fondo una distesa d’alberi e di prati, tra i quali serpeggia la strada carrozzabile che fa capo alla piazza. A destra, in linea obliqua, la chiesetta col suo viale alberato. Accanto a questa la casa di Lola. A sinistra l’osteria di Nunzia con la frasca di pino appesa all’uscio, una panca addossata al muro e un rozzo tavolo con sgabelli. La bettola fa angolo con una viottola che conduce al villaggio. Di là da questa lo “stallazzo” dello zio Brasi, con un’ampia tettoia sul davanti. Un altra stradicciuola è a destra, lungo un fianco della chiesa. […]</l>
+        </sp>
+        <stage>ATTO UNICOLa piazza del villaggio. In fondo una distesa d’alberi e di prati, tra i quali serpeggia la strada carrozzabile che fa capo alla piazza. A destra, in linea obliqua, la chiesetta col suo viale alberato. Accanto a questa la casa di Lola. A sinistra l’osteria di Nunzia con la frasca di pino appesa all’uscio, una panca addossata al muro e un rozzo tavolo con sgabelli. La bettola fa angolo con una viottola che conduce al villaggio. Di là da questa lo “stallazzo” dello zio Brasi, con un’ampia tettoia sul davanti. Un altra stradicciuola è a destra, lungo un fianco della chiesa. […]</stage>
+        <stage>SANTUZZA (entrando e affacciandosi all’uscio della bettola)Nunzia!</stage>
+        <stage>GNÀ NUNZIA (sull’uscio)Da me che vuoi?</stage>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Tosto me n’ vo! Soltanto</l>
+          <l>ditemi ov’è Turiddu.</l>
+        </sp>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>Fin qui vieni a cercarlo?</l>
+          <l>Ebben, non c’è.</l>
+        </sp>
+        <stage>SANTUZZA (implorando)Signore!…</stage>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>Poi ne’ pasticci vostri,</l>
+          <l>lo sai, non voglio entrare. – Lasciami.</l>
+          <l>(fa per entrare)</l>
+        </sp>
+        <stage>GNÀ NUNZIAPoi ne’ pasticci vostri,lo sai, non voglio entrare. – Lasciami.(fa per entrare)</stage>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Mamma Nunzia,</l>
+          <l>così non mi scacciate… Ditemi ov’è Turiddu!</l>
+        </sp>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>È andato a Francofonte.</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>No, non è ver! Stanotte l’han visto qui.</l>
+        </sp>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>Che vieni a dirmi?… Se stanotte</l>
+          <l>non è tornato a casa… Entra.</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Non posso entrare.</l>
+        </sp>
+        <stage>LO ZIO BRASI (tra sè, dalla tettoia, osservando le donne)Oggi ch’è Pasqua fanno pace suocera e nuora!…</stage>
+        <stage>GNÀ NUNZIA (a Santuzza)Sbrigati, allora; parla!Che sai del figlio mio?</stage>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Nulla so!…</l>
+        </sp>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>Dov’è stato?</l>
+        </sp>
+        <stage>SANTUZZA (scoppiando in lacrime)Ah, il velen che ho nel core!…</stage>
+        <stage>S’abbandona sulla panca presso l’uscio, rimanendo così per tutta la scena seguente. Nunzia la guarda alcun poco; poi stizzita del silenzio di lei, s’allontana scrollando le spalle e va a discorrere con lo zio Brasi.S’ode frattanto un vociare lontano. Giunge qualche grido di «Evviva compar Alfio!» Nunzia e lo zio Brasi accorrono curiosi in fondo. Il rumore si fa più forte e distinto, finchè molti contadini – uomini e donne – irrompono sulla scena seguendo e circondando il carro di compar Alfio.</stage>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>Ma che avvenne?</l>
+        </sp>
+        <sp who="#lo zio brasi">
+          <speaker>LO ZIO BRASI:</speaker>
+          <l>Cos’è stato?</l>
+        </sp>
+        <sp who="#alcuni uomini">
+          <speaker>ALCUNI UOMINI:</speaker>
+          <l>Questa notte fu assaltato.</l>
+        </sp>
+        <sp who="#alcune donne">
+          <speaker>ALCUNE DONNE:</speaker>
+          <l>Ciancie!</l>
+        </sp>
+        <sp who="#gli uomini">
+          <speaker>GLI UOMINI:</speaker>
+          <l>Vero!</l>
+        </sp>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>Dove?</l>
+        </sp>
+        <sp who="#lo zio brasi">
+          <speaker>LO ZIO BRASI:</speaker>
+          <l>Diavolo!</l>
+        </sp>
+        <sp who="#alcune donne">
+          <speaker>ALCUNE DONNE:</speaker>
+          <l>È ferito?</l>
+        </sp>
+        <sp who="#altre">
+          <speaker>ALTRE:</speaker>
+          <l>No.</l>
+        </sp>
+        <sp who="#gli uomini">
+          <speaker>GLI UOMINI:</speaker>
+          <l>Tacete!</l>
+        </sp>
+        <sp who="#alcune donne">
+          <speaker>ALCUNE DONNE:</speaker>
+          <l>Manigoldi!</l>
+        </sp>
+        <sp who="#altre">
+          <speaker>ALTRE:</speaker>
+          <l>Santa Vergine!</l>
+        </sp>
+        <stage>LO ZIO BRASI (a Nunzia)Brutto incontro! non è ver?</stage>
+        <stage>GNÀ NUNZIA (a compar Alfio)Raccontate!</stage>
+        <stage>GLI UOMINI (alle Donne)Sentirete!</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Noi vogliamo tutto saper!</l>
+        </sp>
+        <sp who="#alfio">
+          <speaker>ALFIO:</speaker>
+          <l>Battea la mezzanotte ed io partiva</l>
+          <l>da Militello per tornare a casa.</l>
+          <l>Non v’era per la strada anima viva;</l>
+          <l>La luna e il baio mi facean la scorta.</l>
+          <l>A dir il vero avea trincato assai</l>
+          <l>Per festeggiar di Pasqua la vigilia;</l>
+          <l>così senza pensier men che mai,</l>
+          <l>zufolando la via parea più corta.</l>
+          <l>Quando improvvisi sbucano da un fosso</l>
+          <l>due brutti arnesi. A me s’appressan lesti;</l>
+          <l>mi fermano, m’agguantano, e il più grosso,</l>
+          <l>fissandomi severo: «Hai tu moneta?»</l>
+          <l>Sì – gli rispondo – e ve la sborso tosto,</l>
+          <l>se sciolto mi lasciate. Cosi fanno.</l>
+          <l>Rapido come il lampo mi discosto,</l>
+          <l>giro la frusta e sopra quei m’avvento.</l>
+          <l>Fugge l’altro e il furfante in mano mia:</l>
+          <l>«Pietà!», grida, «pietà!» – Niente, ti fiacco! –</l>
+          <l>Finchè il lasciai bocconi sulla via!</l>
+        </sp>
+        <stage>(Giunge dalla chiesa il suono dell’organo)</stage>
+        <stage>GLI UOMINI (a compar Alfio)Bravo!</stage>
+        <sp who="#alcune donne">
+          <speaker>ALCUNE DONNE:</speaker>
+          <l>Santo Dio!</l>
+        </sp>
+        <sp who="#lo zio brasi">
+          <speaker>LO ZIO BRASI:</speaker>
+          <l>Che guaio!</l>
+        </sp>
+        <sp who="#le donne">
+          <speaker>LE DONNE:</speaker>
+          <l>Ha corraggio!</l>
+        </sp>
+        <stage>GNÀ NUNZIA (rientrando alla bettola)L’ha scampata!</stage>
+        <stage>ALFIO (al ragazzo che è rimasto in fondo a guardare il carro)Reca il baio al maniscalco.(Il ragazzo annuisce)</stage>
+        <stage>LE DONNE (allontanandosi)Gliel’han fatta e l’han pagata!</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Le sue braccia son d’acciaio!</l>
+          <l>Gliel’han fatta e l’han pagata!</l>
+        </sp>
+        <sp who="#gli uomini">
+          <speaker>GLI UOMINI:</speaker>
+          <l>Le sue braccia son d’acciaio!</l>
+        </sp>
+        <sp who="#le donne">
+          <speaker>LE DONNE:</speaker>
+          <l>Può portar voto</l>
+          <l>Alla Vergine del pericolo!…</l>
+          <l>(Le donne entrano in chiesa, seguite da alcuni uomini. Gli altri, meno lo stesso zio Brasi e compar Alfio, escono, parte a destra e parte a sinistra, commentano)</l>
+        </sp>
+        <stage>LE DONNEPuò portar votoAlla Vergine del pericolo!…(Le donne entrano in chiesa, seguite da alcuni uomini. Gli altri, meno lo stesso zio Brasi e compar Alfio, escono, parte a destra e parte a sinistra, commentano)</stage>
+        <sp who="#lo zio brasi">
+          <speaker>LO ZIO BRASI:</speaker>
+          <l>Su quest’incontri è regola</l>
+          <l>beverci sopra… È regola.</l>
+        </sp>
+        <sp who="#alfio">
+          <speaker>ALFIO:</speaker>
+          <l>Nunzia, ne avete ancora</l>
+          <l>di quel vin generoso?</l>
+        </sp>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>Giunto non è mio figlio</l>
+          <l>ancor da Francofonte.</l>
+        </sp>
+        <sp who="#alfio">
+          <speaker>ALFIO:</speaker>
+          <l>Ma se Turiddu è qui!…</l>
+          <l>L’ho visto stamattina.</l>
+          <l>(Santuzza, rimasta finora al suo posto, si leva d’improvviso e s’appressa a Nunzia)</l>
+        </sp>
+        <stage>ALFIOMa se Turiddu è qui!…L’ho visto stamattina.(Santuzza, rimasta finora al suo posto, si leva d’improvviso e s’appressa a Nunzia)</stage>
+        <stage>GNÀ NUNZIA (a compar Alfio)Dove?</stage>
+        <stage>SANTUZZA (a Nunzia, sottovoce)Non dite nulla!</stage>
+        <sp who="#alfio">
+          <speaker>ALFIO:</speaker>
+          <l>Qui nel paese, all’alba.</l>
+          <l>(s’avvia, poi, voltandosi)</l>
+          <l>Se l’incontrassi, debbo mandarlo?</l>
+        </sp>
+        <stage>ALFIOQui nel paese, all’alba.(s’avvia, poi, voltandosi)Se l’incontrassi, debbo mandarlo?</stage>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>No!</l>
+          <l>(compar Alfio s’allontana)</l>
+        </sp>
+        <stage>GNÀ NUNZIANo!(compar Alfio s’allontana)</stage>
+        <stage>LO ZIO BRASI (a parte)E il vino?…Addio!(s’avvia allo stallazzo)Ehi, compar Alfio!O che volete prenderlo,un viaggio per Mineo?</stage>
+        <stage>ALFIO (voltandosi appena)Oggi no, chè fo Pasqua a casa mia.(esce)</stage>
+        <stage>LO ZIO BRASI (entrando nello stallazzo)«Il carnevale, fallo con chi vuoi;Pasqua e Natale, falli con i tuoi».</stage>
+        <stage>GNÀ NUNZIA (a Santuzza)Perché m’hai fatto segno di star zitta?(Santuzza non risponde e abbassa il capo)Ah! Che ti salta in mente?… Lola forse?…</stage>
+        <stage>SANTUZZA (nascondendosi il volto fra le mani e scoppiando a piangere)Sì, mamma Nunzia!</stage>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>O poveretta me!</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Il dì che andò soldato,</l>
+          <l>diè Turiddu d’amor la parola,</l>
+          <l>l’anel di sposa a Lola…</l>
+          <l>e partì, dell’affetto giurato</l>
+          <l>fidente. Poi tornò;</l>
+          <l>seppe a nozze oramai la diletta;</l>
+          <l>fu allor che per vendetta</l>
+          <l>co’ miei baci il suo amore scordò!</l>
+        </sp>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>Ebben?…</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Ah, mamma Nunzia!</l>
+          <l>Quando lo seppe, la mala femmina,</l>
+          <l>di me gelosa divenne a morte.</l>
+          <l>Di sua bellezza forte,</l>
+          <l>tutto affrontò – pur di rapirmelo.</l>
+          <l>Ei d’amor mi cantava, di quell’altra a dispetto;</l>
+          <l>piangea la dannata, a me il cor</l>
+          <l>parea scoppiar nel petto!…</l>
+        </sp>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>Ed or?</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Or più non m’ama!</l>
+          <l>Tradita, abbandonata, batto alla vostra porta.</l>
+          <l>I miei m’uccideranno… ma che importa?</l>
+          <l>Purché non l’abbia lei, ebben, ch’io muoia!</l>
+        </sp>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>Figlia del Cielo, cosa mi racconti,</l>
+          <l>oggi che è Pasqua!</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Giorno di martirio Pasqua è per me…</l>
+        </sp>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>Va in chiesa e implora il Santo Crocifisso!</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Non posso entrar, chè sono</l>
+          <l>in peccato mortale!… (singhiozza)</l>
+        </sp>
+        <stage>SANTUZZANon posso entrar, chè sonoin peccato mortale!… (singhiozza)</stage>
+        <stage>GNÀ NUNZIA (avviandosi alla chiesa brontolando)O buon Gesù, pensate voi a questa creatura!</stage>
+        <stage>TURIDDU (entrando)Che fai tu qui, Santuzza?</stage>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>T’aspettavo.</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Dov’è mia madre?</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>È andata or ora in chiesa.</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>E tu non vai?</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Non vo. – Ho da parlarti.</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Qui?</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Non m’importa.</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Perché?</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Donde vieni?</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Sarebbe a dire?…</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Sì, dove sei stato?</l>
+        </sp>
+        <stage>TURIDDU (esitando)A Francofonte.</stage>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Non è ver!</l>
+        </sp>
+        <stage>TURIDDU (minaccioso)Santuzza!</stage>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Sotto il balcone di Lola stamane t’han veduto…</l>
+        </sp>
+        <stage>TURIDDU (scattando)Che?</stage>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Poc’anzi lo disse compar Alfio, il marito.</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>È questo il grande amor che giuri di portarmi?</l>
+          <l>Pe’ tuoi sospetti stolti vuoi dunque che m’uccida?</l>
+        </sp>
+        <stage>SANTUZZA (cadendo a ginocchi e implorando)Ah! Turiddu, non dire!…</stage>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Alzati! Invan vorresti</l>
+          <l>strapparmi una parola!</l>
+        </sp>
+        <stage>SANTUZZA (levandosi)Ah! dunque l’ami Lola!</stage>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>No; non l’amo!</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Sì; l’ami! – Quella scomunicata</l>
+          <l>t’affascina, t’acceca!</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Taci!</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Mi scoppia il cor!…</l>
+        </sp>
+        <stage>TURIDDU (veemente)Già troppo mi tedianoCodeste tue scene!</stage>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>No, ascoltami!</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Invan mi perseguiti.</l>
+          <l>Non voglio catene!</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Sì smunta, sì pallida mi lasci e malata!…</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Va, lasciami!</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>La rabbia mi soffoca.</l>
+          <l>Sono folle, dannata!</l>
+        </sp>
+        <stage>LOLA (di dentro, canterellando la serenata di Turiddu)Amore vago, vieni, non tardare!…Qui la notte ha per te candido un velo…Scendon le stelle dalle vie del cielo…(entrando, sorpresa)Oh! Compare Turiddu, avete vistoin piazza mio marito?</stage>
+        <stage>TURIDDU (impacciato)Giunsi or ora…non sò.</stage>
+        <sp who="#lola">
+          <speaker>LOLA:</speaker>
+          <l>Mi disse, «Vo dal maniscalco,</l>
+          <l>ma ti raggiungo». – E voi, sentite messa</l>
+          <l>all’aperto?</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Qui Santa mi diceva…</l>
+        </sp>
+        <stage>SANTUZZA (interrompendolo)Sì, gli dicevo che oggi è festa grande;e il Signor, di lassù, vede ogni cosa!</stage>
+        <sp who="#lola">
+          <speaker>LOLA:</speaker>
+          <l>E voi, comare, non andate in chiesa?</l>
+        </sp>
+        <stage>SANTUZZA (seccamente)No.Ci ha d’andar chi è senza macchia in cuore.</stage>
+        <stage>LOLA (si china a toccare il suolo con la destra che poi bacia)Io ringrazio il Signor e bacio in terra.</stage>
+        <stage>SANTUZZA (ironica)Beata voi!…</stage>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Andiam, Lola, qui nulla</l>
+          <l>abbiamo a far.</l>
+        </sp>
+        <stage>LOLA (con sarcasmo)No, no; restate pure.Conosco ben la via!</stage>
+        <stage>SANTUZZA (trattenendo Turiddu)Resta!Dobbiamo parlar ancor.</stage>
+        <stage>LOLA (sorridente, maligna)Oh sì, restate. Addio.(entra in chiesa)</stage>
+        <stage>TURIDDU (furioso)Vedi che hai fatto?</stage>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Vedo!</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>L’hai fatto apposta!?</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Sì!</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Sangue di Giuda!</l>
+        </sp>
+        <stage>SANTUZZA (cadendo a ginocchi)Ammazzami!</stage>
+        <stage>TURIDDU (per andare)No! No!</stage>
+        <stage>SANTUZZA (si alza e lo trattiene)Mi lasci?…Ascolta!…No, Turiddu, così non lasciarmi!…Vedi, piango: son curva a’ tuoi piedi!…</stage>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Taci! Taci! Or è vano pregarmi;</l>
+          <l>Troppo tardi del fallo t’avvedi!</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Tu schiacciarmi, tu uccidermi puoi,</l>
+          <l>ma lo scherno di Lola non vo’!</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Taci! Tutto è finito tra noi;</l>
+          <l>compassion del tuo pianto non ho!</l>
+        </sp>
+        <stage>(s’avvia alla chiesa)</stage>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Dove corri?</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Vado in chiesa.</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Lei t’aspetta…</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Non è ver!</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Bada! Bada!</l>
+        </sp>
+        <stage>TURIDDU (gettandola a terra)Non ti temo!</stage>
+        <stage>SANTUZZA (folle d’ira)Va! La mala Pasqua a te!(rimane un istante col braccio proteso, ferma nella maledizione. Poi, pallida, trasfigurata, con le mani ne’ capelli, si alza e indietreggia lentamente fino al tavolo, dove resta appoggiata scoppiando in lacrime. Giunge Compare Alfio; Santuzza gli va incontro con risoluzione)È il Signor che vi manda, compar Alfio!</stage>
+        <sp who="#alfio">
+          <speaker>ALFIO:</speaker>
+          <l>A che punto è la messa?</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Eh… Tardi siete giunto… tardi!</l>
+          <l>Turiddu e vostra moglie</l>
+          <l>la sentono per voi.</l>
+        </sp>
+        <sp who="#alfio">
+          <speaker>ALFIO:</speaker>
+          <l>Santa, che dite?</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Dico che mentre siete all’acqua e al vento</l>
+          <l>per dar asilo e pane a vostra moglie,</l>
+          <l>la casa ella v’adorna in malo modo.</l>
+        </sp>
+        <sp who="#alfio">
+          <speaker>ALFIO:</speaker>
+          <l>Nel nome di Dio, Santa, vaneggiate!</l>
+          <l>(Per tutta la scena seguente, s’ode in lontananza la messa cantata dal popolo in chiesa.)</l>
+        </sp>
+        <stage>ALFIONel nome di Dio, Santa, vaneggiate!(Per tutta la scena seguente, s’ode in lontananza la messa cantata dal popolo in chiesa.)</stage>
+        <stage>IL POPOLO (dalla chiesa)O rex æterne Domine,rerum creator omnium,qui eras ante sæculasemper cum Patre Filius,qui mundi in primordioAdam plasmasti hominem,cui tuæ imaginivultum dedisti similem;cui crucem propter hominemsuscipere dignatus es,dedisti tuum sanguinemnostræ salutis pretium:quaesumus. Auctor omnium,in hoc paschali gaudioab omni mortis impetu tuum defende populum!</stage>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>No! – Per quel Dio ch’è sceso or sull’altare,</l>
+          <l>o compar Alfio, Lola vi tradisce!</l>
+        </sp>
+        <sp who="#alfio">
+          <speaker>ALFIO:</speaker>
+          <l>Per tutto il sangue! Se dite il vero,</l>
+          <l>le man vi bacio; come farei</l>
+          <l>se ritornasse mia madre, lei ch’è seppellita nel cimitero.</l>
+          <l>Ma se mentite – anco a ginocchi</l>
+          <l>per voi pregasse Dio di lassù –</l>
+          <l>vo’ con quest’ugne strapparvi gli occhi,</l>
+          <l>ché non possiate pianger mai più!</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Compar, sì, m’uccidete!</l>
+          <l>Troppo mi rode il pianto,</l>
+          <l>dal dì che Lola</l>
+          <l>Turiddu a me strappò.</l>
+          <l>Ma al labbro mio credete… mi lacera lo schianto!…</l>
+          <l>La mia parola</l>
+          <l>mentire, tradir non può!</l>
+        </sp>
+        <sp who="#alfio">
+          <speaker>ALFIO:</speaker>
+          <l>Quand’è così, comare, vi ringrazio.</l>
+        </sp>
+        <sp who="#santuzza">
+          <speaker>SANTUZZA:</speaker>
+          <l>Ah no, tacete!… Scellerata io sono!…</l>
+        </sp>
+        <sp who="#alfio">
+          <speaker>ALFIO:</speaker>
+          <l>Infami loro! che ch’han piantato</l>
+          <l>codesta lama in fondo al cor!</l>
+          <l>Infami loro! che hanno rubato a me la pace, a voi l’onor!</l>
+          <l>Dio li perseguiti, li abbruci il fulmine!</l>
+          <l>Pe ‘l nostro spasimo li affoghi il Ciel!</l>
+        </sp>
+        <stage>SANTUZZA (smarrita)Ah! mala Pasqua!…</stage>
+        <sp who="#alfio">
+          <speaker>ALFIO:</speaker>
+          <l>Oggi nel tossico</l>
+          <l>per lui s’affonda il mio coltel! (parte)</l>
+          <l>Le campane suonano a festa. La gente esce dalla chiesa e s’avvia da ogni lato. Le donne sulla soglia si segnano. Alcune vanno frettolose; altre s’indugiano a chiacchierare sulla piazza. Molti uomini si fermano in crocchio sul sagrato. Escono anche Turiddu, Lola e Nunzia. Ma nessuno bada a Santuzza rimasta in fondo, presso la porta della chiesa, avvolto il capo nella mantellina.</l>
+        </sp>
+        <stage>ALFIOOggi nel tossicoper lui s’affonda il mio coltel! (parte)Le campane suonano a festa. La gente esce dalla chiesa e s’avvia da ogni lato. Le donne sulla soglia si segnano. Alcune vanno frettolose; altre s’indugiano a chiacchierare sulla piazza. Molti uomini si fermano in crocchio sul sagrato. Escono anche Turiddu, Lola e Nunzia. Ma nessuno bada a Santuzza rimasta in fondo, presso la porta della chiesa, avvolto il capo nella mantellina.</stage>
+        <stage>LO ZIO BRASI (accorgendosi di lei che entra furtivamente)Santuzza che va in chiesaquando gli altri se n’escono!(poi accorrendo alla bettola dove alcuni hanno preso posto al tavolo e Nunzia serve loro da bere)Allegria! Tracanniam! Faccio io la spesa.</stage>
+        <stage>GNÀ NUNZIA (allo zio Brasi)A queste sagre, poi,ci siete sempre voi!</stage>
+        <sp who="#lo zio brasi">
+          <speaker>LO ZIO BRASI:</speaker>
+          <l>Dice il vecchio dettato:</l>
+          <l>«Santifica le feste!»</l>
+          <l>Io l’ho sempre osservato.</l>
+          <l>(contadini recanti mazzi di fiori silvestri, frasche e ghirlande)</l>
+          <l>I GIOVANI (dal biroccio, chiamando)</l>
+          <l>Ehi, gente, qua!</l>
+        </sp>
+        <stage>LO ZIO BRASIDice il vecchio dettato:«Santifica le feste!»Io l’ho sempre osservato.(contadini recanti mazzi di fiori silvestri, frasche e ghirlande)I GIOVANI (dal biroccio, chiamando)Ehi, gente, qua!</stage>
+        <stage>MOLTI (accorrendo)I fiori di Pasqua!</stage>
+        <sp who="#i giovani">
+          <speaker>I GIOVANI:</speaker>
+          <l>N’è pieno il biroccio!</l>
+          <l>(li distribuiscono intorno)</l>
+          <l>ALCUNE FANCIULLE</l>
+          <l>A noi datene!</l>
+        </sp>
+        <stage>I GIOVANIN’è pieno il biroccio!(li distribuiscono intorno)ALCUNE FANCIULLEA noi datene!</stage>
+        <sp who="#alcune donne">
+          <speaker>ALCUNE DONNE:</speaker>
+          <l>Che olezzo!</l>
+        </sp>
+        <sp who="#le fanciulle">
+          <speaker>LE FANCIULLE:</speaker>
+          <l>Son molli di guazza!</l>
+        </sp>
+        <sp who="#le donne">
+          <speaker>LE DONNE:</speaker>
+          <l>Oh i bei biancospini!</l>
+        </sp>
+        <sp who="#le fanciulle">
+          <speaker>LE FANCIULLE:</speaker>
+          <l>Se pungono!</l>
+        </sp>
+        <stage>I GIOVANI (scendendo dal biroccio che viene allontanato)Su, tutta infioriamo la piazza!</stage>
+        <stage>Le donne salgono nelle case e adornano le finestre; alcuni cospargono di fiori il viale e il limitare della chiesa; altri appendono ghirlande e frasche all’osteria di Nunzia.TUTTIFiori sulle soglie;fior sui balconi;fiori all’ostello di nostro Signor!</stage>
+        <sp who="#lo zio brasi">
+          <speaker>LO ZIO BRASI:</speaker>
+          <l>Nunzia, v’adornano</l>
+          <l>oggi la bettola</l>
+          <l>come un altar!</l>
+        </sp>
+        <stage>GNÀ NUNZIA (rientrando coi bicchieri)Gioventù! Gioventù!</stage>
+        <stage>VOCI LONTANE (come a ritornello d’una canzone)April è amor!…</stage>
+        <stage>ALCUNE VECCHIE (salutando altre che s’allontanano dalla parte opposta)Dio v’abbia in gloria. (partono)</stage>
+        <stage>UN GRUPPO DI DONNE (a un altro che s’indugia a chiacchierare)Venite? – Insieme facciam la via.</stage>
+        <sp who="#le altre donne">
+          <speaker>LE ALTRE DONNE:</speaker>
+          <l>Andiamo, sì. (escono con le prime)</l>
+          <l>ALCUNI UOMINI</l>
+          <l>Oggi è baldoria!</l>
+          <l>(a quelli che rimangono)</l>
+          <l>Salute a tutta la compagnia!</l>
+        </sp>
+        <stage>LE ALTRE DONNEAndiamo, sì. (escono con le prime)ALCUNI UOMINIOggi è baldoria!(a quelli che rimangono)Salute a tutta la compagnia!</stage>
+        <stage>ALCUNE DONNE (ad altre)Buon dì.</stage>
+        <sp who="#le altre">
+          <speaker>LE ALTRE:</speaker>
+          <l>Buon dì.</l>
+          <l>(partono per vie opposte)</l>
+          <l>Lola esce dalla chiesa a braccetto d’un’amica. Turiddu la segue. Lei cammina cercando di passare inosservata.</l>
+        </sp>
+        <stage>LE ALTREBuon dì.(partono per vie opposte)Lola esce dalla chiesa a braccetto d’un’amica. Turiddu la segue. Lei cammina cercando di passare inosservata.</stage>
+        <stage>TURIDDU (segue canterellando Lola, che finge di non accorgersi di lui e chiacchierando passeggia con un’amica)O mia gentil, o mia crudele,il tuo balcon pare un giardino;ma se s’affaccia il tuo visino,io dico: è il paradiso!… E più non vo’.Bocca soave al par del miele,mi fai bear, mi fai soffrire…So ben che amarti è dir morire…ma lieto può morir chi ti baciò!…</stage>
+        <stage>LOLA (si volge scherzando)Ah, voi qua? (s’avvia)</stage>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Che? Ve n’andate?</l>
+          <l>Non è tardi; un po’ restate.</l>
+        </sp>
+        <sp who="#lola">
+          <speaker>LOLA:</speaker>
+          <l>Alfio aspetta.</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Verrà in piazza.</l>
+        </sp>
+        <sp who="#lola">
+          <speaker>LOLA:</speaker>
+          <l>Debbo andare.</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Siete pazza!</l>
+          <l>Prima insiem dobbiamo bere.</l>
+        </sp>
+        <sp who="#lola">
+          <speaker>LOLA:</speaker>
+          <l>Non ho sete.</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Un sol bicchiere.</l>
+          <l>(chiamando gli altri)</l>
+          <l>Olà, compagni, a ber tutti v’invito!</l>
+          <l>(tutti s’avvicinano, anche lo zio Brasi. Turiddu entra nell’osteria e ritorna subito coi bicchieri colmi che distribuisce intorno)</l>
+          <l>Su dunque, amici, alla salute vostra!</l>
+        </sp>
+        <stage>TURIDDUUn sol bicchiere.(chiamando gli altri)Olà, compagni, a ber tutti v’invito!(tutti s’avvicinano, anche lo zio Brasi. Turiddu entra nell’osteria e ritorna subito coi bicchieri colmi che distribuisce intorno)Su dunque, amici, alla salute vostra!</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Salute a voi, evviva!</l>
+        </sp>
+        <stage>LO ZIO BRASI (tra sè, un po’ alticcio)Chi ne ha ne spende!</stage>
+        <stage>TURIDDU (porgendo un bicchiere a Lola che rifiuta)Ancor?</stage>
+        <stage>ALFIO (entrando)Salute, amici!</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Evviva!</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Oh, compar Alfio, siate il benvenuto.</l>
+          <l>Ce n’è un bicchiere per voi. (glielo porge colmo)</l>
+        </sp>
+        <stage>TURIDDUOh, compar Alfio, siate il benvenuto.Ce n’è un bicchiere per voi. (glielo porge colmo)</stage>
+        <stage>ALFIO (respingendolo col rovescio della mano)Grazie, non bevo.Il vostro vin potrebbe avvelenarmi.</stage>
+        <stage>TURIDDU (butta per terra il vino e posa il bicchiere sul tavolo)Sta ben!(siede. Turiddu e compar Alfio si fissano lungamente. Corre un mormorio tra gli astanti. Alcuni consigliano a Lola di andarsene. Ella rimane. Lo zio Brasi fingendo d’essere chiamato si ritira nello stallazzo. Turiddu a compar Alfio.)Avete altro da comandare?</stage>
+        <stage>ALFIO (freddamente)Nulla. Noi bene c’intendiam.</stage>
+        <stage>LOLA (a compar Alfio)Che vuoi tu dir?</stage>
+        <stage>ALFIO (dandole uno spintone)Vattene!(Lola s’allontana fissando angosciata il marito)</stage>
+        <stage>TURIDDU (alzandosi risoluto, a compar Alfio)Allora, eccomi a voi!(s’abbracciano, Turiddu gli morde l’orecchio)</stage>
+        <sp who="#alfio">
+          <speaker>ALFIO:</speaker>
+          <l>Compar Turiddu, forte avete fatto!</l>
+          <l>Siete uom d’onore… sia con voi la sorte. (s’avvia)</l>
+        </sp>
+        <stage>ALFIOCompar Turiddu, forte avete fatto!Siete uom d’onore… sia con voi la sorte. (s’avvia)</stage>
+        <stage>TURIDDU (trattenendolo in disparte)Alfio, ascoltate… com’è vero Iddio,so ch’ebbi torto; e – sovra l’onor mio –senza rimpianto mi farei scannare.Ma… Santa è madre… e le giurai l’altare.Niun le resta quaggiù… io l’ho perduta!…povera Santa mia!…(riprendendosi) Ma Dio m’aiuta!Sgozzarvi come un can certo saprò.</stage>
+        <stage>ALFIO (freddamente)Sia pur. Dietro la chiesa aspetterò.(s’avvia. Molti lo seguono ed escono con lui. Gli altri corrono in paese)</stage>
+        <stage>TURIDDU (fa per avviarsi alla bettola; esita; s’arresta; poi avvicinandosi all’uscio, dubbioso e commosso)Mamma, sentite…(Nunzia s’affaccia)Debbo andare via…M’hanno richiesto… or or… per un lavoro,Lontan di qui… Rifiutare non so…Ma prima, mamma, dovete abbracciarmicome quel dì che vi lasciai soldato…Ve ne sovviene?… Allor credevateche non dovessi ritornar mai più…</stage>
+        <sp who="#gnà nunzia">
+          <speaker>GNÀ NUNZIA:</speaker>
+          <l>Che vai dicendo?</l>
+        </sp>
+        <sp who="#turiddu">
+          <speaker>TURIDDU:</speaker>
+          <l>Oh… nulla… no… così…</l>
+          <l>mi parla il vino… Eppoi, mamma… sentite…</l>
+          <l>Se questa sera… più non ritornassi…</l>
+          <l>(con effusione) Pensate voi alla Santuzza mia!…</l>
+          <l>Povera creatura!… non ha nessuno al mondo!</l>
+          <l>Amarla voi dovrete come me stesso amate;</l>
+          <l>e fare a lei da madre, s’io non tornassi più!…</l>
+          <l>Eppoi pregate per la sorte mia!…</l>
+          <l>Un bacio… un altro bacio… ancora un bacio…</l>
+          <l>Addio! (fugge)</l>
+        </sp>
+        <stage>TURIDDUOh… nulla… no… così…mi parla il vino… Eppoi, mamma… sentite…Se questa sera… più non ritornassi…(con effusione) Pensate voi alla Santuzza mia!…Povera creatura!… non ha nessuno al mondo!Amarla voi dovrete come me stesso amate;e fare a lei da madre, s’io non tornassi più!…Eppoi pregate per la sorte mia!…Un bacio… un altro bacio… ancora un bacio…Addio! (fugge)</stage>
+        <stage>GNÀ NUNZIA (seguendolo)Ah, dove corri?…Ascoltami!… Turiddu!…O che vuol dire?</stage>
+        <stage>LO ZIO BRASI (che ha fatto capolino dalla tettoia, a Lola sopraggiunta in gran turbamento)Tornate a casa!</stage>
+        <sp who="#lola">
+          <speaker>LOLA:</speaker>
+          <l>Gesummaria!</l>
+        </sp>
+        <stage>GNÀ NUNZIA (sempre più smarrita)Dov’è mio figlio?(Alcune donne attraversano la piazza correndo spaventate)Ma dov’è andato?… Che vuol dir ciò?…</stage>
+        <sp who="#lola">
+          <speaker>LOLA:</speaker>
+          <l>Vuol dir che il vino ci andrà in veleno!</l>
+        </sp>
+        <stage>UNA VOCE (di fuori)Turiddu accoltellato!!…(Nunzia getta un urlo forsennato e corre con gli altri in fondo con le mani ne’ capelli, fuori di sè)</stage>
+        <stage>Tela rapidissima.</stage>
+      </div>
+    </body>
+  </text>
+</TEI>

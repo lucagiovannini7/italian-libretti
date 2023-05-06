@@ -1,0 +1,2570 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ucrezia Borgia</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="voci lontane">
+            <persName>VOCI LONTANE:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="gubetta">
+            <persName>GUBETTA:</persName>
+          </person>
+          <person xml:id="gennaro e coro">
+            <persName>GENNARO E CORO:</persName>
+          </person>
+          <person xml:id="astolfo">
+            <persName>ASTOLFO:</persName>
+          </person>
+          <person xml:id="rustighello e coro">
+            <persName>RUSTIGHELLO E CORO:</persName>
+          </person>
+          <person xml:id="gazella">
+            <persName>GAZELLA:</persName>
+          </person>
+          <person xml:id="vitellozzo">
+            <persName>VITELLOZZO:</persName>
+          </person>
+          <person xml:id="alfonso">
+            <persName>ALFONSO:</persName>
+          </person>
+          <person xml:id="coppiere">
+            <persName>COPPIERE:</persName>
+          </person>
+          <person xml:id="orsini e gennaro">
+            <persName>ORSINI E GENNARO:</persName>
+          </person>
+          <person xml:id="astolfo e rustighello">
+            <persName>ASTOLFO E RUSTIGHELLO:</persName>
+          </person>
+          <person xml:id="dame">
+            <persName>DAME:</persName>
+          </person>
+          <person xml:id="rustighello">
+            <persName>RUSTIGHELLO:</persName>
+          </person>
+          <person xml:id="orsini">
+            <persName>ORSINI:</persName>
+          </person>
+          <person xml:id="gennaro">
+            <persName>GENNARO:</persName>
+          </person>
+          <person xml:id="orsini e gubetta">
+            <persName>ORSINI E GUBETTA:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="liverotto">
+            <persName>LIVEROTTO:</persName>
+          </person>
+          <person xml:id="gli altri">
+            <persName>GLI ALTRI:</persName>
+          </person>
+          <person xml:id="petrucci">
+            <persName>PETRUCCI:</persName>
+          </person>
+          <person xml:id="lucrezia">
+            <persName>LUCREZIA:</persName>
+          </person>
+          <person xml:id="gennaro, orsini, liverotto, vitellozzo e petrucci">
+            <persName>GENNARO, ORSINI, LIVEROTTO, VITELLOZZO E PETRUCCI:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>ALFONSO</castItem>
+        <castItem>LUCREZIA</castItem>
+        <castItem>GENNARO</castItem>
+        <castItem>ORSINI</castItem>
+        <castItem>LIVEROTTO</castItem>
+        <castItem>GAZELLA</castItem>
+        <castItem>PETRUCCI</castItem>
+        <castItem>VITELLOZZO</castItem>
+        <castItem>GUBETTA</castItem>
+        <castItem>RUSTIGHELLO</castItem>
+        <castItem>ASTOLFO</castItem>
+        <castItem>NEGRONI</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>L’azione del prologo è in Venezia: quella del dramma in Ferrara L’epoca è sul cominciare del secolo XVI.</stage>
+      <div type="act">
+        <head>Avvertimento</head>Vittor Hugo, dal quale è imitato questo melodramma, in una tragedia assai nota aveva rappresentato la difformità fisica (son sue parole) santificata dalla paternità: nella Lucrezia Borgia volle significare la difformità morale purificata dalla maternità: il quale scopo, se ben si rifletta, rattempera la nerezza del soggetto, e non fa ributtante il protagonista. Era facile all’autore francese far risaltare il suo scopo, trattando l’argomento come gli dettava la fantasia, e sviluppandolo nello spazio che più gli cadeva in acconcio: difficilissimo a me che racchiudeva in poche pagine un volume, ed era inceppato dal metro e dall’orditura musicale: né vidi quanto scabrosa fosse l’impresa che dopo aver acconsentito di tentarla. Alla difficoltà del soggetto si aggiunga quella dello stile che, a mio credere, io doveva adoperare: stile di cui non ho modelli, almeno ch’io sappia; che tien l’indole della prosa in un lavoro in versi: che vuolsi adattare all’angustia del dialogo, alla tinta dei tempi, alla natura dell’azione, ai caratteri che la svolgono, più comici la maggior parte, che tragici; stile insomma conveniente in un’opera ove il poeta deve nascondersi, e lasciar parlare ai personaggi il loro proprio linguaggio. Per osservare in certo qual modo l’unità del luogo, intitolo prologo l’azione che succede in Venezia: e tale può veramente chiamarsi, se mal non mi appongo, poiché è questa la protasi del soggetto, e produce la catastrofe che si svolge in Ferrara.Con questo avvertimento io non intendo por modo all’opinione del pubblico. Spetta ad esso il pronunciare, all’autore il rassegnarsi.Felice Romani</div>
+      <div type="act">
+        <head>Prologo</head>
+      </div>
+      <div type="act">
+        <head>[Preludio]</head>Scena primaTerrazzo nel palazzo Grimani in Venezia.Festa di notte. Alcune Maschere attraversano di tratto in tratto il teatro. Dai due lati del terrazzo si vede il palazzo splendidamente illuminato: in fondo il canale della Giudecca, sul quale si veggono passare ad intervalli nelle tenebre alcune gondole; in lontano Venezia al chiaror della luna. All’alzar del sipario la musica esprime la festa, che ha luogo nel palazzo. Di quando in quando vanno e vengono Signori e Dame magnificamente vestiti co’ la loro maschera alla mano. Alcune altre Maschere s’intrattengono parlando fra loro.Entrano in scena lietamente Gubetta, Gazella, Orsini, Petrucci, Vitellozzo e Liverotto. Quindi Gennaro che, com’uomo affaticato, si riposa sovra un sedile appartato dagli altri.<div type="scene">
+          <head>[Preludio]</head>Scena primaTerrazzo nel palazzo Grimani in Venezia.Festa di notte. Alcune Maschere attraversano di tratto in tratto il teatro. Dai due lati del terrazzo si vede il palazzo splendidamente illuminato: in fondo il canale della Giudecca, sul quale si veggono passare ad intervalli nelle tenebre alcune gondole; in lontano Venezia al chiaror della luna. All’alzar del sipario la musica esprime la festa, che ha luogo nel palazzo. Di quando in quando vanno e vengono Signori e Dame magnificamente vestiti co’ la loro maschera alla mano. Alcune altre Maschere s’intrattengono parlando fra loro.Entrano in scena lietamente Gubetta, Gazella, Orsini, Petrucci, Vitellozzo e Liverotto. Quindi Gennaro che, com’uomo affaticato, si riposa sovra un sedile appartato dagli altri. <stage>[Preludio]Scena primaTerrazzo nel palazzo Grimani in Venezia.Festa di notte. Alcune Maschere attraversano di tratto in tratto il teatro. Dai due lati del terrazzo si vede il palazzo splendidamente illuminato: in fondo il canale della Giudecca, sul quale si veggono passare ad intervalli nelle tenebre alcune gondole; in lontano Venezia al chiaror della luna. All’alzar del sipario la musica esprime la festa, che ha luogo nel palazzo. Di quando in quando vanno e vengono Signori e Dame magnificamente vestiti co’ la loro maschera alla mano. Alcune altre Maschere s’intrattengono parlando fra loro.Entrano in scena lietamente Gubetta, Gazella, Orsini, Petrucci, Vitellozzo e Liverotto. Quindi Gennaro che, com’uomo affaticato, si riposa sovra un sedile appartato dagli altri.</stage>
+          <sp who="#gazella">
+            <speaker>GAZELLA:</speaker>
+            <l>Bella Venezia!</l>
+          </sp>
+          <sp who="#petrucci">
+            <speaker>PETRUCCI:</speaker>
+            <l>Amabile</l>
+            <l>d’ogni piacer soggiorno!</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Men di sue notti è limpido</l>
+            <l>d’ogni altro cielo il giorno.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>E l’orator Grimani</l>
+            <l>noi seguirem domani!</l>
+            <l>Tali avrem mai delizie,</l>
+            <l>tai feste in riva al Po?</l>
+          </sp>
+          <sp who="#gubetta">
+            <speaker>GUBETTA:</speaker>
+            <l>(inoltrandosi)</l>
+            <l>Le avrem. D’Alfonso è splendida,</l>
+            <l>lieta la corte assai.</l>
+            <l>Lucrezia Borgia…</l>
+          </sp>
+          <stage>GUBETTA(inoltrandosi)Le avrem. D’Alfonso è splendida,lieta la corte assai.Lucrezia Borgia…</stage>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>(interrompendolo)</l>
+            <l>Acquetati:</l>
+            <l>non la nomar giammai.</l>
+          </sp>
+          <stage>ORSINI(interrompendolo)Acquetati:non la nomar giammai.</stage>
+          <sp who="#vitellozzo">
+            <speaker>VITELLOZZO:</speaker>
+            <l>Nome esecrato è questo.</l>
+          </sp>
+          <sp who="#liverotto">
+            <speaker>LIVEROTTO:</speaker>
+            <l>La Borgia! Io la detesto…</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Chi le sue colpe intendere,</l>
+            <l>e non odiar la può?</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Io più di tutti. Uditemi. ~</l>
+            <l>(tutti si accostano)</l>
+          </sp>
+          <stage>ORSINIIo più di tutti. Uditemi. ~(tutti si accostano)</stage>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Un vecchio… un indovino…</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>(interrompendolo)</l>
+            <l>Novellator perpetuo</l>
+            <l>esser vuoi dunque, Orsino?</l>
+            <l>Lascia la Borgia in pace:</l>
+            <l>udir di lei mi spiace…</l>
+          </sp>
+          <stage>GENNARO(interrompendolo)Novellator perpetuoesser vuoi dunque, Orsino?Lascia la Borgia in pace:udir di lei mi spiace…</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Taci… non l’interrompere…</l>
+            <l>breve il suo dir sarà.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Io dormirò: destatemi,</l>
+            <l>quando cessato avrà.</l>
+            <l>(si adagia, e a poco a poco si addormenta)</l>
+          </sp>
+          <stage>GENNAROIo dormirò: destatemi,quando cessato avrà.(si adagia, e a poco a poco si addormenta)</stage>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Nella fatal di Rimini</l>
+            <l>e memorabil guerra,</l>
+            <l>ferito e quasi esanime</l>
+            <l>io mi giaceva a terra…</l>
+            <l>Gennaro a me soccorse,</l>
+            <l>il suo destrier mi porse,</l>
+            <l>e in solitario bosco</l>
+            <l>mi trasse e mi salvò.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>La sua virtù conosco,</l>
+            <l>la sua pietade io so.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Là nella notte tacita,</l>
+            <l>lena pigliando e speme,</l>
+            <l>giurammo insiem di vivere,</l>
+            <l>e di morire insieme. ~</l>
+            <l>E insiem morrete, allora</l>
+            <l>voce gridò sonora:</l>
+            <l>e un veglio in veste nera</l>
+            <l>gigante a noi s’offrì.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Cielo! Qual mago egli era</l>
+            <l>per profetar così?</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Fuggite i Borgia, o giovani,</l>
+            <l>ei proseguì più forte…</l>
+            <l>Odio alla rea Lucrezia…</l>
+            <l>Dove è Lucrezia è morte…</l>
+            <l>Sparve ciò detto: e il vento</l>
+            <l>in suono di lamento</l>
+            <l>quel nome ch’io detesto</l>
+            <l>tre volte replicò!…</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Rio vaticinio è questo…</l>
+            <l>ma fé puoi dargli?… No.</l>
+            <l>Tutti.</l>
+          </sp>
+          <stage>TUTTIRio vaticinio è questo…ma fé puoi dargli?… No.Tutti.</stage>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Fede a fallaci oroscopi</l>
+            <l>l’anima mia non presta…</l>
+            <l>pur mio malgrado un palpito</l>
+            <l>tal sovvenir mi desta.</l>
+            <l>Spesso, dovunque io movo,</l>
+            <l>quel vecchio orrendo io trovo…</l>
+            <l>quella minaccia orribile</l>
+            <l>parmi la notte udir…</l>
+            <l>Te, mio Gennaro, invidio,</l>
+            <l>che puoi così dormir.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>GLI ALTRI</head>Bando a sì tristi immagini…passiam la notte in gioia.Assai quell’empia femminane diè tormento e noia.Finché il leon temutone porge asilo e aiuto,l’arte e il furor de’ Borgianon ci potran colpir…Vieni ~ la danza invitaci…lasciam costui dormir.(partono tutti traendo seco Orsini)Scena secondaPassa una gondola; n’esce una dama mascherata. È Lucrezia Borgia: s’inoltra guardinga. Vede Gennaro addormentato, e si appressa lui contemplandolo con piacere e rispetto. Gubetta ritorna.<sp who="#gli altri">
+            <speaker>GLI ALTRI:</speaker>
+            <l>Bando a sì tristi immagini…</l>
+            <l>passiam la notte in gioia.</l>
+            <l>Assai quell’empia femmina</l>
+            <l>ne diè tormento e noia.</l>
+            <l>Finché il leon temuto</l>
+            <l>ne porge asilo e aiuto,</l>
+            <l>l’arte e il furor de’ Borgia</l>
+            <l>non ci potran colpir…</l>
+            <l>Vieni ~ la danza invitaci…</l>
+            <l>lasciam costui dormir.</l>
+            <l>(partono tutti traendo seco Orsini)</l>
+            <l>Scena seconda</l>
+            <l>Passa una gondola; n’esce una dama mascherata. È Lucrezia Borgia: s’inoltra guardinga. Vede Gennaro addormentato, e si appressa lui contemplandolo con piacere e rispetto. Gubetta ritorna.</l>
+          </sp>
+          <stage>GLI ALTRIBando a sì tristi immagini…passiam la notte in gioia.Assai quell’empia femminane diè tormento e noia.Finché il leon temutone porge asilo e aiuto,l’arte e il furor de’ Borgianon ci potran colpir…Vieni ~ la danza invitaci…lasciam costui dormir.(partono tutti traendo seco Orsini)Scena secondaPassa una gondola; n’esce una dama mascherata. È Lucrezia Borgia: s’inoltra guardinga. Vede Gennaro addormentato, e si appressa lui contemplandolo con piacere e rispetto. Gubetta ritorna.</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Tranquillo ei posa. ~ Oh! sian così tranquille</l>
+            <l>sue notti sempre! E mai provar non debba</l>
+            <l>qual delle notti mie, quanto è il tormento!</l>
+            <l>(si accorge di Gubetta)</l>
+            <l>Sei tu!</l>
+          </sp>
+          <stage>LUCREZIATranquillo ei posa. ~ Oh! sian così tranquillesue notti sempre! E mai provar non debbaqual delle notti mie, quanto è il tormento!(si accorge di Gubetta)Sei tu!</stage>
+          <sp who="#gubetta">
+            <speaker>GUBETTA:</speaker>
+            <l>Son io. Pavento</l>
+            <l>che alcun vi scopra: ai giorni vostri, è vero,</l>
+            <l>scudo è Venezia; ma vietar non puote</l>
+            <l>che conosciuta non v’insulti alcuno.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>E insultata sarei ~ m’aborre ognuno!</l>
+            <l>Pur per sì trista sorte</l>
+            <l>nata io non era ~ Oh! Potess’io far tanto</l>
+            <l>che il passato non fosse, e in un cor solo</l>
+            <l>destare un senso di pietà che invano</l>
+            <l>in mia grandezza all’universo io chiedo! ~</l>
+            <l>Quel giovin vedi?</l>
+          </sp>
+          <sp who="#gubetta">
+            <speaker>GUBETTA:</speaker>
+            <l>Il vedo,</l>
+            <l>e da più dì lo seguo in finte spoglie</l>
+            <l>e in simulato nome; e indarno io tento</l>
+            <l>scoprir l’arcano che per lui vi tragge</l>
+            <l>da Ferrara a Venezia in tanta ambascia…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>LUCREZIA</head>Tu scoprirlo! ~ Non puoi. ~ Seco mi lascia.(Gubetta si ritira)Scena terzaLucrezia e Gennaro addormentato. Mentre Lucrezia si avvicina a Gennaro non si accorge di due Uomini mascherati che passano dal fondo, e si fermano in disparte.<sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Tu scoprirlo! ~ Non puoi. ~ Seco mi lascia.</l>
+            <l>(Gubetta si ritira)</l>
+            <l>Scena terza</l>
+            <l>Lucrezia e Gennaro addormentato. Mentre Lucrezia si avvicina a Gennaro non si accorge di due Uomini mascherati che passano dal fondo, e si fermano in disparte.</l>
+          </sp>
+          <stage>LUCREZIATu scoprirlo! ~ Non puoi. ~ Seco mi lascia.(Gubetta si ritira)Scena terzaLucrezia e Gennaro addormentato. Mentre Lucrezia si avvicina a Gennaro non si accorge di due Uomini mascherati che passano dal fondo, e si fermano in disparte.</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Come è bello!… Quale incanto</l>
+            <l>in quel volto onesto e altero!</l>
+            <l>No, giammai leggiadro tanto</l>
+            <l>non se ‘l finse il mio pensiero.</l>
+            <l>L’alma mia di gioia è piena</l>
+            <l>or che alfin lo può mirar…</l>
+            <l>Mi risparmia, o ciel, la pena,</l>
+            <l>ch’ei mi debba un dì sprezzar.</l>
+            <l>(piange)</l>
+            <l>Se il destassi!… No: non oso…</l>
+            <l>né scoprir il mio sembiante.</l>
+            <l>Pure il ciglio lagrimoso</l>
+            <l>terger debbo… un solo istante.</l>
+            <l>(si toglie la maschera e si asciuga le lagrime)</l>
+          </sp>
+          <stage>LUCREZIACome è bello!… Quale incantoin quel volto onesto e altero!No, giammai leggiadro tantonon se ‘l finse il mio pensiero.L’alma mia di gioia è pienaor che alfin lo può mirar…Mi risparmia, o ciel, la pena,ch’ei mi debba un dì sprezzar.(piange)Se il destassi!… No: non oso…né scoprir il mio sembiante.Pure il ciglio lagrimosoterger debbo… un solo istante.(si toglie la maschera e si asciuga le lagrime)</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Vedi? È dessa…</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>È dessa… è vero.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Chi è il garzone?</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Un venturiero.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Non ha patria?</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Né parenti,</l>
+            <l>ma è guerrier fra i più valenti.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Di condurlo adopra ogn’arte</l>
+            <l>a Ferrara in mio poter.</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Con Grimani all’alba ei parte…</l>
+            <l>ei previene il tuo pensier.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Mentre geme il cor sommesso,</l>
+            <l>mentre io piango a te d’appresso,</l>
+            <l>dormi, e sogna, o dolce oggetto,</l>
+            <l>sol di gioia e di diletto…</l>
+            <l>ed un angiol tutelare</l>
+            <l>non ti desti che al piacer!…</l>
+            <l>Triste notti, e veglie amare</l>
+            <l>debbo io sola sostener.</l>
+            <l>(si alza: i due mascherati si ritirano. Lucrezia ritorna indietro, e bacia la mano di Gennaro. Egli si desta, e l’afferra per le braccia)</l>
+          </sp>
+          <stage>LUCREZIAMentre geme il cor sommesso,mentre io piango a te d’appresso,dormi, e sogna, o dolce oggetto,sol di gioia e di diletto…ed un angiol tutelarenon ti desti che al piacer!…Triste notti, e veglie amaredebbo io sola sostener.(si alza: i due mascherati si ritirano. Lucrezia ritorna indietro, e bacia la mano di Gennaro. Egli si desta, e l’afferra per le braccia)</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Ciel!</l>
+            <l>(per sciogliersi da lui)</l>
+          </sp>
+          <stage>LUCREZIACiel!(per sciogliersi da lui)</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Che vegg’io?</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Lasciatemi.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>No, no, gentil signora!</l>
+            <l>No, per mia fede!</l>
+            <l>(trattenendola)</l>
+          </sp>
+          <stage>GENNARONo, no, gentil signora!No, per mia fede!(trattenendola)</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Io palpito.)</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Ch’io vi contempli ancora!</l>
+            <l>Leggiadra e amabil siete;</l>
+            <l>né paventar dovete</l>
+            <l>che ingrato ed insensibile</l>
+            <l>per voi si trovi un cor.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Gennaro!… E fia possibile,</l>
+            <l>che a me tu porti amor?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Qual dubbio è il vostro?</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Ah! Dimmelo.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Sì, quanto lice io v’amo.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Oh gioia!)</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Eppure… uditemi…</l>
+            <l>Esser verace io bramo.</l>
+            <l>Avvi un più caro oggetto,</l>
+            <l>cui nutro immenso affetto.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>E ti è di me più caro!</l>
+            <l>Chi mai?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Mia madre ell’è.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Tua madre!… O mio Gennaro!</l>
+            <l>Tu l’ami?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Ah, più di me!</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Ed ella?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Ah compiangetemi…</l>
+            <l>Io non la vidi mai.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Come?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>È funesta istoria,</l>
+            <l>che sempre altrui celai.</l>
+            <l>Ma son da ignoto istinto</l>
+            <l>a dirla a voi sospinto,</l>
+            <l>alma cortese e bella</l>
+            <l>nel vostro volto appar.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Tenero cor!) Favella…</l>
+            <l>tutto mi puoi narrar.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Di pescatore ignobile</l>
+            <l>esser figliuol credei:</l>
+            <l>e seco oscuri in Napoli</l>
+            <l>vissi i prim’anni miei… ~</l>
+            <l>quando un guerriero incognito</l>
+            <l>venne d’inganno a trarmi:</l>
+            <l>mi diè cavallo ed armi,</l>
+            <l>e un foglio a me lasciò.</l>
+            <l>Era mia madre, ahi misera!</l>
+            <l>Mia madre che scrivea…</l>
+            <l>di rio possente vittima,</l>
+            <l>per sé, per me temea…</l>
+            <l>di non parlar, né chiedere</l>
+            <l>il nome suo qual era</l>
+            <l>calda mi fea preghiera,</l>
+            <l>ed obbedita io l’ho.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>E il foglio suo?…</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Miratelo.</l>
+            <l>Mai dal mio cor non parte.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Oh quante amare lagrime</l>
+            <l>forse in vergarlo ha sparte!</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Ed io, signora! oh quanto</l>
+            <l>su quelle cifre ho pianto!</l>
+            <l>Ma che! Voi pur piangete?</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Ah! Sì… per lei… per te.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Alma gentil! Voi siete</l>
+            <l>ancor più cara a me.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Ama tua madre, e tenero</l>
+            <l>sempre per lei ti serba…</l>
+            <l>prega che l’ira plachisi</l>
+            <l>della sua sorte acerba…</l>
+            <l>prega che un giorno stringere</l>
+            <l>ella ti possa al cor.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>L’amo, sì l’amo, e sembrami</l>
+            <l>vederla in ogni oggetto…</l>
+            <l>una soave immagine</l>
+            <l>me n’ho formata in petto:</l>
+            <l>seco, dormente o vigile,</l>
+            <l>seco io favello ognor.</l>
+            <l>(si avvicinano da varie parti le maschere: escono paggi con torce, che accompagnano dame e cavalieri. Orsini entra dal fondo accompagnato da’ suoi amici)</l>
+          </sp>
+          <stage>GENNAROL’amo, sì l’amo, e sembramivederla in ogni oggetto…una soave immagineme n’ho formata in petto:seco, dormente o vigile,seco io favello ognor.(si avvicinano da varie parti le maschere: escono paggi con torce, che accompagnano dame e cavalieri. Orsini entra dal fondo accompagnato da’ suoi amici)</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Gente appressa… io ti lascio.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>(trattenendola)</l>
+            <l>Ah! Fermate.</l>
+          </sp>
+          <stage>GENNARO(trattenendola)Ah! Fermate.</stage>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>(riconosce Lucrezia, l’addita ai compagni e seco loro favella)</l>
+            <l>Chi mai veggo?</l>
+          </sp>
+          <stage>ORSINI(riconosce Lucrezia, l’addita ai compagni e seco loro favella)Chi mai veggo?</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Mi è forza lasciarti.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Deh! Chi siete almen dirmi degnate…</l>
+            <l>(sempre trattenendola)</l>
+          </sp>
+          <stage>GENNARODeh! Chi siete almen dirmi degnate…(sempre trattenendola)</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Tal che t’ama, e sua vita è l’amarti.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Io dirollo.</l>
+            <l>(inoltrandosi)</l>
+          </sp>
+          <stage>ORSINIIo dirollo.(inoltrandosi)</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Gran dio!</l>
+            <l>(si copre co’ la maschera e vuole allontanarsi)</l>
+          </sp>
+          <stage>LUCREZIAGran dio!(si copre co’ la maschera e vuole allontanarsi)</stage>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>(opponendosi)</l>
+            <l>Non partite.</l>
+            <l>Forza è udirne…</l>
+            <l>(riconducendola)</l>
+          </sp>
+          <stage>ORSINI(opponendosi)Non partite.Forza è udirne…(riconducendola)</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Gennaro!</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Che ardite?</l>
+            <l>S’avvi alcun d’insultarla capace,</l>
+            <l>di Gennaro più amico non è.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Chi siam noi sol chiarirla ne piace.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Oh cimento!)</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>E poi fugga da te.</l>
+            <l>Maffio Orsini, signora, son io,</l>
+            <l>cui svenaste il dormente fratello.</l>
+          </sp>
+          <sp who="#vitellozzo">
+            <speaker>VITELLOZZO:</speaker>
+            <l>Io Vitelli, cui feste lo zio</l>
+            <l>trucidar nel rapito castello.</l>
+          </sp>
+          <sp who="#liverotto">
+            <speaker>LIVEROTTO:</speaker>
+            <l>Io nepote d’Appiano tradito,</l>
+            <l>da voi spento in infame convito.</l>
+          </sp>
+          <sp who="#petrucci">
+            <speaker>PETRUCCI:</speaker>
+            <l>Io Petrucci del conte cugino,</l>
+            <l>cui toglieste di Siena il domino.</l>
+          </sp>
+          <sp who="#gazella">
+            <speaker>GAZELLA:</speaker>
+            <l>Io congiunto d’oppresso consorte,</l>
+            <l>che vedeste nel Tebro perir.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>(Ciel! Che ascolto!)</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Oh malvagia mia sorte!)</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Qual rea donna?</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Ove fuggo? Che dir?)</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Or che a lei l’esser nostro è palese,</l>
+            <l>odi il suo…</l>
+          </sp>
+          <sp who="#gennaro e coro">
+            <speaker>GENNARO E CORO:</speaker>
+            <l>Dite, dite.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Ah! pietade.</l>
+          </sp>
+          <sp who="#gennaro, orsini, liverotto, vitellozzo e petrucci">
+            <speaker>GENNARO, ORSINI, LIVEROTTO, VITELLOZZO E PETRUCCI:</speaker>
+            <l>Ella è donna che infame si rese,</l>
+            <l>che l’orrore sarà d’ogni etade…</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Grazia! Grazia!…</l>
+          </sp>
+          <sp who="#gennaro, orsini, liverotto, vitellozzo e petrucci">
+            <speaker>GENNARO, ORSINI, LIVEROTTO, VITELLOZZO E PETRUCCI:</speaker>
+            <l>Mendace, spergiura,</l>
+            <l>traditrice, venefica, impura…</l>
+            <l>come odiata, è temuta del paro,</l>
+            <l>ché potente il destino la fa.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Oh! Chi è mai?</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Non udirli, o Gennaro!…</l>
+            <l>(supplichevole a’ suoi piedi)</l>
+          </sp>
+          <stage>LUCREZIANon udirli, o Gennaro!…(supplichevole a’ suoi piedi)</stage>
+          <sp who="#gennaro, orsini, liverotto, vitellozzo e petrucci">
+            <speaker>GENNARO, ORSINI, LIVEROTTO, VITELLOZZO E PETRUCCI:</speaker>
+            <l>È la Borgia… ravvisala…</l>
+            <l>(strappano la maschera)</l>
+          </sp>
+          <stage>GENNARO, ORSINI, LIVEROTTO, VITELLOZZO E PETRUCCIÈ la Borgia… ravvisala…(strappano la maschera)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>TUTTI</head>(con grido d’orrore)Ah!…(Lucrezia sviene)Atto primoScena primaUna piazza di Ferrara.Da un lato con un verone, sotto al quale uno stemma di marmo, ove è scritto con caratteri visibili di rame dorato: «BORGIA». Dall’altro una piccola casa coll’uscio sulla strada, le cui finestre sono illuminate di dentro. Notte.Il duca Alfonso e Rustighello coperti da lungo manto.<div type="scene">
+          <head>TUTTI</head>(con grido d’orrore)Ah!…(Lucrezia sviene)Atto primoScena primaUna piazza di Ferrara.Da un lato con un verone, sotto al quale uno stemma di marmo, ove è scritto con caratteri visibili di rame dorato: «BORGIA». Dall’altro una piccola casa coll’uscio sulla strada, le cui finestre sono illuminate di dentro. Notte.Il duca Alfonso e Rustighello coperti da lungo manto.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(con grido d’orrore)</l>
+            <l>Ah!…</l>
+            <l>(Lucrezia sviene)</l>
+            <l>Atto primo</l>
+            <l>Scena prima</l>
+            <l>Una piazza di Ferrara.</l>
+            <l>Da un lato con un verone, sotto al quale uno stemma di marmo, ove è scritto con caratteri visibili di rame dorato: «BORGIA». Dall’altro una piccola casa coll’uscio sulla strada, le cui finestre sono illuminate di dentro. Notte.</l>
+            <l>Il duca Alfonso e Rustighello coperti da lungo manto.</l>
+          </sp>
+          <stage>TUTTI(con grido d’orrore)Ah!…(Lucrezia sviene)Atto primoScena primaUna piazza di Ferrara.Da un lato con un verone, sotto al quale uno stemma di marmo, ove è scritto con caratteri visibili di rame dorato: «BORGIA». Dall’altro una piccola casa coll’uscio sulla strada, le cui finestre sono illuminate di dentro. Notte.Il duca Alfonso e Rustighello coperti da lungo manto.</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Nel veneto corteggio</l>
+            <l>lo ravvisasti?</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>E me gli posi al fianco,</l>
+            <l>e lo seguii come se l’ombra io fossi</l>
+            <l>del corpo suo. ~ Quello è il suo tetto.</l>
+            <l>(addita la casa di Gennaro, ancora illuminata)</l>
+          </sp>
+          <stage>RUSTIGHELLOE me gli posi al fianco,e lo seguii come se l’ombra io fossidel corpo suo. ~ Quello è il suo tetto.(addita la casa di Gennaro, ancora illuminata)</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Quello?</l>
+            <l>Appo il ducale ostello</l>
+            <l>Lucrezia il volle!</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>E in esso ancora il vuole,</l>
+            <l>se non m’inganna di quel vil Gubetta</l>
+            <l>l’ire e il redir, e lo spiar furtivo.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Entrarvi ci puote, non ne uscir mai vivo.</l>
+            <l>Odi?</l>
+            <l>(odonsi voci e suoni dalla casa di Gennaro)</l>
+          </sp>
+          <stage>ALFONSOEntrarvi ci puote, non ne uscir mai vivo.Odi?(odonsi voci e suoni dalla casa di Gennaro)</stage>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Gli amici in festa</l>
+            <l>tutta notte accoglieva in quelle porte</l>
+            <l>il giovin folle. Separarsi all’alba</l>
+            <l>essi han costume.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>E l’ultim’alba è questa,</l>
+            <l>che al temerario splende;</l>
+            <l>l’ultimo addio che dagli amici ei prende.</l>
+            <l>Vieni: la mia vendetta</l>
+            <l>è meditata e pronta:</l>
+            <l>ei l’assicura e affretta</l>
+            <l>col cieco suo fidar.</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Ma se l’altier Grimani</l>
+            <l>là si recasse ad onta?…</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Mai per cotesti insani</l>
+            <l>me non vorria sfidar.</l>
+            <l>Qualunque sia l’evento</l>
+            <l>che può recar fortuna,</l>
+            <l>nemico io non pavento</l>
+            <l>l’altero ambasciador.</l>
+            <l>Non sempre chiusa a’ popoli</l>
+            <l>fu la fatal laguna:</l>
+            <l>e ad oltraggiato principe</l>
+            <l>aprir si puote ancor.</l>
+            <l>(le voci si fan più vicine, si spengono i lumi, ecc.)</l>
+          </sp>
+          <stage>ALFONSOMai per cotesti insanime non vorria sfidar.Qualunque sia l’eventoche può recar fortuna,nemico io non paventol’altero ambasciador.Non sempre chiusa a’ popolifu la fatal laguna:e ad oltraggiato principeaprir si puote ancor.(le voci si fan più vicine, si spengono i lumi, ecc.)</stage>
+        </div>
+        <div type="scene">
+          <head>RUSTIGHELLO</head>Prendon commiato i giovani…meglio è partir, signor.(si ritirano)Scena secondaGennaro, Orsini, Liverotto, Petrucci, Gazella, Vitellozzo. Escono tutti lieti dalla casa di Gennaro. Egli solo è pensoso. Gubetta si fa vedere in disparte.<sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Prendon commiato i giovani…</l>
+            <l>meglio è partir, signor.</l>
+            <l>(si ritirano)</l>
+            <l>Scena seconda</l>
+            <l>Gennaro, Orsini, Liverotto, Petrucci, Gazella, Vitellozzo. Escono tutti lieti dalla casa di Gennaro. Egli solo è pensoso. Gubetta si fa vedere in disparte.</l>
+          </sp>
+          <stage>RUSTIGHELLOPrendon commiato i giovani…meglio è partir, signor.(si ritirano)Scena secondaGennaro, Orsini, Liverotto, Petrucci, Gazella, Vitellozzo. Escono tutti lieti dalla casa di Gennaro. Egli solo è pensoso. Gubetta si fa vedere in disparte.</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Addio, Gennaro.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>(con serietà)</l>
+            <l>Addio,</l>
+            <l>nobili amici.</l>
+          </sp>
+          <stage>GENNARO(con serietà)Addio,nobili amici.</stage>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>E che? Degg’io sì mesto</l>
+            <l>mirarti ognor?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Mesto!… Non già. (Potessi,</l>
+            <l>se non vederti, almen giovarti, o madre!)</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Mille beltà leggiadre</l>
+            <l>saran stasera al genial festino,</l>
+            <l>cui la gentil ne invita</l>
+            <l>principessa Negroni. Ove qualcuno</l>
+            <l>obliato avess’ella, a me lo dica:</l>
+            <l>di riparar l’errore è pensier mio…</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Tutti fummo invitati.</l>
+          </sp>
+          <sp who="#gubetta">
+            <speaker>GUBETTA:</speaker>
+            <l>(inoltrandosi)</l>
+            <l>E il sono anch’io.</l>
+          </sp>
+          <stage>GUBETTA(inoltrandosi)E il sono anch’io.</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Oh! Il signor Beverana!</l>
+            <l>(tutti gli vanno incontro, tranne Gennaro e Orsini)</l>
+          </sp>
+          <stage>TUTTIOh! Il signor Beverana!(tutti gli vanno incontro, tranne Gennaro e Orsini)</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>(ad Orsini)</l>
+            <l>Da per tutto è costui! Già da gran tempo</l>
+            <l>ei mi è sospetto.</l>
+          </sp>
+          <stage>GENNARO(ad Orsini)Da per tutto è costui! Già da gran tempoei mi è sospetto.</stage>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Oh, non temer: uom lieto,</l>
+            <l>e, qual siam tutti, uno sventato è desso.</l>
+          </sp>
+          <sp who="#liverotto">
+            <speaker>LIVEROTTO:</speaker>
+            <l>Or via! Così dimesso</l>
+            <l>io non ti vo’ Gennaro.</l>
+          </sp>
+          <sp who="#gazella">
+            <speaker>GAZELLA:</speaker>
+            <l>Ammaliato</l>
+            <l>t’avria forse la Borgia?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>E ognor di lei</l>
+            <l>v’udrò parlarmi? Giuro al ciel, signori,</l>
+            <l>scherzi non voglio. Uomo non v’ha che aborra</l>
+            <l>al par di me costei.</l>
+          </sp>
+          <sp who="#petrucci">
+            <speaker>PETRUCCI:</speaker>
+            <l>Tacete. È quello</l>
+            <l>il suo palazzo.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>E il sia. Stamparle in fronte</l>
+            <l>vorrei l’infamia, che a stampar son pronto</l>
+            <l>su quelle mura dove scritto è «Borgia».</l>
+            <l>(ascende un gradino innanzi allo stemma, e col suo pugnale ne cancella la prima lettera. In quel mentre escono dal fondo due uomini vestiti di nero)</l>
+          </sp>
+          <stage>GENNAROE il sia. Stamparle in frontevorrei l’infamia, che a stampar son prontosu quelle mura dove scritto è «Borgia».(ascende un gradino innanzi allo stemma, e col suo pugnale ne cancella la prima lettera. In quel mentre escono dal fondo due uomini vestiti di nero)</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Che fai?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Leggete adesso.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Oh diamin! Orgia!</l>
+          </sp>
+          <stage>TUTTIOh diamin! Orgia!</stage>
+          <sp who="#gubetta">
+            <speaker>GUBETTA:</speaker>
+            <l>Una facezia è questa,</l>
+            <l>che può costar domani</l>
+            <l>ben cara a molti.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Ove del reo si chieda,</l>
+            <l>me stesso a palesar pronto son io.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Qualcun ci osserva… separiamci.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TUTTI</head>Addio.(Gennaro rientra in sua casa. Gli altri si disperdono)Scena terzaAstolfo e Rustighello ambedue passeggiando, indi Scherani.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Addio.</l>
+            <l>(Gennaro rientra in sua casa. Gli altri si disperdono)</l>
+            <l>Scena terza</l>
+            <l>Astolfo e Rustighello ambedue passeggiando, indi Scherani.</l>
+          </sp>
+          <stage>TUTTIAddio.(Gennaro rientra in sua casa. Gli altri si disperdono)Scena terzaAstolfo e Rustighello ambedue passeggiando, indi Scherani.</stage>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Qui che fai?</l>
+          </sp>
+          <sp who="#astolfo">
+            <speaker>ASTOLFO:</speaker>
+            <l>Che tu te n’ vada,</l>
+            <l>questo aspetto. ~ E tu che fai?</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Che tu sgombri la contrada</l>
+            <l>fermo attendo.</l>
+          </sp>
+          <sp who="#astolfo">
+            <speaker>ASTOLFO:</speaker>
+            <l>Con chi l’hai?</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Con quel giovane straniero</l>
+            <l>che ha qui stanza. ~ E tu con chi?</l>
+          </sp>
+          <sp who="#astolfo">
+            <speaker>ASTOLFO:</speaker>
+            <l>Con quel giovin forestiero</l>
+            <l>che pur esso alberga qui.</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Dove il guidi?</l>
+          </sp>
+          <sp who="#astolfo">
+            <speaker>ASTOLFO:</speaker>
+            <l>Alla duchessa.</l>
+            <l>E tu dove?</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Al duca appresso.</l>
+          </sp>
+          <sp who="#astolfo">
+            <speaker>ASTOLFO:</speaker>
+            <l>Oh! La via non è l’istessa.</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Né conduce al fine istesso.</l>
+          </sp>
+          <sp who="#astolfo">
+            <speaker>ASTOLFO:</speaker>
+            <l>Una a festa…</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>L’altra a morte…</l>
+            <l>delle due qual s’aprirà?</l>
+          </sp>
+          <sp who="#astolfo e rustighello">
+            <speaker>ASTOLFO E RUSTIGHELLO:</speaker>
+            <l>Del più destro, o del più forte</l>
+            <l>del voler dipenderà.</l>
+            <l>(Rustighello fa un segno dal cantone della strada. Entra un drappello di scherani, i quali circondano Astolfo)</l>
+          </sp>
+          <stage>ASTOLFO E RUSTIGHELLODel più destro, o del più fortedel voler dipenderà.(Rustighello fa un segno dal cantone della strada. Entra un drappello di scherani, i quali circondano Astolfo)</stage>
+          <sp who="#rustighello e coro">
+            <speaker>RUSTIGHELLO E CORO:</speaker>
+            <l>Non far motto: parti, sgombra.</l>
+            <l>Il più forte appien lo scorgi.</l>
+            <l>Guai per te se appena un’ombra</l>
+            <l>di sospetto a lui tu porgi!…</l>
+            <l>Solo Alfonso ancor qui regge:</l>
+            <l>somma legge è il suo voler.</l>
+          </sp>
+          <sp who="#astolfo">
+            <speaker>ASTOLFO:</speaker>
+            <l>Ma il furor della duchessa…</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Taci, e d’essa ~ non temer.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Al suo nome, alla sua fama</l>
+            <l>fe’ l’audace estrema offesa:</l>
+            <l>vendicarsi il duca brama:</l>
+            <l>impedirlo è stolta impresa.</l>
+            <l>Se da saggio oprar tu vuoi,</l>
+            <l>déi piegar, partir, tacer.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ASTOLFO</head>Parto, sì… che avvenga poivostro sia, non mio pensier.(Astolfo si ritira. Rustighello e gli scherani atterran le porte della casa di Gennaro)Scena quartaSala nel palazzo ducale.Gran porta in fondo. A diritta un uscio chiuso da invetriata. A sinistra un altr’uscio segreto. Tavolino nel mezzo coperto di velluto.Alfonso, poi Rustighello, indi un Usciere.<sp who="#astolfo">
+            <speaker>ASTOLFO:</speaker>
+            <l>Parto, sì… che avvenga poi</l>
+            <l>vostro sia, non mio pensier.</l>
+            <l>(Astolfo si ritira. Rustighello e gli scherani atterran le porte della casa di Gennaro)</l>
+            <l>Scena quarta</l>
+            <l>Sala nel palazzo ducale.</l>
+            <l>Gran porta in fondo. A diritta un uscio chiuso da invetriata. A sinistra un altr’uscio segreto. Tavolino nel mezzo coperto di velluto.</l>
+            <l>Alfonso, poi Rustighello, indi un Usciere.</l>
+          </sp>
+          <stage>ASTOLFOParto, sì… che avvenga poivostro sia, non mio pensier.(Astolfo si ritira. Rustighello e gli scherani atterran le porte della casa di Gennaro)Scena quartaSala nel palazzo ducale.Gran porta in fondo. A diritta un uscio chiuso da invetriata. A sinistra un altr’uscio segreto. Tavolino nel mezzo coperto di velluto.Alfonso, poi Rustighello, indi un Usciere.</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Tutto eseguisti?</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Tutto. Il prigioniero</l>
+            <l>qui presso attende.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Or bada. A quella in fondo</l>
+            <l>segreta sala, della statua a piedi</l>
+            <l>dell’avol mio, riposti armadi schiude</l>
+            <l>quest’aurea chiave. Ivi d’argento un vaso</l>
+            <l>e un d’or vedrai. Nella propinqua stanza</l>
+            <l>ambi gli reca… né desio ti tenti</l>
+            <l>dell’aureo vaso: ~ Vin de’ Borgia è desso. ~</l>
+            <l>Attendi. ~ All’uscio appresso</l>
+            <l>tienti di spada armato. ~ Ov’io ti chiami</l>
+            <l>i vasi apporta; ov’altro cenno intendi,</l>
+            <l>col ferro accorri.</l>
+            <l>USCIERE</l>
+            <l>(annuncia dalla porta di fondo)</l>
+            <l>La duchessa.</l>
+          </sp>
+          <stage>ALFONSOOr bada. A quella in fondosegreta sala, della statua a piedidell’avol mio, riposti armadi schiudequest’aurea chiave. Ivi d’argento un vasoe un d’or vedrai. Nella propinqua stanzaambi gli reca… né desio ti tentidell’aureo vaso: ~ Vin de’ Borgia è desso. ~Attendi. ~ All’uscio appressotienti di spada armato. ~ Ov’io ti chiamii vasi apporta; ov’altro cenno intendi,col ferro accorri.USCIERE(annuncia dalla porta di fondo)La duchessa.</stage>
+        </div>
+        <div type="scene">
+          <head>ALFONSO</head>Affretta.(Rustighello parte; poco dopo si fa vedere passeggiando dall’invetriata)Scena quintaLucrezia e detto, indi Gennaro fra le Guardie.<sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Affretta.</l>
+            <l>(Rustighello parte; poco dopo si fa vedere passeggiando dall’invetriata)</l>
+            <l>Scena quinta</l>
+            <l>Lucrezia e detto, indi Gennaro fra le Guardie.</l>
+          </sp>
+          <stage>ALFONSOAffretta.(Rustighello parte; poco dopo si fa vedere passeggiando dall’invetriata)Scena quintaLucrezia e detto, indi Gennaro fra le Guardie.</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Così turbata?</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>A voi mi trae vendetta.</l>
+            <l>Colpa inaudita, infame,</l>
+            <l>a denunziarvi io vengo. Avvi in Ferrara</l>
+            <l>chi della vostra sposa a pien meriggio</l>
+            <l>oltraggia il nome, e mutilarlo ardisce.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Mi è noto.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>E no ‘l punisce</l>
+            <l>e il soffre Alfonso in vita?</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>A noi dinanzi</l>
+            <l>tosto ei sia tratto.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Qual ei sia, pretendo</l>
+            <l>che morte egli abbia, e al mio cospetto; e sacra</l>
+            <l>ducal parola al vostro amor ne chiedo.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>E sacra io dolla. ~ Il prigionier.</l>
+            <l>(all’usciere)</l>
+            <l>(si presenta immantinente Gennaro disarmato fra le guardie)</l>
+          </sp>
+          <stage>ALFONSOE sacra io dolla. ~ Il prigionier.(all’usciere)(si presenta immantinente Gennaro disarmato fra le guardie)</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(turbata al vederlo)</l>
+            <l>(Chi vedo!)</l>
+          </sp>
+          <stage>LUCREZIA(turbata al vederlo)(Chi vedo!)</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>(con un sorriso)</l>
+            <l>Noto vi è desso!</l>
+          </sp>
+          <stage>ALFONSO(con un sorriso)Noto vi è desso!</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Oh ciel! Gennaro! Ahi quale</l>
+            <l>fatalità!)</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>L’altezza vostra, o duca,</l>
+            <l>toglier mi fece dal mio tetto a forza</l>
+            <l>da gente armata. ~ Chieder posso, io spero,</l>
+            <l>dond’io mertai questo rigore estremo.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Capitano, appressate.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Io gelo… io tremo…)</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Un temerario osava</l>
+            <l>testé, di giorno, dal ducal palazzo</l>
+            <l>con man profana cancellar l’augusto</l>
+            <l>nome di Borgia. ~ Il reo si cerca.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Il reo</l>
+            <l>non è costui.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Donde il sapete?</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Egli era</l>
+            <l>stamane altrove… Alcun de’ suoi compagni</l>
+            <l>commise il fallo.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Non è ver.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>L’udite?</l>
+            <l>Siate sicero, e dite</l>
+            <l>se il reo voi siete.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Uso a mentir non sono;</l>
+            <l>ché della vita istessa</l>
+            <l>più caro ho l’onor mio.</l>
+            <l>Duca Alfonso, il confesso… il reo son io.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Misera me!)</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>(piano a Lucrezia)</l>
+            <l>Vi diedi</l>
+            <l>la mia ducal parola.</l>
+          </sp>
+          <stage>ALFONSO(piano a Lucrezia)Vi diedila mia ducal parola.</stage>
+        </div>
+        <div type="scene">
+          <head>LUCREZIA</head>Alcuni istantifavellarvi in segreto, Alfonso, io bramo.(Deh! Secondami, o ciel!)(ad un cenno d’Alfonso Gennaro è ricondotto)Scena sestaLucrezia ed Alfonso.<sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Alcuni istanti</l>
+            <l>favellarvi in segreto, Alfonso, io bramo.</l>
+            <l>(Deh! Secondami, o ciel!)</l>
+            <l>(ad un cenno d’Alfonso Gennaro è ricondotto)</l>
+            <l>Scena sesta</l>
+            <l>Lucrezia ed Alfonso.</l>
+          </sp>
+          <stage>LUCREZIAAlcuni istantifavellarvi in segreto, Alfonso, io bramo.(Deh! Secondami, o ciel!)(ad un cenno d’Alfonso Gennaro è ricondotto)Scena sestaLucrezia ed Alfonso.</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Soli noi siamo.</l>
+            <l>Che chiedete?…</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Vi chiedo, o signore,</l>
+            <l>di quel giovane illesa la vita.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Come? E dianzi cotanto rigore?</l>
+            <l>L’ira vostra è sì tosto sparita?</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Fu capriccio… A che giova ch’ei mora?</l>
+            <l>Giovin tanto!… Perdono gli do!</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>La mia fede io vi diedi, o signora,</l>
+            <l>né a mia fede giammai fallirò.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Don Alfonso!… Favore ben lieve</l>
+            <l>voi negate a sovrana… a consorte!</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Chi v’offese irne impune non deve…</l>
+            <l>voi chiedeste, io giurai la sua morte.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Perdoniam: siam clementi del paro…</l>
+            <l>la clemenza è regale virtù.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>No, non posso…</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>E sì avverso a Gennaro</l>
+            <l>chi vi fa, caro Alfonso?…</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>(prorompendo)</l>
+            <l>Chi?… Tu.</l>
+          </sp>
+          <stage>ALFONSO(prorompendo)Chi?… Tu.</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Io? Che dite?</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Tu l’ami…</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Che ascolto!</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Sì, tu l’ami: in Venezia il seguisti.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Giusto cielo!)</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Anche adesso nel volto</l>
+            <l>ti leggea l’empio ardor che nudristi.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Don Alfonso!</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>T’acqueta.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Io vi giuro…</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Non macchiarti di nuovo spergiuro.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Don Alfonso!…</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>È omai tempo ch’io prenda</l>
+            <l>de’ miei torti vendetta tremenda;</l>
+            <l>e tremenda da questo momento</l>
+            <l>sul tuo complice infame cadrà.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Grazia, Alfonso!…</l>
+            <l>(inginocchiandosi)</l>
+          </sp>
+          <stage>LUCREZIAGrazia, Alfonso!…(inginocchiandosi)</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>L’indegno vo’ spento.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Per pietà…</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Più non odo pietà.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(sorgendo)</l>
+            <l>Oh! A te bada… a te stesso pon mente,</l>
+            <l>di Lucrezia mal cauto marito!</l>
+            <l>Omai troppo m’hai visto piangente:</l>
+            <l>questo core omai troppo è ferito.</l>
+            <l>Al dolore sottentra la rabbia…</l>
+            <l>ti potria far la Borgia pentir.</l>
+          </sp>
+          <stage>LUCREZIA(sorgendo)Oh! A te bada… a te stesso pon mente,di Lucrezia mal cauto marito!Omai troppo m’hai visto piangente:questo core omai troppo è ferito.Al dolore sottentra la rabbia…ti potria far la Borgia pentir.</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Mi sei nota: né porre in oblio</l>
+            <l>chi sei tu, se il volessi, potrei.</l>
+            <l>Ma tu pensa che il duca son io,</l>
+            <l>che in Ferrara, e in mia mano tu sei…</l>
+            <l>Io ti lascio la scelta s’egli abbia</l>
+            <l>di veleno o di spada a perir.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Scegli.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(fuori di sé)</l>
+            <l>Oh! Dio! Dio possente!</l>
+          </sp>
+          <stage>LUCREZIA(fuori di sé)Oh! Dio! Dio possente!</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Trafitto</l>
+            <l>tosto ei sia.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Deh! T’arresta.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Ch’ei cada.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Non commetter sì nero delitto…</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Scegli, scegli…</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Ah, non muoia di spada!</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Sii prudente: d’appresso io ti sono…</l>
+            <l>nulla speme ti è dato nutrir.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>LUCREZIA</head>L’infelice al suo fato abbandono…uom crudele!… Io mi sento morir…(cade sopra una sedia. Alfonso accenna alle guardie)Scena settimaGennaro ritorna fra i Custodi. Indi Rustighello.<sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>L’infelice al suo fato abbandono…</l>
+            <l>uom crudele!… Io mi sento morir…</l>
+            <l>(cade sopra una sedia. Alfonso accenna alle guardie)</l>
+            <l>Scena settima</l>
+            <l>Gennaro ritorna fra i Custodi. Indi Rustighello.</l>
+          </sp>
+          <stage>LUCREZIAL’infelice al suo fato abbandono…uom crudele!… Io mi sento morir…(cade sopra una sedia. Alfonso accenna alle guardie)Scena settimaGennaro ritorna fra i Custodi. Indi Rustighello.</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Della duchessa ai preghi</l>
+            <l>che il vostro fallo oblia,</l>
+            <l>è forza pur ch’io pieghi,</l>
+            <l>e libertà vi dia.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Oh! Come ei finge!)</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>E poi</l>
+            <l>tanto è valore in voi,</l>
+            <l>che d’Adria il mar privarne,</l>
+            <l>e Italia insiem, non vo’!</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Perfido!)</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Quai so darne,</l>
+            <l>grazie, signor, ve n’ do!</l>
+            <l>Pur, poiché dirlo è dato</l>
+            <l>senza temer viltade…</l>
+            <l>in uom che l’ha mertato,</l>
+            <l>il beneficio cade.</l>
+            <l>Di vostra altezza il padre</l>
+            <l>cinto da avverse squadre</l>
+            <l>peria, se scudo e aita</l>
+            <l>non gli era un avventurier.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>E quel voi siete?</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(sorgendo)</l>
+            <l>E vita</l>
+            <l>voi gli serbaste?</l>
+          </sp>
+          <stage>LUCREZIA(sorgendo)E vitavoi gli serbaste?</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>È ver.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Duca!…</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>(L’indegna spera.)</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>S’ei si mutasse!</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>(È vano.)</l>
+            <l>Seguir la mia bandiera</l>
+            <l>vorreste, o capitano?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Al veneto governo</l>
+            <l>nodo mi stringe eterno:</l>
+            <l>mia fede io gli giurai…</l>
+            <l>e sacro è un giuro.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>(volgendosi con intenzione a Lucrezia)</l>
+            <l>Il so.</l>
+            <l>Quest’oro almeno…</l>
+            <l>(presentandogli una borsa)</l>
+          </sp>
+          <stage>ALFONSO(volgendosi con intenzione a Lucrezia)Il so.Quest’oro almeno…(presentandogli una borsa)</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Assai</l>
+            <l>da’ miei signori io n’ho.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Almen, siccome antico</l>
+            <l>stile è fra noi degli avi,</l>
+            <l>libare a nappo amico</l>
+            <l>spero che a voi non gravi…</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Sommo per me favore</l>
+            <l>questo sarà, signore…</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Gentil la mia consorte</l>
+            <l>coppiera a noi sarà.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Stato peggior di morte!)</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>(prendendola per mano)</l>
+            <l>Meco, o duchessa… Olà.</l>
+            <l>(esce Rustighello)</l>
+          </sp>
+          <stage>ALFONSO(prendendola per mano)Meco, o duchessa… Olà.(esce Rustighello)</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>(Guai se ti sfugge un moto,</l>
+            <l>se ti tradisce un detto!</l>
+            <l>Uscir dal mio cospetto</l>
+            <l>vivo costui non de’.</l>
+            <l>Versa… il licor ti è noto…</l>
+            <l>strano è il ribrezzo in te.)</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Oh! Se sapessi a quale</l>
+            <l>opra m’astringi atroce,</l>
+            <l>per quanto sii feroce,</l>
+            <l>ne avresti orror con me.</l>
+            <l>Va’… Non v’ha mostro eguale…</l>
+            <l>colpa maggior non v’è.)</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>(Meco benigni tanto</l>
+            <l>mai non credea costoro…</l>
+            <l>trovar perdono in loro</l>
+            <l>sogno pur sembra a me.</l>
+            <l>Madre! Esser dée soltanto</l>
+            <l>del tuo pregar mercé.)</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Or via: mesciamo.</l>
+            <l>(si versa dal vaso d’argento)</l>
+          </sp>
+          <stage>ALFONSOOr via: mesciamo.(si versa dal vaso d’argento)</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Attonito</l>
+            <l>a tanto onor son io.</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>A voi, duchessa…</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Il barbaro!)</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>(Il vaso d’or.)</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Gran dio!)</l>
+            <l>(versa dal vaso d’oro)</l>
+          </sp>
+          <stage>LUCREZIA(Gran dio!)(versa dal vaso d’oro)</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Vi assista il ciel, Gennaro.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Fausto a voi sia del paro.</l>
+            <l>(bevono)</l>
+          </sp>
+          <stage>GENNAROFausto a voi sia del paro.(bevono)</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>(Trema per te, spergiura!</l>
+            <l>Vittima prima egli è.)</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Vanne: non ha natura</l>
+            <l>mostro peggior di te.)</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>(Madre! È la mia ventura</l>
+            <l>del tuo pregar mercé.)</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Or, duchessa, a vostr’agio potete</l>
+            <l>trattenerlo, oppur dargli commiato.</l>
+            <l>(si allontana con Rustighello)</l>
+          </sp>
+          <stage>ALFONSOOr, duchessa, a vostr’agio potetetrattenerlo, oppur dargli commiato.(si allontana con Rustighello)</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(Oh! Qual raggio!)</l>
+            <l>(pensando)</l>
+          </sp>
+          <stage>LUCREZIA(Oh! Qual raggio!)(pensando)</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>(inchinandosi)</l>
+            <l>Signora, accogliete</l>
+            <l>i saluti di un cor non ingrato.</l>
+          </sp>
+          <stage>GENNARO(inchinandosi)Signora, accoglietei saluti di un cor non ingrato.</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(sottovoce)</l>
+            <l>Infelice! Il veleno bevesti…</l>
+            <l>non far motto… trafitto saresti.</l>
+            <l>Prendi, e parti… una goccia, una sola,</l>
+            <l>di quel farmaco vita ti dà.</l>
+            <l>(gli dà un’ampolletta)</l>
+            <l>Lo nascondi, t’affretta, t’invola…</l>
+            <l>(T’accompagni del ciel la pietà.)</l>
+          </sp>
+          <stage>LUCREZIA(sottovoce)Infelice! Il veleno bevesti…non far motto… trafitto saresti.Prendi, e parti… una goccia, una sola,di quel farmaco vita ti dà.(gli dà un’ampolletta)Lo nascondi, t’affretta, t’invola…(T’accompagni del ciel la pietà.)</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Che mai sento?… E tutt’altro che morte</l>
+            <l>aspettarmi io doveva in tua corte!</l>
+            <l>Un rio genio mi pose la benda,</l>
+            <l>m’inspirò sì fatal securtà.</l>
+            <l>Forse… ah! Forse una morte più orrenda</l>
+            <l>la tua destra, o malvagia, mi dà.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Oh! In me fida.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>In te, cruda?</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Sì, parti…</l>
+            <l>morto in te vuole il duca un rivale.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Oh cimento!</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Ei ritorna a svenarti.</l>
+            <l>Bevi, e fuggi…</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Oh! Dubbiezza fatale!</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Bevi, e fuggi… Io te n’ prego, o Gennaro,</l>
+            <l>per tua madre, per quanto hai più caro.</l>
+            <l>(s’inginocchia: dopo un momento di esitazioni Gennaro si decide)</l>
+          </sp>
+          <stage>LUCREZIABevi, e fuggi… Io te n’ prego, o Gennaro,per tua madre, per quanto hai più caro.(s’inginocchia: dopo un momento di esitazioni Gennaro si decide)</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Ti punisca s’è in te tradimento</l>
+            <l>chi più speri che t’abbia pietà.</l>
+            <l>(beve)</l>
+          </sp>
+          <stage>GENNAROTi punisca s’è in te tradimentochi più speri che t’abbia pietà.(beve)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>LUCREZIA</head>Tu sei salvo… Oh! Supremo contento!…Quinci invòlati… affrettati… va’.(Lucrezia lo fa fuggire per la porta segreta. Si presenta dal fondo Rustighello col duca… Ella dà un grido, e cade sovra una sedia)Atto secondoScena primaPiccolo cortile che mette alla casa di Gennaro. Una finestra della casa è illuminata. È notte.Un drappello di Scherani entra spiando.<div type="scene">
+          <head>LUCREZIA</head>Tu sei salvo… Oh! Supremo contento!…Quinci invòlati… affrettati… va’.(Lucrezia lo fa fuggire per la porta segreta. Si presenta dal fondo Rustighello col duca… Ella dà un grido, e cade sovra una sedia)Atto secondoScena primaPiccolo cortile che mette alla casa di Gennaro. Una finestra della casa è illuminata. È notte.Un drappello di Scherani entra spiando.<sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Tu sei salvo… Oh! Supremo contento!…</l>
+            <l>Quinci invòlati… affrettati… va’.</l>
+            <l>(Lucrezia lo fa fuggire per la porta segreta. Si presenta dal fondo Rustighello col duca… Ella dà un grido, e cade sovra una sedia)</l>
+            <l>Atto secondo</l>
+            <l>Scena prima</l>
+            <l>Piccolo cortile che mette alla casa di Gennaro. Una finestra della casa è illuminata. È notte.</l>
+            <l>Un drappello di Scherani entra spiando.</l>
+          </sp>
+          <stage>LUCREZIATu sei salvo… Oh! Supremo contento!…Quinci invòlati… affrettati… va’.(Lucrezia lo fa fuggire per la porta segreta. Si presenta dal fondo Rustighello col duca… Ella dà un grido, e cade sovra una sedia)Atto secondoScena primaPiccolo cortile che mette alla casa di Gennaro. Una finestra della casa è illuminata. È notte.Un drappello di Scherani entra spiando.</stage>
+        </div>
+        <div type="scene">
+          <head>Coro.</head>Rischiarata è la finestra…in Ferrara egli è tuttora…la fortuna al duca è destra:del rival vendetta avrà.Inoltriam: propizia è l’ora…buio il cielo… alcun non v’ha.(si avvicinano alla casa di Gennaro. Odono rumore, e si arrestano)Ma… silenzio. ~ Un mormorio…un bisbiglio s’è levato ~è di gente calpestio…più distinto udir si fa.Là in disparte, là in agguatochi è si esplori, e dove va.(si ritirano)Scena secondaOrsini, indi Gennaro, Scherani nascosti. Orsini bussa alla porta di Gennaro. Egli apre, ed esce. <stage>Coro.Rischiarata è la finestra…in Ferrara egli è tuttora…la fortuna al duca è destra:del rival vendetta avrà.Inoltriam: propizia è l’ora…buio il cielo… alcun non v’ha.(si avvicinano alla casa di Gennaro. Odono rumore, e si arrestano)Ma… silenzio. ~ Un mormorio…un bisbiglio s’è levato ~è di gente calpestio…più distinto udir si fa.Là in disparte, là in agguatochi è si esplori, e dove va.(si ritirano)Scena secondaOrsini, indi Gennaro, Scherani nascosti. Orsini bussa alla porta di Gennaro. Egli apre, ed esce.</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Sei tu?</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Son io. ~ Venir non vuoi, Gennaro,</l>
+            <l>dalla Negroni? Ogni piacer mi è scemo</l>
+            <l>se no ‘l dividi tu.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Grave cagione</l>
+            <l>a te mi toglie. Per Venezia io parto</l>
+            <l>fra pochi istanti.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>E me qui lasci? E uniti</l>
+            <l>fino alla morte non giurammo entrambi</l>
+            <l>esser in ogni evento?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>È ver.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Mi tieni</l>
+            <l>così tua fede, come a te la tengo?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>E tu vien meco.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>All’alba attendi, e vengo.</l>
+            <l>Al geniale invito</l>
+            <l>mancar non posso.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Ah! Questa tua Negroni,</l>
+            <l>m’è di sinistro auspicio.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>E a me piuttosto</l>
+            <l>il tuo partir così notturno e solo,</l>
+            <l>così pensoso e mesto.</l>
+            <l>Resta, Gennaro.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Odi: e se il chiedi, io resto.</l>
+            <l>Minacciata è la mia vita…</l>
+            <l>alla morte io qui son presso.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Chi t’insidia? A me lo addita.</l>
+            <l>Chi è costui?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Parla sommesso.</l>
+            <l>(parla sottovoce a Orsini, mentre gli scherani si fan vedere da lunge)</l>
+          </sp>
+          <stage>GENNAROParla sommesso.(parla sottovoce a Orsini, mentre gli scherani si fan vedere da lunge)</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Iº</l>
+            <l>Vi par tempo?</l>
+            <l>IIº</l>
+            <l>No: si aspetti…</l>
+          </sp>
+          <stage>COROIºVi par tempo?IIºNo: si aspetti…</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>L’importuno partirà.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>(ridendo)</l>
+            <l>Né d’inganno tu sospetti?</l>
+            <l>Quale è in te credulità!</l>
+          </sp>
+          <stage>ORSINI(ridendo)Né d’inganno tu sospetti?Quale è in te credulità!</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Taci, incauto!</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Sconsigliato!</l>
+            <l>Non sai tu di donna l’arti?</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Onde a lei ti mostri grato</l>
+            <l>ella ha finto di salvarti.</l>
+            <l>Di veleni che ragioni?</l>
+            <l>Dove fondi il tuo timor?</l>
+            <l>Gentil dama è la Negroni;</l>
+            <l>uomo è il duca d’alto cor.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Tu conosci, appien tu sai</l>
+            <l>se codardo io fui giammai,</l>
+            <l>se un istante in faccia a morte</l>
+            <l>mai fu manco il mio valor…</l>
+            <l>Pure, adesso, in questa corte,</l>
+            <l>m’è di guai presago il cor.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Va’, se vuoi: tentar mi è caro,</l>
+            <l>afferrar la mia ventura.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Addio dunque…</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Addio, Gennaro.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Veglia a te.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Ti rassicura.</l>
+            <l>(si abbracciano e si dividono, indi si arrestano entrambi e ritornano)</l>
+          </sp>
+          <stage>ORSINITi rassicura.(si abbracciano e si dividono, indi si arrestano entrambi e ritornano)</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Ah! Non posso abbandonarti!</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Ah! Non io lasciarti vo’.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Al festin vo’ seguitarti.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Teco all’alba io partirò.</l>
+          </sp>
+          <sp who="#orsini e gennaro">
+            <speaker>ORSINI E GENNARO:</speaker>
+            <l>Sia qual vuolsi il tuo destino,</l>
+            <l>esso è mio: lo giuro ancora.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Mio Gennaro!</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Caro Orsino!</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Teco sempre…</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>O viva, o mora.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ORSINI E GENNARO</head>Qual due fiori a un solo stelo,qual due frondi a un ramo sol,noi vedrem sereno il cielo,o sarem curvati al suol.(partono)Scena terzaRitornano gli Scherani, Rustighello li trattiene.<sp who="#orsini e gennaro">
+            <speaker>ORSINI E GENNARO:</speaker>
+            <l>Qual due fiori a un solo stelo,</l>
+            <l>qual due frondi a un ramo sol,</l>
+            <l>noi vedrem sereno il cielo,</l>
+            <l>o sarem curvati al suol.</l>
+            <l>(partono)</l>
+            <l>Scena terza</l>
+            <l>Ritornano gli Scherani, Rustighello li trattiene.</l>
+          </sp>
+          <stage>ORSINI E GENNAROQual due fiori a un solo stelo,qual due frondi a un ramo sol,noi vedrem sereno il cielo,o sarem curvati al suol.(partono)Scena terzaRitornano gli Scherani, Rustighello li trattiene.</stage>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>No ‘l seguite.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>A noi s’invola.</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Stolti! Ei corre alla Negroni.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Basta allora.</l>
+          </sp>
+          <sp who="#rustighello">
+            <speaker>RUSTIGHELLO:</speaker>
+            <l>Al laccio ei vola.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Non v’ha dubbio: al ver ti apponi.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TUTTI</head>È tenace, è certo l’amo,che gittato al cieco è là.Ir si lasci: ritorniamo.Di ferir mestier non fa.(partono)Scena quartaSala nel palazzo Negroni illuminata e addobbata per festivo banchetto.Sono seduti ad una tavola riccamente imbandita la principessa Negroni con molte Dame splendidamente vestite, Orsini, Liverotto, Vitellozzo, Gazella, Petrucci, ciascuno con una dama al fianco. Da un lato della tavola è Gubetta. Dall’altro è Gennaro.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>È tenace, è certo l’amo,</l>
+            <l>che gittato al cieco è là.</l>
+            <l>Ir si lasci: ritorniamo.</l>
+            <l>Di ferir mestier non fa.</l>
+            <l>(partono)</l>
+            <l>Scena quarta</l>
+            <l>Sala nel palazzo Negroni illuminata e addobbata per festivo banchetto.</l>
+            <l>Sono seduti ad una tavola riccamente imbandita la principessa Negroni con molte Dame splendidamente vestite, Orsini, Liverotto, Vitellozzo, Gazella, Petrucci, ciascuno con una dama al fianco. Da un lato della tavola è Gubetta. Dall’altro è Gennaro.</l>
+          </sp>
+          <stage>TUTTIÈ tenace, è certo l’amo,che gittato al cieco è là.Ir si lasci: ritorniamo.Di ferir mestier non fa.(partono)Scena quartaSala nel palazzo Negroni illuminata e addobbata per festivo banchetto.Sono seduti ad una tavola riccamente imbandita la principessa Negroni con molte Dame splendidamente vestite, Orsini, Liverotto, Vitellozzo, Gazella, Petrucci, ciascuno con una dama al fianco. Da un lato della tavola è Gubetta. Dall’altro è Gennaro.</stage>
+          <sp who="#liverotto">
+            <speaker>LIVEROTTO:</speaker>
+            <l>Viva il Madera!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Evviva</l>
+            <l>il ben che scalda e avviva!</l>
+          </sp>
+          <sp who="#gazella">
+            <speaker>GAZELLA:</speaker>
+            <l>De’ vini il Cipro è re.</l>
+          </sp>
+          <sp who="#petrucci">
+            <speaker>PETRUCCI:</speaker>
+            <l>I vini, per mia fé,</l>
+            <l>tutti son buoni.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Io stimo quel che brilla,</l>
+            <l>siccome la scintilla,</l>
+            <l>che desta il dio d’amor</l>
+            <l>nell’occhio seduttor</l>
+            <l>della Negroni.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Ben detto. A lei si tocchi!</l>
+            <l>Si beva ai suoi begli occhi!</l>
+            <l>Amore la formò,</l>
+            <l>Ciprigna in lei versò</l>
+            <l>tutti i suoi doni.</l>
+            <l>(toccano e bevono)</l>
+          </sp>
+          <stage>TUTTIBen detto. A lei si tocchi!Si beva ai suoi begli occhi!Amore la formò,Ciprigna in lei versòtutti i suoi doni.(toccano e bevono)</stage>
+          <sp who="#gubetta">
+            <speaker>GUBETTA:</speaker>
+            <l>(Ebbri son già: conviene</l>
+            <l>tentar che restin soli.)</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>(Noiato io sono.)</l>
+            <l>(si allontana)</l>
+          </sp>
+          <stage>GENNARO(Noiato io sono.)(si allontana)</stage>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Ebbene?</l>
+            <l>Gennaro, a noi t’involi?</l>
+            <l>Odi il novello brindisi</l>
+            <l>da me composto un giorno.</l>
+          </sp>
+          <sp who="#gubetta">
+            <speaker>GUBETTA:</speaker>
+            <l>(ridendo)</l>
+            <l>Ah! Ah!</l>
+          </sp>
+          <stage>GUBETTA(ridendo)Ah! Ah!</stage>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Chi ride?</l>
+          </sp>
+          <sp who="#gubetta">
+            <speaker>GUBETTA:</speaker>
+            <l>Ridono</l>
+            <l>quanti ci sono intorno.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Come?</l>
+          </sp>
+          <sp who="#gubetta">
+            <speaker>GUBETTA:</speaker>
+            <l>Oh l’esimio lirico!</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>M’insulteresti tu?</l>
+          </sp>
+          <sp who="#gubetta">
+            <speaker>GUBETTA:</speaker>
+            <l>S’egli è insultarti il ridere,</l>
+            <l>far no ‘l potrei di più.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>(alzandosi)</l>
+            <l>Marrano di Castiglia!</l>
+          </sp>
+          <stage>ORSINI(alzandosi)Marrano di Castiglia!</stage>
+          <sp who="#gubetta">
+            <speaker>GUBETTA:</speaker>
+            <l>Scheran trasteverino!</l>
+            <l>(Orsini afferra un coltello)</l>
+          </sp>
+          <stage>GUBETTAScheran trasteverino!(Orsini afferra un coltello)</stage>
+          <sp who="#dame">
+            <speaker>DAME:</speaker>
+            <l>Cielo! Costor si battono!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Che fai? T’acqueta, Orsino.</l>
+            <l>(trattenendolo)</l>
+          </sp>
+          <stage>TUTTIChe fai? T’acqueta, Orsino.(trattenendolo)</stage>
+          <sp who="#orsini e gubetta">
+            <speaker>ORSINI E GUBETTA:</speaker>
+            <l>Io ti darò, balordo,</l>
+            <l>tale di me ricordo,</l>
+            <l>che temperante e sobrio</l>
+            <l>per sempre ti farà.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(frapponendosi)</l>
+            <l>Finitela, cospetto!</l>
+            <l>All’ospite rispetto…</l>
+            <l>o tutta quanta accorrere</l>
+            <l>farete la città.</l>
+          </sp>
+          <stage>TUTTI(frapponendosi)Finitela, cospetto!All’ospite rispetto…o tutta quanta accorrerefarete la città.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>DAME</head>Si battono… si battono…signore, usciam di qua.(le dame si ritirano)Scena quintaGubetta, Orsino, Liverotto, Vitellozzo, Gazella, Petrucci e Gennaro.<div type="scene">
+          <head>DAME</head>Si battono… si battono…signore, usciam di qua.(le dame si ritirano)Scena quintaGubetta, Orsino, Liverotto, Vitellozzo, Gazella, Petrucci e Gennaro.<sp who="#dame">
+            <speaker>DAME:</speaker>
+            <l>Si battono… si battono…</l>
+            <l>signore, usciam di qua.</l>
+            <l>(le dame si ritirano)</l>
+            <l>Scena quinta</l>
+            <l>Gubetta, Orsino, Liverotto, Vitellozzo, Gazella, Petrucci e Gennaro.</l>
+          </sp>
+          <stage>DAMESi battono… si battono…signore, usciam di qua.(le dame si ritirano)Scena quintaGubetta, Orsino, Liverotto, Vitellozzo, Gazella, Petrucci e Gennaro.</stage>
+          <sp who="#liverotto">
+            <speaker>LIVEROTTO:</speaker>
+            <l>Pace, pace per ora.</l>
+          </sp>
+          <sp who="#vitellozzo">
+            <speaker>VITELLOZZO:</speaker>
+            <l>Avrete il tempo</l>
+            <l>di battervi doman da cavalieri,</l>
+            <l>non col pugnal come assassin di strada.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>È ver.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Ma della spada</l>
+            <l>che femmo noi?</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>L’abbiam deposta fuori.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Non ci si pensi più.</l>
+          </sp>
+          <sp who="#gubetta">
+            <speaker>GUBETTA:</speaker>
+            <l>Beviam, signori.</l>
+          </sp>
+          <sp who="#gazella">
+            <speaker>GAZELLA:</speaker>
+            <l>Ma intanto sbigottite</l>
+            <l>ci han lasciate le dame.</l>
+          </sp>
+          <sp who="#gubetta">
+            <speaker>GUBETTA:</speaker>
+            <l>Torneranno:</l>
+            <l>ed umilmente chiederemo scusa.</l>
+            <l>(un coppiere vestito di nero porta in giro una bottiglia)</l>
+          </sp>
+          <stage>GUBETTATorneranno:ed umilmente chiederemo scusa.(un coppiere vestito di nero porta in giro una bottiglia)</stage>
+          <sp who="#coppiere">
+            <speaker>COPPIERE:</speaker>
+            <l>Vino di Siracusa.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Ottimo vino, affé!</l>
+            <l>(tutti bevono: Gubetta versa il bicchiere dietro le spalle)</l>
+          </sp>
+          <stage>TUTTIOttimo vino, affé!(tutti bevono: Gubetta versa il bicchiere dietro le spalle)</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>(Maffio, vedesti?</l>
+            <l>Lo spagnolo non beve.)</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>(Che importa? È naturale: ebbro esser deve.)</l>
+          </sp>
+          <sp who="#gubetta">
+            <speaker>GUBETTA:</speaker>
+            <l>(barcollando)</l>
+            <l>Or, se gli piace, amici,</l>
+            <l>può schiccherare Orsini versi a sua posta,</l>
+            <l>poiché poeta lo farà tal vino.</l>
+          </sp>
+          <stage>GUBETTA(barcollando)Or, se gli piace, amici,può schiccherare Orsini versi a sua posta,poiché poeta lo farà tal vino.</stage>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Sì: a tuo dispetto.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Una ballata, Orsino.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Iº</l>
+            <l>Il segreto per esser felici</l>
+            <l>so per prova, e l’insegno agli amici.</l>
+            <l>Sia sereno, sia nubilo il cielo,</l>
+            <l>ogni tempo, sia caldo, sia gelo,</l>
+            <l>scherzo e bevo, e derido gl’insani</l>
+            <l>che si dan del futuro pensier.</l>
+          </sp>
+          <stage>ORSINIIºIl segreto per esser feliciso per prova, e l’insegno agli amici.Sia sereno, sia nubilo il cielo,ogni tempo, sia caldo, sia gelo,scherzo e bevo, e derido gl’insaniche si dan del futuro pensier.</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Non curiamo l’incerto domani,</l>
+            <l>se quest’oggi ne è dato goder.</l>
+            <l>(odesi un lugubre suono e voci lontane che cantano flebilmente)</l>
+          </sp>
+          <stage>TUTTINon curiamo l’incerto domani,se quest’oggi ne è dato goder.(odesi un lugubre suono e voci lontane che cantano flebilmente)</stage>
+          <sp who="#voci lontane">
+            <speaker>VOCI LONTANE:</speaker>
+            <l>La gioia de’ profani</l>
+            <l>è un fumo passegger.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Quai voci!</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Alcun si prende</l>
+            <l>gioco di noi.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Chi mai sarà?</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Scommetto</l>
+            <l>che delle dame una malizia è questa.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Un’altra strofa, Orsin.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>La strofa è presta.</l>
+            <l>IIº</l>
+            <l>Profittiamo degli anni fiorenti:</l>
+            <l>il piacer li fa correr più lenti.</l>
+            <l>Se vecchiezza con livida faccia</l>
+            <l>stammi a tergo, e mia vita minaccia,</l>
+            <l>scherzo e bevo, e derido gl’insani</l>
+            <l>che si dan del futuro pensier.</l>
+          </sp>
+          <stage>ORSINILa strofa è presta.IIºProfittiamo degli anni fiorenti:il piacer li fa correr più lenti.Se vecchiezza con livida facciastammi a tergo, e mia vita minaccia,scherzo e bevo, e derido gl’insaniche si dan del futuro pensier.</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Non curiam l’incerto domani,</l>
+            <l>se quest’oggi ne è dato goder.</l>
+          </sp>
+          <sp who="#voci lontane">
+            <speaker>VOCI LONTANE:</speaker>
+            <l>La gioia de’ profani</l>
+            <l>è un fumo passegger.</l>
+            <l>(a poco a poco si spengono i lumi)</l>
+          </sp>
+          <stage>VOCI LONTANELa gioia de’ profaniè un fumo passegger.(a poco a poco si spengono i lumi)</stage>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Gennaro!</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Maffio! ~ Vedi?</l>
+            <l>Si spengono le faci.</l>
+          </sp>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>A farsi grave</l>
+            <l>incomincia lo scherzo.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TUTTI</head>Usciam. ~ Son chiusetutte le porte! ~ Ove siam mai venuti?Scena sestaSi apre la porta dal fondo e si presenta Lucrezia Borgia con Gente armata.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Usciam. ~ Son chiuse</l>
+            <l>tutte le porte! ~ Ove siam mai venuti?</l>
+            <l>Scena sesta</l>
+            <l>Si apre la porta dal fondo e si presenta Lucrezia Borgia con Gente armata.</l>
+          </sp>
+          <stage>TUTTIUsciam. ~ Son chiusetutte le porte! ~ Ove siam mai venuti?Scena sestaSi apre la porta dal fondo e si presenta Lucrezia Borgia con Gente armata.</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Presso Lucrezia Borgia.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(con un grido)</l>
+            <l>Ah! Siam perduti!</l>
+          </sp>
+          <stage>TUTTI(con un grido)Ah! Siam perduti!</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Sì, son la Borgia. Un ballo, un tristo ballo</l>
+            <l>voi mi deste in Venezia: io rendo a voi</l>
+            <l>una cena in Ferrara.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Oh, noi traditi!</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Voi salvi ed impuniti</l>
+            <l>credeste invano: dell’ingiuria mia</l>
+            <l>piena vendetta ho già: cinque son pronti</l>
+            <l>strati funébri per coprirvi estinti,</l>
+            <l>poiché il veleno a voi temprato è presto.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Non bastan cinque: avvi mestier del sesto.</l>
+            <l>(avanzando)</l>
+          </sp>
+          <stage>GENNARONon bastan cinque: avvi mestier del sesto.(avanzando)</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(sbigottita)</l>
+            <l>Gennaro! Oh ciel!</l>
+          </sp>
+          <stage>LUCREZIA(sbigottita)Gennaro! Oh ciel!</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Perire</l>
+            <l>io saprò cogli amici.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Ite: chiudete</l>
+            <l>tutte le sbarre, e per rumor che ascolti,</l>
+            <l>nessuno in questa sala entrar s’attenti.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Gennaro!</l>
+            <l>(strascinati)</l>
+          </sp>
+          <stage>TUTTIGennaro!(strascinati)</stage>
+          <sp who="#orsini">
+            <speaker>ORSINI:</speaker>
+            <l>Amici!…</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Uscite.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TUTTI</head>Oh noi dolenti!(escono fra gli armati, e la gran porta si chiude)Scena settimaLucrezia e Gennaro.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Oh noi dolenti!</l>
+            <l>(escono fra gli armati, e la gran porta si chiude)</l>
+            <l>Scena settima</l>
+            <l>Lucrezia e Gennaro.</l>
+          </sp>
+          <stage>TUTTIOh noi dolenti!(escono fra gli armati, e la gran porta si chiude)Scena settimaLucrezia e Gennaro.</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Tu pur qui?… Né sei fuggito?…</l>
+            <l>Qual ti tenne avverso fato?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Tutto, tutto ho presentito.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Sei di nuovo avvelenato.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Ne ho il rimedio.</l>
+            <l>(cava l’ampolla del contravveleno)</l>
+          </sp>
+          <stage>GENNARONe ho il rimedio.(cava l’ampolla del contravveleno)</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Ah! Me ‘l rammento…</l>
+            <l>Grazie, grazie al ciel ne do.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Cogli amici io sarò spento,</l>
+            <l>o con lor io partirò!</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Ah! Per te fia poco ancora…</l>
+            <l>(osservando l’ampolla)</l>
+            <l>Ah! Non basta per gli amici…</l>
+          </sp>
+          <stage>LUCREZIAAh! Per te fia poco ancora…(osservando l’ampolla)Ah! Non basta per gli amici…</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Ei non basta? Allor, signora,</l>
+            <l>morrem tutti.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Che mai dici?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Voi primiera di mia mano</l>
+            <l>preparatevi a perir.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Io! Gennaro?… Ascolta, insano…</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Fermo io son.</l>
+            <l>(prende un coltello dalla tavola)</l>
+          </sp>
+          <stage>GENNAROFermo io son.(prende un coltello dalla tavola)</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(sbigottita)</l>
+            <l>(Che far? Che dir?)</l>
+          </sp>
+          <stage>LUCREZIA(sbigottita)(Che far? Che dir?)</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>(ritornando)</l>
+            <l>Preparatevi.</l>
+          </sp>
+          <stage>GENNARO(ritornando)Preparatevi.</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Spietato!</l>
+            <l>Me ferir, svenar potresti?</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Lo poss’io ~ son disperato:</l>
+            <l>tutto, tutto mi togliesti.</l>
+            <l>(risoluto)</l>
+            <l>Non più indugi.</l>
+          </sp>
+          <stage>GENNAROLo poss’io ~ son disperato:tutto, tutto mi togliesti.(risoluto)Non più indugi.</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(con un grido)</l>
+            <l>Ah! Un Borgia sei…</l>
+            <l>son tuoi padri i padri miei…</l>
+            <l>Ti risparmia un fallo orrendo…</l>
+            <l>il tuo sangue non versar.</l>
+          </sp>
+          <stage>LUCREZIA(con un grido)Ah! Un Borgia sei…son tuoi padri i padri miei…Ti risparmia un fallo orrendo…il tuo sangue non versar.</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Sono un Borgia! Oh ciel! Che intendo?</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Ah! Di più non domandar.</l>
+            <l>M’odi… ah! M’odi… Io non t’imploro</l>
+            <l>per voler serbarmi in vita:</l>
+            <l>mille volte al giorno io moro,</l>
+            <l>mille volte in cor ferita…</l>
+            <l>per te prego… teco almeno</l>
+            <l>non voler incrudelir.</l>
+            <l>Bevi… bevi… e il rio veleno</l>
+            <l>deh! t’affretta a prevenir.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Sono un Borgia!…</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Oh! il tempo vola.</l>
+            <l>Cedi, cedi…</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Maffio muore.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Per tua madre!…</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Va’: tu sola</l>
+            <l>sei cagion del suo dolore…</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>No: Gennaro…</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>L’opprimesti…</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>No ‘l pensar…</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Di lei che festi!</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Vive… vive… e a te favella</l>
+            <l>col mio duol, col mio terror.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Ciel! tu forse?…</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Ah! sì, son quella.</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Tu! gran dio!… Mi manca il cor.</l>
+            <l>(si abbandona sopra una sedia)</l>
+          </sp>
+          <stage>GENNAROTu! gran dio!… Mi manca il cor.(si abbandona sopra una sedia)</stage>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Figlio… figlio!… Olà! Qualcuno!…</l>
+            <l>Accorrete!… Aita! Aita!</l>
+            <l>Niun m’ascolta… è lunge ognuno…</l>
+            <l>dio pietoso, il serba in vita…</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Cessa… è tardi… Io manco, io gelo…</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Me infelice!…</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Ho agli occhi un velo.</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>Mio Gennaro!… un solo accento…</l>
+            <l>uno sguardo, per pietà…</l>
+          </sp>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Madre!… io moro…</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>LUCREZIA</head>È spento… è spento.Scena ultimaSi spalancano le porte del fondo e n’esce Alfonso con Rustighello. Guardie.<sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>È spento… è spento.</l>
+            <l>Scena ultima</l>
+            <l>Si spalancano le porte del fondo e n’esce Alfonso con Rustighello. Guardie.</l>
+          </sp>
+          <stage>LUCREZIAÈ spento… è spento.Scena ultimaSi spalancano le porte del fondo e n’esce Alfonso con Rustighello. Guardie.</stage>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Dove è desso?</l>
+          </sp>
+          <sp who="#lucrezia">
+            <speaker>LUCREZIA:</speaker>
+            <l>(correndo ad Alfonso e additandogli Gennaro estinto)</l>
+            <l>Mira: è là.</l>
+            <l>Era desso il figlio mio,</l>
+            <l>la mia speme, il mio conforto…</l>
+            <l>Ei potea placarmi iddio…</l>
+            <l>me parea far pura ancor.</l>
+            <l>Ogni luce in lui mi è spenta…</l>
+            <l>il mio cor con esso è morto…</l>
+            <l>Sul mio capo il cielo avventa</l>
+            <l>il suo strale punitor.</l>
+            <l>(cade sul figlio)</l>
+          </sp>
+          <stage>LUCREZIA(correndo ad Alfonso e additandogli Gennaro estinto)Mira: è là.Era desso il figlio mio,la mia speme, il mio conforto…Ei potea placarmi iddio…me parea far pura ancor.Ogni luce in lui mi è spenta…il mio cor con esso è morto…Sul mio capo il cielo avventail suo strale punitor.(cade sul figlio)</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Rio mistero! Orribil caso!…</l>
+          </sp>
+          <sp who="#alfonso">
+            <speaker>ALFONSO:</speaker>
+            <l>Si soccorra.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>TUTTI</head>Oh! Ciel! Se n’ muor.Variante del finaleFinale modificato nella rappresentazione di Milano del 1840. Alla fine della scena VII del secondo atto, dopo le parole di Lucrezia «uno sguardo per pietà»:<div type="scene">
+          <head>TUTTI</head>Oh! Ciel! Se n’ muor.Variante del finaleFinale modificato nella rappresentazione di Milano del 1840. Alla fine della scena VII del secondo atto, dopo le parole di Lucrezia «uno sguardo per pietà»:<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Oh! Ciel! Se n’ muor.</l>
+            <l>Variante del finale</l>
+            <l>Finale modificato nella rappresentazione di Milano del 1840. Alla fine della scena VII del secondo atto, dopo le parole di Lucrezia «uno sguardo per pietà»:</l>
+          </sp>
+          <stage>TUTTIOh! Ciel! Se n’ muor.Variante del finaleFinale modificato nella rappresentazione di Milano del 1840. Alla fine della scena VII del secondo atto, dopo le parole di Lucrezia «uno sguardo per pietà»:</stage>
+          <sp who="#gennaro">
+            <speaker>GENNARO:</speaker>
+            <l>Madre, se ognor lontano</l>
+            <l>vissi al materno seno,</l>
+            <l>che a te pietoso iddio</l>
+            <l>m’unisca in morte almeno:</l>
+            <l>madre, l’estremo anelito</l>
+            <l>ch’io spiri sul tuo cor.</l>
+            <l>Fine.</l>
+            <l>Fine del libretto.</l>
+          </sp>
+          <stage>GENNAROMadre, se ognor lontanovissi al materno seno,che a te pietoso iddiom’unisca in morte almeno:madre, l’estremo anelitoch’io spiri sul tuo cor.Fine.Fine del libretto.</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,721 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">olo di notte</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="rivière">
+            <persName>RIVIÈRE:</persName>
+          </person>
+          <person xml:id="fine dell’opera">
+            <persName>FINE DELL’OPERA:</persName>
+          </person>
+          <person xml:id="primo impiegato">
+            <persName>PRIMO IMPIEGATO:</persName>
+          </person>
+          <person xml:id="pellerin">
+            <persName>PELLERIN:</persName>
+          </person>
+          <person xml:id="i quattro impiegati">
+            <persName>I QUATTRO IMPIEGATI:</persName>
+          </person>
+          <person xml:id="radiotelegrafista">
+            <persName>RADIOTELEGRAFISTA:</persName>
+          </person>
+          <person xml:id="il coro">
+            <persName>IL CORO:</persName>
+          </person>
+          <person xml:id="robineau">
+            <persName>ROBINEAU:</persName>
+          </person>
+          <person xml:id="secondo impiegato">
+            <persName>SECONDO IMPIEGATO:</persName>
+          </person>
+          <person xml:id="terzo impiegato">
+            <persName>TERZO IMPIEGATO:</persName>
+          </person>
+          <person xml:id="leroux">
+            <persName>LEROUX:</persName>
+          </person>
+          <person xml:id="signora fabien">
+            <persName>SIGNORA FABIEN:</persName>
+          </person>
+          <person xml:id="quarto impiegato">
+            <persName>QUARTO IMPIEGATO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>RIVIÈRE</castItem>
+        <castItem></castItem>
+        <castItem>LEROUX</castItem>
+        <castItem></castItem>
+        <castItem>RIVIÈRE</castItem>
+        <castItem></castItem>
+        <castItem>VOCE INTERNA</castItem>
+        <castItem>LEROUX</castItem>
+        <castItem></castItem>
+        <castItem>RIVIÈRE</castItem>
+        <castItem></castItem>
+        <castItem>VOCE INTERNA</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>Il Signor Rivière è solo nel suo studio. Sta al tavolo esaminando alcuni fogli. Nell’ufficio Quattro Impiegati stanno lavorando. In piedi, davanti al quadro delle segnalazioni elettriche, il Radiotelegrafista. Rivière si alza e si dirige verso la carta geografica. Qui si sofferma a lungo, immobile, a guardare.Il Radiotelegrafista si avvicina al Terzo Impiegato e gli passa un foglio. Questi, scorso il foglio, si alza, traversa l’ufficio senza far rumore ed entra nello studio di Rivière.</stage>
+      <sp who="#terzo impiegato">
+        <speaker>TERZO IMPIEGATO:</speaker>
+        <l>(quasi sull’attenti, a fianco di Rivière, che ascolta immobile e concentrato)</l>
+        <l>Il corriere del Cile avverte che scorge i lumi di Buenos Aires.</l>
+      </sp>
+      <stage>TERZO IMPIEGATO(quasi sull’attenti, a fianco di Rivière, che ascolta immobile e concentrato)Il corriere del Cile avverte che scorge i lumi di Buenos Aires.</stage>
+      <sp who="#rivière">
+        <speaker>RIVIÈRE:</speaker>
+        <l>(movendo appena la testa)</l>
+        <l>Sta bene.</l>
+        <l>(Il Terzo Impiegato esce rapidamente senza chiudere la tenda dietro a sé.)</l>
+      </sp>
+      <stage>RIVIÈRE(movendo appena la testa)Sta bene.(Il Terzo Impiegato esce rapidamente senza chiudere la tenda dietro a sé.)</stage>
+      <sp who="#rivière">
+        <speaker>RIVIÈRE:</speaker>
+        <l>(avanzando di qualche passo verso il proscenio; fra sé)</l>
+        <l>Tra poco allora arriveranno gli altri due. E questa notte, alle tre, partirà il corriere d’Europa.</l>
+      </sp>
+      <stage>RIVIÈRE(avanzando di qualche passo verso il proscenio; fra sé)Tra poco allora arriveranno gli altri due. E questa notte, alle tre, partirà il corriere d’Europa.</stage>
+      <stage>(La città, in fondo, va gradatamente illuminandosi).</stage>
+      <stage>(Si passa una mano sulla fronte. Torna a guardare la carta geografica)</stage>
+      <stage>(Entra silenziosamente il Vecchio Caposquadra Leroux, che tiene in mano un albero di trasmissione (asse) ossidato. Rivière si accorge della presenza di Leroux, ma prima di lasciarlo parlare, si avvicina alla finestrae la apre. Si ode dalla città, lontano, il suono di una orchestrina. Aperta la finestra, Rivière si volge a Leroux con tono interrogativo.)</stage>
+      <sp who="#leroux">
+        <speaker>LEROUX:</speaker>
+        <l>(mostrando a Rivière l’asse ossidato)</l>
+        <l>Era incastrato fortemente…</l>
+        <l>(con un sorriso di soddisfazione)</l>
+        <l>… ma ci sono riuscito…</l>
+      </sp>
+      <stage>LEROUX(mostrando a Rivière l’asse ossidato)Era incastrato fortemente…(con un sorriso di soddisfazione)… ma ci sono riuscito…</stage>
+      <sp who="#rivière">
+        <speaker>RIVIÈRE:</speaker>
+        <l>(dopo aver esaminato l’asse)</l>
+        <l>Bisognerà dire ai meccanici di lasciare più gioco a questi pezzi…</l>
+        <l>(L’orchestrina ha finito di preludiare. Si ode la voce di una Canzonettista)</l>
+      </sp>
+      <stage>RIVIÈRE(dopo aver esaminato l’asse)Bisognerà dire ai meccanici di lasciare più gioco a questi pezzi…(L’orchestrina ha finito di preludiare. Si ode la voce di una Canzonettista)</stage>
+      <sp who="#leroux">
+        <speaker>LEROUX:</speaker>
+        <l>Non molto…</l>
+      </sp>
+      <sp who="#rivière">
+        <speaker>RIVIÈRE:</speaker>
+        <l>E un giorno ci si accorge di aver respinto verso la vecchiaia per quando “si avrebbe avuto tempo”, tutto ciò che fa dolce la vita degli uomini… Come se davvero un giorno si potesse “aver tempo”! Troppo tardi.</l>
+      </sp>
+      <div type="scene">
+        <head></head>Scena secondaSul campo di aviazione si illuminano alcune grandi lampade rosse. Si sente già la presenza di una massa di operai, maestranze, ecc., ma questa dovrà risultare visibile soltanto più tardi, illuminata da potenti riflettori.<sp who="#il coro">
+          <speaker>IL CORO:</speaker>
+          <l>(con grida altissime segue l’avvicinarsi dell’aeroplano proveniente dal Cile)</l>
+          <l>(Dall’esterno viene aperta la grande porta nella vetrata)</l>
+        </sp>
+        <stage>IL CORO(con grida altissime segue l’avvicinarsi dell’aeroplano proveniente dal Cile)(Dall’esterno viene aperta la grande porta nella vetrata)</stage>
+        <stage>(Sul campo atterra l’aeroplano di Pellerin. Pellerin esce dall’apparecchio; si guarda intorno come trasognato. Pellerin avanza lentamente verso il proscenio. L’Ispettore Robineau lo segue a un passo di distanza)</stage>
+        <sp who="#pellerin">
+          <speaker>PELLERIN:</speaker>
+          <l>(con espressione dura, ai quattro Impiegati e a Robineau)</l>
+          <l>Pagherete da bere!</l>
+        </sp>
+        <stage>PELLERIN(con espressione dura, ai quattro Impiegati e a Robineau)Pagherete da bere!</stage>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>(con cordialità quasi eccessiva)</l>
+          <l>Ma certo! Voi verrete con me; brinderemo al vostro coraggio, al vostro valore… ed alla nostra amicizia.</l>
+          <l>(Batte una mano sulla spalla di Pellerin)</l>
+          <l>Diteci intanto com’è andata… Siamo fieri di voi…</l>
+        </sp>
+        <stage>ROBINEAU(con cordialità quasi eccessiva)Ma certo! Voi verrete con me; brinderemo al vostro coraggio, al vostro valore… ed alla nostra amicizia.(Batte una mano sulla spalla di Pellerin)Diteci intanto com’è andata… Siamo fieri di voi…</stage>
+        <stage>(Rivière, che, dallo studio, ha ascoltato con crescente interesse le parole di Robineau, a quest’ultima frase scatta sulla seggiola e sembra volersi dirigere verso l’ufficio. Ma si padroneggia subito e ritorna al suo posto)</stage>
+        <sp who="#pellerin">
+          <speaker>PELLERIN:</speaker>
+          <l>(quasi tra sé)</l>
+          <l>Il ciclone non è nulla… si può salvare la pelle… ma prima… ma quell’incontro!…</l>
+          <l>(a Robineau ed agli Impiegati)</l>
+          <l>… Se sapeste… Valicavo, tranquillo, la Cordigliera delle Ande. Le nevi dell’inverno vi pesavano con tutta la loro pace. Su duecento chilometri di spessore, non un uomo, non un soffio di vita, non uno sforzo. Soltanto creste verticali, che a seimila metri si sfiorano, mantelli di pietra che cadon diritti e una tranquillità infinita.</l>
+          <l>(cercando di ricordare)</l>
+          <l>Fu nei pressi del Picco Tupungato…</l>
+        </sp>
+        <stage>PELLERIN(quasi tra sé)Il ciclone non è nulla… si può salvare la pelle… ma prima… ma quell’incontro!…(a Robineau ed agli Impiegati)… Se sapeste… Valicavo, tranquillo, la Cordigliera delle Ande. Le nevi dell’inverno vi pesavano con tutta la loro pace. Su duecento chilometri di spessore, non un uomo, non un soffio di vita, non uno sforzo. Soltanto creste verticali, che a seimila metri si sfiorano, mantelli di pietra che cadon diritti e una tranquillità infinita.(cercando di ricordare)Fu nei pressi del Picco Tupungato…</stage>
+        <stage>(Si interrompe per pensare)</stage>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>Voi … siete molto intimo… di quel … Pellerin?</l>
+        </sp>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>(confuso)</l>
+          <l>Ma…</l>
+        </sp>
+        <stage>ROBINEAU(confuso)Ma…</stage>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>Non vi rimprovero mica… Soltanto… voi siete un Ispettore…</l>
+        </sp>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>Non capisco</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Scena terza</head>
+        <sp who="#primo impiegato">
+          <speaker>PRIMO IMPIEGATO:</speaker>
+          <l>Che maledetto mestiere!</l>
+        </sp>
+        <sp who="#secondo impiegato">
+          <speaker>SECONDO IMPIEGATO:</speaker>
+          <l>(con indifferenza)</l>
+          <l>Oggi poi… che si vola pur tutta la notte… per guadagnare… del tempo!…</l>
+        </sp>
+        <stage>SECONDO IMPIEGATO(con indifferenza)Oggi poi… che si vola pur tutta la notte… per guadagnare… del tempo!…</stage>
+        <sp who="#quarto impiegato">
+          <speaker>QUARTO IMPIEGATO:</speaker>
+          <l>(ironico)</l>
+          <l>Già… i voli di notte… la recente trovata di Rivière…</l>
+        </sp>
+        <stage>QUARTO IMPIEGATO(ironico)Già… i voli di notte… la recente trovata di Rivière…</stage>
+        <sp who="#secondo impiegato">
+          <speaker>SECONDO IMPIEGATO:</speaker>
+          <l>Non regge…</l>
+        </sp>
+      </div>
+    </body>
+    <div type="act">
+      <head>TERZO IMPIEGATO</head>(alzandosi di scatto, deciso, ma senza enfasi)Ragazzi, Rivière è in lotta col tempo; Rivère vince spazio e tempo; la sua è una grande idea…(Si rimette a sedere)<sp who="#terzo impiegato">
+        <speaker>TERZO IMPIEGATO:</speaker>
+        <l>(alzandosi di scatto, deciso, ma senza enfasi)</l>
+        <l>Ragazzi, Rivière è in lotta col tempo; Rivère vince spazio e tempo; la sua è una grande idea…</l>
+        <l>(Si rimette a sedere)</l>
+      </sp>
+      <stage>TERZO IMPIEGATO(alzandosi di scatto, deciso, ma senza enfasi)Ragazzi, Rivière è in lotta col tempo; Rivère vince spazio e tempo; la sua è una grande idea…(Si rimette a sedere)</stage>
+      <sp who="#secondo impiegato">
+        <speaker>SECONDO IMPIEGATO:</speaker>
+        <l>(sollevando appena il capo e con espressione incredula e ironica)</l>
+        <l>Una grande idea?…</l>
+      </sp>
+      <stage>SECONDO IMPIEGATO(sollevando appena il capo e con espressione incredula e ironica)Una grande idea?…</stage>
+      <sp who="#quarto impiegato">
+        <speaker>QUARTO IMPIEGATO:</speaker>
+        <l>(canzonatorio)</l>
+        <l>Tra poco, questo è certo, Pellerin, dirà a sua moglie teneramente: “Cara, si sta meglio in casa con te che non sulle Ande colla tempesta…”.</l>
+      </sp>
+      <stage>QUARTO IMPIEGATO(canzonatorio)Tra poco, questo è certo, Pellerin, dirà a sua moglie teneramente: “Cara, si sta meglio in casa con te che non sulle Ande colla tempesta…”.</stage>
+      <sp who="#terzo impiegato">
+        <speaker>TERZO IMPIEGATO:</speaker>
+        <l>(scattando)</l>
+        <l>In futuro…</l>
+      </sp>
+      <stage>TERZO IMPIEGATO(scattando)In futuro…</stage>
+      <sp who="#secondo impiegato">
+        <speaker>SECONDO IMPIEGATO:</speaker>
+        <l>(interrompendolo)</l>
+        <l>… in futuro vedremo…</l>
+      </sp>
+      <stage>SECONDO IMPIEGATO(interrompendolo)… in futuro vedremo…</stage>
+      <sp who="#quarto impiegato">
+        <speaker>QUARTO IMPIEGATO:</speaker>
+        <l>(continuando il suo dire)</l>
+        <l>… e lo stesso diranno, e con maggior ragione, il corriere di Asuncion… e pure Fabien… al suo ritorno dalla Patagonia…</l>
+        <l>(Il Radiotelegrafista depone un foglio sul tavolo del Terzo Impiegato; ma questi, attento alle parole dei suoi compagni, non se ne accorge)</l>
+      </sp>
+      <stage>QUARTO IMPIEGATO(continuando il suo dire)… e lo stesso diranno, e con maggior ragione, il corriere di Asuncion… e pure Fabien… al suo ritorno dalla Patagonia…(Il Radiotelegrafista depone un foglio sul tavolo del Terzo Impiegato; ma questi, attento alle parole dei suoi compagni, non se ne accorge)</stage>
+      <sp who="#terzo impiegato">
+        <speaker>TERZO IMPIEGATO:</speaker>
+        <l>Ma Rivière è grande!…</l>
+      </sp>
+      <sp who="#quarto impiegato">
+        <speaker>QUARTO IMPIEGATO:</speaker>
+        <l>(alzandosi e disponendosi a uscire, con freddezza)</l>
+        <l>S’è parlato fin troppo…</l>
+      </sp>
+      <stage>QUARTO IMPIEGATO(alzandosi e disponendosi a uscire, con freddezza)S’è parlato fin troppo…</stage>
+      <sp who="#secondo impiegato">
+        <speaker>SECONDO IMPIEGATO:</speaker>
+        <l>(come sopra)</l>
+        <l>Vi accalorate per nulla…</l>
+      </sp>
+      <stage>SECONDO IMPIEGATO(come sopra)Vi accalorate per nulla…</stage>
+      <sp who="#primo impiegato">
+        <speaker>PRIMO IMPIEGATO:</speaker>
+        <l>(toccando il braccio al Terzo)</l>
+        <l>C’è un messaggio per Rivière…</l>
+        <l>(Il Secondo e il Quarto Impiegato escono dopo aver spenta la luce sui loro tavoli. Il Terzo Impiegato prende il foglio e lo scorre. Si alza e si dirige subito verso lo studio di Rivière)</l>
+      </sp>
+      <stage>PRIMO IMPIEGATO(toccando il braccio al Terzo)C’è un messaggio per Rivière…(Il Secondo e il Quarto Impiegato escono dopo aver spenta la luce sui loro tavoli. Il Terzo Impiegato prende il foglio e lo scorre. Si alza e si dirige subito verso lo studio di Rivière)</stage>
+      <stage>(Il Primo Impiegato spegne la luce sul suo tavolo ed esce sull’aeroporto)</stage>
+      <sp who="#rivière">
+        <speaker>RIVIÈRE:</speaker>
+        <l>(alzando appena il capo)</l>
+        <l>Notizie?</l>
+      </sp>
+      <stage>RIVIÈRE(alzando appena il capo)Notizie?</stage>
+      <stage>(Si rimette subito a scrivere)</stage>
+      <sp who="#terzo impiegato">
+        <speaker>TERZO IMPIEGATO:</speaker>
+        <l>Il corriere di Asuncion procede bene. Sarà qui verso le due. Viceversa si prevede un forte ritardo del corriere di Patagonia, il quale… sembra trovarsi… in una posizione difficile.</l>
+      </sp>
+      <sp who="#rivière">
+        <speaker>RIVIÈRE:</speaker>
+        <l>Chiedete il tempo agli scali.</l>
+        <l>(Rimane meditabondo)</l>
+      </sp>
+      <stage>RIVIÈREChiedete il tempo agli scali.(Rimane meditabondo)</stage>
+      <stage>(Il Terzo Impiegato esce in fretta e, arrivato nell’ufficio, si avvicina al Radiotelegrafista per interrogarlo)</stage>
+      <sp who="#terzo impiegato">
+        <speaker>TERZO IMPIEGATO:</speaker>
+        <l>(con agitazione)</l>
+        <l>E Bahia Blanca</l>
+      </sp>
+      <stage>TERZO IMPIEGATO(con agitazione)E Bahia Blanca</stage>
+      <div type="scene">
+        <head>Scena quarta</head>
+        <stage>(Timidamente, dalla porta di destra, entra la Signora Fabien)</stage>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>Signora…</l>
+        </sp>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>(presentandosi)</l>
+          <l>Simona Fabien…</l>
+        </sp>
+        <stage>SIGNORA FABIEN(presentandosi)Simona Fabien…</stage>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>(molto gentilmente)</l>
+          <l>Cercate… qualcuno, Signora?</l>
+        </sp>
+        <stage>ROBINEAU(molto gentilmente)Cercate… qualcuno, Signora?</stage>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>Mio marito ha atterrato?</l>
+        </sp>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>No.</l>
+        </sp>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>C’è ritardo?</l>
+        </sp>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>Sì. Ritardo.</l>
+        </sp>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>E a che ora sarà qui?</l>
+        </sp>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>A che ora? Non lo sappiamo.</l>
+        </sp>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>Ditemi, per favore, dov’è adesso?</l>
+        </sp>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>(consultando un registro aperto sul tavolo)</l>
+          <l>Dov’è? Vediamo… È partito da Comodoro… alle diciannove e trenta…</l>
+        </sp>
+        <stage>ROBINEAU(consultando un registro aperto sul tavolo)Dov’è? Vediamo… È partito da Comodoro… alle diciannove e trenta…</stage>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>E poi?</l>
+        </sp>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>Poi… molto ritardo. Molto ritardo a causa dei cattivo tempo.</l>
+        </sp>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>(sospirando)</l>
+          <l>Ah!… il cattivo tempo… Ed egli vola da tanto verso Trelew… Ma… invia messaggi? Cosa dice?</l>
+        </sp>
+        <stage>SIGNORA FABIEN(sospirando)Ah!… il cattivo tempo… Ed egli vola da tanto verso Trelew… Ma… invia messaggi? Cosa dice?</stage>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>(fingendo di non aver badato alle domande e tentando di congedare la Signora Fabien)</l>
+          <l>Signora… non appena sapremo qualche cosa… vi avvertiremo… s’intende…</l>
+        </sp>
+        <stage>ROBINEAU(fingendo di non aver badato alle domande e tentando di congedare la Signora Fabien)Signora… non appena sapremo qualche cosa… vi avvertiremo… s’intende…</stage>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>(più decisa)</l>
+          <l>Ho chiesto se invia messaggi…</l>
+        </sp>
+        <stage>SIGNORA FABIEN(più decisa)Ho chiesto se invia messaggi…</stage>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>Signora suoi messaggi non ci giungono con un tempo simile…</l>
+        </sp>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>(fra sé, esterrefatta)</l>
+          <l>Con un tempo simile…</l>
+        </sp>
+        <stage>SIGNORA FABIEN(fra sé, esterrefatta)Con un tempo simile…</stage>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>(tentando ancora di congedarla)</l>
+          <l>Signora, vi avvertiremo… s’intende…</l>
+        </sp>
+        <stage>ROBINEAU(tentando ancora di congedarla)Signora, vi avvertiremo… s’intende…</stage>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>(scuotendosi)</l>
+          <l>No! no! voglio parlare col Direttore!</l>
+        </sp>
+        <stage>SIGNORA FABIEN(scuotendosi)No! no! voglio parlare col Direttore!</stage>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>Il Signor Direttore è molto occupato… è in consiglio…</l>
+        </sp>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>Non me ne importa niente, non me ne importa niente! Voglio parlare col Signor Rivière!</l>
+        </sp>
+        <sp who="#robineau">
+          <speaker>ROBINEAU:</speaker>
+          <l>Un minuto, Signora.</l>
+          <l>(Robineau si asciuga la fronte. Poi si dirige verso lo studio e mormora qualche parola all’orecchio di Rivière)</l>
+        </sp>
+        <stage>ROBINEAUUn minuto, Signora.(Robineau si asciuga la fronte. Poi si dirige verso lo studio e mormora qualche parola all’orecchio di Rivière)</stage>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>(fra sé)</l>
+          <l>È quello che temevo.</l>
+        </sp>
+        <stage>RIVIÈRE(fra sé)È quello che temevo.</stage>
+        <stage>(La Signora Fabien, non potendo reggere all’angoscia e all’impazienza, traversa l’ufficio, scosta la tenda…Sulla porta dello studio appare la Signora Fabien. Robineau esce in fretta da sinistra. Alla vista di Rivière si direbbe che la Signora Fabien perda tutto il suo coraggio. I due si guardano a lungo, in silenzio)</stage>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>(timidamente)</l>
+          <l>Signor Rivière… scusate… ditemi… vi supplico, parlate…</l>
+        </sp>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>(imbarazzato)</l>
+          <l>Signora, accade spesso dover attendere, nel nostro mestiere…</l>
+        </sp>
+        <stage>RIVIÈRE(imbarazzato)Signora, accade spesso dover attendere, nel nostro mestiere…</stage>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>Ritornerà? Potrà tornare? Rispondete, Signor Rivière.</l>
+        </sp>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>(Fa un gesto, come per esortarla alla calma)</l>
+        </sp>
+        <stage>RIVIÈRE(Fa un gesto, come per esortarla alla calma)</stage>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>(continuando il suo pensiero)</l>
+          <l>Se non dovesse tornare… (io tremo) … a che serviranno quella lampada, quei fiori che ritroverò rientrando in casa?</l>
+        </sp>
+        <stage>SIGNORA FABIEN(continuando il suo pensiero)Se non dovesse tornare… (io tremo) … a che serviranno quella lampada, quei fiori che ritroverò rientrando in casa?</stage>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>(Fa un gesto, come sopra)</l>
+        </sp>
+        <stage>RIVIÈRE(Fa un gesto, come sopra)</stage>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>(come sopra)</l>
+          <l>E domani? i suoi vestiti, i suoi oggetti saran vani; il mio amore sarà vano… Che sarà mai di me, domani, tutta sola?</l>
+        </sp>
+        <stage>SIGNORA FABIEN(come sopra)E domani? i suoi vestiti, i suoi oggetti saran vani; il mio amore sarà vano… Che sarà mai di me, domani, tutta sola?</stage>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>(più imbarazzato che mai)</l>
+          <l>Signora…</l>
+        </sp>
+        <stage>RIVIÈRE(più imbarazzato che mai)Signora…</stage>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>(con accento molto diverso da quello precedente)</l>
+          <l>Quell’uom che la notte minaccia e già sommerge, avrebbe potuto con me viver felice. La prima legge non è forse quella di difendere la propria felicità? In nome di che cosa voi strappate gli uomini alla felicità? Ne avete il diritto? È giusto ciò che fate?</l>
+        </sp>
+        <stage>SIGNORA FABIEN(con accento molto diverso da quello precedente)Quell’uom che la notte minaccia e già sommerge, avrebbe potuto con me viver felice. La prima legge non è forse quella di difendere la propria felicità? In nome di che cosa voi strappate gli uomini alla felicità? Ne avete il diritto? È giusto ciò che fate?</stage>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>(rispondendo come chi ha atteso a lungo il momento di poter parlare)</l>
+          <l>Sì. Ne ho diritto. Ve lo dico io, Rivière. Giusto, ingiusto, per me sono parole che non hanno senso.</l>
+          <l>Prendo gli uomini per lanciarli fuor di sé stessi, verso quella vita forte, che, con la sua gioia, con tutto il suo dolore, è la sola che debba esser vissuta.</l>
+        </sp>
+        <stage>RIVIÈRE(rispondendo come chi ha atteso a lungo il momento di poter parlare)Sì. Ne ho diritto. Ve lo dico io, Rivière. Giusto, ingiusto, per me sono parole che non hanno senso.Prendo gli uomini per lanciarli fuor di sé stessi, verso quella vita forte, che, con la sua gioia, con tutto il suo dolore, è la sola che debba esser vissuta.</stage>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>(accasciatissima, con tono più umile e con espressione contenuta)</l>
+          <l>lo sono una donna ed amo; io parlo in nome del mio grande amore. Voi, uomo, seguite l’idea.</l>
+          <l>Ciascuno di noi parla in nome del suo mondo. Esistere non posso senza amore… e invece voi…</l>
+          <l>Ritornino o non ritornino i corrieri questa notte, voi sempre siete e sarete Rivière, il grande, Rivière, il vittorioso, che trascina la catena della sua pesante vittoria.</l>
+        </sp>
+        <stage>SIGNORA FABIEN(accasciatissima, con tono più umile e con espressione contenuta)lo sono una donna ed amo; io parlo in nome del mio grande amore. Voi, uomo, seguite l’idea.Ciascuno di noi parla in nome del suo mondo. Esistere non posso senza amore… e invece voi…Ritornino o non ritornino i corrieri questa notte, voi sempre siete e sarete Rivière, il grande, Rivière, il vittorioso, che trascina la catena della sua pesante vittoria.</stage>
+        <stage>(disperatamente)</stage>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>(commosso)</l>
+          <l>Signora, avrò notizie fra poco… ormai… Vi avvertirò.</l>
+        </sp>
+        <stage>RIVIÈRE(commosso)Signora, avrò notizie fra poco… ormai… Vi avvertirò.</stage>
+        <stage>(La Signora Fabien si dirige verso la porta. Al momento di uscire si volge ancora una volta a Rivière.)</stage>
+        <sp who="#signora fabien">
+          <speaker>SIGNORA FABIEN:</speaker>
+          <l>Signor Rivière… eravamo sposi… da sei settimane… appena…</l>
+          <l>(Esce, traversa l’ufficio e scompare. Rivière la segue con lo sguardo.)</l>
+        </sp>
+        <stage>SIGNORA FABIENSignor Rivière… eravamo sposi… da sei settimane… appena…(Esce, traversa l’ufficio e scompare. Rivière la segue con lo sguardo.)</stage>
+      </div>
+      <div type="scene">
+        <head></head>Scena quinta(Il Signor Rivière è solo nello studio. Nell’ufficio, ormai quasi buio, il Radiotelegrafista sta solo, immobile, davanti al quadro delle segnalazioni elettriche) <stage>Scena quinta(Il Signor Rivière è solo nello studio. Nell’ufficio, ormai quasi buio, il Radiotelegrafista sta solo, immobile, davanti al quadro delle segnalazioni elettriche)</stage>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>(fra sé)</l>
+          <l>Quanta felicità si può distruggere… in un istante!…</l>
+          <l>(Spegne il lume sul suo tavolo ed entra nell’ufficio)</l>
+        </sp>
+        <stage>RIVIÈRE(fra sé)Quanta felicità si può distruggere… in un istante!…(Spegne il lume sul suo tavolo ed entra nell’ufficio)</stage>
+        <stage>(al Radiotelegrafista)Tentate di comunicare con Fabien.</stage>
+        <stage>(lunga pausa; impaziente)Dunque? …</stage>
+        <sp who="#radiotelegrafista">
+          <speaker>RADIOTELEGRAFISTA:</speaker>
+          <l>Ogni messaggio minaccia il corriere. Ogni città segnala la marcia dell’uragano come quella di una invasione. Viene dall’interno e spazza tutta la strada verso il mare.</l>
+        </sp>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>(quasi tra sé)</l>
+          <l>È una notte difficile a vincere…</l>
+        </sp>
+        <stage>RIVIÈRE(quasi tra sé)È una notte difficile a vincere…</stage>
+        <sp who="#radiotelegrafista">
+          <speaker>RADIOTELEGRAFISTA:</speaker>
+          <l>(dopo una pausa)</l>
+          <l>Fabien risponde!…</l>
+        </sp>
+        <stage>RADIOTELEGRAFISTA(dopo una pausa)Fabien risponde!…</stage>
+        <stage>(L’attenzione di Rivière si fa più intensa)</stage>
+        <stage>(Da questo momento sino alla fine della scena il Radiotelegrafista dovrà sempre più immedesimarsi nell’azione; dovrà diventare, a poco a poco, si vorrebbe dire, quasi la persona del pilota Fabien)</stage>
+        <sp who="#radiotelegrafista">
+          <speaker>RADIOTELEGRAFISTA:</speaker>
+          <l>” Ditemi qualche cosa. Seguirò qualsiasi vostro consiglio. Ditemi di girare su me stesso e girerò.</l>
+          <l>Ditemi di marciare verso il Sud e marcerò. Voi, dalla terra, non mi abbandonate”.</l>
+        </sp>
+        <stage>(pausa)</stage>
+        <stage>(pausa)</stage>
+        <stage>(lunga pausa)</stage>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>(disperatamente)</l>
+          <l>È il livello delle colline! Tutte le masse del suolo, come strappate ai loro sostegni, schiodate, cominceranno a danzare ebbre intorno a lui! Cominceranno intorno a lui la danza pazza, che lo serrerà sempre più.</l>
+        </sp>
+        <stage>RIVIÈRE(disperatamente)È il livello delle colline! Tutte le masse del suolo, come strappate ai loro sostegni, schiodate, cominceranno a danzare ebbre intorno a lui! Cominceranno intorno a lui la danza pazza, che lo serrerà sempre più.</stage>
+        <stage>(al Radiotelegrafista, urlando)</stage>
+        <sp who="#radiotelegrafista">
+          <speaker>RADIOTELEGRAFISTA:</speaker>
+          <l>(Tenta di rimettersi in comunicazione con Fabien)</l>
+        </sp>
+        <stage>RADIOTELEGRAFISTA(Tenta di rimettersi in comunicazione con Fabien)</stage>
+        <stage>(pausa più lunga)</stage>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>Perduto!</l>
+          <l>(Cade accasciato su di una sedia)</l>
+        </sp>
+        <stage>RIVIÈREPerduto!(Cade accasciato su di una sedia)</stage>
+        <sp who="#radiotelegrafista">
+          <speaker>RADIOTELEGRAFISTA:</speaker>
+          <l>“Dov’è la terra?”.</l>
+        </sp>
+        <stage>(pausa)</stage>
+        <stage>(pausa più lunga)</stage>
+        <stage>(pausa lunghissima)</stage>
+        <stage>(Rivière, che accasciato sulla seggiola con la testa fra le mani, sembra non aver neppure udite le ultime comunicazioni del Radiotelegrafista, si scuote e si mette in ascolto)</stage>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>(calmo)</l>
+          <l>È la fine.</l>
+          <l>(contenendo appena una commozione quasi gioiosa)</l>
+          <l>Ma sa ancora sorridere!…</l>
+        </sp>
+        <stage>RIVIÈRE(calmo)È la fine.(contenendo appena una commozione quasi gioiosa)Ma sa ancora sorridere!…</stage>
+        <sp who="#radiotelegrafista">
+          <speaker>RADIOTELEGRAFISTA:</speaker>
+          <l>“Troppo bello…”.</l>
+        </sp>
+        <stage>(pausa)</stage>
+        <stage>(pausa lunghissima)</stage>
+        <stage>(Rivière prende il cappello e il mantello ed esce in fretta sull’aeroporto)</stage>
+      </div>
+      <div type="scene">
+        <head>Scena sesta</head>
+        <sp who="#terzo impiegato">
+          <speaker>TERZO IMPIEGATO:</speaker>
+          <l>(entrando da destra, seguito a pochi passi dal Primo Impiegato)</l>
+          <l>Il corriere di Asuncion è in vista!</l>
+        </sp>
+        <stage>TERZO IMPIEGATO(entrando da destra, seguito a pochi passi dal Primo Impiegato)Il corriere di Asuncion è in vista!</stage>
+        <stage>(grida sull’aeroporto)</stage>
+        <stage>(Entrano dal fondo il Secondo e il Quarto Impiegato.)</stage>
+        <sp who="#secondo impiegato">
+          <speaker>SECONDO IMPIEGATO:</speaker>
+          <l>Il suo rombo si fa più udibile… ascoltate! ascoltate!</l>
+        </sp>
+        <stage>(Robineau entra dal fondo. Dall’aeroporto, grida sempre più vicine)</stage>
+        <sp who="#i quattro impiegati">
+          <speaker>I QUATTRO IMPIEGATI:</speaker>
+          <l>Ecco che atterra all’aeroscalo Sud!</l>
+        </sp>
+        <stage>(Appena ora sembra che gli Impiegati si accorgano della presenza del Radiotelegrafista)</stage>
+        <sp who="#terzo impiegato">
+          <speaker>TERZO IMPIEGATO:</speaker>
+          <l>(al Radiotelegrafista)</l>
+          <l>E il corriere di Patagonia?</l>
+        </sp>
+        <stage>TERZO IMPIEGATO(al Radiotelegrafista)E il corriere di Patagonia?</stage>
+        <sp who="#quarto impiegato">
+          <speaker>QUARTO IMPIEGATO:</speaker>
+          <l>(come sopra)</l>
+          <l>Fabien?</l>
+        </sp>
+        <stage>QUARTO IMPIEGATO(come sopra)Fabien?</stage>
+        <sp who="#radiotelegrafista">
+          <speaker>RADIOTELEGRAFISTA:</speaker>
+          <l>(con semplicità)</l>
+          <l>Perduto.</l>
+        </sp>
+        <stage>RADIOTELEGRAFISTA(con semplicità)Perduto.</stage>
+        <sp who="#secondo impiegato">
+          <speaker>SECONDO IMPIEGATO:</speaker>
+          <l>(fa un gesto interrogativo)</l>
+        </sp>
+        <stage>SECONDO IMPIEGATO(fa un gesto interrogativo)</stage>
+        <sp who="#radiotelegrafista">
+          <speaker>RADIOTELEGRAFISTA:</speaker>
+          <l>Caduto in mare.</l>
+        </sp>
+        <stage>(I quattro impiegati e Robineau restano a capo basso, silenziosi. Intanto, dall’aeroporto, si odono voci confuse)</stage>
+        <sp who="#terzo impiegato">
+          <speaker>TERZO IMPIEGATO:</speaker>
+          <l>E Rivière?</l>
+        </sp>
+        <sp who="#radiotelegrafista">
+          <speaker>RADIOTELEGRAFISTA:</speaker>
+          <l>Mah!…</l>
+        </sp>
+        <sp who="#quarto impiegato">
+          <speaker>QUARTO IMPIEGATO:</speaker>
+          <l>Il responsabile è Rivière…</l>
+        </sp>
+        <sp who="#secondo impiegato">
+          <speaker>SECONDO IMPIEGATO:</speaker>
+          <l>La colpa sua, soltanto…</l>
+        </sp>
+        <sp who="#primo impiegato">
+          <speaker>PRIMO IMPIEGATO:</speaker>
+          <l>Non si faranno più voli di notte!</l>
+        </sp>
+        <sp who="#secondo impiegato">
+          <speaker>SECONDO IMPIEGATO:</speaker>
+          <l>(quasi ironico)</l>
+          <l>La grande idea di Rivière</l>
+        </sp>
+        <stage>SECONDO IMPIEGATO(quasi ironico)La grande idea di Rivière</stage>
+        <sp who="#terzo impiegato">
+          <speaker>TERZO IMPIEGATO:</speaker>
+          <l>Eppure…</l>
+        </sp>
+        <sp who="#quarto impiegato">
+          <speaker>QUARTO IMPIEGATO:</speaker>
+          <l>(troncandogli la frase)</l>
+          <l>Rivière è schiacciato…</l>
+        </sp>
+        <stage>QUARTO IMPIEGATO(troncandogli la frase)Rivière è schiacciato…</stage>
+        <sp who="#il coro">
+          <speaker>IL CORO:</speaker>
+          <l>(sull’aeroporto, sempre più vicino)</l>
+          <l>– E Fabien?</l>
+          <l>– Fabien?</l>
+          <l>– Perduto.</l>
+          <l>– Perduto.</l>
+          <l>– Non si faranno più voli di notte!</l>
+        </sp>
+        <stage>IL CORO(sull’aeroporto, sempre più vicino)– E Fabien?– Fabien?– Perduto.– Perduto.– Non si faranno più voli di notte!</stage>
+        <stage>(Gli Impiegati, Robineau e il Radiotelegrafista si mettono sulla porta in ascolto, con crescente agitazione)</stage>
+        <sp who="#il coro">
+          <speaker>IL CORO:</speaker>
+          <l>– La colpa è di Rivière!</l>
+          <l>– Rivière! Rivière!</l>
+          <l>– La colpa del disastro ricade su Rivière!</l>
+          <l>– Rivière! Rivière!</l>
+          <l>– Non si faranno più voli di notte!</l>
+        </sp>
+        <stage>(La folla, sempre più minacciosa, irrompe nell’ufficio. Il tumulto à altissimo. Ma tutto tace di colpo quando sulla porta della parete divisoria appare Rivière, in mantello e cappello. La sua statura sembra ingigantita)</stage>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>(calmo)</l>
+          <l>Il corriere d’Europa parte fra cinque minuti. La via è tracciata. Non ci si ferma.</l>
+        </sp>
+        <stage>RIVIÈRE(calmo)Il corriere d’Europa parte fra cinque minuti. La via è tracciata. Non ci si ferma.</stage>
+        <stage>(A un gesto di Rivière la massa incomincia lentamente a sfollare)</stage>
+      </div>
+      <div type="scene">
+        <head>RIVIÈRE</head>(a Robineau, ormai soli sulla scena)Se avessi sospeso una sola partenza, la causa dei voli di notte sarebbe stata perduta. Ma, prevenendo i deboli, che domani mi sconfesseranno, spingo quest’altro equipaggio incontro all’ignoto… forse… forse verso la morte; certo verso il futuro.<sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>(a Robineau, ormai soli sulla scena)</l>
+          <l>Se avessi sospeso una sola partenza, la causa dei voli di notte sarebbe stata perduta. Ma, prevenendo i deboli, che domani mi sconfesseranno, spingo quest’altro equipaggio incontro all’ignoto… forse… forse verso la morte; certo verso il futuro.</l>
+        </sp>
+        <stage>RIVIÈRE(a Robineau, ormai soli sulla scena)Se avessi sospeso una sola partenza, la causa dei voli di notte sarebbe stata perduta. Ma, prevenendo i deboli, che domani mi sconfesseranno, spingo quest’altro equipaggio incontro all’ignoto… forse… forse verso la morte; certo verso il futuro.</stage>
+        <stage>(Sull’aeroporto si illuminano le grandi lampade rosse. Non con gioia, ma con solennità, risuona il grido:)</stage>
+        <sp who="#il coro">
+          <speaker>IL CORO:</speaker>
+          <l>Rivière! Rivière!,</l>
+        </sp>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>(che, udito il suo nome, ha avuto un sussulto di gioia, subito represso, si volge verso l’aeroporto; poi, a Robineau:)</l>
+          <l>La disfatta è un’esperienza che avvicina la vera vittoria.</l>
+        </sp>
+        <stage>RIVIÈRE(che, udito il suo nome, ha avuto un sussulto di gioia, subito represso, si volge verso l’aeroporto; poi, a Robineau:)La disfatta è un’esperienza che avvicina la vera vittoria.</stage>
+        <sp who="#il coro">
+          <speaker>IL CORO:</speaker>
+          <l>Rivière! Rivière!</l>
+        </sp>
+        <stage>(Rivière e Robineau si dirigono verso il fondo della scena e guardano sull’aeroporto. Luci di potenti riflettori. Parte il corriere d’Europa)</stage>
+        <sp who="#il coro">
+          <speaker>IL CORO:</speaker>
+          <l>(allontanandosi)</l>
+          <l>Rivière! Rivière!</l>
+        </sp>
+        <stage>IL CORO(allontanandosi)Rivière! Rivière!</stage>
+        <stage>(Si spengono, una alla volta, le grandi lampade rosse. L’aeroporto rimane al buio)</stage>
+        <sp who="#rivière">
+          <speaker>RIVIÈRE:</speaker>
+          <l>Solo l’avvenimento in cammino ha importanza. Ricordate, Robineau.</l>
+          <l>(Ritorna lentamente verso lo studio. Robineau esce da destra)</l>
+        </sp>
+        <stage>RIVIÈRESolo l’avvenimento in cammino ha importanza. Ricordate, Robineau.(Ritorna lentamente verso lo studio. Robineau esce da destra)</stage>
+        <stage>(Rivière accende la lampada sul tavolo. Si guarda intorno. Siede al tavolo. A capo basso sembra pensare aqualche cosa. Pensa infatti a una frase della Signora Fabien… Solleva lentamente il capo e mormora tra sé, con grande commozione:)</stage>
+        <stage>(Rimane un momento con gli occhi fissi nel vuoto. Poi riabbassa il capo, cerca un foglio sul tavolo e riprende il lavoro, mentre la tela cala lentamente)</stage>
+        <sp who="#fine dell’opera">
+          <speaker>FINE DELL’OPERA:</speaker>
+        </sp>
+      </div>
+    </div>
+  </text>
+</TEI>

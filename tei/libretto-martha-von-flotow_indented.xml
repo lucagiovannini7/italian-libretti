@@ -1,0 +1,3265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">artha</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="sceriffo">
+            <persName>SCERIFFO:</persName>
+          </person>
+          <person xml:id="plumkett">
+            <persName>PLUMKETT:</persName>
+          </person>
+          <person xml:id="gli uomini">
+            <persName>GLI UOMINI:</persName>
+          </person>
+          <person xml:id="molly">
+            <persName>MOLLY:</persName>
+          </person>
+          <person xml:id="gli altri, lady enrichetta">
+            <persName>GLI ALTRI, LADY ENRICHETTA:</persName>
+          </person>
+          <person xml:id="lady enrichetta, nancy">
+            <persName>LADY ENRICHETTA, NANCY:</persName>
+          </person>
+          <person xml:id="fattoritori">
+            <persName>FATTORITORI:</persName>
+          </person>
+          <person xml:id="nancy, lady enrichetta">
+            <persName>NANCY, LADY ENRICHETTA:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="coro di servene">
+            <persName>CORO DI SERVENE:</persName>
+          </person>
+          <person xml:id="una serva">
+            <persName>UNA SERVA:</persName>
+          </person>
+          <person xml:id="plumkett, coro">
+            <persName>PLUMKETT, CORO:</persName>
+          </person>
+          <person xml:id="servo">
+            <persName>SERVO:</persName>
+          </person>
+          <person xml:id="coro di serve">
+            <persName>CORO DI SERVE:</persName>
+          </person>
+          <person xml:id="plumkett, lionello">
+            <persName>PLUMKETT, LIONELLO:</persName>
+          </person>
+          <person xml:id="nancy">
+            <persName>NANCY:</persName>
+          </person>
+          <person xml:id="tristano">
+            <persName>TRISTANO:</persName>
+          </person>
+          <person xml:id="un fattor">
+            <persName>UN FATTOR:</persName>
+          </person>
+          <person xml:id="lionello">
+            <persName>LIONELLO:</persName>
+          </person>
+          <person xml:id="serve">
+            <persName>SERVE:</persName>
+          </person>
+          <person xml:id="lionello, plumkett">
+            <persName>LIONELLO, PLUMKETT:</persName>
+          </person>
+          <person xml:id="tolly">
+            <persName>TOLLY:</persName>
+          </person>
+          <person xml:id="plumkett">
+            <persName>PLUMKETT.:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="plumkett, ionello">
+            <persName>PLUMKETT, IONELLO:</persName>
+          </person>
+          <person xml:id="lady enrichetta">
+            <persName>LADY ENRICHETTA:</persName>
+          </person>
+          <person xml:id="lady enrichetta, nancy">
+            <persName>LADY ENRICHETTA, NANCY:</persName>
+          </person>
+          <person xml:id="sir tristano">
+            <persName>SIR TRISTANO:</persName>
+          </person>
+          <person xml:id="lumkett">
+            <persName>LUMKETT:</persName>
+          </person>
+          <person xml:id="lady lady enrichetta">
+            <persName>LADY LADY ENRICHETTA:</persName>
+          </person>
+          <person xml:id="betly">
+            <persName>BETLY:</persName>
+          </person>
+          <person xml:id="fattori">
+            <persName>FATTORI:</persName>
+          </person>
+          <person xml:id="nancy, plumkett">
+            <persName>NANCY, PLUMKETT:</persName>
+          </person>
+          <person xml:id="lionello">
+            <persName>LIONELLO.:</persName>
+          </person>
+          <person xml:id="altre">
+            <persName>ALTRE:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>Ruolo</castItem>
+        <castItem>Voce</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="scene">
+        <head>Scena Prima</head>
+        <stage>(Salotto di Lady Enrichetta, con verone.Lady Enrichetta, Nancy, donne)COROTu più vaga d’una stella,Dell’aprile il più bel fior,Tu gentil, leggiadra e bella,Il desio di tutti i cor,Perchè mai solinga e mestaViver vuoi, giovin beltà?Nè t’allieta alcuna festaAll’aurora dell’età ?</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>(presentandole un mazzolino di fiori)</l>
+          <l>Questi fior di sir Tristano ?…</l>
+        </sp>
+        <stage>NANCY(presentandole un mazzolino di fiori)Questi fior di sir Tristano ?…</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Non li voglio; serba i fior.</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>(offrendole un monile di gemme)</l>
+          <l>Questo dono d’un sovrano?…</l>
+        </sp>
+        <stage>NANCY(offrendole un monile di gemme)Questo dono d’un sovrano?…</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Ah! per me non ha valor.</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Ma…</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Mi lascia.</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Oh! s’io…</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(interrompendola con impazienza)</l>
+          <l>Né sola m’e concesso di restar!</l>
+          <l>Ogni voce, ogni parola</l>
+          <l>Fa più crudo il mio penar.</l>
+        </sp>
+        <stage>LADY ENRICHETTA(interrompendola con impazienza)Né sola m’e concesso di restar!Ogni voce, ogni parolaFa più crudo il mio penar.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Tu più vaga d’una stella,</l>
+          <l>Dell’aprile il più bel fior, ecc.</l>
+        </sp>
+        <stage>(le donne partono)</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Seconda</head>
+        <stage>(Lady Enrichetta e Nancy)NANCYMesta ognor?…</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Pianger vorrei.</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Perchè mai?</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Perchè nol so…</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Lo svelare Io potrei,</l>
+          <l>Se il chiedessi al’ vostro cor</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Chiedil pure.</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Amor soltanto</l>
+          <l>Di quel pianto io credo autor.</l>
+          <l>Questo duol che si v’affanna,</l>
+          <l>Mel credete, vien dal cor:</l>
+          <l>La tristezza che tiranna</l>
+          <l>Vi copriva di pallor,</l>
+          <l>Io so ben, tristezza e duolo</l>
+          <l>Vengon solo – dall’amor.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Ah! t’illudi; invano il cielo</l>
+          <l>Per amar mi dava un cor;</l>
+          <l>Come langue fior per gelo</l>
+          <l>Io mi’ struggo pel dolor.</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Quai fantasmi vi create!</l>
+          <l>Via, scacciate il rio martir.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Con me stessa anch’io m’adiro,</l>
+          <l>Nè più aspiro che a morir.</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>(Fra sè)</l>
+          <l>Le sue Labbra non disserra</l>
+          <l>Il sorriso dell’amor;</l>
+          <l>Non v’è gioia sulla terra</l>
+          <l>Che lenisca il suo dolor!</l>
+        </sp>
+        <stage>NANCY(Fra sè)Le sue Labbra non disserraIl sorriso dell’amor;Non v’è gioia sulla terraChe lenisca il suo dolor!</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(Fra sè)</l>
+          <l>Le mie labbra non disserra.</l>
+          <l>Il sorriso dell’amor;</l>
+          <l>Non v’è gioia sulla terra</l>
+          <l>Che lenisca il mio dolor!</l>
+        </sp>
+        <stage>LADY ENRICHETTA(Fra sè)Le mie labbra non disserra.Il sorriso dell’amor;Non v’è gioia sulla terraChe lenisca il mio dolor!</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Danze, corse, giostre e feste</l>
+          <l>Voi dovreste qui veder;</l>
+          <l>Tutto brilla a voi d’intorno</l>
+          <l>Tutto invita qui a goder;</l>
+          <l>Cada i1 sole, nasca il giorno,</l>
+          <l>Non irradia che il piacer.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Chi può dir dov’è la calma</l>
+          <l>Che vorrei, nè so trovar!</l>
+          <l>Chi può dir perchè quest’alma</l>
+          <l>E dannata a sospirar!</l>
+          <l>Preda son d’arcane ambascie,</l>
+          <l>Non so più sé m’abbia un cor,</l>
+          <l>Non m’allegra i1 di che nasce,</l>
+          <l>Non m’attrisla il di che muor.</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Sol l’amore il vostro tedio</l>
+          <l>Disipar, guarir potrà.</l>
+          <l>Altre uccide il suo rimedio,</l>
+          <l>Ma la vita a voi darà.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Scena Terza</head>
+        <stage>(Sir Tristano, annunziato da un Servo</stage>
+        <sp who="#servo">
+          <speaker>SERVO:</speaker>
+          <l>(annunziando)</l>
+          <l>Sir Tristan di Mikleford</l>
+          <l>D’Inghilterra pari e lord,</l>
+          <l>Baronetto e gran scudiero…</l>
+        </sp>
+        <stage>SERVO(annunziando)Sir Tristan di MiklefordD’Inghilterra pari e lord,Baronetto e gran scudiero…</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(interrompendolo)</l>
+          <l>Basta, basta, via, ciarliero!</l>
+        </sp>
+        <stage>LADY ENRICHETTA(interrompendolo)Basta, basta, via, ciarliero!</stage>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>(entrando)</l>
+          <l>Vezzosissima cugina,</l>
+        </sp>
+        <stage>SIR TRISTANO(entrando)Vezzosissima cugina,</stage>
+        <stage>(prostrandosi)</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(impaziente)</l>
+          <l>Dite subito, ché c’è ?</l>
+        </sp>
+        <stage>LADY ENRICHETTA(impaziente)Dite subito, ché c’è ?</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Via, sorgete dal suo pie.</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Oso chieder…</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(come sopra)</l>
+          <l>Più spedito!</l>
+        </sp>
+        <stage>LADY ENRICHETTA(come sopra)Più spedito!</stage>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Se vi posso dir buon di,</l>
+          <l>E se avete ben dormito.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(a Nancy)</l>
+          <l>Dillo tu.</l>
+        </sp>
+        <stage>LADY ENRICHETTA(a Nancy)Dillo tu.</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>(A Tristano)</l>
+          <l>Cosi, cosi.</l>
+        </sp>
+        <stage>NANCY(A Tristano)Cosi, cosi.</stage>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Domandar volea del pari.</l>
+          <l>Se vorreste oggi goder</l>
+          <l>D’una corsa di somari…</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Vi farete là veder?…</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Ma sapete…</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(con impazienza)</l>
+          <l>So ogni cosa.</l>
+        </sp>
+        <stage>LADY ENRICHETTA(con impazienza)So ogni cosa.</stage>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Che voi siete…</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Il resto io so.</l>
+          <l>Una spina in core ascosa</l>
+          <l>Voi serbate. È vero o no?</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Voi ridete; segno è questo</l>
+          <l>Che fo breccia in quel bel cor,</l>
+          <l>Come no, se vispo e lesto,</l>
+          <l>Cuginetta, io sono ancor!</l>
+        </sp>
+      </div>
+    </body>
+    <div type="act">
+      <head>LADY ENRICHETTA</head>(Fra sè)Ah! che matto! che figura!Vecchio, brutto, e chiede ‘amor;No, che egual caricatura,Scimmia ugual non vidi ancor!<sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>(Fra sè)</l>
+        <l>Ah! che matto! che figura!</l>
+        <l>Vecchio, brutto, e chiede ‘amor;</l>
+        <l>No, che egual caricatura,</l>
+        <l>Scimmia ugual non vidi ancor!</l>
+      </sp>
+      <stage>LADY ENRICHETTA(Fra sè)Ah! che matto! che figura!Vecchio, brutto, e chiede ‘amor;No, che egual caricatura,Scimmia ugual non vidi ancor!</stage>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Ella ride; segno è questo</l>
+        <l>Che gradisce il vostro amor.</l>
+        <l>E fa ben che visto e presto,</l>
+        <l>Sir Tristano, siete ancor.</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>(ad Enr.)</l>
+        <l>Corse al prato?</l>
+      </sp>
+      <stage>SIR TRISTANO(ad Enr.)Corse al prato?</stage>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>(a Tristano)</l>
+        <l>Il mio ventaglio</l>
+      </sp>
+      <stage>LADY ENRICHETTA(a Tristano)Il mio ventaglio</stage>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>(va a prendere il ventaglio e lo dà</l>
+        <l>a lady Enriehitta)</l>
+        <l>In battello?</l>
+      </sp>
+      <stage>SIR TRISTANO(va a prendere il ventaglio e lo dàa lady Enriehitta)In battello?</stage>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>(a Tristano)</l>
+        <l>I fior…</l>
+      </sp>
+      <stage>LADY ENRICHETTA(a Tristano)I fior…</stage>
+      <stage>(Tristano va a prenderli)</stage>
+      <stage>(Tristano lascia i fiori)</stage>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>(Fra sè)</l>
+        <l>Gli fa fare il burattino.</l>
+      </sp>
+      <stage>NANCY(Fra sè)Gli fa fare il burattino.</stage>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>Oh! qual vento nel giardino!</l>
+        <l>Quel veron chiuder volete?</l>
+      </sp>
+      <stage>(Tristano lo chiude)</stage>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>Caccie?</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>Ed ora il caldo e troppo!</l>
+        <l>Aprite! Aria!…</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>Aprir.</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>Correte.</l>
+      </sp>
+      <stage>(Tristano lo riapre)</stage>
+      <stage>(s’ode venir dalla strada il canto dellecontadine che vanno alla fiera di Richmond)</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Qui veniamo liete in cor,</l>
+        <l>Non chiediamo che lavor;</l>
+        <l>Guadagnare noi vogliam:</l>
+        <l>Come fare? serve siam!</l>
+        <l>Serve, siamo e in cerca andiamo</l>
+        <l>D’un padron</l>
+        <l>Che sia buon.</l>
+        <l>Se cerchiamo lo troviamo.</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>(ascolta.)</l>
+        <l>Quali voci!</l>
+      </sp>
+      <stage>LADY ENRICHETTA(ascolta.)Quali voci!</stage>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>E come liete!</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>Dan fastidio e nulla più.</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Che! del mio parer non siete?</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>(Fra sè)</l>
+        <l>Ignorante servitù!</l>
+      </sp>
+      <stage>SIR TRISTANO(Fra sè)Ignorante servitù!</stage>
+      <stage>(s’odono, di nuovo le voci delle servevenir dalla strada)</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Serve siamo ma che fa,</l>
+        <l>Quando abbiamo l’onesta?</l>
+        <l>Se vigor zelo e onor,</l>
+        <l>Chiede sol chi ci vuol,</l>
+        <l>Chi ci vuol paghi ben.</l>
+        <l>Proverem</l>
+        <l>E vedrem</l>
+        <l>Se con lui restar convien.</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Son le serve; ho indovinalo</l>
+        <l>Dalle voci il lieto suon:</l>
+        <l>Di Richmond vanno al mercato,</l>
+        <l>Vanno in cerca d’un padron.</l>
+        <l>Non han dote; il loro tesoro</l>
+        <l>Son le braccia e l’onesta.</l>
+        <l>Ma ‘se povere son d’oro,</l>
+        <l>Ricche son d’ilarità.</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>Strana legge!</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Cosi si usa.</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>S’io potessi!… Qual pensier!</l>
+        <l>Con le serve anch’io confusa</l>
+        <l>Del mercato il brio veder…</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>Pazzarella!</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>A me parlate?</l>
+        <l>Per dispetto lo faro…</l>
+        <l>Vo’ che voi m’accompagnate.</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>Qual follia? Vi pare!… Oibò!</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>Ho il vestir da contadina</l>
+        <l>Del veglion della Regina…</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>Degradarvi, o ciel! cosi?</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>Vo’ distrarmi! Va, Nancy,</l>
+        <l>Presto, pria che inoltri il di.</l>
+        <l>Marta io son; Nancy, voi John…</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>Marta, John ma dove son?</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>Marta io son, John siete voi.</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>John! io John! oh questo no.</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>(avvicinandosi a lui e facendogli delle moine)</l>
+        <l>E d’amarmi dici poi ?…</l>
+        <l>Chi ricusa amar non può.</l>
+        <l>Brami dunque ch’io ti preghi ?</l>
+        <l>Un capriccio a me tu neghi?</l>
+        <l>Vedi, a te serbai quei fior.</l>
+      </sp>
+      <stage>LADY ENRICHETTA(avvicinandosi a lui e facendogli delle moine)E d’amarmi dici poi ?…Chi ricusa amar non può.Brami dunque ch’io ti preghi ?Un capriccio a me tu neghi?Vedi, a te serbai quei fior.</stage>
+      <stage>(prende i fiori e glieli da)</stage>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>(sospirando e cedendo)</l>
+        <l>Ah!</l>
+      </sp>
+      <stage>SIR TRISTANO(sospirando e cedendo)Ah!</stage>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>La danza del contado</l>
+        <l>Or, Nancy, gli dêi mostrar.</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>Con questi abiti! Vi par!</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>Presto, in collera già vado..,.</l>
+      </sp>
+      <stage>(con dolcezza)</stage>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Attenzione! il ballo è questo…</l>
+      </sp>
+      <stage>(mostrando la danza del villaggio)</stage>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>E dovrei?</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>(insistendo)</l>
+        <l>Ma si, consenti.</l>
+      </sp>
+      <stage>LADY ENRICHETTA(insistendo)Ma si, consenti.</stage>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>Un mio pari!</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Stiamo attenti.</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>Come ?… un lord!</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>(prendendolo per mano)</l>
+        <l>Badate a me!</l>
+        <l>Ecco qua come si fa;</l>
+        <l>Tra, la, la, lara, la, la.</l>
+        <l>Com’è svelto!</l>
+      </sp>
+      <stage>NANCY(prendendolo per mano)Badate a me!Ecco qua come si fa;Tra, la, la, lara, la, la.Com’è svelto!</stage>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>Com’è bello!</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>(Fra sè)</l>
+        <l>Ahi! che fiato non ho più.</l>
+      </sp>
+      <stage>SIR TRISTANO(Fra sè)Ahi! che fiato non ho più.</stage>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>Che bel tipo!</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Che modello!</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>(Fra sè)</l>
+        <l>Se ancor dura, casco giù.</l>
+      </sp>
+      <stage>SIR TRISTANO(Fra sè)Se ancor dura, casco giù.</stage>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>Che prodigio! che sveltezza!</l>
+        <l>Bravo! bravo, qual vigor!</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>Che tormento, che stanchezza!</l>
+        <l>Basta! basta! ho male. al cor.</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Oh! che grazia! che bel dorso!</l>
+        <l>Non son sazia d’ammirar.</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>(Fra sè)</l>
+        <l>La figura. fo dell’orso</l>
+        <l>Che le scimmie fan danzar.</l>
+      </sp>
+      <stage>SIR TRISTANO(Fra sè)La figura. fo dell’orsoChe le scimmie fan danzar.</stage>
+      <div type="scene">
+        <head>Scena Quarta</head>
+        <stage>(La piazza di Richmond. Botteghe, panche, deschi,sgabelli. fattori, contadini, poi le serve)</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>FATTORITORI</head>Accorrete, giovinette,Accorrete, a che tardar?Qui venite, ingenue, schiette,Non vi fate più aspettar!Il più vago corsalettoEd. un nastro porporinDee fregiare il vostro petto,Intrecciarsi al vostro crin.Su!Se sarete oneste e buone,Se il lavoro si farà,Troverete un buon padrone,Che per voi riguardi avrà!Accorrete, giovinette,Non vi fate più aspettar.Senza valide servetteNon possiamo noi restar.Ecco, giungono al villaggio,Restiam qui sul lor passaggio.<sp who="#fattoritori">
+        <speaker>FATTORITORI:</speaker>
+        <l>Accorrete, giovinette,</l>
+        <l>Accorrete, a che tardar?</l>
+        <l>Qui venite, ingenue, schiette,</l>
+        <l>Non vi fate più aspettar!</l>
+        <l>Il più vago corsaletto</l>
+        <l>Ed. un nastro porporin</l>
+        <l>Dee fregiare il vostro petto,</l>
+        <l>Intrecciarsi al vostro crin.</l>
+        <l>Su!</l>
+        <l>Se sarete oneste e buone,</l>
+        <l>Se il lavoro si farà,</l>
+        <l>Troverete un buon padrone,</l>
+        <l>Che per voi riguardi avrà!</l>
+        <l>Accorrete, giovinette,</l>
+        <l>Non vi fate più aspettar.</l>
+        <l>Senza valide servette</l>
+        <l>Non possiamo noi restar.</l>
+        <l>Ecco, giungono al villaggio,</l>
+        <l>Restiam qui sul lor passaggio.</l>
+      </sp>
+      <sp who="#serve">
+        <speaker>SERVE:</speaker>
+        <l>(arrivando)</l>
+        <l>Qui veniamo liete in cor,</l>
+        <l>Non chiediamo che lavor,</l>
+        <l>Guadagnare noi vogliam;</l>
+        <l>Come fare, serve siam! ecc.</l>
+      </sp>
+      <stage>SERVE(arrivando)Qui veniamo liete in cor,Non chiediamo che lavor,Guadagnare noi vogliam;Come fare, serve siam! ecc.</stage>
+    </div>
+    <div type="act">
+      <head>FATTORI</head>Via, servette, v’affrettate,Da gran tempo v’aspettiamo.<sp who="#fattori">
+        <speaker>FATTORI:</speaker>
+        <l>Via, servette, v’affrettate,</l>
+        <l>Da gran tempo v’aspettiamo.</l>
+      </sp>
+      <sp who="#serve">
+        <speaker>SERVE:</speaker>
+        <l>Dal mattino’ noi corriamo,</l>
+        <l>Anelanti ci trovate.</l>
+      </sp>
+    </div>
+    <div type="act">
+      <head>FATTORI</head>Se discrete voi sarete,Con noi tutti rimarrete.<sp who="#fattori">
+        <speaker>FATTORI:</speaker>
+        <l>Se discrete voi sarete,</l>
+        <l>Con noi tutti rimarrete.</l>
+      </sp>
+      <sp who="#serve">
+        <speaker>SERVE:</speaker>
+        <l>Si, ma quel che far sappiamo</l>
+        <l>Non è qui che vel mostriamo.</l>
+      </sp>
+    </div>
+    <div type="act">
+      <head>FATTORI</head>Dagli stenti del camminoUn tantino, se volete,Vi potete riposar.<sp who="#fattori">
+        <speaker>FATTORI:</speaker>
+        <l>Dagli stenti del cammino</l>
+        <l>Un tantino, se volete,</l>
+        <l>Vi potete riposar.</l>
+      </sp>
+      <sp who="#serve">
+        <speaker>SERVE:</speaker>
+        <l>Dagli stenti del viaggio</l>
+        <l>Nel villaggio ci possiamo,</l>
+        <l>Se vogliamo riposar.</l>
+      </sp>
+      <stage>(partono)</stage>
+      <div type="scene">
+        <head>Scena Quinta</head>
+      </div>
+    </div>
+    <div type="act">
+      <head>(Plumkett e Lionello)</head>PLUMKETTQuante voci! quante grida!Che terribile frastuon!Qui le serve il lucro guida;Tutte cercano un padron.Tu, fratello, almen lo spero,La tua scelta hai fatto già! <stage>(Plumkett e Lionello)PLUMKETTQuante voci! quante grida!Che terribile frastuon!Qui le serve il lucro guida;Tutte cercano un padron.Tu, fratello, almen lo spero,La tua scelta hai fatto già!</stage>
+      <sp who="#lionello">
+        <speaker>LIONELLO:</speaker>
+        <l>E perchè?</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Perchè? Davvero</l>
+        <l>Strana inchiesta tu mi fai!</l>
+        <l>Nel morir la madre, il sai,</l>
+        <l>Disse: Or chi ti guiderà?</l>
+      </sp>
+      <sp who="#lionello">
+        <speaker>LIONELLO:</speaker>
+        <l>Sia dal cielo benedetta!</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Fu paziente, fu amorosa,</l>
+        <l>Pei suoi figli senza posa</l>
+        <l>Fu veduta a lavorar…</l>
+        <l>Le carezze, i baci suoi</l>
+        <l>Tutti furono per te.</l>
+        <l>Sgarbi e busse eran poi</l>
+        <l>Riserbati solo a me.</l>
+      </sp>
+      <sp who="#lionello">
+        <speaker>LIONELLO:</speaker>
+        <l>Buon fratello!</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Via, fa core!</l>
+        <l>Non sei solo, teco io sto.</l>
+        <l>Per me sacro è il tuo dolore.</l>
+        <l>Scudo e guida a te sarò.</l>
+      </sp>
+      <sp who="#lionello">
+        <speaker>LIONELLO:</speaker>
+        <l>Solo, misero, reietto,</l>
+        <l>Di mia vita sul mattin,</l>
+        <l>Sotto il vostro amico tetto</l>
+        <l>Accoglieste un pellegrin:</l>
+        <l>Era l’uom che a me fu padre,</l>
+        <l>Egli a voi, mi confidò,</l>
+        <l>Poi la voce di mia madre</l>
+        <l>Là nel ciel 1o richiamò.</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Noi giammai saper potemmo</l>
+        <l>Chi foss’ei, donde venia,</l>
+        <l>Questa gemma sol vedemmo</l>
+        <l>A te dar mentre moria;</l>
+        <l>E ti disse: ” Se mio, figlio</l>
+        <l>Un, periglio incontrerà,</l>
+        <l>Ch’ei la mostri alla sovrana,</l>
+        <l>Nè a lui vana tornerà.”</l>
+      </sp>
+      <sp who="#lionello">
+        <speaker>LIONELLO:</speaker>
+        <l>Fratel mio, me non seduce</l>
+        <l>Delle corti lo splendor,</l>
+        <l>Non son vago, d’altra luce</l>
+        <l>Che del raggio dell’amor,</l>
+        <l>Pace amica qui godiamo,</l>
+        <l>Regna qui la lealtà,</l>
+        <l>Le dovizie non cerchiamo,</l>
+        <l>Un tesoro e l’amistà.</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Si, fratel, te non seduce</l>
+        <l>Delle corti lo splendor,</l>
+        <l>Non sei vago d’altra luce, ecc.</l>
+      </sp>
+      <div type="scene">
+        <head>Scena Sesta</head>
+        <stage>(Fattori e Serve arrivando in folla,lo Sceriffo, i precedenti. Suona mezzodì)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ecco suona mezzodì,</l>
+          <l>Il mercato s’apre già,</l>
+          <l>Tutti pronti siamo qui,</l>
+          <l>Lo Sceriffo arriverà.</l>
+          <l>Largo! largo! eccolo qua,</l>
+          <l>I contratti approverà.</l>
+        </sp>
+        <sp who="#sceriffo">
+          <speaker>SCERIFFO:</speaker>
+          <l>Nessun s’oda più fiatar,</l>
+          <l>Sol la legge dee parlar.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Stiam la legge ad ascoltar.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>SCERIFFO</head>(leggendo una pergamena munitadi suggelli)“Noi regina d’Inghilterra…”V’inchinate come me,Che m’inchino sino a terra.“Comandiamo e vogliam cheUn contralto che al mercatoSarà fatto di RichmondS’abbia’ come stipulatoE di pubblica ragion. .Chi a servire qui si esponeQuando l’arra riceve,Per lo meno il suo padroneTutto un anno servir de’.”È cosi?<sp who="#sceriffo">
+        <speaker>SCERIFFO:</speaker>
+        <l>(leggendo una pergamena munita</l>
+        <l>di suggelli)</l>
+        <l>“Noi regina d’Inghilterra…”</l>
+        <l>V’inchinate come me,</l>
+        <l>Che m’inchino sino a terra.</l>
+        <l>“Comandiamo e vogliam che</l>
+        <l>Un contralto che al mercato</l>
+        <l>Sarà fatto di Richmond</l>
+        <l>S’abbia’ come stipulato</l>
+        <l>E di pubblica ragion. .</l>
+        <l>Chi a servire qui si espone</l>
+        <l>Quando l’arra riceve,</l>
+        <l>Per lo meno il suo padrone</l>
+        <l>Tutto un anno servir de’.”</l>
+        <l>È cosi?</l>
+      </sp>
+      <stage>SCERIFFO(leggendo una pergamena munitadi suggelli)“Noi regina d’Inghilterra…”V’inchinate come me,Che m’inchino sino a terra.“Comandiamo e vogliam cheUn contralto che al mercatoSarà fatto di RichmondS’abbia’ come stipulatoE di pubblica ragion. .Chi a servire qui si esponeQuando l’arra riceve,Per lo meno il suo padroneTutto un anno servir de’.”È cosi?</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Nessun s’oppone.</l>
+      </sp>
+      <sp who="#sceriffo">
+        <speaker>SCERIFFO:</speaker>
+        <l>Or lasciatevi veder –</l>
+      </sp>
+      <stage>(fa avanzare una delle serve)</stage>
+      <sp who="#molly">
+        <speaker>MOLLY:</speaker>
+        <l>(avanzandosi)</l>
+        <l>Io cucino, orlo, ricamo,</l>
+        <l>Riposare mai non bramo,</l>
+        <l>Spacco legna, vengo, vo,</l>
+        <l>Ed in ozio non mi sto</l>
+      </sp>
+      <stage>MOLLY(avanzandosi)Io cucino, orlo, ricamo,Riposare mai non bramo,Spacco legna, vengo, vo,Ed in ozio non mi sto</stage>
+      <sp who="#sceriffo">
+        <speaker>SCERIFFO:</speaker>
+        <l>Quattro lire! chi la vuole?</l>
+      </sp>
+    </div>
+    <div type="act">
+      <head>UN FATTOR</head>Qua son io! non più parole.<sp who="#un fattor">
+        <speaker>UN FATTOR:</speaker>
+        <l>Qua son io! non più parole.</l>
+      </sp>
+      <sp who="#sceriffo">
+        <speaker>SCERIFFO:</speaker>
+        <l>(chiamando una seconda serva)</l>
+        <l>Tu, Tolly, che sai tu far?</l>
+      </sp>
+      <stage>SCERIFFO(chiamando una seconda serva)Tu, Tolly, che sai tu far?</stage>
+      <sp who="#tolly">
+        <speaker>TOLLY:</speaker>
+        <l>(avanzandosi)</l>
+        <l>Fo le. torte, fa il vin mosto.</l>
+        <l>Fo le creme, il bove arrosto,</l>
+        <l>Per cucire e per lavar</l>
+        <l>Me nessuna può uguagliar.</l>
+      </sp>
+      <stage>TOLLY(avanzandosi)Fo le. torte, fa il vin mosto.Fo le creme, il bove arrosto,Per cucire e per lavarMe nessuna può uguagliar.</stage>
+      <sp who="#sceriffo">
+        <speaker>SCERIFFO:</speaker>
+        <l>Cinque lire! Chi la prende?</l>
+      </sp>
+    </div>
+    <div type="act">
+      <head>UN FATTOR</head>Io, se alcun non vi pretende.<sp who="#un fattor">
+        <speaker>UN FATTOR:</speaker>
+        <l>Io, se alcun non vi pretende.</l>
+      </sp>
+      <sp who="#sceriffo">
+        <speaker>SCERIFFO:</speaker>
+        <l>(chiamandone una terza)</l>
+        <l>Betly, vieni, spetta a te.</l>
+      </sp>
+      <stage>SCERIFFO(chiamandone una terza)Betly, vieni, spetta a te.</stage>
+      <sp who="#betly">
+        <speaker>BETLY:</speaker>
+        <l>Curo i polli, fa il bucato,</l>
+        <l>Tesso, filo, innaffio il prato,</l>
+        <l>Fo pudding, il burro, il thè,</l>
+        <l>Sempre pronta, sempre in piè.</l>
+      </sp>
+      <sp who="#sceriffo">
+        <speaker>SCERIFFO:</speaker>
+        <l>(alle altre)</l>
+        <l>Kitty Bel e Liddy Well!</l>
+        <l>Nelly Box e Jally Fox!</l>
+      </sp>
+      <stage>SCERIFFO(alle altre)Kitty Bel e Liddy Well!Nelly Box e Jally Fox!</stage>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>(rispondendo simultaneamente)</l>
+        <l>Fo le calze, netto, spazzo,</l>
+        <l>Rammendar so un vecchio arazzo.</l>
+        <l>Mangio poco, e posso dir</l>
+        <l>Che non so che sia dormir.</l>
+        <l>I bambini cullo ed amo</l>
+        <l>Come fosser figli miei.</l>
+        <l>Buona a tutto qui mi chiame.</l>
+        <l>Non so cosa ‘non farei,</l>
+        <l>Posso dir che una gallina</l>
+        <l>Fa per me quattr’ovi al di.</l>
+        <l>Non mi vanto, ma in cucina</l>
+        <l>Chi mi tenne s’arricci.</l>
+      </sp>
+      <stage>TUTTI(rispondendo simultaneamente)Fo le calze, netto, spazzo,Rammendar so un vecchio arazzo.Mangio poco, e posso dirChe non so che sia dormir.I bambini cullo ed amoCome fosser figli miei.Buona a tutto qui mi chiame.Non so cosa ‘non farei,Posso dir che una gallinaFa per me quattr’ovi al di.Non mi vanto, ma in cucinaChi mi tenne s’arricci.</stage>
+    </div>
+    <div type="act">
+      <head>SCERIFFO</head>(turandosi le orecchie)Che gridio, che scampanar!Che tempesta, che vociar!Noi vedremo cosa fanno,Come sanno cucinar.Se son buone, oneste serve.Le faremo guadagnar.Il contratto è bell’e fatto,La caparra ha avuto già.<sp who="#sceriffo">
+        <speaker>SCERIFFO:</speaker>
+        <l>(turandosi le orecchie)</l>
+        <l>Che gridio, che scampanar!</l>
+        <l>Che tempesta, che vociar!</l>
+        <l>Noi vedremo cosa fanno,</l>
+        <l>Come sanno cucinar.</l>
+        <l>Se son buone, oneste serve.</l>
+        <l>Le faremo guadagnar.</l>
+        <l>Il contratto è bell’e fatto,</l>
+        <l>La caparra ha avuto già.</l>
+      </sp>
+      <stage>SCERIFFO(turandosi le orecchie)Che gridio, che scampanar!Che tempesta, che vociar!Noi vedremo cosa fanno,Come sanno cucinar.Se son buone, oneste serve.Le faremo guadagnar.Il contratto è bell’e fatto,La caparra ha avuto già.</stage>
+      <stage>(partono)</stage>
+      <div type="scene">
+        <head>Scena Settima</head>
+        <stage>(Lady Enrichetta (Marta), Nancy, Sir Tristano,tutti e tre vestiti da contadini; poi Lionello ePlumkett)LADY ENRICHETTAVieni, John, stanco non sei?</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Caro John! perchè temer?</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>John! John! Via! partir vorrei!</l>
+          <l>Se si giunge ciò a saper!</l>
+        </sp>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>Che delizia! che contento!</l>
+          <l>Ben facemmo di venir.</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Che vergogna! che tormento!</l>
+          <l>Perchè volli consentir?</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(arrivando)</l>
+          <l>Ah! due giovani donnette!</l>
+        </sp>
+        <stage>PLUMKETT(arrivando)Ah! due giovani donnette!</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(arrivando)</l>
+          <l>Hai ragion, son belle inver!</l>
+        </sp>
+        <stage>LIONELLO(arrivando)Hai ragion, son belle inver!</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Troppo belle per servette.</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Chi son mai?</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Lascia veder.</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>(sottovoce alle donne)</l>
+          <l>Quel villan par che ci osservi…</l>
+          <l>Andiam via.</l>
+        </sp>
+        <stage>SIR TRISTANO(sottovoce alle donne)Quel villan par che ci osservi…Andiam via.</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>No, no: restiamo.</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Dai villan Dio mi preservi!</l>
+          <l>Su partiamo.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(con voce alta)</l>
+          <l>Non vogliamo.</l>
+          <l>Non v’accetto per padrone.</l>
+        </sp>
+        <stage>LADY ENRICHETTA(con voce alta)Non vogliamo.Non v’accetto per padrone.</stage>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>(sottovoce)</l>
+          <l>Vi dovreste vergognar!</l>
+        </sp>
+        <stage>SIR TRISTANO(sottovoce)Vi dovreste vergognar!</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Ma qual diritto, qual ragione</l>
+          <l>Voi vorreste esercitar?</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Serva d’altro mi vo’ far;</l>
+          <l>Sarei troppo sventurata</l>
+          <l>Se con voi dovessi star.</l>
+        </sp>
+        <sp who="#plumkett, ionello">
+          <speaker>PLUMKETT, IONELLO:</speaker>
+          <l>(avanzandosi)</l>
+          <l>Non sara così forzata,</l>
+          <l>Se con lui non vuole andar.</l>
+        </sp>
+        <stage>PLUMKETT, IONELLO(avanzandosi)Non sara così forzata,Se con lui non vuole andar.</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Lo lasciate, nol seguite;</l>
+          <l>Qui venite; più gradite</l>
+          <l>Voi sarete ad un padrone.</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Qual supplizio!</l>
+        </sp>
+        <stage>SIR TRISTANO(Fra sè)Qual supplizio!</stage>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>Hanno ragione!</l>
+        </sp>
+        <stage>(le serve tornano parlando tutte insiemee circondano Tristano)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Io cucino, fo il ricamo, ecc.</l>
+          <l>Fo le torte, fo l’arrosto, ecc.</l>
+          <l>Curo i polli, fo il bucato, ecc.</l>
+          <l>Fo le calze, netto, spazzo, ecc.</l>
+          <l>I bambini culla ed amo, ecc.</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Che fracasso! quanto chiasso!</l>
+        </sp>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>Qual delizia! qual litizia !</l>
+          <l>Più che n’odo più ne godo!</l>
+          <l>Trascinato John han già.</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Mi lasciate non gridate.</l>
+          <l>Che rumor e che fragore !</l>
+          <l>Indiscrete quante siete,</l>
+          <l>Ve n’andate via di qua.</l>
+        </sp>
+        <sp who="#plumkett, lionello">
+          <speaker>PLUMKETT, LIONELLO:</speaker>
+          <l>In soccorso alla beltà,</l>
+          <l>Restiamo qua.</l>
+        </sp>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>Scampo alcun per lui non v’ha,</l>
+          <l>Cader dovrà…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>(le serve trascinano seco sir Tristano</head>e partono)Scena Ottava <stage>(le serve trascinano seco sir Tristanoe partono)Scena Ottava</stage>
+        <stage>(Lady Enrichetta, Nancy, Plumkett e Lionello)LADY ENRICHETTANancy, guarda che occhi ardenti.</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Or vedrem che s’apran dir.</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>D’invitarle vuoi ch’io tenti?</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Cerca, cerca di riuscir.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Son sicura che ha paura.</l>
+          <l>Come parlasi al villaggio?</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Non si parla.</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Via, coraggio!</l>
+          <l>Parla tu;</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Non’ so che dir.</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Ah poltron!… stammi ad udir.</l>
+        </sp>
+        <stage>(Si avanza, tossisce, smozzica le parolee s’interrompe)</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Non dice niente.</l>
+          <l>Andiam via?</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(avviandosi)</l>
+          <l>Immantinente!</l>
+        </sp>
+        <stage>LADY ENRICHETTA(avviandosi)Immantinente!</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Se ne vanno.</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Come far!</l>
+        </sp>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>In mia fe’ sono strani da vero!</l>
+          <l>Li lasciamo, partiamo di qua.</l>
+          <l>Chi sa ,dire cos’hanno in pensiero?</l>
+          <l>Se non parlan, capir chi li sa?</l>
+        </sp>
+        <sp who="#plumkett, lionello">
+          <speaker>PLUMKETT, LIONELLO:</speaker>
+          <l>Più leggiadre, più vaghe, più belle</l>
+          <l>Due donzelle il villaggio non ha.</l>
+          <l>Son due gemme, due rose, due stelle,</l>
+          <l>E il mio labbro a lor dire nol sa!</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(Fra sè)</l>
+          <l>Su, coraggio!</l>
+        </sp>
+        <stage>PLUMKETT(Fra sè)Su, coraggio!</stage>
+        <stage>(Si avanza risolutamente)</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(imitandolo)</l>
+          <l>Vi prendiam.</l>
+        </sp>
+        <stage>LIONELLO(imitandolo)Vi prendiam.</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Come servette?</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>(Ridendo)</l>
+          <l>Ah! ah! ah!</l>
+        </sp>
+        <stage>NANCY(Ridendo)Ah! ah! ah!</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Ridete! È buono!</l>
+          <l>Le fatiche son più accette</l>
+          <l>Se le serve allegre sono.</l>
+        </sp>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>(Fra sè)</l>
+          <l>Noi servir!</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCY(Fra sè)Noi servir!</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(A Nancy)</l>
+          <l>A te i montoni,</l>
+          <l>Il fenil, la scuderia.</l>
+        </sp>
+        <stage>PLUMKETT(A Nancy)A te i montoni,Il fenil, la scuderia.</stage>
+        <stage>(a lady Enr.)</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO.:</speaker>
+          <l>(opponendosi)</l>
+          <l>No, no, no.</l>
+          <l>No’ l potria si delicata!</l>
+          <l>Si gentil…</l>
+        </sp>
+        <stage>LIONELLO.(opponendosi)No, no, no.No’ l potria si delicata!Si gentil…</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT.:</speaker>
+          <l>(scuotendo il capo)</l>
+          <l>Ci penserò,</l>
+          <l>Lavorate ; e in premio avrete</l>
+          <l>Dieci lire, se vi va.</l>
+          <l>Ogni festa, se il volete,</l>
+          <l>Un pudding vi si darà.</l>
+        </sp>
+        <stage>PLUMKETT.(scuotendo il capo)Ci penserò,Lavorate ; e in premio avreteDieci lire, se vi va.Ogni festa, se il volete,Un pudding vi si darà.</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>LADY ENRICHETTA</head>Si, mi piace il vostro patto.<sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>Si, mi piace il vostro patto.</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>(Fra sè)</l>
+        <l>Non credea di valer tanto.</l>
+      </sp>
+      <stage>NANCY(Fra sè)Non credea di valer tanto.</stage>
+      <sp who="#lionello">
+        <speaker>LIONELLO:</speaker>
+        <l>Va?</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>Si, va.</l>
+      </sp>
+      <stage>(si stringono la mano)</stage>
+    </div>
+    <div type="act">
+      <head>LIONELLO, PLUMKETT</head>Val per contratto,Questa è l’arra. Ed or partiam.<sp who="#lionello, plumkett">
+        <speaker>LIONELLO, PLUMKETT:</speaker>
+        <l>Val per contratto,</l>
+        <l>Questa è l’arra. Ed or partiam.</l>
+      </sp>
+      <sp who="#lady enrichetta, nancy">
+        <speaker>LADY ENRICHETTA, NANCY:</speaker>
+        <l>In mia fe sono strani davvero,</l>
+        <l>Non partiamo, restiamo ancor qua.</l>
+        <l>Saper bene svelare il pensiero,</l>
+        <l>Han parlato, capiti li ho già.</l>
+      </sp>
+      <sp who="#lionello, plumkett">
+        <speaker>LIONELLO, PLUMKETT:</speaker>
+        <l>Più leggiadre, più vaghe, più belle</l>
+        <l>Due donzelle non ha la città:</l>
+        <l>Son due gemme, due rose, due stelle,</l>
+        <l>E il mio labbro a lor dire il saprà.,</l>
+      </sp>
+      <div type="scene">
+        <head>Scena Nona</head>
+        <stage>(Tristano, sempre perseguitato dalle Serve)</stage>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Ecco qui la somma intera;</l>
+          <l>Ma partite, per pietà!</l>
+        </sp>
+        <stage>(vedendo lady Enrichetta tra i decontamini)</stage>
+        <stage>(avanzandosi, a Plumkett)</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(bruscamente)</l>
+          <l>Tu che fai là?</l>
+        </sp>
+        <stage>PLUMKETT(bruscamente)Tu che fai là?</stage>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>Or finiam.</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Cosa compiuta!</l>
+          <l>L’arra aveste.</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Error non v’ha…</l>
+          <l>Andiam.</l>
+        </sp>
+        <stage>(prendendo per mano lady Enrichetta)</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(Fra sè)</l>
+          <l>Ciel! sarò perduta</l>
+          <l>Se alla corte si saprà.</l>
+        </sp>
+        <stage>LADY ENRICHETTA(Fra sè)Ciel! sarò perdutaSe alla corte si saprà.</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>(Fra sè)</l>
+          <l>Guai se siete conosciuta,</l>
+          <l>La Regina che dirà?</l>
+          <l>La lor voce sara muta</l>
+          <l>Se un po’ d’oro a lor si dà</l>
+        </sp>
+        <stage>NANCY(Fra sè)Guai se siete conosciuta,La Regina che dirà?La lor voce sara mutaSe un po’ d’oro a lor si dà</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(volendo condur via le donne)</l>
+          <l>Su partiam!</l>
+        </sp>
+        <stage>LIONELLO(volendo condur via le donne)Su partiam!</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>PLUMKETT</head>(opponendosi)No, no, affatto!Per un anno le serviamo;Lo Sceriffo del contrattoÈ garante: in dritto siamo.<sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>(opponendosi)</l>
+        <l>No, no, affatto!</l>
+        <l>Per un anno le serviamo;</l>
+        <l>Lo Sceriffo del contratto</l>
+        <l>È garante: in dritto siamo.</l>
+      </sp>
+      <stage>PLUMKETT(opponendosi)No, no, affatto!Per un anno le serviamo;Lo Sceriffo del contrattoÈ garante: in dritto siamo.</stage>
+    </div>
+    <div type="act">
+      <head>TUTTI</head>Quando l’arra avrà accettataUna serva s’è legata;Non v’escussa, non pretesto…Per un anno! il patto è questo,Per un anno! un anno intier,Voi sapete in mio/suo poter!<sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Quando l’arra avrà accettata</l>
+        <l>Una serva s’è legata;</l>
+        <l>Non v’escussa, non pretesto…</l>
+        <l>Per un anno! il patto è questo,</l>
+        <l>Per un anno! un anno intier,</l>
+        <l>Voi sapete in mio/suo poter!</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>Noi saremo in lor poter!</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Si, v’è forza consentir</l>
+        <l>A servir!</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Giovinette, siate buone!</l>
+        <l>Servire e tacer,</l>
+        <l>Seguir docili il padrone</l>
+        <l>È vostro dover.</l>
+        <l>Sventura quella che tradirà,</l>
+        <l>E che rubella esser vorrà.</l>
+      </sp>
+      <stage>(Plumkett e Lionello prendono le due donne e leconducono via; Tristano in vano vorrebbe opporsi;egli e condotto via dai fattori e dalle serve)</stage>
+    </div>
+    <div type="act">
+      <head>Atto Secondo</head>
+      <div type="scene">
+        <head>Scena Prima</head>
+        <stage>(Interno della fattoria di Plumkett e Lionello)</stage>
+        <sp who="#lionello, plumkett">
+          <speaker>LIONELLO, PLUMKETT:</speaker>
+          <l>Siam giunti, o giovinette,</l>
+          <l>Al nostro casolar.</l>
+          <l>Sarete ben accette,</l>
+          <l>Potete riposar.</l>
+          <l>Andiam! fatevi cor,</l>
+          <l>Mettetevi al lavor.</l>
+        </sp>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>(Fra sè)</l>
+          <l>Fuggir non potrem mai,</l>
+          <l>Dovremo qui restar.</l>
+          <l>Ci siamo, ahimè! che far</l>
+          <l>Ci è forza lavorar.</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCY(Fra sè)Fuggir non potrem mai,Dovremo qui restar.Ci siamo, ahimè! che farCi è forza lavorar.</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Non siate sì dolenti,</l>
+          <l>Si vive allegri qua.</l>
+        </sp>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>(Fra sè)</l>
+          <l>Per renderli contenti,</l>
+          <l>Di finger converrà.</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCY(Fra sè)Per renderli contenti,Di finger converrà.</stage>
+        <sp who="#lionello, plumkett">
+          <speaker>LIONELLO, PLUMKETT:</speaker>
+          <l>Questa camera è per voi</l>
+        </sp>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>(congedandoli)</l>
+          <l>A doman!</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCY(congedandoli)A doman!</stage>
+        <sp who="#lionello, plumkett">
+          <speaker>LIONELLO, PLUMKETT:</speaker>
+          <l>Voi fate error.</l>
+          <l>Pria servire, e dormir poi.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(Fra sè)</l>
+          <l>Ahi! dal freddo tremo tutta.</l>
+        </sp>
+        <stage>LADY ENRICHETTA(Fra sè)Ahi! dal freddo tremo tutta.</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>(Fra sè)</l>
+          <l>La lor casa è poco asciutta.</l>
+        </sp>
+        <stage>NANCY(Fra sè)La lor casa è poco asciutta.</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(sottovoce, a Plumkett)</l>
+          <l>Or dal sonno cascan già!</l>
+        </sp>
+        <stage>LIONELLO(sottovoce, a Plumkett)Or dal sonno cascan già!</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(Sottovoce, a Lionello)</l>
+          <l>Che vuol dir questa pietà!</l>
+        </sp>
+        <stage>PLUMKETT(Sottovoce, a Lionello)Che vuol dir questa pietà!</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>(Sottovoce, a Enrichetta)</l>
+          <l>Un capriccio ben paghiamo!</l>
+        </sp>
+        <stage>NANCY(Sottovoce, a Enrichetta)Un capriccio ben paghiamo!</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Non so il nome vostro ancora.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(a Nancy)</l>
+          <l>No?</l>
+        </sp>
+        <stage>LADY ENRICHETTA(a Nancy)No?</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(Sottovoce, a Lionello)</l>
+          <l>Sapere lo vogliamo.</l>
+        </sp>
+        <stage>PLUMKETT(Sottovoce, a Lionello)Sapere lo vogliamo.</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Marta ho nome.</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Marta?</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Sì.</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Bene. E il tuo?</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>(Fra sè))</l>
+          <l>Che dir mai?</l>
+        </sp>
+        <stage>NANCY(Fra sè))Che dir mai?</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Che! nol sai?</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Io son Besty.</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Ah! Besty? mi piace assai!</l>
+          <l>Vien! Besty, vieni un po’ qui…</l>
+          <l>Su! Besty, fanciulla mia,</l>
+        </sp>
+        <stage>(bruscamente)</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>(indignata)</l>
+          <l>Io?… vi par…</l>
+        </sp>
+        <stage>NANCY(indignata)Io?… vi par…</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(in collera)</l>
+          <l>Veder vorria!</l>
+        </sp>
+        <stage>PLUMKETT(in collera)Veder vorria!</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(Sottovoce, trattenendolo)</l>
+          <l>Spaventare si potria.</l>
+          <l>Come io fo, dirai bel bello:</l>
+        </sp>
+        <stage>LIONELLO(Sottovoce, trattenendolo)Spaventare si potria.Come io fo, dirai bel bello:</stage>
+        <stage>(con dolcezza)</stage>
+        <stage>(lady Enrichetta, gli volgele spalle sdegnosamente)</stage>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>(Fra sè)</l>
+          <l>Almeno mi difendo!</l>
+          <l>Che credono costor?</l>
+          <l>Si presto non m’arrendo</l>
+          <l>Ad un capriccio lor.</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCY(Fra sè)Almeno mi difendo!Che credono costor?Si presto non m’arrendoAd un capriccio lor.</stage>
+        <sp who="#plumkett, lionello">
+          <speaker>PLUMKETT, LIONELLO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Che vuol dir ciò? L’offendo ,</l>
+          <l>Son colmo di stupor,</l>
+          <l>Io stesso nol comprendo,</l>
+          <l>Ne’ son compreso ancor.</l>
+        </sp>
+        <stage>PLUMKETT, LIONELLO(Fra sè)Che vuol dir ciò? L’offendo ,Son colmo di stupor,Io stesso nol comprendo,Ne’ son compreso ancor.</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(indicando il filatoio)</l>
+          <l>Presto, presto! andiam, prendete</l>
+          <l>Rocca e fuso.</l>
+        </sp>
+        <stage>PLUMKETT(indicando il filatoio)Presto, presto! andiam, prendeteRocca e fuso.</stage>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>(meravigliate)</l>
+          <l>Noi filar!</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCY(meravigliate)Noi filar!</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Certamente! ma perchè</l>
+          <l>A servire vi mettete?</l>
+        </sp>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>(ridendo)</l>
+          <l>Noi filar! Ah! ah! ah! ah!</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCY(ridendo)Noi filar! Ah! ah! ah! ah!</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(contraffacendole)</l>
+          <l>Ah! ah! ah! si filerà!</l>
+          <l>Credevate venir qua</l>
+          <l>Per restar tranquille e a spasso?</l>
+        </sp>
+        <stage>PLUMKETT(contraffacendole)Ah! ah! ah! si filerà!Credevate venir quaPer restar tranquille e a spasso?</stage>
+        <stage>(bruscamente)</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(a Plumkett)</l>
+          <l>Che fracasso!</l>
+          <l>Le vuoi dunque spaventar!</l>
+        </sp>
+        <stage>LIONELLO(a Plumkett)Che fracasso!Le vuoi dunque spaventar!</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(spingendole)</l>
+          <l>A filar. entrambe, e tosto!</l>
+        </sp>
+        <stage>PLUMKETT(spingendole)A filar. entrambe, e tosto!</stage>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>(atterrite)</l>
+          <l>Nol soi far.</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCY(atterrite)Nol soi far.</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(come sopra)</l>
+          <l>Al vostro posto!</l>
+        </sp>
+        <stage>PLUMKETT(come sopra)Al vostro posto!</stage>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>(obbediscono)</l>
+          <l>Ci siam!…</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCY(obbediscono)Ci siam!…</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(indicando il filatoio)</l>
+          <l>Fatelo girar!</l>
+        </sp>
+        <stage>PLUMKETT(indicando il filatoio)Fatelo girar!</stage>
+        <stage>(imitando il rumore della ruota)</stage>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>(fermandosi)</l>
+          <l>Non vuole andar.</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCY(fermandosi)Non vuole andar.</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>La canocchia in man serbate,</l>
+          <l>Tra le dita il lino va.</l>
+        </sp>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>Esser deggiono bagnate?</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(con rabbia)</l>
+          <l>Gira.</l>
+        </sp>
+        <stage>PLUMKETT(con rabbia)Gira.</stage>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>Insiem?</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Si.</l>
+        </sp>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>(rallentando)</l>
+          <l>E che si fa?</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCY(rallentando)E che si fa?</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(con rabbia)</l>
+          <l>Presto!</l>
+        </sp>
+        <stage>PLUMKETT(con rabbia)Presto!</stage>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>(girando)</l>
+          <l>Ancor?</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCY(girando)Ancor?</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Così va ben!</l>
+        </sp>
+        <sp who="#lady lady enrichetta">
+          <speaker>LADY LADY ENRICHETTA:</speaker>
+          <l>Lo vorrei vedere almen!</l>
+          <l>Sarò docile a imparar.</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(a Plumkett)</l>
+          <l>Più dolcezza e tolleranza!</l>
+        </sp>
+        <stage>LIONELLO(a Plumkett)Più dolcezza e tolleranza!</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(furioso)</l>
+          <l>Ma vedete che ignoranza!</l>
+          <l>Insegnateci a filar.</l>
+        </sp>
+        <stage>PLUMKETT(furioso)Ma vedete che ignoranza!Insegnateci a filar.</stage>
+        <sp who="#plumkett, lionello">
+          <speaker>PLUMKETT, LIONELLO:</speaker>
+          <l>(mostrando come si fila, Plumkett</l>
+          <l>fa girare il filatoio)</l>
+          <l>Mentre il piè la ruota gira,</l>
+          <l>Dee la man pigliare il lino;</l>
+          <l>Poi con garbo il torce e tira,</l>
+          <l>Perchè venga forte e fino.</l>
+        </sp>
+        <stage>PLUMKETT, LIONELLO(mostrando come si fila, Plumkettfa girare il filatoio)Mentre il piè la ruota gira,Dee la man pigliare il lino;Poi con garbo il torce e tira,Perchè venga forte e fino.</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>LADY ENRICHETTA, NANCY</head>A veuerlo fa piacere,Mi fa ridere davver;Come ha fatto per sapereSì grazioso, bel mestiere?<sp who="#lady enrichetta, nancy">
+        <speaker>LADY ENRICHETTA, NANCY:</speaker>
+        <l>A veuerlo fa piacere,</l>
+        <l>Mi fa ridere davver;</l>
+        <l>Come ha fatto per sapere</l>
+        <l>Sì grazioso, bel mestiere?</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>Trr, trr, trr, trr, trr, trr.</l>
+      </sp>
+      <sp who="#lionello, plumkett">
+        <speaker>LIONELLO, PLUMKETT:</speaker>
+        <l>Non v’è d’uopo di saper,</l>
+        <l>Basta solo di voler.</l>
+        <l>Lo vedete ?</l>
+      </sp>
+      <sp who="#lady enrichetta, nancy">
+        <speaker>LADY ENRICHETTA, NANCY:</speaker>
+        <l>Lo vediamo.</l>
+      </sp>
+      <sp who="#lionello, plumkett">
+        <speaker>LIONELLO, PLUMKETT:</speaker>
+        <l>Comprendete?</l>
+      </sp>
+      <sp who="#lady enrichetta, nancy">
+        <speaker>LADY ENRICHETTA, NANCY:</speaker>
+        <l>Comprendiamo.</l>
+      </sp>
+      <sp who="#lionello, plumkett">
+        <speaker>LIONELLO, PLUMKETT:</speaker>
+        <l>Il filare non e nulla,</l>
+        <l>Lo può fare ogni fanciulla.</l>
+      </sp>
+      <stage>(Nancy, annoiata, rovescia il filatoio, e fuggeinseguita da Plumkett)</stage>
+      <div type="scene">
+        <head>Scena Seconda</head>
+        <stage>(Lionello e Lady Enrichetta)LADY ENRICHETTANancy… no, Besty! deh! resta.Ciel! mi lasci sola qui!M’abbandona, ahimè! così!</stage>
+        <stage>(per seguirla)</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(fermandola)</l>
+          <l>Non fuggir, Marta… t’arresta:</l>
+          <l>Hai timor?</l>
+        </sp>
+        <stage>LIONELLO(fermandola)Non fuggir, Marta… t’arresta:Hai timor?</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(guardandolo)</l>
+          <l>Di voi? ma… no.</l>
+        </sp>
+        <stage>LADY ENRICHETTA(guardandolo)Di voi? ma… no.</stage>
+        <stage>(Fra sè)Il suo sguardo è dolce tantoChe conforto al cor mi da;In lui fido, a lui d’accantoDi temer ragion non v’ha.</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Quale arcano turbamento</l>
+          <l>Palpitare il cor mi fa?</l>
+          <l>A lei presso l’alma sento</l>
+          <l>Che in dolce estasi sen va.</l>
+        </sp>
+        <stage>LIONELLO(Fra sè)Quale arcano turbamentoPalpitare il cor mi fa?A lei presso l’alma sentoChe in dolce estasi sen va.</stage>
+        <stage>(con dolcezza)</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(Fra sè, guardando la porta)</l>
+          <l>E Nancy non torna più?</l>
+          <l>Ah! Nancy, dove sei tu!</l>
+        </sp>
+        <stage>LADY ENRICHETTA(Fra sè, guardando la porta)E Nancy non torna più?Ah! Nancy, dove sei tu!</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>M’odi: finger non poss’io;</l>
+          <l>Io ti vidi, e nel mio cor</l>
+          <l>S’accendea di te desìo…</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(Fra sè, guardando la porta)</l>
+          <l>E Nancy non torna ancor!</l>
+          <l>Si raddoppia in me il timor.</l>
+        </sp>
+        <stage>LADY ENRICHETTA(Fra sè, guardando la porta)E Nancy non torna ancor!Si raddoppia in me il timor.</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Marta, ah! Marta!</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Che volete?</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Io son buon… lo posso dir.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(sorridendo)</l>
+          <l>Buon padrone voi sarete,</l>
+          <l>Io son pessima a servir.</l>
+        </sp>
+        <stage>LADY ENRICHETTA(sorridendo)Buon padrone voi sarete,Io son pessima a servir.</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(sorpreso)</l>
+          <l>Che di’ tu?</l>
+        </sp>
+        <stage>LIONELLO(sorpreso)Che di’ tu?</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(con disinvoltura)</l>
+          <l>Sempre ridente,</l>
+          <l>Non son buona che a scherzar;</l>
+          <l>Per il resto veramente,</l>
+          <l>Non son abile a far niente.</l>
+        </sp>
+        <stage>LADY ENRICHETTA(con disinvoltura)Sempre ridente,Non son buona che a scherzar;Per il resto veramente,Non son abile a far niente.</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Io morrei senza di te!…</l>
+          <l>Se il lavoro ti spaventa,</l>
+          <l>Lascia star non lavorar.</l>
+          <l>Lieto in cor, l’alma contenta,</l>
+          <l>Per distrarti puoi cantar.</l>
+          <l>Via; t’ascolto.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>No, non oso.</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Te ne prega il tuo padrone,</l>
+          <l>Una piccola canzone.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Quale?</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(vedendo la rosa che ella ha al corsaletto)</l>
+          <l>Questo fior qui ascoso</l>
+          <l>Sara mio.</l>
+        </sp>
+        <stage>LIONELLO(vedendo la rosa che ella ha al corsaletto)Questo fior qui ascosoSara mio.</stage>
+        <stage>(gliela prende)</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(opponendosi)</l>
+          <l>Rendete il fior!</l>
+        </sp>
+        <stage>LADY ENRICHETTA(opponendosi)Rendete il fior!</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(con forza)</l>
+          <l>No, lo voglio.</l>
+        </sp>
+        <stage>LIONELLO(con forza)No, lo voglio.</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(alteramente)</l>
+          <l>Il vuoi!</l>
+        </sp>
+        <stage>LADY ENRICHETTA(alteramente)Il vuoi!</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(cangiando tuono)</l>
+          <l>Ten prego!</l>
+        </sp>
+        <stage>LIONELLO(cangiando tuono)Ten prego!</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(ridendo canta)</l>
+          <l>Sia così; più non mi nego.</l>
+        </sp>
+        <stage>LADY ENRICHETTA(ridendo canta)Sia così; più non mi nego.</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Marta.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Che?</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Nell’alma mia</l>
+          <l>il tuo sguardo penetrò;</l>
+          <l>All’amore il cor s’apria,</l>
+          <l>Per te sola viver vo’.</l>
+          <l>Marta, io t’amo. Dall’istante</l>
+          <l>Che ti vide, il cor fu amante.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Mi lasciate! Ah! mi lasciate</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Ah no! Marta, resta ancora!</l>
+          <l>Se non vuoi che al piè ti mora,</l>
+          <l>Non sprezzare quest’amor.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Ciel! che veggo! che mai fate!</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Io mi prostro innanzi a te.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Ah, voi ridere mi, fate.</l>
+          <l>Via, sorgete dal mio piè.</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Sino a me t’innalza amore,</l>
+          <l>Non rammento chi sei tu.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(Fra sè)</l>
+          <l>Ei m’innalza! ingenuo errore!…</l>
+          <l>Mi fa ridere anche più!</l>
+        </sp>
+        <stage>LADY ENRICHETTA(Fra sè)Ei m’innalza! ingenuo errore!…Mi fa ridere anche più!</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(Fra sè)</l>
+          <l>Ah! ride del mio pianto,</l>
+          <l>Giuoca col mio dolor,</l>
+          <l>Ed io mi struggo intanto</l>
+          <l>Di non compreso amor!</l>
+          <l>Non vuol, non vuol la sorta</l>
+          <l>Por fine al mio soffrir;</l>
+          <l>Mi resta sol la morte…</l>
+          <l>Per lei saprò morir.</l>
+        </sp>
+        <stage>LIONELLO(Fra sè)Ah! ride del mio pianto,Giuoca col mio dolor,Ed io mi struggo intantoDi non compreso amor!Non vuol, non vuol la sortaPor fine al mio soffrir;Mi resta sol la morte…Per lei saprò morir.</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(Fra sè)</l>
+          <l>Ah! rider del suo pianto,</l>
+          <l>Goder del suo dolor,</l>
+          <l>Io non vorrei, ma intanto</l>
+          <l>Dargli non posso amor.</l>
+          <l>Vorrà, vorrà la sorte</l>
+          <l>Por fine al suo martir;</l>
+          <l>Invochi pur la morte,</l>
+          <l>Ma non vorrà morir!</l>
+        </sp>
+        <stage>LADY ENRICHETTA(Fra sè)Ah! rider del suo pianto,Goder del suo dolor,Io non vorrei, ma intantoDargli non posso amor.Vorrà, vorrà la sortePor fine al suo martir;Invochi pur la morte,Ma non vorrà morir!</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Terza</head>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(Tenendola)</l>
+          <l>T’ha raggiunta, sciagurata!</l>
+          <l>Questa demone che fe’?</l>
+          <l>La stoviglia ha fracassata,</l>
+          <l>Tutto il vino mi perdè;</l>
+          <l>Ma in mia mano è capitata,</l>
+          <l>Or l’avrà da far con me!</l>
+        </sp>
+        <stage>PLUMKETT(Tenendola)T’ha raggiunta, sciagurata!Questa demone che fe’?La stoviglia ha fracassata,Tutto il vino mi perdè;Ma in mia mano è capitata,Or l’avrà da far con me!</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Mi lasciate, se no il volto</l>
+          <l>Ve l’aggiusto come va.</l>
+        </sp>
+        <stage>NANCYMi lasciate, se no il voltoVe l’aggiusto come va.</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Per San Giorgio! è forte molta!</l>
+          <l>Ma non deggio usar pietà.</l>
+        </sp>
+        <stage>PLUMKETTPer San Giorgio! è forte molta!Ma non deggio usar pietà.</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Marta!</l>
+        </sp>
+        <stage>NANCYMarta!</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Che? cosa vi manca?</l>
+          <l>Che potete desiar?</l>
+          <l>La pazienza già si stanca,</l>
+          <l>Vi potete ritirar.</l>
+        </sp>
+        <stage>PLUMKETTChe? cosa vi manca?Che potete desiar?La pazienza già si stanca,Vi potete ritirar.</stage>
+        <sp who="#plumkett, lionello">
+          <speaker>PLUMKETT, LIONELLO:</speaker>
+          <l>Mezzanotte!</l>
+        </sp>
+        <stage>PLUMKETT, LIONELLOMezzanotte!</stage>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>Suona già!</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCYSuona già!</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Dormi pur, ma il mio riposo</l>
+          <l>Mi togliesti, ingrato cor,</l>
+          <l>E sperare io più on oso</l>
+          <l>Un conforto al mio dolor.</l>
+        </sp>
+        <stage>LIONELLODormi pur, ma il mio riposoMi togliesti, ingrato cor,E sperare io più on osoUn conforto al mio dolor.</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Dormi pur ma la stoviglia</l>
+          <l>Che m’hai rotta, io piango ancor;</l>
+          <l>Sei d’un demone la figlia,</l>
+          <l>Dall’inferno uscita fuor.</l>
+        </sp>
+        <stage>PLUMKETTDormi pur ma la stovigliaChe m’hai rotta, io piango ancor;Sei d’un demone la figlia,Dall’inferno uscita fuor.</stage>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>(Fra sè)</l>
+          <l>Del tormento che gli ho dato</l>
+          <l>I rimorso non ha in cor</l>
+          <l>Un capriccio abbiam scontato</l>
+          <l>E la pena dura ancor!</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCY(Fra sè)Del tormento che gli ho datoI rimorso non ha in corUn capriccio abbiam scontatoE la pena dura ancor!</stage>
+        <sp who="#plumkett, lionello">
+          <speaker>PLUMKETT, LIONELLO:</speaker>
+          <l>Buona notte!</l>
+        </sp>
+        <stage>PLUMKETT, LIONELLOBuona notte!</stage>
+        <sp who="#lady enrichetta, nancy">
+          <speaker>LADY ENRICHETTA, NANCY:</speaker>
+          <l>Buon dormir!</l>
+        </sp>
+        <stage>LADY ENRICHETTA, NANCYBuon dormir!</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Quarta</head>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Nancy.</l>
+        </sp>
+        <stage>LADY ENRICHETTANancy.</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Lady?</l>
+        </sp>
+        <stage>NANCYLady?</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Che facciamo?</l>
+        </sp>
+        <stage>LADY ENRICHETTAChe facciamo?</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Fuggiremo.</l>
+        </sp>
+        <stage>NANCYFuggiremo.</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>È presto a dir.</l>
+          <l>In che modo? dove andiamo?</l>
+        </sp>
+        <stage>LADY ENRICHETTAÈ presto a dir.In che modo? dove andiamo?</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Come fare per uscir?</l>
+          <l>Ah! che dì, che dì funesto</l>
+          <l>Che ci trasse a Richmond!</l>
+          <l>Buona gente son del resto.</l>
+        </sp>
+        <stage>NANCYCome fare per uscir?Ah! che dì, che dì funestoChe ci trasse a Richmond!Buona gente son del resto.</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Franco è il labbro…</l>
+        </sp>
+        <stage>LADY ENRICHETTAFranco è il labbro…</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Buono il cor.</l>
+        </sp>
+        <stage>NANCYBuono il cor.</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Se il sapesse la regina!</l>
+        </sp>
+        <stage>LADY ENRICHETTASe il sapesse la regina!</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Ah! ne tremo al sol pensiere!</l>
+        </sp>
+        <stage>NANCYAh! ne tremo al sol pensiere!</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Qui dovrem rimanere!…</l>
+          <l>Qual rumor? Chi s’avvicina?…</l>
+        </sp>
+        <stage>LADY ENRICHETTAQui dovrem rimanere!…Qual rumor? Chi s’avvicina?…</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Una voce! Un uomo è là.</l>
+        </sp>
+        <stage>NANCYUna voce! Un uomo è là.</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Sir Tristano! come qua?</l>
+        </sp>
+        <stage>LADY ENRICHETTASir Tristano! come qua?</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Quinta</head>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Oh! che viso! che figura!</l>
+          <l>È furente!</l>
+        </sp>
+        <stage>LADY ENRICHETTAOh! che viso! che figura!È furente!</stage>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Che vi par!</l>
+          <l>Una donna! mia cugina!</l>
+        </sp>
+        <stage>SIR TRISTANOChe vi par!Una donna! mia cugina!</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>(mettendogli le mani sulle labbra)</l>
+          <l>Nella camera vicina</l>
+          <l>Dorme alcuno.</l>
+        </sp>
+        <stage>NANCY(mettendogli le mani sulle labbra)Nella camera vicinaDorme alcuno.</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Zitti! andiamo.</l>
+        </sp>
+        <stage>LADY ENRICHETTAZitti! andiamo.</stage>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Ho lasciato la berlina</l>
+          <l>Poco lungi.</l>
+        </sp>
+        <stage>SIR TRISTANOHo lasciato la berlinaPoco lungi.</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Ebbene, andiamo.</l>
+        </sp>
+        <stage>NANCYEbbene, andiamo.</stage>
+        <stage>TrioFuggiam presto andiamo via,Pria che desto alcuno sia:Quando lungi ne sarem,Al villaggio addio direm:</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Sesta</head>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Che sussurro! che sventura</l>
+          <l>Non poter dormire!</l>
+        </sp>
+        <stage>PLUMKETTChe sussurro! che sventuraNon poter dormire!</stage>
+        <stage>O ciel!…Il rumor d’una vettura…</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Cosa avvenne?</l>
+        </sp>
+        <stage>LIONELLOCosa avvenne?</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>E non lo vedi?</l>
+          <l>Le ragazze sen fuggir.</l>
+        </sp>
+        <stage>PLUMKETTE non lo vedi?Le ragazze sen fuggir.</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>“Marta! Marta! o ciel! tu credi</l>
+          <l>“Che non voglian più venir?</l>
+        </sp>
+        <stage>LIONELLO“Marta! Marta! o ciel! tu credi“Che non voglian più venir?</stage>
+        <stage>Sen fuggir? colei che adoro;non potrò più riveder!PLUMKETTMa si deggiono punir.Inseguire le sapremo:A noi deggiono obbedir.</stage>
+        <stage>(chiamando)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Qual tumulto! qual fracasso!</l>
+          <l>Ce ne dite la cagione.</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Le due serve son fuggite!</l>
+          <l>C’è una lira in guiderdone</l>
+          <l>A chi prender le saprà.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Una lira da il padrone!</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Presto! tutti le inseguite,</l>
+          <l>Trascinate siano qua.</l>
+          <l>Sien legate, sien punite,</l>
+          <l>Non vi sia per lor pietà.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Sieno subito inseguite,</l>
+          <l>Trascinate sieno qua.</l>
+          <l>Sien legate, sien punite,</l>
+          <l>Non vi sia per lor pietà!</l>
+        </sp>
+        <stage>(partono correndo)</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>Atto Terzo</head>
+      <div type="scene">
+        <head>Scena Prima</head>
+        <stage>(Un’Osteria. Plumkett e Contadini bevendo birra)</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Chi mi dirà di che il bicchier</l>
+          <l>Colmato v’ha per dar piacer?</l>
+          <l>Nessun lo sa?</l>
+          <l>Nessuno?</l>
+          <l>Della bevanda grata a ber</l>
+          <l>Che il ciel ci manda nel bicchier!</l>
+          <l>E che il britanno rende altier.</l>
+        </sp>
+        <sp who="#plumkett, coro">
+          <speaker>PLUMKETT, CORO:</speaker>
+          <l>Ambrosia è questa! Viva il bicchier,</l>
+          <l>Viva la birra! Mesciam! da ber!</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Di voi chi vuol saper ancor,</l>
+          <l>Bandir chi suol il nostro duol?</l>
+          <l>Ciascun lo vuol.</l>
+          <l>Ciascun.</l>
+          <l>È la bevanda grata a ber,</l>
+          <l>Che il ciel ne manda nel bicchier.</l>
+          <l>E che il britanno rende altier.</l>
+        </sp>
+        <sp who="#plumkett, coro">
+          <speaker>PLUMKETT, CORO:</speaker>
+          <l>Ambrosia è questa ! Viva il bicchier!</l>
+          <l>Viva la birra! Mesciam! da ber!</l>
+        </sp>
+        <stage>(S’ode il corno dar il segnale di richiamo ai cacciatori)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Il segnale della caccia.</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Sì, mi pare di veder</l>
+          <l>La regina e i cavalier,</l>
+          <l>Del camoscio sulla traccia.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Alla caccia andiam pur noi.</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Pria si paghi, a caccia poi.</l>
+        </sp>
+        <stage>(partono)</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Seconda</head>
+        <stage>(La foresta. Dame in abito da caccia, indi Nancy)COROAnche noi del cacciator,Abbiamo l’ardorE il nobil cor.Anche noi chiama il segnal,E il colpo mortalSfuggir non val.Ma noi facciamo tutt’altra caccia;Del cacciatore seguiam la traccia!Dai nostri sguardi ferito egli é,E presto o tardi ci cade ai pie.Ed invan ei va lontano;L’agil pie, la pronta mano,Lo raggiunge, lo colpisce,Lo ferisce . vinto egli é:Dalla caccia dell’amorVi guardate, o cacciator.</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Il tuo stral sia mortal,</l>
+          <l>Giovin cacciatrice;</l>
+          <l>Non tardar non tremar,</l>
+          <l>Titubar non lice.</l>
+          <l>Dêi colpir dêi ferir</l>
+          <l>O l’uomo, o l’augello; ,</l>
+          <l>Trionfar preda far</l>
+          <l>Di questo o quello;</l>
+          <l>È l’amore un cacciatore;</l>
+          <l>Il suo strale sa lanciar,</l>
+          <l>Ma se impiaga, sa il dolore</l>
+          <l>Alleviar.</l>
+          <l>Nè mortal è il suo stral,</l>
+          <l>La piaga è leggera;</l>
+          <l>Colpo tal non fa mal;</l>
+          <l>Non morrà chi spera.</l>
+          <l>Nel ferir sa guarir,</l>
+          <l>Ed infonde la vita,</l>
+          <l>Sa sopir sa lenir</l>
+          <l>Quella sua ferita.</l>
+          <l>Esser mesto il mio cor’ non saprai,</l>
+          <l>La tristezza non nacque per me,</l>
+          <l>Il sospiro non so cosa sia;</l>
+          <l>Sospirar a vent’anni, e perchè?</l>
+          <l>Pure io sento una voce nel cor:</l>
+          <l>Che vuoi dal cor, voce d’amor?</l>
+          <l>Ah! sospirar si può d’amor;</l>
+          <l>Felice il cuore che alberga amore,</l>
+          <l>La vita è un fior l’olezzo è amor.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Scena Terza</head>
+        <stage>(Plumkett e le precedenti)PLUMKETT(nel veder le donne, si arresta in fondo)Buona caccia c’è da far,Una o due ne vo’ acchiappar.</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>(guardando intorno)</l>
+          <l>Dov’è andata la contessa?</l>
+          <l>Sola, sola se ne sta,</l>
+          <l>Nè contento v’ha per essa</l>
+          <l>Da quell’ora che al villaggio</l>
+          <l>Andò serva.</l>
+        </sp>
+        <stage>NANCY(guardando intorno)Dov’è andata la contessa?Sola, sola se ne sta,Nè contento v’ha per essaDa quell’ora che al villaggioAndò serva.</stage>
+        <stage>(si avvede di Plumkett)</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(riconoscendola)</l>
+          <l>Tu! Besty!</l>
+        </sp>
+        <stage>PLUMKETT(riconoscendola)Tu! Besty!</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>(Fra sè)</l>
+          <l>Ciel!</l>
+        </sp>
+        <stage>NANCY(Fra sè)Ciel!</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Come va!</l>
+          <l>Alla caccia! che fai qua?</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Ehi, l’amico!</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>PLUMKETT</head>Niente affatto,Lo Sceriffo s’apra dartiLa lezion!.. Di qui non parti!<sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Niente affatto,</l>
+        <l>Lo Sceriffo s’apra darti</l>
+        <l>La lezion!.. Di qui non parti!</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Fate error.</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Tornar dovrai</l>
+        <l>A servirmi.</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Che! a servir?</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Si, ribalda.</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Or, or vedrai!</l>
+      </sp>
+      <stage>(additandolo alle amiche)</stage>
+      <stage>(tutte le donne lo circondano minacciose)</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Capitasti in nostra mano,</l>
+        <l>Di fuggire tenti invano.</l>
+        <l>Meta sia dei nostri dardi,</l>
+        <l>Non si tardi, dee morir.</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Piano, piano, che mai fate!</l>
+        <l>Aspettate non tirate…</l>
+        <l>Sento già le loro lancie</l>
+        <l>Che mi sfiorano le guance…</l>
+        <l>Per San Giorgio e Belzebù,</l>
+        <l>Belle mie, quell’armi giù.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Meta sia dei nostri dardi,</l>
+        <l>Non si tardi dee morir.</l>
+      </sp>
+      <div type="scene">
+        <head>(Plumkelt fugge. Le cacciatrici lo inseguono)</head>Scena Quarta <stage>(Plumkelt fugge. Le cacciatrici lo inseguono)Scena Quarta</stage>
+        <stage>(Lionello pallido e come trasognato)LIONELLOSul cepiste tremanteTi colgo, o giovin fior,Su questo core amanteCosi morrai d’amor.Ove son io! Lo sento! A lei vicino!Arbitra omai si fe’ del mio destino.Sfolgorante la veggio.Dal celeste sorrisoChe mi cangia la terra in paradiso.</stage>
+        <stage>(si allontana)</stage>
+      </div>
+      <div type="scene">
+        <head>Sscena Quinta</head>
+        <stage>(Sir Tristano e Lady Enrichetta)SIR TRISTANOLe dame lungi son. Perchè, cugina,Lasciasti la Regina?</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Per restar sola.</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Con me…</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Con voi? Sola,</l>
+          <l>O con voi, val lo stesso.</l>
+          <l>Triste son sempre,</l>
+          <l>e sempre ho il core oppresso.</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Che mai dite?</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Un’arcana</l>
+          <l>Mestizia è in me.</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Ma sola in questo loco…</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Il voglio. Addio.</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Addio!</l>
+        </sp>
+        <stage>(parte)</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Sesta</head>
+        <stage>(Lady Enrichetta, poi Lionello)LADY ENRICHETTAQui tranquilla almen poss’ioUna lagrima versar,Qui sfogare il dolor mio,Qui lagnarmi e sospirar!Sguardo qui non va profanoChe il mio duol possa spiar…Del mio core il mesto arcanoPosso all’aura almen fidar!</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Oh! qual voce!…</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Ciel! che vedo?</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Una dama!…</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Che! egli qui?</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Marta!… Marta!…</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(Fra sè)</l>
+          <l>Dal periglio</l>
+          <l>Come uscir?</l>
+        </sp>
+        <stage>LADY ENRICHETTA(Fra sè)Dal periglioCome uscir?</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Ah! qui tornasti!</l>
+          <l>Ti son grato, amico ciel.</l>
+          <l>Ah! sei tu che mi lasciasti!…</l>
+          <l>In me altera volgi il ciglio,</l>
+          <l>Ma il mio cor ti ravvisò.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Ravvisarmi! errasti.</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>No:</l>
+          <l>No… quel fasto non m’illude,</l>
+          <l>Si, sei tu, mel dice il cor.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Sognerà!…</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Se un sogno é il mio,</l>
+          <l>Deh! non farmi ridestar!</l>
+          <l>Ah! sognar così vogl’io,</l>
+          <l>Sì bel sonno non turbar.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Via di qui.</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>No, no; sognando,</l>
+          <l>La tua mano prenderò,</l>
+          <l>Ed un bacio ad essa dando.</l>
+          <l>L’amor mio ti svelerò.</l>
+        </sp>
+        <stage>(le bacia la mano)</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Ah! siffatta impertinenza</l>
+          <l>Sopportar non posso più!</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Perchè tanta sconoscenza?</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Via villan! tacer vuoi tu?…</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Io villan!… son tuo padrone;</l>
+          <l>La dolcezza spiace a te,</l>
+          <l>T’ho parlato colle buone,</l>
+          <l>Or venir tu dêi con me.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(chiamando)</l>
+          <l>A me Tristano!</l>
+        </sp>
+        <stage>LADY ENRICHETTA(chiamando)A me Tristano!</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Settima</head>
+        <stage>(Sir Tristano, i precedenti, poi tutti)SIR TRISTANO(arrivando)Che v’atterrisce?</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Soccorso! aita!</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Chi tanto ardisce?</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Milord, costei è serva mia;</l>
+          <l>Di trarla via dritto è in me.</l>
+        </sp>
+        <sp who="#sir tristano">
+          <speaker>SIR TRISTANO:</speaker>
+          <l>Più sfrontata altra costanza</l>
+          <l>Chi mai vide! Io fremo in cor.</l>
+          <l>Tanto ardir ogni. altro avanza.</l>
+        </sp>
+        <stage>(chiamando gli amici)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(arrivando)</l>
+          <l>Qual audacia! ed un villano</l>
+          <l>D’insultarvi avea l’ardir!</l>
+          <l>Uno scandalo si strano</l>
+          <l>Affrettiamoci a punir.</l>
+        </sp>
+        <stage>CORO(arrivando)Qual audacia! ed un villanoD’insultarvi avea l’ardir!Uno scandalo si stranoAffrettiamoci a punir.</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>(Fra sè)</l>
+          <l>Qual tormento! quale affanno!</l>
+          <l>Un piacer dovrò scontar!</l>
+          <l>Di me ridere dovranno.</l>
+          <l>Che rispondere! che far!…</l>
+        </sp>
+        <stage>LADY ENRICHETTA(Fra sè)Qual tormento! quale affanno!Un piacer dovrò scontar!Di me ridere dovranno.Che rispondere! che far!…</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Tant’ audacia mi sorprende,</l>
+          <l>Ma ti seppi ravvisar.</l>
+          <l>Più nessun me la riprende.</l>
+          <l>Dovrà meco ritornar.</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Donde vien tanto rumore?</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Me difendi!</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>(arrivando)</l>
+          <l>Che mai fu!</l>
+        </sp>
+        <stage>NANCY(arrivando)Che mai fu!</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Essa Pur!</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Fatevi core,</l>
+          <l>O milady.</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>(alla parola milady)</l>
+          <l>Ah! tutto or so.</l>
+          <l>Quel candor, quel dolce accento</l>
+          <l>Un capriccio eran crudel,</l>
+          <l>Un crudel divertimento!</l>
+          <l>E tu il soffri, giusto ciel!</l>
+        </sp>
+        <stage>LIONELLO(alla parola milady)Ah! tutto or so.Quel candor, quel dolce accentoUn capriccio eran crudel,Un crudel divertimento!E tu il soffri, giusto ciel!</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>SIR TRISTANO</head>Arrestate questo matto.<sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>Arrestate questo matto.</l>
+      </sp>
+      <sp who="#plumkett, lionello">
+        <speaker>PLUMKETT, LIONELLO:</speaker>
+        <l>Arrestato!</l>
+      </sp>
+      <sp who="#nancy, lady enrichetta">
+        <speaker>NANCY, LADY ENRICHETTA:</speaker>
+        <l>(Fra sè)</l>
+        <l>Qual martir!</l>
+      </sp>
+      <stage>NANCY, LADY ENRICHETTA(Fra sè)Qual martir!</stage>
+    </div>
+    <div type="act">
+      <head>LIONELLO</head>Ma se un patto è stato fatto da costei!<sp who="#lionello">
+        <speaker>LIONELLO:</speaker>
+        <l>Ma se un patto è stato fatto da costei!</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>(sottovoce a Lionello)</l>
+        <l>Pietà! nol dir!</l>
+      </sp>
+      <stage>LADY ENRICHETTA(sottovoce a Lionello)Pietà! nol dir!</stage>
+      <sp who="#lionello">
+        <speaker>LIONELLO:</speaker>
+        <l>La caparra essa accettò.</l>
+        <l>A servire si obbligò.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Ah! ah! ah!</l>
+        <l>rider ci fa!</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>Per costui parlar dovria</l>
+        <l>La clemenza, la pietà;</l>
+        <l>La ragione lo tradia,</l>
+        <l>Ma delitto in lui non v’ha.</l>
+      </sp>
+      <sp who="#lionello">
+        <speaker>LIONELLO:</speaker>
+        <l>Quale infamia!…</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Fra sè)</l>
+        <l>Poverino!</l>
+      </sp>
+      <stage>NANCYFra sè)Poverino!</stage>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>(a Tristano)</l>
+        <l>Stammi ad udir.</l>
+      </sp>
+      <stage>PLUMKETT(a Tristano)Stammi ad udir.</stage>
+      <sp who="#tristano">
+        <speaker>TRISTANO:</speaker>
+        <l>(a Plumkett)</l>
+        <l>Va via di qua</l>
+      </sp>
+      <stage>TRISTANO(a Plumkett)Va via di qua</stage>
+      <sp who="#lionello">
+        <speaker>LIONELLO:</speaker>
+        <l>(a Enrichetta)</l>
+        <l>Ah! che a te perdoni Iddio</l>
+        <l>La mia pena, il mio dolor!</l>
+        <l>Eri solo il mio desìo,</l>
+        <l>Mi facesti a brani il cor!</l>
+        <l>Ahi! dal rendermi infelice,</l>
+        <l>Qual contento venne a te?</l>
+        <l>Quest’affanno assai ti dice</l>
+        <l>Quant’amor s’accolse in me!</l>
+      </sp>
+      <stage>LIONELLO(a Enrichetta)Ah! che a te perdoni IddioLa mia pena, il mio dolor!Eri solo il mio desìo,Mi facesti a brani il cor!Ahi! dal rendermi infelice,Qual contento venne a te?Quest’affanno assai ti diceQuant’amor s’accolse in me!</stage>
+      <sp who="#gli altri, lady enrichetta">
+        <speaker>GLI ALTRI, LADY ENRICHETTA:</speaker>
+        <l>Ah! che a me/voi perdoni Iddio!</l>
+        <l>La sua pena, il suo dolor.</l>
+        <l>Ero/foste il solo suo desio,</l>
+        <l>Io gli feci / gli faceste a brani il cor.</l>
+        <l>Ah! dal renderlo infelice,</l>
+        <l>Qual contento potea trar / si può trar!</l>
+        <l>Il suo pianto assai vi/mi dice,</l>
+        <l>Che il meschin vi/mi seppe amar!</l>
+      </sp>
+      <sp who="#sir tristano">
+        <speaker>SIR TRISTANO:</speaker>
+        <l>(Fra sè)</l>
+        <l>Del capriccio ben s’avvede,</l>
+        <l>Il consiglio disprezzò,</l>
+        <l>Ripararlo invano chiede,</l>
+        <l>Il suo duol mi vendicò!</l>
+      </sp>
+      <stage>SIR TRISTANO(Fra sè)Del capriccio ben s’avvede,Il consiglio disprezzò,Ripararlo invano chiede,Il suo duol mi vendicò!</stage>
+      <div type="scene">
+        <head>CORO</head>Affrettiamo .la sua pena,Sia punito l’impostor,Durò troppo questa scena,Alla caccia andiamo ancor.<sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Affrettiamo .la sua pena,</l>
+          <l>Sia punito l’impostor,</l>
+          <l>Durò troppo questa scena,</l>
+          <l>Alla caccia andiamo ancor.</l>
+        </sp>
+        <stage>(s’ode la tromba)</stage>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Con lei ritorna la mia speranza.</l>
+        </sp>
+        <stage>(si toglie dal dito l’anello e lo dà a Plumkett)</stage>
+        <sp who="#coro di servene">
+          <speaker>CORO DI SERVENE:</speaker>
+          <l>Dal ciglion della collina,</l>
+          <l>Giù nel vallon,</l>
+          <l>ci chiama il suon.</l>
+          <l>Ecco il sol che già declina,</l>
+          <l>Ma corre ancor</l>
+          <l>Il cacciator.</l>
+        </sp>
+        <sp who="#gli uomini">
+          <speaker>GLI UOMINI:</speaker>
+          <l>Del camoscio abbiam la traccia!</l>
+          <l>Proseguita sia la caccia!</l>
+          <l>Sul balze, nel vallon,</l>
+          <l>Tra le macchie e nel burron.</l>
+        </sp>
+        <stage>(Lionello è condotto via. I cacciatori si disperdono)</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>Atto Quarto</head>
+      <div type="scene">
+        <head>Sscena Prima</head>
+        <stage>(Interno della Fattoria. di Plumkett come nelsecondo atto. Plumkett solo)</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Povero Lionel! geme, sospira;</l>
+          <l>Fugge l’amico suo, d’amor delira…</l>
+          <l>Momento maledetto</l>
+          <l>Che sotto il nostro tetto</l>
+          <l>Fu quella donna accolta,</l>
+          <l>Che Marta ei vide per la prima volta!</l>
+          <l>Il mio Lionel perirà</l>
+          <l>Se, amico il ciel non avrà;</l>
+          <l>Infausto il dì che l’amor</l>
+          <l>S’impadronì del suo cor!</l>
+          <l>Piangendo va mesto e sol,</l>
+          <l>Tregua non ha il suo duol…</l>
+          <l>Pietoso ciel, salvo il fa</l>
+          <l>O il mio Lionel ne morrà!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Scena Seconda</head>
+        <stage>(Lady Enrichetta, Nancy e Plumkett)NANCYAmico…</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Eccole entrambe</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Vi desio,</l>
+          <l>Nancy, il disegno mio</l>
+          <l>Noto vi fece. Vo’ salvar Lionello…</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>V’ascolti il ciel!</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Lasciami brev’ora.</l>
+        </sp>
+        <stage>(Plumkett e Nancy partono)</stage>
+      </div>
+      <div type="scene">
+        <head>Sscena Terza</head>
+        <stage>(Lionello e detta)LIONELLOCiel! la sua voce! Ah! vuoiCh’io mora, o traditrice!Sirena iniqua, cessa il canto omai,La morte mi darai col’ tuo canto,Il fiore tuo sfogliato è al suol.</stage>
+        <stage>(getta il fiore)</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Ah! Mi odi!</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Il so, la voce tua</l>
+          <l>Seduce, ammalia, incanta,</l>
+          <l>Fascinatrice ell’è, ma insiem fatale!</l>
+          <l>Per chi l’ode è mortale.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Pietà, Lionel!</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Pietà, per te! Giammai!</l>
+          <l>Tu che l’onta al dispregio unir potesti !</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Il mio rimorso, il mio pianto t’arresti!</l>
+          <l>Io cangiai la tua sorte, il tuo destino,</l>
+          <l>Di mia mano portai</l>
+          <l>L’anello che morendo</l>
+          <l>Il tuo padre ti diè; portai l’anello</l>
+          <l>Che all’amico affidasti… alla regina.</l>
+          <l>Lionel, tu sei. figliuolo</l>
+          <l>Del Conte di Derby, da questo suolo</l>
+          <l>Bandito ingiustamente!…</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Oh! padre mio!</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>In te vuol la’ regina</l>
+          <l>L’esiglio riparar del genitore:</l>
+          <l>Alta portar la fronte.</l>
+          <l>Potete, pari d’Inghilterra e conte!</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Io conte di Derby!</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Si, questa mano,</l>
+          <l>Che il nome tuo ti rende,</l>
+          <l>S’offre alla tua, pegno di santo amore…</l>
+          <l>Derby l’accetta; e con la mano il core.</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Questa man che d’amarezza</l>
+          <l>A me il nappo presento,</l>
+          <l>Che ferisce se accarezza,</l>
+          <l>Che m’offese e m’oltraggiò,</l>
+          <l>Questa man che disonora,</l>
+          <l>Che la tomba mi scavò,</l>
+          <l>Tu d’offrirla ardisci ancora?…</l>
+        </sp>
+        <stage>(con forza)Questa mano io non la vo’!</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Dio possente.!</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Odio mortale!</l>
+          <l>Era stella dell’amor</l>
+          <l>E desire del mio cor.</l>
+          <l>Soffrir tutto ella mi fe’,</l>
+          <l>Oggi è l’astro del dolor!</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Mi leggi in cor pentita io son;</l>
+          <l>Uniti insieme esser dovrem:</l>
+          <l>Mi dia l’amor il tuo perdon,</l>
+          <l>Tu puoi, Lionel schiudermi il ciel.</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>No, no, il tuo cor non chiude amor;</l>
+          <l>M’apristi il ciel m’apri or l’avel.</l>
+        </sp>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Ah, ti piega al mio dolor,</l>
+          <l>Per pietà mi rendi amor.</l>
+        </sp>
+        <sp who="#lionello">
+          <speaker>LIONELLO:</speaker>
+          <l>Va, t’invola al mio furor…</l>
+          <l>Odio eterno avrò nel cor.</l>
+        </sp>
+        <stage>(Lionello parte)</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Quarta</head>
+        <stage>(Lady Enrichetta, Nancy e Plumkett)NANCYLady, coraggio!</stage>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Egli s’invola.</l>
+        </sp>
+        <stage>(Fra sè)</stage>
+        <sp who="#lady enrichetta">
+          <speaker>LADY ENRICHETTA:</speaker>
+          <l>Ah! non più… si tenti ancora!</l>
+          <l>Or, amico, io spero in te!</l>
+          <l>Sì, colui che il core adora</l>
+          <l>Dee tornare a questo piè.</l>
+        </sp>
+        <stage>(parte)</stage>
+      </div>
+      <div type="scene">
+        <head>Scena Quinta</head>
+        <stage>(Plumkett e Nancy)</stage>
+        <sp who="#nancy, plumkett">
+          <speaker>NANCY, PLUMKETT:</speaker>
+          <l>Lo so bene! ma ché far!</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Lo sai tu? no? nemmen io.</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Il suo voto d’appagare</l>
+          <l>Ambedue dobbiam cercare,</l>
+          <l>Finchè il nuovo tuo signor</l>
+          <l>Abbandona il suo rigor.</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Si, ma poi?</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Ma poi? poi… che?</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Sto in impaccio ancor.</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Perchè?</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Solo allor restar degg’io</l>
+          <l>Nell’umil tugurio mio,</l>
+          <l>Nel deserto casolar,</l>
+          <l>Presso al fuoco a sospirar.</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Hai ragione, è triste assai!</l>
+          <l>Starne solo tu dovrai,</l>
+          <l>Nel deserto casolar</l>
+          <l>Presso al fuoco a sospirar.</l>
+          <l>È crudele!</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>Fa pietà!</l>
+        </sp>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Si potria…</l>
+        </sp>
+        <sp who="#plumkett">
+          <speaker>PLUMKETT:</speaker>
+          <l>(Para sí)</l>
+          <l>Che mai dirà!</l>
+        </sp>
+        <stage>PLUMKETT(Para sí)Che mai dirà!</stage>
+        <sp who="#nancy">
+          <speaker>NANCY:</speaker>
+          <l>Vi bisogna una sposina…</l>
+          <l>Consultate il’ vostro cor.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>PLUMKETT</head>Io conosco una vicina,Polly, figlia del fattor.<sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Io conosco una vicina,</l>
+        <l>Polly, figlia del fattor.</l>
+      </sp>
+    </div>
+    <div type="act">
+      <head>NANCY</head>Ah! davver! vostra vicinaÈ la figlia del fattor!La prendete.<sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Ah! davver! vostra vicina</l>
+        <l>È la figlia del fattor!</l>
+        <l>La prendete.</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Non la vo’.</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>E perchè?</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Non l’amerò.</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Ma donzelle buone e belle,</l>
+        <l>Troverete in quantità.</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Più ne chiedo men ne vedo:</l>
+        <l>Anna a genio non mi va.</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Non c’è un’altra ?</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Dove? chi?</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Non lo so.</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Ah!’ udite qui.</l>
+        <l>Io, conosco una fanciulla</l>
+        <l>Tutta grazia, tutta cor,</l>
+        <l>Ma che val! non sa far nulla,</l>
+        <l>Buona è sol per un signor.</l>
+        <l>Non sa in man tener la rocca,</l>
+        <l>Sa sol ridere e scherzar,</l>
+        <l>Ma benchè sia tanto sciocca,</l>
+        <l>M’ha saputo innamorar.</l>
+      </sp>
+    </div>
+    <div type="act">
+      <head>NANCY</head>Il ritratto mi somiglia:Mi voleste lusingar…Ma nessuno vi consigliaQuesta donna di sposar…Pur, se apprendere potesseA cucire ed a filar…Se in brev’ora lo facesse,Vi potrebbe accontentar?<sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Il ritratto mi somiglia:</l>
+        <l>Mi voleste lusingar…</l>
+        <l>Ma nessuno vi consiglia</l>
+        <l>Questa donna di sposar…</l>
+        <l>Pur, se apprendere potesse</l>
+        <l>A cucire ed a filar…</l>
+        <l>Se in brev’ora lo facesse,</l>
+        <l>Vi potrebbe accontentar?</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Si</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Ma certo!</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Dir mi vuoi?</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Che?…</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>No; pria Lionel salvar!</l>
+        <l>Liberar lo deggio e poi</l>
+        <l>Pensar posso a quest’affar.</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Si potria…</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>No, pria Lionel.</l>
+        <l>All’amico io son fedel.</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Qual sarà si dolce al cor?</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>La parola dell’amor.</l>
+      </sp>
+      <div type="scene">
+        <head>Scena Ultima</head>
+      </div>
+    </div>
+    <div type="act">
+      <head>(Parco di lady Enrichetta. Si figura il mercato di</head>Richmond come nell’atto primo. Panche, scranne,Fattori, poi tutti. lady Enrichetta e Nancy sarannovestiste da contadine)COROQua le panche su due file,Per l’usciere là il sedile,Qui le scranne pronte son,Proprio come a Richmond.Qua le serve, là i fattori,Le fantesche, gli avventori,Lo Sceriffo vi sarà,I contratti approverà. <stage>(Parco di lady Enrichetta. Si figura il mercato diRichmond come nell’atto primo. Panche, scranne,Fattori, poi tutti. lady Enrichetta e Nancy sarannovestiste da contadine)COROQua le panche su due file,Per l’usciere là il sedile,Qui le scranne pronte son,Proprio come a Richmond.Qua le serve, là i fattori,Le fantesche, gli avventori,Lo Sceriffo vi sarà,I contratti approverà.</stage>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>(al coro)</l>
+        <l>Obbediste al cenno mio?</l>
+      </sp>
+      <stage>LADY ENRICHETTA(al coro)Obbediste al cenno mio?</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Ogni cosa è pronta qui.</l>
+        <l>Là le panche su due file, ecc.</l>
+      </sp>
+      <stage>(guarda dentro)</stage>
+      <stage>(suona la campana)</stage>
+      <sp who="#una serva">
+        <speaker>UNA SERVA:</speaker>
+        <l>È mezzodì venite qui;</l>
+        <l>L’ora suonò parlar si può.</l>
+      </sp>
+    </div>
+    <div type="act">
+      <head>CORO DI SERVE</head>(come nell’atto primo)Io cucino, fo il ricamo,Riposare mai non bramo, ecc.<sp who="#coro di serve">
+        <speaker>CORO DI SERVE:</speaker>
+        <l>(come nell’atto primo)</l>
+        <l>Io cucino, fo il ricamo,</l>
+        <l>Riposare mai non bramo, ecc.</l>
+      </sp>
+      <stage>CORO DI SERVE(come nell’atto primo)Io cucino, fo il ricamo,Riposare mai non bramo, ecc.</stage>
+      <sp who="#altre">
+        <speaker>ALTRE:</speaker>
+        <l>Fo le torte, fo il vin mosto,</l>
+        <l>Curo I polli, fo il bucato, ecc.</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Vieni qui.</l>
+      </sp>
+      <sp who="#lionello">
+        <speaker>LIONELLO:</speaker>
+        <l>(come in delirio)</l>
+        <l>Quai voci son?</l>
+      </sp>
+      <stage>LIONELLO(come in delirio)Quai voci son?</stage>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Son le serve di Richmond.</l>
+      </sp>
+      <stage>(volgendosi a Lady Enrichetta)</stage>
+      <sp who="#lionello">
+        <speaker>LIONELLO:</speaker>
+        <l>(perplesso)</l>
+        <l>Marta! ciel! parmi sognar.</l>
+      </sp>
+      <stage>LIONELLO(perplesso)Marta! ciel! parmi sognar.</stage>
+      <stage>(guarda Marta, la riconosce, rimaneestatico; Marta gli va vicino, gli prendela mano, e dice con passione)</stage>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>I sogni d’or della ricchezza</l>
+        <l>Posso obbliar, posso sprezzar;</l>
+        <l>Solo l’amor, la tenerezza,</l>
+        <l>Vo’ rammentar, voglio serbar.</l>
+      </sp>
+      <sp who="#lionello">
+        <speaker>LIONELLO:</speaker>
+        <l>Delirio è questo?</l>
+        <l>Sogno, o son desto?</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>(a Nancy)</l>
+        <l>E tu di’, che sai, fanciulla?</l>
+      </sp>
+      <stage>PLUMKETT(a Nancy)E tu di’, che sai, fanciulla?</stage>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>La cucina ed il bucato.</l>
+      </sp>
+      <sp who="#lumkett">
+        <speaker>LUMKETT:</speaker>
+        <l>(ridendo)</l>
+        <l>Vuoi scherzar! Non sai far nulla.</l>
+      </sp>
+      <stage>LUMKETT(ridendo)Vuoi scherzar! Non sai far nulla.</stage>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Se il, padron fa l’ostinato</l>
+        <l>Te l’aggiusto come va.</l>
+      </sp>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>M’i convieni, meco Vieni.</l>
+      </sp>
+      <sp who="#nancy">
+        <speaker>NANCY:</speaker>
+        <l>Prendi in pegno questo qua.</l>
+      </sp>
+      <stage>(gli da uno schiaffo)</stage>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>(ridendo)</l>
+        <l>La caparra è meritata,</l>
+        <l>E fu data con amor.</l>
+      </sp>
+      <stage>TUTTI(ridendo)La caparra è meritata,E fu data con amor.</stage>
+      <sp who="#plumkett">
+        <speaker>PLUMKETT:</speaker>
+        <l>Sulla guancia serbo il segno</l>
+        <l>Come pegno dell’amor.</l>
+      </sp>
+      <sp who="#lady enrichetta">
+        <speaker>LADY ENRICHETTA:</speaker>
+        <l>(ricantando la sua canzone, Lionello</l>
+        <l>sembra ridestarsi da un sogno)</l>
+        <l>Già l’april fa ritorno,</l>
+        <l>Cinto il crin , d’erbe e fior,</l>
+        <l>Più gentil, ride il giorno,</l>
+        <l>Manda il sol più splendor!</l>
+        <l>Copre il suol verde ammanto,</l>
+        <l>Ride il fior sul suo stel,</l>
+        <l>L’usignuol dolce canto</l>
+        <l>Tutt’amor manda il ciel.</l>
+      </sp>
+      <stage>LADY ENRICHETTA(ricantando la sua canzone, Lionellosembra ridestarsi da un sogno)Già l’april fa ritorno,Cinto il crin , d’erbe e fior,Più gentil, ride il giorno,Manda il sol più splendor!Copre il suol verde ammanto,Ride il fior sul suo stel,L’usignuol dolce cantoTutt’amor manda il ciel.</stage>
+      <sp who="#tutti">
+        <speaker>TUTTI:</speaker>
+        <l>(con gioia)</l>
+        <l>Giunta è l’ora del piacer,</l>
+        <l>Non’ si pensi che a goder.</l>
+      </sp>
+      <stage>TUTTI(con gioia)Giunta è l’ora del piacer,Non’ si pensi che a goder.</stage>
+    </div>
+  </text>
+</TEI>

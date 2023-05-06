@@ -1,0 +1,2062 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">oberto Bruce</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="bruce">
+            <persName>BRUCE:</persName>
+          </person>
+          <person xml:id="atto terzo">
+            <persName>ATTO TERZO:</persName>
+          </person>
+          <person xml:id="scena sesta">
+            <persName>SCENA SESTA:</persName>
+          </person>
+          <person xml:id="guerrieri">
+            <persName>GUERRIERI:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="morton">
+            <persName>MORTON:</persName>
+          </person>
+          <person xml:id="alcuni cavalieri">
+            <persName>ALCUNI CAVALIERI:</persName>
+          </person>
+          <person xml:id="scena quinta">
+            <persName>SCENA QUINTA:</persName>
+          </person>
+          <person xml:id="bardi">
+            <persName>BARDI:</persName>
+          </person>
+          <person xml:id="scena decima">
+            <persName>SCENA DECIMA:</persName>
+          </person>
+          <person xml:id="scena terza">
+            <persName>SCENA TERZA:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="[i.]">
+            <persName>[I.]:</persName>
+          </person>
+          <person xml:id="cavalieri">
+            <persName>CAVALIERI:</persName>
+          </person>
+          <person xml:id="nelly">
+            <persName>NELLY:</persName>
+          </person>
+          <person xml:id="dickson">
+            <persName>DICKSON:</persName>
+          </person>
+          <person xml:id="edoardo">
+            <persName>EDOARDO:</persName>
+          </person>
+          <person xml:id="maria">
+            <persName>MARIA:</persName>
+          </person>
+          <person xml:id="il paggio">
+            <persName>IL PAGGIO:</persName>
+          </person>
+          <person xml:id="soldati inglesi">
+            <persName>SOLDATI INGLESI:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="f i n e">
+            <persName>F I N E:</persName>
+          </person>
+          <person xml:id="inglesi">
+            <persName>INGLESI:</persName>
+          </person>
+          <person xml:id="scozzesi">
+            <persName>SCOZZESI:</persName>
+          </person>
+          <person xml:id="scena nona">
+            <persName>SCENA NONA:</persName>
+          </person>
+          <person xml:id="uomini">
+            <persName>UOMINI:</persName>
+          </person>
+          <person xml:id="un soldato">
+            <persName>UN SOLDATO:</persName>
+          </person>
+          <person xml:id="atto primo">
+            <persName>ATTO PRIMO:</persName>
+          </person>
+          <person xml:id="scena seconda">
+            <persName>SCENA SECONDA:</persName>
+          </person>
+          <person xml:id="duglas">
+            <persName>DUGLAS:</persName>
+          </person>
+          <person xml:id="donne">
+            <persName>DONNE:</persName>
+          </person>
+          <person xml:id="arturo">
+            <persName>ARTURO:</persName>
+          </person>
+          <person xml:id="scena settima">
+            <persName>SCENA SETTIMA:</persName>
+          </person>
+          <person xml:id="[ii.]">
+            <persName>[II.]:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>La scena è in Iscozia, nelle vicinanze della città di Sterlinga (1314).</stage>
+      <div type="act">
+        <head>ATTO PRIMO</head>
+        <sp who="#atto primo">
+          <speaker>ATTO PRIMO:</speaker>
+        </sp>
+        <stage>Sito pittoresco. Rupi. Un lago. Una capanna.Infondo, oltre il lago e in distanza, il castello di Duglas.SCENA PRIMAÈ l’alba. Alcuni soldati feriti ed alcuni montanari,ultimi avanzi dell’armata scozzese, sono aggruppatiper ogni dove: essi attendono in silenzio, e guardanoansiosamente da lontano. Roberto Bruce apparesopra una rupe, gli Scozzesi lo veggono e gridancon gioia.CORO(muovono incontro a Bruce che ha scesoil sentiero praticato fra le rupi)Roberto! – A quali angoscieNon era in preda il cor!Ma siam riuniti ancor.</stage>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>A voi di Scozia – Sostegno e gloria,</l>
+          <l>Doman vittoria – Sorriderà.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>(con avvilimento)</l>
+          <l>Oimè! di vana speme</l>
+          <l>A noi mercé si dà!</l>
+          <l>Il tuon che irato freme</l>
+          <l>A Scozia ostil sarà.</l>
+        </sp>
+        <stage>CORO(con avvilimento)Oimè! di vana spemeA noi mercé si dà!Il tuon che irato fremeA Scozia ostil sarà.</stage>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Quando è con voi Roberto</l>
+          <l>La fé mancar dovrà?</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Di patria e tetto privi,</l>
+          <l>Erranti ognor così,</l>
+          <l>Non fia che in noi si avvivi</l>
+          <l>La speme che fuggì.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>E che! fra voi la tema!</l>
+          <l>Fra voi l’orror e il lutto!</l>
+          <l>A tal viltà ridutto</l>
+          <l>È dunque il vostro cor,</l>
+          <l>In preda a un rio dolor?</l>
+          <l>Volgi, o Signor, un guardo</l>
+          <l>Di compassion su loro:</l>
+          <l>Infranca tu il codardo,</l>
+          <l>Al mal da’ tu ristoro,</l>
+          <l>E ti dovrà la Scozia</l>
+          <l>La gloria e il suo splendor.</l>
+        </sp>
+        <sp who="#un soldato">
+          <speaker>UN SOLDATO:</speaker>
+          <l>(vedendo inoltrarsi Duglas)</l>
+          <l>Duglas!</l>
+        </sp>
+        <stage>UN SOLDATO(vedendo inoltrarsi Duglas)Duglas!</stage>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>(con gioia)</l>
+          <l>Duglas!</l>
+        </sp>
+        <stage>BRUCE(con gioia)Duglas!</stage>
+        <sp who="#scena seconda">
+          <speaker>SCENA SECONDA:</speaker>
+          <l>Duglas con alcuni guerrieri, e detti.</l>
+          <l>DUGLAS</l>
+          <l>Eletta schiera – Conduco a te:</l>
+          <l>La tua bandiera – Ci guidi, o Re.</l>
+          <l>(Bruce stringe la mano a Duglas, e lo</l>
+          <l>addita siccome un esempio a’ suoi</l>
+          <l>soldati, che, rianimati, gridano seco).</l>
+          <l>CORO</l>
+          <l>La tua bandiera – Ci guidi, o Re.</l>
+        </sp>
+        <stage>SCENA SECONDADuglas con alcuni guerrieri, e detti.DUGLASEletta schiera – Conduco a te:La tua bandiera – Ci guidi, o Re.(Bruce stringe la mano a Duglas, e loaddita siccome un esempio a’ suoisoldati, che, rianimati, gridano seco).COROLa tua bandiera – Ci guidi, o Re.</stage>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Ah, fia che tornino</l>
+          <l>L’ore serene</l>
+          <l>Dopo le pene,</l>
+          <l>Dopo il dolor.</l>
+          <l>Già della gloria</l>
+          <l>La voce io sento,</l>
+          <l>Che parla all’anima</l>
+          <l>Supremo accento.</l>
+          <l>E grida… o vittima,</l>
+          <l>O vincitor.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>In noi già intera</l>
+          <l>Tornò la fé.</l>
+          <l>La tua bandiera</l>
+          <l>Ci guidi, o Re.</l>
+        </sp>
+        <sp who="#duglas">
+          <speaker>DUGLAS:</speaker>
+          <l>A mia figlia, ne ho speme,</l>
+          <l>Giungerà il mio messaggio; ed al castello</l>
+          <l>Ne scorgerà quanto prima un battello.</l>
+          <l>Ivi noi gusterem per qualche giorno</l>
+          <l>D’un voluto riposo.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Quindi il vessillo innalzerem di Scozia!</l>
+          <l>(Odesi un lontano suono di corni).</l>
+          <l>DUGLAS</l>
+          <l>Ma qual rumor?</l>
+        </sp>
+        <stage>BRUCEQuindi il vessillo innalzerem di Scozia!(Odesi un lontano suono di corni).DUGLASMa qual rumor?</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Qual danno ne minaccia?</l>
+          <l>Son gli Inglesi, son dessi!</l>
+        </sp>
+        <sp who="#duglas">
+          <speaker>DUGLAS:</speaker>
+          <l>(tendendo l’orecchio)</l>
+          <l>Un suon di caccia!</l>
+        </sp>
+        <stage>DUGLAS(tendendo l’orecchio)Un suon di caccia!</stage>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Il superbo Edoardo,</l>
+          <l>Ebbro di sua vittoria,</l>
+          <l>Si abbandona al piacer.</l>
+        </sp>
+        <sp who="#duglas">
+          <speaker>DUGLAS:</speaker>
+          <l>Senza dimora</l>
+          <l>Disperdiamci. Voi, sir, meco attendete</l>
+          <l>Presso Dickson, un servitor fedele,</l>
+          <l>Il picciol legno.</l>
+          <l>(Al coro)</l>
+          <l>All’altra riva voi</l>
+          <l>Tosto movete; ivi noi pure in breve</l>
+          <l>Sarem…</l>
+        </sp>
+        <stage>DUGLASSenza dimoraDisperdiamci. Voi, sir, meco attendetePresso Dickson, un servitor fedele,Il picciol legno.(Al coro)All’altra riva voiTosto movete; ivi noi pure in breveSarem…</stage>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Vi guardi Iddio,</l>
+          <l>Nobili amici: fra non molto – addio.</l>
+          <l>(I partigiani di Bruce, si disperdono fra le rupi.</l>
+          <l>Bruce e Duglas entrano nella capanna.</l>
+          <l>Il suono di caccia si è sempre più avvicinato).</l>
+          <l>SCENA TERZA</l>
+          <l>Arturo, Morton e cavalieri inglesi.</l>
+          <l>I CAVALIERI</l>
+          <l>(chiamando con inquietudine)</l>
+          <l>Lancastro!… Ah per pietà!</l>
+          <l>Il prence ove sarà? –</l>
+          <l>Ei della caccia</l>
+          <l>Perdé la traccia,</l>
+          <l>E nell’affanno</l>
+          <l>Ciascun lasciò.</l>
+          <l>Nel suo fidente</l>
+          <l>Ardor fervente,</l>
+          <l>Disparve a un tratto</l>
+          <l>Ciabbandonò.</l>
+          <l>Tremante, incerto</l>
+          <l>Palpita il cor!</l>
+          <l>Vinto è Roberto</l>
+          <l>Ma vive ancor.</l>
+        </sp>
+        <stage>BRUCEVi guardi Iddio,Nobili amici: fra non molto – addio.(I partigiani di Bruce, si disperdono fra le rupi.Bruce e Duglas entrano nella capanna.Il suono di caccia si è sempre più avvicinato).SCENA TERZAArturo, Morton e cavalieri inglesi.I CAVALIERI(chiamando con inquietudine)Lancastro!… Ah per pietà!Il prence ove sarà? –Ei della cacciaPerdé la traccia,E nell’affannoCiascun lasciò.Nel suo fidenteArdor fervente,Disparve a un trattoCiabbandonò.Tremante, incertoPalpita il cor!Vinto è RobertoMa vive ancor.</stage>
+        <sp who="#morton">
+          <speaker>MORTON:</speaker>
+          <l>Vano sgomento!</l>
+          <l>Nel gran cimento</l>
+          <l>Sconfitto ei fu.</l>
+        </sp>
+        <sp who="#alcuni cavalieri">
+          <speaker>ALCUNI CAVALIERI:</speaker>
+          <l>Né potrà, spero,</l>
+          <l>Campion sì altero</l>
+          <l>Risorger più.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Per Francia ho udito</l>
+          <l>Ch’ei sia partito,</l>
+          <l>Né torni più.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ma il Re fra i vari</l>
+          <l>Scogli e sentier,</l>
+          <l>Nei montanari</l>
+          <l>Potria cader.</l>
+          <l>Bontà infinita,</l>
+          <l>Speriamo in te:</l>
+          <l>Tu puoi la vita</l>
+          <l>Salvar del Re.</l>
+          <l>Ritocco il corno</l>
+          <l>Per noi sarà!</l>
+          <l>Cerchiamo intorno,</l>
+          <l>Si troverà.</l>
+          <l>(Morton si allontana con i cavalieri).</l>
+          <l>SCENA QUARTA</l>
+          <l>Arturo, rimasto solo.</l>
+          <l>ARTURO</l>
+          <l>Maria! come mi balza</l>
+          <l>A così dolce nome il cor nel petto!</l>
+          <l>Ecco il castello in cui dessa soggiorna!</l>
+          <l>Ecco il lago onde gli echi</l>
+          <l>Ripetevano un tempo</l>
+          <l>I suoi canti d’amor, a cui s’unìa</l>
+          <l>Talor la voce mia. – Fuggiam tai luoghi!</l>
+          <l>Quand’io d’Anglia pel Re la spada impugno.</l>
+          <l>Colmo de’ suoi favori,</l>
+          <l>E da lui fatto cavalier… Maria!</l>
+          <l>Pel padre tuo non sono</l>
+          <l>Che un nemico dannato all’abbandono!</l>
+          <l>[Schiavo all’onor, ma fido all’amor mio.</l>
+          <l>Questi soavi luoghi</l>
+          <l>Che mi parlan di lei fuggir degg’io.]</l>
+          <l>(Egli allontanasi tristemente).</l>
+          <l>SCENA QUINTA</l>
+          <l>Una barca appare sul lago; essa porta</l>
+          <l>Maria e Nelly. Abbordate che sono, Nelly,</l>
+          <l>dietro un cenno di Maria, entra nella</l>
+          <l>capanna di Dickson.</l>
+          <l>MARIA</l>
+          <l>Caro e ridente lago</l>
+          <l>A cui fa specchio il ciel.</l>
+          <l>Tu svegli in me l’imago</l>
+          <l>Dell’amor mio fedel.</l>
+          <l>Qui tutto a me d’un bene</l>
+          <l>Favella che fuggì;</l>
+          <l>E cessan le pene</l>
+          <l>Che il core soffrì.</l>
+          <l>Amor!… Oh santo ardore!</l>
+          <l>Che Dio dovea giovar:</l>
+          <l>Pensiero del mio core</l>
+          <l>Ti potrò mai scordar?</l>
+          <l>Qui tutto a me d’un bene</l>
+          <l>Favella che fuggì;</l>
+          <l>E cessan le pene</l>
+          <l>Che il core soffrì.</l>
+        </sp>
+        <stage>COROMa il Re fra i variScogli e sentier,Nei montanariPotria cader.Bontà infinita,Speriamo in te:Tu puoi la vitaSalvar del Re.Ritocco il cornoPer noi sarà!Cerchiamo intorno,Si troverà.(Morton si allontana con i cavalieri).SCENA QUARTAArturo, rimasto solo.ARTUROMaria! come mi balzaA così dolce nome il cor nel petto!Ecco il castello in cui dessa soggiorna!Ecco il lago onde gli echiRipetevano un tempoI suoi canti d’amor, a cui s’unìaTalor la voce mia. – Fuggiam tai luoghi!Quand’io d’Anglia pel Re la spada impugno.Colmo de’ suoi favori,E da lui fatto cavalier… Maria!Pel padre tuo non sonoChe un nemico dannato all’abbandono![Schiavo all’onor, ma fido all’amor mio.Questi soavi luoghiChe mi parlan di lei fuggir degg’io.](Egli allontanasi tristemente).SCENA QUINTAUna barca appare sul lago; essa portaMaria e Nelly. Abbordate che sono, Nelly,dietro un cenno di Maria, entra nellacapanna di Dickson.MARIACaro e ridente lagoA cui fa specchio il ciel.Tu svegli in me l’imagoDell’amor mio fedel.Qui tutto a me d’un beneFavella che fuggì;E cessan le peneChe il core soffrì.Amor!… Oh santo ardore!Che Dio dovea giovar:Pensiero del mio coreTi potrò mai scordar?Qui tutto a me d’un beneFavella che fuggì;E cessan le peneChe il core soffrì.</stage>
+        <sp who="#scena sesta">
+          <speaker>SCENA SESTA:</speaker>
+          <l>Maria ed Arturo.</l>
+          <l>MARIA</l>
+          <l>(con uno slancio di gioia alla vista di Arturo)</l>
+          <l>Arturo!</l>
+        </sp>
+        <stage>SCENA SESTAMaria ed Arturo.MARIA(con uno slancio di gioia alla vista di Arturo)Arturo!</stage>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>(con amore)</l>
+          <l>Maria!</l>
+        </sp>
+        <stage>ARTURO(con amore)Maria!</stage>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(presa da subito sgomento)</l>
+          <l>(Gran Dio!)</l>
+        </sp>
+        <stage>MARIA(presa da subito sgomento)(Gran Dio!)</stage>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Son io forse che desta il terror vostro?</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(con inquietudine)</l>
+          <l>(Se il padre mio…)</l>
+        </sp>
+        <stage>MARIA(con inquietudine)(Se il padre mio…)</stage>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Questa fredda accoglienza…</l>
+          <l>Vero creder degg’io quanto si narra?</l>
+          <l>Che un altro imene… un altro amor fors’anco?…</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>E siete voi che di me dubitate!…</l>
+          <l>Voi che d’un Re la grazia</l>
+          <l>Pregiaste più che la man di Maria!</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Pugnando per dovere</l>
+          <l>Nei ranghi inglesi, alle leggi obbedisco</l>
+          <l>Della cavalleria.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Così la spene</l>
+          <l>Distruggete che segua il nostro imene.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Io scordarti!</l>
+          <l>Oh amor funesto!</l>
+          <l>Solo al mondo, o cielo, io resto!</l>
+          <l>Deh! mi lascia la speranza</l>
+          <l>Ch’io ritorni al primo amor.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Duol perduto!</l>
+          <l>È amor funesto!</l>
+          <l>Il decreto estremo è questo.</l>
+          <l>Ah! distrutta è la speranza</l>
+          <l>Ch’io ritorni al primo amor.</l>
+          <l>(Una campana suona da lunge, e si sente</l>
+          <l>un coro di giovanette).</l>
+          <l>CORO</l>
+          <l>(di dentro)</l>
+          <l>Or via corriamo!</l>
+          <l>Sorto è il mattin!</l>
+          <l>Oggi onoriamo</l>
+          <l>San Valentin.</l>
+          <l>Egli è che dona</l>
+          <l>Prosperi dì:</l>
+          <l>Ei che perdona</l>
+          <l>A chi fallì.</l>
+        </sp>
+        <stage>MARIADuol perduto!È amor funesto!Il decreto estremo è questo.Ah! distrutta è la speranzaCh’io ritorni al primo amor.(Una campana suona da lunge, e si senteun coro di giovanette).CORO(di dentro)Or via corriamo!Sorto è il mattin!Oggi onoriamoSan Valentin.Egli è che donaProsperi dì:Ei che perdonaA chi fallì.</stage>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Odi tu?</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Del vicin tempio</l>
+          <l>Questo è il bronzo…</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Oh! quale scempio,</l>
+          <l>Se scoperto… Fuggi… va’. –</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Deh! m’ascolta un solo istante.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Volger qui Duglas de’ il piede.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Per favor!…</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>S’ei qui ne vede,</l>
+          <l>L’ira sua su noi cadrà.</l>
+          <l>Per pietà!… deh! fuggi… va!</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Chiuder l’alma al voto mio!…</l>
+          <l>Separarmi… oh Dio! da te.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Di mio padre il cenno rio</l>
+          <l>Questa legge impone a me.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>L’odio suo me fa perduto.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Sei tu sol che l’hai voluto.</l>
+          <l>Ogni speme è a noi rapita…</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Io morrò senza di te!</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Il dover crudel mi fe’.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Fuggi la collera</l>
+          <l>Del padre mio!</l>
+          <l>Vanne, e benefico</l>
+          <l>Ti vegli Iddio;</l>
+          <l>Vanne, e dimentica</l>
+          <l>Chi un dì ti amò.</l>
+          <l>Estremo ed ultimo</l>
+          <l>Addio ti do.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Io vado, o barbara,</l>
+          <l>Poiché lo vuoi,</l>
+          <l>Lontano a vivere</l>
+          <l>Dagli occhi tuoi.</l>
+          <l>Il cenno è rigido,</l>
+          <l>Ma il compirò.</l>
+          <l>Estremo ed ultimo</l>
+          <l>Addio ti do.</l>
+          <l>Tu lo brami!… ebben, fra l’armi</l>
+          <l>Io la morte cercherò.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(Vorrà il cielo orecchio darmi,</l>
+          <l>E salvato io lo vedrò…)</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Fuggi la collera</l>
+          <l>Del padre mio!</l>
+          <l>Vanne, e benefico</l>
+          <l>Ti vegli Iddio;</l>
+          <l>Vanne, e dimentica</l>
+          <l>Chi un dì ti amò.</l>
+          <l>Estremo ed ultimo</l>
+          <l>Addio ti do.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Io vado, o barbara,</l>
+          <l>Poiché lo vuoi,</l>
+          <l>Lontano a vivere</l>
+          <l>Dagli occhi tuoi.</l>
+          <l>Il cenno è rigido,</l>
+          <l>Ma il compirò.</l>
+          <l>Estremo ed ultimo</l>
+          <l>Addio ti do.</l>
+        </sp>
+        <sp who="#scena settima">
+          <speaker>SCENA SETTIMA:</speaker>
+          <l>Maria, Arturo, Duglas, Bruce nascosto sotto</l>
+          <l>il tartan d’un montanaro.</l>
+          <l>BRUCE</l>
+          <l>(vedendo Arturo)</l>
+          <l>Ciel! Un inglese!</l>
+        </sp>
+        <stage>SCENA SETTIMAMaria, Arturo, Duglas, Bruce nascosto sottoil tartan d’un montanaro.BRUCE(vedendo Arturo)Ciel! Un inglese!</stage>
+        <sp who="#duglas">
+          <speaker>DUGLAS:</speaker>
+          <l>(piano a Bruce)</l>
+          <l>Egli non vi conosce,</l>
+          <l>Di Dickson sotto il nome</l>
+          <l>Seguite i passi miei.</l>
+        </sp>
+        <stage>DUGLAS(piano a Bruce)Egli non vi conosce,Di Dickson sotto il nomeSeguite i passi miei.</stage>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>(avvedendosi di Duglas)</l>
+          <l>Duglas!…</l>
+        </sp>
+        <stage>ARTURO(avvedendosi di Duglas)Duglas!…</stage>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Oh padre!</l>
+          <l>Quel tuo severo sguardo</l>
+          <l>Senza sdegno su me posar tu puoi,</l>
+          <l>Ché il solo azzardo in questo luogo il trasse.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>E averne ultimo addio.</l>
+        </sp>
+        <sp who="#duglas">
+          <speaker>DUGLAS:</speaker>
+          <l>Dessa ti amava:</l>
+          <l>D’una lieta alleanza</l>
+          <l>Da lungo io stesso approvai la speranza;</l>
+          <l>Ma, per l’estrema volta or la vedesti.</l>
+          <l>Degno di lei soltanto,</l>
+          <l>Nel sen della sua patria, un altro imene</l>
+          <l>Or attende Maria,</l>
+          <l>E ad altro in moglie essa condotta fia.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Ma tutto ad Edoardo è ormai soggetto;</l>
+          <l>E se, vinto dal numero Roberto,</l>
+          <l>Con la pace rendesse a noi la speme?…</l>
+        </sp>
+        <sp who="#duglas">
+          <speaker>DUGLAS:</speaker>
+          <l>Duglas vissuto avrebbe.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>(Fatale onor!)</l>
+        </sp>
+        <sp who="#duglas">
+          <speaker>DUGLAS:</speaker>
+          <l>Addio!</l>
+          <l>Al tuo signor fa’ noto</l>
+          <l>Che in onta ai nostri estremi danni… un giorno…</l>
+          <l>Ben presto forse… incontrarlo speriamo.</l>
+          <l>(Rivolgendosi a Bruce)</l>
+          <l>Ora, Dickson, ivi è il tuo legno… andiamo.</l>
+        </sp>
+        <stage>DUGLASAddio!Al tuo signor fa’ notoChe in onta ai nostri estremi danni… un giorno…Ben presto forse… incontrarlo speriamo.(Rivolgendosi a Bruce)Ora, Dickson, ivi è il tuo legno… andiamo.</stage>
+        <stage>(Bruce, Duglas e Maria montano nella barca.Arturo muove alcuni passi verso di loro,quindi si allontana disperatamente.Nelly sorte dalla capanna e seguedello sguardo la barca che si dilegua.Odesi intanto un festivo suono che si avvicina.Nelly va incontro a Dickson, che mostrasisul limitare della capanna).SCENA OTTAVANelly, Dickson, giovani e giovinette del villaggio.NELLYViene ogni amante colle sue compagneAll’annual festinoDi Santo Valentino.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Amanti or qui accorrete:</l>
+          <l>La danza disponete,</l>
+          <l>Ché amica dell’amor</l>
+          <l>Essa è la sola.</l>
+          <l>Gran Santo, del villaggio</l>
+          <l>Ricevi tu l’omaggio:</l>
+          <l>Appaga i nostri cor.</l>
+          <l>E li consola.</l>
+        </sp>
+        <sp who="#nelly">
+          <speaker>NELLY:</speaker>
+          <l>(Ma donde vien che mesta</l>
+          <l>Mi trovo in sì gran festa?</l>
+          <l>Forse a Maria pensando</l>
+          <l>Non può gioir il cor.)</l>
+        </sp>
+        <sp who="#dickson">
+          <speaker>DICKSON:</speaker>
+          <l>Godete pure, o amanti,</l>
+          <l>La gioia ha brevi istanti;</l>
+          <l>E le succedon presto</l>
+          <l>I giorni del dolor.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Amanti, or che qui siete,</l>
+          <l>La danza disponete,</l>
+          <l>Ché amica dell’amor</l>
+          <l>Essa è la sola.</l>
+        </sp>
+        <sp who="#dickson">
+          <speaker>DICKSON:</speaker>
+          <l>La danza s’apra omai.</l>
+        </sp>
+        <sp who="#nelly">
+          <speaker>NELLY:</speaker>
+          <l>Ma pria ch’essa cominci</l>
+          <l>A me raccolti intorno</l>
+          <l>L’usato avvicendiam canto del giorno.</l>
+        </sp>
+        <sp who="#[i.]">
+          <speaker>[I.]:</speaker>
+          <l>Sta, o vergin, all’erta,</l>
+          <l>Ché alcuno t’esplora.</l>
+          <l>Nascosa, coperta</l>
+          <l>È un’alma che adora.</l>
+          <l>La notte dispare:</l>
+          <l>T’affaccia al balcone,</l>
+          <l>Se chiedi avvisare</l>
+          <l>Chi langue per te.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>La notte dispare:</l>
+          <l>T’affaccia al balcone,</l>
+          <l>Se chiedi avvisare</l>
+          <l>Chi langue per te.</l>
+        </sp>
+        <sp who="#[ii.]">
+          <speaker>[II.]:</speaker>
+          <l>NELLY</l>
+          <l>Tu devi, o vezzosa,</l>
+          <l>Cogli altri crudele,</l>
+          <l>Restarti nascosa,</l>
+          <l>Tenerti fedele;</l>
+          <l>Perché in questo giorno</l>
+          <l>Ad esso sei data,</l>
+          <l>E tutta l’annata</l>
+          <l>Tuo sempre esser de’.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Perché in questo giorno</l>
+          <l>Ad esso sei data,</l>
+          <l>E tutta l’annata</l>
+          <l>Tuo sempre esser de’.</l>
+        </sp>
+        <stage>Danze</stage>
+        <sp who="#scena nona">
+          <speaker>SCENA NONA:</speaker>
+          <l>I precedenti, il Re Edoardo, Arturo</l>
+          <l>e tutta la caccia.</l>
+          <l>EDOARDO</l>
+          <l>Perché restar dai giuochi?</l>
+          <l>Edoardo al piacere</l>
+          <l>Avversario non è… perché temere?</l>
+          <l>La gloria è bella;</l>
+          <l>Ma meglio di quella</l>
+          <l>Adoro il piacer.</l>
+          <l>Adoro l’ebbrezza,</l>
+          <l>Che i sensi accarezza,</l>
+          <l>Che infiamma il pensier.</l>
+          <l>Se il trono un giorno a me tolto verrà,</l>
+          <l>Io voglio per corona, o voluttà,</l>
+          <l>Il giglio onde s’infiora</l>
+          <l>Il sen della beltà!</l>
+          <l>La gloria è bella</l>
+          <l>Ma meglio di quella</l>
+          <l>Adoro il piacer.</l>
+          <l>Adoro l’ebbrezza,</l>
+          <l>Che infiamma il pensier.</l>
+        </sp>
+        <stage>SCENA NONAI precedenti, il Re Edoardo, Arturoe tutta la caccia.EDOARDOPerché restar dai giuochi?Edoardo al piacereAvversario non è… perché temere?La gloria è bella;Ma meglio di quellaAdoro il piacer.Adoro l’ebbrezza,Che i sensi accarezza,Che infiamma il pensier.Se il trono un giorno a me tolto verrà,Io voglio per corona, o voluttà,Il giglio onde s’infioraIl sen della beltà!La gloria è bellaMa meglio di quellaAdoro il piacer.Adoro l’ebbrezza,Che infiamma il pensier.</stage>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>(Sparve Duglas…</l>
+          <l>Pel capo suo pavento.)</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Al castel di Sterlinga</l>
+          <l>Per voi, miei cavalieri,</l>
+          <l>Questa notte gran festa!</l>
+        </sp>
+        <sp who="#dickson">
+          <speaker>DICKSON:</speaker>
+          <l>(La Scozia avrà sua volta.)</l>
+        </sp>
+        <sp who="#scena decima">
+          <speaker>SCENA DECIMA:</speaker>
+          <l>I precedenti e Morton.</l>
+          <l>MORTON</l>
+          <l>Sire! Douglas il Nero, il cui castello</l>
+          <l>Oltre il lago s’innalza…</l>
+        </sp>
+        <stage>SCENA DECIMAI precedenti e Morton.MORTONSire! Douglas il Nero, il cui castelloOltre il lago s’innalza…</stage>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Duglas il Nero!… ebbene?</l>
+        </sp>
+        <sp who="#morton">
+          <speaker>MORTON:</speaker>
+          <l>Egli era qui stamane.</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Saria ver? rispondete,</l>
+          <l>O l’ira mia temete.</l>
+          <l>Se a tacer v’ostinate</l>
+          <l>Le torture sapran strapparvi il vero.</l>
+        </sp>
+        <sp who="#morton">
+          <speaker>MORTON:</speaker>
+          <l>Rispondi, o razza indocile!</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Dell’oro,</l>
+          <l>Dell’oro a chi Duglas dà in mio potere!</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Ebben, la morte a chi asilo gli dona.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ah! per lui non v’è più speme.</l>
+          <l>Se non piega innanzi al Re.</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>(volgendosi rapidamente ad Arturo)</l>
+          <l>Va’! trionfa: ed il tuo zelo</l>
+          <l>Del superbo il fasto aggravi!</l>
+          <l>Colla morte il fallo ei lavi</l>
+          <l>Del suo stolto minacciar.</l>
+        </sp>
+        <stage>EDOARDO(volgendosi rapidamente ad Arturo)Va’! trionfa: ed il tuo zeloDel superbo il fasto aggravi!Colla morte il fallo ei laviDel suo stolto minacciar.</stage>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>(Io sorpreso, incerto resto</l>
+          <l>A voler così funesto.)</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Tu m’udisti, Arturo: vanne,</l>
+          <l>E pietà non ascoltar.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>(Ah! Maria… come tuo padre</l>
+          <l>Mai salvare Arturo potrà?</l>
+          <l>S’io vacillo ei perirà!)</l>
+        </sp>
+        <sp who="#il paggio">
+          <speaker>IL PAGGIO:</speaker>
+          <l>(Ah! sciagura al temerario!</l>
+          <l>Niun ribelle ed avversario</l>
+          <l>Al suo sdegno sfuggirà.)</l>
+        </sp>
+        <sp who="#nelly">
+          <speaker>NELLY:</speaker>
+          <l>(A sentenza così ria</l>
+          <l>Con suo padre anche Maria</l>
+          <l>Dal dolor perir dovrà.)</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Vanne, torna… ed alla festa</l>
+          <l>Il piacer ti attenderà.</l>
+        </sp>
+        <sp who="#morton">
+          <speaker>MORTON:</speaker>
+          <l>(La rovina è certa e presta:</l>
+          <l>Quell’altier perir dovrà.)</l>
+        </sp>
+        <sp who="#nelly">
+          <speaker>NELLY:</speaker>
+          <l>(Ah! Maria ne morirà.)</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>(Palpitando il cor mi va.)</l>
+        </sp>
+        <sp who="#morton">
+          <speaker>MORTON:</speaker>
+          <l>(Quel suo capo alfin cadrà.)</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Il piacer ti attenderà.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Cadan sul perfido – Che il dritto offende</l>
+          <l>Tutte le folgori – Mortali, orrende,</l>
+          <l>Che inesorabile – Nel suo furore</l>
+          <l>Nella sua collera – Sprigiona il ciel.</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>ATTO SECONDO</head>
+        <sp who="#atto secondo">
+          <speaker>ATTO SECONDO:</speaker>
+        </sp>
+        <stage>Una sala nel castello di Duglas. Su di untavolino trovansi un mantello ed un cascosormontato da un ramo di quercia.SCENA PRIMAMaria è seduta ed immersa nella più profonda tristezza.Duglas sorte da un appartamento laterale.DUGLASAssonna il Re… Di vindici si muovaIn traccia adesso.(Egli vede Maria e le si avvicina).A fornir d’armi io vadoI difensori della causa nostra:Mentre assente son io, del Re pensieroAbbi tu, o figlia. – Ma tu piangi? Io forseCagion son io del tuo soffrir!… ma il deggio!Dar potrei la tua mano ad un ingratoChe per l’Anglia combatte,Che, versando il mio sangue,Può trarmi a’ piedi tuoi domani esangue?Ah! mia figlia, perdona l’affannoChe per me soffrir deve il tuo cor;Ma l’onor in me parla tiranno,E fa muto ogni affetto d’amor.Quando il Re chiama all’armi il soldato,Questi pronto essere deve a perir.Pria che affronti tuo padre il suo fato,Ch’ei ti possa, o Maria, benedir.(Duglas sorte dopo di aversi stretta al seno Maria).SCENA SECONDAMaria sola.MARIAOh! nobil cor! Sì; dell’onor è questoIl verace linguaggio:In me, piangendo, ei vuol stillar coraggio.Gran Dio! che far mi deggio?Fuggir l’amante?… ingannare mio padre?…Guerra crudeli la rabbia tua feroceQuesto misero cor fa disperato!Segui l’opera tua, seguila… e quindiPrenditi questa vita,Ché la morte può sol porgermi aita.Alla sventura mia predestinata,Al pianto ed al dolor io venni nata,Ma poscia che la vittimaSi dee trar al supplizio,Quale mai speme a questo cor dilettaPer temprar tanto duolo a me si affretta?Reggimi, o casto amore:Consola tu il mio core!Io t’amo, Arturo, io t’amoE vivo solo in te.Ma pur, se l’amor mioÈ in ira al padre, a Dio,Quest’alma a te volando,Ti recherà sua fé.Dannata a vivere – Ognor nel pianto.Non hanno i giorni – Per me più incanto:Coperto il sole – D’un mesto veloPiù lieto il cielo – Non fa per me.Al sol pensiero – Del mio diletto,Talor mi balza – Di gioia il petto;Ma passeggiera, – Ma lusinghieraAl mio dolore – Non dà mercé.Or senza duol lasciar io posso il mondo!Fatale onor! d’ogni mio bene a danno,Ceder mi è forza al tuo voler tiranno.Dannata a vivere – Ognor nel pianto,Non hanno i giorni – Per me più incanto:Coperto il sole – D’un mesto veloPiù lieto il cielo – Non fa per me.Al sol pensiero – Del mio diletto,Talor mi balza – Di gioia il petto;Ma passeggiera, – Ma lusinghieraAl mio dolore – Non dà mercé.</stage>
+        <sp who="#scena terza">
+          <speaker>SCENA TERZA:</speaker>
+          <l>Maria e Nelly.</l>
+          <l>NELLY</l>
+          <l>(accorrendo con ispavento)</l>
+          <l>Gl’Inglesi!</l>
+        </sp>
+        <stage>SCENA TERZAMaria e Nelly.NELLY(accorrendo con ispavento)Gl’Inglesi!</stage>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Ciel!</l>
+        </sp>
+        <sp who="#nelly">
+          <speaker>NELLY:</speaker>
+          <l>Circondano il castello!</l>
+          <l>Come a questo fuggir danno novello?</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>E il padre mio?</l>
+        </sp>
+        <sp who="#nelly">
+          <speaker>NELLY:</speaker>
+          <l>Silenzio!</l>
+          <l>E riprendete ardir. All’altra riva</l>
+          <l>Ei già pervenne.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>A te sien grazie, o Dio!</l>
+          <l>Ma il Re?</l>
+        </sp>
+        <sp who="#nelly">
+          <speaker>NELLY:</speaker>
+          <l>Pel Re… tremate…</l>
+          <l>Pena di morte a chi sottrarlo intende</l>
+          <l>Al destin ch’Edoardo d’Inghilterra</l>
+          <l>A lui riserba;… e nessuno oseria…</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Vien!… l’oserà Maria.</l>
+          <l>(Si dirige verso l’appartamento del Re).</l>
+          <l>(Vari soldati inglesi compariscono nella</l>
+          <l>galleria del fondo).</l>
+          <l>Io?…</l>
+        </sp>
+        <stage>MARIAVien!… l’oserà Maria.(Si dirige verso l’appartamento del Re).(Vari soldati inglesi compariscono nellagalleria del fondo).Io?…</stage>
+        <sp who="#nelly">
+          <speaker>NELLY:</speaker>
+          <l>Troppo tardi!</l>
+        </sp>
+        <stage>(Gl’Inglesi dietro l’ordine d Arturo, che liaccompagna, proseguono la loro marcianella galleria. Arturo si avanza).SCENA QUARTAMaria, Nelly e Arturo.MARIAArturo!</stage>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>A che, Maria,</l>
+          <l>Con aspetto sdegnato</l>
+          <l>Fissar lo sguardo in me? – Senza il pensiero</l>
+          <l>Di render salvi i giorni al padre vostro</l>
+          <l>Voi qui non mi vedreste.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>E saria vero?</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Sì; Duglas fia che apprenda,</l>
+          <l>Qual, sfregiato da lui, riscatto io chiegga.</l>
+          <l>Ad esso mi guidate.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Ad esso?</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Incerta state?</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Questa cortese aita…</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Ch’ei la sdegni credete?</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>In error tratto,</l>
+          <l>E per orgoglio forse…</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Ebben, voi sola</l>
+          <l>Con lord Duglas questo castel lasciate:</l>
+          <l>Io nol vedrò. Lo schifo che mi addusse,</l>
+          <l>Scorger vi può del lago al lido opposto;</l>
+          <l>Io per altro sentiero</l>
+          <l>Di Morton che mi segue</l>
+          <l>Lo sdegno ingannerò.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Mercé ven rendo.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Maria…</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Quando per voi</l>
+          <l>Il proscritto avrò salvo,</l>
+          <l>Onde la vita è qui a ciascun si cara,</l>
+          <l>Da me avvertito il padre</l>
+          <l>Sopra ciò che per noi sfidava Arturo.</l>
+          <l>(Arturo parte).</l>
+          <l>SCENA QUINTA</l>
+          <l>Maria, Nelly, poi Bruce.</l>
+          <l>NELLY</l>
+          <l>Questo ch’ei vi offerì mezzo di scampo…</l>
+        </sp>
+        <stage>MARIAQuando per voiIl proscritto avrò salvo,Onde la vita è qui a ciascun si cara,Da me avvertito il padreSopra ciò che per noi sfidava Arturo.(Arturo parte).SCENA QUINTAMaria, Nelly, poi Bruce.NELLYQuesto ch’ei vi offerì mezzo di scampo…</stage>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(vivamente)</l>
+          <l>Nelly veglia al di fuori!</l>
+        </sp>
+        <stage>MARIA(vivamente)Nelly veglia al di fuori!</stage>
+        <sp who="#nelly">
+          <speaker>NELLY:</speaker>
+          <l>Estremo è il danno!</l>
+          <l>(Nelly s’allontana. Maria si precipita verso</l>
+          <l>l’appartamento del Re. Bruce appare).</l>
+          <l>MARIA</l>
+          <l>Sir, venite e apprendete…</l>
+        </sp>
+        <stage>NELLYEstremo è il danno!(Nelly s’allontana. Maria si precipita versol’appartamento del Re. Bruce appare).MARIASir, venite e apprendete…</stage>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Io nulla ignoro.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Seguitemi, ché il Re far salvo io bramo</l>
+          <l>Ingannando colui che adoro ed amo.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Oh quanto ti deggio</l>
+          <l>Pietosa famiglia!</l>
+          <l>Costanza, lo veggio,</l>
+          <l>Amor ti consiglia…</l>
+          <l>Mercede ten renda</l>
+          <l>Il cielo per me,</l>
+          <l>E Scozia difenda</l>
+          <l>E liberi il Re.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Ah sire! fuggite,</l>
+          <l>Trascorre già l’ora.</l>
+          <l>Più dolce, più mite</l>
+          <l>Vi torni l’aurora,</l>
+          <l>Che bella di gloria</l>
+          <l>Doman sorgerà.</l>
+          <l>La vostra vittoria</l>
+          <l>Notabil sarà.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Partire e lasciarvi</l>
+          <l>Dovrei nel periglio?</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Pensate a sottrarvi</l>
+          <l>Dall’anglico artiglio…</l>
+          <l>Venite, ché tutto</l>
+          <l>Per voi tenterò!</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Nel pianto, nel lutto</l>
+          <l>Lasciarvi dovrò?</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Al vostro rifugio</l>
+          <l>Pensare degg’io!</l>
+          <l>Troncate ogni indugio.</l>
+          <l>Vel prego per Dio;</l>
+          <l>Fuggite, ché il campo</l>
+          <l>Vi attende fedel.</l>
+          <l>Quest’ultimo scampo</l>
+          <l>V’è offerto dal ciel!</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>È santo il consiglio</l>
+          <l>Che dato mi viene.</l>
+          <l>Si fugga il periglio,</l>
+          <l>S’accolga la spene.</l>
+          <l>Al campo si corra</l>
+          <l>Che attende fedel.</l>
+          <l>E il ciel mi soccorra</l>
+          <l>Nel rischio crudel.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(con angoscia)</l>
+          <l>Fuggite, deh! sire,</l>
+          <l>Trascorre già l’ora.</l>
+        </sp>
+        <stage>MARIA(con angoscia)Fuggite, deh! sire,Trascorre già l’ora.</stage>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>E sempre fuggire!</l>
+          <l>Oh smania che accora!</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(offrendo a Bruce un mantello ch’essa</l>
+          <l>ha preso sul tavolino)</l>
+          <l>Di questo mantello</l>
+          <l>Copritevi e uscite…</l>
+          <l>Il danno fuggite</l>
+          <l>Che sopra vi sta.</l>
+        </sp>
+        <stage>MARIA(offrendo a Bruce un mantello ch’essaha preso sul tavolino)Di questo mantelloCopritevi e uscite…Il danno fuggiteChe sopra vi sta.</stage>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>(avviluppandosi nel mantello)</l>
+          <l>Oh vero modello</l>
+          <l>D’amore e pietà!</l>
+        </sp>
+        <stage>BRUCE(avviluppandosi nel mantello)Oh vero modelloD’amore e pietà!</stage>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Al vosto rifugio</l>
+          <l>Pensare degg’io!</l>
+          <l>Troncate ogni indugio,</l>
+          <l>Vel prego per Dio,</l>
+          <l>Fuggite, ché il campo</l>
+          <l>V’attende fedel.</l>
+          <l>Quest’ultimo scampo</l>
+          <l>V’è offerto dal ciel.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>È santo il consiglio</l>
+          <l>Che dato mi viene.</l>
+          <l>Si fugga il periglio,</l>
+          <l>S’accolga la spene;</l>
+          <l>Al campo si corra</l>
+          <l>Che attende fedel.</l>
+          <l>E il ciel mi soccorra</l>
+          <l>Nel rischio crudel!</l>
+          <l>(Bruce e Maria si dirigono verso la porta del fondo;</l>
+          <l>nel momento in cui dessi stanno per uscire, Arturo</l>
+          <l>comparisce: egli è pallido e tremante d’emozione).</l>
+          <l>SCENA SESTA</l>
+          <l>Bruce, Maria e Arturo.</l>
+          <l>MARIA</l>
+          <l>Arturo!</l>
+        </sp>
+        <stage>BRUCEÈ santo il consiglioChe dato mi viene.Si fugga il periglio,S’accolga la spene;Al campo si corraChe attende fedel.E il ciel mi soccorraNel rischio crudel!(Bruce e Maria si dirigono verso la porta del fondo;nel momento in cui dessi stanno per uscire, Arturocomparisce: egli è pallido e tremante d’emozione).SCENA SESTABruce, Maria e Arturo.MARIAArturo!</stage>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>(Il ver fu detto.)</l>
+          <l>(Dopo un lungo silenzio durante il quale egli</l>
+          <l>tiene costantemente gli occhi fissi in Maria).</l>
+          <l>Quand’io men venni a voi</l>
+          <l>Onde il padre salvarvi… egli era lunge…</l>
+          <l>E il sapevate!…</l>
+        </sp>
+        <stage>ARTURO(Il ver fu detto.)(Dopo un lungo silenzio durante il quale eglitiene costantemente gli occhi fissi in Maria).Quand’io men venni a voiOnde il padre salvarvi… egli era lunge…E il sapevate!…</stage>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(Oimè!… che dirgli adesso?)</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Perché farmen mistero? – Or chi volete</l>
+          <l>In quest’uomo salvar? – Non rispondete?</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Quel suo sguardo al cor mi scende</l>
+          <l>E l’ingombra di terror.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Quell’orror che la comprende</l>
+          <l>Fa palese il reo suo cor.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Nel periglio che m’attende</l>
+          <l>Io trascino un fido cor.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Qual fé v’indusse a illudermi?</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Un voto io volea compiere…</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Un voto? Oh vil pretesto!</l>
+          <l>Il nuovo è forse questo</l>
+          <l>Sposo rival… ch’io temo.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Oh nol pensate!</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Io fremo!…</l>
+          <l>La sua presenza, il tremito</l>
+          <l>Vostro, il silenzio, il tenero</l>
+          <l>Ch’io pur sorpresi addio…</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>L’affanno, il prego mio</l>
+          <l>Bandisca il vostro error.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>(Come scampar poss’io</l>
+          <l>E sincerar quel cor?)</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>(Furor geloso e rio</l>
+          <l>Mi strazia a brani il cor.)</l>
+          <l>Seguimi! avrò tua vita…</l>
+          <l>Tuo sangue, o il mio…</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Se almeno!…</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>No, tutto è noto appieno.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Per me la sua clemenza…</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Vieni, o la sua presenza</l>
+          <l>Me più non frenerà;</l>
+          <l>E innanzi a lei svenarti</l>
+          <l>Il ferro mio saprà.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(togliendo dalla cintura d’Arturo un pugnale,</l>
+          <l>e gittandosi innanzi a Bruce come per fargli</l>
+          <l>difesa del suo corpo)</l>
+          <l>Ebben!… me non udite!…</l>
+          <l>A un vil furor servite!…</l>
+          <l>Ma… per l’eterno padre,</l>
+          <l>Pei mani di mia madre,</l>
+          <l>(con energia)</l>
+          <l>Dove azzardaste un passo</l>
+          <l>Me qui svenar saprò.</l>
+        </sp>
+        <stage>MARIA(togliendo dalla cintura d’Arturo un pugnale,e gittandosi innanzi a Bruce come per farglidifesa del suo corpo)Ebben!… me non udite!…A un vil furor servite!…Ma… per l’eterno padre,Pei mani di mia madre,(con energia)Dove azzardaste un passoMe qui svenar saprò.</stage>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Ciel! voi l’amate!</l>
+          <l>(disperatamente)</l>
+          <l>Or fia!</l>
+          <l>(Breve silenzio dopo il quale Arturo riprende</l>
+          <l>con una calma piena di dolore).</l>
+          <l>Al vostro ben, Maria,</l>
+          <l>Soltanto io penserò.</l>
+          <l>Se quel contenditore</l>
+          <l>Che in mio potere or cade,</l>
+          <l>A danno del mio cuore</l>
+          <l>I vostri sensi invade,</l>
+          <l>Potrà sottrarlo a morte</l>
+          <l>Soltanto il vostro amor.</l>
+          <l>Che deggio far? – Parlate!</l>
+        </sp>
+        <stage>ARTUROCiel! voi l’amate!(disperatamente)Or fia!(Breve silenzio dopo il quale Arturo riprendecon una calma piena di dolore).Al vostro ben, Maria,Soltanto io penserò.Se quel contenditoreChe in mio potere or cade,A danno del mio cuoreI vostri sensi invade,Potrà sottrarlo a morteSoltanto il vostro amor.Che deggio far? – Parlate!</stage>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Salvarlo!</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Ah!</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>(Nobil cor!)</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>(Oh dolore!)</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(Oh terror!)</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Alfin, crudel! palese</l>
+          <l>È il tuo fatale amor!</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>(Dovrà per me soffrire,</l>
+          <l>Per me morir quel cor! …)</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Ah! ti punisca, – Ti maledisca,</l>
+          <l>Donna spergiura, la terra e il ciel.</l>
+          <l>Me da quest’ora più non vedrai:</l>
+          <l>Soffersi assai – Per te, o crudel! –</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>(Invan salvarmi, – Invan sottrarmi</l>
+          <l>Al mio pretende destin crudel!</l>
+          <l>S’ei non si toglie dal tanto inganno</l>
+          <l>Morrà d’affanno – Quel cor fedel.)</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(Io maledetta, – Da lui reietta:</l>
+          <l>Io, che pur l’amo qual s’ama il ciel…</l>
+          <l>Mala mia tomba dirà alle genti</l>
+          <l>Tutti i tormenti – D’un cor fedel!)</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Un cor tu squarci che t’adorava.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(Il ciel m’aggrava – Col suo rigor!)</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>I giuramenti stamane uditi,</l>
+          <l>Eran mentiti…</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Tacer de’ il cor.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Ah! ti punisca, – Ti maledisca,</l>
+          <l>Donna spergiura, la terra e il ciel.</l>
+          <l>Me da quest’ora più non vedrai:</l>
+          <l>Soffersi assai – Per te, o crudel.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>(Invan salvarmi, – Invan sottrarmi</l>
+          <l>Al mio pretende destin crudel.</l>
+          <l>S’ei non si toglie da tanto inganno</l>
+          <l>Morrà d’affanno – Quel cor fedel.)</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(Io maledetta, – Da lui reietta:</l>
+          <l>Io, che pur l’amo qual s’ama il ciel…</l>
+          <l>Mala mia tomba dirà alle genti</l>
+          <l>Tutti i tormenti – D’un cor fedel.)</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Ingrata, addio!</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Restate.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Oh! giusto ciel, che fate?</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Pria d’accordarmi a simil sacrifizio</l>
+          <l>Preferisco la morte!</l>
+          <l>(volgendosi ad Arturo, e dignitosamente)</l>
+          <l>Sgombri l’amante!… io sono il Re proscritto.</l>
+        </sp>
+        <stage>BRUCEPria d’accordarmi a simil sacrifizioPreferisco la morte!(volgendosi ad Arturo, e dignitosamente)Sgombri l’amante!… io sono il Re proscritto.</stage>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Che ascolto! Voi, Roberto!</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Io la riscatto</l>
+          <l>De’ vostri dubbi.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>E osavo io farle oltraggio!</l>
+          <l>Perdono.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Or disponete</l>
+          <l>Del capo mio.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Sire! lo schifo è presto;</l>
+          <l>Partite.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(con gioia)</l>
+          <l>Oh ciel!…</l>
+        </sp>
+        <stage>MARIA(con gioia)Oh ciel!…</stage>
+        <sp who="#scena settima">
+          <speaker>SCENA SETTIMA:</speaker>
+          <l>I precedenti, Morton con alcuni soldati inglesi.</l>
+          <l>MORTON</l>
+          <l>(vedendo Bruce, ch’egli riconosce)</l>
+          <l>Roberto Bruce! – In nome</l>
+          <l>Del Re, la vostra spada…</l>
+          <l>Io vi arresto.</l>
+        </sp>
+        <stage>SCENA SETTIMAI precedenti, Morton con alcuni soldati inglesi.MORTON(vedendo Bruce, ch’egli riconosce)Roberto Bruce! – In nomeDel Re, la vostra spada…Io vi arresto.</stage>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Egli libero sortire</l>
+          <l>Potrà di qui.</l>
+        </sp>
+        <sp who="#morton">
+          <speaker>MORTON:</speaker>
+          <l>Lasciarlo?</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Io lo comando.</l>
+          <l>Sì, allorquando un proscritto</l>
+          <l>In sua lealtade all’onor mio s’affida,</l>
+          <l>Rispettato sarà.</l>
+        </sp>
+        <sp who="#morton">
+          <speaker>MORTON:</speaker>
+          <l>Soldati, a voi!</l>
+        </sp>
+        <sp who="#soldati inglesi">
+          <speaker>SOLDATI INGLESI:</speaker>
+          <l>Andiam!</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Non v’accostate.</l>
+        </sp>
+        <sp who="#morton">
+          <speaker>MORTON:</speaker>
+          <l>Quando è per te delusa</l>
+          <l>D’Edoardo la speme,</l>
+          <l>Sconosco il tuo poter.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Almeno quello,</l>
+          <l>Quello conoscerai della mia spada.</l>
+          <l>(Si pone dinanzi a Bruce colla spada</l>
+          <l>impugnata).</l>
+          <l>BRUCE</l>
+          <l>(brandendo l’acciaro)</l>
+          <l>Cara saprò vender la vita.</l>
+        </sp>
+        <stage>ARTUROAlmeno quello,Quello conoscerai della mia spada.(Si pone dinanzi a Bruce colla spadaimpugnata).BRUCE(brandendo l’acciaro)Cara saprò vender la vita.</stage>
+        <sp who="#soldati inglesi">
+          <speaker>SOLDATI INGLESI:</speaker>
+          <l>Ebbene,</l>
+          <l>Il proverà l’acciaro!</l>
+          <l>(Mentre stanno per venire alle mani odesi</l>
+          <l>uno squillare di trombe lontano).</l>
+          <l>MARIA</l>
+          <l>Udite!…</l>
+        </sp>
+        <stage>SOLDATI INGLESIEbbene,Il proverà l’acciaro!(Mentre stanno per venire alle mani odesiuno squillare di trombe lontano).MARIAUdite!…</stage>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Oh spene!</l>
+          <l>Questo udite suon guerriero…</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>È Duglas! è il padre mio!</l>
+        </sp>
+        <sp who="#inglesi">
+          <speaker>INGLESI:</speaker>
+          <l>Egli ancor!… Duglas il Nero!</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Me protegge un giusto Iddio.</l>
+        </sp>
+        <sp who="#morton">
+          <speaker>MORTON:</speaker>
+          <l>Quale insidia a lui fu tesa,</l>
+          <l>Edoardo apprenderà.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Del proceder mio leale</l>
+          <l>Il Re sol ragione avrà.</l>
+        </sp>
+        <stage>MORTON e COROUn soldato dislealeGiusto il Re punir saprà.(Morton esce precipitosamente co’ suoi soldati).SCENA OTTAVABruce, Arturo, Maria; Duglas entra seguitoda diversi capi di Clan.DUGLAS(con gioia vedendo Roberto)Salvo!</stage>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>(indicandogli Arturo)</l>
+          <l>È per lui!</l>
+        </sp>
+        <stage>BRUCE(indicandogli Arturo)È per lui!</stage>
+        <sp who="#duglas">
+          <speaker>DUGLAS:</speaker>
+          <l>Per lui?</l>
+          <l>(Tendendo la mano ad Arturo)</l>
+          <l>La man! – Con noi rimanti e avrai mia figlia.</l>
+        </sp>
+        <stage>DUGLASPer lui?(Tendendo la mano ad Arturo)La man! – Con noi rimanti e avrai mia figlia.</stage>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>(con trasporto)</l>
+          <l>Io sposo di Maria!</l>
+          <l>(poi tristamente soggiungendo)</l>
+          <l>Questa felicità tutta il cielo</l>
+          <l>Non è fatta per me.</l>
+        </sp>
+        <stage>ARTURO(con trasporto)Io sposo di Maria!(poi tristamente soggiungendo)Questa felicità tutta il cieloNon è fatta per me.</stage>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(Speranza estrema!)</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Armato da Edoardo, e colmo fatto</l>
+          <l>De’ benefici suoi,</l>
+          <l>Tradir nol posso.</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(Oimè!)</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Me onor richiama</l>
+          <l>Sotto ai vessilli suoi.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>L’avermi salvo</l>
+          <l>Può costarti la vita!</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>(con ispavento e supplichevole)</l>
+          <l>Arturo! Arturo!</l>
+        </sp>
+        <stage>MARIA(con ispavento e supplichevole)Arturo! Arturo!</stage>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Compianto da un eroe,</l>
+          <l>Da un padre, da Maria,</l>
+          <l>Posso lieto affrontar la sorte mia.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Va’ dunque, poiché un giuro t’incatena;</l>
+          <l>Ma nella pugna almeno</l>
+          <l>Non ti prema nessun de’ nostri ferri.</l>
+          <l>(Togliendo un ramo di quercia dal casco che</l>
+          <l>trovasi sul tavolino e porgendolo ad Arturo)</l>
+          <l>Questo ramo di quercia,</l>
+          <l>Come un prezioso e santo talismano</l>
+          <l>Sul tuo cimier posato</l>
+          <l>A noi ti farà sacro, e insiem salvato.</l>
+        </sp>
+        <stage>BRUCEVa’ dunque, poiché un giuro t’incatena;Ma nella pugna almenoNon ti prema nessun de’ nostri ferri.(Togliendo un ramo di quercia dal casco chetrovasi sul tavolino e porgendolo ad Arturo)Questo ramo di quercia,Come un prezioso e santo talismanoSul tuo cimier posatoA noi ti farà sacro, e insiem salvato.</stage>
+        <sp who="#scozzesi">
+          <speaker>SCOZZESI:</speaker>
+          <l>Il cielo ti scampi</l>
+          <l>Dall’ira funesta</l>
+          <l>Che forse si è desta</l>
+          <l>Nel sen del tuo Re.</l>
+          <l>(Arturo parte).</l>
+          <l>DUGLAS</l>
+          <l>Or mostratevi, o sire, onde la fede</l>
+          <l>Ricevere dei Clan presti a morire</l>
+          <l>Pel loro prence, e a vendicar accinti</l>
+          <l>La Scozia che in te spera.</l>
+        </sp>
+        <stage>SCOZZESIIl cielo ti scampiDall’ira funestaChe forse si è destaNel sen del tuo Re.(Arturo parte).DUGLASOr mostratevi, o sire, onde la fedeRicevere dei Clan presti a morirePel loro prence, e a vendicar accintiLa Scozia che in te spera.</stage>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Ed ho per me?…</l>
+        </sp>
+        <sp who="#duglas">
+          <speaker>DUGLAS:</speaker>
+          <l>Tutta un’armata intiera.</l>
+          <l>(Partono).</l>
+          <l>Il teatro rappresenta un sito poco distante</l>
+          <l>dal castello di Duglas. Le rupi in anfiteatro</l>
+          <l>sono coperte di soldati e di Highlanders</l>
+          <l>armati di scuri e di picche, e portando delle</l>
+          <l>bandiere ai colori ed alle armi dei diversi</l>
+          <l>clan. Un gruppo di bardi guerrieri vestiti di</l>
+          <l>bianco, coperto il petto d’una corazza di</l>
+          <l>maglia di ferro, occupa il piano. Dalla loro</l>
+          <l>cintura pende una scure, e le loro fronti sono</l>
+          <l>cinte di quercia e di verbena. Essi si</l>
+          <l>avanzano avendo fra le mani delle arpe</l>
+          <l>d’oro.</l>
+          <l>SCENA NONA</l>
+          <l>Bardi, guerrieri, montanari, Nelly, donne</l>
+          <l>scozzesi; più tardi Bruce, Duglas e Maria.</l>
+          <l>BARDI</l>
+          <l>Il canto del bardo</l>
+          <l>Infiammi ogni core!</l>
+          <l>Fingallo al codardo</l>
+          <l>Ricusa favore.</l>
+          <l>Guerriero! la spada</l>
+          <l>Impugna e combatti;</l>
+          <l>L’ostile masnada</l>
+          <l>Confondi ed abbatti;</l>
+          <l>Difendi la Scozia,</l>
+          <l>Fa’ salvo il tuo Re.</l>
+        </sp>
+        <stage>DUGLASTutta un’armata intiera.(Partono).Il teatro rappresenta un sito poco distantedal castello di Duglas. Le rupi in anfiteatrosono coperte di soldati e di Highlandersarmati di scuri e di picche, e portando dellebandiere ai colori ed alle armi dei diversiclan. Un gruppo di bardi guerrieri vestiti dibianco, coperto il petto d’una corazza dimaglia di ferro, occupa il piano. Dalla lorocintura pende una scure, e le loro fronti sonocinte di quercia e di verbena. Essi siavanzano avendo fra le mani delle arped’oro.SCENA NONABardi, guerrieri, montanari, Nelly, donnescozzesi; più tardi Bruce, Duglas e Maria.BARDIIl canto del bardoInfiammi ogni core!Fingallo al codardoRicusa favore.Guerriero! la spadaImpugna e combatti;L’ostile masnadaConfondi ed abbatti;Difendi la Scozia,Fa’ salvo il tuo Re.</stage>
+        <sp who="#bardi">
+          <speaker>BARDI:</speaker>
+          <l>Guerriero! la spada</l>
+          <l>Impugna e combatti:</l>
+          <l>L’ostile masnada</l>
+          <l>Sia sparsa da te.</l>
+          <l>(Bruce arriva accompagnato da Duglas e da Maria e seguito</l>
+          <l>da cavalieri scozzesi in arnese da guerra: le bandiere s’agitano;</l>
+          <l>movimento generale d’entusiasmo).</l>
+        </sp>
+        <stage>BARDIGuerriero! la spadaImpugna e combatti:L’ostile masnadaSia sparsa da te.(Bruce arriva accompagnato da Duglas e da Maria e seguitoda cavalieri scozzesi in arnese da guerra: le bandiere s’agitano;movimento generale d’entusiasmo).</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Salvezza ed omaggio</l>
+          <l>Al solo di Scozia</l>
+          <l>Temuto signor.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Un giorno di gloria…</l>
+          <l>Per noi splende ancor.</l>
+          <l>La mia speme in voi s’affida:</l>
+          <l>Meco, o prodi, il ciel ci guida!</l>
+          <l>Sarà vostra la mia gloria</l>
+          <l>Vile adesso è il trepidar.</l>
+        </sp>
+        <sp who="#donne">
+          <speaker>DONNE:</speaker>
+          <l>Fia che il cielo vi sorrida</l>
+          <l>Or che Bruce è vostra guida.</l>
+          <l>Combattendo a nostro scampo</l>
+          <l>Vorrà il ciel con voi pugnar.</l>
+        </sp>
+        <sp who="#guerrieri">
+          <speaker>GUERRIERI:</speaker>
+          <l>Se il suo core in noi confida,</l>
+          <l>Saprem vincere, o morire…</l>
+          <l>Se alla pugna ei n’è di guida.</l>
+          <l>Sì!… morire, o trionfar.</l>
+          <l>All’armi! All’armi!…</l>
+        </sp>
+        <stage>(Quadro generale. L’armata scozzese agita le sue armied unisce il suo grido di guerra al canto dei bardi.I cavalieri ed i signori vessilliferi sfoderano le lorospade e giurano di morire pel Re di Scozia).</stage>
+      </div>
+      <div type="act">
+        <head>ATTO TERZO</head>
+        <sp who="#atto terzo">
+          <speaker>ATTO TERZO:</speaker>
+        </sp>
+        <stage>Una stretta e cupa gola di montagnadominata dal castello di Sterlinga edificatosopra una rupe a picco. È notte.SCENA PRIMABruce solo.BRUCESi; doman lo scozzese,Libero alfine, il pianto suo tergendo,Nel sen di sua famigliaScorderà i mali suoi.Io pur, io pur fui padre… Oh rimembranza!Oh figli!! a me v’han toltiI predatori infami!… Oh! voi di cui son privo,Quando compita avrò la mia vendetta,Per unirci nel cielo Iddio mi aspetta.Ah! non lontano è il dì,Che a voi pur io verrò;E il duolo io tempreròSul vostro seno.Ogni mio ben sparì…Ma tolto al suo dolorFia che respiri il corContento appieno.</stage>
+        <sp who="#scena seconda">
+          <speaker>SCENA SECONDA:</speaker>
+          <l>Bruce, Duglas, Dickson, una banda di</l>
+          <l>zingari e di giocolieri.</l>
+          <l>DUGLAS</l>
+          <l>(a Bruce indicandogli ai piedi delle</l>
+          <l>bastite l’ingresso d’un sotterraneo sentiero</l>
+          <l>nascosto da una rupe)</l>
+          <l>Quel sotterrano calle</l>
+          <l>Alla porta del Nord senza ritegno</l>
+          <l>Potrà condurci. Uniti a questi zingari</l>
+          <l>Nella piazza introdotti,</l>
+          <l>O destramente, o a forza,</l>
+          <l>Dà Dickson noi saremo in questa notte.</l>
+        </sp>
+        <stage>SCENA SECONDABruce, Duglas, Dickson, una banda dizingari e di giocolieri.DUGLAS(a Bruce indicandogli ai piedi dellebastite l’ingresso d’un sotterraneo sentieronascosto da una rupe)Quel sotterrano calleAlla porta del Nord senza ritegnoPotrà condurci. Uniti a questi zingariNella piazza introdotti,O destramente, o a forza,Dà Dickson noi saremo in questa notte.</stage>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>A rischio de’ suoi dì.</l>
+        </sp>
+        <sp who="#dickson">
+          <speaker>DICKSON:</speaker>
+          <l>Che importa!</l>
+        </sp>
+        <sp who="#duglas">
+          <speaker>DUGLAS:</speaker>
+          <l>Andiamo.</l>
+          <l>A mezzanotte.</l>
+        </sp>
+        <sp who="#dickson">
+          <speaker>DICKSON:</speaker>
+          <l>A mezzanotte.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>Or quale</l>
+          <l>Aver brami segnale?</l>
+        </sp>
+        <sp who="#dickson">
+          <speaker>DICKSON:</speaker>
+          <l>Quest’albero incendiato</l>
+          <l>Sarà il segnal bramato.</l>
+          <l>(S allontana con i zingari).</l>
+          <l>SCENA TERZA</l>
+          <l>Bruce, Duglas, cavalieri, montanari e</l>
+          <l>soldati scozzesi.</l>
+          <l>CAVALIERI e MONTANARI</l>
+          <l>Silenziosi la spada s’impugni.</l>
+          <l>E si assalga l’ostile coorte.</l>
+          <l>D’Edoardo giurammo la morte…</l>
+          <l>Muoia! muoia! s’appaghi il furor.</l>
+          <l>Nel suo sangue si vendichi il sangue</l>
+          <l>Che la Scozia ha per l’empio versato.</l>
+          <l>Maledetto, abborrito, esecrato</l>
+          <l>Ne sia il nome oltre il tumulo ancor.</l>
+          <l>Nota eterna d’eterno abbominio</l>
+          <l>Della Scozia al più vile odiator.</l>
+          <l>(Nel tempo di questo coro diverse bande di soldati</l>
+          <l>scozzesi passano silenziosi ai piedi della rupe sulla</l>
+          <l>quale innalzasi il castello. Bruce indica loro le varie</l>
+          <l>direzioni ch’essi devono prendere, quindi parte con</l>
+          <l>Douglas alla testa dei cavalieri e montanari).</l>
+          <l>(Il teatro rappresenta una sala costrutta per la festa</l>
+          <l>nella corte d’armi del castello di Sterlinga).</l>
+          <l>SCENA QUARTA</l>
+          <l>Il Re Edoardo ed i suoi cavalieri s’avanzano la coppa</l>
+          <l>alle mani: dei paggi versano loro da bere.</l>
+          <l>Alcune dame della corte sono assise ed intente alla</l>
+          <l>danza dei zingari chiamati alla festa, e fra i quali</l>
+          <l>Dickson ha potuto introdursi.</l>
+          <l>Il fondo della sala è chiuso in tutta la sua larghezza</l>
+          <l>da una ricca drapperia dipinta ad armi gentilizie.</l>
+          <l>I CAVALIERI</l>
+          <l>Beviam! beviam! convien goder:</l>
+          <l>Ghermir gli istanti del piacer.</l>
+          <l>L’ebbrezza</l>
+          <l>Carezza,</l>
+          <l>Avviva il desir…</l>
+          <l>Esauriamo il desir!</l>
+          <l>Cantiam l’amor – Che allieta il cor!</l>
+          <l>Del vin versato il buon licor.</l>
+          <l>Che schiumi,</l>
+          <l>Che fumi</l>
+          <l>A onor del vincitor.</l>
+          <l>Soggiorni, ove lieve</l>
+          <l>Ha Fingal riposo in ciel,</l>
+          <l>A noi le vostre beve</l>
+          <l>E di nettare e di miel.</l>
+        </sp>
+        <stage>DICKSONQuest’albero incendiatoSarà il segnal bramato.(S allontana con i zingari).SCENA TERZABruce, Duglas, cavalieri, montanari esoldati scozzesi.CAVALIERI e MONTANARISilenziosi la spada s’impugni.E si assalga l’ostile coorte.D’Edoardo giurammo la morte…Muoia! muoia! s’appaghi il furor.Nel suo sangue si vendichi il sangueChe la Scozia ha per l’empio versato.Maledetto, abborrito, esecratoNe sia il nome oltre il tumulo ancor.Nota eterna d’eterno abbominioDella Scozia al più vile odiator.(Nel tempo di questo coro diverse bande di soldatiscozzesi passano silenziosi ai piedi della rupe sullaquale innalzasi il castello. Bruce indica loro le variedirezioni ch’essi devono prendere, quindi parte conDouglas alla testa dei cavalieri e montanari).(Il teatro rappresenta una sala costrutta per la festanella corte d’armi del castello di Sterlinga).SCENA QUARTAIl Re Edoardo ed i suoi cavalieri s’avanzano la coppaalle mani: dei paggi versano loro da bere.Alcune dame della corte sono assise ed intente alladanza dei zingari chiamati alla festa, e fra i qualiDickson ha potuto introdursi.Il fondo della sala è chiuso in tutta la sua larghezzada una ricca drapperia dipinta ad armi gentilizie.I CAVALIERIBeviam! beviam! convien goder:Ghermir gli istanti del piacer.L’ebbrezzaCarezza,Avviva il desir…Esauriamo il desir!Cantiam l’amor – Che allieta il cor!Del vin versato il buon licor.Che schiumi,Che fumiA onor del vincitor.Soggiorni, ove lieveHa Fingal riposo in ciel,A noi le vostre beveE di nettare e di miel.</stage>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Ah sì! cantiam sino all’aurora!</l>
+          <l>Il piacer qui sia re;</l>
+          <l>Che la beltà sommetta ancora</l>
+          <l>I vincitori a sé.</l>
+        </sp>
+        <sp who="#cavalieri">
+          <speaker>CAVALIERI:</speaker>
+          <l>Dolce legge! Ah sì! il piacer</l>
+          <l>Qui sol sia re.</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Se il dì la guerra noi schiavi tien,</l>
+          <l>Sia per l’amore la notte almen.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Beviam! beviam! convien goder:</l>
+          <l>Ghermir gl’istanti del piacer!</l>
+          <l>L’ebbrezza</l>
+          <l>Carezza,</l>
+          <l>Avviva il desir…</l>
+          <l>Esauriamo il desir!</l>
+          <l>Cantiam l’amor – Che allieta il cor</l>
+          <l>Del vin versato il buon licor.</l>
+          <l>Che schiumi,</l>
+          <l>Che fumi</l>
+          <l>A onor del vincitor!</l>
+          <l>Canzone a ballo</l>
+          <l>Montanine giovinette</l>
+          <l>Predilette</l>
+          <l>Della danza e dell’amor:</l>
+          <l>Regolate i vostri passi</l>
+          <l>Sulla ronda del pastor.</l>
+          <l>Vieni al ballo, al ballo affretta</l>
+          <l>O mia tenera angioletta,</l>
+          <l>Ché stringendoti al mio seno</l>
+          <l>Parlerò con te d’amor.</l>
+          <l>Ti dirò di quale affetto</l>
+          <l>Io per te mi strugga in petto:</l>
+          <l>E felice e lieto appieno</l>
+          <l>Fremerà di gioia il cor.</l>
+          <l>Montanine e giovinette,</l>
+          <l>Predilette</l>
+          <l>Della danza e dell’amor:</l>
+          <l>Regolate i vostri passi</l>
+          <l>Sulla ronda del pastor.</l>
+        </sp>
+        <sp who="#scena quinta">
+          <speaker>SCENA QUINTA:</speaker>
+          <l>I precedenti, Morton, quindi Arturo.</l>
+          <l>MORTON</l>
+          <l>(interrompendo le danze)</l>
+          <l>Sir! gli Scozzesi ovunque prendono l’armi.</l>
+        </sp>
+        <stage>SCENA QUINTAI precedenti, Morton, quindi Arturo.MORTON(interrompendo le danze)Sir! gli Scozzesi ovunque prendono l’armi.</stage>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>(tranne Edoardo)</l>
+          <l>Gli Scozzesi!</l>
+        </sp>
+        <stage>TUTTI(tranne Edoardo)Gli Scozzesi!</stage>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Perché d’allarme il grido?</l>
+          <l>Avrem campo doman di soggiogarli…</l>
+          <l>Riempite, o paggi, or d’idromel le tazze.</l>
+        </sp>
+        <sp who="#morton">
+          <speaker>MORTON:</speaker>
+          <l>Io m’era impadronito</l>
+          <l>Del castel di Duglas…</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Ebbene?</l>
+        </sp>
+        <sp who="#morton">
+          <speaker>MORTON:</speaker>
+          <l>E Bruce…</l>
+          <l>E Bruce istesso era in mia man caduto.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Roberto Bruce?</l>
+        </sp>
+        <sp who="#morton">
+          <speaker>MORTON:</speaker>
+          <l>Sì: ma un traditore</l>
+          <l>A noi lo tolse.</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>E il traditor?</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>(entrando)</l>
+          <l>Son io…</l>
+        </sp>
+        <stage>ARTURO(entrando)Son io…</stage>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Tu! Miserabil!</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Indifeso egli era…</l>
+          <l>E innocente o colpevole il salvai.</l>
+          <l>Ma fido sempre a’ giuramenti miei</l>
+          <l>A morire per voi qui mi rendei.</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Sì; tu morrai… ma d’una morte infame.</l>
+          <l>Sia disarmato.</l>
+          <l>(Un ufficiale delle guardie s’avanza presso</l>
+          <l>d’Arturo, che si toglie la spada per rimettergliela).</l>
+          <l>A me!</l>
+          <l>(Prendendo la spada)</l>
+          <l>Fidata un giorno</l>
+          <l>Questa spada io ti avea, ch’oggi avvilita</l>
+          <l>Ha il tuo delitto… Il carnefice infranto</l>
+          <l>Farà il tuo stemma e la tua vita, come</l>
+          <l>(spezzando la spada e gettandola a terra)</l>
+          <l>Io l’onor tuo qui frango.</l>
+        </sp>
+        <stage>EDOARDOSì; tu morrai… ma d’una morte infame.Sia disarmato.(Un ufficiale delle guardie s’avanza pressod’Arturo, che si toglie la spada per rimettergliela).A me!(Prendendo la spada)Fidata un giornoQuesta spada io ti avea, ch’oggi avvilitaHa il tuo delitto… Il carnefice infrantoFarà il tuo stemma e la tua vita, come(spezzando la spada e gettandola a terra)Io l’onor tuo qui frango.</stage>
+        <sp who="#cavalieri">
+          <speaker>CAVALIERI:</speaker>
+          <l>Del vil si faccia omai giustizia.</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>E tosto</l>
+          <l>Lo colpisca la scure!</l>
+          <l>(Le guardie si avanzano: in questo</l>
+          <l>movimento un grido fassi sentire: una</l>
+          <l>donna fende la calca: essa è Maria).</l>
+          <l>SCENA SESTA</l>
+          <l>I precedenti, Maria, Nelly.</l>
+          <l>MARIA</l>
+          <l>Oimè!… fermate!</l>
+        </sp>
+        <stage>EDOARDOE tostoLo colpisca la scure!(Le guardie si avanzano: in questomovimento un grido fassi sentire: unadonna fende la calca: essa è Maria).SCENA SESTAI precedenti, Maria, Nelly.MARIAOimè!… fermate!</stage>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>Maria!</l>
+        </sp>
+        <sp who="#morton">
+          <speaker>MORTON:</speaker>
+          <l>(ad Edoardo)</l>
+          <l>Che figlia essa è a Duglas pensate.</l>
+        </sp>
+        <stage>MORTON(ad Edoardo)Che figlia essa è a Duglas pensate.</stage>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>La morte che t’attende</l>
+          <l>Teco a sfidar son pronta:</l>
+          <l>E la vergogna e l’onta</l>
+          <l>Me pur dovrà colpir.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>(al Re)</l>
+          <l>La morte che m’attende,</l>
+          <l>Meco a sfidar è pronta:</l>
+          <l>Di così perfid’onta</l>
+          <l>Non ti voler coprir.</l>
+        </sp>
+        <stage>ARTURO(al Re)La morte che m’attende,Meco a sfidar è pronta:Di così perfid’ontaNon ti voler coprir.</stage>
+        <sp who="#nelly">
+          <speaker>NELLY:</speaker>
+          <l>(La morte che lo attende</l>
+          <l>Seco a sfidar è pronta;</l>
+          <l>Ma il Re di scorno e d’onta</l>
+          <l>Non si vorrà coprir).</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>(Trema, Duglas, ah trema!</l>
+          <l>La mia vendetta è pronta!</l>
+          <l>Della tua figlia l’onta</l>
+          <l>Te pur dovrà colpir.)</l>
+        </sp>
+        <sp who="#dickson">
+          <speaker>DICKSON:</speaker>
+          <l>(Il Re di simil onta</l>
+          <l>Non si vorrà coprir.)</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Al supplizio il reo si renda.</l>
+          <l>Sia il suo nome a ognun d’orror.</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Sull’infame omai discenda</l>
+          <l>Colla morte il disonor.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Il disonor!</l>
+        </sp>
+        <sp who="#nelly">
+          <speaker>NELLY:</speaker>
+          <l>Ah!… il disonor!</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Vieni, o barbaro! e rapita</l>
+          <l>Fa’ la sua colla mia vita;</l>
+          <l>Ma l’obbrobrio, ma l’infamia,</l>
+          <l>Mai non colga un uom d’onor.</l>
+          <l>A ferir t’appresta, o indegno!</l>
+          <l>Tutto in noi sfoga il tuo sdegno…</l>
+          <l>Ma verrà che un dì ti colga</l>
+          <l>Tutta l’ira del Signor;</l>
+          <l>E su te cadrà l’infamia,</l>
+          <l>La vergogna e lo squallor.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Sciagura su di lor!</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>Non so temer la morte,</l>
+          <l>Se Arturo è presso a me;</l>
+          <l>Ma un tanto orror la sorte</l>
+          <l>Vendicherà su te.</l>
+        </sp>
+        <sp who="#arturo">
+          <speaker>ARTURO:</speaker>
+          <l>La vostra spada ultrice</l>
+          <l>Deh! piombi sol su me;</l>
+          <l>Salvate un’infelice</l>
+          <l>Che il troppo amor perdé.</l>
+        </sp>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Quegli empi trascinate;</l>
+          <l>Sia muta ogni mercé;</l>
+          <l>E tutti vendicate</l>
+          <l>Gli oltraggi fatti al Re.</l>
+        </sp>
+        <stage>MORTON e COROA morte! e vendicatoCosì ne venga il Re.Sottrarsi al loro fatoPossibil più non è.(I soldati strascinano Arturo.Maria si precipita nelle sue braccia.Fragore di trombe al di fuori).MARIAArresta! e pel tuo vivere a tua voltaTrema, o crudel!Questo è il segnal! – RobertoÈ signor del castello.</stage>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>Roberto?… Oh vana speme!</l>
+          <l>Noi vinceremlo… all’armi!</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>E tardi! ei viene!</l>
+          <l>(La drapperia che chiude il fondo si apre</l>
+          <l>e vedesi le mura della fortezza rischiarate</l>
+          <l>da un incendio).</l>
+          <l>SCENA ULTIMA</l>
+          <l>Gli assedianti montano sui merli. Morton porge</l>
+          <l>al re una spada, i cavalieri cercano le loro armi;</l>
+          <l>le dame s’allontanano con ispavento.</l>
+          <l>La porta della muraglia cade sotto la scure degli</l>
+          <l>assalitori, che irrompono nel mezzo del tumulto.</l>
+          <l>Bruce e Duglas entrano colle spade in pugno,</l>
+          <l>seguiti dai bardi e dai cavalieri scozzesi che fanno</l>
+          <l>sventolare le loro bandiere.</l>
+          <l>Le mura si coprono di soldati e di montanari con fiaccole.</l>
+          <l>Maria si slancia nelle braccia di suo padre.</l>
+          <l>BRUCE</l>
+          <l>Vittoria! ah sì! – Del re di Scozia alfine</l>
+          <l>Riconosci il poter. – A questo prezzo</l>
+          <l>Libero sei.</l>
+        </sp>
+        <stage>MARIAE tardi! ei viene!(La drapperia che chiude il fondo si apree vedesi le mura della fortezza rischiarateda un incendio).SCENA ULTIMAGli assedianti montano sui merli. Morton porgeal re una spada, i cavalieri cercano le loro armi;le dame s’allontanano con ispavento.La porta della muraglia cade sotto la scure degliassalitori, che irrompono nel mezzo del tumulto.Bruce e Duglas entrano colle spade in pugno,seguiti dai bardi e dai cavalieri scozzesi che fannosventolare le loro bandiere.Le mura si coprono di soldati e di montanari con fiaccole.Maria si slancia nelle braccia di suo padre.BRUCEVittoria! ah sì! – Del re di Scozia alfineRiconosci il poter. – A questo prezzoLibero sei.</stage>
+        <sp who="#edoardo">
+          <speaker>EDOARDO:</speaker>
+          <l>La mia spensieratezza</l>
+          <l>A tal fin mi conduce.</l>
+        </sp>
+        <sp who="#bruce">
+          <speaker>BRUCE:</speaker>
+          <l>La salvezza della Scozia!</l>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA:</speaker>
+          <l>E gloria a Bruce!</l>
+        </sp>
+        <sp who="#uomini">
+          <speaker>UOMINI:</speaker>
+          <l>Il canto del Bardo</l>
+          <l>Accese ogni core!</l>
+          <l>Nessun fu codardo</l>
+          <l>Sul campo d’onore.</l>
+        </sp>
+        <sp who="#donne">
+          <speaker>DONNE:</speaker>
+          <l>Su queste montagne</l>
+          <l>Tornata è la pace!</l>
+          <l>Le vostre campagne</l>
+          <l>Fur salve col Re.</l>
+        </sp>
+        <sp who="#f i n e">
+          <speaker>F I N E:</speaker>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

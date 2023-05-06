@@ -1,0 +1,1443 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">iovanna d’Arco</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="giacomo">
+            <persName>GIACOMO::</persName>
+          </person>
+          <person xml:id="fine">
+            <persName>FINE:</persName>
+          </person>
+          <person xml:id="a 2">
+            <persName>A 2::</persName>
+          </person>
+          <person xml:id="ufficiali e delil">
+            <persName>UFFICIALI E DELIL::</persName>
+          </person>
+          <person xml:id="atto terzo">
+            <persName>ATTO TERZO:</persName>
+          </person>
+          <person xml:id="carlo ed ufficiali">
+            <persName>CARLO ED UFFICIALI::</persName>
+          </person>
+          <person xml:id="coro di spiriti malvagi">
+            <persName>CORO DI SPIRITI MALVAGI::</persName>
+          </person>
+          <person xml:id="soldato i">
+            <persName>SOLDATO I::</persName>
+          </person>
+          <person xml:id="giovanna">
+            <persName>GIOVANNA::</persName>
+          </person>
+          <person xml:id="prologo">
+            <persName>PROLOGO:</persName>
+          </person>
+          <person xml:id="borghigiani">
+            <persName>BORGHIGIANI::</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="soldati">
+            <persName>SOLDATI::</persName>
+          </person>
+          <person xml:id="carlo">
+            <persName>CARLO::</persName>
+          </person>
+          <person xml:id="voci eteree">
+            <persName>VOCI ETEREE::</persName>
+          </person>
+          <person xml:id="delil">
+            <persName>DELIL::</persName>
+          </person>
+          <person xml:id="ufficiali">
+            <persName>UFFICIALI::</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO::</persName>
+          </person>
+          <person xml:id="talbot">
+            <persName>TALBOT::</persName>
+          </person>
+          <person xml:id="coro di spiriti eletti">
+            <persName>CORO DI SPIRITI ELETTI::</persName>
+          </person>
+          <person xml:id="soldato ii">
+            <persName>SOLDATO II::</persName>
+          </person>
+          <person xml:id="atto primo">
+            <persName>ATTO PRIMO:</persName>
+          </person>
+          <person xml:id="i">
+            <persName>I::</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI::</persName>
+          </person>
+          <person xml:id="soldati e talbot">
+            <persName>SOLDATI E TALBOT::</persName>
+          </person>
+          <person xml:id="iii">
+            <persName>III::</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#borghigiani">
+        <speaker>BORGHIGIANI::</speaker>
+        <l>Qual v’ha speme?</l>
+      </sp>
+      <sp who="#ufficiali">
+        <speaker>UFFICIALI::</speaker>
+        <l>Dal seggio dei padri</l>
+        <l>Ben vedete ove Carlo rifugge;</l>
+        <l>Orda immensa di barbari ladri</l>
+        <l>Questa misera terra distrugge.</l>
+      </sp>
+      <sp who="#borghigiani">
+        <speaker>BORGHIGIANI::</speaker>
+        <l>Orleáns?…</l>
+      </sp>
+      <sp who="#ufficiali">
+        <speaker>UFFICIALI::</speaker>
+        <l>È guardata dai fidi…</l>
+        <l>Presto anch’essa per fame cadrà.</l>
+      </sp>
+      <sp who="#tutti">
+        <speaker>TUTTI::</speaker>
+        <l>Maledetti cui spinge rea voglia</l>
+        <l>Fuor del cerchio che il Nume ha segnato!</l>
+        <l>Forse un dì rivarcando la soglia</l>
+        <l>Piangeranno dell’empio peccato…</l>
+        <l>Ah! noi pur desiammo altri lidi,</l>
+        <l>Ecco Dio che il ricambio ci dà.</l>
+      </sp>
+      <div type="act">
+        <head>PROLOGO</head>SCENA IIDelil, Carlo e detti.<div type="scene">
+          <head>PROLOGO</head>SCENA IIDelil, Carlo e detti.<sp who="#prologo">
+            <speaker>PROLOGO:</speaker>
+            <l>SCENA II</l>
+            <l>Delil, Carlo e detti.</l>
+          </sp>
+          <sp who="#delil">
+            <speaker>DELIL::</speaker>
+            <l>Il Re.</l>
+          </sp>
+          <sp who="#borghigiani">
+            <speaker>BORGHIGIANI::</speaker>
+            <l>Nel suo bel volto</l>
+            <l>Qual dolor!</l>
+          </sp>
+          <sp who="#ufficiali">
+            <speaker>UFFICIALI::</speaker>
+            <l>Giovin tanto ed infelice!</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Amici, v’appressate… Ultimo è questo</l>
+            <l>Del re comando.</l>
+          </sp>
+          <sp who="#delil">
+            <speaker>DELIL::</speaker>
+            <l>Ah sì non dirne!</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Ai fidi</l>
+            <l>Itene tosto, d’Orleàns; si cessi</l>
+            <l>Omai dal sangue che su me ricade.</l>
+            <l>Ripongansi le spade,</l>
+            <l>E sul mio trono avito</l>
+            <l>Segga l’anglico re… Dal giuramento</l>
+            <l>Io sciolgo ognun di fedeltà.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI::</speaker>
+            <l>Che sento!</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Testé prostrato a terra</l>
+            <l>Fervidamente orai che, se volere</l>
+            <l>Era del ciel punir nefande colpe,</l>
+            <l>Percuotesse me solo il suo flagello.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI::</speaker>
+            <l>Ottimo re!</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Trascorrere m’intesi</l>
+            <l>Ignoto senso per le vene… Un dolce</l>
+            <l>Sopor quindi mi vinse,</l>
+            <l>E divo sogno all’anima si pinse.</l>
+            <l>Sotto una quercia parvemi</l>
+            <l>Posar la fronte mesta;</l>
+            <l>Splendea dipinta Vergine</l>
+            <l>In mezzo alla foresta…</l>
+            <l>Mosse di là comando</l>
+            <l>Che, sorgi, disse, o Re!</l>
+            <l>Elmo deponi e brando</l>
+            <l>Di questa imago al pié.</l>
+          </sp>
+          <stage>CARLO:Trascorrere m’intesiIgnoto senso per le vene… Un dolceSopor quindi mi vinse,E divo sogno all’anima si pinse.Sotto una quercia parvemiPosar la fronte mesta;Splendea dipinta VergineIn mezzo alla foresta…Mosse di là comandoChe, sorgi, disse, o Re!Elmo deponi e brandoDi questa imago al pié.</stage>
+          <sp who="#borghigiani">
+            <speaker>BORGHIGIANI::</speaker>
+            <l>Dipinta imago, e simile</l>
+            <l>Loco fra noi qui v’è.</l>
+          </sp>
+          <stage>CARLO (con entusiasmo):Le tueparole, o Vergine,Carlo umilmente adora;Ti fregierò l’imagineDi mia corona ancor…Ma il sangue si detergaOnd’ è la patria in duol;Ma la straniera vergaSia mite al franco suol.</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI::</speaker>
+            <l>Chi può frenar le lagrime</l>
+            <l>A sì pietoso duol?</l>
+          </sp>
+          <stage>CARLO (ai Borghigiani):V’ha dunque un loco simile,Diceste?…</stage>
+          <sp who="#borghigiani">
+            <speaker>BORGHIGIANI::</speaker>
+            <l>È selva orrenda.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Visiterò la Vergine</l>
+            <l>Prima che notte scenda…</l>
+            <l>Vieni, Delil…</l>
+          </sp>
+          <sp who="#borghigiani">
+            <speaker>BORGHIGIANI::</speaker>
+            <l>Per poco</l>
+            <l>Uditeci, fermate!</l>
+            <l>Quello d’orrore è loco…</l>
+            <l>Morte vi sta…</l>
+          </sp>
+          <sp who="#carlo ed ufficiali">
+            <speaker>CARLO ED UFFICIALI::</speaker>
+            <l>Narrate.</l>
+          </sp>
+          <sp who="#borghigiani">
+            <speaker>BORGHIGIANI::</speaker>
+            <l>Allor che i flebili bronzi salutano</l>
+            <l>Il dì che muore,</l>
+            <l>E lento nàviga – per l’aere tacito</l>
+            <l>L’astro d’amore.</l>
+            <l>Nell’orribile foresta</l>
+            <l>Sempre infuria la tempesta;</l>
+            <l>Fra l’orror di lampi e tuoni</l>
+            <l>Là convengono i demoni</l>
+            <l>Là co’ maghi e colle streghe</l>
+            <l>Fanno i pàtti e le congréghe,</l>
+            <l>E con filtri avvelenati</l>
+            <l>Ammoliscono i peccati…</l>
+            <l>Guai se inconscio al reo festino</l>
+            <l>Uom sorprendere si fa!</l>
+            <l>Ei non vede più mattino</l>
+            <l>Se al demonio non si dà.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Dov’è la Pia, convegno</l>
+            <l>Non ha l’Averno.- Ite… fra poco io solo</l>
+            <l>Là scioglierò mio voto.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI::</speaker>
+            <l>O re!</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Dispoglio</l>
+            <l>Tal nome or qui! – Lasciatemi – Lo voglio!</l>
+            <l>Pondo è letal, martirio</l>
+            <l>Il serto al capo mio;</l>
+            <l>Perché fruir di libero</l>
+            <l>Aere non posso anch’io!…</l>
+            <l>Pace, che al più mendico</l>
+            <l>Prodiga sei di te,</l>
+            <l>Mandami un raggio amico,</l>
+            <l>Vieni non son più re.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI::</speaker>
+            <l>Cielo!… Dall’atre imagini</l>
+            <l>Fa che rientri in sé!</l>
+            <l>Sempre fedeli e taciti</l>
+            <l>Noi seguiremo il re.</l>
+            <l>(Carlo impone loro con un cenno, e parte; essi pure si allontanano per diverse uscite)</l>
+          </sp>
+          <stage>TUTTI:Cielo!… Dall’atre imaginiFa che rientri in sé!Sempre fedeli e tacitiNoi seguiremo il re.(Carlo impone loro con un cenno, e parte; essi pure si allontanano per diverse uscite)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>PROLOGO</head>SCENA IIIUna foresta. A dritta sorge sopra una balza praticabile una Cappelletta, fiocamente rischiarata nell’interno da una lampada. A sinistra sul piano avanti levasi una quercia, e al piè di quella unsedile di pietra. Nel fondo s’apre una caverna. Il cielo è nero e procelloso.<div type="scene">
+          <head>PROLOGO</head>SCENA IIIUna foresta. A dritta sorge sopra una balza praticabile una Cappelletta, fiocamente rischiarata nell’interno da una lampada. A sinistra sul piano avanti levasi una quercia, e al piè di quella unsedile di pietra. Nel fondo s’apre una caverna. Il cielo è nero e procelloso.<sp who="#prologo">
+            <speaker>PROLOGO:</speaker>
+            <l>SCENA III</l>
+            <l>Una foresta. A dritta sorge sopra una balza praticabile una Cappelletta, fiocamente rischiarata nell’interno da una lampada. A sinistra sul piano avanti levasi una quercia, e al piè di quella un</l>
+            <l>sedile di pietra. Nel fondo s’apre una caverna. Il cielo è nero e procelloso.</l>
+          </sp>
+          <stage>PROLOGOSCENA IIIUna foresta. A dritta sorge sopra una balza praticabile una Cappelletta, fiocamente rischiarata nell’interno da una lampada. A sinistra sul piano avanti levasi una quercia, e al piè di quella unsedile di pietra. Nel fondo s’apre una caverna. Il cielo è nero e procelloso.</stage>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Gelo, terror m’invade!…</l>
+            <l>Ma nell’orrendo loco</l>
+            <l>In veglierò? – Come rovente chiodo</l>
+            <l>Nell’anima sta fitta</l>
+            <l>Idea letale! –</l>
+            <l>(Giovanna appare dalla balza, e s’inginocchia innanzi alla cappella)</l>
+            <l>Non è questa forse</l>
+            <l>La quercia sacra all’infernal convegno?…</l>
+            <l>E qui sovente, qui non suol colei</l>
+            <l>Dormir le notti proceliose? – Ahi forse</l>
+            <l>Qui sedotta… qui vinta… al gran nemico</l>
+            <l>L’alma concesse! – Orribile pensiero!…</l>
+            <l>Cielo, m’assisti a discoprire il vero!</l>
+          </sp>
+          <stage>GIACOMO:Gelo, terror m’invade!…Ma nell’orrendo locoIn veglierò? – Come rovente chiodoNell’anima sta fittaIdea letale! –(Giovanna appare dalla balza, e s’inginocchia innanzi alla cappella)Non è questa forseLa quercia sacra all’infernal convegno?…E qui sovente, qui non suol coleiDormir le notti proceliose? – Ahi forseQui sedotta… qui vinta… al gran nemicoL’alma concesse! – Orribile pensiero!…Cielo, m’assisti a discoprire il vero!</stage>
+          <stage>(Entra nella caverna)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>PROLOGO</head>SCENA IVGiovanna sola, scende dalla balza.Oh ben s’addice questoTorbido cielo al miserando affannoDi Francia oppressa! – Perché mai d’imbelliForse ho l’alma vestita,L’alma che vola dal desio rapitaAi campi di battaglia! -Ma d’una ferrea maglia,E d’una spada, e d’un cimiero forseA me fia grave il pondo?…Tanto richiedo a te, Speme del mondo.Sempre all’alba ed alla seraQuivi innalzo a te preghiera;Qui la notte mi riposo,E te sogna il mio pensier.Sempre a me, che indegna sono,Apri allora il cor pietoso…Oh se un dì m’avessi il donoD’una spada e d’un cimier!(va ad assidersi sulla pietra)Ma… le stanche pupille… il sonno vince…Regina, il baldo votoPerdona… e benedicimi…<div type="scene">
+          <head>PROLOGO</head>SCENA IVGiovanna sola, scende dalla balza.Oh ben s’addice questoTorbido cielo al miserando affannoDi Francia oppressa! – Perché mai d’imbelliForse ho l’alma vestita,L’alma che vola dal desio rapitaAi campi di battaglia! -Ma d’una ferrea maglia,E d’una spada, e d’un cimiero forseA me fia grave il pondo?…Tanto richiedo a te, Speme del mondo.Sempre all’alba ed alla seraQuivi innalzo a te preghiera;Qui la notte mi riposo,E te sogna il mio pensier.Sempre a me, che indegna sono,Apri allora il cor pietoso…Oh se un dì m’avessi il donoD’una spada e d’un cimier!(va ad assidersi sulla pietra)Ma… le stanche pupille… il sonno vince…Regina, il baldo votoPerdona… e benedicimi…<sp who="#prologo">
+            <speaker>PROLOGO:</speaker>
+            <l>SCENA IV</l>
+            <l>Giovanna sola, scende dalla balza.</l>
+            <l>Oh ben s’addice questo</l>
+            <l>Torbido cielo al miserando affanno</l>
+            <l>Di Francia oppressa! – Perché mai d’imbelli</l>
+            <l>Forse ho l’alma vestita,</l>
+            <l>L’alma che vola dal desio rapita</l>
+            <l>Ai campi di battaglia! -Ma d’una ferrea maglia,</l>
+            <l>E d’una spada, e d’un cimiero forse</l>
+            <l>A me fia grave il pondo?…</l>
+            <l>Tanto richiedo a te, Speme del mondo.</l>
+            <l>Sempre all’alba ed alla sera</l>
+            <l>Quivi innalzo a te preghiera;</l>
+            <l>Qui la notte mi riposo,</l>
+            <l>E te sogna il mio pensier.</l>
+            <l>Sempre a me, che indegna sono,</l>
+            <l>Apri allora il cor pietoso…</l>
+            <l>Oh se un dì m’avessi il dono</l>
+            <l>D’una spada e d’un cimier!</l>
+            <l>(va ad assidersi sulla pietra)</l>
+            <l>Ma… le stanche pupille… il sonno vince…</l>
+            <l>Regina, il baldo voto</l>
+            <l>Perdona… e benedicimi…</l>
+          </sp>
+          <stage>PROLOGOSCENA IVGiovanna sola, scende dalla balza.Oh ben s’addice questoTorbido cielo al miserando affannoDi Francia oppressa! – Perché mai d’imbelliForse ho l’alma vestita,L’alma che vola dal desio rapitaAi campi di battaglia! -Ma d’una ferrea maglia,E d’una spada, e d’un cimiero forseA me fia grave il pondo?…Tanto richiedo a te, Speme del mondo.Sempre all’alba ed alla seraQuivi innalzo a te preghiera;Qui la notte mi riposo,E te sogna il mio pensier.Sempre a me, che indegna sono,Apri allora il cor pietoso…Oh se un dì m’avessi il donoD’una spada e d’un cimier!(va ad assidersi sulla pietra)Ma… le stanche pupille… il sonno vince…Regina, il baldo votoPerdona… e benedicimi…</stage>
+          <stage>(Si addormenta)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>PROLOGO</head>SCENA VCarlo dalla balza, e detta.<div type="scene">
+          <head>PROLOGO</head>SCENA VCarlo dalla balza, e detta.<sp who="#prologo">
+            <speaker>PROLOGO:</speaker>
+            <l>SCENA V</l>
+            <l>Carlo dalla balza, e detta.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Paventi,</l>
+            <l>Carlo, tu forse?.. o meraviglia scuote</l>
+            <l>Ogni tua fibra?… Ancora</l>
+            <l>Vision parmi, ché la sacra selva</l>
+            <l>Questa è del sogno imo…</l>
+            <l>Ecco mi prostro, riverente e pio.</l>
+          </sp>
+          <stage>(Carlo depone l’elmo e la spada, s’inginocchia e prega. Intanto alla sola anima di Giovanna parla in sogno il seguente)</stage>
+          <sp who="#coro di spiriti malvagi">
+            <speaker>CORO DI SPIRITI MALVAGI::</speaker>
+            <l>Tu sei bella,</l>
+            <l>Tu sei bella!</l>
+            <l>Pazzerella,</l>
+            <l>Che fai tu?</l>
+            <l>Se d’amore</l>
+            <l>Perdi’l fiore,</l>
+            <l>Presto muore,</l>
+            <l>Non vien più.</l>
+            <l>Sorgi, e mira;</l>
+            <l>Te sospira</l>
+            <l>La delira</l>
+            <l>Gioventù.</l>
+            <l>O figliuola,</l>
+            <l>Ti consola</l>
+            <l>E una folla</l>
+            <l>Belzebù!</l>
+            <l>Quando agli anta</l>
+            <l>L’ora canta</l>
+            <l>Pur ti vanta</l>
+            <l>Di virtù.</l>
+            <l>Tu sei bella,</l>
+            <l>Tu sei bella!</l>
+            <l>Pazzerella</l>
+            <l>Che fai tu?</l>
+          </sp>
+          <stage>CORO DI SPIRITI MALVAGI:Tu sei bella,Tu sei bella!Pazzerella,Che fai tu?Se d’amorePerdi’l fiore,Presto muore,Non vien più.Sorgi, e mira;Te sospiraLa deliraGioventù.O figliuola,Ti consolaE una follaBelzebù!Quando agli antaL’ora cantaPur ti vantaDi virtù.Tu sei bella,Tu sei bella!PazzerellaChe fai tu?</stage>
+          <stage>(I nembi si diradano ad un tratto, e la foresta viene rischiarata vivamente dalla luna. Succede un)CORO DI SPIRITI ELETTI:Sorgi! I Celesti accolseroLa generosa brama!…Francia per te fia libera,Ecco cimiero e lama.Lèvati, o spirto eletto,Sii nunzio del Signor…Guai se terreno affettoAccoglierai nel cor! –(Giovanna balza in piedi. I suoi occhi lampeggiano. Il suo atteggiamento è da inspirata)</stage>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Pronta sono!</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Qual voce!…</l>
+            <l>(scendendo dalla balza)</l>
+          </sp>
+          <stage>CARLO:Qual voce!…(scendendo dalla balza)</stage>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>All’Eterno</l>
+            <l>Tua pietade, o re Carlo, è salita!…</l>
+            <l>(Ella corre alla balza, e ne riporta l’elmo e la spada)</l>
+          </sp>
+          <stage>GIOVANNA:All’EternoTua pietade, o re Carlo, è salita!…(Ella corre alla balza, e ne riporta l’elmo e la spada)</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Chi se’ tu?… Vero o falso. discerno?…</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Son guerriera che a gloria t’invita…</l>
+            <l>O fedele Orleàns, ti consola…</l>
+            <l>(in atto profetico).</l>
+            <l>Tengo alfine una spada, un cimier;</l>
+            <l>Sui britanni cadaveri vola</l>
+            <l>Già l’insegna del franco guerrier!</l>
+          </sp>
+          <stage>GIOVANNA:Son guerriera che a gloria t’invita…O fedele Orleàns, ti consola…(in atto profetico).Tengo alfine una spada, un cimier;Sui britanni cadaveri volaGià l’insegna del franco guerrier!</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Qual prodigio! – Ed io pure nel lampo</l>
+            <l>De’ tuoi detti, o fanciulla, divampo.</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Vieni al campo – tua guida son io.</l>
+            <l>Guai, mortale, se manchi di fè!</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Ne’ tuoi sguardi è la fiamma di Dio…</l>
+            <l>Parla, imponi al tuo suddito!…</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>PROLOGO</head>SCENA VIGiacomo non visto dal limitare della caverna e detti.<div type="scene">
+          <head>PROLOGO</head>SCENA VIGiacomo non visto dal limitare della caverna e detti.<sp who="#prologo">
+            <speaker>PROLOGO:</speaker>
+            <l>SCENA VI</l>
+            <l>Giacomo non visto dal limitare della caverna e detti.</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Il re!!</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>(A te, pietosa Vergine,</l>
+            <l>Fido il tugurio umile,</l>
+            <l>Del padre la canizie,</l>
+            <l>E l’innocente ovile;</l>
+            <l>Fin ch’io ritorni a sciogliere</l>
+            <l>Inni di laude a te!)</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>(Non è mortale imagine</l>
+            <l>Questa ch’io veggo e sento;</l>
+            <l>Innanzi, innanzi a un angelo</l>
+            <l>Sto per divin portento…</l>
+            <l>Vinto son io da palpito</l>
+            <l>Sinora ignoto a me).</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>(Sì!… dell’orribil dubbio</l>
+            <l>disquarciato il velo…</l>
+            <l>Deh vibra le tue folgori,</l>
+            <l>M’incenerisci, o cielo!</l>
+            <l>Ella si cesse ai demoni</l>
+            <l>Per folle amor del re!)</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Or sia patria il mio solo pensiero…</l>
+            <l>Vieni, o Carlo, a pugnare con me!</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Sì, ti seguo, inspirato guerriero…</l>
+            <l>Tutta l’alma sfavilla di fè!</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Ferma!… ahi manco!… Per l’empio sentiero</l>
+            <l>Gravi l’ira del padre su te.</l>
+            <l>(Giovanna e Carlo si allontanano rapidamente; Giacomo tenta seguirli, ma cade oppresso dal dolore al suolo)</l>
+          </sp>
+          <stage>GIACOMO:Ferma!… ahi manco!… Per l’empio sentieroGravi l’ira del padre su te.(Giovanna e Carlo si allontanano rapidamente; Giacomo tenta seguirli, ma cade oppresso dal dolore al suolo)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO PRIMO</head>SCENA ILuogo remoto, sparso di rupi. In lontananza scorgesi parte della città di Reims. Soldati inglesi sparsi qua e là in gruppi. Donne che piangono pressoestinti, altre che assistono ai feriti.Talbot<div type="scene">
+          <head>ATTO PRIMO</head>SCENA ILuogo remoto, sparso di rupi. In lontananza scorgesi parte della città di Reims. Soldati inglesi sparsi qua e là in gruppi. Donne che piangono pressoestinti, altre che assistono ai feriti.Talbot<sp who="#atto primo">
+            <speaker>ATTO PRIMO:</speaker>
+            <l>SCENA I</l>
+            <l>Luogo remoto, sparso di rupi. In lontananza scorgesi parte della città di Reims. Soldati inglesi sparsi qua e là in gruppi. Donne che piangono pressoestinti, altre che assistono ai feriti.</l>
+            <l>Talbot</l>
+          </sp>
+          <stage>ATTO PRIMOSCENA ILuogo remoto, sparso di rupi. In lontananza scorgesi parte della città di Reims. Soldati inglesi sparsi qua e là in gruppi. Donne che piangono pressoestinti, altre che assistono ai feriti.Talbot</stage>
+          <sp who="#soldato i">
+            <speaker>SOLDATO I::</speaker>
+            <l>Ai lari!… Alla patria! Mio duce, che tardi?</l>
+          </sp>
+          <sp who="#soldato ii">
+            <speaker>SOLDATO II::</speaker>
+            <l>Ai lari!… Alla patria!</l>
+          </sp>
+          <sp who="#talbot">
+            <speaker>TALBOT::</speaker>
+            <l>Reo grido mi suona.</l>
+          </sp>
+          <sp who="#soldati">
+            <speaker>SOLDATI::</speaker>
+            <l>Perduta Orleàno, perduti i gagliardi,</l>
+            <l>Gioviamci del tempo che il Franco ne dona.</l>
+          </sp>
+          <sp who="#talbot">
+            <speaker>TALBOT::</speaker>
+            <l>Ahi cento trionfi distrutti in un giorno!</l>
+            <l>Di tanta viltade chi lava lo scorno?</l>
+          </sp>
+          <sp who="#soldati">
+            <speaker>SOLDATI::</speaker>
+            <l>O duce, noi sempre mirasti sui campi</l>
+            <l>Volar combattendo con animo ardito,</l>
+            <l>Dei bronzi tonanti sorridere ai lampi,</l>
+            <l>Far pompa del seno, del braccio ferito…</l>
+            <l>Ma contro la furia che Averno disserra</l>
+            <l>Che valgon prodezze d’impavida guerra?</l>
+            <l>Ma contro legioni – d’armati demòni</l>
+            <l>Che giova la possa – d’umano valor?</l>
+          </sp>
+          <sp who="#talbot">
+            <speaker>TALBOT::</speaker>
+            <l>Son larve funeste – che incarna, che veste</l>
+            <l>La mente percossa – da vile timor.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO PRIMO</head>SCENA IIGiacomo. il suo crine scomposto, i suoi atti dimostrano il disordino della mente. Detti.GIACOMO:Questa rea che vi percuoteSarà vostra prigioniera.<div type="scene">
+          <head>ATTO PRIMO</head>SCENA IIGiacomo. il suo crine scomposto, i suoi atti dimostrano il disordino della mente. Detti.GIACOMO:Questa rea che vi percuoteSarà vostra prigioniera.<sp who="#atto primo">
+            <speaker>ATTO PRIMO:</speaker>
+            <l>SCENA II</l>
+            <l>Giacomo. il suo crine scomposto, i suoi atti dimostrano il disordino della mente. Detti.</l>
+            <l>GIACOMO:</l>
+            <l>Questa rea che vi percuote</l>
+            <l>Sarà vostra prigioniera.</l>
+          </sp>
+          <stage>ATTO PRIMOSCENA IIGiacomo. il suo crine scomposto, i suoi atti dimostrano il disordino della mente. Detti.GIACOMO:Questa rea che vi percuoteSarà vostra prigioniera.</stage>
+          <sp who="#talbot">
+            <speaker>TALBOT::</speaker>
+            <l>Chi sei tu?…</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Son tal che puote..</l>
+          </sp>
+          <sp who="#soldati">
+            <speaker>SOLDATI::</speaker>
+            <l>Sarà nostra?</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Pria di sera…</l>
+            <l>Io lo giuro ad un sof patto.</l>
+          </sp>
+          <sp who="#soldati e talbot">
+            <speaker>SOLDATI E TALBOT::</speaker>
+            <l>Parla, parla!… Sarà fatto.</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Franco son io, ma in core</l>
+            <l>M’è prima patria onore;</l>
+            <l>Giurai se alcun l’affronta</l>
+            <l>Morire o ‘1 vendicar;</l>
+            <l>Or questo crin già bianco</l>
+            <l>Carlo gravò d’un’onta…</l>
+            <l>Contro l’indegno Franco</l>
+            <l>Chiedo tra voi pugnar.</l>
+          </sp>
+          <sp who="#soldati">
+            <speaker>SOLDATI::</speaker>
+            <l>Chi fia?… Qual arde incendio</l>
+            <l>Nel baldo favellar?</l>
+          </sp>
+          <sp who="#talbot">
+            <speaker>TALBOT::</speaker>
+            <l>Vien!… di guerra in forte luogo</l>
+            <l>Si rialzi ancor la tenda.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>Noi colà fiammante rogo</l>
+            <l>Ergerem che l’empia incenda.</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Oh Giovanna!…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>Le tue ciglia</l>
+            <l>Gemon pianto!… qual dolor!…</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>E memoria d’una figlia</l>
+            <l>Che tradiva il genitor.</l>
+            <l>So che per via di triboli</l>
+            <l>Ne adduce il fallo primo,</l>
+            <l>So che fia schiuso ai miseri</l>
+            <l>Più terso e caro sol…</l>
+            <l>Deh la paterna lagrima</l>
+            <l>Si doni al basso limo!</l>
+            <l>Languido è il frai, ma l’anima</l>
+            <l>Maggiore è d’ogni duol.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>Nobile vecchio, affrettati…</l>
+            <l>Tutto ne avvampa il cor.</l>
+            <l>Vien la vendetta a compiere</l>
+            <l>Nel vile seduttor.</l>
+          </sp>
+          <stage>(I soldati seguono Talbot e il vecchio)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO PRIMO</head>SCENA IIIGiardino nella Corte di Reims. Giovanna sola. Ella è adornata di corazza, d’elmo e di spada; nel resto d’abiti femminili.<div type="scene">
+          <head>ATTO PRIMO</head>SCENA IIIGiardino nella Corte di Reims. Giovanna sola. Ella è adornata di corazza, d’elmo e di spada; nel resto d’abiti femminili.<sp who="#atto primo">
+            <speaker>ATTO PRIMO:</speaker>
+            <l>SCENA III</l>
+            <l>Giardino nella Corte di Reims. Giovanna sola. Ella è adornata di corazza, d’elmo e di spada; nel resto d’abiti femminili.</l>
+          </sp>
+          <stage>ATTO PRIMOSCENA IIIGiardino nella Corte di Reims. Giovanna sola. Ella è adornata di corazza, d’elmo e di spada; nel resto d’abiti femminili.</stage>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Qui! qui!… dove più s’apre</l>
+            <l>Libero il cielo, e l’aere puro aleggia.</l>
+            <l>Nella festante reggia</l>
+            <l>Svania la mente! – Le mie fibre scuote</l>
+            <l>Un senso, un turbamento,</l>
+            <l>Che interrogar pavento. –</l>
+            <l>Gravi m’eran gli applausi. – Oh! ma compiuto</l>
+            <l>Non è l’incarco? – Salve</l>
+            <l>Non son le franche arene?…</l>
+            <l>Perché rimango or qui?… chi mi trattiene?…</l>
+            <l>O fatidica foresta,</l>
+            <l>O mio padre, o mia capanna,</l>
+            <l>Nella semplice sua vesta</l>
+            <l>Tornerà tra voi Giovanna;</l>
+            <l>Deh ridatele i contenti</l>
+            <l>Che più l’alma non sentì!</l>
+            <l>Ho risolto…</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO PRIMO</head>SCENA IVCarlo e detta.<div type="scene">
+          <head>ATTO PRIMO</head>SCENA IVCarlo e detta.<sp who="#atto primo">
+            <speaker>ATTO PRIMO:</speaker>
+            <l>SCENA IV</l>
+            <l>Carlo e detta.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>E in tai momenti</l>
+            <l>Abbandoni il re così?</l>
+            <l>Chiede ognuno che mai fusse;</l>
+            <l>Te la Corte attende e brama.</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Il Signor che qui mi addusse</l>
+            <l>A’ miei lari or mi richiama.</l>
+          </sp>
+          <stage>CARLO (con trasporto):Deh! non dirlo!… A te mi atterro!…</stage>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>(Cielo!) Sorgi…</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Oh vinta sei?…</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>È deciso!…</l>
+            <l>(In atto di partire)</l>
+          </sp>
+          <stage>GIOVANNA:È deciso!…(In atto di partire)</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Pria quel ferro</l>
+            <l>In me volgere tu dêi.</l>
+            <l>Dunque, o cruda, e gloria e trono</l>
+            <l>Offeristi a Carlo in dono,</l>
+            <l>Per serbarlo a’ lai più vivi,</l>
+            <l>Per ferirlo in mezzo al cor?…</l>
+            <l>Fin dal dì che m’apparivi</l>
+            <l>Io t’amai d’immenso amor!</l>
+          </sp>
+          <stage>CARLO:Pria quel ferroIn me volgere tu dêi.Dunque, o cruda, e gloria e tronoOfferisti a Carlo in dono,Per serbarlo a’ lai più vivi,Per ferirlo in mezzo al cor?…Fin dal dì che m’appariviIo t’amai d’immenso amor!</stage>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Oh pietade!… Io più non sono</l>
+            <l>(commossa:)</l>
+            <l>L’inviata di Maria;</l>
+            <l>Solo usbergo al dolce suono</l>
+            <l>Degli affetti è debil sen.</l>
+            <l>Deh rispettami qual pria!…</l>
+            <l>Ch’io non sugga il tuo velen!</l>
+          </sp>
+          <stage>GIOVANNA:Oh pietade!… Io più non sono(commossa:)L’inviata di Maria;Solo usbergo al dolce suonoDegli affetti è debil sen.Deh rispettami qual pria!…Ch’io non sugga il tuo velen!</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Ma l’amore è santo, è puro…</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Taci, ah taci…</l>
+            <l>(Asconde il viso nelle mani)</l>
+          </sp>
+          <stage>GIOVANNA:Taci, ah taci…(Asconde il viso nelle mani)</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>A Dio lo giuro!</l>
+            <l>Sol lo spirto mi concedi,</l>
+            <l>E all’incendio basterà.</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>La mia mente… va smarrita!…</l>
+            <l>Ahi! si perde…</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Oh cedi, cedi!</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Pietà, Carlo!…</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>A te, mia vita,</l>
+            <l>A te chiedo io pur pietà.</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>T’amo!… Sì, t’amo!…</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Oh detto!</l>
+          </sp>
+          <sp who="#a 2">
+            <speaker>A 2::</speaker>
+            <l>Chi più felice?… Oh amor!</l>
+          </sp>
+          <sp who="#voci eteree">
+            <speaker>VOCI ETEREE::</speaker>
+            <l>Guai se terreno affetto</l>
+            <l>Accoglierai nel cor!</l>
+            <l>(Giovanna, alla cui anima solamente scende l’avvertimento liberasi dalle braccia di Carlo. Ella è tremante, esterrefatta)</l>
+          </sp>
+          <stage>VOCI ETEREE:Guai se terreno affettoAccoglierai nel cor!(Giovanna, alla cui anima solamente scende l’avvertimento liberasi dalle braccia di Carlo. Ella è tremante, esterrefatta)</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>T’arretri e palpiti!… -Che mai t’apparve?…</l>
+            <l>Guardami, guardami – niun ti minaccia…</l>
+            <l>Che fai?… che mormori – di vane larve?</l>
+            <l>Di Carlo, o vergine – stai fra le braccia.</l>
+            <l>È puro l’aere – limpido il cielo</l>
+            <l>Siccome il velo – di nostra fe’.</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Fùr dessi!… gli angeli! -non hai veduto?</l>
+            <l>Lasciami, lasciami – son maledetta!</l>
+            <l>Qual fra le tenebre – torvo e canuto</l>
+            <l>Appar fantasima – che accenna e aspetta?</l>
+            <l>Muori o Sacrilega – Qual voce, oh Dio!</l>
+            <l>Il padre mio – che vuoi da me?</l>
+          </sp>
+          <stage>GIOVANNA:Fùr dessi!… gli angeli! -non hai veduto?Lasciami, lasciami – son maledetta!Qual fra le tenebre – torvo e canutoAppar fantasima – che accenna e aspetta?Muori o Sacrilega – Qual voce, oh Dio!Il padre mio – che vuoi da me?</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Taci!…</l>
+            <l>(Vedendo gente che si appressa)</l>
+          </sp>
+          <stage>CARLO:Taci!…(Vedendo gente che si appressa)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO PRIMO</head>SCENA VDelil con bandiera, Ufficiali del re, e detti.UFFICIALI E DELIL:Le vie traboccanoDi sudditi devoti;Carlo, te solo attendonoI grandi e i sacerdoti;Oggi dinanzi ai popoliFrancia corona il re.Tu lo precedi, o vergine;Ecco la tua bandiera.(Delil le porge l’insegna, Giovanna la prende macchinalmente)<div type="scene">
+          <head>ATTO PRIMO</head>SCENA VDelil con bandiera, Ufficiali del re, e detti.UFFICIALI E DELIL:Le vie traboccanoDi sudditi devoti;Carlo, te solo attendonoI grandi e i sacerdoti;Oggi dinanzi ai popoliFrancia corona il re.Tu lo precedi, o vergine;Ecco la tua bandiera.(Delil le porge l’insegna, Giovanna la prende macchinalmente)<sp who="#atto primo">
+            <speaker>ATTO PRIMO:</speaker>
+            <l>SCENA V</l>
+            <l>Delil con bandiera, Ufficiali del re, e detti.</l>
+            <l>UFFICIALI E DELIL:</l>
+            <l>Le vie traboccano</l>
+            <l>Di sudditi devoti;</l>
+            <l>Carlo, te solo attendono</l>
+            <l>I grandi e i sacerdoti;</l>
+            <l>Oggi dinanzi ai popoli</l>
+            <l>Francia corona il re.</l>
+            <l>Tu lo precedi, o vergine;</l>
+            <l>Ecco la tua bandiera.</l>
+            <l>(Delil le porge l’insegna, Giovanna la prende macchinalmente)</l>
+          </sp>
+          <stage>ATTO PRIMOSCENA VDelil con bandiera, Ufficiali del re, e detti.UFFICIALI E DELIL:Le vie traboccanoDi sudditi devoti;Carlo, te solo attendonoI grandi e i sacerdoti;Oggi dinanzi ai popoliFrancia corona il re.Tu lo precedi, o vergine;Ecco la tua bandiera.(Delil le porge l’insegna, Giovanna la prende macchinalmente)</stage>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>(Fu mia!)</l>
+          </sp>
+          <sp who="#ufficiali e delil">
+            <speaker>UFFICIALI E DELIL::</speaker>
+            <l>(Quai sensi turbano</l>
+            <l>La diva messaggiera?..)</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Ite! – Il gran rito compiasi;</l>
+            <l>Ella verrà con me.</l>
+            <l>(Delil ed uffiziali partono)</l>
+          </sp>
+          <stage>CARLO:Ite! – Il gran rito compiasi;Ella verrà con me.(Delil ed uffiziali partono)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO PRIMO</head>SCENA VICarlo e Giovanna.CARLO:Vieni al tempio, e ti consolaFra il clamor de’ gridi lieti;Coronar mi dêi tu solaAl cospetto del Signor.Ma la gemma più lucente,Ma la gioja più ridente,Come sole fra i pianetiFia, Giovanna, il nostro amor.<div type="scene">
+          <head>ATTO PRIMO</head>SCENA VICarlo e Giovanna.CARLO:Vieni al tempio, e ti consolaFra il clamor de’ gridi lieti;Coronar mi dêi tu solaAl cospetto del Signor.Ma la gemma più lucente,Ma la gioja più ridente,Come sole fra i pianetiFia, Giovanna, il nostro amor.<sp who="#atto primo">
+            <speaker>ATTO PRIMO:</speaker>
+            <l>SCENA VI</l>
+            <l>Carlo e Giovanna.</l>
+            <l>CARLO:</l>
+            <l>Vieni al tempio, e ti consola</l>
+            <l>Fra il clamor de’ gridi lieti;</l>
+            <l>Coronar mi dêi tu sola</l>
+            <l>Al cospetto del Signor.</l>
+            <l>Ma la gemma più lucente,</l>
+            <l>Ma la gioja più ridente,</l>
+            <l>Come sole fra i pianeti</l>
+            <l>Fia, Giovanna, il nostro amor.</l>
+          </sp>
+          <stage>ATTO PRIMOSCENA VICarlo e Giovanna.CARLO:Vieni al tempio, e ti consolaFra il clamor de’ gridi lieti;Coronar mi dêi tu solaAl cospetto del Signor.Ma la gemma più lucente,Ma la gioja più ridente,Come sole fra i pianetiFia, Giovanna, il nostro amor.</stage>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Oh perché sui campi in guerra</l>
+            <l>Non versai quest’alma impura?…</l>
+            <l>Chi m’adduce a ignota terra</l>
+            <l>Ov’io celi il mio rossor?</l>
+            <l>Ma, se ad anima pentita</l>
+            <l>Valga il pianto e la sventura,</l>
+            <l>Ogni giorno di mia vita</l>
+            <l>Sia pur giorno di dolor!</l>
+          </sp>
+          <stage>(L’anima di Giovanna è assalita dal seguente)</stage>
+          <sp who="#coro di spiriti malvagi">
+            <speaker>CORO DI SPIRITI MALVAGI::</speaker>
+            <l>Vittoria, vittoria!… plaudiamo a Satàna,</l>
+            <l>E ammorzino i gridi l’eterna sventura…</l>
+            <l>Vedete stoltezza di questa villana</l>
+            <l>Che nunzia è del cielo, che dicesi pura!</l>
+            <l>Ma d’Eva, o superba, non eri tu schiatta?…</l>
+            <l>Già nostra sei fatta, già nostra sei fatta!</l>
+            <l>Lasciamo le tane, sprezziamo l’esiglio,</l>
+            <l>Lanciamoci in alto con urla di scherno;</l>
+            <l>Ai cembali, ai sistri stendiamo l’artiglio,</l>
+            <l>Danziamo, danziamo la ridda d’inferno…</l>
+            <l>Non tosto Satàna si move alla giostra</l>
+            <l>La fémina è nostra, la fémina è nostra!</l>
+          </sp>
+          <stage>(Il re prende con trasporto la mano di Giovanna, e seco la tragge)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head></head>ATTO SECONDOSCENA IPiazza in Reims; sul davanti a sinistra s’innalza la cattedrale dedicata a S. Dionigi. La scena è ingombra di popolo.<div type="scene">
+          <head></head>ATTO SECONDOSCENA IPiazza in Reims; sul davanti a sinistra s’innalza la cattedrale dedicata a S. Dionigi. La scena è ingombra di popolo. <stage>ATTO SECONDOSCENA IPiazza in Reims; sul davanti a sinistra s’innalza la cattedrale dedicata a S. Dionigi. La scena è ingombra di popolo.</stage>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>Dal cielo a noi chi viene</l>
+            <l>Frangendo le catene?</l>
+            <l>Viva la mira vergine,</l>
+            <l>Che l’Anglia debellò</l>
+            <l>Pari al sublime evento</l>
+            <l>Onde fu l’uom redento,</l>
+            <l>Fia sacro il dì che un popolo</l>
+            <l>Dal fango si levò.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO SECONDO</head>SCENA IIGiacomoGIACOMO (solo):Ecco il luogo e il momento! –Io qui di padre tutteFibre detergo, e del Signor crucciatoOr fulmine divento.Lode, lode a lui sia, che al dì segnatoDi sua vendetta ultriceIl fedele serbò vecchio infelice!Speme al vecchio era una figlia…Dovea chiudermi le ciglia…Or costei – crudele affanno! –Vengo io stesso ad accusar.Di vergogna e di doloreOlocausto offro al Signore…Possa, oh possa a eterno dannoQuella misera sottrar!<div type="scene">
+          <head>ATTO SECONDO</head>SCENA IIGiacomoGIACOMO (solo):Ecco il luogo e il momento! –Io qui di padre tutteFibre detergo, e del Signor crucciatoOr fulmine divento.Lode, lode a lui sia, che al dì segnatoDi sua vendetta ultriceIl fedele serbò vecchio infelice!Speme al vecchio era una figlia…Dovea chiudermi le ciglia…Or costei – crudele affanno! –Vengo io stesso ad accusar.Di vergogna e di doloreOlocausto offro al Signore…Possa, oh possa a eterno dannoQuella misera sottrar!<sp who="#atto secondo">
+            <speaker>ATTO SECONDO:</speaker>
+            <l>SCENA II</l>
+            <l>Giacomo</l>
+            <l>GIACOMO (solo):</l>
+            <l>Ecco il luogo e il momento! –</l>
+            <l>Io qui di padre tutte</l>
+            <l>Fibre detergo, e del Signor crucciato</l>
+            <l>Or fulmine divento.</l>
+            <l>Lode, lode a lui sia, che al dì segnato</l>
+            <l>Di sua vendetta ultrice</l>
+            <l>Il fedele serbò vecchio infelice!</l>
+            <l>Speme al vecchio era una figlia…</l>
+            <l>Dovea chiudermi le ciglia…</l>
+            <l>Or costei – crudele affanno! –</l>
+            <l>Vengo io stesso ad accusar.</l>
+            <l>Di vergogna e di dolore</l>
+            <l>Olocausto offro al Signore…</l>
+            <l>Possa, oh possa a eterno danno</l>
+            <l>Quella misera sottrar!</l>
+          </sp>
+          <stage>ATTO SECONDOSCENA IIGiacomoGIACOMO (solo):Ecco il luogo e il momento! –Io qui di padre tutteFibre detergo, e del Signor crucciatoOr fulmine divento.Lode, lode a lui sia, che al dì segnatoDi sua vendetta ultriceIl fedele serbò vecchio infelice!Speme al vecchio era una figlia…Dovea chiudermi le ciglia…Or costei – crudele affanno! –Vengo io stesso ad accusar.Di vergogna e di doloreOlocausto offro al Signore…Possa, oh possa a eterno dannoQuella misera sottrar!</stage>
+          <stage>(Squillo di trombe dal tempio, alle quali succede il seguente inno)</stage>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Compiuto è il rito! Ai cantici divini</l>
+            <l>Quale assistea colei?… Né il loco santo</l>
+            <l>Terror le infuse? – Ma il corteo giulivo</l>
+            <l>Esce, ed ella il precede… Alla turbata</l>
+            <l>Anima oh come tutto</l>
+            <l>Risponde il volto!</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO SECONDO</head>SCENA IIIGiovanna esce agitata, quindi Carlo coronato, il corteggio ed il popolo – Giacomo si frammischia alla folla.<div type="scene">
+          <head>ATTO SECONDO</head>SCENA IIIGiovanna esce agitata, quindi Carlo coronato, il corteggio ed il popolo – Giacomo si frammischia alla folla.<sp who="#atto secondo">
+            <speaker>ATTO SECONDO:</speaker>
+            <l>SCENA III</l>
+            <l>Giovanna esce agitata, quindi Carlo coronato, il corteggio ed il popolo – Giacomo si frammischia alla folla.</l>
+          </sp>
+          <stage>ATTO SECONDOSCENA IIIGiovanna esce agitata, quindi Carlo coronato, il corteggio ed il popolo – Giacomo si frammischia alla folla.</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Non fuggir, donzella!</l>
+            <l>Invano cerchi al meritato omaggio</l>
+            <l>Del tuo re, del tuo popolo sottrarti. –</l>
+            <l>Meco plaudite, o genti,</l>
+            <l>A lei che n’ha redenti…</l>
+            <l>Io primo a te mi prostro,</l>
+            <l>Inviata del Ciel.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI::</speaker>
+            <l>Viva Giovanna!</l>
+            <l>Viva la nostra redentrice!</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Omai</l>
+            <l>Due patroni ha la Francia. –</l>
+            <l>Al gran Dionigi</l>
+            <l>Fean sorger monumento i padri nostri;</l>
+            <l>Ne imiterem l’esempio…</l>
+            <l>Diva donzella, avrai tu pure un tempio.</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>La bestemmia oh sperda Iddio!…</l>
+            <l>(avanzando)</l>
+            <l>Di chi mai tu cadi al piè!</l>
+          </sp>
+          <stage>GIACOMO:La bestemmia oh sperda Iddio!…(avanzando)Di chi mai tu cadi al piè!</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Qual baldanza!…</l>
+          </sp>
+          <stage>GIOVANNA (scossa):Il padre mio!</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Ei suo padre!!</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>M’odi, o re!</l>
+            <l>Comparire il ciel m’ha stretto</l>
+            <l>Qui del popolo al cospetto;</l>
+            <l>Cor di padre e bianca testa</l>
+            <l>Daran fede a’ detti miei.</l>
+            <l>Ben conosci la foresta</l>
+            <l>Ove apparve a te costei…</l>
+            <l>Là, sua fede rinnegata,</l>
+            <l>Questa figlia sciagurata,</l>
+            <l>A superbia aprendo il seno,</l>
+            <l>Per iniquo amor terreno,</l>
+            <l>Sé dannando a eterno scempio</l>
+            <l>Coi demòni patteggiò.</l>
+            <l>Re tradito or leva un tempio…</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>Quale orror!!</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Che mai narrò!</l>
+          </sp>
+          <stage>(Tutti fra sé)</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>No! forme d’angelo – non son la vesta</l>
+            <l>D’un’alma rèproba – che Dio detesta!</l>
+            <l>Qual sulla misera – grava periglio!</l>
+            <l>Il tuo consiglio – ne addita, o ciel.</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Vicino al termine – resisti, o core…</l>
+            <l>Sensi quetatevi – del genitore…</l>
+            <l>Sol può la misera – quaggiù punita</l>
+            <l>L’alma pentita – tornare al ciel.</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>L’amaro calice – sommessa io bevo,</l>
+            <l>Né mando un gemito -né un detto elevo…</l>
+            <l>Ch’ei sia dell’anima – vital lavacro!</l>
+            <l>Sia fatto il sacro – voler del ciel.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>Un gel trascorrere – sento per l’ossa…</l>
+            <l>Parmi da folgore – l’alma percossa…</l>
+            <l>Oh quale orribile – squarciò mistero!</l>
+            <l>S’ei disse il vero – ne addita, o ciel.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Ti discolpa! (a Giovanna)</l>
+            <l>CORO:</l>
+            <l>Imbianca e tace!</l>
+          </sp>
+          <stage>CARLO:Ti discolpa! (a Giovanna)CORO:Imbianca e tace!</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Le tue prove, O veglio audace?</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Dimmi, in nome del Dio vindice,</l>
+            <l>(prende per mano la figlia)</l>
+            <l>Non sacrilega sei tu?</l>
+          </sp>
+          <stage>GIACOMO:Dimmi, in nome del Dio vindice,(prende per mano la figlia)Non sacrilega sei tu?</stage>
+          <stage>(Silenzio generale)CORO:Né favella!… il capo asconde!CARLO: (A Giovanna)Parla, e tutti avrai credenti.GIACOMO:Di’, per l’alme dei parenti,Non sacrilega sei tu?(Silenzio c. s)</stage>
+          <stage>CORO (con raccapriccio):Non risponde!… non risponde!…</stage>
+          <stage>CARLO: (Con passione)Solo un detto!… (oh cieco padre!)GIACOMO:Di’ per l’alma di tua madreNon sacrilega sei tu?…(Tuono e lampi. Terrore generale)Ecco! Il ciel per te lo attesta.</stage>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>Sì!… la colpa è manifesta.</l>
+            <l>L’empia tace… non lo nega…</l>
+            <l>Via la strega! via la strega!</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Ahi tacesti!… ed han creduto!</l>
+            <l>Ma di Carlo avrai l’ajuto.</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Solo ajuto è nel Signor…</l>
+            <l>(Con severità al re)</l>
+            <l>Vieni, o figlia!</l>
+          </sp>
+          <stage>GIACOMO:Solo ajuto è nel Signor…(Con severità al re)Vieni, o figlia!</stage>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Oh genitor!</l>
+            <l>(Prorompe in pianto e si getta fra le braccia del padre)</l>
+          </sp>
+          <stage>GIOVANNA:Oh genitor!(Prorompe in pianto e si getta fra le braccia del padre)</stage>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Del sacrilego misfatto</l>
+            <l>Il terrore in tutti apprendi;</l>
+            <l>Ma dell’anima il riscatto</l>
+            <l>T’offre, o indegna, il genitor.</l>
+            <l>Vieni meco a fatal luogo,</l>
+            <l>Là ti aspetta ardente rogo…</l>
+            <l>Vieni, impavida l’ascendi,</l>
+            <l>Tornerai mia figlia allor.</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Contro l’anima percossa</l>
+            <l>Tuona, tuona, eterna voce;</l>
+            <l>Ma la colpa sia rimossa,</l>
+            <l>Fia purgata.nel dolor!</l>
+            <l>Dell’accolto pentimento</l>
+            <l>Ecco l’iride già sento…</l>
+            <l>Bene venga la mia croce,</l>
+            <l>Io l’attendo con amor.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>O mal ferma, o dura gente,</l>
+            <l>Su te gravi la sua pena!</l>
+            <l>Sempre cara ed innocente</l>
+            <l>È la misera al mio cor.</l>
+            <l>Questa porpora regale, –</l>
+            <l>Questo serto che mai vale,</l>
+            <l>Se mi vince, m’incatena</l>
+            <l>Vil di popolo furor?</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>Fuggi, o donna maledetta,</l>
+            <l>Esci omai da queste mura,</l>
+            <l>Pria che il cielo in sua vendetta</l>
+            <l>Francia invada di terror.</l>
+            <l>Che dirà di noi la storia?…</l>
+            <l>Or chi rende a noi la gloria?…</l>
+            <l>Donna infame, donna impura,</l>
+            <l>Reca all’Anglia il tuo valor! –</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head></head>ATTO TERZOSCENA IInterno d’una ròcca nel campo inglese. Una scala conduce ad una torre, dalla quale si dominano i campi. Giovanna, cinta di grosse catene, è abbandonata sopra un sedile; vicino a lei s’innalza un rogo. Tranne l’elmo e la spada, ella è vestita come precedentemente.<div type="scene">
+          <head></head>ATTO TERZOSCENA IInterno d’una ròcca nel campo inglese. Una scala conduce ad una torre, dalla quale si dominano i campi. Giovanna, cinta di grosse catene, è abbandonata sopra un sedile; vicino a lei s’innalza un rogo. Tranne l’elmo e la spada, ella è vestita come precedentemente. <stage>ATTO TERZOSCENA IInterno d’una ròcca nel campo inglese. Una scala conduce ad una torre, dalla quale si dominano i campi. Giovanna, cinta di grosse catene, è abbandonata sopra un sedile; vicino a lei s’innalza un rogo. Tranne l’elmo e la spada, ella è vestita come precedentemente.</stage>
+          <sp who="#i">
+            <speaker>I::</speaker>
+            <l>I Franchi!</l>
+            <l>(Sentinelle interne)</l>
+          </sp>
+          <stage>I:I Franchi!(Sentinelle interne)</stage>
+          <sp who="#iii">
+            <speaker>III::</speaker>
+            <l>I Franchi!</l>
+            <l>(Alle grida succede il rimbombo del cannone)</l>
+          </sp>
+          <stage>III:I Franchi!(Alle grida succede il rimbombo del cannone)</stage>
+          <stage>GIOVANNA (rinvenendo):Oh qual mi scuoteRumor di guerra? – di catene cintaNell’abborrito io sto campo nemico! –E che mi attende?… Un rogo! –Cresce il rumor… Chi dell’orrendo luogoMi dischiude le porte? Deh ch’io voli sui campi! – Ahi dura sorte!</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO TERZO</head>SCENA IIGiovanna trovatasi rinchiusa si arresta immobile; a poco a poco animasi all’inspirazione. Giacomo entra, e fermasi non visto a contemplarla.<div type="scene">
+          <head>ATTO TERZO</head>SCENA IIGiovanna trovatasi rinchiusa si arresta immobile; a poco a poco animasi all’inspirazione. Giacomo entra, e fermasi non visto a contemplarla.<sp who="#atto terzo">
+            <speaker>ATTO TERZO:</speaker>
+            <l>SCENA II</l>
+            <l>Giovanna trovatasi rinchiusa si arresta immobile; a poco a poco animasi all’inspirazione. Giacomo entra, e fermasi non visto a contemplarla.</l>
+          </sp>
+          <stage>ATTO TERZOSCENA IIGiovanna trovatasi rinchiusa si arresta immobile; a poco a poco animasi all’inspirazione. Giacomo entra, e fermasi non visto a contemplarla.</stage>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Ecco!… Ardite ed ululando</l>
+            <l>Già si avanzan le legioni. –</l>
+            <l>Si scontrâr – brando con brando –</l>
+            <l>Su!… coraggio, o miei campioni!</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Sciagurata!… e ancor delira!</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Come turbo il re si aggira.</l>
+            <l>Là che avvenne?… Ahimé! l’ardito</l>
+            <l>Dagl’Inglesi è circuito!</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>A lui pensa!</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>O Dio clemente</l>
+            <l>M’abbandoni or tu così?…</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Ciel!… Che intendo?…</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>A te fidente</l>
+            <l>Apro il cor siccome un dì!</l>
+            <l>Amai, ma un solo istante,</l>
+            <l>Ma pura ancor son io.</l>
+            <l>Ancor nel tuo sembiante</l>
+            <l>Acqueto ogni desio;</l>
+            <l>Pensier non ho, non palpito</l>
+            <l>Che non sia volto a te.</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Ella innocente e pura!</l>
+            <l>Ella plorante a Dio!…</l>
+            <l>Ahi da qual notte oscura</l>
+            <l>Si leva il guardo mio!…</l>
+            <l>In quale istante, ahi misera,</l>
+            <l>Schiari la mente a me!</l>
+          </sp>
+          <stage>GIOVANNA (alzandosi infiammata dalla fede):Tu che all’eletto SàuloHai le catene infranto,Spezza or le mie…</stage>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Sei libera!…</l>
+            <l>(Accorrendo a lei e sciogliendola)</l>
+            <l>Perdona a un padre in pianto.</l>
+          </sp>
+          <stage>GIACOMO:Sei libera!…(Accorrendo a lei e sciogliendola)Perdona a un padre in pianto.</stage>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Fia ver?… Sei tu?… dimentico</l>
+            <l>(Gettandosi nelle di lui braccia)</l>
+            <l>Già d’ogni duolo è il cor.</l>
+            <l>O padre, benedicimi!</l>
+          </sp>
+          <stage>GIOVANNA:Fia ver?… Sei tu?… dimentico(Gettandosi nelle di lui braccia)Già d’ogni duolo è il cor.O padre, benedicimi!</stage>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>T’arrida il cielo ognor.</l>
+            <l>(imponendo le mani sul di lei capo)</l>
+            <l>GIOVANNA:</l>
+            <l>Or dal padre benedetta,</l>
+            <l>Appurata dai dolori,</l>
+            <l>Sono ancor d’Iddio l’eletta,</l>
+            <l>Torno ai bellici sentier’.</l>
+            <l>Niuno, ah! niun degli invasori</l>
+            <l>Rivedrà la sua contrada!…</l>
+            <l>La tua spada!… la tua spada!</l>
+            <l>Ch’io rivoli a’ miei guerrier’.</l>
+          </sp>
+          <stage>GIACOMO:T’arrida il cielo ognor.(imponendo le mani sul di lei capo)GIOVANNA:Or dal padre benedetta,Appurata dai dolori,Sono ancor d’Iddio l’eletta,Torno ai bellici sentier’.Niuno, ah! niun degli invasoriRivedrà la sua contrada!…La tua spada!… la tua spada!Ch’io rivoli a’ miei guerrier’.</stage>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Va! l’ardire omai ripiglia,</l>
+            <l>Ti ricingi di tua gloria;</l>
+            <l>Alla patria che periglia</l>
+            <l>Va, ritorna il suo guerrier!</l>
+            <l>Sovra l’ale di vittoria</l>
+            <l>Riconduci il tuo stendardo…</l>
+            <l>Deh non fia che invano e tardo</l>
+            <l>A’ miei sguardi ardesse il ver!</l>
+          </sp>
+          <stage>(Giovanna, sguainata la spada del padre, esce precipitosamente. Giacomo salito alla torre getta gli sguardi meravigliando sui campi)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO TERZO</head>SCENA IIIGiacomoGIACOMO (solo):Ecco! – Ella vola. – Qual ventura!… Un biancoSalì destriero. – Oh meraviglia!… In centoLochi ad un tempo appar. – Già dalla mischiaHa tratto il re – Le turbe de’ nemiciS’arretrano sconvolte. – Ahi! tutto involveUn nuvolo di polve.<div type="scene">
+          <head>ATTO TERZO</head>SCENA IIIGiacomoGIACOMO (solo):Ecco! – Ella vola. – Qual ventura!… Un biancoSalì destriero. – Oh meraviglia!… In centoLochi ad un tempo appar. – Già dalla mischiaHa tratto il re – Le turbe de’ nemiciS’arretrano sconvolte. – Ahi! tutto involveUn nuvolo di polve.<sp who="#atto terzo">
+            <speaker>ATTO TERZO:</speaker>
+            <l>SCENA III</l>
+            <l>Giacomo</l>
+            <l>GIACOMO (solo):</l>
+            <l>Ecco! – Ella vola. – Qual ventura!… Un bianco</l>
+            <l>Salì destriero. – Oh meraviglia!… In cento</l>
+            <l>Lochi ad un tempo appar. – Già dalla mischia</l>
+            <l>Ha tratto il re – Le turbe de’ nemici</l>
+            <l>S’arretrano sconvolte. – Ahi! tutto involve</l>
+            <l>Un nuvolo di polve.</l>
+          </sp>
+          <stage>ATTO TERZOSCENA IIIGiacomoGIACOMO (solo):Ecco! – Ella vola. – Qual ventura!… Un biancoSalì destriero. – Oh meraviglia!… In centoLochi ad un tempo appar. – Già dalla mischiaHa tratto il re – Le turbe de’ nemiciS’arretrano sconvolte. – Ahi! tutto involveUn nuvolo di polve.</stage>
+          <stage>(Egli scende dalla ringhiera)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO TERZO</head>SCENA IVSoldati ed Ufficiali Francesi, Carlo e detto.CORO:Presa è la rôcca!<div type="scene">
+          <head>ATTO TERZO</head>SCENA IVSoldati ed Ufficiali Francesi, Carlo e detto.CORO:Presa è la rôcca!<sp who="#atto terzo">
+            <speaker>ATTO TERZO:</speaker>
+            <l>SCENA IV</l>
+            <l>Soldati ed Ufficiali Francesi, Carlo e detto.</l>
+            <l>CORO:</l>
+            <l>Presa è la rôcca!</l>
+          </sp>
+          <stage>ATTO TERZOSCENA IVSoldati ed Ufficiali Francesi, Carlo e detto.CORO:Presa è la rôcca!</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Di novel prodigio</l>
+            <l>Il ciel ne arrise – La seconda volta</l>
+            <l>Salvo per lei son io, per lei che a cieco</l>
+            <l>Di popolo furore</l>
+            <l>Abbandonai!…</l>
+          </sp>
+          <stage>GIACOMO (presentandosi):Me, me punisci!</stage>
+          <stage>CARLO (ravvisandolo):O vecchio,Io ti perdono. – In mia salute accorsa,Va, mi gridò la diva,Entra la rocca, e il padre mio difendi.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO TERZO</head>SCENA VDelil e detti.CARLO:Ebben? – Che rechi?… AncoraL’Anglo pugnar si attenta?…<div type="scene">
+          <head>ATTO TERZO</head>SCENA VDelil e detti.CARLO:Ebben? – Che rechi?… AncoraL’Anglo pugnar si attenta?…<sp who="#atto terzo">
+            <speaker>ATTO TERZO:</speaker>
+            <l>SCENA V</l>
+            <l>Delil e detti.</l>
+            <l>CARLO:</l>
+            <l>Ebben? – Che rechi?… Ancora</l>
+            <l>L’Anglo pugnar si attenta?…</l>
+          </sp>
+          <stage>ATTO TERZOSCENA VDelil e detti.CARLO:Ebben? – Che rechi?… AncoraL’Anglo pugnar si attenta?…</stage>
+          <sp who="#delil">
+            <speaker>DELIL::</speaker>
+            <l>Rotto è il nemico, ma Giovanna è spenta!</l>
+          </sp>
+          <stage>(Silenzio generale. Giacomo ha nascosto il canuto capo fra le mani. Il re guarda mestamente i suoi, si avanza lentamente, e dice col più profondo dolore)</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Quale più fido amico</l>
+            <l>Me col pugnal ferisce?…</l>
+            <l>Supplice a voi lo dico…</l>
+            <l>Il trono a chi l’ardisce!</l>
+            <l>Crudeli, orribil vita</l>
+            <l>Dunque lasciate al re?…</l>
+            <l>Oh fosse inaridita</l>
+            <l>Nell’anima la fè!</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>Un suon funereo – d’intorno spandesi.</l>
+          </sp>
+          <stage>CARLO (verso la scena):Ahi vista!</stage>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Oh figlia!</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO TERZO</head>SCENA ULTIMASoldati Francesi cogli stendardi, che precedono Giovanna, adagiata sulla bara. Popolo, uomini e donne. Detti.CORO:Non sembra un angelo – che a sonno placidoChini le ciglia?Lucente un’aura – sul viso candidoDal cielo piove;Dal frai virgineo – di puro effluvioUn’onda move!<div type="scene">
+          <head>ATTO TERZO</head>SCENA ULTIMASoldati Francesi cogli stendardi, che precedono Giovanna, adagiata sulla bara. Popolo, uomini e donne. Detti.CORO:Non sembra un angelo – che a sonno placidoChini le ciglia?Lucente un’aura – sul viso candidoDal cielo piove;Dal frai virgineo – di puro effluvioUn’onda move!<sp who="#atto terzo">
+            <speaker>ATTO TERZO:</speaker>
+            <l>SCENA ULTIMA</l>
+            <l>Soldati Francesi cogli stendardi, che precedono Giovanna, adagiata sulla bara. Popolo, uomini e donne. Detti.</l>
+            <l>CORO:</l>
+            <l>Non sembra un angelo – che a sonno placido</l>
+            <l>Chini le ciglia?</l>
+            <l>Lucente un’aura – sul viso candido</l>
+            <l>Dal cielo piove;</l>
+            <l>Dal frai virgineo – di puro effluvio</l>
+            <l>Un’onda move!</l>
+          </sp>
+          <stage>ATTO TERZOSCENA ULTIMASoldati Francesi cogli stendardi, che precedono Giovanna, adagiata sulla bara. Popolo, uomini e donne. Detti.CORO:Non sembra un angelo – che a sonno placidoChini le ciglia?Lucente un’aura – sul viso candidoDal cielo piove;Dal frai virgineo – di puro effluvioUn’onda move!</stage>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Gran Dio!… Silenzio – represso gemito</l>
+            <l>Mandò l’estinta.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Le luci s’aprono! -sorge!… oh miracolo!</l>
+            <l>Morte fu vinta.</l>
+          </sp>
+          <stage>(Giovanna levasi dritta, e si muove come investita da forza soprannaturale)</stage>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Che mai fu? – Dove son? –</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Fra’ tuoi guerrieri.</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>E presso il vecchio padre…</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Oh! non son io</l>
+            <l>Un’empia incantatrice!</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Un angelo tu sei!</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>Ma in nebbia folta</l>
+            <l>Chiusi eran gli occhi.</l>
+          </sp>
+          <sp who="#giovanna">
+            <speaker>GIOVANNA::</speaker>
+            <l>Oh padre!… Oh re!…  Miei prodi!…</l>
+            <l>Ben vi ravviso! – Ecco le franche insegne…</l>
+            <l>La mia dov’è?… ch’io la riporti al cielo,</l>
+            <l>Fidata messaggiera.</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Prendi… ma non lasciarne!</l>
+            <l>(Le presenta l’insegna)</l>
+          </sp>
+          <stage>CARLO:Prendi… ma non lasciarne!(Le presenta l’insegna)</stage>
+          <stage>GIOVANNA (rapita in estasi):Oh mia bandiera!S’apre il cielo… Discende la PiaChe parlar mi solea dalla balza…Mi sorride… mi addita una via…Pare accenni che seco mi vuol.Ecco!… nube dorata m’innalza…Oh!… l’usbergo tramutasi in ale!…Addio, terra!… Addio, gloria mortale…Alto io volo… già brillo nel Sol! –</stage>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Non lasciarne!… Deh vivi, deh vivi</l>
+            <l>Alla Francia, al tuo padre, al tuo re!</l>
+            <l>Non lasciarne, o fra i cori giulivi</l>
+            <l>Fa ch’io possa volare con te.</l>
+          </sp>
+          <sp who="#giacomo">
+            <speaker>GIACOMO::</speaker>
+            <l>La tua mano sul crine mio bianco</l>
+            <l>Posa, o figlia, e ne lava il fallir…</l>
+            <l>Io non piango… nell’animo stanco</l>
+            <l>È la speme di tosto morir.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO::</speaker>
+            <l>Oh prodigio!… D’insolito raggio</l>
+            <l>Si diffonde improvviso chiaror…</l>
+          </sp>
+          <sp who="#carlo">
+            <speaker>CARLO::</speaker>
+            <l>Vale, o diva!… Qual patrio retaggio</l>
+            <l>Tu vivrai d’ogni Franco nel cor.</l>
+          </sp>
+          <sp who="#coro di spiriti eletti">
+            <speaker>CORO DI SPIRITI ELETTI::</speaker>
+            <l>Torna, torna, esulante sorella,</l>
+            <l>Sopra i vanni dell’angelo al ciel!</l>
+            <l>È il Signore, il Signor che ti appella,</l>
+            <l>E ti cinge inconsutile vel.</l>
+          </sp>
+          <sp who="#coro di spiriti malvagi">
+            <speaker>CORO DI SPIRITI MALVAGI::</speaker>
+            <l>Più del fuoco che n’arde e ne scuoja,</l>
+            <l>Più che il bujo di notte crudel,</l>
+            <l>N’è tormento d’un’alma la gioja,</l>
+            <l>N’è supplizio il trionfo del ciel!…</l>
+          </sp>
+          <stage>(Giovanna cade; una siderea luce spandesi improvvisamente pel cielo. I soldati abbassano gli stendardi, tutti si prostrano innanzi al glorioso cadavere).</stage>
+          <sp who="#fine">
+            <speaker>FINE:</speaker>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

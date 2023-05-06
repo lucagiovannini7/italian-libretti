@@ -1,0 +1,1519 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">’amore dei tre re</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="arcibaldo">
+            <persName>ARCIBALDO:</persName>
+          </person>
+          <person xml:id="la vecchia">
+            <persName>LA VECCHIA:</persName>
+          </person>
+          <person xml:id="atto terzo">
+            <persName>ATTO TERZO:</persName>
+          </person>
+          <person xml:id="una vecchia">
+            <persName>UNA VECCHIA:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="manfredo">
+            <persName>MANFREDO:</persName>
+          </person>
+          <person xml:id="le donne">
+            <persName>LE DONNE:</persName>
+          </person>
+          <person xml:id="avito">
+            <persName>AVITO:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="fiora">
+            <persName>FIORA:</persName>
+          </person>
+          <person xml:id="ancella">
+            <persName>ANCELLA:</persName>
+          </person>
+          <person xml:id="flaminio">
+            <persName>FLAMINIO:</persName>
+          </person>
+          <person xml:id="un giovanetto">
+            <persName>UN GIOVANETTO:</persName>
+          </person>
+          <person xml:id="il giovanetto">
+            <persName>IL GIOVANETTO:</persName>
+          </person>
+          <person xml:id="archibaldo">
+            <persName>ARCHIBALDO:</persName>
+          </person>
+          <person xml:id="uomini">
+            <persName>UOMINI:</persName>
+          </person>
+          <person xml:id="archiraldo">
+            <persName>ARCHIRALDO:</persName>
+          </person>
+          <person xml:id="una giovinetta">
+            <persName>UNA GIOVINETTA:</persName>
+          </person>
+          <person xml:id="donne">
+            <persName>DONNE:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>(Spaziosa sala del Castello. Due archi ben misuratiaprono le belle curve alla vista di una terrazza acolonne, e della notte poco innanzi l’alba. Una lanterna, come un segnale, rossastramente splenderivolta verso la campagna. Nel buio della sala rilucono i mosaici del soffitto sopra le arcate, sopra le porte di destra e sinistra. Le colonne e i capitellimedioevali, incroci bizzarri ma armoniosi di stili,s’intrecciano e s’incontrano paurosamente. Un po’ disilenzio; quindi entra da sinistra Archibaldo vecchio e cieco barone; é condotto da Flaminio sua guida, che indossa il vestito delle guardie del castello. Le vesti di ognuno, ampie e lunghe, hanno linee pure,ieratiche)</stage>
+      <sp who="#archibaldo">
+        <speaker>ARCHIBALDO:</speaker>
+        <l>Grazie, Flaminio: guarda quella porta.</l>
+        <l>È chiusa bene?</l>
+      </sp>
+      <sp who="#flaminio">
+        <speaker>FLAMINIO:</speaker>
+        <l>Accostata; signore…</l>
+      </sp>
+      <sp who="#archibaldo">
+        <speaker>ARCHIBALDO:</speaker>
+        <l>Chiudila bene, ma senza rumore…</l>
+      </sp>
+      <stage>(Flaminio attraversa la stanza, s’avvicina alla porta di faccia)</stage>
+      <sp who="#archibaldo">
+        <speaker>ARCHIBALDO:</speaker>
+        <l>(pentito ; con premura)</l>
+        <l>No; lasciala! Che credi tu? Che senta?…</l>
+      </sp>
+      <stage>ARCHIBALDO(pentito ; con premura)No; lasciala! Che credi tu? Che senta?…</stage>
+      <sp who="#flaminio">
+        <speaker>FLAMINIO:</speaker>
+        <l>Chi, mio signore?</l>
+      </sp>
+      <sp who="#archibaldo">
+        <speaker>ARCHIBALDO:</speaker>
+        <l>(amaro)</l>
+        <l>Ma che sei? Stordito dal sonno?</l>
+        <l>Chi ci dorme mai, di là?…</l>
+      </sp>
+      <stage>ARCHIBALDO(amaro)Ma che sei? Stordito dal sonno?Chi ci dorme mai, di là?…</stage>
+      <sp who="#flaminio">
+        <speaker>FLAMINIO:</speaker>
+        <l>Fiora! La sposa del figliuolo vostro!</l>
+      </sp>
+      <sp who="#archibaldo">
+        <speaker>ARCHIBALDO:</speaker>
+        <l>Dorma; dorma: che giovinezza è sogno…</l>
+        <l>Non altro!</l>
+        <l>A me negato ora è sognare</l>
+        <l>chè il sonno mi tradisce e come un’ape</l>
+        <l>molesta scherza con le mie palpebre,</l>
+        <l>poi che la sorte m’ha seccato gli occhi…</l>
+      </sp>
+      <stage>(Dolorosamente)</stage>
+      <sp who="#flaminio">
+        <speaker>FLAMINIO:</speaker>
+        <l>È notte ancora; ma l’alba è vicina…</l>
+      </sp>
+      <sp who="#archibaldo">
+        <speaker>ARCHIBALDO:</speaker>
+        <l>Flaminio, guarda, indaga nella valle.</l>
+        <l>Io sento che Manfredo tornera.</l>
+      </sp>
+      <sp who="#flaminio">
+        <speaker>FLAMINIO:</speaker>
+        <l>Non può darsi,</l>
+        <l>se ancora egli combatte</l>
+        <l>i castelli dei nostri oltre que’ monti…</l>
+      </sp>
+      <sp who="#archibaldo">
+        <speaker>ARCHIBALDO:</speaker>
+        <l>Che dici tu: dei nostri?</l>
+      </sp>
+      <sp who="#flaminio">
+        <speaker>FLAMINIO:</speaker>
+        <l>Si; dei miei che voi già soggiogaste…</l>
+        <l>Io sono nato</l>
+        <l>sulle cime del colle là d’Altura,</l>
+        <l>dove nacque la nostra principessa…</l>
+        <l>Per aver pace</l>
+        <l>vi donammo Fiora…</l>
+        <l>Avito il giovane</l>
+        <l>principe nostro l’avrebbe sposata…</l>
+      </sp>
+      <sp who="#arcibaldo">
+        <speaker>ARCIBALDO:</speaker>
+        <l>(con insistenza)</l>
+        <l>Guarda, Flaminio; guarda nel la valle…</l>
+      </sp>
+      <stage>ARCIBALDO(con insistenza)Guarda, Flaminio; guarda nel la valle…</stage>
+      <sp who="#flaminio">
+        <speaker>FLAMINIO:</speaker>
+        <l>Nessuno, mio signore! Tutto pace!</l>
+      </sp>
+      <sp who="#archibaldo">
+        <speaker>ARCHIBALDO:</speaker>
+        <l>Sono stanco ed il sonno che mi fugge</l>
+        <l>mi lascia ancora più sperso nel buio…</l>
+      </sp>
+      <sp who="#flaminio">
+        <speaker>FLAMINIO:</speaker>
+        <l>(distrattamente)</l>
+        <l>Chi non dorme di notte o smania o prega…</l>
+      </sp>
+      <stage>FLAMINIO(distrattamente)Chi non dorme di notte o smania o prega…</stage>
+      <sp who="#archibaldo">
+        <speaker>ARCHIBALDO:</speaker>
+        <l>O ricorda!…</l>
+        <l>Il pensiero mio stanotte</l>
+        <l>ripercorre solingo la pianura</l>
+        <l>sconfinafa del viver mio trascorso…</l>
+      </sp>
+      <sp who="#flaminio">
+        <speaker>FLAMINIO:</speaker>
+        <l>Ricordate la vostra giovinezza…</l>
+      </sp>
+      <sp who="#archibaldo">
+        <speaker>ARCHIBALDO:</speaker>
+        <l>Italia! Italia…</l>
+        <l>è tutto il mio ricordo!…</l>
+      </sp>
+      <stage>(Maestoso)</stage>
+      <stage>(Pausa. A Flaminio)</stage>
+      <sp who="#flaminio">
+        <speaker>FLAMINIO:</speaker>
+        <l>(guardando il vecchio cieco ipocritamente)</l>
+        <l>Io vi son servo; e voi siete mio re!</l>
+      </sp>
+      <stage>FLAMINIO(guardando il vecchio cieco ipocritamente)Io vi son servo; e voi siete mio re!</stage>
+      <stage>(volendo sviare il suo pensiero)</stage>
+      <sp who="#archibaldo">
+        <speaker>ARCHIBALDO:</speaker>
+        <l>Adunque, spengila…</l>
+        <l>inutile segnale! Egli non giunge!…</l>
+      </sp>
+      <sp who="#flaminio">
+        <speaker>FLAMINIO:</speaker>
+        <l>(spegne la lanterna sulla terrazza e poi)</l>
+        <l>Andiamo, allora, mio signore…</l>
+      </sp>
+      <stage>FLAMINIO(spegne la lanterna sulla terrazza e poi)Andiamo, allora, mio signore…</stage>
+      <stage>(Lontano il suono di un flauto campestre)</stage>
+      <stage>(Turbato)</stage>
+      <stage>(Quasi lo trascina verso le sue stanze, a sinistra)</stage>
+      <sp who="#archibaldo">
+        <speaker>ARCHIBALDO:</speaker>
+        <l>Torniamo, si; torniamo nella notte…</l>
+      </sp>
+      <stage>(Esce guidato da Flaminio)</stage>
+      <stage>(Avito ravvolto in un mantello esce dalla porta didestra. Muove due o tre passi verso la terrazza. Indaga fuori; scruta il cielo; ascolta, esita un po’ siriavvicina alla porta d’onde è uscito; ma sulla soglia è apparsa la bianca figura di Fiora: i bei capelli corti inanellatti, vivi intorno a la testa. Sul suo corposnello una toga sottilissimma, bianca e avorio.)</stage>
+      <div type="act">
+        <head>AVITO</head>È ancora notte fonda.Troppo prestoGeronte ha datto il segno.<sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>È ancora notte fonda.</l>
+          <l>Troppo presto</l>
+          <l>Geronte ha datto il segno.</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Ritorniamo…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>No:</l>
+          <l>restiamo così sul limitare</l>
+          <l>della notte d’amore a dirci addio.</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Sì, restiamo così…</l>
+        </sp>
+        <stage>(Avvincendosi a lui)</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>(tremante ; accenna a sinistra)</l>
+          <l>È chiusa quella porta?</l>
+        </sp>
+        <stage>AVITO(tremante ; accenna a sinistra)È chiusa quella porta?</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>È chiusa; è chiusa.</l>
+          <l>Tu tremi, Avito!</l>
+          <l>E una infinita pace è nel mio petto…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Fiora, sì; lo sento,</l>
+          <l>ed ho paura di quella tua pace…</l>
+        </sp>
+        <stage>AVITOFiora, sì; lo sento,ed ho paura di quella tua pace…</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Dammi le labbra e tanta ti darò di questa pace!…</l>
+          <l>E poi la rivorrò,</l>
+          <l>implorandola disperatamente,</l>
+          <l>he senza le tue labbra non ho pace…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Se poi mi renderai tanta dolcezza</l>
+          <l>quanta è quella che dare ti vorrei,</l>
+          <l>struggimi tutto con il fuoco tuo,</l>
+          <l>perchè rinascerò.</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Sì, mio diletto!</l>
+          <l>Mio cuore ardente! la tua bocca è un fiore</l>
+          <l>d’ogni momento… Sì; perch’io lo colgo</l>
+          <l>ad ogni istante e sempre rifiorisce…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>(perdutamente, come un fanciullo ammalato)</l>
+          <l>Si…  rifiorisce…  Senza te patisce…</l>
+        </sp>
+        <stage>AVITO(perdutamente, come un fanciullo ammalato)Si…  rifiorisce…  Senza te patisce…</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(con lo stesso smarrimento)</l>
+          <l>E se lo bacio aulisce…</l>
+          <l>E illanguidisce l’anima che sta curva su quel fiore…</l>
+          <l>Avito; molle sogno…</l>
+        </sp>
+        <stage>FIORA(con lo stesso smarrimento)E se lo bacio aulisce…E illanguidisce l’anima che sta curva su quel fiore…Avito; molle sogno…</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>(C. S.)</l>
+          <l>Eterna febbre!…</l>
+        </sp>
+        <stage>AVITO(C. S.)Eterna febbre!…</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Incanto lungo… senza fine!…</l>
+        </sp>
+        <stage>(Si stringono perdutamente e si smarriscono nel bacio)</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>(come svegliandosi, si scioglie da lei)</l>
+          <l>Ahimè! Guarda; la luce già comincia,</l>
+          <l>il cielo imbianca…</l>
+        </sp>
+        <stage>AVITO(come svegliandosi, si scioglie da lei)Ahimè! Guarda; la luce già comincia,il cielo imbianca…</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Tu mi vuoi lasciare…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>(per fuggire)</l>
+          <l>È tardi!</l>
+        </sp>
+        <stage>AVITO(per fuggire)È tardi!</stage>
+        <stage>(Scorge la lanterna spenta. Atterrito)</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Il vento è stato…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>No; che la notte era cheta!…  Non rammenti?</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Ascolta!…  Corri!…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>(fugge dalla terrazza verso destra. Fiora lo </l>
+          <l>guarda, lo segue come a proteggerlo, poi corre </l>
+          <l>verso le sue stanze. Ma s’è aperta la porta di </l>
+          <l>sinistra ed e apparso Archibaldo solo)</l>
+        </sp>
+        <stage>AVITO(fugge dalla terrazza verso destra. Fiora lo guarda, lo segue come a proteggerlo, poi corre verso le sue stanze. Ma s’è aperta la porta di sinistra ed e apparso Archibaldo solo)</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Fiora! Fiora! Fiora!</l>
+        </sp>
+        <stage>(Celando agli orecchi del vecchio ogni suo movimento, Fiora cerca sparire silenziosa)</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(pertinace)</l>
+          <l>Tu sei costà… Ti sento rifiatare!</l>
+          <l>…    Affanni? Affanni?</l>
+          <l>O Fiora, di’: con chi parlavi, tu?</l>
+        </sp>
+        <stage>ARCHIBALDO(pertinace)Tu sei costà… Ti sento rifiatare!…    Affanni? Affanni?O Fiora, di’: con chi parlavi, tu?</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(con fermezza nuova)</l>
+          <l>Con me stessa parlavo!…</l>
+        </sp>
+        <stage>FIORA(con fermezza nuova)Con me stessa parlavo!…</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(lentamente s’avvicina a lei)</l>
+          <l>Non fuggire!</l>
+          <l>Resta! Voglio sapere!</l>
+        </sp>
+        <stage>ARCHIBALDO(lentamente s’avvicina a lei)Non fuggire!Resta! Voglio sapere!</stage>
+        <stage>(Ghermisce lei che s’è appoggiata ad una colonna.L’attira a sè: con la mano le indaga il volto, la sentefra le sue grandi braccia di vecchio eroe. Con voceplacata e con maraviglia)</stage>
+        <stage>(Più amoroso, con la gola quasi stretta da una nascente bontà paterna, senile)</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(con risolutezza continua; senza piegarsi;</l>
+          <l>rigidamente; ma con lieve tremito)</l>
+          <l>Nessuno, mio signore!</l>
+        </sp>
+        <stage>FIORA(con risolutezza continua; senza piegarsi;rigidamente; ma con lieve tremito)Nessuno, mio signore!</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(indagando)</l>
+          <l>Perchè tremi, se dici il vero?…</l>
+        </sp>
+        <stage>ARCHIBALDO(indagando)Perchè tremi, se dici il vero?…</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(subitamente pungendolo)</l>
+          <l>Ed anche voi tremate e non mentite…</l>
+        </sp>
+        <stage>FIORA(subitamente pungendolo)Ed anche voi tremate e non mentite…</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(impetuoso)</l>
+          <l>Fiora!</l>
+        </sp>
+        <stage>ARCHIBALDO(impetuoso)Fiora!</stage>
+        <stage>(Lieve pausa)</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(con ingenuità feroce)</l>
+          <l>Io son venuta, qua, sulla terrazza. ..</l>
+          <l>Non potevo dormire…  col pensiero…</l>
+        </sp>
+        <stage>FIORA(con ingenuità feroce)Io son venuta, qua, sulla terrazza. ..Non potevo dormire…  col pensiero…</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(improvviso, urlando)</l>
+          <l>Di chi? Di chi?…</l>
+        </sp>
+        <stage>ARCHIBALDO(improvviso, urlando)Di chi? Di chi?…</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(con semplicità)</l>
+          <l>Del mio sposo Manfredo!…</l>
+        </sp>
+        <stage>FIORA(con semplicità)Del mio sposo Manfredo!…</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Orrore! Orrore!</l>
+          <l>Oh, buio senza fine!</l>
+          <l>Tu sei di ferro; tu sei di catene</l>
+          <l>intorno alla mia testa!</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(riaccostandosi a lui con inganno)</l>
+          <l>Mio signore!…</l>
+        </sp>
+        <stage>FIORA(riaccostandosi a lui con inganno)Mio signore!…</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>No! Ferma! Non avvicinarti più!…</l>
+          <l>Ho per te come il terrore d’un bimbo…</l>
+          <l>E la persona tua, che dentro l’ombra</l>
+          <l>sentivo sorvolare come un ‘ala</l>
+          <l>di candore, mi par soffio di gelo,</l>
+          <l>brivido accusatore… sì che ancora,</l>
+          <l>mentre sento che tu qui, qui, tradivi,</l>
+          <l>io mi debbo abbracciar la tua menzogna,</l>
+          <l>e per non arrossire giudicandoti</l>
+          <l>debbo gridare: “No… no non tradiva!”…</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Signore!…</l>
+        </sp>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Va: non ti potrei toccare</l>
+          <l>altro che per ucciderti!</l>
+        </sp>
+        <sp who="#flaminio">
+          <speaker>FLAMINIO:</speaker>
+          <l>(di dentro)</l>
+          <l>Signore!</l>
+        </sp>
+        <stage>FLAMINIO(di dentro)Signore!</stage>
+        <stage>(Comparendo dalla terrazza)</stage>
+        <stage>(Giungono dal basso del castello squilli di trombe. La luce del giorno e molto cresciuta)</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(tremante)</l>
+          <l>È lui! Flaminio, va!…</l>
+          <l>Corrigli incontro…</l>
+        </sp>
+        <stage>ARCHIBALDO(tremante)È lui! Flaminio, va!…Corrigli incontro…</stage>
+        <stage>(Col pianto nella voce)</stage>
+        <stage>Io… sono cieco… Va!</stage>
+        <stage>(Flaminio esce correndo)</stage>
+        <stage>(a Fiora dopo una lunga pausa)</stage>
+        <stage>(Fiora tace)</stage>
+        <stage>(Fiora s’avvia lentamente verso le sue stanze.Un lieve sorriso crudelle di vittoria è sulsuo giovane viso bello… Sparisce.)</stage>
+        <stage>(aspetta il figlio dolorosamente immobile…)</stage>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>(di dentro)</l>
+          <l>Padre!</l>
+        </sp>
+        <stage>MANFREDO(di dentro)Padre!</stage>
+        <stage>(Apparisce dalla terrazza)</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Figliuolo mio! Giunge la luce con te!</l>
+        </sp>
+        <stage>(Si abbracciano)</stage>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>Troppo era lungo e tedioso</l>
+          <l>l’assedio per la mia brama ardentissima…</l>
+          <l>E son fuggito: e resterò con te</l>
+          <l>qualche giorno.</l>
+        </sp>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Potessi tu restare sempre!</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>Oh, si; presto finirà la guerra.</l>
+        </sp>
+        <stage>(Lieve pausa)</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Dorme.</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>Oh, padre mio,</l>
+          <l>questo ritorno m’e caro siccome</l>
+          <l>un premio lungamente atteso…</l>
+          <l>Nelle guerre</l>
+          <l>combattute, nel sangue, nella strage,</l>
+          <l>nell’orgia di vittoria, io sono stato</l>
+          <l>ferma colonna di virtu, si come</l>
+          <l>tu m’hai insegnato, padre!…</l>
+          <l>E Fiora. Fiora amare mi saprà;</l>
+          <l>chè tu educata l’avrai</l>
+          <l>come un’agnella di candore…</l>
+        </sp>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Godi la gioia tua!…</l>
+          <l>Fiora ti aspetta…</l>
+          <l>Anzi, ella giunge;…</l>
+          <l>sento i passi suoi…</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>lo non sento: ella vola…</l>
+        </sp>
+        <stage>(Si rivolge alla porta di destra. Apparisce Fiora)</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(con freddezza crudele, ma simile a bontà)</l>
+          <l>Siete tornato, signor mio?! Stamani,</l>
+          <l>prima dell’alba mi sono destata</l>
+          <l>e son venuta qui sulla terrazza;</l>
+          <l>ed ho guardato tanto nella valle…</l>
+          <l>Ero certa che voi sareste giunto…</l>
+        </sp>
+        <stage>FIORA(con freddezza crudele, ma simile a bontà)Siete tornato, signor mio?! Stamani,prima dell’alba mi sono destatae son venuta qui sulla terrazza;ed ho guardato tanto nella valle…Ero certa che voi sareste giunto…</stage>
+        <stage>(Ad Archibaldo)</stage>
+        <stage>(Archibaldo tace)</stage>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>È vero, padre mio?</l>
+        </sp>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Sì, si; l’ho… colta…</l>
+        </sp>
+        <stage>(riprendendosi)</stage>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>Oh; Fiora! Fiora!</l>
+          <l>Piccolo fiore, vieni sul mio petto;</l>
+          <l>qui, qui tra le mie braccia,</l>
+          <l>ch’io ti rechi,</l>
+          <l>come agnella sperduta e mansueta,</l>
+          <l>all’ovile dal mio cuore intessuto.</l>
+          <l>Oh; come tremi!…</l>
+        </sp>
+        <stage>(avviandosi)</stage>
+        <stage>(al padre)</stage>
+        <stage>(Entra nelle stanze di destra con Fiora abbracciata)</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(solo. Pausa)</l>
+          <l>Signore mio, se tu m’hai tolto gli occhi,</l>
+          <l>fa ch’io non veda… che sia cieco… cieco!…</l>
+        </sp>
+        <stage>ARCHIBALDO(solo. Pausa)Signore mio, se tu m’hai tolto gli occhi,fa ch’io non veda… che sia cieco… cieco!…</stage>
+      </div>
+      <div type="act">
+        <head>ATTO SECONDO</head>
+        <sp who="#atto secondo">
+          <speaker>ATTO SECONDO:</speaker>
+        </sp>
+        <stage>(Terrazza sulle alte mura del castello; unaterrazza tondeggiante. In cima al muro che la cinge, smerlato, più alto d’un uomo, si giunge con una scaletta a nietà del fondo. Una panchina di pietra larga un metro, alta fino al ginocchio, gira torno torno, accosto al muro. Si giunge per due porte laterali. Pomeriggio: il cielo scoperto è corso da nubi cangianti, estive. Squilli di trombachiamano a raccolta. Entrano da sinistra Manfredo e Fiora abbracciati. – Fiora è adorna semplicemente e mirabilmente)</stage>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>(a Fiora)</l>
+          <l>Dimmi, Fiora, perchè ti veggo ancora</l>
+          <l>così chiusa dinanzi al mio dolore?…</l>
+          <l>Io parto, Fiora, io parto ancora…</l>
+          <l>ancora… e sono così scosso che mi pare</l>
+          <l>per un viaggio eterno, di partire…</l>
+        </sp>
+        <stage>MANFREDO(a Fiora)Dimmi, Fiora, perchè ti veggo ancoracosì chiusa dinanzi al mio dolore?…Io parto, Fiora, io parto ancora…ancora… e sono così scosso che mi pareper un viaggio eterno, di partire…</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Mio signore, v’ho detto che la vostra</l>
+          <l>partenza così prossima turbó</l>
+          <l>la gioia ch’ebbi dal vostro ritorno…</l>
+          <l>E perciò son così, senza parole…</l>
+          <l>Io poco vi conosco, chè voi siete</l>
+          <l>sempre lontario;</l>
+          <l>e quando ritornate</l>
+          <l>pur mi dite: fra poco partirò…</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>No; Fiora, Fiora: tu mi parli come</l>
+          <l>ad un nemico che ti chiede pace.</l>
+          <l>Intendi, Fiora? Intendi il mio dolore?</l>
+          <l>O dimmi tu: che cosa t’adolora?</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Nulla, signore, m’addolora;</l>
+          <l>solo – che voi partiate;</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>Tornerei</l>
+          <l>per te, per te, per la tua cara vita</l>
+          <l>che voglio tutta cingere d’amore…</l>
+          <l>Oh, Fiora: dammi alcuna Cosa tua</l>
+          <l>che mi possa tenere presso al cuore,</l>
+          <l>mentre sarò lontano.</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Che volete?</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>Che scegli tu?</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(con arcano dolore traboccante)</l>
+          <l>Volete la mia vita!…</l>
+        </sp>
+        <stage>FIORA(con arcano dolore traboccante)Volete la mia vita!…</stage>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>(con pietosa mansuetudine)</l>
+          <l>Fanciulla, tu non puoi nulla donarmi,</l>
+          <l>per placare il mio cuore che per ora</l>
+          <l>t’è ignoto! Solamente io posso chiederti –</l>
+          <l>un dono che mi dia per poco pace;</l>
+          <l>e te lo chieggo.</l>
+        </sp>
+        <stage>MANFREDO(con pietosa mansuetudine)Fanciulla, tu non puoi nulla donarmi,per placare il mio cuore che per orat’è ignoto! Solamente io posso chiederti –un dono che mi dia per poco pace;e te lo chieggo.</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Che?</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>(dopo una pausa dolorosamente)</l>
+          <l>Suonata è l’ora della partenza.</l>
+          <l>I miei prodi compagni</l>
+          <l>m’aspettano sul ponte: impazienti</l>
+          <l>sono i cavalli;</l>
+          <l>un fremito di vita e di conquista</l>
+          <l>tremola nell’aria rossa.</l>
+          <l>Si parte. I miei compagni fidi</l>
+          <l>sono lieti. Giù, giù per l’ampia valle</l>
+          <l>si scende.</l>
+          <l>Si divincolano i sogni</l>
+          <l>d’ebbrezza dalle loro menti giovani.</l>
+          <l>In mezzo a loro io sono cupo e solo…</l>
+          <l>Dentro mi piange lacrime dogliose</l>
+          <l>tutta l’unianità, perch’io mi dolgo</l>
+          <l>dell’amor mio lasciato e vado solo,</l>
+          <l>senza conforto… Ho perso ogni mio belle,</l>
+          <l>sono forse cacciato dalla gioia…</l>
+          <l>Perchè, se tanto amore è dentro me?…</l>
+          <l>E mi volto e riguardo sopra il colle</l>
+          <l>questo castello che rosseggia al sole.</l>
+        </sp>
+        <stage>MANFREDO(dopo una pausa dolorosamente)Suonata è l’ora della partenza.I miei prodi compagnim’aspettano sul ponte: impazientisono i cavalli;un fremito di vita e di conquistatremola nell’aria rossa.Si parte. I miei compagni fidisono lieti. Giù, giù per l’ampia vallesi scende.Si divincolano i sognid’ebbrezza dalle loro menti giovani.In mezzo a loro io sono cupo e solo…Dentro mi piange lacrime dogliosetutta l’unianità, perch’io mi dolgodell’amor mio lasciato e vado solo,senza conforto… Ho perso ogni mio belle,sono forse cacciato dalla gioia…Perchè, se tanto amore è dentro me?…E mi volto e riguardo sopra il collequesto castello che rosseggia al sole.</stage>
+        <stage>(pausa)</stage>
+      </div>
+      <div type="act">
+        <head>FIORA</head>(finalmente commossa, con sincera pietà)E questo sarà fatto…<sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(finalmente commossa, con sincera pietà)</l>
+          <l>E questo sarà fatto…</l>
+        </sp>
+        <stage>FIORA(finalmente commossa, con sincera pietà)E questo sarà fatto…</stage>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>Ora ti lascio…</l>
+          <l>E volerò, perchè quasi m’è caro</l>
+          <l>partire, per vederti salutarmi… Addio, Fiora…</l>
+        </sp>
+        <stage>(La bacia; si stacca subito dal bacio; fugge quasi volando, poichè il pianto lo punge)</stage>
+        <stage>(Fiora più liberata da lui cerca come sciogliersi daquell’abbraccio che le è rimasto alla persona. Siavvicina poi al muro smerlato: monta i gradini della scaletta; si sporge. Ma ecco cautamente e come in sogno Avito, da destra. È vestito comeFlaminio, come le guardie del castello)</stage>
+      </div>
+      <div type="act">
+        <head>AVITO</head>(si guarda attorno, scorge Fiora. Lassù)¡Oh!… Fiora! Fiora!<sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>(si guarda attorno, scorge Fiora. Lassù)</l>
+          <l>¡Oh!… Fiora! Fiora!</l>
+        </sp>
+        <stage>AVITO(si guarda attorno, scorge Fiora. Lassù)¡Oh!… Fiora! Fiora!</stage>
+        <stage>(Ella si volta; prima non lo riconosce con quelle sue vesti)</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>iMa che?! Ma che?! Forse da quella notte…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Fui qui, fui qui, sempre vicino a te</l>
+          <l>con l’anima e la mente mia che perdesi…</l>
+          <l>Flaminio m’ha vestito ora cosi</l>
+          <l>per potermi nascondere… e vederti…</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(con improvvisa disperazione)</l>
+          <l>Non posso piú vederti… Non ti debbo amar più…</l>
+          <l>La tua voce, oh, non risuoni</l>
+          <l>più nell’orecchie mie… Ti prego; va…</l>
+        </sp>
+        <stage>FIORA(con improvvisa disperazione)Non posso piú vederti… Non ti debbo amar più…La tua voce, oh, non risuonipiù nell’orecchie mie… Ti prego; va…</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Io non intendo, Fiora! Sei tu, Fiora,</l>
+          <l>Fiora, che parli a me?</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Si ; mille volte;</l>
+          <l>sì, mille, mille: disperatamente.</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Sei mille volte mia? Che dici?</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>No!</l>
+          <l>Silenzio fosco e dentro la mia vita</l>
+          <l>e terrore d’intorno… Vinta, vinta</l>
+          <l>sono dalla pietà,… dalla bontà…</l>
+          <l>Ohimè: non senti il mio sposo che parte?…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Perchè non dici, il mio sposo che giunge?…</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Lasciami in pace. Lasciami al mio pianto…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Lasciarti, Fiora! E dove andare, Fiora?</l>
+          <l>Dove vo? Dove cerco la mia vita?…</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Nasconditi. Qualcuno deve giungere.</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>(sempre como trasognato)</l>
+          <l>Andrò; si: fuggirò…</l>
+        </sp>
+        <stage>AVITO(sempre como trasognato)Andrò; si: fuggirò…</stage>
+        <stage>(S’avvia)</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Fuggi: ti prego!</l>
+        </sp>
+        <stage>(Avito fugge da destra. Fiora scende la scaletta. Entra dopo un istante l’Ancella da sinistra)</stage>
+        <sp who="#ancella">
+          <speaker>ANCELLA:</speaker>
+          <l>(recando un cofanetto intarsiato)</l>
+          <l>Il barone Manfredo questo dono</l>
+          <l>vi manda, baronessa…</l>
+        </sp>
+        <stage>ANCELLA(recando un cofanetto intarsiato)Il barone Manfredo questo donovi manda, baronessa…</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(con infinita malinconia)</l>
+          <l>Metti là!</l>
+        </sp>
+        <stage>FIORA(con infinita malinconia)Metti là!</stage>
+        <stage>(Addita la panchina di pietra. L’ancella posa ilcofanetto sulIa panchina. Esce. Fiora si approssima al cofano; lo apre lentamente; trae fuorilentissimamente un velo bianco lungo. Le braccia lecadono giù come morte; e con esse il velo. Resta, unpoco immobile, muta, senza pianto e senza vita. Poi si ricorda della promessa e s’accosta, recando il velo,al muro. Monta sulla scaletta; guarda giù; vede nellavalle i cavalieri che si allontanano ed agita per la prima volta il velo;… per la seconda ancora; e per la terza; e sempre il braccio le cade giù stanco.Maritorna Avito)</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Addio, Fiora; ho voluto rivederti…</l>
+          <l>Debbo partire; ma senza ritorno…</l>
+          <l>Addio, Fiora; se non vuoi darmi un bacio</l>
+          <l>che sarebbe principio della vita,</l>
+          <l>fammi toccare quel tuo velo bianco</l>
+          <l>che certo sa la tua molle fragranza…</l>
+        </sp>
+        <stage>(Cerca prendere il velo di lei)</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(che ha ascoltato le sue parole </l>
+          <l>prostrata; ritraendosi)</l>
+          <l>Non toccarlo!…</l>
+        </sp>
+        <stage>FIORA(che ha ascoltato le sue parole prostrata; ritraendosi)Non toccarlo!…</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Nulla di te più, dunque, m’appartiene?…</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>FIORA</head>(guardandolo compassionevolemente tuttodimenticando all’ improvviso; con altra voce)Come sei bianco… Come sei disiatto…Sembri un giglio, amorosa creatura…<sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(guardandolo compassionevolemente tutto</l>
+          <l>dimenticando all’ improvviso; con altra voce)</l>
+          <l>Come sei bianco… Come sei disiatto…</l>
+          <l>Sembri un giglio, amorosa creatura…</l>
+        </sp>
+        <stage>FIORA(guardandolo compassionevolemente tuttodimenticando all’ improvviso; con altra voce)Come sei bianco… Come sei disiatto…Sembri un giglio, amorosa creatura…</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Il veleno d’amore e assai più forte</l>
+          <l>del sonno e della fame; ed oramai</l>
+          <l>più forte della vita…</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Vita tua è vita mia! Ma che pietà, che arcano</l>
+          <l>gorgo di bene ora m’invade!… Avito,</l>
+          <l>ahimè… Tu sei come una frasca troppo</l>
+          <l>esposta ai venti; il male t’ha stremato,</l>
+          <l>il male ch’io t’ho dato.</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>(avidamente)</l>
+          <l>E tutto il bene</l>
+          <l>rendimi senza indugio con un bacio!</l>
+          <l>Oh, Fiora, scendi, scendi…</l>
+        </sp>
+        <stage>AVITO(avidamente)E tutto il benerendimi senza indugio con un bacio!Oh, Fiora, scendi, scendi…</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>No: non debbo!</l>
+        </sp>
+        <stage>(Si ricorda dolorosamente del voto e agita il velo. Avito si avvicina a lei)</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Non salire quassù!</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Fiora; perchè?</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Non domandarmi…</l>
+        </sp>
+        <stage>(Agita il velo)</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Allora fuggirò…</l>
+          <l>Io sono così stanco che non posso</l>
+          <l>quasi più trascinarmi…</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Avito! Resta…</l>
+          <l>Non domandare…</l>
+          <l>Avvicinati… Bacia la mia veste…</l>
+          <l>giù sulla balza d’oro…</l>
+          <l>Io l’ho trapunta!…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>(corre subito. Stringe la sua veste; la bacia)</l>
+          <l>Ah! Sento le tue dita ancora sopra,</l>
+          <l>accarezzanti il bel ricamo! Io bacio</l>
+          <l>le tue mani, cosi… Ma stranamente</l>
+          <l>aspri sono i miei baci, quasi che</l>
+          <l>l’ago tu avessi qui lasciato infisso…</l>
+        </sp>
+        <stage>AVITO(corre subito. Stringe la sua veste; la bacia)Ah! Sento le tue dita ancora sopra,accarezzanti il bel ricamo! Io baciole tue mani, cosi… Ma stranamenteaspri sono i miei baci, quasi chel’ago tu avessi qui lasciato infisso…</stage>
+        <stage>(Le sue labbra avidamente si dissetano)</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(vuole ancora agitare il velo: ma non </l>
+          <l>può: le braccia cadono: il capo si piega)</l>
+          <l>Ah ; tortura! indicibile contrasto!</l>
+        </sp>
+        <stage>FIORA(vuole ancora agitare il velo: ma non può: le braccia cadono: il capo si piega)Ah ; tortura! indicibile contrasto!</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>(come un fanciullo)</l>
+          <l>Io non ascolto più! Dentro il rosaio</l>
+          <l>ho immerso la mia testa… Nelle orecchie</l>
+          <l>sento i fuchi ronzarmi i loro incanti</l>
+          <l>di vecchi maghi, e il petto mi si piena</l>
+          <l>di liquori olezzanti…</l>
+        </sp>
+        <stage>AVITO(come un fanciullo)Io non ascolto più! Dentro il rosaioho immerso la mia testa… Nelle orecchiesento i fuchi ronzarmi i loro incantidi vecchi maghi, e il petto mi si pienadi liquori olezzanti…</stage>
+        <stage>(La stringe a’ ginocchi)</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(accasciata, attratta)</l>
+          <l>Avito, ahimè; tu pesi come piombo!…</l>
+          <l>Tu mi trascini!</l>
+        </sp>
+        <stage>FIORA(accasciata, attratta)Avito, ahimè; tu pesi come piombo!…Tu mi trascini!</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Ah! La tua fresca voce</l>
+          <l>ch’io sento costassù, come m’incanta!…</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Avito! Avito!</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Io stringo al petto mio</l>
+          <l>un gran fascio di fiori soavissimi!</l>
+          <l>Ma i lunghi steli solamente stringo!</l>
+          <l>Non vorrò, dunque, immergere la testa</l>
+          <l>nelle corolle?!</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Avito! ahimè, non sai!</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Fossi tu pure, non un fascio bello</l>
+          <l>di fiori; ma una ruvida forcata</l>
+          <l>di spini, che bruciassero lassù,</l>
+          <l>vorrei tuffar nel fuoco la mia vita</l>
+          <l>per trovarvi la morte e la tua bocca!…</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Avito, no!</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>La bocca tua! La bocca tua, Fiora! Fiora!</l>
+          <l>Disperatamente io chieggo la tua bocca!</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(abbandonandosi, vinta)</l>
+          <l>Ahimè! Si piega</l>
+          <l>il voto mio, com’albero pietoso</l>
+          <l>a chi muore di sete…</l>
+        </sp>
+        <stage>FIORA(abbandonandosi, vinta)Ahimè! Si piegail voto mio, com’albero pietosoa chi muore di sete…</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Ho sete! Ho sete!</l>
+        </sp>
+        <stage>(accoglie lei che, scendendo i gradini, cade nelle sue braccia. Si baciano come fossero moribondid’amore. Muovono quindi verso la panchina. Fiora si abbandona appoggiando la testa sul petto di Avito)</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(dopo una pausa)</l>
+          <l>Come tremi, diletto!…</l>
+        </sp>
+        <stage>FIORA(dopo una pausa)Come tremi, diletto!…</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>L’amor tuo,</l>
+          <l>che mi ricopre tutto, ora mi fa</l>
+          <l>sentire il gelo della solitudine…</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(carezzosa: tutto dimenticando)</l>
+          <l>Pensando a Fiora, non dormivi più…</l>
+        </sp>
+        <stage>FIORA(carezzosa: tutto dimenticando)Pensando a Fiora, non dormivi più…</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>(quasi imitando la sua voce)</l>
+          <l>Pensando a Fiora, non vivevo più…</l>
+        </sp>
+        <stage>AVITO(quasi imitando la sua voce)Pensando a Fiora, non vivevo più…</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Mio diletto!…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Guarda in sù…</l>
+          <l>siamo in cielo… Si naviga nel cielo;…</l>
+          <l>si molleggia sull’etere…</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(come in sogno)</l>
+          <l>Nel cielo…</l>
+        </sp>
+        <stage>FIORA(come in sogno)Nel cielo…</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Oh, Fiora, dove siamo? Io mi smarrisco…</l>
+          <l>il viso tuo; che più non lo rammento!. ..</l>
+        </sp>
+        <stage>(Le prende il volto con dolce furore e lo contempla follemente)</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(con estasi)</l>
+          <l>Incatenami, dunque…</l>
+          <l>In un occhio si può chiudere</l>
+          <l>il cielo… Tu potrai con la tua bocca</l>
+          <l>chiudere la mia vita… Prendi… Prendila…</l>
+        </sp>
+        <stage>FIORA(con estasi)Incatenami, dunque…In un occhio si può chiudereil cielo… Tu potrai con la tua boccachiudere la mia vita… Prendi… Prendila…</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Eccoti, Fiora, un bacio bello,… l’ultimo,</l>
+          <l>l’ultimo d’ un’ infinità di baci,…</l>
+          <l>il primo, il primo d’un’eternità…</l>
+        </sp>
+        <stage>(si baciano e restano peidutamente avvinti aboliti nella loro nube amorosa)</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(di dentro)</l>
+          <l>Fiora!</l>
+        </sp>
+        <stage>ARCHIBALDO(di dentro)Fiora!</stage>
+        <stage>(Subito fuori seguitio da Flaminio)</stage>
+        <stage>(i due amanti che non hanno sentito il primo grido del vecchio, si sciolgono ora come da un sogno. Avito appena riacquistata la pienezza  delle sue forze, si slancia contro il vecchio,  avendo levato il  pugnale. Flaminio che segue Archibaldo lo ferma col gesto. Fiora rispondendo al vecchio col gestoscongiura Avito di fuggire)Son qua!</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(con ansia e sospetto, a Flaminio)</l>
+          <l>Guarda, Flaminio, chi c’è?</l>
+        </sp>
+        <stage>ARCHIBALDO(con ansia e sospetto, a Flaminio)Guarda, Flaminio, chi c’è?</stage>
+        <sp who="#flaminio">
+          <speaker>FLAMINIO:</speaker>
+          <l>Non c’è nessuno!…</l>
+        </sp>
+        <stage>(Avito esce)</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(che ha sentito il suo passo, amaramente dice)</l>
+          <l>Sta bene!… Fiora, dove sei?…</l>
+        </sp>
+        <stage>ARCHIBALDO(che ha sentito il suo passo, amaramente dice)Sta bene!… Fiora, dove sei?…</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Sono qua!…</l>
+        </sp>
+        <stage>(Ella resta più indietro a destra. Archibaldo ha la prova del vero: ha udito: ha visto)</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(violento)</l>
+          <l>Va via, Flaminio!</l>
+        </sp>
+        <stage>ARCHIBALDO(violento)Va via, Flaminio!</stage>
+        <sp who="#flaminio">
+          <speaker>FLAMINIO:</speaker>
+          <l>(quasi balbettando)</l>
+          <l>Udite, Monsignore…</l>
+          <l>Il Barone ritorna: ha rivoltato il cavallo…</l>
+        </sp>
+        <stage>FLAMINIO(quasi balbettando)Udite, Monsignore…Il Barone ritorna: ha rivoltato il cavallo…</stage>
+        <stage>(Salta sulla panchina e guarda nella valle)</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(fremente)</l>
+          <l>Ritorna certamente!…</l>
+        </sp>
+        <stage>ARCHIBALDO(fremente)Ritorna certamente!…</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(ricordando il suo voto)</l>
+          <l>Ritorna?!</l>
+        </sp>
+        <stage>FIORA(ricordando il suo voto)Ritorna?!</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Su: Flaminio; vagli incontro…</l>
+        </sp>
+        <sp who="#flaminio">
+          <speaker>FLAMINIO:</speaker>
+          <l>(insistendo)</l>
+          <l>Signore!…</l>
+        </sp>
+        <stage>FLAMINIO(insistendo)Signore!…</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Va!</l>
+        </sp>
+        <stage>(Flaminio esce correndo)</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Fiora, dove sei tu?…</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Signore!…</l>
+        </sp>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(tremante d’ira e di giustizia)</l>
+          <l>La tua voce menzognera ancora mi ferisce?!</l>
+        </sp>
+        <stage>ARCHIBALDO(tremante d’ira e di giustizia)La tua voce menzognera ancora mi ferisce?!</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Monsignore!…</l>
+        </sp>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Chi era qui con te?</l>
+          <l>chi ci tradiva?…</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Nessuno!</l>
+        </sp>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Fiora!</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(accovacciandosi, come per isparire,</l>
+          <l>sulla panchina, accosto al muro)</l>
+          <l>Nessuno! Nessuno!</l>
+        </sp>
+        <stage>FIORA(accovacciandosi, come per isparire,sulla panchina, accosto al muro)Nessuno! Nessuno!</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Ho udito il passo suo…</l>
+        </sp>
+        <stage>(La ghermisce)</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(improvvisamente ergendosi como la serpe)</l>
+          <l>Allora… Allora… Quello ch’è fuggito</l>
+          <l>era l’amore mio; era il mio bene…</l>
+          <l>E voi, tremendo vecchio, che mi siete</l>
+          <l>addosso come la vendetta, come</l>
+          <l>la morte,… non mi fate più terrore,</l>
+          <l>ora che penso a lui!</l>
+        </sp>
+        <stage>FIORA(improvvisamente ergendosi como la serpe)Allora… Allora… Quello ch’è fuggitoera l’amore mio; era il mio bene…E voi, tremendo vecchio, che mi sieteaddosso come la vendetta, comela morte,… non mi fate più terrore,ora che penso a lui!</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Dimmi il suo nome!</l>
+          <l>Fa ch’ io lo conosca</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Ch’io parli con Manfredo, che ritorna…</l>
+          <l>La sua bontà!</l>
+        </sp>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(buttandola, con violenza, distesa sulla panchina)</l>
+          <l>No! No! Perdonerebbe,</l>
+          <l>e gli ho insegnato io questa virtù senza gioia!</l>
+        </sp>
+        <stage>ARCHIBALDO(buttandola, con violenza, distesa sulla panchina)No! No! Perdonerebbe,e gli ho insegnato io questa virtù senza gioia!</stage>
+        <stage>(ha preso la sua gola)</stage>
+        <stage>(Fiora è distesa sulla panca; il vecchio la ricopre con la sua vasta persona. Si sente la sua voce ferma)</stage>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>Ei non ha nome, poi ch’è più di tutto…</l>
+        </sp>
+        <sp who="#archiraldo">
+          <speaker>ARCHIRALDO:</speaker>
+          <l>Traditrice… La tua gola lo serra</l>
+          <l>questo nome… La mano mia lo stringe…</l>
+          <l>Dillo!… Bada: Manfredo s’avvicina</l>
+          <l>e perdona… Non io, se tu non parli…</l>
+          <l>Dillo ; dillo!</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(chiaramente)</l>
+          <l>Si chiama: dolce morte!</l>
+        </sp>
+        <stage>FIORA(chiaramente)Si chiama: dolce morte!</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Ma se tu muori, io lo saprò ghermire I’amor tuo…</l>
+        </sp>
+        <sp who="#fiora">
+          <speaker>FIORA:</speaker>
+          <l>(ergendosi improvvisamente)</l>
+          <l>No! No! Allora, fammi vivere</l>
+          <l>per difenderlo: non per accusarlo…</l>
+        </sp>
+        <stage>FIORA(ergendosi improvvisamente)No! No! Allora, fammi vivereper difenderlo: non per accusarlo…</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(stringendo la sua gola)</l>
+          <l>Ah! gola audace! Gola menzognera!…</l>
+        </sp>
+        <stage>ARCHIBALDO(stringendo la sua gola)Ah! gola audace! Gola menzognera!…</stage>
+        <stage>(il vecchio si stacca dal corpo di lei atterrito. Pausa orrenda)</stage>
+        <stage>(Con terrore e disperazione)</stage>
+        <stage>(ritoma presto il corpo di Fiora come a nasconderlodietro la sua persona: così attende il figlio. S’avvicina il tramonto. Nel cielo nubi rossastre)MANFREDO(di dentro, a pena, con voce anelante)Fiora! Mia Fiora! Sei caduta, sei?…</stage>
+        <stage>(Eccolo)</stage>
+        <sp who="#archiraldo">
+          <speaker>ARCHIRALDO:</speaker>
+          <l>(disperatamente)</l>
+          <l>La tua spada, perch’io me la conficchi</l>
+          <l>nel petto e cada sopra lei ch’è morta!…</l>
+        </sp>
+        <stage>ARCHIRALDO(disperatamente)La tua spada, perch’io me la conficchinel petto e cada sopra lei ch’è morta!…</stage>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>Morta! Morta!</l>
+        </sp>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Deh! Non avvicinarti!</l>
+          <l>Io l’ho uccisa!</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>Che dici tu? Che dici?!</l>
+          <l>Morta ella?! Non più</l>
+          <l>esistere?! Non più?! C’e cosi grande</l>
+          <l>orrore che pareggi quest’orrore</l>
+          <l>della mancanza di lei per il mondo?…</l>
+        </sp>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Impura ell’era si come la notte!…</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>Impura?! Che di’ tu? Come ragioni?</l>
+        </sp>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Impura! Ti tradiva in casa tua,</l>
+          <l>qui, qui, mentre la mano sua mendace</l>
+          <l>agitava quel velo che le desti,</l>
+          <l>la vampata d’amore le lambiva</l>
+          <l>la veste e nella colpa più crudele</l>
+          <l>la trascinava ancora: io l’ ho sorpresa!…</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>(a sè stesso, profondamente)</l>
+          <l>Di tanto amore era dunque capace</l>
+          <l>quel suo cuore fanciullo: e non per me?</l>
+        </sp>
+        <stage>MANFREDO(a sè stesso, profondamente)Di tanto amore era dunque capacequel suo cuore fanciullo: e non per me?</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Figlio, il tuo cuore è più freddo di lei!…</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>(con disperazione)</l>
+          <l>Ed ama tanto!…</l>
+          <l>Ed ama oltre la vita!…</l>
+          <l>Lascia ch’io pianga sopra il petto suo!…</l>
+        </sp>
+        <stage>MANFREDO(con disperazione)Ed ama tanto!…Ed ama oltre la vita!…Lascia ch’io pianga sopra il petto suo!…</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Tu puoi; tu puoi sposare la tua bocca</l>
+          <l>a quella dell’ ignoto predatore?!</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>(disperatamente)</l>
+          <l>Ma dimmi, dunque! Dimmi tu: chi era?</l>
+        </sp>
+        <stage>MANFREDO(disperatamente)Ma dimmi, dunque! Dimmi tu: chi era?</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(dolorosamente)</l>
+          <l>Ahime ch’io sono cieco, e non l’ho scorto!</l>
+          <l>Ma, illuminato dalla mia vendetta,</l>
+          <l>io frugherò nell’ombra dove il male</l>
+          <l>s’annida e lo vedrò e, ferocemente,</l>
+          <l>lo ghermirò per la tua gioia!…</l>
+        </sp>
+        <stage>ARCHIBALDO(dolorosamente)Ahime ch’io sono cieco, e non l’ho scorto!Ma, illuminato dalla mia vendetta,io frugherò nell’ombra dove il males’annida e lo vedrò e, ferocemente,lo ghermirò per la tua gioia!…</stage>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>(ripreso dal pensiero di Fiora, implorando)</l>
+          <l>Padre mio!</l>
+        </sp>
+        <stage>MANFREDO(ripreso dal pensiero di Fiora, implorando)Padre mio!</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>No! Fermati.</l>
+          <l>Vedresti alla sua gola la collana</l>
+          <l>di morte delle mie dita paterne…</l>
+        </sp>
+        <stage>(Manfredo indietreggia)</stage>
+        <stage>(Mnafredo esce lentamente da sinistra, mutonell’immenso dolore. Archibaldo si carica sul petto la morta e s’avvia seguendo il figlio)</stage>
+      </div>
+      <div type="act">
+        <head>ATTO TERZO</head>
+        <sp who="#atto terzo">
+          <speaker>ATTO TERZO:</speaker>
+        </sp>
+        <stage>(La cripta della chiesa del castello. Nel mezzo èFiora, vestita di bianco, distesa su di un letto difiori. Un gruppo di donne velate giovani e vecchiele sta  d’intorno, ma con timorosa distanza. Ungruppo d’uomini è più in fondo. Dall’interno dellachiesa giunge la voce del Coro)COROMorte in gelido stupore;vita in orrida pauragiaceranno quel dì che il Creatoretrarrà dal buio la sua creatura.Ogni affetto è cosa vanaogni luce ottenebrata.L’amore nascerà come fontanadal seno della terra liberatail di che il Creatoredarà la luce alla sua creatura.</stage>
+        <stage>(Finita la muta preghiera, le donne rialzano le teste addolorate)</stage>
+        <sp who="#una giovinetta">
+          <speaker>UNA GIOVINETTA:</speaker>
+          <l>(si leva di mezzo al gruppo delle donne)</l>
+          <l>Venni piangendo in questa strana terra</l>
+          <l>a rivederti, o nostra principessa!</l>
+          <l>Ho trovato di pianto il mondo pieno…</l>
+          <l>Mi vedi? Io torno per la terza volta.</l>
+        </sp>
+        <stage>UNA GIOVINETTA(si leva di mezzo al gruppo delle donne)Venni piangendo in questa strana terraa rivederti, o nostra principessa!Ho trovato di pianto il mondo pieno…Mi vedi? Io torno per la terza volta.</stage>
+        <sp who="#uomini">
+          <speaker>UOMINI:</speaker>
+          <l>(dal fondo con voci soavi)</l>
+          <l>Fiora, Fiora, non dài tu la risposta?…</l>
+        </sp>
+        <stage>UOMINI(dal fondo con voci soavi)Fiora, Fiora, non dài tu la risposta?…</stage>
+        <sp who="#un giovanetto">
+          <speaker>UN GIOVANETTO:</speaker>
+          <l>(levandosi di mezzo al grupo)</l>
+          <l>Ella par viva… Stanca, pare…</l>
+        </sp>
+        <stage>UN GIOVANETTO(levandosi di mezzo al grupo)Ella par viva… Stanca, pare…</stage>
+        <sp who="#donne">
+          <speaker>DONNE:</speaker>
+          <l>Siamo tutte per la gran doglia perse e morte!…</l>
+        </sp>
+        <sp who="#il giovanetto">
+          <speaker>IL GIOVANETTO:</speaker>
+          <l>Anche prima era un sogno ed era viva!…</l>
+        </sp>
+        <sp who="#uomini">
+          <speaker>UOMINI:</speaker>
+          <l>Lamento senza fine!…</l>
+          <l>Chi ci rende</l>
+          <l>il giglio, che venuto è ormai l’autunno…</l>
+          <l>La primavera fu uccisa tra’ fiori!…</l>
+        </sp>
+        <sp who="#una vecchia">
+          <speaker>UNA VECCHIA:</speaker>
+          <l>(che si sarà accostata a Fiora indagando. </l>
+          <l>Improvvisa e furibonda)</l>
+          <l>Alzate, tutti, gli occhi in volto a lei…</l>
+          <l>Ella ha sul volto scritta la vendetta!</l>
+        </sp>
+        <stage>UNA VECCHIA(che si sarà accostata a Fiora indagando. Improvvisa e furibonda)Alzate, tutti, gli occhi in volto a lei…Ella ha sul volto scritta la vendetta!</stage>
+        <sp who="#le donne">
+          <speaker>LE DONNE:</speaker>
+          <l>(si accostano a Fiora, si fermano a due</l>
+          <l>passi dalla bara e scrutano la morta)</l>
+          <l>La vendetta?</l>
+          <l>Si! Si!</l>
+          <l>Parla con gli occhi…</l>
+          <l>Ci vuol dire che il vecchio…</l>
+          <l>Il vecchio forse…</l>
+          <l>Il vecchio certo…</l>
+          <l>Prima che tornasse Manfredo…</l>
+          <l>Era già morta al suo ritorno!</l>
+          <l>Nefanda impresa!</l>
+          <l>Orribile delitto!</l>
+          <l>Reliquia violata!</l>
+          <l>Cuore infranto!</l>
+          <l>Vendicata ella sia!</l>
+          <l>Sì! Fiora! Fiora</l>
+        </sp>
+        <stage>LE DONNE(si accostano a Fiora, si fermano a duepassi dalla bara e scrutano la morta)La vendetta?Si! Si!Parla con gli occhi…Ci vuol dire che il vecchio…Il vecchio forse…Il vecchio certo…Prima che tornasse Manfredo…Era già morta al suo ritorno!Nefanda impresa!Orribile delitto!Reliquia violata!Cuore infranto!Vendicata ella sia!Sì! Fiora! Fiora</stage>
+        <stage>(Si riode improvvisamente il coro sacro dentro la chiesa. Le donne si chetano e si inginocchiano ancora)</stage>
+        <sp who="#uomini">
+          <speaker>UOMINI:</speaker>
+          <l>Silenzio. Siamo in chiesa…</l>
+        </sp>
+        <sp who="#donne">
+          <speaker>DONNE:</speaker>
+          <l>Oriamo…</l>
+        </sp>
+        <stage>(Suon di campane)</stage>
+        <sp who="#la vecchia">
+          <speaker>LA VECCHIA:</speaker>
+          <l>È l’ora!</l>
+        </sp>
+        <sp who="#uomini">
+          <speaker>UOMINI:</speaker>
+          <l>(alzandosi)</l>
+          <l>Andiamo…</l>
+        </sp>
+        <stage>UOMINI(alzandosi)Andiamo…</stage>
+        <sp who="#donne">
+          <speaker>DONNE:</speaker>
+          <l>Si fa notte…</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Fiora, addio!…</l>
+        </sp>
+        <sp who="#la vecchia">
+          <speaker>LA VECCHIA:</speaker>
+          <l>(che ha scorto Avito che s’avvicina lentamente </l>
+          <l>dalla scala di sinistra. Con sorpresa)</l>
+          <l>C’e il principe d’Altura…</l>
+        </sp>
+        <stage>LA VECCHIA(che ha scorto Avito che s’avvicina lentamente dalla scala di sinistra. Con sorpresa)C’e il principe d’Altura…</stage>
+        <sp who="#donne">
+          <speaker>DONNE:</speaker>
+          <l>Avito!</l>
+        </sp>
+        <sp who="#uomini">
+          <speaker>UOMINI:</speaker>
+          <l>Andiamo…</l>
+          <l>Andiamo. Si fa notte…</l>
+        </sp>
+        <stage>(escono salendo la scala che metté in chiesa)</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>(rimane impietrato presso l’arco d’entrata e, come</l>
+          <l>se nel mausoleo non fosse che una gran fiamma</l>
+          <l>abbagliante, il suo capo è ripiegato, quasi nascosto.</l>
+          <l>Resta immobile, fino a che tutti non sono usciti. Indi</l>
+          <l>s’inoltra. Quando giunge presso la morta:)</l>
+          <l>Fiora, Fiora… È silenzio: siamo soli…</l>
+          <l>E tu, parlami. Aspetto. Io non ti voglio</l>
+          <l>guardare, prima che tu parli, amata,</l>
+          <l>eletta, sempre viva, anima mia…</l>
+        </sp>
+        <stage>AVITO(rimane impietrato presso l’arco d’entrata e, comese nel mausoleo non fosse che una gran fiammaabbagliante, il suo capo è ripiegato, quasi nascosto.Resta immobile, fino a che tutti non sono usciti. Indis’inoltra. Quando giunge presso la morta:)Fiora, Fiora… È silenzio: siamo soli…E tu, parlami. Aspetto. Io non ti voglioguardare, prima che tu parli, amata,eletta, sempre viva, anima mia…</stage>
+        <stage>(Con improvviso pianto)</stage>
+        <stage>(con altra voce)</stage>
+        <stage>(Piangendo si getta follemente sulla bocca di lei. Dopo un breve istante si rialza)</stage>
+        <stage>(Si leva improvviso e fa qualche passoverso l’uscita vacillando, come colpito)</stage>
+        <stage>(Ode qualcuno avvicinarsi)</stage>
+        <stage>(Ecco simile ad un’ombra Manfredo! Giunge da destra, si avvicina ad Avito che non può fuggire.Lentamente lo scorge. Si avvicina il tramonto)</stage>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>Eccoti alfine, si: t’abbiamo colto!</l>
+        </sp>
+        <stage>(riconoscendolo)</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Che vuoi tu?</l>
+          <l>Ma non vedi ch’io non posso quasi parlare?…</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>È bene!… È bene! È bene!</l>
+          <l>Tu sei già morto! Sopra alla sua bocca,</l>
+          <l>per poterti ghermire, fu disteso</l>
+          <l>un veleno possente…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>(atterrito)</l>
+          <l>No! No! No!</l>
+          <l>Sulla sua bocca…</l>
+        </sp>
+        <stage>AVITO(atterrito)No! No! No!Sulla sua bocca…</stage>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>Tu l’ hai baciata: tu l’hai profanata; e muori!…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Questo facesti, tu?</l>
+          <l>Tu potesti in questo modo</l>
+          <l>macchiare la sua bocca sacra?</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>Io, no!</l>
+          <l>Ma fu mio padre che volle sapere</l>
+          <l>chi tu fossi!… Per me,… per la mia gioia!…</l>
+        </sp>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>È giusto: godi della morte mia…</l>
+        </sp>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>(con disperazione)</l>
+          <l>Ma dimmi quello, quello ch’io non so!</l>
+          <l>Dimmi: t’ amava ella?</l>
+        </sp>
+        <stage>MANFREDO(con disperazione)Ma dimmi quello, quello ch’io non so!Dimmi: t’ amava ella?</stage>
+        <sp who="#avito">
+          <speaker>AVITO:</speaker>
+          <l>Come la vita che le fu tolta…</l>
+          <l>No… di più;… di più…</l>
+          <l>Ma se vuoi vendicarti, non tardare</l>
+          <l>che presto io muoio; vendicati, uccidimi…</l>
+        </sp>
+        <stage>(Vacilla, è per cadere. Manfredo lo sorregge e lo aiuta fino in terra. Poi levando le braccia al cielo.)</stage>
+        <stage>(Si rivolge verso il cadavere di Fiora) </stage>
+        <stage>(si getta su lei la bacia anch’egli sulla bocca e quivi rimane sussultando per la morte che si spande nelle sue vene. Ma ecco Archibaldo a tastoni nella sua ombra perpetua)</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>Un gemito! T’ho colto predatore!</l>
+        </sp>
+        <stage>(si avvicina a la bara, cerca e sente il corpo de Manfredo. Subito lo abbranca)</stage>
+        <sp who="#manfredo">
+          <speaker>MANFREDO:</speaker>
+          <l>(con voce moribonda)</l>
+          <l>No padre! Tu t’inganni!</l>
+        </sp>
+        <stage>MANFREDO(con voce moribonda)No padre! Tu t’inganni!</stage>
+        <sp who="#archibaldo">
+          <speaker>ARCHIBALDO:</speaker>
+          <l>(alzandosi improviso con tutta la persona)</l>
+          <l>Ah! Manfredo! Manfredo!</l>
+          <l>Anche tu, dunque,</l>
+          <l>senza rimedio,</l>
+          <l>sei con me nell’ombra!…</l>
+        </sp>
+        <stage>ARCHIBALDO(alzandosi improviso con tutta la persona)Ah! Manfredo! Manfredo!Anche tu, dunque,senza rimedio,sei con me nell’ombra!…</stage>
+      </div>
+    </body>
+  </text>
+</TEI>

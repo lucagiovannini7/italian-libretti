@@ -1,0 +1,1718 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main"> goti</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="alcuni romani">
+            <persName>ALCUNI ROMANI:</persName>
+          </person>
+          <person xml:id="atto terzo">
+            <persName>ATTO TERZO:</persName>
+          </person>
+          <person xml:id="altri guerrieri">
+            <persName>ALTRI GUERRIERI:</persName>
+          </person>
+          <person xml:id="teodato, lausco, svarano, congiurati e coro">
+            <persName>TEODATO, LAUSCO, SVARANO, CONGIURATI E CORO:</persName>
+          </person>
+          <person xml:id="damigelle">
+            <persName>DAMIGELLE:</persName>
+          </person>
+          <person xml:id="guerrieri">
+            <persName>GUERRIERI:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="coro generale">
+            <persName>CORO GENERALE:</persName>
+          </person>
+          <person xml:id="guerrieri e popolo">
+            <persName>GUERRIERI E POPOLO:</persName>
+          </person>
+          <person xml:id="coro di goti">
+            <persName>CORO DI GOTI:</persName>
+          </person>
+          <person xml:id="guerrieri romani">
+            <persName>GUERRIERI ROMANI:</persName>
+          </person>
+          <person xml:id="svarano">
+            <persName>SVARANO:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="coro esterno">
+            <persName>CORO ESTERNO:</persName>
+          </person>
+          <person xml:id="lausco, svarano e coro">
+            <persName>LAUSCO, SVARANO E CORO:</persName>
+          </person>
+          <person xml:id="congiurati">
+            <persName>CONGIURATI:</persName>
+          </person>
+          <person xml:id="teodato, lausco e svarano">
+            <persName>TEODATO, LAUSCO E SVARANO:</persName>
+          </person>
+          <person xml:id="atto quarto">
+            <persName>ATTO QUARTO:</persName>
+          </person>
+          <person xml:id="gualtiero">
+            <persName>GUALTIERO:</persName>
+          </person>
+          <person xml:id="sveno">
+            <persName>SVENO:</persName>
+          </person>
+          <person xml:id="amalasunta">
+            <persName>AMALASUNTA:</persName>
+          </person>
+          <person xml:id="teodato">
+            <persName>TEODATO:</persName>
+          </person>
+          <person xml:id="alcuni guerrieri">
+            <persName>ALCUNI GUERRIERI:</persName>
+          </person>
+          <person xml:id="lausco">
+            <persName>LAUSCO:</persName>
+          </person>
+          <person xml:id="atto primo">
+            <persName>ATTO PRIMO:</persName>
+          </person>
+          <person xml:id="lausco, svarano e congiurati">
+            <persName>LAUSCO, SVARANO E CONGIURATI:</persName>
+          </person>
+          <person xml:id="lausco e svarano">
+            <persName>LAUSCO E SVARANO:</persName>
+          </person>
+          <person xml:id="guerrieri goti">
+            <persName>GUERRIERI GOTI:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>Ambientazione: la scena è nei primi tre atti in Pavia, nel quarto atto sul lago Trasimeno</head>Epoca: anno 534 dell’era cristiana<div type="scene">
+          <head>Ambientazione: la scena è nei primi tre atti in Pavia, nel quarto atto sul lago Trasimeno</head>Epoca: anno 534 dell’era cristiana</div>
+      </div>
+      <div type="act">
+        <head>ATTO PRIMO</head>
+        <sp who="#atto primo">
+          <speaker>ATTO PRIMO:</speaker>
+        </sp>
+        <div type="scene">
+          <head>Scena prima</head>Atrio del castello di Pavia.È notte: molti Guerrieri goti dormono sdraiati sul terreno. Lausco è in piedi appoggiato ad una colonna, immobile e pensieroso. Dal fondo s’avanzano cautamente Teodato e Svarano. <stage>Scena primaAtrio del castello di Pavia.È notte: molti Guerrieri goti dormono sdraiati sul terreno. Lausco è in piedi appoggiato ad una colonna, immobile e pensieroso. Dal fondo s’avanzano cautamente Teodato e Svarano.</stage>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>(a bassa voce)</l>
+            <l>Lausco?…</l>
+          </sp>
+          <stage>TEODATO(a bassa voce)Lausco?…</stage>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>(a bassa voce)</l>
+            <l>Sì.</l>
+          </sp>
+          <stage>LAUSCO(a bassa voce)Sì.</stage>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Cessò la festa?</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>(additando i guerrieri)</l>
+            <l>Guarda… dormono costor.</l>
+          </sp>
+          <stage>LAUSCO(additando i guerrieri)Guarda… dormono costor.</stage>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>Tutto tace.</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>L’ora è questa</l>
+            <l>che anelava il mio furor!</l>
+            <l>Aborrito, disprezzato,</l>
+            <l>alla terra e al ciel nemico.</l>
+            <l>Quando l’astro del mio fato</l>
+            <l>parve a un tratto impallidir,</l>
+            <l>sovra il capo d’Alarico</l>
+            <l>imprecando la sventura</l>
+            <l>solitario in queste mura</l>
+            <l>m’affidai nell’avvenir!</l>
+            <l>(a Lausco)</l>
+            <l>Tremi tu?…</l>
+          </sp>
+          <stage>TEODATOL’ora è questache anelava il mio furor!Aborrito, disprezzato,alla terra e al ciel nemico.Quando l’astro del mio fatoparve a un tratto impallidir,sovra il capo d’Alaricoimprecando la sventurasolitario in queste muram’affidai nell’avvenir!(a Lausco)Tremi tu?…</stage>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Non tremo mai!</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Ei m’offese e m’oltraggiò.</l>
+            <l>Io d’ucciderlo giurai.</l>
+            <l>Sei fedel?</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>L’ucciderò.</l>
+          </sp>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>Quando l’opra fia compita</l>
+            <l>ci vedrem?</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Del trono al piè.</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Tu proteggi la mia vita;</l>
+            <l>io lo scettro appresto a te.</l>
+            <l>(entra rapidamente nell’interno del castello)</l>
+          </sp>
+          <stage>LAUSCOTu proteggi la mia vita;io lo scettro appresto a te.(entra rapidamente nell’interno del castello)</stage>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>(dopo un istante di silenzio, guardando attorno con terrore e prestando ascolto)</l>
+            <l>Perché tremo?… Nulla sento…</l>
+          </sp>
+          <stage>TEODATO(dopo un istante di silenzio, guardando attorno con terrore e prestando ascolto)Perché tremo?… Nulla sento…</stage>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>(a bassa voce)</l>
+            <l>S’ei fallisse il colpo?</l>
+          </sp>
+          <stage>SVARANO(a bassa voce)S’ei fallisse il colpo?</stage>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Ah no!</l>
+            <l>(si sente un grido)</l>
+          </sp>
+          <stage>TEODATOAh no!(si sente un grido)</stage>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>Parmi un grido…</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>(con ansia terribile)</l>
+            <l>Oh qual tormento!</l>
+            <l>(grida confuse nell’interno del castello)</l>
+          </sp>
+          <stage>TEODATO(con ansia terribile)Oh qual tormento!(grida confuse nell’interno del castello)</stage>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>Ah! L’uccise!</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>(con gioia feroce)</l>
+            <l>Io regnerò!</l>
+            <l>(partono rapidamente, mentre i guerrieri destati dalle grida balzano in piedi e afferrano le loro armi)</l>
+          </sp>
+          <stage>TEODATO(con gioia feroce)Io regnerò!(partono rapidamente, mentre i guerrieri destati dalle grida balzano in piedi e afferrano le loro armi)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena seconda</head>Guerrieri, poi Sveno. <stage>Scena secondaGuerrieri, poi Sveno.</stage>
+          <sp who="#alcuni guerrieri">
+            <speaker>ALCUNI GUERRIERI:</speaker>
+            <l>Qual suono!… L’udiste?</l>
+          </sp>
+          <sp who="#altri guerrieri">
+            <speaker>ALTRI GUERRIERI:</speaker>
+            <l>Confuso lamento</l>
+            <l>sull’ali del nembo ~ per l’etra echeggiò.</l>
+            <l>(Sveno si precipita sulla scena pallido, coi capelli in disordine, co’ la spada sguainata)</l>
+          </sp>
+          <stage>ALTRI GUERRIERIConfuso lamentosull’ali del nembo ~ per l’etra echeggiò.(Sveno si precipita sulla scena pallido, coi capelli in disordine, co’ la spada sguainata)</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Tu, Sveno? Ove corri?</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Tremate! Egli è spento.</l>
+            <l>Dei regi l’erede trafitto spirò!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Trafitto Alarico!</l>
+          </sp>
+          <sp who="#alcuni guerrieri">
+            <speaker>ALCUNI GUERRIERI:</speaker>
+            <l>All’armi!</l>
+          </sp>
+          <sp who="#altri guerrieri">
+            <speaker>ALTRI GUERRIERI:</speaker>
+            <l>O terrore!</l>
+            <l>Ma parla… rispondi! Chi fu l’uccisore?</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Della notte nel silenzio</l>
+            <l>era immersa la natura…</l>
+            <l>non s’udia fra queste mura</l>
+            <l>che del gufo l’ulular…</l>
+            <l>Quando un grido orrendo, atroce</l>
+            <l>m’empie il core di spavento…</l>
+            <l>Ah, quel grido ancor lo sento</l>
+            <l>al mio orecchio risuonar.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Era il grido della morte</l>
+            <l>che venia fra queste porte.</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Corro al prence… di sangue cosparso.</l>
+            <l>Un pugnale avea fitto nel petto!…</l>
+            <l>Non profferse il suo labbro alcun detto…</l>
+            <l>Sol la mano mi strinse… e spirò!</l>
+          </sp>
+          <sp who="#guerrieri">
+            <speaker>GUERRIERI:</speaker>
+            <l>(brandendo ferocemente le spade)</l>
+            <l>Morte, morte all’indegno uccisore!</l>
+            <l>Si ricerchi… fuggir non ci può!</l>
+            <l>(entra Teodato e si confonde fra i guerrieri)</l>
+          </sp>
+          <stage>GUERRIERI(brandendo ferocemente le spade)Morte, morte all’indegno uccisore!Si ricerchi… fuggir non ci può!(entra Teodato e si confonde fra i guerrieri)</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Maledetto il parricida,</l>
+            <l>d’Alarico l’uccisor!</l>
+            <l>Di celarsi invan s’affida,</l>
+            <l>di sfuggire al mio furor!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>All’armi, guerrieri! S’esplori ogni loco…</l>
+            <l>Già l’alba nel cielo propizia spuntò.</l>
+            <l>Di ferri recinto ~ qui tratto fra poco</l>
+            <l>fra strazi perisca ~ chi sangue versò!</l>
+            <l>(partono in varie direzioni, Sveno va per seguirli)</l>
+          </sp>
+          <stage>TUTTIAll’armi, guerrieri! S’esplori ogni loco…Già l’alba nel cielo propizia spuntò.Di ferri recinto ~ qui tratto fra pocofra strazi perisca ~ chi sangue versò!(partono in varie direzioni, Sveno va per seguirli)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena terza</head>Teodato, Sveno. <stage>Scena terzaTeodato, Sveno.</stage>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Sveno, t’arresta.</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Da me che vuoi?</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Giovane, ascolta; parlar ti vo’.</l>
+            <l>D’ira sfavillano gli sguardi tuoi</l>
+            <l>ma in core leggerti ben io lo so.</l>
+            <l>(con sarcasmo)</l>
+            <l>Tu romano, tu figlio d’Italia</l>
+            <l>ch’ora è serva e che un dì fu regina,</l>
+            <l>puoi dei Goti temer la rovina,</l>
+            <l>d’Alarico alla morte tremar?</l>
+            <l>Folle! Invano celare presumi</l>
+            <l>l’empia gioia che tutto t’invade,</l>
+            <l>tu che privo di patria e di numi</l>
+            <l>qui un asilo venisti a cercar!</l>
+          </sp>
+          <stage>TEODATOGiovane, ascolta; parlar ti vo’.D’ira sfavillano gli sguardi tuoima in core leggerti ben io lo so.(con sarcasmo)Tu romano, tu figlio d’Italiach’ora è serva e che un dì fu regina,puoi dei Goti temer la rovina,d’Alarico alla morte tremar?Folle! Invano celare presumil’empia gioia che tutto t’invade,tu che privo di patria e di numiqui un asilo venisti a cercar!</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(con alterigia)</l>
+            <l>E che vuoi dire?</l>
+          </sp>
+          <stage>SVENO(con alterigia)E che vuoi dire?</stage>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>D’Alarico estinto</l>
+            <l>or chi sul trono ascenderà, no ‘l sai?</l>
+            <l>D’imbelle donna sulla chioma cinto</l>
+            <l>il diadema fatale or tu vedrai.</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(con impeto)</l>
+            <l>D’Amalasunta? Mai più degna mano</l>
+            <l>trattò lo scettro!…</l>
+          </sp>
+          <stage>SVENO(con impeto)D’Amalasunta? Mai più degna manotrattò lo scettro!…</stage>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>(sogghignando)</l>
+            <l>Né più bella!</l>
+          </sp>
+          <stage>TEODATO(sogghignando)Né più bella!</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Insano!</l>
+            <l>Solo ed orfano reietto</l>
+            <l>sull’avel del padre estinto,</l>
+            <l>senza pane, senza tetto,</l>
+            <l>io vivea di ceppi avvinto…</l>
+            <l>Quando un angelo di dio</l>
+            <l>quasi in sogno m’apparì…</l>
+            <l>E pietoso al dolor mio</l>
+            <l>i miei ceppi infranse un dì.</l>
+            <l>Or che cinto di perigli</l>
+            <l>sovra il trono assiso egli è,</l>
+            <l>sfido l’uom che mi consigli</l>
+            <l>di tradire onore e fé!</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Una minaccia suonano</l>
+            <l>questi tuoi detti, o Sveno?</l>
+            <l>So che per me terribile</l>
+            <l>odio tu nutri in seno!</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Odio?… T’inganni. ~ Sprezzo</l>
+            <l>mi desta un traditor. ~</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>(raffrenandosi)</l>
+            <l>Ne avrai con degno prezzo</l>
+            <l>della regina il cor!</l>
+          </sp>
+          <stage>TEODATO(raffrenandosi)Ne avrai con degno prezzodella regina il cor!</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Trema… ah trema! Potrebbe a un mio detto</l>
+            <l>il tuo capo cadere al mio piè. ~</l>
+            <l>Finché l’ira raffreno nel petto,</l>
+            <l>va’, t’invola lontano da me!</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>(Egli l’ama! Ogni sguardo, ogni detto</l>
+            <l>il suo amore disvela per lei.</l>
+            <l>Vendicarmi fin d’ora potrei.</l>
+            <l>Ma la sorte matura non è!)</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Altro a dirmi t’avanza?</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>E l’odio mio</l>
+            <l>dunque, Sveno, non temi?</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Io?… Lo desio! ~</l>
+            <l>(partono da opposti lati)</l>
+          </sp>
+          <stage>SVENOIo?… Lo desio! ~(partono da opposti lati)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO SECONDO</head>
+        <sp who="#atto secondo">
+          <speaker>ATTO SECONDO:</speaker>
+        </sp>
+        <div type="scene">
+          <head>Scena prima</head>Ricca sala nel castello di Pavia; in fondo un gran verone dal quale si vede la pianura e in lontananza l’Appennino; due porte laterali.Amalasunta sola. <stage>Scena primaRicca sala nel castello di Pavia; in fondo un gran verone dal quale si vede la pianura e in lontananza l’Appennino; due porte laterali.Amalasunta sola.</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(guardando dal verone)</l>
+            <l>Ecco la luce… Coi suoi raggi il sole</l>
+            <l>le tenebre disperde; e tu svanisci</l>
+            <l>fatal notte che a me toglievi il figlio,</l>
+            <l>unica speme del mio core!… Oh, come</l>
+            <l>sulla fronte mi pesa questa triste</l>
+            <l>aurea corona!…</l>
+            <l>(alcune giovinette che passano sulla via, cantano in lontananza)</l>
+          </sp>
+          <stage>AMALASUNTA(guardando dal verone)Ecco la luce… Coi suoi raggi il solele tenebre disperde; e tu svaniscifatal notte che a me toglievi il figlio,unica speme del mio core!… Oh, comesulla fronte mi pesa questa tristeaurea corona!…(alcune giovinette che passano sulla via, cantano in lontananza)</stage>
+          <sp who="#coro esterno">
+            <speaker>CORO ESTERNO:</speaker>
+            <l>Un giorno in quest’ora</l>
+            <l>per via m’incontrò.</l>
+            <l>Spuntava l’aurora</l>
+            <l>quand’ei mi baciò.</l>
+            <l>È bello il suo viso,</l>
+            <l>mi piace il suo cor,</l>
+            <l>mi piace quel riso</l>
+            <l>che parla d’amor!</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(prestando ascolto)</l>
+            <l>…All’opra usata allegre</l>
+            <l>quelle fanciulle avviansi cantando. ~</l>
+            <l>Come sfavilla in quelle voci tutto</l>
+            <l>il contento dell’anima!… Io qui soffro!</l>
+            <l>Un abisso ritrovo in ogni loco,</l>
+            <l>in ogni sguardo un tradimento… Ahi lassa!</l>
+          </sp>
+          <stage>AMALASUNTA(prestando ascolto)…All’opra usata allegrequelle fanciulle avviansi cantando. ~Come sfavilla in quelle voci tuttoil contento dell’anima!… Io qui soffro!Un abisso ritrovo in ogni loco,in ogni sguardo un tradimento… Ahi lassa!</stage>
+          <sp who="#coro esterno">
+            <speaker>CORO ESTERNO:</speaker>
+            <l>(come sopra)</l>
+            <l>Di gemme e castelli</l>
+            <l>se il ciel mi privò,</l>
+            <l>degli anni più belli</l>
+            <l>la fé mi lasciò. ~</l>
+            <l>E tu, o giovinezza,</l>
+            <l>che allieti il mio cor,</l>
+            <l>mi doni l’ebbrezza,</l>
+            <l>mi doni l’amor!</l>
+            <l>(il canto si perde in lontananza)</l>
+          </sp>
+          <stage>CORO ESTERNO(come sopra)Di gemme e castellise il ciel mi privò,degli anni più bellila fé mi lasciò. ~E tu, o giovinezza,che allieti il mio cor,mi doni l’ebbrezza,mi doni l’amor!(il canto si perde in lontananza)</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Eppure un dì di rosee</l>
+            <l>sembianze rivestita</l>
+            <l>dono del cielo agli uomini</l>
+            <l>mi si pingea la vita. ~</l>
+            <l>Quando tra feste e gaudii</l>
+            <l>col nero crin gemmato</l>
+            <l>i giorni miei trascorrere</l>
+            <l>potea del padre allato.</l>
+            <l>Or fra le tristi tenebre</l>
+            <l>presso all’altar di dio</l>
+            <l>con disperati aneliti</l>
+            <l>la morte invoco anch’io.</l>
+            <l>Or che svanir le liete</l>
+            <l>larve di pace e amor,</l>
+            <l>or che si pasce l’anima</l>
+            <l>di lutto e di dolor!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena seconda</head>Gualtiero e detta. <stage>Scena secondaGualtiero e detta.</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Gualtiero…</l>
+          </sp>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>I campi intorno</l>
+            <l>noi percorremmo invano.</l>
+            <l>Co’ suoi guerrieri Svarano</l>
+            <l>dai monti ritornò.</l>
+            <l>Sovra innocente vittima</l>
+            <l>s’aggraverà il destino…</l>
+            <l>L’orma dell’assassino</l>
+            <l>nessuno ancor trovò.</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Che vuoi tu dire?</l>
+          </sp>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>Ruggono</l>
+            <l>gli odi finor oppressi.</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Li sprezzo…</l>
+          </sp>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>Qui congiurano</l>
+            <l>i tuoi guerrieri istessi. ~</l>
+            <l>In queste sale splendide,</l>
+            <l>quai serpi in mezzo ai fiori,</l>
+            <l>intorno a noi s’aggirano</l>
+            <l>codardi traditori.</l>
+            <l>E con inique trame</l>
+            <l>spinger le ingorde brame</l>
+            <l>alla corona ardiscono</l>
+            <l>che il padre a te lasciò!</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Noti a me sono i perfidi,</l>
+            <l>le loro trame io sfido.</l>
+            <l>Abbandonata ed orfana</l>
+            <l>solo nel ciel confido.</l>
+            <l>Serto di spine è questo</l>
+            <l>che cinge il capo mio:</l>
+            <l>se me lo toglie iddio,</l>
+            <l>la fronte piegherò.</l>
+          </sp>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>Qui messagger dei principi</l>
+            <l>Lausco verrà fra breve.</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>M’odia. ~ Un infausto annunzio</l>
+            <l>certo recarmi ei deve. ~</l>
+          </sp>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>Già i tuoi nemici adunansi</l>
+            <l>armati in queste mura</l>
+            <l>ai colpi suoi la vittima</l>
+            <l>segnata ha la congiura.</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Sveno?</l>
+          </sp>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>L’hai detto. ~ Gli empi</l>
+            <l>di perderlo han giurato.</l>
+            <l>Al ferro del carnefice</l>
+            <l>è il capo suo serbato.</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Stolti! Io saprò difenderlo!</l>
+          </sp>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>Forse…</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(con nobiltà)</l>
+            <l>O per lui morrò.</l>
+            <l>L’amo!</l>
+          </sp>
+          <stage>AMALASUNTA(con nobiltà)O per lui morrò.L’amo!</stage>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>Deh, taci!</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Lasciami!</l>
+          </sp>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>E sola resti?</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Il vo’.</l>
+            <l>(partono da opposti lati)</l>
+          </sp>
+          <stage>AMALASUNTAIl vo’.(partono da opposti lati)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena terza</head>Lausco e Svarano entrano cautamente. <stage>Scena terzaLausco e Svarano entrano cautamente.</stage>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>La vedesti?</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Piangeva; e quel pianto</l>
+            <l>un inferno nel petto mi desta.</l>
+          </sp>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>E che pensi?</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Che a compier ci resta</l>
+            <l>di Teodato il volere. ~</l>
+          </sp>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>Frattanto</l>
+            <l>simulare ne giova. ~ Il mistero</l>
+            <l>della mente nasconda il pensiero. ~</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Per lei scampo più in terra non v’ha; ~</l>
+            <l>s’essa cede, perduta sarà. ~</l>
+          </sp>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>La gente romana ~ prostrata ed inulta</l>
+            <l>che un tempo sul mondo ~ superba regnò,</l>
+            <l>caduta nel fango ~ ci sprezza, c’insulta,</l>
+            <l>al giogo ribelle ~ piegarsi non può.</l>
+            <l>Ma il ferro del barbaro,</l>
+            <l>forier di ventura</l>
+            <l>al suolo atterrando</l>
+            <l>di Roma le mura,</l>
+            <l>l’italica terra</l>
+            <l>di sangue inondò!</l>
+            <l>Costei che di sensi ~ romani è nutrita</l>
+            <l>il brando dei padri ~ vorrebbe spezzar;</l>
+            <l>clemente redimer ~ la schiatta aborrita,</l>
+            <l>sul trono con essa ~ chiamarla a regnar.</l>
+            <l>Ma il ferro del barbaro</l>
+            <l>ancor non è infranto:</l>
+            <l>foriero per gli empi</l>
+            <l>di lutto e di pianto,</l>
+            <l>più splendido al sole</l>
+            <l>s’appresta a brillar!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena quarta</head>Amalasunta, Lausco e Svarano. <stage>Scena quartaAmalasunta, Lausco e Svarano.</stage>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>(inchinandosi in umile atteggiamento)</l>
+            <l>Alla regina messagger m’invia</l>
+            <l>il consesso dei prenci e dei guerrier.</l>
+          </sp>
+          <stage>LAUSCO(inchinandosi in umile atteggiamento)Alla regina messagger m’inviail consesso dei prenci e dei guerrier.</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Parla, signor.</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Nella parola mia</l>
+            <l>de’ tuoi fedeli udrai franco il pensier!</l>
+            <l>Una nemica parricida mano</l>
+            <l>a noi il re, a te toglieva il figlio.</l>
+            <l>A che celarlo? Il tradimento insano</l>
+            <l>cinge il trono di lutto e di periglio.</l>
+            <l>(marcato)</l>
+            <l>Di questo scettro che ora stringi… puoi</l>
+            <l>l’immane pondo sostener tu sola?</l>
+          </sp>
+          <stage>LAUSCONella parola miade’ tuoi fedeli udrai franco il pensier!Una nemica parricida manoa noi il re, a te toglieva il figlio.A che celarlo? Il tradimento insanocinge il trono di lutto e di periglio.(marcato)Di questo scettro che ora stringi… puoil’immane pondo sostener tu sola?</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Mal t’intendo, guerrier… Da me che vuoi?</l>
+            <l>Oscura giunge a me la tua parola.</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Su quel trono a te d’accanto</l>
+            <l>cinga un prence la corona.</l>
+            <l>Se finor la madre ha pianto,</l>
+            <l>la regina or dée regnar.</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(quasi parlando a sé stessa)</l>
+            <l>Dunque, o schiava, tergi il pianto!</l>
+            <l>Su, di fiori t’incorona!</l>
+            <l>Pronta è l’ara; non di pianto,</l>
+            <l>questa è l’ora d’esultar!…</l>
+            <l>Di mio figlio dal letto di morte</l>
+            <l>voi volete condurmi all’altar?</l>
+            <l>Sceglier dunque m’è forza un consorte,</l>
+            <l>queste bende funeree squarciar?</l>
+          </sp>
+          <stage>AMALASUNTA(quasi parlando a sé stessa)Dunque, o schiava, tergi il pianto!Su, di fiori t’incorona!Pronta è l’ara; non di pianto,questa è l’ora d’esultar!…Di mio figlio dal letto di mortevoi volete condurmi all’altar?Sceglier dunque m’è forza un consorte,queste bende funeree squarciar?</stage>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>E possente adorata reina</l>
+            <l>sovra i Goti regnar tu potrai;</l>
+            <l>poiché salva da certa rovina</l>
+            <l>in tal guisa l’Italia sarà.</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Del sangue dei regi</l>
+            <l>prescelto dal fato,</l>
+            <l>vi ha un prence che al trono</l>
+            <l>sol puote aspirar.</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Chi è desso? Rispondi!</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>S’appella Teodato.</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Teodato dicesti?… (Mi sento mancar!)</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Nell’ombra e nel silenzio,</l>
+            <l>solo col suo pensiero,</l>
+            <l>visse del mondo immemore,</l>
+            <l>fido alla patria e al re.</l>
+            <l>Non è guerrier, ma a reggere</l>
+            <l>il contrastato impero,</l>
+            <l>i fidi tuoi te n’ pregano,</l>
+            <l>devi innalzarlo a te!</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Non fia mai!</l>
+          </sp>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>Che parli, o regina?</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Io no ‘l deggio.</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Da certa rovina</l>
+            <l>puoi tu sola la patria salvar!</l>
+          </sp>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>Bada, o donna! Secreta, possente</l>
+            <l>dei romani l’astuzia congiura.</l>
+            <l>Se sul trono regnar vuoi secura,</l>
+            <l>no, me ‘l credi, non devi esitar.</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Che risolvi?</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>No ‘l deggio.</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>(deposto l’umile atteggiamento e minaccioso)</l>
+            <l>Al comun voto</l>
+            <l>Amalasunta ceda! ~ A te pon mente!</l>
+          </sp>
+          <stage>LAUSCO(deposto l’umile atteggiamento e minaccioso)Al comun votoAmalasunta ceda! ~ A te pon mente!</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>E tanto ardisci? ~ Parti!</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Ancor m’udrai!</l>
+            <l>Avvi un romano in questa corte: -ha nome</l>
+            <l>Sveno- e tu l’ami!</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(Cielo!)</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>(afferrandola per la mano)</l>
+            <l>Incauta, trema!</l>
+            <l>Se esiti o nieghi, in questo istesso istante</l>
+            <l>sarà Sveno dannato a orrendo scempio.</l>
+            <l>Della morte del figlio a tutti innanzi</l>
+            <l>io qui l’accuserò!</l>
+          </sp>
+          <stage>LAUSCO(afferrandola per la mano)Incauta, trema!Se esiti o nieghi, in questo istesso istantesarà Sveno dannato a orrendo scempio.Della morte del figlio a tutti innanziio qui l’accuserò!</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(con impeto)</l>
+            <l>Menzogna infame!</l>
+            <l>Egli è innocente… e tu lo sai!</l>
+          </sp>
+          <stage>AMALASUNTA(con impeto)Menzogna infame!Egli è innocente… e tu lo sai!</stage>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Che importa?</l>
+          </sp>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>Egli è romano. ~ Qui ciascun l’aborre.</l>
+            <l>Il popolo è a noi ligio ~ e speri invano!</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Ahimè!…</l>
+          </sp>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>Risolvi.</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(dopo un istante d’esitazione)</l>
+            <l>Ebbene… ei fia salvato.</l>
+            <l>A me consorte, sarà Teodato.</l>
+            <l>Insieme</l>
+          </sp>
+          <stage>AMALASUNTA(dopo un istante d’esitazione)Ebbene… ei fia salvato.A me consorte, sarà Teodato.Insieme</stage>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>Dell’impero dei Goti la stella</l>
+            <l>s’oscurava nell’italo cielo.</l>
+            <l>Ma fra breve più fulgida e bella</l>
+            <l>la vedranno i nemici brillar,</l>
+            <l>e nel fango dovranno gli ignavi,</l>
+            <l>sempre schiavi, servire e tremar!</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>(Io trionfo! Più fulgida e bella</l>
+            <l>la mia stella risplende nel cielo.</l>
+            <l>La perduta possanza che anelo</l>
+            <l>sol Teodato a me puote ridar.</l>
+            <l>E nel fango dovranno gli ignavi,</l>
+            <l>sempre schiavi, servire e tremar!)</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(Ahi, s’oscura, tramonta mia stella</l>
+            <l>che finora brillò senza velo.</l>
+            <l>O signor, tu che regni nel cielo</l>
+            <l>i miei passi tu devi guidar.</l>
+            <l>E redenti dovranno gl’ignavi,</l>
+            <l>non più schiavi, al mio nome acclamar!</l>
+            <l>(alle ultime parole Sveno compare in fondo alla scena. Lausco e Svarano escono gettando su Sveno uno sguardo di trionfo)</l>
+          </sp>
+          <stage>AMALASUNTA(Ahi, s’oscura, tramonta mia stellache finora brillò senza velo.O signor, tu che regni nel cieloi miei passi tu devi guidar.E redenti dovranno gl’ignavi,non più schiavi, al mio nome acclamar!(alle ultime parole Sveno compare in fondo alla scena. Lausco e Svarano escono gettando su Sveno uno sguardo di trionfo)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena quinta</head>Amalasunta e Sveno. <stage>Scena quintaAmalasunta e Sveno.</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Grida di gioia risuonar qui sento.</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(Ah, tutto ignora.)</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Eppure d’Alarico</l>
+            <l>l’inulta salma nell’avel non scese.</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Chi del figlio a me parla?… In queste soglie</l>
+            <l>sanguigna luce spanderan fra breve</l>
+            <l>a sacrileghe nozze le votive</l>
+            <l>faci d’Imene. ~ A che mi guardi? Il fato</l>
+            <l>a me l’impone; sarà re Teodato.</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(arretrando con grido di dolore)</l>
+            <l>Ah!</l>
+          </sp>
+          <stage>SVENO(arretrando con grido di dolore)Ah!</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Tu piangi? Io asciutto ho il ciglio.</l>
+            <l>Mai non piange una regina.</l>
+            <l>Della patria nel periglio</l>
+            <l>ogni affetto tacer dée.</l>
+            <l>Quel poter che mi trascina</l>
+            <l>d’altro amore è in me più forte,</l>
+            <l>affrontar saprei la morte…</l>
+            <l>se la patria il chiede a me.</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Tu spezzasti mie catene,</l>
+            <l>vita, onori a te degg’io</l>
+            <l>ogni avere ed ogni bene</l>
+            <l>che beasse il pensier mio.</l>
+            <l>Tutto è sciolto. ~ Un dì saprai</l>
+            <l>se t’amò quest’infelice.</l>
+            <l>Ma quel giorno, o traditrice,</l>
+            <l>io vederlo non potrò.</l>
+            <l>Alla tomba or mi trascina</l>
+            <l>questo amor di me più forte,</l>
+            <l>sotto i colpi della sorte</l>
+            <l>l’alma affranta si spezzò!…</l>
+            <l>(si ode il suono di una marcia funebre)</l>
+          </sp>
+          <stage>SVENOTu spezzasti mie catene,vita, onori a te degg’ioogni avere ed ogni beneche beasse il pensier mio.Tutto è sciolto. ~ Un dì sapraise t’amò quest’infelice.Ma quel giorno, o traditrice,io vederlo non potrò.Alla tomba or mi trascinaquesto amor di me più forte,sotto i colpi della sortel’alma affranta si spezzò!…(si ode il suono di una marcia funebre)</stage>
+          <sp who="#coro esterno">
+            <speaker>CORO ESTERNO:</speaker>
+            <l>Nell’avello dei padri discendi</l>
+            <l>dormi in pace, figliuolo dei re.</l>
+            <l>Prega il ciel che i presagi tremendi</l>
+            <l>sian dai Goti sviati per te.</l>
+            <l>La tua vita ha troncato il destino,</l>
+            <l>sulla reggia or si libra il dolor.</l>
+            <l>Piombi almeno lo sdegno divino</l>
+            <l>sovra il capo all’infame uccisor!</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(con voce straziante)</l>
+            <l>Ah… quelle voci!… Son le preci estreme…</l>
+            <l>sovra la tomba di mio figlio… Io manco…</l>
+            <l>(lasciandosi cadere quasi svenuta sopra una sedia)</l>
+          </sp>
+          <stage>AMALASUNTA(con voce straziante)Ah… quelle voci!… Son le preci estreme…sovra la tomba di mio figlio… Io manco…(lasciandosi cadere quasi svenuta sopra una sedia)</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(con disperata ironia)</l>
+            <l>In te ritorna… Le funeree faci</l>
+            <l>alle tue nozze pronube, domani</l>
+            <l>risplenderanno!… In te ritorna! Esulta!</l>
+          </sp>
+          <stage>SVENO(con disperata ironia)In te ritorna… Le funeree facialle tue nozze pronube, domanirisplenderanno!… In te ritorna! Esulta!</stage>
+          <sp who="#coro esterno">
+            <speaker>CORO ESTERNO:</speaker>
+            <l>(allontanandosi gradatamente)</l>
+            <l>Nell’avello dei padri discendi,</l>
+            <l>dormi in pace, figliuolo dei re.</l>
+            <l>Prega il ciel che i presagi tremendi</l>
+            <l>sian dai Goti sviati per te.</l>
+            <l>La tua vita ha troncato il destino,</l>
+            <l>sulla reggia or si libra il dolor.</l>
+            <l>Piombi almeno lo sdegno divino</l>
+            <l>sovra il capo all’infame uccisor!</l>
+          </sp>
+          <stage>CORO ESTERNO(allontanandosi gradatamente)Nell’avello dei padri discendi,dormi in pace, figliuolo dei re.Prega il ciel che i presagi tremendisian dai Goti sviati per te.La tua vita ha troncato il destino,sulla reggia or si libra il dolor.Piombi almeno lo sdegno divinosovra il capo all’infame uccisor!</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(quasi in delirio)</l>
+            <l>Dove sono?… Ah, già fissato,</l>
+            <l>scritto in cielo è il fato mio!</l>
+            <l>Non dagli uomini, da dio,</l>
+            <l>la pietà sperar si dée!</l>
+          </sp>
+          <stage>AMALASUNTA(quasi in delirio)Dove sono?… Ah, già fissato,scritto in cielo è il fato mio!Non dagli uomini, da dio,la pietà sperar si dée!</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Tu dagli uomini, da dio,</l>
+            <l>maledetta sei per me!</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO TERZO</head>
+        <sp who="#atto terzo">
+          <speaker>ATTO TERZO:</speaker>
+        </sp>
+        <div type="scene">
+          <head>Scena prima</head>Una sala gotica nel castello di Pavia. Una porta in fondo. <stage>Scena primaUna sala gotica nel castello di Pavia. Una porta in fondo.</stage>
+          <stage>Teodato solo.E ancor non riede… Inebriante metacui da tanti anni ascosamente anelo…Splendida larva di mie notti, alfineio ti raggiungo!… Pur mi costi!… A mezzovolgea la notte, ed io sognava… ahi, truceterribil sogno! ~ Mi cingea la chiomala corona regale, e sovra il tronod’Amalasunta al fianco io m’era assisoal sinistro chiaror delle pallentifaci di morte… e innanzi a me sorgeadell’ucciso Alarico insanguinatol’orrido spettro, e mi guardava comequando nel petto il suo pugnal gli infisseLausco!… e con la man parea dal sogliostrapparmi a forza!… Ed io tremava. ~ Oh viledebolezza del core!… D’un delittoa me che monta, se ciascun l’ignora?No, più non tremo. ~ Già la notte sparvee con essa svanir fantasmi e larve!Nel cupo orrore di notte brunaquando la luce nel ciel fuggì,fosca sibilla fin dalla cunaa me lo scettro predisse un dì.E da quel giorno speme funestaper anni ed anni rinchiusi in cor;e nel silenzio d’aspra forestasolo, spregiato, vissi finor.Sangue mi costa quel serto, è vero:ma la mia sorte compir si dée.Colpe e delitti sprezza il pensierosose ad essi è premio poter di re.Se al soglio stendere la man poss’ioche a me il destino ~ vaticinò,sui vinti popoli ~ lo scettro miodall’Alpi al Brennero ~ distenderò!</stage>
+        </div>
+        <div type="scene">
+          <head>Scena seconda</head>Lausco, Svarano e Teodato. <stage>Scena secondaLausco, Svarano e Teodato.</stage>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Possente è quest’oro che tutto conquide!</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Che rechi?</l>
+          </sp>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>Trionfi; ~ la sorte ci arride.</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>La credula plebe venduta esultò.</l>
+            <l>Il trono or t’aspetta.</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Calcarlo saprò.</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Ma pria che tu cinga la chioma del serto,</l>
+            <l>o prence, rammenta chi un trono t’ha offerto,</l>
+            <l>dell’opra tremenda qual premio sperai,</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Giammai.</l>
+          </sp>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>Non scordar quella notte e il pugnale</l>
+            <l>che nell’ombra celato ferì.</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Non scordar che un destino fatale</l>
+            <l>nello stesso delitto ci unì.</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Io la mente, le braccia voi siete</l>
+            <l>in quest’opre di sangue e d’orror:</l>
+            <l>se compirla, o guerrieri, saprete</l>
+            <l>a voi dono possanza e tesor!</l>
+            <l>Cadde Alarico. ~ Ma quel sangue è poco,</l>
+            <l>altri deve saziar l’ira del seno.</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Altri?… T’intendo.</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Amalasunta e Sveno…</l>
+            <l>nella pianura di Pavia, commosse</l>
+            <l>s’adunano le turbe. ~ Amalasunta</l>
+            <l>oggi il serto mi cinge!</l>
+          </sp>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>I miei guerrieri</l>
+            <l>io stesso condurrò.</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Popolo e prenci</l>
+            <l>al tuo trionfo acclameranno.</l>
+          </sp>
+          <sp who="#svarano">
+            <speaker>SVARANO:</speaker>
+            <l>Quando</l>
+            <l>l’ora fia giunta, la fatale accusa</l>
+            <l>profferisca il tuo labbro!</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>A noi la cura</l>
+            <l>lascia del resto.</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>La superba donna</l>
+            <l>ed il suo drudo, d’uno stesso colpo</l>
+            <l>atterrati cadranno. ~ O mia vendetta!</l>
+            <l>Ad essi morte…</l>
+          </sp>
+          <sp who="#lausco">
+            <speaker>LAUSCO:</speaker>
+            <l>Il soglio a te s’aspetta.</l>
+          </sp>
+          <sp who="#teodato, lausco e svarano">
+            <speaker>TEODATO, LAUSCO E SVARANO:</speaker>
+            <l>Sol d’Italia, di luce funesta</l>
+            <l>splendi in questo bel giorno sereno,</l>
+            <l>l’atra gioia che m’arde nel seno,</l>
+            <l>la mia sorte rischiara così.</l>
+            <l>Potrò alfine, a me intorno prostrata,</l>
+            <l>calpestarti, empia turba di schiavi.</l>
+            <l>Vili e ignavi! Già l’ora è sonata,</l>
+            <l>di vendetta già corrono i dì.</l>
+            <l>(partono per opposti lati)</l>
+          </sp>
+          <stage>TEODATO, LAUSCO E SVARANOSol d’Italia, di luce funestasplendi in questo bel giorno sereno,l’atra gioia che m’arde nel seno,la mia sorte rischiara così.Potrò alfine, a me intorno prostrata,calpestarti, empia turba di schiavi.Vili e ignavi! Già l’ora è sonata,di vendetta già corrono i dì.(partono per opposti lati)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena terza</head>La gran pianura di Pavia: si scorge a gran lontananza la città. Da un lato s’innalzerà un trono formato di trofei d’armi.Sveno, indi Gualtiero. <stage>Scena terzaLa gran pianura di Pavia: si scorge a gran lontananza la città. Da un lato s’innalzerà un trono formato di trofei d’armi.Sveno, indi Gualtiero.</stage>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>Chi veggio?… Sveno… In questo loco? Stolto!</l>
+            <l>Fuggi! T’invola ai colpi della sorte!</l>
+            <l>Altro scampo non hai… Taci!…</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Io t’ascolto.</l>
+            <l>Non ti comprendo.</l>
+          </sp>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>E che mai speri?</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Morte!</l>
+            <l>Agli infelici altro non resta in terra.</l>
+            <l>Così tradirmi!… Iniqua donna!</l>
+          </sp>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>E sei</l>
+            <l>uomo… e guerriero!</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Un dì lo fui! ~ M’atterra</l>
+            <l>or la sventura. ~ Ahimè!… Perché vivrei?…</l>
+            <l>(con profonda tristezza)</l>
+            <l>Della sua fede immemore</l>
+            <l>e dell’amor giurato,</l>
+            <l>essa i legami infrangere</l>
+            <l>volle del mio passato.</l>
+            <l>Ma nel troncar quei vincoli</l>
+            <l>ch’eterni io pur credea,</l>
+            <l>senza pietà la rea</l>
+            <l>anche il mio cor spezzò.</l>
+            <l>Fonte d’amare lacrime</l>
+            <l>è l’avvenir, lo sento.</l>
+            <l>Verranno per la misera</l>
+            <l>i dì del pentimento.</l>
+            <l>Ma di quel giorno infausto,</l>
+            <l>forse lontano ancora,</l>
+            <l>la sanguinosa aurora,</l>
+            <l>Gualtiero, io non vedrò!</l>
+            <l>(squilli di trombe; si comincia a sentire in lontananza il suono di una marcia trionfale che si va sempre più avvicinando)</l>
+          </sp>
+          <stage>SVENOUn dì lo fui! ~ M’atterraor la sventura. ~ Ahimè!… Perché vivrei?…(con profonda tristezza)Della sua fede immemoree dell’amor giurato,essa i legami infrangerevolle del mio passato.Ma nel troncar quei vincolich’eterni io pur credea,senza pietà la reaanche il mio cor spezzò.Fonte d’amare lacrimeè l’avvenir, lo sento.Verranno per la miserai dì del pentimento.Ma di quel giorno infausto,forse lontano ancora,la sanguinosa aurora,Gualtiero, io non vedrò!(squilli di trombe; si comincia a sentire in lontananza il suono di una marcia trionfale che si va sempre più avvicinando)</stage>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>Odi?</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(con rabbia)</l>
+            <l>Ei trionfa!… Folgori</l>
+            <l>non ha per gli empi il cielo!</l>
+            <l>Or gli omicida ammantasi</l>
+            <l>della virtù del velo.</l>
+          </sp>
+          <stage>SVENO(con rabbia)Ei trionfa!… Folgorinon ha per gli empi il cielo!Or gli omicida ammantasidella virtù del velo.</stage>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>Che parli?</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Un fero dubbio</l>
+            <l>mi tormentava il petto.</l>
+            <l>Ora in certezza cangiasi</l>
+            <l>l’orribile sospetto.</l>
+          </sp>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>Che far vorresti?</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Nulla.</l>
+            <l>Io spettator ~ qui resto.</l>
+          </sp>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>Ti uccidi!</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Il voto è questo</l>
+            <l>più ardente del mio cor!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena quarta</head>Al suono di marcia trionfale si avanzano i Guerrieri, i Principi, i Sacerdoti, i Congiurati, il Popolo. Indi preceduti da una schiera di Guardie Amalasunta e Teodato rivestiti delle insegne reali; poi Lausco, Svarano ed altri Guerrieri. Sveno e Gualtiero si confondono tra la folla; il Popolo manda grida festive. <stage>Scena quartaAl suono di marcia trionfale si avanzano i Guerrieri, i Principi, i Sacerdoti, i Congiurati, il Popolo. Indi preceduti da una schiera di Guardie Amalasunta e Teodato rivestiti delle insegne reali; poi Lausco, Svarano ed altri Guerrieri. Sveno e Gualtiero si confondono tra la folla; il Popolo manda grida festive.</stage>
+          <sp who="#coro generale">
+            <speaker>CORO GENERALE:</speaker>
+            <l>Giunta è l’ora ~ dei Goti la stella</l>
+            <l>s’oscurava nell’italo cielo;</l>
+            <l>ma fra breve più fulgida e bella</l>
+            <l>la vedranno i nemici brillar.</l>
+            <l>E nel fango dovranno gli ignavi</l>
+            <l>sempre schiavi ~ servire e tremar!</l>
+          </sp>
+          <sp who="#lausco, svarano e congiurati">
+            <speaker>LAUSCO, SVARANO E CONGIURATI:</speaker>
+            <l>(a bassa voce tra di loro)</l>
+            <l>Nel silenzio, nell’ombra celati</l>
+            <l>già a piombare la folgore è presta…</l>
+            <l>dée quel serto di luce funesta</l>
+            <l>di Teodato sul capo brillar.</l>
+            <l>Pronti all’opra: già l’ora è suonata:</l>
+            <l>gli empi schiavi dovranno tremar!</l>
+          </sp>
+          <stage>LAUSCO, SVARANO E CONGIURATI(a bassa voce tra di loro)Nel silenzio, nell’ombra celatigià a piombare la folgore è presta…dée quel serto di luce funestadi Teodato sul capo brillar.Pronti all’opra: già l’ora è suonata:gli empi schiavi dovranno tremar!</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(dal trono)</l>
+            <l>Popolo e prenci, udite il mio pensiero</l>
+            <l>or tutti voi che a me giuraste fé,</l>
+            <l>del mio talamo a parte e dell’impero</l>
+            <l>ognun saluti in Teodato il re!</l>
+          </sp>
+          <stage>AMALASUNTA(dal trono)Popolo e prenci, udite il mio pensieroor tutti voi che a me giuraste fé,del mio talamo a parte e dell’imperoognun saluti in Teodato il re!</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Viva, viva Teodato! Rintroni</l>
+            <l>tutta Italia di canti e di suoni;</l>
+            <l>e dei bardi l’accento ispirato</l>
+            <l>dica al mondo i dettami del fato!</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>(in piedi sul trono)</l>
+            <l>Su, mescete in colmi nappi!</l>
+            <l>La mia gioia ognun divida.</l>
+            <l>Ogni volto qui sorrida</l>
+            <l>del contento del suo re!</l>
+          </sp>
+          <stage>TEODATO(in piedi sul trono)Su, mescete in colmi nappi!La mia gioia ognun divida.Ogni volto qui sorridadel contento del suo re!</stage>
+          <sp who="#lausco, svarano e coro">
+            <speaker>LAUSCO, SVARANO E CORO:</speaker>
+            <l>Su, libiamo e repente rintroni</l>
+            <l>tutta Italia di canti e di suoni;</l>
+            <l>e dei bardi l’accento ispirato</l>
+            <l>narri al mondo i dettami del fato!</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(lanciandosi di mezzo alle turbe)</l>
+            <l>Or tutti ascoltatemi:</l>
+            <l>vo’ bevere anch’io!</l>
+            <l>Le tazze spumeggiano,</l>
+            <l>esulta il cor mio.</l>
+            <l>Qui dove è sepolta</l>
+            <l>la salma tradita,</l>
+            <l>uniro, i sacrileghi,</l>
+            <l>la morte alla vita!…</l>
+          </sp>
+          <stage>SVENO(lanciandosi di mezzo alle turbe)Or tutti ascoltatemi:vo’ bevere anch’io!Le tazze spumeggiano,esulta il cor mio.Qui dove è sepoltala salma tradita,uniro, i sacrileghi,la morte alla vita!…</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Sciagurato!</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Quai detti! Che sento!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Vanne, fuggi: raffrena il tuo accento!</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(con impeto)</l>
+            <l>Di cantici e suoni</l>
+            <l>rintroni la reggia,</l>
+            <l>il vin che rosseggia</l>
+            <l>è sangue d’un re!</l>
+            <l>Su, datemi un calice,</l>
+            <l>lo vuole il destino;</l>
+            <l>(additando Teodato)</l>
+            <l>al prence assassino</l>
+            <l>bevete con me!…</l>
+          </sp>
+          <stage>SVENO(con impeto)Di cantici e suonirintroni la reggia,il vin che rosseggiaè sangue d’un re!Su, datemi un calice,lo vuole il destino;(additando Teodato)al prence assassinobevete con me!…</stage>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>(alzandosi furibondo)</l>
+            <l>Ah… è troppo! ~ Guerrieri! Addotto in ceppi</l>
+            <l>ei venga, e tosto sia dannato a morte!</l>
+          </sp>
+          <stage>TEODATO(alzandosi furibondo)Ah… è troppo! ~ Guerrieri! Addotto in ceppiei venga, e tosto sia dannato a morte!</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(gettandosi ai piedi di Teodato)</l>
+            <l>Deh, pietade, pietà della sua sorte!</l>
+            <l>Ei delira, infelice.</l>
+          </sp>
+          <stage>AMALASUNTA(gettandosi ai piedi di Teodato)Deh, pietade, pietà della sua sorte!Ei delira, infelice.</stage>
+          <sp who="#guerrieri e popolo">
+            <speaker>GUERRIERI E POPOLO:</speaker>
+            <l>A morte! A morte!</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>(con voce terribile respingendo Amalasunta)</l>
+            <l>Per lui preghi? Invan speri.</l>
+            <l>Temi or tu lo sdegno mio,</l>
+            <l>tutti io leggo i tuoi pensieri,</l>
+            <l>e tuo sposo e re son io!</l>
+            <l>(i guerrieri si slanciano contro Sveno)</l>
+          </sp>
+          <stage>TEODATO(con voce terribile respingendo Amalasunta)Per lui preghi? Invan speri.Temi or tu lo sdegno mio,tutti io leggo i tuoi pensieri,e tuo sposo e re son io!(i guerrieri si slanciano contro Sveno)</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Deh, fermate, o ciel!…</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Popolo!</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>O indegno!</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>L’ultima ora per gli empi suonò!</l>
+            <l>(ad Amalasunta)</l>
+            <l>O donna, io t’accuso!</l>
+            <l>(al popolo)</l>
+            <l>Per sete di regno</l>
+            <l>del sangue del figlio costei si macchiò!</l>
+          </sp>
+          <stage>TEODATOL’ultima ora per gli empi suonò!(ad Amalasunta)O donna, io t’accuso!(al popolo)Per sete di regnodel sangue del figlio costei si macchiò!</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>O cielo, e tu il soffri?</l>
+          </sp>
+          <sp who="#lausco, svarano e congiurati">
+            <speaker>LAUSCO, SVARANO E CONGIURATI:</speaker>
+            <l>(tumultuando)</l>
+            <l>Discenda dal trono!</l>
+            <l>Di cingere il serto più degna non è!</l>
+          </sp>
+          <stage>LAUSCO, SVARANO E CONGIURATI(tumultuando)Discenda dal trono!Di cingere il serto più degna non è!</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Ah, l’empia trionfa!</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Non speri perdono!</l>
+            <l>Discenda dal trono!</l>
+          </sp>
+          <sp who="#congiurati">
+            <speaker>CONGIURATI:</speaker>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(strappandosi la corona e calpestandola)</l>
+            <l>M’uccidete! Il patibolo è presto.</l>
+            <l>Ecco il serto… ai miei piè lo calpesto!</l>
+            <l>Ma tu, vile che esulti, paventa!</l>
+            <l>Già la folgore piomba su te!</l>
+          </sp>
+          <stage>AMALASUNTA(strappandosi la corona e calpestandola)M’uccidete! Il patibolo è presto.Ecco il serto… ai miei piè lo calpesto!Ma tu, vile che esulti, paventa!Già la folgore piomba su te!</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(a Teodato)</l>
+            <l>Sì, m’uccidi! Ma larva cruenta</l>
+            <l>me nei sogni, alle veglie vedrai!</l>
+            <l>Sì, m’uccidi, ma ovunque ne andrai</l>
+            <l>ombra irata verronne con te!</l>
+          </sp>
+          <stage>SVENO(a Teodato)Sì, m’uccidi! Ma larva cruentame nei sogni, alle veglie vedrai!Sì, m’uccidi, ma ovunque ne andraiombra irata verronne con te!</stage>
+          <sp who="#teodato, lausco, svarano, congiurati e coro">
+            <speaker>TEODATO, LAUSCO, SVARANO, CONGIURATI E CORO:</speaker>
+            <l>Traditori, tremate! Egual sorte</l>
+            <l>vi riserba al supplizio, alla morte!</l>
+            <l>Empii entrambi! Tremendo, funesto,</l>
+            <l>vi colpisce lo sdegno del re!</l>
+            <l>(Amalasunta e Sveno sono trascinati dai guerrieri, mentre il popolo ed i congiurati acclamano Teodato)</l>
+          </sp>
+          <stage>TEODATO, LAUSCO, SVARANO, CONGIURATI E COROTraditori, tremate! Egual sortevi riserba al supplizio, alla morte!Empii entrambi! Tremendo, funesto,vi colpisce lo sdegno del re!(Amalasunta e Sveno sono trascinati dai guerrieri, mentre il popolo ed i congiurati acclamano Teodato)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO QUARTO</head>
+        <sp who="#atto quarto">
+          <speaker>ATTO QUARTO:</speaker>
+        </sp>
+        <div type="scene">
+          <head>Scena prima</head>Sala semidiroccata di un castello sul lago Trasimeno. In fondo a destra una scalinata conduce alla terrazza di una vecchia torre da cui traspare un lembo di cielo, solcato da neri nuvoloni. A sinistra pure sul fondo due porte le quali aprendosi lasciano vedere il lago. Altre due porte laterali. È notte tempestosa. Una lampada rischiara debolmente la scena.Amalasunta seduta, immersa in un cupo silenzio: alcune Damigelle le stanno intorno. <stage>Scena primaSala semidiroccata di un castello sul lago Trasimeno. In fondo a destra una scalinata conduce alla terrazza di una vecchia torre da cui traspare un lembo di cielo, solcato da neri nuvoloni. A sinistra pure sul fondo due porte le quali aprendosi lasciano vedere il lago. Altre due porte laterali. È notte tempestosa. Una lampada rischiara debolmente la scena.Amalasunta seduta, immersa in un cupo silenzio: alcune Damigelle le stanno intorno.</stage>
+          <sp who="#damigelle">
+            <speaker>DAMIGELLE:</speaker>
+            <l>(parlando fra loro)</l>
+            <l>Oh, come rugge la tempesta!… Udite?…</l>
+            <l>Con sinistro fragor, del lago i flutti</l>
+            <l>solleva il vento sibilando, e l’etra</l>
+            <l>la folgore rischiara…</l>
+          </sp>
+          <stage>DAMIGELLE(parlando fra loro)Oh, come rugge la tempesta!… Udite?…Con sinistro fragor, del lago i fluttisolleva il vento sibilando, e l’etrala folgore rischiara…</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Ahi… Triste idea!…</l>
+          </sp>
+          <sp who="#damigelle">
+            <speaker>DAMIGELLE:</speaker>
+            <l>Favella seco stessa… Ah, la ragione</l>
+            <l>l’infelice smarriva, il dì fatale</l>
+            <l>che qui all’esilio la dannar.</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Lo sento…</l>
+            <l>Me chiama il figlio… e, nel lenzuol funebre</l>
+            <l>avvolto, un uomo gli è d’accanto… oh il veggio!</l>
+            <l>Sveno… Sveno tu sei!… Che parli?… E puoi</l>
+            <l>maledirmi così?… Ah no, non fia!…</l>
+            <l>Troppo il vivere è grave all’alma mia!…</l>
+          </sp>
+          <sp who="#damigelle">
+            <speaker>DAMIGELLE:</speaker>
+            <l>(fra loro)</l>
+            <l>Geme e soffre… l’atroce sventura</l>
+            <l>di sua mente il sereno offuscò.</l>
+            <l>Così buona, sì candida e pura</l>
+            <l>già tremendi dolori provò.</l>
+            <l>(partono)</l>
+          </sp>
+          <stage>DAMIGELLE(fra loro)Geme e soffre… l’atroce sventuradi sua mente il sereno offuscò.Così buona, sì candida e puragià tremendi dolori provò.(partono)</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(inginocchiandosi)</l>
+            <l>O signor, che col sangue hai redento</l>
+            <l>dei mortali feroci il destino,</l>
+            <l>d’una misera ascolta il lamento,</l>
+            <l>su lei volgi lo sguardo divino.</l>
+            <l>Figlio, amici, corona perdei!…</l>
+            <l>Deh, mi togli, o signor, questa vita.</l>
+            <l>Tu che padre pei miseri sei</l>
+            <l>deh, perdona alla donna tradita!</l>
+            <l>(si sente un fragore d’armi che va sempre più avvicinandosi)</l>
+          </sp>
+          <stage>AMALASUNTA(inginocchiandosi)O signor, che col sangue hai redentodei mortali feroci il destino,d’una misera ascolta il lamento,su lei volgi lo sguardo divino.Figlio, amici, corona perdei!…Deh, mi togli, o signor, questa vita.Tu che padre pei miseri seideh, perdona alla donna tradita!(si sente un fragore d’armi che va sempre più avvicinandosi)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena seconda</head>Sveno seguìto da alcuni Guerrieri romani ed Amalasunta. <stage>Scena secondaSveno seguìto da alcuni Guerrieri romani ed Amalasunta.</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(accorrendo ad Amalasunta)</l>
+            <l>Ti riveggo… oh gioia!</l>
+          </sp>
+          <stage>SVENO(accorrendo ad Amalasunta)Ti riveggo… oh gioia!</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(indietreggiando con terrore)</l>
+            <l>Ognora</l>
+            <l>la sua larva appar così!…</l>
+          </sp>
+          <stage>AMALASUNTA(indietreggiando con terrore)Ognorala sua larva appar così!…</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>Di salvarti è tempo ancora…</l>
+            <l>Per salvarti io venni qui!</l>
+            <l>Oh quante montagne stanotte ho varcato,</l>
+            <l>per aspri sentieri, dei lampi al chiaror!</l>
+            <l>Tra gli ermi dirupi la mano del fato</l>
+            <l>i passi guidava del mio corridor!</l>
+            <l>Coll’oro corruppi gli sgherri inumani;</l>
+            <l>dell’empio i disegni svelarono a me…</l>
+            <l>Fra poco a svenarti verranno gli insani…</l>
+            <l>qui corsi a salvarti o morire con te.</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Deh, taci!… Vaneggi… Che parli di morte?</l>
+            <l>Quest’oggi serena ci arride la sorte.</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(con affetto e rapidamente)</l>
+            <l>Vieni… fuggiam! Propizia</l>
+            <l>è la tempesta a noi.</l>
+            <l>Vieni… I miei fidi attendono,</l>
+            <l>salvare ancor ti puoi!</l>
+            <l>In altre terre profughi</l>
+            <l>scampo securo avremo.</l>
+            <l>Là, ignoti al cielo e agli uomini,</l>
+            <l>vivere ancor potremo!</l>
+            <l>(dal fondo entra Gualtiero)</l>
+          </sp>
+          <stage>SVENO(con affetto e rapidamente)Vieni… fuggiam! Propiziaè la tempesta a noi.Vieni… I miei fidi attendono,salvare ancor ti puoi!In altre terre profughiscampo securo avremo.Là, ignoti al cielo e agli uomini,vivere ancor potremo!(dal fondo entra Gualtiero)</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(sempre delirando e sorridente)</l>
+            <l>Taci… che l’onda aspetta…</l>
+            <l>Azzurro è il ciel sereno…</l>
+            <l>sull’agile barchetta,</l>
+            <l>vieni, ci culli il mar!</l>
+            <l>Vedi, soave e placido</l>
+            <l>tramonta il sole, o Sveno…</l>
+            <l>della mia vita il tramite</l>
+            <l>voglio così troncar!</l>
+          </sp>
+          <stage>AMALASUNTA(sempre delirando e sorridente)Taci… che l’onda aspetta…Azzurro è il ciel sereno…sull’agile barchetta,vieni, ci culli il mar!Vedi, soave e placidotramonta il sole, o Sveno…della mia vita il tramitevoglio così troncar!</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(disperatamente)</l>
+            <l>Infelice!… Non m’ode… O sventura!</l>
+            <l>Ah, ritorna in te stessa!…</l>
+          </sp>
+          <stage>SVENO(disperatamente)Infelice!… Non m’ode… O sventura!Ah, ritorna in te stessa!…</stage>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>(che in quel frattempo avrà spiato dalla porta in capo allo scalone, accorrendo rapidamente)</l>
+            <l>T’affretta!</l>
+            <l>Già d’armati risuona il fragor!</l>
+          </sp>
+          <stage>GUALTIERO(che in quel frattempo avrà spiato dalla porta in capo allo scalone, accorrendo rapidamente)T’affretta!Già d’armati risuona il fragor!</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(tentando trascinare Amalasunta)</l>
+            <l>Vieni… Ah vieni!</l>
+          </sp>
+          <stage>SVENO(tentando trascinare Amalasunta)Vieni… Ah vieni!</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(abbandonandosi sulla sedia)</l>
+            <l>La lieve barchetta…</l>
+            <l>sovra il mare ci culli…</l>
+          </sp>
+          <stage>AMALASUNTA(abbandonandosi sulla sedia)La lieve barchetta…sovra il mare ci culli…</stage>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>Oh terror!</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>A forza ci tragga!…</l>
+          </sp>
+          <sp who="#alcuni romani">
+            <speaker>ALCUNI ROMANI:</speaker>
+            <l>(accorrendo da una porta laterale)</l>
+            <l>È tardi! T’arresta!</l>
+            <l>Già cinto è il castello.</l>
+          </sp>
+          <stage>ALCUNI ROMANI(accorrendo da una porta laterale)È tardi! T’arresta!Già cinto è il castello.</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>La morte ci resta!</l>
+          </sp>
+          <sp who="#coro di goti">
+            <speaker>CORO DI GOTI:</speaker>
+            <l>(interno)</l>
+            <l>S’atterrin le porte!</l>
+          </sp>
+          <stage>CORO DI GOTI(interno)S’atterrin le porte!</stage>
+          <sp who="#gualtiero">
+            <speaker>GUALTIERO:</speaker>
+            <l>Più speme non v’è!</l>
+          </sp>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(sguainando la spada)</l>
+            <l>Guerrieri, a pugnare venite con me!</l>
+            <l>(Sveno getta un ultimo sguardo sopra Amalasunta quasi assopita, e parte con Gualtiero ed i guerrieri)</l>
+          </sp>
+          <stage>SVENO(sguainando la spada)Guerrieri, a pugnare venite con me!(Sveno getta un ultimo sguardo sopra Amalasunta quasi assopita, e parte con Gualtiero ed i guerrieri)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena terza</head>Si ode il lontano cozzo delle armi ed il fragore della pugna.Damigelle accorrendo atterrite. <stage>Scena terzaSi ode il lontano cozzo delle armi ed il fragore della pugna.Damigelle accorrendo atterrite.</stage>
+          <sp who="#damigelle">
+            <speaker>DAMIGELLE:</speaker>
+            <l>Regina, regina. Deh, sorgi… ti desta;</l>
+            <l>non odi dell’armi la furia funesta?</l>
+          </sp>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>Voi piangete?… Sul mio ciglio</l>
+            <l>ora il pianto inaridì…</l>
+            <l>(il rumore si va sempre più avvicinando)</l>
+            <l>Non sapete?… Aveva un figlio…</l>
+            <l>Era bello… eppur morì!…</l>
+            <l>(molti Romani attraversano la scena fuggendo nella massima confusione e gridando)</l>
+          </sp>
+          <stage>AMALASUNTAVoi piangete?… Sul mio ciglioora il pianto inaridì…(il rumore si va sempre più avvicinando)Non sapete?… Aveva un figlio…Era bello… eppur morì!…(molti Romani attraversano la scena fuggendo nella massima confusione e gridando)</stage>
+          <sp who="#guerrieri romani">
+            <speaker>GUERRIERI ROMANI:</speaker>
+            <l>Fuggite! I nemici già infranser le porte!…</l>
+            <l>Fuggite! O v’attende terribile morte.</l>
+            <l>(partono; le donne fuggono anch’esse; la scena resta deserta)</l>
+          </sp>
+          <stage>GUERRIERI ROMANIFuggite! I nemici già infranser le porte!…Fuggite! O v’attende terribile morte.(partono; le donne fuggono anch’esse; la scena resta deserta)</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(sempre immobile e sorridente)</l>
+            <l>…Dalla madre l’han diviso;</l>
+            <l>poca terra il ricoprì.</l>
+            <l>E la madre dell’ucciso</l>
+            <l>più non piange da quel dì!…</l>
+            <l>(il fragore della mischia è al colmo. Sveno mortalmente ferito si precipita sulla scena, e va a cadere ai piedi di Amalasunta. Sul limitare della porta in fondo compare Teodato co’ la spada sguainata, seguìto da Lausco e Svarano)</l>
+          </sp>
+          <stage>AMALASUNTA(sempre immobile e sorridente)…Dalla madre l’han diviso;poca terra il ricoprì.E la madre dell’uccisopiù non piange da quel dì!…(il fragore della mischia è al colmo. Sveno mortalmente ferito si precipita sulla scena, e va a cadere ai piedi di Amalasunta. Sul limitare della porta in fondo compare Teodato co’ la spada sguainata, seguìto da Lausco e Svarano)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena ultima</head>Amalasunta, Sveno, Teodato, Lausco, Svarano.(la scena è rischiarata dai lampi) <stage>Scena ultimaAmalasunta, Sveno, Teodato, Lausco, Svarano.(la scena è rischiarata dai lampi)</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(nel vedere Sveno moribondo, quasi destandosi da un sogno)</l>
+            <l>Tu Sveno!… Che miro?…</l>
+          </sp>
+          <stage>AMALASUNTA(nel vedere Sveno moribondo, quasi destandosi da un sogno)Tu Sveno!… Che miro?…</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(con voce morente)</l>
+            <l>Salvarti… voll’io…</l>
+            <l>L’estremo sospiro… tu accogli… del cor…</l>
+          </sp>
+          <stage>SVENO(con voce morente)Salvarti… voll’io…L’estremo sospiro… tu accogli… del cor…</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(alzando le mani al cielo disperatamente)</l>
+            <l>O morte, a che tardi?</l>
+          </sp>
+          <stage>AMALASUNTA(alzando le mani al cielo disperatamente)O morte, a che tardi?</stage>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>(con feroce ironia, avanzandosi)</l>
+            <l>Fia pago il desio!…</l>
+            <l>La morte che chiedi, io t’arreco!</l>
+          </sp>
+          <stage>TEODATO(con feroce ironia, avanzandosi)Fia pago il desio!…La morte che chiedi, io t’arreco!</stage>
+          <sp who="#sveno">
+            <speaker>SVENO:</speaker>
+            <l>(tentando sollevarsi)</l>
+            <l>Oh furor!</l>
+          </sp>
+          <stage>SVENO(tentando sollevarsi)Oh furor!</stage>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>Col tuo drudo ai danni miei</l>
+            <l>qui tessevi inganni ancora.</l>
+            <l>In mia possa alfine or sei…</l>
+            <l>di tua morte è giunta l’ora!…</l>
+            <l>(sguainando il pugnale)</l>
+            <l>Questo ferro, ah tu no ‘l sai,</l>
+            <l>il tuo figlio uccise un dì!</l>
+            <l>(Sveno con supremo sforzo afferrando la spada si solleva per slanciarsi su Teodato, ma fatti alcuni passi ricade al suolo e muore. La tempesta rumoreggia co’ la massima violenza)</l>
+            <l>(gettando il suo pugnale ai piedi di Amalasunta)</l>
+            <l>Or lo prendi. ~ A te il serbai,</l>
+            <l>or che il fato si compì!</l>
+          </sp>
+          <stage>TEODATOCol tuo drudo ai danni mieiqui tessevi inganni ancora.In mia possa alfine or sei…di tua morte è giunta l’ora!…(sguainando il pugnale)Questo ferro, ah tu no ‘l sai,il tuo figlio uccise un dì!(Sveno con supremo sforzo afferrando la spada si solleva per slanciarsi su Teodato, ma fatti alcuni passi ricade al suolo e muore. La tempesta rumoreggia co’ la massima violenza)(gettando il suo pugnale ai piedi di Amalasunta)Or lo prendi. ~ A te il serbai,or che il fato si compì!</stage>
+          <sp who="#amalasunta">
+            <speaker>AMALASUNTA:</speaker>
+            <l>(afferrando il pugnale e sollevandosi in tono profetico e solenne)</l>
+            <l>Godi!… Ma ascoltami:</l>
+            <l>vicina a morte,</l>
+            <l>io la tua sorte</l>
+            <l>predico a te!</l>
+            <l>Ancora un anno…</l>
+            <l>poscia al cospetto</l>
+            <l>del cielo ~ giudice</l>
+            <l>t’aspetto ~ o re!</l>
+            <l>(si uccide e va a cadere presso il cadavere di Sveno)</l>
+          </sp>
+          <stage>AMALASUNTA(afferrando il pugnale e sollevandosi in tono profetico e solenne)Godi!… Ma ascoltami:vicina a morte,io la tua sortepredico a te!Ancora un anno…poscia al cospettodel cielo ~ giudicet’aspetto ~ o re!(si uccide e va a cadere presso il cadavere di Sveno)</stage>
+          <sp who="#lausco e svarano">
+            <speaker>LAUSCO E SVARANO:</speaker>
+            <l>Un anno!</l>
+          </sp>
+          <sp who="#teodato">
+            <speaker>TEODATO:</speaker>
+            <l>(tremante)</l>
+            <l>I delitti han forse un confine</l>
+            <l>che il piede dell’uomo varcare non può?…</l>
+          </sp>
+          <stage>TEODATO(tremante)I delitti han forse un confineche il piede dell’uomo varcare non può?…</stage>
+          <sp who="#guerrieri goti">
+            <speaker>GUERRIERI GOTI:</speaker>
+            <l>(prorompendo sulla scena con faci ed armi insanguinate)</l>
+            <l>Del sangue degli empi ~ rosseggian le sale,</l>
+            <l>già cadder svenati ~ dal nostro pugnale,</l>
+            <l>e il popol di schiavi ~ che Italia rinserra</l>
+            <l>fra i re della terra ~ Teodato acclamò!</l>
+          </sp>
+          <stage>GUERRIERI GOTI(prorompendo sulla scena con faci ed armi insanguinate)Del sangue degli empi ~ rosseggian le sale,già cadder svenati ~ dal nostro pugnale,e il popol di schiavi ~ che Italia rinserrafra i re della terra ~ Teodato acclamò!</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
