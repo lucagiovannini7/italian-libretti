@@ -1,0 +1,2840 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">’Ercole amante</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="laomedonte">
+            <persName>LAOMEDONTE:</persName>
+          </person>
+          <person xml:id="licco">
+            <persName>LICCO:</persName>
+          </person>
+          <person xml:id="deianira">
+            <persName>DEIANIRA:</persName>
+          </person>
+          <person xml:id="atto  terzo  ">
+            <persName>ATTO  TERZO  :</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="nettuno">
+            <persName>NETTUNO:</persName>
+          </person>
+          <person xml:id="eutyro">
+            <persName>EUTYRO:</persName>
+          </person>
+          <person xml:id="coro di fiumi">
+            <persName>CORO DI FIUMI:</persName>
+          </person>
+          <person xml:id="hyllo">
+            <persName>HYLLO:</persName>
+          </person>
+          <person xml:id="ercole">
+            <persName>ERCOLE:</persName>
+          </person>
+          <person xml:id="mercurio">
+            <persName>MERCURIO:</persName>
+          </person>
+          <person xml:id="prologo">
+            <persName>PROLOGO:</persName>
+          </person>
+          <person xml:id="deianira, hyllo">
+            <persName>DEIANIRA, HYLLO:</persName>
+          </person>
+          <person xml:id="venere, ercole">
+            <persName>VENERE, ERCOLE:</persName>
+          </person>
+          <person xml:id="giunone">
+            <persName>GIUNONE:</persName>
+          </person>
+          <person xml:id="bellezza">
+            <persName>BELLEZZA:</persName>
+          </person>
+          <person xml:id="atto  secondo">
+            <persName>ATTO  SECONDO:</persName>
+          </person>
+          <person xml:id="iole, hyllo">
+            <persName>IOLE, HYLLO:</persName>
+          </person>
+          <person xml:id="giunone, deianira">
+            <persName>GIUNONE, DEIANIRA,:</persName>
+          </person>
+          <person xml:id="atto  quinto  ">
+            <persName>ATTO  QUINTO  :</persName>
+          </person>
+          <person xml:id="deianira, iole, hyllo, licco">
+            <persName>DEIANIRA, IOLE, HYLLO, LICCO:</persName>
+          </person>
+          <person xml:id="deianira, iole, licco">
+            <persName>DEIANIRA, IOLE, LICCO:</persName>
+          </person>
+          <person xml:id="hyllo, iole">
+            <persName>HYLLO, IOLE:</persName>
+          </person>
+          <person xml:id="deianira, iole">
+            <persName>DEIANIRA, IOLE:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="licco, paggio">
+            <persName>LICCO, PAGGIO:</persName>
+          </person>
+          <person xml:id="venere">
+            <persName>VENERE:</persName>
+          </person>
+          <person xml:id="atto primo">
+            <persName>ATTO PRIMO:</persName>
+          </person>
+          <person xml:id="ercole, coro">
+            <persName>ERCOLE, CORO:</persName>
+          </person>
+          <person xml:id="atto  quarto  ">
+            <persName>ATTO  QUARTO  :</persName>
+          </person>
+          <person xml:id="paggio">
+            <persName>PAGGIO:</persName>
+          </person>
+          <person xml:id="pasithea">
+            <persName>PASITHEA:</persName>
+          </person>
+          <person xml:id="clerica">
+            <persName>CLERICA:</persName>
+          </person>
+          <person xml:id="deianira, hyllo">
+            <persName>DEIANIRA, HYLLO:</persName>
+          </person>
+          <person xml:id="bellezza, ercole">
+            <persName>BELLEZZA, ERCOLE:</persName>
+          </person>
+          <person xml:id="iole">
+            <persName>IOLE:</persName>
+          </person>
+          <person xml:id="busiris">
+            <persName>BUSIRIS:</persName>
+          </person>
+          <person xml:id="tevere">
+            <persName>TEVERE:</persName>
+          </person>
+          <person xml:id="cinzia">
+            <persName>CINZIA:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>CINZIA</castItem>
+        <castItem>ERCOLE</castItem>
+        <castItem>IOLE</castItem>
+        <castItem>VENERE</castItem>
+        <castItem>GIUNONE</castItem>
+        <castItem>HYLLO</castItem>
+        <castItem>DEIANIRA</castItem>
+        <castItem>MERCURIO</castItem>
+        <castItem>NETTUNO</castItem>
+        <castItem>EUTYRO</castItem>
+        <castItem>TEVERE</castItem>
+        <castItem>PASITHEA</castItem>
+        <castItem>SONNO</castItem>
+        <castItem>BELLEZZA</castItem>
+        <castItem>BUSSIRIDE</castItem>
+        <castItem>LAOMEDONTE</castItem>
+        <castItem>CLERICA</castItem>
+        <castItem>PAGGIO</castItem>
+        <castItem>LICCO</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>PROLOGO</head>
+        <sp who="#prologo">
+          <speaker>PROLOGO:</speaker>
+        </sp>
+        <div type="scene">
+          <head>Scena Unica </head>
+          <stage>(La scena rappresenta ne’ lati montagne discogli su li quali si vedono giacenti 14 fiumi,che bagnano i regni e le provincie che sonoo furono sotto la dominazione della coronadi Francia. Nella prospettiva si vede il mare,e nell’aria Cinzia che discende in una granmacchina rappresentante il di lei cielo)</stage>
+          <sp who="#coro di fiumi">
+            <speaker>CORO DI FIUMI:</speaker>
+            <l>Qual concorso indovino</l>
+            <l>oggi al mar più vicino</l>
+            <l>del festoso Parigi</l>
+            <l>noi raunò dal gemino emisfero,</l>
+            <l>noi, che del franco impero</l>
+            <l>vantiamo il nobil giogo, o i bei vestigi?</l>
+          </sp>
+          <sp who="#tevere">
+            <speaker>TEVERE:</speaker>
+            <l>Ah che mentre la terra</l>
+            <l>di lunga orrida guerra</l>
+            <l>già dileguati ammira i fati rei</l>
+            <l>ne’ beati imenei</l>
+            <l>di Maria di Luigi</l>
+            <l>adorna Cinzia di più bei candori</l>
+            <l>noi testimoni elesse</l>
+            <l>di quei, ch’a spiegar va’, gallici onori.</l>
+          </sp>
+          <sp who="#coro di fiumi">
+            <speaker>CORO DI FIUMI:</speaker>
+            <l>A i di lei veri accenti</l>
+            <l>su dunque attenti, attenti.</l>
+          </sp>
+          <sp who="#cinzia">
+            <speaker>CINZIA:</speaker>
+            <l>Ed ecco o Gallia invitta</l>
+            <l>i tuoi pregi più grandi, e immortali</l>
+            <l>mira del primo ciel ne’ puri argenti</l>
+            <l>come in tempio d’onor lampe lucenti</l>
+            <l>l’idee delle maggior stirpi reali.</l>
+            <l>Di queste il ciel con ammirabil cura,</l>
+            <l>e con stupor del tempo, e di natura,</l>
+            <l>scettri a scettri innestando, e fregi, a fregi</l>
+            <l>la prosapia formò de i franchi regi;</l>
+            <l>che qual fiume di glorie</l>
+            <l>da’ monti di Corone, e fasci alteri</l>
+            <l>trasse i fonti primieri</l>
+            <l>e accresciuto ogn’or da copiosi</l>
+            <l>torrenti di vittorie,</l>
+            <l>e da’ più generosi</l>
+            <l>rivi di sangue augusto oltre gli Achei</l>
+            <l>per interrotto, e limpido sentiero</l>
+            <l>tra margini di palme, e di trofei</l>
+            <l>inondò trionfante il mondo intero.</l>
+            <l>Alfin tra l’auree sponde</l>
+            <l>della Senna guerriera</l>
+            <l>fissò la reggia in cui benigna infonde</l>
+            <l>grazie a nembi ogni sfera,</l>
+            <l>e or più che mai prodigo</l>
+            <l>di contentezze eteree</l>
+            <l>a ibera beltà franco valore</l>
+            <l>su talamo di pace unisce Amore.</l>
+          </sp>
+          <sp who="#coro di fiumi">
+            <speaker>CORO DI FIUMI:</speaker>
+            <l>Dopo belliche noie</l>
+            <l>oh che soavi gioie!</l>
+            <l>A dolcezze sì rare oltre ogni segno</l>
+            <l>Gallia dilata il cor, non men, ch’il regno.</l>
+          </sp>
+          <sp who="#cinzia">
+            <speaker>CINZIA:</speaker>
+            <l>Ma voi che più tardate inclite idee?</l>
+            <l>Uscite ad inchinare</l>
+            <l>Anna la gran reina,</l>
+            <l>che le bell’alme onde sperar si dee</l>
+            <l>che la serie divina</l>
+            <l>de’ vostri alti nipoti il ciel confermi</l>
+            <l>ambo sono di lei rampolli, e germi.</l>
+            <l>Uscite a festeggiare</l>
+            <l>ch’in sì degna allegrezza a i vostri balli</l>
+            <l>nelle cerulee valli</l>
+            <l>già cede il campo ossequioso il mare,</l>
+            <l>e poiché qual dopo guerrieri onori</l>
+            <l>della beltà fu sposo Ercole al fine,</l>
+            <l>tal dopo mille allori</l>
+            <l>e nel primo confine</l>
+            <l>di sua florida etade il re de’ Galli,</l>
+            <l>su queste scene a i lieti Franchi innante</l>
+            <l>per accrescer diletti</l>
+            <l>riprenda oggi i coturni Ercole amante,</l>
+            <l>e veda ogn’un, che desiar non sa</l>
+            <l>un eroico valore</l>
+            <l>qui giù premio maggiore</l>
+            <l>che di godere in pace alta beltà.</l>
+          </sp>
+          <sp who="#coro di fiumi">
+            <speaker>CORO DI FIUMI:</speaker>
+            <l>Oh Gallia fortunata</l>
+            <l>già per tante vittorie,</l>
+            <l>di pace, e d’imenei l’ultime glorie</l>
+            <l>ti fanno oltre ogni speme oggi beata.</l>
+            <l>E a fin ch’a tuoi contenti</l>
+            <l>gioia ogn’or s’augumenti</l>
+            <l>ecco, ch’in te si vede</l>
+            <l>alba di nuove glorie un regio erede;</l>
+            <l>per splender più di doppio sole ornata</l>
+            <l>oh Gallia fortunata.</l>
+          </sp>
+          <stage>(Le dette Idee discendono sul palco adanzare, quindi rientrate nella medesimamacchina, questa si chiude, e le riportain cielo)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO PRIMO</head>
+        <sp who="#atto primo">
+          <speaker>ATTO PRIMO:</speaker>
+        </sp>
+        <div type="scene">
+          <head>Scena Prima</head>(La scena si cangia ne’ lati in boscareccia,e nella prospettiva in un gran paesecontiguo alla città d’Ecalia) <stage>Scena Prima(La scena si cangia ne’ lati in boscareccia,e nella prospettiva in un gran paesecontiguo alla città d’Ecalia)</stage>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>Come si beffa Amor del poter mio!</l>
+            <l>A me cui cede il mondo</l>
+            <l>farà contrasto una donzella? (oh dio!)</l>
+            <l>Come si beffa Amor del poter mio!</l>
+            <l>Dunque chi tanti mostri</l>
+            <l>vide esangui trofei di tua fortezza</l>
+            <l>scempio farà di femminil fierezza,</l>
+            <l>e trafitto cadrà da un van desio?</l>
+            <l>Come si beffa Amor del poter mio!</l>
+          </sp>
+          <stage>O di quele empietàsacrilego tiranno ogn’or riempiil credulo mio regno?Mentre ne’ di lui tempil’adorate Cottinedi grazia, e di beltànon celano altro alfinech’idoli abominevoli qua sonointeresse, perfidia, orgoglio, e sdegno.Così avvien per Ioleche l’altar del cor miosparga d’alti sospir malgrati i fiumi,e che vittima infausta io mi consumi.Ah Cupido io non so già…</stage>
+        </div>
+        <div type="scene">
+          <head>Scena Seconda</head>(Cala dal cielo Venere con leGrazie in una macchina. Venere,Ercole, Coro di grazie) <stage>Scena Seconda(Cala dal cielo Venere con leGrazie in una macchina. Venere,Ercole, Coro di grazie)</stage>
+          <sp who="#venere">
+            <speaker>VENERE:</speaker>
+            <l>Se ninfa a i pianti</l>
+            <l>di veri amanti</l>
+            <l>non mai pieghevole</l>
+            <l>niega mercé;</l>
+            <l>di ciò colpevole</l>
+            <l>amor non è.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Se ninfa a i pianti</l>
+            <l>di veri amanti</l>
+            <l>non mai pieghevole</l>
+            <l>niega mercé;</l>
+            <l>di ciò colpevole</l>
+            <l>amor non è.</l>
+          </sp>
+          <sp who="#venere">
+            <speaker>VENERE:</speaker>
+            <l>Scoglio sì rigido</l>
+            <l>mostro sì frigido</l>
+            <l>non regge il mar</l>
+            <l>ch’amato al pari non deva amar.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Scoglio sì rigido</l>
+            <l>mostro sì frigido</l>
+            <l>non regge il mar</l>
+            <l>ch’amato al pari non deva amar.</l>
+          </sp>
+          <sp who="#venere">
+            <speaker>VENERE:</speaker>
+            <l>Ogn’impero ha ribelli</l>
+            <l>trasgressori ogni legge</l>
+            <l>or come e questi, e quelli</l>
+            <l>giusta forza corregge,</l>
+            <l>sì con soave incanto</l>
+            <l>(ch’al dominio d’Amore</l>
+            <l>forza è la più conforme)</l>
+            <l>superare a tuo pro spero il rigore</l>
+            <l>che maligna fortuna,</l>
+            <l>sempre al mio figlio avversa</l>
+            <l>d’Iole in sen per tuo tormento aduna;</l>
+            <l>e godrai de’ miei detti</l>
+            <l>oggi al giardin de’ fiori i dolci effetti.</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>O déa se tanto alle mie brame ottieni</l>
+            <l>giusto sia ch’io t’accenda</l>
+            <l>tutte d’Arabia l’odorate selve,</l>
+            <l>e che tutte a te sveni</l>
+            <l>dell’Erimanto le zannute belve;</l>
+            <l>ch’il ciel non può versare</l>
+            <l>de i contenti d’Amor grazie più care.</l>
+          </sp>
+          <sp who="#venere">
+            <speaker>VENERE:</speaker>
+            <l>Vanne al loco, e m’attendi, e fa ch’Iole</l>
+            <l>pur vi renda pria che manchi il sole,</l>
+            <l>ch’io dell’armi provvista</l>
+            <l>onde sua ferità vincer presumo,</l>
+            <l>preverrò diligente i di lei passi</l>
+            <l>per dispor quivi pria, ch’ella vi giunga.</l>
+            <l>Rovente acuto strale,</l>
+            <l>che per te l’arda, e punga.</l>
+          </sp>
+          <sp who="#venere, ercole">
+            <speaker>VENERE, ERCOLE:</speaker>
+            <l>Fuggano a vol</l>
+            <l>dal bell’impero</l>
+            <l>del nume arciero</l>
+            <l>le pene, e ‘l duol.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>E in lui così</l>
+            <l>gioie sol piovino,</l>
+            <l>e si rinnovino</l>
+            <l>quegli aurei dì.</l>
+          </sp>
+          <sp who="#venere, ercole">
+            <speaker>VENERE, ERCOLE:</speaker>
+            <l>Struggasi il gel</l>
+            <l>d’ogni fierezza</l>
+            <l>ogni amarezza</l>
+            <l>il cangi in miel.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>E in lui così</l>
+            <l>gioie sol piovino,</l>
+            <l>e si rinnovino</l>
+            <l>quegli aurei dì.</l>
+          </sp>
+          <stage>(La macchina di Venere rimonta al cielo)</stage>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>Infelice, e disperato</l>
+            <l>mentre mestissimo</l>
+            <l>vò notte, e dì,</l>
+            <l>qual di bene inaspettato</l>
+            <l>raggio purissimom’apparì?</l>
+          </sp>
+          <sp who="#ercole, coro">
+            <speaker>ERCOLE, CORO:</speaker>
+            <l>Ah che s’acceso un cor</l>
+            <l>avvien mai che disperi,</l>
+            <l>non sa come in amor</l>
+            <l>con sovrano poter fortuna imperi,</l>
+            <l>di tal nume alla possanza</l>
+            <l>nulla invincibile</l>
+            <l>già mai si dà</l>
+            <l>egli ogn’or con gran baldanza</l>
+            <l>fin l’impossibileceder fa.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena Terza </head>(Nel resto de’ nuvoli di detta macchinaessendo ascosa Giunone, questa sidiscende assisa in un gran panone) <stage>Scena Terza (Nel resto de’ nuvoli di detta macchinaessendo ascosa Giunone, questa sidiscende assisa in un gran panone)</stage>
+          <sp who="#giunone">
+            <speaker>GIUNONE:</speaker>
+            <l>E vuol dunque ciprigna,</l>
+            <l>per far contro di me gl’ultimi sforzi</l>
+            <l>de’ più pungenti oltraggi,</l>
+            <l>favorir chi le voglie ebbe si intese</l>
+            <l>ad offendermi ogn’ora,</l>
+            <l>che ne gli impuri suoi principi ancora</l>
+            <l>prima d’esser m’offese?</l>
+            <l>Chi pria di spirar l’aure</l>
+            <l>spirò desio di danneggiarmi, e dopo</l>
+            <l>aver dal petto mio</l>
+            <l>tratti i primi alimenti al viver suo,</l>
+            <l>con ingrata insolenza</l>
+            <l>d’uccidermi tentando osò ferirmi?</l>
+            <l>Ah ch’intesi i disegni</l>
+            <l>ma non fia ch’a distrarli altri m’insegni.</l>
+            <l>Di reciproco affetto</l>
+            <l>ardon Hyllo, e Iole,</l>
+            <l>e sol per mio dispetto</l>
+            <l>l’iniqua déa non vuole,</l>
+            <l>ch’Imeneo li congiunga? anzi procura</l>
+            <l>per il mio scorno maggiore,</l>
+            <l>ch’il nodo maritale ond’è ristretto</l>
+            <l>Ercole a Deidamia alfin si rompa;</l>
+            <l>a ciò ch’Iolea questi</l>
+            <l>del di lei genitore empio omicida</l>
+            <l>con mostruosi amplessi oggi s’innesti.</l>
+            <l>E con qual’arte oh dio? con arti indegne</l>
+            <l>d’ogni anima più vil non che divina.</l>
+          </sp>
+          <stage>(Giunone parte e fa cader dalle nuvoledella sua macchina, tempeste e fulmini cheformano una danza per fine del primo atto)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO  SECONDO</head>
+        <sp who="#atto  secondo">
+          <speaker>ATTO  SECONDO:</speaker>
+        </sp>
+        <div type="scene">
+          <head>Scena Prima</head>(La scena si cangia in un gran cortiledel palazzo reale. Hyllo, e Iole) <stage>Scena Prima(La scena si cangia in un gran cortiledel palazzo reale. Hyllo, e Iole)</stage>
+          <sp who="#hyllo, iole">
+            <speaker>HYLLO, IOLE:</speaker>
+            <l>Amor ardor più rari</l>
+            <l>accesi mai non ha,</l>
+            <l>che quelli onde del pari</l>
+            <l>le nostre alme disfà</l>
+            <l>d’avverso ciel le lampe</l>
+            <l>contro di lui si sforzino,</l>
+            <l>ch’in vece, che l’amorzino,</l>
+            <l>l’arricchiran di vampe.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Pure alfine il rispetto</l>
+            <l>di figlio al genitor sia che in te cangi</l>
+            <l>sì amoroso linguaggio.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Che più tosto il tuo affetto</l>
+            <l>non renda anch’egli al forte Alcide omaggio.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Ah che forzar un core</l>
+            <l>nol puote altri che Amore.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>E di rivale il titolo odioso</l>
+            <l>qualunque altro bel nome,</l>
+            <l>che concorra con lui, rende ozioso;</l>
+            <l>una sol vita il genitor mi diede,</l>
+            <l>e per te, che mia vita</l>
+            <l>molto più cara sei</l>
+            <l>mille volte darei.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>E per te sol mio bene,</l>
+            <l>all’empio usurpator contenta i’ cedo</l>
+            <l>il regno, e ‘l mondo tutto, e te sol chiedo.</l>
+          </sp>
+          <sp who="#hyllo, iole">
+            <speaker>HYLLO, IOLE:</speaker>
+            <l>Gare d’affetto ardenti</l>
+            <l>deh non cedete a i guai,</l>
+            <l>e nel goder non vi stancate mai,</l>
+            <l>che de’ vostri argomenti</l>
+            <l>nell’uguaglianza sol tutta si sta</l>
+            <l>l’amorosa felicità.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena Seconda</head>
+          <stage>(Paggio, Iole, e Hyllo)</stage>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Ercole a dirti invia, ch’altro non bada,</l>
+            <l>che di saper, se nel giardin de’ fiori</l>
+            <l>di condurti a diporto oggi t’aggrada.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Come si ha, che ciò neghi?</l>
+            <l>D’un che sovra di me le stelle alzato</l>
+            <l>son comandi anco i prieghi.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Ahi qual torbido, e amaro</l>
+            <l>velen presaga gelosia m’appresta,</l>
+            <l>di cui solo il timor già mi funesta.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Non temere Hyllocaro:</l>
+            <l>che non potrà mai violenzaardita</l>
+            <l>togliermi a te, senza a me tor la vita.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>E quando anche in tal guisa</l>
+            <l>ogn’un meco ti perda amato bene,</l>
+            <l>qual miglior sorte avrò, che cangiar pene?</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Da sì grave timor l’alma disvezza,</l>
+            <l>che quanto Ercol per me palesa affetto,</l>
+            <l>tant’ha rispetto, ed io per te fermezza.</l>
+          </sp>
+          <stage>(al Paggio)</stage>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>E quando io non son teco?</l>
+            <l>Se dovunque il mio piè giri, o la mente</l>
+            <l>t’adoro ogn’or presente.</l>
+            <l>Chi può vivere un sol istante</l>
+            <l>lunge dal bello che l’invaghì,</l>
+            <l>dica pur, ch’in lui morì</l>
+            <l>ogni pregio di vero amante;</l>
+            <l>d’amore il foco</l>
+            <l>per ogni poco</l>
+            <l>ch’intiepidiscasi ghiaccio diviene,</l>
+            <l>e le di lui catene</l>
+            <l>più strettamente avvolte</l>
+            <l>ogni poco, che cedano, son sciolte.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>O gloria</l>
+            <l>d’Amor più nobile</l>
+            <l>con fede immobile</l>
+            <l>sempr’arder più;</l>
+            <l>che la vittoria</l>
+            <l>mancassi tu.</l>
+            <l>Si sciolgono</l>
+            <l>qual’or gl’instabili</l>
+            <l>rei più dannabili</l>
+            <l>Amor non ha.</l>
+            <l>Lo spoglionodi deità</l>
+            <l>poiché gli toglionol’eternità.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ScenaTerza</head>(Paggio) <stage>ScenaTerza(Paggio)</stage>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>E che cosa è quest’amore?</l>
+            <l>Di cui parlan tanto in corte,</l>
+            <l>e canzon di mille sorte</l>
+            <l>di lui cantano a tutt’ore.</l>
+            <l>Egli è qualche ciurmadore</l>
+            <l>poi che a quel, che sento dire</l>
+            <l>(senza punto intender come)</l>
+            <l>mentre a stille dà il gioire</l>
+            <l>e il penar dispensa a some,</l>
+            <l>fassi il mondo adoratore</l>
+            <l>egli è qualche ciurmadore.</l>
+            <l>Di vederlo ebbi gran brame</l>
+            <l>ma poi seppi, ch’è impossibile,</l>
+            <l>ch’egli sia già mai visibile</l>
+            <l>perché sempre è con le dame,</l>
+            <l>e che queste al finger dotte</l>
+            <l>se lo tengano celato,</l>
+            <l>come s’ei stesse appiattato</l>
+            <l>dentro le cimmerie grotte.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena Quarta</head>
+          <stage>(Deianira, Licco, Paggio)</stage>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Buon dì gentil fanciullo?</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>E buona notte.</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Ma dove in tanta fretta?</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>A far da gran messaggio.</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Ascolta un poco, aspetta;</l>
+            <l>che so qual possa aver faccende un Paggio.</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>E che ti fai? ch’Iole</l>
+            <l>ad Ercole…</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>T’invia.</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Sì affé m’invia…</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>A dirgli.</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>È vero a dirgli…</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Ch’al giardino de’ fiori</l>
+            <l>ella si renderà com’ei desia.</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Sei tu qualche indovino?</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>E ben famoso,</l>
+            <l>ch’in simil guisa a me nulla è nascoso.</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Ah crudo, ah disleale,</l>
+            <l>ah traditore, ingrato,</l>
+            <l>ah scelerato, e empio</l>
+            <l>dell’amor coniugale</l>
+            <l>tra noi tanto giurato.</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Che? cotesta straniera</l>
+            <l>anch’essa è innamorata?</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Così mi dice, ma d’amor ben vero,</l>
+            <l>come saggio io non credo,</l>
+            <l>ch’a gli uomini poco,</l>
+            <l>e alle donne un zero.</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Basta per questa corte ogn’or volare</l>
+            <l>si vede un sì gran numero d’amori,</l>
+            <l>che non abbiamo a fare,</l>
+            <l>che ne vengan di fuori.</l>
+            <l>Ama Hyllo Ioleriamato, e l’ama</l>
+            <l>Ercole assai malvisto, ama Nicandro</l>
+            <l>Licori, e questa Oreste, e Oreste Olinda,</l>
+            <l>e Olinda, e Celia scaltre</l>
+            <l>aman le gemme, e l’oro,</l>
+            <l>e Niso, e Alidoro aman cent’altre.</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>E perché ha in odio IoleErcole?</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Perché uccise Eutyro.</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>E amail figlio poi di chi gli uccise il padre?</l>
+            <l>Ha la pianta in orrore, e ama il frutto?</l>
+            <l>Che vuoi giocar ch’io so</l>
+            <l>la ragion che di ciò</l>
+            <l>ella in sé covane?</l>
+            <l>Un d’essi è troppo adulto,</l>
+            <l>e l’altro è giovane</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Fin da principio Ioleardea per Hyllo</l>
+            <l>onde per compiacerla</l>
+            <l>le già date promesse</l>
+            <l>delle nozze di lei ritolse Eutyro</l>
+            <l>ad Ercole, ch’al fin si mal soffriro,</l>
+            <l>ch’una tal dalla figlia opra gradita</l>
+            <l>all’infelice re costò la vita.</l>
+            <l>E tu, ch’il tutto fai</l>
+            <l>non fai, ch’Ercol’ m’attende?</l>
+            <l>e ch’egli è amante?</l>
+            <l>E che fra quanti mai</l>
+            <l>ardono al mondo d’amorosa fiamma</l>
+            <l>non v’è di pazienza una sol dramma.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena Quinta</head>(Deianira, Licco) <stage>Scena Quinta(Deianira, Licco)</stage>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Misera, ohimè, ch’ascolto.</l>
+            <l>Non so, se più gelosa</l>
+            <l>esser dea come madre, o come sposa;</l>
+            <l>che comune è il periglio</l>
+            <l>alla mia fede coniugale,</l>
+            <l>e al figlio;</l>
+            <l>almen con soffrir l’uno</l>
+            <l>schivar l’altro potessi:</l>
+            <l>oh dio qual sorte</l>
+            <l>prefisse iniquo fato a i miei natali:</l>
+            <l>ch’io soffra a doppio i mali,</l>
+            <l>né per schivarne alcun basti mia morte.</l>
+            <l>O presagi funesti:</l>
+            <l>Ercol’ spirti non ha, se non feroci,</l>
+            <l>e non ferian già questi</l>
+            <l>i di lui primi patricidi atroci.</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Ah fu sempre in amor stolto consiglio</l>
+            <l>il cercar di sapere</l>
+            <l>punto di più, che quel basta a godere;</l>
+            <l>copron l’indiche balze</l>
+            <l>sotto aspetto villan viscere d’oro;</l>
+            <l>ma ben contrario affato</l>
+            <l>l’amoroso terreno</l>
+            <l>sotto una superficie preziosa</l>
+            <l>sol cattiva materia ha in sé nascosa.</l>
+            <l>Onde chi vuole in lui</l>
+            <l>gir scavando tal’or con mesta prova</l>
+            <l>più s’inoltra a cercar peggio ritrova;</l>
+            <l>ben lo dicea, che noi sarem venuti</l>
+            <l>a incontrar pene, e rischi:</l>
+            <l>ah che d’Ercole irato</l>
+            <l>qualche stral ben rotato</l>
+            <l>parmi lenir, ch’intorno a me già fischi.</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Ah Licco il cor ti manca,</l>
+            <l>ohimè, che fia di me</l>
+            <l>senza il tuo aiuto?</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Ah Deianira:</l>
+            <l>dunque, dunque tu temi?</l>
+            <l>Io non ho già paura.</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>E in tanto tremi.</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Ma vè; poiché nel mondo</l>
+            <l>ogni cosa ha misura;</l>
+            <l>forz’è che l’abbia ancor la mia bravura</l>
+            <l>e siccome tra quelli,</l>
+            <l>che se nemico ciel senza danari</l>
+            <l>chi ha quattro soldi è ricco:</l>
+            <l>così per bravo io solamente spicco</l>
+            <l>fra tutti quanti li poltron miei pari.</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Dunque che far dovrem?</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>N’han già cangiati</l>
+            <l>in guisa tal questi abiti villani,</l>
+            <l>che se guardinghi andremo</l>
+            <l>ad altro non potrà, ch’alla favella</l>
+            <l>Ercole riconoscente: per tanto</l>
+            <l>avvertir ne conviene</l>
+            <l>che qualche beffa, o crocchio</l>
+            <l>(grazie, ch’alli stranier versa ogni corte)</l>
+            <l>non c’irriti a parlare, e di tal sorte</l>
+            <l>farem la guerra all’occhio.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena Sesta</head>(La scena si cangia nella grotta del Sonno.Pasithea, il Sonno, Coro d’Aure e Ruscelli) <stage>Scena Sesta(La scena si cangia nella grotta del Sonno.Pasithea, il Sonno, Coro d’Aure e Ruscelli)</stage>
+          <sp who="#pasithea">
+            <speaker>PASITHEA:</speaker>
+            <l>Mormorateo fiumicelli,</l>
+            <l>sussurrateo ventricelli,</l>
+            <l>e col vostro susurro, e mormorio</l>
+            <l>dolci incanti dell’oblio,</l>
+            <l>ch’ogni cura fugar ponno</l>
+            <l>lusingate al sonno il Sonno.</l>
+            <l>Chi da ver ama</l>
+            <l>vieppiù il diletto</l>
+            <l>del caro oggetto</l>
+            <l>che ‘l proprio brama,</l>
+            <l>quind’è ch’io posi</l>
+            <l>la notte, e ‘l die</l>
+            <l>le contentezze mie</l>
+            <l>del consorte gentil ne’ bei riposi.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Dormi, dormi, o Sonno dormi</l>
+            <l>fra le braccia a Pasithea</l>
+            <l>ninfa aver non ti potea</l>
+            <l>più d’affetti a tuoi confronti:</l>
+            <l>dormi, dormi o Sonno dormi.</l>
+            <l>Dormi, dormi o Sonno dormi</l>
+            <l>sovra a te gli amori istessi</l>
+            <l>lente movano le piume;</l>
+            <l>e al tuo cor placido nume,</l>
+            <l>gelosia mai non appressi</l>
+            <l>de’ suoi rei sospetti i stormi</l>
+            <l>dormi, dormi o Sonno dormi.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena Settima</head>(Cala Giunone dal cielo. Giunone, Pasithea,il Sonno, Coro d’Aure e Ruscelli) <stage>Scena Settima(Cala Giunone dal cielo. Giunone, Pasithea,il Sonno, Coro d’Aure e Ruscelli)</stage>
+          <sp who="#pasithea">
+            <speaker>PASITHEA:</speaker>
+            <l>O déa sublime déa,</l>
+            <l>e qual nuovo desio</l>
+            <l>a quest’umile albergo oggi ti mena?</l>
+          </sp>
+          <sp who="#giunone">
+            <speaker>GIUNONE:</speaker>
+            <l>Zelo dell’onor mio</l>
+            <l>e della fede altrui</l>
+            <l>a me già sacra, e da sacrarsi, a cui</l>
+            <l>e frodi, e violenzealtri prepara,</l>
+            <l>onde per fare a ciò schermo innocente</l>
+            <l>sol per una breve ora</l>
+            <l>di condur meco il Sonno uopo mi fora.</l>
+          </sp>
+          <sp who="#pasithea">
+            <speaker>PASITHEA:</speaker>
+            <l>Ohimè di nuovo esporre</l>
+            <l>di Giove all’ire ogni mio ben vorrai?</l>
+            <l>No, ciò non sia più mai.</l>
+          </sp>
+          <sp who="#giunone">
+            <speaker>GIUNONE:</speaker>
+            <l>Non temer Pasithea,</l>
+            <l>che solo è mio pensiero</l>
+            <l>di valermi di lui con men che numi</l>
+            <l>di già soggetti al di lui pigro impero.</l>
+          </sp>
+          <sp who="#pasithea">
+            <speaker>PASITHEA:</speaker>
+            <l>E di ciò m’assicuri?</l>
+          </sp>
+          <sp who="#giunone">
+            <speaker>GIUNONE:</speaker>
+            <l>S’ancor vuoi che te ‘l giuri</l>
+            <l>su ‘l germano di lui lo stigio Lete.</l>
+          </sp>
+          <sp who="#pasithea">
+            <speaker>PASITHEA:</speaker>
+            <l>Basta Giuno: quiete</l>
+            <l>son già le mie voglie al tuo desir sovrano.</l>
+          </sp>
+          <sp who="#giunone">
+            <speaker>GIUNONE:</speaker>
+            <l>Porgilo dunque a me, diva, pian piano…</l>
+          </sp>
+          <stage>(Giunone prende nel suocarro il Sonno e parte)</stage>
+          <sp who="#giunone">
+            <speaker>GIUNONE:</speaker>
+            <l>Dell’amorose pene</l>
+            <l>sospirato ristoro,</l>
+            <l>vital dolce tesoro,</l>
+            <l>ch’il mondo più che Cerere mantiene</l>
+            <l>dal neghittoso speco</l>
+            <l>soffri di venir meco,</l>
+            <l>ch’Amore oggi dispone</l>
+            <l>contro l’empia insolenza</l>
+            <l>di straniera potenza</l>
+            <l>della sua libertà fatti campione.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Le rugiade più preziose</l>
+            <l>tuoi papaveri ogn’or bagnino,</l>
+            <l>e per tutto gigli, e rose</l>
+            <l>co’ lor aliti t’accompagnino.</l>
+          </sp>
+          <sp who="#pasithea">
+            <speaker>PASITHEA:</speaker>
+            <l>Vanne, e fa breve dimora,</l>
+            <l>che s’il tuo tardar noioso</l>
+            <l>ad ogn’un tanto è penoso,</l>
+            <l>che sarà per chi t’adora?</l>
+            <l>E Amore ha ben la gloria</l>
+            <l>di saper nel Sonno ancora</l>
+            <l>tener desta la memoria.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Le rugiade più preziose</l>
+            <l>tuoi papaveri ogn’or bagnino,</l>
+            <l>e per tutto gigli, e rose</l>
+            <l>co’ lor aliti t’accompagnino.</l>
+          </sp>
+          <stage>(Li Sogni giacenti per la grotta formanosognando la 3ª. danza per fine del 2º. atto)</stage>
+          <stage> </stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ATTO  TERZO  </head>
+        <sp who="#atto  terzo  ">
+          <speaker>ATTO  TERZO  :</speaker>
+        </sp>
+        <div type="scene">
+          <head>Scena Prima</head>
+          <stage>(Si cangia la scena in un giardino d’Ecalia,e Venere caladal cielo a terra, in unanuvola, che sparisce. Venere, Ercole)</stage>
+          <sp who="#venere">
+            <speaker>VENERE:</speaker>
+            <l>Sol s’inarcan gli emisferi per stupor</l>
+            <l>che trovar l’inferno io speri</l>
+            <l>più cortese oggi, ch’Amor,</l>
+            <l>ma per me fin dalla cuna</l>
+            <l>fu geloso ei del suo imper,</l>
+            <l>e vi soffre di fortuna</l>
+            <l>il tirannico voler,</l>
+            <l>che timor non gli arreca,</l>
+            <l>compagnia nel regnar pur che sia cieca.</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>E per me cangi o déale delizie del ciel</l>
+            <l>con questo suoloed’or perché non manda</l>
+            <l>la palude Lerneàe</l>
+            <l>la selva Nemeànov’idre,</l>
+            <l>altri leoni afar qui meco</l>
+            <l>gloriosi contrasti,</l>
+            <l>onde a te formi</l>
+            <l>o déa grati olocausti.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>VENERE</head>Pur ch’io giunga a cangiar nel crudo senod’Iole il core, e te lo renda amantene trarrò tal piacere,che sia d’ogni opra mia premio bastante,mira quest’è la verga onde fa Circemagiche maraviglie;al di cui moto ubbidienti ancelleper patto inalterabile son tuttede’ lidi Acherontei l’anime felleor in virtù di sì potente stelodove tocco la terranascerà seggio erboso in cui riposte,da spiriti lascivi a ciò costrettile mandragore oscenedi pallido color la Lidia pietrae d’amorose rondinelle i corifaran ch’Ioleallor, ch’in lui s’affidacangi per te il suo sdegnoin dolci amori.<sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Pur ch’io giunga a cangiar nel crudo seno</l>
+          <l>d’Iole il core, e te lo renda amante</l>
+          <l>ne trarrò tal piacere,</l>
+          <l>che sia d’ogni opra mia premio bastante,</l>
+          <l>mira quest’è la verga onde fa Circe</l>
+          <l>magiche maraviglie;</l>
+          <l>al di cui moto ubbidienti ancelle</l>
+          <l>per patto inalterabile son tutte</l>
+          <l>de’ lidi Acherontei l’anime felle</l>
+          <l>or in virtù di sì potente stelo</l>
+          <l>dove tocco la terra</l>
+          <l>nascerà seggio erboso in cui riposte,</l>
+          <l>da spiriti lascivi a ciò costretti</l>
+          <l>le mandragore oscene</l>
+          <l>di pallido color la Lidia pietra</l>
+          <l>e d’amorose rondinelle i cori</l>
+          <l>faran ch’Ioleallor, ch’in lui s’affida</l>
+          <l>cangi per te il suo sdegno</l>
+          <l>in dolci amori.</l>
+        </sp>
+        <sp who="#ercole">
+          <speaker>ERCOLE:</speaker>
+          <l>Diva ad opre sì rare</l>
+          <l>insolito tremor tutto mi scuote,</l>
+          <l>e poi ch’esser non puote</l>
+          <l>timor (da me non conosciuto ancora)</l>
+          <l>forz’èche sia per inspirar superno;</l>
+          <l>di futuro gioir presagio interno.</l>
+          <l>Ma pur nel pensier mio sceman di pregio</l>
+          <l>quelli, ch’a me prometti sospirati diletti,</l>
+          <l>qual’or lasso m’avveggio</l>
+          <l>ch’a far miei dì giocondi</l>
+          <l>tratte non sian tal gioie</l>
+          <l>dal mar d’amor, ma da gli stigij fondi.</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>VENERE</head>Odi questa canzonpur che tu godach’importa a te?Che sia per frodao per mercé?Pur che tu godach’importa a te?Ch’altro è l’amare?Ch’un guerreggiare,ove in trionfo egual lieti sen vannoil valor’, e l’inganno;infelice non sai?Che nel gran regno del mio figlio arcieronon v’è (tolto il penar) nulla di vero.Prendi il crin, che fortunaper mia man t’offre in dono.Torbido rivo ancoraspegne sete infinita,e per languida inedia un che si moranon sceglie i cibi a sostenersi in vita:ma mentre a te giusta ragion m’involase d’altro uopo ti siaMercurio invierò, che ratto vola.<sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Odi questa canzon</l>
+          <l>pur che tu goda</l>
+          <l>ch’importa a te?</l>
+          <l>Che sia per froda</l>
+          <l>o per mercé?</l>
+          <l>Pur che tu goda</l>
+          <l>ch’importa a te?</l>
+          <l>Ch’altro è l’amare?</l>
+          <l>Ch’un guerreggiare,</l>
+          <l>ove in trionfo egual lieti sen vanno</l>
+          <l>il valor’, e l’inganno;</l>
+          <l>infelice non sai?</l>
+          <l>Che nel gran regno del mio figlio arciero</l>
+          <l>non v’è (tolto il penar) nulla di vero.</l>
+          <l>Prendi il crin, che fortuna</l>
+          <l>per mia man t’offre in dono.</l>
+          <l>Torbido rivo ancora</l>
+          <l>spegne sete infinita,</l>
+          <l>e per languida inedia un che si mora</l>
+          <l>non sceglie i cibi a sostenersi in vita:</l>
+          <l>ma mentre a te giusta ragion m’invola</l>
+          <l>se d’altro uopo ti sia</l>
+          <l>Mercurio invierò, che ratto vola.</l>
+        </sp>
+        <sp who="#venere, ercole">
+          <speaker>VENERE, ERCOLE:</speaker>
+          <l>E perché Amor non fa,</l>
+          <l>ch’all’amorosa schiera</l>
+          <l>sol delle gioie sue sia dispensiera</l>
+          <l>o ragione, o pietà?</l>
+          <l>E perché crudeltà</l>
+          <l>perché il rigor,</l>
+          <l>in guardia ogn’or le avrà?</l>
+          <l>Dunque per involarle ogn’arte ancor</l>
+          <l>lecita altrui sarà.</l>
+          <l>D’un ardente desio giungerà ‘l segno</l>
+          <l>sì, sì, gioco è d’ingegno.</l>
+        </sp>
+        <div type="scene">
+          <head>Scena Seconda</head>
+          <stage>(Ercole, Paggio)</stage>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>Amor contar ben puoi</l>
+            <l>fra tuoi non minor vanti</l>
+            <l>che dell’ardir, che torre a me non seppe</l>
+            <l>co’ latrati di Cerbero, e orrendi</l>
+            <l>strepiti suoi lo spaventoso abisso;</l>
+            <l>tu disarmato m’hai, sì ch’io, che colsi</l>
+            <l>ad onta del terribile custode,</l>
+            <l>con intrepida man l’Esperie frutta,</l>
+            <l>quasi di sostenere or non ardisco</l>
+            <l>l’avvicinar del bel per cui languisco.</l>
+            <l>O quale instillano</l>
+            <l>in arso petto</l>
+            <l>rai, che sfavillano</l>
+            <l>di gran beltà,</l>
+            <l>umil rispetto,bassa umiltà:</l>
+            <l>il ciel ben sa</l>
+            <l>a sì suprema</l>
+            <l>adorabil maestà,</l>
+            <l>s’ei pur non trema?</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Sarà com’hai disposto</l>
+            <l>Iolequi ben tosto.</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>E dove la trovasti?</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Nel cortil regio a favellar d’amore.</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>A favellar d’amor? con chi? deh dillo,</l>
+            <l>dell’amor mio?</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Dell’amor suo con Hyllo.</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>Come? Dunque il mio figlio</l>
+            <l>mio rivale divenne?</l>
+            <l>A tal temerità sarebbe ei giunto?</l>
+            <l>Tu non hai ben compreso</l>
+            <l>semplicetto garzone.</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Eccoli appunto.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena Terza</head>(Ercole, Iole, Hyllo, Corodi Damigelle, e Paggio) <stage>Scena Terza(Ercole, Iole, Hyllo, Corodi Damigelle, e Paggio)</stage>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>Bella Iole, e quando mai</l>
+            <l>sentirai</l>
+            <l>di me pietà?</l>
+            <l>Chi la chiede al tuo rigore</l>
+            <l>ha valore</l>
+            <l>per domare ogn’impietà</l>
+            <l>ma non fia, che teco impieghi</l>
+            <l>se non prieghi</l>
+            <l>e mesti lai;</l>
+            <l>bell’Iole, e quando mai?</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Quando il mio cor capace</l>
+            <l>fosse d’un lieve amor per chi m’uccise</l>
+            <l>il genitor diletto</l>
+            <l>aver per me dovresti</l>
+            <l>orrore, e non affetto.</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>Ah bella Iole</l>
+            <l>a sì gran crine, e di sì gran castigo</l>
+            <l>degno, qual per me fora</l>
+            <l>l’impossibilità dell’amor tuo:</l>
+            <l>imputar mi vorrai</l>
+            <l>una prova fatale,</l>
+            <l>e un impulso senza freno, oh dio,</l>
+            <l>dell’infinito ardor, dell’amor mio?</l>
+            <l>Quand’il tonante istesso</l>
+            <l>negarmi con Eutyro,</l>
+            <l>avesse ardito un ben sì desiato,</l>
+            <l>e a me promesso,</l>
+            <l>come già contro il sole,</l>
+            <l>e ‘l dio triforme</l>
+            <l>stato non fora contra lui men parco</l>
+            <l>di strali avvelenati il mio grand’arco.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Io sola fui cagion,</l>
+            <l>che il re mio padre</l>
+            <l>rompesse a te la data fede.</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>Ah come</l>
+            <l>a ciò tu l’inducesti?</l>
+            <l>Dunque tu l’uccidesti.</l>
+            <l>Che d’un mal, che si feo,</l>
+            <l>chi la causa ne diè, quegli n’è reo.</l>
+            <l>Ma pon bella in oblio</l>
+            <l>sì funeste memorie, e sì noiose,</l>
+            <l>e qui meco t’affidi,</l>
+            <l>poiché depost’anch’io</l>
+            <l>l’innata mia ferocia, anzi cangiata</l>
+            <l>in conocchia la clava</l>
+            <l>ravisar ti farò, che quale ogn’altra</l>
+            <l>tua più devota ancella</l>
+            <l>non mai prenderò a vile</l>
+            <l>di renderti ogni ossequio il più servile.</l>
+          </sp>
+          <stage>(Iole si siede sulla poltrona infestata edHercules continua il suo discorso parlandoal titano Atlas. Iole inizia a sentire gli effettidell’incantesimo)</stage>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Ma qual? ma come io sento</l>
+            <l>spuntare entro il mio petto</l>
+            <l>per te improvviso, e involontario affetto</l>
+            <l>onde forz’è ch’io t’ami</l>
+            <l>e ch’amor mio ti chiami.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Ohimè, ch’ascolto!</l>
+            <l>E non sogno? e son desto?</l>
+            <l>e non già stolto?</l>
+            <l>Così cangiasi Iole?</l>
+            <l>Fragil feminea fede;</l>
+            <l>ben merta i tradimenti un, che ti crede.</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>Hyllo, di che ti offendi?</l>
+            <l>Che senso ha tal linguaggio?</l>
+            <l>(Non mal l’intese il Paggio)</l>
+            <l>ami tu dunque Iole?</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>HYLLO</head>Io per un’empiaingrata al padre, al mondo, al ciel spergiura,che soffrissi nel cuor d’amor l’arsura?Per una sì mutabile, ch’a un trattocon subito contentoalla mia genitrice, a Deianiratecò a far sì gran torto (ohimè) cospira?Versi pria sul mio capo irato Giovetutti i fulmini suoi,e il più negro baratto m’ingoi.<sp who="#hyllo">
+          <speaker>HYLLO:</speaker>
+          <l>Io per un’empia</l>
+          <l>ingrata al padre, al mondo, al ciel spergiura,</l>
+          <l>che soffrissi nel cuor d’amor l’arsura?</l>
+          <l>Per una sì mutabile, ch’a un tratto</l>
+          <l>con subito contento</l>
+          <l>alla mia genitrice, a Deianira</l>
+          <l>tecò a far sì gran torto (ohimè) cospira?</l>
+          <l>Versi pria sul mio capo irato Giove</l>
+          <l>tutti i fulmini suoi,</l>
+          <l>e il più negro baratto m’ingoi.</l>
+        </sp>
+        <sp who="#iole">
+          <speaker>IOLE:</speaker>
+          <l>O me infelice, o misera, che fei?</l>
+          <l>Uccidetemi, oh déi.</l>
+        </sp>
+        <sp who="#ercole">
+          <speaker>ERCOLE:</speaker>
+          <l>Fin’ora a te d’Eutyro</l>
+          <l>ne men di Deianira unqua non calse.</l>
+          <l>Parti, e ringrazia il ciel; che ben ti valse,</l>
+          <l>che d’esser mite oggi disposi.</l>
+        </sp>
+        <sp who="#hyllo">
+          <speaker>HYLLO:</speaker>
+          <l>Adio:</l>
+          <l>andrò morte a cercar per quelle balze.</l>
+        </sp>
+        <div type="scene">
+          <head>Scena Quarta</head>
+          <stage>(Ercole, Iole, Paggio)</stage>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>E tu a che pensi Iole?</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>All’error mio,</l>
+            <l>se ben ciò che mia lingua</l>
+            <l>disse pur dianzi ah no,</l>
+            <l>non lo diss’io.</l>
+            <l>E l’alma forsennatta,</l>
+            <l>nel frenetico errore</l>
+            <l>altra parte non ebbe</l>
+            <l>che di gran pentimento alto dolore.</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>Deh non volere, o bella,</l>
+            <l>far con tai sentimenti</l>
+            <l>d’Hyllo più grave il fallo,</l>
+            <l>e le giuste ire mie tanto più ardenti;</l>
+            <l>di nuovo qui meco t’affidi, e pensa,</l>
+            <l>pensa meglio al tuo dire,</l>
+            <l>ch’or con rigide voglie, or con infide,</l>
+            <l>troppo è tentar di sofferenza Alcide.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>IOLE</head>(sottoposto ad incantesimo)Ah chi sì tosto involaall’attonita mentel’impression più care? e del mio senola più tenera parteper te di strano affettocon recidiva d’incostanza imprime?Chi l’avverso mio cor suolgead amarte?Ah che tra miei pensieripiù non ne trovo alcunoch’idolatra non sia de’ tuoi desiri,ah che non spiro più che i tuoi respiri.<sp who="#iole">
+          <speaker>IOLE:</speaker>
+          <l>(sottoposto ad incantesimo)</l>
+          <l>Ah chi sì tosto invola</l>
+          <l>all’attonita mente</l>
+          <l>l’impression più care? e del mio seno</l>
+          <l>la più tenera parte</l>
+          <l>per te di strano affetto</l>
+          <l>con recidiva d’incostanza imprime?</l>
+          <l>Chi l’avverso mio cor suolge</l>
+          <l>ad amarte?</l>
+          <l>Ah che tra miei pensieri</l>
+          <l>più non ne trovo alcuno</l>
+          <l>ch’idolatra non sia de’ tuoi desiri,</l>
+          <l>ah che non spiro più che i tuoi respiri.</l>
+        </sp>
+        <stage>IOLE(sottoposto ad incantesimo)Ah chi sì tosto involaall’attonita mentel’impression più care? e del mio senola più tenera parteper te di strano affettocon recidiva d’incostanza imprime?Chi l’avverso mio cor suolgead amarte?Ah che tra miei pensieripiù non ne trovo alcunoch’idolatra non sia de’ tuoi desiri,ah che non spiro più che i tuoi respiri.</stage>
+        <sp who="#ercole">
+          <speaker>ERCOLE:</speaker>
+          <l>E pur potranno in breve</l>
+          <l>dell’instabil tuo spirto</l>
+          <l>le solite vicende</l>
+          <l>ricangiar tanto amore</l>
+          <l>in più crudo rigore.</l>
+        </sp>
+        <sp who="#iole">
+          <speaker>IOLE:</speaker>
+          <l>Ciò non temer, che sono</l>
+          <l>sì fortemente rannodati, e stretti</l>
+          <l>i lacci ond’è di nuovo</l>
+          <l>per te quest’alma avvolta,</l>
+          <l>che più come scamparne ella non vede,</l>
+          <l>chiedi qual pegno vuoi della mia fede.</l>
+        </sp>
+        <sp who="#ercole">
+          <speaker>ERCOLE:</speaker>
+          <l>Dunque su di tua mano</l>
+          <l>per fermezza amorosa</l>
+          <l>quello porgimi sol d’esser mia sposa.</l>
+        </sp>
+      </div>
+      <div type="act">
+        <head>IOLE</head>Nol rifiuto, ma lascia,ch’in segrete preghieredel genitore all’oltraggiato spirtoper addolcirlo in quel che guisa almenoprima, ch’affatto a te mi doni in preda,io licenza ne chieda.<sp who="#iole">
+          <speaker>IOLE:</speaker>
+          <l>Nol rifiuto, ma lascia,</l>
+          <l>ch’in segrete preghiere</l>
+          <l>del genitore all’oltraggiato spirto</l>
+          <l>per addolcirlo in quel che guisa almeno</l>
+          <l>prima, ch’affatto a te mi doni in preda,</l>
+          <l>io licenza ne chieda.</l>
+        </sp>
+        <sp who="#ercole">
+          <speaker>ERCOLE:</speaker>
+          <l>Pur che ciò sia sol cerimonia al vento</l>
+          <l>sì, sì, ne son contento.</l>
+        </sp>
+        <div type="scene">
+          <head>Scena Quinta </head>
+          <stage>(Torna ad apparir in ariaGiunone nel suo carro col Sonno)</stage>
+          <sp who="#giunone">
+            <speaker>GIUNONE:</speaker>
+            <l>Sonno potente nume</l>
+            <l>fu qui pur opportuno il nostro arrivo;</l>
+            <l>dunque poiché tu sei</l>
+            <l>dell’innocenza amico,</l>
+            <l>e de’ misfatti rei cotanto schivo,</l>
+            <l>che da loro fuggendo</l>
+            <l>d’inesorabil vol sazi tue piume,</l>
+            <l>co’ più forti legami,</l>
+            <l>che mai tua fredda suora a te prestasse</l>
+            <l>impedisci pietoso al par, che giusto</l>
+            <l>oggi un crime il più nero,</l>
+            <l>che contro amor la frode unqua tentasse,</l>
+            <l>e con la verga a cui fu facil prova</l>
+            <l>le sempre deste lucitutte velare ad Argo</l>
+            <l>vanno veloce, e in Ercole produci</l>
+            <l>un più cieco letargo.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>E quale inaspettatosonno prodigioso</l>
+            <l>prevenendo Imeneo lega il mio sposo?</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>GIUNONE</head>Iole, Iole, ah sorgisorgi rapida, e fuggi, e t’allontanadall’incantato seggio, e a me t’appressache di ben tosto risanarti e d’uopodal magico veleno,ond’hai l’anima oppressa:prendi, fiuta quest’erba,che ne gli orti filliridi raccolsi,il cui medico odore,che le malie dilegua,ti sanerà ad un trattodalle tartaree infezioni il core.<sp who="#giunone">
+          <speaker>GIUNONE:</speaker>
+          <l>Iole, Iole, ah sorgi</l>
+          <l>sorgi rapida, e fuggi, e t’allontana</l>
+          <l>dall’incantato seggio, e a me t’appressa</l>
+          <l>che di ben tosto risanarti e d’uopo</l>
+          <l>dal magico veleno,</l>
+          <l>ond’hai l’anima oppressa:</l>
+          <l>prendi, fiuta quest’erba,</l>
+          <l>che ne gli orti filliridi raccolsi,</l>
+          <l>il cui medico odore,</l>
+          <l>che le malie dilegua,</l>
+          <l>ti sanerà ad un tratto</l>
+          <l>dalle tartaree infezioni il core.</l>
+        </sp>
+        <sp who="#iole">
+          <speaker>IOLE:</speaker>
+          <l>O diva, o déa, da quali</l>
+          <l>orridi precipizi</l>
+          <l>d’infedeltà, d’iniquità risorgo?</l>
+          <l>Ohimè! di quali errori</l>
+          <l>rea, quantunque innocente ora mi scorgo!</l>
+          <l>Pure il mio primo, e sol gradito fuoco,</l>
+          <l>ch’in me pareva estinto</l>
+          <l>mentre il cor mi ralluma,</l>
+          <l>con usura di fiamme</l>
+          <l>più che mai mi consuma.</l>
+          <l>Ma che pro? s’Hyllo intanto</l>
+          <l>l’unico mio tesoro</l>
+          <l>senza mia colpa a ragion meco irato,</l>
+          <l>a ragion da me fugge, e a torto io moro.</l>
+        </sp>
+        <sp who="#giunone">
+          <speaker>GIUNONE:</speaker>
+          <l>Ah perché perdi Iole</l>
+          <l>in superflue querele</l>
+          <l>tempo sì prezioso, Hyllonon lunge</l>
+          <l>per mio consiglio in un cespuglio ascoso</l>
+          <l>tutto guata, e ascolta.</l>
+          <l>Arma più tostoarma figlia la mano</l>
+          <l>di questo acuto acciaro,</l>
+          <l>(ch’abile a penetrare ogni riparo</l>
+          <l>per me temprò Vulcano)</l>
+          <l>e mentre imprigionato</l>
+          <l>da i legami del Sonno i più tenaci</l>
+          <l>sta quel mostro sì crudo</l>
+          <l>d’ogni difesa ignudo,</l>
+          <l>vanne, e vendica ardita</l>
+          <l>con la morte di lui</l>
+          <l>le mie offese, e i tuoi danni,</l>
+          <l>ch’altro scampo non ha d’Hyllo la vita.</l>
+          <l>Vanne, e poiché spedita al ciel’io torno</l>
+          <l>ad’ovviare in ciò l’ire di Giove</l>
+          <l>fa ch’io vi giunga il crin di lauri adorno.</l>
+        </sp>
+        <div type="scene">
+          <head>Scena Sesta</head>
+          <stage>(Iole, Hyllo, Ercole che dorme, Paggio)</stage>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>D’Eutyro anima grande</l>
+            <l>a questo core, a questo braccio imbelle</l>
+            <l>tanto furor, tanto vigor compatti</l>
+            <l>che possa or qui sacrarti,</l>
+            <l>con insigne vendetta</l>
+            <l>(universal di cui desio rimbomba)</l>
+            <l>vittima sì dovuta alla tua tomba.</l>
+            <l>Prendi o mio genitor dall’arso lido</l>
+            <l>di Flegetonte, il sangue</l>
+            <l>di quest’empio tiranno,</l>
+            <l>che nel tuo nome uccido.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Ohimè, che fai?Cessa.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Deh lascia.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Ah cessa.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Lascia se m’ami.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Ah che del pari io sono</l>
+            <l>tuo vero amante, e di lui figlio.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Ah senti:</l>
+            <l>io non l’odio già più come uccisore</l>
+            <l>del caro padre mio (senti che dico)</l>
+            <l>che come avverso al comun nostro ardore</l>
+            <l>onde più che padre egli è nemico.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Lo placherò, quando non basti il pianto,</l>
+            <l>con la mia morte.</l>
+          </sp>
+          <stage>(Hyllo strappa il pugnale a Iolee lo brandisce con decisione)</stage>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>E sì poco è gradita</l>
+            <l>la speme a te d’esser mio sposo (oh dio)</l>
+            <l>che per essa non pregipunto di più la vita?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena Settima</head>(Mercurio d’un volo risveglia Ercole e parte.Mercurio, Hyllo, Iole, Ercole, Paggio) <stage>Scena Settima(Mercurio d’un volo risveglia Ercole e parte.Mercurio, Hyllo, Iole, Ercole, Paggio)</stage>
+          <sp who="#mercurio">
+            <speaker>MERCURIO:</speaker>
+            <l>Svegliati Alcide, e mira.</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>E dove, o bella?</l>
+            <l>Dove? ah qui pur di nuovo</l>
+            <l>temerario importuno io ti ritrovo?</l>
+            <l>Ed a qual fine impugniferro micidial?</l>
+            <l>per tor la vita</l>
+            <l>a chi s’ingiustamente a te la diede?</l>
+            <l>Ah se cotanto eccede</l>
+            <l>tuo scellerato ardir, giust’è la voglia,</l>
+            <l>che quel viver ingrato,</l>
+            <l>ch’a torto a te fu dato</l>
+            <l>ora a ragione io toglia.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Ohimè, s’amore</l>
+            <l>nulla in te puote, arresta.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Ah genitore.</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>E con sì dolce nome ancor mi chiami?</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Non creder già, ch’io più di viver brami</l>
+            <l>che per mia miglior sorte</l>
+            <l>non so più desiar altro, che morte,</l>
+            <l>ma sol di parricida</l>
+            <l>l’ingiusto infame titolo rifiuto,</l>
+            <l>e s’ebbi di ciò solo un pensiero</l>
+            <l>sovra l’anima mia,</l>
+            <l>qual’or sciolta ella sia,</l>
+            <l>ogni martir più fiero,</l>
+            <l>che chiuda Averno in sé, grandini Pluto.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Alcide, ah ch’io fui quella</l>
+            <l>per vendicar Eutyro,</l>
+            <l>e per sottrarmi alle tue insidie, io quella,</l>
+            <l>che sola di trafiggerti tentai.</l>
+            <l>Quindi è, che s’Hyllouccidi,</l>
+            <l>com’essend’io sola cagion, ch’ei mora,</l>
+            <l>di me stessa farò giustizia, e or’ora</l>
+            <l>morta qui mi vedrai.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena Ottava</head>
+          <stage>(Deianira, Licco, Ercole,Iole, Hyllo, Paggio)</stage>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Ah che scorgo? il mio figlio</l>
+            <l>post’è in grave periglio?</l>
+            <l>Fors’è ben, che io mi scopra.</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Il ciel ti guardida cotanta follia,</l>
+            <l>che quando ancor</l>
+            <l>(com’è suo stil) per gioco</l>
+            <l>Ercol l’ammazzi un poco,</l>
+            <l>tu ne puoi far de gli altri;</l>
+            <l>ma se n’uccide noi ha molto peggio,</l>
+            <l>che poi chi ne resusciti, nol veggio.</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>Più di salvarlo tenti</l>
+            <l>più l’accusi, e tu menti,</l>
+            <l>ma ch’al tuo crime, o pure</l>
+            <l>a mie gelose cure</l>
+            <l>il tuo morir s’ascriva</l>
+            <l>soffrir più non saprei, no che tu viva.</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Ah barbaro di fé, di pietà avaro.</l>
+            <l>Non basta avermi l’amor tuo ritolto,</l>
+            <l>ch’ancor toglier mi vuoi pegno sì caro;</l>
+            <l>fa’ pur tua sposa Iole,</l>
+            <l>abbandonami pure a ogni martoro,</l>
+            <l>ma per solo ristorolasciami la mia prole.</l>
+            <l>Innocente che sia,</l>
+            <l>chi propizio gli fia, se ingiusto è il padre?</l>
+            <l>E quand’anche sia rea, concedi il vanto</l>
+            <l>d’impetrarli perdono</l>
+            <l>d’una misera madre al largo pianto.</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>In mal punto giungesti</l>
+            <l>e chi qua ti portò?</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Non fu già Licco;</l>
+            <l>chi m’insegna una tana?</l>
+            <l>Che quand’anche ella fosse,</l>
+            <l>d’un gran lupo affamato io mi ci ficco.</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>Ambo morrete, e fra tant’altre prove</l>
+            <l>che fer di me già sì famoso il grido</l>
+            <l>dicasi ancor, ch’altri duo mostri uccisi</l>
+            <l>una moglie gelosa, e un figlio infido.</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Ah crudo.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Ah senti pria: s’alcuna speme</l>
+            <l>ch’io pieghi all’amor tuo, restar ti puote,</l>
+            <l>solo al viver di lui questa s’attiene;</l>
+            <l>s’ei mor, sia, ch’ogni speme</l>
+            <l>anco a te perduta,  e s’egli vive, spera.</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Ora ch’il crederia: quel grand’invitto</l>
+            <l>domator de’ Giganti,</l>
+            <l>che i diavoli stessi ha trionfato</l>
+            <l>eccolo tra due femmine intrigato!</l>
+          </sp>
+          <sp who="#ercole">
+            <speaker>ERCOLE:</speaker>
+            <l>E s’egli vive spera? ogni possanza</l>
+            <l>sovra l’anime amanti</l>
+            <l>ha la speranza.</l>
+          </sp>
+          <stage>(a Deianira)</stage>
+          <stage>(a Hyllo)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena Nona</head>(Deianira, Hyllo) <stage>Scena Nona(Deianira, Hyllo)</stage>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Figlio tu prigioniero?</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Madre tu discacciata?</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>E vive in sen di padre</l>
+            <l>un cor sì fiero?</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Ed in cor di marito</l>
+            <l>alma sì ingrata.</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Figlio tu prigioniero?</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Madre tu discacciata?</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Non fosse a te crudele,</l>
+            <l>e gli perdonerei l’infedeltà.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Non fosse a te infedele,</l>
+            <l>e lieve troverei sua crudeltà.</l>
+          </sp>
+          <sp who="#deianira, hyllo">
+            <speaker>DEIANIRA, HYLLO:</speaker>
+            <l>S’a te pietà non spero</l>
+            <l>ogni sorte a me sia sempre spietata.</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Figlio tu prigioniero?</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Madre tu discacciata?</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Figlio…</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Madre…</l>
+          </sp>
+          <sp who="#deianira, hyllo">
+            <speaker>DEIANIRA, HYLLO:</speaker>
+            <l>Ogn’or desti</l>
+            <l>a me dell’amor tuo segni più espressi,</l>
+            <l>ah voglia il ciel, che questi</l>
+            <l>non sian gli ultimi amplessi.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena Decima</head>(Licco, Paggio) <stage>Scena Decima(Licco, Paggio)</stage>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Adio, Paggio.</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>A dio, tutti.</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>A’ rivederci;</l>
+            <l>che della donna a cui Ercol presume</l>
+            <l>di far sì facilmente cangiar clima,</l>
+            <l>non fu mai suo costume</l>
+            <l>d’obbedir alla prima.</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Oh che gran cose ho viste! ancor l’orrore</l>
+            <l>tutto mi raccapriccia.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>LICCO</head>Ed è sol mastro Amore,che si fatti bitumi oggi impiastriccia,ma contro un sì pestifero bigattosenti gentil garzoneimpara una canzone.<sp who="#licco">
+          <speaker>LICCO:</speaker>
+          <l>Ed è sol mastro Amore,</l>
+          <l>che si fatti bitumi oggi impiastriccia,</l>
+          <l>ma contro un sì pestifero bigatto</l>
+          <l>senti gentil garzone</l>
+          <l>impara una canzone.</l>
+        </sp>
+        <sp who="#licco, paggio">
+          <speaker>LICCO, PAGGIO:</speaker>
+          <l>Amor, chi ha senno in sé,</l>
+          <l>va già d’accordo,</l>
+          <l>ch’il più contento è in te</l>
+          <l>chi è il più balordo.</l>
+          <l>Ogni dolce, che puoi dare</l>
+          <l>e d’assenzio altro sciroppo</l>
+          <l>e le tue gioie più rare</l>
+          <l>o son false, o costan troppo:</l>
+          <l>e così in simil frode</l>
+          <l>lieto è più chi men vede, e crede, e gode.</l>
+        </sp>
+        <stage>(La sedia incantata sparisce,e gli Spiriti ch’erano costretti in essa,entrano nelle statue del giardino,e animandole formano la 4ª danzaper fine dell’atto terzo)</stage>
+      </div>
+      <div type="act">
+        <head>ATTO  QUARTO  </head>
+        <sp who="#atto  quarto  ">
+          <speaker>ATTO  QUARTO  :</speaker>
+        </sp>
+        <div type="scene">
+          <head>Scena Prima</head>
+          <stage>(La scena si cangia in un mare sui litidel quale sono molte torri, ed in una diesse Hylloprigioniero.</stage>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Ahi che pena è gelosia</l>
+            <l>ad un’alma innamorata</l>
+            <l>ch’a i sospetti abbandonata</l>
+            <l>teme ogn’or sorte più ria.</l>
+            <l>Ad Alcide allor ch’Iole</l>
+            <l>crudelmente in ver me pia,</l>
+            <l>di sperar alfin concesse;</l>
+            <l>io credei, che m’uccidesse.</l>
+            <l>Solo il suon di tai parole,</l>
+            <l>ma il morir manco duol fia.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Ma che veggio?</l>
+            <l>ecco un messo,</l>
+            <l>che viene a dritta voga,</l>
+            <l>è il Paggio? è desso.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena Seconda</head>(Apparisce nel detto mare il Paggioin una barchetta. Paggio, Hyllo) <stage>Scena Seconda(Apparisce nel detto mare il Paggioin una barchetta. Paggio, Hyllo)</stage>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Zefiri che gite</l>
+            <l>da’ vicini fiori</l>
+            <l>involando odori</l>
+            <l>e qua poi fuggite;</l>
+            <l>fate alla mia prora</l>
+            <l>ch’oggi il mar si spiani,</l>
+            <l>voi pur cortigiani</l>
+            <l>siete dell’aurora.</l>
+            <l>Noto è a voi Cupido</l>
+            <l>che d’ognu’un fa giuoco,</l>
+            <l>e per l’altrui fuoco</l>
+            <l>or me trae dal lido.</l>
+            <l>A voi pur convenne</l>
+            <l>far l’ufficio mio,</l>
+            <l>così avessi anch’io</l>
+            <l>come voi le penne.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Che novella m’arrechi? è buona, o rea?</l>
+            <l>Ma che parlo infelice?</l>
+            <l>Sperar più verun bene a me non lice.</l>
+          </sp>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Iolealfin astretta</l>
+            <l>di maritarsi al furibondo Alcide</l>
+            <l>con questo foglio a te mi spinse in fretta.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Porgilo dunque;</l>
+          </sp>
+          <stage>(legge il biglietto) «Alla tua fé tradita,chiedo giusto perdono,se per serbarti in vitaad Ercole mi dono.»</stage>
+          <sp who="#paggio">
+            <speaker>PAGGIO:</speaker>
+            <l>Pur ch’il mar infedele</l>
+            <l>non mi vieti il ritorno, e di già parmi</l>
+            <l>che ben voglia agitarmi: o numi algosi</l>
+            <l>correte al mio soccorso.</l>
+          </sp>
+          <stage>(Si muove la tempesta in mare)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena Terza</head>
+          <stage>(Hyllo)</stage>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>E non si trova</l>
+            <l>fra gl’armenti squamosi</l>
+            <l>un cor benché gelato,</l>
+            <l>che qual già d’Arione</l>
+            <l>di quel meschin garzone</l>
+            <l>senta qualche pietade, e salvi insieme</l>
+            <l>gl’ultimi avanzi in lui d’ogni mia speme</l>
+            <l>ohimè, ch’il mar con cento fauci, e cento</l>
+            <l>tutte rabbia spumanti</l>
+            <l>non par ch’ad altro furioso aneli</l>
+            <l>ch’a divorar quel poverello. Ah date</l>
+            <l>a sì mortal periglio</l>
+            <l>pronto soccorso o cieli;</l>
+            <l>ohimè, che più tardate?</l>
+          </sp>
+          <stage>(Il Paggio si sommerge)</stage>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Ah che quella voragine l’ingoia,</l>
+            <l>dunque forz’è, che disperato io moia:</l>
+            <l>e chi sia più che vieti</l>
+            <l>alla mia bella d’eseguire i suoi</l>
+            <l>mal’accorti decreti?</l>
+            <l>A che più penso?</l>
+            <l>Che più tardo a finire</l>
+            <l>con un breve morire un duolo immenso?</l>
+            <l>Cerulei umidi numi,</l>
+            <l>ricevete propizi un sventurato,</l>
+            <l>che dal ciel, dalla terra, e da gl’abissi,</l>
+            <l>sempre a gara oltraggiato</l>
+            <l>viene a cercar tra le vostre acque in sorte</l>
+            <l>per gran favor la morte.</l>
+            <l>Hyllo, su al mar t’avventa;</l>
+            <l>che temi, orche, e balene?</l>
+            <l>O pur di’!</l>
+            <l>Ti spaventa</l>
+            <l>l’imagin del morir squallida, e tetra;</l>
+            <l>chi fugge gelosia nulla l’arretra:</l>
+            <l>su, su, dunque a morir, che ‘l chiaro nome</l>
+            <l>dell’amato mio sole</l>
+            <l>indorar mi potrà l’ombre più dense</l>
+            <l>del Tartaro profondo: Iole, Iole.</l>
+          </sp>
+          <stage>(Hyllosi precipita in mare) </stage>
+        </div>
+        <div type="scene">
+          <head>Scena Quarta</head>
+          <stage>(Apparisce nell’aria Giunone, in ungran trono e cala in soccorso di Hyllo.Giunone, Nettuno, Hyllo)</stage>
+          <sp who="#giunone">
+            <speaker>GIUNONE:</speaker>
+            <l>Salva, Nettuno, ah salva</l>
+            <l>quel troppo ardito giovine, e sovvienti,</l>
+            <l>che t’acquistò non favorevol grido</l>
+            <l>il negato soccorso</l>
+            <l>all’amoroso nuotator d’Abido.</l>
+            <l>Salvalo, o dio triforme,</l>
+            <l>che d’Ercole comun nostro nemico</l>
+            <l>all’alma inviperita</l>
+            <l>far non si può da noi più grande oltraggio</l>
+            <l>che di salvare il di lui figlio in vita;</l>
+            <l>poi che l’iniquo padre,</l>
+            <l>che qual rival geloso</l>
+            <l>la morte sol di quel meschino agogna,</l>
+            <l>vedendolo da noi ridotto inteso,</l>
+            <l>doppia ne ritrarrà smania, e vergogna.</l>
+            <l>Ah tu non m’odi? o vi repugni? adunque?</l>
+            <l>In quest’onde ver me già sì cortesi</l>
+            <l>quell’antica bontà del tutto è spenta?</l>
+          </sp>
+          <stage>(Sorge dal mar Nettuno in una granconchiglia tirata da cavalli marini, ein essa si vede Hyllosalvato)</stage>
+          <sp who="#nettuno">
+            <speaker>NETTUNO:</speaker>
+            <l>Eccoti, o déa contenta;</l>
+            <l>che nulla al tuo voler negar poss’io;</l>
+            <l>né fu mia negligenza</l>
+            <l>ma ben sua renitenza il tardar mio;</l>
+            <l>né credo unqua più avvenne,</l>
+            <l>che dall’orribil gola</l>
+            <l>della vorace, e non mai sazia Dite:</l>
+            <l>fosser ritorti a forza</l>
+            <l>contro la lor voglia i miseri mortali</l>
+            <l>come or succede in questo, o forsennato,</l>
+            <l>e chi rende al tuo gusto</l>
+            <l>di sì amabil sapor l’estremo fato?</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>D’un amor disperato</l>
+            <l>alla tantalea sete</l>
+            <l>il nettare più grato</l>
+            <l>è sol l’onda di Lete.</l>
+          </sp>
+          <sp who="#nettuno">
+            <speaker>NETTUNO:</speaker>
+            <l>Oh semplicetto ascolta,</l>
+            <l>ciò, che per suo diletto,</l>
+            <l>cantò Glauco talvolta:</l>
+          </sp>
+          <sp who="#giunone">
+            <speaker>GIUNONE:</speaker>
+            <l>Saggiamente a te parla,</l>
+            <l>Hyllo, quel nume.</l>
+          </sp>
+          <sp who="#nettuno">
+            <speaker>NETTUNO:</speaker>
+            <l>Vanne veloce, e la gran diva inchina</l>
+            <l>a dio forma reina.</l>
+          </sp>
+          <stage>(Hylloentra nella macchina diGiunone, e Nettuno s’attuffa nel mare)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena Quinta</head>
+          <stage>(Giunone, Hyllo, Coro di Zefiri,che danzano, e suonano)</stage>
+          <sp who="#giunone">
+            <speaker>GIUNONE:</speaker>
+            <l>Dunque del mio potere</l>
+            <l>diffiderai tu solo?</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Diva a che viver più</l>
+            <l>chi vive al duolo?</l>
+            <l>Ma pure ossequioso</l>
+            <l>ti chieggio umil perdono,</l>
+            <l>che quantunque penoso,</l>
+            <l>grato il viver mi sia poiché tuo dono.</l>
+          </sp>
+          <sp who="#giunone">
+            <speaker>GIUNONE:</speaker>
+            <l>Non lice a voi mortali</l>
+            <l>del destin preveder gl’alti decreti</l>
+            <l>quanto più strani tanto più segreti.</l>
+            <l>Quindi è che nel mirare</l>
+            <l>de’ futuri nascosti</l>
+            <l>i preludi talvolta al fine opposti;</l>
+            <l>spesso ciechi lasciate</l>
+            <l>con i vostri giudizi infermi, e monchi,</l>
+            <l>che d’ignote venture</l>
+            <l>disperata ignoranza il fil vi tronchi.</l>
+            <l>Ma se a scorger giungeste</l>
+            <l>in quegli inesplicabili volumi</l>
+            <l>scritti in zaffiri a lettere di stelle:</l>
+            <l>sovente ammirereste</l>
+            <l>esser in lor prefisso,</l>
+            <l>ch’inaridisca a lente pioggie un prato</l>
+            <l>e lo renda fecondo</l>
+            <l>di Sirio, e d’aquilon l’arido fiato;</l>
+            <l>che cresti in picciol stagno</l>
+            <l>d’un Giasone,</l>
+            <l>e d’un Tisi il legno absorto,</l>
+            <l>ch’a i naufragi conduca aura tranquilla,</l>
+            <l>e avversa tempesta al lieto porto.</l>
+            <l>Vanne dunque, e pur spera, e non t’annoi</l>
+            <l>il dar più fede a me, ch’ai sensi tuoi.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Diva dovunque io sia</l>
+            <l>non so se posi in cielo, o in terra il piede,</l>
+            <l>così di tue fortune</l>
+            <l>pur’incerta sen va l’anima mia.</l>
+          </sp>
+          <stage>Concertato </stage>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Sol gl’amor regnino</l>
+            <l>da quali spieghisi</l>
+            <l>onesto ardor,</l>
+            <l>e i cieli sdegnino</l>
+            <l>ch’in altro impieghisi</l>
+            <l>il lor favor:</l>
+            <l>desir che seguino</l>
+            <l>affetti ignobili</l>
+            <l>stian sempre in duol,</l>
+            <l>e si dileguino</l>
+            <l>dell’alme nobili</l>
+            <l>qual nebbia al sol.</l>
+          </sp>
+          <sp who="#giunone">
+            <speaker>GIUNONE:</speaker>
+            <l>Congedo a gl’orridi</l>
+            <l>suoi flutti altissimi</l>
+            <l>poi ch’il mar diè,</l>
+            <l>zefiri floridi</l>
+            <l>su festosissimi</l>
+            <l>volate a me,</l>
+            <l>e in danza lepida</l>
+            <l>da voi si venerela mia virtù,</l>
+            <l>che sempre intrepida</l>
+            <l>contro di Venerevittrice fu.</l>
+          </sp>
+          <stage>Scendono sul palco Hylloe Giunone e poiquesta parte e rimonta al cielo nella suamacchina, nella quale i Zefiri invitati daessa formano la 5ª danza)</stage>
+        </div>
+        <div type="scene">
+          <head>Scena Sesta</head>
+          <stage>(Si cangia la scena in ungiardin di cipressi pieno disepolcri reali. Deianira, Licco)</stage>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>E a che peggio i fati ahi mi serbaro?</l>
+            <l>Ah che ben mi guidato</l>
+            <l>gl’addolorati miei languidi passi</l>
+            <l>a trovare in alcun di questi sassi</l>
+            <l>come far sazio il mio destino avaro.</l>
+            <l>E a che peggio i fati ahi mi serbaro?</l>
+            <l>Alfin perduto ho il figlio</l>
+            <l>e già vicina è l’ora,</l>
+            <l>che dona ad altra sposa il mio consorte,</l>
+            <l>né perciò avvien ch’io mora?</l>
+            <l>Armi non ha da uccidermi la morte,</l>
+            <l>già che tanti dolor non mi sbranaro;</l>
+            <l>e a che peggio i fati ahi mi serbaro?</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Ah Deianira io non son tanto accorto</l>
+            <l>che possa in sì gran carichi servirti</l>
+            <l>di tesoriere insieme, e beccamorto:</l>
+            <l>né so s’abbi pensato,</l>
+            <l>ch’esser preso così quindi io potrei</l>
+            <l>per omicida, e ladro,</l>
+            <l>e con solennità condotto al posto</l>
+            <l>di sublime appiccato,</l>
+            <l>onde fora tra noi sorte ben varia,</l>
+            <l>tu morresti sotterra, ed io nell’aria,</l>
+            <l>deh scaccia o Deianira,</l>
+            <l>desio sì forsennato,</l>
+            <l>che di quanti nell’urna abbia Pandora</l>
+            <l>e disastri, e ruine, e pene, e danni,</l>
+            <l>e dolori, e affanni,</l>
+            <l>e angoscie, e crepacuori io ti so dire,</l>
+            <l>ch’il peggior mal di tutti è di morire.</l>
+            <l>Ma che pompa funebre</l>
+            <l>scorgo venir? tiriamoci in un lato</l>
+            <l>che qual lugubre aspetto a te sia grato.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena Settima</head>
+          <stage>(Iolecon la pompa funebre, Coro diSacrificanti, ombra d’Eutyro, Deianira,Licco, Coro di Damigelle d’Iole)</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Gradisci o re,</l>
+            <l>il caldo pianto</l>
+            <l>ch’in mesto ammanto</l>
+            <l>afflitta gente</l>
+            <l>dal cor dolente</l>
+            <l>sparge per te!</l>
+            <l>Gradisci o re,</l>
+            <l>tua sepoltura</l>
+            <l>i fior riceva</l>
+            <l>che selva oscura</l>
+            <l>germogliar fe’:</l>
+            <l>e il sangue beva,</l>
+            <l>che per man monda</l>
+            <l>vacca infeconda</l>
+            <l>svenata diè,</l>
+            <l>gradisci, re.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>E se pur negli estinti</l>
+            <l>di generosità pregio rimane,</l>
+            <l>permetti o genitore,</l>
+            <l>che dopo aver io tanto (ahi lassa) in vano</l>
+            <l>per vendicarti oprato</l>
+            <l>ceda al voler del fato,</l>
+            <l>e che non già quest’alma,</l>
+            <l>ma sol di lei la sventurata salma</l>
+            <l>per l’iniquo tiranno</l>
+            <l>(per cui grato mi fora</l>
+            <l>più del talamo il rogo)</l>
+            <l>di sforzati imenei sottentri al giogo.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Ah ch’il real sepolcro</l>
+            <l>formando entro di sé dubbi mugiti:</l>
+            <l>ah, ah, (ch’esser ciò puote?)</l>
+            <l>tutto trema, e si scuote.</l>
+          </sp>
+          <stage>(Rovina il sepolcro d’Eutyro,e apparisce l’ombra di lui)</stage>
+          <sp who="#eutyro">
+            <speaker>EUTYRO:</speaker>
+            <l>Che sacrifici ingrati?</l>
+            <l>Che prigei ingiuriosi?</l>
+            <l>Che voti obrobriosi?</l>
+            <l>Porgonsi a me? così s’oltraggia Eutyro?</l>
+            <l>Così sia, ch’a sua voglia</l>
+            <l>fredda insensibil ombra ogn’un mi creda?</l>
+            <l>Farò ben, che s’avveda</l>
+            <l>l’omicida ladron, s’ancor m’adiro?</l>
+            <l>E se contro di lui</l>
+            <l>odio, rabbia, e furor più che mai spiro?</l>
+            <l>Dunque chi del mio sangue</l>
+            <l>fe’ scempio ingiusto, del mio sangue ancora</l>
+            <l>far vorrà suo diletto? ah non sia mai:</l>
+            <l>e tu dar vita a i parti</l>
+            <l>di chi morte a me di è (figlia) potrai?</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Ben resistea l’avverso mio volere</l>
+            <l>d’Ercole alle preghiere,</l>
+            <l>e alla forza di lui pur fatta avrei</l>
+            <l>resistenza invincibile, ma d’Hyllo,</l>
+            <l>d’Hyllo a te già non men, ch’a me sì caro,</l>
+            <l>che delle nostre offese</l>
+            <l>non fu complice mai:</l>
+            <l>anzi che ne sofferse</l>
+            <l>al par di noi con amorosa, e immensa</l>
+            <l>compassione il duolo,</l>
+            <l>d’Hyllo, ohimè, di lui solo</l>
+            <l>il periglio mortale</l>
+            <l>m’astrinse a consentire</l>
+            <l>all’aborrite nozze,</l>
+            <l>com’unico riparo al suo morire:</l>
+            <l>dunque perdona, o genitor, l’intento</l>
+            <l>di queste sacre pompe</l>
+            <l>ch’Amor, che non ha legge</l>
+            <l>ogni legge a sua voglia o scioglie, o rompe.</l>
+          </sp>
+          <sp who="#eutyro">
+            <speaker>EUTYRO:</speaker>
+            <l>Tant’ha d’Eutyro il nudo spirto ancora</l>
+            <l>invisibil possanza,</l>
+            <l>che neglette, e schernite</l>
+            <l>le temerarie voglie</l>
+            <l>del nemico fellone,</l>
+            <l>saprà salvare insieme</l>
+            <l>l’innocente garzone.</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>O dio dunque lasciate,</l>
+            <l>ch’a me di chi v’offese offesa moglie</l>
+            <l>e di chi tanto favorir bramate</l>
+            <l>madre, ohimè, feminina or sia concesso</l>
+            <l>d’accomunar con voi l’aspre mie doglie.</l>
+            <l>Per conservarmi il figlio</l>
+            <l>privarmi di marito,</l>
+            <l>o di remedio reo misero aborto;</l>
+            <l>o disperata speme.</l>
+            <l>Hylloè già morto.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Ohimè, che di’!</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Sul più vicino scoglio</l>
+            <l>della di lui prigion mentre attendevo,</l>
+            <l>che qualche picciol legno</l>
+            <l>colà mi conducesse</l>
+            <l>a consolarlo almen col mio cordoglio,</l>
+            <l>lo vidi all’improvviso, ohimè, dall’alto</l>
+            <l>cader nel mar d’un salto.</l>
+            <l>E se non lo seguii,</l>
+            <l>fu perché dal dolore, ahi, sopra fatta</l>
+            <l>caddi al suol tramortita,</l>
+            <l>e per man degli astanti</l>
+            <l>con mal saggia pietà quindi fui tratta.</l>
+          </sp>
+          <sp who="#eutyro">
+            <speaker>EUTYRO:</speaker>
+            <l>Dunque a qual altro fin, che per più strano</l>
+            <l>mio spregio, e scorno? Or di te far vorrai</l>
+            <l>un esecrabil dono</l>
+            <l>al barbaro inumano?</l>
+            <l>Ch’altra moglie trafigge, altra abbandona,</l>
+            <l>e né meno a suoi figli empio perdona.</l>
+            <l>Deh con giusto coraggio</l>
+            <l>saggiamente pentita,</l>
+            <l>rinunzia a un tanto error mentr’io ritorno</l>
+            <l>del fumante Cocyro all’aria impura</l>
+            <l>alle sponde infocate</l>
+            <l>per unire in congiura</l>
+            <l>l’anime ch’il crudele a morte ha date:</l>
+            <l>e ben vedrai ch’in vano io non prefissi</l>
+            <l>di sollevar contro di lui gli abissi.</l>
+          </sp>
+          <stage>(l’ombra di Eutyro sparisce)</stage>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Hylloil mio bene è morto? altro che pianti</l>
+            <l>vuol da me tal dolore:</l>
+            <l>egli sol per mio amore</l>
+            <l>disperato s’uccise, ed io fra tanti</l>
+            <l>segni della sua fé sempre più chiari</l>
+            <l>fia ch’a morir dalla sua fede impari;</l>
+            <l>troppo io pregiai la vita, e or m’avveggio</l>
+            <l>quanto il morir più vale,</l>
+            <l>questa spoglia mortale</l>
+            <l>scopo è sol di sventure, e degno seggio</l>
+            <l>d’Amor sono gli Elisei, ov’ei più splende</l>
+            <l>né tirannia, né duolo alcun l’offende.</l>
+            <l>Attendetemi dunque, alme dilette</l>
+            <l>d’Hyllo, e d’Eutyro in pace,</l>
+            <l>ch’a raggiungervi io corro; ombra seguace.</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Ferma ti prego, e poiché (grazie al cielo)</l>
+            <l>tornò l’orribil ombra a casa sua,</l>
+            <l>e ch’a me così torna, è fiato, e voce;</l>
+            <l>vuo’ dar grato consiglio a tutte e dua.</l>
+            <l>E che miglior rimedio?</l>
+            <l>A’ tanti vestri spasimi di quello</l>
+            <l>a proporvi son pronto?</l>
+            <l>Ch’è di guarire ad Ercole il cervello?</l>
+            <l>Quand’egli si raccenda</l>
+            <l>per te del coniugal dovuto affetto,</l>
+            <l>e che non curi più nuovi imenei,</l>
+            <l>ditemi ciò far mezzo sì raro avemo?</l>
+          </sp>
+          <stage>(a Deianira)</stage>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Chi sa, che sia ben ver?</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Ne farem prova.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Ma ciò per ravvivare Hyllonon giova.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>LICCO</head>Oh che strane domande!Ma ben potrei risuscitare un morto,s’a contentar due femmine mi posi,ch’è d’ogni altro impossibile il più grande,s’in vece, che per troppa impazienzaposar monte su monteaveller li giganti a sasso a sassofabbricato il lor ponte;al dispetto di Giovesarian montati in cielo a far fracasso.Si va di là dal mondo a passo a passo.Né sia vano il tentaredi levarci un’ostacolo cotantocom’è d’aver con Ercole a cozzare.Che por all’altro cantochi sa? ch’Hyllosentendosi bagnatofatto più saggio non si sia pentitoe a nuoto salvato.<sp who="#licco">
+          <speaker>LICCO:</speaker>
+          <l>Oh che strane domande!</l>
+          <l>Ma ben potrei risuscitare un morto,</l>
+          <l>s’a contentar due femmine mi posi,</l>
+          <l>ch’è d’ogni altro impossibile il più grande,</l>
+          <l>s’in vece, che per troppa impazienza</l>
+          <l>posar monte su monte</l>
+          <l>aveller li giganti a sasso a sasso</l>
+          <l>fabbricato il lor ponte;</l>
+          <l>al dispetto di Giove</l>
+          <l>sarian montati in cielo a far fracasso.</l>
+          <l>Si va di là dal mondo a passo a passo.</l>
+          <l>Né sia vano il tentare</l>
+          <l>di levarci un’ostacolo cotanto</l>
+          <l>com’è d’aver con Ercole a cozzare.</l>
+          <l>Che por all’altro canto</l>
+          <l>chi sa? ch’Hyllosentendosi bagnato</l>
+          <l>fatto più saggio non si sia pentito</l>
+          <l>e a nuoto salvato.</l>
+        </sp>
+        <sp who="#deianira, iole, licco">
+          <speaker>DEIANIRA, IOLE, LICCO:</speaker>
+          <l>Una stilla di spene</l>
+          <l>oh che mar di dolcezza!</l>
+          <l>per un’anima avvezza</l>
+          <l>a languir sempre in pene.</l>
+          <l>Una stilla di spene,</l>
+          <l>benché tal’or mentita</l>
+          <l>nelle già fredde vene</l>
+          <l>riconduce la vita:</l>
+          <l>e per stupenda prova</l>
+          <l>fin con l’inganno giova.</l>
+        </sp>
+        <stage>(Le Damigelle di Iolerimaste a piangerepresso le rovine del sepolcro d’Eutyro,alla vista di quattr’Ombre si spaventano,e formano così con le dett’Ombre la 6.danza, per fine dell’atto quarto)</stage>
+      </div>
+      <div type="act">
+        <head>ATTO  QUINTO  </head>
+        <sp who="#atto  quinto  ">
+          <speaker>ATTO  QUINTO  :</speaker>
+        </sp>
+        <div type="scene">
+          <head>ScenaPrima</head>(La scena si cangia in inferno.Ombrad’Eutyro, Coro di anime infernali,Ombre delle antiche vittime di Ercole:Clerica, Laomedonte, Busiris) <stage>ScenaPrima(La scena si cangia in inferno.Ombrad’Eutyro, Coro di anime infernali,Ombre delle antiche vittime di Ercole:Clerica, Laomedonte, Busiris)</stage>
+          <sp who="#eutyro">
+            <speaker>EUTYRO:</speaker>
+            <l>Come solo ad un grido,</l>
+            <l>che giunto a pena d’Acheronte al lido</l>
+            <l>formai, vi radunate anime ardite?</l>
+            <l>Su, così pur contro il comun nemico</l>
+            <l>vostro furore alla mia rabbia unite,</l>
+            <l>che più dunque si aspetta?</l>
+            <l>Pera mora il crudel,</l>
+            <l>su su vendetta.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Pera mora il crudel,</l>
+            <l>su su vendetta.</l>
+          </sp>
+          <sp who="#clerica">
+            <speaker>CLERICA:</speaker>
+            <l>Pera mora l’indegno</l>
+            <l>di cui più scelerato unqua non visse,</l>
+            <l>che del troiano eccidio ancor fumante</l>
+            <l>non mai sazio di sangue</l>
+            <l>i miei poveri figli, e me trafisse,</l>
+            <l>o bella gloria in vero</l>
+            <l>d’un uccisor di mostri,</l>
+            <l>impiegare il vigore</l>
+            <l>con cui d’aver si vanta</l>
+            <l>sostenute le stelle</l>
+            <l>contro teneri parti, e madre imbelle.</l>
+            <l>Ah ver un chiostro</l>
+            <l>più fiero mostro</l>
+            <l>di lui non ha.</l>
+            <l>E se il crudel</l>
+            <l>per nostro ufficio</l>
+            <l>oggi cadrà</l>
+            <l>mai sacrificio</l>
+            <l>più grato al ciel</l>
+            <l>altri fe’, né mai farà.</l>
+            <l>Che più dunque si aspetta?</l>
+            <l>Pera mora il crudel,</l>
+            <l>su su vendetta.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Pera mora il crudel,</l>
+            <l>su su vendetta.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>LAOMEDONTE</head>Pera mora il perversoche d’un sol atto di pietà, che maitra le barbarie sue contar potesse,qual mercenario vilerichiedendone il prezzone contenti assai tostogl’avidi suoi desir quanto malvagi,si pagò col mio sangue, e mille stragi.Su su sbranamolo,su laceramologiustizia il vol,paghi egl’ancorl’altrui dolorcol proprio duol.Che più dunque s’aspetta?Pera mora il crudel,su su vendetta.<sp who="#laomedonte">
+          <speaker>LAOMEDONTE:</speaker>
+          <l>Pera mora il perverso</l>
+          <l>che d’un sol atto di pietà, che mai</l>
+          <l>tra le barbarie sue contar potesse,</l>
+          <l>qual mercenario vile</l>
+          <l>richiedendone il prezzo</l>
+          <l>ne contenti assai tosto</l>
+          <l>gl’avidi suoi desir quanto malvagi,</l>
+          <l>si pagò col mio sangue, e mille stragi.</l>
+          <l>Su su sbranamolo,</l>
+          <l>su laceramolo</l>
+          <l>giustizia il vol,</l>
+          <l>paghi egl’ancor</l>
+          <l>l’altrui dolor</l>
+          <l>col proprio duol.</l>
+          <l>Che più dunque s’aspetta?</l>
+          <l>Pera mora il crudel,</l>
+          <l>su su vendetta.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Pera mora il crudel,</l>
+          <l>su su vendetta.</l>
+        </sp>
+        <sp who="#busiris">
+          <speaker>BUSIRIS:</speaker>
+          <l>Pera mora l’iniquo,</l>
+          <l>che dell’etereo Giove,</l>
+          <l>ingratissimo al pari,</l>
+          <l>ch’in legittimo figlio,</l>
+          <l>di sacerdoti, e vittime più degne,</l>
+          <l>con sacrilega man spogliò l’altari.</l>
+          <l>Pera l’abominevole; ma pera</l>
+          <l>della più cruda morte,</l>
+          <l>che per esempio eterno,</l>
+          <l>inventar possa mai l’irato inferno?</l>
+          <l>Quanti mai strazii,</l>
+          <l>nei negri spazii,</l>
+          <l>Pluto adunò</l>
+          <l>tutti s’unischino,</l>
+          <l>e assalischino,</l>
+          <l>chi ne svenò:</l>
+          <l>che più dunque s’aspetta?</l>
+          <l>Pera mora il crudel,</l>
+          <l>su su vendetta.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Pera mora il crudel,</l>
+          <l>su su vendetta.</l>
+        </sp>
+        <sp who="#eutyro">
+          <speaker>EUTYRO:</speaker>
+          <l>Se nel terrestre mondo</l>
+          <l>per iniquo favor d’ingiusti cielo</l>
+          <l>il suo corporeo velo</l>
+          <l>alla nostra mortal spoglia prevalse,</l>
+          <l>ad onta del suo orgoglio al fine impari,</l>
+          <l>che di sdegno,</l>
+          <l>e di forze ogn’alma è pari.</l>
+          <l>Che? Se più lo lasciamo</l>
+          <l>respirar impunito</l>
+          <l>in pace, e tirannia l’aure vitali,</l>
+          <l>crederà con ragione,</l>
+          <l>che sian di timid’ombre, e neghittose</l>
+          <l>i regni di Pluton tane oziose.</l>
+          <l>Su, su dunque ombre terribili</l>
+          <l>su voliam tutte in Ecalia,</l>
+          <l>nuova in ciel schiera stimfalia</l>
+          <l>contra il reo furie invisibili,</l>
+          <l>e con le vipere</l>
+          <l>onde Tesifone</l>
+          <l>tormenta l’anime</l>
+          <l>flagellamogli il cor;</l>
+          <l>fin ch’immenso dolor</l>
+          <l>con angoscie rabbiose il renda esanime.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Su, su dunque all’armi, su, su,</l>
+          <l>su corriamo a vendicarci,</l>
+          <l>ch’altro ben non può mai darci</l>
+          <l>il destino di quaggiù.</l>
+          <l>E che giova assordar quest’antri più</l>
+          <l>con il vano rumor de’ nostri carmi?</l>
+          <l>Su, su dunque</l>
+          <l>all’armi, all’armi.</l>
+        </sp>
+        <sp who="#eutyro">
+          <speaker>EUTYRO:</speaker>
+          <l>Ah più val più diletta,</l>
+          <l>che quante gioie ha il ciel una vendetta.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ah più val più diletta,</l>
+          <l>che quante gioie ha il ciel una vendetta.</l>
+        </sp>
+        <div type="scene">
+          <head>Scena Seconda</head>
+          <stage>(La scena si cangia in un portico deltempio di Giunone Pronuba. Ercole,Iole, Licco, Deianira, Coro di sacerdotidi Giunone Pronuba)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ERCOLE</head>Alfine il ciel d’Amorper me si serenò,e i nembi di rigor,in gioie distemprò,sol nel mio cor pur sentoun soave martir,ch’abbia per gir più lentodati il tempo i suoi vanno al mio desir.Ma pur l’amata Iolel’adorato mio sole ecco a me viene,dunque affatto il mio sen sgombrate o pene,che di sì rigid’almaqual si sia la vittoria io n’ho la palma,e l’ardente mio spirtopospon tutti i suoi lauria un sì bel mirto.<sp who="#ercole">
+          <speaker>ERCOLE:</speaker>
+          <l>Alfine il ciel d’Amorper me si serenò,</l>
+          <l>e i nembi di rigor,</l>
+          <l>in gioie distemprò,</l>
+          <l>sol nel mio cor pur sento</l>
+          <l>un soave martir,</l>
+          <l>ch’abbia per gir più lento</l>
+          <l>dati il tempo i suoi vanno al mio desir.</l>
+          <l>Ma pur l’amata Iole</l>
+          <l>l’adorato mio sole ecco a me viene,</l>
+          <l>dunque affatto il mio sen sgombrate o pene,</l>
+          <l>che di sì rigid’alma</l>
+          <l>qual si sia la vittoria io n’ho la palma,</l>
+          <l>e l’ardente mio spirto</l>
+          <l>pospon tutti i suoi lauri</l>
+          <l>a un sì bel mirto.</l>
+        </sp>
+        <sp who="#licco">
+          <speaker>LICCO:</speaker>
+          <l>(a Iole)</l>
+          <l>Quando com’è tuo uffizio,</l>
+          <l>dar quella veste ad Ercole dovrai</l>
+          <l>per far di nozze tali il sagrifizio,</l>
+          <l>quest’altra in vece, il cui valor ben sai?</l>
+          <l>Destramente da me prender potrai.</l>
+        </sp>
+        <stage>LICCO(a Iole)Quando com’è tuo uffizio,dar quella veste ad Ercole dovraiper far di nozze tali il sagrifizio,quest’altra in vece, il cui valor ben sai?Destramente da me prender potrai.</stage>
+        <sp who="#iole">
+          <speaker>IOLE:</speaker>
+          <l>Così farò: ma che? per diffidenza</l>
+          <l>di rimedio sì incerto, ho il sen ripieno</l>
+          <l>di gelosa temenza.</l>
+          <l>Pur quando mi tradisca ogn’altro scampo,</l>
+          <l>soccorso mi darà pronto veleno.</l>
+        </sp>
+        <sp who="#ercole">
+          <speaker>ERCOLE:</speaker>
+          <l>Deh non muovere Ioleil piè restio,</l>
+          <l>ver chi dominator del mondo intero</l>
+          <l>solo in goder dell’alma tua l’impero</l>
+          <l>pon la felicità del suo desio.</l>
+          <l>E il sacro concento</l>
+          <l>sciolgasi mai, ch’a me di tali indugi</l>
+          <l>grado è d’immensa pena</l>
+          <l>ogni momento.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Pronuba, e casta déa</l>
+          <l>l’alme de nuovi sposi</l>
+          <l>con lacci avventurosi</l>
+          <l>annoda, e bea.</l>
+          <l>E quieta, e gioconda</l>
+          <l>da’ lor nestorea vita,</l>
+          <l>e gl’amplessi feconda</l>
+          <l>con progenie infinita.</l>
+        </sp>
+        <sp who="#ercole">
+          <speaker>ERCOLE:</speaker>
+          <l>E di che temi, Iole,</l>
+          <l>e di che tremi?</l>
+        </sp>
+        <sp who="#iole">
+          <speaker>IOLE:</speaker>
+          <l>Ecco il mio viver giunto</l>
+          <l>a un formidabil punto.</l>
+        </sp>
+        <sp who="#ercole">
+          <speaker>ERCOLE:</speaker>
+          <l>Deh su porgimi ardita</l>
+          <l>la veste, ond’io ben tosto</l>
+          <l>per i nostri imenei</l>
+          <l>renda olocausto a i déi.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Pronuba, e casta déa</l>
+          <l>l’alme de nuovi sposi</l>
+          <l>con lacci avventurosi</l>
+          <l>annoda, e bea.</l>
+          <l>E quieta, e gioconda</l>
+          <l>da’ lor nestorea vita,</l>
+          <l>e gl’amplessi feconda</l>
+          <l>con progenie infinita.</l>
+        </sp>
+        <sp who="#ercole">
+          <speaker>ERCOLE:</speaker>
+          <l>(dopo aver indossato la tunica)</l>
+          <l>Ma qual pungente arsura</l>
+          <l>la mia ruvida scorza intorno assale?</l>
+          <l>Qual incognito male</l>
+          <l>d’offendermi temendo</l>
+          <l>serpe nascoso per le vene al core?</l>
+          <l>Qual immenso dolore, ahi mi conquide?</l>
+          <l>E per dar morte a me tanto più dura</l>
+          <l>in vista de’ contenti, oh dio, m’uccide?</l>
+          <l>E tu lo soffri, o genitore? E lasci,</l>
+          <l>ch’io, che con piè temuto</l>
+          <l>passeggiai della morte i regni illeso,</l>
+          <l>e che fin dalla cuna</l>
+          <l>di belle glorie adorni</l>
+          <l>tutti contai della mia vita i giorni,</l>
+          <l>or senz’avere a fronte</l>
+          <l>sanguinoso nemico (ah rio martire,</l>
+          <l>che della morte ancor vieppiù m’accora)</l>
+          <l>in ozio vil qui mora?</l>
+          <l>Senza che gloria alcuna</l>
+          <l>renda almen di me degno il mio morire.</l>
+          <l>Almen di nubi oscure</l>
+          <l>vela quest’aria in torno</l>
+          <l>sì che sorte maligna</l>
+          <l>di me grato spettacolo non faccia</l>
+          <l>all’implacabil mia cruda matrigna;</l>
+          <l>e per quando la tua</l>
+          <l>insensata pigrizia,</l>
+          <l>(oh gran tonante)</l>
+          <l>il conquasso destina</l>
+          <l>dell’universo, ohimè, s’ora nol fai?</l>
+          <l>E a che riserbi il cielo?</l>
+          <l>Che nel perder Alcide a perder vai?</l>
+          <l>Ma l’atroce mia doglia</l>
+          <l>imperversando ogn’or pochi respiri</l>
+          <l>mi lascia più, deh s’il morire è forza,</l>
+          <l>ardasi la mia spoglia</l>
+          <l>né della terra, i di cui figli uccisi</l>
+          <l>s’esponga un rifiuto:</l>
+          <l>a dio, cielo, a dio Iole,</l>
+          <l>eccomi Pluto.</l>
+        </sp>
+        <stage>ERCOLE(dopo aver indossato la tunica)Ma qual pungente arsurala mia ruvida scorza intorno assale?Qual incognito maled’offendermi temendoserpe nascoso per le vene al core?Qual immenso dolore, ahi mi conquide?E per dar morte a me tanto più durain vista de’ contenti, oh dio, m’uccide?E tu lo soffri, o genitore? E lasci,ch’io, che con piè temutopasseggiai della morte i regni illeso,e che fin dalla cunadi belle glorie adornitutti contai della mia vita i giorni,or senz’avere a frontesanguinoso nemico (ah rio martire,che della morte ancor vieppiù m’accora)in ozio vil qui mora?Senza che gloria alcunarenda almen di me degno il mio morire.Almen di nubi oscurevela quest’aria in tornosì che sorte malignadi me grato spettacolo non facciaall’implacabil mia cruda matrigna;e per quando la tuainsensata pigrizia,(oh gran tonante)il conquasso destinadell’universo, ohimè, s’ora nol fai?E a che riserbi il cielo?Che nel perder Alcide a perder vai?Ma l’atroce mia dogliaimperversando ogn’or pochi respirimi lascia più, deh s’il morire è forza,ardasi la mia spogliané della terra, i di cui figli uccisis’esponga un rifiuto:a dio, cielo, a dio Iole,eccomi Pluto.</stage>
+        <sp who="#licco">
+          <speaker>LICCO:</speaker>
+          <l>Che dite? Il mio non fu rimedio tardo,</l>
+          <l>ma un poco più (ch’io non credea) gagliardo.</l>
+          <l>Pur ciascuna di voi di già rimira</l>
+          <l>il penoso destin per sé finito</l>
+          <l>d’un amante importun, d’un reo marito.</l>
+          <l>E non piagete già,</l>
+          <l>che comunque ch’avvenga a un saggio core</l>
+          <l>dar non si può qui giù sorte migliore:</l>
+          <l>che di vivere in pace, e libertà.</l>
+        </sp>
+        <sp who="#iole">
+          <speaker>IOLE:</speaker>
+          <l>Qual tra perigli estremi</l>
+          <l>di strepitose, e orride rovine</l>
+          <l>un ch’è salvato a forte</l>
+          <l>stupido resta, sì rimasi anch’io</l>
+          <l>senza moto, né voce; ah perché dunque</l>
+          <l>Hylloil mio caro ben, perché morto?</l>
+        </sp>
+        <sp who="#deianira">
+          <speaker>DEIANIRA:</speaker>
+          <l>Ah Nesso mi tradì, deh ti perdoni</l>
+          <l>o Licco il ciel l’involontario errore;</l>
+          <l>a dolor su doloreegualmente infinito</l>
+          <l>più resister non so,</l>
+          <l>mostrami o morte</l>
+          <l>e del figlio la traccia, e del consorte.</l>
+          <l>Ma che?</l>
+          <l>l’ombra del figlio</l>
+          <l>ecco ch’ad incontrarmi</l>
+          <l>ver me riede pietosa.</l>
+        </sp>
+        <div type="scene">
+          <head>ScenaTerza</head>(Iole, Deianira, Licco, Hyllo) <stage>ScenaTerza(Iole, Deianira, Licco, Hyllo)</stage>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Veggio, o di veder parmi?</l>
+            <l>Non atteso contento?</l>
+            <l>Ah che dar fede</l>
+            <l>a gl’occhi il cor non osa.</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Oh che opportun ristoro?</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Oh che spavento!</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Hyllo?</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Figlio?</l>
+          </sp>
+          <sp who="#deianira, iole">
+            <speaker>DEIANIRA, IOLE:</speaker>
+            <l>Sei tu?</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Mercè di Giuno</l>
+            <l>son’io dal mar salvato</l>
+            <l>acciò per gl’occhi miei</l>
+            <l>versi in un mar di pianto il cor temprato.</l>
+            <l>Se qual ridirlo intendo</l>
+            <l>vero è del caro padre il fato orrendo.</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Ah figlio ahi troppo è ver, che mi rivedi</l>
+            <l>vedova afflitta, e sola.</l>
+          </sp>
+          <sp who="#iole">
+            <speaker>IOLE:</speaker>
+            <l>Pur mio ben ti consola,</l>
+            <l>che se perdesti il genitor crudele</l>
+            <l>me qui ritrovi, e l’amor mio fedele.</l>
+          </sp>
+          <sp who="#hyllo">
+            <speaker>HYLLO:</speaker>
+            <l>Ah dunque il ciel non seppe</l>
+            <l>farmi teco felice?</l>
+            <l>Senza misero farmi, e sventurato</l>
+            <l>con la mia genitrice?</l>
+          </sp>
+          <sp who="#licco">
+            <speaker>LICCO:</speaker>
+            <l>Oh ben tornato.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>HYLLO</head>Ahi che con forza eguale a un tempo istessodà gioia, e dà doloretratto in contrarie partisento squarciarmi il core.<sp who="#hyllo">
+          <speaker>HYLLO:</speaker>
+          <l>Ahi che con forza eguale a un tempo istesso</l>
+          <l>dà gioia, e dà dolore</l>
+          <l>tratto in contrarie parti</l>
+          <l>sento squarciarmi il core.</l>
+        </sp>
+        <sp who="#deianira">
+          <speaker>DEIANIRA:</speaker>
+          <l>Ohimè dunque che fia?</l>
+        </sp>
+        <sp who="#licco">
+          <speaker>LICCO:</speaker>
+          <l>Forz’è che io rida</l>
+          <l>quel che è stato mai sempre</l>
+          <l>da che morte impugnò falce omicida,</l>
+          <l>ch’altri avvien, che si stempre</l>
+          <l>in pochi, e altri in copiosi lutti.</l>
+          <l>Ma chi muore suo danno,</l>
+          <l>che tosto, o tardi si consolan tutti.</l>
+        </sp>
+        <sp who="#deianira">
+          <speaker>DEIANIRA:</speaker>
+          <l>Saranno almen le ceneri d’Alcide</l>
+          <l>le più pompose de’ funebri onori</l>
+          <l>e più sparse di lagrime, e di fiori.</l>
+        </sp>
+        <sp who="#hyllo">
+          <speaker>HYLLO:</speaker>
+          <l>Certo è che i miei singultinon avran fin.</l>
+        </sp>
+        <sp who="#iole">
+          <speaker>IOLE:</speaker>
+          <l>Ma non fia già che solo</l>
+          <l>tu pianga amato ben, che se comune</l>
+          <l>ho teco il cor sia pur comune il duolo.</l>
+        </sp>
+        <sp who="#licco">
+          <speaker>LICCO:</speaker>
+          <l>Or che sorte è la mia?</l>
+          <l>Che senza averne voglia,</l>
+          <l>anch’io per compagnia</l>
+          <l>converrà che mi doglia.</l>
+        </sp>
+        <sp who="#deianira, iole, hyllo, licco">
+          <speaker>DEIANIRA, IOLE, HYLLO, LICCO:</speaker>
+          <l>Dall’occaso a gl’Eoi</l>
+          <l>ah non sia chi non pianga,</l>
+          <l>ch’oggi il sol de gl’eroi</l>
+          <l>estinto, ohimè, rimanga.</l>
+        </sp>
+        <div type="scene">
+          <head>Scena Quarta</head>(Cala Giunone nell’ultima macchinacorteggiata dall’armonia de’ cieli, eapparisce nella più alta parte di questiErcole sposato alla Bellezza. <stage>Scena Quarta(Cala Giunone nell’ultima macchinacorteggiata dall’armonia de’ cieli, eapparisce nella più alta parte di questiErcole sposato alla Bellezza.</stage>
+          <sp who="#giunone">
+            <speaker>GIUNONE:</speaker>
+            <l>Su, su allegrezza</l>
+            <l>non più lamenti</l>
+            <l>deh non più no,</l>
+            <l>ch’ogni amarezza</l>
+            <l>il ciel cangiò</l>
+            <l>tutt’in contenti</l>
+            <l>tutt’in dolcezza</l>
+            <l>non più lamenti</l>
+            <l>su, su, allegrezza.</l>
+            <l>Non morì Alcide</l>
+            <l>tergete i lumi</l>
+            <l>non morì no,</l>
+            <l>su nel ciel ride,</l>
+            <l>che lo sposò</l>
+            <l>il re de’ numi</l>
+            <l>alla bellezza</l>
+            <l>tergete i lumi</l>
+            <l>su, su, allegrezza.</l>
+          </sp>
+          <stage>(a Hylo y Iole)</stage>
+          <sp who="#iole, hyllo">
+            <speaker>IOLE, HYLLO:</speaker>
+            <l>Oh déa come n’arrequi.</l>
+          </sp>
+          <sp who="#deianira">
+            <speaker>DEIANIRA:</speaker>
+            <l>Ch’a i detti tuoi</l>
+            <l>non lice a noi</l>
+            <l>fede negar né ossequi</l>
+            <l>oh déa come n’arrequi.</l>
+          </sp>
+          <sp who="#iole, hyllo">
+            <speaker>IOLE, HYLLO:</speaker>
+            <l>Che dolci gioie oh déa</l>
+            <l>versi nel nostro seno,</l>
+            <l>il ciel benigno a pieno</l>
+            <l>che più dar ne potea?</l>
+            <l>Che dolci gioie oh déa.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>LICCO</head>Come a tante rovinesucceduto ad un tratto è un tanto benein fatti è ver qui giù danzano in giroe si tengon per man contenti, e pene.<sp who="#licco">
+          <speaker>LICCO:</speaker>
+          <l>Come a tante rovine</l>
+          <l>succeduto ad un tratto è un tanto bene</l>
+          <l>in fatti è ver qui giù danzano in giro</l>
+          <l>e si tengon per man contenti, e pene.</l>
+        </sp>
+        <sp who="#giunone, deianira">
+          <speaker>GIUNONE, DEIANIRA,:</speaker>
+          <l>IOLE,HYLLO, LICCO</l>
+          <l>Contro due cor ch’avvampano</l>
+          <l>tra loro innamorati</l>
+          <l>in van del ciel s’accampano</l>
+          <l>per guerreggiar i fati.</l>
+          <l>Da lega d’amore</l>
+          <l>fia vinto il furore</l>
+          <l>d’ogni contraria sorte:</l>
+          <l>d’un reciproco amor nulla è più forte.</l>
+        </sp>
+        <div type="scene">
+          <head>Scena Quinta</head>
+          <stage>(Ercole, la Bellezza, Coro di pianeti.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Quel grand’eroe, che già</l>
+            <l>laggiù tanto penò</l>
+            <l>sposo della beltà</l>
+            <l>per goder nozze eterne al ciel volò!</l>
+            <l>Virtù, che soffre alfin mercede impetra</l>
+            <l>e degno campo a’ suoi trionfi è l’Etra.</l>
+          </sp>
+          <sp who="#bellezza, ercole">
+            <speaker>BELLEZZA, ERCOLE:</speaker>
+            <l>Così un giorno avverrà con più diletto,</l>
+            <l>che della Senna in su la riva altera</l>
+            <l>altro gallico Alcide arso d’affetto</l>
+            <l>giunga in pace a goder bellezza ibera;</l>
+            <l>ma noi dal ciel traem viver giocondo</l>
+            <l>e per tal coppia</l>
+            <l>sia beato il mondo.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>BELLEZZA</head>Gioie, accorrete numerosepoichè voi ben sapetecome rendere un cuore feliceLa bella età è efimerae anche voi posserete, come il tempo.Accompagnate sempre il reale ImeneoSiete fatte per lui cosi come luie fatto per voi.Conservate l’ardore che Amore vi donòe non scemi la vostra dolcezzaaffinché siate sempre benvenute.<sp who="#bellezza">
+          <speaker>BELLEZZA:</speaker>
+          <l>Gioie, accorrete numerose</l>
+          <l>poichè voi ben sapete</l>
+          <l>come rendere un cuore felice</l>
+          <l>La bella età è efimera</l>
+          <l>e anche voi posserete, come il tempo.</l>
+          <l>Accompagnate sempre il reale Imeneo</l>
+          <l>Siete fatte per lui cosi come lui</l>
+          <l>e fatto per voi.</l>
+          <l>Conservate l’ardore che Amore vi donò</l>
+          <l>e non scemi la vostra dolcezza</l>
+          <l>affinché siate sempre benvenute.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Virtù che soffre</l>
+          <l>alfin mercede impetra</l>
+          <l>e degno campo a’ suoi trionfi è l’Etra.</l>
+        </sp>
+        <stage>Ballet (Le varie influenze di sette Pianeti scendonosul palcosuccessivamente a danzare,e in fine anche un Coro di stelle)</stage>
+      </div>
+    </body>
+  </text>
+</TEI>

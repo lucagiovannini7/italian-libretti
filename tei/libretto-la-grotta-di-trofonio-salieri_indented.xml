@@ -1,0 +1,4043 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">a grotta di Trofonio</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="eufelia e artemidoro">
+            <persName>EUFELIA E ARTEMIDORO:</persName>
+          </person>
+          <person xml:id="rubinetta">
+            <persName>RUBINETTA:</persName>
+          </person>
+          <person xml:id="artemidoro e gasperone">
+            <persName>ARTEMIDORO E GASPERONE:</persName>
+          </person>
+          <person xml:id="eufelia">
+            <persName>EUFELIA:</persName>
+          </person>
+          <person xml:id="coro di spiriti e trofonio">
+            <persName>CORO DI SPIRITI E TROFONIO:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="eufelia, dori e piastrone">
+            <persName>EUFELIA, DORI E PIASTRONE:</persName>
+          </person>
+          <person xml:id="coro di spiriti">
+            <persName>CORO DI SPIRITI:</persName>
+          </person>
+          <person xml:id="gasperone">
+            <persName>GASPERONE:</persName>
+          </person>
+          <person xml:id="eufelia, dori, bartolina, rubinetta e piastrone">
+            <persName>EUFELIA, DORI, BARTOLINA, RUBINETTA E PIASTRONE:</persName>
+          </person>
+          <person xml:id="trofonio">
+            <persName>TROFONIO:</persName>
+          </person>
+          <person xml:id="artemidoro">
+            <persName>ARTEMIDORO:</persName>
+          </person>
+          <person xml:id="gasperone e artemidoro">
+            <persName>GASPERONE E ARTEMIDORO:</persName>
+          </person>
+          <person xml:id="dori">
+            <persName>DORI:</persName>
+          </person>
+          <person xml:id="dori, bartolina e piastrone">
+            <persName>DORI, BARTOLINA E PIASTRONE:</persName>
+          </person>
+          <person xml:id="eufelia, rubinetta e piastrone">
+            <persName>EUFELIA, RUBINETTA E PIASTRONE:</persName>
+          </person>
+          <person xml:id="dori e eufelia">
+            <persName>DORI E EUFELIA:</persName>
+          </person>
+          <person xml:id="bartolina e rubinetta">
+            <persName>BARTOLINA E RUBINETTA:</persName>
+          </person>
+          <person xml:id="eufelia, dori e gasperone">
+            <persName>EUFELIA, DORI E GASPERONE:</persName>
+          </person>
+          <person xml:id="dori e gasperone">
+            <persName>DORI E GASPERONE:</persName>
+          </person>
+          <person xml:id="eufelia, dori, artemidoro e gasperone">
+            <persName>EUFELIA, DORI, ARTEMIDORO E GASPERONE:</persName>
+          </person>
+          <person xml:id="rubinetta e bartolina">
+            <persName>RUBINETTA E BARTOLINA:</persName>
+          </person>
+          <person xml:id="bartolina">
+            <persName>BARTOLINA:</persName>
+          </person>
+          <person xml:id="eufelia e dori">
+            <persName>EUFELIA E DORI:</persName>
+          </person>
+          <person xml:id="piastrone">
+            <persName>PIASTRONE:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>PIASTRONE</castItem>
+        <castItem>EUFELIA</castItem>
+        <castItem>DORI</castItem>
+        <castItem>ARTEMIDORO</castItem>
+        <castItem>GASPERONE</castItem>
+        <castItem>BARTOLINA</castItem>
+        <castItem>TROFONIO</castItem>
+        <castItem>RUBINETTA</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#dori">
+        <speaker>DORI:</speaker>
+        <l>Melensi che siete,</l>
+        <l>gran rabbia mi fate,</l>
+        <l>quel nastro, il vedete?</l>
+        <l>ben messo non sta.</l>
+      </sp>
+      <sp who="#eufelia">
+        <speaker>EUFELIA:</speaker>
+        <l>Plutarco porgete,</l>
+        <l>Terenzio cercate</l>
+        <l>dell’asino avete;</l>
+        <l>servir non si sa.</l>
+      </sp>
+      <sp who="#piastrone">
+        <speaker>PIASTRONE:</speaker>
+        <l>Silete, ve ‘l zitto;</l>
+        <l>chi strilla, fa chiasso,</l>
+        <l>Laerzio l’ha scritto,</l>
+        <l>leggetelo qua.</l>
+      </sp>
+      <sp who="#dori">
+        <speaker>DORI:</speaker>
+        <l>Sta male, vi ho detto,</l>
+        <l>da me lo farò.</l>
+      </sp>
+      <sp who="#eufelia">
+        <speaker>EUFELIA:</speaker>
+        <l>Virgilio l’ho letto,</l>
+        <l>Plutarco qui vo’.</l>
+      </sp>
+      <sp who="#piastrone">
+        <speaker>PIASTRONE:</speaker>
+        <l>Ma zitto un pochetto,</l>
+        <l>si termina, o no?</l>
+      </sp>
+      <sp who="#eufelia, dori e piastrone">
+        <speaker>EUFELIA, DORI E PIASTRONE:</speaker>
+        <l>Tal asino, al certo,</l>
+        <l>mai visto non ho.</l>
+        <l>Che chiasso! che ghetto!</l>
+        <l>Più capo non ho.</l>
+      </sp>
+      <sp who="#piastrone">
+        <speaker>PIASTRONE:</speaker>
+        <l>Figlie, di voi sapete</l>
+        <l>che il più probabil genitor son io:</l>
+        <l>siate dunque ubbidienti al cenno mio.</l>
+      </sp>
+      <sp who="#dori">
+        <speaker>DORI:</speaker>
+        <l>Figlia non fu di me più ubbidiente;</l>
+        <l>ma oggi, che si tratta</l>
+        <l>di marito pigliar, divengo matta.</l>
+      </sp>
+      <sp who="#eufelia">
+        <speaker>EUFELIA:</speaker>
+        <l>Io poi solo desio</l>
+        <l>un marito conforme al genio mio.</l>
+        <l>Amo, come sapete,</l>
+        <l>la lettura, il ritiro e la quiete.</l>
+        <l>Se alcun su questo far mi si presenta,</l>
+        <l>io non cerco di più, vivrò contenta.</l>
+      </sp>
+      <sp who="#piastrone">
+        <speaker>PIASTRONE:</speaker>
+        <l>Figlie, dolce pupazze</l>
+        <l>delle viscere mie, vi stringo al petto,</l>
+        <l>e specialmente te, che generata</l>
+        <l>par che t’abbi Aristotele. I mariti</l>
+        <l>gli avrete, sì gli avrete. I tuoi sponsali</l>
+        <l>son già conclusi, e tu no ‘l sai.</l>
+      </sp>
+      <sp who="#dori">
+        <speaker>DORI:</speaker>
+        <l>Oh bella!</l>
+        <l>Ma con chi? Già sapete,</l>
+        <l>che son di genio allegro, ed uno sposo</l>
+        <l>vorrei dell’umor mio.</l>
+      </sp>
+      <sp who="#piastrone">
+        <speaker>PIASTRONE:</speaker>
+        <l>Così l’avrai.</l>
+        <l>Egli è un italian come siam noi,</l>
+        <l>che ha tante e tante volte</l>
+        <l>fatto con me negozi; è un mercadante</l>
+        <l>di cuoio, grasso, allegro.</l>
+      </sp>
+      <sp who="#dori">
+        <speaker>DORI:</speaker>
+        <l>Sarà quello</l>
+        <l>che spesso a trafficar venne in levante?</l>
+      </sp>
+      <sp who="#piastrone">
+        <speaker>PIASTRONE:</speaker>
+        <l>Certo: don Gasperone.</l>
+      </sp>
+      <sp who="#dori">
+        <speaker>DORI:</speaker>
+        <l>E verrà?</l>
+      </sp>
+      <sp who="#piastrone">
+        <speaker>PIASTRONE:</speaker>
+        <l>Ieri sera</l>
+        <l>giunse in Libadia, e adesso qui s’aspetta,</l>
+        <l>giovinetto il conobbi, e siamo amici</l>
+        <l>a segno tal che sostener potrei,</l>
+        <l>che tutti i padri suoi son padri miei.</l>
+      </sp>
+      <sp who="#dori">
+        <speaker>DORI:</speaker>
+        <l>Oh me felice! Or sì ne son contenta.</l>
+        <l>Sempre inclinata fui per tal nazione,</l>
+        <l>con cui per il vestir ancor mi adatto.</l>
+      </sp>
+      <sp who="#eufelia">
+        <speaker>EUFELIA:</speaker>
+        <l>Ed io?</l>
+      </sp>
+      <sp who="#piastrone">
+        <speaker>PIASTRONE:</speaker>
+        <l>E tu non hai</l>
+        <l>in vista alcun?</l>
+      </sp>
+      <sp who="#eufelia">
+        <speaker>EUFELIA:</speaker>
+        <l>No, veramente… solo…</l>
+        <l>non saprei dir; ma forse…</l>
+      </sp>
+      <sp who="#dori">
+        <speaker>DORI:</speaker>
+        <l>Dillo via.</l>
+      </sp>
+      <sp who="#piastrone">
+        <speaker>PIASTRONE:</speaker>
+        <l>Non fare la smorfiosa.</l>
+      </sp>
+      <sp who="#eufelia">
+        <speaker>EUFELIA:</speaker>
+        <l>Quel giovane che viene in questa casa</l>
+        <l>a conversar con noi.</l>
+      </sp>
+      <sp who="#piastrone">
+        <speaker>PIASTRONE:</speaker>
+        <l>Capisco, figlia;</l>
+        <l>parli di Artemidoro?…</l>
+        <l>Me l’era quasi quasi immaginato;</l>
+        <l>non mi dispiace, è un giovine posato.</l>
+        <l>Però, però Piastrone</l>
+        <l>non farà passo affatto</l>
+        <l>se non va a consigliarsi con chi sa.</l>
+        <l>Siam nella Grecia, dove</l>
+        <l>la terra, in vece di cocuzze e cavoli,</l>
+        <l>sguiglia scienze e filosofi. «Tagliare</l>
+        <l>mai tavola si deve</l>
+        <l>senza pria misurarla»: scrisse Talo,</l>
+        <l>gran filosofo greco,</l>
+        <l>colui che inventò la serra e il sesto,</l>
+        <l>alla pagina trenta, capo sesto.</l>
+        <l>Or su, già compresi</l>
+        <l>il vostro desio,</l>
+        <l>e quel che poss’io,</l>
+        <l>per voi lo farò.</l>
+        <l>Tu serio lo brami?</l>
+        <l>allegro tu l’ami?</l>
+        <l>Sia allegro, sia serio,</l>
+        <l>pur ch’abbia criterio,</l>
+        <l>che opporre non so.</l>
+        <l>Son facil, son buono</l>
+        <l>in quel che si può.</l>
+        <l>(parte)</l>
+      </sp>
+      <stage>PIASTRONECapisco, figlia;parli di Artemidoro?…Me l’era quasi quasi immaginato;non mi dispiace, è un giovine posato.Però, però Piastronenon farà passo affattose non va a consigliarsi con chi sa.Siam nella Grecia, dovela terra, in vece di cocuzze e cavoli,sguiglia scienze e filosofi. «Tagliaremai tavola si devesenza pria misurarla»: scrisse Talo,gran filosofo greco,colui che inventò la serra e il sesto,alla pagina trenta, capo sesto.Or su, già compresiil vostro desio,e quel che poss’io,per voi lo farò.Tu serio lo brami?allegro tu l’ami?Sia allegro, sia serio,pur ch’abbia criterio,che opporre non so.Son facil, son buonoin quel che si può.(parte)</stage>
+      <div type="scene">
+        <head>EUFELIA E DORI</head>Un padre sì buonotrovar non si può.(partono)Scena secondaArtemidoro, poi Eufelia.<sp who="#eufelia e dori">
+          <speaker>EUFELIA E DORI:</speaker>
+          <l>Un padre sì buono</l>
+          <l>trovar non si può.</l>
+          <l>(partono)</l>
+          <l>Scena seconda</l>
+          <l>Artemidoro, poi Eufelia.</l>
+        </sp>
+        <stage>EUFELIA E DORIUn padre sì buonotrovar non si può.(partono)Scena secondaArtemidoro, poi Eufelia.</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Barbaro amor, per tanti miei raggiri</l>
+          <l>perché non mi fai giungere alla meta</l>
+          <l>de’ miei disegni? Adoro</l>
+          <l>Doride bella, e fingo</l>
+          <l>di amare Eufelia. Affetto</l>
+          <l>caratter di filosofo, e no ‘l sono,</l>
+          <l>e pur non spera il core</l>
+          <l>rimedio al suo languir. Barbaro amore!</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Artemidoro?</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Eufelia?</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Adesso è giunto</l>
+          <l>della germana mia lo sposo, ed ella</l>
+          <l>l’è andata ad incontrar.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Ohimè! che sento!)</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Tu filosofo sei,</l>
+          <l>filosofa son io,</l>
+          <l>si potrebbe fra noi far un bel paio</l>
+          <l>di sposi filosofici.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Si cambi</l>
+          <l>discorso.) Cosa leggi?</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>I caratteri leggo di Teofrasto.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Io del divin Platone</l>
+          <l>sto i dialoghi leggendo.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Ecco, allegri di qua vengon gli sposi</l>
+          <l>sediam noi da filosofi a studiare.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ARTEMIDORO</head>(Oh affanno! o gelosia! e pur convienefra tante pene e tantech’io tolleri di più questa seccante!)(siedono a studiare)Scena terzaDori e don Gasperone, che vengono cantando, senza fare minima attenzione ad Eufelia ed Artemidoro, che stanno seduti alla parte opposta.<sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Oh affanno! o gelosia! e pur conviene</l>
+          <l>fra tante pene e tante</l>
+          <l>ch’io tolleri di più questa seccante!)</l>
+          <l>(siedono a studiare)</l>
+          <l>Scena terza</l>
+          <l>Dori e don Gasperone, che vengono cantando, senza fare minima attenzione ad Eufelia ed Artemidoro, che stanno seduti alla parte opposta.</l>
+        </sp>
+        <stage>ARTEMIDORO(Oh affanno! o gelosia! e pur convienefra tante pene e tantech’io tolleri di più questa seccante!)(siedono a studiare)Scena terzaDori e don Gasperone, che vengono cantando, senza fare minima attenzione ad Eufelia ed Artemidoro, che stanno seduti alla parte opposta.</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Largo, largo al matrimonio:</l>
+          <l>oh che coppia bella e gaia!</l>
+          <l>Mascolini a paia a paia</l>
+          <l>noi vogliamo germogliar.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Passeggiando m’innamori,</l>
+          <l>col parlar quest’alma incanti:</l>
+          <l>ambi siam di uguali umori,</l>
+          <l>belli amanti in verità.</l>
+        </sp>
+        <sp who="#eufelia e artemidoro">
+          <speaker>EUFELIA E ARTEMIDORO:</speaker>
+          <l>Ah! silenzio, dove sei?</l>
+          <l>dove sei, tranquillità?</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Qualche cosa del viaggio</l>
+          <l>avrei genio d’ascoltar.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>In un pelago selvaggio</l>
+          <l>passai venti, scogli e mar.</l>
+        </sp>
+        <sp who="#eufelia e artemidoro">
+          <speaker>EUFELIA E ARTEMIDORO:</speaker>
+          <l>Il più incomodo del saggio</l>
+          <l>è il soffrir l’asinità.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>In Livorno m’imbarcai,</l>
+          <l>tra fanciulli e ragazzelle;</l>
+          <l>bella musica ascoltai</l>
+          <l>di tamburi e cetre belle:</l>
+          <l>passai Corsica e Morea,</l>
+          <l>mare vivo e mare morto,</l>
+          <l>ed or vengo a pigliar porto,</l>
+          <l>mia bellina, accanto a te.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Quanto è gaio! quanto è caro!</l>
+          <l>Il più amabile non v’è.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Ma, signori, è un’insolenza</l>
+          <l>quel continuo cicalar.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Ma un tantin di convenienza</l>
+          <l>con chi studia s’ha da usar.</l>
+        </sp>
+        <sp who="#dori e gasperone">
+          <speaker>DORI E GASPERONE:</speaker>
+          <l>A seccaggine non pensa,</l>
+          <l>chi ha piacer d’amoreggiar.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Acciò non tralasciamo</l>
+          <l>l’intrapresa allegria, lieti sediamo.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Fo ciò che vuoi, mia bella. Sto scaldato.</l>
+          <l>Posso, dico, levarmi la parrucca?</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Fate ciò che volete.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Franceschino,</l>
+          <l>cavami dal bagaglio un berrettino.</l>
+          <l>(dà la parrucca al servitore, dal quale riceve una berretta)</l>
+          <l>Perdoni; ché noi altri</l>
+          <l>italiani, subito</l>
+          <l>arrivati alla casa, ci spogliamo.</l>
+        </sp>
+        <stage>GASPERONEFranceschino,cavami dal bagaglio un berrettino.(dà la parrucca al servitore, dal quale riceve una berretta)Perdoni; ché noi altriitaliani, subitoarrivati alla casa, ci spogliamo.</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Che matto maledetto!)</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Leggi il divin filosofo.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(alzandosi)</l>
+          <l>L’ho letto.</l>
+        </sp>
+        <stage>ARTEMIDORO(alzandosi)L’ho letto.</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Dunque diceste il mio visin v’aggrada?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Cattera! E che per questo</l>
+          <l>a matrimoniarla son venuto</l>
+          <l>infin nell’arcipelo.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Dir vorrete arcipelago.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(battendo con flemma sulla spalla a don Gasperone)</l>
+          <l>Di grazia.</l>
+        </sp>
+        <stage>ARTEMIDORO(battendo con flemma sulla spalla a don Gasperone)Di grazia.</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(volgendosi con sorpresa)</l>
+          <l>Che comanda?</l>
+        </sp>
+        <stage>GASPERONE(volgendosi con sorpresa)Che comanda?</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Si alzi.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Mi devo alzar?</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>La sedia è mia.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>È vostra? compatisca;</l>
+          <l>or me ne prendo un’altra.</l>
+          <l>(don Gasperone s’alza, ed Artemidoro siede accanto a Dori)</l>
+        </sp>
+        <stage>GASPERONEÈ vostra? compatisca;or me ne prendo un’altra.(don Gasperone s’alza, ed Artemidoro siede accanto a Dori)</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Non credo che quell’uom sì scimunito</l>
+          <l>Doride voglia prendersi in marito.)</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(accennando a Dori che vada da lui)</l>
+          <l>Ehi, ehi, qua, qua ti voglio.</l>
+        </sp>
+        <stage>GASPERONE(accennando a Dori che vada da lui)Ehi, ehi, qua, qua ti voglio.</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>(s’accosta a don Gasperone)</l>
+          <l>Son qua, caro sposino.</l>
+        </sp>
+        <stage>DORI(s’accosta a don Gasperone)Son qua, caro sposino.</stage>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Senti un po’, Artemidor, senti il divino.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Non ho piacer di più studiare affatto.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>(Costui ha del filosofo e del matto.)</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>E così sappia ella…</l>
+          <l>(appena seduto dall’altra parte don Gasperone accanto a Dori, Artemidoro gli fa l’istessa azione di sopra in sulla spalla)</l>
+        </sp>
+        <stage>GASPERONEE così sappia ella…(appena seduto dall’altra parte don Gasperone accanto a Dori, Artemidoro gli fa l’istessa azione di sopra in sulla spalla)</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Di grazia.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(Un’altra volta!) Che le manca?</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>S’alzi.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Anche di qua?</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>La sedia è mia.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(a Dori)</l>
+          <l>Come! tutte le sedie son le sue?</l>
+          <l>Or me ne prendo un’altra.</l>
+          <l>(s’alza, e va a sedere in un’altra)</l>
+        </sp>
+        <stage>GASPERONE(a Dori)Come! tutte le sedie son le sue?Or me ne prendo un’altra.(s’alza, e va a sedere in un’altra)</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Dori, pensa che fai…</l>
+          <l>(Dori, ai cenni di don Gasperone, s’alza e va da lui)</l>
+        </sp>
+        <stage>ARTEMIDORODori, pensa che fai…(Dori, ai cenni di don Gasperone, s’alza e va da lui)</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Eccomi a’ cenni tuoi.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ma quel merlotto</l>
+          <l>spirante che ne vuol da’ fatti miei?</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Fremo di gelosia!)</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Artemidoro,</l>
+          <l>Teofrasto e Platone…</l>
+          <l>perché tu non sei qui… fanno un contrasto…</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Maledirei Platone e Teofrasto.)</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Ripigliamo il discorso.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Sappia ella…</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Doride?</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>(s’alza per parlargli in segreto)</l>
+          <l>Che comanda?</l>
+        </sp>
+        <stage>DORI(s’alza per parlargli in segreto)Che comanda?</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Una parola.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Eccomi.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(ad Eufelia)</l>
+          <l>Dica un po’! chi è quel signore</l>
+          <l>che va cercando a forza</l>
+          <l>pugni negli occhi e sganasson su i denti?</l>
+        </sp>
+        <stage>GASPERONE(ad Eufelia)Dica un po’! chi è quel signoreche va cercando a forzapugni negli occhi e sganasson su i denti?</stage>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Un dei greci filosofi eccellenti.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(piano a Dori)</l>
+          <l>Dunque vi piace?</l>
+        </sp>
+        <stage>ARTEMIDORO(piano a Dori)Dunque vi piace?</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Assai.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(ad Artemidoro)</l>
+          <l>Ehi! quel signore,</l>
+          <l>ci serve più quel mobile?</l>
+        </sp>
+        <stage>GASPERONE(ad Artemidoro)Ehi! quel signore,ci serve più quel mobile?</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Quel mobile</l>
+          <l>sta bene dove sta.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Oibò, sta male.</l>
+          <l>Due femmine e due uomini</l>
+          <l>è error d’ortografia; ma quando uniamo</l>
+          <l>così un uomo e una femmina, il prospetto</l>
+          <l>comparisce più dotto:</l>
+          <l>(tirando a sé Dori)</l>
+          <l>un boccon di pollanca, un bicchierotto.</l>
+        </sp>
+        <stage>GASPERONEOibò, sta male.Due femmine e due uominiè error d’ortografia; ma quando uniamocosì un uomo e una femmina, il prospettocomparisce più dotto:(tirando a sé Dori)un boccon di pollanca, un bicchierotto.</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Tu m’hai seccato, e credi darmi spasso.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>E se vuoi che t’ingrassi, ora t’ingrasso.</l>
+          <l>(minacciandolo)</l>
+        </sp>
+        <stage>GASPERONEE se vuoi che t’ingrassi, ora t’ingrasso.(minacciandolo)</stage>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Ma Artemidor!</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Ma Eufelia!</l>
+          <l>Io non voglio studiar, ho altro in testa.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Numi di Grecia, e qual bestemmia è questa?</l>
+          <l>O alme illuminate</l>
+          <l>degli antichi filosofi d’Atene,</l>
+          <l>che concetto farete di costui!</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Non sdegnarti, mio bene,</l>
+          <l>parlò il labbro: ma il core</l>
+          <l>no, che non consentì: studiar vogl’io,</l>
+          <l>filosofo esser voglio, e voglio amarti</l>
+          <l>finché avrò giorni, con sinceri ardori.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Or con quel bel parlar più m’innamori.</l>
+          <l>In udir quei cari accenti</l>
+          <l>flebil voce io sento al core,</l>
+          <l>che ravviva i miei contenti,</l>
+          <l>e la calma in sen mi dà.</l>
+          <l>Se sei savio ti prometto</l>
+          <l>sempre amore e fedeltà.</l>
+          <l>Ma se ardisce un vil concetto</l>
+          <l>proferir quel labbro audace,</l>
+          <l>non sperar da me più pace,</l>
+          <l>tutto sdegno il cor sarà.</l>
+          <l>(parte)</l>
+        </sp>
+        <stage>EUFELIAOr con quel bel parlar più m’innamori.In udir quei cari accentiflebil voce io sento al core,che ravviva i miei contenti,e la calma in sen mi dà.Se sei savio ti promettosempre amore e fedeltà.Ma se ardisce un vil concettoproferir quel labbro audace,non sperar da me più pace,tutto sdegno il cor sarà.(parte)</stage>
+      </div>
+      <div type="scene">
+        <head>ARTEMIDORO</head>E quei fanno all’amor! Ve’ che bestiaccia!Vuol proprio che lo prenda a pugni in faccia.Scena quartaDon Piastrone e detti.<sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>E quei fanno all’amor! Ve’ che bestiaccia!</l>
+          <l>Vuol proprio che lo prenda a pugni in faccia.</l>
+          <l>Scena quarta</l>
+          <l>Don Piastrone e detti.</l>
+        </sp>
+        <stage>ARTEMIDOROE quei fanno all’amor! Ve’ che bestiaccia!Vuol proprio che lo prenda a pugni in faccia.Scena quartaDon Piastrone e detti.</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Oh sior Piastrone amato!</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Genero mio garbato, non credeva</l>
+          <l>mai d’abbracciarti vivo.</l>
+          <l>(s’abbracciano)</l>
+        </sp>
+        <stage>PIASTRONEGenero mio garbato, non credevamai d’abbracciarti vivo.(s’abbracciano)</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ed io vorrei</l>
+          <l>che non vedessi notte.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Figlia, sloggia</l>
+          <l>di qua, solo restare</l>
+          <l>con questi galantuomini degg’io.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Ubbidisco.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Buon giorno,</l>
+          <l>cara déa.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Da qui a poco a te ritorno.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Sedie, pipe e caffè per tutti e tre. ~</l>
+          <l>Già per due galantuomini vi stimo;</l>
+          <l>ma il comodo talora, l’occasione,</l>
+          <l>la frequenza, l’amor, la gioventù…</l>
+          <l>malgrado la virtù,</l>
+          <l>potrebbe… che so io… per distrazione…</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Qual dubbio? mi offendete!</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Sior Piastron? questo l’è un scappellotto</l>
+          <l>per la testa di morte</l>
+          <l>del fu mio genitor. Sai come nacque?</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Non vi offendete, no,</l>
+          <l>so la vostra onestà;</l>
+          <l>ma voi dovete ancora</l>
+          <l>assicurar la mia tranquillità.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Ma in che maniera?</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Il sior don Gasperone</l>
+          <l>oggi sposerà Doride; ~ e dovete</l>
+          <l>voi nel comun sollazzo</l>
+          <l>dar la destra ad Eufelia.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Oh che imbarazzo!)</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Che dice lei?</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Io penserei, pregandovi</l>
+          <l>di variar, con dare</l>
+          <l>Eufelia a quel signore, e Dori a me.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Oibò, Dori si deve</l>
+          <l>indorare con me.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(alzandosi)</l>
+          <l>Ma rifiutare</l>
+          <l>Eufelia è una baldanza. Io sono amico</l>
+          <l>di casa, e assai mi cuoce…</l>
+        </sp>
+        <stage>ARTEMIDORO(alzandosi)Ma rifiutareEufelia è una baldanza. Io sono amicodi casa, e assai mi cuoce…</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Se ti cuoce,</l>
+          <l>e tu soffiaci, ch’io</l>
+          <l>che ci sono venuto a patto fatto.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Da galantuom, che ucciderò quel matto,</l>
+          <l>lasciami, sior Piastron.</l>
+          <l>(in atto di azzuffarsi)</l>
+          <l>PIASTRONE</l>
+          <l>(frapponendosi)</l>
+          <l>Via, non è nulla.</l>
+        </sp>
+        <stage>ARTEMIDORODa galantuom, che ucciderò quel matto,lasciami, sior Piastron.(in atto di azzuffarsi)PIASTRONE(frapponendosi)Via, non è nulla.</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>L’uccido.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Uccidi e chi? lascialo diavolo!</l>
+          <l>Alla fame che ho io,</l>
+          <l>tu mi sembri un piattin di fagioletti.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Ma non più strilli, siate benedetti!</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Vigliaccon, balordo, indegno,</l>
+          <l>asinon, villan plebeo…</l>
+          <l>Se mi metti nell’impegno</l>
+          <l>fo pentirti dell’orgoglio…</l>
+          <l>Ma lasciatemi, gli voglio</l>
+          <l>insegnar la civiltà.</l>
+          <l>Di filosofi al contegno</l>
+          <l>più non bado, e non do retta,</l>
+          <l>se trofeo di mia vendetta,</l>
+          <l>quell’ardito non cadrà.</l>
+          <l>(parte)</l>
+        </sp>
+        <stage>ARTEMIDOROVigliaccon, balordo, indegno,asinon, villan plebeo…Se mi metti nell’impegnofo pentirti dell’orgoglio…Ma lasciatemi, gli voglioinsegnar la civiltà.Di filosofi al contegnopiù non bado, e non do retta,se trofeo di mia vendetta,quell’ardito non cadrà.(parte)</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Signor Piastron, si è mai veduto in Grecia</l>
+          <l>un filosofo ancora</l>
+          <l>camminare ad un occhio?</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>No, mai fin or.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ed or ci vedi questo.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Andiam: farò abbracciarvi, ed in campagna</l>
+          <l>ci porteremo a far i matrimoni.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>GASPERONE</head>In altro caso io già mi son fissato,che in cambio di sposar, sarò impiccato.(partono)Scena quintaBosco; in fondo erta e sassosa rupe, a piè della quale selvaggia grotta con due ingressi.<sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>In altro caso io già mi son fissato,</l>
+          <l>che in cambio di sposar, sarò impiccato.</l>
+          <l>(partono)</l>
+          <l>Scena quinta</l>
+          <l>Bosco; in fondo erta e sassosa rupe, a piè della quale selvaggia grotta con due ingressi.</l>
+        </sp>
+        <stage>GASPERONEIn altro caso io già mi son fissato,che in cambio di sposar, sarò impiccato.(partono)Scena quintaBosco; in fondo erta e sassosa rupe, a piè della quale selvaggia grotta con due ingressi.</stage>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>(ch’esce dalla grotta)</l>
+          <l>Spirti invisibili</l>
+          <l>ch’ite per l’aere,</l>
+          <l>di tuoni e folgori</l>
+          <l>eccitator;</l>
+          <l>e voi di rupi</l>
+          <l>e d’antri cupi,</l>
+          <l>voi del profondo</l>
+          <l>centro del mondo</l>
+          <l>al volgo incogniti</l>
+          <l>abitator:</l>
+          <l>restate meco</l>
+          <l>in questo speco,</l>
+          <l>d’eletti magici</l>
+          <l>operator.</l>
+        </sp>
+        <stage>TROFONIO(ch’esce dalla grotta)Spirti invisibilich’ite per l’aere,di tuoni e folgorieccitator;e voi di rupie d’antri cupi,voi del profondocentro del mondoal volgo incognitiabitator:restate mecoin questo speco,d’eletti magicioperator.</stage>
+        <sp who="#coro di spiriti">
+          <speaker>CORO DI SPIRITI:</speaker>
+          <l>(dentro la grotta)</l>
+          <l>Perché t’infochi,</l>
+          <l>con gridi rochi?</l>
+          <l>Perché ci evochi</l>
+          <l>dai stigi lochi,</l>
+          <l>gran ciurmator?</l>
+        </sp>
+        <stage>CORO DI SPIRITI(dentro la grotta)Perché t’infochi,con gridi rochi?Perché ci evochidai stigi lochi,gran ciurmator?</stage>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Se in quest’antro talun per una porta</l>
+          <l>entri, e per l’altra sorta;</l>
+          <l>il tristo in gaio, e il gaio</l>
+          <l>in tristo umor converta; altri che parli</l>
+          <l>in diverse favelle, altri ammattisca.</l>
+          <l>E se nell’antro torni, v’entri, e n’esca</l>
+          <l>per l’opposto sentiero,</l>
+          <l>che riprenda ciascun l’esser primiero,</l>
+          <l>così prescrive e vuole</l>
+          <l>il poter di mie magiche parole.</l>
+        </sp>
+        <sp who="#coro di spiriti">
+          <speaker>CORO DI SPIRITI:</speaker>
+          <l>(dentro la grotta)</l>
+          <l>Qui stiam con irti</l>
+          <l>orecchi a udirti,</l>
+          <l>lemuri e spirti,</l>
+          <l>ad ubbidirti</l>
+          <l>attenti ognor.</l>
+        </sp>
+        <stage>CORO DI SPIRITI(dentro la grotta)Qui stiam con irtiorecchi a udirti,lemuri e spirti,ad ubbidirtiattenti ognor.</stage>
+      </div>
+      <div type="scene">
+        <head>TROFONIO</head>Ma vi è chi qua s’avanza!Fra quelle piante io mi ritiro intanto,gli effetti a rinforzar del grande incanto.Scena sestaMadama Bartolina e Rubinetta ambe da viaggio; poi Trofonio che ritorna.<sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Ma vi è chi qua s’avanza!</l>
+          <l>Fra quelle piante io mi ritiro intanto,</l>
+          <l>gli effetti a rinforzar del grande incanto.</l>
+          <l>Scena sesta</l>
+          <l>Madama Bartolina e Rubinetta ambe da viaggio; poi Trofonio che ritorna.</l>
+        </sp>
+        <stage>TROFONIOMa vi è chi qua s’avanza!Fra quelle piante io mi ritiro intanto,gli effetti a rinforzar del grande incanto.Scena sestaMadama Bartolina e Rubinetta ambe da viaggio; poi Trofonio che ritorna.</stage>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Aure dolci, che spirate</l>
+          <l>al fuggir dell’idol mio,</l>
+          <l>voi gli dite, gli spiegate</l>
+          <l>del suo cor, l’infedeltà.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Viaggiando, e senza un soldo,</l>
+          <l>che cosa si farà?</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Non mi dicesti</l>
+          <l>che trovando in Libadia</l>
+          <l>don Gasperon tuo cicisbeo scappato,</l>
+          <l>noi eravam signore?</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Certamente,</l>
+          <l>perché quell’insolente</l>
+          <l>fede di matrimonio mi giurò,</l>
+          <l>e poi m’abbandonò, per qui venire</l>
+          <l>la figliuola a sposar di un tal Piastrone,</l>
+          <l>come detto mi fu da un servitore</l>
+          <l>che in Livorno ei lasciò.</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Male comune</l>
+          <l>solito ad accadere a quelle donne</l>
+          <l>che agli uomini si fidano: son quasi</l>
+          <l>sett’anni ch’io qui fo la locandiera,</l>
+          <l>e per esser pietosa</l>
+          <l>coi nostr’italiani un ne alloggiai,</l>
+          <l>che fede mi giurò di matrimonio;</l>
+          <l>ma un giorno che dovea darmi la mano</l>
+          <l>se n’ fuggì il traditor, e aggiunse a questo,</l>
+          <l>(per cui più mal l’intesi),</l>
+          <l>la truffa dell’alloggio di tre mesi.</l>
+          <l>Ma sebben mi ha piantata, ancor l’adoro.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Chi sussurra qua fuora?</l>
+        </sp>
+        <sp who="#rubinetta e bartolina">
+          <speaker>RUBINETTA E BARTOLINA:</speaker>
+          <l>(spaventate)</l>
+          <l>Ah!</l>
+        </sp>
+        <stage>RUBINETTA E BARTOLINA(spaventate)Ah!</stage>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>O bella da veder! fuggon le frine</l>
+          <l>da i senocrati! Fuggono le lesbie</l>
+          <l>da i diogeni! E fuggon le xantippe</l>
+          <l>da i socrati così! Via non temete,</l>
+          <l>venite a me.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>No, no, ci vuoi mangiare!</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Mangiarvi? Oibò. In voi mi mangerei</l>
+          <l>il peggiore boccon che sia nel mondo.</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Ma di grazia, che bestia siete voi?</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Bestia io?</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Siete orso,</l>
+          <l>che discorre all’impiedi,</l>
+          <l>o siete uomo selvaggio?</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Oh innocentina</l>
+          <l>mordi un po’ questo dito.</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Ma chi sei?</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Trofonio è il nome mio.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Trofonio? Brutto nome!</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Abito in questa grotta, ove per sempre,</l>
+          <l>fra studi ignoti, arcani,</l>
+          <l>lungi dal folle mondo</l>
+          <l>solitario m’ascondo.</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Ti ho capito.</l>
+          <l>Tu sei un di quei pazzi</l>
+          <l>che si appellan filosofi.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Io pazzo?…</l>
+          <l>E voi chi siete?</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Donne;</l>
+          <l>che, non ci vedi?</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Il titolo di donna</l>
+          <l>merita ogni rispetto.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>E specialmente</l>
+          <l>io che son ballerina. Ballerina</l>
+          <l>sai che cosa vuol dir? Vuol dir virtuosa.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Ballerina vuol dire perniciosa,</l>
+          <l>distruttrice e flagello</l>
+          <l>delli cervelli e delle borse altrui.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>(Sgraffignerei costui!)</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>E locandiera</l>
+          <l>che dir vuol?</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Vuol dir ladra</l>
+          <l>domestica e civil.</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Ti compatisco,</l>
+          <l>perché di pazzo hai la fisonomia.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Povera e nuda vai, filosofia!</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Se un po’ mi venissi</l>
+          <l>la porta a bussar,</l>
+          <l>se alloggio sentissi</l>
+          <l>da te domandar,</l>
+          <l>sai cosa direi?</l>
+          <l>Va, fatti impiccar.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Gran matta che sei,</l>
+          <l>l’albergo l’ho qua.</l>
+          <l>(accenna alla grotta)</l>
+        </sp>
+        <stage>TROFONIOGran matta che sei,l’albergo l’ho qua.(accenna alla grotta)</stage>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Se un poco mi vedi</l>
+          <l>far passi e sciassè,</l>
+          <l>se in punta de’ piedi</l>
+          <l>ti fo un pirolè,</l>
+          <l>per certo di stucco</l>
+          <l>ti fo diventar.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Non son mammalucco,</l>
+          <l>mi so regolar.</l>
+        </sp>
+        <sp who="#rubinetta e bartolina">
+          <speaker>RUBINETTA E BARTOLINA:</speaker>
+          <l>Filosofo brutto,</l>
+          <l>selvaggio, caprone,</l>
+          <l>stregaccio, barbone,</l>
+          <l>mi stomachi affé.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>TROFONIO</head>Di te son più bello,son meglio di te.(le donne partono)Molti vidi dall’antropassar per la campagna: ma nessunomai nella grotta entrò. Vorrei vedernegli effetti portentosidegli alterati sensi e degli umori:ma un uom correre veggo a questa volta,lì in osservanza fermerommi intantoper vedere il prodigio dell’incanto.(si ritira)Scena settimaDon Gasperone fuggendo, poi Artemidoro nella istessa maniera; indi Madama Bartolina e Rubinetta.<sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Di te son più bello,</l>
+          <l>son meglio di te.</l>
+          <l>(le donne partono)</l>
+          <l>Molti vidi dall’antro</l>
+          <l>passar per la campagna: ma nessuno</l>
+          <l>mai nella grotta entrò. Vorrei vederne</l>
+          <l>gli effetti portentosi</l>
+          <l>degli alterati sensi e degli umori:</l>
+          <l>ma un uom correre veggo a questa volta,</l>
+          <l>lì in osservanza fermerommi intanto</l>
+          <l>per vedere il prodigio dell’incanto.</l>
+          <l>(si ritira)</l>
+          <l>Scena settima</l>
+          <l>Don Gasperone fuggendo, poi Artemidoro nella istessa maniera; indi Madama Bartolina e Rubinetta.</l>
+        </sp>
+        <stage>TROFONIODi te son più bello,son meglio di te.(le donne partono)Molti vidi dall’antropassar per la campagna: ma nessunomai nella grotta entrò. Vorrei vedernegli effetti portentosidegli alterati sensi e degli umori:ma un uom correre veggo a questa volta,lì in osservanza fermerommi intantoper vedere il prodigio dell’incanto.(si ritira)Scena settimaDon Gasperone fuggendo, poi Artemidoro nella istessa maniera; indi Madama Bartolina e Rubinetta.</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Oh sconquassato me! Dove mi salvo?</l>
+          <l>Veniva con mia moglie a braccio a braccio,</l>
+          <l>per andare in campagna a far le nozze,</l>
+          <l>e mi sembrò così tra lume e lustro</l>
+          <l>di lontano veder la ballerina</l>
+          <l>che in Livorno lasciai, mi son staccato</l>
+          <l>dalla moglie, e fuggito son di pressa…</l>
+          <l>Eccola, ella è dessa.</l>
+          <l>L’affare in ver mi scotta,</l>
+          <l>entro presto a celarmi nella grotta.</l>
+          <l>(entra nella grotta)</l>
+        </sp>
+        <stage>GASPERONEOh sconquassato me! Dove mi salvo?Veniva con mia moglie a braccio a braccio,per andare in campagna a far le nozze,e mi sembrò così tra lume e lustrodi lontano veder la ballerinache in Livorno lasciai, mi son staccatodalla moglie, e fuggito son di pressa…Eccola, ella è dessa.L’affare in ver mi scotta,entro presto a celarmi nella grotta.(entra nella grotta)</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Ohimè son rovinato!</l>
+          <l>La locandiera a cui mi giurai sposo</l>
+          <l>è qui, e di lontano mi ha veduto</l>
+          <l>a braccio con Eufelia Son perduto</l>
+          <l>se quella ardita mi raggiunge. Oh cielo!</l>
+          <l>In quell’antro oscurissimo mi celo.</l>
+          <l>(entra nella grotta)</l>
+        </sp>
+        <stage>ARTEMIDOROOhimè son rovinato!La locandiera a cui mi giurai sposoè qui, e di lontano mi ha vedutoa braccio con Eufelia Son perdutose quella ardita mi raggiunge. Oh cielo!In quell’antro oscurissimo mi celo.(entra nella grotta)</stage>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Dove son?</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Stesser lì?</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Saranno là?</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Stanno qui?</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Non vi son?</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Ce l’hanno fatta</l>
+          <l>i birichin! Saran passati avanti.</l>
+          <l>Diamogli caccia…</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Ma per quale strada?</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Li troverò.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Ma dove?</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>RUBINETTA</head>Sebben stessero assisi in grembo a Giove.(entrano nella grotta)Scena ottavaDori, poi don Gasperone in abito da filosofo caricato ridicolosamente, con libro in mano.<sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Sebben stessero assisi in grembo a Giove.</l>
+          <l>(entrano nella grotta)</l>
+          <l>Scena ottava</l>
+          <l>Dori, poi don Gasperone in abito da filosofo caricato ridicolosamente, con libro in mano.</l>
+        </sp>
+        <stage>RUBINETTASebben stessero assisi in grembo a Giove.(entrano nella grotta)Scena ottavaDori, poi don Gasperone in abito da filosofo caricato ridicolosamente, con libro in mano.</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Io per me non capisco!</l>
+          <l>Lo sposo mi ha lasciata,</l>
+          <l>e s’è messo a fuggir come un ossesso:</l>
+          <l>io dubito gran cose.</l>
+          <l>Non so se questo avviene all’altre spose…</l>
+          <l>Che vedo! Egli se n’ viene</l>
+          <l>dal sen dell’antro oscuro!</l>
+          <l>Ma che abito è quel! Che portamento!</l>
+          <l>Che serietà! lo riconosco a stento!</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Il mondo? Il mondo è un pazzo:</l>
+          <l>meriterebbe andar coi matti a paro,</l>
+          <l>e chi crede alle femmine è un somaro.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Che cangiamento è quello!</l>
+          <l>Sposo? Don Gasperon?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Cambia il cervello</l>
+          <l>a sapone. Tu il mondo cosa credi</l>
+          <l>che sia? Altro non è che una ricotta;</l>
+          <l>sembra melone, è vero,</l>
+          <l>ma è una cosa bislunga, molle e cotta.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Ma tu da quando in qua sei divenuto</l>
+          <l>fanatico così per la morale?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(le dà un libro)</l>
+          <l>Leggi questo filosofo immortale.</l>
+        </sp>
+        <stage>GASPERONE(le dà un libro)Leggi questo filosofo immortale.</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Qual filosofo è questo?</l>
+          <l>Plato? Alcibiade? Demostene?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>È quello</l>
+          <l>che ha trentamila scienze nella pancia.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Ma chi è?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Don Chisciotte della Mancia.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Tu fai stupirmi!</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Leggi.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>DORI</head>Io leggere non voglio altro che il librodell’allegria, e voglio far l’amore.Scena nonaArtemidoro ballando dalla grotta, poi madama Bartolina e Rubinetta che ritornano, e detti.<sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Io leggere non voglio altro che il libro</l>
+          <l>dell’allegria, e voglio far l’amore.</l>
+          <l>Scena nona</l>
+          <l>Artemidoro ballando dalla grotta, poi madama Bartolina e Rubinetta che ritornano, e detti.</l>
+        </sp>
+        <stage>DORIIo leggere non voglio altro che il librodell’allegria, e voglio far l’amore.Scena nonaArtemidoro ballando dalla grotta, poi madama Bartolina e Rubinetta che ritornano, e detti.</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(esce ballando)</l>
+          <l>Llarà, llarà, llarà…</l>
+        </sp>
+        <stage>ARTEMIDORO(esce ballando)Llarà, llarà, llarà…</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Artemidoro?</l>
+          <l>Balli! qual novità!</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Viva la birba,</l>
+          <l>e viva l’allegria! Viva la vita</l>
+          <l>disinvolta e baggiana! Il mondo è fatto</l>
+          <l>per chi brilla, chi salta, e chi fa il matto.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Oh questa meraviglia, anche cangiato</l>
+          <l>ti veggo in questo giorno?</l>
+          <l>Filosofo non sei?</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Io sono un corno.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Siedi, siedi ragazzo,</l>
+          <l>e studia ch’ora è tempo. Il mondo è corto,</l>
+          <l>e chi visse dottor, asino è morto.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Eh! ch’io prendo a sassate</l>
+          <l>chi più mi parla di filosofia;</l>
+          <l>l’anima del gran mondo è l’allegria.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Eccolo, ah traditor! t’ho alfin raggiunto.</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Or non mi scapperai più, Artemidoro</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>(Che veggo! fosser pazze anche costoro!)</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>(a don Gasperone)</l>
+          <l>Mi ravvisi birbon? guardami bene:</l>
+          <l>quella son io che con le danze un giorno</l>
+          <l>t’incappai, e che amor tu mi giurasti,</l>
+          <l>e che senza cagion m’abbandonasti.</l>
+        </sp>
+        <stage>BARTOLINA(a don Gasperone)Mi ravvisi birbon? guardami bene:quella son io che con le danze un giornot’incappai, e che amor tu mi giurasti,e che senza cagion m’abbandonasti.</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Come? e con questa pilloletta indosso</l>
+          <l>venisti qui a sposarmi?</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Scusi lei,</l>
+          <l>deve, sposarsi a me.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Lo sposo è mio,</l>
+          <l>e non cedo a nessun.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Chi ha più capelli</l>
+          <l>or di noi si vedrà.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Eh! sesso imbelle.</l>
+          <l>Andate; a prender moglie</l>
+          <l>la sorte ancora non mi ci ha chiamato.</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Io ti sgraffignerò.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Sgraffigna, o cara.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Ti darò al muso.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Strapperotti il naso.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ehi là sto poco, e dico, o gente cieca,</l>
+          <l>m’avete rotta la mia biblioteca.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Llarà, llarà, llarà…</l>
+          <l>Ballando Artemidor se n’anderà.</l>
+          <l>(fugge)</l>
+        </sp>
+        <stage>ARTEMIDOROLlarà, llarà, llarà…Ballando Artemidor se n’anderà.(fugge)</stage>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Tu l’hai fatto scappar, conto ne bramo.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Sei un ingannator.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Sei un malnato.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Oh cospetto di Seneca svenato!</l>
+          <l>Come? avanti a un filosofo</l>
+          <l>si fanno gherminelle. Andate via</l>
+          <l>o farò se mi sdegno</l>
+          <l>mazzas coronat opus. Questo è il segno</l>
+          <l>che vi manca mercurio, id est dottrina,</l>
+          <l>ed io parlar non posso</l>
+          <l>con chi non ha quel galantuomo addosso.</l>
+        </sp>
+        <stage>GASPERONEOh cospetto di Seneca svenato!Come? avanti a un filosofosi fanno gherminelle. Andate viao farò se mi sdegnomazzas coronat opus. Questo è il segnoche vi manca mercurio, id est dottrina,ed io parlar non possocon chi non ha quel galantuomo addosso.</stage>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Déi ragionar con me.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Con te ragiono.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Con me prima dell’altre.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Con te prima…</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Di me cosa vuoi dir?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Più d’una cosa</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Su, parla.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Parlerò dall’aglio al rapo.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Ma quando?</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Non ho flemma.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(a Bartolina)</l>
+          <l>Io non ho capo.</l>
+          <l>(a Dori)</l>
+          <l>Basta qui, ragazza astuta,</l>
+          <l>il tuo genio so qual è.</l>
+          <l>(a Bartolina)</l>
+          <l>La tua idea già l’ho veduta,</l>
+          <l>vuoi tu dirmi un non so che.</l>
+          <l>(a Rubinetta)</l>
+          <l>Non temer, mio bel visino,</l>
+          <l>so che brami, e son con te.</l>
+          <l>Voi vorreste un maritino,</l>
+          <l>questo è quello che non c’è.</l>
+          <l>Ora i tempi sono scarsi,</l>
+          <l>ci è penuria di quattrini,</l>
+          <l>troverete gli amorini,</l>
+          <l>ma pecunia niente affé.</l>
+          <l>Non gridate, non fremete,</l>
+          <l>che Mercurio se vi sente</l>
+          <l>monta in bestia, e veramente</l>
+          <l>vi potrebbe inquietar.</l>
+          <l>(Scarpa mia se sei valente</l>
+          <l>fuggi presto, e lascia far.)</l>
+          <l>(fugge nella grotta)</l>
+        </sp>
+        <stage>GASPERONE(a Bartolina)Io non ho capo.(a Dori)Basta qui, ragazza astuta,il tuo genio so qual è.(a Bartolina)La tua idea già l’ho veduta,vuoi tu dirmi un non so che.(a Rubinetta)Non temer, mio bel visino,so che brami, e son con te.Voi vorreste un maritino,questo è quello che non c’è.Ora i tempi sono scarsi,ci è penuria di quattrini,troverete gli amorini,ma pecunia niente affé.Non gridate, non fremete,che Mercurio se vi sentemonta in bestia, e veramentevi potrebbe inquietar.(Scarpa mia se sei valentefuggi presto, e lascia far.)(fugge nella grotta)</stage>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Fuggito anch’è quest’altro, fanno i goffi,</l>
+          <l>perché pagar non voglion la gabella.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>RUBINETTA</head>Andiamo a querelarli. Alla perfinesi dovranno spassar con due testine.(partono)Scena decimaDori, poi don Piastrone ed Eufelia.<sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Andiamo a querelarli. Alla perfine</l>
+          <l>si dovranno spassar con due testine.</l>
+          <l>(partono)</l>
+          <l>Scena decima</l>
+          <l>Dori, poi don Piastrone ed Eufelia.</l>
+        </sp>
+        <stage>RUBINETTAAndiamo a querelarli. Alla perfinesi dovranno spassar con due testine.(partono)Scena decimaDori, poi don Piastrone ed Eufelia.</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Tapina me! Don Gasperon mi pare</l>
+          <l>che diè di volta.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Mio</l>
+          <l>primo parto, e fatica;</l>
+          <l>del tuo sposo che n’è?</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Perché fuggi</l>
+          <l>da noi come anche fece Artemidoro?</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>(Poc’anzi mio, or d’altra</l>
+          <l>poco fa lieto, or serio e malinconico.)</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Parla fra sé!</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Arrivata</l>
+          <l>par che sia col cervello al mare Ionico!</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Germana mia…</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Non ho germane affatto.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Figlia, vieni a papà…</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Il padre mio</l>
+          <l>chi è stato non lo so.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Lo credo anch’io.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Ma degli amanti nostri</l>
+          <l>vogliam saper…</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Ma il sior don Gasperone,</l>
+          <l>che fa? Dove n’andò? Sta ancor nel mondo?</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Egli… andò… ritornò… sì… mi confondo!</l>
+          <l>Che smania, che pena,</l>
+          <l>la rabbia m’opprime,</l>
+          <l>se perdo la speme</l>
+          <l>del caro mio sposo,</l>
+          <l>il cor più riposo,</l>
+          <l>più pace non ha.</l>
+          <l>Ei torbido in faccia</l>
+          <l>mi guarda, mi scaccia,</l>
+          <l>sta pallido e mesto,</l>
+          <l>si rende molesto,</l>
+          <l>poetico parla,</l>
+          <l>non sa quel che fa.</l>
+          <l>Ah padre, soccorso!…</l>
+          <l>Sorella, m’aita…</l>
+          <l>Ho l’alma smarrita,</l>
+          <l>mi gira il cervello,</l>
+          <l>e al core un martello</l>
+          <l>battendo mi sta.</l>
+          <l>(parte)</l>
+          <l>PIASTRONE</l>
+          <l>Andiamo, Eufelia, appresso:</l>
+          <l>in tutta tua sorella</l>
+          <l>io non vi riconosco altro che il viso.</l>
+        </sp>
+        <stage>DORIEgli… andò… ritornò… sì… mi confondo!Che smania, che pena,la rabbia m’opprime,se perdo la spemedel caro mio sposo,il cor più riposo,più pace non ha.Ei torbido in facciami guarda, mi scaccia,sta pallido e mesto,si rende molesto,poetico parla,non sa quel che fa.Ah padre, soccorso!…Sorella, m’aita…Ho l’alma smarrita,mi gira il cervello,e al core un martellobattendo mi sta.(parte)PIASTRONEAndiamo, Eufelia, appresso:in tutta tua sorellaio non vi riconosco altro che il viso.</stage>
+      </div>
+      <div type="scene">
+        <head>EUFELIA</head>Par che il senno si sia da lei diviso.(partono)Scena undicesimaTrofonio.Oh degl’incanti mieisovrumano poter! Rimarrà eternaa’ posteri l’ideadell’antro di Trofonio. Appena entratol’uomo di allegro umor per quella porta,per quest’altra è già serio ritornato.Nel buio ha tracambiatogli abiti suoi galanticon la mia toga magistral; se tornadal contrario sentieroilare prenderà l’esser primiero;e così avverrà a tutti ch’ivi andranno.Questo i maghi e i filosofi far sanno.(parte)Scena dodicesimaDon Piastrone, poi Eufelia fuggendo indi Artemidoro che cerca di Eufelia.PIASTRONEPerdute ho le mie figlie…Oh dio! non so che fare!Nel bosco devon stare…le cerco, le ricerco…e dove siano andatepensarlo in ver non so.<sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Par che il senno si sia da lei diviso.</l>
+          <l>(partono)</l>
+          <l>Scena undicesima</l>
+          <l>Trofonio.</l>
+          <l>Oh degl’incanti miei</l>
+          <l>sovrumano poter! Rimarrà eterna</l>
+          <l>a’ posteri l’idea</l>
+          <l>dell’antro di Trofonio. Appena entrato</l>
+          <l>l’uomo di allegro umor per quella porta,</l>
+          <l>per quest’altra è già serio ritornato.</l>
+          <l>Nel buio ha tracambiato</l>
+          <l>gli abiti suoi galanti</l>
+          <l>con la mia toga magistral; se torna</l>
+          <l>dal contrario sentiero</l>
+          <l>ilare prenderà l’esser primiero;</l>
+          <l>e così avverrà a tutti ch’ivi andranno.</l>
+          <l>Questo i maghi e i filosofi far sanno.</l>
+          <l>(parte)</l>
+          <l>Scena dodicesima</l>
+          <l>Don Piastrone, poi Eufelia fuggendo indi Artemidoro che cerca di Eufelia.</l>
+          <l>PIASTRONE</l>
+          <l>Perdute ho le mie figlie…</l>
+          <l>Oh dio! non so che fare!</l>
+          <l>Nel bosco devon stare…</l>
+          <l>le cerco, le ricerco…</l>
+          <l>e dove siano andate</l>
+          <l>pensarlo in ver non so.</l>
+        </sp>
+        <stage>EUFELIAPar che il senno si sia da lei diviso.(partono)Scena undicesimaTrofonio.Oh degl’incanti mieisovrumano poter! Rimarrà eternaa’ posteri l’ideadell’antro di Trofonio. Appena entratol’uomo di allegro umor per quella porta,per quest’altra è già serio ritornato.Nel buio ha tracambiatogli abiti suoi galanticon la mia toga magistral; se tornadal contrario sentieroilare prenderà l’esser primiero;e così avverrà a tutti ch’ivi andranno.Questo i maghi e i filosofi far sanno.(parte)Scena dodicesimaDon Piastrone, poi Eufelia fuggendo indi Artemidoro che cerca di Eufelia.PIASTRONEPerdute ho le mie figlie…Oh dio! non so che fare!Nel bosco devon stare…le cerco, le ricerco…e dove siano andatepensarlo in ver non so.</stage>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Ah genitor!…</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Cos’hai?</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Ah tu non sai!</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Io no…</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Se tu sapessi…</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Che?</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Eccolo…</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Chi?</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Me n’ vo.</l>
+          <l>(fugge)</l>
+          <l>PIASTRONE</l>
+          <l>Fermati… senti… oibò…</l>
+          <l>Se n’ fugge, e non dà retta!</l>
+          <l>Intenderla non so.</l>
+          <l>Ma vien quest’altro in fretta</l>
+          <l>Artemidoro, ascolta…</l>
+        </sp>
+        <stage>EUFELIAMe n’ vo.(fugge)PIASTRONEFermati… senti… oibò…Se n’ fugge, e non dà retta!Intenderla non so.Ma vien quest’altro in frettaArtemidoro, ascolta…</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Deh lascia… un’altra volta…</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Ma un pocolin ti arresta…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ARTEMIDORO</head>Seguire Eufelia io vo’.(parte)PIASTRONEChe stravaganza è questa!Perduto han già il cervello,e forse anch’io bel bellocon loro il perderò.Scena tredicesimaDori e detto, poi Eufelia.<sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Seguire Eufelia io vo’.</l>
+          <l>(parte)</l>
+          <l>PIASTRONE</l>
+          <l>Che stravaganza è questa!</l>
+          <l>Perduto han già il cervello,</l>
+          <l>e forse anch’io bel bello</l>
+          <l>con loro il perderò.</l>
+          <l>Scena tredicesima</l>
+          <l>Dori e detto, poi Eufelia.</l>
+        </sp>
+        <stage>ARTEMIDOROSeguire Eufelia io vo’.(parte)PIASTRONEChe stravaganza è questa!Perduto han già il cervello,e forse anch’io bel bellocon loro il perderò.Scena tredicesimaDori e detto, poi Eufelia.</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Ah padre mio!…</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Che fu?</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Difendimi…</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Da chi?…</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Da quello…</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Resta qui…</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Non posso star di più.</l>
+          <l>(fugge)</l>
+          <l>PIASTRONE</l>
+          <l>Ma parla! E fugge anch’ella…</l>
+          <l>Che mai son queste scene!…</l>
+          <l>Io mi confondo già.</l>
+          <l>Oh questa si ch’è bella!</l>
+          <l>Don Gasperon qui viene</l>
+          <l>con aria e gravità!</l>
+          <l>E ancor le mie ragazze</l>
+          <l>di nuovo tornan qua.</l>
+        </sp>
+        <stage>DORINon posso star di più.(fugge)PIASTRONEMa parla! E fugge anch’ella…Che mai son queste scene!…Io mi confondo già.Oh questa si ch’è bella!Don Gasperon qui vienecon aria e gravità!E ancor le mie ragazzedi nuovo tornan qua.</stage>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>(alle figlie)</l>
+          <l>Cos’è tal novità?</l>
+        </sp>
+        <stage>PIASTRONE(alle figlie)Cos’è tal novità?</stage>
+        <sp who="#eufelia e dori">
+          <speaker>EUFELIA E DORI:</speaker>
+          <l>Se Artemidor vedeste…</l>
+          <l>se Gasperon vedeste…</l>
+          <l>così non parlereste!</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Ma dite cosa è il fatto?</l>
+          <l>Or or divengo matto.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Don Gasperon s’appressa.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Vien anche Artemidoro.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>(Stupir mi fan costoro</l>
+          <l>con tante varietà!)</l>
+        </sp>
+      </div>
+    </body>
+    <div type="act">
+      <head>EUFELIA E DORI</head>Or vo’ veder che cosal’ingrato mi dirà.Scena quAttordicesimaDon Gasperone ed Artemidoro da diverse strade, e detti.<div type="scene">
+        <head>EUFELIA E DORI</head>Or vo’ veder che cosal’ingrato mi dirà.Scena quAttordicesimaDon Gasperone ed Artemidoro da diverse strade, e detti.<sp who="#eufelia e dori">
+          <speaker>EUFELIA E DORI:</speaker>
+          <l>Or vo’ veder che cosa</l>
+          <l>l’ingrato mi dirà.</l>
+          <l>Scena qu</l>
+          <l>Attordicesima</l>
+          <l>Don Gasperone ed Artemidoro da diverse strade, e detti.</l>
+        </sp>
+        <stage>EUFELIA E DORIOr vo’ veder che cosal’ingrato mi dirà.Scena quAttordicesimaDon Gasperone ed Artemidoro da diverse strade, e detti.</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Cavalier io son d’Espagna</l>
+          <l>ho il demonio nell’entragna,</l>
+          <l>stimo ognun come un cavritto,</l>
+          <l>tutto il mondo è un picaron.</l>
+        </sp>
+        <stage>GASPERONECavalier io son d’Espagnaho il demonio nell’entragna,stimo ognun come un cavritto,tutto il mondo è un picaron.</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Sor spagnol dell’ombra matta</l>
+          <l>teco un poco io ballar vo’.</l>
+        </sp>
+        <sp who="#eufelia, dori e piastrone">
+          <speaker>EUFELIA, DORI E PIASTRONE:</speaker>
+          <l>Ma, signor, qua che si tratta?</l>
+          <l>Il giudizio dove andò?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Je suis, Monsieur, bien, fait.</l>
+        </sp>
+        <stage>GASPERONEJe suis, Monsieur, bien, fait.</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(deridendolo)</l>
+          <l>Certo, certo, en vérité.</l>
+        </sp>
+        <stage>ARTEMIDORO(deridendolo)Certo, certo, en vérité.</stage>
+        <sp who="#eufelia, dori e piastrone">
+          <speaker>EUFELIA, DORI E PIASTRONE:</speaker>
+          <l>Se sul sodo non staremo</l>
+          <l>un disastro farò qui.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ah mon dieu! je suis joli.</l>
+        </sp>
+        <stage>GASPERONEAh mon dieu! je suis joli.</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Non v’è dubbio, ell’è così.</l>
+        </sp>
+        <sp who="#eufelia, dori e piastrone">
+          <speaker>EUFELIA, DORI E PIASTRONE:</speaker>
+          <l>(L’uno e l’altro ha preso un ramo</l>
+          <l>di massiccia asinità.)</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Ma che veggo! Rubinetta!</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Vien ohimè la ballerina!</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Ma perché non mi dà retta!</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Non rispondi alla sposina?…</l>
+        </sp>
+        <sp who="#artemidoro e gasperone">
+          <speaker>ARTEMIDORO E GASPERONE:</speaker>
+          <l>Scappo a furia nella grotta</l>
+          <l>per non farmi qui trovar.</l>
+          <l>(partono)</l>
+        </sp>
+        <stage>ARTEMIDORO E GASPERONEScappo a furia nella grottaper non farmi qui trovar.(partono)</stage>
+      </div>
+      <div type="scene">
+        <head>EUFELIA, DORI E PIASTRONE</head>Son scappati già di bottama con me s’han da spassar.(partono)Scena quindicesimaTrofonio, poi madama Bartolina e Rubinetta indi don Gasperone ed Artemidoro.<sp who="#eufelia, dori e piastrone">
+          <speaker>EUFELIA, DORI E PIASTRONE:</speaker>
+          <l>Son scappati già di botta</l>
+          <l>ma con me s’han da spassar.</l>
+          <l>(partono)</l>
+          <l>Scena quindicesima</l>
+          <l>Trofonio, poi madama Bartolina e Rubinetta indi don Gasperone ed Artemidoro.</l>
+        </sp>
+        <stage>EUFELIA, DORI E PIASTRONESon scappati già di bottama con me s’han da spassar.(partono)Scena quindicesimaTrofonio, poi madama Bartolina e Rubinetta indi don Gasperone ed Artemidoro.</stage>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Oggidì nel mondo bello</l>
+          <l>chi più crede aver cervello</l>
+          <l>quello appunto è che non n’ha.</l>
+          <l>Divertir mi voglio un poco,</l>
+          <l>dall’istesso occulto loco,</l>
+          <l>per veder quei due sortire</l>
+          <l>nella lor sagacità.</l>
+          <l>(entra)</l>
+        </sp>
+        <stage>TROFONIOOggidì nel mondo bellochi più crede aver cervelloquello appunto è che non n’ha.Divertir mi voglio un poco,dall’istesso occulto loco,per veder quei due sortirenella lor sagacità.(entra)</stage>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>È troppo buona ~ quella donzella</l>
+          <l>che si appassiona ~ presto in amor.</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Felice quella ~ che si disparte</l>
+          <l>dai vezzi ed arte ~ di un traditor.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Ecco che viene ~ don Gasperone.</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Ecco il birbone ~ d’Artemidor.</l>
+        </sp>
+        <sp who="#bartolina e rubinetta">
+          <speaker>BARTOLINA E RUBINETTA:</speaker>
+          <l>Qui mi nascondo per osservar.</l>
+          <l>(si nascondono dietro agli alberi)</l>
+        </sp>
+        <stage>BARTOLINA E RUBINETTAQui mi nascondo per osservar.(si nascondono dietro agli alberi)</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(osservando)</l>
+          <l>No… non la vedo…</l>
+        </sp>
+        <stage>GASPERONE(osservando)No… non la vedo…</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(osservando d’intorno).</l>
+          <l>Qui non vi è certo…</l>
+        </sp>
+        <stage>ARTEMIDORO(osservando d’intorno).Qui non vi è certo…</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Prima che questa possa scoprirmi,</l>
+          <l>vado di fretta Dori a sposar.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Non so se questa viene a scoprirmi…</l>
+          <l>ma la mia testa rimedierà.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>(trattenendo don Gasperone)</l>
+          <l>Ribaldo perfido.</l>
+        </sp>
+        <stage>BARTOLINA(trattenendo don Gasperone)Ribaldo perfido.</stage>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>(trattenendo Artemidoro)</l>
+          <l>Bugiardo indegno.</l>
+        </sp>
+        <stage>RUBINETTA(trattenendo Artemidoro)Bugiardo indegno.</stage>
+        <sp who="#bartolina e rubinetta">
+          <speaker>BARTOLINA E RUBINETTA:</speaker>
+          <l>Dato ci sei, non puoi scappar.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Io son filosofo…</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Io son lunatico…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ARTEMIDORO E GASPERONE</head>E con le femmine non ho che far.Scena sedicesimaEufelia e Dori in disparte, e detti.<sp who="#artemidoro e gasperone">
+          <speaker>ARTEMIDORO E GASPERONE:</speaker>
+          <l>E con le femmine non ho che far.</l>
+          <l>Scena sedicesima</l>
+          <l>Eufelia e Dori in disparte, e detti.</l>
+        </sp>
+        <stage>ARTEMIDORO E GASPERONEE con le femmine non ho che far.Scena sedicesimaEufelia e Dori in disparte, e detti.</stage>
+        <sp who="#eufelia e dori">
+          <speaker>EUFELIA E DORI:</speaker>
+          <l>(Che cosa dicono sto ad ascoltar.)</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Birbo, ricordati di quelle lagrime</l>
+          <l>che per me a copia versasti un dì.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Io son lunatico, non so che dir.</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Empio, rammentati, l’amore e il debito,</l>
+          <l>per cui sollecita io venni qui.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Io son filosofo, basta così.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>(si fa avanti a don Gasperone)</l>
+          <l>Che sento, barbaro!</l>
+        </sp>
+        <stage>DORI(si fa avanti a don Gasperone)Che sento, barbaro!</stage>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>(si fa avanti a Artemidoro)</l>
+          <l>Che ascolto, o perfido!</l>
+        </sp>
+        <stage>EUFELIA(si fa avanti a Artemidoro)Che ascolto, o perfido!</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(accenna madama Bartolina)</l>
+          <l>Questa è una falsa…</l>
+        </sp>
+        <stage>GASPERONE(accenna madama Bartolina)Questa è una falsa…</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(accenna Rubinetta)</l>
+          <l>Questa è pettegola.</l>
+        </sp>
+        <stage>ARTEMIDORO(accenna Rubinetta)Questa è pettegola.</stage>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>(a Gasperone)</l>
+          <l>Ah bugiardissimo!</l>
+        </sp>
+        <stage>BARTOLINA(a Gasperone)Ah bugiardissimo!</stage>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>(ad Artemidoro)</l>
+          <l>O sposa, o pagami.</l>
+        </sp>
+        <stage>RUBINETTA(ad Artemidoro)O sposa, o pagami.</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Che bel carattere!</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Oh che bell’indole!</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Non ho che spontere.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Io non ho debito.</l>
+        </sp>
+        <sp who="#gasperone e artemidoro">
+          <speaker>GASPERONE E ARTEMIDORO:</speaker>
+          <l>È un’impostura per verità.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>(Stupida resto, non so che dire!)</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>(Cosa sia questo non so capire!)</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>(Mi viene un tremito per il dispetto!)</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>(Già par che un palpito mi senta in petto!)</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Chi da tal colpo mi può difendere?)</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>GASPERONE</head>(Da questo imbroglio se posso uscireper vero appendere mi voglio qua.)Scena diciassettesimaDon Piastrone e detti; Trofonio in disparte.PIASTRONESignor don Gasperone,la vostra intenzionequal è, si puol saper?Signor Artemidoro,lei creperebbe un toro:ci dica il suo pensier.O se per bacco m’altero,qual bestia filosofica,farò la Grecia riderese non si sta a dover.<sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(Da questo imbroglio se posso uscire</l>
+          <l>per vero appendere mi voglio qua.)</l>
+          <l>Scena diciassettesima</l>
+          <l>Don Piastrone e detti; Trofonio in disparte.</l>
+          <l>PIASTRONE</l>
+          <l>Signor don Gasperone,</l>
+          <l>la vostra intenzione</l>
+          <l>qual è, si puol saper?</l>
+          <l>Signor Artemidoro,</l>
+          <l>lei creperebbe un toro:</l>
+          <l>ci dica il suo pensier.</l>
+          <l>O se per bacco m’altero,</l>
+          <l>qual bestia filosofica,</l>
+          <l>farò la Grecia ridere</l>
+          <l>se non si sta a dover.</l>
+        </sp>
+        <stage>GASPERONE(Da questo imbroglio se posso uscireper vero appendere mi voglio qua.)Scena diciassettesimaDon Piastrone e detti; Trofonio in disparte.PIASTRONESignor don Gasperone,la vostra intenzionequal è, si puol saper?Signor Artemidoro,lei creperebbe un toro:ci dica il suo pensier.O se per bacco m’altero,qual bestia filosofica,farò la Grecia riderese non si sta a dover.</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Traditi tutti siamo:</l>
+          <l>don Gasperone ingrato</l>
+          <l>a quella ha pria giurato</l>
+          <l>affetto e fedeltà.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Ah padre! quel ribaldo</l>
+          <l>con quella sta impegnato;</l>
+          <l>voi siete l’ingannato,</l>
+          <l>vi avete a vendicar.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>(a Gasperone e Artemidoro)</l>
+          <l>È vero, o non è vero?</l>
+        </sp>
+        <stage>PIASTRONE(a Gasperone e Artemidoro)È vero, o non è vero?</stage>
+        <sp who="#gasperone e artemidoro">
+          <speaker>GASPERONE E ARTEMIDORO:</speaker>
+          <l>Lei non ne creda un zero.</l>
+        </sp>
+        <sp who="#bartolina e rubinetta">
+          <speaker>BARTOLINA E RUBINETTA:</speaker>
+          <l>È vero, più che vero:</l>
+          <l>non ci è qui che negar.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Gelo, ohimè! da capo a piede!</l>
+          <l>(ad Artemidoro)</l>
+          <l>Un filosofo si vede</l>
+          <l>far plebatiche azion.</l>
+          <l>(a Gasperone)</l>
+          <l>E la stima e l’onor mio</l>
+          <l>così lei manda in oblio</l>
+          <l>mio signor don Gasperon?</l>
+        </sp>
+        <stage>PIASTRONEGelo, ohimè! da capo a piede!(ad Artemidoro)Un filosofo si vedefar plebatiche azion.(a Gasperone)E la stima e l’onor miocosì lei manda in obliomio signor don Gasperon?</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Guarda un po’ che brutto gioco</l>
+          <l>io son rosso più d’un foco</l>
+          <l>perdo il senno e la ragion!)</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(Quella trista mi dà caccia,</l>
+          <l>don Piastrone mi rinfaccia</l>
+          <l>ve’ a qual rischio io star dovrò!)</l>
+        </sp>
+        <sp who="#eufelia e dori">
+          <speaker>EUFELIA E DORI:</speaker>
+          <l>(Il cervel gli sta a rumore,</l>
+          <l>e nel petto un batticore</l>
+          <l>senza dubbio sentirà!)</l>
+        </sp>
+        <sp who="#bartolina e rubinetta">
+          <speaker>BARTOLINA E RUBINETTA:</speaker>
+          <l>Già mi par che al poverino</l>
+          <l>un continuo svegliarino</l>
+          <l>nell’orecchio suonerà!</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ma di grazia?…</l>
+        </sp>
+        <sp who="#dori, bartolina e piastrone">
+          <speaker>DORI, BARTOLINA E PIASTRONE:</speaker>
+          <l>Taci, indegno.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Ma vi prego…</l>
+        </sp>
+        <sp who="#eufelia, rubinetta e piastrone">
+          <speaker>EUFELIA, RUBINETTA E PIASTRONE:</speaker>
+          <l>Non v’è scusa.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Or comprendo i cambiamenti</l>
+          <l>del linguaggio e degli arnesi.</l>
+          <l>Bei spagnuoli! Bei francesi!</l>
+          <l>Siete birbi, e basta qua.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(Oh! la sorte dispettosa</l>
+          <l>belli scherzi che mi fa!)</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Imbrogliata è sì la cosa,</l>
+          <l>che sbrogliar non si potrà.)</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>EUFELIA, DORI, BARTOLINA, RUBINETTA E PIASTRONE</head>Chi creduto avrebbe maiazion sì nera e brutta,che qual nube adombra tuttagià la mia tranquillità!Scena diciottesimaTrofonio che si fa avanti inosservato, e detti.<sp who="#eufelia, dori, bartolina, rubinetta e piastrone">
+          <speaker>EUFELIA, DORI, BARTOLINA, RUBINETTA E PIASTRONE:</speaker>
+          <l>Chi creduto avrebbe mai</l>
+          <l>azion sì nera e brutta,</l>
+          <l>che qual nube adombra tutta</l>
+          <l>già la mia tranquillità!</l>
+          <l>Scena diciottesima</l>
+          <l>Trofonio che si fa avanti inosservato, e detti.</l>
+        </sp>
+        <stage>EUFELIA, DORI, BARTOLINA, RUBINETTA E PIASTRONEChi creduto avrebbe maiazion sì nera e brutta,che qual nube adombra tuttagià la mia tranquillità!Scena diciottesimaTrofonio che si fa avanti inosservato, e detti.</stage>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Di un tale affronto, ingrato,</l>
+          <l>tu me la pagherai;</l>
+          <l>dovunque te ne andrai</l>
+          <l>io ti tormenterò.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Fa’ pure il scimunito,</l>
+          <l>di’ pur che falsa io sono;</l>
+          <l>ma già sarai punito,</l>
+          <l>e allor trionferò.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Venite tutti meco,</l>
+          <l>venite in questo speco,</l>
+          <l>acciò le stanche membra</l>
+          <l>possiate ristorar.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Ohimè! chi viene fuora!</l>
+          <l>È larva, è spettro, o furia?</l>
+          <l>Mancava questo ancora</l>
+          <l>per farci palpitar.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>All’antro mio vi chiamo…</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Grazie al cortese invito.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Ecco, il sentier v’addito,</l>
+          <l>venite a riposar.</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>È larva, è spettro, o furia?</l>
+          <l>Andiamoci a salvar.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>(a Gasperone)</l>
+          <l>Ma son come voi siete.</l>
+        </sp>
+        <stage>TROFONIO(a Gasperone)Ma son come voi siete.</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ah! che mi viene un tremito…</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>(a Dori)</l>
+          <l>Venite, non temete.</l>
+        </sp>
+        <stage>TROFONIO(a Dori)Venite, non temete.</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Ah! che no ‘l posso credere…</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>(ad Eufelia)</l>
+          <l>Vi dissi un uom son io…</l>
+        </sp>
+        <stage>TROFONIO(ad Eufelia)Vi dissi un uom son io…</stage>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Ah! mi spaventi, oh dio…</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>(ad Artemidoro)</l>
+          <l>Su fatevi coraggio.</l>
+        </sp>
+        <stage>TROFONIO(ad Artemidoro)Su fatevi coraggio.</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Ah! che tu sei selvaggio…</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>(a Piastrone)</l>
+          <l>Via datemi la mano.</l>
+        </sp>
+        <stage>TROFONIO(a Piastrone)Via datemi la mano.</stage>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Ah no! ah no! pian piano…</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Ah sciocchi, ah matti, ah incauti</l>
+          <l>mi fate in vero ridere,</l>
+          <l>nell’antro vo’ tornar.</l>
+          <l>(parte)</l>
+        </sp>
+        <stage>TROFONIOAh sciocchi, ah matti, ah incautimi fate in vero ridere,nell’antro vo’ tornar.(parte)</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>TUTTI</head>È larva, è spettro, o furiaandiamoci a salvar.Atto secondoScena primaBosco con grotta come nell’atto primo.Madama Bartolina, don Piastrone e Rubinetta, poi Artemidoro in disparte.<div type="scene">
+        <head>TUTTI</head>È larva, è spettro, o furiaandiamoci a salvar.Atto secondoScena primaBosco con grotta come nell’atto primo.Madama Bartolina, don Piastrone e Rubinetta, poi Artemidoro in disparte.<sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>È larva, è spettro, o furia</l>
+          <l>andiamoci a salvar.</l>
+          <l>Atto secondo</l>
+          <l>Scena prima</l>
+          <l>Bosco con grotta come nell’atto primo.</l>
+          <l>Madama Bartolina, don Piastrone e Rubinetta, poi Artemidoro in disparte.</l>
+        </sp>
+        <stage>TUTTIÈ larva, è spettro, o furiaandiamoci a salvar.Atto secondoScena primaBosco con grotta come nell’atto primo.Madama Bartolina, don Piastrone e Rubinetta, poi Artemidoro in disparte.</stage>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Sior Piastrone, non deve Gasperone</l>
+          <l>vostra figlia impalmar.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Esser non può, perché don Gasperone</l>
+          <l>di concetti e d’umori</l>
+          <l>va di conformità colla mia Dori.</l>
+          <l>Disunirli sarebbe, un’eresia;</l>
+          <l>Pitagora di botto</l>
+          <l>in gattopardo mi trasmigreria.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Oh bello! Ed io frattanto,</l>
+          <l>che cosa me ne fo senza marito?</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Vieni in casa ancor tu.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Oh il rimbambito!</l>
+          <l>Gli piace di scherzar con le figliuole.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>E pur rider mi fan le tue parole.</l>
+          <l>Batti ben col martelletto,</l>
+          <l>dimmi pur qualche saletto,</l>
+          <l>che la mia filosofia</l>
+          <l>con piacer ti ascolterà.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Oh! il mio caro pupazzetto</l>
+          <l>fa il bambin di fresca età.</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Son qua io, che mi diletto</l>
+          <l>di crear qualche concetto,</l>
+          <l>e tenerti in allegria</l>
+          <l>per far rabbia a quella là.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Segui pur, ragazza mia,</l>
+          <l>fa l’amor con libertà.)</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>TUTTI</head>Il cervello in questo giornoda me parte e fa ritorno,ho timor che ai mattarelliper le poste se n’andrà.(partono Artemidoro, Piastrone e Rubinetta)Scena secondaMadama Bartolina, poi Trofonio dalla grotta.<sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Il cervello in questo giorno</l>
+          <l>da me parte e fa ritorno,</l>
+          <l>ho timor che ai mattarelli</l>
+          <l>per le poste se n’andrà.</l>
+          <l>(partono Artemidoro, Piastrone e Rubinetta)</l>
+          <l>Scena seconda</l>
+          <l>Madama Bartolina, poi Trofonio dalla grotta.</l>
+        </sp>
+        <stage>TUTTIIl cervello in questo giornoda me parte e fa ritorno,ho timor che ai mattarelliper le poste se n’andrà.(partono Artemidoro, Piastrone e Rubinetta)Scena secondaMadama Bartolina, poi Trofonio dalla grotta.</stage>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Or guarda quel Piastron, come mi stringe</l>
+          <l>le spalle al muro, acciò gli schiacci il naso!</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>E ancor per qua s’aggira</l>
+          <l>quella vaga donzella.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Dite un poco</l>
+          <l>saprebbe questa vostra</l>
+          <l>filosofia pensare una vendetta</l>
+          <l>contro un don Gasperone,</l>
+          <l>che tradendo mi sta?</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Tutto mi è noto.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Ebben, io sol desio,</l>
+          <l>ch’ei non sposi la Dori;</l>
+          <l>e non mi curo poi che non sia mio.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Così farò.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Ma come?</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Odi: Piastrone</l>
+          <l>si trattiene girando intorno all’antro</l>
+          <l>per desio di vedermi. Io di lui prendo</l>
+          <l>l’imago e le sembianze: anderò in casa</l>
+          <l>a sovvertir il tutto, a ingarbugliare</l>
+          <l>le cose in guisa tale,</l>
+          <l>che al giunger suo dovranno suscitarsi</l>
+          <l>sconvolgimenti assurdi, ire e contrasti:</l>
+          <l>fida in me, son Trofonio, e ciò ti basti.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Fate la mia vendetta, ed aspettate</l>
+          <l>il premio al ben servir, se il meritate.</l>
+          <l>Non son io qual mi credete</l>
+          <l>superbotta e ritrosina,</l>
+          <l>ma son umile e bonina</l>
+          <l>quanto mai si può pensar.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>(Ben lo scorgo al suo parlar.)</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Amorosa, bella e soda</l>
+          <l>per lo più son con gli amanti;</l>
+          <l>ma chi poi non va alla moda</l>
+          <l>mi fa trista diventar.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>(Qua ci è molto da pensar.)</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Se farete a modo mio</l>
+          <l>oh che giorni benedetti!</l>
+          <l>Con scherzetti e con balletti</l>
+          <l>io vi voglio consolar.</l>
+          <l>(parte)</l>
+        </sp>
+        <stage>BARTOLINASe farete a modo miooh che giorni benedetti!Con scherzetti e con ballettiio vi voglio consolar.(parte)</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>TROFONIO</head>(T’amerò; ma poi rifletti,ch’io mi so ben regolar.)Per verità la salsa d’una moglienecessaria sariaall’asprezza di mia filosofia.Convien che da Piastron vada a mutarmi,acciò poss’io con lei merito farmi.(parte)Scena terzaCamera come nell’atto primo.Eufelia leggendo con gravità, poi don Gasperone che segue, poi Dori che sopraggiunge.<div type="scene">
+        <head>TROFONIO</head>(T’amerò; ma poi rifletti,ch’io mi so ben regolar.)Per verità la salsa d’una moglienecessaria sariaall’asprezza di mia filosofia.Convien che da Piastron vada a mutarmi,acciò poss’io con lei merito farmi.(parte)Scena terzaCamera come nell’atto primo.Eufelia leggendo con gravità, poi don Gasperone che segue, poi Dori che sopraggiunge.<sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>(T’amerò; ma poi rifletti,</l>
+          <l>ch’io mi so ben regolar.)</l>
+          <l>Per verità la salsa d’una moglie</l>
+          <l>necessaria saria</l>
+          <l>all’asprezza di mia filosofia.</l>
+          <l>Convien che da Piastron vada a mutarmi,</l>
+          <l>acciò poss’io con lei merito farmi.</l>
+          <l>(parte)</l>
+          <l>Scena terza</l>
+          <l>Camera come nell’atto primo.</l>
+          <l>Eufelia leggendo con gravità, poi don Gasperone che segue, poi Dori che sopraggiunge.</l>
+        </sp>
+        <stage>TROFONIO(T’amerò; ma poi rifletti,ch’io mi so ben regolar.)Per verità la salsa d’una moglienecessaria sariaall’asprezza di mia filosofia.Convien che da Piastron vada a mutarmi,acciò poss’io con lei merito farmi.(parte)Scena terzaCamera come nell’atto primo.Eufelia leggendo con gravità, poi don Gasperone che segue, poi Dori che sopraggiunge.</stage>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Gran Sofocle!</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Gran fistolo!</l>
+          <l>Lei mi vuole ascoltare?</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Chi mi desta</l>
+          <l>dal soave letargo de’ miei studi?…</l>
+          <l>Mia germana di là.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>E se ne viene</l>
+          <l>alto la mano.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>L’ha con voi, bisogna</l>
+          <l>pigliarla co’ le buone.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ora bel bello</l>
+          <l>io l’empio ben di ossequi, parolette,</l>
+          <l>e mettici se occorre,</l>
+          <l>cognata, una grazietta tu ancora.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>EUFELIA</head>Sì, sì, non dubitate.Scena quartaDori e detti.<sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Sì, sì, non dubitate.</l>
+          <l>Scena quarta</l>
+          <l>Dori e detti.</l>
+        </sp>
+        <stage>EUFELIASì, sì, non dubitate.Scena quartaDori e detti.</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>(Qui l’infedele, e ardisce</l>
+          <l>ridermi in volto, oh guarda il furfantello</l>
+          <l>mi chiama coll’occhietto</l>
+          <l>si accosta. Lo vorrei</l>
+          <l>proprio sfregiar. Volgiamogli le spalle.)</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>All’eclissata mia luna di marzo</l>
+          <l>col cor spaccato ed arso</l>
+          <l>viene a mostrarsi un sole in Capricorno,</l>
+          <l>che qual porco a te intorno</l>
+          <l>si umilia, grugnoleggia, e a voi s’inchina</l>
+          <l>come onesta donzella modestina.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Sì, sì, sì, grazie tanto.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Io mi sono umiliato</l>
+          <l>sino a terra parlando con creanza.</l>
+          <l>E lei, poter di un anno!</l>
+          <l>Non fa una riverenza, e non s’inchina?</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Lo speri invan, non siamo ballerina.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ah, ah, la bambinella!</l>
+          <l>Amata mia madama.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Che madama, e madama!</l>
+          <l>Domestica io non son, né son scuffìara.</l>
+          <l>(passandogli avanti)</l>
+        </sp>
+        <stage>DORIChe madama, e madama!Domestica io non son, né son scuffìara.(passandogli avanti)</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(E si passa.) Volete</l>
+          <l>passeggiare a braccetto,</l>
+          <l>che io farò da monsieur pulito e netto?</l>
+        </sp>
+        <stage>GASPERONE(E si passa.) Voletepasseggiare a braccetto,che io farò da monsieur pulito e netto?</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Oh il braccio serbate</l>
+          <l>per quella che di voi fu prima amante.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>E che prima! la prima</l>
+          <l>è de’ ragazzi. Tu adesso sei</l>
+          <l>la prima, la seconda, quarta e quinta; ~</l>
+          <l>non è ver donn’Eufelia? (Dacci adesso</l>
+          <l>aiuto, che ora sta.)</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Sofocle è questo;</l>
+          <l>se volete studiar; Plauto è costui…</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ammazzato sia questo, e lei e lui.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>EUFELIA</head>Come! ohimè! che ardir, che orrore!In sentirli il cor si affanna!E baldanza sì tirannatarda Giove a fulminar?Ombre dotte; che vagateper gli Elisi in liete schiere,l’armonia di là lasciate,e venite orrende e neread empirlo di terrore;a ridurlo a palpitar.(parte)Scena quintaDon Gasperone e Dori.<sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Come! ohimè! che ardir, che orrore!</l>
+          <l>In sentirli il cor si affanna!</l>
+          <l>E baldanza sì tiranna</l>
+          <l>tarda Giove a fulminar?</l>
+          <l>Ombre dotte; che vagate</l>
+          <l>per gli Elisi in liete schiere,</l>
+          <l>l’armonia di là lasciate,</l>
+          <l>e venite orrende e nere</l>
+          <l>ad empirlo di terrore;</l>
+          <l>a ridurlo a palpitar.</l>
+          <l>(parte)</l>
+          <l>Scena quinta</l>
+          <l>Don Gasperone e Dori.</l>
+        </sp>
+        <stage>EUFELIACome! ohimè! che ardir, che orrore!In sentirli il cor si affanna!E baldanza sì tirannatarda Giove a fulminar?Ombre dotte; che vagateper gli Elisi in liete schiere,l’armonia di là lasciate,e venite orrende e neread empirlo di terrore;a ridurlo a palpitar.(parte)Scena quintaDon Gasperone e Dori.</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ve’, bella rimenata</l>
+          <l>mi ha fatto adesso la filosofia;</l>
+          <l>ed io soffro per te, carina mia.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>(Mi fa pietà.)</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ed ecco si è voltata</l>
+          <l>in agro dolce.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Ma la ballerina…</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Oh sposiamoci noi, che dopo poi</l>
+          <l>quella la farem cotta colli risi.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Ed io dunque dovrò crederti?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ed io</l>
+          <l>or stringere ti voglio una manina.</l>
+          <l>Fuora grugni; considera, carina,</l>
+          <l>che devo far l’erede, e s’a te piace…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>DORI</head>Ben; mi fido di te, staremo in pace.Scena sestaArtemidoro, ed Eufelia con l’istesso libro in mano, e detti.<sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Ben; mi fido di te, staremo in pace.</l>
+          <l>Scena sesta</l>
+          <l>Artemidoro, ed Eufelia con l’istesso libro in mano, e detti.</l>
+        </sp>
+        <stage>DORIBen; mi fido di te, staremo in pace.Scena sestaArtemidoro, ed Eufelia con l’istesso libro in mano, e detti.</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Oh dio, oh dio! vi prego</l>
+          <l>lasciatemi un po’ star.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Sofocle ascolta;</l>
+          <l>come costante niega</l>
+          <l>de’ sommi numi la pluralità.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Lo so. Non mi seccate in carità.</l>
+          <l>E qui fanno all’amore.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>S’odo un po’, vien…</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Chi viene?</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>DORI</head>Il genitore.Scena settimaTrofonio in forma di Piastrone, e detti.<sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Il genitore.</l>
+          <l>Scena settima</l>
+          <l>Trofonio in forma di Piastrone, e detti.</l>
+        </sp>
+        <stage>DORIIl genitore.Scena settimaTrofonio in forma di Piastrone, e detti.</stage>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Si ritiri ciascun da questa stanza,</l>
+          <l>che cosa deggio farvi d’importanza.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Signor padre.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Maestro, a voi m’inchino.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Don Piastron riverito.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Da scrivere.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>(Perché così turbato?)</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Che avrà Piastrone?)</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(Chi l’avrà guastato?)</l>
+          <l>Sior Piastron…</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Io sdegnato</l>
+          <l>son del vostro procedere, non oso</l>
+          <l>per pulitezza dire apertamente</l>
+          <l>ciò che sinistramente ha meco oprato</l>
+          <l>ciascun di voi. Entrate</l>
+          <l>lì dentro; ed al suonar del campanello</l>
+          <l>ritornate, che sopra</l>
+          <l>di questo tavolin vi sarà scritto</l>
+          <l>chiaramente in un foglio</l>
+          <l>ciò che posso in mia casa, e ciò che voglio.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Temo di me.)</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(M’ha visto amoreggiare</l>
+          <l>con la figlia, e perciò si è fatto brutto.)</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>(Che sarà?)</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>DORI</head>(Mai sì gonfio l’ho veduto.)(entrano)Scena ottavaTrofonio scrivendo, poi Rubinetta.<sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>(Mai sì gonfio l’ho veduto.)</l>
+          <l>(entrano)</l>
+          <l>Scena ottava</l>
+          <l>Trofonio scrivendo, poi Rubinetta.</l>
+        </sp>
+        <stage>DORI(Mai sì gonfio l’ho veduto.)(entrano)Scena ottavaTrofonio scrivendo, poi Rubinetta.</stage>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Già tremano di me, con poche righe</l>
+          <l>tutti porrò in angustia, e questo sia</l>
+          <l>il più arguto trofeo di mia magia.</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Signor Piastrone? Come!</l>
+          <l>Indietro v’ho lasciato,</l>
+          <l>e assai prima di me siete arrivato?</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Accelerai più il piè.</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Ben, siamo in casa;</l>
+          <l>palesatemi adesso</l>
+          <l>qual intenzione avete?</l>
+          <l>Ci sposeremo, o no?</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Sì; mi piacete.</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Giuratemi un pochin di fedeltà,</l>
+          <l>e poi vi crederò.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Ecco vi giuro</l>
+          <l>sull’onor di Piastron, che mia sarete.</l>
+          <l>Va bene?</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Va benissimo.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Ma dimmi</l>
+          <l>ti vai accomodando</l>
+          <l>pian pianino ad amarmi?</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Ma che ho da far! Bisogna accomodarmi.</l>
+          <l>Vicino a te già sento</l>
+          <l>nel core un certo che.</l>
+          <l>È gioia?… No, tormento…</l>
+          <l>Tormento? No, piacer.</l>
+          <l>Ah! già arrossisco in volto,</l>
+          <l>e tu lo puoi veder.</l>
+          <l>Caro sposo, mia speranza,</l>
+          <l>giuro a te la mia costanza,</l>
+          <l>a te giuro eterno amor.</l>
+          <l>Giuro a te quello che giura</l>
+          <l>ogni donna a suo marito.</l>
+          <l>Se l’affare è poi finito,</l>
+          <l>chi la fé rammenta allor?</l>
+          <l>(parte)</l>
+        </sp>
+        <stage>RUBINETTAMa che ho da far! Bisogna accomodarmi.Vicino a te già sentonel core un certo che.È gioia?… No, tormento…Tormento? No, piacer.Ah! già arrossisco in volto,e tu lo puoi veder.Caro sposo, mia speranza,giuro a te la mia costanza,a te giuro eterno amor.Giuro a te quello che giuraogni donna a suo marito.Se l’affare è poi finito,chi la fé rammenta allor?(parte)</stage>
+      </div>
+      <div type="scene">
+        <head>TROFONIO</head>Ecco entra Piastrone in nuove brighe.Ho vergati caratteri qui ad arte,simili a quelli di Piastron, si suoniadesso il campanello, acciocché appenaavranno di Piastron gli ordini lettise gli sveglino al cor contrarii affetti.(suona e parte)Scena nonaDon Gasperone, Artemidoro, Dori ed Eufelia, indi Piastrone.<sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Ecco entra Piastrone in nuove brighe.</l>
+          <l>Ho vergati caratteri qui ad arte,</l>
+          <l>simili a quelli di Piastron, si suoni</l>
+          <l>adesso il campanello, acciocché appena</l>
+          <l>avranno di Piastron gli ordini letti</l>
+          <l>se gli sveglino al cor contrarii affetti.</l>
+          <l>(suona e parte)</l>
+          <l>Scena nona</l>
+          <l>Don Gasperone, Artemidoro, Dori ed Eufelia, indi Piastrone.</l>
+        </sp>
+        <stage>TROFONIOEcco entra Piastrone in nuove brighe.Ho vergati caratteri qui ad arte,simili a quelli di Piastron, si suoniadesso il campanello, acciocché appenaavranno di Piastron gli ordini lettise gli sveglino al cor contrarii affetti.(suona e parte)Scena nonaDon Gasperone, Artemidoro, Dori ed Eufelia, indi Piastrone.</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Uscite, uscite, non avete inteso</l>
+          <l>il tintinnare?</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Leggasi lo scritto.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Ma che cosa sarà?</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Per quanto disse</l>
+          <l>io pavento di molto.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Eh lascia leggere</l>
+          <l>a me, che leggo bene l’alfabeto.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Ma io son curioso…</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Son curiosa anch’io…</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Ma quante liti!</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Si sodisfi ciascun, leggiamo uniti.</l>
+          <l>«Voglio, comando ed ordino»…</l>
+        </sp>
+        <stage>ARTEMIDOROSi sodisfi ciascun, leggiamo uniti.«Voglio, comando ed ordino»…</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>«Che il sior don Gasperone»…</l>
+        </sp>
+        <stage>DORI«Che il sior don Gasperone»…</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>«Adesso presto e subito»…</l>
+        </sp>
+        <stage>GASPERONE«Adesso presto e subito»…</stage>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>«Sposi l’Eufelia»…</l>
+        </sp>
+        <stage>EUFELIA«Sposi l’Eufelia»…</stage>
+        <sp who="#eufelia, dori e gasperone">
+          <speaker>EUFELIA, DORI E GASPERONE:</speaker>
+          <l>Ohimè!</l>
+          <l>Cambiò d’opinione.</l>
+          <l>Chi mi sa dir perché?</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Appresso: «E voglio ancora»…</l>
+        </sp>
+        <stage>ARTEMIDOROAppresso: «E voglio ancora»…</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>«Che Dori sposa sia»…</l>
+        </sp>
+        <stage>DORI«Che Dori sposa sia»…</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Di chi?</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>«D’Artemidoro»…</l>
+        </sp>
+        <stage>EUFELIA«D’Artemidoro»…</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Malan che il ciel gli dia!</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>«Se pur la locandiera,</l>
+          <l>ciò gli permetterà»…</l>
+        </sp>
+        <stage>EUFELIA«Se pur la locandiera,ciò gli permetterà»…</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Che inciampo è questo qua!</l>
+        </sp>
+        <sp who="#eufelia, dori, artemidoro e gasperone">
+          <speaker>EUFELIA, DORI, ARTEMIDORO E GASPERONE:</speaker>
+          <l>L’idea del genitore</l>
+          <l>chi mai può penetrar?</l>
+          <l>«Se questo far non vonno,</l>
+          <l>partir di casa ponno,</l>
+          <l>se no dell’armi al suono</l>
+          <l>farò fuggirli affé.»</l>
+          <l>Col lampo insieme il tuono</l>
+          <l>qua rimbombò per me!</l>
+        </sp>
+        <stage>EUFELIA, DORI, ARTEMIDORO E GASPERONEL’idea del genitorechi mai può penetrar?«Se questo far non vonno,partir di casa ponno,se no dell’armi al suonofarò fuggirli affé.»Col lampo insieme il tuonoqua rimbombò per me!</stage>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Care figlie benedette…</l>
+          <l>Cari generi vi abbraccio…</l>
+          <l>Ma mi fan le ritrosette!</l>
+          <l>Ma scappate dal mio braccio…</l>
+          <l>maritarvi se volete,</l>
+          <l>a vostr’agio disponete,</l>
+          <l>che contento augura a tutti</l>
+          <l>figli mascoli papà.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Don Piastron, da me distrutta</l>
+          <l>mezza Grecia qui sarà.</l>
+        </sp>
+        <sp who="#dori e eufelia">
+          <speaker>DORI E EUFELIA:</speaker>
+          <l>Caro padre, tremo tutta</l>
+          <l>in sentir tal novità.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Questi tratti son da putti</l>
+          <l>non da uom di vecchia età.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>O impazziti siete tutti,</l>
+          <l>o mi state a corbellar.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(accenna il foglio)</l>
+          <l>Qui che hai detto?</l>
+        </sp>
+        <stage>ARTEMIDORO(accenna il foglio)Qui che hai detto?</stage>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Cosa ho detto?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Qua che hai scritto?</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Nulla ho scritto…</l>
+        </sp>
+        <sp who="#eufelia e dori">
+          <speaker>EUFELIA E DORI:</speaker>
+          <l>Zitto almeno…</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Che zitto, e zitto?</l>
+        </sp>
+        <sp who="#eufelia, dori, artemidoro e gasperone">
+          <speaker>EUFELIA, DORI, ARTEMIDORO E GASPERONE:</speaker>
+          <l>Nella carta si vedrà….</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>«Voglio»…</l>
+        </sp>
+        <stage>PIASTRONE«Voglio»…</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>«Voglio sì, e comando»…</l>
+        </sp>
+        <stage>GASPERONE«Voglio sì, e comando»…</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>«Voglio sì, comando ed ordino»…</l>
+        </sp>
+        <stage>ARTEMIDORO«Voglio sì, comando ed ordino»…</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>«Che il signor don Gasperone»…</l>
+        </sp>
+        <stage>DORI«Che il signor don Gasperone»…</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>«Gasperone adesso, presto»…</l>
+        </sp>
+        <stage>GASPERONE«Gasperone adesso, presto»…</stage>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Per pietà che fatto è questo?</l>
+          <l>Sento il capo a trabalzar!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>EUFELIA, DORI, ARTEMIDORO E GASPERONE</head>Ecco subito il pretesto;non si vuol capacitar.(partono; resta solo Piastrone considerando il foglio)Scena decimaDon Piastrone, poi Rubinetta.PIASTRONEDi qual scritto mi parlano quei pazzi?Ma che diavolo è questo? Io quando maisconnessioni simili pensai.Oibò! Nemmen! ma questimiei caratteri son! Dunque gli scrissi.Ma quando? Dove? E come? Oh desolatala mia filosofia!<sp who="#eufelia, dori, artemidoro e gasperone">
+          <speaker>EUFELIA, DORI, ARTEMIDORO E GASPERONE:</speaker>
+          <l>Ecco subito il pretesto;</l>
+          <l>non si vuol capacitar.</l>
+          <l>(partono; resta solo Piastrone considerando il foglio)</l>
+          <l>Scena decima</l>
+          <l>Don Piastrone, poi Rubinetta.</l>
+          <l>PIASTRONE</l>
+          <l>Di qual scritto mi parlano quei pazzi?</l>
+          <l>Ma che diavolo è questo? Io quando mai</l>
+          <l>sconnessioni simili pensai.</l>
+          <l>Oibò! Nemmen! ma questi</l>
+          <l>miei caratteri son! Dunque gli scrissi.</l>
+          <l>Ma quando? Dove? E come? Oh desolata</l>
+          <l>la mia filosofia!</l>
+        </sp>
+        <stage>EUFELIA, DORI, ARTEMIDORO E GASPERONEEcco subito il pretesto;non si vuol capacitar.(partono; resta solo Piastrone considerando il foglio)Scena decimaDon Piastrone, poi Rubinetta.PIASTRONEDi qual scritto mi parlano quei pazzi?Ma che diavolo è questo? Io quando maisconnessioni simili pensai.Oibò! Nemmen! ma questimiei caratteri son! Dunque gli scrissi.Ma quando? Dove? E come? Oh desolatala mia filosofia!</stage>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Son ritornata.</l>
+          <l>Signor Piastron, dovete</l>
+          <l>sposarmi. Il giuramento</l>
+          <l>poc’anzi me ne daste in questo loco:</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Tu ch’altro m’affastelli?</l>
+          <l>O vuoi anche mandarmi ai mattarelli?</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Come? Vi ricordate,</l>
+          <l>che stavate scrivendo?</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>E dagli. Io quando</l>
+          <l>scrissi, in vostra malora?</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>RUBINETTA</head>Ah! vecchietto infedele, e nieghi ancoratorno ad Artemidoro a tuo dispetto.Tanto adesso la rabbia mi consiglia;così per sposo non l’avrà tua figlia.(parte)Scena undicesimaDon Gasperone parlando al suo Servitore, e Piastrone.<sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Ah! vecchietto infedele, e nieghi ancora</l>
+          <l>torno ad Artemidoro a tuo dispetto.</l>
+          <l>Tanto adesso la rabbia mi consiglia;</l>
+          <l>così per sposo non l’avrà tua figlia.</l>
+          <l>(parte)</l>
+          <l>Scena undicesima</l>
+          <l>Don Gasperone parlando al suo Servitore, e Piastrone.</l>
+        </sp>
+        <stage>RUBINETTAAh! vecchietto infedele, e nieghi ancoratorno ad Artemidoro a tuo dispetto.Tanto adesso la rabbia mi consiglia;così per sposo non l’avrà tua figlia.(parte)Scena undicesimaDon Gasperone parlando al suo Servitore, e Piastrone.</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Come mi viene avanti don Piastrone</l>
+          <l>gli ficco un stocco in petto. E che, burliamo?</l>
+          <l>Vo’ fare in questa casa</l>
+          <l>un eclisse invisibile. Diana!</l>
+          <l>Starei per bestemmiar in lingua strana.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Ma per pietà, considera</l>
+          <l>ch’hai da sposar mia figlia.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ma qual figlia?</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Dico Dori; la vuoi?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Dori la voglio,</l>
+          <l>con un’altra se occorre.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>E Dori è tua.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Le due</l>
+          <l>figlie tue, Dori ed Eufelia, disperate</l>
+          <l>se ne sono fuggite dalla casa.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Le mie figlie fuggite?</l>
+          <l>Ohimè! tu mi scompagini!</l>
+          <l>Andiamo in traccia loro. Ah! quest’imbroglio</l>
+          <l>in casa mia chi sa come sia nato!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>GASPERONE</head>Andiam; senz’acqua se l’ha pasteggiato.Scena dodicesimaBosco con grotta come sopra.Trofonio in propria forma, poi Dori ed Eufelia.<sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Andiam; senz’acqua se l’ha pasteggiato.</l>
+          <l>Scena dodicesima</l>
+          <l>Bosco con grotta come sopra.</l>
+          <l>Trofonio in propria forma, poi Dori ed Eufelia.</l>
+        </sp>
+        <stage>GASPERONEAndiam; senz’acqua se l’ha pasteggiato.Scena dodicesimaBosco con grotta come sopra.Trofonio in propria forma, poi Dori ed Eufelia.</stage>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Costante, e ognor l’istessa,</l>
+          <l>è l’efficacia dell’incanto mio.</l>
+          <l>Vengono Eufelia e Dori, vo’ provarmi</l>
+          <l>se l’elevata mia virtù stupenda</l>
+          <l>anche sul sesso femminil si estenda.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>No, germana. Se il padre</l>
+          <l>non cangia di pensier, non ho desio</l>
+          <l>di ritornare in casa.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>E l’istess’io</l>
+          <l>farò. Basta: troviam chi ci accompagna.</l>
+          <l>Torneremo all’albergo di città.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Per fin che il genitor si cheterà.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Andiamo avanti dunque… Ohimè!</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Di nuovo</l>
+          <l>quest’orrenda figura!</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Non temete,</l>
+          <l>fanciulle. Io vi considero; comprendo</l>
+          <l>che una scorta cercate per portarvi</l>
+          <l>in casa di città. Se non vi spiace</l>
+          <l>il trattenervi dentro a questo speco,</l>
+          <l>io la procurerò… Animo: entrate,</l>
+          <l>non temete di me.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Ma non avreste</l>
+          <l>appetito di noi?</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Scacciate, o figlie,</l>
+          <l>il panico timor. Se solitario</l>
+          <l>dentro quell’antro, e fra gli studi involto</l>
+          <l>de’ malvagi il consorzio aborro e fuggo,</l>
+          <l>amo l’umanità, non la distruggo.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Entriam, sorella, i filosofi sono</l>
+          <l>i miglior nostri amici.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>DORI</head>Se stesse a lor ci renderian felici.(entrano nella grotta)Scena tredicesimaDon Gasperone e don Piastrone, che escono cercando le donne suddette; Trofonio di dentro, poi Eufelia e Dori che escono dall’opposta bocca della grotta.<sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Se stesse a lor ci renderian felici.</l>
+          <l>(entrano nella grotta)</l>
+          <l>Scena tredicesima</l>
+          <l>Don Gasperone e don Piastrone, che escono cercando le donne suddette; Trofonio di dentro, poi Eufelia e Dori che escono dall’opposta bocca della grotta.</l>
+        </sp>
+        <stage>DORISe stesse a lor ci renderian felici.(entrano nella grotta)Scena tredicesimaDon Gasperone e don Piastrone, che escono cercando le donne suddette; Trofonio di dentro, poi Eufelia e Dori che escono dall’opposta bocca della grotta.</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Piastron, qui non ci sono.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Figlie, figlie, ove siete?</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>(di dentro)</l>
+          <l>Le donne se volete,</l>
+          <l>aspettate un momento, che dal cieco</l>
+          <l>calle ritorneran di quello speco.</l>
+        </sp>
+        <stage>TROFONIO(di dentro)Le donne se volete,aspettate un momento, che dal ciecocalle ritorneran di quello speco.</stage>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Numi qual voce!</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>È orco,</l>
+          <l>o pur porco selvatico che parla?</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Le mie figlie in quell’antro!</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>La mia sposa,</l>
+          <l>perché ingrottata nella grotta ombrosa?</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Come andrà?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Non comprendo.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Ma mi pare</l>
+          <l>ch’esce già la mia Dori.</l>
+          <l>(escono le donne)</l>
+        </sp>
+        <stage>PIASTRONEMa mi parech’esce già la mia Dori.(escono le donne)</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>E l’altra appresso.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Figlia, perché così?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Che vi è successo?</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Dolce è la greca musica!</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>E gloria il bel dipingere.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Le passioni si esprimono!</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Gli oggetti appien s’imitano!</l>
+        </sp>
+        <sp who="#eufelia e dori">
+          <speaker>EUFELIA E DORI:</speaker>
+          <l>E le armonie si formano</l>
+          <l>di ciò che al mondo vedesi,</l>
+          <l>e di dolcezze amabili</l>
+          <l>empion la mente e il cor.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Di che parlan costor?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Del più e del meno.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Figlia, dà un caro amplesso</l>
+          <l>alla tua carnagion.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Figlia… t’inganni,</l>
+          <l>io da musico padre</l>
+          <l>nacqui, e tra’ boschi da me vissi e crebbi,</l>
+          <l>e per padre un tal uom giammai non ebbi.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Sior Piastron, con salute</l>
+          <l>siete musico ancor?</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Questa, che ha detto?</l>
+          <l>Non le son padre!</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ed io</l>
+          <l>supposto me l’avea più d’una volta,</l>
+          <l>che figlia era d’ignota</l>
+          <l>paternità costei.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Taci, ed ottura</l>
+          <l>il labbro… ah! che io son cinto</l>
+          <l>da una gabbia di matti!</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Esaminiamo</l>
+          <l>quest’altra ancor. ~ Signora, che parlate</l>
+          <l>sola, e tanti strambottoli mi fate,</l>
+          <l>si potrebbe pregar…</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Se vi bramate</l>
+          <l>ritrattar, son con voi. Se mai volete</l>
+          <l>Seneca diventar, col mio pennello</l>
+          <l>or vi posso svenar. Se Giulio Cesare</l>
+          <l>volete comparir, coi miei colori</l>
+          <l>vi do ventitré colpi</l>
+          <l>di pugnalate. Se Attilio Regolo</l>
+          <l>esser volete, coi miei chiari oscuri</l>
+          <l>gli occhi vi ciecherò. Se Catone,</l>
+          <l>l’alma vi passerò d’una stoccata.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Mal abbia il punto, che non sei scannata.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>DORI</head>Come? Non leggesteancor per i foglietti,chi sia Livia Testettidetta la Spaccascene?Da ridere mi viene, un po’ sentitechi son, cosa ho da essere, e stupite.Si vuol saper chi sono?Chi sono or si saprà.Talvolta son di Plautola sostenuta attrice;talvolta Euridicene’ regni dell’orror.Son pastorella amante,che al suon di dolci aveneaccanto al caro benemi spasso a far l’amor.Son furia, che se m’alterosconquasso, abbatto e fulmino;qual foco sbalzo in aria,nessun mi può frenar.Questa son io, temetemi,se no vi fo tremar.(parte)Scena quAttordicesimaDon Gasperone, Eufelia, poi Artemidoro.<div type="scene">
+        <head>DORI</head>Come? Non leggesteancor per i foglietti,chi sia Livia Testettidetta la Spaccascene?Da ridere mi viene, un po’ sentitechi son, cosa ho da essere, e stupite.Si vuol saper chi sono?Chi sono or si saprà.Talvolta son di Plautola sostenuta attrice;talvolta Euridicene’ regni dell’orror.Son pastorella amante,che al suon di dolci aveneaccanto al caro benemi spasso a far l’amor.Son furia, che se m’alterosconquasso, abbatto e fulmino;qual foco sbalzo in aria,nessun mi può frenar.Questa son io, temetemi,se no vi fo tremar.(parte)Scena quAttordicesimaDon Gasperone, Eufelia, poi Artemidoro.<sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Come? Non leggeste</l>
+          <l>ancor per i foglietti,</l>
+          <l>chi sia Livia Testetti</l>
+          <l>detta la Spaccascene?</l>
+          <l>Da ridere mi viene, un po’ sentite</l>
+          <l>chi son, cosa ho da essere, e stupite.</l>
+          <l>Si vuol saper chi sono?</l>
+          <l>Chi sono or si saprà.</l>
+          <l>Talvolta son di Plauto</l>
+          <l>la sostenuta attrice;</l>
+          <l>talvolta Euridice</l>
+          <l>ne’ regni dell’orror.</l>
+          <l>Son pastorella amante,</l>
+          <l>che al suon di dolci avene</l>
+          <l>accanto al caro bene</l>
+          <l>mi spasso a far l’amor.</l>
+          <l>Son furia, che se m’altero</l>
+          <l>sconquasso, abbatto e fulmino;</l>
+          <l>qual foco sbalzo in aria,</l>
+          <l>nessun mi può frenar.</l>
+          <l>Questa son io, temetemi,</l>
+          <l>se no vi fo tremar.</l>
+          <l>(parte)</l>
+          <l>Scena qu</l>
+          <l>Attordicesima</l>
+          <l>Don Gasperone, Eufelia, poi Artemidoro.</l>
+        </sp>
+        <stage>DORICome? Non leggesteancor per i foglietti,chi sia Livia Testettidetta la Spaccascene?Da ridere mi viene, un po’ sentitechi son, cosa ho da essere, e stupite.Si vuol saper chi sono?Chi sono or si saprà.Talvolta son di Plautola sostenuta attrice;talvolta Euridicene’ regni dell’orror.Son pastorella amante,che al suon di dolci aveneaccanto al caro benemi spasso a far l’amor.Son furia, che se m’alterosconquasso, abbatto e fulmino;qual foco sbalzo in aria,nessun mi può frenar.Questa son io, temetemi,se no vi fo tremar.(parte)Scena quAttordicesimaDon Gasperone, Eufelia, poi Artemidoro.</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Eufelia e Gasperone!… Ora mi viene</l>
+          <l>in acconcio qui presto farli sposi,</l>
+          <l>pria che cambi Piastron di opinione.)</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Ma il vostro parmi un ramo di pazzia,</l>
+          <l>io voglio ritrattarvi, e non volete.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Si parla di pittura!)</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Se io tengo un ramo di pazzia, tu n’hai</l>
+          <l>una metà, e più assai.</l>
+          <l>Presto, cammina in casa.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Genti, genti,</l>
+          <l>accorrete, che questi</l>
+          <l>non vuol farsi dipingere.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Non parla</l>
+          <l>da filosofa più? Approfittiamoci.)</l>
+          <l>Che son questi rumori?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Buono che giunto sei,</l>
+          <l>prenditi la tua moglie, e vanne via.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Mia moglie! È moglie tua, la sposa mia</l>
+          <l>è Dori, non leggesti</l>
+          <l>quel che scrisse Piastron?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Piastron aveva</l>
+          <l>fatto crostin, e vino</l>
+          <l>tanto che poco dopo si disdisse.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>(Fu giusto il timor mio.)</l>
+          <l>Se si disdisse lui, non disdich’io.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Oh buona! e tu chi sei?</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Un che qua a forza</l>
+          <l>ti fa Eufelia impalmar.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>A forza?</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>A forza.</l>
+          <l>Animo a noi. Se un passo</l>
+          <l>il tuo piè da lì si move</l>
+          <l>fo saltarti quel cranio in grembo a Giove.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Piano… piano, mi faccio</l>
+          <l>dipingere anche a guazzo. (Ah! che nel ventre,</l>
+          <l>ci ho due cani arrabbiati.)</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>In posizione</l>
+          <l>mettetevi.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Com’è in posizione?</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Teso in pianta così.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>A noi sbrighiamoci.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Ma pennello non ho, non ho colori.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Ecco qui carta e lapis.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Bene. ~ A voi: situatevi.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>(Crepare</l>
+          <l>devo, e star zitto con la rabbia in petto.)</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Se manchi al tuo dover qui è lo stiletto.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Eccomi pianta e immobile,</l>
+          <l>svolgo così un ginocchio,</l>
+          <l>vuoi spalla? Petto? O occhio?</l>
+          <l>Spiegati, donna sciocca.</l>
+          <l>(Se l’apro un po’ la bocca,</l>
+          <l>la fo ben spaventar.)</l>
+          <l>Niente, l’ho fatto un vezzo</l>
+          <l>lei l’ebbe per disprezzo,</l>
+          <l>morì per qualche termine,</l>
+          <l>ma in vita poi tornò.</l>
+          <l>(Cospetto! quella punta</l>
+          <l>soffrir così mi fa!)</l>
+          <l>Ritorno all’equilibrio,</l>
+          <l>osserva il mio calibrio…</l>
+          <l>Non dico niente affatto…</l>
+          <l>Sto fermo, e mi ritratto!…</l>
+          <l>(Quel ferro se ti strappo</l>
+          <l>birbon t’ammazzerò.</l>
+          <l>Mi arrabbio in corpo, e fremo,</l>
+          <l>la stizza crescer sento,</l>
+          <l>se addosso me gli avvento</l>
+          <l>lo vo’ precipitar.)</l>
+          <l>(si getta su Artemidoro, che sta discorrendo con Eufelia, e gli toglie lo stile)</l>
+          <l>Lascia, bestia, che ti voglio</l>
+          <l>come un pesce qui sventrar;</l>
+          <l>e di vita anche a te voglio</l>
+          <l>se più parli di pittar.</l>
+          <l>Una botte me ne voglio</l>
+          <l>di filosofi salar.</l>
+          <l>(parte)</l>
+        </sp>
+        <stage>GASPERONEEccomi pianta e immobile,svolgo così un ginocchio,vuoi spalla? Petto? O occhio?Spiegati, donna sciocca.(Se l’apro un po’ la bocca,la fo ben spaventar.)Niente, l’ho fatto un vezzolei l’ebbe per disprezzo,morì per qualche termine,ma in vita poi tornò.(Cospetto! quella puntasoffrir così mi fa!)Ritorno all’equilibrio,osserva il mio calibrio…Non dico niente affatto…Sto fermo, e mi ritratto!…(Quel ferro se ti strappobirbon t’ammazzerò.Mi arrabbio in corpo, e fremo,la stizza crescer sento,se addosso me gli avventolo vo’ precipitar.)(si getta su Artemidoro, che sta discorrendo con Eufelia, e gli toglie lo stile)Lascia, bestia, che ti vogliocome un pesce qui sventrar;e di vita anche a te vogliose più parli di pittar.Una botte me ne vogliodi filosofi salar.(parte)</stage>
+      </div>
+      <div type="scene">
+        <head>EUFELIA</head>Ambi partiti sono!Or chi dipingerò? In casa corroa pennellar sollecita all’istantequalunque oggetto mi verrà davante.(parte)Scena quindicesimaCamera in casa di don Piastrone.Don Piastrone pensieroso, poi don Gasperone, indi Trofonio da vecchio pastore.PIASTRONEPadre son io; ma dove son le figlie?Quanti garbugli ohimè! che meraviglie!<sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Ambi partiti sono!</l>
+          <l>Or chi dipingerò? In casa corro</l>
+          <l>a pennellar sollecita all’istante</l>
+          <l>qualunque oggetto mi verrà davante.</l>
+          <l>(parte)</l>
+          <l>Scena quindicesima</l>
+          <l>Camera in casa di don Piastrone.</l>
+          <l>Don Piastrone pensieroso, poi don Gasperone, indi Trofonio da vecchio pastore.</l>
+          <l>PIASTRONE</l>
+          <l>Padre son io; ma dove son le figlie?</l>
+          <l>Quanti garbugli ohimè! che meraviglie!</l>
+        </sp>
+        <stage>EUFELIAAmbi partiti sono!Or chi dipingerò? In casa corroa pennellar sollecita all’istantequalunque oggetto mi verrà davante.(parte)Scena quindicesimaCamera in casa di don Piastrone.Don Piastrone pensieroso, poi don Gasperone, indi Trofonio da vecchio pastore.PIASTRONEPadre son io; ma dove son le figlie?Quanti garbugli ohimè! che meraviglie!</stage>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Piastron, Piastron, Piastrone!</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Da me che mai si brama?</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Io sono un vecchio,</l>
+          <l>che il futuro antivedo. I mali tuoi</l>
+          <l>sempre più cresceranno. Di Trofonio,</l>
+          <l>gran filosofo e mago che dimora</l>
+          <l>nella grotta vicina,</l>
+          <l>consolarti potrà la gran dottrina.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Da un pezzo il sento nominar: ma ancora</l>
+          <l>non ho cognizion di un tal Trofonio</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Chi è Trofonio si sa.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Eh zitto. Or batto ben l’antichità.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Andiam, vieni ancor tu.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ohibò, patisco</l>
+          <l>di podagre.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Ti prego.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Vieni, bestia.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>GASPERONE</head>A me bestia! la barba oggi non manca,e gliela spennerò come pollanca.(partono)Scena sedicesimaDori, poi Eufelia, indi Artemidoro.<sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>A me bestia! la barba oggi non manca,</l>
+          <l>e gliela spennerò come pollanca.</l>
+          <l>(partono)</l>
+          <l>Scena sedicesima</l>
+          <l>Dori, poi Eufelia, indi Artemidoro.</l>
+        </sp>
+        <stage>GASPERONEA me bestia! la barba oggi non manca,e gliela spennerò come pollanca.(partono)Scena sedicesimaDori, poi Eufelia, indi Artemidoro.</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Al teatro ho d’andare,</l>
+          <l>chi vien la Spaccascene a pettinare?</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Coi miei color perfetti</l>
+          <l>deggio tutti imitare i vari oggetti.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Mi son d’armi provvisto</l>
+          <l>per vendicarmi. Avesse</l>
+          <l>nissun di voi Gasperon qui visto?</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Devo andare al teatro.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Sta fermo alquanto, vo’ pittarti il naso.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ARTEMIDORO</head>Una matta tu sei, tu parli a caso.(partono)Scena diciassettesimaBosco con grotta.Trofonio, don Piastrone, Gasperone.<sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Una matta tu sei, tu parli a caso.</l>
+          <l>(partono)</l>
+          <l>Scena diciassettesima</l>
+          <l>Bosco con grotta.</l>
+          <l>Trofonio, don Piastrone, Gasperone.</l>
+        </sp>
+        <stage>ARTEMIDOROUna matta tu sei, tu parli a caso.(partono)Scena diciassettesimaBosco con grotta.Trofonio, don Piastrone, Gasperone.</stage>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Ecco l’antro. Trofonio invocherete</l>
+          <l>umili e moderati,</l>
+          <l>ei vi disbrigherà da un tanto affare.</l>
+          <l>Vi lascio, più con voi non ho che fare.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Trofonio, Trofonio,</l>
+          <l>filosofo greco,</l>
+          <l>che dentro lo speco</l>
+          <l>comandi al demonio,</l>
+          <l>Trofonio, Trofonio,</l>
+          <l>ascoltami tu.</l>
+        </sp>
+        <sp who="#coro di spiriti">
+          <speaker>CORO DI SPIRITI:</speaker>
+          <l>(dentro la grotta)</l>
+          <l>Trofonio nel cupo</l>
+          <l>di questo dirupo</l>
+          <l>fa cose stupende,</l>
+          <l>oracoli rende;</l>
+          <l>il Delfico e Ammonio</l>
+          <l>men celebre fu.</l>
+        </sp>
+        <stage>CORO DI SPIRITI(dentro la grotta)Trofonio nel cupodi questo dirupofa cose stupende,oracoli rende;il Delfico e Ammoniomen celebre fu.</stage>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Che imbroglio, che impaccio!</l>
+          <l>io palpito e agghiaccio!</l>
+          <l>Fra queste tremende…</l>
+          <l>grottaglie ben vecchie…</l>
+          <l>fra streghe e fattecchie…</l>
+          <l>qui restaci tu.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>PIASTRONE</head>Deh ferma, melenso,il colpo è già fatto;non ve’ che propensoTrofonio ci fu?Ascolta una volta,Trofonio vien su.Scena diciottesimaTrofonio da mago, e detti.<div type="scene">
+        <head>PIASTRONE</head>Deh ferma, melenso,il colpo è già fatto;non ve’ che propensoTrofonio ci fu?Ascolta una volta,Trofonio vien su.Scena diciottesimaTrofonio da mago, e detti.<sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Deh ferma, melenso,</l>
+          <l>il colpo è già fatto;</l>
+          <l>non ve’ che propenso</l>
+          <l>Trofonio ci fu?</l>
+          <l>Ascolta una volta,</l>
+          <l>Trofonio vien su.</l>
+          <l>Scena diciottesima</l>
+          <l>Trofonio da mago, e detti.</l>
+        </sp>
+        <stage>PIASTRONEDeh ferma, melenso,il colpo è già fatto;non ve’ che propensoTrofonio ci fu?Ascolta una volta,Trofonio vien su.Scena diciottesimaTrofonio da mago, e detti.</stage>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>In questo minuto</l>
+          <l>venuto è in tuo aiuto</l>
+          <l>Trofonio barbuto,</l>
+          <l>temuto da Pluto,</l>
+          <l>che ha sopra il demonio</l>
+          <l>arcana virtù.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Guardarti non oso,</l>
+          <l>Trofonio peloso,</l>
+          <l>l’aspetto è d’un orco,</l>
+          <l>il muso è d’un porco,</l>
+          <l>un vero antimonio,</l>
+          <l>Trofonio, sei tu.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>(a Piastrone).</l>
+          <l>T’ascolta Trofonio. ~</l>
+          <l>(a Gasperone.)</l>
+          <l>Sta zitto un po’ tu.</l>
+        </sp>
+        <stage>TROFONIO(a Piastrone).T’ascolta Trofonio. ~(a Gasperone.)Sta zitto un po’ tu.</stage>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>L’umore e il cervello</l>
+          <l>sconvolto han del tutto</l>
+          <l>mie figlie, il bel frutto</l>
+          <l>del mio matrimonio</l>
+          <l>Trofonio, Trofonio,</l>
+          <l>risanale tu.</l>
+        </sp>
+        <sp who="#coro di spiriti e trofonio">
+          <speaker>CORO DI SPIRITI E TROFONIO:</speaker>
+          <l>Dar loro altro conio</l>
+          <l>può solo Trofonio,</l>
+          <l>che per testimonio</l>
+          <l>del regno plutonio,</l>
+          <l>è d’ogni demonio</l>
+          <l>possente assai più.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ti lascio, Piastronio,</l>
+          <l>che don Gasperonio</l>
+          <l>vuol fare filonio</l>
+          <l>nel suo popolonio,</l>
+          <l>e del matrimonio</l>
+          <l>parlar non vuol più.</l>
+          <l>(fugge)</l>
+        </sp>
+        <stage>GASPERONETi lascio, Piastronio,che don Gasperoniovuol fare filonionel suo popolonio,e del matrimonioparlar non vuol più.(fugge)</stage>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Giura alla locandiera dar la mano,</l>
+          <l>e son pronto a svelarti il grande arcano.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>La sposerò, non dubiti. Svelate</l>
+          <l>l’arcano.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Vedi là quella caverna?</l>
+          <l>Chi vi s’interna, beve</l>
+          <l>un magico vapor, s’entra per l’una,</l>
+          <l>e poi per l’altra porta torna fuore,</l>
+          <l>cangiasi tosto d’indole e d’umore,</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Dunque là entrar le figlie e i loro sposi?</l>
+          <l>Or comprendo gli effetti portentosi.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Ma ricovra il suo umor nell’antro istesso</l>
+          <l>chi viene e riede poi per l’altro ingresso.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>PIASTRONE</head>Dunque le figlie tecoentrino, ed escan fuor dal nero speco.Scena diciannovesimaEufelia, Dori e detti.<sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Dunque le figlie teco</l>
+          <l>entrino, ed escan fuor dal nero speco.</l>
+          <l>Scena diciannovesima</l>
+          <l>Eufelia, Dori e detti.</l>
+        </sp>
+        <stage>PIASTRONEDunque le figlie tecoentrino, ed escan fuor dal nero speco.Scena diciannovesimaEufelia, Dori e detti.</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Non vive chi si attrista ne’ pensieri,</l>
+          <l>vive chi allegro sta ne’ suoi piaceri.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>V’abbiano in guardia i numi.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Venite ad osservare</l>
+          <l>cose in quell’antro portentose e rare.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Non ci entro.</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>E nemmen io.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Eufelia? ~ Dori?</l>
+          <l>Andate ad osservar i bei lavori.</l>
+        </sp>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Allegra vo a calcar la strada oscura.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>EUFELIA</head>Riflessiva entro anch’io. Oh gran pittura!(entrano)Scena ventesimaArtemidoro, don Gasperone e detti.<sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Riflessiva entro anch’io. Oh gran pittura!</l>
+          <l>(entrano)</l>
+          <l>Scena ventesima</l>
+          <l>Artemidoro, don Gasperone e detti.</l>
+        </sp>
+        <stage>EUFELIARiflessiva entro anch’io. Oh gran pittura!(entrano)Scena ventesimaArtemidoro, don Gasperone e detti.</stage>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Ma facesti l’error, amico caro.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ho torto, non lo niego, errando imparo.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Ma Piastrone dov’è?</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Qua lo lasciai.</l>
+          <l>Eccolo.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Cosa è stato?</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Cari generi miei, tutto è aggiustato.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Ma come?</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>PIASTRONE</head>Vi dirò…Scena ventunesimaRubinetta, madama Bartolina e detti, poi Trofonio, Dori ed Eufelia che escono dalla grotta.<sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Vi dirò…</l>
+          <l>Scena ventunesima</l>
+          <l>Rubinetta, madama Bartolina e detti, poi Trofonio, Dori ed Eufelia che escono dalla grotta.</l>
+        </sp>
+        <stage>PIASTRONEVi dirò…Scena ventunesimaRubinetta, madama Bartolina e detti, poi Trofonio, Dori ed Eufelia che escono dalla grotta.</stage>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Siete ancor ostinato</l>
+          <l>sior Piastrone?</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>No, son suo, musin garbato.</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Gasperon, questa man m’hai da baciare.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Madama, in carità non mi seccare.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Presto dall’antro uscite,</l>
+          <l>ai vostri sposi, al genitor venite.</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>La sposa mia dev’essere</l>
+          <l>Dori; si sa che il genitor lo scrisse.</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>E non ti vuoi serbare</l>
+          <l>cotesta bocca per i bei bocconi?</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Piastron di quello scritto</l>
+          <l>nulla ne sa, io la sua forma presi,</l>
+          <l>e artatamente di mia man l’estesi.</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Ohimè! quanto sa far!</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Dunque adempite</l>
+          <l>ciò che comando. Mia</l>
+          <l>è madama. ~</l>
+          <l>(a Gasperone)</l>
+          <l>Tu sposa</l>
+          <l>Eufelia;</l>
+          <l>(a Piastrone)</l>
+          <l>impalma tu la locandiera. ~</l>
+          <l>(ad Artemidoro)</l>
+          <l>Tu sposa Dori, e subito; altrimenti</l>
+          <l>io vi fo diventar tanti giumenti.</l>
+        </sp>
+        <stage>TROFONIODunque adempiteciò che comando. Miaè madama. ~(a Gasperone)Tu sposaEufelia;(a Piastrone)impalma tu la locandiera. ~(ad Artemidoro)Tu sposa Dori, e subito; altrimentiio vi fo diventar tanti giumenti.</stage>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Ma a matrimoni di cotanti impegni</l>
+          <l>luoghi questi, o signor, non sono degni.</l>
+        </sp>
+        <sp who="#trofonio">
+          <speaker>TROFONIO:</speaker>
+          <l>Ecco: ammirate il sommo</l>
+          <l>de’ miei rari portenti.</l>
+          <l>Di delizie e grandezze</l>
+          <l>questa spelonca omai reggia diventi.</l>
+          <l>Ad una scossa della verga che darà Trofonio sparisce la grotta, e si trova nel suo luogo una deliziosa reggia, e lui in un tratto spogliato dell’abito di filosofo, e vestito di nobilissimo abito greco.</l>
+        </sp>
+        <stage>TROFONIOEcco: ammirate il sommode’ miei rari portenti.Di delizie e grandezzequesta spelonca omai reggia diventi.Ad una scossa della verga che darà Trofonio sparisce la grotta, e si trova nel suo luogo una deliziosa reggia, e lui in un tratto spogliato dell’abito di filosofo, e vestito di nobilissimo abito greco.</stage>
+        <sp who="#dori">
+          <speaker>DORI:</speaker>
+          <l>Che delizie!</l>
+        </sp>
+        <sp who="#piastrone">
+          <speaker>PIASTRONE:</speaker>
+          <l>Che contenti!</l>
+        </sp>
+        <sp who="#eufelia">
+          <speaker>EUFELIA:</speaker>
+          <l>Che prodigi!</l>
+        </sp>
+        <sp who="#artemidoro">
+          <speaker>ARTEMIDORO:</speaker>
+          <l>Che portenti!</l>
+        </sp>
+        <sp who="#gasperone">
+          <speaker>GASPERONE:</speaker>
+          <l>Che bell’aria!</l>
+        </sp>
+        <sp who="#bartolina">
+          <speaker>BARTOLINA:</speaker>
+          <l>Che piacere!</l>
+        </sp>
+        <sp who="#rubinetta">
+          <speaker>RUBINETTA:</speaker>
+          <l>Che allegria!</l>
+        </sp>
+        <sp who="#tutti">
+          <speaker>TUTTI:</speaker>
+          <l>Che bel vedere!</l>
+          <l>Augelletti e fiumicelli,</l>
+          <l>zeffiretti ed arboscelli!</l>
+          <l>Fanno placida armonia</l>
+          <l>nella verde ombrosità?</l>
+          <l>Cosa resta di più a far?</l>
+          <l>Lo stupor mandiamo in bando,</l>
+          <l>e tra giubilo e contento,</l>
+          <l>andiam lieti, e saltellando</l>
+          <l>nella reggia a festeggiar.</l>
+        </sp>
+      </div>
+    </div>
+  </text>
+</TEI>

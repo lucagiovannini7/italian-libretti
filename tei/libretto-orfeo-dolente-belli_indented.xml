@@ -1,0 +1,451 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">rfeo dolente</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="calliope">
+            <persName>CALLIOPE:</persName>
+          </person>
+          <person xml:id="la terza grazia">
+            <persName>LA TERZA GRAZIA:</persName>
+          </person>
+          <person xml:id="plutone">
+            <persName>PLUTONE:</persName>
+          </person>
+          <person xml:id="una delle grazie">
+            <persName>UNA DELLE GRAZIE:</persName>
+          </person>
+          <person xml:id="orfeo">
+            <persName>ORFEO:</persName>
+          </person>
+          <person xml:id="un pastore del coro">
+            <persName>UN PASTORE DEL CORO:</persName>
+          </person>
+          <person xml:id="coro di pastori">
+            <persName>CORO DI PASTORI:</persName>
+          </person>
+          <person xml:id="le tre grazie">
+            <persName>LE TRE GRAZIE:</persName>
+          </person>
+          <person xml:id="la seconda grazia">
+            <persName>LA SECONDA GRAZIA:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>ORFEO</castItem>
+        <castItem>PLUTONE</castItem>
+        <castItem>CALLIOPE</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>Scena unicaOrfeo e Plutone.Orfeo suonando con la lira il seguente ritornello.(segue la musica)Nume d’abisso, numidell’infernal soggiorno,ecco ch’a voi ritornocon lagrimosi fiumi.È ver ch’a vostra leggeio poco intento attesi,e follemente errai:ma non vi vilipesi;fu sol che troppo amai.(ritornello)Scusar vuolsi l’erroree non opporsi a penaquand’ad errar ci menagrand’impeto d’Amore.È questo arcier supremo:e tra’ mortali in terrason noti i dardi suoi,e costà giù sotterrason noti anco tra voi!(ritornello)Deh, se fur miei lamentida voi pur dianzi uditi,oggi non sien schernitiche li fo sì dolenti.Sul tenor tanto acerbodi mia cruda ventura,numi, deh, ripensate,e di mia vita oscuracostringavi pietate.(ritornello)In van per me s’attendegiorno di duol men fortese l’amata consorteper voi non mi si rende.Giammai tra lunghi affanniil lacrimar non restaonde la guance inondo,ed ogni cosa è mestapur per quest’occhi al mondo.(ritornello)Non ha seco serenoFebo s’esce dal mare,e se la notte apparenon ha stellato il seno.In sul più vago aprilenembo di pioggia o ventofammi terribil verno;pietà del mio tormento,pietà, numi d’inferno.</stage>
+      <sp who="#plutone">
+        <speaker>PLUTONE:</speaker>
+        <l>Ei fu soverchio ardire</l>
+        <l>scender la prima volta</l>
+        <l>a porger preghi al tenebroso inferno,</l>
+        <l>che giammai non gli ascolta.</l>
+        <l>Ed or che debbo dir ch’i gran divieti,</l>
+        <l>fur da te presi a scherno?</l>
+        <l>Pàrtiti omai: con punta di diamanti</l>
+        <l>son scolpiti in selce i miei decreti.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Lasso! Omai che vedrò</l>
+        <l>così lungi da voi, bellezze amate?</l>
+        <l>Indarno Febo il suo bell’oro eterno</l>
+        <l>e Cinzia mi disvela il puro argento</l>
+        <l>che io lontano da voi nulla non scerno,</l>
+        <l>e muove indarno lusinghevol vento,</l>
+        <l>e tra bell’erbe di chiare onde il suono,</l>
+        <l>ch’io lontano da voi nulla non sento.</l>
+        <l>Ohimè, dell’esser mio poco ragiono</l>
+        <l>ch’io lontano da voi nulla non sono.</l>
+      </sp>
+      <stage>Scena unicaOrfeo, Calliope e Plutone.Orfeo suonando con la lira il seguente ritornello. Qual finito comincia Calliope.(segue la musica)</stage>
+      <sp who="#calliope">
+        <speaker>CALLIOPE:</speaker>
+        <l>O del mio cor diletto</l>
+        <l>figlio, ond’è ch’io ti miri</l>
+        <l>così mesto e dolente</l>
+        <l>e carco di martiri?</l>
+        <l>Perché stanchi la cetra</l>
+        <l>e con lunghi sospiri</l>
+        <l>disfoghi il duol interno</l>
+        <l>presso le porte del temuto inferno?</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Ascolta, o genitrice,</l>
+        <l>ascolta, e piangi poi</l>
+        <l>l’aspra ventura del figlio infelice.</l>
+        <l>Io godea la bellezza,</l>
+        <l>amata oltre misura</l>
+        <l>della cara Euridice,</l>
+        <l>ed ella in sul fiorire</l>
+        <l>punta da picciol angue</l>
+        <l>si condusse al morire;</l>
+        <l>ed io, più di lei morto,</l>
+        <l>corsi dentro gli abissi</l>
+        <l>ed impetrai da chi colà corregge</l>
+        <l>il mio dolce conforto,</l>
+        <l>ma con siffatta legge,</l>
+        <l>che mentre colà giù moveva i passi</l>
+        <l>io non la riguardassi.</l>
+      </sp>
+      <sp who="#calliope">
+        <speaker>CALLIOPE:</speaker>
+        <l>Preveggo il tuo dolore</l>
+        <l>ché non si frena amore.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Lasso! È vero; una volta,</l>
+        <l>ahi lasso, io la mirai</l>
+        <l>e me la vidi tolta</l>
+        <l>e piansi e sospirai.</l>
+        <l>E tuttavia sospiro</l>
+        <l>ma non ho chi m’intenda</l>
+        <l>né chi per grazia a’ miei sospir la renda.</l>
+        <l>Tu, madre, adopra i prieghi:</l>
+        <l>forse, sì come a madre,</l>
+        <l>fia che la mia mercede</l>
+        <l>a te l’asprezza di Pluton non nieghi.</l>
+      </sp>
+      <sp who="#calliope">
+        <speaker>CALLIOPE:</speaker>
+        <l>Dell’atro Averno</l>
+        <l>rettor supremo e dell’orribil Dite,</l>
+        <l>e voi, ch’al cenno suo pronti ubbidite,</l>
+        <l>spirti d’inferno,</l>
+        <l>udite un amator ch’a voi dolente</l>
+        <l>chiede pietà,</l>
+        <l>e che senza Euridice, ond’era ardente,</l>
+        <l>viver non sa.</l>
+        <l>Per torlo al duolo</l>
+        <l>non fan mestieri inusitati ingegni,</l>
+        <l>né s’ha da guerreggiar con feri sdegni</l>
+        <l>su l’alto polo;</l>
+        <l>sol che di vostra reggia apra le porte</l>
+        <l>chi le serrò,</l>
+        <l>tornassene a lui la sua consorte</l>
+        <l>che tanto amò.</l>
+        <l>Né con minaccia,</l>
+        <l>sì com’Alcide, alle vostr’ombre scende,</l>
+        <l>quand’armò contro a voi di forze orrende</l>
+        <l>l’orribil braccia:</l>
+        <l>ei tra lunghi sospir tempra la lira</l>
+        <l>che ‘l ciel gli diè;</l>
+        <l>quinci vedovo cor ch’arde e sospira</l>
+        <l>chiede mercé.</l>
+      </sp>
+      <sp who="#plutone">
+        <speaker>PLUTONE:</speaker>
+        <l>Ei fu soverchio ardire</l>
+        <l>scender la prima volta</l>
+        <l>a porger preghi al tenebroso inferno,</l>
+        <l>che giammai non gli ascolta.</l>
+        <l>Ed or che debbo dir, ch’i gran divieti</l>
+        <l>fur da te presi a scherno?</l>
+        <l>Partiti omai: con punta di diamanti</l>
+        <l>sono scolpiti in selce i miei decreti.</l>
+      </sp>
+      <sp who="#calliope">
+        <speaker>CALLIOPE:</speaker>
+        <l>Indarno è far dimora,</l>
+        <l>l’inferno è sordo e cieco;</l>
+        <l>lascia, diletto figlio, il crudo speco.</l>
+      </sp>
+      <stage>Scena unicaOrfeo, Calliope e Coro di Pastori.</stage>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Rive ombrose e selvagge,</l>
+        <l>deserte orride piagge,</l>
+        <l>solinghi alpestri monti,</l>
+        <l>e voi, torbidi fonti,</l>
+        <l>rupi, non giammai liete,</l>
+        <l>or per sempre accogliete</l>
+        <l>nel caso infausto e reo</l>
+        <l>il sì dolente Orfeo.</l>
+        <l>Sentite omai, sentite</l>
+        <l>mie miserie infinite</l>
+        <l>e quel ch’attrista il core</l>
+        <l>infinito dolore.</l>
+        <l>Udite i miei lamenti</l>
+        <l>sì forti e sì possenti</l>
+        <l>che non li prese a scherno</l>
+        <l>il tenebroso inferno.</l>
+        <l>Lasso! Già vols’il piede</l>
+        <l>ver’ la tartarea sede,</l>
+        <l>e piangendo impetrai</l>
+        <l>lo scampo de’ miei guai.</l>
+        <l>Ma, mentre ch’io la miro</l>
+        <l>vinto dal gran martiro,</l>
+        <l>o miseri occhi miei,</l>
+        <l>io per sempre il perdei.</l>
+        <l>Bella, per cui felice</l>
+        <l>vissi un tempo, Euridice,</l>
+        <l>benché mesta dimori</l>
+        <l>giù nei profondi orrori,</l>
+        <l>non per tanto è men dura</l>
+        <l>di me la tua ventura,</l>
+        <l>se qua su, di te privo,</l>
+        <l>miseramente io vivo.</l>
+      </sp>
+      <sp who="#calliope">
+        <speaker>CALLIOPE:</speaker>
+        <l>Quel sì fero dolore,</l>
+        <l>quell’angosciosa pena</l>
+        <l>che sì ti strugge il core,</l>
+        <l>dolce mio figlio, consolando affrena,</l>
+        <l>ch’omai per te non è pietà là dentro</l>
+        <l>nel tenebroso centro.</l>
+        <l>S’hai pur lieto desire</l>
+        <l>goder di bel sembiante</l>
+        <l>felicissimo amante,</l>
+        <l>a che tanto martire?</l>
+        <l>Ché non ha tante il prato erbette e fiori</l>
+        <l>quante ardon Ninfe de’ tuoi dolci ardori.</l>
+        <l>Se tu Euridice brami,</l>
+        <l>già ti vieta l’inferno</l>
+        <l>che più il suo bel non ami;</l>
+        <l>né che sospiri eterno</l>
+        <l>vuole Amor, ma che speri</l>
+        <l>d’altri bei lumi amati sguardi alteri.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Bella mia genitrice,</l>
+        <l>d’altra beltà, d’altro amor non mi lice</l>
+        <l>mirar lampi sereni,</l>
+        <l>ma sol di doglia pieni,</l>
+        <l>lasso! guidar i mesi, i giorni e l’ore</l>
+        <l>in estremo dolore.</l>
+      </sp>
+      <sp who="#calliope">
+        <speaker>CALLIOPE:</speaker>
+        <l>Deh, verdi erbosi colli,</l>
+        <l>fior leggiadretti e molli,</l>
+        <l>voi cristallini umori</l>
+        <l>e selvaggi pastori,</l>
+        <l>fuor, fuor d’ombroso speco</l>
+        <l>venite or mesti e lagrimate meco.</l>
+        <l>Coro di Pastori.</l>
+        <l>Da lontano, quali venivano sonando con flauti per ritornello le seguenti note, e comparsi in scena replicarono lo stesso cantando:</l>
+        <l>O felice semideo,</l>
+        <l>fren’omai l’acerbo duolo</l>
+        <l>già per te dispiega il volo</l>
+        <l>fido Amor, gradito arciero.</l>
+        <l>(per ritornello si replicò l’istesso)</l>
+        <l>O per te sorte beata,</l>
+        <l>vita lieta e fortunata,</l>
+        <l>che languendo il tuo bel fiore</l>
+        <l>sorge ancor nuovo splendore.</l>
+      </sp>
+      <stage>CALLIOPEDeh, verdi erbosi colli,fior leggiadretti e molli,voi cristallini umorie selvaggi pastori,fuor, fuor d’ombroso specovenite or mesti e lagrimate meco.Coro di Pastori.Da lontano, quali venivano sonando con flauti per ritornello le seguenti note, e comparsi in scena replicarono lo stesso cantando:O felice semideo,fren’omai l’acerbo duologià per te dispiega il volofido Amor, gradito arciero.(per ritornello si replicò l’istesso)O per te sorte beata,vita lieta e fortunata,che languendo il tuo bel fioresorge ancor nuovo splendore.</stage>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Quanti ha fior, Gnido e Citero,</l>
+        <l>vaghe rose pellegrine,</l>
+        <l>li torran dal bel sentiero</l>
+        <l>di sue luci alme e divine.</l>
+      </sp>
+      <sp who="#un pastore del coro">
+        <speaker>UN PASTORE DEL CORO:</speaker>
+        <l>Già di sua diva beltade</l>
+        <l>di mirar non è pietade.</l>
+      </sp>
+      <sp who="#calliope">
+        <speaker>CALLIOPE:</speaker>
+        <l>E per te s’oscura il cielo.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Languirò d’amato zelo.</l>
+      </sp>
+      <sp who="#un pastore del coro">
+        <speaker>UN PASTORE DEL CORO:</speaker>
+        <l>Se d’amor l’aurato strale</l>
+        <l>pur t’incendia o impiaga il petto,</l>
+        <l>se il suo vago il cor t’assale</l>
+        <l>di soave almo diletto,</l>
+        <l>ah, ti vedo in dolce foco</l>
+        <l>liquefarti a poco a poco.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Non sia mai ch’io mi distrugga</l>
+        <l>ch’ora Amor negletto fugga.</l>
+      </sp>
+      <sp who="#calliope">
+        <speaker>CALLIOPE:</speaker>
+        <l>O d’Amor beltà gradita,</l>
+        <l>qual per me miser’ or langue;</l>
+        <l>o per me crudel ferita,</l>
+        <l>o mortifer rigido angue</l>
+      </sp>
+      <sp who="#un pastore del coro">
+        <speaker>UN PASTORE DEL CORO:</speaker>
+        <l>Frena omai, deh, frena intanto</l>
+        <l>de’ begli occhi il largo pianto,</l>
+        <l>che fia tempo che rimiri</l>
+        <l>vago Orfeo tra bei desiri.</l>
+      </sp>
+      <sp who="#coro di pastori">
+        <speaker>CORO DI PASTORI:</speaker>
+        <l>Non più lagrime o dolore</l>
+        <l>turb’il cor di tanto iddeo,</l>
+        <l>sol gioisca ardente il core</l>
+        <l>d’altro bel, gloria d’Orfeo.</l>
+        <l>(per ritornello di replicò lo stesso)</l>
+        <l>O dia intanto il cielo segno</l>
+        <l>della gioia e del diletto</l>
+        <l>che n’ingombra il cor nel petto</l>
+        <l>esaltando eroe sì degno.</l>
+      </sp>
+      <stage>CORO DI PASTORINon più lagrime o doloreturb’il cor di tanto iddeo,sol gioisca ardente il cored’altro bel, gloria d’Orfeo.(per ritornello di replicò lo stesso)O dia intanto il cielo segnodella gioia e del dilettoche n’ingombra il cor nel pettoesaltando eroe sì degno.</stage>
+      <stage>Scena unicaLe tre Grazie, Orfeo e coro di Ninfe.</stage>
+      <sp who="#le tre grazie">
+        <speaker>LE TRE GRAZIE:</speaker>
+        <l>Qui d’Orfeo la dolce cetra</l>
+        <l>gioir fece erbette e fiori,</l>
+        <l>qui d’Amor l’aurea faretra</l>
+        <l>n’impiegò mille alme e cori:</l>
+        <l>e tu, crudo arcier, consenti</l>
+        <l>ch’or languisca in rei tormenti?</l>
+      </sp>
+      <sp who="#una delle grazie">
+        <speaker>UNA DELLE GRAZIE:</speaker>
+        <l>Forse il bel giovinetto</l>
+        <l>mitigherà il suo pianto,</l>
+        <l>e con soave canto</l>
+        <l>di dolcezza e diletto</l>
+        <l>di nuovo invocherà per queste selve</l>
+        <l>pietose al suo cantar l’orride selve.</l>
+      </sp>
+      <sp who="#la seconda grazia">
+        <speaker>LA SECONDA GRAZIA:</speaker>
+        <l>Sembrano i puri argenti</l>
+        <l>voci formar sonore,</l>
+        <l>ch’ardon di dolce ardore</l>
+        <l>e in graziosi accenti</l>
+        <l>par che alternando in sì chiari cristallini</l>
+        <l>muovano i pesci leggiadretti balli.</l>
+      </sp>
+      <sp who="#la terza grazia">
+        <speaker>LA TERZA GRAZIA:</speaker>
+        <l>Se dal tartareo fondo</l>
+        <l>Pluton respinse al suo cantar giocondo,</l>
+        <l>qual meraviglia fia</l>
+        <l>se grazia, se bellezza e leggiadria</l>
+        <l>noi qui sottragge amanti</l>
+        <l>de’ suoi bei pregi e vanti?</l>
+        <l>Venga omai, venga sereno</l>
+        <l>nel fiorito almo confine,</l>
+        <l>fido Amor gl’incendia il seno</l>
+        <l>di bellezze peregrine;</l>
+        <l>scenda in lui celeste nembo</l>
+        <l>che d’onor gli adorni il grembo</l>
+        <l>onde sia de’ boschi iddeo</l>
+        <l>fortunato e lieto Orfeo.</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Sospiroso dolore,</l>
+        <l>che mi trafiggi il core,</l>
+        <l>se far non puoi s’involi ogni mia noia</l>
+        <l>e dolcemente io moia,</l>
+        <l>a che più tormentar l’aspra mia vita</l>
+        <l>perché non moro e non ritorno in vita?</l>
+      </sp>
+      <sp who="#le tre grazie">
+        <speaker>LE TRE GRAZIE:</speaker>
+        <l>Godi pur, felice amante,</l>
+        <l>frena il crudo empio martire,</l>
+        <l>segui Amor fido e costante,</l>
+        <l>che s’appresta il bel gioire.</l>
+        <l>Lassan già le chiare linfe</l>
+        <l>vezzosette e chiare ninfe,</l>
+        <l>per mirar l’aureo splendore,</l>
+        <l>tua beltà, pompe d’Amore.</l>
+        <l>D’amaranti e di viole</l>
+        <l>cinto il crin, adorno il seno,</l>
+        <l>qui muoviam liete carole</l>
+        <l>al fiorito lido ameno;</l>
+        <l>e tua pregi alzando al cielo</l>
+        <l>dolcemente in puro zelo</l>
+        <l>or cantiam felice Orfeo</l>
+        <l>figlio a Febo e semideo.</l>
+        <l>O per te giorno felice,</l>
+        <l>fortunata amica sorte!</l>
+      </sp>
+      <sp who="#orfeo">
+        <speaker>ORFEO:</speaker>
+        <l>Vive in me sol Euridice</l>
+        <l>bel trofeo dell’alta corte!</l>
+        <l>Coro di tutti gli Interlocutori, eccetto Orfeo.</l>
+        <l>Non più duol, non più tormento,</l>
+        <l>ma dolcissimo contento</l>
+        <l>serbi in sé gioconda l’alma</l>
+        <l>di goder l’aurata palma.</l>
+        <l>(per ritornello si replicò l’istesso)</l>
+        <l>Dolce canti e ne gioisca</l>
+        <l>festeggiante il ciel sereno,</l>
+        <l>e d’Amor seco languisca</l>
+        <l>verdeggiante il bel terreno.</l>
+      </sp>
+      <stage>ORFEOVive in me sol Euridicebel trofeo dell’alta corte!Coro di tutti gli Interlocutori, eccetto Orfeo.Non più duol, non più tormento,ma dolcissimo contentoserbi in sé gioconda l’almadi goder l’aurata palma.(per ritornello si replicò l’istesso)Dolce canti e ne gioiscafesteggiante il ciel sereno,e d’Amor seco languiscaverdeggiante il bel terreno.</stage>
+      <stage>Scena unicaTutti gli Interlocutori.Suonando per sinfonia quel coro ch’è nel terzo intermedio che dice «Non più lagrime o dolore» e finita la sinfonia cominciò:</stage>
+      <sp who="#una delle grazie">
+        <speaker>UNA DELLE GRAZIE:</speaker>
+        <l>Poi che Amor tra l’erbe e’ fiori</l>
+        <l>più non scherza o dolce ride,</l>
+        <l>che farem ministre fide</l>
+        <l>senza il bel de’ suoi splendori,</l>
+        <l>s’il gioir più non attende</l>
+        <l>e sua luce al cor non splende?</l>
+      </sp>
+      <sp who="#la seconda grazia">
+        <speaker>LA SECONDA GRAZIA:</speaker>
+        <l>Non però d’aspro tormento</l>
+        <l>pascerò l’alma dolente</l>
+        <l>ch’il suo foco è sì possente,</l>
+        <l>che non è del tutto spento.</l>
+      </sp>
+      <sp who="#la terza grazia">
+        <speaker>LA TERZA GRAZIA:</speaker>
+        <l>Di pietade ancor adorno</l>
+        <l>si potria porger Amore,</l>
+        <l>e che qui tra fiore e fiore</l>
+        <l>serenasse oscuro il giorno.</l>
+        <l>Qui si replicò il secondo coro del terzo intermedio che dice «Non più lagrime o dolore» solo il primo quadernario. Poi cantano le tre Grazie la seguente musica:</l>
+      </sp>
+      <stage>LA TERZA GRAZIADi pietade ancor adornosi potria porger Amore,e che qui tra fiore e fioreserenasse oscuro il giorno.Qui si replicò il secondo coro del terzo intermedio che dice «Non più lagrime o dolore» solo il primo quadernario. Poi cantano le tre Grazie la seguente musica:</stage>
+      <sp who="#le tre grazie">
+        <speaker>LE TRE GRAZIE:</speaker>
+        <l>Dunque in sen d’erbose valli,</l>
+        <l>belle ninfe, Amor lodando,</l>
+        <l>n’intrecciate or lieti balli</l>
+        <l>le sue glorie al ciel alzando,</l>
+        <l>che s’adornin nostri petti</l>
+        <l>di dolcezze e di diletti.</l>
+        <l>Qui uscì il ballo di Pastori e Ninfe: e finito che ebbero di ballare, si cantò l’ultimo coro nel quarto intermedio che dice «Non più duol, non più tormento».</l>
+        <l>Fine del libretto.</l>
+      </sp>
+      <stage>LE TRE GRAZIEDunque in sen d’erbose valli,belle ninfe, Amor lodando,n’intrecciate or lieti ballile sue glorie al ciel alzando,che s’adornin nostri pettidi dolcezze e di diletti.Qui uscì il ballo di Pastori e Ninfe: e finito che ebbero di ballare, si cantò l’ultimo coro nel quarto intermedio che dice «Non più duol, non più tormento».Fine del libretto.</stage>
+    </body>
+  </text>
+</TEI>

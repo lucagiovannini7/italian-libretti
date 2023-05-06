@@ -1,0 +1,715 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">l pasticcio, ovvero l’ape musicale</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="scena ultima">
+            <persName>SCENA ULTIMA:</persName>
+          </person>
+          <person xml:id="scena quinta">
+            <persName>SCENA QUINTA:</persName>
+          </person>
+          <person xml:id="don narciso">
+            <persName>DON NARCISO:</persName>
+          </person>
+          <person xml:id="scena seconda">
+            <persName>SCENA SECONDA:</persName>
+          </person>
+          <person xml:id="don nibbio">
+            <persName>DON NIBBIO:</persName>
+          </person>
+          <person xml:id="narciso">
+            <persName>NARCISO:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="f i n e">
+            <persName>F I N E:</persName>
+          </person>
+          <person xml:id="atto unico">
+            <persName>ATTO UNICO:</persName>
+          </person>
+          <person xml:id="mongibello">
+            <persName>MONGIBELLO:</persName>
+          </person>
+          <person xml:id="lucinda">
+            <persName>LUCINDA:</persName>
+          </person>
+          <person xml:id="don canario">
+            <persName>DON CANARIO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>Don Canario, Signor Metz, TenoreUn Impresario di Teatro: Don Nibbio, Signor Rosich, BuffoUn Poeta: Mongibello, Signor Ferri, BaritonoUn Cantante: Narciso, Signor Angresani, TenoreUna Prima Donna: Lucinda, La Signora Giulia da Ponte, SopranoCoro di Popolo, Coro di Marinari, Coro di Virtuosi</stage>
+      <stage>La scena si finge in una delle Isole fortunate.</stage>
+      <div type="act">
+        <head>ATTO UNICO</head>
+        <sp who="#atto unico">
+          <speaker>ATTO UNICO:</speaker>
+        </sp>
+        <stage>Coro di Virtuosi, Coro di Marinari e di popolo.La scena si finge in una delle Isole fortunate.SCENA PRIMABottega di Caffè. Narciso, Mongibello, indi DonNibbio; Coro di popolo e di supposti virtuosi diMusica.CORO[Musica del Turco in Italia]Nostra Patria è il mondo intero,Ed al suono de’ dobbloni,Fra le danze, i canti, e i suoni,Sappiam ridere e scherzar.</stage>
+        <sp who="#narciso">
+          <speaker>NARCISO:</speaker>
+          <l>Hanno tutti il cor contento</l>
+          <l>Solo il misero son io;</l>
+          <l>Perché mancami l’argento</l>
+          <l>Onde i debiti pagar.</l>
+          <l>Ma vo far alfin coraggio,</l>
+          <l>Voglio star di buon umore;</l>
+          <l>E se viene il creditore</l>
+          <l>Farò dirgli di tornar.</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Ho da far un dramma buffo,</l>
+          <l>E non trovo l’argomento;</l>
+          <l>E questo ha poco sentimento,</l>
+          <l>Questo insipido mi par.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Nostra patria …[ripete come prima]</l>
+        </sp>
+        <stage>CORONostra patria …[ripete come prima]</stage>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Una bella introduzione</l>
+          <l>Mi bisogna ritrovar.</l>
+        </sp>
+        <sp who="#narciso">
+          <speaker>NARCISO:</speaker>
+          <l>Si dice che a momenti</l>
+          <l>Dee la nave arrivar ove imbarcossi</l>
+          <l>La nostra Prima Donna; è già gran tempo</l>
+          <l>Che l’Impresario, e la Città l’aspetta</l>
+          <l>Veggiam un po’ che dice la gazzetta.</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Ma ecco l’Impresario: ei viene avante</l>
+          <l>A passi di gigante,</l>
+          <l>Acceso in volto come un farfarello:</l>
+          <l>Oh, compar Nibbio, addio; che ci è di bello?</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>[Di Cimarosa]</l>
+          <l>Udite, amici, udite,</l>
+          <l>L’orecchie spalancate,</l>
+          <l>Di giubilo saltate,</l>
+          <l>La nave che aspettavasi</l>
+          <l>È giunta, e in porto è già.</l>
+          <l>La bella Veneziana</l>
+          <l>Domani canterà;</l>
+          <l>E l’opera italiana</l>
+          <l>Ancor trionferà.</l>
+          <l>“Già suonano i danari,</l>
+          <l>La borsa si prepari,</l>
+          <l>Gioite tutti quanti</l>
+          <l>Di tal felicità”.</l>
+          <l>Ecco che sulle favole</l>
+          <l>Come sogliamo dir, cadde lo zucchero</l>
+          <l>In momento più bello</l>
+          <l>Giungere non potea questa sirena</l>
+          <l>Preveggo già che avrem la casa piena.</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>E credi tu, Don Nibbio mio, che sia</l>
+          <l>Veramente cantante da cartello</l>
+          <l>Questa nostra Madama?</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Anzi da cartellissimo,</l>
+          <l>Se si crede alla fama; bella voce,</l>
+          <l>Gentil figura, espression, maniera:</l>
+          <l>Noi la giudicherem doman da sera.</l>
+        </sp>
+        <sp who="#narciso">
+          <speaker>NARCISO:</speaker>
+          <l>Ma sai che sulla scena</l>
+          <l>Costei pria non apparve; e quale effetto</l>
+          <l>Il venerando aspetto</l>
+          <l>D’un pubblico tremendo,</l>
+          <l>In cor di giovin donna aver potria…</l>
+          <l>Chi indovinar sapria?</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Quanto cortesi, generosi, umani</l>
+          <l>Sieno questi isolani,</l>
+          <l>Tu, ed io lo sappiam: io giocherei</l>
+          <l>Che tra il suon degli applausi, i lieti evviva,</l>
+          <l>E il frequente dibattito di mani,</l>
+          <l>La novella venuta</l>
+          <l>Da tutti spettator fia ricevuta.</l>
+          <l>Ma il vascello qui giunge… E già si sente</l>
+          <l>L’ognor crescente mormorio dell’onde;</l>
+          <l>Andiamla ad incontrar fino alle sponde.</l>
+          <l>(Partono).</l>
+        </sp>
+        <stage>DON NIBBIOQuanto cortesi, generosi, umaniSieno questi isolani,Tu, ed io lo sappiam: io giochereiChe tra il suon degli applausi, i lieti evviva,E il frequente dibattito di mani,La novella venutaDa tutti spettator fia ricevuta.Ma il vascello qui giunge… E già si senteL’ognor crescente mormorio dell’onde;Andiamla ad incontrar fino alle sponde.(Partono).</stage>
+        <sp who="#scena seconda">
+          <speaker>SCENA SECONDA:</speaker>
+          <l>Entrata di Albergo con veduta di fiume navigabile</l>
+          <l>cc. e Lucinda che giunta alla sponda di quello e</l>
+          <l>accompagnata da viaggiatori, e da popolo entra.</l>
+          <l>CORO DI POPOLO</l>
+          <l>[Musica di Zingarelli]</l>
+          <l>Vieni, gentil donzella,</l>
+          <l>Tanto da noi bramata;</l>
+          <l>Il ciel per te s’abbella,</l>
+          <l>E spira gioja e amor.</l>
+        </sp>
+        <stage>SCENA SECONDAEntrata di Albergo con veduta di fiume navigabilecc. e Lucinda che giunta alla sponda di quello eaccompagnata da viaggiatori, e da popolo entra.CORO DI POPOLO[Musica di Zingarelli]Vieni, gentil donzella,Tanto da noi bramata;Il ciel per te s’abbella,E spira gioja e amor.</stage>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Queste le sponde sono, e questo è il cielo</l>
+          <l>Di mia Patria novella.</l>
+          <l>Quasi timido il piè premer non osa</l>
+          <l>Questa per libertà terra famosa.</l>
+          <l>Nuove dolcezze a nuovi amici in seno</l>
+          <l>Vengo a cercar: voi m’accogliete, il veggo</l>
+          <l>Con sensi di bontà: vostra ora sono;</l>
+          <l>Al mio lieto destro io m’abbandono.</l>
+          <l>[Tutti i versi segnati s’omettono per brevità]</l>
+          <l>“Agitata dall’onde, o da’ marosi,</l>
+          <l>Io non credea di visitarvi mai.</l>
+          <l>Or m’è presago il por, ch’aure di pace</l>
+          <l>Sperar posso tra voi; più non rammento</l>
+          <l>Tutti i perigli che passai; la calma</l>
+          <l>Destar io sento, e un nuovo ardir nell’alma.</l>
+          <l>Tu, suol natio, che ancora</l>
+          <l>Come Patria amerò, deh, mi perdona</l>
+          <l>Gli affetti che dover mi crea nel petto;</l>
+          <l>Per te ancora saprò serbare affetto.</l>
+          <l>Ma l’albergo quest’è dov’ora io deggio</l>
+          <l>Trovar quanto quest’alma ha di più caro,</l>
+          <l>Ove in seno de’ miei sarò felice;</l>
+          <l>Oh come palpitando il cor mel dice”;</l>
+          <l>Di piacer mi balza il cor,</l>
+          <l>Ah bramar di più non so!</l>
+          <l>Qui l’amico e il genitor,</l>
+          <l>Finalmente rivedrò.</l>
+          <l>L’un al sen mi stringerà,</l>
+          <l>L’altro, l’altro che farà,</l>
+          <l>Dio d’amor confido in te,</l>
+          <l>Già tu premj la mia fe!</l>
+          <l>Tutto sorridere. – Mi vedo intorno</l>
+          <l>Più lieto giorno – brillar non può</l>
+          <l>Ah già dimentico – i miei tormenti</l>
+          <l>Quanti contenti – alfin godrò,</l>
+          <l>(Parte e il coro si ripete).</l>
+          <l>Gran sala nell’albergo.</l>
+          <l>SCENA TERZA</l>
+          <l>Don Nibbio, Mongibello, Narciso.</l>
+          <l>DON NIBBIO</l>
+          <l>Ecco l’istante, amico, in cui tu puoi</l>
+          <l>Far conoscere al mondo, e all’Impresario</l>
+          <l>Quanto val la tua musa, e il tuo rimario.</l>
+        </sp>
+        <stage>LUCINDAQueste le sponde sono, e questo è il cieloDi mia Patria novella.Quasi timido il piè premer non osaQuesta per libertà terra famosa.Nuove dolcezze a nuovi amici in senoVengo a cercar: voi m’accogliete, il veggoCon sensi di bontà: vostra ora sono;Al mio lieto destro io m’abbandono.[Tutti i versi segnati s’omettono per brevità]“Agitata dall’onde, o da’ marosi,Io non credea di visitarvi mai.Or m’è presago il por, ch’aure di paceSperar posso tra voi; più non rammentoTutti i perigli che passai; la calmaDestar io sento, e un nuovo ardir nell’alma.Tu, suol natio, che ancoraCome Patria amerò, deh, mi perdonaGli affetti che dover mi crea nel petto;Per te ancora saprò serbare affetto.Ma l’albergo quest’è dov’ora io deggioTrovar quanto quest’alma ha di più caro,Ove in seno de’ miei sarò felice;Oh come palpitando il cor mel dice”;Di piacer mi balza il cor,Ah bramar di più non so!Qui l’amico e il genitor,Finalmente rivedrò.L’un al sen mi stringerà,L’altro, l’altro che farà,Dio d’amor confido in te,Già tu premj la mia fe!Tutto sorridere. – Mi vedo intornoPiù lieto giorno – brillar non puòAh già dimentico – i miei tormentiQuanti contenti – alfin godrò,(Parte e il coro si ripete).Gran sala nell’albergo.SCENA TERZADon Nibbio, Mongibello, Narciso.DON NIBBIOEcco l’istante, amico, in cui tu puoiFar conoscere al mondo, e all’ImpresarioQuanto val la tua musa, e il tuo rimario.</stage>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Se v’è… m’intendi, un pocolin di salsa,</l>
+          <l>Saprò fare perfin moneta falsa.</l>
+          <l>(Fa colle dita il moto di chi conta il danaro).</l>
+          <l>DON NIBBIO</l>
+          <l>Dunque ascoltami attento,</l>
+          <l>Caro poeta mio; Narciso bello,</l>
+          <l>Ascoltami anche tu.</l>
+        </sp>
+        <stage>MONGIBELLOSe v’è… m’intendi, un pocolin di salsa,Saprò fare perfin moneta falsa.(Fa colle dita il moto di chi conta il danaro).DON NIBBIODunque ascoltami attento,Caro poeta mio; Narciso bello,Ascoltami anche tu.</stage>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Parla, Non ti sento.</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Sapete quanto a core</l>
+          <l>Mi stia l’onor di tutta la Nazione,</l>
+          <l>E della professione, e quanto bramo</l>
+          <l>Di divertir un pubblico cortese.</l>
+          <l>Perciò non guardo a spese</l>
+          <l>A fatiche, a sudor, come vedete.</l>
+        </sp>
+        <sp who="#narciso">
+          <speaker>NARCISO:</speaker>
+          <l>Tutto questo si sa:</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Ma che chiedete?</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Che tu mi faccia subito</l>
+          <l>Col tuo solito foco mongibellico,</l>
+          <l>Una specie di dramma, una cantata,</l>
+          <l>Un’azion teatrale od un quid simile,</l>
+          <l>Per la piccola nostra compagnia,</l>
+          <l>Ove con qualche effetto s’introduca</l>
+          <l>Questa nostra novella virtuosa,</l>
+          <l>E si vegga da ognun tutto il suo merto.</l>
+        </sp>
+        <sp who="#narciso">
+          <speaker>NARCISO:</speaker>
+          <l>Tutto questo può farsi in un concerto.</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Non Signor, né concerti</l>
+          <l>Non v’è alcun interesse: udite un poco</l>
+          <l>Quello ch’io vi propongo. Ogni cantante</l>
+          <l>A me que’ pezzi dia che cantar vuole:</l>
+          <l>Io con altre parole</l>
+          <l>Introdurolli poscia a mio capriccio</l>
+          <l>Nel dramma che farò.</l>
+        </sp>
+        <sp who="#narciso">
+          <speaker>NARCISO:</speaker>
+          <l>Sarà un pasticcio.</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Ebben, sarà un pasticcio;</l>
+          <l>Ma di tanto piacevoli ingredienti,</l>
+          <l>Che gustato sarà da tutti i denti;</l>
+          <l>E che noi chiameremo</l>
+          <l>Con frase teatrale</l>
+          <l>Tecnicamente “L’Ape Musicale”</l>
+          <l>Come ape ingegnosa</l>
+          <l>Su lucidi albori</l>
+          <l>Da teneri fiori</l>
+          <l>Sa il mele cavar.</l>
+          <l>Così da un tesoro</l>
+          <l>Di musiche note</l>
+          <l>Coll’arte si puote</l>
+          <l>Un dramma formar.</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Va là poeta mio,</l>
+          <l>Che se’ il grand’uom; e questo tuo pensiero</l>
+          <l>Mi sorprende e mi piace; Se va bene</l>
+          <l>Conoscerai chi son: zitto… mi pare</l>
+          <l>Udire solfeggiar la prima donna.</l>
+          <l>(S’ode cantar dentro le scene).</l>
+          <l>NARCISO</l>
+          <l>Non solfeggia ma canta.</l>
+        </sp>
+        <stage>DON NIBBIOVa là poeta mio,Che se’ il grand’uom; e questo tuo pensieroMi sorprende e mi piace; Se va beneConoscerai chi son: zitto… mi pareUdire solfeggiar la prima donna.(S’ode cantar dentro le scene).NARCISONon solfeggia ma canta.</stage>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Ha una voce che incanta.</l>
+        </sp>
+        <stage>Lucinda solfeggia dentro le scene(Intanto gli altri fanno degli atti d’ammirazione).DON NIBBIOOh che voce, che metodo, che grazia!Andiamo subito amici – Una visita a farle,Ed a saper da leiQuel ch’ella cantar vuol nel nostro dramma;</stage>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Oh come il canto suo l’estro m’infiamma!</l>
+          <l>(Partono).</l>
+          <l>SCENA QUARTA</l>
+          <l>Camera con clavicembalo e Don Canario</l>
+          <l>seduto al clavicembalo [Di Cimarosa.] indi Lucinda poi</l>
+          <l>Mongibello e Don Narciso indi Don Nibbio.</l>
+          <l>LUCINDA</l>
+          <l>Strano mi par che l’Impresario ancora</l>
+          <l>A vedermi non venga: io saper bramo</l>
+          <l>Quando comincierem, in qual carattere</l>
+          <l>Si vuol ch’io comparisca, e di chi fia</l>
+          <l>La musica del Dramma:</l>
+        </sp>
+        <stage>MONGIBELLOOh come il canto suo l’estro m’infiamma!(Partono).SCENA QUARTACamera con clavicembalo e Don Canarioseduto al clavicembalo [Di Cimarosa.] indi Lucinda poiMongibello e Don Narciso indi Don Nibbio.LUCINDAStrano mi par che l’Impresario ancoraA vedermi non venga: io saper bramoQuando comincierem, in qual carattereSi vuol ch’io comparisca, e di chi fiaLa musica del Dramma:</stage>
+        <sp who="#don narciso">
+          <speaker>DON NARCISO:</speaker>
+          <l>Oh del nostro Rossini,</l>
+          <l>L’idolo di quest’Isola, e del Mondo,</l>
+          <l>Il maestro di moda,</l>
+          <l>Che quanto il gran Mozart s’ammira, e loda.</l>
+        </sp>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Se fan la Semiramide</l>
+          <l>Io ci avrei proprio gusto; v’è un duetto</l>
+          <l>Che per me sembra fatto: eccolo: udite,</l>
+          <l>Ed il vostro parer anche voi dite.</l>
+          <l>(Canta la prima parte del duetto, al suono</l>
+          <l>solo del Clavicembalo).</l>
+          <l>DON CANARIO</l>
+          <l>Veramente è bellissimo!</l>
+          <l>Ma chi lo canterà? veder conviene se si può trasportar.</l>
+        </sp>
+        <stage>LUCINDASe fan la SemiramideIo ci avrei proprio gusto; v’è un duettoChe per me sembra fatto: eccolo: udite,Ed il vostro parer anche voi dite.(Canta la prima parte del duetto, al suonosolo del Clavicembalo).DON CANARIOVeramente è bellissimo!Ma chi lo canterà? veder conviene se si può trasportar.</stage>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Qualcuno viene.</l>
+          <l>(Entra Nibbio, Mongibello e coro).</l>
+          <l>DON NIBBIO</l>
+          <l>Senza senza cerimonie</l>
+          <l>Alla buona vengo avanti,</l>
+          <l>Riverisco tutti quanti;</l>
+          <l>Pien d’affetto do un abbraccio</l>
+          <l>Al Maestro amico mio.</l>
+          <l>Che veder tanto desio;</l>
+          <l>Dal dover non m’allontano;</l>
+          <l>Chiedo a lei la bella mano.</l>
+          <l>Parlo a lei, sì parlo a lei</l>
+          <l>Ch’ha quegli occhi così bei,</l>
+          <l>Mongibello, Don Narciso,</l>
+          <l>Che vi par di quel bel viso?</l>
+          <l>Che respiri via lasciate,</l>
+          <l>Oh il polmon mi creperà.</l>
+          <l>(Qui Mongibello, Narciso, e Canario gli si fanno</l>
+          <l>intorno, mostrando voler parlargli della Lucinda).</l>
+          <l>CORO</l>
+          <l>(risponde)</l>
+          <l>Prendi pure prendi fiato,</l>
+          <l>Seguitar poi si potrà.</l>
+        </sp>
+        <stage>LUCINDAQualcuno viene.(Entra Nibbio, Mongibello e coro).DON NIBBIOSenza senza cerimonieAlla buona vengo avanti,Riverisco tutti quanti;Pien d’affetto do un abbraccioAl Maestro amico mio.Che veder tanto desio;Dal dover non m’allontano;Chiedo a lei la bella mano.Parlo a lei, sì parlo a leiCh’ha quegli occhi così bei,Mongibello, Don Narciso,Che vi par di quel bel viso?Che respiri via lasciate,Oh il polmon mi creperà.(Qui Mongibello, Narciso, e Canario gli si fannointorno, mostrando voler parlargli della Lucinda).CORO(risponde)Prendi pure prendi fiato,Seguitar poi si potrà.</stage>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Ora, padroni miei</l>
+          <l>Non c’è tempo da perdere; in sei giorni</l>
+          <l>Promisi andar in scena</l>
+          <l>E in sei giorni v’andrò!</l>
+        </sp>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Non volete ch’io rida?</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Madamina, ci ascolti, e poi decida.</l>
+          <l>Sappia un po’ per sua regola</l>
+          <l>Che non havvi in quest’Isola un spartito,</l>
+          <l>Che convenga alla nostra compagnia;</l>
+          <l>Ond’egli che desia</l>
+          <l>Di soddisfar a un pubblico sì buono</l>
+          <l>Vuol coll’ajuto mio,</l>
+          <l>(Poeta, e servo suo, per ubbidirla,)</l>
+          <l>Che vantaggiosamente ella debuti,</l>
+          <l>Onde un dramma io farò…</l>
+        </sp>
+        <stage>MONGIBELLOMadamina, ci ascolti, e poi decida.Sappia un po’ per sua regolaChe non havvi in quest’Isola un spartito,Che convenga alla nostra compagnia;Ond’egli che desiaDi soddisfar a un pubblico sì buonoVuol coll’ajuto mio,(Poeta, e servo suo, per ubbidirla,)Che vantaggiosamente ella debuti,Onde un dramma io farò…</stage>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Ma come posso</l>
+          <l>La mia parte imparar in sei dì soli?</l>
+        </sp>
+        <sp who="#narciso">
+          <speaker>NARCISO:</speaker>
+          <l>Ei sul Pegaso suo farà che voli,</l>
+          <l>Gli dia sol le parole di que’ pezzi</l>
+          <l>Che destina cantar, e fia sua cura</l>
+          <l>Introdurli nel dramma che far vuole.</l>
+        </sp>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Ma sappiate, signori,</l>
+          <l>Ch’io non canto che il serio; e i pezzi miei</l>
+          <l>Son tutti del gran genere.</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Ella ha buon gusto.</l>
+          <l>E tutto quel che sceglie, piacerà</l>
+          <l>A tutta la città.</l>
+        </sp>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Ascoltatemi dunque; già che tanto</l>
+          <l>S’ama il Rossini, io canterò il duetto</l>
+          <l>Della sua Semiramide.</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Vorrebbe</l>
+          <l>Farmi udire il motivo?</l>
+        </sp>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Ben volontieri, e col recitativo.</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Piano; un pensier mi passa per la mente,</l>
+          <l>Che le dirò con sua permissione;</l>
+          <l>Vorrebbe ella pruovarlo coll’azione?</l>
+        </sp>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Signor sì; ma chi canta l’altra parte?</l>
+        </sp>
+        <sp who="#narciso">
+          <speaker>NARCISO:</speaker>
+          <l>Avrò io questo onor, sella è contenta.</l>
+        </sp>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Veggiam: qua’ lo spartito.</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Avrò un manto per lei, e per te un casco:</l>
+          <l>(a Narciso).</l>
+          <l>NARCISO</l>
+          <l>Se vestiti non siam faremo fiasco.</l>
+        </sp>
+        <stage>DON NIBBIOAvrò un manto per lei, e per te un casco:(a Narciso).NARCISOSe vestiti non siam faremo fiasco.</stage>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Ebben; la Guardaroba del teatro</l>
+          <l>È appunto in questo albergo,</l>
+          <l>I passi miei seguite.</l>
+        </sp>
+        <sp who="#narciso">
+          <speaker>NARCISO:</speaker>
+          <l>Son contento.</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Tu puoi cantar per tuo divertimento.</l>
+        </sp>
+        <sp who="#don canario">
+          <speaker>DON CANARIO:</speaker>
+          <l>Io non canto italiano.</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Canta in inglese, in turco, o in indiano.</l>
+          <l>(Parte)</l>
+          <l>E per pompa del giorno</l>
+          <l>Suoni il nostro Trombon fin ch’io ritorno.</l>
+        </sp>
+        <stage>DON NIBBIOCanta in inglese, in turco, o in indiano.(Parte)E per pompa del giornoSuoni il nostro Trombon fin ch’io ritorno.</stage>
+        <sp who="#scena quinta">
+          <speaker>SCENA QUINTA:</speaker>
+          <l>Don Canario seduto al cembalo canta</l>
+          <l>un’aria ad arbitrio, dopo la quale parte.</l>
+          <l>SCENA SESTA</l>
+          <l>Reggia di Semiramide, Nibbio, Mongibello,</l>
+          <l>Lucinda e Narciso in carattere.</l>
+          <l>NARCISO</l>
+          <l>Eccoci: cominciami Assur io sono.</l>
+        </sp>
+        <stage>SCENA QUINTADon Canario seduto al cembalo cantaun’aria ad arbitrio, dopo la quale parte.SCENA SESTAReggia di Semiramide, Nibbio, Mongibello,Lucinda e Narciso in carattere.NARCISOEccoci: cominciami Assur io sono.</stage>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Semiramide voi.</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Degnissima tra noi di regio trono.</l>
+        </sp>
+        <stage>(Qui si canta il recitativo e duetto dellaSemiramide. e poi Lucinda e Narcisopartono).DON NIBBIOQuesto davver è un pezzo da sessanta;Poeta, or tocca a te.</stage>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Ma qual intreccio all’opera dar posso</l>
+          <l>Con un sì picciol numero d’attori?</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Per accrescere il numero</l>
+          <l>Pigliamoci una parte e tu, ed io.</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Tu sai che il mestier mio</l>
+          <l>Di cantante non è, ma di poeta.</l>
+          <l>Ma per farti piacere</l>
+          <l>Posso cantarvi l’aria del Barbiere.</l>
+          <l>(Ecco ridente il Cielo).</l>
+          <l>DON NIBBIO</l>
+          <l>Non mi ricordo di averla udita mai;</l>
+        </sp>
+        <stage>MONGIBELLOTu sai che il mestier mioDi cantante non è, ma di poeta.Ma per farti piacerePosso cantarvi l’aria del Barbiere.(Ecco ridente il Cielo).DON NIBBIONon mi ricordo di averla udita mai;</stage>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Or canterolla e piaceratti assai.</l>
+          <l>(Canta l’aria).</l>
+          <l>DON NIBBIO</l>
+          <l>Bravo davvero; se invece di poeta</l>
+          <l>Ti facevi cantante,</l>
+          <l>Avresti men disturbi, e più contante.</l>
+        </sp>
+        <stage>MONGIBELLOOr canterolla e piaceratti assai.(Canta l’aria).DON NIBBIOBravo davvero; se invece di poetaTi facevi cantante,Avresti men disturbi, e più contante.</stage>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Torna Lucinda, che vorrà?</l>
+        </sp>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Signori,</l>
+          <l>Per darvi un contrassegno</l>
+          <l>Della premura mia, vengo ad offrirvi</l>
+          <l>Di cantar un’altr’aria,</l>
+          <l>Ovver due se volete.</l>
+          <l>Eccovi la mia musica, scegliete.</l>
+          <l>Generali.</l>
+          <l>(Lucinda prende in mano vari pezzi di</l>
+          <l>musica).</l>
+          <l>MONGIBELLO</l>
+          <l>Non piace.</l>
+        </sp>
+        <stage>LUCINDASignori,Per darvi un contrassegnoDella premura mia, vengo ad offrirviDi cantar un’altr’aria,Ovver due se volete.Eccovi la mia musica, scegliete.Generali.(Lucinda prende in mano vari pezzi dimusica).MONGIBELLONon piace.</stage>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Mercadante.</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Da pochi è conosciuto.</l>
+        </sp>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Cimarosa,</l>
+          <l>Anfossi, Pergolesi, Paisiello.</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Son tutti fuor di moda.</l>
+        </sp>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Rossini.</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Eccovi quello</l>
+          <l>Che piace a tutti quanti.</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Per cortesia, Madama ce lo canti.</l>
+        </sp>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Dove sono i Coristi?</l>
+          <l>(I coristi entrano).</l>
+          <l>MONGIBELLO</l>
+          <l>Sono qui.</l>
+        </sp>
+        <stage>LUCINDADove sono i Coristi?(I coristi entrano).MONGIBELLOSono qui.</stage>
+        <sp who="#lucinda">
+          <speaker>LUCINDA:</speaker>
+          <l>Ho le parti cavate, Datele a tutti.</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Presto, incominciate.</l>
+          <l>(Lucinda dà alcuni pezzi di musica a</l>
+          <l>Don Nibbio che li dispensa a’ Coristi.</l>
+          <l>Lucinda canterà qui ad arbitrio un recitativo</l>
+          <l>ed un’aria; finita la quale partirà).</l>
+          <l>DON NIBBIO</l>
+          <l>Spero che questa nostra cantatrice</l>
+          <l>Da tutti gl’intendenti</l>
+          <l>Applaudita sarà.</l>
+        </sp>
+        <stage>DON NIBBIOPresto, incominciate.(Lucinda dà alcuni pezzi di musica aDon Nibbio che li dispensa a’ Coristi.Lucinda canterà qui ad arbitrio un recitativoed un’aria; finita la quale partirà).DON NIBBIOSpero che questa nostra cantatriceDa tutti gl’intendentiApplaudita sarà.</stage>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>La sua maniera</l>
+          <l>È del tutto moderna,</l>
+          <l>E credo è la miglior; poche volate,</l>
+          <l>Una nota tenuta, un bel mordente,</l>
+          <l>Or smorzato, or crescente,</l>
+          <l>Un trillo a tempo, ed una poggiatura,</l>
+          <l>Son tutte cose che ti vanno al core;</l>
+          <l>E gli stridi stuonati son banditi,</l>
+          <l>Gli urli da scimuniti,</l>
+          <l>I trilli da cavalli,</l>
+          <l>Ed i curucucù di tutti i Galli.</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Il vero canto è questo;</l>
+          <l>Ma pochi lo capiscono: or veggiamo,</l>
+          <l>Se v’è qualch’altro pezzo</l>
+          <l>Da cantarsi da noi.</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Vuoi che cantiamo</l>
+          <l>Il leggiadro duetto</l>
+          <l>Del nostro spagnoletto?</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Sì; pruoviamo,</l>
+          <l>E musica e parole.</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Incominciamo.</l>
+          <l>(Duetto di Don Nibbio,</l>
+          <l>e Mongibello ad arbitrio).</l>
+          <l>SCENA SETTIMA</l>
+          <l>I Suddetti e Narciso.</l>
+          <l>NARCISO</l>
+          <l>Amici, allegramente; io vengo adesso</l>
+          <l>Dal teatro dell’opera:</l>
+          <l>E credo d’aver fatto un capo d’opera.</l>
+        </sp>
+        <stage>DON NIBBIOIncominciamo.(Duetto di Don Nibbio,e Mongibello ad arbitrio).SCENA SETTIMAI Suddetti e Narciso.NARCISOAmici, allegramente; io vengo adessoDal teatro dell’opera:E credo d’aver fatto un capo d’opera.</stage>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Che facesti? favella.</l>
+        </sp>
+        <sp who="#narciso">
+          <speaker>NARCISO:</speaker>
+          <l>La nostra prima Donna</l>
+          <l>Veder volle il teatro; ed io le feci</l>
+          <l>Esaminar le scene, gli spartiti,</l>
+          <l>La guardaroba, e scegliere</l>
+          <l>Per finale del Dramma, il bel Rondò</l>
+          <l>Colla gran Scena della Cenerentola.</l>
+          <l>Provar volle i vestiti,</l>
+          <l>Le scene preparar, unir l’orchestra,</l>
+          <l>Ed a momenti ne farà la prova.</l>
+        </sp>
+        <sp who="#mongibello">
+          <speaker>MONGIBELLO:</speaker>
+          <l>Andiamci ancora noi.</l>
+        </sp>
+        <sp who="#don nibbio">
+          <speaker>DON NIBBIO:</speaker>
+          <l>Che bella nuova!</l>
+          <l>(Partono).</l>
+        </sp>
+        <stage>DON NIBBIOChe bella nuova!(Partono).</stage>
+        <sp who="#scena ultima">
+          <speaker>SCENA ULTIMA:</speaker>
+          <l>Sala principesca con trono come nell’ultima</l>
+          <l>scena della Cenerentola, dove Lucinda con</l>
+          <l>cori, e cantanti canterà il recitativo, e il</l>
+          <l>Rondò di quell’opera.</l>
+          <l>E si calerà il Sipario</l>
+          <l>Fine del Dramma.</l>
+        </sp>
+        <stage>SCENA ULTIMASala principesca con trono come nell’ultimascena della Cenerentola, dove Lucinda concori, e cantanti canterà il recitativo, e ilRondò di quell’opera.E si calerà il SiparioFine del Dramma.</stage>
+        <sp who="#f i n e">
+          <speaker>F I N E:</speaker>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2012 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">a clemenza di Tito</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="annio e publio">
+            <persName>ANNIO E PUBLIO:</persName>
+          </person>
+          <person xml:id="publio">
+            <persName>PUBLIO:</persName>
+          </person>
+          <person xml:id="tito">
+            <persName>TITO:</persName>
+          </person>
+          <person xml:id="vitellia, servilia, sesto, annio e publio">
+            <persName>VITELLIA, SERVILIA, SESTO, ANNIO E PUBLIO:</persName>
+          </person>
+          <person xml:id="sesto e servilia">
+            <persName>SESTO E SERVILIA:</persName>
+          </person>
+          <person xml:id="vitellia, servilia, annio e publio">
+            <persName>VITELLIA, SERVILIA, ANNIO E PUBLIO:</persName>
+          </person>
+          <person xml:id="vitellia, servilia e annio">
+            <persName>VITELLIA, SERVILIA E ANNIO:</persName>
+          </person>
+          <person xml:id="sesto">
+            <persName>SESTO:</persName>
+          </person>
+          <person xml:id="servilia e annio">
+            <persName>SERVILIA E ANNIO:</persName>
+          </person>
+          <person xml:id="annio">
+            <persName>ANNIO:</persName>
+          </person>
+          <person xml:id="publio e annio">
+            <persName>PUBLIO E ANNIO:</persName>
+          </person>
+          <person xml:id="annio e sesto">
+            <persName>ANNIO E SESTO:</persName>
+          </person>
+          <person xml:id="vitellia">
+            <persName>VITELLIA:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="servilia, annio, publio">
+            <persName>SERVILIA, ANNIO, PUBLIO:</persName>
+          </person>
+          <person xml:id="vitellia e sesto">
+            <persName>VITELLIA E SESTO:</persName>
+          </person>
+          <person xml:id="tito e publio">
+            <persName>TITO E PUBLIO:</persName>
+          </person>
+          <person xml:id="servilia, annio e publio">
+            <persName>SERVILIA, ANNIO E PUBLIO:</persName>
+          </person>
+          <person xml:id="tutti e coro">
+            <persName>TUTTI E CORO:</persName>
+          </person>
+          <person xml:id="servilia">
+            <persName>SERVILIA:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>TITO</castItem>
+        <castItem>VITELLIA</castItem>
+        <castItem>SERVILIA</castItem>
+        <castItem>SESTO</castItem>
+        <castItem>ANNIO</castItem>
+        <castItem>PUBLIO</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>Luogo: Roma. Epoca: 79 d. C.</stage>
+      <div type="act">
+        <head>Atto primo</head>
+        <div type="scene">
+          <head>[Ouverture]</head>Allegro (do maggiore)Archi, 2 flauti, 2 oboe, 2 clarinetti, 2 fagotti, 2 corni, 2 trombe, timpani.Scena primaAppartamenti di Vitellia.Vitellia, Sesto.Recitativo, continuo <stage>[Ouverture]Allegro (do maggiore)Archi, 2 flauti, 2 oboe, 2 clarinetti, 2 fagotti, 2 corni, 2 trombe, timpani.Scena primaAppartamenti di Vitellia.Vitellia, Sesto.Recitativo, continuo</stage>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Ma che? sempre l’istesso,</l>
+            <l>Sesto, a dirmi verrai? So che sedotto</l>
+            <l>fu Lentulo da te; che i suoi seguaci</l>
+            <l>son pronti già; che il Campidoglio acceso</l>
+            <l>darà moto a un tumulto. Io tutto questo</l>
+            <l>già mille volte udii: la mia vendetta</l>
+            <l>mai non veggo però. S’aspetta forse</l>
+            <l>che Tito a Berenice in faccia mia</l>
+            <l>offra d’amor insano</l>
+            <l>l’usurpato mio trono, e la sua mano?</l>
+            <l>Parla, di’, che s’attende?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Dio!</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Sospiri?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Pensaci meglio, oh cara,</l>
+            <l>pensaci meglio. Ah, non togliamo in Tito</l>
+            <l>la sua delizia al mondo, il padre a Roma,</l>
+            <l>l’amico a noi.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Dunque a vantarmi in faccia</l>
+            <l>venisti il mio nemico? e più non pensi</l>
+            <l>che questo eroe clemente un soglio usurpò</l>
+            <l>dal suo tolto al mio padre?</l>
+            <l>Che mi ingannò, che mi sedusse, (e questo</l>
+            <l>è il suo fallo maggior) quasi ad amarlo?</l>
+            <l>E poi, perfido! e poi di nuovo al Tebro</l>
+            <l>richiamar Berenice! Una rivale</l>
+            <l>avesse scelta almeno</l>
+            <l>degna di me fra le beltà di Roma:</l>
+            <l>ma una barbara, Sesto,</l>
+            <l>un’esule antepormi, una regina!</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Ah, principessa,</l>
+            <l>tu sei gelosa.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Io!</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Sì.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Gelosa io sono,</l>
+            <l>se non soffro un disprezzo?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Eppur…</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Eppur</l>
+            <l>non hai cor d’acquistarmi.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Io son…</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Tu sei</l>
+            <l>sciolto d’ogni promessa. A me non manca</l>
+            <l>più degno esecutor dell’odio mio.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Sentimi!</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Intesi assai.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Fermati!</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Addio.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Ah, Vitellia, ah, mio nume,</l>
+            <l>non partir! Dove vai?</l>
+            <l>Perdonami, ti credo, io m’ingannai.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Prima che il sol tramonti,</l>
+            <l>estinto io vo’ l’indegno.</l>
+            <l>Sai ch’egli usurpa un regno</l>
+            <l>che in sorte il ciel mi diè.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Già il tuo furor m’accende.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Ebben, che più s’attende?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Un dolce sguardo almeno</l>
+            <l>sia premio alla mia fé!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>VITELLIA E SESTO</head>Fan mille affetti insiemebattaglia in me spietata.Un’alma laceratapiù della mia non v’è.Scena secondaAnnio, detti.Recitativo, continuo<sp who="#vitellia e sesto">
+            <speaker>VITELLIA E SESTO:</speaker>
+            <l>Fan mille affetti insieme</l>
+            <l>battaglia in me spietata.</l>
+            <l>Un’alma lacerata</l>
+            <l>più della mia non v’è.</l>
+            <l>Scena seconda</l>
+            <l>Annio, detti.</l>
+            <l>Recitativo, continuo</l>
+          </sp>
+          <stage>VITELLIA E SESTOFan mille affetti insiemebattaglia in me spietata.Un’alma laceratapiù della mia non v’è.Scena secondaAnnio, detti.Recitativo, continuo</stage>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Amico, il passo affretta,</l>
+            <l>cesare a sé ti chiama.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Ah, non perdete</l>
+            <l>questi brevi momenti. A Berenice</l>
+            <l>Tito gli usurpa.</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Ingiustamente oltraggi,</l>
+            <l>Vitellia, il nostro eroe: Tito ha l’impero</l>
+            <l>e del mondo, e di sé. Già per suo cenno</l>
+            <l>Berenice partì.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Come?</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Che dici?</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Voi stupite a ragion. Roma ne piange,</l>
+            <l>di maraviglia, e di piacer. Io stesso</l>
+            <l>quasi no ‘l credo: ed io</l>
+            <l>fui presente, o Vitellia, al grande addio.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>(Oh speranze!) Sesto, sospendi</l>
+            <l>d’eseguire i miei cenni. Il colpo ancora</l>
+            <l>non è maturo.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>E tu non vuoi ch’io vegga!…</l>
+            <l>ch’io mi lagni, oh crudele!…</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Or che vedesti?</l>
+            <l>Di che ti puoi lagnar?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Di nulla! (Oh dio!</l>
+            <l>chi provò mai tormento eguale al mio!)</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>VITELLIA</head>Deh, se piacer mi vuoi,lascia i sospetti tuoi;non mi stancar con questomolesto dubitar.Chi ciecamente crede,impegna a serbar fede;chi sempre inganni aspetta,alletta ad ingannar.(parte)Scena terzaAnnio, Sesto.Recitativo, continuo<sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Deh, se piacer mi vuoi,</l>
+            <l>lascia i sospetti tuoi;</l>
+            <l>non mi stancar con questo</l>
+            <l>molesto dubitar.</l>
+            <l>Chi ciecamente crede,</l>
+            <l>impegna a serbar fede;</l>
+            <l>chi sempre inganni aspetta,</l>
+            <l>alletta ad ingannar.</l>
+            <l>(parte)</l>
+            <l>Scena terza</l>
+            <l>Annio, Sesto.</l>
+            <l>Recitativo, continuo</l>
+          </sp>
+          <stage>VITELLIADeh, se piacer mi vuoi,lascia i sospetti tuoi;non mi stancar con questomolesto dubitar.Chi ciecamente crede,impegna a serbar fede;chi sempre inganni aspetta,alletta ad ingannar.(parte)Scena terzaAnnio, Sesto.Recitativo, continuo</stage>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Amico, ecco il momento</l>
+            <l>di rendermi felice. All’amor mio</l>
+            <l>Servilia promettesti. Altro non manca</l>
+            <l>che d’augusto l’assenso. Ora da lui</l>
+            <l>impetrarlo potresti.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Ogni tua brama,</l>
+            <l>Annio, m’è legge. Impaziente anch’io</l>
+            <l>questo nuovo legame, Annio, desio.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ANNIO E SESTO</head>Deh, prendi un dolce amplesso,amico mio fedel;e ognor per me lo stessoti serbi amico il ciel.(partono)Scena quartaParte del foro romano magnificamente adornato d’archi, obelischi, e trofei; in faccia aspetto esteriore del Campidoglio, e magnifica strada per cui vi si ascende.Coro, Publio, Annio, Tito, Sesto.<sp who="#annio e sesto">
+            <speaker>ANNIO E SESTO:</speaker>
+            <l>Deh, prendi un dolce amplesso,</l>
+            <l>amico mio fedel;</l>
+            <l>e ognor per me lo stesso</l>
+            <l>ti serbi amico il ciel.</l>
+            <l>(partono)</l>
+            <l>Scena quarta</l>
+            <l>Parte del foro romano magnificamente adornato d’archi, obelischi, e trofei; in faccia aspetto esteriore del Campidoglio, e magnifica strada per cui vi si ascende.</l>
+            <l>Coro, Publio, Annio, Tito, Sesto.</l>
+          </sp>
+          <stage>ANNIO E SESTODeh, prendi un dolce amplesso,amico mio fedel;e ognor per me lo stessoti serbi amico il ciel.(partono)Scena quartaParte del foro romano magnificamente adornato d’archi, obelischi, e trofei; in faccia aspetto esteriore del Campidoglio, e magnifica strada per cui vi si ascende.Coro, Publio, Annio, Tito, Sesto.</stage>
+          <stage>[N. 4 – Marcia]Maestoso (mi bemolle maggiore)Archi, 2 flauti, 2 oboe, 2 clarinetti, 2 fagotti, 2 corni, 2 trombe, timpani.Publio, Senatori romani, e i Legati delle province soggette, destinati a presentare al senato gli annui imposti tributi. Tito, preceduto da Littori, seguìto da Pretoriani, e circondato da numeroso Popolo, scende dal Campidoglio.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Serbate, oh dèi custodi</l>
+            <l>della romana sorte,</l>
+            <l>in Tito il giusto, il forte,</l>
+            <l>l’onor di nostra età.</l>
+            <l>Nel fine del coro suddetto, Annio e Sesto da diverse parti.</l>
+            <l>Recitativo, continuo</l>
+          </sp>
+          <stage>COROSerbate, oh dèi custodidella romana sorte,in Tito il giusto, il forte,l’onor di nostra età.Nel fine del coro suddetto, Annio e Sesto da diverse parti.Recitativo, continuo</stage>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>(a Tito)</l>
+            <l>Te «della patria il padre»</l>
+            <l>oggi appella il senato: e mai più giusto</l>
+            <l>non fu ne’ suoi decreti, oh invitto augusto.</l>
+          </sp>
+          <stage>PUBLIO(a Tito)Te «della patria il padre»oggi appella il senato: e mai più giustonon fu ne’ suoi decreti, oh invitto augusto.</stage>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Eccelso tempio</l>
+            <l>ti destina il senato; e là si vuole,</l>
+            <l>che fra divini onori</l>
+            <l>anche il nume di Tito il Tebro adori.</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Quei tesori, che vedi,</l>
+            <l>all’opra consacriam. Tito non sdegni</l>
+            <l>questi del nostro amor pubblici segni.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Romani, udite: oltre l’usato</l>
+            <l>terribile il Vesuvio ardenti fiumi</l>
+            <l>dalle fauci eruttò; scosse le rupi,</l>
+            <l>riempié di ruine</l>
+            <l>i campi intorno e le città vicine.</l>
+            <l>Le desolate genti</l>
+            <l>fuggendo van; ma la miseria opprime</l>
+            <l>quei che al foco avanzar. Serva quell’oro</l>
+            <l>di tanti afflitti a riparar lo scempio.</l>
+            <l>Questo, o romani, è fabbricarmi il tempio.</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Oh, vero eroe!</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Quanto di te minori</l>
+            <l>tutti i premi son mai tutte le lodi!</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Basta, basta, oh miei fidi.</l>
+            <l>Sesto a me s’avvicini; Annio non parta;</l>
+            <l>ogn’altro s’allontani.</l>
+            <l>(si ritirano tutti fuori dell’atrio, e vi rimangono Tito, Sesto ed Annio)</l>
+            <l>N. 5 – Coro, ripresa</l>
+          </sp>
+          <stage>TITOBasta, basta, oh miei fidi.Sesto a me s’avvicini; Annio non parta;ogn’altro s’allontani.(si ritirano tutti fuori dell’atrio, e vi rimangono Tito, Sesto ed Annio)N. 5 – Coro, ripresa</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Serbate, oh dèi custodi</l>
+            <l>della romana sorte,</l>
+            <l>in Tito il giusto, il forte,</l>
+            <l>l’onor di nostra età.</l>
+            <l>N. 4 – Marcia, ripresa</l>
+            <l>Recitativo, continuo</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>(Adesso, o Sesto, parla per me.)</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Come, signor, potesti</l>
+            <l>la tua bella regina?…</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Ah, Sesto amico,</l>
+            <l>che terribil momento! Io non credei…</l>
+            <l>basta; ho vinto; partì. Tolgasi adesso</l>
+            <l>a Roma ogni sospetto</l>
+            <l>di vederla mia sposa. Una sua figlia</l>
+            <l>vuol veder sul mio soglio,</l>
+            <l>e appagarla convien. Giacché l’amore</l>
+            <l>scelse invano i miei lacci, io vo’, che almeno</l>
+            <l>l’amicizia li scelga. Al tuo s’unisca,</l>
+            <l>Sesto, il cesareo sangue. Oggi mia sposa</l>
+            <l>sarà la tua germana.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Servilia!</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Appunto.</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>(Oh, me infelice!)</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(Oh dèi!</l>
+            <l>Annio è perduto.)</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Udisti?</l>
+            <l>che dici? non rispondi?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Tito!…</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Augusto, conosco</l>
+            <l>di Sesto il cor. Ma tu consiglio</l>
+            <l>da lui prender non déi. Come potresti</l>
+            <l>sposa elegger più degna</l>
+            <l>dell’impero, e di te? Virtù, bellezza,</l>
+            <l>tutto è in Servilia. Io le conobbi in volto</l>
+            <l>ch’era nata a regnar. De’ miei presagi</l>
+            <l>l’adempimento è questo.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(Annio parla così? Sogno, o son desto!)</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Ebbene, recane a lei,</l>
+            <l>Annio, tu la novella; e tu mi segui,</l>
+            <l>amato Sesto; e queste</l>
+            <l>tue dubbiezze deponi. Avrai tal parte</l>
+            <l>tu ancor nel soglio, e tanto</l>
+            <l>t’innalzerò, che resterà ben poco</l>
+            <l>dello spazio infinito,</l>
+            <l>che frapposer gli dèi fra Sesto, e Tito.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Questo è troppo, oh signor. Modera almeno,</l>
+            <l>se ingrati non ci vuoi,</l>
+            <l>modera, augusto, i benefici tuoi.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Ma che? (Se mi negate</l>
+            <l>che benefico io sia, che mi lasciate?)</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>[N. 6 – Aria]</head>Andante (sol maggiore)Archi, 2 flauti, 2 fagotti, 2 corni.Del più sublime sogliol’unico frutto è questo:tutto è tormento il resto,e tutto è servitù.Che avrei, se ancor perdessile sole ore felicich’ho nel giovar gli oppressi,nel sollevar gli amici,nel dispensar tesorial merto, e alla virtù?(parte con Sesto)Scena quintaAnnio, Servilia.Recitativo, continuo <stage>[N. 6 – Aria]Andante (sol maggiore)Archi, 2 flauti, 2 fagotti, 2 corni.Del più sublime sogliol’unico frutto è questo:tutto è tormento il resto,e tutto è servitù.Che avrei, se ancor perdessile sole ore felicich’ho nel giovar gli oppressi,nel sollevar gli amici,nel dispensar tesorial merto, e alla virtù?(parte con Sesto)Scena quintaAnnio, Servilia.Recitativo, continuo</stage>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Non ci pentiam. D’un generoso amante</l>
+            <l>era questo il dover. Mio cor, deponi</l>
+            <l>le tenerezze antiche. È tua sovrana</l>
+            <l>chi fu l’idolo tuo. Cambiar conviene</l>
+            <l>in rispetto l’amore. Eccola. Oh dèi!</l>
+            <l>Mai non parve sì bella agli occhi miei.</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Mio ben…</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Taci, Servilia. Ora è delitto</l>
+            <l>il chiamarmi così.</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Perché?</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Ti scelse</l>
+            <l>cesare (che martir!) per sua consorte.</l>
+            <l>A te (morir mi sento), a te m’impose</l>
+            <l>di recarne l’avviso (oh pena!), ed io…</l>
+            <l>io fui… (parlar non posso)… augusta, addio!</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Come! fermati. Io sposa</l>
+            <l>di cesare? E perché?</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Perché non trova</l>
+            <l>beltà, virtù che sia</l>
+            <l>più degna d’un impero, anima… oh stelle!</l>
+            <l>Che dirò? Lascia, augusta,</l>
+            <l>deh lasciami partir.</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Così confusa</l>
+            <l>abbandonarmi vuoi? Spiegati; dimmi:</l>
+            <l>come fu? per qual via?…</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Mi perdo s’io non parto, anima mia.</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Ah, tu fosti il primo oggetto,</l>
+            <l>che finor fedel amai;</l>
+            <l>e tu l’ultimo sarai</l>
+            <l>ch’abbia nido in questo cor.</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Cari accenti del mio bene.</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Oh mia dolce, cara speme.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>SERVILIA E ANNIO</head>Più che ascolto i sensi tuoi,in me cresce più l’ardor.Quando un’alma è all’altra unita,qual piacere un cor risente!Ah, si tronchi dalla vitatutto quel che non è amor.(partono)Scena sestaRitiro delizioso nel soggiorno imperiale sul colle Palatino.Tito, Publio.Recitativo, continuo<sp who="#servilia e annio">
+            <speaker>SERVILIA E ANNIO:</speaker>
+            <l>Più che ascolto i sensi tuoi,</l>
+            <l>in me cresce più l’ardor.</l>
+            <l>Quando un’alma è all’altra unita,</l>
+            <l>qual piacere un cor risente!</l>
+            <l>Ah, si tronchi dalla vita</l>
+            <l>tutto quel che non è amor.</l>
+            <l>(partono)</l>
+            <l>Scena sesta</l>
+            <l>Ritiro delizioso nel soggiorno imperiale sul colle Palatino.</l>
+            <l>Tito, Publio.</l>
+            <l>Recitativo, continuo</l>
+          </sp>
+          <stage>SERVILIA E ANNIOPiù che ascolto i sensi tuoi,in me cresce più l’ardor.Quando un’alma è all’altra unita,qual piacere un cor risente!Ah, si tronchi dalla vitatutto quel che non è amor.(partono)Scena sestaRitiro delizioso nel soggiorno imperiale sul colle Palatino.Tito, Publio.Recitativo, continuo</stage>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Che mi rechi in quel foglio?</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>I nomi ei chiude</l>
+            <l>de’ rei che osar con temerari accenti</l>
+            <l>de’ cesari già spenti</l>
+            <l>la memoria oltraggiar.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Barbara inchiesta,</l>
+            <l>che agli estinti non giova, e somministra</l>
+            <l>mille strade alla frode</l>
+            <l>d’insidiar gl’innocenti!</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Ma v’è, signor, chi lacerate ardisce</l>
+            <l>anche il tuo nome.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>E che perciò? se ‘l mosse</l>
+            <l>leggerezza; no ‘l curo;</l>
+            <l>se follia, lo compiango;</l>
+            <l>se ragion, gli son grato; e se in lui sono</l>
+            <l>impeti di malizia, io gli perdono.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>PUBLIO</head>Almen…Scena settimaTito, Publio, Servilia.<sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Almen…</l>
+            <l>Scena settima</l>
+            <l>Tito, Publio, Servilia.</l>
+          </sp>
+          <stage>PUBLIOAlmen…Scena settimaTito, Publio, Servilia.</stage>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Di Tito al piè…</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Servilia! Augusta!</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Ah! signor, sì gran nome</l>
+            <l>non darmi ancora. Odimi prima. Io deggio</l>
+            <l>palesarti un arcan.</l>
+            <l>(Publio si ritira)</l>
+          </sp>
+          <stage>SERVILIAAh! signor, sì gran nomenon darmi ancora. Odimi prima. Io deggiopalesarti un arcan.(Publio si ritira)</stage>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Parla…</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Il core,</l>
+            <l>signor, non è più mio. Già da gran tempo</l>
+            <l>Annio me lo rapì. Valor che basti,</l>
+            <l>non ho per obliarlo. Anche dal trono</l>
+            <l>il solito sentiero</l>
+            <l>farebbe a mio dispetto il mio pensiero.</l>
+            <l>So che oppormi è delitto</l>
+            <l>d’un cesare al voler; ma tutto almeno</l>
+            <l>sia noto al mio sovrano:</l>
+            <l>poi, se mi vuoi sua sposa, ecco la mano.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Grazie, o numi dei ciel! Pur si ritrova</l>
+            <l>chi s’avventuri a dispiacer col vero.</l>
+            <l>Alla grandezza tua la propria pace</l>
+            <l>Annio pospone! Tu ricusi un trono</l>
+            <l>per essergli fedele! Ed io dovrei</l>
+            <l>turbar fiamme sì belle! Ah, non produce</l>
+            <l>sentimenti sì rei di Tito il core.</l>
+            <l>Sgombra ogni tema. Io voglio</l>
+            <l>stringer nodo sì degno, e n’abbia poi</l>
+            <l>cittadini la patria eguali a voi.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>[N. 8 – Aria]</head>Allegro (re maggiore)Archi, 2 oboe, 2 fagotti, 2 corni.Ah, se fosse intorno al tronoogni cor così sinceronon tormento un vasto impero,ma saria felicità.Non dovrebbero i regnantitollerar sì grave affanno,per distinguer dall’ingannol’insidiata verità.(parte)Scena ottavaServilia, poi Vitellia.Recitativo, continuo <stage>[N. 8 – Aria]Allegro (re maggiore)Archi, 2 oboe, 2 fagotti, 2 corni.Ah, se fosse intorno al tronoogni cor così sinceronon tormento un vasto impero,ma saria felicità.Non dovrebbero i regnantitollerar sì grave affanno,per distinguer dall’ingannol’insidiata verità.(parte)Scena ottavaServilia, poi Vitellia.Recitativo, continuo</stage>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Felice me!</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Posso alla mia sovrana</l>
+            <l>offrir del mio rispetto i primi omaggi?</l>
+            <l>Posso adorar quel volto,</l>
+            <l>per cui d’amor ferito,</l>
+            <l>ha perduto il riposo il cor di Tito?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>SERVILIA</head>Non esser meco irata;forse la regia destra è a te serbata.(parte)Scena nonaVitellia, poi Sesto.<sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Non esser meco irata;</l>
+            <l>forse la regia destra è a te serbata.</l>
+            <l>(parte)</l>
+            <l>Scena nona</l>
+            <l>Vitellia, poi Sesto.</l>
+          </sp>
+          <stage>SERVILIANon esser meco irata;forse la regia destra è a te serbata.(parte)Scena nonaVitellia, poi Sesto.</stage>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Ancor mi schernisce?</l>
+            <l>Questo soffrir degg’io</l>
+            <l>vergognoso disprezzo? Ah, con qual fasto</l>
+            <l>qui mi lascia costei! Barbaro Tito!</l>
+            <l>Ti parea dunque poco</l>
+            <l>Berenice antepormi? Io dunque sono</l>
+            <l>l’ultima de’ viventi. Ah, trema ingrato!</l>
+            <l>Trema d’avermi offesa. Oggi il tuo sangue…</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Mia vita.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Ebben, che rechi? Il Campidoglio</l>
+            <l>è acceso? è incenerito?</l>
+            <l>Lentulo dove sta? Tito è punito?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Nulla intrapresi ancor.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Nulla! e sì franco</l>
+            <l>mi torni innanzi?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>È tuo comando</l>
+            <l>il sospendere il colpo.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>E non udisti</l>
+            <l>i miei novelli oltraggi?</l>
+            <l>D’altri stimoli hai d’uopo?</l>
+            <l>Sappi, che Tito amai,</l>
+            <l>che del mio cor l’acquisto</l>
+            <l>ei t’impedì; che se rimane in vita,</l>
+            <l>si può pentir; ch’io ritornar potrei</l>
+            <l>(non mi fido di me) forse ad amarlo.</l>
+            <l>Or va’, se non ti muove</l>
+            <l>desio di gloria, ambizione, amore;</l>
+            <l>se tolleri un rivale,</l>
+            <l>che usurpò, che contrasta,</l>
+            <l>che involar potrà gli affetti miei,</l>
+            <l>degli uomini ‘l più vil dirò che sei.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Quante vie d’assalirmi!</l>
+            <l>Basta, basta non più, già m’inspirasti,</l>
+            <l>Vitellia, il tuo furore. Arder vedrai</l>
+            <l>fra poco il Campidoglio; e quest’acciaro</l>
+            <l>nel sen di Tito…</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Ed or che pensi?</l>
+            <l>Dunque corri; che fai? Perché non parti?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>SESTO</head>Parto; ma tu ben mio,meco ritorna in pace;sarò qual più ti piace,quel che vorrai farò.Guardami, e tutto oblio,e a vendicarti io volo;a questo sguardo soloda me sì penserà.Ah, qual poter, oh dèi!donaste alla beltà.(parte)Scena decimaVitellia, poi Publio ed Annio.Recitativo, continuo<sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Parto; ma tu ben mio,</l>
+            <l>meco ritorna in pace;</l>
+            <l>sarò qual più ti piace,</l>
+            <l>quel che vorrai farò.</l>
+            <l>Guardami, e tutto oblio,</l>
+            <l>e a vendicarti io volo;</l>
+            <l>a questo sguardo solo</l>
+            <l>da me sì penserà.</l>
+            <l>Ah, qual poter, oh dèi!</l>
+            <l>donaste alla beltà.</l>
+            <l>(parte)</l>
+            <l>Scena decima</l>
+            <l>Vitellia, poi Publio ed Annio.</l>
+            <l>Recitativo, continuo</l>
+          </sp>
+          <stage>SESTOParto; ma tu ben mio,meco ritorna in pace;sarò qual più ti piace,quel che vorrai farò.Guardami, e tutto oblio,e a vendicarti io volo;a questo sguardo soloda me sì penserà.Ah, qual poter, oh dèi!donaste alla beltà.(parte)Scena decimaVitellia, poi Publio ed Annio.Recitativo, continuo</stage>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Vedrai, Tito, vedrai, che alfin sì vile</l>
+            <l>questo volto non è. Basta a sedurti</l>
+            <l>gli amici almen, se ad invaghirti è poco.</l>
+            <l>Ti pentirai…</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Tu qui, Vitellia? Ah, corri:</l>
+            <l>va Tito alle tue stanze.</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Vitellia, il passo affretta,</l>
+            <l>cesare di te cerca.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Cesare!</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Ancor no ‘l sai?</l>
+            <l>Sua consorte ti elesse.</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Tu sei la nostra augusta; ed il primo omaggio</l>
+            <l>già da noi ti si rende.</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Ah, principessa, andiam: cesare attende.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Vengo… aspettate… Sesto!…</l>
+            <l>Ahimè!… Sesto!… è partito?…</l>
+            <l>Oh sdegno mio funesto!</l>
+            <l>Oh insano mio furor!</l>
+            <l>Che angustia, che tormento!</l>
+            <l>Io gelo, oh dio! d’orror.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>PUBLIO E ANNIO</head>Oh come un gran contento,come confonde un cor.(partono)Scena undicesimaCampidoglio, come prima.Sesto solo, indi Annio, Servilia, Publio, Vitellia.<sp who="#publio e annio">
+            <speaker>PUBLIO E ANNIO:</speaker>
+            <l>Oh come un gran contento,</l>
+            <l>come confonde un cor.</l>
+            <l>(partono)</l>
+            <l>Scena undicesima</l>
+            <l>Campidoglio, come prima.</l>
+            <l>Sesto solo, indi Annio, Servilia, Publio, Vitellia.</l>
+          </sp>
+          <stage>PUBLIO E ANNIOOh come un gran contento,come confonde un cor.(partono)Scena undicesimaCampidoglio, come prima.Sesto solo, indi Annio, Servilia, Publio, Vitellia.</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Oh dèi, che smania è questa!</l>
+            <l>Che tumulto ho nel cor! Palpito, agghiaccio:</l>
+            <l>m’incammino, m’arresto: ogn’aura, ogn’ombra</l>
+            <l>mi fa tremare. Io non credea, che fosse</l>
+            <l>sì difficile impresa esser malvagio.</l>
+            <l>Ma compirla convien. Almen si vada</l>
+            <l>con valor a perir. Valore! E come</l>
+            <l>può averne un traditor? Sesto infelice,</l>
+            <l>tu traditor! Che orribil nome! Eppure</l>
+            <l>t’affretti a meritarlo. E chi tradisci?</l>
+            <l>Il più grande, il più giusto, il più clemente</l>
+            <l>principe della terra, a cui tu devi</l>
+            <l>quanto puoi, quanto sei. Bella mercede</l>
+            <l>gli rendi in vero! Ei t’innalzò per farti</l>
+            <l>il carnefice suo. M’inghiotta il suolo</l>
+            <l>prima ch’io tal divenga. Ah, non ho core,</l>
+            <l>Vitellia, a secondar gli sdegni tui:</l>
+            <l>morrei prima del colpo in faccia a lui.</l>
+            <l>Si desta nel Campidoglio un incendio che a poco a poco va crescendo.</l>
+            <l>S’impedisca… ma come,</l>
+            <l>arde già il Campidoglio.</l>
+            <l>Un gran tumulto io sento</l>
+            <l>d’armi, e d’armati; ahi! tardo è il pentimento.</l>
+          </sp>
+          <stage>SESTOOh dèi, che smania è questa!Che tumulto ho nel cor! Palpito, agghiaccio:m’incammino, m’arresto: ogn’aura, ogn’ombrami fa tremare. Io non credea, che fossesì difficile impresa esser malvagio.Ma compirla convien. Almen si vadacon valor a perir. Valore! E comepuò averne un traditor? Sesto infelice,tu traditor! Che orribil nome! Eppuret’affretti a meritarlo. E chi tradisci?Il più grande, il più giusto, il più clementeprincipe della terra, a cui tu deviquanto puoi, quanto sei. Bella mercedegli rendi in vero! Ei t’innalzò per fartiil carnefice suo. M’inghiotta il suoloprima ch’io tal divenga. Ah, non ho core,Vitellia, a secondar gli sdegni tui:morrei prima del colpo in faccia a lui.Si desta nel Campidoglio un incendio che a poco a poco va crescendo.S’impedisca… ma come,arde già il Campidoglio.Un gran tumulto io sentod’armi, e d’armati; ahi! tardo è il pentimento.</stage>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Amico, dove vai?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Io vado… lo saprai</l>
+            <l>oh dio, per mio rossor.</l>
+            <l>(ascende frettoloso nel Campidoglio)</l>
+          </sp>
+          <stage>SESTOIo vado… lo sapraioh dio, per mio rossor.(ascende frettoloso nel Campidoglio)</stage>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Io Sesto non intendo…</l>
+            <l>ma qui Servilia viene.</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Ah, che tumulto orrendo!</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Fuggi di qua mio bene.</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Si teme che l’incendio</l>
+            <l>non sia dal caso nato,</l>
+            <l>ma con peggior disegno</l>
+            <l>ad arte suscitato.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>in distanza</l>
+            <l>Ah!…</l>
+          </sp>
+          <stage>COROin distanzaAh!…</stage>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>V’è in Roma una congiura,</l>
+            <l>per Tito ahimè pavento;</l>
+            <l>di questo tradimento</l>
+            <l>chi mai sarà l’autor.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>in distanza</l>
+            <l>Ah!…</l>
+          </sp>
+          <stage>COROin distanzaAh!…</stage>
+        </div>
+        <div type="scene">
+          <head>SERVILIA, ANNIO E PUBLIO</head>Le grida ahimè ch’io sentomi fan gelar d’orror.Scena dodicesimaVitellia entra.Allegro (do minore)Archi, 2 flauti, 2 oboe, 2 clarinetti, 2 fagotti, 2 corni, 2 trombe, timpani.<sp who="#servilia, annio e publio">
+            <speaker>SERVILIA, ANNIO E PUBLIO:</speaker>
+            <l>Le grida ahimè ch’io sento</l>
+            <l>mi fan gelar d’orror.</l>
+            <l>Scena dodicesima</l>
+            <l>Vitellia entra.</l>
+            <l>Allegro (do minore)</l>
+            <l>Archi, 2 flauti, 2 oboe, 2 clarinetti, 2 fagotti, 2 corni, 2 trombe, timpani.</l>
+          </sp>
+          <stage>SERVILIA, ANNIO E PUBLIOLe grida ahimè ch’io sentomi fan gelar d’orror.Scena dodicesimaVitellia entra.Allegro (do minore)Archi, 2 flauti, 2 oboe, 2 clarinetti, 2 fagotti, 2 corni, 2 trombe, timpani.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>in distanza</l>
+            <l>Ah!…</l>
+          </sp>
+          <stage>COROin distanzaAh!…</stage>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Chi per pietade oh dio!</l>
+            <l>m’addita dov’è Sesto?</l>
+            <l>(In odio a me son io</l>
+            <l>ed ho di me terror.)</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>in distanza</l>
+            <l>Ah!… ah!…</l>
+          </sp>
+          <stage>COROin distanzaAh!… ah!…</stage>
+          <sp who="#servilia, annio e publio">
+            <speaker>SERVILIA, ANNIO E PUBLIO:</speaker>
+            <l>Di questo tradimento</l>
+            <l>chi mai sarà l’autor.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>in distanza</l>
+            <l>Ah!… ah!…</l>
+          </sp>
+          <stage>COROin distanzaAh!… ah!…</stage>
+        </div>
+        <div type="scene">
+          <head>VITELLIA, SERVILIA, ANNIO E PUBLIO</head>Le grida ahimè ch’io sentomi fan gelar d’orror.(Sesto scende dal Campidoglio)Scena tredicesimaSesto.<sp who="#vitellia, servilia, annio e publio">
+            <speaker>VITELLIA, SERVILIA, ANNIO E PUBLIO:</speaker>
+            <l>Le grida ahimè ch’io sento</l>
+            <l>mi fan gelar d’orror.</l>
+            <l>(Sesto scende dal Campidoglio)</l>
+            <l>Scena tredicesima</l>
+            <l>Sesto.</l>
+          </sp>
+          <stage>VITELLIA, SERVILIA, ANNIO E PUBLIOLe grida ahimè ch’io sentomi fan gelar d’orror.(Sesto scende dal Campidoglio)Scena tredicesimaSesto.</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(Ah, dove mai m’ascondo?</l>
+            <l>Apriti, oh terra, inghiottimi,</l>
+            <l>e nel tuo sen profondo</l>
+            <l>rinserra un traditor.)</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Sesto!</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Da me che vuoi?</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Quai sguardi vibri intorno?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Mi fa terror il giorno.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Tito?…</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>La nobil alma</l>
+            <l>versò dal sen trafitto.</l>
+          </sp>
+          <sp who="#servilia, annio, publio">
+            <speaker>SERVILIA, ANNIO, PUBLIO:</speaker>
+            <l>Qual destra rea macchiarsi</l>
+            <l>poté d’un tal delitto?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Fu l’uom più scellerato,</l>
+            <l>l’orror della natura,</l>
+            <l>fu…</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Taci forsennato,</l>
+            <l>deh, non ti palesar.</l>
+            <l>Andante (do maggiore)</l>
+            <l>Archi, 2 flauti, 2 oboe, 2 clarinetti, 2 fagotti, 2 corni, 2 trombe, timpani.</l>
+          </sp>
+          <sp who="#vitellia, servilia, sesto, annio e publio">
+            <speaker>VITELLIA, SERVILIA, SESTO, ANNIO E PUBLIO:</speaker>
+            <l>Ah dunque l’astro è spento,</l>
+            <l>di pace apportator.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>TUTTI E CORO</head>Oh nero tradimento,oh giorno di dolor!Atto secondoScena primaRitiro delizioso nel soggiorno imperiale sul colle Palatino.Annio, Sesto.Recitativo, continuo<div type="scene">
+          <head>TUTTI E CORO</head>Oh nero tradimento,oh giorno di dolor!Atto secondoScena primaRitiro delizioso nel soggiorno imperiale sul colle Palatino.Annio, Sesto.Recitativo, continuo<sp who="#tutti e coro">
+            <speaker>TUTTI E CORO:</speaker>
+            <l>Oh nero tradimento,</l>
+            <l>oh giorno di dolor!</l>
+            <l>Atto secondo</l>
+            <l>Scena prima</l>
+            <l>Ritiro delizioso nel soggiorno imperiale sul colle Palatino.</l>
+            <l>Annio, Sesto.</l>
+            <l>Recitativo, continuo</l>
+          </sp>
+          <stage>TUTTI E COROOh nero tradimento,oh giorno di dolor!Atto secondoScena primaRitiro delizioso nel soggiorno imperiale sul colle Palatino.Annio, Sesto.Recitativo, continuo</stage>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Sesto, come tu credi,</l>
+            <l>augusto non perì. Calma il tuo duolo;</l>
+            <l>in questo punto ei torna</l>
+            <l>illeso dal tumulto.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Oh dèi pietosi!</l>
+            <l>oh, caro prence! oh, dolce amico! Ah, lascia</l>
+            <l>che a questo sen… ma non m’inganni?…</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Io merto</l>
+            <l>sì poca fé? Dunque tu stesso a lui</l>
+            <l>corri, e ‘l vedrai.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Ch’io mi presenti a Tito</l>
+            <l>dopo averlo tradito?</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Tu lo tradisti?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Io del tumulto, io sono</l>
+            <l>il primo autor.</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Sesto è infedele!</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Amico,</l>
+            <l>m’ha perduto un istante. Addio. M’involo</l>
+            <l>alla patria per sempre.</l>
+            <l>Ricordati di me. Tito difendi</l>
+            <l>da nuove insidie. Io vo ramingo, afflitto</l>
+            <l>a pianger fra le selve il mio delitto.</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Fermati; oh dèi! pensiamo… incolpan</l>
+            <l>molti di questo incendio il caso; e la congiura</l>
+            <l>non è certa finora…</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Ebben, che vuoi?</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Che tu non parta ancora.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>[N. 13 – Aria]</head>Allegretto (sol maggiore)Archi.Torna di Tito a lato:torna, e l’error passatocon replicate emendaprove di fedeltà.L’acerbo tuo doloreè segno manifesto,che di virtù nel corel’immagine ti sta.(parte)Scena secondaSesto, poi Vitellia.Recitativo, continuo <stage>[N. 13 – Aria]Allegretto (sol maggiore)Archi.Torna di Tito a lato:torna, e l’error passatocon replicate emendaprove di fedeltà.L’acerbo tuo doloreè segno manifesto,che di virtù nel corel’immagine ti sta.(parte)Scena secondaSesto, poi Vitellia.Recitativo, continuo</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Partir deggio, o restar? Io non ho mente</l>
+            <l>per distinguer consigli.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Sesto, fuggi, conserva</l>
+            <l>la tua vita, e ‘l mio onor. Tu sei perduto,</l>
+            <l>se alcun ti scopre, e se scoperto sei,</l>
+            <l>pubblico è il mio segreto.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>SESTO</head>In questo senosepolto resterà. Nessuno il seppe:tacendolo morrò.Scena terzaPublio con Guardie e detti.<sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>In questo seno</l>
+            <l>sepolto resterà. Nessuno il seppe:</l>
+            <l>tacendolo morrò.</l>
+            <l>Scena terza</l>
+            <l>Publio con Guardie e detti.</l>
+          </sp>
+          <stage>SESTOIn questo senosepolto resterà. Nessuno il seppe:tacendolo morrò.Scena terzaPublio con Guardie e detti.</stage>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Sesto!</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Che chiedi?</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>La tua spada.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>E perché?</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Colui, che cinto</l>
+            <l>delle spoglie regali agli occhi tuoi,</l>
+            <l>cadde trafitto al suolo, ed ingannato</l>
+            <l>dall’apparenza tu credesti Tito,</l>
+            <l>era Lentulo; il colpo</l>
+            <l>la vita a lui non tolse, il resto intendi.</l>
+            <l>Vieni.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>(Oh, colpo fatale!)</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(dà la spada)</l>
+            <l>Al fin, tiranna…</l>
+          </sp>
+          <stage>SESTO(dà la spada)Al fin, tiranna…</stage>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Sesto, partir conviene. È già raccolto</l>
+            <l>per udirti il senato; e non poss’io</l>
+            <l>differir di condurti.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>SESTO</head>Ingrata, addio!Scena quartaDetti.<sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Ingrata, addio!</l>
+            <l>Scena quarta</l>
+            <l>Detti.</l>
+          </sp>
+          <stage>SESTOIngrata, addio!Scena quartaDetti.</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Se al volto mai ti senti</l>
+            <l>lieve aura che s’aggiri,</l>
+            <l>gli estremi miei sospiri</l>
+            <l>quell’alito sarà.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>(Per me vien tratto a morte:</l>
+            <l>ah, dove mai m’ascondo!</l>
+            <l>Fra poco noto al mondo</l>
+            <l>il fallo mio sarà.)</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Vieni…</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(a Publio)</l>
+            <l>Ti seguo…</l>
+            <l>(a Vitellia)</l>
+            <l>Addio.</l>
+          </sp>
+          <stage>SESTO(a Publio)Ti seguo…(a Vitellia)Addio.</stage>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>(a Sesto)</l>
+            <l>Senti… mi perdo… oh dio!</l>
+            <l>(a Publio)</l>
+            <l>Che crudeltà!</l>
+          </sp>
+          <stage>VITELLIA(a Sesto)Senti… mi perdo… oh dio!(a Publio)Che crudeltà!</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(a Vitellia, in atto di partire)</l>
+            <l>Rammenta chi t’adora</l>
+            <l>in questo stato ancora.</l>
+            <l>Mercede al mio dolore</l>
+            <l>sia almen la tua pietà.</l>
+          </sp>
+          <stage>SESTO(a Vitellia, in atto di partire)Rammenta chi t’adorain questo stato ancora.Mercede al mio doloresia almen la tua pietà.</stage>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>(Mi lacerano il core</l>
+            <l>rimorso, orror, spavento!</l>
+            <l>Quel che nell’alma io sento</l>
+            <l>di duol morir mi fa.)</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>PUBLIO</head>(L’acerbo amaro pianto,che da’ suoi lumi piove,l’anima mi commuove,ma vana è la pietà!)Publio e Sesto partono con le Guardie, e Vitellia dalla parte opposta.Scena quintaGran sala destinata alle pubbliche udienze. Trono, sedia e tavolino.Tito, Publio, Patrizi, Pretoriani e Popolo.<sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>(L’acerbo amaro pianto,</l>
+            <l>che da’ suoi lumi piove,</l>
+            <l>l’anima mi commuove,</l>
+            <l>ma vana è la pietà!)</l>
+            <l>Publio e Sesto partono con le Guardie, e Vitellia dalla parte opposta.</l>
+            <l>Scena quinta</l>
+            <l>Gran sala destinata alle pubbliche udienze. Trono, sedia e tavolino.</l>
+            <l>Tito, Publio, Patrizi, Pretoriani e Popolo.</l>
+          </sp>
+          <stage>PUBLIO(L’acerbo amaro pianto,che da’ suoi lumi piove,l’anima mi commuove,ma vana è la pietà!)Publio e Sesto partono con le Guardie, e Vitellia dalla parte opposta.Scena quintaGran sala destinata alle pubbliche udienze. Trono, sedia e tavolino.Tito, Publio, Patrizi, Pretoriani e Popolo.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Ah, grazie si rendano</l>
+            <l>al sommo fattor,</l>
+            <l>che in Tito del trono</l>
+            <l>salvò lo splendor.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Ah no, sventurato</l>
+            <l>non sono cotanto,</l>
+            <l>se in Roma il mio fato</l>
+            <l>si trova compianto</l>
+            <l>se voti per Tito</l>
+            <l>si formano ancor.</l>
+            <l>Recitativo, continuo</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>È tutto colà d’intorno alla festiva arena</l>
+            <l>il popolo raccolto; e non s’attende</l>
+            <l>che la presenza tua.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Andremo,</l>
+            <l>Publio, fra poco. Io non avrei riposo,</l>
+            <l>se di Sesto il destino</l>
+            <l>pria non sapessi. Avrà il senato omai</l>
+            <l>le sue discolpe udite; avrà scoperto,</l>
+            <l>vedrai, ch’egli è innocente; e non dovrebbe</l>
+            <l>tardar molto l’avviso. Va’! chiedi</l>
+            <l>che si fa, che si attende? Io voglio tutto</l>
+            <l>saper pria di partir.</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Vado; ma temo</l>
+            <l>di non tornar nunzio felice.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>E puoi</l>
+            <l>creder Sesto infedele? Io dal mio core</l>
+            <l>il suo misuro; e un impossibil parmi</l>
+            <l>ch’egli m’abbia tradito.</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Ma, signor, non han tutti il cor di Tito.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>[N. 16 – Aria]</head>Allegretto (do maggiore)Archi, 2 oboe, 2 corni.Tardi s’avveded’un tradimentochi mai di fedemancar non sa.Un cor verace,pieno d’onore,non è portento,se ogn’altro corecrede incapaced’infedeltà.(parte)Scena sestaTito, poi Annio.Recitativo, continuo <stage>[N. 16 – Aria]Allegretto (do maggiore)Archi, 2 oboe, 2 corni.Tardi s’avveded’un tradimentochi mai di fedemancar non sa.Un cor verace,pieno d’onore,non è portento,se ogn’altro corecrede incapaced’infedeltà.(parte)Scena sestaTito, poi Annio.Recitativo, continuo</stage>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>No, così scellerato</l>
+            <l>il mio Sesto non credo. Tanto cambiarsi</l>
+            <l>un’alma non potrebbe.</l>
+            <l>2005-11-20T00:00:00 STR INC Annio, che rechi?</l>
+            <l>L’innocenza di Sesto?</l>
+            <l>Consolami!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ANNIO</head>Signor! pietà per luiad implorar io vengo.Scena settimaDetti, Publio con foglio.<sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Signor! pietà per lui</l>
+            <l>ad implorar io vengo.</l>
+            <l>Scena settima</l>
+            <l>Detti, Publio con foglio.</l>
+          </sp>
+          <stage>ANNIOSignor! pietà per luiad implorar io vengo.Scena settimaDetti, Publio con foglio.</stage>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Cesare, no ‘l diss’io. Sesto è l’autore</l>
+            <l>della trama crudel.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Publio, ed è vero?</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Purtroppo; ei di sua bocca</l>
+            <l>tutto affermò. Co’ complici il senato</l>
+            <l>alle fiere il condanna. Ecco il decreto</l>
+            <l>terribile, ma giusto;</l>
+            <l>(dà il foglio a Tito)</l>
+            <l>né vi manca, o signor, che il nome augusto.</l>
+          </sp>
+          <stage>PUBLIOPurtroppo; ei di sua boccatutto affermò. Co’ complici il senatoalle fiere il condanna. Ecco il decretoterribile, ma giusto;(dà il foglio a Tito)né vi manca, o signor, che il nome augusto.</stage>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Onnipossenti dèi!</l>
+            <l>(si getta sedere)</l>
+          </sp>
+          <stage>TITOOnnipossenti dèi!(si getta sedere)</stage>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Ah, pietoso monarca…</l>
+            <l>(inginocchiandosi)</l>
+          </sp>
+          <stage>ANNIOAh, pietoso monarca…(inginocchiandosi)</stage>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Annio, per ora</l>
+            <l>lasciami in pace.</l>
+            <l>(Annio si leva)</l>
+          </sp>
+          <stage>TITOAnnio, per oralasciami in pace.(Annio si leva)</stage>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Alla gran pompa unite</l>
+            <l>sai che le genti omai…</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Lo so, partite!</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Deh, perdona, s’io parlo</l>
+            <l>in favor d’un insano.</l>
+            <l>Della mia cara sposa egli è germano.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>[N. 17 – Aria]</head>Andante (fa maggiore)Archi, 2 oboe, 2 fagotti, 2 corni.Tu fosti tradito:ei degno è di morte,ma il core di Titopur lascia sperar.Deh prendi consiglio,signor, dal tuo core:il nostro doloreti degna mirar.(Publio ed Annio partono)Scena ottavaTito solo a sedere.Recitativo accompagnatoAllegroArchi.Che orror! che tradimento!Che nera infedeltà! Fingersi amico,essermi sempre al fianco, ogni momentoesiger dal mio corequalche prova d’amore; e starmi intantopreparando la morte! Ed io sospendoancor la pena? e la sentenzanon segno?… Ah! sì, lo scellerato mora!(prende la penna per sottoscrivere e poi s’arresta)Mora!… ma senza udirlomando Sesto a morir? Sì, già l’inteseabbastanza il senato. E s’egli avessequalche arcano a svelarmi? Olà!(depone la penna, intanto entra una guardia)(S’ascolti,e poi vada al supplizio.) A me si guidiSesto.(la guardia parte)È pur di chi regnainfelice il destino!(s’alza)A noi si negaciò che a’ più bassi è dato. In mezzo al boscoquel villanel mendico, a cui circondaruvida lana il rozzo fianco, a cuiè mal fido riparodall’ingiurie del ciel tugurio informe,placido i sonni dorme,passa tranquillo i dì, molto non brama,sa chi l’odia e chi l’ama, unito o solotorna sicuro alla foresta, al monte,e vede il core ciascheduno in fronte.Scena nonaPublio e Tito.Recitativo, continuo <stage>[N. 17 – Aria]Andante (fa maggiore)Archi, 2 oboe, 2 fagotti, 2 corni.Tu fosti tradito:ei degno è di morte,ma il core di Titopur lascia sperar.Deh prendi consiglio,signor, dal tuo core:il nostro doloreti degna mirar.(Publio ed Annio partono)Scena ottavaTito solo a sedere.Recitativo accompagnatoAllegroArchi.Che orror! che tradimento!Che nera infedeltà! Fingersi amico,essermi sempre al fianco, ogni momentoesiger dal mio corequalche prova d’amore; e starmi intantopreparando la morte! Ed io sospendoancor la pena? e la sentenzanon segno?… Ah! sì, lo scellerato mora!(prende la penna per sottoscrivere e poi s’arresta)Mora!… ma senza udirlomando Sesto a morir? Sì, già l’inteseabbastanza il senato. E s’egli avessequalche arcano a svelarmi? Olà!(depone la penna, intanto entra una guardia)(S’ascolti,e poi vada al supplizio.) A me si guidiSesto.(la guardia parte)È pur di chi regnainfelice il destino!(s’alza)A noi si negaciò che a’ più bassi è dato. In mezzo al boscoquel villanel mendico, a cui circondaruvida lana il rozzo fianco, a cuiè mal fido riparodall’ingiurie del ciel tugurio informe,placido i sonni dorme,passa tranquillo i dì, molto non brama,sa chi l’odia e chi l’ama, unito o solotorna sicuro alla foresta, al monte,e vede il core ciascheduno in fronte.Scena nonaPublio e Tito.Recitativo, continuo</stage>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Ma, Publio, ancora</l>
+            <l>Sesto non viene.</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Ad eseguire il cenno</l>
+            <l>già volaro i custodi.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Io non comprendo</l>
+            <l>un sì lungo tardar.</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Pochi momenti</l>
+            <l>sono scorsi, o signor.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Vanne tu stesso;</l>
+            <l>affrettalo.</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Ubbidisco.</l>
+            <l>(nel partire)</l>
+            <l>I tuoi littori</l>
+            <l>veggonsi comparir: Sesto dovrebbe</l>
+            <l>non molto esser lontano. Eccolo.</l>
+          </sp>
+          <stage>PUBLIOUbbidisco.(nel partire)I tuoi littoriveggonsi comparir: Sesto dovrebbenon molto esser lontano. Eccolo.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>TITO</head>Ingrato!All’udir che s’appressa,già mi parla a suo pro l’affetto antico.Ma no; trovi il suo prence e non l’amico.(siede e si compone in atto di maestà)Scena decimaTito, Publio, Sesto e Custodi. Sesto entrato appena, si ferma.<div type="scene">
+          <head>TITO</head>Ingrato!All’udir che s’appressa,già mi parla a suo pro l’affetto antico.Ma no; trovi il suo prence e non l’amico.(siede e si compone in atto di maestà)Scena decimaTito, Publio, Sesto e Custodi. Sesto entrato appena, si ferma.<sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Ingrato!</l>
+            <l>All’udir che s’appressa,</l>
+            <l>già mi parla a suo pro l’affetto antico.</l>
+            <l>Ma no; trovi il suo prence e non l’amico.</l>
+            <l>(siede e si compone in atto di maestà)</l>
+            <l>Scena decima</l>
+            <l>Tito, Publio, Sesto e Custodi. Sesto entrato appena, si ferma.</l>
+          </sp>
+          <stage>TITOIngrato!All’udir che s’appressa,già mi parla a suo pro l’affetto antico.Ma no; trovi il suo prence e non l’amico.(siede e si compone in atto di maestà)Scena decimaTito, Publio, Sesto e Custodi. Sesto entrato appena, si ferma.</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(Quello di Tito è il volto!</l>
+            <l>Ah dove, oh stelle! è andata</l>
+            <l>la sua dolcezza usata!</l>
+            <l>Or ei mi fa tremar!)</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>(Eterni dèi! di Sesto</l>
+            <l>dunque il sembiante è questo!</l>
+            <l>Oh come può un delitto</l>
+            <l>un volto trasformar!)</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>(Mille diversi affetti</l>
+            <l>in Tito guerra fanno.</l>
+            <l>S’ei prova un tale affanno,</l>
+            <l>lo seguita ad amar.)</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Avvicinati!</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(Oh voce</l>
+            <l>che piombami sul core.)</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Non odi?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(Di sudore</l>
+            <l>mi sento oh dio bagnar!</l>
+            <l>Non può chi more</l>
+            <l>non può di più penar.)</l>
+          </sp>
+          <sp who="#tito e publio">
+            <speaker>TITO E PUBLIO:</speaker>
+            <l>(Palpita il traditore,</l>
+            <l>né gli occhi ardisce alzar.)</l>
+            <l>Recitativo, continuo</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>(E pur mi fa pietà.) Publio, custodi,</l>
+            <l>lasciatemi con lui.</l>
+            <l>(Publio e le guardie partono)</l>
+          </sp>
+          <stage>TITO(E pur mi fa pietà.) Publio, custodi,lasciatemi con lui.(Publio e le guardie partono)</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(No, di quel volto</l>
+            <l>non ho costanza a sostener l’impero.)</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>(rimasto solo con Sesto, depone l’aria maestosa)</l>
+            <l>Ah! Sesto, è dunque vero?</l>
+            <l>Dunque vuoi la mia morte? E in che t’offese</l>
+            <l>il tuo prence, il tuo padre,</l>
+            <l>il tuo benefattor? Se Tito augusto</l>
+            <l>hai potuto obliar, di Tito amico</l>
+            <l>come non ti sovvenne? Il premio è questo</l>
+            <l>della tenera cura</l>
+            <l>ch’ebbe sempre di te? Di chi fidarmi</l>
+            <l>in avvenir potrò, se giunse, oh dèi!</l>
+            <l>anche Sesto a tradirmi? E lo potesti?</l>
+            <l>E il cor te lo sofferse?</l>
+          </sp>
+          <stage>TITO(rimasto solo con Sesto, depone l’aria maestosa)Ah! Sesto, è dunque vero?Dunque vuoi la mia morte? E in che t’offeseil tuo prence, il tuo padre,il tuo benefattor? Se Tito augustohai potuto obliar, di Tito amicocome non ti sovvenne? Il premio è questodella tenera curach’ebbe sempre di te? Di chi fidarmiin avvenir potrò, se giunse, oh dèi!anche Sesto a tradirmi? E lo potesti?E il cor te lo sofferse?</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(prorompe in un dirottissimo pianto e se gli getta a’ piedi)</l>
+            <l>Ah, Tito! ah, mio</l>
+            <l>clementissimo prence!</l>
+            <l>Non più, non più. Se tu veder potessi</l>
+            <l>questo misero cor, spergiuro, ingrato,</l>
+            <l>pur ti farei pietà. Tutte ho su gli occhi,</l>
+            <l>tutte le colpe mie; tutti rammento</l>
+            <l>i benefizi tuoi: soffrir non posso</l>
+            <l>né l’idea di me stesso,</l>
+            <l>né la presenza tua. Quel sacro volto,</l>
+            <l>la voce tua, la tua clemenza istessa</l>
+            <l>diventò mio supplizio. Affretta almeno,</l>
+            <l>affretta il mio morir. Toglimi presto</l>
+            <l>questa vita infedel; lascia ch’io versi,</l>
+            <l>se pietoso esser vuoi,</l>
+            <l>questo perfido sangue a’ piedi tuoi.</l>
+          </sp>
+          <stage>SESTO(prorompe in un dirottissimo pianto e se gli getta a’ piedi)Ah, Tito! ah, mioclementissimo prence!Non più, non più. Se tu veder potessiquesto misero cor, spergiuro, ingrato,pur ti farei pietà. Tutte ho su gli occhi,tutte le colpe mie; tutti rammentoi benefizi tuoi: soffrir non possoné l’idea di me stesso,né la presenza tua. Quel sacro volto,la voce tua, la tua clemenza istessadiventò mio supplizio. Affretta almeno,affretta il mio morir. Toglimi prestoquesta vita infedel; lascia ch’io versi,se pietoso esser vuoi,questo perfido sangue a’ piedi tuoi.</stage>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Sorgi, infelice!</l>
+            <l>(Sesto si leva)</l>
+            <l>(Il contenersi è pena</l>
+            <l>a quel tenero pianto.) Or vedi a quale</l>
+            <l>lagrimevole stato</l>
+            <l>un delitto riduce, una sfrenata</l>
+            <l>avidità d’impero! E che sperasti</l>
+            <l>di trovar mai nel trono? Il sommo forse</l>
+            <l>d’ogni contento? Ah! sconsigliato, osserva</l>
+            <l>quai frutti io ne raccolgo;</l>
+            <l>e bramalo, se puoi.</l>
+          </sp>
+          <stage>TITOSorgi, infelice!(Sesto si leva)(Il contenersi è penaa quel tenero pianto.) Or vedi a qualelagrimevole statoun delitto riduce, una sfrenataavidità d’impero! E che sperastidi trovar mai nel trono? Il sommo forsed’ogni contento? Ah! sconsigliato, osservaquai frutti io ne raccolgo;e bramalo, se puoi.</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>No, questa brama</l>
+            <l>non fu che mi sedusse.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Dunque che fu?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>La debolezza mia,</l>
+            <l>la mia fatalità.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Più chiaro almeno</l>
+            <l>spiegati.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Oh dio! non posso.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Odimi, oh Sesto;</l>
+            <l>siam soli; il tuo sovrano</l>
+            <l>non è presente. Apri il tuo core a Tito;</l>
+            <l>confidati all’amico. In contraccambio almeno</l>
+            <l>d’amicizia lo chiedo.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(Ecco una nuova</l>
+            <l>specie di pena! o dispiacere a Tito,</l>
+            <l>o Vitellia accusar.)</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>(incomincia a turbarsi)</l>
+            <l>Dubiti ancora?</l>
+          </sp>
+          <stage>TITO(incomincia a turbarsi)Dubiti ancora?</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Signore…</l>
+            <l>sappi dunque…</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Parla una volta:</l>
+            <l>che mi volevi dir?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Ch’io son l’oggetto</l>
+            <l>dell’ira degli dèi; che la mia sorte</l>
+            <l>non ho più forza a tollerar; ch’io stesso</l>
+            <l>traditor mi confesso, empio mi chiamo;</l>
+            <l>ch’io merito la morte, e ch’io la bramo.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Sconoscente! e l’avrai. Custodi! il reo</l>
+            <l>toglietemi d’innanzi.</l>
+            <l>(alle guardie, che saranno uscite)</l>
+          </sp>
+          <stage>TITOSconoscente! e l’avrai. Custodi! il reotoglietemi d’innanzi.(alle guardie, che saranno uscite)</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Il bacio estremo</l>
+            <l>su quella invitta man.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>(senza guardarlo)</l>
+            <l>Parti; non è più tempo,</l>
+            <l>or tuo giudice sono.</l>
+          </sp>
+          <stage>TITO(senza guardarlo)Parti; non è più tempo,or tuo giudice sono.</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Ah, sia questo, signor, l’ultimo dono.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>[N. 19 – Rondò]</head>Adagio (la maggiore) / Allegro / Più allegroArchi, flauto, 2 oboe, 2 fagotti, 2 corni.Deh, per questo istante soloti ricorda il primo amor.Che morir mi fa di duoloil tuo sdegno il tuo rigor.Di pietade indegno è vero,sol spirar io deggio orror.Pur saresti men severo,se vedessi questo cor.Disperato vado a morte;ma il morir non mi spaventa.Il pensiero mi tormentache fui teco un traditor!(Tanto affanno soffre un core,né si more di dolor!)(parte)Scena undicesimaTito solo.Recitativo, continuoOve s’intendesse mai più contumaceinfedeltà? Deggio alla mia neglettadisprezzata clemenza una vendetta.Vendetta!… il cor di Titotali sensi produce?… Eh viva… invanoparlan dunque le leggi?(siede)Sesto è reo; Sesto mora.(sottoscrive)Ma dunque facciosì gran forza al mio cor. Né almen sicurosarò ch’altri l’approvi? Ah, non si lasciil solito cammin…(lacera il foglio)Viva l’amico!Benché infedele. E se accusarmi il mondovuol pur di qualche errore,m’accusi di pietà(getta il foglio lacerato)non di rigore.Scena dodicesimaTito, Publio. <stage>[N. 19 – Rondò]Adagio (la maggiore) / Allegro / Più allegroArchi, flauto, 2 oboe, 2 fagotti, 2 corni.Deh, per questo istante soloti ricorda il primo amor.Che morir mi fa di duoloil tuo sdegno il tuo rigor.Di pietade indegno è vero,sol spirar io deggio orror.Pur saresti men severo,se vedessi questo cor.Disperato vado a morte;ma il morir non mi spaventa.Il pensiero mi tormentache fui teco un traditor!(Tanto affanno soffre un core,né si more di dolor!)(parte)Scena undicesimaTito solo.Recitativo, continuoOve s’intendesse mai più contumaceinfedeltà? Deggio alla mia neglettadisprezzata clemenza una vendetta.Vendetta!… il cor di Titotali sensi produce?… Eh viva… invanoparlan dunque le leggi?(siede)Sesto è reo; Sesto mora.(sottoscrive)Ma dunque facciosì gran forza al mio cor. Né almen sicurosarò ch’altri l’approvi? Ah, non si lasciil solito cammin…(lacera il foglio)Viva l’amico!Benché infedele. E se accusarmi il mondovuol pur di qualche errore,m’accusi di pietà(getta il foglio lacerato)non di rigore.Scena dodicesimaTito, Publio.</stage>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Publio!</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Cesare.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Andiamo</l>
+            <l>al popolo, che attende.</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>E Sesto?</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>E Sesto,</l>
+            <l>venga all’arena ancor.</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Dunque il suo fato?…</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Sì, Publio, è già deciso.</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>(Oh, sventurato!)</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TITO</head>Se all’impero, amici dèi,necessario è un cor severo,o togliete a me l’impero,o a me date un altro cor.Se la fé de’ regni mieicoll’amor non assicuro,d’una fede non mi curoche sia frutto del timor.(parte, seguìto da Publio)Scena tredicesimaVitellia, uscendo dalla porta opposta, richiama Publio, che seguiva Tito.<sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Se all’impero, amici dèi,</l>
+            <l>necessario è un cor severo,</l>
+            <l>o togliete a me l’impero,</l>
+            <l>o a me date un altro cor.</l>
+            <l>Se la fé de’ regni miei</l>
+            <l>coll’amor non assicuro,</l>
+            <l>d’una fede non mi curo</l>
+            <l>che sia frutto del timor.</l>
+            <l>(parte, seguìto da Publio)</l>
+            <l>Scena tredicesima</l>
+            <l>Vitellia, uscendo dalla porta opposta, richiama Publio, che seguiva Tito.</l>
+          </sp>
+          <stage>TITOSe all’impero, amici dèi,necessario è un cor severo,o togliete a me l’impero,o a me date un altro cor.Se la fé de’ regni mieicoll’amor non assicuro,d’una fede non mi curoche sia frutto del timor.(parte, seguìto da Publio)Scena tredicesimaVitellia, uscendo dalla porta opposta, richiama Publio, che seguiva Tito.</stage>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Publio, ascolta.</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>(in atto di partire)</l>
+            <l>Perdona;</l>
+            <l>deggio a cesare appresso</l>
+            <l>andar…</l>
+          </sp>
+          <stage>PUBLIO(in atto di partire)Perdona;deggio a cesare appressoandar…</stage>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Dove?</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>(come sopra)</l>
+            <l>All’arena.</l>
+          </sp>
+          <stage>PUBLIO(come sopra)All’arena.</stage>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>E Sesto?</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>Anch’esso.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Dunque morrà?</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>(come sopra)</l>
+            <l>Pur troppo.</l>
+          </sp>
+          <stage>PUBLIO(come sopra)Pur troppo.</stage>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>(Ahimè!) Con Tito</l>
+            <l>Sesto ha parlato?</l>
+          </sp>
+          <sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>E lungamente.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>E sai</l>
+            <l>quel ch’ei dicesse?</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>PUBLIO</head>No. Solo con luirestar cesare volle: escluso io fui.(parte)Scena quattordicesimaVitellia, e poi Servilia e Annio da diverse parti.<div type="scene">
+          <head>PUBLIO</head>No. Solo con luirestar cesare volle: escluso io fui.(parte)Scena quattordicesimaVitellia, e poi Servilia e Annio da diverse parti.<sp who="#publio">
+            <speaker>PUBLIO:</speaker>
+            <l>No. Solo con lui</l>
+            <l>restar cesare volle: escluso io fui.</l>
+            <l>(parte)</l>
+            <l>Scena quattordicesima</l>
+            <l>Vitellia, e poi Servilia e Annio da diverse parti.</l>
+          </sp>
+          <stage>PUBLIONo. Solo con luirestar cesare volle: escluso io fui.(parte)Scena quattordicesimaVitellia, e poi Servilia e Annio da diverse parti.</stage>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Non giova lusingarsi;</l>
+            <l>Sesto già mi scoperse: a Publio istesso</l>
+            <l>si conosce sul volto. Ei non fu mai</l>
+            <l>con me sì ritenuto; ei fugge; ei teme</l>
+            <l>di restar meco. Ah! secondato avessi</l>
+            <l>gl’impulsi del mio cor. Per tempo a Tito</l>
+            <l>dovea svelarmi e confessar l’errore.</l>
+            <l>Sempre in bocca d’un reo, che la detesta,</l>
+            <l>scema d’orror la colpa. Or questo ancora</l>
+            <l>tardi saria. Seppe il delitto augusto,</l>
+            <l>e non da me. Questa ragione istessa</l>
+            <l>fa più grave…</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Ah, Vitellia!</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Ah, principessa!</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Il misero germano…</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Il caro amico…</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>È condotto a morir.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Ma che posso per lui?</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Tutto, a’ tuoi prieghi</l>
+            <l>Tito lo donerà.</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Non può negarlo</l>
+            <l>alla novella augusta.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Annio, non sono</l>
+            <l>augusta ancor.</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Pria che tramonti il sole</l>
+            <l>Tito sarà tuo sposo. Or, me presente,</l>
+            <l>per le pompe festive il cenno ei diede.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>(Dunque Sesto ha taciuto! oh amore! oh fede!)</l>
+            <l>Annio, Servilia, andiam. (Ma dove corro</l>
+            <l>così senza pensar?) Partite amici, vi seguirò.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>SERVILIA</head>S’altro che lacrimeper lui non tenti,tutto il tuo piangerenon gioverà.A questa inutilepietà che senti,oh quanto è similela crudeltà.(parte)Scena quindicesimaVitellia sola.<sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>S’altro che lacrime</l>
+            <l>per lui non tenti,</l>
+            <l>tutto il tuo piangere</l>
+            <l>non gioverà.</l>
+            <l>A questa inutile</l>
+            <l>pietà che senti,</l>
+            <l>oh quanto è simile</l>
+            <l>la crudeltà.</l>
+            <l>(parte)</l>
+            <l>Scena quindicesima</l>
+            <l>Vitellia sola.</l>
+          </sp>
+          <stage>SERVILIAS’altro che lacrimeper lui non tenti,tutto il tuo piangerenon gioverà.A questa inutilepietà che senti,oh quanto è similela crudeltà.(parte)Scena quindicesimaVitellia sola.</stage>
+        </div>
+        <div type="scene">
+          <head>[N. 23 – Rondò]</head>Larghetto (fa maggiore) / Allegro / Andante maestosoArchi, flauto, 2 oboe, corno di bassetto, 2 fagotti, 2 corni, 2 trombe, timpani.Non più di fiorivaghe catenediscenda Imenead intrecciar.Stretta fra barbareaspre ritorteveggo la mortever me avanzar.Infelice! qual orrore!Ah, di me che si dirà?Chi vedesse il mio dolore,pur avria di me pietà.(parte)Scena sedicesimaLuogo magnifico, che introduce a vasto anfiteatro, da cui per diversi archi scopresi la parte interna. Si vedranno già nell’arena i complici della congiura condannati alle fiere.Nel tempo che si canta il coro, preceduto da’ Littori, circondato da’ Senatori, e Patrizi romani, e seguìto da’ Pretoriani, esce Tito, e dopo Annio e Servilia da diverse parti. <stage>[N. 23 – Rondò]Larghetto (fa maggiore) / Allegro / Andante maestosoArchi, flauto, 2 oboe, corno di bassetto, 2 fagotti, 2 corni, 2 trombe, timpani.Non più di fiorivaghe catenediscenda Imenead intrecciar.Stretta fra barbareaspre ritorteveggo la mortever me avanzar.Infelice! qual orrore!Ah, di me che si dirà?Chi vedesse il mio dolore,pur avria di me pietà.(parte)Scena sedicesimaLuogo magnifico, che introduce a vasto anfiteatro, da cui per diversi archi scopresi la parte interna. Si vedranno già nell’arena i complici della congiura condannati alle fiere.Nel tempo che si canta il coro, preceduto da’ Littori, circondato da’ Senatori, e Patrizi romani, e seguìto da’ Pretoriani, esce Tito, e dopo Annio e Servilia da diverse parti.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Che del ciel, che degli dèi</l>
+            <l>tu il pensier, l’amor tu sei,</l>
+            <l>grand’eroe, nel giro angusto</l>
+            <l>si mostrò di questo dì.</l>
+            <l>Ma cagion di meraviglia</l>
+            <l>non è già, felice augusto,</l>
+            <l>che gli dèi chi lor somiglia</l>
+            <l>custodiscano così.</l>
+            <l>Recitativo, continuo</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Pria che principio a’ lieti</l>
+            <l>spettacoli si dia, custodi, innanzi</l>
+            <l>conducetemi il reo. (Più di perdono</l>
+            <l>speme ei non ha: quanto aspettato meno,</l>
+            <l>più caro esser gli dée.)</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Pietà, signore!</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Signor, pietà!</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Se a chiederla venite</l>
+            <l>per Sesto, è tardi. È il suo destin deciso.</l>
+          </sp>
+          <sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>E sì tranquillo in viso</l>
+            <l>lo condanni a morir?</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Di Tito il core</l>
+            <l>come il dolce perdé costume antico?</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Ei s’appressa: tacete!</l>
+          </sp>
+          <sp who="#servilia">
+            <speaker>SERVILIA:</speaker>
+            <l>Oh Sesto!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ANNIO</head>Oh amico!Scena diciassettesimaTito, Publio e Sesto fra Littori, Annio e Servilia, poi Vitellia.<sp who="#annio">
+            <speaker>ANNIO:</speaker>
+            <l>Oh amico!</l>
+            <l>Scena diciassettesima</l>
+            <l>Tito, Publio e Sesto fra Littori, Annio e Servilia, poi Vitellia.</l>
+          </sp>
+          <stage>ANNIOOh amico!Scena diciassettesimaTito, Publio e Sesto fra Littori, Annio e Servilia, poi Vitellia.</stage>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Sesto, de’ tuoi delitti</l>
+            <l>tu sai la serie, e sai</l>
+            <l>qual pena ti si dée. Roma sconvolta,</l>
+            <l>l’offesa maestà, le leggi offese,</l>
+            <l>l’amicizia tradita, il mondo, il cielo</l>
+            <l>voglion la morte tua. De’ tradimenti</l>
+            <l>sai pur ch’io son l’unico oggetto; or senti.</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>(entrando frettolosa)</l>
+            <l>Eccoti, eccelso augusto,</l>
+            <l>(s’inginocchia)</l>
+            <l>eccoti al piè la più confusa…</l>
+          </sp>
+          <stage>VITELLIA(entrando frettolosa)Eccoti, eccelso augusto,(s’inginocchia)eccoti al piè la più confusa…</stage>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Ah sorgi,</l>
+            <l>che fai? che brami?</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Io ti conduco innanzi</l>
+            <l>l’autor dell’empia trama.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Ov’è? Chi mai</l>
+            <l>preparò tante insidie al viver mio?</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>No ‘l crederai.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Perché?</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Perché son io.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Tu ancora!</l>
+          </sp>
+          <sp who="#sesto e servilia">
+            <speaker>SESTO E SERVILIA:</speaker>
+            <l>Oh, stelle!</l>
+          </sp>
+          <sp who="#annio e publio">
+            <speaker>ANNIO E PUBLIO:</speaker>
+            <l>Oh, numi!</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>E quanti mai,</l>
+            <l>quanti siete a tradirmi?</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>Io la più rea</l>
+            <l>son di ciascuno; io meditai la trama;</l>
+            <l>il più fedele amico</l>
+            <l>io ti sedussi; io del suo cieco amore</l>
+            <l>a tuo danno abusai.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Ma del tuo sdegno</l>
+            <l>chi fu cagion?</l>
+          </sp>
+          <sp who="#vitellia">
+            <speaker>VITELLIA:</speaker>
+            <l>La tua bontà. Credei</l>
+            <l>che questa fosse amor. La destra e ‘l trono</l>
+            <l>da te sperava in dono, e poi negletta</l>
+            <l>restai due volte, e procurai vendetta.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Ma che giorno è mai questo! al punto stesso</l>
+            <l>che assolvo un reo, ne scopro un altro! E quando</l>
+            <l>troverò, giusti numi!</l>
+            <l>un’anima fedel? Congiuran gli astri,</l>
+            <l>cred’io, per obbligarmi a mio dispetto,</l>
+            <l>a diventar crudel. No! non avranno</l>
+            <l>questo trionfo. A sostener la gara</l>
+            <l>già m’impegnò la mia virtù. Vediamo</l>
+            <l>se più costante sia</l>
+            <l>l’altrui perfidia o la clemenza mia.</l>
+            <l>Olà! Sesto si sciolga: abbian di nuovo</l>
+            <l>Lentulo e suoi seguaci</l>
+            <l>e vita, e libertà. Sia noto a Roma</l>
+            <l>ch’io son lo stesso, e ch’io</l>
+            <l>tutto so, tutti assolvo e tutto oblio.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Tu, è ver, m’assolvi, augusto;</l>
+            <l>ma non m’assolve il core,</l>
+            <l>che piangerà l’errore,</l>
+            <l>finché memoria avrà.</l>
+          </sp>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Il vero pentimento,</l>
+            <l>di cui tu sei capace,</l>
+            <l>val più d’una verace</l>
+            <l>costante fedeltà.</l>
+          </sp>
+          <sp who="#vitellia, servilia e annio">
+            <speaker>VITELLIA, SERVILIA E ANNIO:</speaker>
+            <l>Oh generoso! oh grande!</l>
+            <l>E chi mai giunse a tanto?</l>
+            <l>Mi trae dagli occhi il pianto</l>
+            <l>l’eccelsa tua bontà.</l>
+          </sp>
+          <sp who="#tutti e coro">
+            <speaker>TUTTI E CORO:</speaker>
+            <l>(senza Tito)</l>
+            <l>Eterni dèi, vegliate</l>
+            <l>sui sacri giorni suoi,</l>
+            <l>a Roma in lui serbate</l>
+            <l>la sua felicità.</l>
+          </sp>
+          <stage>TUTTI E CORO(senza Tito)Eterni dèi, vegliatesui sacri giorni suoi,a Roma in lui serbatela sua felicità.</stage>
+          <sp who="#tito">
+            <speaker>TITO:</speaker>
+            <l>Troncate, eterni dèi,</l>
+            <l>troncate i giorni miei,</l>
+            <l>quel dì che il ben di Roma</l>
+            <l>mia cura non sarà.</l>
+            <l>Fine del libretto.</l>
+          </sp>
+          <stage>TITOTroncate, eterni dèi,troncate i giorni miei,quel dì che il ben di Romamia cura non sarà.Fine del libretto.</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

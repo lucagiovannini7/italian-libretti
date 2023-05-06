@@ -1,0 +1,3351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">rlando furioso</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="orlando">
+            <persName>ORLANDO:</persName>
+          </person>
+          <person xml:id="medoro, angelica">
+            <persName>MEDORO, ANGELICA:</persName>
+          </person>
+          <person xml:id="angelica">
+            <persName>ANGELICA:</persName>
+          </person>
+          <person xml:id="alcina">
+            <persName>ALCINA:</persName>
+          </person>
+          <person xml:id="medoro">
+            <persName>MEDORO:</persName>
+          </person>
+          <person xml:id="angelica e medoro">
+            <persName>ANGELICA E MEDORO:</persName>
+          </person>
+          <person xml:id="ruggiero">
+            <persName>RUGGIERO:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="bradamante">
+            <persName>BRADAMANTE:</persName>
+          </person>
+          <person xml:id="astolfo">
+            <persName>ASTOLFO:</persName>
+          </person>
+          <person xml:id="voce di dentro">
+            <persName>VOCE DI DENTRO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>ORLANDO</castItem>
+        <castItem>ANGELICA</castItem>
+        <castItem>ALCINA</castItem>
+        <castItem>BRADAMANTE</castItem>
+        <castItem>MEDORO</castItem>
+        <castItem>RUGGIERO</castItem>
+        <castItem>ASTOLFO</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#alcina">
+        <speaker>ALCINA:</speaker>
+        <l>Bella regina, il tuo poter sovrano</l>
+        <l>l’India non sol, ma tutto il mondo onora:</l>
+        <l>al fulgido seren de’ gl’occhi tuoi</l>
+        <l>ogni rara beltà cede e s’inchina;</l>
+        <l>e tu bella, e regina</l>
+        <l>puoi sospirar? Dà bando al rio martoro</l>
+        <l>e rasserena il ciglio.</l>
+      </sp>
+      <sp who="#angelica">
+        <speaker>ANGELICA:</speaker>
+        <l>(Oh dio! Medoro!)</l>
+        <l>(ad Alcina)</l>
+        <l>Alcina; poiché al quanto</l>
+        <l>disarcerba il suo duolo un’alma amante</l>
+        <l>narrando i mali suoi,</l>
+        <l>sappi, che mille strali</l>
+        <l>vibrò da queste or languide pupille</l>
+        <l>il faretrato arciero:</l>
+        <l>feraci Sacripante, Orlando, e mille</l>
+        <l>famosi in arme, e coronati in soglio</l>
+        <l>arser tutti d’amor per questi lumi.</l>
+        <l>Io con la speme sola</l>
+        <l>tutti allettai; ma per alcun d’amore</l>
+        <l>le pene io non sentii: sdegnossi al fine</l>
+        <l>il possente signor, e del mio core</l>
+        <l>prese vendetta: innanzi a gl’occhi miei</l>
+        <l>venne il leggiadro amabile Medoro;</l>
+        <l>e appena il rimirai,</l>
+        <l>ch’arsi, Alcina, d’amore, e sospirai.</l>
+      </sp>
+      <stage>ANGELICA(Oh dio! Medoro!)(ad Alcina)Alcina; poiché al quantodisarcerba il suo duolo un’alma amantenarrando i mali suoi,sappi, che mille stralivibrò da queste or languide pupilleil faretrato arciero:feraci Sacripante, Orlando, e millefamosi in arme, e coronati in soglioarser tutti d’amor per questi lumi.Io con la speme solatutti allettai; ma per alcun d’amorele pene io non sentii: sdegnossi al fineil possente signor, e del mio coreprese vendetta: innanzi a gl’occhi mieivenne il leggiadro amabile Medoro;e appena il rimirai,ch’arsi, Alcina, d’amore, e sospirai.</stage>
+      <sp who="#alcina">
+        <speaker>ALCINA:</speaker>
+        <l>E per questo sospiri? Il tuo Medoro,</l>
+        <l>dimmi, t’ama fedel?</l>
+      </sp>
+      <sp who="#angelica">
+        <speaker>ANGELICA:</speaker>
+        <l>Quant’io l’adoro.</l>
+      </sp>
+      <sp who="#alcina">
+        <speaker>ALCINA:</speaker>
+        <l>E tu sospiri? Un corrisposto amore</l>
+        <l>è la gioia del core.</l>
+      </sp>
+      <sp who="#angelica">
+        <speaker>ANGELICA:</speaker>
+        <l>Ma del perduto ben maggior la pena</l>
+        <l>allora è più, quanto più il bene è caro.</l>
+        <l>Senti, meco il guidava a’ regni miei,</l>
+        <l>quando mi siegue innamorato Orlando:</l>
+        <l>io che conosco il fiero cor, fuggiamo</l>
+        <l>dico al caro amator, tosto…</l>
+      </sp>
+      <sp who="#alcina">
+        <speaker>ALCINA:</speaker>
+        <l>Fuggire?</l>
+        <l>Mancan lusinghe, e vezzi</l>
+        <l>per ammolir d’amante cor gli sdegni?</l>
+      </sp>
+      <sp who="#angelica">
+        <speaker>ANGELICA:</speaker>
+        <l>Il tenero mio amore</l>
+        <l>non suggerirmi altra guardia sicura,</l>
+        <l>sola in braccio al timore</l>
+        <l>m’abbandonai, fuggii misera, oh dio,</l>
+        <l>ma nel fuggir perdei</l>
+        <l>il mio tesoro, il sol de’ gl’occhi miei.</l>
+      </sp>
+      <sp who="#alcina">
+        <speaker>ALCINA:</speaker>
+        <l>Fa cor, te ‘l renderò: potrai qui meco</l>
+        <l>di lui lieta godere,</l>
+        <l>e accordar la tua gioia al mio piacere.</l>
+      </sp>
+      <div type="scene">
+        <head>ANGELICA</head>Un raggio di spemeil cor rasserenae l’alma consola;ma s’alza un vaporedi nero timore,che il dolce serenodal seno m’invola.Scena secondaAlcina, poi Orlando con visiera calcata combattente con Astolfo, ed incalzandolo.<sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Un raggio di speme</l>
+          <l>il cor rasserena</l>
+          <l>e l’alma consola;</l>
+          <l>ma s’alza un vapore</l>
+          <l>di nero timore,</l>
+          <l>che il dolce sereno</l>
+          <l>dal seno m’invola.</l>
+          <l>Scena seconda</l>
+          <l>Alcina, poi Orlando con visiera calcata combattente con Astolfo, ed incalzandolo.</l>
+        </sp>
+        <stage>ANGELICAUn raggio di spemeil cor rasserenae l’alma consola;ma s’alza un vaporedi nero timore,che il dolce serenodal seno m’invola.Scena secondaAlcina, poi Orlando con visiera calcata combattente con Astolfo, ed incalzandolo.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Quanta pietà mi desta il suo cordoglio!</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Ch’io ti ceda fellon?</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Sei forte invano.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>O là guerrier l’orgoglio abbassa, e ‘l brando.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Sì di legger non ubbidisce Orlando.</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Orlando?</l>
+          <l>(va ad abbracciarlo)</l>
+        </sp>
+        <stage>ASTOLFOOrlando?(va ad abbracciarlo)</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>A tempo ei giunge.</l>
+          <l>(Si lusinghi, e si acquisti</l>
+          <l>il temuto guerrier contro l’insane</l>
+          <l>turbe di Logistilla.) Oh, rinomato</l>
+          <l>valoroso campione, oh, invitto e grande</l>
+          <l>sopra di quanti mai</l>
+          <l>corresser asta, o mai ruotasser spada</l>
+          <l>permetti al labro mio, che riverente</l>
+          <l>su la invitta tua destra</l>
+          <l>bacio d’ossequio umilmente imprima.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>No, gran diva, che tale</l>
+          <l>creder ti deggio, e ‘l mio pensier non erra,</l>
+          <l>poiché sì rara, e tanta</l>
+          <l>beltà non vantò mai donna mortale</l>
+          <l>a me tocca efferire in bacio umile</l>
+          <l>su la bianca tua mano in voto il core.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(Ah! Si accendesse almeno?)</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>(Aita amore?)</l>
+          <l>(ad Orlando)</l>
+          <l>Scusa l’error, le ignote insegne incolpa.</l>
+        </sp>
+        <stage>ASTOLFO(Aita amore?)(ad Orlando)Scusa l’error, le ignote insegne incolpa.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Per la vezzosa tua bella regina</l>
+          <l>meno oprar, tu non déi. Tal potess’io,</l>
+          <l>ma lo potrò, d’Angelica il mio bene,</l>
+          <l>anco a costo del sangue,</l>
+          <l>anco a rischio di vita</l>
+          <l>vagheggiar la beltà, servir la brama,</l>
+          <l>che il sangue spargerei,</l>
+          <l>la vita lascerei…</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Ella a’ miei regni</l>
+          <l>aggiunse un nuovo sol col suo bel volto.</l>
+          <l>Tu nuova gloria aggiungi</l>
+          <l>(te n’ priego) in restar meco a’ regni miei.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Arbitra omai del mio voler tu sei.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Vibra per me possente dio d’amore</l>
+          <l>contro l’altero cor tua face, e ‘l dardo.</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>(L’ingrata non mi dà neppure un guardo.)</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ALCINA</head>Alza in quegl’occhiamore l’impero;ma il sguardo guerriero,che spande terrore,il cor mi spaventa.E benché la spemeall’alma dubbiosaor rechi confortorisorge il timore,che l’alma tormenta.Scena terzaOrlando ed Astolfo.<sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Alza in quegl’occhi</l>
+          <l>amore l’impero;</l>
+          <l>ma il sguardo guerriero,</l>
+          <l>che spande terrore,</l>
+          <l>il cor mi spaventa.</l>
+          <l>E benché la speme</l>
+          <l>all’alma dubbiosa</l>
+          <l>or rechi conforto</l>
+          <l>risorge il timore,</l>
+          <l>che l’alma tormenta.</l>
+          <l>Scena terza</l>
+          <l>Orlando ed Astolfo.</l>
+        </sp>
+        <stage>ALCINAAlza in quegl’occhiamore l’impero;ma il sguardo guerriero,che spande terrore,il cor mi spaventa.E benché la spemeall’alma dubbiosaor rechi confortorisorge il timore,che l’alma tormenta.Scena terzaOrlando ed Astolfo.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Della bella negl’occhi</l>
+          <l>vidi per te, che favellava amore.</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Orlando mio, tu non conosci Alcina?</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Alcina?</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Alcina è questa.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Quella, che a suo voler volge l’inferno?</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Il suo potere eterno</l>
+          <l>ora sarà, poiché acquistato ha l’urna,</l>
+          <l>che del saggio Merlino il cener chiude,</l>
+          <l>e a custodirla ha tratto l’immortale</l>
+          <l>Aronte invulnerabile.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Il fatale</l>
+          <l>d’un demone concetto, e d’una maga?</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Invincibil possente</l>
+          <l>di ferrea mazza, e di gran core armato.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>L’alto trionfo a me riserba il fato.</l>
+          <l>Costanza dal mio core, Astolfo, impara.</l>
+          <l>Ti racconsola: ai rai di poca speme</l>
+          <l>già mi par di goder ore serene.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ASTOLFO</head>Costanza tu m’insegni, e vuoi ch’io speri,ma quegl’occhi superbi, e severinon danno alle mie pene un guardo solo.Pascendo di speranza i miei pensieripur tal volta sospiro, e mi consolo.Scena quartaOrlando, poi Bradamante.<sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Costanza tu m’insegni, e vuoi ch’io speri,</l>
+          <l>ma quegl’occhi superbi, e severi</l>
+          <l>non danno alle mie pene un guardo solo.</l>
+          <l>Pascendo di speranza i miei pensieri</l>
+          <l>pur tal volta sospiro, e mi consolo.</l>
+          <l>Scena quarta</l>
+          <l>Orlando, poi Bradamante.</l>
+        </sp>
+        <stage>ASTOLFOCostanza tu m’insegni, e vuoi ch’io speri,ma quegl’occhi superbi, e severinon danno alle mie pene un guardo solo.Pascendo di speranza i miei pensieripur tal volta sospiro, e mi consolo.Scena quartaOrlando, poi Bradamante.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Pietoso dio d’amor, poiché a te piacque</l>
+          <l>trarmi dentro a tuoi lacci</l>
+          <l>in dolce servitù, vibra nel core</l>
+          <l>d’Angelica la bella</l>
+          <l>uno stral sì cocente</l>
+          <l>onde per me s’accenda, e m’ami al fine.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Adorato Ruggier… Qui Orlando?</l>
+          <l>Orlando!</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Bradamante!</l>
+          <l>Come tu qui?</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Del mio Ruggier in traccia.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Ei la destra, e la fede</l>
+          <l>di sposo non ti diè?</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Sorte rubella</l>
+          <l>per disusata via poi me ‘l ritolse.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Sventurata.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>La saggia incantatrice</l>
+          <l>Melissa, a me predisse,</l>
+          <l>ch’arder qui dée il mio bene</l>
+          <l>per magico poter d’Alcina al foco.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Consolati cugina.</l>
+          <l>Se il possente indovino oggi non mente</l>
+          <l>lieti sarem: ma tu, come d’Alcina</l>
+          <l>osasti nella reggia entrar nei tuoi</l>
+          <l>cotanto noti arnesi, e sola?</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>È meco</l>
+          <l>la possente Melissa,</l>
+          <l>e in questo anel contro gl’incanti e l’arti</l>
+          <l>de la maga infedel ho vali d’arme.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Ora t’intendo; è questo</l>
+          <l>il prezioso anel, che da ogni incanto</l>
+          <l>serba illeso chi il porta.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>E lo nasconde,</l>
+          <l>se tra la labbra il chiude, agl’occhi altrui.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Potrà però il guerriero usato arnese,</l>
+          <l>e l’onorata tua famosa spada</l>
+          <l>render sempre più vano il tuo periglio.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>BRADAMANTE</head>Generoso è ‘l consiglioma alla maga crudelenasconderò il mio nome,né mostrerò quest’aria mia guerriera.Tanto men Bradamanterassembrerò a costei, quanto men fiera.Asconderò il mio sdegnoal nero core indegno,sin tanto che al mio amor torni lo sposo.Ma se mi toglie (oh dio)l’indegna l’idol mioil braccio proverà fiero, e sdegnoso.Scena quintaOrlando solo.Insolito coraggio ora in quest’almaportan dal mago illustrei fatidici sensi: egli del numeebbro, e ripieno, in me lo sguardo fisse,e nel sagro furor così mi disse:«Orlando, allora il ciel per te disposele fortune d’amor, quando ad Alcinainvolerai le ceneri famose,che involser di Merlin l’alma divina.Spera, coglier potrai le gloriosepalme, che il fato al tuo poter destina:per te sia l’immortal custode estinto,e ‘l poter della maga oppresso e vinto.»Amorose mie bramenon più duol e timor: speriam ben tostosarem, io glorioso, e voi contente:l’indovino il promise, egli non mente.Nel profondocieco mondosi precipiti la sortegià spietata a questo cor.Vincerà l’amor più fortecon l’aita del valor.Scena sestaGiardino delizioso in cui si vedono le due fonti, una delle quali estinge, l’altra accendente l’amore.Mare tempestoso in lontano.Angelica, poi Medoro ferito che viene dal mare.<sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Generoso è ‘l consiglio</l>
+          <l>ma alla maga crudele</l>
+          <l>nasconderò il mio nome,</l>
+          <l>né mostrerò quest’aria mia guerriera.</l>
+          <l>Tanto men Bradamante</l>
+          <l>rassembrerò a costei, quanto men fiera.</l>
+          <l>Asconderò il mio sdegno</l>
+          <l>al nero core indegno,</l>
+          <l>sin tanto che al mio amor torni lo sposo.</l>
+          <l>Ma se mi toglie (oh dio)</l>
+          <l>l’indegna l’idol mio</l>
+          <l>il braccio proverà fiero, e sdegnoso.</l>
+          <l>Scena quinta</l>
+          <l>Orlando solo.</l>
+          <l>Insolito coraggio ora in quest’alma</l>
+          <l>portan dal mago illustre</l>
+          <l>i fatidici sensi: egli del nume</l>
+          <l>ebbro, e ripieno, in me lo sguardo fisse,</l>
+          <l>e nel sagro furor così mi disse:</l>
+          <l>«Orlando, allora il ciel per te dispose</l>
+          <l>le fortune d’amor, quando ad Alcina</l>
+          <l>involerai le ceneri famose,</l>
+          <l>che involser di Merlin l’alma divina.</l>
+          <l>Spera, coglier potrai le gloriose</l>
+          <l>palme, che il fato al tuo poter destina:</l>
+          <l>per te sia l’immortal custode estinto,</l>
+          <l>e ‘l poter della maga oppresso e vinto.»</l>
+          <l>Amorose mie brame</l>
+          <l>non più duol e timor: speriam ben tosto</l>
+          <l>sarem, io glorioso, e voi contente:</l>
+          <l>l’indovino il promise, egli non mente.</l>
+          <l>Nel profondo</l>
+          <l>cieco mondo</l>
+          <l>si precipiti la sorte</l>
+          <l>già spietata a questo cor.</l>
+          <l>Vincerà l’amor più forte</l>
+          <l>con l’aita del valor.</l>
+          <l>Scena sesta</l>
+          <l>Giardino delizioso in cui si vedono le due fonti, una delle quali estinge, l’altra accendente l’amore.</l>
+          <l>Mare tempestoso in lontano.</l>
+          <l>Angelica, poi Medoro ferito che viene dal mare.</l>
+        </sp>
+        <stage>BRADAMANTEGeneroso è ‘l consiglioma alla maga crudelenasconderò il mio nome,né mostrerò quest’aria mia guerriera.Tanto men Bradamanterassembrerò a costei, quanto men fiera.Asconderò il mio sdegnoal nero core indegno,sin tanto che al mio amor torni lo sposo.Ma se mi toglie (oh dio)l’indegna l’idol mioil braccio proverà fiero, e sdegnoso.Scena quintaOrlando solo.Insolito coraggio ora in quest’almaportan dal mago illustrei fatidici sensi: egli del numeebbro, e ripieno, in me lo sguardo fisse,e nel sagro furor così mi disse:«Orlando, allora il ciel per te disposele fortune d’amor, quando ad Alcinainvolerai le ceneri famose,che involser di Merlin l’alma divina.Spera, coglier potrai le gloriosepalme, che il fato al tuo poter destina:per te sia l’immortal custode estinto,e ‘l poter della maga oppresso e vinto.»Amorose mie bramenon più duol e timor: speriam ben tostosarem, io glorioso, e voi contente:l’indovino il promise, egli non mente.Nel profondocieco mondosi precipiti la sortegià spietata a questo cor.Vincerà l’amor più fortecon l’aita del valor.Scena sestaGiardino delizioso in cui si vedono le due fonti, una delle quali estinge, l’altra accendente l’amore.Mare tempestoso in lontano.Angelica, poi Medoro ferito che viene dal mare.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Quanto somigli tempestoso mare</l>
+          <l>al fluttuar di questa anima amante!</l>
+          <l>L’onda che il flutto incalza</l>
+          <l>e la voglia amorosa,</l>
+          <l>ch’incalza il fiero duol della mia pena:</l>
+          <l>or si discopre la profonda arena,</l>
+          <l>or l’onda inferocita</l>
+          <l>sale tumida al ciel…</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Soccorso. Aita.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Misero! Ahimè, che veggio? Un picciol legno</l>
+          <l>quasi dall’onde assorto</l>
+          <l>vicino a naufragar? Stranier, fa core,</l>
+          <l>respingi pur l’onda nemica: in salvo</l>
+          <l>già lo vegg’io dal fier Nettun irato!</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Pur ritorno a mirarti idolo amato!</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Che veggio! Ah mio tesor: di braccio a morte</l>
+          <l>t’involaro i miei voti!</l>
+          <l>Pur ti riveggo, e pur ti stringo al seno.</l>
+          <l>Qual sangue? Ahi me infelice!</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Io vengo meno.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Qui ti siedi cor mio.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Vedo la morte</l>
+          <l>stender sovra di me squallidi i vanni.</l>
+          <l>Ecco i freddi sudori:</l>
+          <l>dall’aperto mio fianco esce già l’alma;</l>
+          <l>ma dolce mi è il morir, or che la sorte</l>
+          <l>fra le tue braccia il mio morir destina.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ANGELICA</head>Pietosi dèi, chi mi soccorre?Scena settimaAlcina e detti.<sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Pietosi dèi, chi mi soccorre?</l>
+          <l>Scena settima</l>
+          <l>Alcina e detti.</l>
+        </sp>
+        <stage>ANGELICAPietosi dèi, chi mi soccorre?Scena settimaAlcina e detti.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Alcina.</l>
+          <l>(intanto che Angelica è smaniosa, Alcina con magici accenti sana Medoro dalla ferite)</l>
+        </sp>
+        <stage>ALCINAAlcina.(intanto che Angelica è smaniosa, Alcina con magici accenti sana Medoro dalla ferite)</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Alcina. Ah, tal mi rendi il mio tesoro?</l>
+          <l>Vedi il giglio d’amor langue, e rugiade…</l>
+          <l>Ma da qual cielo, oh dio! rugiade attendo?</l>
+          <l>Il mio pianto, il mio sangue</l>
+          <l>Alcina basterà per ravvivarlo.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Bastò già il mio potere.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Chi mi richiama in vita?</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Aperti ha i lumi.</l>
+          <l>(ad Alcina)</l>
+          <l>Riveggo, o sogno, i rai celesti?</l>
+        </sp>
+        <stage>ANGELICAAperti ha i lumi.(ad Alcina)Riveggo, o sogno, i rai celesti?</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>E in loro</l>
+          <l>vedi un’opra volgar della mia possa.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(ad Alcina)</l>
+          <l>Che di eterno dovere a te mi stringe.</l>
+          <l>(a Medoro)</l>
+          <l>Pur respiri alma mia!</l>
+        </sp>
+        <stage>ANGELICA(ad Alcina)Che di eterno dovere a te mi stringe.(a Medoro)Pur respiri alma mia!</stage>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Ripieno ho il petto</l>
+          <l>di gioia e di contento,</l>
+          <l>poiché ti stringo al sen, cor del mio core.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Narran i casi tuoi, che dopo il pianto</l>
+          <l>egli è soave il rammentarli in gioia.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>MEDORO</head>Te perduta, te cerco e giunto al marelegno di Logistillami accoglie: sciolto abbiam le vele appena,che da navi nemiche intorno cintisiam combattuti, e vinti.Ferito io resto, e prigionier: si adiraNettuno, ed il naufragio a noi minaccia;sgravansi per sottrarsi ai di lui sdegnidalle inutili somme i carchi legni.Rimango il primo absorto,e sepolto nell’onde in pria che morto:l’onda qua, e la m’incalza,e sovra il mar m’innalza.Il ciel riveggo, e m’innalza agl’occhi mieil’instabil flutto un picciol legno adduce;tosto l’afferro; e mentre chiedo aita,quando morte io temea trovo la vita.Scena ottavaOrlando e suddetti.<sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Te perduta, te cerco e giunto al mare</l>
+          <l>legno di Logistilla</l>
+          <l>mi accoglie: sciolto abbiam le vele appena,</l>
+          <l>che da navi nemiche intorno cinti</l>
+          <l>siam combattuti, e vinti.</l>
+          <l>Ferito io resto, e prigionier: si adira</l>
+          <l>Nettuno, ed il naufragio a noi minaccia;</l>
+          <l>sgravansi per sottrarsi ai di lui sdegni</l>
+          <l>dalle inutili somme i carchi legni.</l>
+          <l>Rimango il primo absorto,</l>
+          <l>e sepolto nell’onde in pria che morto:</l>
+          <l>l’onda qua, e la m’incalza,</l>
+          <l>e sovra il mar m’innalza.</l>
+          <l>Il ciel riveggo, e m’innalza agl’occhi miei</l>
+          <l>l’instabil flutto un picciol legno adduce;</l>
+          <l>tosto l’afferro; e mentre chiedo aita,</l>
+          <l>quando morte io temea trovo la vita.</l>
+          <l>Scena ottava</l>
+          <l>Orlando e suddetti.</l>
+        </sp>
+        <stage>MEDOROTe perduta, te cerco e giunto al marelegno di Logistillami accoglie: sciolto abbiam le vele appena,che da navi nemiche intorno cintisiam combattuti, e vinti.Ferito io resto, e prigionier: si adiraNettuno, ed il naufragio a noi minaccia;sgravansi per sottrarsi ai di lui sdegnidalle inutili somme i carchi legni.Rimango il primo absorto,e sepolto nell’onde in pria che morto:l’onda qua, e la m’incalza,e sovra il mar m’innalza.Il ciel riveggo, e m’innalza agl’occhi mieil’instabil flutto un picciol legno adduce;tosto l’afferro; e mentre chiedo aita,quando morte io temea trovo la vita.Scena ottavaOrlando e suddetti.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Non godrai sempre in pace,</l>
+          <l>lieto del tuo gioir, rivale audace.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Orlando?</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(Ahimè!)</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>(Io son perduto.)</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Rendi pur grazie al ciel, ch’inerme sei.</l>
+          <l>Col tuo sangue vorrei…</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Che far vorresti?</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(piano a Medoro)</l>
+          <l>Deh, non temer.</l>
+        </sp>
+        <stage>ALCINA(piano a Medoro)Deh, non temer.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Lusinghe or siate meco.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Oh, fugaci contenti!</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>(ad Angelica)</l>
+          <l>Impallidisci</l>
+          <l>tigre di crudeltà, sfinge d’inganni.</l>
+        </sp>
+        <stage>ORLANDO(ad Angelica)Impallidiscitigre di crudeltà, sfinge d’inganni.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Tu non conosci, Orlando,</l>
+          <l>chi sia il garzon, di cui geloso or sei:</l>
+          <l>d’Angelica la bella egl’ è il germano.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Ormai respiro, oh dèi!</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Così ingrato m’insulti, e così temi</l>
+          <l>del mio sincero amor, della mia fede!</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Ove trascorsi!</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Oh come scaltra or finge!</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Senti, senti mio ben.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Sono una sfinge,</l>
+          <l>una tigre: vi aggiungi,</l>
+          <l>per caparra d’amor, qualch’altra offesa.</l>
+          <l>Io tigre mentitor? Tu a me lo sei</l>
+          <l>con questo vano tuo timor geloso.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>(a Medoro)</l>
+          <l>Tu m’impetra il perdono…</l>
+        </sp>
+        <stage>ORLANDO(a Medoro)Tu m’impetra il perdono…</stage>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Non lo potrei, se il tuo rival già sono.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Poveri affetti miei! Questa vi rende</l>
+          <l>amorosa mercede il core ingrato!</l>
+          <l>(finge di piangere)</l>
+        </sp>
+        <stage>ANGELICAPoveri affetti miei! Questa vi rendeamorosa mercede il core ingrato!(finge di piangere)</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Per questa bella man, che umile io stringo.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>(piano ad Angelica)</l>
+          <l>Cara, piangi per lui?</l>
+        </sp>
+        <stage>MEDORO(piano ad Angelica)Cara, piangi per lui?</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(piano a Medoro)</l>
+          <l>Non piango, io fingo.</l>
+        </sp>
+        <stage>ANGELICA(piano a Medoro)Non piango, io fingo.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(ad Angelica)</l>
+          <l>S’egli t’offese a me l’offesa or dona.</l>
+          <l>Vedilo, che pentito</l>
+          <l>te ne chiede perdon.</l>
+        </sp>
+        <stage>ALCINA(ad Angelica)S’egli t’offese a me l’offesa or dona.Vedilo, che pentitote ne chiede perdon.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Bella, perdona.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Temesti di mia fede, e ancor non sai,</l>
+          <l>che tuo è ‘l mio cor, che tu sei l’idol mio?</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>O bellissima destra!</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Ella ti è pegno</l>
+          <l>di mia candida fede.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>(piano ad Angelica)</l>
+          <l>Angelica…</l>
+        </sp>
+        <stage>MEDORO(piano ad Angelica)Angelica…</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Ti accheta.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>(piano ad Alcina)</l>
+          <l>Finge pur!</l>
+        </sp>
+        <stage>MEDORO(piano ad Alcina)Finge pur!</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Non lo vedi?</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Ahi che tormento!</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>(ad Angelica)</l>
+          <l>I begl’occhi onde amor vibra le faci…</l>
+        </sp>
+        <stage>ORLANDO(ad Angelica)I begl’occhi onde amor vibra le faci…</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Per te, se belli son, son belli.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Oh dio!</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Sei tu geloso ancor?</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>No.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ANGELICA</head>Dunque taci.Tu sei degl’occhi mieitu sei di questo sen;(a Medoro)soffri, tu sei ‘l mio benl’oggetto amato.Geloso non ti bramocredimi sì ch’io t’amoson tua, si tua son ioidolo del cor mionume adorato.Scena nonaOrlando, Medoro ed Alcina.<sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Dunque taci.</l>
+          <l>Tu sei degl’occhi miei</l>
+          <l>tu sei di questo sen;</l>
+          <l>(a Medoro)</l>
+          <l>soffri, tu sei ‘l mio ben</l>
+          <l>l’oggetto amato.</l>
+          <l>Geloso non ti bramo</l>
+          <l>credimi sì ch’io t’amo</l>
+          <l>son tua, si tua son io</l>
+          <l>idolo del cor mio</l>
+          <l>nume adorato.</l>
+          <l>Scena nona</l>
+          <l>Orlando, Medoro ed Alcina.</l>
+        </sp>
+        <stage>ANGELICADunque taci.Tu sei degl’occhi mieitu sei di questo sen;(a Medoro)soffri, tu sei ‘l mio benl’oggetto amato.Geloso non ti bramocredimi sì ch’io t’amoson tua, si tua son ioidolo del cor mionume adorato.Scena nonaOrlando, Medoro ed Alcina.</stage>
+      </div>
+      <div type="scene">
+        <head>ORLANDO</head>Ahi crudel gelosia,tiranna degl’affettiquasi presso al mio ben reo mi rendesti.(ad Alcina)Tu pietosa togliestiAlcina dal mio sen il rio timore.(a Medoro)Perdona amico, è sempre cieco amore.Troppo è fiero, il nume arciero,quando in sen di chi ben amad’una fredda gelosiail velen spargendo va.Ma consola l’alma miail pensier, che il mio timoregià nel coredel mio ben destò pietà.Scena decimaAlcina e Medoro.<sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Ahi crudel gelosia,</l>
+          <l>tiranna degl’affetti</l>
+          <l>quasi presso al mio ben reo mi rendesti.</l>
+          <l>(ad Alcina)</l>
+          <l>Tu pietosa togliesti</l>
+          <l>Alcina dal mio sen il rio timore.</l>
+          <l>(a Medoro)</l>
+          <l>Perdona amico, è sempre cieco amore.</l>
+          <l>Troppo è fiero, il nume arciero,</l>
+          <l>quando in sen di chi ben ama</l>
+          <l>d’una fredda gelosia</l>
+          <l>il velen spargendo va.</l>
+          <l>Ma consola l’alma mia</l>
+          <l>il pensier, che il mio timore</l>
+          <l>già nel core</l>
+          <l>del mio ben destò pietà.</l>
+          <l>Scena decima</l>
+          <l>Alcina e Medoro.</l>
+        </sp>
+        <stage>ORLANDOAhi crudel gelosia,tiranna degl’affettiquasi presso al mio ben reo mi rendesti.(ad Alcina)Tu pietosa togliestiAlcina dal mio sen il rio timore.(a Medoro)Perdona amico, è sempre cieco amore.Troppo è fiero, il nume arciero,quando in sen di chi ben amad’una fredda gelosiail velen spargendo va.Ma consola l’alma miail pensier, che il mio timoregià nel coredel mio ben destò pietà.Scena decimaAlcina e Medoro.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Medoro, il ciglio abbassi, e stai dolente?</l>
+          <l>Lascia di sospirar.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Cieli! Chi mai</l>
+          <l>creduto avria, che in’un momento solo</l>
+          <l>Angelica potesse,</l>
+          <l>mostrando ad altri amor, farsi incostante?</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>L’arti ancora non sai d’un core amante.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Eh, d’arti non ha d’uopo,</l>
+          <l>chi nel seno racchiude un cor sincero.</l>
+          <l>S’altri adora il mio bene,</l>
+          <l>io soffrir lo dovrò, dovrò tacere?</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>E soffrire, e tacer: questo è amor vero.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>MEDORO</head>Se tacendo, se soffrendoio togliessi ogn’altro affettodal pensier dell’idol miobella allora io soffrirei;ma in’amando e sospirandomi tormenta il sol sospettoche tradisca il destin riogl’innocenti affetti miei.Scena undicesimaAlcina poi Ruggiero.<sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Se tacendo, se soffrendo</l>
+          <l>io togliessi ogn’altro affetto</l>
+          <l>dal pensier dell’idol mio</l>
+          <l>bella allora io soffrirei;</l>
+          <l>ma in’amando e sospirando</l>
+          <l>mi tormenta il sol sospetto</l>
+          <l>che tradisca il destin rio</l>
+          <l>gl’innocenti affetti miei.</l>
+          <l>Scena undicesima</l>
+          <l>Alcina poi Ruggiero.</l>
+        </sp>
+        <stage>MEDOROSe tacendo, se soffrendoio togliessi ogn’altro affettodal pensier dell’idol miobella allora io soffrirei;ma in’amando e sospirandomi tormenta il sol sospettoche tradisca il destin riogl’innocenti affetti miei.Scena undicesimaAlcina poi Ruggiero.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Innocente garzon, tu ancor non sai</l>
+          <l>con quanti strali amor ferisca un core.</l>
+          <l>Verrà, verrà per te quel giorno ancora,</l>
+          <l>che pensier cangerai.</l>
+          <l>Se avessi un solo amante,</l>
+          <l>fra le donne, sarei donna volgare.</l>
+          <l>Ma qual ventura è questa!</l>
+          <l>Da un destriero volante</l>
+          <l>veggio, che scende armato cavaliere.</l>
+          <l>A questa parte ei volge il più: che sia?</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Grazie al ciel pure al fine calchi Ruggiero</l>
+          <l>il suol, se suolo è questo</l>
+          <l>che del felice Eliso</l>
+          <l>il bel soggiorno a me rassembra.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(È vago!)</l>
+          <l>Poiché per mia gran sorte,</l>
+          <l>sceso dal cielo onori i regni miei,</l>
+          <l>cavaliero gentil, dimmi chi sei?</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Ruggiero io son; giunto cred’io nel cielo</l>
+          <l>che tutto spira qui beltà celeste.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Qui dove io son reina</l>
+          <l>valoroso Ruggiero</l>
+          <l>signor tu sei.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Troppo mi onori.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Alcina, tanto deve al tuo nome</l>
+          <l>(e al suo sembiante).</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(Sol la mia Bradamante</l>
+          <l>può far confronto a sua gentil bellezza.)</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Fisso mi guarda e poi fra sé favella.</l>
+          <l>Nuova preda ei farà degl’occhi miei.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(Eh, la mia Bradamante è più bella.)</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Meco all’ombra t’assidi.</l>
+          <l>(siede fra le due fonti)</l>
+          <l>Il fianco tuo riposa, e ti ristora</l>
+          <l>in quest’onda tranquilla.</l>
+        </sp>
+        <stage>ALCINAMeco all’ombra t’assidi.(siede fra le due fonti)Il fianco tuo riposa, e ti ristorain quest’onda tranquilla.</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Come chiara zampilla!</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Assaggia meco</l>
+          <l>il limpido cristallo.</l>
+          <l>(Il prendo all’esca!)</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Onda giammai più fresca</l>
+          <l>non assaggiai.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(S’egli nel petto avea</l>
+          <l>qualche foco d’amore,</l>
+          <l>l’onda ne spense già tutto l’ardore.)</l>
+          <l>(a Ruggiero)</l>
+          <l>Questo umor si leggero</l>
+          <l>caro, della tua sete estinse il foco.</l>
+          <l>(Il colgo nella rete a poco a poco.)</l>
+        </sp>
+        <stage>ALCINA(S’egli nel petto aveaqualche foco d’amore,l’onda ne spense già tutto l’ardore.)(a Ruggiero)Questo umor si leggerocaro, della tua sete estinse il foco.(Il colgo nella rete a poco a poco.)</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>È vero Alcina, è vero.</l>
+          <l>Par che libero il cor respiri, e goda.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Ma questa è più soave.</l>
+          <l>(Ora ei cade nel laccio.)</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Ambrosia è questa</l>
+          <l>o nettare di Giove?</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Incendio desta</l>
+          <l>l’onda fatal per me nel di lui core,</l>
+          <l>e d’ogn’altra bellezza</l>
+          <l>adorata da lui l’idea cancella.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Quanto cortese sei donna gentile.</l>
+          <l>Niun altra a te simile</l>
+          <l>vider questi occhi miei,</l>
+          <l>e forse non vedran grazia più bella.</l>
+          <l>A l’ardir mio perdona.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ALCINA</head>Il doppio sol de tuoi begl’occhi è quello,che co’ suoi raggi il volto mio fa bello.Scena dodicesimaBradamante, e suddetti.<sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Il doppio sol de tuoi begl’occhi è quello,</l>
+          <l>che co’ suoi raggi il volto mio fa bello.</l>
+          <l>Scena dodicesima</l>
+          <l>Bradamante, e suddetti.</l>
+        </sp>
+        <stage>ALCINAIl doppio sol de tuoi begl’occhi è quello,che co’ suoi raggi il volto mio fa bello.Scena dodicesimaBradamante, e suddetti.</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Vo cercando Ruggiero, e ‘l trovo involto</l>
+          <l>ne i lacci della maga. Oh me infelice!</l>
+          <l>Or qui gelosa, e inosservata ascolto.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(ad Alcina)</l>
+          <l>Veggio ne tuoi bei lumi</l>
+          <l>scintillar quella fiamma</l>
+          <l>che accenderà l’innamorato core.</l>
+        </sp>
+        <stage>RUGGIERO(ad Alcina)Veggio ne tuoi bei lumiscintillar quella fiammache accenderà l’innamorato core.</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Misera!</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Oh! fosse amore,</l>
+          <l>quello, che dal tuo labbro a me favella.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Ahi, donna ingannatrice!</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Ei già sospira.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Mira oh bella, deh mira</l>
+          <l>il poter de tuoi lumi,</l>
+          <l>che costringe il mio core ad adorarti.</l>
+          <l>Reo s’io t’adoro, oh cara,</l>
+          <l>di temerario ardir non mi dirai.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Dirò, ch’io pria t’amai</l>
+          <l>e giurerò, caro, d’amarti sempre.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(Perfida!)</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(ad Alcina)</l>
+          <l>Sei pur bella!</l>
+        </sp>
+        <stage>RUGGIERO(ad Alcina)Sei pur bella!</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(a Ruggiero)</l>
+          <l>Ah traditore!</l>
+          <l>Questa è la fé, che mi giurasti, e questo</l>
+          <l>è il promesso tuo amore?</l>
+        </sp>
+        <stage>BRADAMANTE(a Ruggiero)Ah traditore!Questa è la fé, che mi giurasti, e questoè il promesso tuo amore?</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(a Ruggiero)</l>
+          <l>E chi è costei?</l>
+        </sp>
+        <stage>ALCINA(a Ruggiero)E chi è costei?</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(ad Alcina)</l>
+          <l>Non la conosco.</l>
+        </sp>
+        <stage>RUGGIERO(ad Alcina)Non la conosco.</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(Ove trascorsi, oh dèi.)</l>
+          <l>Olimpia io son (mentasi il nome) e quello</l>
+          <l>il perfido Bireno.</l>
+          <l>Egli il giglio più bel su questo seno</l>
+          <l>sfrondò con fé di sposo,</l>
+          <l>poscia m’abbandonò: s’egli sospira,</l>
+          <l>son mentiti i sospiri.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(a Ruggiero)</l>
+          <l>Di Bireno che parla?</l>
+        </sp>
+        <stage>ALCINA(a Ruggiero)Di Bireno che parla?</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(ad Alcina)</l>
+          <l>Ella delira.</l>
+        </sp>
+        <stage>RUGGIERO(ad Alcina)Ella delira.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Olimpia de’ tuoi casi</l>
+          <l>mi pesa il reo tenor; ma tu vedrai,</l>
+          <l>che Bireno non è.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(Pur troppo è vero.)</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Bella dà tregua al duolo, io son Ruggiero.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(Non mi ravvisa, o finge.) Empio tu menti;</l>
+          <l>io conobbi Ruggiero</l>
+          <l>amoroso, e costante.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Ella nel suo furore</l>
+          <l>e Bireno, e Ruggier confonde insieme.</l>
+          <l>Lasciamla a le sue smanie: andiam mio core.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Sarò teco mia vita.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Ah traditore!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>RUGGIERO</head>Sol per te mio dolce amorequesto coreavrà pace avrà conforto.Le tue vaghe luci belleson le stelle,onde amor m’addita il porto.Scena tredicesimaAlcina e Bradamante.<sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Sol per te mio dolce amore</l>
+          <l>questo core</l>
+          <l>avrà pace avrà conforto.</l>
+          <l>Le tue vaghe luci belle</l>
+          <l>son le stelle,</l>
+          <l>onde amor m’addita il porto.</l>
+          <l>Scena tredicesima</l>
+          <l>Alcina e Bradamante.</l>
+        </sp>
+        <stage>RUGGIEROSol per te mio dolce amorequesto coreavrà pace avrà conforto.Le tue vaghe luci belleson le stelle,onde amor m’addita il porto.Scena tredicesimaAlcina e Bradamante.</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Ah inumano, ah crudele!</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Guarda ben, che t’inganni.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>E l’infedele</l>
+          <l>che mi promise affetto,</l>
+          <l>che si giurò ben mille volte, e mille</l>
+          <l>a queste mie pupille</l>
+          <l>il più leale amante,</l>
+          <l>che portasse d’amor fiamme nel seno.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Bella, tu prendi error, non è Bireno.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Non ti credo, no, no: seguir lo voglio:</l>
+          <l>non sempre riderai del mio cordoglio</l>
+          <l>(parte)</l>
+        </sp>
+        <stage>BRADAMANTENon ti credo, no, no: seguir lo voglio:non sempre riderai del mio cordoglio(parte)</stage>
+      </div>
+    </body>
+    <div type="act">
+      <head>ALCINA</head>Se lo crede Bireno, ella s’inganna,e se Ruggiero il credein van spera da lui costanza, e fede.Ei già di questi rai cede all’impero;lo siegua, il cor non teme, e mio Ruggiero.Amorose ai rai del soleson le rose, e le viole,ed il sol col raggio ardentepur talor languir le fa.Benché senta il mio dilettonuovo fuoco dentro il petto,amerà sempre costantela mia bella fedeltà.Atto secondoScena primaBoschetto delizioso con ritiri di verdura.Alcina ed Astolfo.<div type="scene">
+        <head>ALCINA</head>Se lo crede Bireno, ella s’inganna,e se Ruggiero il credein van spera da lui costanza, e fede.Ei già di questi rai cede all’impero;lo siegua, il cor non teme, e mio Ruggiero.Amorose ai rai del soleson le rose, e le viole,ed il sol col raggio ardentepur talor languir le fa.Benché senta il mio dilettonuovo fuoco dentro il petto,amerà sempre costantela mia bella fedeltà.Atto secondoScena primaBoschetto delizioso con ritiri di verdura.Alcina ed Astolfo.<sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Se lo crede Bireno, ella s’inganna,</l>
+          <l>e se Ruggiero il crede</l>
+          <l>in van spera da lui costanza, e fede.</l>
+          <l>Ei già di questi rai cede all’impero;</l>
+          <l>lo siegua, il cor non teme, e mio Ruggiero.</l>
+          <l>Amorose ai rai del sole</l>
+          <l>son le rose, e le viole,</l>
+          <l>ed il sol col raggio ardente</l>
+          <l>pur talor languir le fa.</l>
+          <l>Benché senta il mio diletto</l>
+          <l>nuovo fuoco dentro il petto,</l>
+          <l>amerà sempre costante</l>
+          <l>la mia bella fedeltà.</l>
+          <l>Atto secondo</l>
+          <l>Scena prima</l>
+          <l>Boschetto delizioso con ritiri di verdura.</l>
+          <l>Alcina ed Astolfo.</l>
+        </sp>
+        <stage>ALCINASe lo crede Bireno, ella s’inganna,e se Ruggiero il credein van spera da lui costanza, e fede.Ei già di questi rai cede all’impero;lo siegua, il cor non teme, e mio Ruggiero.Amorose ai rai del soleson le rose, e le viole,ed il sol col raggio ardentepur talor languir le fa.Benché senta il mio dilettonuovo fuoco dentro il petto,amerà sempre costantela mia bella fedeltà.Atto secondoScena primaBoschetto delizioso con ritiri di verdura.Alcina ed Astolfo.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Tant’è l’amor per variar d’oggetto</l>
+          <l>fa più dolce il gioire</l>
+          <l>nel fortunato ardor di nuovo affetto.</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Tal che Alcina egli è ver: tocca a penare</l>
+          <l>al povero mio cor quand’altri gode.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Fonte perenne è il sol della sua luce,</l>
+          <l>e il sol della bellezza</l>
+          <l>perenne è di sue gioie, e s’un ne gode</l>
+          <l>ad altri non invola</l>
+          <l>il soave piacer del godimento.</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Una donna incostante è un gran tormento!</l>
+          <l>Non ho più cor da sofferir quest’arti,</l>
+          <l>con cui dividi amor.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Povero Astolfo!</l>
+          <l>Non hai più cor da sofferirle? Parti.</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Ch’io mi parta da te? Troppo tenaci</l>
+          <l>le mie ritorte son.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Resta, ma taci.</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Ahi qual barbara legge imponi al core?</l>
+          <l>Dovrò vederti, infida,</l>
+          <l>né il povero mio amor potrà lagnarsi?</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Questa è la strada Astolfo</l>
+          <l>per meritar gl’affetti miei. La sola</l>
+          <l>sofferenza può un dì farti felice.</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Comincia molto mal la mia fortuna!</l>
+          <l>Io t’amo, e t’amo, o bella</l>
+          <l>col più tenero amor, col più costante,</l>
+          <l>che accendesse giammai altr’alma amante.</l>
+          <l>E tu donna crudele…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ALCINA</head>Al vento spargi omai le tue querele.Vorresti amor da me?L’avrai, l’avrai;ma non sperar, che maial solo solo focode’ tuoi languenti raiarda il mio cor.T’inganni se lo credi,sei cieco, se non vedi,ch’io contenta non sond’un solo amor.Scena secondaAstolfo, poi Bradamante.<sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Al vento spargi omai le tue querele.</l>
+          <l>Vorresti amor da me?</l>
+          <l>L’avrai, l’avrai;</l>
+          <l>ma non sperar, che mai</l>
+          <l>al solo solo foco</l>
+          <l>de’ tuoi languenti rai</l>
+          <l>arda il mio cor.</l>
+          <l>T’inganni se lo credi,</l>
+          <l>sei cieco, se non vedi,</l>
+          <l>ch’io contenta non son</l>
+          <l>d’un solo amor.</l>
+          <l>Scena seconda</l>
+          <l>Astolfo, poi Bradamante.</l>
+        </sp>
+        <stage>ALCINAAl vento spargi omai le tue querele.Vorresti amor da me?L’avrai, l’avrai;ma non sperar, che maial solo solo focode’ tuoi languenti raiarda il mio cor.T’inganni se lo credi,sei cieco, se non vedi,ch’io contenta non sond’un solo amor.Scena secondaAstolfo, poi Bradamante.</stage>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Per qual donna incostante,</l>
+          <l>crudele amore m’incatenasti il core.</l>
+          <l>Barbara ancor d’ infedeltà ti vanti?</l>
+          <l>E questa è la mercede</l>
+          <l>che doni in ricompensa alla mia fede?</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Forte campion, non ti vergogni ancora,</l>
+          <l>che una perfida donna ingannatrice</l>
+          <l>te pur tenga d’amor ne i lacci involto?</l>
+          <l>Scuoti il giogo crudel, vinci te stesso.</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Veggio il mio danno espresso</l>
+          <l>nel doppio infido cor d’Alcina ingrata.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>È una maga spietata,</l>
+          <l>che con occulta infame forza (oh dio)</l>
+          <l>anco del mio Ruggier l’amor mi tolse,</l>
+          <l>ma vendicar saprò l’oltraggio mio.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ASTOLFO</head>Protegga il cielo i tuoi disegni, e siala tua vendetta ancor vendetta mia.Benché nascondala serpe in senospietata, e immondail rio veleno,è men crudeledell’infedeleche t’ingannò.È pien di frodiil regno infido,e in altro lidoio fuggirò.Scena terzaBradamante, Ruggiero, poi Orlando.<sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Protegga il cielo i tuoi disegni, e sia</l>
+          <l>la tua vendetta ancor vendetta mia.</l>
+          <l>Benché nasconda</l>
+          <l>la serpe in seno</l>
+          <l>spietata, e immonda</l>
+          <l>il rio veleno,</l>
+          <l>è men crudele</l>
+          <l>dell’infedele</l>
+          <l>che t’ingannò.</l>
+          <l>È pien di frodi</l>
+          <l>il regno infido,</l>
+          <l>e in altro lido</l>
+          <l>io fuggirò.</l>
+          <l>Scena terza</l>
+          <l>Bradamante, Ruggiero, poi Orlando.</l>
+        </sp>
+        <stage>ASTOLFOProtegga il cielo i tuoi disegni, e siala tua vendetta ancor vendetta mia.Benché nascondala serpe in senospietata, e immondail rio veleno,è men crudeledell’infedeleche t’ingannò.È pien di frodiil regno infido,e in altro lidoio fuggirò.Scena terzaBradamante, Ruggiero, poi Orlando.</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Qui viene il mio Ruggier: resisti o core.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Stella d’amor, che il mattutino albore</l>
+          <l>precedi, e messaggera</l>
+          <l>sei del notturno orror tornando in cielo,</l>
+          <l>dimmi, sotto uman velo,</l>
+          <l>vedesti mai maggior fede, e beltà</l>
+          <l>di quella, onde il mio bene adorno va?</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Del tuo non vidi mai cuor più infedele.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(Qui Olimpia delirante!)</l>
+          <l>Lascia o bella i sospiri, e le querele.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Tempo già fu, che anch’io bella, e vezzosa</l>
+          <l>sembrava a l’empio cor, che chiudi in seno.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Te le ridico ancor, non son Bireno.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Guarda un poco questi occhi.</l>
+          <l>Li conosci fellon?</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Bella…</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>No, dimmi,</l>
+          <l>conosci, traditor, questi occhi miei?</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Credi…</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Nel loro ardor di Bradamante</l>
+          <l>vedi l’irato cor? Guardali bene:</l>
+          <l>guardali traditor.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Non mi sovviene.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>(a Ruggiero)</l>
+          <l>Non ti sovvien la fé, mal cavaliero,</l>
+          <l>che le giurasti.</l>
+        </sp>
+        <stage>ORLANDO(a Ruggiero)Non ti sovvien la fé, mal cavaliero,che le giurasti.</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(ad Orlando)</l>
+          <l>Ahimè!</l>
+        </sp>
+        <stage>RUGGIERO(ad Orlando)Ahimè!</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(a Ruggiero dandogli l’anello fatale, che passato in di lui mano scioglie l’incanto, per il quale egli non conoscea Bradamante)</l>
+          <l>L’aurato cerchio</l>
+          <l>quest’è, che di tue fé mi desti in pegno.</l>
+          <l>Miralo.</l>
+        </sp>
+        <stage>BRADAMANTE(a Ruggiero dandogli l’anello fatale, che passato in di lui mano scioglie l’incanto, per il quale egli non conoscea Bradamante)L’aurato cerchioquest’è, che di tue fé mi desti in pegno.Miralo.</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Oh ciel! Qual velo</l>
+          <l>mi si squarcia dagl’occhi?</l>
+          <l>Oh Bradamante, oh sposa?</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Il sacro anello</l>
+          <l>sciolse l’incanto, onde l’idea nascosa</l>
+          <l>le rimaneva infin del tuo bel volto.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Mie dilette pupille, occhi sdegnosi,</l>
+          <l>stelle irate d’amor, ah fulminate…</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Torna con quell’ anello,</l>
+          <l>Ruggiero, a rimirar d’Alcina il bello;</l>
+          <l>e se allora da te vien riamata</l>
+          <l>ti perdono, e mi parto invendicata.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Deh, cor mio, deh, mia vita.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>BRADAMANTE</head>Taci non ti lagnar:taci non mi pregar.Disperdi i pianti all’aure,i prieghi al vento.Bugiardo infido cor,e menzognero ancornel pentimento.Scena quartaRuggiero ed Orlando.<sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Taci non ti lagnar:</l>
+          <l>taci non mi pregar.</l>
+          <l>Disperdi i pianti all’aure,</l>
+          <l>i prieghi al vento.</l>
+          <l>Bugiardo infido cor,</l>
+          <l>e menzognero ancor</l>
+          <l>nel pentimento.</l>
+          <l>Scena quarta</l>
+          <l>Ruggiero ed Orlando.</l>
+        </sp>
+        <stage>BRADAMANTETaci non ti lagnar:taci non mi pregar.Disperdi i pianti all’aure,i prieghi al vento.Bugiardo infido cor,e menzognero ancornel pentimento.Scena quartaRuggiero ed Orlando.</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Qual terra ignota al suol, qual antro cieco</l>
+          <l>mi asconde ai miei rimorsi? Io t’ho tradita</l>
+          <l>Bradamante mia vita.</l>
+          <l>Tornate al core o lagrime, e lavate</l>
+          <l>la macchia del mio errore.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Macchia forzata</l>
+          <l>d’involontario error non passa al core.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Segna il volto però d’un gran rossore.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ORLANDO</head>Che d’ira generosa, illustre figlio,l’altra virtù di nobil alma addita.Meco vieni o Ruggier: come si vededopo turbine rio,splender più chiara in ciel stella serena,così quell’alma iratatosto vedrai, da sdegni suoi placata.Sorge l’irato nembo,e la fatal tempesta,col sussurrar dell’onde,ed agita, e confonde,e cielo e mare.Ma fugge in un balenol’orrida nube infesta,e ‘l placido serenoin cielo appare.Scena quintaMontuosa alpestre con alta, e scoscesa rupe.Angelica, Medoro.<sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Che d’ira generosa, illustre figlio,</l>
+          <l>l’altra virtù di nobil alma addita.</l>
+          <l>Meco vieni o Ruggier: come si vede</l>
+          <l>dopo turbine rio,</l>
+          <l>splender più chiara in ciel stella serena,</l>
+          <l>così quell’alma irata</l>
+          <l>tosto vedrai, da sdegni suoi placata.</l>
+          <l>Sorge l’irato nembo,</l>
+          <l>e la fatal tempesta,</l>
+          <l>col sussurrar dell’onde,</l>
+          <l>ed agita, e confonde,</l>
+          <l>e cielo e mare.</l>
+          <l>Ma fugge in un baleno</l>
+          <l>l’orrida nube infesta,</l>
+          <l>e ‘l placido sereno</l>
+          <l>in cielo appare.</l>
+          <l>Scena quinta</l>
+          <l>Montuosa alpestre con alta, e scoscesa rupe.</l>
+          <l>Angelica, Medoro.</l>
+        </sp>
+        <stage>ORLANDOChe d’ira generosa, illustre figlio,l’altra virtù di nobil alma addita.Meco vieni o Ruggier: come si vededopo turbine rio,splender più chiara in ciel stella serena,così quell’alma iratatosto vedrai, da sdegni suoi placata.Sorge l’irato nembo,e la fatal tempesta,col sussurrar dell’onde,ed agita, e confonde,e cielo e mare.Ma fugge in un balenol’orrida nube infesta,e ‘l placido serenoin cielo appare.Scena quintaMontuosa alpestre con alta, e scoscesa rupe.Angelica, Medoro.</stage>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Da questi sassi?</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Sì, da questi sassi,</l>
+          <l>scintillar deve il foco, onde la face</l>
+          <l>accenderà Imeneo</l>
+          <l>a far delle nostr’alme una sol alma.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Ma Orlando, o ciel!</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Non paventar, che Orlando</l>
+          <l>non ne vedrà la fiamma: in me confida,</l>
+          <l>e lasciami qui sola</l>
+          <l>a terminar del nostro amor la sorte.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Perde, o bella, ogni lume</l>
+          <l>la gloria di ubbidirti,</l>
+          <l>or che m’imponi, ch’io ti lasci.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>I pochi fortunati momenti</l>
+          <l>che lunge a me starai saranno eterni,</l>
+          <l>al tuo core, al mio cor, caro, i contenti.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>MEDORO</head>Ah, che in partir timido e mesto il core,è costretto a penar lungi al suo bello,tra speranza, e timore.Qual candido fioreche sorge nel pratorinasce nel corela bella mia speme,poi torna a perir.Son troppo felicese amarti mi lice;ma l’anima amantefedele e costantelontan dal suo benesi sente languir.Scena sestaAngelica, poi Orlando.<sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Ah, che in partir timido e mesto il core,</l>
+          <l>è costretto a penar lungi al suo bello,</l>
+          <l>tra speranza, e timore.</l>
+          <l>Qual candido fiore</l>
+          <l>che sorge nel prato</l>
+          <l>rinasce nel core</l>
+          <l>la bella mia speme,</l>
+          <l>poi torna a perir.</l>
+          <l>Son troppo felice</l>
+          <l>se amarti mi lice;</l>
+          <l>ma l’anima amante</l>
+          <l>fedele e costante</l>
+          <l>lontan dal suo bene</l>
+          <l>si sente languir.</l>
+          <l>Scena sesta</l>
+          <l>Angelica, poi Orlando.</l>
+        </sp>
+        <stage>MEDOROAh, che in partir timido e mesto il core,è costretto a penar lungi al suo bello,tra speranza, e timore.Qual candido fioreche sorge nel pratorinasce nel corela bella mia speme,poi torna a perir.Son troppo felicese amarti mi lice;ma l’anima amantefedele e costantelontan dal suo benesi sente languir.Scena sestaAngelica, poi Orlando.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Né giunge Orlando ancor? Con la sua morte</l>
+          <l>assicurar vuò la mia pace. Alcina</l>
+          <l>della rupe l’incanto</l>
+          <l>sola non userà… (Qui l’importuno!</l>
+          <l>Cauta alma mia, se vuoi goder.)</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Mia bella</l>
+          <l>eccomi: sospirosa</l>
+          <l>m’accogli ancor? Favella:</l>
+          <l>a qual rispetto omai per te si bada?</l>
+          <l>V’ha periglio? Vi son mostri, o giganti?</l>
+          <l>Ho core, ho braccio, ho spada</l>
+          <l>da vincerli per te.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>M’inorridisco</l>
+          <l>al sol pensarvi: troppo</l>
+          <l>mi costeria costando un tuo periglio</l>
+          <l>la capricciosa mia brama importuna.</l>
+          <l>(Traggo, se il colgo al laccio,</l>
+          <l>Medoro di periglio, e me d’impaccio.)</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Dunque m’invidieresti il glorioso</l>
+          <l>dolce morir per te?</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Tu lasciarmi e morir? Tua bella fede</l>
+          <l>nel funesto pensier l’alma non vede.</l>
+          <l>Chiara al pari di lucida stella</l>
+          <l>scintillando tua candida fede</l>
+          <l>prometteva mercede al mio amor.</l>
+          <l>Ma il pensier di lasciarmi crudele</l>
+          <l>fa temer, che non sia sempre bella</l>
+          <l>la facella, onde avvampa il mio cor.</l>
+          <l>(finge di partire)</l>
+        </sp>
+        <stage>ANGELICATu lasciarmi e morir? Tua bella fedenel funesto pensier l’alma non vede.Chiara al pari di lucida stellascintillando tua candida fedeprometteva mercede al mio amor.Ma il pensier di lasciarmi crudelefa temer, che non sia sempre bellala facella, onde avvampa il mio cor.(finge di partire)</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Questa è amorosa fé, quello è un bel core.</l>
+          <l>Chi vide mai più fortunato amore!</l>
+          <l>Dove, dove fuggisti, anima mia!</l>
+          <l>Torna, deh torna o cara</l>
+          <l>e, o svelami tua brama?</l>
+          <l>O mi vedrai ora al tuo piede estinto.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Ingegnoso crudel, perfine hai vinto.</l>
+          <l>Sulla rupe che vedi argenteo vaso</l>
+          <l>serba l’acque fatali,</l>
+          <l>onde Medea del già cadente Esone</l>
+          <l>fe’ rifiorir l’etade: io le vorrei.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>E valea i tuoi sospir sì lieve brama?</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Vigile sempre a lor custodia è intento</l>
+          <l>orribil mostro, e indomito dimora.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Io il domerò.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Noi fortunati allora</l>
+          <l>potrem, durando sempre in fior d’etade</l>
+          <l>rendere eterni i nostri dolci affetti.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Oh, soave sperar quanto m’alletti!</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Oh, dio! T’amo e pavento…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ORLANDO</head>Un sì forte vigoreinfonde nel mio sen, cara, il tuo amore,ch’ogni periglio io sfido:la rupe io saglio, e il fiero mostro uccido.(va per salire la rupe)Scena settimaAstolfo, e detti.<sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Un sì forte vigore</l>
+          <l>infonde nel mio sen, cara, il tuo amore,</l>
+          <l>ch’ogni periglio io sfido:</l>
+          <l>la rupe io saglio, e il fiero mostro uccido.</l>
+          <l>(va per salire la rupe)</l>
+          <l>Scena settima</l>
+          <l>Astolfo, e detti.</l>
+        </sp>
+        <stage>ORLANDOUn sì forte vigoreinfonde nel mio sen, cara, il tuo amore,ch’ogni periglio io sfido:la rupe io saglio, e il fiero mostro uccido.(va per salire la rupe)Scena settimaAstolfo, e detti.</stage>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Orlando, dove Orlando? Arresta i passi.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(Ah! Son scoperta!)</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>(ad Orlando)</l>
+          <l>A certa morte vassi</l>
+          <l>per l’infausto sentier.</l>
+        </sp>
+        <stage>ASTOLFO(ad Orlando)A certa morte vassiper l’infausto sentier.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>(ad Astolfo)</l>
+          <l>Tema al mio core?</l>
+        </sp>
+        <stage>ORLANDO(ad Astolfo)Tema al mio core?</stage>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>(ad Orlando)</l>
+          <l>Se certa è morte, allor virtù è ‘l timore.</l>
+          <l>Tu bella, che lo puoi, tu lo distorna.</l>
+        </sp>
+        <stage>ASTOLFO(ad Orlando)Se certa è morte, allor virtù è ‘l timore.Tu bella, che lo puoi, tu lo distorna.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(piano ad Astolfo)</l>
+          <l>Parlava appunto…</l>
+        </sp>
+        <stage>ANGELICA(piano ad Astolfo)Parlava appunto…</stage>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>(piano ad Angelica)</l>
+          <l>A favellar li torna.</l>
+        </sp>
+        <stage>ASTOLFO(piano ad Angelica)A favellar li torna.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(piano ad Orlando)</l>
+          <l>Egli t’invidia il glorioso acquisto.</l>
+        </sp>
+        <stage>ANGELICA(piano ad Orlando)Egli t’invidia il glorioso acquisto.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Odimi Astolfo: io veggo</l>
+          <l>dove tolga di mira il tuo disegno.</l>
+          <l>Non provocarmi a sdegno: il mio gioire</l>
+          <l>è il trovar sempre nuovi, e nuovi mostri,</l>
+          <l>onde il valor del mio gran core io mostri.</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>(piano ad Angelica a parte)</l>
+          <l>Che di mostri favella?</l>
+        </sp>
+        <stage>ASTOLFO(piano ad Angelica a parte)Che di mostri favella?</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Non so: confusa io sono.</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>(ad Orlando che torna ad incamminarsi a salire la rupe)</l>
+          <l>Il passo arresta.</l>
+        </sp>
+        <stage>ASTOLFO(ad Orlando che torna ad incamminarsi a salire la rupe)Il passo arresta.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>(ad Astolfo)</l>
+          <l>Tant’osi?</l>
+        </sp>
+        <stage>ORLANDO(ad Astolfo)Tant’osi?</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(piano ad Astolfo)</l>
+          <l>Egli si adira: io dall’insana</l>
+          <l>impresa il distorrò, vanne.</l>
+        </sp>
+        <stage>ANGELICA(piano ad Astolfo)Egli si adira: io dall’insanaimpresa il distorrò, vanne.</stage>
+      </div>
+      <div type="scene">
+        <head>ASTOLFO</head>(piano ad Angelica)Confido in quel poter,che sovra il voler suoiha il fulgido seren degl’occhi tuoi.(parte)Scena ottavaOrlando ed Angelica.<sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>(piano ad Angelica)</l>
+          <l>Confido in quel poter,</l>
+          <l>che sovra il voler suoi</l>
+          <l>ha il fulgido seren degl’occhi tuoi.</l>
+          <l>(parte)</l>
+          <l>Scena ottava</l>
+          <l>Orlando ed Angelica.</l>
+        </sp>
+        <stage>ASTOLFO(piano ad Angelica)Confido in quel poter,che sovra il voler suoiha il fulgido seren degl’occhi tuoi.(parte)Scena ottavaOrlando ed Angelica.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>L’importuno partì.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Vedesti, aspira</l>
+          <l>a l’impresa, che dée farne felici.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>(salendo la rupe)</l>
+          <l>Già saglio.</l>
+        </sp>
+        <stage>ORLANDO(salendo la rupe)Già saglio.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>È pur scoscesa.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>L’ale mi presta amor.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(Vicina al porto</l>
+          <l>già sei giunta o mia frode!)</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Mostro crudele… i sibili ne ascolto.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(Il credulo ch’egl’è! Per fin l’ho colto.)</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ORLANDO</head>Mostro ove sei? Che sia?Scena nonaSi precipita la rupe trasformandosi in una orrida caverna della quale in nessuna parte si vede l’uscita.Orlando solo nella caverna.<sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Mostro ove sei? Che sia?</l>
+          <l>Scena nona</l>
+          <l>Si precipita la rupe trasformandosi in una orrida caverna della quale in nessuna parte si vede l’uscita.</l>
+          <l>Orlando solo nella caverna.</l>
+        </sp>
+        <stage>ORLANDOMostro ove sei? Che sia?Scena nonaSi precipita la rupe trasformandosi in una orrida caverna della quale in nessuna parte si vede l’uscita.Orlando solo nella caverna.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Precipizio che altrui morte saria</l>
+          <l>raddoppia il mio vigor: mostro ove sei?</l>
+          <l>Ti sfido, esci, paventi</l>
+          <l>uscirmi a fronte? A te la vita lascio;</l>
+          <l>né dell’orrido teschio ornar pretendo;</l>
+          <l>né dell’irsute cuoia i miei trionfi.</l>
+          <l>L’acque mi addita o questo orribil speco</l>
+          <l>di te covile io struggerò, e rapina</l>
+          <l>farò di lor.</l>
+        </sp>
+        <sp who="#voce di dentro">
+          <speaker>VOCE DI DENTRO:</speaker>
+          <l>Sei prigionier d’Alcina.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>ORLANDO</head>Prigioniero! Chi parla? Ho al fianco il brando,né l’insano tuo dir sgomenta Orlando.(guarda attorno, e non vede esservi uscita)Qui dove uscir non scorgo;sassi orgogliosi intendoil muto favellar del vostro orrore.Son tradito, il vedo, il so,ma al destin non cederò.(tenta di svellere i sassi)Dure selci cedete:invano resistetealla scossa del mio braccio possente.(svelle un sasso)Un marmo ho già divelto: incerta lucenella cupa spelonca ora traluce.(fa nuovi sforzi)Ingratissima Angelica, il mio corepresa lena maggior da sdegni suoigiusto furor traspira.Uscirò infida, ed il tuo nuovo amorecalpesterò tutto dispetto, ed ira.All’estrema mia possaaltro sasso già cede: aperto è il passo.Esce da tua prigione, Alcina, Orlando,dell’infame tuo regnoa far scempio crudele, e memorando.Scena decimaBradamante e Ruggiero.<div type="scene">
+        <head>ORLANDO</head>Prigioniero! Chi parla? Ho al fianco il brando,né l’insano tuo dir sgomenta Orlando.(guarda attorno, e non vede esservi uscita)Qui dove uscir non scorgo;sassi orgogliosi intendoil muto favellar del vostro orrore.Son tradito, il vedo, il so,ma al destin non cederò.(tenta di svellere i sassi)Dure selci cedete:invano resistetealla scossa del mio braccio possente.(svelle un sasso)Un marmo ho già divelto: incerta lucenella cupa spelonca ora traluce.(fa nuovi sforzi)Ingratissima Angelica, il mio corepresa lena maggior da sdegni suoigiusto furor traspira.Uscirò infida, ed il tuo nuovo amorecalpesterò tutto dispetto, ed ira.All’estrema mia possaaltro sasso già cede: aperto è il passo.Esce da tua prigione, Alcina, Orlando,dell’infame tuo regnoa far scempio crudele, e memorando.Scena decimaBradamante e Ruggiero.<sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Prigioniero! Chi parla? Ho al fianco il brando,</l>
+          <l>né l’insano tuo dir sgomenta Orlando.</l>
+          <l>(guarda attorno, e non vede esservi uscita)</l>
+          <l>Qui dove uscir non scorgo;</l>
+          <l>sassi orgogliosi intendo</l>
+          <l>il muto favellar del vostro orrore.</l>
+          <l>Son tradito, il vedo, il so,</l>
+          <l>ma al destin non cederò.</l>
+          <l>(tenta di svellere i sassi)</l>
+          <l>Dure selci cedete:</l>
+          <l>invano resistete</l>
+          <l>alla scossa del mio braccio possente.</l>
+          <l>(svelle un sasso)</l>
+          <l>Un marmo ho già divelto: incerta luce</l>
+          <l>nella cupa spelonca ora traluce.</l>
+          <l>(fa nuovi sforzi)</l>
+          <l>Ingratissima Angelica, il mio core</l>
+          <l>presa lena maggior da sdegni suoi</l>
+          <l>giusto furor traspira.</l>
+          <l>Uscirò infida, ed il tuo nuovo amore</l>
+          <l>calpesterò tutto dispetto, ed ira.</l>
+          <l>All’estrema mia possa</l>
+          <l>altro sasso già cede: aperto è il passo.</l>
+          <l>Esce da tua prigione, Alcina, Orlando,</l>
+          <l>dell’infame tuo regno</l>
+          <l>a far scempio crudele, e memorando.</l>
+          <l>Scena decima</l>
+          <l>Bradamante e Ruggiero.</l>
+        </sp>
+        <stage>ORLANDOPrigioniero! Chi parla? Ho al fianco il brando,né l’insano tuo dir sgomenta Orlando.(guarda attorno, e non vede esservi uscita)Qui dove uscir non scorgo;sassi orgogliosi intendoil muto favellar del vostro orrore.Son tradito, il vedo, il so,ma al destin non cederò.(tenta di svellere i sassi)Dure selci cedete:invano resistetealla scossa del mio braccio possente.(svelle un sasso)Un marmo ho già divelto: incerta lucenella cupa spelonca ora traluce.(fa nuovi sforzi)Ingratissima Angelica, il mio corepresa lena maggior da sdegni suoigiusto furor traspira.Uscirò infida, ed il tuo nuovo amorecalpesterò tutto dispetto, ed ira.All’estrema mia possaaltro sasso già cede: aperto è il passo.Esce da tua prigione, Alcina, Orlando,dell’infame tuo regnoa far scempio crudele, e memorando.Scena decimaBradamante e Ruggiero.</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Hai vinto alfine o mio pudico amore:</l>
+          <l>Ruggier mercé del prezioso anello</l>
+          <l>vide il deforme aspetto,</l>
+          <l>che nella iniqua maga</l>
+          <l>a forza d’arti ignote altrui par bello.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Rimani a le tue cacce e a’ tuoi piaceri</l>
+          <l>perfidissima Alcina.</l>
+          <l>Vanne, inganna altro cor trova altro amore,</l>
+          <l>ch’io già riscossa ho l’alma</l>
+          <l>dall’indegno servaggio.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>E ben Ruggiero,</l>
+          <l>la bellissima Alcina,</l>
+          <l>la novella, e vezzosa</l>
+          <l>deità del tuo cor, come ti aggrada?</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Quanto, oh quanto al tuo amore,</l>
+          <l>quanto alla tua pietà deggio o mia bella!</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Vanne, vanne ad Alcina, io non son quella.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Forza crudel d’incanto</l>
+          <l>discolpa è del mio error, e mi difende.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Va’ gentil cavaliero, ella ti attende.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Non ti basta il cordoglio</l>
+          <l>che mi tormenta il sen?</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Vendetta io voglio.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Ecco il dardo ecco il petto,</l>
+          <l>ove amor già ferì cogl’occhi tuoi:</l>
+          <l>ora con la tua man morte ferisca.</l>
+          <l>Oh felice morir, se m’è concesso</l>
+          <l>per te…</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Mori crudel, ma in questo amplesso.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Che bel morirti in sen,</l>
+          <l>mio dolce amato ben</l>
+          <l>gioia dell’alma.</l>
+          <l>Amo gli sdegni tuoi</l>
+          <l>se al cor ritorna poi</l>
+          <l>sì bella calma.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>BRADAMANTE</head>Narrate i miei contentipiante, frondi, erbe, fiori, antri, aure e venti.Vinto ha già l’alma mia:il mio fido Ruggier tornò qual pria.Se cresce un torrentecon torbida pienae rompe la sponda,altera si spandenei campi quell’onda,e freno non ha.La gioia è si grandeche l’anima senteche il cor si risentee dentro sé stessol’estremo piacereracchiuder non sa.Scena undicesimaCampagna a’ piedi d’un colle con boschetto alle parti, all’ombra dei quali vedesi apparecchio di vasellami, e la tazza nuziale di Angelica, e Medoro.Angelica, Medoro, Alcina, Coro.<sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Narrate i miei contenti</l>
+          <l>piante, frondi, erbe, fiori, antri, aure e venti.</l>
+          <l>Vinto ha già l’alma mia:</l>
+          <l>il mio fido Ruggier tornò qual pria.</l>
+          <l>Se cresce un torrente</l>
+          <l>con torbida piena</l>
+          <l>e rompe la sponda,</l>
+          <l>altera si spande</l>
+          <l>nei campi quell’onda,</l>
+          <l>e freno non ha.</l>
+          <l>La gioia è si grande</l>
+          <l>che l’anima sente</l>
+          <l>che il cor si risente</l>
+          <l>e dentro sé stesso</l>
+          <l>l’estremo piacere</l>
+          <l>racchiuder non sa.</l>
+          <l>Scena undicesima</l>
+          <l>Campagna a’ piedi d’un colle con boschetto alle parti, all’ombra dei quali vedesi apparecchio di vasellami, e la tazza nuziale di Angelica, e Medoro.</l>
+          <l>Angelica, Medoro, Alcina, Coro.</l>
+        </sp>
+        <stage>BRADAMANTENarrate i miei contentipiante, frondi, erbe, fiori, antri, aure e venti.Vinto ha già l’alma mia:il mio fido Ruggier tornò qual pria.Se cresce un torrentecon torbida pienae rompe la sponda,altera si spandenei campi quell’onda,e freno non ha.La gioia è si grandeche l’anima senteche il cor si risentee dentro sé stessol’estremo piacereracchiuder non sa.Scena undicesimaCampagna a’ piedi d’un colle con boschetto alle parti, all’ombra dei quali vedesi apparecchio di vasellami, e la tazza nuziale di Angelica, e Medoro.Angelica, Medoro, Alcina, Coro.</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Al fragor de’ corni audaci</l>
+          <l>s’oda il colle ad echeggiar;</l>
+          <l>e in veder sì casti laci</l>
+          <l>venga Amore a trionfar.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Qui dove dolce Zeffiretto spira</l>
+          <l>e per l’amata auretta innamorato,</l>
+          <l>sussurrando sospira,</l>
+          <l>fra tazze coronate i nostri affetti</l>
+          <l>sospireran di gioia.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Ah vedi come</l>
+          <l>la pampinosa vite</l>
+          <l>stringe in nodi d’amor l’olmo marito!</l>
+          <l>Tal quest’alma al tuo core</l>
+          <l>stringerà amor d’indissolubil nodo.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Qui Alcina.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(No ‘l ritrovo.)</l>
+          <l>Il mio Ruggiero</l>
+          <l>me ‘l sapresti additar?</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>No ‘l vidi.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Forse</l>
+          <l>per poco te ‘l rapii desio di preda.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Par, che lo spirito un rio destin preveda.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Eh, dà pace al tuo cor.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Tregua ai martiri.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Benché l’alma in sua doglia egra sospiri</l>
+          <l>pure a vostri imenei</l>
+          <l>pronuba qual promisi esser degg’io.</l>
+        </sp>
+        <sp who="#medoro, angelica">
+          <speaker>MEDORO, ANGELICA:</speaker>
+          <l>Gioie non mi uccidete.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>A questa nuzial tazza amorosa</l>
+          <l>bevi sposo tu pria, tu poscia o sposa.</l>
+          <l>(un paggio presenta la tazza a Medoro)</l>
+        </sp>
+        <stage>ALCINAA questa nuzial tazza amorosabevi sposo tu pria, tu poscia o sposa.(un paggio presenta la tazza a Medoro)</stage>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Te gran diva di Cipro alta, e possente,</l>
+          <l>te faretrato amor, bevendo invoco,</l>
+          <l>e te Bromio festivo</l>
+          <l>perché lieto, e giulivo</l>
+          <l>per Angelica sempre arda il mio foco.</l>
+          <l>(beve poi presenta la tazza ad Angelica)</l>
+        </sp>
+        <stage>MEDOROTe gran diva di Cipro alta, e possente,te faretrato amor, bevendo invoco,e te Bromio festivoperché lieto, e giulivoper Angelica sempre arda il mio foco.(beve poi presenta la tazza ad Angelica)</stage>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Gran madre Venere</l>
+          <l>gran nume Tespio</l>
+          <l>gran padre Libero</l>
+          <l>odi i suoi voti.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Così da questi dèi</l>
+          <l>si udisser per Ruggiero i voti miei.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Te Citerea vezzosa,</l>
+          <l>te dolcissimo amore!</l>
+          <l>te libero amoroso</l>
+          <l>la tazza nuzial vuotando invoco.</l>
+          <l>Quale è il dolce liquore</l>
+          <l>tal sia, ma eterno sia</l>
+          <l>per Medoro a me in sen</l>
+          <l>mai sempre amore.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Diva dell’Espero</l>
+          <l>fanciullo Idalio</l>
+          <l>nume Semeleo</l>
+          <l>odi i suoi voti.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ALCINA</head>Così da questi dèisi udisser per Ruggiero i voti miei.Alme felici io parto: ah, perdonateal mio timor, all’amor mio, se parto.Mirate: anco in partir dispiega a voil’infelice cor mio gl’auguri suoi.(addita le iscrizioni)Vivan sempre amorosiAngelica, e Medoro amanti, e sposi.Così potessi anch’iogoder coll’idol miola pace, che trovar non può ‘l mio cor.Ma unito alla mia stella,e perfida, e rubellasol tormenti minaccia il dio d’amor.Scena dodicesimaAngelica, e Medoro.<sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Così da questi dèi</l>
+          <l>si udisser per Ruggiero i voti miei.</l>
+          <l>Alme felici io parto: ah, perdonate</l>
+          <l>al mio timor, all’amor mio, se parto.</l>
+          <l>Mirate: anco in partir dispiega a voi</l>
+          <l>l’infelice cor mio gl’auguri suoi.</l>
+          <l>(addita le iscrizioni)</l>
+          <l>Vivan sempre amorosi</l>
+          <l>Angelica, e Medoro amanti, e sposi.</l>
+          <l>Così potessi anch’io</l>
+          <l>goder coll’idol mio</l>
+          <l>la pace, che trovar non può ‘l mio cor.</l>
+          <l>Ma unito alla mia stella,</l>
+          <l>e perfida, e rubella</l>
+          <l>sol tormenti minaccia il dio d’amor.</l>
+          <l>Scena dodicesima</l>
+          <l>Angelica, e Medoro.</l>
+        </sp>
+        <stage>ALCINACosì da questi dèisi udisser per Ruggiero i voti miei.Alme felici io parto: ah, perdonateal mio timor, all’amor mio, se parto.Mirate: anco in partir dispiega a voil’infelice cor mio gl’auguri suoi.(addita le iscrizioni)Vivan sempre amorosiAngelica, e Medoro amanti, e sposi.Così potessi anch’iogoder coll’idol miola pace, che trovar non può ‘l mio cor.Ma unito alla mia stella,e perfida, e rubellasol tormenti minaccia il dio d’amor.Scena dodicesimaAngelica, e Medoro.</stage>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>M’ha commosso a pietà.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Lasciamo a lei</l>
+          <l>de suoi martir le pene,</l>
+          <l>e in queste verdi pianticelle amene</l>
+          <l>verghiamo noi le nostre gioie, o caro.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Si crescano le tenere cortecce,</l>
+          <l>e in loro il testimon del nostro ardore.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>E in ogni cor gentil, servo d’amore</l>
+          <l>brilli per noi lo spirto</l>
+          <l>io vergo questo alloro.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Io questo mirto.</l>
+          <l>(vergano con i dardi le cortecce degl’alberi)</l>
+        </sp>
+        <stage>MEDOROIo questo mirto.(vergano con i dardi le cortecce degl’alberi)</stage>
+        <sp who="#angelica e medoro">
+          <speaker>ANGELICA E MEDORO:</speaker>
+          <l>Belle pianticelle</l>
+          <l>crescete, verdeggiate,</l>
+          <l>e il nostro lieto amore</l>
+          <l>in voi serbate</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Leggi nel verde alloro.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>(legge)</l>
+          <l>«Angelica qui fu sposa a Medoro.»</l>
+          <l>Leggi il mirto amoroso.</l>
+        </sp>
+        <stage>MEDORO(legge)«Angelica qui fu sposa a Medoro.»Leggi il mirto amoroso.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(legge)</l>
+          <l>«Medoro qui d’Angelica fu sposo.»</l>
+          <l>Sei mia fiamma, e sei mio bene</l>
+          <l>sei mio sole, e sei mio cor</l>
+          <l>in sue amabili catene</l>
+          <l>ne restringa eterno amor.</l>
+        </sp>
+        <stage>ANGELICA(legge)«Medoro qui d’Angelica fu sposo.»Sei mia fiamma, e sei mio benesei mio sole, e sei mio corin sue amabili catenene restringa eterno amor.</stage>
+      </div>
+      <div type="scene">
+        <head>MEDORO</head>Sei mia gioia, sei mia pacesei mia stella, e sei mio ben:quanto amabile è la faceche mi accende il core in sen.Scena tredicesimaOrlando, che giunge e vede partire Angelica e Medoro.<sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Sei mia gioia, sei mia pace</l>
+          <l>sei mia stella, e sei mio ben:</l>
+          <l>quanto amabile è la face</l>
+          <l>che mi accende il core in sen.</l>
+          <l>Scena tredicesima</l>
+          <l>Orlando, che giunge e vede partire Angelica e Medoro.</l>
+        </sp>
+        <stage>MEDOROSei mia gioia, sei mia pacesei mia stella, e sei mio ben:quanto amabile è la faceche mi accende il core in sen.Scena tredicesimaOrlando, che giunge e vede partire Angelica e Medoro.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Ah sleale, ah spergiura,</l>
+          <l>donna ingrata infedel, cor traditore;</l>
+          <l>del tuo mal nato ardore</l>
+          <l>vengo a smorzar… oh ciel,</l>
+          <l>che leggo (ahi lasso).</l>
+          <l>«Vivan sempre amorosi,</l>
+          <l>Angelica, e Medoro amanti, e sposi.»</l>
+          <l>Angelica, e Medoro amanti, e sposi?</l>
+          <l>Questa, questa è la scure,</l>
+          <l>ahimè, che il capo tronca alla mia speme.</l>
+          <l>Di Medoro il mio bene?</l>
+          <l>Sgorgate, o lagrime</l>
+          <l>a fonti, a rive.</l>
+        </sp>
+        <stage>ORLANDOAh sleale, ah spergiura,donna ingrata infedel, cor traditore;del tuo mal nato ardorevengo a smorzar… oh ciel,che leggo (ahi lasso).«Vivan sempre amorosi,Angelica, e Medoro amanti, e sposi.»Angelica, e Medoro amanti, e sposi?Questa, questa è la scure,ahimè, che il capo tronca alla mia speme.Di Medoro il mio bene?Sgorgate, o lagrimea fonti, a rive.</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>ORLANDO</head>No, ch’è poco, a torrenti, a fiumi, a mari.Arde Orlando, che Orlando?Eh, Orlando è morto.La sua donna ingratissima l’ha ucciso.Io son lo spirto suo da lui diviso,e son con l’ombra mia, che sola avanzaesempio a chi in amor pone speranza.(legge sopra l’alloro)«Angelica qui fu sposa a Medoro.»Chi segnò quest’alloro!Lo vergò di sua man la mia tiranna,v’impresse di sua mano il mio martoro.Amanti e sposi? oh dio! Sposa a Medoro!Vendetta, sì vendetta incontro amoreor n’ho trovato il modo,per cacciarmel dal sen trarrommi il core.Io ti getto elmo, ed usbergo:ite o piastre, e maglie al suolo.(legge nel mirto segnato da Medoro)«Medoro qui d’Angelica fu sposo.»A te mirto orgogliosovuò sfrondarti, schiantartisino all’ultimo bronco,ed estirpar dalla radice il tronco.Ho cento vanni al piedeho duecent’occhi in fronte,e nel furor che ho in senm’adiro almeno almencon mille cuori.Sopra quei vanni io m’ergovolo dal piano al montequelle pupille io mirocon tutti i cuornel mio furorm’adiro.Occhi, vanni, furor, cuori, oh martoro!Amanti, e sposi Angelica, e Medoro!Atto terzoScena primaVestibulo avanti il tempio d’Ecate Inferna con un muro d’acciaio in prospetto che chiude il tempio medesimo.Astolfo e Ruggiero.<div type="scene">
+        <head>ORLANDO</head>No, ch’è poco, a torrenti, a fiumi, a mari.Arde Orlando, che Orlando?Eh, Orlando è morto.La sua donna ingratissima l’ha ucciso.Io son lo spirto suo da lui diviso,e son con l’ombra mia, che sola avanzaesempio a chi in amor pone speranza.(legge sopra l’alloro)«Angelica qui fu sposa a Medoro.»Chi segnò quest’alloro!Lo vergò di sua man la mia tiranna,v’impresse di sua mano il mio martoro.Amanti e sposi? oh dio! Sposa a Medoro!Vendetta, sì vendetta incontro amoreor n’ho trovato il modo,per cacciarmel dal sen trarrommi il core.Io ti getto elmo, ed usbergo:ite o piastre, e maglie al suolo.(legge nel mirto segnato da Medoro)«Medoro qui d’Angelica fu sposo.»A te mirto orgogliosovuò sfrondarti, schiantartisino all’ultimo bronco,ed estirpar dalla radice il tronco.Ho cento vanni al piedeho duecent’occhi in fronte,e nel furor che ho in senm’adiro almeno almencon mille cuori.Sopra quei vanni io m’ergovolo dal piano al montequelle pupille io mirocon tutti i cuornel mio furorm’adiro.Occhi, vanni, furor, cuori, oh martoro!Amanti, e sposi Angelica, e Medoro!Atto terzoScena primaVestibulo avanti il tempio d’Ecate Inferna con un muro d’acciaio in prospetto che chiude il tempio medesimo.Astolfo e Ruggiero.<sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>No, ch’è poco, a torrenti, a fiumi, a mari.</l>
+          <l>Arde Orlando, che Orlando?</l>
+          <l>Eh, Orlando è morto.</l>
+          <l>La sua donna ingratissima l’ha ucciso.</l>
+          <l>Io son lo spirto suo da lui diviso,</l>
+          <l>e son con l’ombra mia, che sola avanza</l>
+          <l>esempio a chi in amor pone speranza.</l>
+          <l>(legge sopra l’alloro)</l>
+          <l>«Angelica qui fu sposa a Medoro.»</l>
+          <l>Chi segnò quest’alloro!</l>
+          <l>Lo vergò di sua man la mia tiranna,</l>
+          <l>v’impresse di sua mano il mio martoro.</l>
+          <l>Amanti e sposi? oh dio! Sposa a Medoro!</l>
+          <l>Vendetta, sì vendetta incontro amore</l>
+          <l>or n’ho trovato il modo,</l>
+          <l>per cacciarmel dal sen trarrommi il core.</l>
+          <l>Io ti getto elmo, ed usbergo:</l>
+          <l>ite o piastre, e maglie al suolo.</l>
+          <l>(legge nel mirto segnato da Medoro)</l>
+          <l>«Medoro qui d’Angelica fu sposo.»</l>
+          <l>A te mirto orgoglioso</l>
+          <l>vuò sfrondarti, schiantarti</l>
+          <l>sino all’ultimo bronco,</l>
+          <l>ed estirpar dalla radice il tronco.</l>
+          <l>Ho cento vanni al piede</l>
+          <l>ho duecent’occhi in fronte,</l>
+          <l>e nel furor che ho in sen</l>
+          <l>m’adiro almeno almen</l>
+          <l>con mille cuori.</l>
+          <l>Sopra quei vanni io m’ergo</l>
+          <l>volo dal piano al monte</l>
+          <l>quelle pupille io miro</l>
+          <l>con tutti i cuor</l>
+          <l>nel mio furor</l>
+          <l>m’adiro.</l>
+          <l>Occhi, vanni, furor, cuori, oh martoro!</l>
+          <l>Amanti, e sposi Angelica, e Medoro!</l>
+          <l>Atto terzo</l>
+          <l>Scena prima</l>
+          <l>Vestibulo avanti il tempio d’Ecate Inferna con un muro d’acciaio in prospetto che chiude il tempio medesimo.</l>
+          <l>Astolfo e Ruggiero.</l>
+        </sp>
+        <stage>ORLANDONo, ch’è poco, a torrenti, a fiumi, a mari.Arde Orlando, che Orlando?Eh, Orlando è morto.La sua donna ingratissima l’ha ucciso.Io son lo spirto suo da lui diviso,e son con l’ombra mia, che sola avanzaesempio a chi in amor pone speranza.(legge sopra l’alloro)«Angelica qui fu sposa a Medoro.»Chi segnò quest’alloro!Lo vergò di sua man la mia tiranna,v’impresse di sua mano il mio martoro.Amanti e sposi? oh dio! Sposa a Medoro!Vendetta, sì vendetta incontro amoreor n’ho trovato il modo,per cacciarmel dal sen trarrommi il core.Io ti getto elmo, ed usbergo:ite o piastre, e maglie al suolo.(legge nel mirto segnato da Medoro)«Medoro qui d’Angelica fu sposo.»A te mirto orgogliosovuò sfrondarti, schiantartisino all’ultimo bronco,ed estirpar dalla radice il tronco.Ho cento vanni al piedeho duecent’occhi in fronte,e nel furor che ho in senm’adiro almeno almencon mille cuori.Sopra quei vanni io m’ergovolo dal piano al montequelle pupille io mirocon tutti i cuornel mio furorm’adiro.Occhi, vanni, furor, cuori, oh martoro!Amanti, e sposi Angelica, e Medoro!Atto terzoScena primaVestibulo avanti il tempio d’Ecate Inferna con un muro d’acciaio in prospetto che chiude il tempio medesimo.Astolfo e Ruggiero.</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Morto Orlando tu credi?</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>E sol desio</l>
+          <l>l’onor del rogo all’onorata salma,</l>
+          <l>e alle ceneri illustri urna condegna.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>A penetrar nell’erto della rupe</l>
+          <l>già nel profondo speco</l>
+          <l>l’alato mio destrier ti serva all’uopo.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ASTOLFO</head>Sì, contro Alcina alla vendettaaccingiamoci, o Ruggier: Melissa puotequelle mura d’acciaroa nostri passi aprir; se meco sei,se l’amazzone nostra a noi s’uniscenulla temo il poter de’ Stigi dèi.Dove il valor combattenulla il vigor potràd’inferno irato.Se l’empietà s’abbatte,contro del suo rigorcongiura il fato.Scena secondaRuggiero, poi Bradamante in abito di uomo.<sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Sì, contro Alcina alla vendetta</l>
+          <l>accingiamoci, o Ruggier: Melissa puote</l>
+          <l>quelle mura d’acciaro</l>
+          <l>a nostri passi aprir; se meco sei,</l>
+          <l>se l’amazzone nostra a noi s’unisce</l>
+          <l>nulla temo il poter de’ Stigi dèi.</l>
+          <l>Dove il valor combatte</l>
+          <l>nulla il vigor potrà</l>
+          <l>d’inferno irato.</l>
+          <l>Se l’empietà s’abbatte,</l>
+          <l>contro del suo rigor</l>
+          <l>congiura il fato.</l>
+          <l>Scena seconda</l>
+          <l>Ruggiero, poi Bradamante in abito di uomo.</l>
+        </sp>
+        <stage>ASTOLFOSì, contro Alcina alla vendettaaccingiamoci, o Ruggier: Melissa puotequelle mura d’acciaroa nostri passi aprir; se meco sei,se l’amazzone nostra a noi s’uniscenulla temo il poter de’ Stigi dèi.Dove il valor combattenulla il vigor potràd’inferno irato.Se l’empietà s’abbatte,contro del suo rigorcongiura il fato.Scena secondaRuggiero, poi Bradamante in abito di uomo.</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Vendetta, sì, cor mio.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>La tenti invano.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Non può mancar ciò che negl’astri è fisso:</l>
+          <l>sitibondo di sangue a darne aita</l>
+          <l>tu al fianco pur riappendesti il brando.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Ma perché sola io voglio</l>
+          <l>l’onor del colpo, e sola averlo io posso:</l>
+          <l>colà dentro racchiusa è la fatale</l>
+          <l>urna, che eterno fa il poter de l’empia.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>La rapirem…</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Melissa, infin Melissa</l>
+          <l>come rapirla ignora, e chiusa, il vedi,</l>
+          <l>d’acciar la soglia, ed immortale è il fiero</l>
+          <l>custode delle ceneri famose.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Ritiriamci, se n’ viene Alcina al tempio.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>BRADAMANTE</head>Vedrai per me della crudel lo scempio.Scena terzaAlcina e detti in disparte.<sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Vedrai per me della crudel lo scempio.</l>
+          <l>Scena terza</l>
+          <l>Alcina e detti in disparte.</l>
+        </sp>
+        <stage>BRADAMANTEVedrai per me della crudel lo scempio.Scena terzaAlcina e detti in disparte.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>L’arco vuò frangerti,</l>
+          <l>la face spegnerti</l>
+          <l>tiranno barbaro,</l>
+          <l>nume d’amor.</l>
+          <l>Ma invan minaccio amor, ride il superbo</l>
+          <l>dell’ire insane mie: te se non posso,</l>
+          <l>atterrirò di Flegetonte i dèi.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(a Ruggiero)</l>
+          <l>Il poter di Melissa è in fin mia difesa.</l>
+        </sp>
+        <stage>BRADAMANTE(a Ruggiero)Il poter di Melissa è in fin mia difesa.</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Incerto è il fin.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Certo Melissa il rende.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Numi orrendi d’Averno</l>
+          <l>sin dal profondo inferno</l>
+          <l>l’orride piume a i miei comandi ergete.</l>
+          <l>Volate, che tardate a cenni miei?</l>
+          <l>Che sì pigri, che sì…</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Dormon di Lete</l>
+          <l>per lei già su le sponde.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Iniqui, e rei.</l>
+          <l>Vuò saper di Ruggiero, o d’Acheronte</l>
+          <l>verrò a predare il regno:</l>
+          <l>miseri voi, se cresce più il mio sdegno.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Orgogliosa.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Ma invano.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Lassa! Sordo l’inferno,</l>
+          <l>sordo il ciel, che far degg’io?</l>
+          <l>Del gran saggio Merlin parli lo spirto.</l>
+          <l>Aprite, o mura, il varco</l>
+          <l>alla vostra reina.</l>
+          <l>Si spezza in due parti il muro d’acciaro e si scopre il tempio d’Ecate Inferna, vedesi nel tempio la statua del famoso mago Merlino appoggiata ad un’urna entro cui stanno le di lui ceneri; d’interno è chiusa da balaustri di ferro, e vi sta alla custodia l’inviolabile Aronte con mazza impugnata; da una parte ara d’Ecate.</l>
+        </sp>
+        <stage>ALCINALassa! Sordo l’inferno,sordo il ciel, che far degg’io?Del gran saggio Merlin parli lo spirto.Aprite, o mura, il varcoalla vostra reina.Si spezza in due parti il muro d’acciaro e si scopre il tempio d’Ecate Inferna, vedesi nel tempio la statua del famoso mago Merlino appoggiata ad un’urna entro cui stanno le di lui ceneri; d’interno è chiusa da balaustri di ferro, e vi sta alla custodia l’inviolabile Aronte con mazza impugnata; da una parte ara d’Ecate.</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>O portento!</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>O stupor!</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Se mai d’Alcina</l>
+          <l>spirto celeste i prieghi udisti, e i pianti</l>
+          <l>t’impietosiro il ciel dove risiedi,</l>
+          <l>i di lei prieghi ascolta,</l>
+          <l>i di lei pianti or vedi,</l>
+          <l>e del mesto suo cor pietà ti prenda.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Ti assista amor.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(forte da sé mostrando, entra in scena)</l>
+          <l>Benché tu l’ale stenda</l>
+          <l>per l’aere fellon…</l>
+        </sp>
+        <stage>BRADAMANTE(forte da sé mostrando, entra in scena)Benché tu l’ale stendaper l’aere fellon…</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Qual voce!</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Alcina</l>
+          <l>saprà arrestar della tua fugga il volo.</l>
+          <l>(ad Alcina)</l>
+          <l>Bellissima reina il reo Ruggiero</l>
+          <l>sovra alato destriero</l>
+          <l>agl’amor tuoi, a’ sdegni miei si è tolto.</l>
+        </sp>
+        <stage>BRADAMANTEAlcinasaprà arrestar della tua fugga il volo.(ad Alcina)Bellissima reina il reo Ruggierosovra alato destrieroagl’amor tuoi, a’ sdegni miei si è tolto.</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(Che finge?)</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(a Bradamante)</l>
+          <l>Avrà ch’il segua.</l>
+          <l>(Oh che bel volto?</l>
+          <l>Di leggiadro guerrier, come ti appelli?)</l>
+        </sp>
+        <stage>ALCINA(a Bradamante)Avrà ch’il segua.(Oh che bel volto?Di leggiadro guerrier, come ti appelli?)</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Ardalico son io. Ruggiero infido</l>
+          <l>d’una germana mia</l>
+          <l>il credulo bel cor trasse ad amore,</l>
+          <l>poscia ingrato, e incostante</l>
+          <l>l’abbandonò. Per cancellar quest’onta</l>
+          <l>sieguo in Ruggier la mia vendetta, il trovo,</l>
+          <l>ma in van, ch’ei spiegaratto all’aure i vanti</l>
+          <l>minacciando a me morte, a te ruina.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Oh folle, eterno è il gran poter d’Alcina!</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(Superba!)</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(Altera!)</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Crede</l>
+          <l>forse per lui che disperarmi io deggia?</l>
+          <l>Come raggio di sol non manca a stella,</l>
+          <l>non manca a donna bella</l>
+          <l>mai gentile amator.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(La intendo.)</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Oh cieco!</l>
+          <l>Ai rai del tuo bellissimo sembiante!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ALCINA</head>Lieto cor mio, ch’ai ritrovato amante,Ardalico il mio voltoper te qualunque ei sia…Scena quartaOrlando, e detti.<sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Lieto cor mio, ch’ai ritrovato amante,</l>
+          <l>Ardalico il mio volto</l>
+          <l>per te qualunque ei sia…</l>
+          <l>Scena quarta</l>
+          <l>Orlando, e detti.</l>
+        </sp>
+        <stage>ALCINALieto cor mio, ch’ai ritrovato amante,Ardalico il mio voltoper te qualunque ei sia…Scena quartaOrlando, e detti.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Cortese Ifigenia</l>
+          <l>il furibondo Oreste</l>
+          <l>se n’ viene a te, che della Grecia è in bando.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(Misero!)</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(Che mai vedo?)</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Ignudo Orlando?</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>(a Bradamante)</l>
+          <l>Ah, ah, che vedo mai?</l>
+          <l>Questa spada è rubata, ella è di Marte</l>
+          <l>eccolo là, nel centro della Luna</l>
+          <l>contro le donne a rivoltar le carte.</l>
+        </sp>
+        <stage>ORLANDO(a Bradamante)Ah, ah, che vedo mai?Questa spada è rubata, ella è di Marteeccolo là, nel centro della Lunacontro le donne a rivoltar le carte.</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(S’anco mi scopre, è folle.)</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>(ad Alcina)</l>
+          <l>Per te c’è poi di brutto,</l>
+          <l>cadrà se non rimedi,</l>
+          <l>in precipizio ed in ruina il tutto.</l>
+        </sp>
+        <stage>ORLANDO(ad Alcina)Per te c’è poi di brutto,cadrà se non rimedi,in precipizio ed in ruina il tutto.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Perché?</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(Che dirà mai?)</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>(ad Alcina)</l>
+          <l>Senti.</l>
+        </sp>
+        <stage>ORLANDO(ad Alcina)Senti.</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(Che spera!)</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Senti, senti, e compiangi</l>
+          <l>la storia miserabile, ma vera.</l>
+          <l>Il mio povero amore, una bellezza</l>
+          <l>avea invitato al ballo, allora quando</l>
+          <l>la nera crudeltà col reo rigore</l>
+          <l>nemici giuratissimi d’amore,</l>
+          <l>fecero il bel desire (ahi, cruda sorte!)</l>
+          <l>fecero il bel desir riuscire invano.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(Così guida empia sorte!)</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(a Bradamante)</l>
+          <l>È affatto insano.</l>
+        </sp>
+        <stage>ALCINA(a Bradamante)È affatto insano.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>All’invito gentil, che amor le fa,</l>
+          <l>la fiera crudeltà,</l>
+          <l>con guardo torvo e minaccioso aspetto</l>
+          <l>disse così si fa! No, che non voglio;</l>
+          <l>ed il rigor, presa beltà per mano,</l>
+          <l>lascio con passo grave e cera brutta,</l>
+          <l>il mio povero amore a bocca asciutta.</l>
+          <l>Deh, appaghi ella il mio amor meco danzando.</l>
+          <l>Danziam signora la follia d’Orlando.</l>
+          <l>Suonate che fatte?</l>
+          <l>(in atto di danzare)</l>
+          <l>La la là la ra la.</l>
+        </sp>
+        <stage>ORLANDOAll’invito gentil, che amor le fa,la fiera crudeltà,con guardo torvo e minaccioso aspettodisse così si fa! No, che non voglio;ed il rigor, presa beltà per mano,lascio con passo grave e cera brutta,il mio povero amore a bocca asciutta.Deh, appaghi ella il mio amor meco danzando.Danziam signora la follia d’Orlando.Suonate che fatte?(in atto di danzare)La la là la ra la.</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(Il compiango.)</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>(ad Alcina, prendendola per mano)</l>
+          <l>Signora a chi dich’io?</l>
+        </sp>
+        <stage>ORLANDO(ad Alcina, prendendola per mano)Signora a chi dich’io?</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(ad Orlando)</l>
+          <l>Tanto audace con me!</l>
+        </sp>
+        <stage>ALCINA(ad Orlando)Tanto audace con me!</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(ad Alcina)</l>
+          <l>Deh, spegni o bella,</l>
+          <l>l’ira, che t’arde in cor.</l>
+        </sp>
+        <stage>BRADAMANTE(ad Alcina)Deh, spegni o bella,l’ira, che t’arde in cor.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Legge è il tuo cenno.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>L’alto eroe come mai perduto ha il senno!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ORLANDO</head>Vola vola vola vola vola:che vola? Amor che fugge, e Apollo,vedete dietro a lui montato in furia,per l’altissima ingiuriafatta all’onesta sua Dafne pudicamettendo nel bordello il casto alloro,quando Angelica fu sposa a Medoro.Scena quintaAngelica e detti.<sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Vola vola vola vola vola:</l>
+          <l>che vola? Amor che fugge, e Apollo,</l>
+          <l>vedete dietro a lui montato in furia,</l>
+          <l>per l’altissima ingiuria</l>
+          <l>fatta all’onesta sua Dafne pudica</l>
+          <l>mettendo nel bordello il casto alloro,</l>
+          <l>quando Angelica fu sposa a Medoro.</l>
+          <l>Scena quinta</l>
+          <l>Angelica e detti.</l>
+        </sp>
+        <stage>ORLANDOVola vola vola vola vola:che vola? Amor che fugge, e Apollo,vedete dietro a lui montato in furia,per l’altissima ingiuriafatta all’onesta sua Dafne pudicamettendo nel bordello il casto alloro,quando Angelica fu sposa a Medoro.Scena quintaAngelica e detti.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Come purpureo fior languendo muore,</l>
+          <l>che il vomere al passar tagliato lassa…</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Qual voce?</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Zitto zitto.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>…così langue, in un seno amante, core</l>
+          <l>se lungi dal suo ben la vita passa.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(È la donna crudel.)</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Oh l’incostante</l>
+          <l>ingannatrice amante,</l>
+          <l>che di stirpe si vanta d’Anfione,</l>
+          <l>canta per suo diporto una canzone.</l>
+          <l>Canta tu pur, che te ne priego.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(È folle.)</l>
+          <l>(ad Alcina)</l>
+          <l>Rendi contento, o bella, il suo desire.</l>
+        </sp>
+        <stage>BRADAMANTE(È folle.)(ad Alcina)Rendi contento, o bella, il suo desire.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Si appaghi la sua brama.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Canterà?</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Canterò.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Lodato il cielo.</l>
+          <l>(si ritira)</l>
+        </sp>
+        <stage>ORLANDOLodato il cielo.(si ritira)</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Che dolce più, che più giocondo stato,</l>
+          <l>v’è mai qua giù d’un amoroso core,</l>
+          <l>che viver più felice, e fortunato</l>
+          <l>quanto il trovarsi in servitù d’amore?</l>
+          <l>Ma se lungi è il suo ben qual più doglioso</l>
+          <l>stato v’è mai d’un cor che sia amoroso.</l>
+          <l>(Orlando fa cenno ad Alcina e Bradamante che tacciano, prende d’improvviso Angelica)</l>
+        </sp>
+        <stage>ALCINAChe dolce più, che più giocondo stato,v’è mai qua giù d’un amoroso core,che viver più felice, e fortunatoquanto il trovarsi in servitù d’amore?Ma se lungi è il suo ben qual più dogliosostato v’è mai d’un cor che sia amoroso.(Orlando fa cenno ad Alcina e Bradamante che tacciano, prende d’improvviso Angelica)</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Prender la voglio.</l>
+          <l>(ad Angelica)</l>
+          <l>Affé t’ho colta!</l>
+        </sp>
+        <stage>ORLANDOPrender la voglio.(ad Angelica)Affé t’ho colta!</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Aita.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>So che cortese non si sdegnerà,</l>
+          <l>signora crudeltà…</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Cieli, chi veggio mai.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>(ad Alcina)</l>
+          <l>L’abbiam prigion. Deh, renda il tuo rigore</l>
+          <l>al povero mio amore</l>
+          <l>la rapita beltà.</l>
+        </sp>
+        <stage>ORLANDO(ad Alcina)L’abbiam prigion. Deh, renda il tuo rigoreal povero mio amorela rapita beltà.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(ridendo)</l>
+          <l>Strana follia!</l>
+        </sp>
+        <stage>ANGELICA(ridendo)Strana follia!</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Come dunque tu ridi?</l>
+          <l>Ah, me la pagherai:</l>
+          <l>irriterò contro i tuoi sciocchi errori</l>
+          <l>le donne i cavalier, l’arme, e gl’amori.</l>
+        </sp>
+        <stage>ORLANDOCome dunque tu ridi?Ah, me la pagherai:irriterò contro i tuoi sciocchi errorile donne i cavalier, l’arme, e gl’amori.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Amor dove il guidasti!</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(guardando Angelica e Ruggiero)</l>
+          <l>(Alma di fera!)</l>
+        </sp>
+        <stage>BRADAMANTE(guardando Angelica e Ruggiero)(Alma di fera!)</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Dispietato core!</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(ad Orlando)</l>
+          <l>Renderà il mio rigore,</l>
+          <l>la rapita beltà. Medoro, oh dio!</l>
+        </sp>
+        <stage>ANGELICA(ad Orlando)Renderà il mio rigore,la rapita beltà. Medoro, oh dio!</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Troppo fosti spietata.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Ebbi sempre pietà de’ suoi tormenti.</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Menti, sentisti l’eco.</l>
+          <l>L’ingiuriato mio povero amore,</l>
+          <l>da cui la speme ha già tolto congedo</l>
+          <l>ti dice, facend’eco al mio dolore,</l>
+          <l>menti, barbara donna, io non ti credo.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ANGELICA</head>Poveri affetti miei, siete innocenti.Ma ingiusto è quel timor,che al vostro bel candor,il pregio toglie.Ingrato io ti direi, t’inganni e menti;ma no, che la mia féoltraggi per mercéin pace accoglie.Scena sestaOrlando, Alcina, Bradamante e Ruggiero in disparte.<sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Poveri affetti miei, siete innocenti.</l>
+          <l>Ma ingiusto è quel timor,</l>
+          <l>che al vostro bel candor,</l>
+          <l>il pregio toglie.</l>
+          <l>Ingrato io ti direi, t’inganni e menti;</l>
+          <l>ma no, che la mia fé</l>
+          <l>oltraggi per mercé</l>
+          <l>in pace accoglie.</l>
+          <l>Scena sesta</l>
+          <l>Orlando, Alcina, Bradamante e Ruggiero in disparte.</l>
+        </sp>
+        <stage>ANGELICAPoveri affetti miei, siete innocenti.Ma ingiusto è quel timor,che al vostro bel candor,il pregio toglie.Ingrato io ti direi, t’inganni e menti;ma no, che la mia féoltraggi per mercéin pace accoglie.Scena sestaOrlando, Alcina, Bradamante e Ruggiero in disparte.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Ella parte. Mirate</l>
+          <l>la menzogna è con lei: ch’orridi mostri!</l>
+          <l>Nelle diverse sue facce deformi</l>
+          <l>molti sembrano, è vero, Endimioni,</l>
+          <l>ma basilischi son, serpi, e dragoni.</l>
+          <l>Gli seguirò,</l>
+          <l>gli atterrerò,</l>
+          <l>gli struggerò,</l>
+          <l>gl’annienterò.</l>
+          <l>(ad Aronte)</l>
+          <l>Vai dicendo di no?</l>
+          <l>Resta qui, Alcide, alla tua Iole appresso,</l>
+          <l>e n’averai la nuova adesso adesso.</l>
+          <l>(parte)</l>
+        </sp>
+        <stage>ORLANDOElla parte. Miratela menzogna è con lei: ch’orridi mostri!Nelle diverse sue facce deformimolti sembrano, è vero, Endimioni,ma basilischi son, serpi, e dragoni.Gli seguirò,gli atterrerò,gli struggerò,gl’annienterò.(ad Aronte)Vai dicendo di no?Resta qui, Alcide, alla tua Iole appresso,e n’averai la nuova adesso adesso.(parte)</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(Quanto mi fa pietà.)</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(ad Alcina, additando Aronte)</l>
+          <l>Chi è il minaccioso?</l>
+        </sp>
+        <stage>BRADAMANTE(ad Alcina, additando Aronte)Chi è il minaccioso?</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Aronte, egl’è guerriero</l>
+          <l>feroce, invulnerabile, e fatale,</l>
+          <l>finché sostien la forte mazza in pugno.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>E di ferrea catena</l>
+          <l>alla destra l’annoda.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Or venga l’empio</l>
+          <l>Ruggiero, e provi di sua spada il taglio.</l>
+          <l>Quella catena a far mia possa eterna</l>
+          <l>con la spuma di Cerbero, lo stesso</l>
+          <l>tartareo re temprò d’Averno al foco.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>L’arcano m’ha scoperto a poco a poco.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Vanne Aldarico, e là dove tu miri</l>
+          <l>rider più verde il suol colà mi attendi.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Qui lasciarò Ruggiero? Parto, ma peno.</l>
+          <l>Vedi fuor del mio petto uscir sospiri,</l>
+          <l>figli di quell’amor, che m’arde in seno.</l>
+          <l>Io son ne’ lacci tuoi,</l>
+          <l>e ti promette il cor</l>
+          <l>fede, e costanza.</l>
+          <l>Vado: riposo in te;</l>
+          <l>sovvengati che sei</l>
+          <l>la mia speranza.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Parte il mio bene: amor che far degg’io?</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ALCINA</head>(guardando dietro a Bradamante)Che bellezza! Che brio!Son pur felice: Amor per me non chiudei suoi tesori, e manda a questo core,perché sia lieto un’amator novello.Più dell’empio Ruggier leggiadro, e bello.Non è felice un’alma,che amando un sol oggettotrovi del cor la calma,e sia contenta.Spesso cangiando amorepiù fortunato è un core.Non dà, non dà diletto,un solo, solo affetto;ma torbido talorl’alma tormenta.Scena settimaRuggiero solo, poi Medoro.<sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(guardando dietro a Bradamante)</l>
+          <l>Che bellezza! Che brio!</l>
+          <l>Son pur felice: Amor per me non chiude</l>
+          <l>i suoi tesori, e manda a questo core,</l>
+          <l>perché sia lieto un’amator novello.</l>
+          <l>Più dell’empio Ruggier leggiadro, e bello.</l>
+          <l>Non è felice un’alma,</l>
+          <l>che amando un sol oggetto</l>
+          <l>trovi del cor la calma,</l>
+          <l>e sia contenta.</l>
+          <l>Spesso cangiando amore</l>
+          <l>più fortunato è un core.</l>
+          <l>Non dà, non dà diletto,</l>
+          <l>un solo, solo affetto;</l>
+          <l>ma torbido talor</l>
+          <l>l’alma tormenta.</l>
+          <l>Scena settima</l>
+          <l>Ruggiero solo, poi Medoro.</l>
+        </sp>
+        <stage>ALCINA(guardando dietro a Bradamante)Che bellezza! Che brio!Son pur felice: Amor per me non chiudei suoi tesori, e manda a questo core,perché sia lieto un’amator novello.Più dell’empio Ruggier leggiadro, e bello.Non è felice un’alma,che amando un sol oggettotrovi del cor la calma,e sia contenta.Spesso cangiando amorepiù fortunato è un core.Non dà, non dà diletto,un solo, solo affetto;ma torbido talorl’alma tormenta.Scena settimaRuggiero solo, poi Medoro.</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Gloria, che mi ragioni? Onor, che parli?</l>
+          <l>Voi col fatal custode il mio coraggio</l>
+          <l>invitate al cimento, e il più bel raggio</l>
+          <l>promettete al mio crin di vostra luce.</l>
+          <l>Ma se poi fisso io miro</l>
+          <l>cogl’occhi del pensiero alla mia bella</l>
+          <l>e vedo il suo periglio,</l>
+          <l>d’amore, e di pietà gl’inviti io sieguo.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Oh Ruggier! Menzognera</l>
+          <l>dunque la fama fu di tua incostanza!</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>D’incostanza che parli?</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Fuggire i primi desiati lacci</l>
+          <l>dell’amorosa Alcina,</l>
+          <l>spegner nel cor, che prima ardea le faci.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Si fuggon a ragion lacci inonesti,</l>
+          <l>e spengonsi a dovere impure faci.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Talché dunque egli è vero…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>RUGGIERO</head>Che se il pria amato error poscia si aborre,costanza è allora il variar pensiero.Scena ottavaAngelica, e detti.<sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Che se il pria amato error poscia si aborre,</l>
+          <l>costanza è allora il variar pensiero.</l>
+          <l>Scena ottava</l>
+          <l>Angelica, e detti.</l>
+        </sp>
+        <stage>RUGGIEROChe se il pria amato error poscia si aborre,costanza è allora il variar pensiero.Scena ottavaAngelica, e detti.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Costanza è allora il variar pensiero!</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Con tanto ardor chi si difende è reo.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(Di chi mai si favella!)</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Allor sarei</l>
+          <l>colpevole, se te reo non punissi!</l>
+          <l>(mette la mano sulla spada, poi si ferma)</l>
+          <l>Ma non degna Ruggiero</l>
+          <l>contro il molle tuo sen stringer la spada.</l>
+        </sp>
+        <stage>RUGGIEROAllor sareicolpevole, se te reo non punissi!(mette la mano sulla spada, poi si ferma)Ma non degna Ruggierocontro il molle tuo sen stringer la spada.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(Al maggior uopo io giunsi.)</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Entro al molle mio seno alberga un core,</l>
+          <l>che al tuo ceder non sa.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(Vezzoso ardire.)</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Eh taci, e va di tua bellezza armato</l>
+          <l>a far preda de’ cuori.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>(snudando la spada)</l>
+          <l>Il brando stringi.</l>
+        </sp>
+        <stage>MEDORO(snudando la spada)Il brando stringi.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>(È tempo ch’io mi scopra.)</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(strappando la spada di mano a Medoro)</l>
+          <l>È mio il tuo ferro.</l>
+        </sp>
+        <stage>RUGGIERO(strappando la spada di mano a Medoro)È mio il tuo ferro.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>E se brami vendetta, è tuo il mio petto.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Quello è un campo da te, prendi il tuo brando.</l>
+          <l>E tu donna crudele</l>
+          <l>porta altrove il tuo amor, per te va insano</l>
+          <l>il fiore degl’eroi.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Se vago volto</l>
+          <l>il genio alletta e il cor: senti Ruggiero:</l>
+          <l>costanza è allora il variar pensiero.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>RUGGIERO</head>Come l’ondacon voragine orrenda, e profondaagitata da venti, e procelle,fremendo, stridendo,là nel seno del mare se n’ va.Il tuo corecombattuto da fiero timore,turbato, agitato,sospira, s’adira,e sdegnosoritrovar più riposo non sa.Scena nonaAngelica e Medoro.<sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Come l’onda</l>
+          <l>con voragine orrenda, e profonda</l>
+          <l>agitata da venti, e procelle,</l>
+          <l>fremendo, stridendo,</l>
+          <l>là nel seno del mare se n’ va.</l>
+          <l>Il tuo core</l>
+          <l>combattuto da fiero timore,</l>
+          <l>turbato, agitato,</l>
+          <l>sospira, s’adira,</l>
+          <l>e sdegnoso</l>
+          <l>ritrovar più riposo non sa.</l>
+          <l>Scena nona</l>
+          <l>Angelica e Medoro.</l>
+        </sp>
+        <stage>RUGGIEROCome l’ondacon voragine orrenda, e profondaagitata da venti, e procelle,fremendo, stridendo,là nel seno del mare se n’ va.Il tuo corecombattuto da fiero timore,turbato, agitato,sospira, s’adira,e sdegnosoritrovar più riposo non sa.Scena nonaAngelica e Medoro.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Partir convien da questo cielo.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Oh dio!</l>
+          <l>Tradirono il cor mio</l>
+          <l>la destra ed il vigor e deggio intanto</l>
+          <l>l’onta soffrir d’ingiuriosi insulti.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Disdicono, mio sposo</l>
+          <l>alla molle tua destra</l>
+          <l>e al tenero tuo sen spada e furore.</l>
+          <l>Son bellezza ed’amore</l>
+          <l>l’armi tue, il tuo vigor, e questo seno</l>
+          <l>il campo, ove tu déi dell’amor mio</l>
+          <l>aver dolci ripulse,</l>
+          <l>che finiranno in coniugali amplessi.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Oh conforte, oh speranza!</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Varcherem l’oceano, e a regni miei</l>
+          <l>felici approderem.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Paventi il vedo.</l>
+          <l>La sorte mia: deh, poni in calma, oh, cara</l>
+          <l>quel bel core, che il core a me rapì,</l>
+          <l>perché tanto timore?</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Nasce il timor dal mio soverchio amore.</l>
+        </sp>
+      </div>
+    </div>
+    <div type="act">
+      <head>MEDORO</head>Pena il mio bene, non meno io peno, e provo(meraviglia d’amor) dolci le penema nel timor dell’adorato benela pace, che vorrei, lasso, non trovo.Vorrebbe amando il corriposo, e pace;ma sempre teme amorsempre paventa.E poi sperando vache forse un dì saràl’alma contenta.Scena decimaOrlando solo.No, no, ti dico, no. Forse pretendiombra squallida e neradi spaventarmi! No, no, no, non è morta:morta credea la crudeltà Nerone.E sorto d’Acherontevolea ch’io le cantassi una canzone;ma morta so ben io ch’ella non è,che mi lacera il cor: fuggi da me.Scendi nel tartaroper farti vindicecontro una furiabella, e crudel.Furia bella, e crudel? Sono ben tutte,furie le donne brutte,ma Angelica è una furia, e pure è bella.Angelica? Sì, Angelica, che giàtanto fedel mi protestava amore.(vede la statua di Merlino, e se la figura Angelica)Ma che vedo? Ella è d’essa, il cor s’arrabbia.Angelica, mio bene…(ad Aronte)In faccia miadonde ardisci, fellon tenerla in gabbia?(va per rompere i balaustri, Aronte se li oppone in atto di combattere)Romperò questi ferri: e che pretendi?Combattere! Hai ragion. Via ti difendi.(combatte con Aronte, né può ferirlo)(Dell’Idra ha il cuoio addosso.Anima mia! Pianger la sento!)(ad Aronte)Ah, crudo,non reggerai contro il mio cor irato.(combatte di nuovo, e taglia la catena, che tiene la mazza legata al braccio d’Aronte, gliela strappa di mano, ed egli si mette a lottare)Oh, oh, l’ho disarmato.Vanne: minacci ancor? La tua pazziapiù non merta, o fellon, la pietà mia.Sgorga il sangueil furor langue,già caduto, è morto al suol.(rompe i balaustri con la mazza di Aronte)Con le stesse armi sue vi spezzo, o ferri.(abbracciando la statua)Sospirata mia bella oh, quanto è dura!(levando la statua)Intiriciata è certo di paura.Non temer, no, cor mio:ti stringe Orlando al sen: quanto fracasso.Mossa la statua dal luogo resta l’isola deserta tutta balze, e dirupi, con albero a cui in un trofeo sono appese le arme d’Orlando.<div type="scene">
+        <head>MEDORO</head>Pena il mio bene, non meno io peno, e provo(meraviglia d’amor) dolci le penema nel timor dell’adorato benela pace, che vorrei, lasso, non trovo.Vorrebbe amando il corriposo, e pace;ma sempre teme amorsempre paventa.E poi sperando vache forse un dì saràl’alma contenta.Scena decimaOrlando solo.No, no, ti dico, no. Forse pretendiombra squallida e neradi spaventarmi! No, no, no, non è morta:morta credea la crudeltà Nerone.E sorto d’Acherontevolea ch’io le cantassi una canzone;ma morta so ben io ch’ella non è,che mi lacera il cor: fuggi da me.Scendi nel tartaroper farti vindicecontro una furiabella, e crudel.Furia bella, e crudel? Sono ben tutte,furie le donne brutte,ma Angelica è una furia, e pure è bella.Angelica? Sì, Angelica, che giàtanto fedel mi protestava amore.(vede la statua di Merlino, e se la figura Angelica)Ma che vedo? Ella è d’essa, il cor s’arrabbia.Angelica, mio bene…(ad Aronte)In faccia miadonde ardisci, fellon tenerla in gabbia?(va per rompere i balaustri, Aronte se li oppone in atto di combattere)Romperò questi ferri: e che pretendi?Combattere! Hai ragion. Via ti difendi.(combatte con Aronte, né può ferirlo)(Dell’Idra ha il cuoio addosso.Anima mia! Pianger la sento!)(ad Aronte)Ah, crudo,non reggerai contro il mio cor irato.(combatte di nuovo, e taglia la catena, che tiene la mazza legata al braccio d’Aronte, gliela strappa di mano, ed egli si mette a lottare)Oh, oh, l’ho disarmato.Vanne: minacci ancor? La tua pazziapiù non merta, o fellon, la pietà mia.Sgorga il sangueil furor langue,già caduto, è morto al suol.(rompe i balaustri con la mazza di Aronte)Con le stesse armi sue vi spezzo, o ferri.(abbracciando la statua)Sospirata mia bella oh, quanto è dura!(levando la statua)Intiriciata è certo di paura.Non temer, no, cor mio:ti stringe Orlando al sen: quanto fracasso.Mossa la statua dal luogo resta l’isola deserta tutta balze, e dirupi, con albero a cui in un trofeo sono appese le arme d’Orlando.<sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Pena il mio bene, non meno io peno, e provo</l>
+          <l>(meraviglia d’amor) dolci le pene</l>
+          <l>ma nel timor dell’adorato bene</l>
+          <l>la pace, che vorrei, lasso, non trovo.</l>
+          <l>Vorrebbe amando il cor</l>
+          <l>riposo, e pace;</l>
+          <l>ma sempre teme amor</l>
+          <l>sempre paventa.</l>
+          <l>E poi sperando va</l>
+          <l>che forse un dì sarà</l>
+          <l>l’alma contenta.</l>
+          <l>Scena decima</l>
+          <l>Orlando solo.</l>
+          <l>No, no, ti dico, no. Forse pretendi</l>
+          <l>ombra squallida e nera</l>
+          <l>di spaventarmi! No, no, no, non è morta:</l>
+          <l>morta credea la crudeltà Nerone.</l>
+          <l>E sorto d’Acheronte</l>
+          <l>volea ch’io le cantassi una canzone;</l>
+          <l>ma morta so ben io ch’ella non è,</l>
+          <l>che mi lacera il cor: fuggi da me.</l>
+          <l>Scendi nel tartaro</l>
+          <l>per farti vindice</l>
+          <l>contro una furia</l>
+          <l>bella, e crudel.</l>
+          <l>Furia bella, e crudel? Sono ben tutte,</l>
+          <l>furie le donne brutte,</l>
+          <l>ma Angelica è una furia, e pure è bella.</l>
+          <l>Angelica? Sì, Angelica, che già</l>
+          <l>tanto fedel mi protestava amore.</l>
+          <l>(vede la statua di Merlino, e se la figura Angelica)</l>
+          <l>Ma che vedo? Ella è d’essa, il cor s’arrabbia.</l>
+          <l>Angelica, mio bene…</l>
+          <l>(ad Aronte)</l>
+          <l>In faccia mia</l>
+          <l>donde ardisci, fellon tenerla in gabbia?</l>
+          <l>(va per rompere i balaustri, Aronte se li oppone in atto di combattere)</l>
+          <l>Romperò questi ferri: e che pretendi?</l>
+          <l>Combattere! Hai ragion. Via ti difendi.</l>
+          <l>(combatte con Aronte, né può ferirlo)</l>
+          <l>(Dell’Idra ha il cuoio addosso.</l>
+          <l>Anima mia! Pianger la sento!)</l>
+          <l>(ad Aronte)</l>
+          <l>Ah, crudo,</l>
+          <l>non reggerai contro il mio cor irato.</l>
+          <l>(combatte di nuovo, e taglia la catena, che tiene la mazza legata al braccio d’Aronte, gliela strappa di mano, ed egli si mette a lottare)</l>
+          <l>Oh, oh, l’ho disarmato.</l>
+          <l>Vanne: minacci ancor? La tua pazzia</l>
+          <l>più non merta, o fellon, la pietà mia.</l>
+          <l>Sgorga il sangue</l>
+          <l>il furor langue,</l>
+          <l>già caduto, è morto al suol.</l>
+          <l>(rompe i balaustri con la mazza di Aronte)</l>
+          <l>Con le stesse armi sue vi spezzo, o ferri.</l>
+          <l>(abbracciando la statua)</l>
+          <l>Sospirata mia bella oh, quanto è dura!</l>
+          <l>(levando la statua)</l>
+          <l>Intiriciata è certo di paura.</l>
+          <l>Non temer, no, cor mio:</l>
+          <l>ti stringe Orlando al sen: quanto fracasso.</l>
+          <l>Mossa la statua dal luogo resta l’isola deserta tutta balze, e dirupi, con albero a cui in un trofeo sono appese le arme d’Orlando.</l>
+        </sp>
+        <stage>MEDOROPena il mio bene, non meno io peno, e provo(meraviglia d’amor) dolci le penema nel timor dell’adorato benela pace, che vorrei, lasso, non trovo.Vorrebbe amando il corriposo, e pace;ma sempre teme amorsempre paventa.E poi sperando vache forse un dì saràl’alma contenta.Scena decimaOrlando solo.No, no, ti dico, no. Forse pretendiombra squallida e neradi spaventarmi! No, no, no, non è morta:morta credea la crudeltà Nerone.E sorto d’Acherontevolea ch’io le cantassi una canzone;ma morta so ben io ch’ella non è,che mi lacera il cor: fuggi da me.Scendi nel tartaroper farti vindicecontro una furiabella, e crudel.Furia bella, e crudel? Sono ben tutte,furie le donne brutte,ma Angelica è una furia, e pure è bella.Angelica? Sì, Angelica, che giàtanto fedel mi protestava amore.(vede la statua di Merlino, e se la figura Angelica)Ma che vedo? Ella è d’essa, il cor s’arrabbia.Angelica, mio bene…(ad Aronte)In faccia miadonde ardisci, fellon tenerla in gabbia?(va per rompere i balaustri, Aronte se li oppone in atto di combattere)Romperò questi ferri: e che pretendi?Combattere! Hai ragion. Via ti difendi.(combatte con Aronte, né può ferirlo)(Dell’Idra ha il cuoio addosso.Anima mia! Pianger la sento!)(ad Aronte)Ah, crudo,non reggerai contro il mio cor irato.(combatte di nuovo, e taglia la catena, che tiene la mazza legata al braccio d’Aronte, gliela strappa di mano, ed egli si mette a lottare)Oh, oh, l’ho disarmato.Vanne: minacci ancor? La tua pazziapiù non merta, o fellon, la pietà mia.Sgorga il sangueil furor langue,già caduto, è morto al suol.(rompe i balaustri con la mazza di Aronte)Con le stesse armi sue vi spezzo, o ferri.(abbracciando la statua)Sospirata mia bella oh, quanto è dura!(levando la statua)Intiriciata è certo di paura.Non temer, no, cor mio:ti stringe Orlando al sen: quanto fracasso.Mossa la statua dal luogo resta l’isola deserta tutta balze, e dirupi, con albero a cui in un trofeo sono appese le arme d’Orlando.</stage>
+      </div>
+    </div>
+    <div type="act">
+      <head>ORLANDO</head>Cos’è, treman le mura infin dal fondo?Volan per l’aria i tetti,traballa il suol! Forse ruina il mondo!Son pur stanco! Pur lasso!Or che tratto ho il mio ben dal ferreo laccio,vuò chiuder gl’occhi al sonno,tal Borea riposò d’Oritia in braccio.(si addormenta)Scena undicesimaAlcina, Orlando, che dorme, poi Bradamante e Ruggiero.<div type="scene">
+        <head>ORLANDO</head>Cos’è, treman le mura infin dal fondo?Volan per l’aria i tetti,traballa il suol! Forse ruina il mondo!Son pur stanco! Pur lasso!Or che tratto ho il mio ben dal ferreo laccio,vuò chiuder gl’occhi al sonno,tal Borea riposò d’Oritia in braccio.(si addormenta)Scena undicesimaAlcina, Orlando, che dorme, poi Bradamante e Ruggiero.<sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Cos’è, treman le mura infin dal fondo?</l>
+          <l>Volan per l’aria i tetti,</l>
+          <l>traballa il suol! Forse ruina il mondo!</l>
+          <l>Son pur stanco! Pur lasso!</l>
+          <l>Or che tratto ho il mio ben dal ferreo laccio,</l>
+          <l>vuò chiuder gl’occhi al sonno,</l>
+          <l>tal Borea riposò d’Oritia in braccio.</l>
+          <l>(si addormenta)</l>
+          <l>Scena undicesima</l>
+          <l>Alcina, Orlando, che dorme, poi Bradamante e Ruggiero.</l>
+        </sp>
+        <stage>ORLANDOCos’è, treman le mura infin dal fondo?Volan per l’aria i tetti,traballa il suol! Forse ruina il mondo!Son pur stanco! Pur lasso!Or che tratto ho il mio ben dal ferreo laccio,vuò chiuder gl’occhi al sonno,tal Borea riposò d’Oritia in braccio.(si addormenta)Scena undicesimaAlcina, Orlando, che dorme, poi Bradamante e Ruggiero.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Infelice! Ove fuggo! Ove mi ascondo.</l>
+          <l>Son vinta e vilipesa. Ingiusto cielo!</l>
+          <l>Immortal mi facesti, ed il tuo dono</l>
+          <l>rende la fiera mia sciagura eterna,</l>
+          <l>perché immortal sarà meco il mio duolo.</l>
+          <l>(vede Orlando che dorme)</l>
+          <l>Il feroce nemico in braccio al sonno!</l>
+          <l>Cielo, giusto or dirò, che a mia vendetta</l>
+          <l>apri pietoso il varco.</l>
+          <l>(snuda un pugnale)</l>
+          <l>Cado da grande, or che la mia ruina</l>
+          <l>meco ti opprime.</l>
+          <l>(si avventa ad Orlando)</l>
+        </sp>
+        <stage>ALCINAInfelice! Ove fuggo! Ove mi ascondo.Son vinta e vilipesa. Ingiusto cielo!Immortal mi facesti, ed il tuo donorende la fiera mia sciagura eterna,perché immortal sarà meco il mio duolo.(vede Orlando che dorme)Il feroce nemico in braccio al sonno!Cielo, giusto or dirò, che a mia vendettaapri pietoso il varco.(snuda un pugnale)Cado da grande, or che la mia ruinameco ti opprime.(si avventa ad Orlando)</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(trattenendola)</l>
+          <l>Ferma.</l>
+        </sp>
+        <stage>RUGGIERO(trattenendola)Ferma.</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Ah, iniqua Alcina!</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Ruggier! che vedo?</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>In me non più Ruggiero,</l>
+          <l>ma vedi il tuo persecutor più fiero.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(a Bradamante)</l>
+          <l>Ardalico, amor mio.</l>
+        </sp>
+        <stage>ALCINA(a Bradamante)Ardalico, amor mio.</stage>
+      </div>
+      <div type="scene">
+        <head>BRADAMANTE</head>In me ravvisa, Bradamante,la tua più gran nemica.Scena dodicesimaAngelica e Medoro fuggitivi e detti.<sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>In me ravvisa, Bradamante,</l>
+          <l>la tua più gran nemica.</l>
+          <l>Scena dodicesima</l>
+          <l>Angelica e Medoro fuggitivi e detti.</l>
+        </sp>
+        <stage>BRADAMANTEIn me ravvisa, Bradamante,la tua più gran nemica.Scena dodicesimaAngelica e Medoro fuggitivi e detti.</stage>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Salviamci.</l>
+        </sp>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>E dove, o bella?</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(arrestando Angelica)</l>
+          <l>Arresta il piede!</l>
+        </sp>
+        <stage>BRADAMANTE(arrestando Angelica)Arresta il piede!</stage>
+        <sp who="#medoro">
+          <speaker>MEDORO:</speaker>
+          <l>Che fia!</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Cieli!</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(a Ruggiero)</l>
+          <l>Ecco lei, che ingannatrice</l>
+          <l>trasse alla rupe Orlando,</l>
+          <l>per lei va folle errando.</l>
+        </sp>
+        <stage>BRADAMANTE(a Ruggiero)Ecco lei, che ingannatricetrasse alla rupe Orlando,per lei va folle errando.</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(ad Angelica)</l>
+          <l>Amica, non è persa ogni speranza.</l>
+        </sp>
+        <stage>ALCINA(ad Angelica)Amica, non è persa ogni speranza.</stage>
+      </div>
+      <div type="scene">
+        <head>ANGELICA</head>Ma veggio, ahimè, l’ultima tua ruina.Scena ultimaAstolfo con Soldati di Logistilla, uno di quali porta una face accesa e detti.<sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>Ma veggio, ahimè, l’ultima tua ruina.</l>
+          <l>Scena ultima</l>
+          <l>Astolfo con Soldati di Logistilla, uno di quali porta una face accesa e detti.</l>
+        </sp>
+        <stage>ANGELICAMa veggio, ahimè, l’ultima tua ruina.Scena ultimaAstolfo con Soldati di Logistilla, uno di quali porta una face accesa e detti.</stage>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Angelica si arresti, e pera Alcina.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Astolfo!</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>(Ahimè!)</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(ad Astolfo additando Alcina)</l>
+          <l>Dove sinor? Ti piansi</l>
+          <l>vittima sfortunata</l>
+          <l>al furor di colei.</l>
+        </sp>
+        <stage>RUGGIERO(ad Astolfo additando Alcina)Dove sinor? Ti piansivittima sfortunataal furor di colei.</stage>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Nulla può in me,</l>
+          <l>che ho in mia difesa i dèi!</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Ma Orlando!</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Insano ei scorre…</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Io so l’alato</l>
+          <l>tuo destrier contumace</l>
+          <l>su cui credea trar dallo speco Orlando,</l>
+          <l>nulla la man, nulla temendo il morso,</l>
+          <l>mi porta a sua balia, talché varcata</l>
+          <l>la region dell’aere, là giunsi</l>
+          <l>ove non arde eterno il foco, e spande</l>
+          <l>dalla sfera una voce alta e celeste.</l>
+          <l>Prendi, prendi mi dice,</l>
+          <l>in questa face, lo smarrito lume</l>
+          <l>della mente d’Orlando,</l>
+          <l>riporta, Astolfo; egli è voler divino,</l>
+          <l>della ragione il lume al paladino.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(scuotendolo)</l>
+          <l>Orlando!</l>
+        </sp>
+        <stage>BRADAMANTE(scuotendolo)Orlando!</stage>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>(scuotendolo)</l>
+          <l>Orlando!</l>
+        </sp>
+        <stage>RUGGIERO(scuotendolo)Orlando!</stage>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>Oh, mio tormento!</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>(svegliandosi)</l>
+          <l>Orlando</l>
+          <l>d’Angelica è nel sen.</l>
+          <l>(vedendo la face)</l>
+          <l>Qual lume! Oh dio?</l>
+          <l>Sovra la ignuda terra ignudo Orlando!</l>
+          <l>Misero! Dove sono?</l>
+          <l>Chi son? Chi cerco? Oh, dèi!</l>
+          <l>Ahi, che in mirar me stesso,</l>
+          <l>me non ravviso in me, sol la mia colpa.</l>
+        </sp>
+        <stage>ORLANDO(svegliandosi)Orlandod’Angelica è nel sen.(vedendo la face)Qual lume! Oh dio?Sovra la ignuda terra ignudo Orlando!Misero! Dove sono?Chi son? Chi cerco? Oh, dèi!Ahi, che in mirar me stesso,me non ravviso in me, sol la mia colpa.</stage>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>Del nostro cuor umana colpa è errore.</l>
+        </sp>
+        <sp who="#ruggiero">
+          <speaker>RUGGIERO:</speaker>
+          <l>Ma saggia emenda è di prudenza merto.</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Rivesti l’arme, o prode.</l>
+        </sp>
+        <sp who="#alcina">
+          <speaker>ALCINA:</speaker>
+          <l>O, ingiusti numi! O fati! Oh avverse stelle,</l>
+          <l>troppo fiero è ‘l mio duolo, e l’onta mia!</l>
+          <l>Ti perdo, empio Ruggiero, e già riveggo,</l>
+          <l>in Alderico ancor la mia rivale!</l>
+          <l>Tutto per me è fatale.</l>
+          <l>Torna il senno ad Orlando</l>
+          <l>e senza forza è in fin la mia magia.</l>
+          <l>Oh ingiusti numi! O fati! O avverse stelle!</l>
+          <l>Anderò, chiamerò dal profondo</l>
+          <l>l’empie furie del baratro immondo.</l>
+          <l>Chiederò negl’abissi vendetta</l>
+          <l>dell’offeso e tradito mio amor.</l>
+        </sp>
+        <sp who="#bradamante">
+          <speaker>BRADAMANTE:</speaker>
+          <l>(ad Orlando additandole Alcina)</l>
+          <l>Vedi, ch’è tuo trionfo</l>
+          <l>l’eccidio della rea.</l>
+        </sp>
+        <stage>BRADAMANTE(ad Orlando additandole Alcina)Vedi, ch’è tuo trionfol’eccidio della rea.</stage>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Gran mago ora i tuoi detti omai comprendo:</l>
+          <l>dopo distrutta Alcina,</l>
+          <l>le fortune in amor mi serba il cielo</l>
+          <l>con tormelo dal cor.</l>
+        </sp>
+        <sp who="#angelica">
+          <speaker>ANGELICA:</speaker>
+          <l>O mio rossore!</l>
+        </sp>
+        <sp who="#orlando">
+          <speaker>ORLANDO:</speaker>
+          <l>Godi, o bella, il tuo sposo, e tu garzone</l>
+          <l>la tua consorte in pace. Il ciel v’ha uniti,</l>
+          <l>in dolce amico nodo:</l>
+          <l>egli sia eterno, e nol rallenti mai,</l>
+          <l>non che lo sciolga, invida sorte amara.</l>
+        </sp>
+        <sp who="#astolfo">
+          <speaker>ASTOLFO:</speaker>
+          <l>Saggio, chi dal fallir prudente impara.</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Vien dal cielo in noi l’amore</l>
+          <l>ma il desio del nostro core</l>
+          <l>spirto reo talor lo fa.</l>
+          <l>S’ami sì, ma s’ami il bello,</l>
+          <l>perché immagine di quello,</l>
+          <l>ch’è l’autor della beltà.</l>
+          <l>Fine del libretto.</l>
+        </sp>
+        <stage>COROVien dal cielo in noi l’amorema il desio del nostro corespirto reo talor lo fa.S’ami sì, ma s’ami il bello,perché immagine di quello,ch’è l’autor della beltà.Fine del libretto.</stage>
+      </div>
+    </div>
+  </text>
+</TEI>

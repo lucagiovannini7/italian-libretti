@@ -1,0 +1,862 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">r</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="orfeo">
+            <persName>ORFEO:</persName>
+          </person>
+          <person xml:id="amore">
+            <persName>AMORE:</persName>
+          </person>
+          <person xml:id="euridice">
+            <persName>EURIDICE:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>ORFEO</castItem>
+        <castItem>EURIDICE</castItem>
+        <castItem>AMORE</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>Argomento</head>È noto Orfeo, e celebre il suo lungo dolore nell’immatura morte della sua sposa Euridice. Morì ella nella Tracia; io per comodo dell’unità del luogo la suppongo morta nella Campagna felice presso al lago d’Averno, in vicinanza del quale finsero i poeti trovarsi una spelonca, che apriva il cammino all’Inferno. L’infelice amante mosse a pietà gli dèi, che gli concessero di penetrar negli Elisi per ripigliarsi la sua diletta, col patto però di non guardarla finché non fosse tornato sulla terra. Non seppe il tenero sposo frenar tanto gli affetti, ed avendo contravvenuto al divieto perdé per sempre Euridice. Per adattar la favola alle nostre scene ho dovuto cambiar la catastrofe. Leggasi Virgilio al libro IV delle Georgiche, al VI dell’Eneide.</div>
+      <div type="act">
+        <head>Atto primo</head>[Overture]Scena primaAmeno, ma solitario boschetto di allori e cipressi che ad arte diradato racchiude in un piccolo piano la tomba di Euridice.All’alzarsi della tenda al suono di mesta sinfonia, si vede occupata la scena da uno stuolo di Pastori e Ninfe seguaci di Orfeo che portano serti di fiori e ghirlande di mirto; e mentre una parte di loro arder fa de’ profumi incorona il marmo e sparge fiori intorno alla tomba, intuona l’altra il seguente Coro, interrotto da’ lamenti di Orfeo che, disteso sul davanti sopra di un sasso, va di tempo in tempo replicando appassionatamente il nome di Euridice.[N. 1 – Coro]<div type="scene">
+          <head>Atto primo</head>[Overture]Scena primaAmeno, ma solitario boschetto di allori e cipressi che ad arte diradato racchiude in un piccolo piano la tomba di Euridice.All’alzarsi della tenda al suono di mesta sinfonia, si vede occupata la scena da uno stuolo di Pastori e Ninfe seguaci di Orfeo che portano serti di fiori e ghirlande di mirto; e mentre una parte di loro arder fa de’ profumi incorona il marmo e sparge fiori intorno alla tomba, intuona l’altra il seguente Coro, interrotto da’ lamenti di Orfeo che, disteso sul davanti sopra di un sasso, va di tempo in tempo replicando appassionatamente il nome di Euridice.[N. 1 – Coro] <stage>Atto primo[Overture]Scena primaAmeno, ma solitario boschetto di allori e cipressi che ad arte diradato racchiude in un piccolo piano la tomba di Euridice.All’alzarsi della tenda al suono di mesta sinfonia, si vede occupata la scena da uno stuolo di Pastori e Ninfe seguaci di Orfeo che portano serti di fiori e ghirlande di mirto; e mentre una parte di loro arder fa de’ profumi incorona il marmo e sparge fiori intorno alla tomba, intuona l’altra il seguente Coro, interrotto da’ lamenti di Orfeo che, disteso sul davanti sopra di un sasso, va di tempo in tempo replicando appassionatamente il nome di Euridice.[N. 1 – Coro]</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Ah! se intorno a quest’urna funesta,</l>
+            <l>Euridice, ombra bella t’aggiri,</l>
+            <l>odi i pianti, i lamenti, i sospiri</l>
+            <l>che dolenti si spargon per te.</l>
+            <l>Ed ascolta il tuo sposo infelice,</l>
+            <l>che piangendo ti chiama, e si lagna,</l>
+            <l>come quando la dolce compagna</l>
+            <l>tortorella amorosa perdé.</l>
+            <l>[N. 2 – Recitativo]</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Basta, basta, o compagni: il vostro lutto</l>
+            <l>aggrava il mio. Spargete</l>
+            <l>purpurei fiori, inghirlandate il marmo,</l>
+            <l>partitevi da me: restar vogl’io</l>
+            <l>solo fra queste ombre funebri ed oscure</l>
+            <l>coll’empia compagnia di mie sventure.</l>
+            <l>[N. 3 – Coro]</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Ah! se intorno a quest’urna funesta</l>
+            <l>Euridice, ombra bella, t’aggiri,</l>
+            <l>odi i pianti, i lamenti, i sospiri,</l>
+            <l>che dolenti si spargon per te.</l>
+            <l>[N. 4 – Pantomima]</l>
+            <l>Seguita il ballo, terminato il quale tutti partono. Resta Orfeo.</l>
+            <l>[N. 5 – Aria]</l>
+          </sp>
+          <stage>COROAh! se intorno a quest’urna funestaEuridice, ombra bella, t’aggiri,odi i pianti, i lamenti, i sospiri,che dolenti si spargon per te.[N. 4 – Pantomima]Seguita il ballo, terminato il quale tutti partono. Resta Orfeo.[N. 5 – Aria]</stage>
+        </div>
+        <div type="scene">
+          <head>ORFEO</head>Chiamo il mio ben cosìquando si mostra il dì,quando s’asconde.Ma, oh vano mio dolor!l’idolo del mio cornon mi risponde.[N. 6 – Recitativo]Euridice! Euridice!Ombra cara, ove sei? Piange il tuo sposo,ti domanda agli dèi,a’ mortali ti chiede e sparse a’ ventison le lagrime sue, i suoi lamenti.[N. 7 – Aria]Cerco il mio ben cosìin queste, ove morì,funeste sponde.Ma sola al mio dolor,perché conobbe amor,l’eco risponde.[N. 8 – Recitativo]Euridice! Euridice! Ah, questo nomesan le spiagge, e le selvel’appresero da me. Per ogni valleEuridice risuona; in ogni troncoscrisse il misero Orfeo, Orfeo infelice:«Euridice, idol mio, cara Euridice».[N. 9 – Aria]Piango il mio ben così,se il sole indora il dì,se va nell’onde.Pietoso al pianto miova mormorando il rioe mi risponde.[N. 10 – Recitativo]Numi! barbari numi!D’Acheronte e d’Avernopallidi abitator, la di cui manoavida delle mortimai disarmò, mai trattener non seppebeltà né gioventù, voi mi rapistela mia bella Euridice(oh memoria crudel!) sul fior degli anni:la rivoglio da voi, numi tiranni.Ho core anch’io per ricercar sull’ormedei più intrepidi eroi, nel vostro orrore,la mia sposa, il mio ben…Scena secondaAmore e detto.<sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Chiamo il mio ben così</l>
+            <l>quando si mostra il dì,</l>
+            <l>quando s’asconde.</l>
+            <l>Ma, oh vano mio dolor!</l>
+            <l>l’idolo del mio cor</l>
+            <l>non mi risponde.</l>
+            <l>[N. 6 – Recitativo]</l>
+            <l>Euridice! Euridice!</l>
+            <l>Ombra cara, ove sei? Piange il tuo sposo,</l>
+            <l>ti domanda agli dèi,</l>
+            <l>a’ mortali ti chiede e sparse a’ venti</l>
+            <l>son le lagrime sue, i suoi lamenti.</l>
+            <l>[N. 7 – Aria]</l>
+            <l>Cerco il mio ben così</l>
+            <l>in queste, ove morì,</l>
+            <l>funeste sponde.</l>
+            <l>Ma sola al mio dolor,</l>
+            <l>perché conobbe amor,</l>
+            <l>l’eco risponde.</l>
+            <l>[N. 8 – Recitativo]</l>
+            <l>Euridice! Euridice! Ah, questo nome</l>
+            <l>san le spiagge, e le selve</l>
+            <l>l’appresero da me. Per ogni valle</l>
+            <l>Euridice risuona; in ogni tronco</l>
+            <l>scrisse il misero Orfeo, Orfeo infelice:</l>
+            <l>«Euridice, idol mio, cara Euridice».</l>
+            <l>[N. 9 – Aria]</l>
+            <l>Piango il mio ben così,</l>
+            <l>se il sole indora il dì,</l>
+            <l>se va nell’onde.</l>
+            <l>Pietoso al pianto mio</l>
+            <l>va mormorando il rio</l>
+            <l>e mi risponde.</l>
+            <l>[N. 10 – Recitativo]</l>
+            <l>Numi! barbari numi!</l>
+            <l>D’Acheronte e d’Averno</l>
+            <l>pallidi abitator, la di cui mano</l>
+            <l>avida delle morti</l>
+            <l>mai disarmò, mai trattener non seppe</l>
+            <l>beltà né gioventù, voi mi rapiste</l>
+            <l>la mia bella Euridice</l>
+            <l>(oh memoria crudel!) sul fior degli anni:</l>
+            <l>la rivoglio da voi, numi tiranni.</l>
+            <l>Ho core anch’io per ricercar sull’orme</l>
+            <l>dei più intrepidi eroi, nel vostro orrore,</l>
+            <l>la mia sposa, il mio ben…</l>
+            <l>Scena seconda</l>
+            <l>Amore e detto.</l>
+          </sp>
+          <stage>ORFEOChiamo il mio ben cosìquando si mostra il dì,quando s’asconde.Ma, oh vano mio dolor!l’idolo del mio cornon mi risponde.[N. 6 – Recitativo]Euridice! Euridice!Ombra cara, ove sei? Piange il tuo sposo,ti domanda agli dèi,a’ mortali ti chiede e sparse a’ ventison le lagrime sue, i suoi lamenti.[N. 7 – Aria]Cerco il mio ben cosìin queste, ove morì,funeste sponde.Ma sola al mio dolor,perché conobbe amor,l’eco risponde.[N. 8 – Recitativo]Euridice! Euridice! Ah, questo nomesan le spiagge, e le selvel’appresero da me. Per ogni valleEuridice risuona; in ogni troncoscrisse il misero Orfeo, Orfeo infelice:«Euridice, idol mio, cara Euridice».[N. 9 – Aria]Piango il mio ben così,se il sole indora il dì,se va nell’onde.Pietoso al pianto miova mormorando il rioe mi risponde.[N. 10 – Recitativo]Numi! barbari numi!D’Acheronte e d’Avernopallidi abitator, la di cui manoavida delle mortimai disarmò, mai trattener non seppebeltà né gioventù, voi mi rapistela mia bella Euridice(oh memoria crudel!) sul fior degli anni:la rivoglio da voi, numi tiranni.Ho core anch’io per ricercar sull’ormedei più intrepidi eroi, nel vostro orrore,la mia sposa, il mio ben…Scena secondaAmore e detto.</stage>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>T’assiste Amore.</l>
+            <l>Orfeo, della tua pena</l>
+            <l>Giove sente pietà. Ti si concede</l>
+            <l>le pigre onde di Lete</l>
+            <l>vivo varcar. Del tenebroso abisso</l>
+            <l>sei sulla via: se placar puoi col canto</l>
+            <l>le furie, i mostri e l’empia morte, al giorno</l>
+            <l>la diletta Euridice</l>
+            <l>farà teco ritorno…</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Ah come! Ah quando!</l>
+            <l>E possibil sarà?… spiegati.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Avrai</l>
+            <l>valor che basti a questa prova estrema?</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Mi prometti Euridice, e vuoi che io tema!</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Sai però con qual patto</l>
+            <l>l’imprese hai da compir?</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Parla.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Euridice</l>
+            <l>ti si vieta il mirar, finché non sei</l>
+            <l>fuor dagli antri di Stige, e il gran divieto</l>
+            <l>rivelarle non déi; se no, la perdi,</l>
+            <l>e di novo, e per sempre; e in abbandono</l>
+            <l>al tuo fiero desio</l>
+            <l>sventurato vivrai. Pensaci; addio.</l>
+            <l>[N. 11 – Aria]</l>
+            <l>Gli sguardi trattieni,</l>
+            <l>affrena gli accenti;</l>
+            <l>rammenta se peni,</l>
+            <l>che pochi momenti</l>
+            <l>hai più da penar.</l>
+            <l>Sai pur che talora</l>
+            <l>confusi, tremanti</l>
+            <l>con chi gl’innamora</l>
+            <l>son ciechi gli amanti,</l>
+            <l>non sanno parlar.</l>
+            <l>(parte)</l>
+            <l>[N. 12 – Recitativo]</l>
+          </sp>
+          <stage>AMOREEuridiceti si vieta il mirar, finché non seifuor dagli antri di Stige, e il gran divietorivelarle non déi; se no, la perdi,e di novo, e per sempre; e in abbandonoal tuo fiero desiosventurato vivrai. Pensaci; addio.[N. 11 – Aria]Gli sguardi trattieni,affrena gli accenti;rammenta se peni,che pochi momentihai più da penar.Sai pur che taloraconfusi, tremanticon chi gl’innamorason ciechi gli amanti,non sanno parlar.(parte)[N. 12 – Recitativo]</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ORFEO</head>Che disse! che ascoltai! Dunque Euridicevivrà, l’avrò presente, e dopo i tantiaffanni miei, in quel momento, in quellaguerra d’affetti, io non dovrò mirarla,non stringerla al mio sen! Sposa infelice!che dirà mai? che penserà? Preveggole smanie sue, comprendole angustie mie. Nel figurarlo solosento gelarmi il sangue,tremarmi il cor… Ma… lo potrò. Lo voglio.Ho risoluto. Il grande,l’insoffribil de’ mali è l’esser privodell’unico dell’alma amato oggetto:assistetemi, o dèi, la legge accetto.Si vede un lampo, si sente un tuono e parte Orfeo.Atto secondoScena primaOrrida e cavernosa al di là del fiume Cocito, offuscata poi in lontananza da un tenebroso fumo illuminato da fiamme che ingombrano tutta quella orribile abitazione.[N. 13 – Danza delle Furie]Appena aperta la scena al suono di orribile sinfonia comincia il ballo di Furie e Spettri, che viene interrotto dalle armonie della lira d’Orfeo, il quale comparendo poi sulla scena, tutta quella turba infernale intuona il seguente:[N. 14 – Coro]Chi mai dell’Erebofra le caligini,sull’orme d’Ercolee di Piritooconduce il piè?D’orror l’ingombrinole fiere Eumenidi,e lo spaventinogli urli di Cerbero,se un dio non è.[N. 15 – Danza delle Furie]Ripigliano le Furie il ballo girando intorno ad Orfeo per spaventarlo.[N. 16 – Coro]Chi mai dell’Erebofra le caligini,sull’orme d’Ercolee di Piritooconduce il piè?D’orror l’ingombrinole fiere Eumenidi,e lo spaventinogli urli di Cerbero,se un dio non è.[N. 17 – Solo e Coro]<div type="scene">
+          <head>ORFEO</head>Che disse! che ascoltai! Dunque Euridicevivrà, l’avrò presente, e dopo i tantiaffanni miei, in quel momento, in quellaguerra d’affetti, io non dovrò mirarla,non stringerla al mio sen! Sposa infelice!che dirà mai? che penserà? Preveggole smanie sue, comprendole angustie mie. Nel figurarlo solosento gelarmi il sangue,tremarmi il cor… Ma… lo potrò. Lo voglio.Ho risoluto. Il grande,l’insoffribil de’ mali è l’esser privodell’unico dell’alma amato oggetto:assistetemi, o dèi, la legge accetto.Si vede un lampo, si sente un tuono e parte Orfeo.Atto secondoScena primaOrrida e cavernosa al di là del fiume Cocito, offuscata poi in lontananza da un tenebroso fumo illuminato da fiamme che ingombrano tutta quella orribile abitazione.[N. 13 – Danza delle Furie]Appena aperta la scena al suono di orribile sinfonia comincia il ballo di Furie e Spettri, che viene interrotto dalle armonie della lira d’Orfeo, il quale comparendo poi sulla scena, tutta quella turba infernale intuona il seguente:[N. 14 – Coro]Chi mai dell’Erebofra le caligini,sull’orme d’Ercolee di Piritooconduce il piè?D’orror l’ingombrinole fiere Eumenidi,e lo spaventinogli urli di Cerbero,se un dio non è.[N. 15 – Danza delle Furie]Ripigliano le Furie il ballo girando intorno ad Orfeo per spaventarlo.[N. 16 – Coro]Chi mai dell’Erebofra le caligini,sull’orme d’Ercolee di Piritooconduce il piè?D’orror l’ingombrinole fiere Eumenidi,e lo spaventinogli urli di Cerbero,se un dio non è.[N. 17 – Solo e Coro]<sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Che disse! che ascoltai! Dunque Euridice</l>
+            <l>vivrà, l’avrò presente, e dopo i tanti</l>
+            <l>affanni miei, in quel momento, in quella</l>
+            <l>guerra d’affetti, io non dovrò mirarla,</l>
+            <l>non stringerla al mio sen! Sposa infelice!</l>
+            <l>che dirà mai? che penserà? Preveggo</l>
+            <l>le smanie sue, comprendo</l>
+            <l>le angustie mie. Nel figurarlo solo</l>
+            <l>sento gelarmi il sangue,</l>
+            <l>tremarmi il cor… Ma… lo potrò. Lo voglio.</l>
+            <l>Ho risoluto. Il grande,</l>
+            <l>l’insoffribil de’ mali è l’esser privo</l>
+            <l>dell’unico dell’alma amato oggetto:</l>
+            <l>assistetemi, o dèi, la legge accetto.</l>
+            <l>Si vede un lampo, si sente un tuono e parte Orfeo.</l>
+            <l>Atto secondo</l>
+            <l>Scena prima</l>
+            <l>Orrida e cavernosa al di là del fiume Cocito, offuscata poi in lontananza da un tenebroso fumo illuminato da fiamme che ingombrano tutta quella orribile abitazione.</l>
+            <l>[N. 13 – Danza delle Furie]</l>
+            <l>Appena aperta la scena al suono di orribile sinfonia comincia il ballo di Furie e Spettri, che viene interrotto dalle armonie della lira d’Orfeo, il quale comparendo poi sulla scena, tutta quella turba infernale intuona il seguente:</l>
+            <l>[N. 14 – Coro]</l>
+            <l>Chi mai dell’Erebo</l>
+            <l>fra le caligini,</l>
+            <l>sull’orme d’Ercole</l>
+            <l>e di Piritoo</l>
+            <l>conduce il piè?</l>
+            <l>D’orror l’ingombrino</l>
+            <l>le fiere Eumenidi,</l>
+            <l>e lo spaventino</l>
+            <l>gli urli di Cerbero,</l>
+            <l>se un dio non è.</l>
+            <l>[N. 15 – Danza delle Furie]</l>
+            <l>Ripigliano le Furie il ballo girando intorno ad Orfeo per spaventarlo.</l>
+            <l>[N. 16 – Coro]</l>
+            <l>Chi mai dell’Erebo</l>
+            <l>fra le caligini,</l>
+            <l>sull’orme d’Ercole</l>
+            <l>e di Piritoo</l>
+            <l>conduce il piè?</l>
+            <l>D’orror l’ingombrino</l>
+            <l>le fiere Eumenidi,</l>
+            <l>e lo spaventino</l>
+            <l>gli urli di Cerbero,</l>
+            <l>se un dio non è.</l>
+            <l>[N. 17 – Solo e Coro]</l>
+          </sp>
+          <stage>ORFEOChe disse! che ascoltai! Dunque Euridicevivrà, l’avrò presente, e dopo i tantiaffanni miei, in quel momento, in quellaguerra d’affetti, io non dovrò mirarla,non stringerla al mio sen! Sposa infelice!che dirà mai? che penserà? Preveggole smanie sue, comprendole angustie mie. Nel figurarlo solosento gelarmi il sangue,tremarmi il cor… Ma… lo potrò. Lo voglio.Ho risoluto. Il grande,l’insoffribil de’ mali è l’esser privodell’unico dell’alma amato oggetto:assistetemi, o dèi, la legge accetto.Si vede un lampo, si sente un tuono e parte Orfeo.Atto secondoScena primaOrrida e cavernosa al di là del fiume Cocito, offuscata poi in lontananza da un tenebroso fumo illuminato da fiamme che ingombrano tutta quella orribile abitazione.[N. 13 – Danza delle Furie]Appena aperta la scena al suono di orribile sinfonia comincia il ballo di Furie e Spettri, che viene interrotto dalle armonie della lira d’Orfeo, il quale comparendo poi sulla scena, tutta quella turba infernale intuona il seguente:[N. 14 – Coro]Chi mai dell’Erebofra le caligini,sull’orme d’Ercolee di Piritooconduce il piè?D’orror l’ingombrinole fiere Eumenidi,e lo spaventinogli urli di Cerbero,se un dio non è.[N. 15 – Danza delle Furie]Ripigliano le Furie il ballo girando intorno ad Orfeo per spaventarlo.[N. 16 – Coro]Chi mai dell’Erebofra le caligini,sull’orme d’Ercolee di Piritooconduce il piè?D’orror l’ingombrinole fiere Eumenidi,e lo spaventinogli urli di Cerbero,se un dio non è.[N. 17 – Solo e Coro]</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Deh! placatevi con me,</l>
+            <l>furie, larve, ombre sdegnose.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>No.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Vi renda almen pietose</l>
+            <l>il mio barbaro dolor.</l>
+            <l>[N. 18 – Coro]</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(raddolcito e con espressione di qualche compatimento)</l>
+            <l>Misero giovine!</l>
+            <l>che vuoi, che mediti?</l>
+            <l>Altro non abita</l>
+            <l>che lutto e gemito</l>
+            <l>in quelle orribili</l>
+            <l>soglie funeste.</l>
+            <l>[N. 19 – Aria]</l>
+          </sp>
+          <stage>CORO(raddolcito e con espressione di qualche compatimento)Misero giovine!che vuoi, che mediti?Altro non abitache lutto e gemitoin quelle orribilisoglie funeste.[N. 19 – Aria]</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Mille pene, ombre moleste,</l>
+            <l>come voi sopporto anch’io;</l>
+            <l>ho con me l’inferno mio,</l>
+            <l>me lo sento in mezzo al cor.</l>
+            <l>[N. 20 – Coro]</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(con maggior dolcezza)</l>
+            <l>Ah quale incognito</l>
+            <l>affetto flebile,</l>
+            <l>dolce a sospendere</l>
+            <l>vien l’implacabile</l>
+            <l>nostro furor.</l>
+            <l>[N. 21 – Aria]</l>
+          </sp>
+          <stage>CORO(con maggior dolcezza)Ah quale incognitoaffetto flebile,dolce a sospenderevien l’implacabilenostro furor.[N. 21 – Aria]</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Men tiranne, ah! voi sareste</l>
+            <l>al mio pianto, al mio lamento,</l>
+            <l>se provaste un sol momento</l>
+            <l>cosa sia languir d’amor.</l>
+            <l>[N. 22 – Coro]</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORO</head>(sempre più raddolcito)Ah quale incognitoaffetto flebile,dolce a sospenderevien l’implacabilenostro furor!Le porte stridanosu’ neri cardinie il passo lascinosicuro e liberoal vincitor.[N. 23 – Danza delle Furie]Cominciano a ritirarsi le Furie ed i Mostri e, dileguandosi per entro le scene, ripetono l’ultima strofa di coro che, continuando sempre frattanto che si allontanano, finisce finalmente in un confuso mormorio.Sparite le Furie, sgombrati i Mostri, Orfeo s’avanza nell’inferno.[N. 24 – Balletto][N. 25 – Balletto][N. 26 – Balletto]Scena secondaDeliziosa per i boschetti che vi verdeggiano, i fiori che rivestono i prati, i ritiri ombrosi che vi si scoprono, i fiumi ed i ruscelli che la bagnano.Orfeo ed indi coro di Eroi ed Eroine, poi Euridice.[N. 27 – Quasi recitativo]<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>(sempre più raddolcito)</l>
+            <l>Ah quale incognito</l>
+            <l>affetto flebile,</l>
+            <l>dolce a sospendere</l>
+            <l>vien l’implacabile</l>
+            <l>nostro furor!</l>
+            <l>Le porte stridano</l>
+            <l>su’ neri cardini</l>
+            <l>e il passo lascino</l>
+            <l>sicuro e libero</l>
+            <l>al vincitor.</l>
+            <l>[N. 23 – Danza delle Furie]</l>
+            <l>Cominciano a ritirarsi le Furie ed i Mostri e, dileguandosi per entro le scene, ripetono l’ultima strofa di coro che, continuando sempre frattanto che si allontanano, finisce finalmente in un confuso mormorio.</l>
+            <l>Sparite le Furie, sgombrati i Mostri, Orfeo s’avanza nell’inferno.</l>
+            <l>[N. 24 – Balletto]</l>
+            <l>[N. 25 – Balletto]</l>
+            <l>[N. 26 – Balletto]</l>
+            <l>Scena seconda</l>
+            <l>Deliziosa per i boschetti che vi verdeggiano, i fiori che rivestono i prati, i ritiri ombrosi che vi si scoprono, i fiumi ed i ruscelli che la bagnano.</l>
+            <l>Orfeo ed indi coro di Eroi ed Eroine, poi Euridice.</l>
+            <l>[N. 27 – Quasi recitativo]</l>
+          </sp>
+          <stage>CORO(sempre più raddolcito)Ah quale incognitoaffetto flebile,dolce a sospenderevien l’implacabilenostro furor!Le porte stridanosu’ neri cardinie il passo lascinosicuro e liberoal vincitor.[N. 23 – Danza delle Furie]Cominciano a ritirarsi le Furie ed i Mostri e, dileguandosi per entro le scene, ripetono l’ultima strofa di coro che, continuando sempre frattanto che si allontanano, finisce finalmente in un confuso mormorio.Sparite le Furie, sgombrati i Mostri, Orfeo s’avanza nell’inferno.[N. 24 – Balletto][N. 25 – Balletto][N. 26 – Balletto]Scena secondaDeliziosa per i boschetti che vi verdeggiano, i fiori che rivestono i prati, i ritiri ombrosi che vi si scoprono, i fiumi ed i ruscelli che la bagnano.Orfeo ed indi coro di Eroi ed Eroine, poi Euridice.[N. 27 – Quasi recitativo]</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Che puro ciel! Che chiaro sol! Che nuova</l>
+            <l>serena luce è questa mai! Che dolce,</l>
+            <l>lusinghiera armonia formano insieme</l>
+            <l>il cantar degli augelli,</l>
+            <l>il correr de’ ruscelli,</l>
+            <l>dell’aure il sussurrar! Questo è il soggiorno</l>
+            <l>de’ fortunati eroi. Qui tutto spira</l>
+            <l>un tranquillo contento,</l>
+            <l>ma non per me. Se l’idol mio non trovo,</l>
+            <l>sperar no ‘l posso: i suoi soavi accenti,</l>
+            <l>gli amorosi suoi sguardi, il suo bel riso</l>
+            <l>sono il mio solo, il mio diletto Eliso.</l>
+            <l>Ma in qual parte sarà?</l>
+            <l>(guardando per la scena)</l>
+            <l>Chiedasi a questo</l>
+            <l>che mi viene a incontrar stuolo felice.</l>
+            <l>Euridice dov’è?</l>
+            <l>(inoltrandosi verso il coro)</l>
+          </sp>
+          <stage>ORFEOChe puro ciel! Che chiaro sol! Che nuovaserena luce è questa mai! Che dolce,lusinghiera armonia formano insiemeil cantar degli augelli,il correr de’ ruscelli,dell’aure il sussurrar! Questo è il soggiornode’ fortunati eroi. Qui tutto spiraun tranquillo contento,ma non per me. Se l’idol mio non trovo,sperar no ‘l posso: i suoi soavi accenti,gli amorosi suoi sguardi, il suo bel risosono il mio solo, il mio diletto Eliso.Ma in qual parte sarà?(guardando per la scena)Chiedasi a questoche mi viene a incontrar stuolo felice.Euridice dov’è?(inoltrandosi verso il coro)</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Giunge Euridice.</l>
+            <l>[N. 28 – Coro]</l>
+            <l>Vieni a’ regni del riposo,</l>
+            <l>grande eroe, tenero sposo,</l>
+            <l>raro esempio in ogni età.</l>
+            <l>Euridice Amor ti rende;</l>
+            <l>già risorge, già riprende</l>
+            <l>la primiera sua beltà.</l>
+            <l>[N. 29 – Balletto]</l>
+            <l>Segue il ballo degli Eroi.</l>
+            <l>[N. 30 – Recitativo]</l>
+          </sp>
+          <stage>COROGiunge Euridice.[N. 28 – Coro]Vieni a’ regni del riposo,grande eroe, tenero sposo,raro esempio in ogni età.Euridice Amor ti rende;già risorge, già riprendela primiera sua beltà.[N. 29 – Balletto]Segue il ballo degli Eroi.[N. 30 – Recitativo]</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Anime avventurose,</l>
+            <l>ah! tollerate in pace</l>
+            <l>le impazienze mie: se foste amanti,</l>
+            <l>conoscereste a prova</l>
+            <l>quel focoso desio che mi tormenta,</l>
+            <l>che per tutto è con me. Nemmeno in questo</l>
+            <l>placido albergo esser poss’io felice,</l>
+            <l>se non trovo il mio ben.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>CORO</head>Viene Euridice.[N. 31 – Coro]Torna, o bella, al tuo consorte,che non vuol che più divisosia da te, pietoso, il ciel.Non lagnarti di tua sorte,ché può dirsi un altro Elisouno sposo sì fedel.Da un Coro di eroine vien condotta Euridice vicino ad Orfeo il quale senza guardarla e con un atto di somma premura, la prende per mano e la conduce subito via.Séguita poi il ballo degli Eroi ed Eroine e si ripiglia il canto del Coro, supposto continuarsi sino a tanto che Orfeo ed Euridice non sono affatto fuori degli Elisi.Atto terzoScena primaOscura spelonca, che forma un tortuoso labirinto, ingombrato di massi staccati dalle rupi, che sono tutte coperte di sterpi e di piante selvagge.Orfeo ed Euridice.[N. 32 – Recitativo]<div type="scene">
+          <head>CORO</head>Viene Euridice.[N. 31 – Coro]Torna, o bella, al tuo consorte,che non vuol che più divisosia da te, pietoso, il ciel.Non lagnarti di tua sorte,ché può dirsi un altro Elisouno sposo sì fedel.Da un Coro di eroine vien condotta Euridice vicino ad Orfeo il quale senza guardarla e con un atto di somma premura, la prende per mano e la conduce subito via.Séguita poi il ballo degli Eroi ed Eroine e si ripiglia il canto del Coro, supposto continuarsi sino a tanto che Orfeo ed Euridice non sono affatto fuori degli Elisi.Atto terzoScena primaOscura spelonca, che forma un tortuoso labirinto, ingombrato di massi staccati dalle rupi, che sono tutte coperte di sterpi e di piante selvagge.Orfeo ed Euridice.[N. 32 – Recitativo]<sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Viene Euridice.</l>
+            <l>[N. 31 – Coro]</l>
+            <l>Torna, o bella, al tuo consorte,</l>
+            <l>che non vuol che più diviso</l>
+            <l>sia da te, pietoso, il ciel.</l>
+            <l>Non lagnarti di tua sorte,</l>
+            <l>ché può dirsi un altro Eliso</l>
+            <l>uno sposo sì fedel.</l>
+            <l>Da un Coro di eroine vien condotta Euridice vicino ad Orfeo il quale senza guardarla e con un atto di somma premura, la prende per mano e la conduce subito via.</l>
+            <l>Séguita poi il ballo degli Eroi ed Eroine e si ripiglia il canto del Coro, supposto continuarsi sino a tanto che Orfeo ed Euridice non sono affatto fuori degli Elisi.</l>
+            <l>Atto terzo</l>
+            <l>Scena prima</l>
+            <l>Oscura spelonca, che forma un tortuoso labirinto, ingombrato di massi staccati dalle rupi, che sono tutte coperte di sterpi e di piante selvagge.</l>
+            <l>Orfeo ed Euridice.</l>
+            <l>[N. 32 – Recitativo]</l>
+          </sp>
+          <stage>COROViene Euridice.[N. 31 – Coro]Torna, o bella, al tuo consorte,che non vuol che più divisosia da te, pietoso, il ciel.Non lagnarti di tua sorte,ché può dirsi un altro Elisouno sposo sì fedel.Da un Coro di eroine vien condotta Euridice vicino ad Orfeo il quale senza guardarla e con un atto di somma premura, la prende per mano e la conduce subito via.Séguita poi il ballo degli Eroi ed Eroine e si ripiglia il canto del Coro, supposto continuarsi sino a tanto che Orfeo ed Euridice non sono affatto fuori degli Elisi.Atto terzoScena primaOscura spelonca, che forma un tortuoso labirinto, ingombrato di massi staccati dalle rupi, che sono tutte coperte di sterpi e di piante selvagge.Orfeo ed Euridice.[N. 32 – Recitativo]</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>(ad Euridice, che conduce per mano sempre senza guardarla)</l>
+            <l>Vieni: segui i miei passi,</l>
+            <l>unico amato oggetto</l>
+            <l>del fedele amor mio.</l>
+          </sp>
+          <stage>ORFEO(ad Euridice, che conduce per mano sempre senza guardarla)Vieni: segui i miei passi,unico amato oggettodel fedele amor mio.</stage>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>(con sorpresa)</l>
+            <l>Sei tu! M’inganno?</l>
+            <l>Sogno? Veglio? Deliro?</l>
+          </sp>
+          <stage>EURIDICE(con sorpresa)Sei tu! M’inganno?Sogno? Veglio? Deliro?</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>(con fretta)</l>
+            <l>Amata sposa,</l>
+            <l>Orfeo son io, e vivo ancor; ti venni</l>
+            <l>fin negli Elisi a ricercar; fra poco</l>
+            <l>il nostro cielo, il nostro sole, il mondo</l>
+            <l>di bel nuovo vedrai.</l>
+          </sp>
+          <stage>ORFEO(con fretta)Amata sposa,Orfeo son io, e vivo ancor; ti vennifin negli Elisi a ricercar; fra pocoil nostro cielo, il nostro sole, il mondodi bel nuovo vedrai.</stage>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>(sospesa)</l>
+            <l>Come! ma con quale arte?</l>
+            <l>ma per qual via?</l>
+          </sp>
+          <stage>EURIDICE(sospesa)Come! ma con quale arte?ma per qual via?</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Saprai</l>
+            <l>tutto da me;</l>
+            <l>(con premura)</l>
+            <l>per ora</l>
+            <l>non chieder più, meco t’affretta, e il vano</l>
+            <l>importuno timor dall’alma sgombra:</l>
+            <l>ombra tu più non sei, io non son ombra.</l>
+          </sp>
+          <stage>ORFEOSapraitutto da me;(con premura)per oranon chieder più, meco t’affretta, e il vanoimportuno timor dall’alma sgombra:ombra tu più non sei, io non son ombra.</stage>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Che ascolto! e sarà ver? pietosi numi,</l>
+            <l>qual contento è mai questo! Io dunque, in braccio</l>
+            <l>all’idol mio, fra’ più soavi lacci</l>
+            <l>d’Amore e d’Imeneo,</l>
+            <l>nuova vita vivrò!</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Sì, mia speranza;</l>
+            <l>ma tronchiam le dimore,</l>
+            <l>ma seguiamo il cammin. Tanto è crudele</l>
+            <l>la fortuna con me, che appena io credo</l>
+            <l>di possederti; appena</l>
+            <l>so dar fede a me stesso.</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>(mesta e risentita, ritirando la mano da Orfeo)</l>
+            <l>E un dolce sfogo</l>
+            <l>del tenero amor mio, nel primo istante</l>
+            <l>che tu ritrovi me, ch’io te riveggo,</l>
+            <l>t’annoia, Orfeo!</l>
+          </sp>
+          <stage>EURIDICE(mesta e risentita, ritirando la mano da Orfeo)E un dolce sfogodel tenero amor mio, nel primo istanteche tu ritrovi me, ch’io te riveggo,t’annoia, Orfeo!</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Ah! non è ver, ma… sappi…</l>
+            <l>senti… (oh legge crudel!) bella Euridice,</l>
+            <l>inoltra i passi tuoi.</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Che mai t’affanna</l>
+            <l>in sì lieto momento?</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>(Che dirò! lo preveddi; ecco il cimento.)</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Non mi abbracci! non parli!</l>
+            <l>(tirandolo perché la guardi)</l>
+            <l>Guardami almen. Dimmi: son bella ancora</l>
+            <l>qual era un dì? vedi: che forse è spento</l>
+            <l>il roseo mio volto? Odi: che forse</l>
+            <l>s’oscurò quel che amasti</l>
+            <l>e soave chiamasti</l>
+            <l>splendor de’ sguardi miei?</l>
+          </sp>
+          <stage>EURIDICENon mi abbracci! non parli!(tirandolo perché la guardi)Guardami almen. Dimmi: son bella ancoraqual era un dì? vedi: che forse è spentoil roseo mio volto? Odi: che forses’oscurò quel che amastie soave chiamastisplendor de’ sguardi miei?</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>(Più che l’ascolto,</l>
+            <l>meno resisto: Orfeo coraggio.) Andiamo,</l>
+            <l>mia diletta Euridice; or non è tempo</l>
+            <l>di queste tenerezze; ogni dimora</l>
+            <l>è fatale per noi.</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Ma… un sguardo solo…</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>È sventura il mirarti.</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Ah infido! E queste</l>
+            <l>son l’accoglienze tue! mi nieghi un sguardo,</l>
+            <l>quando dal caro amante</l>
+            <l>e dal tenero sposo</l>
+            <l>aspettarmi io dovea gli amplessi e i baci!</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>(sentendola vicina, prende la sua mano e vuol condurla)</l>
+            <l>(Che barbaro martir!) Ma vieni e taci.</l>
+          </sp>
+          <stage>ORFEO(sentendola vicina, prende la sua mano e vuol condurla)(Che barbaro martir!) Ma vieni e taci.</stage>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>(ritira la mano con sdegno)</l>
+            <l>Ch’io taccia! e questo ancora</l>
+            <l>mi restava a soffrir! dunque hai perduta</l>
+            <l>la memoria, l’amore,</l>
+            <l>la costanza, la fede!… E a che svegliarmi</l>
+            <l>dal mio dolce riposo, or che hai pur spente</l>
+            <l>quelle a entrambi sì care</l>
+            <l>d’Amore e d’Imeneo pudiche faci!…</l>
+            <l>Rispondi, traditor.</l>
+          </sp>
+          <stage>EURIDICE(ritira la mano con sdegno)Ch’io taccia! e questo ancorami restava a soffrir! dunque hai perdutala memoria, l’amore,la costanza, la fede!… E a che svegliarmidal mio dolce riposo, or che hai pur spentequelle a entrambi sì cared’Amore e d’Imeneo pudiche faci!…Rispondi, traditor.</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Ma vieni e taci.</l>
+            <l>[N. 33 – Duetto]</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Vieni: appaga il tuo consorte.</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>No: più cara è a me la morte,</l>
+            <l>che di vivere con te.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Ah crudel!</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Lasciami in pace…</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>No: mia vita, ombra seguace</l>
+            <l>verrò sempre intorno a te.</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Ma perché sei sì tiranno?</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Ben potrò morir d’affanno,</l>
+            <l>ma giammai dirò perché.</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Grande, o numi, è il dono vostro,</l>
+            <l>lo conosco e grata sono</l>
+            <l>ma il dolor, che unite al dono,</l>
+            <l>è insoffribile per me.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Grande, o numi, è il dono vostro,</l>
+            <l>lo conosco e grato sono</l>
+            <l>ma il dolor, che unite al dono,</l>
+            <l>è insoffribile per me.</l>
+            <l>Nel terminare il duetto ambedue, ciascuno dalla sua parte, si appoggiano ad un albero.</l>
+            <l>[N. 34 – Recitativo]</l>
+          </sp>
+          <stage>ORFEOGrande, o numi, è il dono vostro,lo conosco e grato sonoma il dolor, che unite al dono,è insoffribile per me.Nel terminare il duetto ambedue, ciascuno dalla sua parte, si appoggiano ad un albero.[N. 34 – Recitativo]</stage>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Qual vita è questa mai,</l>
+            <l>che a vivere incomincio! E qual funesto</l>
+            <l>terribile segreto Orfeo m’asconde!…</l>
+            <l>Perché piange e s’affligge?… Ah non ancora</l>
+            <l>troppo avvezza agli affanni</l>
+            <l>che soffrono i viventi, a sì gran colpo</l>
+            <l>manca la mia costanza… agli occhi miei</l>
+            <l>si smarrisce la luce. Oppresso in seno</l>
+            <l>mi diventa affannoso</l>
+            <l>il respirar. Tremo… vacillo… e sento</l>
+            <l>fra l’angoscia e il terrore</l>
+            <l>da un palpito crudel vibrarmi il core.</l>
+            <l>[N. 35 – Aria]</l>
+            <l>Che fiero momento!</l>
+            <l>Che barbara sorte!</l>
+            <l>Passar dalla morte</l>
+            <l>a tanto dolor!</l>
+            <l>Avvezza al contento</l>
+            <l>d’un placido oblio,</l>
+            <l>fra queste tempeste</l>
+            <l>si perde il mio cor.</l>
+            <l>[N. 36 – Recitativo]</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>(Ecco un nuovo tormento!)</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Amato sposo,</l>
+            <l>m’abbandoni così! Mi struggo in pianto,</l>
+            <l>non mi consoli! il duol m’opprime i sensi,</l>
+            <l>non mi soccorri!… un’altra volta, oh stelle!</l>
+            <l>Dunque morir degg’io,</l>
+            <l>senza un amplesso tuo… senza un addio!</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>(Più frenarmi non posso; a poco a poco</l>
+            <l>la ragion m’abbandona, oblio la legge,</l>
+            <l>Euridice, e me stesso. E…)</l>
+            <l>(in atto di voltarsi e poi pentito)</l>
+          </sp>
+          <stage>ORFEO(Più frenarmi non posso; a poco a pocola ragion m’abbandona, oblio la legge,Euridice, e me stesso. E…)(in atto di voltarsi e poi pentito)</stage>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Orfeo… consorte…</l>
+            <l>ah… mi sento… languir!</l>
+            <l>(si getta a sedere sopra un sasso)</l>
+          </sp>
+          <stage>EURIDICEOrfeo… consorte…ah… mi sento… languir!(si getta a sedere sopra un sasso)</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>No sposa… ascolta…</l>
+            <l>(in atto di voltarsi a guardarla e con impeto)</l>
+            <l>se sapessi… (Ah! che fo?… ma fino a quando</l>
+            <l>in questo orrido inferno</l>
+            <l>dovrò penar!)</l>
+          </sp>
+          <stage>ORFEONo sposa… ascolta…(in atto di voltarsi a guardarla e con impeto)se sapessi… (Ah! che fo?… ma fino a quandoin questo orrido infernodovrò penar!)</stage>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Ben… mio…</l>
+            <l>ricordati… di… me…</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Che affanno!… Oh come</l>
+            <l>mi si lacera il cor! Più non non resisto;</l>
+            <l>smanio, fremo, deliro… ah mio tesoro!…</l>
+            <l>(si volta con impeto e la guarda)</l>
+          </sp>
+          <stage>ORFEOChe affanno!… Oh comemi si lacera il cor! Più non non resisto;smanio, fremo, deliro… ah mio tesoro!…(si volta con impeto e la guarda)</stage>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>(alzandosi con forza e tornando a cadere)</l>
+            <l>Giusti dèi, che m’avvenne. Io… manco… io… mo… ro…</l>
+            <l>(more)</l>
+          </sp>
+          <stage>EURIDICE(alzandosi con forza e tornando a cadere)Giusti dèi, che m’avvenne. Io… manco… io… mo… ro…(more)</stage>
+        </div>
+        <div type="scene">
+          <head>ORFEO</head>Ahimè! dove trascorsi! Ove mi spinseun delirio d’amor!…(le s’accosta con fretta)Sposa!… Euridice!…(la scuote)Euridice!… Consorte! ah più non vive,la chiamo in van, misero me, la perdo,e di nuovo e per sempre! oh legge! oh morte!oh ricordo crudel! non ho soccorso,non m’avanza consiglio. Io veggo solo(oh fiera vista!) il luttuoso aspettodell’orrido mio stato;saziati sorte rea, son disperato.[N. 37 – Aria]Che farò senza Euridice!Dove andrò senza il mio ben!Euridice! Oh dio! rispondi,io son pure il tuo fedel.Euridice! Ah! non m’avanzapiù soccorso, più speranzané dal mondo, né dal ciel!Che farò senza Euridice!Dove andrò senza il mio ben![N. 38 – Recitativo]Ma finisca, e per sempre,co’ la vita il dolor! Del nero Avernosono ancor sulla via; lungo camminonon è quel, che divideil mio bene da me. Sì: aspetta, o caraombra dell’idol mio. Ah! questa voltasenza lo sposo tuo non varcherail’onde lente di Stige.(vuol ferirsi)Scena secondaAmore e detti.<sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Ahimè! dove trascorsi! Ove mi spinse</l>
+            <l>un delirio d’amor!…</l>
+            <l>(le s’accosta con fretta)</l>
+            <l>Sposa!… Euridice!…</l>
+            <l>(la scuote)</l>
+            <l>Euridice!… Consorte! ah più non vive,</l>
+            <l>la chiamo in van, misero me, la perdo,</l>
+            <l>e di nuovo e per sempre! oh legge! oh morte!</l>
+            <l>oh ricordo crudel! non ho soccorso,</l>
+            <l>non m’avanza consiglio. Io veggo solo</l>
+            <l>(oh fiera vista!) il luttuoso aspetto</l>
+            <l>dell’orrido mio stato;</l>
+            <l>saziati sorte rea, son disperato.</l>
+            <l>[N. 37 – Aria]</l>
+            <l>Che farò senza Euridice!</l>
+            <l>Dove andrò senza il mio ben!</l>
+            <l>Euridice! Oh dio! rispondi,</l>
+            <l>io son pure il tuo fedel.</l>
+            <l>Euridice! Ah! non m’avanza</l>
+            <l>più soccorso, più speranza</l>
+            <l>né dal mondo, né dal ciel!</l>
+            <l>Che farò senza Euridice!</l>
+            <l>Dove andrò senza il mio ben!</l>
+            <l>[N. 38 – Recitativo]</l>
+            <l>Ma finisca, e per sempre,</l>
+            <l>co’ la vita il dolor! Del nero Averno</l>
+            <l>sono ancor sulla via; lungo cammino</l>
+            <l>non è quel, che divide</l>
+            <l>il mio bene da me. Sì: aspetta, o cara</l>
+            <l>ombra dell’idol mio. Ah! questa volta</l>
+            <l>senza lo sposo tuo non varcherai</l>
+            <l>l’onde lente di Stige.</l>
+            <l>(vuol ferirsi)</l>
+            <l>Scena seconda</l>
+            <l>Amore e detti.</l>
+          </sp>
+          <stage>ORFEOAhimè! dove trascorsi! Ove mi spinseun delirio d’amor!…(le s’accosta con fretta)Sposa!… Euridice!…(la scuote)Euridice!… Consorte! ah più non vive,la chiamo in van, misero me, la perdo,e di nuovo e per sempre! oh legge! oh morte!oh ricordo crudel! non ho soccorso,non m’avanza consiglio. Io veggo solo(oh fiera vista!) il luttuoso aspettodell’orrido mio stato;saziati sorte rea, son disperato.[N. 37 – Aria]Che farò senza Euridice!Dove andrò senza il mio ben!Euridice! Oh dio! rispondi,io son pure il tuo fedel.Euridice! Ah! non m’avanzapiù soccorso, più speranzané dal mondo, né dal ciel!Che farò senza Euridice!Dove andrò senza il mio ben![N. 38 – Recitativo]Ma finisca, e per sempre,co’ la vita il dolor! Del nero Avernosono ancor sulla via; lungo camminonon è quel, che divideil mio bene da me. Sì: aspetta, o caraombra dell’idol mio. Ah! questa voltasenza lo sposo tuo non varcherail’onde lente di Stige.(vuol ferirsi)Scena secondaAmore e detti.</stage>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>(lo disarma)</l>
+            <l>Orfeo! che fai?</l>
+          </sp>
+          <stage>AMORE(lo disarma)Orfeo! che fai?</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>(con impeto e fuori di sé)</l>
+            <l>E chi sei tu, che trattenere ardisci</l>
+            <l>le dovute a’ miei</l>
+            <l>casi ultime furie?</l>
+          </sp>
+          <stage>ORFEO(con impeto e fuori di sé)E chi sei tu, che trattenere ardiscile dovute a’ mieicasi ultime furie?</stage>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Questo furore</l>
+            <l>calma, deponi e riconosci Amore.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>(come tornando in sé stesso)</l>
+            <l>Ah! sei tu… Ti ravviso; il duol finora</l>
+            <l>tutti i sensi m’oppresse. A che venisti?</l>
+            <l>In sì fiero momento,</l>
+            <l>che vuoi da me?</l>
+          </sp>
+          <stage>ORFEO(come tornando in sé stesso)Ah! sei tu… Ti ravviso; il duol finoratutti i sensi m’oppresse. A che venisti?In sì fiero momento,che vuoi da me?</stage>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Farti felice. Assai</l>
+            <l>per gloria mia soffristi, Orfeo. Ti rendo</l>
+            <l>Euridice, il tuo ben. Di tua costanza</l>
+            <l>maggior prova non chiedo. Ecco: risorge</l>
+            <l>a riunirsi con te.</l>
+            <l>Euridice si alza, come svegliandosi da un profondo sonno.</l>
+          </sp>
+          <stage>AMOREFarti felice. Assaiper gloria mia soffristi, Orfeo. Ti rendoEuridice, il tuo ben. Di tua costanzamaggior prova non chiedo. Ecco: risorgea riunirsi con te.Euridice si alza, come svegliandosi da un profondo sonno.</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>(con sorpresa e corre ad abbracciare Euridice)</l>
+            <l>Che veggo! oh numi!</l>
+            <l>Sposa…</l>
+          </sp>
+          <stage>ORFEO(con sorpresa e corre ad abbracciare Euridice)Che veggo! oh numi!Sposa…</stage>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Consorte!</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>E pur t’abbraccio!</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>E pure</l>
+            <l>al sen ti stringo!</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>(ad Amore)</l>
+            <l>Ah! quale</l>
+            <l>riconoscenza mia…</l>
+          </sp>
+          <stage>ORFEO(ad Amore)Ah! qualericonoscenza mia…</stage>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Basta; venite</l>
+            <l>avventurosi amanti, usciamo al mondo,</l>
+            <l>ritornate a godere.</l>
+          </sp>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Oh fausto giorno!</l>
+            <l>Oh amor pietoso!</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>Oh lieto</l>
+            <l>fortunato momento!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>AMORE</head>Compensa mille pene un mio contento.(partono)Scena terzaMagnifico tempio dedicato ad Amore.Amore, Orfeo ed Euridice, preceduti da numeroso drappello di Pastori e Pastorelle che vengono a festeggiare il ritorno d’Euridice e, cominciando un allegro ballo, si interrompe da Orfeo che intuona il seguente Coro:[N. 39 – Coro, alternato a Solo]<sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Compensa mille pene un mio contento.</l>
+            <l>(partono)</l>
+            <l>Scena terza</l>
+            <l>Magnifico tempio dedicato ad Amore.</l>
+            <l>Amore, Orfeo ed Euridice, preceduti da numeroso drappello di Pastori e Pastorelle che vengono a festeggiare il ritorno d’Euridice e, cominciando un allegro ballo, si interrompe da Orfeo che intuona il seguente Coro:</l>
+            <l>[N. 39 – Coro, alternato a Solo]</l>
+          </sp>
+          <stage>AMORECompensa mille pene un mio contento.(partono)Scena terzaMagnifico tempio dedicato ad Amore.Amore, Orfeo ed Euridice, preceduti da numeroso drappello di Pastori e Pastorelle che vengono a festeggiare il ritorno d’Euridice e, cominciando un allegro ballo, si interrompe da Orfeo che intuona il seguente Coro:[N. 39 – Coro, alternato a Solo]</stage>
+          <sp who="#orfeo">
+            <speaker>ORFEO:</speaker>
+            <l>Trionfi Amore,</l>
+            <l>e il mondo intero</l>
+            <l>serva all’impero</l>
+            <l>della beltà.</l>
+            <l>Di sua catena</l>
+            <l>talvolta amara</l>
+            <l>mai fu più cara</l>
+            <l>la libertà.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Trionfi Amore,</l>
+            <l>e il mondo intero</l>
+            <l>serva all’impero</l>
+            <l>della beltà.</l>
+          </sp>
+          <sp who="#amore">
+            <speaker>AMORE:</speaker>
+            <l>Talor dispera,</l>
+            <l>talvolta affanna</l>
+            <l>d’una tiranna,</l>
+            <l>la crudeltà.</l>
+            <l>Ma poi la pena</l>
+            <l>oblia l’amante</l>
+            <l>nel dolce istante</l>
+            <l>della pietà.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Trionfi Amore,</l>
+            <l>e il mondo intero</l>
+            <l>serva all’impero</l>
+            <l>della beltà.</l>
+          </sp>
+          <sp who="#euridice">
+            <speaker>EURIDICE:</speaker>
+            <l>La gelosia</l>
+            <l>strugge e divora;</l>
+            <l>ma poi ristora</l>
+            <l>la fedeltà.</l>
+            <l>E quel sospetto</l>
+            <l>che il cor tormenta,</l>
+            <l>alfin diventa</l>
+            <l>felicità.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Trionfi Amore,</l>
+            <l>e il mondo intero</l>
+            <l>serva all’impero</l>
+            <l>della beltà.</l>
+            <l>Fine del libretto.</l>
+          </sp>
+          <stage>COROTrionfi Amore,e il mondo interoserva all’imperodella beltà.Fine del libretto.</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

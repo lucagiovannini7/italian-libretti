@@ -1,0 +1,4599 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">starto</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="elisa e sidonia">
+            <persName>ELISA E SIDONIA:</persName>
+          </person>
+          <person xml:id="clearco">
+            <persName>CLEARCO:</persName>
+          </person>
+          <person xml:id="geronzio">
+            <persName>GERONZIO:</persName>
+          </person>
+          <person xml:id="fenicio">
+            <persName>FENICIO:</persName>
+          </person>
+          <person xml:id="sidonia">
+            <persName>SIDONIA:</persName>
+          </person>
+          <person xml:id="agenore">
+            <persName>AGENORE:</persName>
+          </person>
+          <person xml:id="nino">
+            <persName>NINO:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="elisa e clearco">
+            <persName>ELISA E CLEARCO:</persName>
+          </person>
+          <person xml:id="elisa">
+            <persName>ELISA:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>ELISA</castItem>
+        <castItem>CLEARCO</castItem>
+        <castItem>SIDONIA</castItem>
+        <castItem>FENICIO</castItem>
+        <castItem>NINO</castItem>
+        <castItem>AGENORE</castItem>
+        <castItem>GERONZIO</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>Eccellenza</head>Se alle persone col grado e col merito più distinte del rimanente degli uomini non si avessero a consacrare che doni proporzionati alla loro grandezza; conforme si perderebbe quella lodevole comunicazione, che fa la più bella parte, non tanto della loro gloria, quanto della civil società; così di presente in me non sarebbe nato l’ardire di consacrar questo dramma al nome riverito di vostra eccellenza: che vale a dire, ad una di quelle anime grandi, le quali considerate per ogni parte, o sia ne’ beni della fortuna, o sia in quelli della virtù, spargono da per tutto egual chiarezza e splendore, a guisa di quelle gemme più rare, che per natura preziose, e lavorate dall’arte, per qualunque lato si osservino, appagano la stima col prezzo, e soddisfano l’attenzione con la bellezza. Anzi con vie più di coraggio ve lo consacro, o eccellenza, mentre più ne conosco la sproporzione: poiché consacrandolo a voi, perché abbia l’onore di restare protetto, tanto è maggiore l’opera della vostra protezione, quanto è maggiore la povertà del suo essere. Se in lui vi offerissi una cosa degna di voi, questa offerta non sarebbe che argomento del vostro merito: doveché facendone una sì disuguale, voi accettandola fate conoscere la vostra bontà; ed agli animi nobili e superiori è molto più caro l’esser considerati per buoni, che l’esser creduti per meritevoli.Non vi pensate per altro, ch’io non abbia una piena cognizione di quel che siete, e per nascita, e per dignità, e per virtù. Questa cognizione è già comune a tutta quella parte di mondo, che vantasi più civile e più colta, e la vostra persona è uno di quegli oggetti che da vicin si rispetta, e di lontano si ammira, come segue appunto del maggior lume, che illumina su la terra le cose apparenti, e le nascoste feconda. La vostra casa tiene occulta nelle tenebre dell’età la chiarezza della sua origine, ma vanta nella successione de’ secoli ereditarie la nobiltà e la grandezza, sostenute da’ titoli, accreditate da’ feudi, accresciute dalle azioni eroiche di chi grande vi entrò per natura, e maggiore vi divenne per uso. Tutti però questi titoli e queste glorie, che voi trovaste sì illustri nel Vostro Sangue, più illustri ancora rendete con la vostra virtù; e senza che mi affatichi di produrne argomenti, che per altro mi si affollano innanzi, basta considerare il sublime carattere che tenete in nome del maggiore monarca del cristianesimo appresso la più gloriosa delle repubbliche: cosicché nel medesimo tempo, mentre siete l’immagine del primiero con la rappresentanza, divenite anche l’amore dell’altra col ministero. Contentatevi a questo passo, che in atto di venerazione io sospenda le lodi, che potrei darvi: poiché tentando di farlo, assumerei un’impresa molto più temeraria di quella che tento nel dedicarvi il mio dramma. Dedicandovi questo, metto in esercizio, torno a dirlo, la vostra bontà: arrischiandomi di lodarvi, verrei a mettere in pena la vostra moderazione; e però basti ch’io mi fermi nel mio primo proponimento, e col più profondo rispetto mi dichiari</div>
+      <div type="act">
+        <head>Atto primo</head>
+        <div type="scene">
+          <head>Scena prima</head>Luogo magnifico con trono reale nel mezzo.Elisa, Fenicio, Nino, Agenore, Popoli, Soldati, ecc. <stage>Scena primaLuogo magnifico con trono reale nel mezzo.Elisa, Fenicio, Nino, Agenore, Popoli, Soldati, ecc.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Non più. Così risolvo.</l>
+            <l>(scendendo dal trono)</l>
+            <l>Oggi in Clearco</l>
+            <l>il cui braccio, il cui zelo</l>
+            <l>e pubblica salvezza, è mio riposo,</l>
+            <l>abbia Tiro un regnante, Elisa un sposo.</l>
+          </sp>
+          <stage>ELISANon più. Così risolvo.(scendendo dal trono)Oggi in Clearcoil cui braccio, il cui zeloe pubblica salvezza, è mio riposo,abbia Tiro un regnante, Elisa un sposo.</stage>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>L’abbia, ma un breve indugio…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>È un gran periglio.</l>
+            <l>Sinor l’Idra rubella</l>
+            <l>fu senza capo. Or l’ha in Astarto.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Astarto</l>
+            <l>giacque sin dalle fasce.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Eppure in lui</l>
+            <l>sogna fama bugiarda, e cieco sdegno</l>
+            <l>l’aure alla vita, e le ragioni al regno.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Un nome vano è tuo terror.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Degli empi</l>
+            <l>ei dà pretesto all’armi. Un re ch’io scelga,</l>
+            <l>rompe le trame, ed in Clearco io ‘l voglio.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>(Misero cor, sposa tu perdi, e soglio.)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Fenicio, e tu sì mesto</l>
+            <l>nella sorte del figlio?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Temo ne’ tuoi favori il suo periglio.</l>
+            <l>Sposo di Elisa, e possessor del trono</l>
+            <l>mille rivali avrà, mille nemici.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Gli avrà, ma suoi vassalli. Invan contrasti.</l>
+            <l>Abbia l’amor di Elisa, e quel gli basti.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena seconda</head>Geronzio, e li suddetti. <stage>Scena secondaGeronzio, e li suddetti.</stage>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Regina eccelsa, il vincitor Clearco</l>
+            <l>riede a’ tuoi lidi. Empiono l’aure amiche</l>
+            <l>le trionfanti vele e intorno al fianco</l>
+            <l>de’ gloriosi abeti</l>
+            <l>l’onda fa forza all’onda</l>
+            <l>per vaghezza di trarli</l>
+            <l>o sola, o prima ad afferrar la sponda.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>(Perfide stelle!)</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(piano ad Agenore)</l>
+            <l>Il duolo affrena, e soffri.</l>
+          </sp>
+          <stage>NINO(piano ad Agenore)Il duolo affrena, e soffri.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Venga, Geronzio, il sommo duce, e primo</l>
+            <l>il genitor lo incontri</l>
+            <l>col lieto avviso. Ei gli dirà qual merto</l>
+            <l>lo porti al trono, e per qual man lo innalzi.</l>
+            <l>Gli dirà…</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Sì, regina,</l>
+            <l>la sua grandezza i doni tuoi; ma insieme</l>
+            <l>a lui dirò, che ambizion no ‘l tragga</l>
+            <l>le sue ruine ad accettar: che al fasto</l>
+            <l>ponga confin, moderi i voti, e sappia</l>
+            <l>ben ravvisar la donatrice, e ‘l dono.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Sì ardito…</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Col mio labbro</l>
+            <l>il buon suddito parla.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ma non parla il buon padre. Eh! Ti sfavilli</l>
+            <l>men guardingo dagli occhi il cor festoso.</l>
+            <l>Va’: Clearco è tuo re.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>(Non mai tuo sposo.)</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>FENICIO(Non mai tuo sposo.)(parte)</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Speranze, godete.</l>
+            <l>Vedrete sul mio trono,</l>
+            <l>chi regna sul mio cor.</l>
+            <l>Più degno fassi il regno,</l>
+            <l>allor che uniti sono</l>
+            <l>la maestà e l’amor.</l>
+            <l>Speranze, godete.</l>
+            <l>Vedrete sul mio trono,</l>
+            <l>chi regna sul mio cor.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena terza</head>Nino, ed Agenore. <stage>Scena terzaNino, ed Agenore.</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>A chi arride la sorte,</l>
+            <l>Agenore, si applauda, e si rispetti.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Rispettare un rival? Può consigliarlo</l>
+            <l>l’amante di Sidonia,</l>
+            <l>non quel d’Elisa. Altri pensieri io volgo.</l>
+            <l>Odimi, e fido sii.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Te ne assicuro</l>
+            <l>sull’amor di Sidonia, a te germana.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Nino, l’avrai, bel guiderdon di fede.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>E di tenero amor dolce mercede.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Sai, che vera o bugiarda</l>
+            <l>la fama sia, vive di Astarto il nome</l>
+            <l>nel cieco volgo. Elisa</l>
+            <l>ne ha tema e pena. Offre, minaccia, ascolta,</l>
+            <l>e di tutti diffida.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Grandezza e gelosia van sempre unite.</l>
+            <l>Ma in che ti serve il suo timor?</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Diretto</l>
+            <l>finsi un foglio a Clearco, ove di Elisa</l>
+            <l>si decreta l’eccidio. A piè vi è scritto</l>
+            <l>di Astarto il nome, e regio impronto il chiude</l>
+            <l>l’avrà ben tosto la regina, e in lei</l>
+            <l>tradimento sì enorme,</l>
+            <l>spenti gli affetti, accenderà lo sdegno.</l>
+            <l>Cadrà l’indegno, e forse</l>
+            <l>non vil frutto trarrò dalla mia frode.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Ti assista amor, ma temo.</l>
+            <l>Reo che al giudice piace, è già innocente.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Cesserà di piacer, s’è traditore.</l>
+            <l>Preval sempre in chi regna</l>
+            <l>ragion di stato a tirannia di amore.</l>
+            <l>Senza core, e senza ingegno</l>
+            <l>a goder mai non si va.</l>
+            <l>Io dal core attendo un regno;</l>
+            <l>dall’ingegno una beltà.</l>
+            <l>Senza core, e senza ingegno</l>
+            <l>a goder mai non si va.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena quarta</head>Nino, e poi Sidonia. <stage>Scena quartaNino, e poi Sidonia.</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(Gioite, o mie speranze… Ecco la bella.)</l>
+            <l>Ben mi arride il destin…</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Giovi schernirlo.)</l>
+            <l>Signor.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Qual nuovo ossequio?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>A quella fronte, onde il real diadema</l>
+            <l>spargerà di grandezza</l>
+            <l>vestigie luminose,</l>
+            <l>reca il guardo ed il piede</l>
+            <l>di vassallo rispetto i primi omaggi.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Sidonia…</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>A quella man nata agli scettri,</l>
+            <l>dal cui cenno temuto</l>
+            <l>penderà riverente</l>
+            <l>il destino de’ popoli, e de’ regni,</l>
+            <l>ossequioso labbro i primi voti</l>
+            <l>reca del fausto impero, e i primi baci</l>
+            <l>dell’umile servaggio in essa imprime.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(Resto confuso.) In me tu vedi ancora</l>
+            <l>quel Nino…</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Egli è il mio re. Lo aspetta il trono.</l>
+            <l>Il talamo lo invita.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Eh! Quel non sono.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Anch’io lo so.) Tu quel non sei? Si asconde</l>
+            <l>la tua sorte a Sidonia? Hai forse tema</l>
+            <l>ch’io vegga con dolor le tue fortune?</l>
+            <l>Che far si può? Cedo al destin. Sidonia</l>
+            <l>non piange con invidia il ben di Elisa,</l>
+            <l>e con pace perdona</l>
+            <l>un amore infedele al suo regnante.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Godi, o mio cor. (Beltà gelosa è amante.)</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>È però ver, ch’io mi aspettavo almeno</l>
+            <l>da Nino coronato</l>
+            <l>qualche discolpa udir di Nino infido.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(Che bel dolor!)</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Di sue lusinghe io rido.)</l>
+            <l>Pur tutto a te perdono.</l>
+            <l>Sol vorrei, che talor del seggio augusto</l>
+            <l>a Sidonia volgessi,</l>
+            <l>se non amante, almen pietoso un guardo.</l>
+            <l>Lo mertan queste luci, onde si accese</l>
+            <l>la tua fiamma, che or manca.</l>
+            <l>Lo merta questo labbro, e questo seno,</l>
+            <l>che tua gloria chiamasti, e tuo conforto.</l>
+            <l>Lo merta… Ah! Dove andate, o voti miei?</l>
+            <l>Quella che fui per Nino ancor son io.</l>
+            <l>Quel che fosti per me, tu più non sei.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Io diverso da me? Perché? Rispondi.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Elisa…</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Non la bramo.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>E sei suo sposo?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Nino sposo ad Elisa?</l>
+            <l>Io spergiuro a quel volto esser potea?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Semplicetta che sono! Io me ‘l credea.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>No, mia delizia. Al sol Clearco è data</l>
+            <l>la contesa corona.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>O Elisa ingrata!</l>
+            <l>E un rifiuto di Elisa in te mi porti?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Rifiuto non soffrì, chi non pretese.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Si concorre ad un ben senza bramarlo?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Mi comprese il senato</l>
+            <l>ne’ capaci del trono;</l>
+            <l>ma l’amistà di Agenore, e ‘l tuo amore</l>
+            <l>fece che in me fosse innocente il core.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>A sì bella amicizia</l>
+            <l>poco deve il germano.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>La sventura di lui non è mia colpa.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Potria la sua grandezza esser tuo merto.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Come?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Va’: rompi il nodo,</l>
+            <l>per cui regna Clearco.</l>
+            <l>Agenore dal soglio</l>
+            <l>può renderti contento.</l>
+            <l>Va’: pende dalla sua la tua speranza.</l>
+            <l>Sempre ha ingegno l’amor. Dissi abbastanza.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Intendo. E qual mercede a me prometti?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Qual mercede prometto? Ancor no ‘l sai?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Ma pur…</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Brami di più… Tu mio sarai.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Care labbra, amati rai,</l>
+            <l>vostro un giorno io mi giurai</l>
+            <l>per comando del mio cor.</l>
+            <l>Or più lieta è la mia brama,</l>
+            <l>in sentir che tal mi chiama</l>
+            <l>la pietà del vostro amor.</l>
+            <l>Care labbra, amati rai,</l>
+            <l>vostro un giorno io mi giurai</l>
+            <l>per comando del mio cor.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena quinta</head>Sidonia.Chi ben’ ama, ben finge, e chi ben finge,si fa strada al piacer. Nino delusoservir pensa al suo affetto, e serve al mio.La sorella di Agenore in me trova:l’amante di Clearco in me non vede;e pur sol per Clearcola mia speme lusingo e la mia fede.Vi sento, sì, vi sentoin onta del timor,o di un fedele amorlusinghe careinganno è ‘l godimento:ma così tempro almenole angosce del mio senoahi! Troppo amare.Vi sento, sì, vi sentoin onta del timor,o di un fedele amorlusinghe careinganno è ‘l godimento. <stage>Scena quintaSidonia.Chi ben’ ama, ben finge, e chi ben finge,si fa strada al piacer. Nino delusoservir pensa al suo affetto, e serve al mio.La sorella di Agenore in me trova:l’amante di Clearco in me non vede;e pur sol per Clearcola mia speme lusingo e la mia fede.Vi sento, sì, vi sentoin onta del timor,o di un fedele amorlusinghe careinganno è ‘l godimento:ma così tempro almenole angosce del mio senoahi! Troppo amare.Vi sento, sì, vi sentoin onta del timor,o di un fedele amorlusinghe careinganno è ‘l godimento.</stage>
+        </div>
+        <div type="scene">
+          <head>Scena sesta</head>Porto di mare con navi.Clearco che sbarca con Séguito, e poi Fenicio. <stage>Scena sestaPorto di mare con navi.Clearco che sbarca con Séguito, e poi Fenicio.</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Spiagge amate, a voi ritorno</l>
+            <l>con più fasto, e con più amor.</l>
+            <l>Ho di lauri il crine adorno;</l>
+            <l>ma in catene ho schiavo il cor.</l>
+            <l>Spiagge amate, a voi ritorno</l>
+            <l>con più fasto, e con più amor.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Figlio, le tue vittorie</l>
+            <l>son la base fatal di tue ruine.</l>
+            <l>Sott’ombra di favori</l>
+            <l>ti si tramano insidie. Intera fede</l>
+            <l>trovi un padre che t’ama;</l>
+            <l>e nel vicin periglio</l>
+            <l>non sia amor, non sia fasto il tuo consiglio.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Ad un padre che parla, e ad un tal padre</l>
+            <l>tutti impegna Clearco i suoi rispetti.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Elisa, odi… Ma giura</l>
+            <l>pria di aborrir dono che uccide. Il tosco</l>
+            <l>offerto in tazza d’oro è ancor letale.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Giuro. Ma Elisa… (Il cor sta in pena.)</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Elisa</l>
+            <l>ti vuole… Ah! Senza orror dirlo non oso.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Segui. Che vuol.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Suo re ti vuole, e sposo.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Padre, io sposo di Elisa.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Ah! L’empie nozze</l>
+            <l>ti fann’ira e spavento. Il cor ti leggo</l>
+            <l>sul nobil volto.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>E creder posso?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Io stesso</l>
+            <l>per tirannico cenno a te ne reco</l>
+            <l>l’infausto avviso… Ove, o Clearco.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>A’ piedi</l>
+            <l>corro di Elisa.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Intendo: impaziente</l>
+            <l>è ‘l magnanimo cor di un atto illustre.</l>
+            <l>Vanne, e col gran rifiuto un nuovo lume</l>
+            <l>aggiungi alla tua fama.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Fama a tal prezzo.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>E che?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Beltà regnante</l>
+            <l>non è facil rifiuto a saggi amante.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>(Me sventurato.) Ascolta.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>A lei mi affretta</l>
+            <l>gratitudine e amor. Troppo le deggio.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Meno forse le déi di quel che pensi.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Che più dar può dopo sé stessa e ‘l regno?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Non prevalga alla gloria un cieco amore.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Per me gloria maggiore</l>
+            <l>non v’ha che l’imeneo di una regina.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Di una regina, aggiungi,</l>
+            <l>colpevole, tiranna, empia, odiosa.</l>
+            <l>Che de’ nostri monarchi entro le vene</l>
+            <l>colorì ‘l manto, e che sul trono asceso</l>
+            <l>non tiene altri diritti,</l>
+            <l>che i domestici esempi, e i suoi delitti.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Altro delitto Elisa</l>
+            <l>non ha, che il suo natal. Sicheo suo padre</l>
+            <l>fu che uccise Abdastarto. Ella è innocente.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>La figlia di un tiranno è sempre rea,</l>
+            <l>e rea del comun odio.</l>
+            <l>Temi una man, che seco</l>
+            <l>al disonor ti tragga, e alla ruina.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Non tragge al disonor man di regina.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena settima</head>Nino, Agenore, e li suddetti. <stage>Scena settimaNino, Agenore, e li suddetti.</stage>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Principe, al tuo valore</l>
+            <l>déi la tua sorte.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Alla tua sorte io deggio</l>
+            <l>omaggi di rispetto.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Qualunque siasi il mio destino, amici</l>
+            <l>vi ricevo, e vi abbraccio.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Umil vassallo</l>
+            <l>ha tutto il suo piacer nel suo servaggio.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>E di un tal re l’alma si pregia e gode.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Maschera del livor, figlio, è la lode.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena ottava</head>Elisa con Guardie, e li suddetti. <stage>Scena ottavaElisa con Guardie, e li suddetti.</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Donna real, de’ perfidi Fenici</l>
+            <l>domo è l’orgoglio, e mosso</l>
+            <l>da quel destin, che ti vuol lieta e grande,</l>
+            <l>vinsi…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Vincesti, il so: qui a noi precorse</l>
+            <l>de’ tuoi trionfi il grido,</l>
+            <l>e al degno oprar degna mercede scelta.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Già dal labbro paterno</l>
+            <l>l’onor ne intesi. In bacio umìl concedi…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Serbisi a miglior tempo</l>
+            <l>sì grati uffici. Un tuo consiglio or chiedo.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>E qual deggio, lo avrai fido, e sincero.</l>
+            <l>Tal fu sempre Clearco.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(O menzognero!)</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(Sembra turbata.)</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>(Andò lo strale al segno.)</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>(Più che di amor, quei lumi ardon di sdegno.)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Con qual occhio Clearco,</l>
+            <l>vedresti un disleal, che de’ miei doni</l>
+            <l>empio abusò, fino a voler tradirmi?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Chi ad Elisa poté mancar di fede,</l>
+            <l>non attenda da me, ch’odio ed orrore.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Applaudo al giusto voto.</l>
+            <l>Ma qual pena imporresti al traditore?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>La morte, e cruda morte.</l>
+            <l>Complice è dell’error chi no ‘l condanna.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Lodo il consiglio, e in testimon di assenso</l>
+            <l>tosto a me la tua spada.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>La spada mia?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Sì, disleal.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Qual colpa?…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ubbidisca: che or tempo</l>
+            <l>è di pena per lui, non di discolpa.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Mi è legge il cenno. Ecco l’acciar.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ti serva</l>
+            <l>di carcere la reggia. A voi, miei fidi,</l>
+            <l>consegno il reo: te al tuo rimorso.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Almeno</l>
+            <l>in che, dimmi, ti offesi? In che peccai?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>In che peccasti? In che?</l>
+            <l>Chiedilo, iniquo, a te.</l>
+            <l>Al perfido tuo cor chiedilo, ingrato.</l>
+            <l>Se dirlo il tuo non sa,</l>
+            <l>il mio te lo dirà</l>
+            <l>troppo ingannato.</l>
+            <l>In che peccasti? In che?</l>
+            <l>Chiedilo, iniquo, a te.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena nona</head>Clearco, Fenicio, Nino, ed Agenore. <stage>Scena nonaClearco, Fenicio, Nino, ed Agenore.</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Principi, un grand’esempio</l>
+            <l>non son io di miseria e di dolore?</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Chi ad Elisa poté mancar di fede,</l>
+            <l>non attenda da me, ch’odio ed orrore.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>AGENOREChi ad Elisa poté mancar di fede,non attenda da me, ch’odio ed orrore.(parte)</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Sempre s’insulta all’infelice. Io Nino</l>
+            <l>spero più giusto in sorte sì tiranna.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Complice è dell’error, ci no ‘l condanna.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>NINOComplice è dell’error, ci no ‘l condanna.(parte)</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Vanne, turba infedele.</l>
+            <l>Fortuna mi ti diede, e mi ti toglie.</l>
+            <l>Ma non mi tolga il genitor.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Clearco,</l>
+            <l>al tuo carcer ti affretta.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Elisa, o dio!…</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Ivi il soglio, ivi il letto a te destina,</l>
+            <l>ne tragge al disonor man di regina.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Stelle ingrate,</l>
+            <l>sfortunato voi mi fate,</l>
+            <l>ma non son però infedele.</l>
+            <l>No, non è per colpa mia,</l>
+            <l>ma per vostra tirannia,</l>
+            <l>che il mio ben mi sia crudele.</l>
+            <l>Stelle ingrate,</l>
+            <l>sfortunato voi mi fate,</l>
+            <l>ma non son però infedele.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena decima</head>Fenicio, e Geronzio. <stage>Scena decimaFenicio, e Geronzio.</stage>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Signor.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Geronzio, il colpo,</l>
+            <l>ond’Elisa cadrà, più non si tardi.</l>
+            <l>Il rischio di Clearco</l>
+            <l>stimoli aggiunga all’opra.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Altro non manca,</l>
+            <l>che il tuo cenno a compirla.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Il fido stuolo</l>
+            <l>vado a raccor: tu pur raccogli i tuoi,</l>
+            <l>e pria che giunga al nero occaso il giorno,</l>
+            <l>verrai, dove al gran nume</l>
+            <l>verdeggia il bosco.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Ivi mi attendi; ed ivi</l>
+            <l>disporremo alle insidie il tempo e i mezzi.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Almi dèi,</l>
+            <l>che in difesa i regni avete,</l>
+            <l>proteggete la mia fé.</l>
+            <l>Fate voi, che su quel soglio,</l>
+            <l>che un reo sangue empie d’orgoglio,</l>
+            <l>io riponga il vero re.</l>
+            <l>Almi dèi,</l>
+            <l>che in difesa i regni avete,</l>
+            <l>proteggete la mia fé.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena undicesima</head>Geronzio.Geronzio, tu tradiscila tua regina, e la tua fede… Ah! Taci.La figlia di un tirannonon è la tua regina; e la tua fedead Astarto tu devi, il regio erede.Dell’amico Fenicioservasi al zelo. Ei mecovuol la grand’opra in pari onor divisa.Sì, per noi regni Astarto, e pera Elisa.Bella fede, a te consacrola mia vita, e la mia fama.Rischio e morte orror non faa un dover, a un’amistà,che ben serve, e che ben’ ama.Bella fede, a te consacrola mia vita, e la mia fama. <stage>Scena undicesimaGeronzio.Geronzio, tu tradiscila tua regina, e la tua fede… Ah! Taci.La figlia di un tirannonon è la tua regina; e la tua fedead Astarto tu devi, il regio erede.Dell’amico Fenicioservasi al zelo. Ei mecovuol la grand’opra in pari onor divisa.Sì, per noi regni Astarto, e pera Elisa.Bella fede, a te consacrola mia vita, e la mia fama.Rischio e morte orror non faa un dover, a un’amistà,che ben serve, e che ben’ ama.Bella fede, a te consacrola mia vita, e la mia fama.</stage>
+        </div>
+        <div type="scene">
+          <head>Scena dodicesima</head>Anticamera alle stanze di Clearco.Clearco ad un tavolino scrivendo, e poi Sidonia. <stage>Scena dodicesimaAnticamera alle stanze di Clearco.Clearco ad un tavolino scrivendo, e poi Sidonia.</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(Sì, sì: l’odio di Elisa</l>
+            <l>o si plachi, o si mora. In voi depongo,</l>
+            <l>fide nota d’amor, l’anima mia.)</l>
+            <l>(scrive)</l>
+          </sp>
+          <stage>CLEARCO(Sì, sì: l’odio di Elisao si plachi, o si mora. In voi depongo,fide nota d’amor, l’anima mia.)(scrive)</stage>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Ora è ‘l tempo. Clearco,</l>
+            <l>che può Elisa tradir, non è suo amante;</l>
+            <l>e s’ei non ama Elisa, a questo volto</l>
+            <l>sarà facil trionfo un cor disciolto.)</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(Io perfido? Io sleale? Amor, tu ‘l sai.)</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(La sfera del mio foco arde in que’ rai.)</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(levandosi)</l>
+            <l>(Ecco Sidonia, e forse</l>
+            <l>non inutile giunge al mio pensiero.)</l>
+          </sp>
+          <stage>CLEARCO(levandosi)(Ecco Sidonia, e forsenon inutile giunge al mio pensiero.)</stage>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Tacendo io peno, e non tacendo io spero.)</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Qual bontà, o principessa? A reo infelice?</l>
+            <l>Troppo onor tu comparti.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Mal conosci, o Clearco,</l>
+            <l>di Sidonia gli affetti.</l>
+            <l>Negli acerbi tuoi casi ho tutto il senso;</l>
+            <l>ma più di quel ch’esprimo, è quel che penso.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>La tua bella pietà mi fa coraggio;</l>
+            <l>e ‘l timor d’abusarne…</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>A me fa oltraggio.</l>
+            <l>Parla. Di che paventi?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Ah! Sidonia!</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Oh sospiro.)</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Io peno ed amo.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Egli ama, e s’io son quella, o me infelice!)</l>
+            <l>Compisci.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Amo.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Ma chi?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Su questo foglio</l>
+            <l>amor te lo dirà:</l>
+            <l>che sul mio labbro ei tanto cor non ha.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(prende la lettera, e la guarda)</l>
+            <l>Qui della bella al nome</l>
+            <l>avido corre il guardo, e no ‘l ravvisa.</l>
+            <l>Più no ‘l tacer. Dimmi chi adori?</l>
+          </sp>
+          <stage>SIDONIA(prende la lettera, e la guarda)Qui della bella al nomeavido corre il guardo, e no ‘l ravvisa.Più no ‘l tacer. Dimmi chi adori?</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Elisa.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Elisa?</l>
+            <l>(legge destramente il foglio)</l>
+          </sp>
+          <stage>SIDONIAElisa?(legge destramente il foglio)</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>E se qual mostri,</l>
+            <l>hai età del mio duol, dalle in quel foglio</l>
+            <l>un testimon di mia innocenza, e dille,</l>
+            <l>che reo dell’ira sua languisco, e moro,</l>
+            <l>ma che sono innocente, e che l’adoro.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Mie deluse speranze!) Io questo foglio</l>
+            <l>darò ad Elisa? Io le dirò che l’ami?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>E che? Di tua pietà già se’ pentita?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Ma…</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Promettesti.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Taci.</l>
+            <l>Vien la regina, e da te stesso or puoi</l>
+            <l>dir tua ragion, giustificar tua fede.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>O dio!</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Fa’ cor. Si tratta</l>
+            <l>di talamo, e di soglio.</l>
+            <l>Dille il tuo amor, ma non parlar del foglio.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Tanto farò.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena tredicesima</head>Elisa, e li suddetti. <stage>Scena tredicesimaElisa, e li suddetti.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Sidonia,</l>
+            <l>al suo giudice solo il reo favelli.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Intendo il cenno, e ad ubbidir mi accingo.</l>
+            <l>(La mia speranza in questo foglio io stringo.)</l>
+            <l>(si ritira)</l>
+          </sp>
+          <stage>SIDONIAIntendo il cenno, e ad ubbidir mi accingo.(La mia speranza in questo foglio io stringo.)(si ritira)</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Appressati, e qui leggi,</l>
+            <l>(gli dà un foglio)</l>
+            <l>leggi, se giusta sia</l>
+            <l>la tua sciagura, e la vendetta mia.</l>
+          </sp>
+          <stage>ELISAAppressati, e qui leggi,(gli dà un foglio)leggi, se giusta siala tua sciagura, e la vendetta mia.</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Leggo. «Al duce Clearco»…</l>
+            <l>che fia? Le cifre ignota mano impresse.</l>
+          </sp>
+          <stage>CLEARCOLeggo. «Al duce Clearco»…che fia? Le cifre ignota mano impresse.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ma ignoto non ti sia di Astarto il nome.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Di Astarto? Io potrei forse?…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Eh! Tempo avranno</l>
+            <l>le tue discolpe. Leggi.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(Io son confuso.)</l>
+            <l>«Duce, fra noi diviso</l>
+            <l>il regno avrem. Tu la Fenicia: io Tiro.</l>
+            <l>Tu hai la mia fede, ed io la tua.» La mia?</l>
+          </sp>
+          <stage>CLEARCO(Io son confuso.)«Duce, fra noi divisoil regno avrem. Tu la Fenicia: io Tiro.Tu hai la mia fede, ed io la tua.» La mia?</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Segui, segui.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>«Sol resta</l>
+            <l>che per te cada in mia possanza Elisa.</l>
+            <l>Tanto giurasti a me. Tanto a te chiede</l>
+            <l>ASTARTO, il regio erede.»</l>
+          </sp>
+          <stage>CLEARCO«Sol restache per te cada in mia possanza Elisa.Tanto giurasti a me. Tanto a te chiedeASTARTO, il regio erede.»</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Tu impallidisci? E taci? E ti confondi?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>O inganno! O Scelleraggine!</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Rispondi:</l>
+            <l>ma ti fa pena, iniquo, veder la tua perfidia</l>
+            <l>sì immatura abortir. Più ti addolora</l>
+            <l>del commesso delitto il non commesso.</l>
+            <l>Su parla, e fa’ ch’io vegga in quel pallore,</l>
+            <l>se non la tua innocenza, il tuo dolore.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Quest’alma, o mia regina,</l>
+            <l>perché s’abbia a pentir, rea non si sente.</l>
+            <l>Sa d’esser innocente; o d’altro errore</l>
+            <l>rea non è, che di amore.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Piacesse al ciel, che amore</l>
+            <l>fosse sol la tua colpa. Io l’amerei</l>
+            <l>più della tua innocenza;</l>
+            <l>né accusarti saprei, senza rimorso.</l>
+            <l>Il sai, perfido, il sai,</l>
+            <l>(ahi duol!) se anch’io ti amai. Ma quando vedi</l>
+            <l>che in disprezzo di tanti</l>
+            <l>e principi e monarchi,</l>
+            <l>te mio re, te mio sposo acclamo e scelgo;</l>
+            <l>quando a me non riman, che più donarti,</l>
+            <l>a te che più bramar, co miei nemici</l>
+            <l>cospiri a’ danni miei.</l>
+            <l>Vuoi regnar con Astarto,</l>
+            <l>anzi che regnar meco;</l>
+            <l>e divisa con lui la mia corona,</l>
+            <l>vuoi più doverla (o dio!)</l>
+            <l>alla perfidia tua, che all’amor mio.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Rimproveri crudeli!</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Or di’ le tue discolpe. Ingrato parla.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>A che cercar discolpe, ove tu stessa</l>
+            <l>mi accusi, e reo mi vuoi? Temo discolparmi</l>
+            <l>per timor di spiacerti, o di accusarti.</l>
+            <l>Sì, mia regina augusta,</l>
+            <l>il mostrarmi innocente è un dirti ingiusta.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>No, no: mostrami ingiusta,</l>
+            <l>purché reo tu non sia.</l>
+            <l>Amerò l’error mio: altro non bramo.</l>
+            <l>(Ma sia innocente, o reo, sento che l’amo.)</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Tu comandi: ubbidisco.</l>
+            <l>Tutte de’ miei nemici in questo foglio</l>
+            <l>riconosci le insidie. Essi l’han finto,</l>
+            <l>dacché tu m’innalzasti. Ed avran più fede</l>
+            <l>quest’empie note dal livore impresse,</l>
+            <l>che l’opre mie, che le mie piaghe istesse?</l>
+            <l>Io che pur tante volte</l>
+            <l>i tuoi nemici, i tuoi ribelli ho domi,</l>
+            <l>a te sarò nemico? A te rubello?</l>
+            <l>E ‘l sarò allor, che più mi onori ed ami?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(Care discolpe!)</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Quando,</l>
+            <l>quando in me ravvisasti</l>
+            <l>sensi sì ingiusti, alma sì vil? Ma dove</l>
+            <l>i mezzi sono? I complici? Ombra ignota,</l>
+            <l>questo Astarto dov’è? Come piacermi</l>
+            <l>può seco un mezzo regno</l>
+            <l>con infamia ottenuto,</l>
+            <l>più che teco un intero</l>
+            <l>meritato con gloria? Ah! Sol mi accusi,</l>
+            <l>che non sa quant’io t’ami, o mio bel nume.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(Più non resisto.)</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Io t’amo:</l>
+            <l>t’amo, e tu scorgi il più fedel vassallo</l>
+            <l>nel più fedel amante.</l>
+            <l>L’amor mio ti fa fede</l>
+            <l>dell’innocenza mia. Che se da questo</l>
+            <l>dolce error mi sovrasta</l>
+            <l>la pena mia…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Basta, Clearco, basta.</l>
+            <l>L’ombre son dileguate,</l>
+            <l>spento è ‘l furor. Dove l’amore è forte,</l>
+            <l>l’odio è breve, o impotente;</l>
+            <l>e reo che fa piacere, sempre è innocente.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Tanta bontà…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Maggiori</l>
+            <l>sien del perdono e dell’amor le prove.</l>
+            <l>Guardie, rendasi al prence</l>
+            <l>l’illustre acciar. Tu all’imeneo reale</l>
+            <l>le pompe affretta. Oggi sarai mio sposo.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>O favori! O contenti!</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Non tardar più. I momenti,</l>
+            <l>che doni al tuo piacer, rubi al mio bene.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Teco resta il mio cor.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Teco il mio viene.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Care pupille,</l>
+            <l>tra mille e mille</l>
+            <l>più fido core</l>
+            <l>del mio non v’è.</l>
+            <l>No, non trovate,</l>
+            <l>se lo cercate,</l>
+            <l>più saldo amore,</l>
+            <l>più pura fé.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>Scena quattordicesima</head>Elisa, e poi Sidonia.<div type="scene">
+          <head>Scena quattordicesima</head>Elisa, e poi Sidonia. <stage>Scena quattordicesimaElisa, e poi Sidonia.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>In alma così bella</l>
+            <l>come potea covar vil tradimento?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Lessi ed udii.)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Tu che mi fosti ognora</l>
+            <l>e sì cara e sì fida, or tutta intendi</l>
+            <l>la mia felicità.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Che fia, regina?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Innocente è Clearco, e pochi instanti</l>
+            <l>mancano al mio riposo.</l>
+            <l>Oggi re lo avrà Tiro: io l’avrò sposo.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Ahimè! (L’arte mi giovi.)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Qual turbamento, amica? E qual pallore?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Perdonami, regina… Entro del seno…</l>
+            <l>non inteso dolor… Convien ch’io parta.</l>
+            <l>(mostra partire, e si lascia cadere la lettera di Clearco)</l>
+          </sp>
+          <stage>SIDONIAPerdonami, regina… Entro del seno…non inteso dolor… Convien ch’io parta.(mostra partire, e si lascia cadere la lettera di Clearco)</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Sinché l’alma riprenda</l>
+            <l>il perduto vigor… Le cadde un foglio.</l>
+            <l>Sarà di amor: che a giovanil beltade</l>
+            <l>come non manca amor, non manca amante.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Che fec’io? Qual disgrazia?</l>
+            <l>(cerca con affanno la lettera)</l>
+          </sp>
+          <stage>SIDONIAChe fec’io? Qual disgrazia?(cerca con affanno la lettera)</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Sidonia.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Ah! Mia regina,</l>
+            <l>per quanto hai di più caro,</l>
+            <l>rendimi il foglio, e non l’aprir, se m’ami.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ch’io non l’apra? Il divieto</l>
+            <l>sprona il disio.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Ti pentirai, se leggi.</l>
+            <l>Il mal non è mai mal, finch’egli è ignoto.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Siasi; ma leggerò.</l>
+            <l>(aprendola)</l>
+          </sp>
+          <stage>ELISASiasi; ma leggerò.(aprendola)</stage>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Questo è ‘l mio voto.)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(Che rimiro?) Le note</l>
+            <l>son di Clearco.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Ei scrisse.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>T’ama egli forse? E forse</l>
+            <l>della mia fiamma in onta, e del mio soglio</l>
+            <l>sì mi manca di fé?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Te ‘l dica il foglio.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Men grave, o mio bel nume,</l>
+            <l>il destin mi saria senza il tuo sdegno.</l>
+            <l>Reo chi vuol mi condanni;</l>
+            <l>ma ‘l tuo bel cor mi assolva.</l>
+            <l>Clearco a te così?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Così Clearco.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Deh! Se giusta sei tu, come sei bella,</l>
+            <l>pensa al mio amor: non condannarmi a torto.</l>
+            <l>La tua giusta pietà sia mio conforto.</l>
+            <l>Che? L’infedel t’ama cotanto? O dio!</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Presaga del tuo duol, non te ‘l diss’io?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>E tu ancor l’ameresti?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Io quell’ingrato amar, che può tradirti?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Tu ‘l soffri; e questo foglio…</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>È vero: il serbo,</l>
+            <l>ma sol per suo rossore, e per sua pena.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Qui a lui venisti…</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>A rinfacciar l’iniquo,</l>
+            <l>che a sì bella regina è tanto ingrato.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>All’amor mio perché celar l’arcano?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Le angosce rispettai di un cor tradito.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Tradito? E ‘l crederò? Sì. Troppo è chiaro</l>
+            <l>in queste note il tradimento enorme.</l>
+            <l>O spergiuro Clearco,</l>
+            <l>il secondo tuo fallo</l>
+            <l>or del primo fa fede; e scorgo omai</l>
+            <l>nell’amante infedele il reo vassallo.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Più bell’inganno ove s’intese mai?)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Lasciar d’amar conviene:</l>
+            <l>tradita è la mia speme</l>
+            <l>e la mia pace.</l>
+            <l>Ma ‘l traditor sento che ancor mi tiene</l>
+            <l>co’ suoi begli occhi tra le sue catene,</l>
+            <l>e quant’odio la colpa, il reo mi piace.</l>
+            <l>Lasciar d’amar conviene:</l>
+            <l>tradita è la mia speme</l>
+            <l>e la mia pace.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena quindicesima</head>Sidonia, e poi Nino. <stage>Scena quindicesimaSidonia, e poi Nino.</stage>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Purché mi cada in seno,</l>
+            <l>cada il mio ben dal soglio. Io lo tradisco</l>
+            <l>per troppa fé: ma, o dio! Forse con esso</l>
+            <l>tradisco la mia speme. Esser crudele</l>
+            <l>puote all’amante ingrato</l>
+            <l>colei che fu pietosa al reo vassallo.</l>
+            <l>Temo l’ire di Elisa.</l>
+            <l>Di Clearco in difesa amor mi chiama;</l>
+            <l>e gl’indugi non fa cor che ben’ama.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Giunge Nino, e tu parti?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Simulerò, perch’ei mi lasci.) E Nino</l>
+            <l>qui ferma i passi miei. Da me che brami?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Mi chiedi ancor che bramo? Il tuo bel volto</l>
+            <l>per me te ‘l dica.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Io lo sapea. Di amore</l>
+            <l>favelli ad ogni instante.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Sempre parla di amor chi è sempre amante.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(La dimora è mia pena.)</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Un guardo almen…</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Finger mi giovi.) Ascolta.</l>
+            <l>Non son crudel, qual tu mi credi. In petto</l>
+            <l>sento anch’io le mie vampe. Anch’io sospiro,</l>
+            <l>quanto può sospirar tenero core.</l>
+            <l>Quello che brami tu, bramo ancor’io;</l>
+            <l>né minor del tuo foco è ‘l foco mio.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(Me felice!) E fia ver, che da que’ lumi?…</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Escon d’amore i dardi.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Che il tuo core?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Infiammò di amor la face.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Che quel bel seno?…</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Amor ferì con l’arco.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(Più non so che bramar.)</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Ma per Clearco.)</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Meco sì generosa?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>A Nino il dice</l>
+            <l>l’alma sul labbro, e a Nino il giura. Eterne</l>
+            <l>saran le mie catene; e tanto piace</l>
+            <l>la cara prigionia, che per uscirne</l>
+            <l>né saprei, né vorrei trovarne il varco.</l>
+            <l>Amo: che più?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(O destin!)</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Ma ‘l mio Clearco.)</l>
+            <l>Amo, e bramo. Di più non dirò.</l>
+            <l>Peno, e moro. Ti basti così.</l>
+            <l>Tu sai ciò che ho nel cor, se ben l’intendi.</l>
+            <l>Pur col dirti, che amor m’infiammò,</l>
+            <l>col giurarti, che amor mi ferì,</l>
+            <l>saprai qual fu l’amor, se lo comprendi.</l>
+            <l>Amo, e bramo. Di più non dirò.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena sedicesima</head>Nino.Sì: quel bel core intendo; ed è mia sorte,che con egual desioanch’esso intenda il favellar del mio.Benché tarda, è sempre un bene,quando vieneagli amanti la speranza.Ed allor che più s’aspetta,più consola, e più diletta,e più merto ha la costanza.Benché tarda, è sempre un bene,quando vieneagli amanti la speranza. <stage>Scena sedicesimaNino.Sì: quel bel core intendo; ed è mia sorte,che con egual desioanch’esso intenda il favellar del mio.Benché tarda, è sempre un bene,quando vieneagli amanti la speranza.Ed allor che più s’aspetta,più consola, e più diletta,e più merto ha la costanza.Benché tarda, è sempre un bene,quando vieneagli amanti la speranza.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto secondo</head>
+        <div type="scene">
+          <head>Scena prima</head>Luogo solitario dietro al palazzo reale, e vicino alla casa di Fenicio ingombrato da palme.Fenicio, Geronzio, e séguito di Congiurati. <stage>Scena primaLuogo solitario dietro al palazzo reale, e vicino alla casa di Fenicio ingombrato da palme.Fenicio, Geronzio, e séguito di Congiurati.</stage>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Amici, Astarto vive, Astarto il figlio</l>
+            <l>di chi già sovra noi, sovra di Tiro</l>
+            <l>tenne scettro e impero.</l>
+            <l>Voi lo sapete. Il regnator suo padre</l>
+            <l>dal tiranno Sicheo cadde tradito.</l>
+            <l>Il diadema rapito</l>
+            <l>passò ad Elisa in sulla fronte: Elisa,</l>
+            <l>le cui vene riempie</l>
+            <l>del fellone uccisore il sangue iniquo.</l>
+            <l>Fora empietà, non che viltà sul trono</l>
+            <l>soffrirla ancor. Per noi si renda, o fidi,</l>
+            <l>al legittimo re la sua corona.</l>
+            <l>Questa notte il grand’atto</l>
+            <l>dée maturar. Si chiede</l>
+            <l>alla vostra virtù coraggio e fede.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Fede e coraggio avrem Fenicio. Avremo</l>
+            <l>braccio a punir dell’altrui fallo Elisa,</l>
+            <l>zelo a ripor sovra il suo trono Astarto.</l>
+            <l>Ma questo Astarto, questo illustre erede</l>
+            <l>dov’è? Perché si asconde all’amor nostro?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Pria compiscasi l’opra, e poi si sveli.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Offendi col tacer la nostra fede.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Non si teme di voi, ma della sorte.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Se sicura è l’impresa, invan si teme.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Lo scoprirlo che giova innanzi al tempo</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Chi ci assicura poi, che non sia frode?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Giove ch’è qui presente, e ‘l ciel che m’ode.</l>
+            <l>Restringendosi i rami delle palme danno luogo alla vista di una grande ara, con la statua di Giove fulminante, e quelle d’altre deità.</l>
+          </sp>
+          <stage>FENICIOGiove ch’è qui presente, e ‘l ciel che m’ode.Restringendosi i rami delle palme danno luogo alla vista di una grande ara, con la statua di Giove fulminante, e quelle d’altre deità.</stage>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Giuro a te, sommo tonante,</l>
+            <l>e a voi, menti eterne e dive,</l>
+            <l>vive Astarto, Astarto vive,</l>
+            <l>a noi duce, a noi regnante.</l>
+            <l>Io farò, che in trono assiso</l>
+            <l>leggi a Tiro ei dar si scerna,</l>
+            <l>vendicata che sia l’ombra paterna.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Compagni, armisi il braccio</l>
+            <l>del punitore acciar. L’ara si cinga;</l>
+            <l>e per mia bocca oda chi tutto intende,</l>
+            <l>impegno al zelo, e sprone all’ardimento,</l>
+            <l>anche del vostro core il giuramento.</l>
+            <l>(Geronzio si accosta all’ara, snudando la spada, e facendo lo stesso gli altri congiurati)</l>
+            <l>Torni Astarto, il degno erede,</l>
+            <l>torni al soglio, e cada l’empio.</l>
+            <l>Giuro a questo eterno scempio,</l>
+            <l>a quel giuro eterna fede.</l>
+            <l>Scenda, Giove, a incenerirmi</l>
+            <l>il tuo fulmine tremendo,</l>
+            <l>se manco all’opra, e ‘l giuramento offendo.</l>
+          </sp>
+          <stage>GERONZIOCompagni, armisi il bracciodel punitore acciar. L’ara si cinga;e per mia bocca oda chi tutto intende,impegno al zelo, e sprone all’ardimento,anche del vostro core il giuramento.(Geronzio si accosta all’ara, snudando la spada, e facendo lo stesso gli altri congiurati)Torni Astarto, il degno erede,torni al soglio, e cada l’empio.Giuro a questo eterno scempio,a quel giuro eterna fede.Scenda, Giove, a incenerirmiil tuo fulmine tremendo,se manco all’opra, e ‘l giuramento offendo.</stage>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Andiamo, amici. A’ numi</l>
+            <l>già salì ‘l voto, e solo manca al colpo</l>
+            <l>il momento opportuno. Infin ch’ei giunga,</l>
+            <l>v’offro ne’ tetti miei fido soggiorno;</l>
+            <l>e tu in breve qui attendi il mio ritorno.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena seconda</head>Clearco, e Geronzio. <stage>Scena secondaClearco, e Geronzio.</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Amico, in onta ancora</l>
+            <l>dell’invidia, e dell’odio</l>
+            <l>eccomi fuor di ceppi, e più che mai</l>
+            <l>formidabile oggetto a’ miei nemici.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Vieni, e unisci, signor, l’invitto brando:</l>
+            <l>alla comun vendetta.</l>
+            <l>Già nell’ombre vicine</l>
+            <l>aprir dessi il teatro</l>
+            <l>dell’eccidio di Elisa.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Dell’eccidio di Elisa?</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Al figlio di Fenicio…</l>
+            <l>(Ahimè! Per troppo zelo ove trascorsi?)</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Più non giova il tacer. Tutti mi svela</l>
+            <l>dell’infame congiura</l>
+            <l>i complici, l’autor, l’ordine, i mezzi.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Tu troppo udisti: io troppo dissi. Invano</l>
+            <l>cerchi di più.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Rispetta in me chi ancora</l>
+            <l>tuo giudice esser puote, e tuo sovrano.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Le imprudenze del labbro</l>
+            <l>la costanza dell’alma emendi, e taccia.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Perfido, tu morrai.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>D’incauto errore</l>
+            <l>sarà pena la morte al nobil core.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Non l’aspettar con gloria</l>
+            <l>da questo acciar. Sotto la scure infame</l>
+            <l>verrà, ma preceduta</l>
+            <l>da’ tormenti più orribili e spietati.</l>
+            <l>Ad Elisa già corro. Ella in udirlo</l>
+            <l>punisca il tuo delitto,</l>
+            <l>prevenga il suo periglio.</l>
+            <l>Tremane, o traditor.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena terza</head>Fenicio, e li suddetti. <stage>Scena terzaFenicio, e li suddetti.</stage>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Fermati, o figlio.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Padre.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>(O sciagura.)</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Vanne,</l>
+            <l>vanne ad Elisa, e tutta</l>
+            <l>della fatal congiura apri la scena.</l>
+            <l>Per te sangue civile, e sangue amico</l>
+            <l>corran le vie di Tiro;</l>
+            <l>e per te sotto il ferro</l>
+            <l>del carnefice vil gemano tronche</l>
+            <l>le comuni speranze, e i giusti voti</l>
+            <l>de’ mariti, de’ padri, e de’ nipoti.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Ad ogni costo, amato padre, Elisa</l>
+            <l>serbisi, e regni.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>E con l’arcano accresci</l>
+            <l>merito alla tua fé, grido al tuo zelo.</l>
+            <l>Vanne, ma prima intendi</l>
+            <l>qual capo scellerato</l>
+            <l>concepì l’empie trame, e qual le mosse.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Sì: me lo addita. Ov’è l’iniquo? L’empio</l>
+            <l>qual è? Con la sua pena</l>
+            <l>lascia, ch’io rassicuri</l>
+            <l>ad Elisa la vita, a me il suo trono.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Riconoscilo, e trema. Io quello sono.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Tu, genitore?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Io quello,</l>
+            <l>io quel son, che per lo zelo</l>
+            <l>di vendicare il mio buon re trafitto,</l>
+            <l>dell’empia usurpatrice armo in ruina</l>
+            <l>il popolo, e ‘l senato. Io quel, che all’ire</l>
+            <l>del tiranno Sicheo</l>
+            <l>tolsi in Astarto il regal figlio, e ‘l solo</l>
+            <l>della tiria corona illustre erede.</l>
+            <l>Or va’: scopri l’arcano.</l>
+            <l>Perdi il tuo re, perdi gli amici: perdi</l>
+            <l>del cittadino sangue il miglior fiore.</l>
+            <l>Che più? Vattene, e perdi il genitore.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Ma se non parlo, la regina io perdo.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>E un vano amor…</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Taci, Geronzio, e lascia,</l>
+            <l>che vengano in quel seno</l>
+            <l>a più stretto cimento</l>
+            <l>la natura, l’amore, e la ragione.</l>
+            <l>E tu resta a te stesso, e segui il giusto.</l>
+            <l>Se il dover ti consiglia, è tuo re Astarto.</l>
+            <l>Se l’amor ti fa forza, io ti son padre.</l>
+            <l>Già convien che Elisa</l>
+            <l>o ruini, o mi opprima.</l>
+            <l>Addio. Prova sarà del tuo consiglio,</l>
+            <l>s’abbia in te più poter l’amante, o ‘l figlio.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena quarta</head>Clearco, e poi Elisa. <stage>Scena quartaClearco, e poi Elisa.</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Fronda a due venti esposta, onda a due nembi,</l>
+            <l>di te, misero core</l>
+            <l>è meno combattuta, è men percossa.</l>
+            <l>La natura, l’amore</l>
+            <l>ti tragge, ti respinge. Ove salvarti,</l>
+            <l>ove perir risolvi?</l>
+            <l>Che fa? su: fra due mali</l>
+            <l>temasi il più vicin. Dal rio periglio</l>
+            <l>l’amante or salvi Elisa.</l>
+            <l>Al padre poi sarà difesa il figlio.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(Qui l’empio.)</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Mia regina, omai le tede</l>
+            <l>son de’ nostri imenei…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Perfido, ancora</l>
+            <l>ti presenti a’ miei lumi, e la mia tenti</l>
+            <l>offesa sofferenza?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Qual nuovo error?…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Degl’imenei sien tosto</l>
+            <l>spente le tede; o solo</l>
+            <l>diventino per te lugubri faci.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Per me?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Sì, traditor. Vattene, e taci.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Andrò, ma…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ma per sempre</l>
+            <l>lontan dagli occhi miei: lontan da queste</l>
+            <l>troppo da’ tuoi malefici respiri</l>
+            <l>aure contaminate.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Sol pria concedi al labbro…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Abbastanza quel labbro</l>
+            <l>falso, spergiuro, ed infedel mi fu.</l>
+            <l>Vattene, iniquo, e non parlarmi più.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(Cieli!) Il silenzio mio saria tuo rischio.</l>
+            <l>Regina, ascolta.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>No: più non avrai</l>
+            <l>il piacer d’ingannarmi: Ah! Troppo ancora</l>
+            <l>m’hanno sedotto i tuoi perversi accenti.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(Misero cor!) Parlarti</l>
+            <l>non vo’ per mia discolpa.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>E qual discolpa</l>
+            <l>finger potresti, ove convinto sei</l>
+            <l>dal testimon delle mie luci istesse?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Vuol la salvezza tua…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Vuol, che lontano</l>
+            <l>da questo ciel tu vada, e dal mio core.</l>
+            <l>Il peggior de’ nemici è ‘l traditore.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(O dèi! Chi udì giammai sciagura eguale?)</l>
+            <l>Se parto…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>È mio riposo.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Se taccio…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>È mio comando.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Ora il disubbidirti è per me fede.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>E l’ascoltarti, iniquo, è per me pena.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(Che far deggio?)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ancor tardi?</l>
+            <l>Ubbidisci.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>E vuoi tu?…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Sì, che tu parta, e non parlarmi più.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Perché, labbro amato,</l>
+            <l>perché sì spietato</l>
+            <l>a un’alma fedel?</l>
+            <l>Tacerò per ubbidirti;</l>
+            <l>ma un dì ancor potrai pentirti</l>
+            <l>di un comando sì crudel.</l>
+            <l>Perché, labbro amato,</l>
+            <l>perché sì spietato</l>
+            <l>a un’alma fedel?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena quinta</head>Elisa.O d’invidia, e di amor figlia perversa,gelosia dispietata, e qual nel senoguerra crudel mi muovie di gelo, e d’incendio, e di veleno?Ah! Se pace a me nieghi,non goda la rival. Perda Sidoniala speranza del ben, che a me s’invola.Negli occhi di Clearcoella non vegga più la mia sciagura;ei più non miri in leil’altrui fasto il suo inganno, i torti miei.Peno amando, e un rio sospettoin amor languir mi fa.Ma se pena in me l’affetto,quel di un empio non godrà.Peno amando, e un rio sospettoin amor languir mi fa. <stage>Scena quintaElisa.O d’invidia, e di amor figlia perversa,gelosia dispietata, e qual nel senoguerra crudel mi muovie di gelo, e d’incendio, e di veleno?Ah! Se pace a me nieghi,non goda la rival. Perda Sidoniala speranza del ben, che a me s’invola.Negli occhi di Clearcoella non vegga più la mia sciagura;ei più non miri in leil’altrui fasto il suo inganno, i torti miei.Peno amando, e un rio sospettoin amor languir mi fa.Ma se pena in me l’affetto,quel di un empio non godrà.Peno amando, e un rio sospettoin amor languir mi fa.</stage>
+        </div>
+        <div type="scene">
+          <head>Scena sesta</head>Stanze di Sidonia illuminate.Sidonia, ed Agenore. <stage>Scena sestaStanze di Sidonia illuminate.Sidonia, ed Agenore.</stage>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Eh! Di Clearco è troppo amante Elisa.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Altro è la gelosia:</l>
+            <l>altro la maestà. Sinché rubello</l>
+            <l>fu creduto Clearco,</l>
+            <l>amor che ‘l difendea, lo fe’ innocente.</l>
+            <l>Or che offeso è l’amore,</l>
+            <l>più non ha chi l’assolva</l>
+            <l>dallo sdegno di Elisa,</l>
+            <l>e s’ella il lascia reo, suo re tu sei.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Senta il ciel i miei voti.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(E senta i miei.)</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena settima</head>Clearco, e li suddetti. <stage>Scena settimaClearco, e li suddetti.</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Sidonia, a te mi tragge</l>
+            <l>l’odio di Elisa. Essa infedel mi crede,</l>
+            <l>e col suo core i doni suoi mi toglie.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(ad Agenore)</l>
+            <l>L’arte giovò.</l>
+            <l>(a Clearco)</l>
+            <l>De’ tuoi disastri ho pena.</l>
+          </sp>
+          <stage>SIDONIA(ad Agenore)L’arte giovò.(a Clearco)De’ tuoi disastri ho pena.</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Soffro i miei con costanza,</l>
+            <l>ma quei di Elisa orror mi fanno.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>E quali?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Trame, e trame mortali.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>E taci alla sovrana il suo periglio?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>L’espormi al real ciglio è suo divieto.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Ecco dell’opra il frutto.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>(Io già son lieto.)</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Vanne o Sidonia, e in nome</l>
+            <l>del misero Clearco,</l>
+            <l>ch’ella chiama sleale, ingrato, infido,</l>
+            <l>dille, che si minaccia in questa notte</l>
+            <l>la sua grandezza, e ‘l viver suo: che d’armi,</l>
+            <l>e in un di foco empier dovrà le reggia</l>
+            <l>il furor congiurato:</l>
+            <l>che di Astarto… Non più: l’indugio è colpa</l>
+            <l>in chi vuol salva Elisa.</l>
+            <l>Vanne, e ‘l mio amor dall’opra mia ravvisa.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena ottava</head>Elisa, e li suddetti. <stage>Scena ottavaElisa, e li suddetti.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(Odi ‘l perfido cor.)</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Parto.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(a Sidonia)</l>
+            <l>Trattienti.</l>
+            <l>(a Clearco)</l>
+            <l>Sugli occhi miei?</l>
+          </sp>
+          <stage>ELISA(a Sidonia)Trattienti.(a Clearco)Sugli occhi miei?</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Qui amor mi trasse.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ingrato.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>E la mia fede…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Parti.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>No, regina. Ei rimanga; e qui palesi</l>
+            <l>la congiura ben nota al suo rimorso.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ingrato, e traditore?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>A che taci? Su: dille,</l>
+            <l>dille, che si minaccia in questa notte</l>
+            <l>la sua grandezza, e ‘l viver suo.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Lo dico.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(Ciel! Che ascolto?)</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Che d’armi</l>
+            <l>e in un di foco empier dovrà la reggia</l>
+            <l>il furor congiurato.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Il dico, e ‘l dissi.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(Scellerato ardimento!)</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Il sospetto di lei fa ‘l mio contento.)</l>
+            <l>Che si serve ad Astarto</l>
+            <l>col suo cader, con la sua morte.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Il dico.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Ma dille ancor, che del misfatto enorme</l>
+            <l>sei complice, e ministro, e che in Clearco</l>
+            <l>conosce Elisa il suo maggior nemico.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Dillo (ma no ‘l vorrei.)</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Questo no ‘l dico.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ah! Lo dice il tuo volto, e più del volto</l>
+            <l>il perfido tuo core a me lo dice.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Io, mia…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Che mia? Non più.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(Sono infelice.)</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Ho pietà del suo duolo, e pur mi giova.)</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>(ad Elisa)</l>
+            <l>Scopra l’autor.</l>
+          </sp>
+          <stage>AGENORE(ad Elisa)Scopra l’autor.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>L’autor esponi.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(Io ‘l padre?)</l>
+            <l>Perdona. Egli mi è ignoto.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ignoto? Quel tu sei, se no ‘l confessi.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>È di Elisa nemico</l>
+            <l>chi tutto a lei non scopre il suo periglio.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(In me pena l’amante, e pena il figlio.)</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena nona</head>Nino, con Guardie, e li suddetti. <stage>Scena nonaNino, con Guardie, e li suddetti.</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Regina, empie e inonda il ferro e ‘l foco</l>
+            <l>la reggia mal difesa. Ivi i nemici</l>
+            <l>plaudon di Astarto al nome,</l>
+            <l>e rea di tirannia si cerca Elisa.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Corro alle tue vendette.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Resta. Chi del tumulto è legge e guida.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Il padre di Clearco.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>L’autor ti è ignoto, ed è Fenicio? Or veggo</l>
+            <l>del tuo silenzio e le ragioni e l’arti.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Come? Sol per salvarti…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ammutisci.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Pavento.)</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>(ad Elisa)</l>
+            <l>Temo per la tua vita.</l>
+          </sp>
+          <stage>AGENORE(ad Elisa)Temo per la tua vita.</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Resti qui custodita.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>E dall’onte la salvi il mio valore.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Non si affidan regine a un traditore.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(a Nino e poi a Elisa)</l>
+            <l>Io traditor? Permetti,</l>
+            <l>ch’io vada contra il padre, e che il mio ferro</l>
+            <l>provi contro di lui la gloria mia.</l>
+          </sp>
+          <stage>CLEARCO(a Nino e poi a Elisa)Io traditor? Permetti,ch’io vada contra il padre, e che il mio ferroprovi contro di lui la gloria mia.</stage>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>(ad Elisa)</l>
+            <l>Finge zelo di gloria, e cerca scampo.</l>
+          </sp>
+          <stage>AGENORE(ad Elisa)Finge zelo di gloria, e cerca scampo.</stage>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Fra la tema e l’amor gelo ed avvampo.)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Tant’empio non ti voglio.</l>
+            <l>Per Fenicio qui resta. Io molto deggio,</l>
+            <l>Agenore, al tuo zelo. Uguale al merto</l>
+            <l>mercede avrai.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(Destin!)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(a Clearco)</l>
+            <l>Sì, avrà mercede</l>
+            <l>per chi serba ad Elisa, e vita e regno,</l>
+            <l>è poco un trono.</l>
+          </sp>
+          <stage>ELISA(a Clearco)Sì, avrà mercedeper chi serba ad Elisa, e vita e regno,è poco un trono.</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(Ciel!)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Sì, un trono è poco.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Il suo stesso dolor serve al mio foco.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(ad Agenore guardando di quando in quando Clearco)</l>
+            <l>Vanne a Fenicio. Il contumace intenda,</l>
+            <l>ch’è in mio poter Clearco: o fuor di rischio</l>
+            <l>cadan a lui di man l’armi superbe,</l>
+            <l>o di Clearco… (O dio!) in quest’ora, in questa</l>
+            <l>di Clearco al mio piè cada la testa.</l>
+          </sp>
+          <stage>ELISA(ad Agenore guardando di quando in quando Clearco)Vanne a Fenicio. Il contumace intenda,ch’è in mio poter Clearco: o fuor di rischiocadan a lui di man l’armi superbe,o di Clearco… (O dio!) in quest’ora, in questadi Clearco al mio piè cada la testa.</stage>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Servo al cenno real.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(Pena più fiera</l>
+            <l>abbia da gelosia.) Va’, servi, e spera.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Basta la speme, che voi mi date,</l>
+            <l>perch’io vi serva, begli occhi arcieri.</l>
+            <l>E di servirvi, labbra adorate,</l>
+            <l>l’onor mi basta, per far ch’io speri.</l>
+            <l>Basta la speme, che voi mi date,</l>
+            <l>perch’io vi serva, begli occhi arcieri.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena decima</head>Elisa, Clearco, Sidonia, Nino. <stage>Scena decimaElisa, Clearco, Sidonia, Nino.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Giura adesso, che Astarto è nome ignoto</l>
+            <l>e cifre della frode i fogli suoi.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Che dir poss’io, se reo mi fan gli dèi?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Menti. Un ingrato, un traditor tu sei.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(ad Elisa)</l>
+            <l>Di certa reità scusa non s’ode.</l>
+          </sp>
+          <stage>NINO(ad Elisa)Di certa reità scusa non s’ode.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Guardie, a voi lo consegno.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>E delle pene sue sia la più giusta,</l>
+            <l>ch’ei perda i doni tuoi.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Tu pur contra Clearco.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Condanno il tradimento.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(a Sidonia)</l>
+            <l>Come? A te qui non venni?…</l>
+          </sp>
+          <stage>CLEARCO(a Sidonia)Come? A te qui non venni?…</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>E questa è colpa.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(a Sidonia)</l>
+            <l>Le congiure non dissi?…</l>
+          </sp>
+          <stage>CLEARCO(a Sidonia)Le congiure non dissi?…</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Per serbar chi ti piacque.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(a Sidonia)</l>
+            <l>Non ti parlai?</l>
+          </sp>
+          <stage>CLEARCO(a Sidonia)Non ti parlai?</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Lo so; di amor di fede.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Nel suo furor la gelosia si vede.)</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Se ‘l soffri, il fai più audace.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Di mia bontà mi pento. Al letto, al trono</l>
+            <l>senti, sleal, sceglier saprò ben’io</l>
+            <l>altro sposo, altro re.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Clearco è mio.)</l>
+            <l>(Elisa non ascoltando Clearco)</l>
+          </sp>
+          <stage>SIDONIA(Clearco è mio.)(Elisa non ascoltando Clearco)</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Regina… il ciel m’ascolti. Io son tradito.</l>
+            <l>Agenore, Sidonia, Nino, il padre,</l>
+            <l>tutti son mie sciagure, e sembran tutti</l>
+            <l>miei falli, e accuse mie. L’unico errore</l>
+            <l>di quest’alma fedele</l>
+            <l>è che tu la condanni. E pur Clearco</l>
+            <l>di sì enorme viltà reo non si sente;</l>
+            <l>e ‘l suo povero cor supplice chiede</l>
+            <l>di poter dire al tuo ch’egli è innocente.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(a Nino e Sidonia)</l>
+            <l>Ingannarmi potrei?</l>
+          </sp>
+          <stage>ELISA(a Nino e Sidonia)Ingannarmi potrei?</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Sedotto è ‘l tuo rigor dalla clemenza.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>E questa è cieca, ove la regga amore.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Vattene. Ingrato sei. Sei traditore.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Se vuoi, che in pace io mora,</l>
+            <l>non dirmi traditor,</l>
+            <l>non dirmi ingrato.</l>
+            <l>Misero dimmi, e allora</l>
+            <l>perdono al tuo rigor;</l>
+            <l>e sol del mio dolor</l>
+            <l>incolpo il fato.</l>
+            <l>Se vuoi, che in pace io mora,</l>
+            <l>non dirmi traditor,</l>
+            <l>non dirmi ingrato.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena undicesima</head>Elisa, Sidonia, e Nino. <stage>Scena undicesimaElisa, Sidonia, e Nino.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Due delitti ha Clearco. Egli di Elisa</l>
+            <l>la vita insidiò, tradì l’amore:</l>
+            <l>Sidonia, intendi?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Intendo.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Non abbia in te rival la tua regina.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Io gradirei di un traditor l’affetto?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Per la fé di Sidonia offro la mia.</l>
+            <l>Essa a me la giurò.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(La gelosia</l>
+            <l>a lei si tolga.) E a Nino anch’io la giuro.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(a Nino)</l>
+            <l>Ami dunque Sidonia?</l>
+          </sp>
+          <stage>ELISA(a Nino)Ami dunque Sidonia?</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>È l’amor mio quel volto; è la mia speme.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(a Sidonia)</l>
+            <l>E tu l’ami del pari?</l>
+          </sp>
+          <stage>ELISA(a Sidonia)E tu l’ami del pari?</stage>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Nino è la gloria mia; nino è ‘l mio bene</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(a Nino e Sidonia)</l>
+            <l>(Cessa il timor.) Tal fede?</l>
+            <l>Insieme</l>
+          </sp>
+          <stage>ELISA(a Nino e Sidonia)(Cessa il timor.) Tal fede?Insieme</stage>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>S’io fossi men fedele,</l>
+            <l>a lui sarei spergiura e a me crudele.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>S’io fossi men fedele,</l>
+            <l>a lei sarei spergiuro e a me crudele.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Amatevi, e sperate; il vostro amore</l>
+            <l>piace ad Elisa. Essa il farà contento.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Nel tuo favore il mio piacer già sento.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Alma, in amor di più bramar non puoi.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ah! Potessi esser lieta al par di voi.</l>
+            <l>Va’: che sei ben fortunata;</l>
+            <l>tu l’adori, ed egli t’ama.</l>
+            <l>Ei ti brama, e sei fedele.</l>
+            <l>Io tradita, e disprezzata</l>
+            <l>offro il regno, ad un indegno,</l>
+            <l>dono il core a un traditore;</l>
+            <l>son pietosa a chi è crudele.</l>
+            <l>Va’: che sei ben fortunata;</l>
+            <l>tu l’adori, ed egli t’ama.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena dodicesima</head>Sidonia, e Nino. <stage>Scena dodicesimaSidonia, e Nino.</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Mia bella, eccoci in porto…</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Pria che tu segua, ascolta. Alla tua fede</l>
+            <l>chieder deggio un favore. A me lo giura.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>A Sidonia lo giuro.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Maggior legame io voglio.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Lo giuro alla mia speme, ed al tuo amore.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Ancor non basta, o Nino.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>E quando ei non si offenda, anche al mio onore.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Or ti credo. Prometti?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Io lo prometto.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>In ogni evento?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Egual mia fede avrai.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Ma se avverrà che manchi?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Come tuo traditor, tu mi odierai.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>L’impegno accetto. Or segui.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Ed or lascia ch’io stampi</l>
+            <l>su quella man, ch’è mia…</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Nino, più saggio.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Al tuo sposo così?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Sposo? Vaneggi.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Ma tu non promettesti</l>
+            <l>a me fede ed amor?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Mal m’intendesti.</l>
+            <l>Nino, talor della beltà sul labbro</l>
+            <l>la cortesia ragiona, e pare affetto.</l>
+            <l>Un’amica pietà genio si crede,</l>
+            <l>parla l’ingegno, e par che parli il core.</l>
+            <l>Politica risponde, e sembra amore.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(Cieli!) presente Elisa,</l>
+            <l>non ti dicesti unita a’ voti miei?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>E s’ella or fosse qui, tal mi direi.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Onde quest’arte, o dio?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Il tacer è ‘l favor… Sarai costante?</l>
+            <l>Odi. Sidonia è d’altro volto amante.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Ad Elisa, o spergiura…</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Ferma. Il silenzio è del tuo onore un voto.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Speranze sì fallaci?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Promettesti il favor. Lo voglio, e taci.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Perché ascoltarmi amante?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Poss’io vietar che m’ami</l>
+            <l>chi amar mi vuol? Gloria del sesso è questa.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>D’infedeltà ti vanti, e ti compiaci?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Promettesti il favor. Lo voglio, e taci.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Ch’io taccia?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Lo giurasti.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Tradirò col silenzio il mio dolore?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Se parli, t’odierò qual traditore.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(Legge crudel!) Dimmi chi adori almeno.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Mal si cerca il rival, quand’egli è caro.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Tutto il mio mal si sappia.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Vedi quanto ti stimo. Io t’apro il varco</l>
+            <l>al più chiuso del cuore. Egli è Clearco.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(Stima funesta!) Un traditor ti piace?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Mi piace, e ‘l suo piacermi è sua discolpa.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Ami la fellonia?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Il condannar chi adoro, è scortesia.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Ma l’amore di un vil viltà non chiami?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Per far ch’ei non sia vil, basta ch’io l’ami.</l>
+            <l>Non è poco,</l>
+            <l>ch’il mio amore io scopra a te.</l>
+            <l>Tu se’ solo quel che sa</l>
+            <l>il mio core ed il mio foco.</l>
+            <l>Il fidarsi all’altrui fé</l>
+            <l>così presto non si fa.</l>
+            <l>Credi a me:</l>
+            <l>è un favor che non è poco.</l>
+            <l>Non è poco,</l>
+            <l>ch’il mio amore io scopra a te.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena tredicesima</head>Nino.Io son perduto. Un gran favor si chiamail dir ch’io mi disperi.E disperar convien. Beltà che vantaall’amante altr’amore,altre piaghe, altre fiamme, altri legami,vuol dir ch’ei più non viva, o più non ami.Era meglio disperarmi,bella ingrata, che lasciarmiuna speme, ch’or m’inganna.S’io sapeva i mali miei,non direi, che ingrata sei,né saprei che sei tiranna.Era meglio disperarmi,bella ingrata, che lasciarmiuna speme, ch’or m’inganna. <stage>Scena tredicesimaNino.Io son perduto. Un gran favor si chiamail dir ch’io mi disperi.E disperar convien. Beltà che vantaall’amante altr’amore,altre piaghe, altre fiamme, altri legami,vuol dir ch’ei più non viva, o più non ami.Era meglio disperarmi,bella ingrata, che lasciarmiuna speme, ch’or m’inganna.S’io sapeva i mali miei,non direi, che ingrata sei,né saprei che sei tiranna.Era meglio disperarmi,bella ingrata, che lasciarmiuna speme, ch’or m’inganna.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Scena quattordicesima</head>Reggia incendiata.Fenicio con séguito, e poi Agenore con Guardie.<div type="scene">
+          <head>Scena quattordicesima</head>Reggia incendiata.Fenicio con séguito, e poi Agenore con Guardie. <stage>Scena quattordicesimaReggia incendiata.Fenicio con séguito, e poi Agenore con Guardie.</stage>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Costanza, amici. A’ giusti voti arride</l>
+            <l>propizio il cielo. Arda la reggia, e seco</l>
+            <l>si perda Elisa. Al funeral d’un’empia</l>
+            <l>rogo minore, o men crudel non dessi.</l>
+            <l>Abbattete, atterrate.</l>
+            <l>Parte di voi porti l’eccidio altrove.</l>
+            <l>Parte mi segua. Andiamo.</l>
+            <l>Astarto regni, e ‘l regno ei deggia a noi.</l>
+            <l>La grand’opra si adempia. Io son con voi.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Fermati.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Elisa mora.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Scellerato è ‘l disio.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Virtù lo muove.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Contumace è l’ardir.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Giustizia il regge.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Qual virtù? Qual giustizia? Elisa è salva.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Chi può torla al mio sdegno?</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Su dunque ardito porta il foco e ‘l ferro</l>
+            <l>sin sugli occhi di Elisa. Ivi vedrai</l>
+            <l>fra catene Clearco.</l>
+            <l>(Geronzio ascolta in disparte)</l>
+          </sp>
+          <stage>AGENORESu dunque ardito porta il foco e ‘l ferrosin sugli occhi di Elisa. Ivi vedraifra catene Clearco.(Geronzio ascolta in disparte)</stage>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>O cieli! Il figlio?</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Aspetta il suo destin. La legge è questa.</l>
+            <l>Vuol’Elisa il tuo brando, o la sua testa.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena quindicesima</head>Geronzio con soldati, e li suddetti. <stage>Scena quindicesimaGeronzio con soldati, e li suddetti.</stage>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>(Fenicio qui si salvi.)</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Geronzio, a tempo.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Amico.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Chi è traditor di Elisa ha l’odio mio.</l>
+            <l>Cedi quel ferro, e prigionier mi segui</l>
+            <l>a’ lacci (col tradirlo io l’assicuro.)</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Perfido amico! E cavalier spergiuro!</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Cedi alla tua regina.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Ho in Astarto il mio re.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Questi or difenda</l>
+            <l>il capo di Clearco. Infame acciaro,</l>
+            <l>se più tardi, il recide.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Barbare stelle!</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>E ‘l tuo furor l’uccide.</l>
+            <l>(mostra di partire)</l>
+          </sp>
+          <stage>AGENOREE ‘l tuo furor l’uccide.(mostra di partire)</stage>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Ferma.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Pensa, o fellon, che padre sei.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Se più fossi costante, empio sarei.</l>
+            <l>Cedo all’amor, non alla tema. Andiamo.</l>
+            <l>Sappia Elisa, che ha vinto</l>
+            <l>il padre, non l’eroe.</l>
+            <l>Essa un fido vassallo in me condanna,</l>
+            <l>ed io detesto in lei la mia tiranna.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>A chi ti dée punir, tanto nemico?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Spergiuro cavalier! Perfido amico!</l>
+            <l>Empio destin, m’invola</l>
+            <l>amici, e libertà.</l>
+            <l>Virtù mi resterà</l>
+            <l>di te più forte.</l>
+            <l>Col valor di questa sola</l>
+            <l>sfiderò, vincerò catene e morte.</l>
+            <l>Empio destin, m’invola</l>
+            <l>amici, e libertà.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>Atto terzo</head>
+        <div type="scene">
+          <head>Scena prima</head>Prigione.Fenicio, e Geronzio. <stage>Scena primaPrigione.Fenicio, e Geronzio.</stage>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Ti tradii per salvarti.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Era più fede</l>
+            <l>meco unir l’ire, e l’armi.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Elisa salva, e prigionier Clearco,</l>
+            <l>un più ardito consiglio</l>
+            <l>perdea te stesso, e ‘l figlio.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Ma fra ceppi, e fra l’ombre</l>
+            <l>non mi resta a sperar, che pena e morte.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Quest’ombre e questi ceppi</l>
+            <l>dissipi e sciolga un tuo comando, Elisa.</l>
+            <l>Ché a te nemico, a sé leal mi crede,</l>
+            <l>ti assegnò alla mia fede;</l>
+            <l>ed ecco del mio inganno il primo frutto.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>O illustre inganno! O dolce amico! O fido!</l>
+            <l>Perdona al mio timor, se concepire</l>
+            <l>potei…</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Taci. Ecco Elisa. Io torno all’ire.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena seconda</head>Elisa, e li suddetti. <stage>Scena secondaElisa, e li suddetti.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(Udir mi giovi inosservata.)</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>E come…</l>
+            <l>Come potesti, di’,</l>
+            <l>empio, tradir così</l>
+            <l>la tua regnante?</l>
+            <l>Ma in braccio a ria vendetta</l>
+            <l>il tuo supplizio aspetta,</l>
+            <l>alma incostante.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(Che nobil cor!) Geronzio, in te si onori</l>
+            <l>il più fido vassallo.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Non è ancor pago il zelo,</l>
+            <l>se non veggo il tuo soglio</l>
+            <l>del sangue più fellon spruzzato e tinto.</l>
+            <l>È pietà con gl’iniqui esser crudele.</l>
+            <l>(a Fenicio)</l>
+            <l>Intendi?</l>
+          </sp>
+          <stage>GERONZIONon è ancor pago il zelo,se non veggo il tuo sogliodel sangue più fellon spruzzato e tinto.È pietà con gl’iniqui esser crudele.(a Fenicio)Intendi?</stage>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Intendo, sì.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(Quanto è fedele!)</l>
+            <l>(piano a Geronzio)</l>
+            <l>Odi. A me qui Clearco.</l>
+          </sp>
+          <stage>ELISA(Quanto è fedele!)(piano a Geronzio)Odi. A me qui Clearco.</stage>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Ubbidirò.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ma nuovi cenni attendi</l>
+            <l>pria di espor quell’iniquo al mio sembiante.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Come potesti, di’,</l>
+            <l>empio, tradir così</l>
+            <l>la tua regnante?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena terza</head>Elisa, e Fenicio. <stage>Scena terzaElisa, e Fenicio.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Da Geronzio dovevi</l>
+            <l>miglior zelo imparar: ch’or non saresti</l>
+            <l>del mio offeso poter scopo infelice.</l>
+            <l>Ma tu cieco al dover, spergiuro, ingrato,</l>
+            <l>contra me, tua regina…</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>In te non ho…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Silenzio</l>
+            <l>chieggo, e rispetto. Hai preso l’armi. Hai mosse</l>
+            <l>quelle de’ miei. Plebe, senato, amici.</l>
+            <l>Tutto hai sedotto. Hai fin sedotto il figlio</l>
+            <l>quel figlio, o dio! Vedi perfidia! Quello</l>
+            <l>ch’esser dovea mio sposo, e mio signore.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Tutto è ver: sol Clearco…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Anch’egli, qual sei tu, sì, è un traditore.</l>
+            <l>Ma padre, figlio, complici, voi tutti,</l>
+            <l>tutti morrete. Un solo ferro, un solo</l>
+            <l>carnefice le vostre</l>
+            <l>vite reciderà, sudditi infami.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Ira, che non si teme, è già impotente.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Eh! Non finger costanza. Il so. Paventi</l>
+            <l>di te e del figlio. Or vedi,</l>
+            <l>qual regina offendesti. A te, a Clearco</l>
+            <l>in egual sorte il mio perdono imparto.</l>
+            <l>Ma ‘l fio del comun fallo</l>
+            <l>paghi un sol capo.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>E qual?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Quello di Astarto.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Di Astarto? Sai che in esso</l>
+            <l>il tuo giudice vive, e ‘l mio sovrano?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Siasi, e tu all’ire mie scopri l’arcano.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Sta l’arcano sepolto</l>
+            <l>tutto nell’alma mia.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Parla, o morrai.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Morirà meco ancora</l>
+            <l>quell’arcano che cerchi:</l>
+            <l>ma non morrà già meco</l>
+            <l>quest’Astarto, che temi. A me sol noto,</l>
+            <l>sappi, ch’ei vive; e vive,</l>
+            <l>sappilo, in questa reggia. Ad ogni instante</l>
+            <l>e lo vedi, e gli parli. Or va’. Su lui</l>
+            <l>sfoga l’iniqua rabbia.</l>
+            <l>Ma in ognun de’ tuoi cari</l>
+            <l>temi il nemico tuo. Morrò contento,</l>
+            <l>purché meco non mora il tuo spavento.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Dacché giunsi a regnar, suddito ingrato,</l>
+            <l>chi di te più onorai?</l>
+            <l>Chi più del figlio tuo? Ma invano, invano</l>
+            <l>co’ rimproveri tento il cor ribelle.</l>
+            <l>Geronzio, olà. Vedremo</l>
+            <l>qual di noi vincerà. Tu quanto puoi,</l>
+            <l>custodisci il segreto. Io quanto posso,</l>
+            <l>userò per saperlo. Al gran cimento</l>
+            <l>venga col mio poter la tua baldanza.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Per non temerti ho fede, ed ho costanza.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena quarta</head>Clearco, Geronzio, e li suddetti. <stage>Scena quartaClearco, Geronzio, e li suddetti.</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Ecco il duce.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Clearco,</l>
+            <l>col tacermi costui ciò che non deve,</l>
+            <l>vuol la sua morte, vuol la tua. In Astarto</l>
+            <l>cerco un ribel. L’arcano,</l>
+            <l>che il suddito fellon tace al sovrano,</l>
+            <l>l’amante genitor non taccia al figlio.</l>
+            <l>Seco ti lascio. Io tornerò; ma in breve;</l>
+            <l>e se allor contumaci</l>
+            <l>nella vostra perfidia ancor sarete,</l>
+            <l>sul mio capo ve ‘l giuro, ambi morrete.</l>
+            <l>(a Fenicio)</l>
+            <l>Ammutisci? Impallidisci?</l>
+            <l>Tu che hai fé? Tu che hai costanza?</l>
+            <l>Vedi, vedi,</l>
+            <l>se ho ‘l poter di spaventarti.</l>
+            <l>(a Clearco)</l>
+            <l>E tu, indegno, nel mio sdegno</l>
+            <l>non paventi? Qual speranza?</l>
+            <l>Se ho ragion per minacciarti,</l>
+            <l>credi, credi,</l>
+            <l>ho anche cor per non amarti.</l>
+            <l>Ammutisci? Impallidisci?</l>
+            <l>Tu che hai fé? Tu che hai costanza?</l>
+          </sp>
+          <stage>ELISAClearco,col tacermi costui ciò che non deve,vuol la sua morte, vuol la tua. In Astartocerco un ribel. L’arcano,che il suddito fellon tace al sovrano,l’amante genitor non taccia al figlio.Seco ti lascio. Io tornerò; ma in breve;e se allor contumacinella vostra perfidia ancor sarete,sul mio capo ve ‘l giuro, ambi morrete.(a Fenicio)Ammutisci? Impallidisci?Tu che hai fé? Tu che hai costanza?Vedi, vedi,se ho ‘l poter di spaventarti.(a Clearco)E tu, indegno, nel mio sdegnonon paventi? Qual speranza?Se ho ragion per minacciarti,credi, credi,ho anche cor per non amarti.Ammutisci? Impallidisci?Tu che hai fé? Tu che hai costanza?</stage>
+        </div>
+        <div type="scene">
+          <head>Scena quinta</head>Fenicio, e Clearco. <stage>Scena quintaFenicio, e Clearco.</stage>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Ah Clearco, Clearco!</l>
+            <l>Io ti perdo, io ti uccido, o parli, o taccia</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Come? Sia noto Astarto, e salvo io sono.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Quando noto egli sia, non se’ più salvo.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Perché tu taci, Elisa</l>
+            <l>vuol la mia morte.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>E la vorrà, s’io parlo.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>In Astarto sol vive il suo nemico.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>E nel rischio di lui tema Clearco.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Qual favellar? Nulla comprendo, o padre.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Questo, questo è l’arcano;</l>
+            <l>e finché no ‘l comprendi, io ti son padre.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Del fatale momento</l>
+            <l>non ci abusiam. Dammi il tuo arcano in dono.</l>
+            <l>Salvami, o genitor. Tuo figlio io sono.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>(Dura necessità.) Parlo, e in udirmi</l>
+            <l>l’amor tuo inorridisca.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Amar la sua regina è sì gran colpa</l>
+            <l>nel figlio di Fenicio?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>No, ma in quel di Abdastarto amar Elisa</l>
+            <l>è ‘l sommo de’ misfatti, e de’ più rei.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>In… quel…</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Sì, di Abdastarto, e tu lo sei.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Che? Non son io tuo figlio?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>In te onoro il mio re.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Non son Clearco?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Vive in te Astarto.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>O dèi! Ma come! E quando?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Allor che un empio fasto</l>
+            <l>tolse al tuo genitor vita e corona,</l>
+            <l>io ti serbai, che ancor vagivi in fasce.</l>
+            <l>Ti allevai qual mia prole, e ‘l ciel vi arrise:</l>
+            <l>il cielo, che poc’anzi</l>
+            <l>mi avea rapito in pari etade un figlio.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Chi teco allor fu dell’inganno a parte?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Nessun. Primo lo taccia,</l>
+            <l>chi non vuol che si sveli un grande arcano.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>E a te si crederà, che Astarto io sia?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Un che ricusa un figlio, e un sì gran figlio,</l>
+            <l>si può creder più padre?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Padre anzi più si crede,</l>
+            <l>quando figlio il ricusa, e re lo acquista.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Io re ti acquisterei col dirti Astarto?</l>
+            <l>E col dirlo, or che Elisa</l>
+            <l>in lui teme, in lui cerca il suo nemico?</l>
+            <l>E se fossi mio figlio, e re ti amassi,</l>
+            <l>dimmi, per qual consiglio</l>
+            <l>condannato in te avrei l’amor di Elisa?</l>
+            <l>A che in lei contrastar quel di Clearco?</l>
+            <l>Nell’odio di Fenicio</l>
+            <l>riconosciti, Astarto. Odi il tuo sangue,</l>
+            <l>se al mio dir non dai fede. Odi il tuo onore.</l>
+            <l>Odi l’ombra paterna,</l>
+            <l>che sanguinosa ancor, perché negletta,</l>
+            <l>di riposo ti priega, e di vendetta.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Vendetta? E contro Elisa? Ah! Per pietade</l>
+            <l>sii mio padre, o Fenicio, e ‘l sii per sempre.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Vergogna, Astarto: per un basso affetto</l>
+            <l>rinunziare al tuo sangue, alla tua gloria.</l>
+            <l>Vergogna: più del padre</l>
+            <l>amar nell’empia figlia il parricida.</l>
+            <l>Su: col real tuo grado</l>
+            <l>prendi affetti più eccelsi,</l>
+            <l>né si lasci sedur da un vile amore</l>
+            <l>la tua ragion, la tua virtù, il tuo onore.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Ma che dirò di Astarto alla regina?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Prendi tempo, arte adopra, e la lusinga.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Tu se resti prigion…</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>De’ casi miei</l>
+            <l>non ti prenda timor. Fa’ ciò che déi.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Vien la regina. Ahi vista!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena sesta</head>Elisa, Geronzio, e li suddetti. <stage>Scena sestaElisa, Geronzio, e li suddetti.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Sull’orme del furor, perfidi, io torno,</l>
+            <l>e quando non lo estingua</l>
+            <l>tutto il sangue di Astarto, il vostro, il vostro</l>
+            <l>lo estinguerà. Parla, Clearco.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Parla,</l>
+            <l>ma non tradir nel tuo signor te stesso.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>(Che sarà mai?)</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Regina,</l>
+            <l>tempra il furor. Mi è noto Astarto. Io deggio</l>
+            <l>alla pietà del genitor l’arcano.</l>
+            <l>Ben tosto alla mia fede</l>
+            <l>tu lo dovrai. Donami sol, che altrove</l>
+            <l>di palesarlo abbia la gloria e ‘l merto.</l>
+            <l>Dirlo, presente il padre,</l>
+            <l>non ben saprei troppo il suo duol pavento.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ti si compiaccia, ingrato. Al dono assento.</l>
+            <l>Seguimi. Qui Fenicio</l>
+            <l>resti alle sue catene, e qui lo serbi</l>
+            <l>Geronzio al suo castigo, o al mio perdono.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Va’: non temer: sai quanto fido io sono.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Occhi vezzosi,</l>
+            <l>meno sdegnosi</l>
+            <l>vorrei mirarvi;</l>
+            <l>ma non so, se lo sarete.</l>
+            <l>Il mio fatto</l>
+            <l>troppo, troppo è dispietato:</l>
+            <l>troppo barbari voi siete.</l>
+            <l>Occhi vezzosi,</l>
+            <l>meno sdegnosi</l>
+            <l>vorrei mirarvi;</l>
+            <l>ma non so, se lo sarete.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Alma crudele,</l>
+            <l>meno infedele</l>
+            <l>vorrei vederti;</l>
+            <l>ma non so, se lo sarai.</l>
+            <l>In amore</l>
+            <l>troppo, troppo io fido ho ‘l core</l>
+            <l>troppo perfido tu l’hai.</l>
+            <l>Alma crudele,</l>
+            <l>meno infedele</l>
+            <l>vorrei vederti;</l>
+            <l>ma non so, se lo sarai.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena settima</head>Fenicio, e Geronzio. <stage>Scena settimaFenicio, e Geronzio.</stage>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Amico, omai si adempia</l>
+            <l>l’opra di tua amistà. Più non s’indugi.</l>
+            <l>Nell’amor di Clearco</l>
+            <l>temo il rischio di Astarto. Ah! Si prevenga.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Prevengasi, o Fenicio. Al piè già tolgo</l>
+            <l>le gravose ritorte,</l>
+            <l>e l’arbitro ora sei della tua sorte.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Sciolta dalle ritorte</l>
+            <l>la destra invitta e forte</l>
+            <l>l’acciaio stringerà.</l>
+            <l>E in pro del mio regnante</l>
+            <l>impiegherò costante</l>
+            <l>la cara libertà.</l>
+            <l>Sciolta dalle ritorte</l>
+            <l>la destra invitta e forte</l>
+            <l>l’acciaio stringerà.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena ottava</head>Stanze reali.Sidonia, e Nino. <stage>Scena ottavaStanze reali.Sidonia, e Nino.</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Pietà.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Lascia di amarmi.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Non posso.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Hai cor sì fiacco?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Né potendo il vorrei.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Chi fugge di sanar, pietà non merta.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Mi risani l’amor, che mi ha tradito.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>E chiami tradimento un disinganno?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Disinganno crudel, dopo le care</l>
+            <l>tenere tue promesse?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Abbiam due cori.</l>
+            <l>Con l’uno amiam davvero.</l>
+            <l>Con l’altro amiam da scherno.</l>
+            <l>Quel serve al genio; e questo</l>
+            <l>serve al diletto. Ei d’amar dice, e ‘l giura;</l>
+            <l>ma il giuramento è vano,</l>
+            <l>il dir non è sincero,</l>
+            <l>e giova il finto a mascherar il vero.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Ma se hai due cori, almeno</l>
+            <l>col vero ama chi déi.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Amo quel che più piace agli occhi miei.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>E ti piace?…</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Clearco.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Amando lui, la tua regina offendi.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Come il saprà? Da chi? Da te? Rammenta</l>
+            <l>la tua fede giurata.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(Rimembranza spietata!) Io la rammento.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Languir devi, e tacer.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(Oh giuramento!)</l>
+            <l>Ma languendo, e tacendo</l>
+            <l>quegli affetti otterrò, che indarno or chiedo?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Vuoi che davver risponda? Io non lo credo.</l>
+            <l>S’io t’amassi, qual vorresti,</l>
+            <l>ti direi, mio ben, cor mio:</l>
+            <l>ma… no, no; no ‘l dico a te:</l>
+            <l>dico sol, ch’io te ‘l direi.</l>
+            <l>Sospirar tu mi udiresti</l>
+            <l>tra ‘l timore, e tra ‘l desio.</l>
+            <l>Se no ‘l fo non so perché:</l>
+            <l>sol io so, che quel non sei.</l>
+            <l>S’io t’amassi, qual vorresti,</l>
+            <l>ti direi, mio ben, cor mio:</l>
+            <l>ma… no, no; no ‘l dico a te:</l>
+            <l>dico sol, ch’io te ‘l direi.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Povero cor!</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Vien la regina. Avverti.</l>
+            <l>Se mi manchi di fé: se ardire avrai</l>
+            <l>di dirle ch’io non t’amo, e che non sei</l>
+            <l>mia speranza, mio amore…</l>
+            <l>basta… te ne avvedrai… Vo’ trarti il core.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Anche questo di più.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena nona</head>Elisa, e li suddetti. <stage>Scena nonaElisa, e li suddetti.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Nino, Sidonia,</l>
+            <l>ne’ tetti miei?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(ad Elisa)</l>
+            <l>Seguo farfalla il lume,</l>
+            <l>Clizia al mio sol mi aggiro, ape al mio fiore:</l>
+            <l>non è così?</l>
+            <l>(a Nino)</l>
+            <l>Dillo, mio ben, mio nume.</l>
+          </sp>
+          <stage>SIDONIA(ad Elisa)Seguo farfalla il lume,Clizia al mio sol mi aggiro, ape al mio fiore:non è così?(a Nino)Dillo, mio ben, mio nume.</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Ah regina!</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Su: dille,</l>
+            <l>che lontana da te non ho riposo:</l>
+            <l>che più teneri sensi</l>
+            <l>giammai non concepì mente amorosa.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>E tacer mi conviene.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(a Sidonia)</l>
+            <l>Ei non risponde.</l>
+          </sp>
+          <stage>ELISA(a Sidonia)Ei non risponde.</stage>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(a Elisa)</l>
+            <l>È ‘l soverchio piacer che lo confonde.</l>
+            <l>(piano a Nino)</l>
+            <l>Guai a te.</l>
+          </sp>
+          <stage>SIDONIA(a Elisa)È ‘l soverchio piacer che lo confonde.(piano a Nino)Guai a te.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Qui poc’anzi</l>
+            <l>che ti dicea la bella?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Io per te…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Taci.</l>
+            <l>Vo’ saperlo da Nino.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>E Nino parli;</l>
+            <l>né dissimuli un solo</l>
+            <l>di que’ nomi soavi, ond’io lo chiamo</l>
+            <l>caro ben, dolce ardor, luce gradita,</l>
+            <l>vezzo, gioia, speranza, anima, vita.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Che pena?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(a Sidonia)</l>
+            <l>Ei sta confuso.</l>
+          </sp>
+          <stage>ELISA(a Sidonia)Ei sta confuso.</stage>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Fa’ cor: rispondi: di’.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(E finger deggio?) Ella dicea così.</l>
+            <l>«Nino, l’amante core</l>
+            <l>piange, sospira, e pena;</l>
+            <l>arde, si strugge, e more.»</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(a Nino)</l>
+            <l>Per te?</l>
+          </sp>
+          <stage>ELISA(a Nino)Per te?</stage>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(a Elisa)</l>
+            <l>Per lui, mia fiamma, e mia catena.</l>
+          </sp>
+          <stage>SIDONIA(a Elisa)Per lui, mia fiamma, e mia catena.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Arde per te?</l>
+            <l>(Sidonia minaccia a Nino)</l>
+          </sp>
+          <stage>ELISAArde per te?(Sidonia minaccia a Nino)</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Dirti, ch’ella arde è poco.</l>
+            <l>Quell’alma è tutta foco.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>E voi ne siete</l>
+            <l>la bellissima sfera, amati rai.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(Più fida amante io non intesi mai.)</l>
+            <l>(a Nino)</l>
+            <l>Pur non ti veggo in fronte</l>
+            <l>un intero seren.</l>
+          </sp>
+          <stage>ELISA(Più fida amante io non intesi mai.)(a Nino)Pur non ti veggo in fronteun intero seren.</stage>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(ad Elisa)</l>
+            <l>Non è mai pago</l>
+            <l>nell’indugio del bene un grande affetto.</l>
+            <l>Ma consolati, o Nino;</l>
+            <l>sento anch’io quel momento,</l>
+            <l>che mi toglie a’ diletti, aspro e penoso.</l>
+          </sp>
+          <stage>SIDONIA(ad Elisa)Non è mai pagonell’indugio del bene un grande affetto.Ma consolati, o Nino;sento anch’io quel momento,che mi toglie a’ diletti, aspro e penoso.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>E questo suo dolor sia tuo riposo.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Mi accheto.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Il ben più atteso</l>
+            <l>con più gioia si abbraccia.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(Lo speri Elisa.)</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(E Nino soffra, e taccia.)</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(a Nino)</l>
+            <l>Se più chiedi…</l>
+          </sp>
+          <stage>SIDONIA(a Nino)Se più chiedi…</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Non più. Nino è contento,</l>
+            <l>è contento per te che l’ami tanto.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(Oh dio!)</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(ad Elisa)</l>
+            <l>Vedi, che quasi</l>
+            <l>sta per uscir su que’ begli occhi il pianto.</l>
+          </sp>
+          <stage>SIDONIA(ad Elisa)Vedi, che quasista per uscir su que’ begli occhi il pianto.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(a Sidonia)</l>
+            <l>Per eccesso di gioia</l>
+            <l>si piange ancor;</l>
+            <l>(a Nino)</l>
+            <l>di’: non è vero?</l>
+          </sp>
+          <stage>ELISA(a Sidonia)Per eccesso di gioiasi piange ancor;(a Nino)di’: non è vero?</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>È vero.</l>
+            <l>(Non posso più.)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(Tanto piacer dispero.)</l>
+            <l>Parti, o cara. Abbastanza</l>
+            <l>qui si espresse il tuo amor.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Ma l’amor mio</l>
+            <l>prenda ancor da que’ lumi il dolce addio.</l>
+            <l>(forte a Nino)</l>
+            <l>Veggo, begl’occhi, in voi</l>
+            <l>(piano a Nino)</l>
+            <l>-non parlo, no, de’ tuoi-</l>
+            <l>de amor le faci.</l>
+            <l>(Tu accender non mi puoi. Soffrilo e taci.)</l>
+            <l>Da voi lo strale uscì.</l>
+            <l>(Finger convien così.)</l>
+            <l>Lumi vivaci.</l>
+            <l>(Per te non mi ferì. Tu non mi piaci.)</l>
+            <l>(forte a Nino)</l>
+            <l>Veggo, begl’occhi, in voi</l>
+            <l>(piano a Nino)</l>
+            <l>-non parlo, no, de’ tuoi-</l>
+            <l>de amor le faci.</l>
+          </sp>
+          <stage>SIDONIAMa l’amor mioprenda ancor da que’ lumi il dolce addio.(forte a Nino)Veggo, begl’occhi, in voi(piano a Nino)-non parlo, no, de’ tuoi-de amor le faci.(Tu accender non mi puoi. Soffrilo e taci.)Da voi lo strale uscì.(Finger convien così.)Lumi vivaci.(Per te non mi ferì. Tu non mi piaci.)(forte a Nino)Veggo, begl’occhi, in voi(piano a Nino)-non parlo, no, de’ tuoi-de amor le faci.</stage>
+        </div>
+        <div type="scene">
+          <head>Scena decima</head>Elisa, e Nino. <stage>Scena decimaElisa, e Nino.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Quanto amante è Sidonia! E quanto è fida!</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Anche troppo, o regina.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Al vostro invidio</l>
+            <l>felicissimo affetto, alme costanti.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Siam felici del par, del pari amanti.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Se ne invoglia il mio cor. Qui di Clearco</l>
+            <l>la vita attendo. A me l’affretta, e torna.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Pronto mi avrai.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Perché sì mesto sei?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Tanto fedel Sidonia io non vorrei.</l>
+            <l>Questo duol tu vedi in me,</l>
+            <l>perché in lei, mio dolce ardore,</l>
+            <l>regna troppa fedeltà.</l>
+            <l>Dir di più non posso a te.</l>
+            <l>Ma so ben, ch’ora in quel core</l>
+            <l>amerei l’infedeltà.</l>
+            <l>Questo duol tu vedi in me,</l>
+            <l>perché in lei, mio dolce ardore,</l>
+            <l>regna troppa fedeltà.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena undicesima</head>Elisa, poi Clearco. <stage>Scena undicesimaElisa, poi Clearco.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Che strano amor! Ma sugli affetti altrui</l>
+            <l>a che vaneggi, Elisa?</l>
+            <l>Troppo ti resta a ragionar su’ tuoi.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(Vederla, e non amarla, o cor, non puoi.)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Vieni, vieni, o Clearco, e rassicura</l>
+            <l>un’alma combattuta</l>
+            <l>da speme, da timor, d’odio, e d’affetto.</l>
+            <l>Mostrami il mio nemico;</l>
+            <l>e rendimi il mio amante. Oblio già tutte</l>
+            <l>le andate offese: inganni,</l>
+            <l>spergiuri, fellonie, tutto perdono:</l>
+            <l>e l’Elisa ch’io fui, per te ancor sono.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Tanto ti preme Astarto?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Pende dalla sua morte il mio riposo.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Misero!</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Eh! me lo addita,</l>
+            <l>per prova di tua fé, con men di orrore.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Servasi, o mia regina, al tuo furore.</l>
+            <l>Già sull’orlo del labbro</l>
+            <l>spinto è ‘l nome fatal.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Caro Clearco!</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Ma svelarlo non basti. A’ piedi tuoi</l>
+            <l>questo temuto tuo rival superbo</l>
+            <l>traggasi domo. In mio poter lo serbo.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>O cieli! E sarà vero,</l>
+            <l>ch’io dovrò sì gran bene a man sì cara?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Sì, ma pria di un favor…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Clearco, chiedi.</l>
+            <l>Libertà, genitor, grandezza, affetto,</l>
+            <l>tutto prometto. Abbilo in premio, e in dono.</l>
+            <l>Che vuoi? Qual è il tuo voto?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Il suo perdono.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Per Astarto?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>E vi aggiungi anche il tuo amore.</l>
+            <l>Te ne priega Clearco.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ah traditore!</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Dimmi qual vuoi. Chiamami ingrato, iniquo.</l>
+            <l>Dal regno, e se non basta,</l>
+            <l>scacciami dal tuo core: odiami; e resti</l>
+            <l>della pura fiamma</l>
+            <l>la memoria perduta, e ‘l nome spento:</l>
+            <l>ma sia Astarto tuo sposo, e son contento.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Tu mi amasti? Tu mai? No: non è vero.</l>
+            <l>Amasti più di Elisa il suo nemico,</l>
+            <l>e più dell’amor mio la mia ruina.</l>
+            <l>Perfido!</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Cari sdegni!</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ah! Forse prova</l>
+            <l>tu fai della mia fede, e ti compiaci</l>
+            <l>del mio furor. Clearco, anima mia…</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>No: taci: un sì gran bene</l>
+            <l>non vuol Clearco: ci vuol vendette e sdegni.</l>
+            <l>Teco sol viva Astarto, e teco regni.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Viverà. Regnerà. Sol per tua pena</l>
+            <l>la grazia avrai. Gli darò letto e trono.</l>
+            <l>Vuoi più? L’amerò ancor, se vuoi, che l’ami.</l>
+            <l>Ma nel momento istesso</l>
+            <l>del talamo e del core,</l>
+            <l>tu morrai, traditore.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Io morirò; ma teco viva Astarto.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>L’empio non si sgomenta,</l>
+            <l>(né impallidisce pur) Che più? Si adempia</l>
+            <l>il tuo voto e il mio. Guidami il prence.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Prima si appresti all’imeneo la reggia.</l>
+            <l>(Così servo a Fenicio.)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>E per l’atrio real tu a me lo guida,</l>
+            <l>ma solo, e non veduto. In lui lo sguardo</l>
+            <l>si appaghi almen, pria che la man lo elegga</l>
+            <l>suo regnante, e suo sposo.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Ti piacerà, quanto ti piacqui anch’io.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Più ‘l tuo piacer non è ragion del mio.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>E s’ei simìle al mio spieghi il sembiante?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Non m’abbia sposa, e non mi speri amante.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Non tanto sdegno, no,</l>
+            <l>nume adorato:</l>
+            <l>che per odiar così</l>
+            <l>non è quel core.</l>
+            <l>Amore lo formò</l>
+            <l>meno spietato;</l>
+            <l>né a chi ben ama un dì,</l>
+            <l>mai manca amore.</l>
+            <l>Non tanto sdegno, no,</l>
+            <l>nume adorato:</l>
+            <l>che per odiar così</l>
+            <l>non è quel core.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena dodicesima</head>Elisa, e poi Nino. <stage>Scena dodicesimaElisa, e poi Nino.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ben risolvesti, Elisa,</l>
+            <l>ti si tolga in Astarto,</l>
+            <l>se regni, un gran periglio;</l>
+            <l>e s’ami, un grande inciampo.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Al regal ciglio</l>
+            <l>ritorno umile.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ed opportuno. Ascolta.</l>
+            <l>Per via dell’atrio, inde alla reggia vassi,</l>
+            <l>verrà fra poco a me Clearco, e solo</l>
+            <l>ei non verrà. Qualunque</l>
+            <l>seco sia, fa’ che ucciso</l>
+            <l>spiri sugli occhi tuoi l’anima iniqua.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Intesi.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>E con l’avviso</l>
+            <l>di sua morte a me riedi.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Il cenno adoro.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Gelosia di comando il colpo impone.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>E ‘l comando sovrano è mia ragione.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Per quel bel volto,</l>
+            <l>che m’innamora,</l>
+            <l>no, non ti ascolto,</l>
+            <l>pietà crudel.</l>
+            <l>Per te non voglio</l>
+            <l>regnar sul soglio,</l>
+            <l>quanto infelice,</l>
+            <l>tanto infedel.</l>
+            <l>Per quel bel volto,</l>
+            <l>che m’innamora,</l>
+            <l>no, non ti ascolto,</l>
+            <l>pietà crudel.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena tredicesima</head>Nino.Di ubbidir, di soffrirenon ti stancar, mio core.Nascesti servo, e ti fe’ schiavo amore.Questo è tempo di soffrir.Verrà poi quel di goder.Chi dispera nel martir,si ritarda il suo piacer.Questo è tempo di soffrir.Verrà poi quel di goder. <stage>Scena tredicesimaNino.Di ubbidir, di soffrirenon ti stancar, mio core.Nascesti servo, e ti fe’ schiavo amore.Questo è tempo di soffrir.Verrà poi quel di goder.Chi dispera nel martir,si ritarda il suo piacer.Questo è tempo di soffrir.Verrà poi quel di goder.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Scena quattordicesima</head>Atrio reale.Agenore, e Clearco.<div type="scene">
+          <head>Scena quattordicesima</head>Atrio reale.Agenore, e Clearco. <stage>Scena quattordicesimaAtrio reale.Agenore, e Clearco.</stage>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Non più. Stringi l’acciar.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Per me tant’ira?</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Ove scorgo il rivale, odio il nemico.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Un rivale maggior sia tuo spavento.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Di’, che temi il cimento.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Pensa alle mie vittorie, e di’, s’io temo.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Orsù: vinci anche Agenore. Che tardi?</l>
+            <l>Solo per questa strada</l>
+            <l>d’una regina in sen corra Clearco.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Tanto ei più non pretende.</l>
+            <l>Abbian tue gelosie più grande oggetto.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Ove, e qual è?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Fra poco,</l>
+            <l>se meco vieni, ove, e qual sia, saprai.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena quindicesima</head>Nino con Guardie, e li suddetti. <stage>Scena quindicesimaNino con Guardie, e li suddetti.</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(Sul german di Sidonia il mortal colpo?)</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Non sia dunque Clearco?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>No: Clearco non sia sposo di Elisa.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(L’amore e l’amistà mi fan rubello.)</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>La fede accetto. Andiam.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(ad Agenore)</l>
+            <l>Prence, rimanti.</l>
+          </sp>
+          <stage>NINO(ad Agenore)Prence, rimanti.</stage>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Perdona. Uopo maggior mi chiama altrove.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>L’uopo maggior sia l’ubbidire Elisa.</l>
+            <l>Essa meco ti vuole.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Teco? (Che far deggio?)</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>L’indugio è colpa, ove reale è ‘l cenno.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Ti seguo. E tu rammenta…</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Lo so: che in sen d’Elisa, e nel suo trono</l>
+            <l>Clearco non vedrai. (Quel più non sono.)</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Se tu m’inganni,</l>
+            <l>più fiera in me sarà la gelosia.</l>
+            <l>Ed a’ tuoi danni</l>
+            <l>l’ira si accenderà nell’alma mia.</l>
+            <l>Se tu m’inganni,</l>
+            <l>più fiera in me sarà la gelosia.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena sedicesima</head>Clearco.Or si vada ad Elisa. O dio! Che fo?Deggio temer? Deggio sperar? No ‘l so.Qual fra ‘l porto e la tempesta,fra ‘l timore, e fra la spemelegno incerto è l’alma mia.Pur mi affido, e credo a questa,perché i mal, ch’ella teme,vince il ben, ch’ella desia.Qual fra ‘l porto e la tempesta,fra ‘l timore, e fra la spemelegno incerto è l’alma mia. <stage>Scena sedicesimaClearco.Or si vada ad Elisa. O dio! Che fo?Deggio temer? Deggio sperar? No ‘l so.Qual fra ‘l porto e la tempesta,fra ‘l timore, e fra la spemelegno incerto è l’alma mia.Pur mi affido, e credo a questa,perché i mal, ch’ella teme,vince il ben, ch’ella desia.Qual fra ‘l porto e la tempesta,fra ‘l timore, e fra la spemelegno incerto è l’alma mia.</stage>
+        </div>
+        <div type="scene">
+          <head>Scena diciassettesima</head>Elisa, e Sidonia. <stage>Scena diciassettesimaElisa, e Sidonia.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Qui prevengo il mio ben. Qui vo’ che splenda</l>
+            <l>d’imeneo per Clearco oggi la face.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Ingrato e traditore ancor ti piace?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ragion di sua innocenza è l’amor mio.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Perdo Clearco.) E assolvi</l>
+            <l>chi amar puote Sidonia?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ti amò, ma si pentì. Cor che ben’ama,</l>
+            <l>facilmente perdona un’incostanza.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(Povero amor, tu sei senza speranza.)</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena diciottesima</head>Nino con Guardie, e le suddette. <stage>Scena diciottesimaNino con Guardie, e le suddette.</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Regina, il tuo comando</l>
+            <l>m’ebbe fido ministro.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Estinto cadde?…</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Quegli che m’imponesti.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ecco il premio dell’opra. A lui la destra</l>
+            <l>porgi Sidonia.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>A lui?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Non son io quegli,</l>
+            <l>per cui amando avvampi?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>A Nino questa man?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Così destina</l>
+            <l>il suo merto, il tuo amor, la tua regina.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena diciannovesima</head>Fenicio, Geronzio con Soldati, e li suddetti. <stage>Scena diciannovesimaFenicio, Geronzio con Soldati, e li suddetti.</stage>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Non regna altri che Astarto.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>O ciel! Che veggo?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Non temer: son tuo scudo.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Mal si difende una ragione ingiusta.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Anche Geronzio a me ribello?</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Anch’esso</l>
+            <l>ha in Astarto il suo re.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Perfidi, andate.</l>
+            <l>Al vostro re servite.</l>
+            <l>Io non son che tiranna. Ei venga, e regni.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Verrà; ma del tuo fallo…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Mi punisca chi è re, non chi è vassallo.</l>
+            <l>Ei venga e regni. Ov’è? Perché si asconde?</l>
+            <l>Così lo sostenete? A me si mostri.</l>
+            <l>Cercatelo; ma udite: il troverete</l>
+            <l>cadavero infelice,</l>
+            <l>squarciato il sen da cento piaghe.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>O dio!</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ed il cenno mortal fu cenno mio.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Ucciso è Astarto?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Il grande arcano io seppi</l>
+            <l>da chi tu lo fidasti. Astarto è morto.</l>
+            <l>Non mi ubbidisti tu?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Sì. (Non intendo.)</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Inorridisco, e tremo.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Questo è ‘l re che vantate, e ch’io non temo.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Morì Clearco, ah! non più tale Astarto.</l>
+            <l>Astarto in lui morì.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Morì Clearco?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Come? Clearco? Parla.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>E ancor t’infingi?</l>
+            <l>Vanne, crudel. Trionfa.</l>
+            <l>Iniqua, ami Clearco, e Astarto uccidi?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Astarto il tuo Clearco?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Or che ‘l perdei,</l>
+            <l>qual frutto aver potrei da una menzogna?</l>
+            <l>A che vantar mio re, chi è senza vita?</l>
+            <l>Perché negarmi padre a un figlio estinto?</l>
+            <l>Questo è duol di vassallo, e non di padre;</l>
+            <l>e in lui pianger deggio</l>
+            <l>il figlio di Abdastarto, e non il mio.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Che intesi mai? Ma chi sarà l’ucciso?</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>(a Nino)</l>
+            <l>Empio, e tu l’uccidesti?</l>
+          </sp>
+          <stage>SIDONIA(a Nino)Empio, e tu l’uccidesti?</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(Peni l’ingrata.) Era di Elisa il cenno.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>(piano a Nino)</l>
+            <l>Ma ‘l mio cenno non volle</l>
+            <l>morto Clearco?</l>
+          </sp>
+          <stage>ELISA(piano a Nino)Ma ‘l mio cenno non vollemorto Clearco?</stage>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(piano ad Elisa)</l>
+            <l>Ei vive.</l>
+          </sp>
+          <stage>NINO(piano ad Elisa)Ei vive.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>E se vive il mio ben, nulla si tema.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Un gran duol più non taccia.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Sidonia.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>In questo pianto</l>
+            <l>vedi, Elisa, il mio amore. Amai Clearco;</l>
+            <l>e per amarlo sola, a te lo finsi</l>
+            <l>col foglio, che credesti a me diretto,</l>
+            <l>infedele, ed ingrato.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Perfida!</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Ah piangi meco, e piangi, o cruda,</l>
+            <l>un’amante leale;</l>
+            <l>e perché maggior pena in te si desti,</l>
+            <l>pensa, che tu, crudel, tu l’uccidesti.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Ma non l’abbia l’iniqua</l>
+            <l>impunemente ucciso.</l>
+            <l>Geronzio, alla vendetta.</l>
+          </sp>
+          <sp who="#geronzio">
+            <speaker>GERONZIO:</speaker>
+            <l>Cada l’indegna.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Nino.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Più non si taccia. Odi, Fenicio…</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>E cada</l>
+            <l>con la rea del comando anche il ministro.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Astarto… Udite…</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>È morto; e voi morrete.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Vive…</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Ma prima uccisa</l>
+            <l>mora costei.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena ultima</head>Clearco, e li suddetti; e poi Agenore. <stage>Scena ultimaClearco, e li suddetti; e poi Agenore.</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Viva ad Astarto Elisa.</l>
+          </sp>
+          <sp who="#elisa e sidonia">
+            <speaker>ELISA E SIDONIA:</speaker>
+            <l>Clearco.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Re, signor.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Qual ire, o fidi</l>
+            <l>contra ‘l viver di Elisa?</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>La tua creduta morte</l>
+            <l>a noi fu di dolore, a lei di rischio.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>(ad Elisa)</l>
+            <l>Vuoi morto il tuo Clearco?</l>
+          </sp>
+          <stage>CLEARCO(ad Elisa)Vuoi morto il tuo Clearco?</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Tal volli Astarto. Or che tu ‘l sei, se lice,</l>
+            <l>amo Astarto in Clearco.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>O me felice!</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ma, Nino, chi è l’estinto?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>Agenore trovai sol con Clearco.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Ah crudele! Ah fellon! Di’. L’uccidesti?</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>No: serbai la sua vita a quel bel volto.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>L’infedeltà mi è cara. Io qui l’attendo.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>(a Sidonia)</l>
+            <l>La mercede prepara. Or or te ‘l rendo.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>NINO(a Sidonia)La mercede prepara. Or or te ‘l rendo.(parte)</stage>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Elisa, ecco l’amante, ecco il nemico.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>E perché adoro l’un, l’altro mi è caro.</l>
+            <l>Goda Astarto il suo trono;</l>
+            <l>e ciò che pria fu dono, or sia dovere.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>E tu meco il godrai. Ceda il tuo zelo,</l>
+            <l>Fenicio, all’amor mio.</l>
+          </sp>
+          <sp who="#fenicio">
+            <speaker>FENICIO:</speaker>
+            <l>Sinché ‘l padre io fingea, sai ciò ch’io dissi.</l>
+            <l>Or che vassallo io sono, al re m’inchino.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>In Astarto si perde il mio Clearco.</l>
+          </sp>
+          <sp who="#elisa e clearco">
+            <speaker>ELISA E CLEARCO:</speaker>
+            <l>Pur sarai mio, dolce mio ben.</l>
+            <l>(Agenore sopraggiunge con Nino)</l>
+          </sp>
+          <stage>ELISA E CLEARCOPur sarai mio, dolce mio ben.(Agenore sopraggiunge con Nino)</stage>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Che miro?</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Astarto, e non Clearco in sen d’Elisa.</l>
+          </sp>
+          <sp who="#agenore">
+            <speaker>AGENORE:</speaker>
+            <l>Cedo al mio re l’amore, e ‘l fasto ei regni,</l>
+            <l>e ‘l mio fallo perdoni. Il foglio io finsi,</l>
+            <l>che traditor di Elisa a lei ti espose.</l>
+          </sp>
+          <sp who="#clearco">
+            <speaker>CLEARCO:</speaker>
+            <l>Han le colpe di amor facil perdono.</l>
+            <l>Nino, sia tua Sidonia.</l>
+          </sp>
+          <sp who="#sidonia">
+            <speaker>SIDONIA:</speaker>
+            <l>Or la mia stella intendo. A te mi dono.</l>
+          </sp>
+          <sp who="#nino">
+            <speaker>NINO:</speaker>
+            <l>E fra gli amanti il più contento io sono.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Se ha per guida la costanza,</l>
+            <l>è felice la speranza,</l>
+            <l>e contento amor si vede.</l>
+            <l>Il piacer, che dell’affetto</l>
+            <l>è l’oggetto,</l>
+            <l>premio ancora è della fede.</l>
+            <l>Se ha per guida la costanza,</l>
+            <l>è felice la speranza,</l>
+            <l>e contento amor si vede.</l>
+          </sp>
+          <stage>Fine del libretto.</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

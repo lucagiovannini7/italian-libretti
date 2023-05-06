@@ -1,0 +1,757 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">uditha triumphans</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="vagaus">
+            <persName>VAGAUS:</persName>
+          </person>
+          <person xml:id="chorus">
+            <persName>CHORUS:</persName>
+          </person>
+          <person xml:id="pars altera">
+            <persName>PARS ALTERA:</persName>
+          </person>
+          <person xml:id="abra">
+            <persName>ABRA:</persName>
+          </person>
+          <person xml:id="holofernes">
+            <persName>HOLOFERNES:</persName>
+          </person>
+          <person xml:id="ozias">
+            <persName>OZIAS:</persName>
+          </person>
+          <person xml:id="juditha">
+            <persName>JUDITHA:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#chorus">
+        <speaker>CHORUS:</speaker>
+        <l>(militum pugnantium in acie cum timpano bellico)</l>
+        <l>Arma, caedes, vindictae, furores,</l>
+        <l>Angustiae, timores</l>
+        <l>Precedite nos.</l>
+        <l>Rotate,</l>
+        <l>Pugnate</l>
+        <l>O bellicae sortes,</l>
+        <l>Mille plagas,</l>
+        <l>Mille mortes</l>
+        <l>Adducite vos.</l>
+      </sp>
+      <stage>CHORUS(militum pugnantium in acie cum timpano bellico)Arma, caedes, vindictae, furores,Angustiae, timoresPrecedite nos.Rotate,PugnateO bellicae sortes,Mille plagas,Mille mortesAdducite vos.</stage>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Felix en fausta dies</l>
+        <l>O Magnanimi Eroes en fortunati:</l>
+        <l>Prospera vobis sors, sydera, caelum:</l>
+        <l>En post saecula tandem</l>
+        <l>Venit optata lux, lux suspirata,</l>
+        <l>Qua magni in vestro Duce,</l>
+        <l>Qua Dux Magnus in vobis:</l>
+        <l>Cunctis aequa</l>
+        <l>Erit tandem Victoria,</l>
+        <l>Et vestro invicto Regi</l>
+        <l>Honor, et gloria.</l>
+        <l>Nil arma, nil bella,</l>
+        <l>Nil fiamma furoris</l>
+        <l>Si cor bellatoris</l>
+        <l>Est cadens in se.</l>
+        <l>Si pugnat sperando,</l>
+        <l>Iam virtus pugnando</l>
+        <l>Vigescit in spe.</l>
+      </sp>
+      <sp who="#vagaus">
+        <speaker>VAGAUS:</speaker>
+        <l>Mi Dux, Domine mi…</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Et quid ne petis?</l>
+      </sp>
+      <sp who="#vagaus">
+        <speaker>VAGAUS:</speaker>
+        <l>Felicitatis tuae Nuncius accedo.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Quidne fausti tu refers?</l>
+      </sp>
+      <sp who="#vagaus">
+        <speaker>VAGAUS:</speaker>
+        <l>Nil nisi Gloriae tuae grande incrementum,</l>
+        <l>Et vere oculis tuis dulce portentum.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Dic.</l>
+      </sp>
+      <sp who="#vagaus">
+        <speaker>VAGAUS:</speaker>
+        <l>Matrona inimica</l>
+        <l>Te quaerit ad arma</l>
+        <l>Dux magne Holofernes.</l>
+        <l>Et cito deh, credas,</l>
+        <l>Tibi erit amica</l>
+        <l>Si lumina cernes.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Huc accedat Matrona,</l>
+        <l>Et sit armorum Marti ebrea Bellona.</l>
+        <l>In Bethulia vilescunt</l>
+        <l>Hostes miseri Egeni: undique luctus</l>
+        <l>Saevus undique clamor.</l>
+        <l>Hic anhelat,</l>
+        <l>Hic gemit, ille plorat,</l>
+        <l>Dolent omnes;</l>
+        <l>Nil nisi timor, nil nisi maerentium</l>
+        <l>Ignavia, desperatio, aflictio, inopia,</l>
+        <l>Et lacrimarum copia.</l>
+      </sp>
+      <sp who="#vagaus">
+        <speaker>VAGAUS:</speaker>
+        <l>Veni Foemina illustris,</l>
+        <l>Pulcra Bellatrix huc,</l>
+        <l>Lumine, et pede</l>
+        <l>Videntes feri,</l>
+        <l>Et generosa accede</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Quo cum Patriae me ducit amore</l>
+        <l>Libertatis dulcissima spes,</l>
+        <l>Summo ductus a caeli fulgore</l>
+        <l>Tuto pergat per classica pes.</l>
+      </sp>
+      <sp who="#abra">
+        <speaker>ABRA:</speaker>
+        <l>Ne timeas non, laetare</l>
+        <l>Casta Vidua dilecta</l>
+        <l>Certa virtutis tuae munera expecta.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Nil morae. Ad Holofernem</l>
+        <l>Me ducite benigni</l>
+        <l>Duces bellici honoris,</l>
+        <l>Pacis en nuntia venio, et non furoris.</l>
+      </sp>
+      <sp who="#vagaus">
+        <speaker>VAGAUS:</speaker>
+        <l>O quam vaga, venusta, o quam decora,</l>
+        <l>Ospes nostrae victoriae unica, et vera.</l>
+      </sp>
+      <sp who="#chorus">
+        <speaker>CHORUS:</speaker>
+        <l>(adstantium militum)</l>
+        <l>O quam vaga, venusta, etc…</l>
+      </sp>
+      <sp who="#vagaus">
+        <speaker>VAGAUS:</speaker>
+        <l>Tentoria vultu tuo</l>
+        <l>Ducis honora</l>
+        <l>Et cuncta ab Holoferne</l>
+        <l>Attende, et spera.</l>
+      </sp>
+      <sp who="#chorus">
+        <speaker>CHORUS:</speaker>
+        <l>Tentoria vultu tuo, etc…</l>
+      </sp>
+      <sp who="#vagaus">
+        <speaker>VAGAUS:</speaker>
+        <l>Quem vides prope, aspectu</l>
+        <l>Terribili, et suavi,</l>
+        <l>Quem quaeris, ipse hic est:</l>
+        <l>Amore, et fide,</l>
+        <l>In ipso pulcra Sion</l>
+        <l>Spera, et confida.</l>
+        <l>Quamvis ferro, et ense gravis</l>
+        <l>Dulcis tamen et suavis</l>
+        <l>Pro te Dux erit, o bella.</l>
+        <l>Tibi tua tu sors et fatum,</l>
+        <l>Nec per te fremit iratum,</l>
+        <l>Tua pupilla fit tua stella.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Quid cerno! Oculi mei</l>
+        <l>Stupidi quid videtis!</l>
+        <l>Solis, an caeli splendor!</l>
+        <l>Ah summae prolis</l>
+        <l>Vincunt lumina sua lumina solis.</l>
+        <l>Sistite, viatrici</l>
+        <l>Preparate Trophea, spargite flores,</l>
+        <l>Et obvient Dive suae teneri Amores.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Summe Rex, strenue miles,</l>
+        <l>Nabuc Regis cor, cuius in manu</l>
+        <l>Stat suprema potestas, nutui cuius</l>
+        <l>Fortuna, et sors obedit,</l>
+        <l>Et cuncta iura sua gloria concedit.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>O quam pulcrior in pulcro</l>
+        <l>Virtus est ore sonans! Quidnam petis,</l>
+        <l>Suavissima supplex?</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Non mihi, Patriae meae</l>
+        <l>Spem salutis exoro,</l>
+        <l>Et sic Bethuliae a te pacem imploro.</l>
+        <l>Quanto magis generosa,</l>
+        <l>Plus victori gloriosa</l>
+        <l>Venia vieto magis cara.</l>
+        <l>O quam pulcra tua potentia</l>
+        <l>Illustrata tua clementia!</l>
+        <l>Parce Dux, ac tolle amara.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Magna, o foemina petis,</l>
+        <l>Quae maxima, si dentur!</l>
+        <l>Majora sed a me tibi debentur.</l>
+        <l>Otimpana silete,</l>
+        <l>Recedite o Phalanges,</l>
+        <l>Cedite amori meo, cedite invictae</l>
+        <l>Faces, tela, sagittae,</l>
+        <l>Et vos bellica in campo impia tormenta</l>
+        <l>Estote in gaudio meo nova contenta.</l>
+        <l>Hic sede amica mea.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Non tantus honor</l>
+        <l>Tuae famulae donetur.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Tu me honoras.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Te colo.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Sedeas hic.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Non debeo, non.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Sic jubeo, et volo.</l>
+        <l>Sede, o cara,</l>
+        <l>Dilecta speciosa</l>
+        <l>Mea vivida rosa,</l>
+        <l>Mea fulgida fax.</l>
+        <l>Tu Marti triumphanti,</l>
+        <l>Tu bellico amanti</l>
+        <l>Pulcherrima Pax.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Tu Judex es, tu Dominus, tu potens</l>
+        <l>In exercitu tanto,</l>
+        <l>Et tuae dextrae victrici</l>
+        <l>Semper aspectu sint astra felici</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Felix per te,</l>
+        <l>Magisque felix ero,</l>
+        <l>Si dum sepulta manet</l>
+        <l>Lux Apollinis unda,</l>
+        <l>Mete dignum</l>
+        <l>In convivio tu reddas,</l>
+        <l>Ut melius pacis nostrae amatae, et carae,</l>
+        <l>Solemnia tecum possim celebrare.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Inter convivia, et dapes</l>
+        <l>Torpescent labia mea</l>
+        <l>In jeiunio assueta:</l>
+        <l>Tristis, nec unquam laeta</l>
+        <l>In eduliis astricta</l>
+        <l>Nescia est delitiae tantae anima afflicta.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Agitata infido fatu</l>
+        <l>Diu volatu</l>
+        <l>Vagabundo</l>
+        <l>Maesta hirundo</l>
+        <l>It plorando</l>
+        <l>Boni ignara.</l>
+        <l>Sed impulsu aurae serenae</l>
+        <l>Tantae cito oblita poenae</l>
+        <l>In dilecta</l>
+        <l>Dulcia tecta</l>
+        <l>Gaudii ridet haud avara.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>In tentorio supernae</l>
+        <l>Sint in ordine coenae.</l>
+        <l>Quid, quid natat in Ponto,</l>
+        <l>Quid, quid in Caelo, et terra nutrit</l>
+        <l>Ne sit legere grave.</l>
+        <l>Hinc nostrae Reginae,</l>
+        <l>Cui Vagae, tu deservies,</l>
+        <l>Sit cretensis Lyei donum suave.</l>
+      </sp>
+      <sp who="#vagaus">
+        <speaker>VAGAUS:</speaker>
+        <l>O servi volate,</l>
+        <l>Et Domino meo</l>
+        <l>Vos mensas parate</l>
+        <l>Si proxima nox.</l>
+        <l>Invicto Holoferni</l>
+        <l>Cantemus alterni,</l>
+        <l>Honoris, amonis</l>
+        <l>Sit consona nox [vox].</l>
+      </sp>
+      <sp who="#chorus">
+        <speaker>CHORUS:</speaker>
+        <l>Honoris, amoris, etc…</l>
+      </sp>
+      <sp who="#vagaus">
+        <speaker>VAGAUS:</speaker>
+        <l>Tu quoque hebraica ancilla</l>
+        <l>In nostro gaudio tanto</l>
+        <l>Eris in corde tuo laeta, et tranquilla.</l>
+      </sp>
+      <sp who="#abra">
+        <speaker>ABRA:</speaker>
+        <l>Quam audacter discurrit</l>
+        <l>Non minus servus suo Domino nequam.</l>
+        <l>Properemus Juditha: ubique semper</l>
+        <l>Tecum sperans in Caelis</l>
+        <l>Ero Dominae meae socia fidelis.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Veni, veni, me sequere fida</l>
+        <l>Abra amata,</l>
+        <l>Sponso orbata.</l>
+        <l>Turtur gemo ac spiro in te.</l>
+        <l>Dirae sortis tu socia confida</l>
+        <l>Debellata</l>
+        <l>Sorte ingrata,</l>
+        <l>Sociam laetae habebis me.</l>
+      </sp>
+      <sp who="#abra">
+        <speaker>ABRA:</speaker>
+        <l>Venio Juditha, venio: animo fave,</l>
+        <l>Amori crede tuo nil erit grave.</l>
+        <l>Fulgeat sol frontis decorae,</l>
+        <l>Et afflictae abeat Aurorae</l>
+        <l>Rosa vaga tua pupilla.</l>
+        <l>Ama, langue, finge ardere</l>
+        <l>Nostrae sorti si favore</l>
+        <l>Potest una tua favilla.</l>
+        <l>In Urbem interim pia</l>
+        <l>Incertas audi voces, aura levis</l>
+        <l>Fert murmur voti</l>
+        <l>Et gloriae, credo, tuae.</l>
+        <l>Gemunt et orant una</l>
+        <l>Virgines Juda, incertae sortis suae.</l>
+      </sp>
+      <sp who="#chorus">
+        <speaker>CHORUS:</speaker>
+        <l>(Virginum psalentium in Bethulia)</l>
+        <l>Mundi Rector de Caelo micanti</l>
+        <l>Audi preces, et suscipe vota</l>
+        <l>Quae de corde pro te dimicanti</l>
+        <l>Sunt pietatis in sinu devota.</l>
+        <l>In Juditha tuae legi dicata</l>
+        <l>Flammas dulcis tui amoris accende</l>
+        <l>Feritatis sic hostis domata In</l>
+        <l>Bethuliae spem pacis intende.</l>
+        <l>Redi, redi iam Victrix pugnando</l>
+        <l>In cilicio in prece revive</l>
+        <l>De Holoferne sic hodie triumphando</l>
+        <l>Pia Juditha per saecula vive.</l>
+      </sp>
+      <stage>CHORUS(Virginum psalentium in Bethulia)Mundi Rector de Caelo micantiAudi preces, et suscipe votaQuae de corde pro te dimicantiSunt pietatis in sinu devota.In Juditha tuae legi dicataFlammas dulcis tui amoris accendeFeritatis sic hostis domata InBethuliae spem pacis intende.Redi, redi iam Victrix pugnandoIn cilicio in prece reviveDe Holoferne sic hodie triumphandoPia Juditha per saecula vive.</stage>
+      <stage>(Finis prioris partis)</stage>
+      <sp who="#pars altera">
+        <speaker>PARS ALTERA:</speaker>
+      </sp>
+      <sp who="#ozias">
+        <speaker>OZIAS:</speaker>
+        <l>Summi Regis in mente</l>
+        <l>Mihi sunt alta arcana: hostis Tyranni,</l>
+        <l>Bellatoris iniqui</l>
+        <l>Prope, caelo favente,</l>
+        <l>Fata extrema prevideo.</l>
+        <l>Deus Abraam</l>
+        <l>Exercitum  Deus es, potens in bello,</l>
+        <l>Tuo nomini inimicam</l>
+        <l>Virtute dexterae tuae dissipa Gentem.</l>
+        <l>Te supplices precamur:</l>
+        <l>Tibi gloria</l>
+        <l>Sit diligentium te nova victoria.</l>
+        <l>O Sydera, o stellae,</l>
+        <l>Cum luna cadenti</l>
+        <l>Estote facellae</l>
+        <l>In hostem ferales.</l>
+        <l>Cum nocte felici</l>
+        <l>Ruant impii inimici,</l>
+        <l>Et sole surgenti</l>
+        <l>Sint luces mortales.</l>
+        <l>Jam saevientis in hostem</l>
+        <l>Castae nostrae Judithae</l>
+        <l>Gratae sunt Caelo preces, triumphando</l>
+        <l>Ad nos cito redibit,</l>
+        <l>Et Duce ablato ria gens peribit.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Nox in umbra dum surgit,</l>
+        <l>Radiante in mare sol lumino cadit;</l>
+        <l>Sed tu pulcra Juditha</l>
+        <l>Luminose mi sol in caeco orrore</l>
+        <l>Resurgis coram me vivido ardore.</l>
+        <l>Nox obscura tenebrosa</l>
+        <l>Per te ridet luminosa</l>
+        <l>Miro fulgida splendore.</l>
+        <l>Neque lucis novae Aurora</l>
+        <l>Tam superba tam decora</l>
+        <l>Vieta tuo surget splendore.</l>
+        <l>Belligerae meae sorti,</l>
+        <l>Quaeso, o cara condona:</l>
+        <l>Haec numine conviva</l>
+        <l>Non sunt fercula digna.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Magnitudinis tuae bene sunt signa.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Magnum meum cor tu reddis,</l>
+        <l>Si amantem vultus tui iure me credis.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Nil nisi sui Factoris</l>
+        <l>In orbe a creatura</l>
+        <l>Est conservanda Imago.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Ad tantum cogis me vultu tuo vago.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Quid, quid splendet in ore</l>
+        <l>Est pulvis, umbra, nihil.</l>
+        <l>Transit aetas,</l>
+        <l>Volant anni,</l>
+        <l>Nostri damni</l>
+        <l>Causa sumus.</l>
+        <l>Vivit anima immortalis</l>
+        <l>Si vitalis</l>
+        <l>Amor, ignis, cuncta fumus.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Haec in crastinum serva: Ah, nimis vere</l>
+        <l>Esse ignem sentio amorem,</l>
+        <l>Si nimis sentio in me viscera ardere.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Tanti caloris aestum</l>
+        <l>Tempera strenue Dux, flammas evita…</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Uror…</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Longe ibo…</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>No, cara Juditha.</l>
+        <l>Noli o cara te adorantis</l>
+        <l>Voto Ducis non favere,</l>
+        <l>Et suspiria animae amantis</l>
+        <l>Satem disse non horrere.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Tibi dona salutis</l>
+        <l>Precor e Caelo Dux.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Prosit: bibendo</l>
+        <l>A te salutem spero,</l>
+        <l>Et si tu amabis me,</l>
+        <l>Tua salus ero.</l>
+      </sp>
+      <sp who="#chorus">
+        <speaker>CHORUS:</speaker>
+        <l>Plena nectare non mero</l>
+        <l>Aurea pocula almi amores</l>
+        <l>Myrto et rosis coronate.</l>
+        <l>Et in mutuo gaudio vero</l>
+        <l>Horum numinum ardores</l>
+        <l>Dulci flamma prosperate.</l>
+      </sp>
+      <sp who="#holofernes">
+        <speaker>HOLOFERNES:</speaker>
+        <l>Tormenta mentis tuae fugiant a corde,</l>
+        <l>Et calicem sumendo</l>
+        <l>Vivat gloria Judithae, et belli face</l>
+        <l>Extincta, amor per te vivat in pace.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Vivat in pace.</l>
+        <l>Et pax regnet sincera,</l>
+        <l>Et in Bethulia fax surgeat amoris.</l>
+        <l>In pace semper stat laetitia vera,</l>
+        <l>Nec amplius bella sint causa doloris.</l>
+        <l>In pace anima mea tu cuncta spera.</l>
+        <l>Si pax solatium est nostri moeroris.</l>
+        <l>In pace bone Deus cuncta tu facis,</l>
+        <l>Et cara tibi sunt munera pacis.</l>
+        <l>Sic in Pace inter hostes</l>
+        <l>Sit mea Patria inofensa.</l>
+        <l>Sed quid video! Holofernes</l>
+        <l>Accensus mero suo dormit in mensa!</l>
+        <l>Consurgam. Vestro Duci</l>
+        <l>Huc accurrite, o servi: huc Abra veni,</l>
+        <l>Hic in tentorio stantes,</l>
+        <l>Dum dormit inimicus</l>
+        <l>Precemur vere Deum nos vigilantes.</l>
+      </sp>
+      <sp who="#vagaus">
+        <speaker>VAGAUS:</speaker>
+        <l>Umbrae carae, aurae adoratae</l>
+        <l>Deh gratae</l>
+        <l>Spirate;</l>
+        <l>Si Dominus dormit</l>
+        <l>Stet tacita gens.</l>
+        <l>A cura tam gravi</l>
+        <l>in somno suavi</l>
+        <l>Sit placida mens.</l>
+        <l>Quae fortunata es tu vaga Matrona,</l>
+        <l>Quae de tam strenuo Duce triumphasti,</l>
+        <l>Et hostium domatorem tu domasti.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Faxit de Caelo Rex,</l>
+        <l>Reges qui regit,</l>
+        <l>Et cordi mei devota</l>
+        <l>Exaudiat pietas Dei suspiria et vota.</l>
+      </sp>
+      <sp who="#vagaus">
+        <speaker>VAGAUS:</speaker>
+        <l>Bene in thalamo quiescat,</l>
+        <l>Mensas tollo,</l>
+        <l>Et hic pulcra Juditha</l>
+        <l>Potes cum Duce tuo sola laetari,</l>
+        <l>Et poenas cordis tui tu consolari,</l>
+        <l>Sed huc ancilla venit,</l>
+        <l>Jam festinans discedo,</l>
+        <l>Et sic amori tuo locum concedo.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Bene venisti, o fida,</l>
+        <l>En tempus nostrae gloriae,</l>
+        <l>Et suspirata tandem hora victoriae.</l>
+      </sp>
+      <sp who="#abra">
+        <speaker>ABRA:</speaker>
+        <l>Cuncta fauste succedant,</l>
+        <l>Et tibi, o mea Juditha</l>
+        <l>Eris, et Patriae tuae,</l>
+        <l>Salus et vita.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Nil ultra: claude fores,</l>
+        <l>Impedi viatores,</l>
+        <l>Et caelesti fervore cor accende,</l>
+        <l>Et mox victricem me tacita attende.</l>
+      </sp>
+      <sp who="#abra">
+        <speaker>ABRA:</speaker>
+        <l>Non ita reducem</l>
+        <l>Progeniem noto</l>
+        <l>Raptam a gelido</l>
+        <l>Mater expectat,</l>
+        <l>Ut ego fervida</l>
+        <l>Expecto te.</l>
+        <l>Sed poena barbarae,</l>
+        <l>Et brevis morae</l>
+        <l>Animam nimium</l>
+        <l>Vexat amantem</l>
+        <l>Timore, et spe.</l>
+        <l>Jam pergo, postes claudo,</l>
+        <l>Et te nostra Eroina expecto et laudo.</l>
+      </sp>
+      <sp who="#juditha">
+        <speaker>JUDITHA:</speaker>
+        <l>Summe Astrorum Creator,</l>
+        <l>Qui de nihilo jam cuncta eduxisti,</l>
+        <l>Et tibi ut servi essemus</l>
+        <l>Ad imaginem tuam tu nos fecisti,</l>
+        <l>Clemens in Caelo Pater,</l>
+        <l>Potens in Mundo Deus,</l>
+        <l>Qui Jaheli victrici,</l>
+        <l>Qui Deborae pugnanti vim dedisti,</l>
+        <l>Adiuva nos in prece, et culpas tolle,</l>
+        <l>Et de forti tua dextra</l>
+        <l>Imbelli dextrae meae robur extolle.</l>
+        <l>In somno profundo</l>
+        <l>Si jacet immersus</l>
+        <l>Non amplius sit vigil</l>
+        <l>Qui dormit in te.</l>
+        <l>Quiescat exanguis,</l>
+        <l>Et sanguis</l>
+        <l>Sic exeat</l>
+        <l>Superbus in me.</l>
+        <l>Impii, indigni Tiranni</l>
+        <l>Conopeo hic apensum</l>
+        <l>Denudo ferrum, ictus tendo, infelicem</l>
+        <l>Ab Holofernis busto</l>
+        <l>Deus in nomine tuo scindo cervicem.</l>
+        <l>Salvete o pia tentoria</l>
+        <l>In vobis semper clara</l>
+        <l>Et caelo, et mundo sit alta victoria.</l>
+        <l>Abra, Abra, accipe munus,</l>
+        <l>In saculum repone, et fida ancilla</l>
+        <l>Me sequere, festina,</l>
+        <l>Et clemens extra castra</l>
+        <l>Tuto perducat nos dextra divina.</l>
+      </sp>
+      <sp who="#abra">
+        <speaker>ABRA:</speaker>
+        <l>Quid mihi? Oh mira res!</l>
+        <l>Diro Draconi</l>
+        <l>Tu caput obtruncasti,</l>
+        <l>Et simul una in uno omnes domasti.</l>
+        <l>Eamus cito eamus,</l>
+        <l>Et mille mille Deo gratias agamus.</l>
+        <l>Si fulgida per te</l>
+        <l>Propitia caeli fax</l>
+        <l>Si dulci anima spe</l>
+        <l>Refulsit alma pax,</l>
+        <l>Solum beato</l>
+        <l>Duci increato</l>
+        <l>Debetur nostra pax,</l>
+        <l>Et nostra gloria.</l>
+        <l>Dat illo cordi ardorem,</l>
+        <l>Ille dextrae vigorem,</l>
+        <l>Et manus donum suae</l>
+        <l>Nostra victoria</l>
+      </sp>
+      <sp who="#vagaus">
+        <speaker>VAGAUS:</speaker>
+        <l>Jam non procul ab axe</l>
+        <l>Est ascendens Aurora, undique rara</l>
+        <l>Caelo sydera micant: in tentorio</l>
+        <l>Pallet incerta lux: patet ingressus,</l>
+        <l>Neminem video.</l>
+        <l>Sed heu, heu, quid cerno?</l>
+        <l>Fusus undique sanguis!</l>
+        <l>Heu, quam horrendum visu!</l>
+        <l>Truncus Domini mai jacet exanguis.</l>
+        <l>Milites huc venite,</l>
+        <l>Surgite, o servi, excubiae non dormite.</l>
+        <l>Omnes perditi sumus:</l>
+        <l>Bethulia amissa, et Holofernes extincto.</l>
+        <l>Heu cuncti, cuncti miseri ploremus,</l>
+        <l>Et ducis nostri funus vindicemus.</l>
+        <l>Armatae face et anguibus</l>
+        <l>A caeco regno squallido</l>
+        <l>Furoris sociae barbari</l>
+        <l>Furiae venite ad nos.</l>
+        <l>Morte, flagello, stragibus</l>
+        <l>Vindictam tanti funeris</l>
+        <l>Irata nostra pectora</l>
+        <l>Duces docete vos.</l>
+      </sp>
+      <sp who="#ozias">
+        <speaker>OZIAS:</speaker>
+        <l>Quam insolita luce</l>
+        <l>Eois surgit ab oris</l>
+        <l>Floribus cincta suis roscida</l>
+        <l>Aurora! O quam ridet serena</l>
+        <l>Jucundo nobis dies lumine plena!</l>
+        <l>En venit tandem venit</l>
+        <l>(Eam a longe prospicio, ad eam curramus)</l>
+        <l>Venit Juditha venit,</l>
+        <l>Et Juditha triumphans. Filia electa</l>
+        <l>Quanto gaudio te amplector: Summe Deus</l>
+        <l>Exultat ecce in te spiritus meus.</l>
+        <l>Gaude felix</l>
+        <l>Bethulia letare</l>
+        <l>Consolare</l>
+        <l>Urbs nimis afflicta.</l>
+        <l>Caelo amata</l>
+        <l>Es fortunata</l>
+        <l>Inter hostes semper invicta.</l>
+        <l>Ita decreto aeterno</l>
+        <l>Veneti Maris Urbem</l>
+        <l>Inviolatam discerno,</l>
+        <l>Sic in Asia Holoferni impio tiranno</l>
+        <l>Urbs Virgo gratia Dei semper munita</l>
+        <l>Erit nova Juditha,</l>
+        <l>Et pro popolo suo Pastor orabit,</l>
+        <l>Et fidelis Ozias</l>
+        <l>Veram Bethuliae suae fidem servabit.</l>
+        <l>Eja Virgines Sion</l>
+        <l>Festinate cum gloria</l>
+        <l>In sperata victoria</l>
+        <l>Et pietatis in sinu</l>
+        <l>Cum Psalterio sonanti</l>
+        <l>Applaudite Judithae Triumphanti.</l>
+      </sp>
+      <sp who="#chorus">
+        <speaker>CHORUS:</speaker>
+        <l>(exultantium Virginum pro Judithae triumpho)</l>
+        <l>Salve invicta Juditha formosa</l>
+        <l>Patriae splendor spes nostrae salutis.</l>
+        <l>Summae norma tu vere virtutis</l>
+        <l>Eris semper in mundo gloriosa.</l>
+        <l>Debellato sic barbaro Trace</l>
+        <l>Triumphatrix sit Maris Regina.</l>
+        <l>Et placata sic ira divina</l>
+        <l>Adria vivat, et regnet in pace.</l>
+      </sp>
+      <stage>CHORUS(exultantium Virginum pro Judithae triumpho)Salve invicta Juditha formosaPatriae splendor spes nostrae salutis.Summae norma tu vere virtutisEris semper in mundo gloriosa.Debellato sic barbaro TraceTriumphatrix sit Maris Regina.Et placata sic ira divinaAdria vivat, et regnet in pace.</stage>
+    </body>
+  </text>
+</TEI>

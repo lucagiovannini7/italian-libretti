@@ -1,0 +1,2877 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">l convitato di pietra</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="atto terzo">
+            <persName>ATTO TERZO:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="corallina, arlechino, tiburzio e don giovanni">
+            <persName>CORALLINA, ARLECHINO, TIBURZIO E DON GIOVANNI:</persName>
+          </person>
+          <person xml:id="elisa">
+            <persName>ELISA:</persName>
+          </person>
+          <person xml:id="corallina">
+            <persName>CORALLINA:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="commendatore">
+            <persName>COMMENDATORE:</persName>
+          </person>
+          <person xml:id="tiburzio">
+            <persName>TIBURZIO:</persName>
+          </person>
+          <person xml:id="don alfonso">
+            <persName>DON ALFONSO:</persName>
+          </person>
+          <person xml:id="donn’anna">
+            <persName>DONN’ANNA:</persName>
+          </person>
+          <person xml:id="don giovanni">
+            <persName>DON GIOVANNI:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="atto primo">
+            <persName>ATTO PRIMO:</persName>
+          </person>
+          <person xml:id="lisetta">
+            <persName>LISETTA:</persName>
+          </person>
+          <person xml:id="corallina e tiburzio">
+            <persName>CORALLINA E TIBURZIO:</persName>
+          </person>
+          <person xml:id="arlechino">
+            <persName>ARLECHINO:</persName>
+          </person>
+          <person xml:id="coro di furie">
+            <persName>CORO DI FURIE:</persName>
+          </person>
+          <person xml:id="donn’isabella">
+            <persName>DONN’ISABELLA:</persName>
+          </person>
+          <person xml:id="ombrino">
+            <persName>OMBRINO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>DON GIOVANNI</castItem>
+        <castItem>ELISA</castItem>
+        <castItem>CORALLINA</castItem>
+        <castItem>DON ALFONSO</castItem>
+        <castItem>OMBRINO</castItem>
+        <castItem>TIBURZIO</castItem>
+        <castItem>ARLECHINO</castItem>
+        <castItem>DONN’ANNA</castItem>
+        <castItem>LISETTA</castItem>
+        <castItem>DONN’ISABELLA</castItem>
+        <castItem>COMMENDATORE</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>La scena è in Castiglia.Mutazioni di scene</stage>
+      <sp who="#atto primo">
+        <speaker>ATTO PRIMO:</speaker>
+        <l>– Spiaggia di mare deserta con alcune capanne pescarecce; due sassi avanti, un piccolo battello che si deve rompere, mare in burrasca.</l>
+        <l>– Appartamenti di Donn’Anna.</l>
+        <l>– Appartamenti di Don Alfonso.</l>
+        <l>– Cortile.</l>
+        <l>– Appartamenti di Donn’Anna.</l>
+        <l>– Magnifico giardino del commendatore con cancellate che servono di fortezza al palazzo, la porta del quale dovrà esser praticabile; avanti le dette cancellate seguita ancora lo stesso giardino con diversi sedili erbosi, e due urne, o siano vasi.</l>
+      </sp>
+      <sp who="#atto secondo">
+        <speaker>ATTO SECONDO:</speaker>
+        <l>– Cortile.</l>
+        <l>– Appartamenti di Don Alfonso.</l>
+        <l>– Atrio magnifico eretto per collocarvi la statua equestre del commendatore, quale si vedrà a cavallo sovra un magnifico, e grande piedestallo nel mezzo del quale a caratteri trasparenti saranno incise le seguenti parole:</l>
+        <l>«Di colui che mi trasse a morte ria: dal ciel n’attendo la vendetta mia.»</l>
+        <l>– Camera di locanda.</l>
+        <l>– Appartamenti di Don Alfonso.</l>
+        <l>– Magnifica sala con mensa imbandita.</l>
+      </sp>
+      <sp who="#atto terzo">
+        <speaker>ATTO TERZO:</speaker>
+        <l>– Atrio magnifico come nell’atto secondo, che a suo tempo si trasmuta nella stanza nera con due tavolini, con tappeto nero sovra uno de’ quali vi saranno due serpenti, ed altri mostri.</l>
+        <l>– Appartamenti di Don Alfonso.</l>
+        <l>– Infernale.</l>
+      </sp>
+      <div type="act">
+        <head>Atto primo</head>Scena primaSpiaggia di mare deserta con alcune capanne pescarecce.Molti Pescatori e Pescatrici intenti a pescare, e a tirare una grossa rete al lido.<div type="scene">
+          <head>Atto primo</head>Scena primaSpiaggia di mare deserta con alcune capanne pescarecce.Molti Pescatori e Pescatrici intenti a pescare, e a tirare una grossa rete al lido. <stage>Atto primoScena primaSpiaggia di mare deserta con alcune capanne pescarecce.Molti Pescatori e Pescatrici intenti a pescare, e a tirare una grossa rete al lido.</stage>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Tira… tira… Ecco che viene,</l>
+            <l>sono già le reti piene.</l>
+            <l>Che fortuna se si piglia</l>
+            <l>un’ombrina, o qualche triglia,</l>
+            <l>regalarla vo’ al mio ben.</l>
+            <l>(nel tempo del suddetto coro il mare comincia a turbarsi ed il giorno si va oscurando)</l>
+            <l>Tira… tira… il mar vien grosso!</l>
+            <l>Vedi un lampo!</l>
+            <l>Senti un tuono!</l>
+            <l>Lasciam tutto in abbandono</l>
+            <l>e si fugga via di qua.</l>
+            <l>Nel tempo sopradetto il temporale si va avanzando in maniera tale che li detti Pescatori vengono costretti ad abbandonare la pesca e ritirarsi nelle loro capanne.</l>
+            <l>Indi si vedono sovra un piccolo battello Don Giovanni, e Arlechino, i quali vengono dall’onde spinti con forza ad uno scoglio poco lontano dal lido, per il quale urto resta fracassato il battello, e li suddetti rimangono quasi sommersi.</l>
+            <l>Elisa che tutto ha visto dalla finestra sorte dalla capanna frettolosamente per darle soccorso, indi Ombrino con Pescatori e Pescatrici.</l>
+          </sp>
+          <stage>COROTira… tira… Ecco che viene,sono già le reti piene.Che fortuna se si pigliaun’ombrina, o qualche triglia,regalarla vo’ al mio ben.(nel tempo del suddetto coro il mare comincia a turbarsi ed il giorno si va oscurando)Tira… tira… il mar vien grosso!Vedi un lampo!Senti un tuono!Lasciam tutto in abbandonoe si fugga via di qua.Nel tempo sopradetto il temporale si va avanzando in maniera tale che li detti Pescatori vengono costretti ad abbandonare la pesca e ritirarsi nelle loro capanne.Indi si vedono sovra un piccolo battello Don Giovanni, e Arlechino, i quali vengono dall’onde spinti con forza ad uno scoglio poco lontano dal lido, per il quale urto resta fracassato il battello, e li suddetti rimangono quasi sommersi.Elisa che tutto ha visto dalla finestra sorte dalla capanna frettolosamente per darle soccorso, indi Ombrino con Pescatori e Pescatrici.</stage>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Pescatori dove siete</l>
+            <l>soccorriamo l’infelice,</l>
+            <l>che del mare fra gli orrori,</l>
+            <l>fra li vortici sonori</l>
+            <l>la sua vita perde già.</l>
+          </sp>
+          <sp who="#ombrino">
+            <speaker>OMBRINO:</speaker>
+            <l>Presto presto buona gente</l>
+            <l>una fune od un battello</l>
+            <l>ché si perde il meschinello</l>
+            <l>se di lui non s’ha pietà.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Soccorso… ohimè che moro!</l>
+          </sp>
+          <sp who="#ombrino">
+            <speaker>OMBRINO:</speaker>
+            <l>Già l’impeto dell’onde</l>
+            <l>gli vieta a queste sponde</l>
+            <l>potersi approssimar.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Già l’impeto dell’onde</l>
+            <l>gli vieta a queste sponde</l>
+            <l>potersi approssimar.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Già l’impeto dell’onde</l>
+            <l>mi vieta a queste sponde</l>
+            <l>potervi ora approdar.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Cieli! chi mai sarà?… uom d’alto affare</l>
+            <l>mi rassembra all’aspetto.</l>
+          </sp>
+          <sp who="#ombrino">
+            <speaker>OMBRINO:</speaker>
+            <l>Facciamol riposar su questo sasso.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Puote appena il meschin muovere il passo.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Aiuto!</l>
+          </sp>
+          <sp who="#ombrino">
+            <speaker>OMBRINO:</speaker>
+            <l>Un’altra voce</l>
+            <l>mi parve di sentire.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Forse sarà qualch’altro sventurato,</l>
+            <l>dall’impeto dell’onde qui gettato.</l>
+            <l>(tirano fuori Arlechino involto in una rete)</l>
+          </sp>
+          <stage>ELISAForse sarà qualch’altro sventurato,dall’impeto dell’onde qui gettato.(tirano fuori Arlechino involto in una rete)</stage>
+          <sp who="#ombrino">
+            <speaker>OMBRINO:</speaker>
+            <l>Ad aiutarlo andiamo.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Coraggio galantuomo.</l>
+          </sp>
+          <sp who="#ombrino">
+            <speaker>OMBRINO:</speaker>
+            <l>Prendete un po’ di fiato.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Lasciate di nuotare,</l>
+            <l>non v’è dubbio v’abbiate ad affogare.</l>
+          </sp>
+          <sp who="#ombrino">
+            <speaker>OMBRINO:</speaker>
+            <l>Riposate.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Sedete.</l>
+          </sp>
+          <sp who="#ombrino">
+            <speaker>OMBRINO:</speaker>
+            <l>Diteci almen, chi siete?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Un cavaliere.</l>
+          </sp>
+          <sp who="#ombrino">
+            <speaker>OMBRINO:</speaker>
+            <l>In questi arnesi!</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Veston tutti così ne’ miei paesi.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Conoscerebbe forse quest’altro sventurato?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>(Oh diavolo! Il padron!)</l>
+          </sp>
+          <sp who="#ombrino">
+            <speaker>OMBRINO:</speaker>
+            <l>Che cosa è stato?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Quest’è il nostro fratello mascolino.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Fratello!</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Sì signora fratello.</l>
+          </sp>
+          <sp who="#ombrino">
+            <speaker>OMBRINO:</speaker>
+            <l>Ma se voi siete brutto, e questo è bello?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Sono brunetto un poco</l>
+            <l>per una voglia ch’ebbe la mia madre</l>
+            <l>di ber la cioccolata.</l>
+            <l>E sul viso la macchia è a me restata.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Infelice ove son?</l>
+          </sp>
+          <sp who="#ombrino">
+            <speaker>OMBRINO:</speaker>
+            <l>I vostri casi</l>
+            <l>a noi già son palesi.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>E chi v’ha mai informato?</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Il fratel vostro qui da noi salvato.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Arlechino?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Signor?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Quest’è il mio servo.</l>
+          </sp>
+          <sp who="#ombrino">
+            <speaker>OMBRINO:</speaker>
+            <l>Ma se costui ci disse</l>
+            <l>esser vostro germano!</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Quest’è un buffone.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Ma come sior padrone?</l>
+            <l>Mi fate sputrefare</l>
+            <l>non vi volle nemen prendere il mare!</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Signore v’offerisco</l>
+            <l>tutto quello che posso.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Son grato al vostro amore.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Vi ringrazio ancor io di tutto core,</l>
+            <l>ma intanto si potrebbe riposare.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Precedimi.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Conducilo tu Ombrino</l>
+            <l>entro la mia capanna.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ARLECHINO</head>Non sempre la fortuna fu tiranna.(parte con Ombrino)Scena secondaDon Giovanni ed Elisa.<sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Non sempre la fortuna fu tiranna.</l>
+            <l>(parte con Ombrino)</l>
+            <l>Scena seconda</l>
+            <l>Don Giovanni ed Elisa.</l>
+          </sp>
+          <stage>ARLECHINONon sempre la fortuna fu tiranna.(parte con Ombrino)Scena secondaDon Giovanni ed Elisa.</stage>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>(Atta costei mi sembra a compensare</l>
+            <l>tutto quel che mi tolse a un tratto il mare.)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Che parlate fra voi?</l>
+            <l>Forse sdegnate i miei poveri doni?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ah no gl’apprezzo o cara, ma vorrei…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Cosa signor?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Quel vostro core…</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Eh non è tempo di parlar d’amore.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Al primo balenar de’ vostri sguardi,</l>
+            <l>io rimasi ferito.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Se creder vi potessi…</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>A voi prometto un’eterna costanza.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Impunemente.</l>
+            <l>Manchereste di fede a un’infelice.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Non sa tradir chi ha nobil sangue in seno.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Siete voi cavaliero?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Io nacqui tale, e tale morirò.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Il nome vostro?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Don Giovanni Tenorio.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>I vostri passi</l>
+            <l>dove or sono indirizzati?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Per inchinarmi al trono</l>
+            <l>del vostro re ch’alla Castiglia impera.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ah Don Giovanni!</l>
+            <l>Se non temessi</l>
+            <l>rimanere delusa…</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Io non saprei</l>
+            <l>come meglio accertarvi. ~ Ecco la mano.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Giurate.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Giuro al nume ch’al cielo, e al mondo impera.</l>
+            <l>Voi sarete mia sposa.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>E se mancate?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Cada un fulmin dal ciel, e l’alma infida</l>
+            <l>precipiti agli abissi.</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Ora vi credo, ecco la destra mia.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>(Amor pietoso quanto ti deggio mai!)</l>
+          </sp>
+          <sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>Che pensate tra voi?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Vo meditando le mie felicità.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ELISA</head>S’un cuor fedelepotrà farvi felice, in me l’avrete.(Ama donna ciascunapiù dell’amante suo la sua fortuna.)Amor tristarellovuol darmi martellocol farmi penar.Non voglio penaremio dolce visettovi vuò sempre amaree dentro il mio pettoscolpito v’avrò.M’avete capito?M’avete sentito?Quell’occhio, quel viso,la mano, quel piede,quel dolce sorriso,l’affetto, la fede,quell’occhio, quel ciglio,quel labro vermiglio,carino ben mioson tutti per me.(parte con Don Giovanni)Scena terzaAppartamenti di Donn’Anna.Donn’Anna, Don Alfonso, indi il Commendatore.<sp who="#elisa">
+            <speaker>ELISA:</speaker>
+            <l>S’un cuor fedele</l>
+            <l>potrà farvi felice, in me l’avrete.</l>
+            <l>(Ama donna ciascuna</l>
+            <l>più dell’amante suo la sua fortuna.)</l>
+            <l>Amor tristarello</l>
+            <l>vuol darmi martello</l>
+            <l>col farmi penar.</l>
+            <l>Non voglio penare</l>
+            <l>mio dolce visetto</l>
+            <l>vi vuò sempre amare</l>
+            <l>e dentro il mio petto</l>
+            <l>scolpito v’avrò.</l>
+            <l>M’avete capito?</l>
+            <l>M’avete sentito?</l>
+            <l>Quell’occhio, quel viso,</l>
+            <l>la mano, quel piede,</l>
+            <l>quel dolce sorriso,</l>
+            <l>l’affetto, la fede,</l>
+            <l>quell’occhio, quel ciglio,</l>
+            <l>quel labro vermiglio,</l>
+            <l>carino ben mio</l>
+            <l>son tutti per me.</l>
+            <l>(parte con Don Giovanni)</l>
+            <l>Scena terza</l>
+            <l>Appartamenti di Donn’Anna.</l>
+            <l>Donn’Anna, Don Alfonso, indi il Commendatore.</l>
+          </sp>
+          <stage>ELISAS’un cuor fedelepotrà farvi felice, in me l’avrete.(Ama donna ciascunapiù dell’amante suo la sua fortuna.)Amor tristarellovuol darmi martellocol farmi penar.Non voglio penaremio dolce visettovi vuò sempre amaree dentro il mio pettoscolpito v’avrò.M’avete capito?M’avete sentito?Quell’occhio, quel viso,la mano, quel piede,quel dolce sorriso,l’affetto, la fede,quell’occhio, quel ciglio,quel labro vermiglio,carino ben mioson tutti per me.(parte con Don Giovanni)Scena terzaAppartamenti di Donn’Anna.Donn’Anna, Don Alfonso, indi il Commendatore.</stage>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Sento un affanno in seno,</l>
+            <l>che sospirar mi fa.</l>
+            <l>Nel petto il cor vien meno,</l>
+            <l>numi che mai sarà?</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>State lieta Donn’Anna, ch’a momenti</l>
+            <l>il genitor s’appressa.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Signor talvolta il nostro cuor presago</l>
+            <l>è co’ palpiti suoi di sue sventure.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Tempo or non è di meditar sciagure.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Figlia ti stringo al seno…</l>
+            <l>Oh come lieto quivi voi rimiro!</l>
+            <l>Signor de’ siciliani il fiero orgoglio…</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Lo so fiaccaste, e ad impetrar perdono</l>
+            <l>de’ lor commessi errori</l>
+            <l>in Castiglia verranno i promotori.</l>
+            <l>Il nostro re desia che pertanto</l>
+            <l>pensiate a custodirvi</l>
+            <l>per sicurezza della sua corona.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Questa è troppa bontà.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Ei v’amò sempre,</l>
+            <l>ed or s’accresce in lui vieppiù l’amore,</l>
+            <l>perché s’aumenta in voi merto, e valore.</l>
+            <l>Per eternare il vostro nome</l>
+            <l>del tempo edace ad onta</l>
+            <l>equestre statua erigere vi fece,</l>
+            <l>e rese immune</l>
+            <l>l’atrio onorato dall’illustre marmo.</l>
+            <l>A vostra figlia scelse</l>
+            <l>uno sposo real</l>
+            <l>degno di voi, di lei,</l>
+            <l>la dote ei stesso le farà,</l>
+            <l>solo per me vi chiede</l>
+            <l>il paterno volere.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Puote il sovran disporre a suo piacere;</l>
+            <l>Donn’Anna udiste?</l>
+            <l>Della regia bontà del signor nostro</l>
+            <l>che vi par? Rispondete?</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Io lieta incontro il reale favore,</l>
+            <l>può sempre il re disporre del mio core.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Chi fia lo sposo?</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Il duca Ottavio</l>
+            <l>del sovrano nipote</l>
+            <l>vostro sposo sarà. Ma impallidite!</l>
+            <l>Fissate a terra i lumi!</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Simula per modestia, e il lieto annunzio</l>
+            <l>ch’altrui fora cagion di vano orgoglio,</l>
+            <l>rende il suo cor per riverenza umile.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Con voi se n’ resti; il suo desire al padre</l>
+            <l>può la figlia spiegar senza rossore.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Per me parlò abbastanza il genitore.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Signore al mio sovrano</l>
+            <l>favellate per me, disporre ei puote</l>
+            <l>come del sangue mio del mio volere.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>DON ALFONSO</head>Tutto il sovran saprà con suo piacere.(parte)Scena quartaCommendatore, e Donn’Anna.<sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Tutto il sovran saprà con suo piacere.</l>
+            <l>(parte)</l>
+            <l>Scena quarta</l>
+            <l>Commendatore, e Donn’Anna.</l>
+          </sp>
+          <stage>DON ALFONSOTutto il sovran saprà con suo piacere.(parte)Scena quartaCommendatore, e Donn’Anna.</stage>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>E che s’oppone alla vostra letizia?</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Ah non so dirlo…</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Aprite il vostro interno.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Staccarmi non saprei dal fianco vostro</l>
+            <l>senza un aspro dolore.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Conosco amata figlia il vostro amore,</l>
+            <l>ma è necessario</l>
+            <l>al destin inchinar umil la fronte.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Il destin nostro</l>
+            <l>da noi stessi facciamo;</l>
+            <l>non è tiranno il cielo, e de’ mortali</l>
+            <l>non usa mai l’arbitrio violentare.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Col genitor non s’ha da contrastare:</l>
+            <l>del duca Ottavio</l>
+            <l>la sposa voi sarete.</l>
+            <l>Se il vostro cor non acconsente al nodo,</l>
+            <l>il padre vostro faravvi acconsentir;</l>
+            <l>se in fiero sdegno, e in odio aspro, e spietato,</l>
+            <l>non vorrete veder l’amor cangiato.</l>
+            <l>Tutta dal mio volere</l>
+            <l>la sorte tua dipende,</l>
+            <l>e chi meco contende</l>
+            <l>più figlia mia non è.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>COMMENDATORECol genitor non s’ha da contrastare:del duca Ottaviola sposa voi sarete.Se il vostro cor non acconsente al nodo,il padre vostro faravvi acconsentir;se in fiero sdegno, e in odio aspro, e spietato,non vorrete veder l’amor cangiato.Tutta dal mio volerela sorte tua dipende,e chi meco contendepiù figlia mia non è.(parte)</stage>
+        </div>
+        <div type="scene">
+          <head>DONN’ANNA</head>Faccia mio padre tutto quello che può.Faccia il re stesso tutto quello che sa,non vuò, né il dico invano,all’odiato imeneo porger la mano.(parte)Scena quintaAppartamenti di Don Alfonso.Don Alfonso solo con foglio in mano.Don Giovanni Tenorio, il cui sfrenatoperfido cuor di mille colpe è reo,s’involò dalla patria, e seco il cuorel’empio portò d’una donzella illustre.Donn’Isabella unica figlia, e caradel duca d’Altomonte è quellache tradita rimase:or l’infelice sola siegue l’indegno,che sperando trovar scampo al delitto,ver Castiglia fuggì.S’ambi in poter del vostro re son giuntidateci pronto avviso.L’infelice donzella abbiate a cuore,fra’ lacci a noi spedite il traditore.Come in un nobil pettopuò darsi un cor sì fiero,e come un cavalierodi fede può mancar!La vilipesa dama,ch’è per amor fuggita,da me restituitaal genitor sarà.Tremi però l’indegno,vigliacco, mancatore,né speri il traditoredi ritrovar pietà.(parte)Scena sestaStrada con veduta della casa del Commendatore.Notte.Arlechino, indi Don Giovanni.<sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Faccia mio padre tutto quello che può.</l>
+            <l>Faccia il re stesso tutto quello che sa,</l>
+            <l>non vuò, né il dico invano,</l>
+            <l>all’odiato imeneo porger la mano.</l>
+            <l>(parte)</l>
+            <l>Scena quinta</l>
+            <l>Appartamenti di Don Alfonso.</l>
+            <l>Don Alfonso solo con foglio in mano.</l>
+            <l>Don Giovanni Tenorio, il cui sfrenato</l>
+            <l>perfido cuor di mille colpe è reo,</l>
+            <l>s’involò dalla patria, e seco il cuore</l>
+            <l>l’empio portò d’una donzella illustre.</l>
+            <l>Donn’Isabella unica figlia, e cara</l>
+            <l>del duca d’Altomonte è quella</l>
+            <l>che tradita rimase:</l>
+            <l>or l’infelice sola siegue l’indegno,</l>
+            <l>che sperando trovar scampo al delitto,</l>
+            <l>ver Castiglia fuggì.</l>
+            <l>S’ambi in poter del vostro re son giunti</l>
+            <l>dateci pronto avviso.</l>
+            <l>L’infelice donzella abbiate a cuore,</l>
+            <l>fra’ lacci a noi spedite il traditore.</l>
+            <l>Come in un nobil petto</l>
+            <l>può darsi un cor sì fiero,</l>
+            <l>e come un cavaliero</l>
+            <l>di fede può mancar!</l>
+            <l>La vilipesa dama,</l>
+            <l>ch’è per amor fuggita,</l>
+            <l>da me restituita</l>
+            <l>al genitor sarà.</l>
+            <l>Tremi però l’indegno,</l>
+            <l>vigliacco, mancatore,</l>
+            <l>né speri il traditore</l>
+            <l>di ritrovar pietà.</l>
+            <l>(parte)</l>
+            <l>Scena sesta</l>
+            <l>Strada con veduta della casa del Commendatore.</l>
+            <l>Notte.</l>
+            <l>Arlechino, indi Don Giovanni.</l>
+          </sp>
+          <stage>DONN’ANNAFaccia mio padre tutto quello che può.Faccia il re stesso tutto quello che sa,non vuò, né il dico invano,all’odiato imeneo porger la mano.(parte)Scena quintaAppartamenti di Don Alfonso.Don Alfonso solo con foglio in mano.Don Giovanni Tenorio, il cui sfrenatoperfido cuor di mille colpe è reo,s’involò dalla patria, e seco il cuorel’empio portò d’una donzella illustre.Donn’Isabella unica figlia, e caradel duca d’Altomonte è quellache tradita rimase:or l’infelice sola siegue l’indegno,che sperando trovar scampo al delitto,ver Castiglia fuggì.S’ambi in poter del vostro re son giuntidateci pronto avviso.L’infelice donzella abbiate a cuore,fra’ lacci a noi spedite il traditore.Come in un nobil pettopuò darsi un cor sì fiero,e come un cavalierodi fede può mancar!La vilipesa dama,ch’è per amor fuggita,da me restituitaal genitor sarà.Tremi però l’indegno,vigliacco, mancatore,né speri il traditoredi ritrovar pietà.(parte)Scena sestaStrada con veduta della casa del Commendatore.Notte.Arlechino, indi Don Giovanni.</stage>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Chi vuol passar il tempo senza pene,</l>
+            <l>le donne come i fiaschi amar conviene;</l>
+            <l>il fiasco per il vin da noi s’apprezza,</l>
+            <l>e la donna a cagion della bellezza,</l>
+            <l>ma poi finito quel, finita questa,</l>
+            <l>di più bramar per noi già più non resta.</l>
+            <l>Che bella discrezione</l>
+            <l>è quella del padrone,</l>
+            <l>voler che fermo stia</l>
+            <l>a far la sentinella</l>
+            <l>fintanto che non viene, oh questa è bella!</l>
+            <l>Il moccolo è finito,</l>
+            <l>e più non ci si vede,</l>
+            <l>me n’anderò bel bello…</l>
+            <l>E se il padrone viene, e non mi trova?</l>
+            <l>Bisognerà ch’aspetti ~ mi ricordo che disse</l>
+            <l>«Aspettami colà fino ch’io vengo,</l>
+            <l>e se qualcuno volesse contrastare</l>
+            <l>uccidilo»: mi voglio ora provare.</l>
+            <l>Per esempio se il nemico</l>
+            <l>mi tirasse una stoccata?</l>
+            <l>Ecco qua. L’ho riparata</l>
+            <l>senz’avermi a incomodar.</l>
+          </sp>
+          <stage>ARLECHINOChi vuol passar il tempo senza pene,le donne come i fiaschi amar conviene;il fiasco per il vin da noi s’apprezza,e la donna a cagion della bellezza,ma poi finito quel, finita questa,di più bramar per noi già più non resta.Che bella discrezioneè quella del padrone,voler che fermo stiaa far la sentinellafintanto che non viene, oh questa è bella!Il moccolo è finito,e più non ci si vede,me n’anderò bel bello…E se il padrone viene, e non mi trova?Bisognerà ch’aspetti ~ mi ricordo che disse«Aspettami colà fino ch’io vengo,e se qualcuno volesse contrastareuccidilo»: mi voglio ora provare.Per esempio se il nemicomi tirasse una stoccata?Ecco qua. L’ho riparatasenz’avermi a incomodar.</stage>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Chi va là!</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>(Quest’è il padrone,</l>
+            <l>zitto zitto voglio star.)</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Se non parli mascalzone</l>
+            <l>qui svenato hai da restar.</l>
+            <l>Fuori il ferro ah… ah… eh… ih… ah…</l>
+            <l>e non cedi! Il braccio mio</l>
+            <l>più resistere non sa.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>(Che grand’omo che son io</l>
+            <l>un eguale non si dà.)</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>(Costui invero ha gran valore,</l>
+            <l>e invincibile mi par.)</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Sono il vostro servitore</l>
+            <l>che vi stava ad aspettar.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ed osasti o vil poltrone,</l>
+            <l>di volermi trucidar.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Lei mi scusi mio padrone</l>
+            <l>che l’ho fatto per burlar.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Orsù della tua fede</l>
+            <l>vuò fare esperimento,</l>
+            <l>ascolta ben.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Parlate che ci sento.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Entra costì.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>All’oscuro!</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Non paventar, le scale</l>
+            <l>tu salirai bel bello,</l>
+            <l>e quando giunto</l>
+            <l>nella sala maggiore tu sarai,</l>
+            <l>se vegliano li servi osserverai;</l>
+            <l>da lungi, e di soppiatto</l>
+            <l>seguirò i passi tuoi,</l>
+            <l>un cenno sol mi basta,</l>
+            <l>una parola sola</l>
+            <l>che al lato tuo sarò.</l>
+            <l>Intendesti, Arlechino?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Signore no.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Non mi fare inquietare.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>E se venisse qualche bastonata?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Non v’è dubbio: cammina.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Oh sorte ingrata!</l>
+            <l>(entra)</l>
+          </sp>
+          <stage>ARLECHINOOh sorte ingrata!(entra)</stage>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Occasione più bella</l>
+            <l>sperar mai non potea</l>
+            <l>per vagheggiar di nuovo</l>
+            <l>di Donna Anna i bei lumi.</l>
+            <l>Il genitor austero</l>
+            <l>allor che fui in Castiglia un’altra volta</l>
+            <l>m’impediva sovente</l>
+            <l>il ragionar con lei:</l>
+            <l>la sua modestia era scopo a’ miei sguardi,</l>
+            <l>argine a’ miei desiri.</l>
+            <l>Ora ch’assente è il genitor severo</l>
+            <l>ridurla all’amor mio io non dispero.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Eh! Eh!</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Sei tu? Il cenno è questo.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Non si sente nessuno.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>DON GIOVANNI</head>Eccomi lesto.(entra)Scena settimaAppartamenti di Donn’Anna.Notte.Donn’Anna, e Lisetta.<sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Eccomi lesto.</l>
+            <l>(entra)</l>
+            <l>Scena settima</l>
+            <l>Appartamenti di Donn’Anna.</l>
+            <l>Notte.</l>
+            <l>Donn’Anna, e Lisetta.</l>
+          </sp>
+          <stage>DON GIOVANNIEccomi lesto.(entra)Scena settimaAppartamenti di Donn’Anna.Notte.Donn’Anna, e Lisetta.</stage>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Lasciami in pace.</l>
+          </sp>
+          <sp who="#lisetta">
+            <speaker>LISETTA:</speaker>
+            <l>E perché mai signora?</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Ho una smania nel sen che mi divora,</l>
+            <l>vanne tu a riposar, lasciami sola.</l>
+          </sp>
+          <sp who="#lisetta">
+            <speaker>LISETTA:</speaker>
+            <l>E non volete che vi venga a spogliar?</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Da me stessa il farò.</l>
+            <l>Non so trovar più pace,</l>
+            <l>qualcosa di funesto</l>
+            <l>presagisce il mio core.</l>
+          </sp>
+          <sp who="#lisetta">
+            <speaker>LISETTA:</speaker>
+            <l>Eh lasciate signora ogni timore.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Dammi il lume Lisetta,</l>
+            <l>di te per ora più bisogno non ho,</l>
+            <l>puoi andare a riposar.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>DONN’ANNADammi il lume Lisetta,di te per ora più bisogno non ho,puoi andare a riposar.(parte)</stage>
+        </div>
+        <div type="scene">
+          <head>LISETTA</head>Obbedirò.Scena ottavaArlechino, e detta.<sp who="#lisetta">
+            <speaker>LISETTA:</speaker>
+            <l>Obbedirò.</l>
+            <l>Scena ottava</l>
+            <l>Arlechino, e detta.</l>
+          </sp>
+          <stage>LISETTAObbedirò.Scena ottavaArlechino, e detta.</stage>
+          <sp who="#lisetta">
+            <speaker>LISETTA:</speaker>
+            <l>Povera mia padrona!</l>
+            <l>Oh quanto mi dispiace.</l>
+            <l>Perduta ha la sua pace,</l>
+            <l>che sì che l’indovino,</l>
+            <l>la tormenta un pochin qualche amorino.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>No che non c’è nessuno.</l>
+          </sp>
+          <sp who="#lisetta">
+            <speaker>LISETTA:</speaker>
+            <l>Aiuto!</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ignorantaccio non parlare.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>LISETTA</head>Oh poveretta me, gente è qui in sala!chi saranno? ah potessiqualcheduno chiamar: certo una vocemi parve di sentir in quel cantone;inganna qualche volta l’apprensione.Mi sento venir meno,mi sento inorridir.Mi batte il cor nel seno,mi sento già languir.Pian pianino me ne vo;ah trovassi almen la porta,per farla un po’ più cortaio di qua me n’anderò.(parte)Scena nonaMagnifico giardino del Commendatore con cancellate che servono di fortezza al palazzo, diversi sedili erbosi, e due urne. Luna che risplende.Don Giovanni, indi Arlechino.<sp who="#lisetta">
+            <speaker>LISETTA:</speaker>
+            <l>Oh poveretta me, gente è qui in sala!</l>
+            <l>chi saranno? ah potessi</l>
+            <l>qualcheduno chiamar: certo una voce</l>
+            <l>mi parve di sentir in quel cantone;</l>
+            <l>inganna qualche volta l’apprensione.</l>
+            <l>Mi sento venir meno,</l>
+            <l>mi sento inorridir.</l>
+            <l>Mi batte il cor nel seno,</l>
+            <l>mi sento già languir.</l>
+            <l>Pian pianino me ne vo;</l>
+            <l>ah trovassi almen la porta,</l>
+            <l>per farla un po’ più corta</l>
+            <l>io di qua me n’anderò.</l>
+            <l>(parte)</l>
+            <l>Scena nona</l>
+            <l>Magnifico giardino del Commendatore con cancellate che servono di fortezza al palazzo, diversi sedili erbosi, e due urne. Luna che risplende.</l>
+            <l>Don Giovanni, indi Arlechino.</l>
+          </sp>
+          <stage>LISETTAOh poveretta me, gente è qui in sala!chi saranno? ah potessiqualcheduno chiamar: certo una vocemi parve di sentir in quel cantone;inganna qualche volta l’apprensione.Mi sento venir meno,mi sento inorridir.Mi batte il cor nel seno,mi sento già languir.Pian pianino me ne vo;ah trovassi almen la porta,per farla un po’ più cortaio di qua me n’anderò.(parte)Scena nonaMagnifico giardino del Commendatore con cancellate che servono di fortezza al palazzo, diversi sedili erbosi, e due urne. Luna che risplende.Don Giovanni, indi Arlechino.</stage>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>No non m’inganno ~ è questo</l>
+            <l>di Donn’Anna l’adorato soggiorno;</l>
+            <l>che più si tarda?</l>
+            <l>Si rapisca, e si fugga.</l>
+            <l>A qual periglio mai</l>
+            <l>mi trascina l’amore!</l>
+            <l>Riflettere che giova?</l>
+            <l>Amor mi sprona, amor m’assisterà.</l>
+            <l>Tutto è in silenzio,</l>
+            <l>coraggio non mi manca;</l>
+            <l>del bene che mi porge or la fortuna,</l>
+            <l>abusarmi non vuò. Più miglior tempo</l>
+            <l>di questo non si trova,</l>
+            <l>del mio spirto or vuò far l’ultima prova.</l>
+            <l>Sento in seno un certo moto,</l>
+            <l>ch’a tremar già mi condanna,</l>
+            <l>questa pena oh dio m’affanna,</l>
+            <l>ma non cede il mio valor.</l>
+            <l>Qual orror! Pavento, e tremo…</l>
+            <l>Eh son vile a questo segno.</l>
+            <l>Fra l’amore, e fra lo sdegno</l>
+            <l>lacerarsi sento il cor.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>DON GIOVANNINo non m’inganno ~ è questodi Donn’Anna l’adorato soggiorno;che più si tarda?Si rapisca, e si fugga.A qual periglio maimi trascina l’amore!Riflettere che giova?Amor mi sprona, amor m’assisterà.Tutto è in silenzio,coraggio non mi manca;del bene che mi porge or la fortuna,abusarmi non vuò. Più miglior tempodi questo non si trova,del mio spirto or vuò far l’ultima prova.Sento in seno un certo moto,ch’a tremar già mi condanna,questa pena oh dio m’affanna,ma non cede il mio valor.Qual orror! Pavento, e tremo…Eh son vile a questo segno.Fra l’amore, e fra lo sdegnolacerarsi sento il cor.(parte)</stage>
+        </div>
+        <div type="scene">
+          <head>ARLECHINO</head>Giudizio sior padrone se non foss’ioche con la mia prudenzaregolassi quel strano amor bestiale,sarebbe di già andato allo spedale…Oh che fracasso,la quaglia è nella rete:se posso vo bel bellofar per l’istessa strada il ritornello.(parte)Scena decimaDonn’Anna, Don Giovanni, indi il Commendatore.<sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Giudizio sior padrone se non foss’io</l>
+            <l>che con la mia prudenza</l>
+            <l>regolassi quel strano amor bestiale,</l>
+            <l>sarebbe di già andato allo spedale…</l>
+            <l>Oh che fracasso,</l>
+            <l>la quaglia è nella rete:</l>
+            <l>se posso vo bel bello</l>
+            <l>far per l’istessa strada il ritornello.</l>
+            <l>(parte)</l>
+            <l>Scena decima</l>
+            <l>Donn’Anna, Don Giovanni, indi il Commendatore.</l>
+          </sp>
+          <stage>ARLECHINOGiudizio sior padrone se non foss’ioche con la mia prudenzaregolassi quel strano amor bestiale,sarebbe di già andato allo spedale…Oh che fracasso,la quaglia è nella rete:se posso vo bel bellofar per l’istessa strada il ritornello.(parte)Scena decimaDonn’Anna, Don Giovanni, indi il Commendatore.</stage>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Lasciami traditore,</l>
+            <l>con quale ardire penetrasti fin qui?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Taci.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Non lo sperare.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Vieni tosto con me.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Dove, in qual parte?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ragion non rendo a te del voler mio.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Padre?… Servi?… Lisetta?…</l>
+            <l>Un lume! Oh dio!</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>E il padre, e i servi,</l>
+            <l>e i numi stessi or tu li chiami invano,</l>
+            <l>seguimi.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Non voglio.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Con questo ferro…</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Che violenze son queste! Ah scellerato!</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>(Sono scoperto.) Vieni.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Ah padre amato!</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Don Giovanni! voi qui! figlia ch’avvenne?</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Ah padre è questi un empio, un traditore,</l>
+            <l>col ferro in mano</l>
+            <l>giunsemi a minacciare.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Uscite indegno fuor di queste soglie.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>(Pronto riparo adoperar conviene.)</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>I servi desterò: stelle! ove sono?</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>DONN’ANNAI servi desterò: stelle! ove sono?(parte)</stage>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Malnato cavalier, onta simile</l>
+            <l>vuol vendetta, vuol sangue…</l>
+            <l>Ohimè! spengesti il lume!</l>
+            <l>Fra le tenebre ancora</l>
+            <l>saprò passarti il core: vieni pure.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Son teco.</l>
+            <l>Si battono.</l>
+          </sp>
+          <stage>DON GIOVANNISon teco.Si battono.</stage>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Ah son ferito.</l>
+            <l>Torna barbaro torna… Ah non mi reggo…</l>
+            <l>Vieni vieni, ritorna a me d’appresso.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Chi è cagion del suo mal pianga sé stesso.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>COMMENDATORE</head>Dalle squarciate venescorre in più parti il sangue,il piè non mi sostiene.Cado… vacillo esangue…Figlia… più non m’ascolta!Servi?… li chiamo invano.Ah che crudele martoro:barbaro… figlia… io moro.(cade morto)Scena undicesimaDonn’Anna sola, indi Arlechino.<sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Dalle squarciate vene</l>
+            <l>scorre in più parti il sangue,</l>
+            <l>il piè non mi sostiene.</l>
+            <l>Cado… vacillo esangue…</l>
+            <l>Figlia… più non m’ascolta!</l>
+            <l>Servi?… li chiamo invano.</l>
+            <l>Ah che crudele martoro:</l>
+            <l>barbaro… figlia… io moro.</l>
+            <l>(cade morto)</l>
+            <l>Scena undicesima</l>
+            <l>Donn’Anna sola, indi Arlechino.</l>
+          </sp>
+          <stage>COMMENDATOREDalle squarciate venescorre in più parti il sangue,il piè non mi sostiene.Cado… vacillo esangue…Figlia… più non m’ascolta!Servi?… li chiamo invano.Ah che crudele martoro:barbaro… figlia… io moro.(cade morto)Scena undicesimaDonn’Anna sola, indi Arlechino.</stage>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Eccomi o genitor… Cieli! che miro!</l>
+            <l>Non respira! è già morto! Ah dov’è l’empio</l>
+            <l>barbaro feritor; crudo spietato</l>
+            <l>che ti fé l’infelice? Ah padre amato</l>
+            <l>questo tenero pianto il primo ufficio</l>
+            <l>sia della mia pietà ~ ma da me attendi</l>
+            <l>la più giusta vendetta.</l>
+            <l>Su questa mano invitta</l>
+            <l>l’infelice tua figlia a te lo giura.</l>
+            <l>Ah padre! amato padre! oh che sciagura!</l>
+            <l>Odio, furor, dispetto</l>
+            <l>dolor, rimorso e sdegno,</l>
+            <l>vengon nel punto estremo</l>
+            <l>tutti a squarciarmi il petto.</l>
+            <l>Ardo, deliro, e fremo,</l>
+            <l>ho cento smanie al cor,</l>
+            <l>venite o servi,</l>
+            <l>a vendicar venite</l>
+            <l>il caro genitor.</l>
+            <l>(s’incammina verso il palazzo)</l>
+          </sp>
+          <stage>DONN’ANNAEccomi o genitor… Cieli! che miro!Non respira! è già morto! Ah dov’è l’empiobarbaro feritor; crudo spietatoche ti fé l’infelice? Ah padre amatoquesto tenero pianto il primo ufficiosia della mia pietà ~ ma da me attendila più giusta vendetta.Su questa mano invittal’infelice tua figlia a te lo giura.Ah padre! amato padre! oh che sciagura!Odio, furor, dispettodolor, rimorso e sdegno,vengon nel punto estremotutti a squarciarmi il petto.Ardo, deliro, e fremo,ho cento smanie al cor,venite o servi,a vendicar veniteil caro genitor.(s’incammina verso il palazzo)</stage>
+        </div>
+        <div type="scene">
+          <head>ARLECHINO</head>Salva, salva. Meschin che brutto caso!Spero d’esser sicuro in questo vaso.Scena dodicesimaDonn’Anna, Lisetta, Servi e Serve del Commendatore con torce, ed armi, che sortono dal palazzo e s’avanzano.<sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Salva, salva. Meschin che brutto caso!</l>
+            <l>Spero d’esser sicuro in questo vaso.</l>
+            <l>Scena dodicesima</l>
+            <l>Donn’Anna, Lisetta, Servi e Serve del Commendatore con torce, ed armi, che sortono dal palazzo e s’avanzano.</l>
+          </sp>
+          <stage>ARLECHINOSalva, salva. Meschin che brutto caso!Spero d’esser sicuro in questo vaso.Scena dodicesimaDonn’Anna, Lisetta, Servi e Serve del Commendatore con torce, ed armi, che sortono dal palazzo e s’avanzano.</stage>
+          <sp who="#lisetta">
+            <speaker>LISETTA:</speaker>
+            <l>Chi è successo?</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Ch’è accaduto?</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Deh venite soccorrete.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Giusto ciel cos’ho veduto!</l>
+            <l>Non ho forza da parlar.</l>
+            <l>Sento che il sangue s’agita</l>
+            <l>e per le vene circola</l>
+            <l>un fuoco, un certo gelo,</l>
+            <l>e un tenebroso velo</l>
+            <l>toglie la luce al dì!</l>
+            <l>Ah non ho più ritegno,</l>
+            <l>predomina lo sdegno.</l>
+            <l>M’accende già il furor.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>E sento in tal momento</l>
+            <l>già lacerarmi il cor.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>ARLECHINO</head>E ticche, ticche, tocchemi va facendo il cor.Atto secondoScena primaStrada.Don Giovanni, Arlechino.<div type="scene">
+          <head>ARLECHINO</head>E ticche, ticche, tocchemi va facendo il cor.Atto secondoScena primaStrada.Don Giovanni, Arlechino.<sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>E ticche, ticche, tocche</l>
+            <l>mi va facendo il cor.</l>
+            <l>Atto secondo</l>
+            <l>Scena prima</l>
+            <l>Strada.</l>
+            <l>Don Giovanni, Arlechino.</l>
+          </sp>
+          <stage>ARLECHINOE ticche, ticche, tocchemi va facendo il cor.Atto secondoScena primaStrada.Don Giovanni, Arlechino.</stage>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ah destino crudele</l>
+            <l>a qual periglio mai tu mi guidasti!</l>
+            <l>Oh donne all’uom funeste</l>
+            <l>per la vostra beltà!</l>
+            <l>Reso omicida già mi sono per voi:</l>
+            <l>Donn’Anna irata vendetta chiederà,</l>
+            <l>vorrà vedermi oppresso il re sdegnato;</l>
+            <l>crudo perverso amor! Barbaro fato!</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>L’avete fatta bella,</l>
+            <l>oh che rumor! che caso! che spavento!</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Perciò, tu ti sgomenti!</l>
+            <l>Risoluzion ci vuole,</l>
+            <l>vanne al mio albergo;</l>
+            <l>e se qualcun colà di me cercasse</l>
+            <l>rispondi che partito</l>
+            <l>all’istante son io.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Senza pranzare?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>No: il mio pranzo colà fa’ preparare.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Ottimamente.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Indi ritorna a me, che qualche tempo</l>
+            <l>vuò nell’atrio celarmi</l>
+            <l>immune a’ delinquenti.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Io per me vi direi, signor padrone,</l>
+            <l>dopo aver fatto una buona mangiata,</l>
+            <l>di battere ben presto ritirata.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Lascia far partirem, ma è necessario</l>
+            <l>qualche tempo aspettar: vanne di volo,</l>
+            <l>non mi lasciar colà gran tempo.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>DON GIOVANNILascia far partirem, ma è necessarioqualche tempo aspettar: vanne di volo,non mi lasciar colà gran tempo.(parte)</stage>
+        </div>
+        <div type="scene">
+          <head>ARLECHINO</head>Va’, torna, resta,non mi ricordo nientedi quello che m’ha detto:sono scarso un pochino d’intelletto.(parte)Scena secondaAppartamenti di Don Alfonso.Donn’Isabella, e Don Alfonso.<sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Va’, torna, resta,</l>
+            <l>non mi ricordo niente</l>
+            <l>di quello che m’ha detto:</l>
+            <l>sono scarso un pochino d’intelletto.</l>
+            <l>(parte)</l>
+            <l>Scena seconda</l>
+            <l>Appartamenti di Don Alfonso.</l>
+            <l>Donn’Isabella, e Don Alfonso.</l>
+          </sp>
+          <stage>ARLECHINOVa’, torna, resta,non mi ricordo nientedi quello che m’ha detto:sono scarso un pochino d’intelletto.(parte)Scena secondaAppartamenti di Don Alfonso.Donn’Isabella, e Don Alfonso.</stage>
+          <sp who="#donn’isabella">
+            <speaker>DONN’ISABELLA:</speaker>
+            <l>Signor, Donn’Isabella unico germe</l>
+            <l>de’ duchi d’Altomonte a voi s’inchina,</l>
+            <l>e il favor vostro in suo soccorso implora.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Già tutto m’è palese o mia signora,</l>
+            <l>cura s’avrà di voi,</l>
+            <l>l’empio punito fra momenti sarà,</l>
+            <l>ad ogni costo il monarca sdegnato</l>
+            <l>vuole che paghi il fio</l>
+            <l>dell’enorme delitto</l>
+            <l>perché al Commendator ha il sen trafitto.</l>
+          </sp>
+          <sp who="#donn’isabella">
+            <speaker>DONN’ISABELLA:</speaker>
+            <l>Di tutto è ben capace</l>
+            <l>un mostro di perfidia:</l>
+            <l>di quanto che a mio pro farete ognora</l>
+            <l>vi renderà mercede il cielo ancora.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>DON ALFONSO</head>Olà, del reo si cerchida per tutte le parti; il re l’imponeche brama dare al mondo un giusto esempiocome punisca un traditore, un empio.(parte)Scena terzaAtrio con vari mausolei fra’ quali la statua del Commendatore.Don Giovanni, indi Donn’Anna.<sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Olà, del reo si cerchi</l>
+            <l>da per tutte le parti; il re l’impone</l>
+            <l>che brama dare al mondo un giusto esempio</l>
+            <l>come punisca un traditore, un empio.</l>
+            <l>(parte)</l>
+            <l>Scena terza</l>
+            <l>Atrio con vari mausolei fra’ quali la statua del Commendatore.</l>
+            <l>Don Giovanni, indi Donn’Anna.</l>
+          </sp>
+          <stage>DON ALFONSOOlà, del reo si cerchida per tutte le parti; il re l’imponeche brama dare al mondo un giusto esempiocome punisca un traditore, un empio.(parte)Scena terzaAtrio con vari mausolei fra’ quali la statua del Commendatore.Don Giovanni, indi Donn’Anna.</stage>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Sì questo luogo</l>
+            <l>mi servirà d’asilo, e quest’orrori</l>
+            <l>mi celeranno almeno</l>
+            <l>dalle ricerche altrui: ma più non posso</l>
+            <l>in piedi sostenermi;</l>
+            <l>almen per poco miei funesti pensieri</l>
+            <l>in pace mi lasciate,</l>
+            <l>e tregua a questo core un poco date.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Giacché non m’è vietato</l>
+            <l>che le lacrime mie versare possa</l>
+            <l>su quell’illustre, e venerato avello,</l>
+            <l>ombra del padre mio… stelle che miro!</l>
+            <l>Qui Don Giovanni! Ah non a caso i numi</l>
+            <l>me ‘l fecer ritrovare,</l>
+            <l>e come quel crudele</l>
+            <l>può ritrovar riposo!</l>
+            <l>Come il rimorso non trafigge il core</l>
+            <l>a questo mostro d’averno traditore!</l>
+            <l>Con questo ferro passerà il fellone</l>
+            <l>dal letargo alla morte…</l>
+            <l>Ma sarà grata</l>
+            <l>vittima così indegna al padre mio?</l>
+            <l>L’uccido? o no? ohimè che far degg’io?</l>
+            <l>Ombra del padre amato</l>
+            <l>dimmi, che vuoi da me?</l>
+            <l>Vuoi l’empio trucidato</l>
+            <l>vedere alli tuoi piè?</l>
+            <l>Parla! t’intendo appieno,</l>
+            <l>all’omicida il seno</l>
+            <l>a trapassare andrò.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ferma, che fai!</l>
+            <l>Estinto tu mi brami? ecco il mio seno,</l>
+            <l>meglio l’ira saziar così potrai.</l>
+            <l>Ecco il petto, ecco il sen, che tardi omai?</l>
+            <l>Morrò senza lo sfregio</l>
+            <l>d’una pubblica pena: ma rammenta</l>
+            <l>che la fiamma d’amor cieco mi rese,</l>
+            <l>e in quelli tuoi begl’occhi amor m’accese.</l>
+            <l>A un disperato per le tue ripulse</l>
+            <l>chi poteva porger freno, o consiglio:</l>
+            <l>venne in mal punto allora il padre armato,</l>
+            <l>e senza udir discolpe</l>
+            <l>al cimento m’indusse; io provocato</l>
+            <l>colpi vibrai dal mio voler non retti.</l>
+            <l>Fra le tenebre il ferro chi diriger potea?</l>
+            <l>Ah Donn’Anna pietà: ti sia a cuore</l>
+            <l>d’un sventurato amante, e vita, e onore.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Perfido. L’onor tuo a me chiedi?</l>
+            <l>E il mio chi mai difendere potrà</l>
+            <l>dall’ombra indegna?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Risarcir si potrebbe</l>
+            <l>s’a te la destra…</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Scellerato! a tanto</l>
+            <l>così meco t’avanzi; e ancor ti soffro!</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Al genitore oh cara il crudo sdegno</l>
+            <l>sacrificar tu déi,</l>
+            <l>non il sangue d’un reo che pietà chiede,</l>
+            <l>del pentimento mio ti faccian fede</l>
+            <l>queste lacrime mie dal duol spremute.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Al re tu déi,</l>
+            <l>non di femmina vil gittarti a i piedi.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Da’ labbri tuoi il mio destin dipende,</l>
+            <l>deh pronuncia crudel la mia sentenza,</l>
+            <l>condannami tu stessa.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Sorgi ti dico. (Ahimè qual dolce incanto,</l>
+            <l>è per me di costui la smania, e il pianto)</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>(comincia a impietosire)</l>
+            <l>Rivolgi a me uno sguardo,</l>
+            <l>per un momento soffri i mesti lumi,</l>
+            <l>d’un che languisce, e more solo per te.</l>
+          </sp>
+          <stage>DON GIOVANNI(comincia a impietosire)Rivolgi a me uno sguardo,per un momento soffri i mesti lumi,d’un che languisce, e more solo per te.</stage>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Un sguardo vuoi da me?</l>
+            <l>Forse tu speri con mentiti sospiri</l>
+            <l>d’ottenerne perdono?</l>
+            <l>(Ah che in mirarlo</l>
+            <l>in atto umil con sì bel pianto agl’occhi</l>
+            <l>si calma il mio furore.)</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ah Donn’Anna pietà.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Perfido cuore!</l>
+            <l>Volgiti a quella imago,</l>
+            <l>chiedi a quella pietà,</l>
+            <l>a quella spetta darti morte, o perdono.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ah Donn’Anna pietade del mio errore.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>DONN’ANNA</head>Non merita pietade un traditore.(parte)Scena quartaDon Giovanni, Arlechino.<sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Non merita pietade un traditore.</l>
+            <l>(parte)</l>
+            <l>Scena quarta</l>
+            <l>Don Giovanni, Arlechino.</l>
+          </sp>
+          <stage>DONN’ANNANon merita pietade un traditore.(parte)Scena quartaDon Giovanni, Arlechino.</stage>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Perfide stelle finito ho di sperar!</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>È preparato…</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>È la pietade terminata per me.</l>
+            <l>Un fulmine non v’è? v’è una saetta?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Andiamo sior padron ch’il cuoco aspetta.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>E perché da quel marmo</l>
+            <l>Commendator non vieni a subissarmi;</l>
+            <l>forse meno crudele</l>
+            <l>della figlia tu sei?</l>
+            <l>L’amoroso trasporto</l>
+            <l>forse perdoni a un infelice amante?</l>
+            <l>Per contrassegno almeno</l>
+            <l>d’un benigno perdono a me favella.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Oh questa sì ch’è bella.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Colà t’appressa, e da mia parte dille</l>
+            <l>che meco a pranzo il bramo.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Chi bramate con voi?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Il Commendator.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>La statua?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Sì.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Eh via!</l>
+            <l>(Per certo il mio padron dato ha in pazzia.)</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Vanne, non replicare.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>E cosa gl’ho da dir? come ho da fare?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Menco ciarle fa’ presto.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Signor Commendatore stimatissimo,</l>
+            <l>padrone colendissimo.</l>
+            <l>Il mio padron v’invita a desinare,</l>
+            <l>verrete sì o no?</l>
+            <l>Sì! oh poveretto me!</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Che cosa è stato?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Con il capo l’invito ha già accettato.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Dille che dal suo labbro</l>
+            <l>intendere io bramo.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Caro padron scusate,</l>
+            <l>non m’accosto più là se m’accoppate.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Commendatore, d’amistade in segno</l>
+            <l>alla mensa t’invito;</l>
+            <l>dal labbro tuo sapere ora lo vuò,</l>
+            <l>rispondi se t’aggrada?</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Sì verrò.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Ah mamma mia!</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Zitto: all’albergo torna,</l>
+            <l>e fa’ che raddoppiata</l>
+            <l>tosto la mensa sia,</l>
+            <l>a ognun celato</l>
+            <l>fa’ che sia il convitato:</l>
+            <l>io fra momenti colà mi porterò.</l>
+            <l>Hai tu capito?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ARLECHINO</head>Con tante cose sono già stordito.(parte)Scena quintaDon Giovanni solo.Don Giovanni che fai?A qual funesto passoti trasporta l’ardir! osi alla mensapassar il tempo in riso,e questo da te uccisobrami teco a mangiar! sogno? vaneggio?Ah che quel più non sono,ch’una volta già fui;sono un serpente, un demone, una furia.Oh dio il suol traballa,e una tetra caligineoffusca gl’occhi miei,immagini d’orroremi van girando intorno;ah che del mio morir è giunto il giorno!Par che dal cielo un fulminesul capo mi precipiti,turba di neri spiritiqua parmi di veder.Di qua Donn’Isabellami sgrida e mi minaccia.Elisa si martella,Donn’Anna mi rinfacciala sua tradita fé.Di là il Commendatoremi mostra il sen trafitto.Astrea col suo rigorerimprovera il delitto.Ah che nel mio cervelloho un foco, un Mongibello,un aspide, un serpente,che con l’acuto denteva lacerando il cor.(parte)Scena sestaCamera nella locanda.Arlechino, e Corallina.<sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Con tante cose sono già stordito.</l>
+            <l>(parte)</l>
+            <l>Scena quinta</l>
+            <l>Don Giovanni solo.</l>
+            <l>Don Giovanni che fai?</l>
+            <l>A qual funesto passo</l>
+            <l>ti trasporta l’ardir! osi alla mensa</l>
+            <l>passar il tempo in riso,</l>
+            <l>e questo da te ucciso</l>
+            <l>brami teco a mangiar! sogno? vaneggio?</l>
+            <l>Ah che quel più non sono,</l>
+            <l>ch’una volta già fui;</l>
+            <l>sono un serpente, un demone, una furia.</l>
+            <l>Oh dio il suol traballa,</l>
+            <l>e una tetra caligine</l>
+            <l>offusca gl’occhi miei,</l>
+            <l>immagini d’orrore</l>
+            <l>mi van girando intorno;</l>
+            <l>ah che del mio morir è giunto il giorno!</l>
+            <l>Par che dal cielo un fulmine</l>
+            <l>sul capo mi precipiti,</l>
+            <l>turba di neri spiriti</l>
+            <l>qua parmi di veder.</l>
+            <l>Di qua Donn’Isabella</l>
+            <l>mi sgrida e mi minaccia.</l>
+            <l>Elisa si martella,</l>
+            <l>Donn’Anna mi rinfaccia</l>
+            <l>la sua tradita fé.</l>
+            <l>Di là il Commendatore</l>
+            <l>mi mostra il sen trafitto.</l>
+            <l>Astrea col suo rigore</l>
+            <l>rimprovera il delitto.</l>
+            <l>Ah che nel mio cervello</l>
+            <l>ho un foco, un Mongibello,</l>
+            <l>un aspide, un serpente,</l>
+            <l>che con l’acuto dente</l>
+            <l>va lacerando il cor.</l>
+            <l>(parte)</l>
+            <l>Scena sesta</l>
+            <l>Camera nella locanda.</l>
+            <l>Arlechino, e Corallina.</l>
+          </sp>
+          <stage>ARLECHINOCon tante cose sono già stordito.(parte)Scena quintaDon Giovanni solo.Don Giovanni che fai?A qual funesto passoti trasporta l’ardir! osi alla mensapassar il tempo in riso,e questo da te uccisobrami teco a mangiar! sogno? vaneggio?Ah che quel più non sono,ch’una volta già fui;sono un serpente, un demone, una furia.Oh dio il suol traballa,e una tetra caligineoffusca gl’occhi miei,immagini d’orroremi van girando intorno;ah che del mio morir è giunto il giorno!Par che dal cielo un fulminesul capo mi precipiti,turba di neri spiritiqua parmi di veder.Di qua Donn’Isabellami sgrida e mi minaccia.Elisa si martella,Donn’Anna mi rinfacciala sua tradita fé.Di là il Commendatoremi mostra il sen trafitto.Astrea col suo rigorerimprovera il delitto.Ah che nel mio cervelloho un foco, un Mongibello,un aspide, un serpente,che con l’acuto denteva lacerando il cor.(parte)Scena sestaCamera nella locanda.Arlechino, e Corallina.</stage>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Ebbene Corallina</l>
+            <l>il pranzo sarà lesto?</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Fra una mezz’oretta</l>
+            <l>all’ordine sarà.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Bada che non vi sia nessun disordine.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Magnifico sarà non dubitare.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>(Mi voglio con costei un po’ spiegare.)</l>
+            <l>Parlare ti dovrei…</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Per parte di chi?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>D’un galantuomo.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Costui chi è? è bello, spiritoso?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Oh l’è un bell’omo,</l>
+            <l>ballotto, spiritoso, traccagnotto,</l>
+            <l>che veste a tutta moda,</l>
+            <l>civile, creanzato,</l>
+            <l>bello di viso, e nel parlar garbato.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Non lo conosco.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>E pur lui vi conosce,</l>
+            <l>è innamorato cotto.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Oh mi burlate!</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>E se sperar potesse</l>
+            <l>grata corrispondenza,</l>
+            <l>a voi si scoprirebbe.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Dirò: se mi piacesse</l>
+            <l>io forte l’amerei.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Oh cosa dice lei!</l>
+            <l>Lo vuol vedere adesso?</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Volentier lo vedrò.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Aspetti un pochettin, lo chiamerò.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>(Ingannata mi son, di lui non parla.)</l>
+            <l>Che istoria è questa mai!</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Ha visto?</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Chi?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Quel che per lei sospira.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>(Costui certo delira.)</l>
+            <l>Io non vidi che voi.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Ma…</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Siete voi quello?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Son io…</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Perché prima d’adesso</l>
+            <l>non avete parlato?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Sono un po’ vergognoso.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>(Oh quanto mai è grazioso!)</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>E così cosa dite?</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Dico…</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Via su parlate.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Anch’io son vergognosa.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Oh che gran bella cosa.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>In verità che mi date nel genio.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Siete fanciulla?</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Certo.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Ed io son putto ancora.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Non mi son maritata,</l>
+            <l>perché non ho trovato</l>
+            <l>chi nel genio mi dia.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Posso sperar d’urtar la simpatia?</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>In verità… basta… non vuò parlare.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Dunque… cosa farò?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORALLINA</head>Si può sperare.In quel tuo visettoleggiadro furbettoci veggo un so che.Intendi carino,mio caro Arlechinotu sai che cos’è.(partono insieme)Scena settimaAppartamenti di Don Alfonso.Donn’Anna, e Don Alfonso, indi Donn’Isabella.<sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Si può sperare.</l>
+            <l>In quel tuo visetto</l>
+            <l>leggiadro furbetto</l>
+            <l>ci veggo un so che.</l>
+            <l>Intendi carino,</l>
+            <l>mio caro Arlechino</l>
+            <l>tu sai che cos’è.</l>
+            <l>(partono insieme)</l>
+            <l>Scena settima</l>
+            <l>Appartamenti di Don Alfonso.</l>
+            <l>Donn’Anna, e Don Alfonso, indi Donn’Isabella.</l>
+          </sp>
+          <stage>CORALLINASi può sperare.In quel tuo visettoleggiadro furbettoci veggo un so che.Intendi carino,mio caro Arlechinotu sai che cos’è.(partono insieme)Scena settimaAppartamenti di Don Alfonso.Donn’Anna, e Don Alfonso, indi Donn’Isabella.</stage>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Ah signor se pietade in voi s’annida</l>
+            <l>castigate e punite l’omicida.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Figlia, che con tal nome io vuò chiamarvi,</l>
+            <l>per quel tenero amor, ch’a voi mi lega,</l>
+            <l>vendicata sarete.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Ah non lo spero.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Per ogni dove dalle guardie del re</l>
+            <l>è il reo cercato.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Lo vidi or or ne’ mausolei celato,</l>
+            <l>che prendeva riposo.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Ne’ mausolei l’indegno!</l>
+            <l>E tanto osò quel scellerato core?</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Volea l’iniquo</l>
+            <l>procurar di placarmi</l>
+            <l>inventando più scuse al suo delitto.</l>
+            <l>Ma se n’ fugge il ribaldo se tardate.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Di ciò non dubitate.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Vado frattanto</l>
+            <l>a sfogar da me sola il rio dolore.</l>
+            <l>Oh perdita crudel! ah genitore!</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>DONN’ANNAVado frattantoa sfogar da me sola il rio dolore.Oh perdita crudel! ah genitore!(parte)</stage>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Donn’Isabella io spero</l>
+            <l>di vendicarvi tosto.</l>
+          </sp>
+          <sp who="#donn’isabella">
+            <speaker>DONN’ISABELLA:</speaker>
+            <l>E sarà vero? oh ciel!</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Ve l’assicuro.</l>
+            <l>In luogo immune è l’empio rifugiato.</l>
+          </sp>
+          <sp who="#donn’isabella">
+            <speaker>DONN’ISABELLA:</speaker>
+            <l>E come dunque arrestarlo credete?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>DON ALFONSO</head>La cura a me lasciate, e lo vedrete.No, non andrà alla patria in lacci avvinto.Colà dovrà morire: all’atrio intornovegli un stuolo di guardie notte, e giorno.Fame l’ucciderà se non un ferro,e non vi sia ch’alimentarlo ardisca;e se ardisse qualcuno mai per sortecontraddir al comando, è reo di morte.Talora la clemenzagiova d’appresso al trono,ed il negar perdonotal volta è crudeltà.Ma a quello ch’ostinatodel fallo suo non si pente,è l’essere clementeun segno di viltà.(parte)Scena ottavaDonn’Isabella sola.Mora l’infido, sì mora… ma oh dèi!Par che vacilli in ria tempesta il core.Del mio funesto amorela crudel rimembranzagià mi ritorna in mente.Vorrei vederlo estinto, salvo pure lo bramo,e sento nel mio sen ch’ancor io l’amo.Misera me che dissi!S’asconda nel mio senol’aborrita mia fiamma,e sol s’accenda il cored’odio, vendetta, e d’un crudel furore.Ah sì, vedrammi estintail mio destin, non avvilita mai;andrò sola raminga,fuggitiva infelice. In tanti affanniah che più mi serbate astri tiranni!Mi sento nel senodal duolo tirannoche pieno d’affannomi palpita il cor.(parte)Scena nonaSala con tavola magnificamente addobbata.Don Giovanni, e Arlechino.<sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>La cura a me lasciate, e lo vedrete.</l>
+            <l>No, non andrà alla patria in lacci avvinto.</l>
+            <l>Colà dovrà morire: all’atrio intorno</l>
+            <l>vegli un stuolo di guardie notte, e giorno.</l>
+            <l>Fame l’ucciderà se non un ferro,</l>
+            <l>e non vi sia ch’alimentarlo ardisca;</l>
+            <l>e se ardisse qualcuno mai per sorte</l>
+            <l>contraddir al comando, è reo di morte.</l>
+            <l>Talora la clemenza</l>
+            <l>giova d’appresso al trono,</l>
+            <l>ed il negar perdono</l>
+            <l>tal volta è crudeltà.</l>
+            <l>Ma a quello ch’ostinato</l>
+            <l>del fallo suo non si pente,</l>
+            <l>è l’essere clemente</l>
+            <l>un segno di viltà.</l>
+            <l>(parte)</l>
+            <l>Scena ottava</l>
+            <l>Donn’Isabella sola.</l>
+            <l>Mora l’infido, sì mora… ma oh dèi!</l>
+            <l>Par che vacilli in ria tempesta il core.</l>
+            <l>Del mio funesto amore</l>
+            <l>la crudel rimembranza</l>
+            <l>già mi ritorna in mente.</l>
+            <l>Vorrei vederlo estinto, salvo pure lo bramo,</l>
+            <l>e sento nel mio sen ch’ancor io l’amo.</l>
+            <l>Misera me che dissi!</l>
+            <l>S’asconda nel mio seno</l>
+            <l>l’aborrita mia fiamma,</l>
+            <l>e sol s’accenda il core</l>
+            <l>d’odio, vendetta, e d’un crudel furore.</l>
+            <l>Ah sì, vedrammi estinta</l>
+            <l>il mio destin, non avvilita mai;</l>
+            <l>andrò sola raminga,</l>
+            <l>fuggitiva infelice. In tanti affanni</l>
+            <l>ah che più mi serbate astri tiranni!</l>
+            <l>Mi sento nel seno</l>
+            <l>dal duolo tiranno</l>
+            <l>che pieno d’affanno</l>
+            <l>mi palpita il cor.</l>
+            <l>(parte)</l>
+            <l>Scena nona</l>
+            <l>Sala con tavola magnificamente addobbata.</l>
+            <l>Don Giovanni, e Arlechino.</l>
+          </sp>
+          <stage>DON ALFONSOLa cura a me lasciate, e lo vedrete.No, non andrà alla patria in lacci avvinto.Colà dovrà morire: all’atrio intornovegli un stuolo di guardie notte, e giorno.Fame l’ucciderà se non un ferro,e non vi sia ch’alimentarlo ardisca;e se ardisse qualcuno mai per sortecontraddir al comando, è reo di morte.Talora la clemenzagiova d’appresso al trono,ed il negar perdonotal volta è crudeltà.Ma a quello ch’ostinatodel fallo suo non si pente,è l’essere clementeun segno di viltà.(parte)Scena ottavaDonn’Isabella sola.Mora l’infido, sì mora… ma oh dèi!Par che vacilli in ria tempesta il core.Del mio funesto amorela crudel rimembranzagià mi ritorna in mente.Vorrei vederlo estinto, salvo pure lo bramo,e sento nel mio sen ch’ancor io l’amo.Misera me che dissi!S’asconda nel mio senol’aborrita mia fiamma,e sol s’accenda il cored’odio, vendetta, e d’un crudel furore.Ah sì, vedrammi estintail mio destin, non avvilita mai;andrò sola raminga,fuggitiva infelice. In tanti affanniah che più mi serbate astri tiranni!Mi sento nel senodal duolo tirannoche pieno d’affannomi palpita il cor.(parte)Scena nonaSala con tavola magnificamente addobbata.Don Giovanni, e Arlechino.</stage>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Signor padrone è in tavola.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ah più che penso</l>
+            <l>scacciar dalla mia mente</l>
+            <l>i funesti pensieri,</l>
+            <l>più s’affacciano al cor lugubri, neri.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>La minestra patisce.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Il mangiare m’annoia,</l>
+            <l>disperato son io,</l>
+            <l>la morte, è il mio sollievo.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Un bel morir tutta la vita onora,</l>
+            <l>ma un bel mangiar salva la vita ancora.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Divertimi Arlechino,</l>
+            <l>solleva il tuo padrone.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Non faccio già il buffone.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Canta.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Prima di mangiare</l>
+            <l>è difficil che possa ben cantare.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Canta e poi mangerai.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Cosa devo cantar?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Quel che tu vuoi.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Qual cosa canterò.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Sì come puoi.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>«Padre, figlia. Siface.</l>
+            <l>Adorato mio re. Cara Mandane.</l>
+            <l>Ah genitor t’accheta.</l>
+            <l>Numi! stelle! comete!</l>
+            <l>Marzia, Fulvia, Ezio, Berenice.</l>
+            <l>E lei, signor Siface che ne dice?</l>
+            <l>È morto e più non vive il gran Catone»…</l>
+            <l>Io non ne so di più signor padrone.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>T’accheta ché son stanco</l>
+            <l>di soffrirti di più.</l>
+            <l>Si porti in tavola.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Subitamente.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>DON GIOVANNI</head>È folle chi dà mentea i spiriti, alle larve,sebbene pur mi parveche favellasse a me: con queste orecchiesentii le sue parole…Eh, talvolta succedech’a noi la fantasia sa travedere.Scena decimaArlechino, Tiburzio, Corallina, e Don Giovanni.<sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>È folle chi dà mente</l>
+            <l>a i spiriti, alle larve,</l>
+            <l>sebbene pur mi parve</l>
+            <l>che favellasse a me: con queste orecchie</l>
+            <l>sentii le sue parole…</l>
+            <l>Eh, talvolta succede</l>
+            <l>ch’a noi la fantasia sa travedere.</l>
+            <l>Scena decima</l>
+            <l>Arlechino, Tiburzio, Corallina, e Don Giovanni.</l>
+          </sp>
+          <stage>DON GIOVANNIÈ folle chi dà mentea i spiriti, alle larve,sebbene pur mi parveche favellasse a me: con queste orecchiesentii le sue parole…Eh, talvolta succedech’a noi la fantasia sa travedere.Scena decimaArlechino, Tiburzio, Corallina, e Don Giovanni.</stage>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>È all’ordine signor.</l>
+          </sp>
+          <sp who="#tiburzio">
+            <speaker>TIBURZIO:</speaker>
+            <l>Vada a sedere.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Arlechino?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Signore.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Da ber: almen potessi</l>
+            <l>nel dolce umor di Bacco</l>
+            <l>ammorzar la passion, e il fier cordoglio;</l>
+            <l>un brindisi qui adesso fare io voglio.</l>
+            <l>Alto signor che d’una illustre fonte,</l>
+            <l>che al mondo diede i più sublimi eroi,</l>
+            <l>la tua origin traesti,</l>
+            <l>in te ben si ravvisa,</l>
+            <l>degl’eccelsi avi tuoi</l>
+            <l>in un sol tutti i pregi,</l>
+            <l>le doti, le virtudi, e i merti egregi.</l>
+            <l>Regna, vivi felice</l>
+            <l>di Nestore l’età; propizio il cielo</l>
+            <l>arrida alli tuoi voti.</l>
+            <l>E la sonora fama</l>
+            <l>ne’ regni dell’occaso, e dell’aurora</l>
+            <l>di «Niccolò» ripeta il nome ognora.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Adesso tocca a me. Care ragazze</l>
+            <l>del povero Arlechino scusate l’ignoranza</l>
+            <l>ch’un brindisi farà, ma alla sua usanza.</l>
+            <l>Euch bleibe ich stets ergeben,</l>
+            <l>Mädgchen die schön und hertzig seyd</l>
+            <l>ihr solt leben, ihr solt schweben</l>
+            <l>in Anmuth und Zufriedenheit.</l>
+          </sp>
+          <stage>ARLECHINOAdesso tocca a me. Care ragazzedel povero Arlechino scusate l’ignoranzach’un brindisi farà, ma alla sua usanza.Euch bleibe ich stets ergeben,Mädgchen die schön und hertzig seydihr solt leben, ihr solt schwebenin Anmuth und Zufriedenheit.</stage>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Spiritoso davver.</l>
+            <l>Ma il tempo passa, più differir non vuò,</l>
+            <l>oltrepassata è l’ora,</l>
+            <l>ed il Commendator non giunge ancora?</l>
+            <l>Ah sempre più confermo l’opinione,</l>
+            <l>che fu sogno, chimera, ed illusione.</l>
+            <l>Finale.</l>
+          </sp>
+          <stage>DON GIOVANNISpiritoso davver.Ma il tempo passa, più differir non vuò,oltrepassata è l’ora,ed il Commendator non giunge ancora?Ah sempre più confermo l’opinione,che fu sogno, chimera, ed illusione.Finale.</stage>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Venga il restante in tavola</l>
+            <l>ché voglio sortir subito.</l>
+            <l>(Mentre assai forte dubito</l>
+            <l>d’esser sorpreso qua.)</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Animo Corallina</l>
+            <l>portate da mangiar.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Prendete ‘sta gallina.</l>
+          </sp>
+          <sp who="#tiburzio">
+            <speaker>TIBURZIO:</speaker>
+            <l>La salsa eccola qua.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Ecco signor padrone</l>
+            <l>la madre d’un cappone.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Trinciala come va.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>La trincio alla mia usanza,</l>
+            <l>che meglio assai mi par.</l>
+          </sp>
+          <sp who="#tiburzio">
+            <speaker>TIBURZIO:</speaker>
+            <l>Eccovi qui il bodino.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Cos’è questo bodino?</l>
+            <l>Odora, e par polenta…</l>
+            <l>No che non è polenta,</l>
+            <l>ma si somiglia un poco,</l>
+            <l>oh ch’eccellente cuoco</l>
+            <l>degno d’addottorar.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ardisci tu animale</l>
+            <l>mangiar prima di me!</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Potrebbe farvi male</l>
+            <l>se non l’assaggio affé.</l>
+          </sp>
+          <sp who="#tiburzio">
+            <speaker>TIBURZIO:</speaker>
+            <l>Prendete ecco l’arrosto.</l>
+            <l>E questo è il fricandò.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Arrosto, e fracastoro.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Eccoti i maccheroni.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Oh cari vengo meno…</l>
+            <l>Oh come sono buoni,</l>
+            <l>mi sento liquefar.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Pare che sia battuto,</l>
+            <l>guardate voi chi è.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Cari aspettate un poco.</l>
+          </sp>
+          <sp who="#tiburzio">
+            <speaker>TIBURZIO:</speaker>
+            <l>Nessuno abbiam veduto.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Nessuna là non c’è.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Può darsi, avrò sbagliato.</l>
+            <l>Un piatto?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>È preparato?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Resta tu qui per or.</l>
+          </sp>
+          <sp who="#tiburzio">
+            <speaker>TIBURZIO:</speaker>
+            <l>Mi par da lontano</l>
+            <l>sentir qualche rumor.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>S’avanza piano piano,</l>
+            <l>ohimè che batticuor.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>No che non m’ingannai,</l>
+            <l>qualcuno vuol passar.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Oh cosa dite mai.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Tornate un po’ a guardar.</l>
+          </sp>
+          <sp who="#tiburzio">
+            <speaker>TIBURZIO:</speaker>
+            <l>Me infelice ch’ho veduto.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Una larva! aiuto! Aiuto!</l>
+          </sp>
+          <sp who="#tiburzio">
+            <speaker>TIBURZIO:</speaker>
+            <l>Un demonio che cammina.</l>
+          </sp>
+          <sp who="#corallina e tiburzio">
+            <speaker>CORALLINA E TIBURZIO:</speaker>
+            <l>Che scompiglio! che ruina!</l>
+            <l>siam perduti in verità.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Sior padron?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Che cosa è stato?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Presto presto ch’è arrivato</l>
+            <l>quel signore molinaro</l>
+            <l>tutto quanto incipriato,</l>
+            <l>voglio dir quel del cavallo,</l>
+            <l>quel che sopra il piedestallo</l>
+            <l>ch’è di marmo, l’iscrizione,</l>
+            <l>col cimiero, e col bastone</l>
+            <l>tutto quanto intirizzito,</l>
+            <l>per la cena, per l’invito,</l>
+            <l>vuol passare vuol entrare…</l>
+            <l>Ah m’ha fatto spiritare,</l>
+            <l>e più fiato in sen non ho.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Sciocchi, vili quanti siete,</l>
+            <l>ritiratevi, e vedrete</l>
+            <l>se lo vado a far passar.</l>
+            <l>Prendi il lume.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Per che fare?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Devi andarlo ad incontrare.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Oh mi scusi non son buono.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Prendi il lume, o ti bastono.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Lei mi vuol troppo onorar.</l>
+          </sp>
+          <sp who="#tiburzio">
+            <speaker>TIBURZIO:</speaker>
+            <l>(Ecco che s’avvicina.</l>
+            <l>Andiamoci a salvar.)</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORALLINA</head>Andiamcene in cantinaben presto a rinserrar.(si ritirano)Scena undicesimaCommendatore, Don Giovanni, e Arlechino.<sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Andiamcene in cantina</l>
+            <l>ben presto a rinserrar.</l>
+            <l>(si ritirano)</l>
+            <l>Scena undicesima</l>
+            <l>Commendatore, Don Giovanni, e Arlechino.</l>
+          </sp>
+          <stage>CORALLINAAndiamcene in cantinaben presto a rinserrar.(si ritirano)Scena undicesimaCommendatore, Don Giovanni, e Arlechino.</stage>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Siedi Commendatore.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Io siedo.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Scusa ti chiedo</l>
+            <l>s’annoiato dal lungo aspettare</l>
+            <l>la mensa cominciai…</l>
+            <l>Ma tu non mangi!</l>
+            <l>Quanto di raro</l>
+            <l>di cibi, e di liquori</l>
+            <l>può provvedere Castiglia è a te presente,</l>
+            <l>domanda ciò che vuoi.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Non voglio niente.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Dunque tu sdegni un simile convito?</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Sono pago ora:</l>
+            <l>m’invitasti alla mensa, io non mancai,</l>
+            <l>t’invito a cenar meco, tu verrai?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>A cenar teco, e dove?</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Vieni da me ché ti sarà palese.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>(Che fo? vado… ma oh dio!…</l>
+            <l>vada lungi il timore.)</l>
+            <l>Te ‘l prometto verrò.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Teco il servo conduci.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Il condurrò.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Eh eh signor padron…</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Taci importuno.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>ARLECHINO</head>Ditegli da mia parte che digiuno.Scena dodicesimaTiburzio, Corallina, Arlechino, indi Don Giovanni.<sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Ditegli da mia parte che digiuno.</l>
+            <l>Scena dodicesima</l>
+            <l>Tiburzio, Corallina, Arlechino, indi Don Giovanni.</l>
+          </sp>
+          <stage>ARLECHINODitegli da mia parte che digiuno.Scena dodicesimaTiburzio, Corallina, Arlechino, indi Don Giovanni.</stage>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>È partito?</l>
+          </sp>
+          <sp who="#tiburzio">
+            <speaker>TIBURZIO:</speaker>
+            <l>Se n’è andato?</l>
+          </sp>
+          <sp who="#corallina e tiburzio">
+            <speaker>CORALLINA E TIBURZIO:</speaker>
+            <l>Posso appena prender fiato</l>
+            <l>ché m’ha fatto spiritar.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Parmi ancor vederlo adesso.</l>
+          </sp>
+          <sp who="#tiburzio">
+            <speaker>TIBURZIO:</speaker>
+            <l>A me pur sembra lo stesso.</l>
+          </sp>
+          <sp who="#corallina e tiburzio">
+            <speaker>CORALLINA E TIBURZIO:</speaker>
+            <l>Ah fuggiamo via di qua.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>È già vano ogni timore,</l>
+            <l>perché mai di qua partir?</l>
+          </sp>
+          <sp who="#corallina e tiburzio">
+            <speaker>CORALLINA E TIBURZIO:</speaker>
+            <l>Per pietade mio signore</l>
+            <l>non ci fate intimorir.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Esco fuori, son sicuro,</l>
+            <l>se n’è andato a far squartar?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Non temete ve lo giuro</l>
+            <l>non v’è più da paventar.</l>
+          </sp>
+          <sp who="#corallina, arlechino, tiburzio e don giovanni">
+            <speaker>CORALLINA, ARLECHINO, TIBURZIO E DON GIOVANNI:</speaker>
+            <l>Vada lungi ogni timore,</l>
+            <l>cominciamo a respirar.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>TUTTI</head>Allegramentequi s’ha da stare,né più si devequi paventare,con trombe, e flauti,tamburri, e nacchere,fagotti, e timpani,in festa, e in giubiloqui s’ha da star.Atto terzoScena primaAtrio magnifico come nell’atto secondo, che si trasmuta in una stanza nera con due tavolini.Don Giovanni, il Commendatore, e Arlechino.<div type="scene">
+          <head>TUTTI</head>Allegramentequi s’ha da stare,né più si devequi paventare,con trombe, e flauti,tamburri, e nacchere,fagotti, e timpani,in festa, e in giubiloqui s’ha da star.Atto terzoScena primaAtrio magnifico come nell’atto secondo, che si trasmuta in una stanza nera con due tavolini.Don Giovanni, il Commendatore, e Arlechino.<sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Allegramente</l>
+            <l>qui s’ha da stare,</l>
+            <l>né più si deve</l>
+            <l>qui paventare,</l>
+            <l>con trombe, e flauti,</l>
+            <l>tamburri, e nacchere,</l>
+            <l>fagotti, e timpani,</l>
+            <l>in festa, e in giubilo</l>
+            <l>qui s’ha da star.</l>
+            <l>Atto terzo</l>
+            <l>Scena prima</l>
+            <l>Atrio magnifico come nell’atto secondo, che si trasmuta in una stanza nera con due tavolini.</l>
+            <l>Don Giovanni, il Commendatore, e Arlechino.</l>
+          </sp>
+          <stage>TUTTIAllegramentequi s’ha da stare,né più si devequi paventare,con trombe, e flauti,tamburri, e nacchere,fagotti, e timpani,in festa, e in giubiloqui s’ha da star.Atto terzoScena primaAtrio magnifico come nell’atto secondo, che si trasmuta in una stanza nera con due tavolini.Don Giovanni, il Commendatore, e Arlechino.</stage>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Eccomi a mantenerti</l>
+            <l>la parola già data…</l>
+            <l>Qual luogo è questo mai?</l>
+            <l>Nere gramaglie!</l>
+            <l>Apparati di lutto!</l>
+            <l>E questa mensa ti par degna di me?</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Sì questa mensa ben si conviene a te, approssimati.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Perché?</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Ti bramo a me vicino.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ed a che fare?</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>A sedere, a mangiare.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Sì che verrò.</l>
+            <l>Prendi qua la mia spada, ed il cappello.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Non v’accostate là padron mio bello.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Eccomi a te dappresso…</l>
+            <l>Quai cibi sono questi?</l>
+            <l>Rospi, serpenti, aspidi!</l>
+            <l>E chi credi ch’io sia,</l>
+            <l>forse d’Averno la crudel megera,</l>
+            <l>o il trifauce custode dell’abisso?</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Mangia s’hai cuore.</l>
+            <l>Impallidisci, e tremi?</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Su questo volto</l>
+            <l>mai non si vide a comparir timore.</l>
+            <l>T’inganni se mai credi…</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Mangia s’hai cuore.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Per fare a te vedere</l>
+            <l>che timore non ho</l>
+            <l>rospi, serpenti, cicute io mangerò.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Badate sior padrone</l>
+            <l>che vi faranno dell’indigestione.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Ascolta Don Giovanni.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Cosa dirmi tu vuoi?</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>I tuoi enormi delitti</l>
+            <l>è stanco il cielo di soffrire di più,</l>
+            <l>in te stesso ritorna.</l>
+            <l>Da’ numi implora un benigno perdono,</l>
+            <l>pentiti.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>No. Io così vil non sono.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Volgi agli dèi</l>
+            <l>con umil cor le calde preci, e i voti</l>
+            <l>e il perdon verrà.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Son nomi ignoti</l>
+            <l>i numi a me: già per lunga stagione</l>
+            <l>perduto ho l’uso</l>
+            <l>di favellar con essi.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Pentiti.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ch’io mi penta?</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>L’ultima volta è questa che te ‘l dico,</l>
+            <l>pentiti.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ch’io mi penta!</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Il ciel per me ti parla.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Se fia vero che in cielo</l>
+            <l>sovra l’uomo mortal vi fia potere,</l>
+            <l>s’è giustizia lassù,</l>
+            <l>nelle viscere sue m’asconda il suolo.</l>
+          </sp>
+          <sp who="#commendatore">
+            <speaker>COMMENDATORE:</speaker>
+            <l>Precipita all’abisso anima rea.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>DON GIOVANNI</head>Oh questo in verità non lo credea.(fugge)Scena secondaAppartamenti di Don Alfonso.Don Alfonso, Donn’Anna, indi Arlechino.<sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Oh questo in verità non lo credea.</l>
+            <l>(fugge)</l>
+            <l>Scena seconda</l>
+            <l>Appartamenti di Don Alfonso.</l>
+            <l>Don Alfonso, Donn’Anna, indi Arlechino.</l>
+          </sp>
+          <stage>DON GIOVANNIOh questo in verità non lo credea.(fugge)Scena secondaAppartamenti di Don Alfonso.Don Alfonso, Donn’Anna, indi Arlechino.</stage>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Vane finora</l>
+            <l>son state le ricerche,</l>
+            <l>dall’atrio già l’indegno fuggì.</l>
+            <l>Forse ch’ascoso</l>
+            <l>si sarà in qualche bosco,</l>
+            <l>ma a lungo non potrà restar celato,</l>
+            <l>troppo il reo dalle guardie è ricercato.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Voglia il ciel che si trovi.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>O presto, o tardi l’empio si troverà.</l>
+            <l>Troppo al re cale</l>
+            <l>aver in mano l’omicida indegno…</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Ma qual rumor io sento!</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Oh che caso! o che nuova! o che spavento!</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Che rechi?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Il mio padrone…</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Palesa, ove è celato?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Il diavolo signor se l’è portato.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Possibile sarà!</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>E pensi tu buffone</l>
+            <l>con tai fole salvare il tuo padrone?</l>
+            <l>Olà sia custodito.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Per carità sentite.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Sentiamo.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Ebben favella.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Quel signor del cimiero,</l>
+            <l>cioè che sta a cavallo…</l>
+            <l>perché… come… quando… allora che venne…</l>
+            <l>non mangiò niente…</l>
+            <l>con li serpenti per via della mano…</l>
+            <l>pentiti, e lui non voleva,</l>
+            <l>insomma andiede giù,</l>
+            <l>né mai più si vedrà ritornar su.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Da’ detti di costui</l>
+            <l>niente si può capire.</l>
+          </sp>
+          <sp who="#donn’anna">
+            <speaker>DONN’ANNA:</speaker>
+            <l>Un qualche caso strano</l>
+            <l>sembra che sia successo!</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Troppo chiaro ho parlato,</l>
+            <l>ma se non intendete</l>
+            <l>chiamate Corallina, e lo saprete.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Chi è costei?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Quella che in casa alloggiò il mio padrone.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Venga dunque costei, e tu ritirati,</l>
+            <l>ma no ‘l fate sortir da questo loco.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Ma io sono innocente.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Lo vedremo.</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Oh poveretto me io sudo, io tremo.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>ARLECHINOOh poveretto me io sudo, io tremo.(parte)</stage>
+        </div>
+        <div type="scene">
+          <head>DON ALFONSO</head>Il prestar fede a’ detti di costuior prudenza non è: forse al confrontofacile pur sarà scoprir l’arcano.Donn’Anna per un poco m’allontano.(parte)Scena terzaDonn’Anna sola.Se fosse ver che il cielopunito avesse l’indegno traditoretornerebbe la quiete a questo core,dopo tante sciagure,dopo tanti disastrinecessaria è la calmaper tornare la quiete, e pace all’alma.Geme la tortorellanel caro nido amato,se sente là sul pratoil serpe a sibilar.Ma poi s’altrove il miravolger l’acuto dente,nuovo piacer risente,e torna a respirar.(parte)Scena quartaCorallina e Arlechino indi Don Alfonso.<sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Il prestar fede a’ detti di costui</l>
+            <l>or prudenza non è: forse al confronto</l>
+            <l>facile pur sarà scoprir l’arcano.</l>
+            <l>Donn’Anna per un poco m’allontano.</l>
+            <l>(parte)</l>
+            <l>Scena terza</l>
+            <l>Donn’Anna sola.</l>
+            <l>Se fosse ver che il cielo</l>
+            <l>punito avesse l’indegno traditore</l>
+            <l>tornerebbe la quiete a questo core,</l>
+            <l>dopo tante sciagure,</l>
+            <l>dopo tanti disastri</l>
+            <l>necessaria è la calma</l>
+            <l>per tornare la quiete, e pace all’alma.</l>
+            <l>Geme la tortorella</l>
+            <l>nel caro nido amato,</l>
+            <l>se sente là sul prato</l>
+            <l>il serpe a sibilar.</l>
+            <l>Ma poi s’altrove il mira</l>
+            <l>volger l’acuto dente,</l>
+            <l>nuovo piacer risente,</l>
+            <l>e torna a respirar.</l>
+            <l>(parte)</l>
+            <l>Scena quarta</l>
+            <l>Corallina e Arlechino indi Don Alfonso.</l>
+          </sp>
+          <stage>DON ALFONSOIl prestar fede a’ detti di costuior prudenza non è: forse al confrontofacile pur sarà scoprir l’arcano.Donn’Anna per un poco m’allontano.(parte)Scena terzaDonn’Anna sola.Se fosse ver che il cielopunito avesse l’indegno traditoretornerebbe la quiete a questo core,dopo tante sciagure,dopo tanti disastrinecessaria è la calmaper tornare la quiete, e pace all’alma.Geme la tortorellanel caro nido amato,se sente là sul pratoil serpe a sibilar.Ma poi s’altrove il miravolger l’acuto dente,nuovo piacer risente,e torna a respirar.(parte)Scena quartaCorallina e Arlechino indi Don Alfonso.</stage>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Corallina sei qua?</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Qua fui chiamata</l>
+            <l>dal ministro del re</l>
+            <l>che saper volle il fatto della cena:</l>
+            <l>tutto a lui raccontai.</l>
+            <l>Don Giovanni dov’è?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Lontano assai il diavol l’ha portato.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>D’esser sua sposa pur m’ha lusingato,</l>
+            <l>ed io da pazza</l>
+            <l>prestai fede a’ suoi detti, or che farò?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>In questa lista te pur scriverò.</l>
+          </sp>
+          <sp who="#corallina">
+            <speaker>CORALLINA:</speaker>
+            <l>Hai ragion di burlarmi:</l>
+            <l>il ministro s’appressa.</l>
+          </sp>
+          <sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>È ver purtroppo quello che narrasti:</l>
+            <l>Donn’Anna non è qua?</l>
+          </sp>
+          <sp who="#arlechino">
+            <speaker>ARLECHINO:</speaker>
+            <l>Noi non l’abbiam veduta.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>DON ALFONSO</head>Vadasi a lei il tutto a raccontar.Alla sua patria torni Donn’Isabella,la giustizia del ciel ha prevenutoil tardo colpo di giustizia umana;il terribile caso omai c’insegni,che l’uom muore qual visse, e il giusto cielodimostra adesso a noi con quest’esempicome punisca i dissoluti, e gl’empi.(partono)Scena ultimaInfernale.Don Giovanni solo.<sp who="#don alfonso">
+            <speaker>DON ALFONSO:</speaker>
+            <l>Vadasi a lei il tutto a raccontar.</l>
+            <l>Alla sua patria torni Donn’Isabella,</l>
+            <l>la giustizia del ciel ha prevenuto</l>
+            <l>il tardo colpo di giustizia umana;</l>
+            <l>il terribile caso omai c’insegni,</l>
+            <l>che l’uom muore qual visse, e il giusto cielo</l>
+            <l>dimostra adesso a noi con quest’esempi</l>
+            <l>come punisca i dissoluti, e gl’empi.</l>
+            <l>(partono)</l>
+            <l>Scena ultima</l>
+            <l>Infernale.</l>
+            <l>Don Giovanni solo.</l>
+          </sp>
+          <stage>DON ALFONSOVadasi a lei il tutto a raccontar.Alla sua patria torni Donn’Isabella,la giustizia del ciel ha prevenutoil tardo colpo di giustizia umana;il terribile caso omai c’insegni,che l’uom muore qual visse, e il giusto cielodimostra adesso a noi con quest’esempicome punisca i dissoluti, e gl’empi.(partono)Scena ultimaInfernale.Don Giovanni solo.</stage>
+          <sp who="#coro di furie">
+            <speaker>CORO DI FURIE:</speaker>
+            <l>Fra nere furie orribili</l>
+            <l>per sempre hai da penar.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Spietati dèi dell’Erebo</l>
+            <l>mi sento lacerar!</l>
+          </sp>
+          <sp who="#coro di furie">
+            <speaker>CORO DI FURIE:</speaker>
+            <l>Fra nere furie orribili</l>
+            <l>per sempre hai da penar.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Chi dunque mi condanna?</l>
+          </sp>
+          <sp who="#coro di furie">
+            <speaker>CORO DI FURIE:</speaker>
+            <l>Sovvengati Donn’Anna.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Che smania! che dolore!</l>
+          </sp>
+          <sp who="#coro di furie">
+            <speaker>CORO DI FURIE:</speaker>
+            <l>Molto il Commendatore</l>
+            <l>soffrì per tua cagion.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ah sorte iniqua, e fella!</l>
+          </sp>
+          <sp who="#coro di furie">
+            <speaker>CORO DI FURIE:</speaker>
+            <l>Sovvengati Isabella.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Pietà d’un infelice.</l>
+          </sp>
+          <sp who="#coro di furie">
+            <speaker>CORO DI FURIE:</speaker>
+            <l>Tu con la pescatrice</l>
+            <l>usasti crudeltà.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ma quando cesseranno</l>
+            <l>tanti tormenti, e guai?</l>
+          </sp>
+          <sp who="#coro di furie">
+            <speaker>CORO DI FURIE:</speaker>
+            <l>Non cesseranno mai.</l>
+            <l>Per sempre hai da penar.</l>
+          </sp>
+          <sp who="#don giovanni">
+            <speaker>DON GIOVANNI:</speaker>
+            <l>Ahi che pena! che dolore.</l>
+            <l>Oh che affanno, che bruciore.</l>
+            <l>Più non posso sopportar.</l>
+          </sp>
+          <sp who="#coro di furie">
+            <speaker>CORO DI FURIE:</speaker>
+            <l>Fra nere furie orribili</l>
+            <l>per sempre hai da penar.</l>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

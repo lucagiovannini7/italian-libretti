@@ -1,0 +1,431 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">olifemo Geloso</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="polifemo">
+            <persName>POLIFEMO:</persName>
+          </person>
+          <person xml:id="galatea">
+            <persName>GALATEA:</persName>
+          </person>
+          <person xml:id="aci">
+            <persName>ACI:</persName>
+          </person>
+          <person xml:id="satiro">
+            <persName>SATIRO:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>POLIFEMO</castItem>
+        <castItem>SATIRO</castItem>
+        <castItem>ACI</castItem>
+        <castItem>GALATEA</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>La scena è sulle rive presso il monte Etna.</stage>
+      <div type="act">
+        <head>Atto unico</head>
+        <div type="scene">
+          <head>Scena prima</head>Polifemo, Satiro, Coro. <stage>Scena primaPolifemo, Satiro, Coro.</stage>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Vientene, o Galatea,</l>
+            <l>e qual dolcezza hassi a cercar nell’onda?</l>
+            <l>Vientene ove ogni fronda</l>
+            <l>di distinto color smaltano i fiori;</l>
+            <l>ove olmi ombrosi e viti</l>
+            <l>ci fanno schermo dagl’estivi ardori:</l>
+            <l>ove mugghi e nitriti</l>
+            <l>al dolce sonno altrui non son molesti;</l>
+            <l>vientene, o Galatea,</l>
+            <l>e lascia ch’a suo senno il mar tempesti.</l>
+          </sp>
+          <sp who="#satiro">
+            <speaker>SATIRO:</speaker>
+            <l>Qual rimbombo di canti?</l>
+            <l>Chi sulle balze d’Etna alza la voce?</l>
+            <l>È Polifemo atroce;</l>
+            <l>arso per Galatea forte sospira,</l>
+            <l>sì come fan gli amanti.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Da fulmini celesti</l>
+            <l>colse via men d’ardore</l>
+            <l>il fier sotto questa alpe oggi sepolto,</l>
+            <l>che da’ begli occhi tuoi, che ‘n me volgesti</l>
+            <l>dolci da prima, io non raccolsi in core;</l>
+            <l>o sotto aria gentil d’un nobil volto</l>
+            <l>nova Cariddi e Scilla!</l>
+            <l>Deh, solo un dì tranquilla</l>
+            <l>ferma i rapidi passi al mio lamento,</l>
+            <l>e fuggi poi come per l’aria il vento.</l>
+          </sp>
+          <sp who="#satiro">
+            <speaker>SATIRO:</speaker>
+            <l>Come il grande oceano</l>
+            <l>sazio non è giammai di raccòr fiumi,</l>
+            <l>sì d’altrui pianto Amor non è mai sazio;</l>
+            <l>o Polifemo, ti lamenti invano</l>
+            <l>sovra il tuo duro strazio.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Lasso, che far deggio io?</l>
+            <l>Perduta la speranza, almen piangendo</l>
+            <l>non porgerò conforto al dolor mio?</l>
+          </sp>
+          <sp who="#satiro">
+            <speaker>SATIRO:</speaker>
+            <l>Assaltala con preghi;</l>
+            <l>non è sì duro core</l>
+            <l>ch’a la fin non si pieghi.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Così far mi dispongo;</l>
+            <l>cercherò la superba fuggitiva,</l>
+            <l>or presti forza alle mie voci Amore;</l>
+            <l>andiam per questa riva.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Fama corse in queste sponde,</l>
+            <l>che dicea,</l>
+            <l>come uscendo fuor de l’onde</l>
+            <l>Galatea</l>
+            <l>qui fa co’ suoi begli occhi il ciel sereno;</l>
+            <l>e disvelando l’or dei crin lucenti</l>
+            <l>e la neve del seno</l>
+            <l>fa tutti i cor contenti.</l>
+            <l>Or di qui giusta vaghezza</l>
+            <l>ci consiglia</l>
+            <l>a mirar l’alta bellezza</l>
+            <l>di sue ciglia,</l>
+            <l>fonte nel nostro cor d’almo piacere,</l>
+            <l>dandoci a divider con certa prova</l>
+            <l>l’ammirabil potere</l>
+            <l>che ‘n donna si ritrova.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena seconda</head>Aci, Galatea, Coro. <stage>Scena secondaAci, Galatea, Coro.</stage>
+          <sp who="#aci">
+            <speaker>ACI:</speaker>
+            <l>Dolce del mio cor foco,</l>
+            <l>che ‘n gioco mi rivolge ogni martire,</l>
+            <l>in me di tua beltà spento il desire</l>
+            <l>sol mirerassi allora</l>
+            <l>che ‘n occidente apparirà l’aurora.</l>
+          </sp>
+          <sp who="#galatea">
+            <speaker>GALATEA:</speaker>
+            <l>Dolce del mio cor foco,</l>
+            <l>che ‘n gioco mi rivolgi ogni tormento,</l>
+            <l>in me di tua bellezza il desir spento</l>
+            <l>allor potrà mirarsi</l>
+            <l>che questa onda di mar potrà fermarsi.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Maggior ben per Amor non si concede,</l>
+            <l>se dove è gran beltate</l>
+            <l>non è minor la fede.</l>
+          </sp>
+          <sp who="#aci">
+            <speaker>ACI:</speaker>
+            <l>Sparsa la chioma al vento in questi lidi</l>
+            <l>coglievi fior, che sul mattino apriro,</l>
+            <l>quando da prima, o Galatea, ti vidi;</l>
+            <l>ti vidi, e fra diletto e fra martiro</l>
+            <l>se n’andò la mia vita in un sospiro.</l>
+          </sp>
+          <sp who="#galatea">
+            <speaker>GALATEA:</speaker>
+            <l>Contra le fere del tuo veltro i morsi</l>
+            <l>svegliando andavi per li monti etnei</l>
+            <l>quando la prima volta, Aci, ti scorsi;</l>
+            <l>ti scorsi, e ciò che fu dir non saprei</l>
+            <l>de l’alma accesa e degli spirti miei.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Di questa rimembranza</l>
+            <l>Amore ordisce i nodi</l>
+            <l>onde disciorsi il cor non ha possanza.</l>
+          </sp>
+          <sp who="#aci">
+            <speaker>ACI:</speaker>
+            <l>Felicissimo Adone,</l>
+            <l>che per te rimirasti in grave ardore</l>
+            <l>la figlia di Dione,</l>
+            <l>statti in riposo e ti si quieti il core,</l>
+            <l>ch’io preda fatto di più bel disio</l>
+            <l>di Citerea l’alta bellezza oblio.</l>
+          </sp>
+          <sp who="#galatea">
+            <speaker>GALATEA:</speaker>
+            <l>E tu, candida luna,</l>
+            <l>che in braccio all’amator sul Latmio monte</l>
+            <l>scendi per l’aria bruna,</l>
+            <l>gelosa nube non ti sieda in fronte,</l>
+            <l>ch’ io posta in foco a meraviglia altiero,</l>
+            <l>non serbo in cor d’Endimion pensiero.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Quando Amore</l>
+            <l>punge un core</l>
+            <l>ma da giusto desio non lo discioglie,</l>
+            <l>sua saetta</l>
+            <l>ci diletta,</l>
+            <l>e l’impiagato cor non sente doglie.</l>
+            <l>O possente,</l>
+            <l>d’arco ardente</l>
+            <l>saettator ben noto, odi mia voce:</l>
+            <l>a mia vita</l>
+            <l>dà ferita</l>
+            <l>ma che non sia di stral troppo feroce.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena terza</head>Polifemo, Coro. <stage>Scena terzaPolifemo, Coro.</stage>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Deh, dove son fuggiti,</l>
+            <l>deh, dove son spariti</l>
+            <l>gli occhi, de’ quali a’ rai</l>
+            <l>io son cenere omai?</l>
+            <l>Aure, ch’errate in questa parte e ‘n quella</l>
+            <l>deh, recate novella</l>
+            <l>de l’alma luce loro,</l>
+            <l>aure, ch’io me ne moro.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Ecco di Galatea l’orrido amante;</l>
+            <l>procuriam che cantando</l>
+            <l>egli disfoghi il petto;</l>
+            <l>di così novi accenti</l>
+            <l>noi prenderem diletto.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Ninfe, deh, dite, o ninfe,</l>
+            <l>ove trovar posso io</l>
+            <l>l’altiera Galatea?</l>
+            <l>Ch’almen della sua vista io riconforti</l>
+            <l>mia pena acerba e rea.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Colà dove t’addito</l>
+            <l>fra le siepi pendose</l>
+            <l>dianzi ella si nascose</l>
+            <l>quando ver’ noi movevi;</l>
+            <l>cantale tuoi martìri: hanno gran forza</l>
+            <l>le parole amorose.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Luci serene,</l>
+            <l>che mia libertate</l>
+            <l>ognor gravate</l>
+            <l>di più ree catene,</l>
+            <l>a così lunga fede</l>
+            <l>dunque nulla pietà, nulla mercede?</l>
+            <l>Or col più forte</l>
+            <l>de’ suoi strali Amore</l>
+            <l>piagando il core</l>
+            <l>mi conduca a morte,</l>
+            <l>benché sul primo giorno</l>
+            <l>dolce a’ vostri be’ rai volasse intorno.</l>
+            <l>Ma se mia vita</l>
+            <l>per sì lungo spazio</l>
+            <l>in duro strazio</l>
+            <l>se ne va fornita,</l>
+            <l>fia l’acerbo costume</l>
+            <l>scura nube di biasmo al vostro lume.</l>
+            <l>Mio sol desire</l>
+            <l>dopo tanti affanni,</l>
+            <l>dopo tanti anni,</l>
+            <l>mitigate l’ire;</l>
+            <l>della gran fiamma onde ardo</l>
+            <l>solo sia refrigerio un vostro sguardo.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Questo è non lieve assalto;</l>
+            <l>pàrtiti o Polifemo; ella ha vergogna</l>
+            <l>di qui venirti innanzi;</l>
+            <l>noi sarem seco, ed opreremo ogni arte</l>
+            <l>a ciò ch’ella addolcisca i suoi desiri,</l>
+            <l>e le caglia non men de’ tuoi martiri.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Ripongo in vostra mano</l>
+            <l>e mia vita e mia morte;</l>
+            <l>oh pur vostra pietate</l>
+            <l>per questo afflitto non si sperda invano.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Di diamante il petto armate</l>
+            <l>contra Amore, egri mortali;</l>
+            <l>che la punta dei suoi strali</l>
+            <l>avvelena alta beltate.</l>
+            <l>Per ciascuno oggi si miri</l>
+            <l>di sue forze esempio estremo,</l>
+            <l>un ciclopo, un Polifemo,</l>
+            <l>giù dal cor traggo sospiri;</l>
+            <l>tra l’angosce e tra i martiri</l>
+            <l>di gran pianto il petto allaga</l>
+            <l>e nutrisce occulta piaga</l>
+            <l>nelle vene arse infocate.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena quarta</head>Aci, Galatea, Coro. <stage>Scena quartaAci, Galatea, Coro.</stage>
+          <sp who="#galatea">
+            <speaker>GALATEA:</speaker>
+            <l>Chi nutrisce tua speme</l>
+            <l>cor mio? Chi fiamme cresce a’ tuoi desiri?</l>
+          </sp>
+          <sp who="#aci">
+            <speaker>ACI:</speaker>
+            <l>Duo begli occhi lucenti.</l>
+          </sp>
+          <sp who="#galatea">
+            <speaker>GALATEA:</speaker>
+            <l>Chi raddolcisce il fiel de’ tuo’ martiri?</l>
+          </sp>
+          <sp who="#aci">
+            <speaker>ACI:</speaker>
+            <l>Pur duo begli occhi ardenti.</l>
+          </sp>
+          <sp who="#galatea">
+            <speaker>GALATEA:</speaker>
+            <l>E chi ti doppia, e chi t’inaspra i guai?</l>
+          </sp>
+          <sp who="#aci">
+            <speaker>ACI:</speaker>
+            <l>Di duo begli occhi i rai.</l>
+          </sp>
+          <sp who="#galatea">
+            <speaker>GALATEA:</speaker>
+            <l>Ma chi t’ancide? E chi t’avviva anciso?</l>
+          </sp>
+          <sp who="#aci">
+            <speaker>ACI:</speaker>
+            <l>Di duo begli occhi il riso.</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Mettete ali alle piante;</l>
+            <l>ecco il rio Polifemo;</l>
+            <l>a quanta furia gelosia lo spinga</l>
+            <l>ben lo mostra il sembiante.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scena quinta</head>Polifemo, Satiro, Coro. <stage>Scena quintaPolifemo, Satiro, Coro.</stage>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Doppia, doppia le piume,</l>
+            <l>vanne per l’aria a volo; io ben vendetta</l>
+            <l>prenderò del mio duolo;</l>
+            <l>esecrabil costume,</l>
+            <l>femmina che ‘n tradir sol si diletta.</l>
+          </sp>
+          <sp who="#satiro">
+            <speaker>SATIRO:</speaker>
+            <l>Aperta è la cagione,</l>
+            <l>onde per te fu sorda, onde fu dura;</l>
+            <l>empia, d’un vil garzone</l>
+            <l>preda era fatta; esempio</l>
+            <l>odioso oltre misura.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Monti, selvosi monti,</l>
+            <l>cui de’ miei gran sospir già scosse il vento,</l>
+            <l>e voi, scure foreste, a cui ben conti</l>
+            <l>sono i passati dì del mio tormento,</l>
+            <l>omai del sangue spento</l>
+            <l>de l’indegno amator fiumi attendete;</l>
+            <l>rosso e sparso il vedrete in questo piano,</l>
+            <l>monti, voi ve ‘l vedrete,</l>
+            <l>ché Polifemo non minaccia invano.</l>
+          </sp>
+          <sp who="#satiro">
+            <speaker>SATIRO:</speaker>
+            <l>È gran ragion ch’ei cada,</l>
+            <l>e l’empia Galatea lo pianga morto,</l>
+            <l>che per caduco fior di vil bellezza</l>
+            <l>vivo l’amava a torto.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Con sì nobile fede</l>
+            <l>adunque, iniqua, tua beltade amai,</l>
+            <l>ed or la mia mercede</l>
+            <l>ad un stranier tu dai?</l>
+            <l>O d’ogni orso più fiera</l>
+            <l>ch’alberghi orrido monte</l>
+            <l>perano i raggi tuoi, della tua fronte</l>
+            <l>pera quel lume, pera!</l>
+          </sp>
+          <sp who="#satiro">
+            <speaker>SATIRO:</speaker>
+            <l>La femminil bellezza</l>
+            <l>di solo tradimento</l>
+            <l>ha qui tra noi vaghezza.</l>
+          </sp>
+          <sp who="#polifemo">
+            <speaker>POLIFEMO:</speaker>
+            <l>Fulmine alto da cielo arsa disperga</l>
+            <l>tua perfida bellezza, o Galatea,</l>
+            <l>ed irato Ocean te la sommerga;</l>
+            <l>perano gli occhi tuoi, per cui dovea</l>
+            <l>perir d’ogni miseria un’alma in fondo</l>
+            <l>quando a be’ raggi tuoi più forte ardea;</l>
+            <l>ed anco il nome tuo, deh, pera al mondo.</l>
+          </sp>
+          <sp who="#satiro">
+            <speaker>SATIRO:</speaker>
+            <l>Lascia omai le querele</l>
+            <l>e corri a vendicarti;</l>
+            <l>sei tu forse gigante</l>
+            <l>solamente di nome e di sembiante?</l>
+          </sp>
+          <sp who="#coro">
+            <speaker>CORO:</speaker>
+            <l>Frema e mugghi a sua voglia,</l>
+            <l>che per mugghiare è nato;</l>
+            <l>mostro cotanto odioso</l>
+            <l>come ardiva sperare d’essere amato?</l>
+          </sp>
+          <stage>Fine del libretto.</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

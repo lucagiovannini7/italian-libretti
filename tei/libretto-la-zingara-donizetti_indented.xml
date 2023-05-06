@@ -1,0 +1,3768 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">a zingara</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="sguiglio">
+            <persName>SGUIGLIO:</persName>
+          </person>
+          <person xml:id="ines">
+            <persName>INES:</persName>
+          </person>
+          <person xml:id="papaccione">
+            <persName>PAPACCIONE:</persName>
+          </person>
+          <person xml:id="argilla">
+            <persName>ARGILLA:</persName>
+          </person>
+          <person xml:id="sebastiano e coro">
+            <persName>SEBASTIANO E CORO:</persName>
+          </person>
+          <person xml:id="amelia">
+            <persName>AMELIA:</persName>
+          </person>
+          <person xml:id="gli altri">
+            <persName>GLI ALTRI:</persName>
+          </person>
+          <person xml:id="ghita">
+            <persName>GHITA:</persName>
+          </person>
+          <person xml:id="voci">
+            <persName>VOCI:</persName>
+          </person>
+          <person xml:id="fernando">
+            <persName>FERNANDO:</persName>
+          </person>
+          <person xml:id="sebastiano">
+            <persName>SEBASTIANO:</persName>
+          </person>
+          <person xml:id="atto secondo">
+            <persName>ATTO SECONDO:</persName>
+          </person>
+          <person xml:id="coro">
+            <persName>CORO:</persName>
+          </person>
+          <person xml:id="manuelitta">
+            <persName>MANUELITTA:</persName>
+          </person>
+          <person xml:id="ranuccio">
+            <persName>RANUCCIO:</persName>
+          </person>
+          <person xml:id="antonio">
+            <persName>ANTONIO:</persName>
+          </person>
+          <person xml:id="duca">
+            <persName>DUCA:</persName>
+          </person>
+          <person xml:id="f i n e">
+            <persName>F I N E:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>Interno di antico castello. La sua gran porta è inmezzo. Da un lato magnifica scala, che conduce adappartamenti superiori, e dall’altro avanzi di goticaarchitettura, nella base della quale è una bassaporta di ferro, che dà ingresso ad un sotterraneo.Scena primaI domestici di Ranuccio si affrettano ad ornare lemura del castello di fiori e di altri oggetti da festa;indi Ranuccio ed Ines, infine Amelia, ed Antonio.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Dell’ospite illustre</l>
+        <l>l’arrivo si onori.</l>
+        <l>Più in là quei festoni…</l>
+        <l>(dirigendo il lavoro, e sollecitando</l>
+        <l>gli altri domestici alla esecuzione)</l>
+        <l>Più in ordin quei fiori…</l>
+        <l>Trionfi fastosa</l>
+        <l>nel centro la rosa;</l>
+        <l>le cifre a due lati…</l>
+        <l>Che flemma! Oh, scempiati!</l>
+        <l>Ben presto il lavoro</l>
+        <l>si dé terminar.</l>
+        <l>E in giorno si lieto</l>
+        <l>ogni alma giuliva</l>
+        <l>far deve gli evviva</l>
+        <l>all’Etra echeggiar!</l>
+      </sp>
+      <stage>CORODell’ospite illustrel’arrivo si onori.Più in là quei festoni…(dirigendo il lavoro, e sollecitandogli altri domestici alla esecuzione)Più in ordin quei fiori…Trionfi fastosanel centro la rosa;le cifre a due lati…Che flemma! Oh, scempiati!Ben presto il lavorosi dé terminar.E in giorno si lietoogni alma giulivafar deve gli evvivaall’Etra echeggiar!</stage>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>(ad Ines)</l>
+        <l>Al piacer, che spira intorno,</l>
+        <l>deh, risponda il tuo contento:</l>
+        <l>ah! per te più bel momento</l>
+        <l>forse appresta il nume Amor.</l>
+      </sp>
+      <stage>RANUCCIO(ad Ines)Al piacer, che spira intorno,deh, risponda il tuo contento:ah! per te più bel momentoforse appresta il nume Amor.</stage>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Sarò lieta, se ti piace,</l>
+        <l>ma di amor non favellarmi:</l>
+        <l>io serbar vo’ quella pace,</l>
+        <l>che gustai tranquilla ognor.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Paga appien ti bramo, o figlia.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>(Ma non già col mio tesoro!)</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Il tuo ben se ti consiglia,</l>
+        <l>non opporti al genitor.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Ad amar chi mi consiglia</l>
+        <l>guerra intima a questo cor.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Ad ubbidirmi</l>
+        <l>la figlia apprenda;</l>
+        <l>a miei voleri</l>
+        <l>pronta si arrenda,</l>
+        <l>o attenda il fulmine</l>
+        <l>del mio furor.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Come all’istante</l>
+        <l>ti sei cangiato!</l>
+        <l>Deh, calma l’ira</l>
+        <l>o padre amato,</l>
+        <l>Ines non merita</l>
+        <l>tanto rigor.</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>(dalla porta di prospetto con Amelia)</l>
+        <l>Il duca di Alziras</l>
+        <l>spedito ha un espresso.</l>
+      </sp>
+      <stage>ANTONIO(dalla porta di prospetto con Amelia)Il duca di Alzirasspedito ha un espresso.</stage>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>E come ha promesso,</l>
+        <l>il nostro castello</l>
+        <l>quest’oggi egli stesso</l>
+        <l>con nobil corteggio</l>
+        <l>verrà ad onorar.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Che venga, l’attendo</l>
+        <l>con sommo piacere.</l>
+        <l>(Mie furie! v’intendo,</l>
+        <l>nel sen voi fremete?</l>
+        <l>Si, paghe sarete,</l>
+        <l>quell’empio cadrà.)</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>(Quest’alma dolente,</l>
+        <l>confusa, smarrita,</l>
+        <l>più gioia non sente,</l>
+        <l>più pace non ha.)</l>
+      </sp>
+      <stage>AMELIA, ANTONIO e COROche feste! che spasso!Che bell’allegria!Fra i brindisi, e ‘l chiassobrillar si dovrà.</stage>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Oh, qual giorno felice è a noi serbato o miei</l>
+        <l>cari! Mi è dato alfine di riabbracciare un</l>
+        <l>rispettabile amico, che, suo malgrado, hanno</l>
+        <l>da me per qualche anno allontanato le gravi</l>
+        <l>cure della carica, che lo chiama continuamente</l>
+        <l>alla corte.</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Il duca di Alziras profitta della breve assenza del</l>
+        <l>suo sovrano, per dimostrarti, ch’egli tornando fra</l>
+        <l>le tue braccia, non ha dimenticati giammai i soavi</l>
+        <l>lacci di amistà, che a te lo strinsero un tempo.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Sia dunque accolto con ogni pompa, e quale</l>
+        <l>a tanto uomo è dovuta.</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Tutto risponderà alle tue giuste premure.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Non posso dubitarne, se tu ne assumesti l’impegno,</l>
+        <l>mio caro e leale Antonio. Oh, quanto anelo i</l>
+        <l>momenti per darti prova fino a qual segno</l>
+        <l>ti ama Ranuccio! Vieni, mi fa d’uopo parlarti.</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Pendo da’ cenni tuoi.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>(Ines rientra in te stessa, e se ti cale l’amor del</l>
+        <l>padre, disponiti a rispettarne i voleri.)</l>
+        <l>(esce con Antonio)</l>
+      </sp>
+      <stage>RANUCCIO(Ines rientra in te stessa, e se ti cale l’amor delpadre, disponiti a rispettarne i voleri.)(esce con Antonio)</stage>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>E si può comandar sugli affetti? Può darsi legge</l>
+        <l>ad amore?</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Ines? Che avete? Siete questa mattina accigliata</l>
+        <l>oltre il solito?</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>E come no, se il padre vuol rendermi infelice…</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Proponendovi forse la mano di Antonio?</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Ma che ne sai tu di ciò?</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Mi ha egli premurato a disporvi a vantaggio di</l>
+        <l>quel giovane.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Vi perdi il tempo. Ignori tu, che il mio cuore sia</l>
+        <l>di già prevenuto?</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Pensate forse ancora a quell’incognito, che seppe</l>
+        <l>ammaliarvi là nelle montagne dell’Andalusia,</l>
+        <l>ove, affidata alla mia custodia, vi fece il padre</l>
+        <l>educare? Maledetta l’imprudenza da me commessa</l>
+        <l>nel permettervi di passeggiar sola fra le ridenti</l>
+        <l>colline, che cingevano il vostro ritiro! Guai a</l>
+        <l>voi, ed a me, se il padre penetrasse il fatale se</l>
+        <l>greto!</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>E quando l’avrà penetrato, saprà egli essere il mio</l>
+        <l>tiranno?</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Orsù signorina, giudizio una volta. Non mi fate</l>
+        <l>tanto la bizzarra, se non volete perdere voi stessa.</l>
+        <l>Riflettete che degno di voi non può essere</l>
+        <l>giammai un giovane sconosciuto.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Come sconosciuto, se io lo conosco benissimo?</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>E chi è egli?</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>É Fernando.</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>E poi?</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>E null’altro. Non basta?</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Non basta: conviene esaminare i suoi natali, il suo</l>
+        <l>stato…</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Queste condizioni non sono impresse nel codice</l>
+        <l>di amore.</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Oh! oh! come vi siete sviluppata in un momento!</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Amelia! Non renderti tanto importuna.</l>
+        <l>(via)</l>
+        <l>AMELIA</l>
+        <l>Oh, povera me! Costei farà trovarmi in qualche</l>
+        <l>tristo cimento. Non vi è che dire! Amore è un gran</l>
+        <l>brutto diavolo, ed ha fatto girare anche a me tante</l>
+        <l>volte il cervello.</l>
+        <l>(segue Ines)</l>
+      </sp>
+      <stage>INESAmelia! Non renderti tanto importuna.(via)AMELIAOh, povera me! Costei farà trovarmi in qualchetristo cimento. Non vi è che dire! Amore è un granbrutto diavolo, ed ha fatto girare anche a me tantevolte il cervello.(segue Ines)</stage>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Donzelle! A penetrar</l>
+        <l>l’arcan del vostro cor;</l>
+        <l>zerbini! A disvelar</l>
+        <l>se fido è il vostro amor;</l>
+        <l>quel fervido desir,</l>
+        <l>che sospirar vi fa,</l>
+        <l>oh, vedove! A scovrir</l>
+        <l>con tutta libertà;</l>
+        <l>la zingara famosa,</l>
+        <l>Argilla la indovina:</l>
+        <l>la donna portentosa</l>
+        <l>per voi venuta è qua.</l>
+        <l>Discende in tutt’i cori</l>
+        <l>lo sguardo mio sicuro;</l>
+        <l>e il velo del futuro,</l>
+        <l>ombre per me non ha.</l>
+        <l>Mariti!… avvicinatevi,</l>
+        <l>è il labbro mio discreto;</l>
+        <l>sol vi dirò in segreto</l>
+        <l>la vostra infedeltà.</l>
+        <l>Mogli! Non dubitate,</l>
+        <l>io ben conosco il mondo;</l>
+        <l>saprò di obblio profondo</l>
+        <l>covrir la verità.</l>
+        <l>Su presto miei signori,</l>
+        <l>se il ver saper volete,</l>
+        <l>che piovano monete,</l>
+        <l>ma di oro, e in quantità.</l>
+        <l>Argilla, apprestati in questo giorno a fare vieppiù</l>
+        <l>brillare il tuo fervido ingegno, e se l’altrui credulità</l>
+        <l>ti ha finora accordato il titolo di famosa indovina,</l>
+        <l>oggi dalle tue ardite intraprese sia illusa in modo</l>
+        <l>da rispettarti, come l’oracolo del secolo.</l>
+        <l>Largo campo a te ne somministra l’arrivo</l>
+        <l>del duca di Alziras, e la protezione del padron</l>
+        <l>del castello, che ti permette di assistere alla festa.</l>
+        <l>Venite, o compagne: potete introdurvi liberamente.</l>
+        <l>Più a noi non è vietato l’accesso in tutto questo</l>
+        <l>recinto. Che cosa è? Vi veggo di trista cera?</l>
+        <l>Venite forse colle mani vuote?</l>
+      </sp>
+      <sp who="#ghita">
+        <speaker>GHITA:</speaker>
+        <l>Vuotissime: spira un vento contrario, che disperde</l>
+        <l>tutti gli sforzi delle nostre furberie.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Nessun merlotto?</l>
+      </sp>
+      <sp who="#manuelitta">
+        <speaker>MANUELITTA:</speaker>
+        <l>Né merlotto, né galline.</l>
+      </sp>
+      <sp who="#ghita">
+        <speaker>GHITA:</speaker>
+        <l>I merlotti sono pochissimi, e non hanno più penne</l>
+        <l>per noi. Hanno saputo prevenirci gli artigli delle</l>
+        <l>donne di città, che sono più rapaci de’ nostri.</l>
+      </sp>
+      <sp who="#manuelitta">
+        <speaker>MANUELITTA:</speaker>
+        <l>Basta comparire in piazza, e tutti si guardano di</l>
+        <l>noi. Le mamme prendono rapidamente in braccio</l>
+        <l>i bambini, si chiudono i forzieri, si caccian</l>
+        <l>via gli animali, insomma pare, che da per tutto</l>
+        <l>noi rechiamo il contagio.</l>
+      </sp>
+      <sp who="#ghita">
+        <speaker>GHITA:</speaker>
+        <l>Abbiamo girato l’intero villaggio, senza guadagnare</l>
+        <l>almeno quanto basti ad estinguere il nostro appetito.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Possibile! Con quei musetti, e colle astuzie tanto</l>
+        <l>a voi connaturali?</l>
+      </sp>
+      <sp who="#ghita">
+        <speaker>GHITA:</speaker>
+        <l>Eppure è così: si crede poco alle zingare, e si</l>
+        <l>sanno a memoria le nostre filastrocche.</l>
+      </sp>
+      <sp who="#manuelitta">
+        <speaker>MANUELITTA:</speaker>
+        <l>Appena si lucra una rara e bassa moneta da qualche</l>
+        <l>avido giovanetto che coglie questo pretesto per</l>
+        <l>stringermi la mano.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ma se voi volete essere zingare da dozzina! Imitate</l>
+        <l>il mio genio, e gli slanci del mio spirito</l>
+        <l>intraprendente, e sarete allora più fortunate.</l>
+        <l>Rammentatevi, che la fisonomia è il vero interprete</l>
+        <l>del core umano. Ci basti un solo sguardo per</l>
+        <l>penetrare l’altrui desiderio ed inclinazione, per</l>
+        <l>profittare di que’ prestigi che l’arte somministra, e</l>
+        <l>per dare il colore di verità alla felicità dell’azzardo.</l>
+        <l>E’ questa rapida conoscenza, che ha finora</l>
+        <l>reso celebre il mio nome.</l>
+      </sp>
+      <sp who="#ghita">
+        <speaker>GHITA:</speaker>
+        <l>Il cielo non è a tutti prodigo de’ doni suoi.</l>
+      </sp>
+      <sp who="#manuelitta">
+        <speaker>MANUELITTA:</speaker>
+        <l>Con tutta la tua celebrità ti assicuro, che io farei</l>
+        <l>piuttosto la dama che la zingara.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Orsù spargetevi nel castello, ove sono tutti i</l>
+        <l>domestici in moto per l’imminente arrivo del duca</l>
+        <l>di Alziras, tanto amico dei castellano. Sappiate</l>
+        <l>insinuarvi, leggere nel loro core, far mostra dei</l>
+        <l>vostro talento, e rendervi così degne seguaci di</l>
+        <l>Argilla.</l>
+      </sp>
+      <sp who="#ghita">
+        <speaker>GHITA:</speaker>
+        <l>Vieni sorella: facciamo girar la testa al primo, che</l>
+        <l>ci cade fra le unghie.</l>
+      </sp>
+      <sp who="#manuelitta">
+        <speaker>MANUELITTA:</speaker>
+        <l>Misero lui! Tu colle parole, io colle occhiate…</l>
+        <l>basta: sarà schierato l’intero esercito delle nostre</l>
+        <l>astuzie, per render così contenta la nostra brava</l>
+        <l>maestra.</l>
+        <l>(si disperdono nel castello)</l>
+      </sp>
+      <stage>MANUELITTAMisero lui! Tu colle parole, io colle occhiate…basta: sarà schierato l’intero esercito delle nostreastuzie, per render così contenta la nostra bravamaestra.(si disperdono nel castello)</stage>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Che sciocche! Si dolgono dei destino, e non già</l>
+        <l>della loro pigrizia. Ma viene Papaccione. Costui</l>
+        <l>è il capo de’ domestici di Zappador.</l>
+        <l>La sua amicizia potrebbe giovarmi non poco.</l>
+        <l>Ho di lui saputo quanto basta per meritarmi la sua fiducia.</l>
+        <l>Si attenda all’agguato, e sia sorpresa la sua credulità</l>
+        <l>col brillante spaccio de’ miei già meditati</l>
+        <l>indovini.</l>
+      </sp>
+      <stage>Scena terzaPapaccione dagli appartamenti ed Argilla in ascolto.</stage>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>“Quid est homo sine foemina?”</l>
+        <l>no scolaro maliziuso</l>
+        <l>a lo masto addimmaunò.</l>
+        <l>E raspannose il caruso</l>
+        <l>così il masto si spiegò.</l>
+        <l>“Est carofanum sfronnato,</l>
+        <l>maccabeum sine connimmo,</l>
+        <l>vuzzariellum senza rimmo,</l>
+        <l>quod non sapit cammenà.”</l>
+        <l>Lo sacc’io, che da quacc’anno</l>
+        <l>faccio passo a la donnetta,</l>
+        <l>non c’è cosa, che m’alletta,</l>
+        <l>sempe friddo pe me fa.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Oh briccone! Un poco aspetta,</l>
+        <l>che a scaldarti io sono qua.)</l>
+        <l>(presentandosi)</l>
+        <l>Mio grazioso grassottello!</l>
+        <l>Porgi un poco a me la mano,</l>
+        <l>volgi l’occhio ladroncello,</l>
+        <l>ch’io ti voglio indovinar.</l>
+      </sp>
+      <stage>ARGILLA(Oh briccone! Un poco aspetta,che a scaldarti io sono qua.)(presentandosi)Mio grazioso grassottello!Porgi un poco a me la mano,volgi l’occhio ladroncello,ch’io ti voglio indovinar.</stage>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(Oh, che carne for’assisa!</l>
+        <l>Che boccon del sommo Giove!</l>
+        <l>Nuce vecchie, e nuce nove</l>
+        <l>me potria mo affè scontà.)</l>
+        <l>ARGILLA</l>
+        <l>E così dei tuo pianeta</l>
+        <l>il destin saper non vuoi?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Sto bedenno sta cometa,</l>
+        <l>che m’ha fatto sorzetà.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Tu sei stato da ragazzo</l>
+        <l>sempre intento al ceto basso:</l>
+        <l>di cervel leggiero, e pazzo,</l>
+        <l>niente studio, ognora a spasso:</l>
+        <l>una certa Tommasina</l>
+        <l>ti fè un giorno sospirar.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(Chesta affé ca ‘nce annevina!</l>
+        <l>Col tentillo stà a parlà.)</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Quella tua cambiamonete</l>
+        <l>seppe ordirti un brutto trucco,</l>
+        <l>e tu gonzo, e mammalucco</l>
+        <l>ti facesti corbellar.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Lassa stà le cose antiche,</l>
+        <l>si, sì, zingara addavero,</l>
+        <l>quel ch’io tengo nel penziero,</l>
+        <l>mo m’avrisse da spiegà.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>lo l’ho bello e indovinato:</l>
+        <l>sei di me già innamorato,</l>
+        <l>e vorresti sul momento</l>
+        <l>la mia mano palpizzar.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Figlia mia, si’ ‘no portento!</l>
+        <l>Viene a tata, fatte ccà.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Nella rete è già il babbeo,</l>
+        <l>tutto arride al mio disegno,</l>
+        <l>superar saprò l’impegno,</l>
+        <l>son gran donna in verità!)</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(No sta zingara, pe’ bacco,</l>
+        <l>non bà appriesso alle galfine,</l>
+        <l>ma dell’uomene a dozzine</l>
+        <l>e sterminio sape fà.)</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Dico, hai finito o no di stringermi la mano?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Eh, che pressa che tiene? nuje stammo ancora</l>
+        <l>all’introduzione, e tu già vuò arrivà a lo finale?</l>
+        <l>Non ce’ pensà, ca te torno lo capitale tujo tale e</l>
+        <l>Quale me l’haje affittato: che male c’è, che me ne</l>
+        <l>foje godè l’usufrutto almeno almeno pe na decina</l>
+        <l>de secole?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>La sai tutta davvero la furberia!</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Io la saccio tutta, e tu ne saje doje mmità,</l>
+        <l>moltiplicate pe quattomilia.</l>
+        <l>Tiene ‘na calamita dintoa chist’uocchio</l>
+        <l>friccecariello e petriazzante, che già lo povero</l>
+        <l>core mio, che da quacche anno se faceva lo</l>
+        <l>fatto sujo, s’è tutto nzieme scetato, e</l>
+        <l>sbolacchianno qual pellegrino augello,</l>
+        <l>vorria posárese ncoppa a ‘no ramosciello de</l>
+        <l>chist’albero fronnuto, senza pregiudizio degli</l>
+        <l>altri volatili concorrenti.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Vogliamo dunque fare insieme all’amore?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Volimmo fa l’ammore? Io già sto penzanno a la</l>
+        <l>notriccia del primo, e seconno rampollo!</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Le zingare sono difficili ad innamorarsi davvero:</l>
+        <l>le rende volubili la necessità di essere erranti:</l>
+        <l>eppure io mi sento per te una vera inclinazione</l>
+        <l>amorosa. Splende un astro sulla tua fronte, che</l>
+        <l>ti rende padrone di tutte le donne che a te si</l>
+        <l>appressano.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>E che ne vide mo de st’astro mio, che sta eclissato?</l>
+        <l>Quanno correvano chelle cose rosse e tonne,</l>
+        <l>che se chiammano doppie, l’astro mio veramente</l>
+        <l>luceva, comm’a ‘no sole, e sa’ comme correvano</l>
+        <l>le femmene a riceverne i benigni influssi?</l>
+        <l>E a forza d’influssi, e di continui flussi, e riflussi,</l>
+        <l>so restato senza lustro, e senza felusse.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ho bene io dunque indovinato, che le donne ti</l>
+        <l>hanno condotto al precipizio?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Non c’è besuogno d’essere zingara pe’ sapè che</l>
+        <l>sto; è cosa notoria lippolis et tonsoribus.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ma adesso sei qui bene impiegato?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Vuò pazzià!! Poco ce vò, e metto carrozza: io ccà</l>
+        <l>aggio fatto ascenzi rapidissimi. Da mercante dè</l>
+        <l>baccalà, ch’era a Napole, per non dare molestia</l>
+        <l>ai miei puntualissimi debitori, penzaje de mutà</l>
+        <l>aria. Me vennette certi residui saluminosi, e per</l>
+        <l>le acque salate facette uno coppetiello a Spagna,</l>
+        <l>dove obbligato dalle mie ricchezze a tirare stoccate</l>
+        <l>pe campà, m’arremediaje scorte de sto don Ciuccio.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Di don Ranuccio.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>No, de don Ciuccio, anzi ciuccissimo: ca ‘mme</l>
+        <l>ce de l’arme suo maggiordomo, me tene ccà alla</l>
+        <l>custodia de ste fiaveche vecchie, addò sta stipato</l>
+        <l>no povero vecchio, e consegnato a me vita pè</l>
+        <l>bita.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>E chi è costui?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>E chi lo po’ appurà? ‘Nce sarria pena de lo cuorio,</l>
+        <l>si ce l’addimmannasse: lo poverommo me fa</l>
+        <l>tanta compassione, quanno se magna chillo piezzo</l>
+        <l>de pane niro e pesante quanto a na savorra, e se</l>
+        <l>veve chell’acqua, addò li vierme se spassano a</l>
+        <l>ballà ‘no valzon.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Che sia qualche vittima di don Ranuccio? Argilla,</l>
+        <l>non ti sfugga questo rincontro per conoscere</l>
+        <l>un tale intrigo.) Tornando dunque al nostro</l>
+        <l>proposito, dimmi la verità, tu vuoi essere mio con</l>
+        <l>sorte?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Vuò se dice a li malate: ora vì! M’è benuta la</l>
+        <l>mbriana a tozzolià la porta, e non buò che la</l>
+        <l>faccio trasi dint’a la cammera de lo lietto?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Quando è così, ascoltami a tanto io vengo a</l>
+        <l>renderti doppiamente felice, sappi che le stelle non</l>
+        <l>sanno celarmi i loro arcani, e mi hanno da qual</l>
+        <l>che tempo svelato, che in questo castello si</l>
+        <l>nasconde un immenso tesoro, del quale è a te</l>
+        <l>riserbato l’acquisto.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>‘No tesoro! O grande eroina di tutto il ceto</l>
+        <l>zingaresco! ‘No tesoro! Tu dice addavero?</l>
+        <l>E addòstà?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Questo mi resta ancora a scovrire. Lascia che io</l>
+        <l>faccia le mie scoverte, e consulti nuovamente le</l>
+        <l>stelle.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Oh, mmalora! Me faje venì a mente no suonno,</l>
+        <l>che aggio fatto stanotte!</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Raccontalo pure: gli alti destini si palesano tal</l>
+        <l>volta ne’ sogni.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Siente, m’aggio sonnato, ca io teneva</l>
+        <l>‘n’appuntamento, pe’ ghì a parlà a lo patre de</l>
+        <l>na certa commara mia, che a Napole me soleva</l>
+        <l>stirà la biancaria. So ghiuto, e aggio trovata la</l>
+        <l>porta de lo vascio spaparanzata.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Di un basso?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Sì… pecché io so curto de gamme, e me rincresce</l>
+        <l>de saglì gradiate. Ma comme io aveva da farle</l>
+        <l>no discurso a luongo, me so nfeccato… e, oh,</l>
+        <l>metamorforsion! Che aggio visto! Lo vascio se</l>
+        <l>n’era fojuto, e ‘mmece c’era no cammarone che</l>
+        <l>non feneva maje; e llà dinto chello, che non bolive</l>
+        <l>non ce trovave… frutte de dispenza, bottigliaria,</l>
+        <l>robbe de zuccaro jettate pe’ terra… ‘nzomma pareva la</l>
+        <l>casa de la grassa e de l’abbonnanza. Me so botato</l>
+        <l>attuorno, e n’aggio visto nisciuno, che guardava tanta</l>
+        <l>robba. Te dico la verità… l’abbesuégne ‘ce steva: la</l>
+        <l>vista de tanta belle cose cellecava il mio desiderio…</l>
+        <l>aggio pensato de farme na provistella pe’ ‘na</l>
+        <l>quarantina d’anne. Afferro ‘na scala, che steva llà e</l>
+        <l>saglio comme a ‘no gatto, pe’ me menà apprimmo</l>
+        <l>‘ncopp’a li frutte de dispensa. Ah! nò l’avesse maje</l>
+        <l>fatto! Da dè ‘mmalora so asciute tanta voce annascoste!</l>
+        <l>… Lassa! Mariuolo! Ferma! Assassino! Non te</l>
+        <l>móvere! Paffete! Tutto ‘nziemo so stato menato da</l>
+        <l>copp’a la scala, e aggio fatto uno chiummo ‘nterra… e</l>
+        <l>llà pò addo ne vuò, caso cepolle! Mazzate, chianette,</l>
+        <l>cauce, schiaffune… e lo corrivo mio era, ca io</l>
+        <l>abboscava, e non bedeva le mmane, e li piede, che me</l>
+        <l>vattevano; quanno tutto ‘nziemo è comparsa ne bella</l>
+        <l>foretana tutta chiena d’oro e lazziette, m’ha sosuto da</l>
+        <l>terra, m’ha fatto piglià tutto chillo, che boleva io, e me</l>
+        <l>ne so tornato a la casa carreco, e co na sporta chiena de</l>
+        <l>robba la chiù squisita.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Il sogno parla da se stesso: quel gran locale è il</l>
+        <l>deposito del tesoro: tanti diversi oggetti, che si sono</l>
+        <l>presentati al tuo sguardo, sono appunto le ricchezze, e</l>
+        <l>le gioie, che vi si conservano. Gl’invisibili custodi te</l>
+        <l>ne hanno contrastato il possesso, finché una donna,</l>
+        <l>che sono io, non sia giunta a fartene degno.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>E le mazzate, che aggio avute?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Sono geroglifici, ornamenti della visione.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Tu qua’ geroglifice? Io pare che ancora me le sento…</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Non badare a queste freddure, e pensa alla tua sorte…</l>
+        <l>che però dovrai dividere con me.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Già… comme a marito e mogliera, che avimmo da essere.</l>
+      </sp>
+      <stage>Scena quartaAntonio e detti.</stage>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Papaccione, chiede di te don Rannuccio.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(Fuss’acciso tu e isso!)</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>E non vieni?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Abbiateve, ca mo me faccio acconcià ‘na tiella</l>
+        <l>spertusata a sta zingara, e bengo a servì soccellenza.</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Egli ti vuole nel momento, presto!</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Mo! Manco la morta de súbeto è accossì esecutiva!</l>
+        <l>(Non te partì, ca mo me spiccio, e bolimmo quaglià.)</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Ti attenderò, va pure.)</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Animo! Sollecita i tuoi passi…</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Ma don Antò! Eccome cca… jammoncenne. (Ora vì!</l>
+        <l>Sta’ morta co le castagnelle comm’è benuto ‘ntiempo pè</l>
+        <l>guastarme li fatti miei?)</l>
+      </sp>
+      <stage>(esce con Antonio)</stage>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Saprò col pretesto di rintracciare il tesoro, discendere</l>
+        <l>con Papaccione in quel sotterraneo, e scovrire chi sia</l>
+        <l>quell’infelice, ch’è là sepolto…</l>
+        <l>(Si vede smuovere una pietra dall’alto della porta</l>
+        <l>murata.)</l>
+        <l>Ma chi muove la pietra di quel muro?</l>
+        <l>Si vede un braccio che lascia cadere un foglio.</l>
+        <l>Un braccio! Quella carta! Sarebbe mai? Si legga “Se il</l>
+        <l>cielo permetterà, che questo scritto sia raccolto da un</l>
+        <l>amico della giustizia, lo supplico a muoversi a</l>
+        <l>compassione di un vecchio disgraziato”</l>
+        <l>(corre al muro, e dice:)</l>
+        <l>Chiunque voi siate, assicuratevi, che il vostro foglio è</l>
+        <l>nelle mani di Argilla; che essa sarà felice se potrà</l>
+        <l>esservi utile. Mi è sembrato di ascoltare una voce</l>
+        <l>lamentevole! … Si vada in luogo più remoto a</l>
+        <l>terminare la lettura di questo foglio, e si tenti ogni</l>
+        <l>mezzo per giovare alla umanità oppressa.</l>
+        <l>(via)</l>
+      </sp>
+      <stage>ARGILLASaprò col pretesto di rintracciare il tesoro, discenderecon Papaccione in quel sotterraneo, e scovrire chi siaquell’infelice, ch’è là sepolto…(Si vede smuovere una pietra dall’alto della portamurata.)Ma chi muove la pietra di quel muro?Si vede un braccio che lascia cadere un foglio.Un braccio! Quella carta! Sarebbe mai? Si legga “Se ilcielo permetterà, che questo scritto sia raccolto da unamico della giustizia, lo supplico a muoversi acompassione di un vecchio disgraziato”(corre al muro, e dice:)Chiunque voi siate, assicuratevi, che il vostro foglio ènelle mani di Argilla; che essa sarà felice se potràesservi utile. Mi è sembrato di ascoltare una vocelamentevole! … Si vada in luogo più remoto aterminare la lettura di questo foglio, e si tenti ognimezzo per giovare alla umanità oppressa.(via)</stage>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>Breve istante di pace! A che lusinghi lo straziato</l>
+        <l>mio cor? V’ha sulla terra chi geme ancora al</l>
+        <l>pianto mio? Chi sente ancor pietà di me? Donna</l>
+        <l>celeste! Sei tu che favellasti? Ah sì… prosiegui,</l>
+        <l>se già la pena mia rendi men grave, a scendermi</l>
+        <l>nel cor voce soave!</l>
+        <l>Se un lampo passaggier diè</l>
+        <l>calma al mio martir, da me</l>
+        <l>più non fuggir dolce</l>
+        <l>speranza!</l>
+        <l>Ma che spero! Qual vana</l>
+        <l>illusion mi alletta i sensi? E’ morte,</l>
+        <l>che sol mi attende… è morte,</l>
+        <l>che squallida, implacabile, e feroce</l>
+        <l>minaccia i giorni miei… figlia… nipote</l>
+        <l>agi… grandezze… ah, tutto</l>
+        <l>il destin mi rapì! Solo mi resta</l>
+        <l>di un crudele avvenir la idea funesta!</l>
+        <l>Perché non basto a frangervi o</l>
+        <l>barbare catene? Perché la mia</l>
+        <l>canizie, sa tollerarvi ancor?</l>
+        <l>Tiranno inesorabile!</l>
+        <l>Tu godi alle mie pene?</l>
+        <l>Ma trema! A prò de’ miseri</l>
+        <l>v’è un Dio vendicator.</l>
+        <l>Ohimé! già oppressa è l’anima,</l>
+        <l>già langue il mio vigor! …</l>
+        <l>Tu, cielo, a queste lagrime,</l>
+        <l>figlie del mio dolore,</l>
+        <l>disarma il tuo rigore,</l>
+        <l>abbi pietà di me!</l>
+        <l>Ottenga il tuo favore chi</l>
+        <l>sol confida in te!</l>
+        <l>Ah sì, un raggio celeste mi scintilla nel seno,</l>
+        <l>scende a ravvivar quella speme, ch’è sempre</l>
+        <l>l’ultima ad abbandonar gl’infelici. Sebastiano!</l>
+        <l>Coraggio! Fida nel cielo, china la fronte a suoi</l>
+        <l>decreti, ed attendi tranquillo il tuo destino.</l>
+      </sp>
+      <stage>Scena sestaPapaccione, Argilla e detto.</stage>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Tu addò te ‘mpizze? Dì la verità, ‘mmece de tesoro</l>
+        <l>avisse golio de farine passà no guajo? don</l>
+        <l>Zappatore appura ca ccà bascio è trasuta na</l>
+        <l>zingara, dimano sta capo mia porposa se la cucina</l>
+        <l>ammollicata a lo furno.</l>
+        <l>ARGILLA</l>
+        <l>Imbecille! Sei al fianco di Argilla, e puoi farti vincere</l>
+        <l>dal timore? Non sai, che la fortuna è amica degli</l>
+        <l>audaci?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Oh, si è pè chesso sta signora m’ha da essere afforza</l>
+        <l>matrea, preché io so stato sempe ‘na marmotta.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ma tu vuoi, o no diventare un signore? L’astro di</l>
+        <l>Venere mi dà certi indizi da farmi credere, che in una di</l>
+        <l>queste volte sotterranee siano celate le ricchezze a te</l>
+        <l>destinate, ed io, premurosa della tua sorte, ho voluto</l>
+        <l>seguirti, per assicurarmene da me stessa.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Vi’ ca sta Vennera è stata sempe ‘na chelleta perniciosa,</l>
+        <l>non borria che arrivasse lo padrone mio ch’è cchiù</l>
+        <l>‘nfernuso de Saturno, e ‘nee facesse restà a tutte duje</l>
+        <l>comm’a mellune appise dint’a la rezza?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Lascia ch’io faccia le mie diligenze, e non seccarmi di</l>
+        <l>vantaggio.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Aggio paura ca sta diligenzia non me fa fa ‘na carrera</l>
+        <l>sforzata pe l’auto munno.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Eccolo!) Ma chi è colui?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Lo prigioniero! Che t’aggio ditto.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Dorme?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>O dorme, o lo poverommo starà penzanno a li guaje</l>
+        <l>suoie.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Che miro! Oh, qual portento! Vedi tu quella striscia</l>
+        <l>di luce, che folgoreggia sulla rugosa sua fronte?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Qua striscia? Chelle so felinie, che scenneno dalla</l>
+        <l>soffitta. Argi, tu piglie ogni zaro de no cantaro l’uno!</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Hai ragione, miserabile! A te non è permesso</l>
+        <l>l’arcano de’ Celesti.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Tu ll’aje co l’arcaseno celeste, e io tremmo de lo</l>
+        <l>mostro turchino, che non se sazia la seta co lo</l>
+        <l>sango mio scarlato.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Lo splendore a me solo visibile m’indica senza</l>
+        <l>dubbio, che quel vecchio dovrà essere il primo</l>
+        <l>istrumento della tua fortuna.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Chillo llà? Bello strumento scordato! Si lo cielo</l>
+        <l>l’è compare non campa duje aute juorne.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Io non posso dirti altro. Attendimi qui, e lascia</l>
+        <l>che da vicino lo esamini.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Addò vaje? Vi’ ca chillo non magna carne da no</l>
+        <l>secolo, e co no muorzo te potria scippà moza</l>
+        <l>varva.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Fermati qui, ti replico, e lascia fare a me.</l>
+        <l>(si avvicina a Sebastiano)</l>
+      </sp>
+      <stage>ARGILLAFermati qui, ti replico, e lascia fare a me.(si avvicina a Sebastiano)</stage>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Chesta sarà asciuta da li rine de Proserpina!</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Don Sebastiano Alvarez?)</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>(Ah! chi mi chiama? E com’è a te noto il nome</l>
+        <l>di uno sventurato?)</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Prudenza… non mostrate sorpresa … io son</l>
+        <l>colei che ha raccolto il vostro foglio … eccolo…</l>
+        <l>(gli mostra il foglio di soppiatto)</l>
+      </sp>
+      <stage>ARGILLA(Prudenza… non mostrate sorpresa … io soncolei che ha raccolto il vostro foglio … eccolo…(gli mostra il foglio di soppiatto)</stage>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>(Ah sì! Ti riconosco alla voce!)</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Ho profittato della sciocchezza di Papaccione per</l>
+        <l>avvicinarmi con un pretesto a voi, e per assicurarvi,</l>
+        <l>che io sola basterò a trarvi da questa prigione.)</l>
+        <l>SEBASTIANO</l>
+        <l>(Oh, donna incomparabile! Ah! non son dunque</l>
+        <l>tanto infelice, se il cielo mi concede in voi il dono</l>
+        <l>di una generosa protettrice!)</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Ne! gué! oh! ‘mmalora ‘nzordiscela!</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ti ho detto di non frastornarmi, io sto parlando</l>
+        <l>con Venere, e Mercurio.</l>
+        <l>PAPACCIONE</l>
+        <l>E mo avimmo sbagliato la facenna.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Perché?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Ca quanno sii duje cape de roba stanno aunite,</l>
+        <l>no ce po’ essere mai bene per l’umanità bisognosa.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ma lasciami finire, mi fai perdere tempo con le</l>
+        <l>tue intempestive barzellette.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>E bide de te spiccià, ca a me li vierme già me</l>
+        <l>stanno concertanno ‘ncuorpo ‘no ballo serio,</l>
+        <l>grottesco, anacreontico.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Coraggio, don Sebastiano! Io scenderò questa</l>
+        <l>notte a sciogliere le vostre catene.)</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>(Con quai mezzi potrai deludere l’altrui</l>
+        <l>vigilanza?)</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Non posso dirveli per ora. Fidate in me, e sappiate</l>
+        <l>che una tenera figlia non sarebbe tanto premurosa</l>
+        <l>della libertà del padre, quanto sarò io sollecita a</l>
+        <l>proccurarvi uno scampo.)</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>(Ah! non posso resistere a quegl’impulsi, che in</l>
+        <l>me si destano a tuoi soavi accenti! Sì… qual</l>
+        <l>padre ti stringo al seno, e da te sola spero la</l>
+        <l>libertà, che una crudele violenza mi ha rapita!)</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Gnò! Vi’ comme fanno bello! Buono signò!</l>
+        <l>La zingara s’è posta d’accordo cò Mercurio.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Addio, restate lieto, ch’io vado a tutto</l>
+        <l>intraprendere per voi.)</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>(Basta questa sola promessa a far cessare i miei</l>
+        <l>lunghi tormenti.)</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Andiamo Papaccione.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Te se’ spicciata? Aje appurato niente?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Tutto… andiamo ti dico.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>E lo tesoro sta cca dinto?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ci sta, e non ci sta… vieni meco, e saprai tutto…</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>E pecché chella focosa astregnetora? Dimme la</l>
+        <l>verità te tirassero simpatia porzì l’ottagenarie?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Oh, quante domande inutili! Vieni sopra ti replico:</l>
+        <l>il tuo affare va felicemente al suo termine,</l>
+        <l>e tu sarai contento.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>E ghiammo bella mia, tu aje da essere l’anguilla</l>
+        <l>de ‘sto pantano.</l>
+        <l>(via con Argilla)</l>
+      </sp>
+      <stage>PAPACCIONEE ghiammo bella mia, tu aje da essere l’anguillade ‘sto pantano.(via con Argilla)</stage>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>E fia vero? Saranno infranti i miei ceppi? Oh,</l>
+        <l>mia liberatrice! Il cielo, che veglia alla salvezza</l>
+        <l>degli oppressi, seconderà il tuo ingegnoso disegno.</l>
+        <l>(entra)</l>
+      </sp>
+      <stage>SEBASTIANOE fia vero? Saranno infranti i miei ceppi? Oh,mia liberatrice! Il cielo, che veglia alla salvezzadegli oppressi, seconderà il tuo ingegnoso disegno.(entra)</stage>
+      <stage>Scena settimaDalla campagna Fernando e Sguiglio in abiti succinti,poi Argilla.</stage>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>A te nell’appressarmi</l>
+        <l>soggiorno del mio ben</l>
+        <l>già tutto divamparmi</l>
+        <l>io sento il core in sen!</l>
+        <l>Se vagheggiar mi è dato</l>
+        <l>le amate sue pupille,</l>
+        <l>appieno avventurato,</l>
+        <l>sarò felice appien.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Signò, non v’azzardate,</l>
+        <l>signò, non ve nfeccate;</l>
+        <l>eppure trica, trica,</l>
+        <l>e ne’ abbuscammo affè!</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Coraggio don Fernando!</l>
+        <l>(presentandosi)</l>
+        <l>Amor vi guida in porto…</l>
+        <l>vada la tema in bando,</l>
+        <l>è il ciel per voi seren.</l>
+      </sp>
+      <stage>ARGILLACoraggio don Fernando!(presentandosi)Amor vi guida in porto…vada la tema in bando,è il ciel per voi seren.</stage>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Che ascolto! E voi chi siete?</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>(Simmo scopierte a ramma!)</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Il nome mio sapete?</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>(Auzammo ‘mo la gamma,</l>
+        <l>si no’ so guaie, messè!)</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Son la consolatrice</l>
+        <l>de’ cori innamorati:</l>
+        <l>son l’araba fenice</l>
+        <l>ne’ casi disperati:</l>
+        <l>risorge a nuova vita</l>
+        <l>ogni amator per me.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Ripara quanno è chesso</l>
+        <l>pe mme no caso brutto:</l>
+        <l>nel mio verzillo asciutto</l>
+        <l>la ‘mbrumma fa cadè.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Deli, taci!</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>A un vile Sguiglio</l>
+        <l>tempo a pensar non è.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Porzì sa il nome mio?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Oh ciel! Che mai degg’io,</l>
+        <l>donna, pensar di te?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Un essere pietoso,</l>
+        <l>un genio in me tu miri,</l>
+        <l>che a crudi tuoi martiri</l>
+        <l>quì venne a dar mercé.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>(Costei mi sorprende! confuso mi rende!…</l>
+        <l>fidarmi non deggio se dubito è peggio…</l>
+        <l>nel fiero conflitto di speme e timore</l>
+        <l>il povero core la calma perdè!)</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>(Ca chesta è ghianara la cosa è già chiara …</l>
+        <l>ma tene ‘na vocca che l’arma te ‘ncrocca …</l>
+        <l>chill’uocchio ‘mmalora! li core affattora …</l>
+        <l>ca Sguiglio è sguigliato, cchiù dubbio non nc’è!)</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(L’amìco è smarrito, il servo è stordito.</l>
+        <l>Sta l’un sospettoso, è l’altro dubbioso…</l>
+        <l>grazioso è l’istante, mi alletta, mi piace,</l>
+        <l>il povero amante è fuori di sé!)</l>
+        <l>(Essi non sanno, che ho sentito il loro discorso,</l>
+        <l>che all’alba facevano seduti nel vicin prato.)</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Dilegua i miei dubbi, o donna, e dimmi…</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Cesserà à la vostra sorpresa, quando ravviserete in me</l>
+        <l>la celebre zingara, la famosa Argilla.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Ah! vuje site la siè Petronilla?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Oh, sorprendente indovina! Ed il vostro sapere è</l>
+        <l>tale…</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Che niente a me resta celato.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Che bella cosa a sapé tutte le ‘mbroglie del genere</l>
+        <l>umano, che non so’ poche!</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>E tu mi conosci?…</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Quanto me stessa. Voi siete un giovane innamorato,</l>
+        <l>che sotto mentite divise qui venite a vedere la bella</l>
+        <l>Ines.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Saje porzi la bella Icchese? E a me pecchè me</l>
+        <l>canusce?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Per uno sbarbatello, pieno di amorosi desideri, e</l>
+        <l>privo de’ mezzi a soddisfarli.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Statte zitto! Non saje ca cierte berità non sempe</l>
+        <l>se ponno dicere?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Ah! se tutto ti è noto, dimmi, che fa la mia cara</l>
+        <l>Ines?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Non pensa che a voi; non si occupa che della</l>
+        <l>vostra rimembranza.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Oh, me felice! Io non la vidi, che due sole volte</l>
+        <l>nel suo campestre ritiro.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Addò jèttemo a caccia, cioè… isso depenne, e io</l>
+        <l>de fiche, uva, e di altri pacifici vegetabili.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>E due sole volte sono state bastevoli a destare in</l>
+        <l>lei una fiamma inestinguibile?</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Dimme na cosa… e chella cammarera arraggiosa</l>
+        <l>sta ancora co’ essa?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Si, e n’è la vigile custode.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Mmalora! E che mosca cavallina!</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Mi sarà dunque vietato di rivederla?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>E che sarebbe Argilla, se non le si rendesse facile una</l>
+        <l>cosa di si poco rilievo?</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Co’ salute, si bona pé accessoria, e principale?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Potrebbe anzi esserne questo l’opportuno momento:</l>
+        <l>son tutti fuori del castello, e solleciti a ricevere</l>
+        <l>un rispettabile amico di don Ranuccio. Entrate</l>
+        <l>in esso, aggiratevi nel maggior cortile. Io farò</l>
+        <l>colle mie astuzie discendere la vostra Ines, e fa</l>
+        <l>vellerete con essa a vostro piacere. Volete altro?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Ah! tu mi rendi beato!</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>E mentre lo padrone se spassa co Icchese, nujE</l>
+        <l>facimmo ‘nziemo ‘na zeta, facennoce ‘na sciasciata</l>
+        <l>amorosa: ca a me sempre li zingare me so trasute.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>io non converso con micchi: m’innalzo ad artimali più</l>
+        <l>generosi.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>(Ebbiva la gallotta ‘mpastata!)</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Escono opportunamente dal castello don Ranuccio e</l>
+        <l>il suo amico: celatevi dietro di quel cespuglio, e</l>
+        <l>guadagnate subito l’ingresso.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>E tu non vieni?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Entrerò quando sarò sicura ch’essi si saranno</l>
+        <l>allontanati. Presto…</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Oh, Amore! Deh, tu seconda il mio ardente desio!</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Deh, cioncate per poco, o varre insidiatrici delle</l>
+        <l>nostre povere spalle!</l>
+      </sp>
+      <stage>Si celano dietro i cespugli, ed appena saranno uscitidon Ranuccio, ed Antonio, essi rapidamentes’introdurranno nel castello.</stage>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Qui, in questo luogo potremo favellare liberamente, e</l>
+        <l>senza destar sospetto né miei domestici.</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Parlate pure: la mia fedeltà vi dovrebbe esser nota.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Sai pure, che per farti possessore dell’immensa fortuna</l>
+        <l>di don Sebastiano Alvarez tuo zio, io lo feci dai miei</l>
+        <l>fidi sorprendere quando egli si ritirò dall’America, e</l>
+        <l>dal mio castello non lungi da Toledo lo feci di notte</l>
+        <l>trasportare in questa signoria, ove da più anni nel</l>
+        <l>fondo d’un sotterraneo vive a tutti ignoto.</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Rammentatevi però, che voi mi prometteste di</l>
+        <l>rispettare la sua vita.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Dimmi ora; qual diedi risposta alla tua richiesta della</l>
+        <l>mano di mia figlia?</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Che questa dovrà essere il prezzo della mia cieca</l>
+        <l>dipendenza alla vostra volontà illimitata.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Ascolta dunque. Doveva il re scegliere fra suoi</l>
+        <l>distinti sudditi il più meritevole per innalzarlo alla</l>
+        <l>luminosa carica di ministro alla visita de’ magistrati di</l>
+        <l>tutto il regno. Fu tanto a me nociva la invidia di</l>
+        <l>alcuni miei nemici, che mi si fece preferire il duca di</l>
+        <l>Alziras, e mi fu rapito così quel supremo comando, cui</l>
+        <l>la mia ambizione aspirava.</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Intesi ciò a dire.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Fu necessità allora di sopprimere il mio sdegno;</l>
+        <l>giurai però a miglior tempo vendetta, ed eccone</l>
+        <l>fortunatamente appressato il momento.</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Ed in qual modo?</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Il duca scorre il regno nell’esercizio del suo</l>
+        <l>ministero. Avvicinandosi a queste contrade, egli ha</l>
+        <l>divisato, come sai, di trattenersi per qualche giorno</l>
+        <l>nel mio castello.</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Ebbene?</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Ebbene alla tua mano è riserbato di compiere la mia</l>
+        <l>vendetta.</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Alla mia mano? E come?</l>
+      </sp>
+      <stage>Ranuccio guarda intorno, brandisce cauto un pugnale,indi con espressione marcata dice ad Antonio:</stage>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Ecco un pugnal… su… celalo…</l>
+        <l>Giunge l’amico istante,</l>
+        <l>vicina è già la vittima</l>
+        <l>serbata al mio furor.</l>
+        <l>Allor che del silenzio</l>
+        <l>Spande la notte il velo,</l>
+        <l>scagliati a lui, sorprendilo</l>
+        <l>nel primo suo sopor.</l>
+        <l>Aprili il petto, ed avido</l>
+        <l>Cerca quell’empio cor…</l>
+        <l>A brano a bran poi strappalo,</l>
+        <l>o mio vendicator!</l>
+        <l>Ad animarti il braccio</l>
+        <l>Avrai l’averno istesso,</l>
+        <l>che alimentò represso l’antico</l>
+        <l>mio livor.</l>
+        <l>(Antonio resta dubbioso)</l>
+        <l>Ma tu vacilli! Ah, debole!</l>
+        <l>Palpiti dubbio ancor?</l>
+        <l>E ben quel ferro rendimi …</l>
+        <l>rinunzia alla tua sorte…</l>
+        <l>d’Ines mai più consorte…</l>
+        <l>di me… va! Non sei degno…</l>
+        <l>non manca al mio disegno</l>
+        <l>più ardito esecutor.</l>
+      </sp>
+      <stage>RANUCCIOEcco un pugnal… su… celalo…Giunge l’amico istante,vicina è già la vittimaserbata al mio furor.Allor che del silenzioSpande la notte il velo,scagliati a lui, sorprendilonel primo suo sopor.Aprili il petto, ed avidoCerca quell’empio cor…A brano a bran poi strappalo,o mio vendicator!Ad animarti il braccioAvrai l’averno istesso,che alimentò represso l’anticomio livor.(Antonio resta dubbioso)Ma tu vacilli! Ah, debole!Palpiti dubbio ancor?E ben quel ferro rendimi …rinunzia alla tua sorte…d’Ines mai più consorte…di me… va! Non sei degno…non manca al mio disegnopiù ardito esecutor.</stage>
+      <stage>Si sentono voci di pastori da lontano.</stage>
+      <sp who="#voci">
+        <speaker>VOCI:</speaker>
+        <l>Il duca! Evviva! Evviva!</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Quai voci?</l>
+      </sp>
+      <sp who="#voci">
+        <speaker>VOCI:</speaker>
+        <l>(come sopra)</l>
+        <l>Oh, qual favore!</l>
+        <l>Di così grande onore</l>
+        <l>esulti ogni pastor.</l>
+      </sp>
+      <stage>VOCI(come sopra)Oh, qual favore!Di così grande onoreesulti ogni pastor.</stage>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Ah, vile! Ah, iniquo Antonio!</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>(risoluto)</l>
+        <l>Vile non son… mi avrai</l>
+        <l>fido a’ tuoi cenni</l>
+      </sp>
+      <stage>ANTONIO(risoluto)Vile non son… mi avraifido a’ tuoi cenni</stage>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Abbracciami!</l>
+        <l>(con tutta l’espressione del piacere)</l>
+        <l>Sarai felice appieno:</l>
+        <l>tutte le sue delizie</l>
+        <l>già ti prepara amor.</l>
+        <l>Piacer della vendetta!</l>
+        <l>Tu scendi già in quest’alma!</l>
+        <l>Raggio d’amica calma</l>
+        <l>spero del tuo favor.</l>
+        <l>(abbraccia Antonio e parte con lui verso il</l>
+        <l>villaggio)</l>
+      </sp>
+      <stage>RANUCCIOAbbracciami!(con tutta l’espressione del piacere)Sarai felice appieno:tutte le sue deliziegià ti prepara amor.Piacer della vendetta!Tu scendi già in quest’alma!Raggio d’amica calmaspero del tuo favor.(abbraccia Antonio e parte con lui verso ilvillaggio)</stage>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Che intesi! Ah, mostro! E di tanti delitti puoi esser tu</l>
+        <l>capace? Trema! Il cielo ha qui mandato Argilla a</l>
+        <l>render vani i tuoi infami disegni.</l>
+        <l>(entra nel castello)</l>
+      </sp>
+      <stage>ARGILLAChe intesi! Ah, mostro! E di tanti delitti puoi esser tucapace? Trema! Il cielo ha qui mandato Argilla arender vani i tuoi infami disegni.(entra nel castello)</stage>
+      <stage>Scena nonaInes ed Amelia: poi Fernando e Sguiglioin osservazione; indi Argilla, in fine Papaccione.</stage>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Ma per seguirvi, signorina, mi avete stancata in modo</l>
+        <l>da non reggermi più sulle gambe!… Se i piedi han</l>
+        <l>seguita l’istabilità de’ pensieri, convien dire, che</l>
+        <l>abbiate il cervello molto stravolto.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Sei pur meco crudele! Io mi lusingava di vederlo da</l>
+        <l>per tutto…</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Chi mai?</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Fernando, Fernando, e chi altro?</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Volete, o no terminarla con questo maledetto</l>
+        <l>Fernando?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>(Vedila… Ah! non è quella la mia Ines?)</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>(‘Mmalora! La folleca steva aspettanno lo cacciatore!)</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>(Ah potessi farmi vedere da lei!)</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>(Ah, cano! Non te movere: aspettammo la zingara, si</l>
+        <l>nò facimmo asso e asso.)</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Orsù rientriamo nel vostro appartamento, or ora,</l>
+        <l>arriverà il duca di Alziras, e forse a vostro padre non</l>
+        <l>piacerà, che restiate in questo luogo.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>(Che? Il duca di Alziras! Il mio germano in questo</l>
+        <l>castello!)</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>(Zizza, pe’ ghionta! Mo si ca stammo tra la battaria</l>
+        <l>e la rotella a la bolognese.)</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Che arrivi pure il duca, mi sarà anche vietato di</l>
+        <l>assistere alla festa?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>(ad Argilla che arriva)</l>
+        <l>(Argilla! Ah vieni Ines è là colla sua rigida custode.)</l>
+      </sp>
+      <stage>FERNANDO(ad Argilla che arriva)(Argilla! Ah vieni Ines è là colla sua rigida custode.)</stage>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Celatevi, e siate pronto a comparire al primo mio</l>
+        <l>cenno.)</l>
+        <l>(si ritirano)</l>
+        <l>Salute, e prosperità a questa coppia gentile.</l>
+        <l>(presentandosi ad Ines ed Amelia)</l>
+      </sp>
+      <stage>ARGILLA(Celatevi, e siate pronto a comparire al primo miocenno.)(si ritirano)Salute, e prosperità a questa coppia gentile.(presentandosi ad Ines ed Amelia)</stage>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Oh, lasciaci pure in pace!</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>No Argilla, vieni anzi. Mi promettesti ieri</l>
+        <l>d’indovinare i miei casi.</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Oh via! Guastarvi il cervello,</l>
+        <l>dando ascolto a chimere!</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Siete voi la sola, che non credete ad Argilla:</l>
+        <l>provatevi, e vedrete che le mie non sono chimere, ma</l>
+        <l>verità.</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Che pazzie! Indovinar l’avvenire?</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Io mi contento, ch’essa mi parli del passato.</l>
+        <l>ARGILLA</l>
+        <l>Oh, questo è facile, semplicissimo.</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Trattandosi del passato, ascoltiamo, se sai colpire al</l>
+        <l>segno.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(ad Ines)</l>
+        <l>Porgetemi la vostra mano.</l>
+        <l>Vedo che avete passato gli anni della infanzia e</l>
+        <l>dell’adolescenza in una solitudine piacevole sotto</l>
+        <l>la vigilanza di una saggia donna, che si è</l>
+        <l>interessata a compartirvi la sua esperienza, la sua</l>
+        <l>bontà.</l>
+      </sp>
+      <stage>ARGILLA(ad Ines)Porgetemi la vostra mano.Vedo che avete passato gli anni della infanzia edell’adolescenza in una solitudine piacevole sottola vigilanza di una saggia donna, che si èinteressata a compartirvi la sua esperienza, la suabontà.</stage>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Oh! Indovini perfettamente! La sua esperienza, e la</l>
+        <l>sua bontà. Questo è quello, che ho fatto sempre per lei.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ah! Siete voi… che…</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Io stessa.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Prosiegui pure.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Vedo un bel giovanetto che si presenta: l’amore che si</l>
+        <l>sveglia, l’amante che sparisce, e la montagna deserta</l>
+        <l>che si cangia in questo castello.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Oh, cielo! Amelia! Essa sa tutto!</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Vedi dunque, Argilla, anche la mia mano (costei mi</l>
+        <l>sorprende!)</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Lascia finire a me…</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Aspettate, dopo ritornerò a voi.</l>
+      </sp>
+      <stage>Mentre conduce Amelia in un lato a sedere colle spallerivolte ad Ines, fa cenno a Fernando il quale si avanza.Ines lo vede e vola a lui. Fernando e SguiglioLe faranno segno che taccia, e restano fra loro adiscorrere.</stage>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Sedete qui, ho bisogno di osservare la vostra</l>
+        <l>fisonomia, non già la mano. Quell’occhio mi dice, che</l>
+        <l>avete un core sensibilissimo, ma che siete stata mal</l>
+        <l>corrisposta da’ vostri amanti.</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Verissimo! Mai uno fedele, tutti ingrati e traditori!</l>
+      </sp>
+      <stage>Sguiglio vedendo da lungi Papaccione, lo mostra coigesti ad Argilla. Costei gli fa segno di trattenereAmelia con qualche pretesto.</stage>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>E così con chi parli?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>La signorina mi chiama, bisogna contentarla:</l>
+        <l>attendetemi un momento.</l>
+      </sp>
+      <stage>Nel punto che Argilla lascia Amelia, si presenta a costeiSguiglio, e procura trattenerla sempre colle spalle aidue amanti. Argilla attraversa sollecitamente la scena,e trattiene Papaccione, nascondendo colla suapersona i due amanti, che sono infondo.</stage>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Non ve sia pé comanno, site vuje don Ammennela?</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Amelia vuoi tu dire?</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Gnorzì, chesta è essa.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Allegro Papaccione! Gran cose, grandi scoverte!)</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(Ne? E fammelle sentì, consólame sto core.)</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Chi sei tu?</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Il primo paggio de lo duca Zisso…</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Del duca di Alziras! E cosa vuoi da me?</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>M’hanno ditto ca vuje site la factota de casa?</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Ebbene?</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Io so benuto de manguardia, e ve prego pé ‘no</l>
+        <l>buono alloggio ariuso, ca patesco de schianto de</l>
+        <l>core.</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Che so io di alloggi? Dirigiti a chi ne ha l’incombenza.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Mo! E sta mala grazia comme c’entra? Me parite ‘na</l>
+        <l>luna ‘nquintadecima, e non bolite fano poco de luce a</l>
+        <l>‘no poverommo che bedenno i vostri arraggiati riflessi</l>
+        <l>s’ha ‘ntiso tutte ‘nzieme pé buje ah! ‘Na magliata a lo</l>
+        <l>core?</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Mancava quest’altro matto a darmi molestia!</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>(E bi si se spicciano? E ‘nfratanto tenimmo sta</l>
+        <l>mula ‘nquatto!)</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>(Ah! Come sul mattin a</l>
+        <l>primi rai del sol</l>
+        <l>spiegando l’usignol</l>
+        <l>con flebili concenti</l>
+        <l>va l’innocente ardor,</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>(Pace non so trovar,</l>
+        <l>cara, lontan da te.</l>
+        <l>Tutto è languore in me,</l>
+        <l>splendor non han le stelle,</l>
+        <l>natura è a me d’orror.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Quando il gufo a mezza notte</l>
+        <l>canterà colla civetta,</l>
+        <l>io sollecita, e soletta</l>
+        <l>la tua porta busserò.</l>
+        <l>Ticche, tocche, ticche, to…</l>
+        <l>Zitto, e pian mi seguirai,</l>
+        <l>e in quel pozzo scenderai,</l>
+        <l>che indicarti io ben saprò.</l>
+        <l>I custodi del tesoro,</l>
+        <l>Belzebucco ed Astarotte,</l>
+        <l>di lasciarti pria quell’oro,</l>
+        <l>ti daran delle gran botte,</l>
+        <l>Papaccion, niente paura!</l>
+        <l>Brutti mostri appariranno,</l>
+        <l>sfingi, scimie, ombre, giganti,</l>
+        <l>de’ gran turchi con turbanti…</l>
+        <l>Papaccion, niente paura!</l>
+        <l>Col coraggio e la bravura,</l>
+        <l>sol puoi ricco diventar.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Quanno sento il gran duetto</l>
+        <l>tra lo gufo, e la cevetta,</l>
+        <l>io me metto a la veletta,</l>
+        <l>e il rilorgio sentarò…</l>
+        <l>Nti, riti, riti, riti, riti, riti, ntò.</l>
+        <l>Sona appena mezza notte,</l>
+        <l>tu me chiamme, e nquatto botte</l>
+        <l>dinto al puzzo scennarrò.</l>
+        <l>Comm’a ladro de campagna,</l>
+        <l>che dà ‘ncuollo a li viandante.</l>
+        <l>Assaccheo chella cuccagne,</l>
+        <l>piglio argiento, oro, e brillante,</l>
+        <l>zingarè, m’aggio paura:</l>
+        <l>Pe’ Astarotte e Barnabucco</l>
+        <l>stanno ccà le spalle meje.</l>
+        <l>Non so tanto mammalucco,</l>
+        <l>signornò, ‘n’aggio paura,</l>
+        <l>lo coraggio, e la bravura</l>
+        <l>schitto ricco me po fà.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>E botame ‘rifaccia</l>
+        <l>chill’uocchie siè Amè!</l>
+        <l>Ca voglio sta caccia</l>
+        <l>stirparme pe me.</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Più smorfie non farmi,</l>
+        <l>sei matto? Va là!</l>
+        <l>Un nano di amarmi</l>
+        <l>ardir non avrà.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Diceva si Ciommo,</l>
+        <l>lo dotto, e saputo,</l>
+        <l>a parme dell’ommo</l>
+        <l>mesura non fa.</l>
+        <l>Si tratte ‘no poco</l>
+        <l>chi è sto nennillo,</l>
+        <l>ca so peccerillo</l>
+        <l>te faccio scordà.</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Io mai con ragazzi</l>
+        <l>il tempo ho perduto;</l>
+        <l>mi è sempre piaciuto</l>
+        <l>il senno, e l’età.</l>
+        <l>Te ‘l dissi, e ridico,</l>
+        <l>per me tu non fai,</l>
+        <l>va’ trovati, amico,</l>
+        <l>qualche altra beltà.</l>
+        <l>Ma zitto!</l>
+      </sp>
+      <stage>Il vicino suono di pastorali istrumenti che annunzial’arrivo del duca, frastorna gli amanti.</stage>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Il duca arriva!)</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>(Ohimè! Giunge il germano!)</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Ma sínteme… va chiano…</l>
+        <l>(trattenendo sempre Amelia)</l>
+      </sp>
+      <stage>SGUIGLIOMa sínteme… va chiano…(trattenendo sempre Amelia)</stage>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Restato s’è accossì.</l>
+        <l>(esce per dove è entrato)</l>
+      </sp>
+      <stage>PAPACCIONERestato s’è accossì.(esce per dove è entrato)</stage>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Andimo, signorina…</l>
+        <l>(si sviluppa da Sguiglio, e sorprende i due amanti)</l>
+        <l>Che vedo! Ah! malandrina!</l>
+        <l>Ah, zingara briccona!</l>
+        <l>Così mi si canzona?</l>
+        <l>E tu giovane ardito</l>
+        <l>se qui più inoltri il piede,</l>
+        <l>vedrai cosa succede,</l>
+        <l>qual danno ti avverrà.</l>
+      </sp>
+      <stage>AMELIAAndimo, signorina…(si sviluppa da Sguiglio, e sorprende i due amanti)Che vedo! Ah! malandrina!Ah, zingara briccona!Così mi si canzona?E tu giovane arditose qui più inoltri il piede,vedrai cosa succede,qual danno ti avverrà.</stage>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Finiscela sta ja ja,</l>
+        <l>non bì ca so picciune?</l>
+        <l>Me pare affè ‘na groja,</l>
+        <l>‘n’arma de baccalà!</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Mi soffoga la rabbia,</l>
+        <l>mi assale il tristo umore,</l>
+        <l>partite, allontanatevi,</l>
+        <l>o adesso io dò in furore,</l>
+        <l>e allora la commedia</l>
+        <l>tragica finirà.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Fidate nella zingara,</l>
+        <l>fidate nel mio core,</l>
+        <l>non mancheranno astuzie</l>
+        <l>all’alto mio valore,</l>
+        <l>sì, questo ingegno fervido</l>
+        <l>vittoria canterà.)</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>(a Fernando)</l>
+        <l>E priesto mo’ finiscela!</l>
+        <l>E scumpela, signore!</l>
+        <l>vi ca si vene fráteto,</l>
+        <l>ccà nasce lo rommore,</l>
+        <l>‘na chioppeta de scoppole</l>
+        <l>la sento mo assommà!</l>
+      </sp>
+      <stage>SGUIGLIO(a Fernando)E priesto mo’ finiscela!E scumpela, signore!vi ca si vene fráteto,ccà nasce lo rommore,‘na chioppeta de scoppolela sento mo assommà!</stage>
+      <stage>Amelia prende per mano Ines, e la conduce seco,Fernando e Sguiglio si allontanano, ed Argilla vaa raccogliere i suoi seguaci.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Feste, gioie, delizie, piaceri</l>
+        <l>cacce, pranzi, spumanti bicchieri…</l>
+        <l>serva tutto a mostrar qual contento</l>
+        <l>in noi desti sì lieto momento,</l>
+        <l>come ogni alma festiva, baccante</l>
+        <l>sia superba di tanto favor!</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Basta, o amici; ah, troppo grati</l>
+        <l>sono a me quei cari accenti!</l>
+        <l>Quai soavi, e bei momenti</l>
+        <l>fa gustarmi il vostro amor!</l>
+        <l>Se mi accoglie in queste mura</l>
+        <l>amistà leale, e pura,</l>
+        <l>sarò lieto in fra i piaceri</l>
+        <l>che mi appresta il suo candor.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Si, ti accoglie in queste mura</l>
+        <l>di amistade il bel candor.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Amistà leale, e pura!</l>
+        <l>Sei la gioia di ogni cor.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(con caricatura)</l>
+        <l>Papaccione Cincorenza,</l>
+        <l>che i doveri non attrassa,</l>
+        <l>al magnifico eccellenza</l>
+        <l>or s’inchina, e ‘1 capo abbassa,</l>
+        <l>e ad un uom sì diffamato</l>
+        <l>viene il maggio a presentà.</l>
+        <l>A te in faccia il sole è un zero,</l>
+        <l>è la luna una ciantella;</l>
+        <l>sei dell’orbico emisfero</l>
+        <l>la lucerna, anzi la stella:</l>
+        <l>è il tuo core un mappamondo,</l>
+        <l>quella bocca un campo Eliso,</l>
+        <l>sei bislungo, anzi rotondo,</l>
+        <l>sei più bel del grande acciso;</l>
+        <l>che… cioè… ma mi confondo…</l>
+        <l>di più dir non son capace…</l>
+        <l>al silenzio mio loquace</l>
+        <l>supplirà la tua bontà.</l>
+      </sp>
+      <stage>PAPACCIONE(con caricatura)Papaccione Cincorenza,che i doveri non attrassa,al magnifico eccellenzaor s’inchina, e ‘1 capo abbassa,e ad un uom sì diffamatoviene il maggio a presentà.A te in faccia il sole è un zero,è la luna una ciantella;sei dell’orbico emisferola lucerna, anzi la stella:è il tuo core un mappamondo,quella bocca un campo Eliso,sei bislungo, anzi rotondo,sei più bel del grande acciso;che… cioè… ma mi confondo…di più dir non son capace…al silenzio mio loquacesupplirà la tua bontà.</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Ah! ah! ah!</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Grazioso in vero!</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Compatite, è tutto solo.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(Del sublime mio pensiero</l>
+        <l>stanno il merto ad ammirà)</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Se un cor magnanimo tu chiudi in petto,</l>
+        <l>dell’umil zingara soffri l’aspetto,</l>
+        <l>che lieti annunzi t’offre, o signor.</l>
+        <l>La gioia, il giubilo ti sieda allato,</l>
+        <l>gli astri benefici, oltre l’usato,</l>
+        <l>per te scintillino di alto splendor.</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Gli auguri accetto, donna gentile,</l>
+        <l>e ti prometto il mio favor.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(Ma vi sta zingara, comme se ‘nficca!</l>
+        <l>Che mutria celebre! Che franco umor!)</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Là sulle stanze andiamo,</l>
+        <l>siegui i miei passi, amico.</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Guidami a tuo piacere:</l>
+        <l>son tuo seguace ognor.</l>
+        <l>Accresca il mio contento</l>
+        <l>la rimembranza amica</l>
+        <l>dell’amicizia antica,</l>
+        <l>che strinse il nostro cor.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>(Oh trista rimembranza!</l>
+        <l>I torti miei rammento</l>
+        <l>e frenar posso a stento</l>
+        <l>l’ascoso mio furor.)</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(L’alma perversa, e ria</l>
+        <l>medita un tradimento;</l>
+        <l>la vigilanza mia</l>
+        <l>farà svanirlo or or.)</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>(La trista rimembranza</l>
+        <l>più i torti suoi rammenta,</l>
+        <l>mentre amistade ostenta</l>
+        <l>più pasce il suo livor.)</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(Me pareno mille anne,</l>
+        <l>che notte va scuranno,</l>
+        <l>che doppie, atta d’aguanno!</l>
+        <l>Saraggio un gran signor.)</l>
+      </sp>
+      <stage>Tutto il corteggio si avvia agli appartamenti.Si cala il sipario.</stage>
+      <sp who="#atto secondo">
+        <speaker>ATTO SECONDO:</speaker>
+      </sp>
+      <stage>Parte remota del castello: un muro attraversa la scena:in mezzo un cancello: a sinistra una porta ferrata:altra porta a dritta, che per una scala segretaconduce all’appartamento destinato al duca diAlziras: in fondo una vecchia cisterna. É vicinaLa notte.Scena primaS’introducono dal cancello Fernando e Sguiglio.</stage>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>E tridece! Gnorsì, la zingara, la siè Camilla, essa</l>
+        <l>proprio ‘mperzona m’ha ditto, ca l’aspettate</l>
+        <l>ccà, ca v’ha da parla’ de cose toste, e pesante.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Che sarà mai? Né tu hai potuto investigarne l’oggetto?</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Quà, veste de cammera, e loggetta me jate contanno?</l>
+        <l>Pe dirle schitto, zingarè? Dillo a me ca</l>
+        <l>io e lo patrone simmo una cosa, m’ha sonato ‘no</l>
+        <l>scozzetto accosì secante, che m’ha fatto vedè la</l>
+        <l>luna dinto a lo puzzo.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Ah! se tu mi ami, o caro, procura di rivedere</l>
+        <l>Argilla; dille, che io qui sono ad attenderla, e</l>
+        <l>Che venga presto a porre in calma il mio spirito.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Addò ‘mmalora la trovo? Chella squaglia comme</l>
+        <l>a Sautanasso; e po’ non me voglio fa vedè girà</l>
+        <l>tanto dinto a sto castiello… io songo ‘na figura…</l>
+        <l>benedica!… Che pe’ bellezza, e rarità richiama</l>
+        <l>l’occhiate de’ curiosi… avesse da essere pigliato</l>
+        <l>‘ncontrobanno?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Lascia fare alla sorte.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Accossì dicette chillo che se jettaje a mare, pe’</l>
+        <l>piglià cannolicchie, e ce restaje affocato.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Vanne… ti dico!</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Non te piglià collera, ca mo jammo; tata non me</l>
+        <l>poteva ‘mparà a fà lo mercante de ragione ‘mmece</l>
+        <l>de lo servitore! Lo cielo me la manna bona!</l>
+        <l>(esce per lo cancello)</l>
+      </sp>
+      <stage>SGUIGLIONon te piglià collera, ca mo jammo; tata non mepoteva ‘mparà a fà lo mercante de ragione ‘mmecede lo servitore! Lo cielo me la manna bona!(esce per lo cancello)</stage>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Ines! Ines! Ah! tu sola fai obbliarmi il mio</l>
+        <l>periglio.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Che sia egli partito senza più rivedermi?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Oh! stelle! E non è quella Ines?</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Eccolo! É qui il mio Fernando…</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Qual fato benefico guida i tuoi passi in questo</l>
+        <l>solitario recinto?</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>La brama di rivederti, di dirti tante cose… Amelia</l>
+        <l>mi dice che tu potresti essere uno storditello,</l>
+        <l>un giovane vagabondo.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Ah! ingiusta! Non dirà più così quando saprà chi</l>
+        <l>è Fernando…</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Tu sei dunque degno di me?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>(Che dissi! Imprudente!)</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Ah! parla, palesami un segreto, che tanto anela</l>
+        <l>di conoscere il mio core…</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Lascia, che io taccia, e miglior tempo attendi.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Va’ ingrato! Va’! Temi di me? Non sai,</l>
+        <l>che arcani amor non ha?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Legge crudele</l>
+        <l>il mio silenzio impone.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Ah! no, non mi ami,</l>
+        <l>e mi lusinga il tuo fallace inganno.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>(Hai più angosce per me, fato tiranno?)</l>
+        <l>Un mentitor mi credi?</l>
+        <l>Puoi dubitar di me?</l>
+        <l>Aprimi il core, e vedi</l>
+        <l>se pura è la mia fé.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Pensa, che i giorni miei</l>
+        <l>serbai finor per te:</l>
+        <l>che di dolor morrei</l>
+        <l>priva di tua mercé.</l>
+        <l>FERNANDO</l>
+        <l>Un dubbio tal mi offende…</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Narra le tue vicende.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Per or nol posso… in breve tutto saprai: tel giura</l>
+        <l>il labbro mio…</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Sicura dunque sarò? Né temo</l>
+        <l>esser da te tradita?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Qual tema? Ah no… mia vita!</l>
+        <l>Mirar quei vaghi rai,</l>
+        <l>ed esser mancatore</l>
+        <l>possibil non è.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Perdona, io ti oltraggiai,</l>
+        <l>ma colpa fu di Amore,</l>
+        <l>che dubitar mi fe’.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Addio!</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Va pur, mia cara…</l>
+        <l>ti affida e non temer.</l>
+      </sp>
+      <stage>INES e FERNANDOAffetti! ah, voi, che a garaquest’anima straziate,l’istante non turbatedi un rapido piacer!(via Ines)</stage>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>In quale imprudenza mi trasportava uno slancio</l>
+        <l>inconsiderato!</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Don Fernando?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Argilla, che hai tu da dirmi?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ascoltate: qui si ordisce un tradimento; un</l>
+        <l>assassinio all’amistà assopita… io vi prescelgo</l>
+        <l>a sorprendere l’aggressore: così l’uomo rispettabile,</l>
+        <l>che a voi sarà debitore della sua salvezza, potrà</l>
+        <l>facilitarvi il possesso d’Ines.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Spiegati in più chiari accenti.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Il perfido don Ranuccio, per vendicarsi degli</l>
+        <l>oltraggi che crede di aver ricevuti dal duca di</l>
+        <l>Alziras, al prezzo della mano di sua figlia ha sedotto</l>
+        <l>Antonio Alvarez a rendersi l’assassino del duca,</l>
+        <l>e questa notte è per commettersi così enorme mi</l>
+        <l>sfatto.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Che ascolto!</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Avete armi?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Alla difesa della mia vita serbo occulto un pu</l>
+        <l>gnale.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Restate lì alla vedetta, e siate pronto ad accorre</l>
+        <l>re alla mia voce.</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Vado.</l>
+        <l>(si cela)</l>
+      </sp>
+      <stage>FERNANDOVado.(si cela)</stage>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Entrate amici.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Aje trovato lo patrone mio?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Sì.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>L’aje parlato?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Già.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>E mo addò stà?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>In un sito sicuramente.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>M’aje levata la curiosità! L’aje ditto: ca m’aje</l>
+        <l>trattenuto cottíco, pe t’ajutà a la ‘mbroglia, che</l>
+        <l>haje pensata?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>No.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>No? E aje fatto assaje!</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Non dubitare, lo avvertirò di tutto fra poco: tu</l>
+        <l>intanto scendi ne la cisterna co’ miei compagni:</l>
+        <l>io vi ho bene istruiti di quanto fa d’uopo per la</l>
+        <l>scena che ho meditata.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Ricórdate de la bonamano, che m’aje promessa.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Vorresti in moglie una delle mie zingare, non è</l>
+        <l>vero?</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Cioè, io vorria a te: ma quanno st’arcera è riserbita</l>
+        <l>a cacciatori magnati, m’arremedio co la prattica</l>
+        <l>toja chiù peccerella, ca è ‘na guagliona, che</l>
+        <l>se va facenno mereto.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Abbasso chiacchierone! Scendete con voi le ca</l>
+        <l>tene, l’occorrente da far le fiamme.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Vi ca non facimmo tanto fieto de zurfo, ca io</l>
+        <l>patesco d’affetti sterici!</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Oh, che puzza de perimma! A nomme de ‘na pon</l>
+        <l>tura!</l>
+      </sp>
+      <stage>Sguiglio preceduto da’ zingari scende nella cisternafacendosi lume col lanternino.</stage>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Voi altri due nascondetevi là, e siate pronti ad</l>
+        <l>ubbidirmi.</l>
+        <l>(I due zingari si nascondono fuori il castello.)</l>
+        <l>Si dia adesso il segno al credulo Papaccione.</l>
+        <l>(batte la porta ferrata)</l>
+        <l>Non mi risponde! Eh! eh!</l>
+        <l>Papaccione! Papaccione!</l>
+      </sp>
+      <stage>ARGILLAVoi altri due nascondetevi là, e siate pronti adubbidirmi.(I due zingari si nascondono fuori il castello.)Si dia adesso il segno al credulo Papaccione.(batte la porta ferrata)Non mi risponde! Eh! eh!Papaccione! Papaccione!</stage>
+      <stage>Scena quintaPapaccione prima dentro, poifuora dalla portaferrata e detta.</stage>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Ma si non sento primma canta lo gufo e la cevetta,</l>
+        <l>comme vuò che te risponno?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Oh maledetto! Al riparo.) Apri dico.</l>
+        <l>Quante civette vuoi sentire?</l>
+        <l>Non hai tu ascoltata la mia voce?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Ne? E tu che sì cevettola?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Che maraviglia! Non sai che zingara e civetta</l>
+        <l>s’intende dire lo stesso? Tu non capisci affatto</l>
+        <l>il linguaggio mistico.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>E secunno sto par’à cistico tujo, lo gufo mo’ chi</l>
+        <l>aveva da essere?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Tu stesso, che dovevi per necessità rispondere</l>
+        <l>all’invito di questa civetta.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Siente, quacche bota aggio dubitato d’essere ommo</l>
+        <l>a quatto piede, ma ‘maje aggio pensato d’avè le scelle;</l>
+        <l>e pecchesto me ne so ghiuto sempe</l>
+        <l>terra terra, ne me so partute ‘maje da corpiette</l>
+        <l>e gonnelle.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Sbrigati, che siamo già a tiro.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Mo’… Quanto ‘nzerro sta porta, e so cottíco.</l>
+        <l>(chiude la porta, e mette le chiavi alla cintura)</l>
+        <l>ARGILLA</l>
+        <l>(Oh! Quelle chiavi saranno fra poco in poter mio.)</l>
+      </sp>
+      <stage>PAPACCIONEMo’… Quanto ‘nzerro sta porta, e so cottíco.(chiude la porta, e mette le chiavi alla cintura)ARGILLA(Oh! Quelle chiavi saranno fra poco in poter mio.)</stage>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Argì… aggio portato porzì sto sacco pe me ne car</l>
+        <l>rià quante chiù ne pozzo de zecchine.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Hai fatto benissimo: vedi tu queste due doppie?</l>
+        <l>Io le ho trovate fra le tante altre sparse su primi</l>
+        <l>scalini, che conducono in fondo a quella vecchia</l>
+        <l>cisterna…</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Aje visto buono? Fossero jettarelle?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Che dici! Vuoi che io non conosca l’oro?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Ma si so ciuccio! É stato il gran metallo, che</l>
+        <l>sempre ti ha tirato simpatia.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ho steso la mano per prenderne delle altre, ma</l>
+        <l>una forza invisibile me l’ha respinta: sono esse</l>
+        <l>riserbate solamente al buon Papaccione!</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Oh! che piacere! Abbesogna però, ch’io trovo</l>
+        <l>qualche nova maniera de ne fruscià parte de sto</l>
+        <l>denaro, ca si no pensanno, che ne tengo tanto</l>
+        <l>contra il mio solito, io me sento l’ommo lo chiù</l>
+        <l>confuso de lo munno.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>A ciò penserai dopo: orsù discendi nella cisterna:</l>
+        <l>l’ora è già tarda…</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Dico io… aggio da scennere afforza llà bascio,</l>
+        <l>non è lo vero?</l>
+        <l>ARGILLA</l>
+        <l>E come potresti altrimenti impossessarti del</l>
+        <l>tesoro?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>E non potarríano li spirite avè la crianza de</l>
+        <l>portaremillo ccà ncoppa, senza farme piglià</l>
+        <l>st’incomodo?</l>
+        <l>ARGILLA</l>
+        <l>Tu sei un originale! Va… scendi… e non perdere</l>
+        <l>più tempo.</l>
+        <l>PAPACCIONE</l>
+        <l>Ma pecché non scennimmo ‘nziemo?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ed a che fare?</l>
+        <l>PAPACCIONE</l>
+        <l>Tu tenarrisse’ncampana a li mammune, e io</l>
+        <l>turria l’arravoglia cuosemo.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ma se è a te solo destinata questa fortuna…</l>
+        <l>Papaccione, adesso vado via… e così…</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Aspè… mo scenno… sapisse alomanco comme</l>
+        <l>stanno d’umore chilli duje galantuomene, che</l>
+        <l>guardano lo tesoro?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Astarotte e Belzebucco? Non temere… io li ho</l>
+        <l>pacificati co’ miei scongiuri: ne vuoi una pruova?</l>
+        <l>(affacciandosi alla cisterna)</l>
+        <l>Oh! voi, che custodite le immense ricchezze</l>
+        <l>nascoste in questa cisterna, fate sentire al buon</l>
+        <l>Papaccione gli ordini del vostro Nume infernale!</l>
+      </sp>
+      <stage>ARGILLAAstarotte e Belzebucco? Non temere… io li hopacificati co’ miei scongiuri: ne vuoi una pruova?(affacciandosi alla cisterna)Oh! voi, che custodite le immense ricchezzenascoste in questa cisterna, fate sentire al buonPapaccione gli ordini del vostro Nume infernale!</stage>
+      <stage>Si vede dal fondo della cisterna un vampa, indi sisente il seguente coro sotterraneo…</stage>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>Scendi, scendi Papaccion</l>
+        <l>tanto caro al dio Pluton!</l>
+        <l>Di monete un milion</l>
+        <l>generoso ei ti offre in don:</l>
+        <l>scendi, scendi Papaccion,</l>
+        <l>tanto caro al dio Pluton.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(Ajemme! Che brutte vuce in bautta!)</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Sei contento? Avrai ora più ritegno di scendere?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(Io mo sarria stato a munno mio ‘no grann’ ommo</l>
+        <l>coraggiuso, si non avesse avuto lo vizio de</l>
+        <l>ire sempe ‘ncompagnia co la maledetta paura!)</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Bada però di non portare indosso alcun metallo:</l>
+        <l>potresti così perdere la tua sorte.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Quà metallo? Dinto a la sacca mia non c’è manco</l>
+        <l>orma di abitator, che la calpesti.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ti parlo di ogni sorta di metallo hai tu armi</l>
+        <l>di acciaio? Chiavi?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Tengo chelle della porta, e de le catene de</l>
+        <l>lo prigioniero.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>E lasciale a me: le avrai al tuo ritorno (É fatta!)</l>
+        <l>Orsù al felice cimento…</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Mo… ne? Saje certo si la gradiata arriva ‘nzi abbascio?</l>
+        <l>M’avesse da rompere la noce de lo cuollo?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Quante scuse! Quanti pretesti! Or ora mi fai</l>
+        <l>perdere la pazienza!</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Mo! Aspetta, e bì che pressa!</l>
+        <l>Scenno, gnorsi, bel bello!</l>
+        <l>Ma all’infernal drapello,</l>
+        <l>primma che me presento,</l>
+        <l>vorria no complimento</l>
+        <l>cottíco combinà.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Poltrone! Ogni momento</l>
+        <l>caro ti costerà.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Si vada quanno è chesto…</l>
+        <l>Gnernò! Non è paura…</l>
+        <l>Ma è un venticello infesto</l>
+        <l>na meza tramontana,</l>
+        <l>che lesta ‘na terzana</l>
+        <l>m’ha fatto mo scetà.</l>
+        <l>Addio: di doppie o cara</l>
+        <l>portà te voglio un carro…</l>
+        <l>Neh? Dimme, ‘no catarro</l>
+        <l>ce potarrìa piglià?…</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Orsù men vo… tu resta…</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Ah no mio ben, ti arresta!</l>
+        <l>Mo scenno… eccome ccà!</l>
+      </sp>
+      <stage>Un’altra vampa dalla cisterna.</stage>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Sdegnato si è Plutone,</l>
+        <l>il devi or tu pregar.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Gnernò… lui m’è patrone…</l>
+        <l>Mo’ veo de lo placà…</l>
+        <l>Per quei magnifici</l>
+        <l>raggi frontìferi,</l>
+        <l>che di Proserpina</l>
+        <l>fur doni egregj,</l>
+        <l>Plutone! Ah, placati</l>
+        <l>per carità!</l>
+        <l>Se di olocausti</l>
+        <l>hai desiderio,</l>
+        <l>offro sta zingara,</l>
+        <l>sto bello intingolo</l>
+        <l>alla tua cognita</l>
+        <l>golosità.</l>
+      </sp>
+      <sp who="#coro">
+        <speaker>CORO:</speaker>
+        <l>(come sopra)</l>
+        <l>Là fra tartarei</l>
+        <l>chiostri, terribili</l>
+        <l>penetrò rapida</l>
+        <l>tua voce supplice:</l>
+        <l>Pluto dimentica</l>
+        <l>le andate ingiurie,</l>
+        <l>e la sua grazia</l>
+        <l>ti sa tornar.</l>
+        <l>Ma ogni altro indugio</l>
+        <l>lo fa sdegnar.</l>
+      </sp>
+      <stage>CORO(come sopra)Là fra tartareichiostri, terribilipenetrò rapidatua voce supplice:Pluto dimenticale andate ingiurie,e la sua graziati sa tornar.Ma ogni altro indugiolo fa sdegnar.</stage>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Orsù risolviti.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>‘N’aggio timore …</l>
+        <l>‘N’eroe divento … animo, e core!</l>
+        <l>(Ma vi ste gamme comme so toste,</l>
+        <l>che sempre arreto vonno cessà!)</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>(dalla cisterna)</l>
+        <l>Scendi.</l>
+      </sp>
+      <stage>SGUIGLIO(dalla cisterna)Scendi.</stage>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Chi parla?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>É un diavoletto…</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Mo’ vengo…</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Presto.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>So’ cca…</l>
+        <l>Ma vi sto spireto comm’è afflittivo!</l>
+        <l>Ma vì che susta me stace a dda!</l>
+        <l>Addio… mia bella! Si torno vivo</l>
+        <l>maje cchiù co’ spirete voglio trattà!</l>
+        <l>Dà cca lo parpeto m’arresta, e azzoppa,</l>
+        <l>llà co’ le ddoppie vorria fa toppa,</l>
+        <l>e in così barbaro conflitto isterico</l>
+        <l>chi me consiglia che aggio da fa?</l>
+        <l>(scende nella cisterna)</l>
+      </sp>
+      <stage>PAPACCIONESo’ cca…Ma vi sto spireto comm’è afflittivo!Ma vì che susta me stace a dda!Addio… mia bella! Si torno vivomaje cchiù co’ spirete voglio trattà!Dà cca lo parpeto m’arresta, e azzoppa,llà co’ le ddoppie vorria fa toppa,e in così barbaro conflitto istericochi me consiglia che aggio da fa?(scende nella cisterna)</stage>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Pietoso cielo! Deh, tu guida i miei passi.</l>
+        <l>(apre la porta ferrata ed entra sollecitamente)</l>
+      </sp>
+      <stage>ARGILLAPietoso cielo! Deh, tu guida i miei passi.(apre la porta ferrata ed entra sollecitamente)</stage>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(dalfondo della cisterna)</l>
+        <l>Ajuto, Argilla, ca ccà m’hanno stutata la lanterna!</l>
+      </sp>
+      <stage>PAPACCIONE(dalfondo della cisterna)Ajuto, Argilla, ca ccà m’hanno stutata la lanterna!</stage>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>(con voce finta)</l>
+        <l>Rompiti il collo! All’inferno!</l>
+      </sp>
+      <stage>SGUIGLIO(con voce finta)Rompiti il collo! All’inferno!</stage>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Misericordia! Ca chiste me carreano a casa cauda!</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Ascimmo priesto, primma che chillo non se sose</l>
+        <l>da lo smallazzo che l’avimmo fatto pigliare.</l>
+        <l>(uscendo co’ zingari dalla cisterna)</l>
+      </sp>
+      <stage>SGUIGLIOAscimmo priesto, primma che chillo non se soseda lo smallazzo che l’avimmo fatto pigliare.(uscendo co’ zingari dalla cisterna)</stage>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>Oh! Mia liberatrice! E qual ricompensa?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Zitto! Compagni! L’affido a voi!</l>
+        <l>(a Zingari nascosti, che corrono alla voce di Argilla)</l>
+        <l>Circondatelo e conducetelo alle porte del castello…</l>
+        <l>Attendetemi, verrò là fra poco: io non posso</l>
+        <l>per ora abbandonar questo luogo.</l>
+      </sp>
+      <stage>ARGILLAZitto! Compagni! L’affido a voi!(a Zingari nascosti, che corrono alla voce di Argilla)Circondatelo e conducetelo alle porte del castello…Attendetemi, verrò là fra poco: io non possoper ora abbandonar questo luogo.</stage>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>Oh! Mano celeste! Sei tu, che hai schiusa la mia</l>
+        <l>prigione.</l>
+        <l>(esce co’ zingari per lo cancello)</l>
+      </sp>
+      <stage>SEBASTIANOOh! Mano celeste! Sei tu, che hai schiusa la miaprigione.(esce co’ zingari per lo cancello)</stage>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Siè Argì? L’amico sta llà bascio facenno le ppese…</l>
+        <l>Io torno da lo patrone.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>No… Anzi tu devi trovare il modo di penetrare</l>
+        <l>alle stanze d’Ines: dille, che stia guardinga: io</l>
+        <l>temo, che questa notte il padre voglia obbligarla</l>
+        <l>a sposare Antonio.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>‘Nzomma tu aje pigliato a forza de mira a sto</l>
+        <l>povero cuorio mio?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>M’haì fatto chesto, zingara ‘mmalorata!</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Papaccione, torna su…</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>‘Mmalora! E comme ‘n’ha trovata la strata?</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ci siamo intesi… io mi nascondo</l>
+        <l>(va dov’è celato Fernando)</l>
+      </sp>
+      <stage>ARGILLACi siamo intesi… io mi nascondo(va dov’è celato Fernando)</stage>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>A nomme de spate ‘ncuorpo!</l>
+        <l>(esce)</l>
+      </sp>
+      <stage>SGUIGLIOA nomme de spate ‘ncuorpo!(esce)</stage>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Mo moro! Chi m’ajuta a bottà le gamme? Io so</l>
+        <l>bivo, e no lo credo! Ma che diavolo manische!</l>
+        <l>E comme so brutte le scoppole infernali! Quanta</l>
+        <l>catene! Quanto rommore!… Po’ tutto ‘nziemo</l>
+        <l>li spirite se ne so ghiute, e io pe’ ‘no portiento</l>
+        <l>aggio trovata la gradiata pe’ me mettere ‘nsarvo!</l>
+        <l>Addò sta chella mariola, che m’ha fatto avè</l>
+        <l>sto bello complimento? E mo’ comme traso llà</l>
+        <l>dinto si chella s’ha portata la chiave?</l>
+        <l>(si avvicina alla porta, e si sorprende nel</l>
+        <l>ritrovarla aperta)</l>
+        <l>Oh! maro me! La porta è aperta? Ah, quacch’auto</l>
+        <l>guajo chù gruosso me stà stipato! Mannaggia</l>
+        <l>lo tesoro, e quanno maje ce n’è stata parola!</l>
+        <l>(entra nella porta)</l>
+      </sp>
+      <stage>PAPACCIONEMo moro! Chi m’ajuta a bottà le gamme? Io sobivo, e no lo credo! Ma che diavolo manische!E comme so brutte le scoppole infernali! Quantacatene! Quanto rommore!… Po’ tutto ‘nziemoli spirite se ne so ghiute, e io pe’ ‘no portientoaggio trovata la gradiata pe’ me mettere ‘nsarvo!Addò sta chella mariola, che m’ha fatto avèsto bello complimento? E mo’ comme traso llàdinto si chella s’ha portata la chiave?(si avvicina alla porta, e si sorprende nelritrovarla aperta)Oh! maro me! La porta è aperta? Ah, quacch’autoguajo chù gruosso me stà stipato! Mannaggialo tesoro, e quanno maje ce n’è stata parola!(entra nella porta)</stage>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>La notte è inoltrata: vieni pure Antonio.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Ah! è qui l’empio! Attento, don Fernando!)</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Quella è la porticina, che conduce per una scala</l>
+        <l>segreta alla stanza, ove dorme il duca di Alziras.</l>
+        <l>Va’… egli ora è nel colmo del sonno, e niuno</l>
+        <l>ostacolo si frapporrà al tuo ardito braccio, ed al</l>
+        <l>mio avido desio.</l>
+        <l>(apre la porta indicata)</l>
+      </sp>
+      <stage>RANUCCIOQuella è la porticina, che conduce per una scalasegreta alla stanza, ove dorme il duca di Alziras.Va’… egli ora è nel colmo del sonno, e niunoostacolo si frapporrà al tuo ardito braccio, ed almio avido desio.(apre la porta indicata)</stage>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Volate, don Fernando… prevenite il traditore.)</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>(Vado… Deh! tu assistimi, o cielo!)</l>
+        <l>(sulle punte de piedi attraversa la scena, e</l>
+        <l>s’introduce nella porta suddetta)</l>
+      </sp>
+      <stage>FERNANDO(Vado… Deh! tu assistimi, o cielo!)(sulle punte de piedi attraversa la scena, es’introduce nella porta suddetta)</stage>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Ma se mai fossi scoverto?</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>E da chi, se tutto è ordito in modo, che resterà</l>
+        <l>sepolto nell’impenetrabile silenzio il ministro della</l>
+        <l>mia vendetta?</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Ah i non giova arrestarsi a mezzo il corso: attendimi;</l>
+        <l>fra pochi altri istanti tu sarai vendicato, ed</l>
+        <l>Ines saprà rendermi felice.</l>
+        <l>(s’inoltra nella porta medesima, o ve è entrato Fernando)</l>
+      </sp>
+      <stage>ANTONIOAh i non giova arrestarsi a mezzo il corso: attendimi;fra pochi altri istanti tu sarai vendicato, edInes saprà rendermi felice.(s’inoltra nella porta medesima, o ve è entrato Fernando)</stage>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>(Nume di bontà! Deh, tu proteggi la mia intrapresa!)</l>
+        <l>(esce per lo cancello)</l>
+      </sp>
+      <stage>ARGILLA(Nume di bontà! Deh, tu proteggi la mia intrapresa!)(esce per lo cancello)</stage>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Si è finalmente risoluto! Oh! Quanto io temea,</l>
+        <l>ch’egli fosse tuttora restio a’ miei voleri! Eppure</l>
+        <l>in questo momento il mio cuore è agitato da’</l>
+        <l>palpiti… e pare, che il presentimento di qualche</l>
+        <l>sciagura… Eh! vano timore! Avrà a quest’ora il</l>
+        <l>mio perfido nemico pagato già il fio delle ingiurie</l>
+        <l>a me fatte… Ma sembrami di udire un sollecito</l>
+        <l>calpestio! E Antonio, che ritorna.</l>
+      </sp>
+      <stage>Scena settimaRanuccio, Antonio esce frettoloso, ed inseguito daFernando, indi dalla porta istessa il duca di Alzirassenza manto e con ferro impugnato, poi Papaccionedalla sua porta, Amelia che trascina Sguiglio,infine Argilla, che conduce don Sebastiano.</stage>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>(ad Antonio)</l>
+        <l>Ebbene?</l>
+      </sp>
+      <stage>RANUCCIO(ad Antonio)Ebbene?</stage>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>Taci… sono inseguito…</l>
+        <l>(fugge per lo cancello)</l>
+      </sp>
+      <stage>ANTONIOTaci… sono inseguito…(fugge per lo cancello)</stage>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Perfido! Tenti invano fuggirmi…</l>
+        <l>(lo insegue)</l>
+      </sp>
+      <stage>FERNANDOPerfido! Tenti invano fuggirmi…(lo insegue)</stage>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Oh, sorte iniqua!</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Dov’è l’empio assassino?</l>
+        <l>(seguito da servi)</l>
+      </sp>
+      <stage>DUCADov’è l’empio assassino?(seguito da servi)</stage>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Duca, che avvenne?</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Ah! s’insegua tosto il traditore…</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Chi mai?</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Un grido mi ha destato dal sonno… al lontano</l>
+        <l>riflesso di debol lume veggo il braccio di</l>
+        <l>un’assassino pronto a ferirmi…</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Oh, stelle!</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Quando un uomo che io non ravviso, lo arresta,</l>
+        <l>lo sbalordisce, ed insegue. Io balzo allora da le</l>
+        <l>piume, chiamo i miei servi, per raggiungere</l>
+        <l>l’aggressore… ma egli è sparito dal mio sguardo…</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Oh, cielo! E nel mio pacifico albergo può aggi</l>
+        <l>rarsi un traditore?</l>
+        <l>PAPACCIONE</l>
+        <l>(Ah! Me l’ha fatta! Lo viecchio se n’è</l>
+        <l>fojuto! Mo’ si ca so arrojenato addavero!)</l>
+      </sp>
+      <stage>RANUCCIOOh, cielo! E nel mio pacifico albergo può aggirarsi un traditore?PAPACCIONE(Ah! Me l’ha fatta! Lo viecchio se n’èfojuto! Mo’ si ca so arrojenato addavero!)</stage>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Adesso dirai al padrone perché furtivamente ti</l>
+        <l>sei appressato alle stanze d’Ines.</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>Gnernò, io veneva a trovà a buje…</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Venite, e più non temete qui per voi il duca</l>
+        <l>di Alziras.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>(Chi veggo! Alvarez!)</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(É tornato! Oh, che galantommo!)</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>(al duca)</l>
+        <l>Amico, ah! stendimi le tue braccia.</l>
+      </sp>
+      <stage>SEBASTIANO(al duca)Amico, ah! stendimi le tue braccia.</stage>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Che mi succede! Oh, colpo!</l>
+        <l>Io fui tradito!</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>(stentando a riconoscerlo)</l>
+        <l>Ah, parmi!…</l>
+      </sp>
+      <stage>DUCA(stentando a riconoscerlo)Ah, parmi!…</stage>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>Non sai tu ravvisarmi?</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Alvarez! Non m’inganno.</l>
+        <l>Oh, qual ti miro!</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>(Ohimè!)</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(Ajemmè!)</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>(Oh, come a danni miei</l>
+        <l>par che congiuri il fato!</l>
+        <l>Lena e vigor perdei…</l>
+        <l>coraggio io più non ho!)</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>(Oh! carne prelibbate!</l>
+        <l>Ciacèlle sbenturate!</l>
+        <l>De vuje mo’ don Ranuccio</l>
+        <l>ne là nó fricandò!)</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>(Ebbivà la siè Argilla!</l>
+        <l>Se ‘mpizzi comme anguilla!</l>
+        <l>Vedimmo sta facenna</l>
+        <l>comme se sbroglia mo’!)</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>(a Sebastiano)</l>
+        <l>Ma come qui sei?</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>(indicando Papaccione)</l>
+        <l>Tel dica costui…</l>
+        <l>DUCA</l>
+        <l>Tu dunque…</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Colui</l>
+        <l>parlare non può.</l>
+        <l>Per ora il silenzio</l>
+        <l>succeda al rumore:</l>
+        <l>che tutto, signore,</l>
+        <l>svelarti saprò.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>(Ah! straziami il petto</l>
+        <l>furor, e dispetto!</l>
+        <l>Da palpiti oppressa</l>
+        <l>confusa, avvilita</l>
+        <l>quest’alma smarrita</l>
+        <l>consiglio non ha!)</l>
+      </sp>
+      <sp who="#gli altri">
+        <speaker>GLI ALTRI:</speaker>
+        <l>(Mi desta ogni oggetto</l>
+        <l>un forte sospetto!</l>
+        <l>Da palpiti oppressa,</l>
+        <l>dubbiosa, avvilita,</l>
+        <l>quest’alma smarrita</l>
+        <l>consiglio non ha!)</l>
+      </sp>
+      <stage>Viano per diverse parti</stage>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Che mai dirmi volea il seguace di Fernando? Ma</l>
+        <l>il padre sdegnato trascina qui il suo domestico?</l>
+        <l>E a quale oggetto?</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Vieni anima rea! Vieni, e dimmi in qual modo…</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Signò! Stammoce coeto co’ le ‘mmane, e parlammo</l>
+        <l>da galantuómmene, comme ce ha fatte la</l>
+        <l>madre natura, ca a me si se ne sò cadute le ddeta,</l>
+        <l>ce so restate Panelle: de tutte l’aute debolezze</l>
+        <l>n’aggio potuto fa passo, ma l’educazione è stata</l>
+        <l>sempe la passione mia.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Non bastano i tuoi raggiri a frenare l’ira che mi</l>
+        <l>arde in seno!</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>‘Nzagnate, pigliate ‘no bicchiero de vino co ‘no</l>
+        <l>tezzone stutato dinto, che tu vuo’ là venì ‘na goccia?…</l>
+        <l>(che sarría la sola acqua de maggio pe me!)</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Empio!</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Gnorsì… ‘me so ‘ngrassato mo’, che so granneciello…</l>
+        <l>ma quanno fuje bardascio, era discolo</l>
+        <l>comm’a bosta accellenzia.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Tu capace di tradirmi? Di aprir la porta a colui,</l>
+        <l>che con tanta gelosia io ti aveva dato in custodia?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>A me? Me meraviglio! Io quanno aggio d’apri</l>
+        <l>1 na porta, ce penso primmo si avesse de passà quà</l>
+        <l>lotano: lo viecchio marranchino è stato lo scrianzato,</l>
+        <l>che se ne ha voluto ire, mentre steva a casa</l>
+        <l>franca, e boscellenzia lo trattava tanto bene, a</l>
+        <l>cucina, e riposto aperto in tutta la giornata.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Ma le chiavi non eran teco?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Erano meco, ma la zingara briccona se le portò</l>
+        <l>seco.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Perché tu gliele lasciasti?</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Gnernò… pecché essa se le pighaje pè ‘no cierto</l>
+        <l>Trjello, che m’ha fatto…</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>No… tu cerchi d’ingannarmi: tu sei stato d’accordo</l>
+        <l>col prigioniero: tu gli hai aperto lo scampo alla fuga.</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Qua’ fuga! Si chillo s’ha fatta ‘na passiatella, e</l>
+        <l>po’ è tornato co li piede suoje a farte ‘na viseta?</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Mi deridi di più? Ah, perfido!</l>
+        <l>(volendo snudare il ferro contra Papaccione.- Ines</l>
+        <l>si fa avanti, e lo trattiene)</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Fermatevi…</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Sarva! sarva!</l>
+        <l>(via)</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Scostati! A che rapirmi una giusta vendetta?</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Ma che ti fece quell’infelice?</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Anche tu mia nemica?</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>E puoi credermi tale, se tento di allontanarti da</l>
+        <l>un eccesso?</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Apparecchiati a seguirmi nell’altro mio castello</l>
+        <l>alle vicinanze di Toledo… Oggetti pressantissimi</l>
+        <l>colà mi chiamano e là tu porgerai la mano ad</l>
+        <l>Antonio Alvarez (così costui saprà celare il mio</l>
+        <l>svanito disegno.)</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>No padre, Antonio non sarà mai mio consorte.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Audace! Ed osi rispondermi con tanta sfrontatezza?</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Non è più in me il disporre del mio core, se già</l>
+        <l>lo diedi a Fernando.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>A Fernando? Ah! iniqua! E chi è costui, che ha</l>
+        <l>potuto renderti ribelle a’ paterni voleri?</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Un giovane amabile, e troppo degno della mia</l>
+        <l>tenerezza.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Oh! Qual eccesso! Ah! Quanti! Quanti siete a tradirmi!</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>No… padre!</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Allontanati, figlia sciagurata, se non vuoi, che</l>
+        <l>nell’impeto del mio sdegno io scagli su di te la</l>
+        <l>mia maledizione…</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Taci! Non proseguir! Freme natura</l>
+        <l>inorridita a questi accenti! Ah! mira</l>
+        <l>a piedi tuoi la sventurata figlia!</l>
+        <l>Maledirmi, e perché?</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Perché tu merti</l>
+        <l>l’ira di un padre.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Ah! no… colpevol tanto</l>
+        <l>Ines non è…</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Sorgi… da’ sguardi miei</l>
+        <l>involati, e per sempre, anima rea!</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Qual cruda stella al nascer mio splendea!</l>
+        <l>Se fu colpa un primo affetto,</l>
+        <l>se delitto è un casto ardore,</l>
+        <l>perché darmi, o padre, un core</l>
+        <l>tanto facile ad amar?</l>
+        <l>Ah, no… amato genitore!</l>
+        <l>Per pietà non ti sdegnar!</l>
+        <l>Mi sento a quel fremito,</l>
+        <l>al torvo tuo ciglio</l>
+        <l>colpita da un fulmine</l>
+        <l>di vita mancar!</l>
+        <l>Oh, morte! Deh! appressami</l>
+        <l>l’adunco tuo artiglio,</l>
+        <l>chè pene si barbare</l>
+        <l>non so tollerar!</l>
+        <l>Del mio non si vide</l>
+        <l>più misero stato!</l>
+        <l>Oh, amor sventurato!</l>
+        <l>Oh, acerbo penar!</l>
+        <l>(via)</l>
+        <l>Scena nona</l>
+        <l>Duca di Alziras e don Sebastiano.</l>
+        <l>SEBASTIANO</l>
+        <l>E della insidia a te commessa non hai ancora</l>
+        <l>rintracciato l’autore?</l>
+      </sp>
+      <stage>INESQual cruda stella al nascer mio splendea!Se fu colpa un primo affetto,se delitto è un casto ardore,perché darmi, o padre, un coretanto facile ad amar?Ah, no… amato genitore!Per pietà non ti sdegnar!Mi sento a quel fremito,al torvo tuo cigliocolpita da un fulminedi vita mancar!Oh, morte! Deh! appressamil’adunco tuo artiglio,chè pene si barbarenon so tollerar!Del mio non si videpiù misero stato!Oh, amor sventurato!Oh, acerbo penar!(via)Scena nonaDuca di Alziras e don Sebastiano.SEBASTIANOE della insidia a te commessa non hai ancorarintracciato l’autore?</stage>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Il reo s’invola dalle mie ricerche. Amico, ah! mille</l>
+        <l>dubbi agitano la mia mente! Io non rammento</l>
+        <l>di avere offeso alcuno: un solo, che io resi infelice,</l>
+        <l>avrebbe giustamente potuto vibrarmi il fulmine della</l>
+        <l>sua vendetta; ma egli finora, generoso, al vincolo del</l>
+        <l>sangue ha saputo sagrificare le ingiurie da me ricevute.</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>E chi mai?</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Fernando, il mio sventurato fratello: mi si fece credere,</l>
+        <l>ch’egli insidiasse i miei giorni, perché aspirava alla</l>
+        <l>mia fortuna: io lo bandii dal mio fianco… Ed ora, che,</l>
+        <l>vinti da rimorsi i suoi calunniatori, mi hanno svelata</l>
+        <l>la sua innocenza, io non so dove rintracciarlo, per</l>
+        <l>stringerlo al mio seno.</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>(Fernando si è a me svelato; il momento è felice.) E tu</l>
+        <l>non ravvisasti, o duca, quel giovane, che arrestò il</l>
+        <l>braccio del tuo assassino?</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Egli mi fuggì dallo sguardo inseguendo quel perfido.</l>
+        <l>Oh, quanto amerei di conoscerlo! Qual ricompensa</l>
+        <l>egli non merita dalla mia riconoscenza?</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>Ebbene attendimi… or ora tu lo vedrai.</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Che? É egli a te noto?</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>Attendimi, ti replico, e prepara il tuo core ad una</l>
+        <l>dolce sorpresa.</l>
+        <l>(via)</l>
+      </sp>
+      <stage>SEBASTIANOAttendimi, ti replico, e prepara il tuo core ad unadolce sorpresa.(via)</stage>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Che sarà mai? Ed Alvarez ha potuto scovrire il mio</l>
+        <l>liberatore? Mi darà egli il piacere di mostrargli la mia</l>
+        <l>gratitudine? Eccolo! Egli già torna.</l>
+      </sp>
+      <stage>Scena decimaSebastiano, Fernando ed il duca di Alziras.</stage>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>Miralo: è il tuo germano, è</l>
+        <l>quel Fernando istesso, che tu</l>
+        <l>volesti oppresso, che i giorni</l>
+        <l>tuoi salvò.</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>(Ah! qual sorpresa è questa!</l>
+        <l>Mirarlo, oh Dio! non oso! Ei</l>
+        <l>tanto generoso le offese mie</l>
+        <l>scordò?)</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Mai questo cor restio fu</l>
+        <l>di natura al grido;</l>
+        <l>e sparse ognor di obblìo gli</l>
+        <l>oltraggi che provò.</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>I torti miei ravviso, son di</l>
+        <l>perdono indegno…</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Sia questo amplesso un segno che</l>
+        <l>mi sei caro ancor.</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>Sia quell’amplesso un pegno del</l>
+        <l>suo sincero amor.</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Ma dimmi… e da qual mano</l>
+        <l>l’insidia a me fu tesa?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Lo ignoro…</l>
+        <l>Ma non invano …</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>Ah! sì, l’offesa …</l>
+        <l>No, duca, io non m’inganno</l>
+        <l>partì dal rio tiranno,</l>
+        <l>dal mio persecutor.</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Che? Da Ranuccio? Oh, quale</l>
+        <l>Idea mi sorge in mente!</l>
+        <l>Ed invido, e fremente</l>
+        <l>seppe dolersi un dì,</l>
+        <l>che il mio sovran clemente</l>
+        <l>nel primo onor di corte</l>
+        <l>a lui mi preferì.</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>Perciò di trarti a morte</l>
+        <l>trama fatal ti ordì.</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Se laccio tal mi tese,</l>
+        <l>paventi ormai l’indegno:</l>
+        <l>il fulmin del mio sdegno</l>
+        <l>sul capo suo cadrà.</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>Ah, sì… quell’alma perfida</l>
+        <l>sempre alla strage è intenta:</l>
+        <l>ravvisa in me una vittima</l>
+        <l>della sua crudeltà.</l>
+        <l>FERNANDO</l>
+        <l>(Perché del mio tesoro</l>
+        <l>quel mostro è genitore?</l>
+        <l>E fra dovere, e amore</l>
+        <l>che far mi converrà?)</l>
+      </sp>
+      <stage>Scena ultimaTutti gli attori, come saranno indicati.</stage>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Io vengo ansioso, o duca, a conoscere lo stato della</l>
+        <l>vostra salute, dopo il sofferto disguido.</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>(ironico)</l>
+        <l>Son tenuto alla vostra premura, e spero fra poco</l>
+        <l>Di darvi quella risposta, che meritate.</l>
+      </sp>
+      <stage>DUCA(ironico)Son tenuto alla vostra premura, e spero fra pocoDi darvi quella risposta, che meritate.</stage>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>(Ohimè! Egli reprime la sua collera! Ah, son perduto!)</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Sei pur qui, mio Fernando? Non sai? Il padre vuol</l>
+        <l>darmi Antonio in isposo.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>Come! Colui Fernando?</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Sì, mio fratello riconoscetelo pure.</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Egli vostro fratello?</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>É questa, o germano, la mia sospirata fiamma!…</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>La figlia di Ranuccio!</l>
+      </sp>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Eccellenza! La gente del vostro seguito reca quì in</l>
+        <l>ceppi Antonio Alvarez, che ha raggiunto nel vicino</l>
+        <l>villaggio… eccolo…</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>Mio nipote!</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Sì, vostro nipote, colui, che sedotto da don Ranuccio</l>
+        <l>consentì alla vostra prigionia, onde appropiarsi i beni,</l>
+        <l>che a voi appartenevano: e che, ministro della</l>
+        <l>vendetta di don Ranuccio medesimo,</l>
+        <l>nella scorsa notte avrebbe nel sonno trafitto il duca di</l>
+        <l>Alziras, se il favor sovraumano nello sconosciuto</l>
+        <l>germano del duca non mi avesse presentato il suo</l>
+        <l>liberatore.</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Oh! eccesso!</l>
+      </sp>
+      <sp who="#antonio">
+        <speaker>ANTONIO:</speaker>
+        <l>(Oh! rossore!)</l>
+      </sp>
+      <sp who="#sguiglio">
+        <speaker>SGUIGLIO:</speaker>
+        <l>(Oh! che matassa!)</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Roba da farne tre commedie de seguito!</l>
+      </sp>
+      <sp who="#ghita">
+        <speaker>GHITA:</speaker>
+        <l>Io son sorpresa!</l>
+      </sp>
+      <sp who="#manuelitta">
+        <speaker>MANUELITTA:</speaker>
+        <l>Altro che imbrogli da zingara!</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Iniquo!</l>
+        <l>(a Ranuccio)</l>
+        <l>Sulla tua fronte è già scolpita la colpa:</l>
+        <l>benché autorizzato dalla mia carica, io non</l>
+        <l>voglio erigermi in tuo giudice: il duca di Alziras</l>
+        <l>dimentica le tue offese, ed unito ad Antonio ti fa</l>
+        <l>tradurre alla capitale, perché entrambi rendiate conto</l>
+        <l>della violenza usata al bravo don Sebastiano.</l>
+      </sp>
+      <stage>DUCAIniquo!(a Ranuccio)Sulla tua fronte è già scolpita la colpa:benché autorizzato dalla mia carica, io nonvoglio erigermi in tuo giudice: il duca di Alzirasdimentica le tue offese, ed unito ad Antonio ti fatradurre alla capitale, perché entrambi rendiate contodella violenza usata al bravo don Sebastiano.</stage>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Comme vonno parè belle dinto a doje gajole le</l>
+        <l>cape de Maledonato e Matatesta?</l>
+      </sp>
+      <sp who="#ines">
+        <speaker>INES:</speaker>
+        <l>Ah! signore…</l>
+      </sp>
+      <sp who="#fernando">
+        <speaker>FERNANDO:</speaker>
+        <l>Ah, fratello! Egli è d’Ines il genitore…</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>(inginocchiandosi)</l>
+        <l>Se un verace pentimento…</l>
+      </sp>
+      <stage>RANUCCIO(inginocchiandosi)Se un verace pentimento…</stage>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>Alzati sciagurato! Duca, se la sola ingiuria da me</l>
+        <l>sofferta arma il braccio della tua giustizia, io non sono</l>
+        <l>meno generoso di te, e lo perdono…</l>
+      </sp>
+      <sp who="#duca">
+        <speaker>DUCA:</speaker>
+        <l>Sia egli dunque per sempre confinato in questo</l>
+        <l>castello, e troverà il suo supplizio ne’ suoi rimorsi</l>
+        <l>medesimi.</l>
+      </sp>
+      <sp who="#ranuccio">
+        <speaker>RANUCCIO:</speaker>
+        <l>(Oh, dispetto!)</l>
+        <l>(via con Antonio)</l>
+      </sp>
+      <stage>RANUCCIO(Oh, dispetto!)(via con Antonio)</stage>
+      <sp who="#amelia">
+        <speaker>AMELIA:</speaker>
+        <l>Non resti così adombrato il piacere, che destano</l>
+        <l>tante imprevedute combinazioni, che vi riuniscono</l>
+        <l>insieme.</l>
+      </sp>
+      <sp who="#argilla">
+        <speaker>ARGILLA:</speaker>
+        <l>Ed alla zingara, che ha fatto tutto, non si fa quel</l>
+        <l>plauso, che a lei sembra dovuto!</l>
+      </sp>
+      <sp who="#papaccione">
+        <speaker>PAPACCIONE:</speaker>
+        <l>Sc’chitto a me m’aje fatto restà co no tesoro</l>
+        <l>‘ncannavola!</l>
+      </sp>
+      <sp who="#sebastiano">
+        <speaker>SEBASTIANO:</speaker>
+        <l>Essere benefico! A te debbo l’aura di libertà che</l>
+        <l>respiro: le tue virtù sono meritevoli di miglior sorte.</l>
+        <l>Ah! vieni fra le mie braccia! Tu mi farai le</l>
+        <l>veci di quella figlia, che perdei bambina, e che</l>
+        <l>non posso cancellare dalla mia rimembranza.</l>
+      </sp>
+      <div type="act">
+        <head>SGUIGLIO</head>(Me credeva, che lo viecchio avesse fattoquacch’auto designo!)ARGILLAVi son tenuta, ma non credete, che io sia di originezingara: sono di una illustre famiglia, cheio cerco da per tutto: colei, che ho sempre rispettataqual madre, negli ultimi suoi aneliti mi affidò chemi avea essa rapita bambina, mentre io,allontanata dalla mia poco accorta balia, passeggiavalungo la sponda di un fiume.<sp who="#sguiglio">
+          <speaker>SGUIGLIO:</speaker>
+          <l>(Me credeva, che lo viecchio avesse fatto</l>
+          <l>quacch’auto designo!)</l>
+          <l>ARGILLA</l>
+          <l>Vi son tenuta, ma non credete, che io sia di origine</l>
+          <l>zingara: sono di una illustre famiglia, che</l>
+          <l>io cerco da per tutto: colei, che ho sempre rispettata</l>
+          <l>qual madre, negli ultimi suoi aneliti mi affidò che</l>
+          <l>mi avea essa rapita bambina, mentre io,</l>
+          <l>allontanata dalla mia poco accorta balia, passeggiava</l>
+          <l>lungo la sponda di un fiume.</l>
+        </sp>
+        <sp who="#sebastiano">
+          <speaker>SEBASTIANO:</speaker>
+          <l>Qual somiglianza!</l>
+        </sp>
+        <sp who="#argilla">
+          <speaker>ARGILLA:</speaker>
+          <l>E per agevolarmi la scoverta della mia progenie</l>
+          <l>mi die’ questa gemma, che mi pendeva al collo</l>
+          <l>allora quando io fui rapita.</l>
+        </sp>
+        <sp who="#sebastiano">
+          <speaker>SEBASTIANO:</speaker>
+          <l>Cielo! Deh! tu avvera le mie speranze! Ah, sì, ecco</l>
+          <l>la cifra del mio cognome! Appressati al mio</l>
+          <l>seno! Il core co’ suoi frequenti ribalzi fa sentirmi,</l>
+          <l>che riacquisto in te la mia figlia smarrita!</l>
+        </sp>
+        <sp who="#amelia">
+          <speaker>AMELIA:</speaker>
+          <l>Otil qual sorpresa!</l>
+        </sp>
+        <sp who="#sguiglio">
+          <speaker>SGUIGLIO:</speaker>
+          <l>E bì si pozzo.trovà pur’io ‘no patre cavaliero!</l>
+        </sp>
+        <sp who="#argilla">
+          <speaker>ARGILLA:</speaker>
+          <l>Tu l’autor de’ miei giorni? Io la tua figlia?</l>
+          <l>Ah, padre! ah! cari miei! Di tanta sorte</l>
+          <l>palpito incerta ancora!</l>
+          <l>Amica alfin per me sorse l’aurora?</l>
+          <l>E fia ver? Di si gran dono</l>
+          <l>fausto il ciel mi ricolmò?</l>
+          <l>Or comprendo i dolci moti,</l>
+          <l>quei soavi affetti ignoti,</l>
+          <l>che natura in me destò!</l>
+          <l>Deh! Mi stringi, o padre, al seno,</l>
+          <l>e il tuo cor sia lieto appieno,</l>
+          <l>se finora sospirò!</l>
+        </sp>
+        <sp who="#sebastiano e coro">
+          <speaker>SEBASTIANO E CORO:</speaker>
+          <l>Sì ti stringo, o figlia al seno,</l>
+          <l>e il (mio/tuo) cor sia lieto appieno</l>
+          <l>se fin’ora sospirò.</l>
+        </sp>
+        <sp who="#argilla">
+          <speaker>ARGILLA:</speaker>
+          <l>Oh! gioia inesprimibile!</l>
+          <l>Oh! mia felicità!</l>
+          <l>L’eccesso del contento</l>
+          <l>mi tronca… oh, Dio! l’accento!</l>
+          <l>Piacere incomprensibile</l>
+          <l>l’alma beando va!</l>
+          <l>Oh! gioia inesprimibile!</l>
+          <l>Oh! mia felicità!</l>
+        </sp>
+        <sp who="#sguiglio">
+          <speaker>SGUIGLIO:</speaker>
+          <l>(al duca)</l>
+          <l>Orsù fra li contiente,</l>
+          <l>fra abballe, e fra festine,</l>
+          <l>vedimmo un po’ li diente,</l>
+          <l>signò, d’esercità.</l>
+        </sp>
+        <stage>SGUIGLIO(al duca)Orsù fra li contiente,fra abballe, e fra festine,vedimmo un po’ li diente,signò, d’esercità.</stage>
+        <sp who="#papaccione">
+          <speaker>PAPACCIONE:</speaker>
+          <l>(ad Argilla)</l>
+          <l>Signora, mo’ si fatta</l>
+          <l>pe’ me non sì cchiù cosa…</l>
+          <l>Co Ghita, ch’è porposa,</l>
+          <l>mo’ veo de m’acconcià.</l>
+        </sp>
+        <stage>PAPACCIONE(ad Argilla)Signora, mo’ si fattape’ me non sì cchiù cosa…Co Ghita, ch’è porposa,mo’ veo de m’acconcià.</stage>
+        <sp who="#gli altri">
+          <speaker>GLI ALTRI:</speaker>
+          <l>Ah! dopo il fiero nembo,</l>
+          <l>che ha l’anima agitata,</l>
+          <l>oh! quanto sei più grata</l>
+          <l>dolce serenità!</l>
+        </sp>
+        <sp who="#coro">
+          <speaker>CORO:</speaker>
+          <l>Ed or che in ogni core</l>
+          <l>pace sorride e amore,</l>
+          <l>godiam di sì bel giorno</l>
+          <l>la bella ilarità!</l>
+        </sp>
+        <sp who="#f i n e">
+          <speaker>F I N E:</speaker>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

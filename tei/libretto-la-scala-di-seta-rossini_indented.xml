@@ -1,0 +1,2070 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">a scala di seta</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="germano">
+            <persName>GERMANO:</persName>
+          </person>
+          <person xml:id="giulia e blansac">
+            <persName>GIULIA E BLANSAC:</persName>
+          </person>
+          <person xml:id="dorvil">
+            <persName>DORVIL:</persName>
+          </person>
+          <person xml:id="dormont">
+            <persName>DORMONT:</persName>
+          </person>
+          <person xml:id="giulia e dorvil">
+            <persName>GIULIA E DORVIL:</persName>
+          </person>
+          <person xml:id="lucilla">
+            <persName>LUCILLA:</persName>
+          </person>
+          <person xml:id="tutti">
+            <persName>TUTTI:</persName>
+          </person>
+          <person xml:id="giulia, dormont, germano">
+            <persName>GIULIA, DORMONT, GERMANO:</persName>
+          </person>
+          <person xml:id="blansac">
+            <persName>BLANSAC:</persName>
+          </person>
+          <person xml:id="giulia">
+            <persName>GIULIA:</persName>
+          </person>
+          <person xml:id="blansac e giulia">
+            <persName>BLANSAC E GIULIA:</persName>
+          </person>
+          <person xml:id="germano e lucilla">
+            <persName>GERMANO E LUCILLA:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>DORMONT</castItem>
+        <castItem>GIULIA</castItem>
+        <castItem>LUCILLA</castItem>
+        <castItem>DORVIL</castItem>
+        <castItem>BLANSAC</castItem>
+        <castItem>GERMANO</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>La scena segue in una campagna nelle vicinanze di Parigi, in casa di Dormont.</stage>
+      <div type="act">
+        <head>Atto unico</head>
+        <div type="scene">
+          <head>[Sinfonia]</head>Il teatro rappresenta l’appartamento di Giulia. Una porta nel fondo e due gabinetti ai lati. Sul davanti, una porta vetrata che conduce ad un poggiuolo. Dirimpetto, una porta a griglia che guida ad una stanza. Queste due porte debbone essere situale faccia a faccia dello spettatore.Una tavola coperta da un tappeto, un burò, sedie.Scena primaGiulia, e Germano, poi Lucilla. <stage>[Sinfonia]Il teatro rappresenta l’appartamento di Giulia. Una porta nel fondo e due gabinetti ai lati. Sul davanti, una porta vetrata che conduce ad un poggiuolo. Dirimpetto, una porta a griglia che guida ad una stanza. Queste due porte debbone essere situale faccia a faccia dello spettatore.Una tavola coperta da un tappeto, un burò, sedie.Scena primaGiulia, e Germano, poi Lucilla.</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(inquieta)</l>
+            <l>Va’ sciocco, non seccarmi,</l>
+            <l>qui sola vo’ restar.</l>
+          </sp>
+          <stage>GIULIA(inquieta)Va’ sciocco, non seccarmi,qui sola vo’ restar.</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(con flemma)</l>
+            <l>Pazienza un pochettino,</l>
+            <l>lasciatemi parlar.</l>
+          </sp>
+          <stage>GERMANO(con flemma)Pazienza un pochettino,lasciatemi parlar.</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Da te non voglio nulla.</l>
+            <l>M’hai tu ben ben capito?</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(con riso sciocco e malizioso)</l>
+            <l>Capisco che vicina</l>
+            <l>a prendere marito</l>
+            <l>avete, o padroncina,</l>
+            <l>un po’ di convulsione.</l>
+            <l>Un’ottima lezione</l>
+            <l>perciò vi voglio dar.</l>
+          </sp>
+          <stage>GERMANO(con riso sciocco e malizioso)Capisco che vicinaa prendere maritoavete, o padroncina,un po’ di convulsione.Un’ottima lezioneperciò vi voglio dar.</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(inquietandosi sempre più e passeggiando)</l>
+            <l>Non voglio sentir niente!</l>
+          </sp>
+          <stage>GIULIA(inquietandosi sempre più e passeggiando)Non voglio sentir niente!</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(andandole dietro)</l>
+            <l>Un savio colla barba…</l>
+          </sp>
+          <stage>GERMANO(andandole dietro)Un savio colla barba…</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Diventi impertinente!</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>ha detto già mill’anni…</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Che ognun che si marita</l>
+            <l>va a caccia di malanni!…</l>
+            <l>Non vo’ che andiate in collera;</l>
+            <l>saprò poi terminar.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Che dica ch’abbia detto</l>
+            <l>a me non preme un zero.</l>
+            <l>Non farmi andar in collera,</l>
+            <l>va’ via, non mi seccar.</l>
+            <l>(Germano parte.)</l>
+          </sp>
+          <stage>GIULIAChe dica ch’abbia dettoa me non preme un zero.Non farmi andar in collera,va’ via, non mi seccar.(Germano parte.)</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Son pur sola, alfin respiro.</l>
+            <l>S’allontani il caro oggetto.</l>
+            <l>Deh corona un dolce affetto</l>
+            <l>se pur senti amor pietà.</l>
+            <l>(s’avvia al gabinetto alla destra. Alla voce di Lucilla, che sorte, retrocede precipitosamente)</l>
+          </sp>
+          <stage>GIULIASon pur sola, alfin respiro.S’allontani il caro oggetto.Deh corona un dolce affettose pur senti amor pietà.(s’avvia al gabinetto alla destra. Alla voce di Lucilla, che sorte, retrocede precipitosamente)</stage>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>Cugina, cugina!…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Un altro malanno!…</l>
+          </sp>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>Vi dice il tutore,</l>
+            <l>che in sala venghiate.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Verrò, ma frattanto</l>
+            <l>voi prima n’andate.</l>
+            <l>(Germano esce correndo)</l>
+            <l>GERMANO</l>
+            <l>Padrona, padrona…</l>
+          </sp>
+          <stage>GIULIAVerrò, ma frattantovoi prima n’andate.(Germano esce correndo)GERMANOPadrona, padrona…</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Qui ancora scioccone!…</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Mi manda il padrone…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Ho inteso, son lesta…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Ma prima un affare</l>
+            <l>compir vo’ alla presta.</l>
+            <l>Andate voi altri;</l>
+            <l>verrò, non capite!</l>
+            <l>Uscite, finite,</l>
+            <l>mi fate inquietar.</l>
+            <l>(O cielo quest’alma</l>
+            <l>mi fan palpitar.)</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>GERMANO E LUCILLA</head>Lasciate l’affare,di poi finirete.Andiamoci insieme,gran cose saprete.Via via colle buone,non serve gridar.(Quei detti quel focomi fan sospettar.)(partono dalla porta del fondo, che vien chiusa da Giulia)Scena secondaGiulia, e Dorvil.(Giulia, chiusa la porta, apre il burò e ne trae una scala di seta, indi passa al gabinetto, e n’esce Dorvil)<sp who="#germano e lucilla">
+            <speaker>GERMANO E LUCILLA:</speaker>
+            <l>Lasciate l’affare,</l>
+            <l>di poi finirete.</l>
+            <l>Andiamoci insieme,</l>
+            <l>gran cose saprete.</l>
+            <l>Via via colle buone,</l>
+            <l>non serve gridar.</l>
+            <l>(Quei detti quel foco</l>
+            <l>mi fan sospettar.)</l>
+            <l>(partono dalla porta del fondo, che vien chiusa da Giulia)</l>
+            <l>Scena seconda</l>
+            <l>Giulia, e Dorvil.</l>
+            <l>(Giulia, chiusa la porta, apre il burò e ne trae una scala di seta, indi passa al gabinetto, e n’esce Dorvil)</l>
+          </sp>
+          <stage>GERMANO E LUCILLALasciate l’affare,di poi finirete.Andiamoci insieme,gran cose saprete.Via via colle buone,non serve gridar.(Quei detti quel focomi fan sospettar.)(partono dalla porta del fondo, che vien chiusa da Giulia)Scena secondaGiulia, e Dorvil.(Giulia, chiusa la porta, apre il burò e ne trae una scala di seta, indi passa al gabinetto, e n’esce Dorvil)</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Siamo sicuri. Uscite;</l>
+            <l>caro Dorvil sollecito partite.</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>O cielo! così presto?</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Un giorno intero</l>
+            <l>vi par poco?</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Un momento.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Eh al solito poggiuolo</l>
+            <l>questa scala attaccate, che vi serve</l>
+            <l>(gli dà la scala di seta, e poi va ad aprire la porta vetrata)</l>
+            <l>per venirmi a trovar, e tosto andate.</l>
+          </sp>
+          <stage>GIULIAEh al solito poggiuoloquesta scala attaccate, che vi serve(gli dà la scala di seta, e poi va ad aprire la porta vetrata)per venirmi a trovar, e tosto andate.</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Ah! con quanto martir!</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Perché?</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>A momenti</l>
+            <l>dée venir quel Blansac</l>
+            <l>destinatovi in sposo dal tutore.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Essendo vostra moglie</l>
+            <l>ei non mi può sposar.</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Ma quando penso</l>
+            <l>alle espression d’amante</l>
+            <l>ch’egli sarà per farvi…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>E che? geloso</l>
+            <l>siete tuttora? e mai</l>
+            <l>scaccerete da voi questa mania?</l>
+            <l>Non basta ch’io mi sia dinanzi all’ara</l>
+            <l>fatta segretamente a voi consorte?</l>
+            <l>Verrà la buona zia col cui consenso</l>
+            <l>v’ho sposata in segreto. Del tutore</l>
+            <l>per opra sua lo sdegno cederà.</l>
+            <l>E tutto allora in bene finirà.</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>E intanto?</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>A mezza notte</l>
+            <l>con il solito mezzo della scala</l>
+            <l>a trovar mi verrete,</l>
+            <l>e allo spuntar del giorno partirete.</l>
+            <l>Tutt’oggi, con periglio</l>
+            <l>che il tutor se ne accorga,</l>
+            <l>meco vi tenni. Egli or mi chiama: dunque</l>
+            <l>senz’altro indugio andate,</l>
+            <l>ed alla mezza notte ritornate.</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Ubbidisco, ma ancora</l>
+            <l>non son le sei…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(vivamente)</l>
+            <l>Ogni cosa</l>
+            <l>vuoi rovinar?</l>
+          </sp>
+          <stage>GIULIA(vivamente)Ogni cosavuoi rovinar?</stage>
+        </div>
+        <div type="scene">
+          <head>DORVIL</head>No, no. Vado mia sposa.(va al poggiuolo, attacca per di fuori la scala e scende)Scena terzaGiulia, poi Dormont, e Lucilla(Giulia dopo aver ritirato dal poggiuolo e rimessa nel burò la scala di seta, e chiusa la porta serrata)<sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>No, no. Vado mia sposa.</l>
+            <l>(va al poggiuolo, attacca per di fuori la scala e scende)</l>
+            <l>Scena terza</l>
+            <l>Giulia, poi Dormont, e Lucilla</l>
+            <l>(Giulia dopo aver ritirato dal poggiuolo e rimessa nel burò la scala di seta, e chiusa la porta serrata)</l>
+          </sp>
+          <stage>DORVILNo, no. Vado mia sposa.(va al poggiuolo, attacca per di fuori la scala e scende)Scena terzaGiulia, poi Dormont, e Lucilla(Giulia dopo aver ritirato dal poggiuolo e rimessa nel burò la scala di seta, e chiusa la porta serrata)</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Egli è sceso… respiro! Apriam la porta.</l>
+            <l>(va ad aprire)</l>
+            <l>A tempo egli è partito. Ecco il tutore.</l>
+            <l>(escono Dormont e Lucilla)</l>
+          </sp>
+          <stage>GIULIAEgli è sceso… respiro! Apriam la porta.(va ad aprire)A tempo egli è partito. Ecco il tutore.(escono Dormont e Lucilla)</stage>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>(un po’ risentito)</l>
+            <l>Per bacco! tutto il giorno</l>
+            <l>perché chiusa nel vostro appartamento?</l>
+            <l>Pensate che a momenti</l>
+            <l>ritorna qui Blansac</l>
+            <l>destinatovi in sposo.</l>
+          </sp>
+          <stage>DORMONT(un po’ risentito)Per bacco! tutto il giornoperché chiusa nel vostro appartamento?Pensate che a momentiritorna qui Blansacdestinatovi in sposo.</stage>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>(vivacemente)</l>
+            <l>O com’è bello,</l>
+            <l>amabile, elegante, allegro!…</l>
+          </sp>
+          <stage>LUCILLA(vivacemente)O com’è bello,amabile, elegante, allegro!…</stage>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Eh basta,</l>
+            <l>or non marito voi.</l>
+          </sp>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>(mortificata)</l>
+            <l>Lo so, pur troppo!</l>
+          </sp>
+          <stage>LUCILLA(mortificata)Lo so, pur troppo!</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Vi supplico signore… troppo presto</l>
+            <l>concluso avete.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>DORMONT</head>Anzi sia fatto, e lesto.Scena quartaDetti, Germano frettoloso dal fondo.GERMANOSignor padron, signor padron…<div type="scene">
+          <head>DORMONT</head>Anzi sia fatto, e lesto.Scena quartaDetti, Germano frettoloso dal fondo.GERMANOSignor padron, signor padron…<sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Anzi sia fatto, e lesto.</l>
+            <l>Scena quarta</l>
+            <l>Detti, Germano frettoloso dal fondo.</l>
+            <l>GERMANO</l>
+            <l>Signor padron, signor padron…</l>
+          </sp>
+          <stage>DORMONTAnzi sia fatto, e lesto.Scena quartaDetti, Germano frettoloso dal fondo.GERMANOSignor padron, signor padron…</stage>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Ch’è stato?</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>C’è il signor di… come diavol si chiama?…</l>
+            <l>Aspettate che vada a domandargli</l>
+            <l>il suo nome…</l>
+            <l>(per andare)</l>
+          </sp>
+          <stage>GERMANOC’è il signor di… come diavol si chiama?…Aspettate che vada a domandargliil suo nome…(per andare)</stage>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>(trattenendolo)</l>
+            <l>È Blansac sicuramente.</l>
+          </sp>
+          <stage>DORMONT(trattenendolo)È Blansac sicuramente.</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Signor, sì, un nome in ac… Blansac!…</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Stordito!</l>
+          </sp>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>(Che gioia!)</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(Che imbarazzo!)</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>(a Giulia)</l>
+            <l>Vo ad incontrarlo. Voi pensate al modo</l>
+            <l>di ricever lo sposo degnamente.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>DORMONT(a Giulia)Vo ad incontrarlo. Voi pensate al mododi ricever lo sposo degnamente.(parte)</stage>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>Voglio andarlo a vedere destramente.</l>
+            <l>(parte)</l>
+            <l>GERMANO</l>
+            <l>Vado anch’io, servo suo…</l>
+          </sp>
+          <stage>LUCILLAVoglio andarlo a vedere destramente.(parte)GERMANOVado anch’io, servo suo…</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Ferma… senti…</l>
+            <l>(imbrogliata a Germano e come per parlargli, ma s’astrae e parla seco medesima fantasticando)</l>
+            <l>GERMANO</l>
+            <l>Son qua.</l>
+          </sp>
+          <stage>GIULIAFerma… senti…(imbrogliata a Germano e come per parlargli, ma s’astrae e parla seco medesima fantasticando)GERMANOSon qua.</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(passeggiando e Germano le va dietro osservandola)</l>
+            <l>(Per liberarmi</l>
+            <l>da questo sposo qual util progetto</l>
+            <l>mi passa per la testa!)</l>
+          </sp>
+          <stage>GIULIA(passeggiando e Germano le va dietro osservandola)(Per liberarmida questo sposo qual util progettomi passa per la testa!)</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Onde, signora?…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(Capisco che a Lucilla mia cugina</l>
+            <l>piace molto Blansac.)</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Non ho capito</l>
+            <l>neppure una parola…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(guardando Germano)</l>
+            <l>(Se impegnarlo potessi</l>
+            <l>a sposarla in mia vece… la sciocchezza</l>
+            <l>di costui può giovarmi.)</l>
+          </sp>
+          <stage>GIULIA(guardando Germano)(Se impegnarlo potessia sposarla in mia vece… la sciocchezzadi costui può giovarmi.)</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Ma parlate</l>
+            <l>con me o col muro?</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(artificiosamente)</l>
+            <l>Caro il mio Germano!</l>
+          </sp>
+          <stage>GIULIA(artificiosamente)Caro il mio Germano!</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(con riso sciocco)</l>
+            <l>Caro!… oh perdono alla sua gran bontà!…</l>
+            <l>Cosicché… se si può…</l>
+          </sp>
+          <stage>GERMANO(con riso sciocco)Caro!… oh perdono alla sua gran bontà!…Cosicché… se si può…</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Sentimi qua.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Io so ch’hai buon core,</l>
+            <l>che m’ami davvero;</l>
+            <l>e un pegno d’amore</l>
+            <l>or bramo di te.</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Ah cara padrona</l>
+            <l>se amor mi chiedete,</l>
+            <l>oh quanto volete</l>
+            <l>ne avrete da me.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(Per altro ci vuole</l>
+            <l>giudizio e prudenza!)</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(Non trova parole,</l>
+            <l>cotanto è in ardenza!)</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(Se a lei si fa sposo,</l>
+            <l>che sorte per me!)</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(Se dice davvero</l>
+            <l>che sorte per me!)</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(vivamente)</l>
+            <l>Via chiaro spiegate…</l>
+          </sp>
+          <stage>GERMANO(vivamente)Via chiaro spiegate…</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(con artificiosa riserva)</l>
+            <l>Mi manca il coraggio…</l>
+          </sp>
+          <stage>GIULIA(con artificiosa riserva)Mi manca il coraggio…</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(incalorendosi sempre più)</l>
+            <l>Son qui, comandate…</l>
+          </sp>
+          <stage>GERMANO(incalorendosi sempre più)Son qui, comandate…</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Sei pronto?</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Prontissimo.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Disposto?</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Ardentissimo.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(lo piglia a sé, e gli parla in aria del più grande segreto)</l>
+            <l>Attento ti bramo</l>
+            <l>all’ospite ognora:</l>
+            <l>e se mia cugina</l>
+            <l>con esso talora</l>
+            <l>fa un poco le carte</l>
+            <l>saper vo’ da te.</l>
+          </sp>
+          <stage>GIULIA(lo piglia a sé, e gli parla in aria del più grande segreto)Attento ti bramoall’ospite ognora:e se mia cuginacon esso talorafa un poco le cartesaper vo’ da te.</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(mortificato)</l>
+            <l>Io!…</l>
+          </sp>
+          <stage>GERMANO(mortificato)Io!…</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Tu caro mio…</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Io… grazie… pulito!…</l>
+            <l>Volete?… ho capito…</l>
+            <l>(Credea la braciola</l>
+            <l>d’avere sul piatto,</l>
+            <l>ma ohimè venne il gatto,</l>
+            <l>e via la sgraffiò.)</l>
+            <l>(affettando vivacità)</l>
+            <l>Oh in somma, poiché</l>
+            <l>son uomo di spirito,</l>
+            <l>andrò… sentirò…</l>
+            <l>e tutto dirò.</l>
+          </sp>
+          <stage>GERMANOIo… grazie… pulito!…Volete?… ho capito…(Credea la braciolad’avere sul piatto,ma ohimè venne il gatto,e via la sgraffiò.)(affettando vivacità)Oh in somma, poichéson uomo di spirito,andrò… sentirò…e tutto dirò.</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Oh quanto son grata</l>
+            <l>a tanto buon core!</l>
+            <l>Gran prove d’amore</l>
+            <l>t’attendi da me.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>GERMANO</head>O quanto son gratoa tanto buon core!(ironico)Gran prove d’amoreson queste per me!(Giulia entra in un gabinetto, e Germano parte dal fondo)Scena quintaBlansac, Dormont, Dorvil, un Servitore.<sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>O quanto son grato</l>
+            <l>a tanto buon core!</l>
+            <l>(ironico)</l>
+            <l>Gran prove d’amore</l>
+            <l>son queste per me!</l>
+            <l>(Giulia entra in un gabinetto, e Germano parte dal fondo)</l>
+            <l>Scena quinta</l>
+            <l>Blansac, Dormont, Dorvil, un Servitore.</l>
+          </sp>
+          <stage>GERMANOO quanto son gratoa tanto buon core!(ironico)Gran prove d’amoreson queste per me!(Giulia entra in un gabinetto, e Germano parte dal fondo)Scena quintaBlansac, Dormont, Dorvil, un Servitore.</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Oh senza cerimonie… di buon core…</l>
+            <l>grazie… ma ov’è la sposa?</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Giulia e certo allo specchio, ma a momenti</l>
+            <l>verrà qui.</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Alla campagna</l>
+            <l>non servon tante smorfie. Or finché viene,</l>
+            <l>conoscete Dorvil in questo amico</l>
+            <l>che vi presento.</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Il nome suo m’è noto.</l>
+            <l>(civiltà con Dorvil che vi corrisponde, ecc.)</l>
+          </sp>
+          <stage>DORMONTIl nome suo m’è noto.(civiltà con Dorvil che vi corrisponde, ecc.)</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Lo incontrai qui dappresso, e testimonio</l>
+            <l>lo vo’ del mio contratto.</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(Buono!)</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Doman sia fatto.</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>E doman si farà. Vo a dar degli ordini</l>
+            <l>e Giulia ad affrettar.</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(affettatamente)</l>
+            <l>Ve ne scongiuro.</l>
+          </sp>
+          <stage>BLANSAC(affettatamente)Ve ne scongiuro.</stage>
+        </div>
+        <div type="scene">
+          <head>DORMONT</head>Tutto compito fia, state sicuro.(parte col servitore)Scena sestaBlansac, e Dorvil.<sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Tutto compito fia, state sicuro.</l>
+            <l>(parte col servitore)</l>
+            <l>Scena sesta</l>
+            <l>Blansac, e Dorvil.</l>
+          </sp>
+          <stage>DORMONTTutto compito fia, state sicuro.(parte col servitore)Scena sestaBlansac, e Dorvil.</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(Distoglierlo tentiam da queste nozze.)</l>
+            <l>E che? tu ti mariti?</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Qual sorpresa!</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>So che il tuo core è instabil tanto.</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(in aria romanzesca)</l>
+            <l>Voglio</l>
+            <l>fissarlo divenendo il più fedele,</l>
+            <l>il più tenero sposo.</l>
+          </sp>
+          <stage>BLANSAC(in aria romanzesca)Vogliofissarlo divenendo il più fedele,il più tenero sposo.</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Odi in segreto.</l>
+            <l>Fai la più gran pazzia sposando Giulia.</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Perché?</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(marcatamente)</l>
+            <l>Ho le mie ragion.</l>
+          </sp>
+          <stage>DORVIL(marcatamente)Ho le mie ragion.</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Qual tuono mai</l>
+            <l>misterioso è questo?</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(in aria di gran confidenza)</l>
+            <l>Per Parigi</l>
+            <l>si dice già che Giulia si fa sposa</l>
+            <l>solo per obbedire al suo tutore,</l>
+            <l>ma non perché ti stimi o porti amore.</l>
+          </sp>
+          <stage>DORVIL(in aria di gran confidenza)Per Parigisi dice già che Giulia si fa sposasolo per obbedire al suo tutore,ma non perché ti stimi o porti amore.</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Ah cospetto! son punto. Ella non m’ama?</l>
+            <l>(vivissimamente)</l>
+            <l>Io non saprò piacere a lei? tu stesso</l>
+            <l>giudicar ne dovrai. All’entusiasmo</l>
+            <l>io sono già d’averti ritrovato.</l>
+          </sp>
+          <stage>BLANSACAh cospetto! son punto. Ella non m’ama?(vivissimamente)Io non saprò piacere a lei? tu stessogiudicar ne dovrai. All’entusiasmoio sono già d’averti ritrovato.</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Perché?</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Per riparare la mia gloria</l>
+            <l>qui presente ti vo’ di mia vittoria.</l>
+            <l>(pensa)</l>
+          </sp>
+          <stage>BLANSACPer riparare la mia gloriaqui presente ti vo’ di mia vittoria.(pensa)</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(Quest’è proprio superbia!)</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Ma potrebbe</l>
+            <l>Giulia in presenza tua</l>
+            <l>avere dei riguardi… e allor… ci vuole</l>
+            <l>un ripiego… osserviamo…</l>
+            <l>(apre la porta con griglia)</l>
+          </sp>
+          <stage>BLANSACMa potrebbeGiulia in presenza tuaavere dei riguardi… e allor… ci vuoleun ripiego… osserviamo…(apre la porta con griglia)</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(con rabbia segreta)</l>
+            <l>(Il mio espediente</l>
+            <l>proprio è in bene riuscito!)</l>
+          </sp>
+          <stage>DORVIL(con rabbia segreta)(Il mio espedienteproprio è in bene riuscito!)</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Ottimamente!</l>
+            <l>Asconditi qui dietro e osserva tutto</l>
+            <l>per doverne stupir.</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Tu vuoi?…</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Va’ lesto.</l>
+            <l>Vedrai, godrai…</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Eh lascia…</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Quai riserve?</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(Sì, conosciamo il cor di Giulia a fondo.)</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Ebben, che dici?</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Il tuo desir secondo.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>[N. 3 – Aria]</head>Vedrò qual sommo incantodi femmina nel pettorechi un novello affetto,o un lusinghiero ardor.(Bramo l’istante e il temo.)Curioso è l’accidente…(Ah che in pensarvi io fremo…)Ti credo assai possente:del tuo trionfo io stessosarò qui ammirator.(Ah se per te m’accendo,deh non tradirmi ancor.)(entra nella porta a griglia e si chiude)Scena settimaDorvil nascosto. Blansac, poi Germano, indi Giulia. <stage>[N. 3 – Aria]Vedrò qual sommo incantodi femmina nel pettorechi un novello affetto,o un lusinghiero ardor.(Bramo l’istante e il temo.)Curioso è l’accidente…(Ah che in pensarvi io fremo…)Ti credo assai possente:del tuo trionfo io stessosarò qui ammirator.(Ah se per te m’accendo,deh non tradirmi ancor.)(entra nella porta a griglia e si chiude)Scena settimaDorvil nascosto. Blansac, poi Germano, indi Giulia.</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Io non so conquistar un cor di donna?</l>
+            <l>Un Blansac! impossibile!</l>
+            <l>(esce Germano, e non veduto, si ferma indietro in osservazione presso un gabinetto)</l>
+            <l>GERMANO</l>
+            <l>(Eccolo qui, osserviamo,</l>
+            <l>e a servir la padrona incominciamo.)</l>
+            <l>(entra nel gabinetto e si fa vedere a suo tempo)</l>
+          </sp>
+          <stage>BLANSACIo non so conquistar un cor di donna?Un Blansac! impossibile!(esce Germano, e non veduto, si ferma indietro in osservazione presso un gabinetto)GERMANO(Eccolo qui, osserviamo,e a servir la padrona incominciamo.)(entra nel gabinetto e si fa vedere a suo tempo)</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Son punto, e la vedremo.</l>
+            <l>(esce Giulia, concentrata in sé stessa)</l>
+          </sp>
+          <stage>BLANSACSon punto, e la vedremo.(esce Giulia, concentrata in sé stessa)</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(Sì, voglio che Blansac sposi Lucilla,</l>
+            <l>e in tal guisa allontano il mio periglio.)</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(aprendo un poco, a Blansac, che se gli trova vicino)</l>
+            <l>Mi sembra assai pensosa.</l>
+          </sp>
+          <stage>DORVIL(aprendo un poco, a Blansac, che se gli trova vicino)Mi sembra assai pensosa.</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Taci.</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(osservando Dorvil)</l>
+            <l>(Oh bella!</l>
+            <l>un altro lì in gabbiotto!)</l>
+          </sp>
+          <stage>GERMANO(osservando Dorvil)(Oh bella!un altro lì in gabbiotto!)</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(Ma conosciamo in prima s’egli è tale</l>
+            <l>da renderla felice.)</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(scoprendosi)</l>
+            <l>Ah bella Giulia</l>
+            <l>posso offrirvi una volta i voti miei!</l>
+            <l>N’è rapita quest’alma!</l>
+            <l>Deh! perché mai celarvi a chi v’adora?</l>
+          </sp>
+          <stage>BLANSAC(scoprendosi)Ah bella Giuliaposso offrirvi una volta i voti miei!N’è rapita quest’alma!Deh! perché mai celarvi a chi v’adora?</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Voi supponete d’essere un amante</l>
+            <l>tenero!</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Tenerissimo.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Con vostra buona grazia non vi credo.</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Quest’è un ingiusto oltraggio.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Voi volete</l>
+            <l>piacere a tutte, e, s’ho da dirvi il vero,</l>
+            <l>non mi sapete interessar.</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(Va bene!)</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(Ma perché mai quell’altro fa bao bao?)</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Signora!…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Ognun vi taccia di leggero.</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Ah che più non lo sono. È l’incostanza</l>
+            <l>dell’età mia il difetto, ma i suoi dritti</l>
+            <l>su me ragion riprende.</l>
+            <l>Finché libero io fui correr potei</l>
+            <l>di bella in bella, ma se d’esser fido</l>
+            <l>ad una degna sposa io giurerò</l>
+            <l>lei sola eternamente adorerò.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Dite davvero! voi</l>
+            <l>così parlando m’incantate.</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(Ohimè!</l>
+            <l>che vuol dir questo?)</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(Oh bella! si rimescola!)</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(Egli mi par sincero, e di Lucilla</l>
+            <l>può far la sorte.)</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(Ella di già s’accende.)</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>E voi certo?…</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Ah qual dubbio! egli m’offende!</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(A qual barbaro cimento</l>
+            <l>or si trova questo cor!)</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Ah ch’io temo che sincero</l>
+            <l>non sia il voto dell’amor.</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(Qui v’è sotto qualche imbroglio,</l>
+            <l>qui v’è troppo mal umor.)</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Sì che a lei sarò costante.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Sempre fido!</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Sempre amante…</l>
+            <l>di tutti i sposi sarò il miglior.</l>
+          </sp>
+          <sp who="#giulia e blansac">
+            <speaker>GIULIA E BLANSAC:</speaker>
+            <l>I voti unanimi, la tenerezza,</l>
+            <l>gioie, desiri, piaceri, ebbrezza!</l>
+            <l>ah quest’è un’anima felicitar.</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(Bravi si servano, vadano avanti;</l>
+            <l>godano pure de’ loro incanti,</l>
+            <l>ma tutto in aria farò volar.)</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(Quel si rimescola, quello riscaldasi…</l>
+            <l>ah qui di certo v’è uno sconcerto…</l>
+            <l>voglio la storia deciferar.)</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(accostandosi a Giulia ed accennando ov’è Dorvil)</l>
+            <l>Padrona, è lì…</l>
+          </sp>
+          <stage>GERMANO(accostandosi a Giulia ed accennando ov’è Dorvil)Padrona, è lì…</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(fissando Blansac)</l>
+            <l>Lo vedo.</l>
+          </sp>
+          <stage>GIULIA(fissando Blansac)Lo vedo.</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(incalzando il lazzo)</l>
+            <l>No no ch’è lì…</l>
+          </sp>
+          <stage>GERMANO(incalzando il lazzo)No no ch’è lì…</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Sei matto!</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>È lì dico!…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Ma chi?</l>
+            <l>(Blansac apre la porta e n’esce Dorvil. Sorpresa, ecc.)</l>
+          </sp>
+          <stage>GIULIAMa chi?(Blansac apre la porta e n’esce Dorvil. Sorpresa, ecc.)</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(a Dorvil in aria di trionfo)</l>
+            <l>Sei già scoperto. Avanti.</l>
+            <l>Dimmi, chi porta i vanti?</l>
+          </sp>
+          <stage>BLANSAC(a Dorvil in aria di trionfo)Sei già scoperto. Avanti.Dimmi, chi porta i vanti?</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(ironico)</l>
+            <l>Con lei me ne consolo</l>
+            <l>amabile signora.</l>
+            <l>Quei dolci affetti teneri</l>
+            <l>si goda lieta ognora.</l>
+            <l>Esempio è suo bel core</l>
+            <l>di vera fedeltà.</l>
+          </sp>
+          <stage>DORVIL(ironico)Con lei me ne consoloamabile signora.Quei dolci affetti tenerisi goda lieta ognora.Esempio è suo bel coredi vera fedeltà.</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Che ardire! che imprudenza!…</l>
+            <l>(Freniamci.)</l>
+            <l>(a Blansac)</l>
+            <l>Ei come qua?</l>
+          </sp>
+          <stage>GIULIAChe ardire! che imprudenza!…(Freniamci.)(a Blansac)Ei come qua?</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(come sopra)</l>
+            <l>Io stesso l’ho condotto</l>
+            <l>e il volli testimonio</l>
+            <l>di mia felicità.</l>
+          </sp>
+          <stage>BLANSAC(come sopra)Io stesso l’ho condottoe il volli testimoniodi mia felicità.</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Insolente e chi t’ha detto</l>
+            <l>(ognuno tirando a sé Germano che si mostra imbarazzatissimo)</l>
+            <l>ch’io colà mi stava ascoso?</l>
+          </sp>
+          <stage>DORVILInsolente e chi t’ha detto(ognuno tirando a sé Germano che si mostra imbarazzatissimo)ch’io colà mi stava ascoso?</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Compatite mio signore,</l>
+            <l>per istinto io son curioso.</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Dimmi un po’ chi t’ha ordinato</l>
+            <l>metter man ne’ fatti miei?</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>V’assicuro che l’ho fatto</l>
+            <l>sol per dare gusto a lei.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Io che c’entro se ciascuno</l>
+            <l>qui di te si chiama offeso?</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Padroncina, perdonate</l>
+            <l>v’avrò forse mal inteso.</l>
+          </sp>
+          <sp who="#blansac e giulia">
+            <speaker>BLANSAC E GIULIA:</speaker>
+            <l>(a Germano)</l>
+            <l>Tu sei causa bestia matta!…</l>
+            <l>(a Dorvil)</l>
+            <l>Pria si sente, pria s’intende…</l>
+            <l>(a Germano)</l>
+            <l>Per te ognuno è in convulsione…</l>
+            <l>sempre ben non si comprende…</l>
+            <l>(a Dorvil)</l>
+            <l>Ah la testa in confusione</l>
+            <l>traballare or qui mi fa!</l>
+          </sp>
+          <stage>BLANSAC E GIULIA(a Germano)Tu sei causa bestia matta!…(a Dorvil)Pria si sente, pria s’intende…(a Germano)Per te ognuno è in convulsione…sempre ben non si comprende…(a Dorvil)Ah la testa in confusionetraballare or qui mi fa!</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(a Germano)</l>
+            <l>Tu sei causa bestia matta!…</l>
+            <l>(a Giulia e Blansac)</l>
+            <l>Tutto chiaro ho ben sentito…</l>
+            <l>(a Germano)</l>
+            <l>Per te ognuno è in convulsione…</l>
+            <l>pienamente ho già capito…</l>
+            <l>(a Giulia)</l>
+            <l>Ah la testa in confusione</l>
+            <l>traballare or qui mi fa!</l>
+          </sp>
+          <stage>DORVIL(a Germano)Tu sei causa bestia matta!…(a Giulia e Blansac)Tutto chiaro ho ben sentito…(a Germano)Per te ognuno è in convulsione…pienamente ho già capito…(a Giulia)Ah la testa in confusionetraballare or qui mi fa!</stage>
+        </div>
+        <div type="scene">
+          <head>GERMANO</head>Ma pazienza miei signori…veh che caso indiavolato!…Vi dirò la mia ragione…bella mancia che ho pigliato!…Ah la testa in confusionetraballare or qui mi fa!(Giulia e Germano partono)Scena ottavaBlansac e Dorvil.<sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Ma pazienza miei signori…</l>
+            <l>veh che caso indiavolato!…</l>
+            <l>Vi dirò la mia ragione…</l>
+            <l>bella mancia che ho pigliato!…</l>
+            <l>Ah la testa in confusione</l>
+            <l>traballare or qui mi fa!</l>
+            <l>(Giulia e Germano partono)</l>
+            <l>Scena ottava</l>
+            <l>Blansac e Dorvil.</l>
+          </sp>
+          <stage>GERMANOMa pazienza miei signori…veh che caso indiavolato!…Vi dirò la mia ragione…bella mancia che ho pigliato!…Ah la testa in confusionetraballare or qui mi fa!(Giulia e Germano partono)Scena ottavaBlansac e Dorvil.</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(vivamente)</l>
+            <l>Va’ là presto, va’ là! del mio trionfo</l>
+            <l>riempi tutta Parigi.</l>
+          </sp>
+          <stage>BLANSAC(vivamente)Va’ là presto, va’ là! del mio trionforiempi tutta Parigi.</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Io!…</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Te ne spiace?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>DORVIL</head>Anzi ne godo, e corro sul momentoa darti lode. (O gelosia, o tormento!)(parte dal fondo)Scena nonaBlansac e Lucilla.<sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Anzi ne godo, e corro sul momento</l>
+            <l>a darti lode. (O gelosia, o tormento!)</l>
+            <l>(parte dal fondo)</l>
+            <l>Scena nona</l>
+            <l>Blansac e Lucilla.</l>
+          </sp>
+          <stage>DORVILAnzi ne godo, e corro sul momentoa darti lode. (O gelosia, o tormento!)(parte dal fondo)Scena nonaBlansac e Lucilla.</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Or andiam dal tutor…</l>
+            <l>(esce Lucilla)</l>
+            <l>Bella Lucilla,</l>
+            <l>voi qui?</l>
+          </sp>
+          <stage>BLANSACOr andiam dal tutor…(esce Lucilla)Bella Lucilla,voi qui?</stage>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>Credea trovarvi mia cugina…</l>
+            <l>io vado…</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Deh! un istante. Mi sembrate</l>
+            <l>molto più bella.</l>
+          </sp>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>Oh adesso mi burlate!</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Parlo da senno.</l>
+          </sp>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>E mia cugina?</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>E come</l>
+            <l>vicino a voi d’altra beltà si puote</l>
+            <l>rammentar o parlar?</l>
+          </sp>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>Che dite mai?</l>
+            <l>forse che mia cugina?…</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Essa è adorabile,</l>
+            <l>ma non è sola in cui beltà s’accolga.</l>
+            <l>V’è qualch’altra…</l>
+          </sp>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>Signore,</l>
+            <l>arrossir voi mi fate.</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Ebben, più cara</l>
+            <l>vi rende quel rossor.</l>
+          </sp>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>Cara! a chi mai?</l>
+            <l>Priva di merti, io temo che la vostra</l>
+            <l>eccedente bontà a riguardo mio</l>
+            <l>ingannare vi possa.</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>O quanto mai</l>
+            <l>felice si saria</l>
+            <l>arrivando a piacervi!</l>
+          </sp>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>Veramente</l>
+            <l>non ho crudele il core,</l>
+            <l>né mi duole goder l’altrui favore.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>[N. 5 – Aria]</head>Sento talor nell’animaun dolce movimento,che lusinghiero e teneromi va parlando in sen.Allor se un caro sposoavessi al fianco mio,quanto nel cor desiosaria compito appien.(parte)Scena decimaBlansac poi Germano, con lume. <stage>[N. 5 – Aria]Sento talor nell’animaun dolce movimento,che lusinghiero e teneromi va parlando in sen.Allor se un caro sposoavessi al fianco mio,quanto nel cor desiosaria compito appien.(parte)Scena decimaBlansac poi Germano, con lume.</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Bellissima! il casetto e proprio nuovo!</l>
+            <l>Cerco una bella, e due qui ne ritrovo.</l>
+            <l>(esce Germano)</l>
+            <l>GERMANO</l>
+            <l>Signore.</l>
+            <l>(posa il lume sul burò)</l>
+          </sp>
+          <stage>BLANSACBellissima! il casetto e proprio nuovo!Cerco una bella, e due qui ne ritrovo.(esce Germano)GERMANOSignore.(posa il lume sul burò)</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Cosa vuoi?</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>La compagnia</l>
+            <l>è già rientrata nel salone.</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Han detto</l>
+            <l>che ad avvertir mi venga?</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Signor no.</l>
+            <l>Ma non importa. Allor che si sta solo</l>
+            <l>si prova noia… ma… oh sì sì… vicino</l>
+            <l>(con riso sciocco)</l>
+            <l>alla signora Giulia… mi capite…</l>
+            <l>è vero?… si sta bene, anzi benone.</l>
+          </sp>
+          <stage>GERMANOSignor no.Ma non importa. Allor che si sta solosi prova noia… ma… oh sì sì… vicino(con riso sciocco)alla signora Giulia… mi capite…è vero?… si sta bene, anzi benone.</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Ah bravo! hai dello spirito. Vedete</l>
+            <l>come si vanno calunniando gli uomini!</l>
+            <l>Dicono che sei sciocco!</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(in aria di goffo complimento)</l>
+            <l>Oh signor mio!…</l>
+            <l>grazie… voi siete buono…</l>
+          </sp>
+          <stage>GERMANO(in aria di goffo complimento)Oh signor mio!…grazie… voi siete buono…</stage>
+        </div>
+        <div type="scene">
+          <head>BLANSAC</head>(ridendo)Addio, addio.(parte dal fondo)Scena undicesimaGermano solo.E ognun mi dice sciocco! E anche Tognettase fo all’amor con lei… me ne dispiace…io so che ho dello spirito…oh finiamo le ciarle. Si fa notte.Chiudiam porte e finestre…(sbadiglia)veramenteho bevuto un pochetto…Cominciamo da questo gabinetto.(entra nel gabinetto alla sinistra, lasciando il lume sul burò)Scena dodicesimaGiulia, poi Germano.<sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(ridendo)</l>
+            <l>Addio, addio.</l>
+            <l>(parte dal fondo)</l>
+            <l>Scena undicesima</l>
+            <l>Germano solo.</l>
+            <l>E ognun mi dice sciocco! E anche Tognetta</l>
+            <l>se fo all’amor con lei… me ne dispiace…</l>
+            <l>io so che ho dello spirito…</l>
+            <l>oh finiamo le ciarle. Si fa notte.</l>
+            <l>Chiudiam porte e finestre…</l>
+            <l>(sbadiglia)</l>
+            <l>veramente</l>
+            <l>ho bevuto un pochetto…</l>
+            <l>Cominciamo da questo gabinetto.</l>
+            <l>(entra nel gabinetto alla sinistra, lasciando il lume sul burò)</l>
+            <l>Scena dodicesima</l>
+            <l>Giulia, poi Germano.</l>
+          </sp>
+          <stage>BLANSAC(ridendo)Addio, addio.(parte dal fondo)Scena undicesimaGermano solo.E ognun mi dice sciocco! E anche Tognettase fo all’amor con lei… me ne dispiace…io so che ho dello spirito…oh finiamo le ciarle. Si fa notte.Chiudiam porte e finestre…(sbadiglia)veramenteho bevuto un pochetto…Cominciamo da questo gabinetto.(entra nel gabinetto alla sinistra, lasciando il lume sul burò)Scena dodicesimaGiulia, poi Germano.</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Sollecitiam perché Blansac si sposi</l>
+            <l>domani a mia cugina. ~ E quel Dorvil</l>
+            <l>qui trattenersi? Ah perché un sol momento,</l>
+            <l>almeno alla sfuggita,</l>
+            <l>non potei favellargli!</l>
+            <l>Ma appieno il torto suo conoscerà,</l>
+            <l>e per forza perdon mi chiederà.</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(uscendo, trattenendosi in disparte, parlando da sé, non veduto da Giulia, che parla sempre astratta)</l>
+            <l>(Qui ancor la padroncina…)</l>
+          </sp>
+          <stage>GERMANO(uscendo, trattenendosi in disparte, parlando da sé, non veduto da Giulia, che parla sempre astratta)(Qui ancor la padroncina…)</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Ma no ‘l potrà ottenere</l>
+            <l>se non a mezza notte…</l>
+            <l>Or sotto il mio balcon forse m’attende.</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(Sotto il balcon!)</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Sarei</l>
+            <l>troppo crudel, se a lui</l>
+            <l>negassi il randevu.</l>
+          </sp>
+          <stage>GIULIASareitroppo crudel, se a luinegassi il randevu.</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(Il randevu! picciole bagatelle!)</l>
+          </sp>
+          <stage>GERMANO(Il randevu! picciole bagatelle!)</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Esso è geloso, è vero,</l>
+            <l>ma d’un amor sincero</l>
+            <l>quest’è prova fedele… ormai vicina</l>
+            <l>è già la mezza notte.</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(La mezza notte!)</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Al punto</l>
+            <l>egli è già di venir. Dunque attacchiamo</l>
+            <l>la nostra scala sul balcone e andiamo.</l>
+            <l>(s’incammina al burò poi si ferma con riflessione)</l>
+            <l>E il povero Blansac!</l>
+          </sp>
+          <stage>GIULIAAl puntoegli è già di venir. Dunque attacchiamola nostra scala sul balcone e andiamo.(s’incammina al burò poi si ferma con riflessione)E il povero Blansac!</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Blansac!… ah! intendo.</l>
+            <l>È l’amico aspettato…</l>
+            <l>ora capisco tutto.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Ma se mai,</l>
+            <l>ora che il mio tutore</l>
+            <l>è in si gran movimento</l>
+            <l>o sospetta o discopre… Ah! qual cimento!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>[N. 6 – Recitativo e Aria]</head>Il mio ben sospiro e chiamovita e speme a questo core;ma fra l’ombre del timoreson costretta a palpitar.Ah si vada… qui che fai?(accorgendosi di Germano che fa vista d’entrare nell’altro gabinetto)Vai a chiuder?… Ti dispenso…Vien qualcun… Chi sarà mai?…(osservando verso la porta del fondo)È il tutor sicuramente!…Gli dirai… (Cresce l’imbroglio…)tu va pur… (Confusa incertaio mi sento vacillar.)(Quanto pena un’alma amante!Quanto costa un vero amar!)(entra nel gabinetto a sinistra e si chiude)Scena tredicesimaGermano, poi Blansac.GERMANOBrava! vada, si serva…che grand’uom che son io! Scoperto ho il tutto.È chiaro, è indubitabile, è sicuro.Qui il signor di Blansacdeve venire a mezza notte! buono!un randevu! va bene.Vengano adesso a dirmi che son sciocco!È un randevu al signor Blansac, sì sì.E la causa di questo…(pensa un poco)Bravo Germano! ho ben capito il resto. <stage>[N. 6 – Recitativo e Aria]Il mio ben sospiro e chiamovita e speme a questo core;ma fra l’ombre del timoreson costretta a palpitar.Ah si vada… qui che fai?(accorgendosi di Germano che fa vista d’entrare nell’altro gabinetto)Vai a chiuder?… Ti dispenso…Vien qualcun… Chi sarà mai?…(osservando verso la porta del fondo)È il tutor sicuramente!…Gli dirai… (Cresce l’imbroglio…)tu va pur… (Confusa incertaio mi sento vacillar.)(Quanto pena un’alma amante!Quanto costa un vero amar!)(entra nel gabinetto a sinistra e si chiude)Scena tredicesimaGermano, poi Blansac.GERMANOBrava! vada, si serva…che grand’uom che son io! Scoperto ho il tutto.È chiaro, è indubitabile, è sicuro.Qui il signor di Blansacdeve venire a mezza notte! buono!un randevu! va bene.Vengano adesso a dirmi che son sciocco!È un randevu al signor Blansac, sì sì.E la causa di questo…(pensa un poco)Bravo Germano! ho ben capito il resto.</stage>
+          <stage>[N. 7 – Aria]Amore dolcementetu prima accendi il core;poi crescer fai l’ardore,e a delirar si va.Perciò la padroncina…(sbadiglia e siede a canto alla tavola)che sonno!… stamattina…volea… pensiamo un poco…che io… facessi… il gioco…se… l’altro… che… si sa!…(mezzo s’addormenta; esce Blansac)</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(fermandosi un poco indietro)</l>
+            <l>Giulia dov’è?… oh colui</l>
+            <l>seduto lì che fa?</l>
+          </sp>
+          <stage>BLANSAC(fermandosi un poco indietro)Giulia dov’è?… oh coluiseduto lì che fa?</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(mezzo stordito dal sonno)</l>
+            <l>Sì… la signora Giulia…</l>
+          </sp>
+          <stage>GERMANO(mezzo stordito dal sonno)Sì… la signora Giulia…</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(interessandosi ad ascoltare senza muoversi)</l>
+            <l>Che?</l>
+          </sp>
+          <stage>BLANSAC(interessandosi ad ascoltare senza muoversi)Che?</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Ha dato… il randevu…</l>
+          </sp>
+          <stage>GERMANOHa dato… il randevu…</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Il randevu!…</l>
+          </sp>
+          <stage>BLANSACIl randevu!…</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>A Blansac…</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>A me!…</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Stanotte…</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>E che?</l>
+            <l>sogna? è finzion? sappiamo.</l>
+            <l>Germano!…</l>
+            <l>(lo scuote)</l>
+            <l>GERMANO</l>
+            <l>Chi va la!…</l>
+            <l>(s’alza impetuosamente ed impaurito)</l>
+          </sp>
+          <stage>BLANSACE che?sogna? è finzion? sappiamo.Germano!…(lo scuote)GERMANOChi va la!…(s’alza impetuosamente ed impaurito)</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Che dici in tua malora!</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(ridendo e rassicurato)</l>
+            <l>Eh nulla… sono un sciocco…</l>
+          </sp>
+          <stage>GERMANO(ridendo e rassicurato)Eh nulla… sono un sciocco…</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Su parla allocco!…</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>GERMANO</head>(puntigliato)Io allocco!…Attento e ve la spifferotale quale la sarà.(Blansac è stupito assai)Quando suona mezza nottevoi dovete venir qua;e una scala la padronaper salir vi calerà!(accennandogli la porta vetrata)Voi entrato che saretepoi direte, poi farete…io non cerco i fatti altrui,e sarà quel che sarà!Su via ditemi bravissimo,argutissimo, acutissimo!Della vostra bella sortemi consolo in verità.(parte dal fondo)Scena quAttordicesimaBlansac, poi Dormont, Lucilla, e Germano.<div type="scene">
+          <head>GERMANO</head>(puntigliato)Io allocco!…Attento e ve la spifferotale quale la sarà.(Blansac è stupito assai)Quando suona mezza nottevoi dovete venir qua;e una scala la padronaper salir vi calerà!(accennandogli la porta vetrata)Voi entrato che saretepoi direte, poi farete…io non cerco i fatti altrui,e sarà quel che sarà!Su via ditemi bravissimo,argutissimo, acutissimo!Della vostra bella sortemi consolo in verità.(parte dal fondo)Scena quAttordicesimaBlansac, poi Dormont, Lucilla, e Germano.<sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(puntigliato)</l>
+            <l>Io allocco!…</l>
+            <l>Attento e ve la spiffero</l>
+            <l>tale quale la sarà.</l>
+            <l>(Blansac è stupito assai)</l>
+            <l>Quando suona mezza notte</l>
+            <l>voi dovete venir qua;</l>
+            <l>e una scala la padrona</l>
+            <l>per salir vi calerà!</l>
+            <l>(accennandogli la porta vetrata)</l>
+            <l>Voi entrato che sarete</l>
+            <l>poi direte, poi farete…</l>
+            <l>io non cerco i fatti altrui,</l>
+            <l>e sarà quel che sarà!</l>
+            <l>Su via ditemi bravissimo,</l>
+            <l>argutissimo, acutissimo!</l>
+            <l>Della vostra bella sorte</l>
+            <l>mi consolo in verità.</l>
+            <l>(parte dal fondo)</l>
+            <l>Scena qu</l>
+            <l>Attordicesima</l>
+            <l>Blansac, poi Dormont, Lucilla, e Germano.</l>
+          </sp>
+          <stage>GERMANO(puntigliato)Io allocco!…Attento e ve la spifferotale quale la sarà.(Blansac è stupito assai)Quando suona mezza nottevoi dovete venir qua;e una scala la padronaper salir vi calerà!(accennandogli la porta vetrata)Voi entrato che saretepoi direte, poi farete…io non cerco i fatti altrui,e sarà quel che sarà!Su via ditemi bravissimo,argutissimo, acutissimo!Della vostra bella sortemi consolo in verità.(parte dal fondo)Scena quAttordicesimaBlansac, poi Dormont, Lucilla, e Germano.</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Cosa? come? a me Giulia un randevu?</l>
+            <l>E non me ‘l dice?… ora capisco!… brava!</l>
+            <l>Che donnesca finezza!</l>
+            <l>Perché n’ha certo un poco di rossore</l>
+            <l>me ‘l fa sapere dal suo servitore.</l>
+            <l>Ma che vorrà mai dirmi?</l>
+            <l>Ah che certo le è nato</l>
+            <l>qualche grande accidente…</l>
+            <l>Vien mezzanotte! Io sono impaziente.</l>
+            <l>(escono i suddetti)</l>
+          </sp>
+          <stage>BLANSACCosa? come? a me Giulia un randevu?E non me ‘l dice?… ora capisco!… brava!Che donnesca finezza!Perché n’ha certo un poco di rossoreme ‘l fa sapere dal suo servitore.Ma che vorrà mai dirmi?Ah che certo le è natoqualche grande accidente…Vien mezzanotte! Io sono impaziente.(escono i suddetti)</stage>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Perché spariste? Già s’è ritirato</l>
+            <l>Dorvil l’amico vostro. Un poco troppo</l>
+            <l>perseguitate Giulia.</l>
+          </sp>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>E questo è vero.</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Io l’ho cercata invano.</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Eh, eh, la troveremo,</l>
+            <l>e il contratto doman soscriveremo.</l>
+            <l>Ritiriamoci tutti.</l>
+          </sp>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>Immantinente.</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Bella Lucilla addio.</l>
+            <l>(Vien mezza notte! o qual ardore è il mio!)</l>
+            <l>(parte dal fondo)</l>
+          </sp>
+          <stage>BLANSACBella Lucilla addio.(Vien mezza notte! o qual ardore è il mio!)(parte dal fondo)</stage>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Tu seguimi, o Germano.</l>
+            <l>(segue Blansac)</l>
+            <l>GERMANO</l>
+            <l>Servo. Gran novità!</l>
+          </sp>
+          <stage>DORMONTTu seguimi, o Germano.(segue Blansac)GERMANOServo. Gran novità!</stage>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>Cos’è successo?</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Vostra sorella in questo appartamento</l>
+            <l>ha dato a mezza notte un randevu…</l>
+          </sp>
+          <stage>GERMANOVostra sorella in questo appartamentoha dato a mezza notte un randevu…</stage>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>A chi?</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Eh!… al signor Blansac.</l>
+          </sp>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>Come!</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Ma zitto!</l>
+            <l>Fate com’io, tacete, o nascerà</l>
+            <l>qualche diavol…</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>(di dentro)</l>
+            <l>Germano!…</l>
+          </sp>
+          <stage>DORMONT(di dentro)Germano!…</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>Sono qua.</l>
+            <l>(via correndo)</l>
+          </sp>
+          <stage>GERMANOSono qua.(via correndo)</stage>
+        </div>
+        <div type="scene">
+          <head>LUCILLA</head>Qui per Giulia, Blansac! Sentir potessi!…Faccio per imparare…ho una smania… vien gente…ascondiamci lì dentro prestamente.(entra nella porta a griglia, e si chiude)Scena quindicesimaGermano solo.Buono! non c’è persona. Un randevue s’io piglio Tognetta per la manomi regala per solito un schiaffone?Eh il signor di Blansac mi può insegnareil mestiere, e da lui voglio imparare.Qui bisogna nascondersi… ma dove?gnaffe! sotto la tavola.Che gusto sarà il mio!Imparerò, e doman vo’ che Tognettatrovi caro carino il suo Germano…apron la porta… a noi. Sotto, pian piano.(si nasconde sotto la tavola)Scena sedicesimaDetti nascosti. Giulia dal suo gabinetto, poi Dorvil, indi Blansac. Giulia va a chiudere la porta del fondo.<sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>Qui per Giulia, Blansac! Sentir potessi!…</l>
+            <l>Faccio per imparare…</l>
+            <l>ho una smania… vien gente…</l>
+            <l>ascondiamci lì dentro prestamente.</l>
+            <l>(entra nella porta a griglia, e si chiude)</l>
+            <l>Scena quindicesima</l>
+            <l>Germano solo.</l>
+            <l>Buono! non c’è persona. Un randevu</l>
+            <l>e s’io piglio Tognetta per la mano</l>
+            <l>mi regala per solito un schiaffone?</l>
+            <l>Eh il signor di Blansac mi può insegnare</l>
+            <l>il mestiere, e da lui voglio imparare.</l>
+            <l>Qui bisogna nascondersi… ma dove?</l>
+            <l>gnaffe! sotto la tavola.</l>
+            <l>Che gusto sarà il mio!</l>
+            <l>Imparerò, e doman vo’ che Tognetta</l>
+            <l>trovi caro carino il suo Germano…</l>
+            <l>apron la porta… a noi. Sotto, pian piano.</l>
+            <l>(si nasconde sotto la tavola)</l>
+            <l>Scena sedicesima</l>
+            <l>Detti nascosti. Giulia dal suo gabinetto, poi Dorvil, indi Blansac. Giulia va a chiudere la porta del fondo.</l>
+          </sp>
+          <stage>LUCILLAQui per Giulia, Blansac! Sentir potessi!…Faccio per imparare…ho una smania… vien gente…ascondiamci lì dentro prestamente.(entra nella porta a griglia, e si chiude)Scena quindicesimaGermano solo.Buono! non c’è persona. Un randevue s’io piglio Tognetta per la manomi regala per solito un schiaffone?Eh il signor di Blansac mi può insegnareil mestiere, e da lui voglio imparare.Qui bisogna nascondersi… ma dove?gnaffe! sotto la tavola.Che gusto sarà il mio!Imparerò, e doman vo’ che Tognettatrovi caro carino il suo Germano…apron la porta… a noi. Sotto, pian piano.(si nasconde sotto la tavola)Scena sedicesimaDetti nascosti. Giulia dal suo gabinetto, poi Dorvil, indi Blansac. Giulia va a chiudere la porta del fondo.</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Dorme ognuno in queste soglie,</l>
+            <l>ma qualcun veglia in giardino.</l>
+            <l>Il momento è omai vicino</l>
+            <l>e la scala io vo’ calar.</l>
+            <l>(trae dal burò la scala, e va ad attaccarla al poggiuolo)</l>
+            <l>GERMANO</l>
+            <l>(Si comincia per mia fé.)</l>
+            <l>(facendosi vedere a suo tempo dietro la tavola)</l>
+          </sp>
+          <stage>GIULIADorme ognuno in queste soglie,ma qualcun veglia in giardino.Il momento è omai vicinoe la scala io vo’ calar.(trae dal burò la scala, e va ad attaccarla al poggiuolo)GERMANO(Si comincia per mia fé.)(facendosi vedere a suo tempo dietro la tavola)</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(al poggiuolo)</l>
+            <l>Perché attendere si fa?…</l>
+            <l>Zitto… è desso… zi zi zi…</l>
+            <l>(chiamando sottovoce)</l>
+            <l>Siete voi?</l>
+          </sp>
+          <stage>GIULIA(al poggiuolo)Perché attendere si fa?…Zitto… è desso… zi zi zi…(chiamando sottovoce)Siete voi?</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(dal di fuori)</l>
+            <l>Son io…</l>
+          </sp>
+          <stage>DORVIL(dal di fuori)Son io…</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(Ci siamo.</l>
+            <l>Or a scuola ce ne andiamo.)</l>
+            <l>(Dorvil comparisce e scende)</l>
+          </sp>
+          <stage>GERMANO(Ci siamo.Or a scuola ce ne andiamo.)(Dorvil comparisce e scende)</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Posso alfine…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>In pria chiudete.</l>
+            <l>(Dorvil chiude la porta vetrata)</l>
+            <l>GERMANO</l>
+            <l>(Come! qui il signor Dorvil!</l>
+            <l>Oh veh veh! due randevu!)</l>
+          </sp>
+          <stage>GIULIAIn pria chiudete.(Dorvil chiude la porta vetrata)GERMANO(Come! qui il signor Dorvil!Oh veh veh! due randevu!)</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Di vedervi io tutto ardea…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Uomo ingrato, e core aveste</l>
+            <l>di suppor ch’io fossi rea!</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Ma se intesi…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>E che intendeste?</l>
+            <l>Finsi allor… ciel!…</l>
+            <l>(si batte alla porta vetrata, poi di fuori)</l>
+          </sp>
+          <stage>GIULIAE che intendeste?Finsi allor… ciel!…(si batte alla porta vetrata, poi di fuori)</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Fu battuto!</l>
+            <l>(si volgono tutti due ed ascoltano)</l>
+            <l>GERMANO</l>
+            <l>(Va benon! vien l’altro amico.)</l>
+          </sp>
+          <stage>DORVILFu battuto!(si volgono tutti due ed ascoltano)GERMANO(Va benon! vien l’altro amico.)</stage>
+          <sp who="#giulia e dorvil">
+            <speaker>GIULIA E DORVIL:</speaker>
+            <l>Ascoltiam… Si batte ancora!…</l>
+            <l>(si replica la battuta)</l>
+          </sp>
+          <stage>GIULIA E DORVILAscoltiam… Si batte ancora!…(si replica la battuta)</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(torbido assai)</l>
+            <l>Che vuol dir?…</l>
+          </sp>
+          <stage>DORVIL(torbido assai)Che vuol dir?…</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(agitatissima)</l>
+            <l>Che brutto intrico!</l>
+          </sp>
+          <stage>GIULIA(agitatissima)Che brutto intrico!</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(Incalzando va l’affar.)</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(dal di fuori)</l>
+            <l>È mezza notte!…</l>
+            <l>Oggetto amabile,</l>
+            <l>deh vien quest’anima</l>
+            <l>a consolar.</l>
+            <l>È mezza notte!…</l>
+          </sp>
+          <stage>BLANSAC(dal di fuori)È mezza notte!…Oggetto amabile,deh vien quest’animaa consolar.È mezza notte!…</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(avviandosi incollerito alla vetrata)</l>
+            <l>È Blansac!</l>
+          </sp>
+          <stage>DORVIL(avviandosi incollerito alla vetrata)È Blansac!</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Quale imprudenza!</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Vo’ punir la su insolenza!</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(accennandogli il gabinetto all sinistra)</l>
+            <l>Qui celatevi un istante…</l>
+          </sp>
+          <stage>GIULIA(accennandogli il gabinetto all sinistra)Qui celatevi un istante…</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>Voi volete!…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(ve lo costringe)</l>
+            <l>Lo dovete,</l>
+            <l>o si va a precipitar.</l>
+          </sp>
+          <stage>GIULIA(ve lo costringe)Lo dovete,o si va a precipitar.</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(come sopra)</l>
+            <l>È mezza notte!…</l>
+            <l>Oggetto amabile,</l>
+            <l>è mezza notte!…</l>
+          </sp>
+          <stage>BLANSAC(come sopra)È mezza notte!…Oggetto amabile,è mezza notte!…</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>E mi posso o ciel frenar!…</l>
+            <l>(entra per forza nel gabinetto)</l>
+          </sp>
+          <stage>DORVILE mi posso o ciel frenar!…(entra per forza nel gabinetto)</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Può sentirlo il mio tutore,</l>
+            <l>che vicina ha qui la stanza…</l>
+            <l>ah ci vuole ardire e core;</l>
+            <l>convien tutto cimentar.</l>
+            <l>(apre la porta vetrata che resta aperta; Blansac scende ed entra)</l>
+            <l>GERMANO</l>
+            <l>(Quanto vado ad imparar!)</l>
+          </sp>
+          <stage>GIULIAPuò sentirlo il mio tutore,che vicina ha qui la stanza…ah ci vuole ardire e core;convien tutto cimentar.(apre la porta vetrata che resta aperta; Blansac scende ed entra)GERMANO(Quanto vado ad imparar!)</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(con brio)</l>
+            <l>Che fortuna imprevveduta!</l>
+            <l>Tant’osato io non avrei…</l>
+          </sp>
+          <stage>BLANSAC(con brio)Che fortuna imprevveduta!Tant’osato io non avrei…</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(risentita assai)</l>
+            <l>Qual ragion v’ha qui guidato!</l>
+            <l>io saperlo or ben vorrei!</l>
+          </sp>
+          <stage>GIULIA(risentita assai)Qual ragion v’ha qui guidato!io saperlo or ben vorrei!</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Resto assai meravigliato!</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Su parlate.</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Io…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Vi spiegate.</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Io ne vengo al randevu.</l>
+          </sp>
+          <stage>BLANSACIo ne vengo al randevu.</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Chi ve ‘l diede!</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Bella! voi.</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(O pur io.)</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Farneticate!</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Per la voce di Germano…</l>
+          </sp>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(Ahi!)</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Germano!</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Vi calmate,</l>
+            <l>e quel tenero pudore…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Oh finiamola signore!</l>
+            <l>Chi vi rese sì insolente?</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Chi? la scala ivi pendente.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(Ah! levarla m’ho scordato!)</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Deh poiché fui qui chiamato,</l>
+            <l>oltraggiarmi è crudeltà.</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Qui nessuno v’ha chiamato,</l>
+            <l>del destin è crudeltà.</l>
+          </sp>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(Qui nessuno l’ha chiamato,</l>
+            <l>del destino è crudeltà.)</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>GERMANO</head>(Ah quell’altro era chiamato!Ho sbagliato come va.)Scena ultimaDetti. Dormont, che comparisce in berretta da notte un po’ alla volta dal di fuori del poggiuolo, poi scende.<sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(Ah quell’altro era chiamato!</l>
+            <l>Ho sbagliato come va.)</l>
+            <l>Scena ultima</l>
+            <l>Detti. Dormont, che comparisce in berretta da notte un po’ alla volta dal di fuori del poggiuolo, poi scende.</l>
+          </sp>
+          <stage>GERMANO(Ah quell’altro era chiamato!Ho sbagliato come va.)Scena ultimaDetti. Dormont, che comparisce in berretta da notte un po’ alla volta dal di fuori del poggiuolo, poi scende.</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Finir convien la scena,</l>
+            <l>sbrigatevi, scendete…</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Oh lode al ciel: ci sono!…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(al sommo della paura alla voce di Dormont)</l>
+            <l>Ah!…</l>
+          </sp>
+          <stage>GIULIA(al sommo della paura alla voce di Dormont)Ah!…</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Zitto e non temete.</l>
+            <l>(si nasconde nell’altro gabinetto)</l>
+          </sp>
+          <stage>BLANSACZitto e non temete.(si nasconde nell’altro gabinetto)</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Oh cielo!</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>(con riso sardonico)</l>
+            <l>Ah ah! stupite?</l>
+            <l>Non era atteso, è vero?</l>
+          </sp>
+          <stage>DORMONT(con riso sardonico)Ah ah! stupite?Non era atteso, è vero?</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Signor…</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Non serve fingere.</l>
+            <l>La scala e il canterino</l>
+            <l>scoperta han già ogni cosa.</l>
+            <l>(in gran collera apre la porta a griglia ov’è rinchiusa Lucilla)</l>
+            <l>Fuori costui!</l>
+          </sp>
+          <stage>DORMONTNon serve fingere.La scala e il canterinoscoperta han già ogni cosa.(in gran collera apre la porta a griglia ov’è rinchiusa Lucilla)Fuori costui!</stage>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>(correndo fuori timidamente)</l>
+            <l>Son qui…</l>
+          </sp>
+          <stage>LUCILLA(correndo fuori timidamente)Son qui…</stage>
+          <sp who="#giulia, dormont, germano">
+            <speaker>GIULIA, DORMONT, GERMANO:</speaker>
+            <l>Oh bella! chi può intenderla?</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Estrema è la mia collera!</l>
+            <l>Altri ci debbon essere…</l>
+            <l>vediamo un po’…</l>
+            <l>(apre la porta del gabinetto e n’esce Blansac)</l>
+          </sp>
+          <stage>DORMONTEstrema è la mia collera!Altri ci debbon essere…vediamo un po’…(apre la porta del gabinetto e n’esce Blansac)</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Son qui…</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>(a Lucilla)</l>
+            <l>E che garbuglio è questo?</l>
+          </sp>
+          <stage>DORMONT(a Lucilla)E che garbuglio è questo?</stage>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>Io seppi da Germano,</l>
+            <l>che quivi a mezza notte</l>
+            <l>seguiva un randevu,</l>
+            <l>e venni ad imparar.</l>
+          </sp>
+          <stage>LUCILLAIo seppi da Germano,che quivi a mezza notteseguiva un randevu,e venni ad imparar.</stage>
+          <sp who="#germano">
+            <speaker>GERMANO:</speaker>
+            <l>(Ahi, ahi! che sono fritto!)</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>(a Giulia risolutamente)</l>
+            <l>Un randevu! benissimo!</l>
+            <l>Ora sposarlo subito</l>
+            <l>vorrete voi medesima.</l>
+            <l>Tiriamo innanzi il tavolo…</l>
+            <l>(tira in qua la tavola e si scopre Germano che resta in ginocchio e mal coperto dal tappeto che gli cade a ridosso)</l>
+            <l>GERMANO</l>
+            <l>Ahi che ci son!…</l>
+          </sp>
+          <stage>DORMONT(a Giulia risolutamente)Un randevu! benissimo!Ora sposarlo subitovorrete voi medesima.Tiriamo innanzi il tavolo…(tira in qua la tavola e si scopre Germano che resta in ginocchio e mal coperto dal tappeto che gli cade a ridosso)GERMANOAhi che ci son!…</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>(eccetto Lucilla)</l>
+            <l>Germano!</l>
+          </sp>
+          <stage>TUTTI(eccetto Lucilla)Germano!</stage>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Un altro! Lì che fai!</l>
+            <l>(Germano si leva)</l>
+            <l>GERMANO</l>
+            <l>(timidamente)</l>
+            <l>Sapea che qui dovea</l>
+            <l>seguire un randevu.</l>
+            <l>E venni ad imparar.</l>
+            <l>(rimette il tappeto)</l>
+          </sp>
+          <stage>DORMONTUn altro! Lì che fai!(Germano si leva)GERMANO(timidamente)Sapea che qui doveaseguire un randevu.E venni ad imparar.(rimette il tappeto)</stage>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>(minaccioso a Germano e Lucilla)</l>
+            <l>I conti avremo a fare!</l>
+            <l>Frattanto soscriviamo.</l>
+            <l>(cava una carta e la mette sul tavolino)</l>
+          </sp>
+          <stage>DORMONT(minaccioso a Germano e Lucilla)I conti avremo a fare!Frattanto soscriviamo.(cava una carta e la mette sul tavolino)</stage>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>(Or qui convien parlare.)</l>
+            <l>Signor…</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>(risolutissimo a Lucilla)</l>
+            <l>Vostro marito</l>
+            <l>senza ritardo…</l>
+          </sp>
+          <stage>DORMONT(risolutissimo a Lucilla)Vostro maritosenza ritardo…</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(esce animosamente e si mette a canto di Giulia)</l>
+            <l>È qui…</l>
+          </sp>
+          <stage>DORVIL(esce animosamente e si mette a canto di Giulia)È qui…</stage>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Un altro! in quanti siamo!</l>
+          </sp>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>Ah ah! quest’è un portento!</l>
+            <l>Un randevu in duecento!</l>
+          </sp>
+          <stage>BLANSACAh ah! quest’è un portento!Un randevu in duecento!</stage>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>(a Dorvil incollerito)</l>
+            <l>Spiegatevi.</l>
+          </sp>
+          <stage>DORMONT(a Dorvil incollerito)Spiegatevi.</stage>
+          <sp who="#dorvil">
+            <speaker>DORVIL:</speaker>
+            <l>(con nobile fermezza)</l>
+            <l>Di Giulia</l>
+            <l>sono il marito…</l>
+          </sp>
+          <stage>DORVIL(con nobile fermezza)Di Giuliasono il marito…</stage>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Voi!…</l>
+          </sp>
+          <sp who="#giulia">
+            <speaker>GIULIA:</speaker>
+            <l>Perdono o mio tutore,</l>
+            <l>causa di tutto è amore.</l>
+            <l>(cava una lettera e la dà a Dormont che la scorre e se la ritiene)</l>
+            <l>La buona zia per lettera</l>
+            <l>il nodo ci ha permesso.</l>
+            <l>Sposar chi non amava</l>
+            <l>non erami concesso.</l>
+            <l>Voi troppo fiero… ah voi</l>
+            <l>dovete perdonar.</l>
+          </sp>
+          <stage>GIULIAPerdono o mio tutore,causa di tutto è amore.(cava una lettera e la dà a Dormont che la scorre e se la ritiene)La buona zia per letterail nodo ci ha permesso.Sposar chi non amavanon erami concesso.Voi troppo fiero… ah voidovete perdonar.</stage>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>L’ardir eccede…</l>
+            <l>(accennando Blansac)</l>
+            <l>E lui?…</l>
+          </sp>
+          <stage>DORMONTL’ardir eccede…(accennando Blansac)E lui?…</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(con molto brio)</l>
+            <l>Lucilla io sposerò,</l>
+            <l>e tutto aggiusterò.</l>
+          </sp>
+          <stage>BLANSAC(con molto brio)Lucilla io sposerò,e tutto aggiusterò.</stage>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Lucilla.</l>
+          </sp>
+          <sp who="#lucilla">
+            <speaker>LUCILLA:</speaker>
+            <l>(raccomandandosi)</l>
+            <l>Ah sì!</l>
+          </sp>
+          <stage>LUCILLA(raccomandandosi)Ah sì!</stage>
+          <sp who="#blansac">
+            <speaker>BLANSAC:</speaker>
+            <l>(a Dormont accennandogli Lucilla)</l>
+            <l>Vedete?</l>
+          </sp>
+          <stage>BLANSAC(a Dormont accennandogli Lucilla)Vedete?</stage>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Perdon!</l>
+          </sp>
+          <sp who="#dormont">
+            <speaker>DORMONT:</speaker>
+            <l>Quel che volete;</l>
+            <l>non serve più parlar.</l>
+          </sp>
+          <sp who="#tutti">
+            <speaker>TUTTI:</speaker>
+            <l>Quando amor si fa sentire</l>
+            <l>troppo egli è nei cor possente.</l>
+            <l>Si contrasta inutilmente.</l>
+            <l>Vince ognora il suo poter.</l>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

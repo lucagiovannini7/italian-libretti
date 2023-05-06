@@ -1,0 +1,754 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">’Aurora ingannata</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="adone">
+            <persName>ADONE:</persName>
+          </person>
+          <person xml:id="aurora">
+            <persName>AURORA:</persName>
+          </person>
+          <person xml:id="amore">
+            <persName>AMORE:</persName>
+          </person>
+          <person xml:id="cefalo e cacciatori">
+            <persName>CEFALO E CACCIATORI:</persName>
+          </person>
+          <person xml:id="sonno e morfeo">
+            <persName>SONNO E MORFEO:</persName>
+          </person>
+          <person xml:id="procri">
+            <persName>PROCRI:</persName>
+          </person>
+          <person xml:id="titone">
+            <persName>TITONE:</persName>
+          </person>
+          <person xml:id="eco">
+            <persName>ECO:</persName>
+          </person>
+          <person xml:id="sonno">
+            <persName>SONNO:</persName>
+          </person>
+          <person xml:id="le grazie">
+            <persName>LE GRAZIE:</persName>
+          </person>
+          <person xml:id="venere e le grazie">
+            <persName>VENERE E LE GRAZIE:</persName>
+          </person>
+          <person xml:id="venere">
+            <persName>VENERE:</persName>
+          </person>
+          <person xml:id="morfeo">
+            <persName>MORFEO:</persName>
+          </person>
+          <person xml:id="cefalo">
+            <persName>CEFALO:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>AURORA</castItem>
+        <castItem>VENERE</castItem>
+        <castItem>PROCRI</castItem>
+        <castItem>CEFALO</castItem>
+        <castItem>SONNO</castItem>
+        <castItem>ADONE</castItem>
+        <castItem>MORFEO</castItem>
+        <castItem>AMORE</castItem>
+        <castItem>ECO</castItem>
+        <castItem>TITONE</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="scene">
+        <head>Intermedio primo</head>Scena primaAurora, Venere. <stage>Intermedio primoScena primaAurora, Venere.</stage>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Cefalo, dove sei, garzon crudele?</l>
+          <l>O contraria mia sorte!</l>
+          <l>Là ‘ve non giunge il piè risuonan forte</l>
+          <l>i miei tronchi sospiri,</l>
+          <l>le giuste mie querele,</l>
+          <l>e pur a’ miei martiri,</l>
+          <l>fero già non rispondi.</l>
+          <l>Ohimè, dove t’ascondi?</l>
+          <l>Tu d’Amor genitrice,</l>
+          <l>che col bel viso adorno,</l>
+          <l>precorri il novo giorno,</l>
+          <l>pietosissima ascolta,</l>
+          <l>chi per soverchio amore</l>
+          <l>vive in dolore.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Scopri, amante infelice,</l>
+          <l>nel profondo del cor tua pena involta:</l>
+          <l>che poc’arde o non ama</l>
+          <l>chi soccorso non chiama.</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Per bellezza infinita</l>
+          <l>colma di feritade</l>
+          <l>infinito è il desire,</l>
+          <l>infinito è il martire.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Fero mostro, empia fera</l>
+          <l>è ritrosa beltade!</l>
+          <l>Misera, io t’ho pietade.</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Non giova la pietà senza l’aita.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Alle tue voglie pronta, ecco m’avrai.</l>
+          <l>A gli amorosi guai soccorso spera:</l>
+          <l>dimmi l’angosce tue, narra gl’affanni.</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>De’ miei penosi danni</l>
+          <l>questo appunto saprai,</l>
+          <l>ch’amo Cefalo il crudo,</l>
+          <l>adorno di beltà, di pietà nudo.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Se le vaghezze tue d’Amor tesoro,</l>
+          <l>(onde amoroso appare</l>
+          <l>il bel volto di rose e il tuo crin d’oro),</l>
+          <l>non potero destare</l>
+          <l>in quel rigido cor foco dovuto,</l>
+          <l>ah, sarà forse il mio</l>
+          <l>tardo soccorso intempestivo aiuto.</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>D’esser gradita già non chiedo tanto,</l>
+          <l>se ben tanto desio</l>
+          <l>che quel garzon feroce</l>
+          <l>ne i cani e ne le fiere ha il cor sepolto.</l>
+          <l>E perché io l’amo, intanto?</l>
+          <l>Cinge di gelo il core, e d’ira il volto.</l>
+          <l>Ahi, ch’una sola voce,</l>
+          <l>una stilla di pianto</l>
+          <l>sdegna mirar, nega d’udire e poi</l>
+          <l>m’asconde ancora il sol de gli occhi suoi.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Dunque, che brami tu, mia vaga amica?</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Ch’ei mi si scopra. E il piè fugace e lieve</l>
+          <l>non mova al corso, ohimè, pria ch’io gli dica</l>
+          <l>il mio tormento greve.</l>
+          <l>Tu vaga e bella dèa,</l>
+          <l>dammi questo contento,</l>
+          <l>che sai ben tu che fra le pene amare</l>
+          <l>è non amato amare,</l>
+          <l>è più crudo martoro</l>
+          <l>è pria morir che poter dir «io moro».</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VENERE</head>Vanne, ch’io ti promettooprarmi al tuo diletto.Scena secondaAurora, Venere con le tre Grazie, Amore.<sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Vanne, ch’io ti prometto</l>
+          <l>oprarmi al tuo diletto.</l>
+          <l>Scena seconda</l>
+          <l>Aurora, Venere con le tre Grazie, Amore.</l>
+        </sp>
+        <stage>VENEREVanne, ch’io ti promettooprarmi al tuo diletto.Scena secondaAurora, Venere con le tre Grazie, Amore.</stage>
+        <sp who="#venere e le grazie">
+          <speaker>VENERE E LE GRAZIE:</speaker>
+          <l>(coro)</l>
+          <l>Iº</l>
+          <l>Amor nume leggiadro,</l>
+          <l>ch’invece di ferir l’anime furi,</l>
+          <l>va’, più ch’esperto arcier sagace ladro,</l>
+          <l>Cefalo, crudo e fero,</l>
+          <l>ribellante al tuo impero,</l>
+          <l>prendi, impiaga, innamora</l>
+          <l>de la sprezzata Aurora.</l>
+          <l>IIº</l>
+          <l>Tu, che i cori più saldi,</l>
+          <l>e del macigno ancor più freddi e duri,</l>
+          <l>col tuo poter incenerisci e scaldi,</l>
+          <l>Cefalo, crudo e fero,</l>
+          <l>ribellant’ al tuo impero,</l>
+          <l>prendi, impiaga, innamora</l>
+          <l>de la sprezzata Aurora.</l>
+        </sp>
+        <stage>VENERE E LE GRAZIE(coro)IºAmor nume leggiadro,ch’invece di ferir l’anime furi,va’, più ch’esperto arcier sagace ladro,Cefalo, crudo e fero,ribellante al tuo impero,prendi, impiaga, innamorade la sprezzata Aurora.IIºTu, che i cori più saldi,e del macigno ancor più freddi e duri,col tuo poter incenerisci e scaldi,Cefalo, crudo e fero,ribellant’ al tuo impero,prendi, impiaga, innamorade la sprezzata Aurora.</stage>
+        <sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>Arde Cefalo, ed ama,</l>
+          <l>ama sì che non cura</l>
+          <l>nov’amorosa cura.</l>
+          <l>Arde sì, che sol brama</l>
+          <l>ch’eterno sia l’ardore:</l>
+          <l>dunque, come poss’io</l>
+          <l>far pago il tuo desio?</l>
+          <l>Come ferir quel core,</l>
+          <l>se non può aver un cor più d’un amore?</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Figlio, la tua possanza,</l>
+          <l>ogn’altra forza avanza.</l>
+        </sp>
+        <sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>Madre, il mio non volere</l>
+          <l>mi toglie ogni potere.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Dunque non vuoi?</l>
+        </sp>
+        <sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>Non voglio.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>O fanciul pien d’orgoglio!</l>
+        </sp>
+        <sp who="#amore">
+          <speaker>AMORE:</speaker>
+          <l>O donna dispettosa!</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VENERE</head>Figlio superbo e rio,parto d’orsa crudel, non figliuol mio.Non v’ho, né avrò mai posa,fin che l’afflitta Aurora io non rimiricontenta appien de’ cari suoi desiri.E dove non potrannole forze aperte, adoprerò l’inganno.Intermedio secondoScena primaAurora, Cefalo, Coro de’ cacciatori.<sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Figlio superbo e rio,</l>
+          <l>parto d’orsa crudel, non figliuol mio.</l>
+          <l>Non v’ho, né avrò mai posa,</l>
+          <l>fin che l’afflitta Aurora io non rimiri</l>
+          <l>contenta appien de’ cari suoi desiri.</l>
+          <l>E dove non potranno</l>
+          <l>le forze aperte, adoprerò l’inganno.</l>
+          <l>Intermedio secondo</l>
+          <l>Scena prima</l>
+          <l>Aurora, Cefalo, Coro de’ cacciatori.</l>
+        </sp>
+        <stage>VENEREFiglio superbo e rio,parto d’orsa crudel, non figliuol mio.Non v’ho, né avrò mai posa,fin che l’afflitta Aurora io non rimiricontenta appien de’ cari suoi desiri.E dove non potrannole forze aperte, adoprerò l’inganno.Intermedio secondoScena primaAurora, Cefalo, Coro de’ cacciatori.</stage>
+        <sp who="#cefalo e cacciatori">
+          <speaker>CEFALO E CACCIATORI:</speaker>
+          <l>Iº</l>
+          <l>Aura dolce e diletta,</l>
+          <l>aura pura e gradita,</l>
+          <l>fiato gentil de le celesti sfere,</l>
+          <l>il tuo chiaro n’alletta,</l>
+          <l>il tuo fresco n’invita</l>
+          <l>a mirar, a godere</l>
+          <l>da quest’alte pendici</l>
+          <l>le bellezze del mondo allettatrici.</l>
+          <l>IIº</l>
+          <l>Ecco ne l’oriente</l>
+          <l>vaga magion del giorno,</l>
+          <l>scoprir le pompe sue nascendo il sole,</l>
+          <l>e col raggio lucente</l>
+          <l>fa’ che spuntino intorno</l>
+          <l>le rose e le viole,</l>
+          <l>con cui s’adorna poi</l>
+          <l>Procri nel seno i caldi avori suoi.</l>
+        </sp>
+        <stage>CEFALO E CACCIATORIIºAura dolce e diletta,aura pura e gradita,fiato gentil de le celesti sfere,il tuo chiaro n’alletta,il tuo fresco n’invitaa mirar, a godereda quest’alte pendicile bellezze del mondo allettatrici.IIºEcco ne l’orientevaga magion del giorno,scoprir le pompe sue nascendo il sole,e col raggio lucentefa’ che spuntino intornole rose e le viole,con cui s’adorna poiProcri nel seno i caldi avori suoi.</stage>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Odi, Cefalo ingrato,</l>
+          <l>bella e cruda cagion de’ miei tormenti;</l>
+          <l>odi gl’ultimi accenti</l>
+          <l>d’un core disperato.</l>
+        </sp>
+        <sp who="#cefalo">
+          <speaker>CEFALO:</speaker>
+          <l>Dì pure, e quante, e quali</l>
+          <l>sian le tue pene rie,</l>
+          <l>ma non sperarmi amante,</l>
+          <l>ché le viscere mie</l>
+          <l>sono duro diamante,</l>
+          <l>e le preghiere tue qual vetro frali.</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Più non voglio pregarti.</l>
+          <l>(Così potess’io dir: «non voglio amarti!»)</l>
+          <l>Vedi miseria estrema:</l>
+          <l>tu mi sprezzi, io t’adoro,</l>
+          <l>tu m’uccidi, io non moro.</l>
+          <l>E pur quel duro cor non scaldi o pieghi;</l>
+          <l>crudele, accetta un don, se sdegni i prieghi.</l>
+        </sp>
+        <sp who="#cefalo">
+          <speaker>CEFALO:</speaker>
+          <l>Inespugnabil sono:</l>
+          <l>quel che non poté Amor, non potrà il dono.</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Queste mie chiome bionde,</l>
+          <l>queste guancie di rose,</l>
+          <l>queste luci gioconde,</l>
+          <l>questo sen d’alabastro,</l>
+          <l>queste poppe amorose,</l>
+          <l>me stessa al fine ed ogni mio desio</l>
+          <l>a te dono, ben mio.</l>
+          <l>O vago, o vivo scoglio,</l>
+          <l>tu non rispondi pur?</l>
+          <l>Lassa, ch’io veggio sfavillarti</l>
+          <l>ne gli occhi ira ed orgoglio.</l>
+          <l>O core di diaspro,</l>
+          <l>parla, ch’altro non chieggio.</l>
+          <l>Deh, non negar a chi per te vien meno,</l>
+          <l>se troppo è una parola, un cenno almeno.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>CEFALO</head>Non con cenni o con segni,ma con schietto parlare or ti fo chiaroch’emmi il tuo amare amaro.Resta, ch’io t’assicuroche m’agghiaccia il tuo ardore,che i doni tuoi non curo,che per te non ho core.Scena secondaAurora, Eco e le Grazie.<sp who="#cefalo">
+          <speaker>CEFALO:</speaker>
+          <l>Non con cenni o con segni,</l>
+          <l>ma con schietto parlare or ti fo chiaro</l>
+          <l>ch’emmi il tuo amare amaro.</l>
+          <l>Resta, ch’io t’assicuro</l>
+          <l>che m’agghiaccia il tuo ardore,</l>
+          <l>che i doni tuoi non curo,</l>
+          <l>che per te non ho core.</l>
+          <l>Scena seconda</l>
+          <l>Aurora, Eco e le Grazie.</l>
+        </sp>
+        <stage>CEFALONon con cenni o con segni,ma con schietto parlare or ti fo chiaroch’emmi il tuo amare amaro.Resta, ch’io t’assicuroche m’agghiaccia il tuo ardore,che i doni tuoi non curo,che per te non ho core.Scena secondaAurora, Eco e le Grazie.</stage>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Fuggi, garzon feroce.</l>
+          <l>Fuggi, che pur ti segue addolorata</l>
+          <l>l’anima mia con questa fioca voce</l>
+          <l>per restar consolata</l>
+          <l>dovunque andrai fuggendo,</l>
+          <l>(ché sempre fuggitivo ohimè ti vede).</l>
+          <l>Teco verrà lambendo</l>
+          <l>l’orma gentil del leggiadretto piede.</l>
+          <l>Questo è dunque il conforto,</l>
+          <l>o dèa di Pafo,</l>
+          <l>da te promesso?</l>
+        </sp>
+        <sp who="#eco">
+          <speaker>ECO:</speaker>
+          <l>…Esso.</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Chi mi risponde? Or tu, chi sei cui io tanto</l>
+          <l>movo a pietà del dolor mio?</l>
+        </sp>
+        <sp who="#eco">
+          <speaker>ECO:</speaker>
+          <l>…Io.</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>L’alma del terzo ciel cui Gnido onora</l>
+          <l>Venere bella…</l>
+        </sp>
+        <sp who="#eco">
+          <speaker>ECO:</speaker>
+          <l>…Ella.</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Deh, t’increscano omai vaga ciprigna</l>
+          <l>gl’aspri miei guai!</l>
+        </sp>
+        <sp who="#eco">
+          <speaker>ECO:</speaker>
+          <l>…Ahi!</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Ahi, dolor senza aita! Ecco a ragione</l>
+          <l>mio cor dispera!</l>
+        </sp>
+        <sp who="#eco">
+          <speaker>ECO:</speaker>
+          <l>…Spera!</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>E che sperar poss’io quasi la morte,</l>
+          <l>ch’a questo solo il duol m’invita?</l>
+        </sp>
+        <sp who="#eco">
+          <speaker>ECO:</speaker>
+          <l>…Vita.</l>
+        </sp>
+        <sp who="#le grazie">
+          <speaker>LE GRAZIE:</speaker>
+          <l>Siam noi, le Grazie ancelle</l>
+          <l>di lei che vince in cielo</l>
+          <l>di bellezza e splendor tutte le stelle.</l>
+          <l>Venere a te ci manda,</l>
+          <l>e per noi ti comanda</l>
+          <l>che rassereni il volto afflitto e smorto,</l>
+          <l>ch’avrai se non contento, almen conforto.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>AURORA</head>Nutrendo andrò col mio pensier incertodi dubbia speme il cor, nel dolor certo.Intermedio terzoScena primaVenere, Adone.<sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Nutrendo andrò col mio pensier incerto</l>
+          <l>di dubbia speme il cor, nel dolor certo.</l>
+          <l>Intermedio terzo</l>
+          <l>Scena prima</l>
+          <l>Venere, Adone.</l>
+        </sp>
+        <stage>AURORANutrendo andrò col mio pensier incertodi dubbia speme il cor, nel dolor certo.Intermedio terzoScena primaVenere, Adone.</stage>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Dove vai? perché parti?</l>
+          <l>O de l’anima mia vero soggiorno?</l>
+          <l>Ah! non partir ancora,</l>
+          <l>leggiadro Adon, che il tuo partir m’accora.</l>
+          <l>A pena a queste luci</l>
+          <l>col solo apparir facesti giorno,</l>
+          <l>che col presto fuggir lor notte adduci.</l>
+        </sp>
+        <sp who="#adone">
+          <speaker>ADONE:</speaker>
+          <l>Non t’incresca il partire</l>
+          <l>che più soave fia</l>
+          <l>poscia il ritorno ancora, anima mia.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VENERE</head>Crudelissima gita,spietata dipartita.Or provo sì, ma più lo prova il core,che il più crudo dei mali è il mal d’amore.Ma vedi, meraviglia,per soccorrer l’Aurora il passo or movoné aita per me trovo.Eccomi giunta a le Cimerie grottedel Sonno e della Notte.Scena secondaVenere con le Grazie, Adone, il Sonno, Morfeo.<sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Crudelissima gita,</l>
+          <l>spietata dipartita.</l>
+          <l>Or provo sì, ma più lo prova il core,</l>
+          <l>che il più crudo dei mali è il mal d’amore.</l>
+          <l>Ma vedi, meraviglia,</l>
+          <l>per soccorrer l’Aurora il passo or movo</l>
+          <l>né aita per me trovo.</l>
+          <l>Eccomi giunta a le Cimerie grotte</l>
+          <l>del Sonno e della Notte.</l>
+          <l>Scena seconda</l>
+          <l>Venere con le Grazie, Adone, il Sonno, Morfeo.</l>
+        </sp>
+        <stage>VENERECrudelissima gita,spietata dipartita.Or provo sì, ma più lo prova il core,che il più crudo dei mali è il mal d’amore.Ma vedi, meraviglia,per soccorrer l’Aurora il passo or movoné aita per me trovo.Eccomi giunta a le Cimerie grottedel Sonno e della Notte.Scena secondaVenere con le Grazie, Adone, il Sonno, Morfeo.</stage>
+        <sp who="#venere e le grazie">
+          <speaker>VENERE E LE GRAZIE:</speaker>
+          <l>Iº</l>
+          <l>O nel silenzio involti!</l>
+          <l>O nell’oblio sepolti,</l>
+          <l>che in questo speco ascoso</l>
+          <l>a gli occhi altrui dormite.</l>
+          <l>A l’aura, a l’aura uscite</l>
+          <l>o figli della notte e del riposo!</l>
+          <l>IIº</l>
+          <l>Lasciar non vi sia grave</l>
+          <l>la quiete soave,</l>
+          <l>ch’a questa chiara luce</l>
+          <l>colei v’invita e chiama,</l>
+          <l>colei vi chiede e brama</l>
+          <l>che diva è in terra e stella in ciel riluce.</l>
+        </sp>
+        <stage>VENERE E LE GRAZIEIºO nel silenzio involti!O nell’oblio sepolti,che in questo speco ascosoa gli occhi altrui dormite.A l’aura, a l’aura usciteo figli della notte e del riposo!IIºLasciar non vi sia gravela quiete soave,ch’a questa chiara lucecolei v’invita e chiama,colei vi chiede e bramache diva è in terra e stella in ciel riluce.</stage>
+        <sp who="#sonno">
+          <speaker>SONNO:</speaker>
+          <l>Deh, qual voce or risuona</l>
+          <l>fra quest’ombre segrete,</l>
+          <l>ladra de la quiete?</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Venere io son, son io</l>
+          <l>del vago Cipro il riverito donno.</l>
+          <l>Or non udite? o Sonno,</l>
+          <l>te chiedo. O Morfeo, te bramo e desio.</l>
+        </sp>
+        <sp who="#sonno e morfeo">
+          <speaker>SONNO E MORFEO:</speaker>
+          <l>Iº</l>
+          <l>O vago nume,</l>
+          <l>o caro lume</l>
+          <l>che i nostri orrori</l>
+          <l>rischiari, e indori</l>
+          <l>coi vivi rai</l>
+          <l>comanda omai.</l>
+          <l>IIº</l>
+          <l>Per te fia lieve</l>
+          <l>fatica greve.</l>
+          <l>Veloci, e pronti</l>
+          <l>per piani, e monti</l>
+          <l>n’andremo noi</l>
+          <l>a’ cenni tuoi.</l>
+          <l>IIIº</l>
+          <l>Augelli e fiere</l>
+          <l>veloci e fiere</l>
+          <l>dolce allettando</l>
+          <l>addormentando</l>
+          <l>cotanto forte</l>
+          <l>che paian morte.</l>
+          <l>IVº</l>
+          <l>Così dormendo</l>
+          <l>potrai volendo</l>
+          <l>farne pian piano</l>
+          <l>con la tua mano</l>
+          <l>care mine</l>
+          <l>nove rapine.</l>
+        </sp>
+        <stage>SONNO E MORFEOIºO vago nume,o caro lumeche i nostri orroririschiari, e indoricoi vivi raicomanda omai.IIºPer te fia lievefatica greve.Veloci, e prontiper piani, e montin’andremo noia’ cenni tuoi.IIIºAugelli e fiereveloci e fieredolce allettandoaddormentandocotanto forteche paian morte.IVºCosì dormendopotrai volendofarne pian pianocon la tua manocare minenove rapine.</stage>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>Di Cefalo crudel, Sonno, io vorrei,</l>
+          <l>nel lungo faticar già sazio e stanco,</l>
+          <l>ch’entrando ne’ begli occhi or dolci e rei</l>
+          <l>per te quietasse il travagliato fianco.</l>
+          <l>E tu che del pensier l’imago sei,</l>
+          <l>Morfeo: un sogno desio non visto unquanco.</l>
+          <l>Dorma il garzone e veggia con la mente</l>
+          <l>nell’Aurora gentil Procri presente.</l>
+        </sp>
+        <sp who="#sonno">
+          <speaker>SONNO:</speaker>
+          <l>Non vana è la speranza</l>
+          <l>ch’hai de la mia possanza.</l>
+        </sp>
+        <sp who="#morfeo">
+          <speaker>MORFEO:</speaker>
+          <l>Ed io, che Morfeo sono, al poter mio</l>
+          <l>fo legge il tuo desio.</l>
+        </sp>
+        <sp who="#venere">
+          <speaker>VENERE:</speaker>
+          <l>E così Aurora sei</l>
+          <l>da me servita, e se non quanto appieno</l>
+          <l>era il pronto voler come potei.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VENERE E LE GRAZIE</head>Che non può, che non valecon vaghi pregi suoioggi beltà fra noi?Un fiato sol che bella donna essalebasta per suscitar in rozzo coredolce fiamma d’amore.Intermedio quartoScena primaCefalo, Sonno, Morfeo.<sp who="#venere e le grazie">
+          <speaker>VENERE E LE GRAZIE:</speaker>
+          <l>Che non può, che non vale</l>
+          <l>con vaghi pregi suoi</l>
+          <l>oggi beltà fra noi?</l>
+          <l>Un fiato sol che bella donna essale</l>
+          <l>basta per suscitar in rozzo core</l>
+          <l>dolce fiamma d’amore.</l>
+          <l>Intermedio quarto</l>
+          <l>Scena prima</l>
+          <l>Cefalo, Sonno, Morfeo.</l>
+        </sp>
+        <stage>VENERE E LE GRAZIEChe non può, che non valecon vaghi pregi suoioggi beltà fra noi?Un fiato sol che bella donna essalebasta per suscitar in rozzo coredolce fiamma d’amore.Intermedio quartoScena primaCefalo, Sonno, Morfeo.</stage>
+        <sp who="#cefalo">
+          <speaker>CEFALO:</speaker>
+          <l>Iº</l>
+          <l>O monti, o colli, o prati, ecco a voi riede,</l>
+          <l>col veloce pensier pront’è il desio.</l>
+          <l>IIº</l>
+          <l>Anzi, che resta il cor se parte il piede,</l>
+          <l>che in voi s’annida ogni diletto mio?</l>
+          <l>IIIº</l>
+          <l>Ma poiché alla stanchezza il vigor cede,</l>
+          <l>ogn’altra cura dolcemente oblio.</l>
+          <l>IVº</l>
+          <l>E gl’occhi miei, ch’aperti star non ponno,</l>
+          <l>qui dono in preda a la quiete e al sonno.</l>
+        </sp>
+        <stage>CEFALOIºO monti, o colli, o prati, ecco a voi riede,col veloce pensier pront’è il desio.IIºAnzi, che resta il cor se parte il piede,che in voi s’annida ogni diletto mio?IIIºMa poiché alla stanchezza il vigor cede,ogn’altra cura dolcemente oblio.IVºE gl’occhi miei, ch’aperti star non ponno,qui dono in preda a la quiete e al sonno.</stage>
+        <sp who="#sonno">
+          <speaker>SONNO:</speaker>
+          <l>Tanto l’attesi pur, ch’io giunsi al varco.</l>
+          <l>Ei già d’affanni scarco</l>
+          <l>soavemente posa e dorme queto;</l>
+          <l>onde io mi parto taciturno e lieto.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>MORFEO</head>Dorme Cefalo o finge?Ah, parmi pur che dorma.Così l’amata formafia ben ch’or l’appresenti. Onde per questovisibil parto ed invisibil resto.Scena secondaCefalo, Morfeo, Aurora, Titone, Procri.<sp who="#morfeo">
+          <speaker>MORFEO:</speaker>
+          <l>Dorme Cefalo o finge?</l>
+          <l>Ah, parmi pur che dorma.</l>
+          <l>Così l’amata forma</l>
+          <l>fia ben ch’or l’appresenti. Onde per questo</l>
+          <l>visibil parto ed invisibil resto.</l>
+          <l>Scena seconda</l>
+          <l>Cefalo, Morfeo, Aurora, Titone, Procri.</l>
+        </sp>
+        <stage>MORFEODorme Cefalo o finge?Ah, parmi pur che dorma.Così l’amata formafia ben ch’or l’appresenti. Onde per questovisibil parto ed invisibil resto.Scena secondaCefalo, Morfeo, Aurora, Titone, Procri.</stage>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>O Cefalo spietato,</l>
+          <l>è questo il guiderdon della mia fede?</l>
+          <l>Il premio de’ miei guai,</l>
+          <l>la mercé del dolore,</l>
+          <l>fuggirmi a tutte l’ore?</l>
+          <l>Dove sei? dove stai?</l>
+          <l>Ah! rispondimi omai,</l>
+          <l>che questo sol desio.</l>
+        </sp>
+        <sp who="#cefalo">
+          <speaker>CEFALO:</speaker>
+          <l>Dolce cor mio!</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Odi voce soave,</l>
+          <l>soavissimo suono!</l>
+          <l>Stolta, mentre ragiono</l>
+          <l>non miro il mio bel sol, non veggio quello</l>
+          <l>ch’ha del mio cor la chiave!</l>
+          <l>O prezioso ostello,</l>
+          <l>dove nasce la luce,</l>
+          <l>che al mio ben mi conduce.</l>
+          <l>Che fai tu qui soletto,</l>
+          <l>amato mio diletto?</l>
+          <l>Stanco forse pigliar cerchi ristoro?</l>
+        </sp>
+        <sp who="#cefalo">
+          <speaker>CEFALO:</speaker>
+          <l>Sì, mio tesoro.</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>O parole amorose,</l>
+          <l>con opportuna aita</l>
+          <l>voi mi date la vita.</l>
+          <l>Vaghe labbra di rose</l>
+          <l>concedetemi almeno, e premio sia</l>
+          <l>de l’aspra pena mia,</l>
+          <l>de l’interno mio duolo,</l>
+          <l>un bacio, un bacio solo.</l>
+          <l>Per sì caro desire,</l>
+          <l>io mi sento morire,</l>
+          <l>si liquefa col cor l’anima insieme.</l>
+        </sp>
+        <sp who="#cefalo">
+          <speaker>CEFALO:</speaker>
+          <l>Viva mia speme.</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Pietosissima dèa,</l>
+          <l>quelle grazie ti rendo</l>
+          <l>cui deggio, e so, poiché per te comprendo</l>
+          <l>che vero è quel contento</l>
+          <l>che nasce da tormento.</l>
+          <l>Labbra cortese e pie,</l>
+          <l>datemi in parte omai, se non in tutto,</l>
+          <l>il desiato frutto</l>
+          <l>delle miserie mie,</l>
+          <l>de’ miei penosi guai.</l>
+        </sp>
+        <sp who="#cefalo">
+          <speaker>CEFALO:</speaker>
+          <l>Baciami omai.</l>
+        </sp>
+        <sp who="#titone">
+          <speaker>TITONE:</speaker>
+          <l>Ferma l’audaci labbra o troppo ardita!</l>
+          <l>E ben fermarle déi,</l>
+          <l>che quei baci son miei.</l>
+          <l>Tu, tu dal letto uscita</l>
+          <l>lasciasti, sol per far la scorta al sole,</l>
+          <l>del tuo Titon le membra fredde e sole.</l>
+          <l>Or ecco a mezzo il giorno.</l>
+          <l>Quando fia il tuo ritorno?</l>
+          <l>Ah, veggio, sì, quanto veder mi spiace</l>
+          <l>e grida il cor se ben la lingua tace!</l>
+        </sp>
+        <sp who="#procri">
+          <speaker>PROCRI:</speaker>
+          <l>Iº</l>
+          <l>Ohimè, che veggio? Ohimè, vista dolente?</l>
+          <l>Quest’è la pura fé, Cefalo infido,</l>
+          <l>quest’è, garzon crudel, l’amore ardente?</l>
+          <l>IIº</l>
+          <l>O già del mio sperar ricetto e nido,</l>
+          <l>così tradirmi? Or l’immenso amore,</l>
+          <l>che per te m’arse il cor sveno ed ancido.</l>
+          <l>IIIº</l>
+          <l>Queste lagrime mie, cui verso fuore,</l>
+          <l>sono il sangue di lui perché nel seno cadendo</l>
+          <l>estingua il mal gradito ardore.</l>
+          <l>IVº</l>
+          <l>Deh perché il pianto, ohimè, non è veneno</l>
+          <l>che bevendolo or or mi fora grato,</l>
+          <l>col mio morir farti contento appieno.</l>
+          <l>Cefalo traditor, Cefalo ingrato!</l>
+        </sp>
+        <stage>PROCRIIºOhimè, che veggio? Ohimè, vista dolente?Quest’è la pura fé, Cefalo infido,quest’è, garzon crudel, l’amore ardente?IIºO già del mio sperar ricetto e nido,così tradirmi? Or l’immenso amore,che per te m’arse il cor sveno ed ancido.IIIºQueste lagrime mie, cui verso fuore,sono il sangue di lui perché nel seno cadendoestingua il mal gradito ardore.IVºDeh perché il pianto, ohimè, non è venenoche bevendolo or or mi fora grato,col mio morir farti contento appieno.Cefalo traditor, Cefalo ingrato!</stage>
+        <sp who="#titone">
+          <speaker>TITONE:</speaker>
+          <l>Or dunque affretta il piè dubbioso e tardo.</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Io mi sento morire.</l>
+        </sp>
+        <sp who="#cefalo">
+          <speaker>CEFALO:</speaker>
+          <l>Ah, non partire!</l>
+        </sp>
+        <sp who="#procri">
+          <speaker>PROCRI:</speaker>
+          <l>Ed io tutta di sdegno avvampo ed ardo.</l>
+        </sp>
+        <sp who="#titone">
+          <speaker>TITONE:</speaker>
+          <l>Deh, vieni e non tardare!</l>
+        </sp>
+        <sp who="#aurora">
+          <speaker>AURORA:</speaker>
+          <l>Ohimè, ch’io moro.</l>
+        </sp>
+        <sp who="#cefalo">
+          <speaker>CEFALO:</speaker>
+          <l>Ahi, che martoro.</l>
+        </sp>
+        <sp who="#procri">
+          <speaker>PROCRI:</speaker>
+          <l>Ed io di rabbia e gel mi discoloro;</l>
+          <l>statti che dal tuo aspetto io mi dileguo.</l>
+        </sp>
+        <sp who="#cefalo">
+          <speaker>CEFALO:</speaker>
+          <l>Perché fuggir? Deh ferma! Ed io ti seguo.</l>
+          <l>Ohimè, son desto o dormo?</l>
+          <l>O sol de gli occhi miei,</l>
+          <l>Procri mia, dove sei?</l>
+          <l>Come esser può che sia</l>
+          <l>quasi smarrita a volo</l>
+          <l>l’alma de l’alma mia?</l>
+          <l>Ah, pur mi chiese un bacio, e un bacio solo!</l>
+          <l>Ma guidatemi voi orme inchinate</l>
+          <l>a quelle stelle amate</l>
+          <l>che non l’avendo appresso</l>
+          <l>aborro questa luce, odio me stesso.</l>
+          <l>Fine del libretto.</l>
+        </sp>
+        <stage>CEFALOPerché fuggir? Deh ferma! Ed io ti seguo.Ohimè, son desto o dormo?O sol de gli occhi miei,Procri mia, dove sei?Come esser può che siaquasi smarrita a volol’alma de l’alma mia?Ah, pur mi chiese un bacio, e un bacio solo!Ma guidatemi voi orme inchinatea quelle stelle amateche non l’avendo appressoaborro questa luce, odio me stesso.Fine del libretto.</stage>
+      </div>
+    </body>
+  </text>
+</TEI>

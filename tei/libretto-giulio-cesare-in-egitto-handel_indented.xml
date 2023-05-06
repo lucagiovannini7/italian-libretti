@@ -1,0 +1,2576 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">i</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="coro di egizi">
+            <persName>CORO DI EGIZI:</persName>
+          </person>
+          <person xml:id="congiurati">
+            <persName>CONGIURATI:</persName>
+          </person>
+          <person xml:id="cornelia">
+            <persName>CORNELIA:</persName>
+          </person>
+          <person xml:id="curio">
+            <persName>CURIO:</persName>
+          </person>
+          <person xml:id="cleopatra e cesare">
+            <persName>CLEOPATRA E CESARE:</persName>
+          </person>
+          <person xml:id="cesare">
+            <persName>CESARE:</persName>
+          </person>
+          <person xml:id="sesto">
+            <persName>SESTO:</persName>
+          </person>
+          <person xml:id="cleopatra e cornelia">
+            <persName>CLEOPATRA E CORNELIA:</persName>
+          </person>
+          <person xml:id="nireno">
+            <persName>NIRENO:</persName>
+          </person>
+          <person xml:id="tolomeo">
+            <persName>TOLOMEO:</persName>
+          </person>
+          <person xml:id="achilla">
+            <persName>ACHILLA:</persName>
+          </person>
+          <person xml:id="cleopatra">
+            <persName>CLEOPATRA:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <castItem>Dramatis Personae</castItem>
+        <castItem>CESARE</castItem>
+        <castItem>CURIO</castItem>
+        <castItem>CORNELIA</castItem>
+        <castItem>SESTO</castItem>
+        <castItem>CLEOPATRA</castItem>
+        <castItem>TOLOMEO</castItem>
+        <castItem>ACHILLA</castItem>
+        <castItem>NIRENO</castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <stage>Egitto (Alessandria e dintorni). Anno 48 a. C.</stage>
+      <div type="act">
+        <head>Argomento</head>Giulio Cesare dittatore, dopo aver soggiogate le Gallie, non avendo potuto per opere di Curio tribuno ottenere il consolato, si portò con tant’impeto all’eccidio della libertà latina che si dimostrò più nemico di Roma che cittadino romano. Il senato intimorito, per opprimer la sua potenza, opposegli il gran Pompeo, il quale con poderoso esercito incontrollo ne’ Campi Farsalici, ov’egli fu da Cesare sconfitto: dopo la rotta, Pompeo, memore de’ benefici prestati alla corona de’ Tolomei, colà pensò di ricovrarsi, assieme con Cornelia sua moglie, e Sesto Pompeo suo figlio, in tempo che Cleopatra e Tolomeo, re giovane, tiranno e lascivo, più crudeli nemici, che germani, vicendevolmente armavano per la pretendenza dello scettro. Cicerone rimase prigioniero, il buon Catone si svenò in Utica, e Scipione con le reliquie delle legioni latine errò fuggitivo per l’Arabia. Conoscendo Cesare che la sola depressione di Pompeo poteva stabilirlo solo imperatore di Roma, lo seguitò in Egitto. Tolomeo, per obbligar Cesare, al suo partito contro Cleopatra, barbaro di costumi, ed empio di fede, fattone scempio per consiglio di Achilla fecegli presentare il di lui capo tronco dal busto. Pianse Giulio Cesare, vista la testa del nemico, tacciò di troppa arditezza Tolomeo, il quale a suggestione del consigliero scellerato, violando con ordita congiura la fede dell’ospizio, necessitò poco dopo Cesare istesso a gettarsi dalla reggia nel porto: si salvò Giulio a nuoto; mosse le armi all’espugnazione del tiranno, il quale nel fatto d’arme restò morto; ed acceso dalle bellezze di Cleopatra la sollevò al soglio d’Egitto, calcando egli il trono del mondo, primo imperator de’ romani. Si legge questo fatto ne’ Commentari di Cesare, lib. 3 e 4, in Dione, lib. XLII, ed in Plutarco, ne La vita di Pompeo e di Cesare. Tutti questi autori certificano che Tolomeo, dopo essere stato vinto da Cesare, morisse nella battaglia, ma non è ben certo come; onde si è trovato sì necessario in questo dramma che Sesto Pompeo facesse la vendetta del padre, che si è fatto ch’egli abbia ucciso Tolomeo, non variandosi l’istoria che nelle circostanze dei fatti seguiti.Atto primo[Ouverture]Scena primaCampagna d’Egitto con antico ponte sopra un ramo del Nilo.Cesare, Curio, Séguito.(Cesare e Curio, che passano il ponte con il séguito)[N. 1 – Coro]<div type="scene">
+          <head>Argomento</head>Giulio Cesare dittatore, dopo aver soggiogate le Gallie, non avendo potuto per opere di Curio tribuno ottenere il consolato, si portò con tant’impeto all’eccidio della libertà latina che si dimostrò più nemico di Roma che cittadino romano. Il senato intimorito, per opprimer la sua potenza, opposegli il gran Pompeo, il quale con poderoso esercito incontrollo ne’ Campi Farsalici, ov’egli fu da Cesare sconfitto: dopo la rotta, Pompeo, memore de’ benefici prestati alla corona de’ Tolomei, colà pensò di ricovrarsi, assieme con Cornelia sua moglie, e Sesto Pompeo suo figlio, in tempo che Cleopatra e Tolomeo, re giovane, tiranno e lascivo, più crudeli nemici, che germani, vicendevolmente armavano per la pretendenza dello scettro. Cicerone rimase prigioniero, il buon Catone si svenò in Utica, e Scipione con le reliquie delle legioni latine errò fuggitivo per l’Arabia. Conoscendo Cesare che la sola depressione di Pompeo poteva stabilirlo solo imperatore di Roma, lo seguitò in Egitto. Tolomeo, per obbligar Cesare, al suo partito contro Cleopatra, barbaro di costumi, ed empio di fede, fattone scempio per consiglio di Achilla fecegli presentare il di lui capo tronco dal busto. Pianse Giulio Cesare, vista la testa del nemico, tacciò di troppa arditezza Tolomeo, il quale a suggestione del consigliero scellerato, violando con ordita congiura la fede dell’ospizio, necessitò poco dopo Cesare istesso a gettarsi dalla reggia nel porto: si salvò Giulio a nuoto; mosse le armi all’espugnazione del tiranno, il quale nel fatto d’arme restò morto; ed acceso dalle bellezze di Cleopatra la sollevò al soglio d’Egitto, calcando egli il trono del mondo, primo imperator de’ romani. Si legge questo fatto ne’ Commentari di Cesare, lib. 3 e 4, in Dione, lib. XLII, ed in Plutarco, ne La vita di Pompeo e di Cesare. Tutti questi autori certificano che Tolomeo, dopo essere stato vinto da Cesare, morisse nella battaglia, ma non è ben certo come; onde si è trovato sì necessario in questo dramma che Sesto Pompeo facesse la vendetta del padre, che si è fatto ch’egli abbia ucciso Tolomeo, non variandosi l’istoria che nelle circostanze dei fatti seguiti.Atto primo[Ouverture]Scena primaCampagna d’Egitto con antico ponte sopra un ramo del Nilo.Cesare, Curio, Séguito.(Cesare e Curio, che passano il ponte con il séguito)[N. 1 – Coro] <stage>ArgomentoGiulio Cesare dittatore, dopo aver soggiogate le Gallie, non avendo potuto per opere di Curio tribuno ottenere il consolato, si portò con tant’impeto all’eccidio della libertà latina che si dimostrò più nemico di Roma che cittadino romano. Il senato intimorito, per opprimer la sua potenza, opposegli il gran Pompeo, il quale con poderoso esercito incontrollo ne’ Campi Farsalici, ov’egli fu da Cesare sconfitto: dopo la rotta, Pompeo, memore de’ benefici prestati alla corona de’ Tolomei, colà pensò di ricovrarsi, assieme con Cornelia sua moglie, e Sesto Pompeo suo figlio, in tempo che Cleopatra e Tolomeo, re giovane, tiranno e lascivo, più crudeli nemici, che germani, vicendevolmente armavano per la pretendenza dello scettro. Cicerone rimase prigioniero, il buon Catone si svenò in Utica, e Scipione con le reliquie delle legioni latine errò fuggitivo per l’Arabia. Conoscendo Cesare che la sola depressione di Pompeo poteva stabilirlo solo imperatore di Roma, lo seguitò in Egitto. Tolomeo, per obbligar Cesare, al suo partito contro Cleopatra, barbaro di costumi, ed empio di fede, fattone scempio per consiglio di Achilla fecegli presentare il di lui capo tronco dal busto. Pianse Giulio Cesare, vista la testa del nemico, tacciò di troppa arditezza Tolomeo, il quale a suggestione del consigliero scellerato, violando con ordita congiura la fede dell’ospizio, necessitò poco dopo Cesare istesso a gettarsi dalla reggia nel porto: si salvò Giulio a nuoto; mosse le armi all’espugnazione del tiranno, il quale nel fatto d’arme restò morto; ed acceso dalle bellezze di Cleopatra la sollevò al soglio d’Egitto, calcando egli il trono del mondo, primo imperator de’ romani. Si legge questo fatto ne’ Commentari di Cesare, lib. 3 e 4, in Dione, lib. XLII, ed in Plutarco, ne La vita di Pompeo e di Cesare. Tutti questi autori certificano che Tolomeo, dopo essere stato vinto da Cesare, morisse nella battaglia, ma non è ben certo come; onde si è trovato sì necessario in questo dramma che Sesto Pompeo facesse la vendetta del padre, che si è fatto ch’egli abbia ucciso Tolomeo, non variandosi l’istoria che nelle circostanze dei fatti seguiti.Atto primo[Ouverture]Scena primaCampagna d’Egitto con antico ponte sopra un ramo del Nilo.Cesare, Curio, Séguito.(Cesare e Curio, che passano il ponte con il séguito)[N. 1 – Coro]</stage>
+          <sp who="#coro di egizi">
+            <speaker>CORO DI EGIZI:</speaker>
+            <l>Viva, viva il nostro alcide!</l>
+            <l>Goda il Nilo in questo dì!</l>
+            <l>Ogni spiaggia per lui ride,</l>
+            <l>ogni affanno già sparì.</l>
+            <l>[N. 2 – Aria]</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Presti omai l’egizia terra</l>
+            <l>le sue palme al vincitor.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CURIO</head>Tu qui, signor, giungestia tempo appunto, a prevenir le trame:ma chi ver noi se n’ viene?Scena secondaCornelia, Sesto, e detti.<sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>Tu qui, signor, giungesti</l>
+            <l>a tempo appunto, a prevenir le trame:</l>
+            <l>ma chi ver noi se n’ viene?</l>
+            <l>Scena seconda</l>
+            <l>Cornelia, Sesto, e detti.</l>
+          </sp>
+          <stage>CURIOTu qui, signor, giungestia tempo appunto, a prevenir le trame:ma chi ver noi se n’ viene?Scena secondaCornelia, Sesto, e detti.</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Questa è Cornelia.</l>
+          </sp>
+          <sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>Oh sorte,</l>
+            <l>del nemico Pompeo l’alta consorte?</l>
+            <l>Cesare: a questa un tempo</l>
+            <l>sacrai la libertade.</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Signor: Roma è già tua. Teco han gli dei</l>
+            <l>oggi diviso il regno; ed è lor legge</l>
+            <l>che del grand’orbe al pondo</l>
+            <l>Giove regoli il ciel, Cesare il mondo.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Da Cesare che chiedi,</l>
+            <l>gran germe de’ Scipioni, alta Cornelia?</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Dà pace all’armi!</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Dona</l>
+            <l>l’asta al tempio, ozio al fianco, ozio alla destra.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CESARE</head>Virtù de’ grandi è il perdonar le offese:venga Pompeo, Cesare abbracci; e restil’ardor di Marte estinto:sia vincitor del vincitor il vinto.Scena terzaAchilla con stuolo di Egizi che portano bacili, e detti.<sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Virtù de’ grandi è il perdonar le offese:</l>
+            <l>venga Pompeo, Cesare abbracci; e resti</l>
+            <l>l’ardor di Marte estinto:</l>
+            <l>sia vincitor del vincitor il vinto.</l>
+            <l>Scena terza</l>
+            <l>Achilla con stuolo di Egizi che portano bacili, e detti.</l>
+          </sp>
+          <stage>CESAREVirtù de’ grandi è il perdonar le offese:venga Pompeo, Cesare abbracci; e restil’ardor di Marte estinto:sia vincitor del vincitor il vinto.Scena terzaAchilla con stuolo di Egizi che portano bacili, e detti.</stage>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>La reggia Tolomeo t’offre in albergo,</l>
+            <l>eccelso eroe, per tuo riposo; e in dono</l>
+            <l>quanto può donare un tributario trono.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Ciò che di Tolomeo</l>
+            <l>offre l’alma regal, Cesare aggrada.</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Acciò l’Italia ad adorarti impari</l>
+            <l>in pegno d’amistade, e di sua fede</l>
+            <l>questa del gran Pompeo superba testa</l>
+            <l>di base al regal trono offre al tuo piede.</l>
+            <l>Uno degli Egizi svela il bacile,</l>
+            <l>sopra il quale sta il capo tronco di Pompeo.</l>
+          </sp>
+          <stage>ACHILLAAcciò l’Italia ad adorarti impariin pegno d’amistade, e di sua fedequesta del gran Pompeo superba testadi base al regal trono offre al tuo piede.Uno degli Egizi svela il bacile,sopra il quale sta il capo tronco di Pompeo.</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Giulio che miri?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Oh dio! che veggio?</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Ahi lassa!</l>
+            <l>Consorte! mio tesoro!</l>
+          </sp>
+          <sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>Grand’ardir!</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Tolomeo,</l>
+            <l>barbaro traditor! Io manco, io moro…</l>
+            <l>(si sviene)</l>
+          </sp>
+          <stage>CORNELIATolomeo,barbaro traditor! Io manco, io moro…(si sviene)</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Curio, su, porgi aïta</l>
+            <l>a Cornelia, che langue.</l>
+            <l>(piange)</l>
+          </sp>
+          <stage>CESARECurio, su, porgi aïtaa Cornelia, che langue.(piange)</stage>
+          <sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>Che scorgo? o stelle! il mio bel sole esangue!</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>(Questa è Cornelia? o che beltà! che volto!)</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Padre! Pompeo! mia genitrice! Oh dio!</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Per dar urna sublime</l>
+            <l>al suo cenere illustre,</l>
+            <l>serbato sia sì nobil teschio.</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Oh dèi!</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>(ad Achilla)</l>
+            <l>E tu involati, parti! Al tuo signore</l>
+            <l>di’ che l’opre de’ regi,</l>
+            <l>sian di bene o di mal, son sempre esempio.</l>
+          </sp>
+          <stage>CESARE(ad Achilla)E tu involati, parti! Al tuo signoredi’ che l’opre de’ regi,sian di bene o di mal, son sempre esempio.</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Che non è re, chi è re fellon, chi è un empio.</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Cesare, frena l’ire… ~</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CESARE</head>Vanne! Verrò alla reggia,pria che oggi il sole a tramontar si veggia.[N. 3 – Aria]Empio, dirò, tu sei,togliti a gli occhi miei,sei tutto crudeltà.Non è da re quel cuor,che donasi al rigor,che in sen non ha pietà.(parte)Scena quartaCurio, Sesto, Cornelia, che ritorna in sé.<sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Vanne! Verrò alla reggia,</l>
+            <l>pria che oggi il sole a tramontar si veggia.</l>
+            <l>[N. 3 – Aria]</l>
+            <l>Empio, dirò, tu sei,</l>
+            <l>togliti a gli occhi miei,</l>
+            <l>sei tutto crudeltà.</l>
+            <l>Non è da re quel cuor,</l>
+            <l>che donasi al rigor,</l>
+            <l>che in sen non ha pietà.</l>
+            <l>(parte)</l>
+            <l>Scena quarta</l>
+            <l>Curio, Sesto, Cornelia, che ritorna in sé.</l>
+          </sp>
+          <stage>CESAREVanne! Verrò alla reggia,pria che oggi il sole a tramontar si veggia.[N. 3 – Aria]Empio, dirò, tu sei,togliti a gli occhi miei,sei tutto crudeltà.Non è da re quel cuor,che donasi al rigor,che in sen non ha pietà.(parte)Scena quartaCurio, Sesto, Cornelia, che ritorna in sé.</stage>
+          <sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>Già torna in sé.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Madre!</l>
+          </sp>
+          <sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>Cornelia!</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Oh stelle!</l>
+            <l>Ed ancor vivo? ah! tolga</l>
+            <l>quest’omicida acciaro</l>
+            <l>il cor, l’alma al sen.</l>
+            <l>(vuol rapire la spada dal fianco di Sesto per isvenarsi, e Curio la frastorna)</l>
+          </sp>
+          <stage>CORNELIAOh stelle!Ed ancor vivo? ah! tolgaquest’omicida acciaroil cor, l’alma al sen.(vuol rapire la spada dal fianco di Sesto per isvenarsi, e Curio la frastorna)</stage>
+          <sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>Ferma: invan tenti</l>
+            <l>tinger di sangue in quelle nevi il ferro.</l>
+            <l>Curio, che ancor t’adora,</l>
+            <l>e sposa ti desia, se pur t’aggrada,</l>
+            <l>vendicarti saprà con la sua spada.</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Sposa a te?</l>
+          </sp>
+          <sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>Sì.</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Ammutisci!</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Tu nemico a Pompeo, e tanto ardisci?</l>
+          </sp>
+          <sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>Cornelia, se m’aborri,</l>
+            <l>m’involerò al tuo aspetto;</l>
+            <l>sol per non molestarti,</l>
+            <l>giurerà questo cor di non amarti.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>CURIOCornelia, se m’aborri,m’involerò al tuo aspetto;sol per non molestarti,giurerà questo cor di non amarti.(parte)</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Madre!</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Viscere mie!</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Or che farem tra le cesaree squadre,</l>
+            <l>tu senza il caro sposo, io senza il padre?</l>
+            <l>[N. 4 – Aria]</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Priva son d’ogni conforto,</l>
+            <l>e pur speme di morire</l>
+            <l>per me misera non v’è.</l>
+            <l>Il mio cor da pene assorto</l>
+            <l>è già stanco di soffrire,</l>
+            <l>e morir si niega a me.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>CORNELIAPriva son d’ogni conforto,e pur speme di morireper me misera non v’è.Il mio cor da pene assortoè già stanco di soffrire,e morir si niega a me.(parte)</stage>
+        </div>
+        <div type="scene">
+          <head>SESTO</head>Vani sono i lamenti;è tempo o Sesto omaidi vendicare il padre:si svegli alla vendettal’anima neghittosa,che offesa da un tiranno invan riposa.[N. 5 – Aria]Svegliatevi nel core,furie d’un’alma offesa,a far d’un traditoraspra vendetta.L’ombra del genitoreaccorre a mia difesa,e dice: a te il rigor,figlio si aspetta.(parte)Scena quintaGabinetto.Cleopatra con Séguito, poi Nireno, dopo Tolomeo con Guardie.<sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Vani sono i lamenti;</l>
+            <l>è tempo o Sesto omai</l>
+            <l>di vendicare il padre:</l>
+            <l>si svegli alla vendetta</l>
+            <l>l’anima neghittosa,</l>
+            <l>che offesa da un tiranno invan riposa.</l>
+            <l>[N. 5 – Aria]</l>
+            <l>Svegliatevi nel core,</l>
+            <l>furie d’un’alma offesa,</l>
+            <l>a far d’un traditor</l>
+            <l>aspra vendetta.</l>
+            <l>L’ombra del genitore</l>
+            <l>accorre a mia difesa,</l>
+            <l>e dice: a te il rigor,</l>
+            <l>figlio si aspetta.</l>
+            <l>(parte)</l>
+            <l>Scena quinta</l>
+            <l>Gabinetto.</l>
+            <l>Cleopatra con Séguito, poi Nireno, dopo Tolomeo con Guardie.</l>
+          </sp>
+          <stage>SESTOVani sono i lamenti;è tempo o Sesto omaidi vendicare il padre:si svegli alla vendettal’anima neghittosa,che offesa da un tiranno invan riposa.[N. 5 – Aria]Svegliatevi nel core,furie d’un’alma offesa,a far d’un traditoraspra vendetta.L’ombra del genitoreaccorre a mia difesa,e dice: a te il rigor,figlio si aspetta.(parte)Scena quintaGabinetto.Cleopatra con Séguito, poi Nireno, dopo Tolomeo con Guardie.</stage>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Regni Cleopatra; ed al mio seggio intorno</l>
+            <l>popolo adorator arabo e siro</l>
+            <l>su questo crin la sacra benda adori:</l>
+            <l>su, chi di voi miei fidi</l>
+            <l>ha petto e cor di sollevarmi al trono,</l>
+            <l>giuri su questa destra eterna fede.</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>(entra)</l>
+            <l>Regina, infausti eventi.</l>
+          </sp>
+          <stage>NIRENO(entra)Regina, infausti eventi.</stage>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Che fia? che tardi?</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Troncar fe’ Tolomeo</l>
+            <l>il capo…</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Ohimè! di chi?</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>… del gran Pompeo.</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Stelle! costui che apporta?</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Per stabilirsi al soglio</l>
+            <l>a Cesare mandò fra’ doni involto… ~</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Che gli mandò?</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>…l’esanimato volto.</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Su, partite o miei fidi;</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>(a Nireno)</l>
+            <l>…e tu qui resta;</l>
+            <l>alle cesaree tende</l>
+            <l>son risolta portarmi, e tu, Nireno</l>
+            <l>mi servirai da scorta.</l>
+          </sp>
+          <stage>CLEOPATRA(a Nireno)…e tu qui resta;alle cesaree tendeson risolta portarmi, e tu, Nirenomi servirai da scorta.</stage>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Cosa dirà Tolomeo?</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Non paventar; col guardo,</l>
+            <l>meglio ch’egli non fece</l>
+            <l>col capo di Pompeo,</l>
+            <l>Cesare obbligherò:</l>
+            <l>invano aspira al trono;</l>
+            <l>egli è il germano, e la regina io sono.</l>
+            <l>(entra Tolomeo)</l>
+          </sp>
+          <stage>CLEOPATRANon paventar; col guardo,meglio ch’egli non fececol capo di Pompeo,Cesare obbligherò:invano aspira al trono;egli è il germano, e la regina io sono.(entra Tolomeo)</stage>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Tu di regnar pretendi,</l>
+            <l>donna superba e altera?</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Io ciò, ch’è mio contendo; e la corona</l>
+            <l>dovuta alla mia fronte</l>
+            <l>giustamente pretendo.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Vanne, e torna omai, folle,</l>
+            <l>e qual di donna è l’uso,</l>
+            <l>di scettro invece a trattar l’ago e il fuso.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CLEOPATRA</head>Anzi tu pur effeminato amanteva’ dell’età sui primi nati alboridi regno invece a coltivar gli amori.[N. 6 – Aria]Non disperar, chi sa?se al regno non l’avrai,avrai sorte in amor.Mirando una beltàin essa troveraia consolar il cor.(parte con Nireno)Scena sestaTolomeo, ed Achilla.<sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Anzi tu pur effeminato amante</l>
+            <l>va’ dell’età sui primi nati albori</l>
+            <l>di regno invece a coltivar gli amori.</l>
+            <l>[N. 6 – Aria]</l>
+            <l>Non disperar, chi sa?</l>
+            <l>se al regno non l’avrai,</l>
+            <l>avrai sorte in amor.</l>
+            <l>Mirando una beltà</l>
+            <l>in essa troverai</l>
+            <l>a consolar il cor.</l>
+            <l>(parte con Nireno)</l>
+            <l>Scena sesta</l>
+            <l>Tolomeo, ed Achilla.</l>
+          </sp>
+          <stage>CLEOPATRAAnzi tu pur effeminato amanteva’ dell’età sui primi nati alboridi regno invece a coltivar gli amori.[N. 6 – Aria]Non disperar, chi sa?se al regno non l’avrai,avrai sorte in amor.Mirando una beltàin essa troveraia consolar il cor.(parte con Nireno)Scena sestaTolomeo, ed Achilla.</stage>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Sire, signor!</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Come fu il capo tronco</l>
+            <l>da Cesare gradito?</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Sdegnò l’opra.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Che sento?</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>T’accusò d’inesperto, e troppo ardito.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Tant’osa un vil romano?</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Il mio consiglio</l>
+            <l>apprendi o Tolomeo:</l>
+            <l>verrà Cesare in corte; in tua vendetta</l>
+            <l>cada costui, come cadde Pompeo.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Chi condurrà l’impresa?</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Io ti prometto</l>
+            <l>darti estinto il superbo al regio piede,</l>
+            <l>se di Pompeo la moglie</l>
+            <l>in premio a me il tuo voler concede.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>È costei tanto vaga?</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Lega col crine, e col bel volto impiaga.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TOLOMEO</head>Amico, il tuo consiglio è la mia stella:vanne, pensa e poi torna.(parte Achilla)Muora Cesare, muora; e il capo alterosia del mio piè sostegno.Roma oppressa da lui libera vada,e fermezza al mio regnosia la morte di lui più che la spada.[N. 7 – Aria]L’empio sleale indegnovorria rapirmi il regno,e disturbar cosìla pace mia.Ma perda pur la vitaprima che in me traditadall’avido suo corla fede sia.Scena settimaQuartieri nel campo di Cesare con l’urna nel mezzo, ove sono le ceneri del capo di Pompeo, sopra eminente cumulo di trofei.Cesare, poi Curio, Cleopatra, e Nireno.[N. 8 – Recitativo accompagnato]<sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Amico, il tuo consiglio è la mia stella:</l>
+            <l>vanne, pensa e poi torna.</l>
+            <l>(parte Achilla)</l>
+            <l>Muora Cesare, muora; e il capo altero</l>
+            <l>sia del mio piè sostegno.</l>
+            <l>Roma oppressa da lui libera vada,</l>
+            <l>e fermezza al mio regno</l>
+            <l>sia la morte di lui più che la spada.</l>
+            <l>[N. 7 – Aria]</l>
+            <l>L’empio sleale indegno</l>
+            <l>vorria rapirmi il regno,</l>
+            <l>e disturbar così</l>
+            <l>la pace mia.</l>
+            <l>Ma perda pur la vita</l>
+            <l>prima che in me tradita</l>
+            <l>dall’avido suo cor</l>
+            <l>la fede sia.</l>
+            <l>Scena settima</l>
+            <l>Quartieri nel campo di Cesare con l’urna nel mezzo, ove sono le ceneri del capo di Pompeo, sopra eminente cumulo di trofei.</l>
+            <l>Cesare, poi Curio, Cleopatra, e Nireno.</l>
+            <l>[N. 8 – Recitativo accompagnato]</l>
+          </sp>
+          <stage>TOLOMEOAmico, il tuo consiglio è la mia stella:vanne, pensa e poi torna.(parte Achilla)Muora Cesare, muora; e il capo alterosia del mio piè sostegno.Roma oppressa da lui libera vada,e fermezza al mio regnosia la morte di lui più che la spada.[N. 7 – Aria]L’empio sleale indegnovorria rapirmi il regno,e disturbar cosìla pace mia.Ma perda pur la vitaprima che in me traditadall’avido suo corla fede sia.Scena settimaQuartieri nel campo di Cesare con l’urna nel mezzo, ove sono le ceneri del capo di Pompeo, sopra eminente cumulo di trofei.Cesare, poi Curio, Cleopatra, e Nireno.[N. 8 – Recitativo accompagnato]</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Alma del gran Pompeo,</l>
+            <l>che al cenere suo d’intorno</l>
+            <l>invisibil t’aggiri,</l>
+            <l>fur’ombre i tuoi trofei,</l>
+            <l>ombra la tua grandezza, e un’ombra sei:</l>
+            <l>così termina al fine il fasto umano;</l>
+            <l>ieri che vivo occupò un mondo in guerra,</l>
+            <l>oggi risolto in polve un’urna serra.</l>
+            <l>Tal di ciascuno, ahi lasso!</l>
+            <l>il principio è di terra, e il fine è un sasso.</l>
+            <l>Misera vita! oh, quanto è fral tuo stato!</l>
+            <l>Ti forma un soffio, e ti distrugge un fiato.</l>
+            <l>(entra Curio)</l>
+          </sp>
+          <stage>CESAREAlma del gran Pompeo,che al cenere suo d’intornoinvisibil t’aggiri,fur’ombre i tuoi trofei,ombra la tua grandezza, e un’ombra sei:così termina al fine il fasto umano;ieri che vivo occupò un mondo in guerra,oggi risolto in polve un’urna serra.Tal di ciascuno, ahi lasso!il principio è di terra, e il fine è un sasso.Misera vita! oh, quanto è fral tuo stato!Ti forma un soffio, e ti distrugge un fiato.(entra Curio)</stage>
+          <sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>Qui nobile donzella</l>
+            <l>chiede chinarsi al Cesare di Roma.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Se n’ venga pur.</l>
+            <l>(entra Cleopatra con séguito)</l>
+          </sp>
+          <stage>CESARESe n’ venga pur.(entra Cleopatra con séguito)</stage>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Tra stuol di damigelle</l>
+            <l>io servo a Cleopatra,</l>
+            <l>Lidia m’appello, e sotto il ciel d’Egitto</l>
+            <l>di nobil sangue nata;</l>
+            <l>ma Tolomeo mi toglie</l>
+            <l>barbaro usurpator la mia fortuna.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>(Quanta bellezza un sol sembiante aduna!)</l>
+            <l>Tolomeo sì tiranno?</l>
+          </sp>
+          <sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>(Se Cornelia mi sprezza,</l>
+            <l>oggi a Lidia rivolto</l>
+            <l>collocherò quest’alma in sì bel volto).</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>(s’inginocchia avanti Cesare, e dice piangendo):</l>
+            <l>Avanti al tuo cospetto; avanti Roma,</l>
+            <l>mesta, afflitta, e piangente</l>
+            <l>chieggio giustizia.</l>
+          </sp>
+          <stage>CLEOPATRA(s’inginocchia avanti Cesare, e dice piangendo):Avanti al tuo cospetto; avanti Roma,mesta, afflitta, e piangentechieggio giustizia.</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>(Oh dio! come innamora!)</l>
+            <l>(leva da terra Cleopatra)</l>
+            <l>Sfortunata donzella: in breve d’ora</l>
+            <l>deggio portarmi in corte,</l>
+            <l>oggi colà stabilirò tua sorte.</l>
+            <l>(Che bel crin!)</l>
+          </sp>
+          <stage>CESARE(Oh dio! come innamora!)(leva da terra Cleopatra)Sfortunata donzella: in breve d’oradeggio portarmi in corte,oggi colà stabilirò tua sorte.(Che bel crin!)</stage>
+          <sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>(Che bel sen!)</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Signor: i tuoi favori</l>
+            <l>legan quest’alma.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>E la tua chioma i cori.</l>
+            <l>[N. 9 – Aria]</l>
+            <l>Non è sì vago e bello</l>
+            <l>il fior nel prato,</l>
+            <l>quant’è vago e gentile</l>
+            <l>il tuo bel volto.</l>
+            <l>D’un fiore il pregio a quello</l>
+            <l>solo vien dato,</l>
+            <l>ma tutto un vago aprile</l>
+            <l>è in te raccolto.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>CESAREE la tua chioma i cori.[N. 9 – Aria]Non è sì vago e belloil fior nel prato,quant’è vago e gentileil tuo bel volto.D’un fiore il pregio a quellosolo vien dato,ma tutto un vago aprileè in te raccolto.(parte)</stage>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Cleopatra vincesti;</l>
+            <l>già di Cesare il core,</l>
+            <l>tributario al tuo volto amor ti rende,</l>
+            <l>e tutto il suo voler da te dipende.</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Cerchi pur Tolomeo con empietà</l>
+            <l>di cor le vie del trono,</l>
+            <l>che a me d’avito regno</l>
+            <l>farà il nume d’amor benigno dono.</l>
+            <l>[N. 10 – Aria]</l>
+            <l>Tutto può donna vezzosa,</l>
+            <l>s’amorosa</l>
+            <l>scioglie il labbro, o gira il guardo;</l>
+            <l>ogni colpo piaga il petto,</l>
+            <l>se difetto</l>
+            <l>non v’ha quel che scocca il dardo.</l>
+            <l>(mentre Cleopatra vuol partire, vien ritenuta da Nireno)</l>
+          </sp>
+          <stage>CLEOPATRACerchi pur Tolomeo con empietàdi cor le vie del trono,che a me d’avito regnofarà il nume d’amor benigno dono.[N. 10 – Aria]Tutto può donna vezzosa,s’amorosascioglie il labbro, o gira il guardo;ogni colpo piaga il petto,se difettonon v’ha quel che scocca il dardo.(mentre Cleopatra vuol partire, vien ritenuta da Nireno)</stage>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Ferma Cleopatra; osserva</l>
+            <l>qual femmina dolente</l>
+            <l>con grave passo, e lacrimoso ciglio</l>
+            <l>quivi si porta.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CLEOPATRA</head>Al portamento, al voltodonna volgar non sembra:osserviamo in dispartela cagion del suo dolo.(si ritirano)Scena ottavaCornelia e poi Sesto, che sopraviene.[N. 11 – Aria]<sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Al portamento, al volto</l>
+            <l>donna volgar non sembra:</l>
+            <l>osserviamo in disparte</l>
+            <l>la cagion del suo dolo.</l>
+            <l>(si ritirano)</l>
+            <l>Scena ottava</l>
+            <l>Cornelia e poi Sesto, che sopraviene.</l>
+            <l>[N. 11 – Aria]</l>
+          </sp>
+          <stage>CLEOPATRAAl portamento, al voltodonna volgar non sembra:osserviamo in dispartela cagion del suo dolo.(si ritirano)Scena ottavaCornelia e poi Sesto, che sopraviene.[N. 11 – Aria]</stage>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Nel tuo seno, amico sasso</l>
+            <l>sta sepolto il mio tesoro. ~</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>(È Cornelia costei?</l>
+            <l>la moglie di Pompeo?)</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Ah no! tra questi arnesi</l>
+            <l>un ferro sceglierò: con mano ardita</l>
+            <l>contro di Tolomeo dentro la reggia. ~</l>
+            <l>(non sì tosto Cornelia ha preso una spada fuori degli arnesi di guerra che Sesto sopraggiunge)</l>
+          </sp>
+          <stage>CORNELIAAh no! tra questi arnesiun ferro sceglierò: con mano arditacontro di Tolomeo dentro la reggia. ~(non sì tosto Cornelia ha preso una spada fuori degli arnesi di guerra che Sesto sopraggiunge)</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Madre ferma; che fai?</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Lascia quest’armi;</l>
+            <l>voglio contro il tiranno</l>
+            <l>uccisor del mio sposo</l>
+            <l>tentar la mia vendetta.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Questa vendetta a Sesto sol si aspetta.</l>
+            <l>(Sesto toglie la spada a Cornelia)</l>
+          </sp>
+          <stage>SESTOQuesta vendetta a Sesto sol si aspetta.(Sesto toglie la spada a Cornelia)</stage>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>O dolci accenti! o care labbra! dunque</l>
+            <l>sull’alba de’ tuoi giorni</l>
+            <l>hai tanto cor?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Son Sesto, e di Pompeo</l>
+            <l>erede son dell’alma!</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Animo, o figlio, ardire! Io coraggiosa</l>
+            <l>ti seguirò.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Ma! (oh dio!) chi al re fellone</l>
+            <l>ci scorterà?</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>(ch’esce improvvisamente)</l>
+            <l>Cleopatra!</l>
+          </sp>
+          <stage>CLEOPATRA(ch’esce improvvisamente)Cleopatra!</stage>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>(a Cleopatra)</l>
+            <l>(Non ti scoprir!)</l>
+          </sp>
+          <stage>NIRENO(a Cleopatra)(Non ti scoprir!)</stage>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>E Lidia ancor, perché quell’empio cada,</l>
+            <l>ti saran scudo, e t’apriran la strada.</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>E chi ti sprona amabile donzella,</l>
+            <l>oggi in nostro soccorso offrir te stessa?</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>La fellonia d’un re tiranno, il giusto.</l>
+            <l>Sotto nome di Lidia</l>
+            <l>io servo a Cleopatra;</l>
+            <l>se in virtù del tuo braccio ascende al trono,</l>
+            <l>sarai felice, e scorgerai qual sono.</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Chi a noi sarà di scorta?</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>(accennando a Nireno)</l>
+            <l>Questi, che alla regina è fido servo,</l>
+            <l>saprà cauto condurvi all’alta impresa.</l>
+          </sp>
+          <stage>CLEOPATRA(accennando a Nireno)Questi, che alla regina è fido servo,saprà cauto condurvi all’alta impresa.</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Figlio non è, chi vendicar non cura</l>
+            <l>del genitor la morte.</l>
+            <l>Armerò questa destra, e al suol trafitto</l>
+            <l>cadrà punito il gran tiran d’Egitto.</l>
+            <l>[N. 12 – Aria]</l>
+            <l>Cara speme, questo core</l>
+            <l>tu cominci a lusingar.</l>
+            <l>Par che il ciel presti favore</l>
+            <l>i miei torti a vendicar.</l>
+            <l>(partono Cornelia, Sesto e Nireno)</l>
+          </sp>
+          <stage>SESTOFiglio non è, chi vendicar non curadel genitor la morte.Armerò questa destra, e al suol trafittocadrà punito il gran tiran d’Egitto.[N. 12 – Aria]Cara speme, questo coretu cominci a lusingar.Par che il ciel presti favorei miei torti a vendicar.(partono Cornelia, Sesto e Nireno)</stage>
+        </div>
+        <div type="scene">
+          <head>CLEOPATRA</head>Vegli pur il germanoalla propria salvezza:che già contro gli mossidi Cesare la spada,di Sesto e di Cornelia il giusto sdegno.Senza un certo periglionon creda aver solo d’Egitto il regno.[N. 13 – Aria]Tu la mia stella seiamabile speranza,e porgi ai desir mieiun grato, e bel piacer.Qual sia di questo corela stabile costanza,e quanto possa amores’ha in breve da veder.(parte)Scena nonaAtrio nel palagio de’ Tolomei.Cesare con séguito di Romani, Tolomeo ed Achilla con séguito di Egizi.<sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Vegli pur il germano</l>
+            <l>alla propria salvezza:</l>
+            <l>che già contro gli mossi</l>
+            <l>di Cesare la spada,</l>
+            <l>di Sesto e di Cornelia il giusto sdegno.</l>
+            <l>Senza un certo periglio</l>
+            <l>non creda aver solo d’Egitto il regno.</l>
+            <l>[N. 13 – Aria]</l>
+            <l>Tu la mia stella sei</l>
+            <l>amabile speranza,</l>
+            <l>e porgi ai desir miei</l>
+            <l>un grato, e bel piacer.</l>
+            <l>Qual sia di questo core</l>
+            <l>la stabile costanza,</l>
+            <l>e quanto possa amore</l>
+            <l>s’ha in breve da veder.</l>
+            <l>(parte)</l>
+            <l>Scena nona</l>
+            <l>Atrio nel palagio de’ Tolomei.</l>
+            <l>Cesare con séguito di Romani, Tolomeo ed Achilla con séguito di Egizi.</l>
+          </sp>
+          <stage>CLEOPATRAVegli pur il germanoalla propria salvezza:che già contro gli mossidi Cesare la spada,di Sesto e di Cornelia il giusto sdegno.Senza un certo periglionon creda aver solo d’Egitto il regno.[N. 13 – Aria]Tu la mia stella seiamabile speranza,e porgi ai desir mieiun grato, e bel piacer.Qual sia di questo corela stabile costanza,e quanto possa amores’ha in breve da veder.(parte)Scena nonaAtrio nel palagio de’ Tolomei.Cesare con séguito di Romani, Tolomeo ed Achilla con séguito di Egizi.</stage>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Cesare: alla tua destra</l>
+            <l>stende fasci di scettri</l>
+            <l>generosa la sorte.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Tolomeo: a tante grazie</l>
+            <l>io non so dir, se maggior lume apporti</l>
+            <l>mentre l’uscio del giorno egli diserra</l>
+            <l>il sole in cielo o Tolomeo qui in terra.</l>
+            <l>Ma! sappi, una mal’opra</l>
+            <l>ogni gran lume oscura.</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>(a Tolomeo)</l>
+            <l>(Sino al real aspetto egli t’offende.)</l>
+          </sp>
+          <stage>ACHILLA(a Tolomeo)(Sino al real aspetto egli t’offende.)</stage>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>(Temerario latin!)</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>(So che m’intende.)</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Alle stanze reali</l>
+            <l>questi, che miri, t’apriran le porte,</l>
+            <l>e a te guida saranno.</l>
+            <l>(Empio, tu pur venisti in braccio a morte.)</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CESARE</head>(Scorgo in quel volto un simulato inganno.)[N. 14 – Aria]Va tacito e nascosto,quand’avido è di predal’astuto cacciator.E chi è mal far disposto,non brama, ch’alcun vedal’inganno del suo cor.(parte)Scena decimaCornelia, Sesto, Tolomeo, ed Achilla.<sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>(Scorgo in quel volto un simulato inganno.)</l>
+            <l>[N. 14 – Aria]</l>
+            <l>Va tacito e nascosto,</l>
+            <l>quand’avido è di preda</l>
+            <l>l’astuto cacciator.</l>
+            <l>E chi è mal far disposto,</l>
+            <l>non brama, ch’alcun veda</l>
+            <l>l’inganno del suo cor.</l>
+            <l>(parte)</l>
+            <l>Scena decima</l>
+            <l>Cornelia, Sesto, Tolomeo, ed Achilla.</l>
+          </sp>
+          <stage>CESARE(Scorgo in quel volto un simulato inganno.)[N. 14 – Aria]Va tacito e nascosto,quand’avido è di predal’astuto cacciator.E chi è mal far disposto,non brama, ch’alcun vedal’inganno del suo cor.(parte)Scena decimaCornelia, Sesto, Tolomeo, ed Achilla.</stage>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Sire: con Sesto il figlio,</l>
+            <l>questa è Cornelia.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>(Oh che sembianze, amore!)</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Ingrato: a quel Pompeo, che al tuo gran padre</l>
+            <l>il diadema reale</l>
+            <l>stabilì sulla chioma,</l>
+            <l>tu recidesti il capo in faccia a Roma!</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Empio: ti sfido a singolar certame;</l>
+            <l>veder farò con generosa destra</l>
+            <l>aperto a questo regno</l>
+            <l>che non sei Tolomeo, che se’ un indegno.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Olà! da vigil stuol sian custoditi</l>
+            <l>questi romani arditi.</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Alto signor: condona</l>
+            <l>il lor cieco furor.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Per or mi basta,</l>
+            <l>ch’abbia garzon sì folle</l>
+            <l>di carcere la reggia.</l>
+            <l>(alle guardie)</l>
+            <l>Costei, che baldanzosa</l>
+            <l>vilipese il rispetto</l>
+            <l>di maestà regnante,</l>
+            <l>nel giardin del serraglio abbia per pena</l>
+            <l>il coltivar i fiori.</l>
+            <l>(ad Achilla)</l>
+            <l>Io per te serbo</l>
+            <l>questa dell’alma tua bella tiranna.</l>
+          </sp>
+          <stage>TOLOMEOPer or mi basta,ch’abbia garzon sì folledi carcere la reggia.(alle guardie)Costei, che baldanzosavilipese il rispettodi maestà regnante,nel giardin del serraglio abbia per penail coltivar i fiori.(ad Achilla)Io per te serboquesta dell’alma tua bella tiranna.</stage>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Felice me!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TOLOMEO</head>(Quanto costui s’inganna!)(parte)Scena undicesimaCornelia, Sesto, ed Achilla.<sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>(Quanto costui s’inganna!)</l>
+            <l>(parte)</l>
+            <l>Scena undicesima</l>
+            <l>Cornelia, Sesto, ed Achilla.</l>
+          </sp>
+          <stage>TOLOMEO(Quanto costui s’inganna!)(parte)Scena undicesimaCornelia, Sesto, ed Achilla.</stage>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Cornelia: in quei tuoi lumi</l>
+            <l>sta legato il mio cor, se all’amor mio</l>
+            <l>giri sereno il ciglio,</l>
+            <l>e i talami concedi,</l>
+            <l>sarà la madre in libertà col figlio.</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Barbaro: una romana</l>
+            <l>sposa ad un vil egizio?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>A te consorte?</l>
+            <l>Ah no; pria della morte…</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Olà: per regal legge omai si guidi</l>
+            <l>prigionier nella reggia</l>
+            <l>così audace garzon.</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Seguirò anch’io</l>
+            <l>l’amata prole, il caro figlio mio.</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Tu ferma il piede, e pensa</l>
+            <l>di non trovar pietade a ciò, che chiedi,</l>
+            <l>se pietade al mio amor pria non concedi.</l>
+            <l>[N. 15 – Aria]</l>
+            <l>Tu sei il cor di questo core,</l>
+            <l>sei il mio ben, non t’adirar!</l>
+            <l>Per amor io chiedo amore,</l>
+            <l>più da te non vuò bramar.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>ACHILLATu ferma il piede, e pensadi non trovar pietade a ciò, che chiedi,se pietade al mio amor pria non concedi.[N. 15 – Aria]Tu sei il cor di questo core,sei il mio ben, non t’adirar!Per amor io chiedo amore,più da te non vuò bramar.(parte)</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Madre!</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Mia vita!</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Addio! ~</l>
+            <l>(mentre le guardie vogliono condur via Sesto, Cornelia corre a ritenerlo per un braccio)</l>
+          </sp>
+          <stage>SESTOAddio! ~(mentre le guardie vogliono condur via Sesto, Cornelia corre a ritenerlo per un braccio)</stage>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Dove, dove, inumani</l>
+            <l>l’anima mia guidate? empi, lasciate,</l>
+            <l>che al mio core, al mio bene</l>
+            <l>io porga almen gl’ultimi baci. Ahi pene!</l>
+            <l>[N. 16 – Duetto]</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Son nata a lagrimar,</l>
+            <l>e il dolce mio conforto,</l>
+            <l>ah sempre piangerò:</l>
+            <l>se il fato ci tradì,</l>
+            <l>sereno e lieto dì</l>
+            <l>mai più sperar potrò.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>SESTO</head>Son nato a sospirar,e il dolce mio conforto,ah sempre piangerò:se il fato ci tradì,sereno e lieto dìmai più sperar potrò.Variante del 1725, scena 11Inserita nella rappresentazione del 2 gennaio 1725, scena undicesima, finale.<sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Son nato a sospirar,</l>
+            <l>e il dolce mio conforto,</l>
+            <l>ah sempre piangerò:</l>
+            <l>se il fato ci tradì,</l>
+            <l>sereno e lieto dì</l>
+            <l>mai più sperar potrò.</l>
+            <l>Variante del 1725, scena 11</l>
+            <l>Inserita nella rappresentazione del 2 gennaio 1725, scena undicesima, finale.</l>
+          </sp>
+          <stage>SESTOSon nato a sospirar,e il dolce mio conforto,ah sempre piangerò:se il fato ci tradì,sereno e lieto dìmai più sperar potrò.Variante del 1725, scena 11Inserita nella rappresentazione del 2 gennaio 1725, scena undicesima, finale.</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Dove, dove inumani or mi guidate?</l>
+            <l>Spietati almen lasciate</l>
+            <l>che la mia genitrice</l>
+            <l>prima ch’io mora (o dio!)</l>
+            <l>mi stringa al seno.</l>
+            <l>Ah! me ‘l negate? il so perché!</l>
+            <l>Bramate eseguir d’un tiranno</l>
+            <l>l’empia sentenza</l>
+            <l>e a me un piacer vietate.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>SESTO</head>S’armi a’ miei danni l’empio tiranno;non so temere sua crudeltà.Già che la sorte mi guida a mortealmen costante l’alma sarà.Variante del 1730, scena 5Inserita nella rappresentazione del gennaio 1730, scena quinta, prima dell’entrata di Tolomeo.<sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>S’armi a’ miei danni l’empio tiranno;</l>
+            <l>non so temere sua crudeltà.</l>
+            <l>Già che la sorte mi guida a morte</l>
+            <l>almen costante l’alma sarà.</l>
+            <l>Variante del 1730, scena 5</l>
+            <l>Inserita nella rappresentazione del gennaio 1730, scena quinta, prima dell’entrata di Tolomeo.</l>
+          </sp>
+          <stage>SESTOS’armi a’ miei danni l’empio tiranno;non so temere sua crudeltà.Già che la sorte mi guida a mortealmen costante l’alma sarà.Variante del 1730, scena 5Inserita nella rappresentazione del gennaio 1730, scena quinta, prima dell’entrata di Tolomeo.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>CLEOPATRA E CORNELIA</head>La speranza all’alma miagrida e dice: tu infelice un dì sarai,me se poi la speme è infida, virtù gridache può il forte con la morte uscir di guai.Atto secondoScena primaDeliziosa di cedri con il monte Parnaso nel prospetto, il quale contiene in sé la reggia della Virtù.Cleopatra, Nireno.<div type="scene">
+          <head>CLEOPATRA E CORNELIA</head>La speranza all’alma miagrida e dice: tu infelice un dì sarai,me se poi la speme è infida, virtù gridache può il forte con la morte uscir di guai.Atto secondoScena primaDeliziosa di cedri con il monte Parnaso nel prospetto, il quale contiene in sé la reggia della Virtù.Cleopatra, Nireno.<sp who="#cleopatra e cornelia">
+            <speaker>CLEOPATRA E CORNELIA:</speaker>
+            <l>La speranza all’alma mia</l>
+            <l>grida e dice: tu infelice un dì sarai,</l>
+            <l>me se poi la speme è infida, virtù grida</l>
+            <l>che può il forte con la morte uscir di guai.</l>
+            <l>Atto secondo</l>
+            <l>Scena prima</l>
+            <l>Deliziosa di cedri con il monte Parnaso nel prospetto, il quale contiene in sé la reggia della Virtù.</l>
+            <l>Cleopatra, Nireno.</l>
+          </sp>
+          <stage>CLEOPATRA E CORNELIALa speranza all’alma miagrida e dice: tu infelice un dì sarai,me se poi la speme è infida, virtù gridache può il forte con la morte uscir di guai.Atto secondoScena primaDeliziosa di cedri con il monte Parnaso nel prospetto, il quale contiene in sé la reggia della Virtù.Cleopatra, Nireno.</stage>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Eseguisti, oh Niren, quanto t’imposi?</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Adempito è il comando.</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Giunto è Cesare in corte?</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Io ve ‘l condussi,</l>
+            <l>ed ei già a queste soglie il piè rivolge.</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Ma dimmi: è in pronto</l>
+            <l>la meditata scena?</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Infra le nubi</l>
+            <l>l’altra reggia sfavilla;</l>
+            <l>ma che far pensi?</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Amore</l>
+            <l>già suggerì all’idea</l>
+            <l>stravagante pensier; ho già risolto,</l>
+            <l>sotto finte apparenze</l>
+            <l>far prigionier d’amor chi ‘l cor m’ha tolto.</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>A lui ti scoprirai?</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Non è ancor tempo.</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Io che far deggio?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CLEOPATRA</head>AttendiCesare qui in disparte; indi lo guidain questi alberghi, e poi lo guida ancoracolà nelle mie stanze, e a lui dirai,che per dargli contezzadi quanto dal suo re gli si contende,pria che tramonti il sol Lidia l’attende.(parte)Scena secondaNireno, poi Cesare.<sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Attendi</l>
+            <l>Cesare qui in disparte; indi lo guida</l>
+            <l>in questi alberghi, e poi lo guida ancora</l>
+            <l>colà nelle mie stanze, e a lui dirai,</l>
+            <l>che per dargli contezza</l>
+            <l>di quanto dal suo re gli si contende,</l>
+            <l>pria che tramonti il sol Lidia l’attende.</l>
+            <l>(parte)</l>
+            <l>Scena seconda</l>
+            <l>Nireno, poi Cesare.</l>
+          </sp>
+          <stage>CLEOPATRAAttendiCesare qui in disparte; indi lo guidain questi alberghi, e poi lo guida ancoracolà nelle mie stanze, e a lui dirai,che per dargli contezzadi quanto dal suo re gli si contende,pria che tramonti il sol Lidia l’attende.(parte)Scena secondaNireno, poi Cesare.</stage>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Da Cleopatra apprenda</l>
+            <l>chi è seguace d’amor l’astuzie e frodi.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Dov’è, Niren, dov’è l’anima mia?</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>In questo loco in breve</l>
+            <l>verrà Lidia, signor.</l>
+            <l>[N. 17 – Sinfonia]</l>
+            <l>Qui s’ode vaga sinfonia di vari strumenti.</l>
+          </sp>
+          <stage>NIRENOIn questo loco in breveverrà Lidia, signor.[N. 17 – Sinfonia]Qui s’ode vaga sinfonia di vari strumenti.</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Taci!</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Che fia?</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Cieli, e qual dalle sfere</l>
+            <l>scende armonico suon, che mi rapisce?</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Avrà di selce il cor chi non languisce.</l>
+            <l>[N. 18 – Sinfonia]</l>
+            <l>Qui s’apre il Parnasso, e vedesi in trono la Virtù, assistita dalle nove Muse.</l>
+          </sp>
+          <stage>NIRENOAvrà di selce il cor chi non languisce.[N. 18 – Sinfonia]Qui s’apre il Parnasso, e vedesi in trono la Virtù, assistita dalle nove Muse.</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Giulio, che miri? e quando</l>
+            <l>con abisso di luce</l>
+            <l>scesero i numi in terra?</l>
+            <l>[N. 19 – Aria]</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>V’adoro, pupille,</l>
+            <l>saette d’amore,</l>
+            <l>le vostre faville</l>
+            <l>son grate nel sen.</l>
+            <l>Pietose vi brama</l>
+            <l>il mesto mio core,</l>
+            <l>ch’ogn’ora vi chiama</l>
+            <l>l’amato suo ben.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Non ha in cielo il tonante</l>
+            <l>melodia che pareggi un sì bel canto.</l>
+            <l>Vola mio cor, al dolce incanto.</l>
+            <l>Mentre Cesare corre a Cleopatra, si chiude il Parnasso, e torna la scena come prima.</l>
+          </sp>
+          <stage>CESARENon ha in cielo il tonantemelodia che pareggi un sì bel canto.Vola mio cor, al dolce incanto.Mentre Cesare corre a Cleopatra, si chiude il Parnasso, e torna la scena come prima.</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>E come?</l>
+            <l>Ah! che del mio gioir invido è il nume!</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Signor, udisti, e che ti par di Lidia?</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Virtù cotanta</l>
+            <l>Lidia possiede?</l>
+            <l>Ah! Che se già piangente</l>
+            <l>mi saettò tra le armi, io ben m’avveggio,</l>
+            <l>che bellezza sì vaga</l>
+            <l>cantando lega, e lagrimando impiaga.</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Signor: se amor t’accese,</l>
+            <l>non t’affligger no, no; Lidia è cortese:</l>
+            <l>anzi, se non t’è grave, ella t’attende</l>
+            <l>nelle sue stanze or or.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Lidia mi brama?</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Ed ella a Cleopatra</l>
+            <l>anche ti scorterà.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CESARE</head>Guidami tosto in seno al mio tesoro,acciò che dolce renda il mio martoro.[N. 20 – Aria]Se in fiorito ameno pratol’augellin tra fiori, e frondesi nasconde,fa più gratoil suo cantar.Se così Lidia vezzosaspiega ancor notti canore,più graziosafa ogni coreinnamorar.Scena terzaGiardino del serraglio, dove corrisponde quello delle fiere.Cornelia, con piccola zappa nelle mani che vien coltivando i fiori, poi Achilla.[N. 21 – Arioso]<sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Guidami tosto in seno al mio tesoro,</l>
+            <l>acciò che dolce renda il mio martoro.</l>
+            <l>[N. 20 – Aria]</l>
+            <l>Se in fiorito ameno prato</l>
+            <l>l’augellin tra fiori, e fronde</l>
+            <l>si nasconde,</l>
+            <l>fa più grato</l>
+            <l>il suo cantar.</l>
+            <l>Se così Lidia vezzosa</l>
+            <l>spiega ancor notti canore,</l>
+            <l>più graziosa</l>
+            <l>fa ogni core</l>
+            <l>innamorar.</l>
+            <l>Scena terza</l>
+            <l>Giardino del serraglio, dove corrisponde quello delle fiere.</l>
+            <l>Cornelia, con piccola zappa nelle mani che vien coltivando i fiori, poi Achilla.</l>
+            <l>[N. 21 – Arioso]</l>
+          </sp>
+          <stage>CESAREGuidami tosto in seno al mio tesoro,acciò che dolce renda il mio martoro.[N. 20 – Aria]Se in fiorito ameno pratol’augellin tra fiori, e frondesi nasconde,fa più gratoil suo cantar.Se così Lidia vezzosaspiega ancor notti canore,più graziosafa ogni coreinnamorar.Scena terzaGiardino del serraglio, dove corrisponde quello delle fiere.Cornelia, con piccola zappa nelle mani che vien coltivando i fiori, poi Achilla.[N. 21 – Arioso]</stage>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Deh piangete, oh mesti lumi,</l>
+            <l>già per voi non v’è più speme.</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>(entra)</l>
+            <l>Bella, non lacrimare,</l>
+            <l>cangerà il tuo destin le crude tempre.</l>
+          </sp>
+          <stage>ACHILLA(entra)Bella, non lacrimare,cangerà il tuo destin le crude tempre.</stage>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Chi nacque a sospirar, piange per sempre.</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Un consenso amoroso,</l>
+            <l>che tu presti ad Achilla</l>
+            <l>può sottrarti al rigor di servitù.</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Olà! così non mi parlar mai più.</l>
+            <l>(vuol partire)</l>
+          </sp>
+          <stage>CORNELIAOlà! così non mi parlar mai più.(vuol partire)</stage>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Oh dio! Ascolta, ove vai?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CORNELIA</head>Fuggo da te per non mirarti mai.Scena quartaI detti, Tolomeo.(mentre Cornelia fugge, incontra Tolomeo, che la prende per la mano)<sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Fuggo da te per non mirarti mai.</l>
+            <l>Scena quarta</l>
+            <l>I detti, Tolomeo.</l>
+            <l>(mentre Cornelia fugge, incontra Tolomeo, che la prende per la mano)</l>
+          </sp>
+          <stage>CORNELIAFuggo da te per non mirarti mai.Scena quartaI detti, Tolomeo.(mentre Cornelia fugge, incontra Tolomeo, che la prende per la mano)</stage>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Bella, placa lo sdegno.</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Lasciami, iniquo re!</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Sire: qua mi portai,</l>
+            <l>per ammollir questa crudel, che adoro.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Fu pietosa a’ tuoi detti?</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Ella mi sprezza ognor, ed io mi moro.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>(Respiro, oh ciel!)</l>
+            <l>Bella: lo sdegno ammorza.</l>
+            <l>(tira da parte Achilla)</l>
+            <l>Amico, e ben?</l>
+          </sp>
+          <stage>TOLOMEO(Respiro, oh ciel!)Bella: lo sdegno ammorza.(tira da parte Achilla)Amico, e ben?</stage>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Signor: oggi vedrai</l>
+            <l>Cesare estinto al suolo,</l>
+            <l>re vendicato, e regnator tu solo.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Parti, eseguisci, e spera; avrai ‘n mercede</l>
+            <l>la tua crudel. (Folle è costui se ‘l crede).</l>
+            <l>[N. 22 – Aria]</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>(a Cornelia)</l>
+            <l>Se a me non sei crudele,</l>
+            <l>ognor sarà fedele</l>
+            <l>a te questo cor.</l>
+            <l>Ma se spietata sempre</l>
+            <l>ver me non cangi tempre,</l>
+            <l>aspetta sol rigor.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>ACHILLA(a Cornelia)Se a me non sei crudele,ognor sarà fedelea te questo cor.Ma se spietata semprever me non cangi tempre,aspetta sol rigor.(parte)</stage>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Bella, cotanto aborri</l>
+            <l>chi ti prega d’amar?</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Un traditore</l>
+            <l>degno non è d’amor.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Tanto rigore?</l>
+            <l>Ma se un re ti bramasse?</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Sarei una furia in agitargli il core.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Possibil che in quel volto</l>
+            <l>non alberghi pietà? che in questo seno. ~</l>
+            <l>(stende la destra al seno di Cornelia, che sdegnosa si ritira)</l>
+          </sp>
+          <stage>TOLOMEOPossibil che in quel voltonon alberghi pietà? che in questo seno. ~(stende la destra al seno di Cornelia, che sdegnosa si ritira)</stage>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Freni l’anima insana</l>
+            <l>lo stimolo del senso,</l>
+            <l>pensa che son Cornelia, e son romana.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>CORNELIAFreni l’anima insanalo stimolo del senso,pensa che son Cornelia, e son romana.(parte)</stage>
+        </div>
+        <div type="scene">
+          <head>TOLOMEO</head>Tanto ritrosa a un re? perfida donna.Forza userò, se non han luogo i prieghi;e involarti saprò ciò, che or mi nieghi.[N. 23 – Aria]Sì spietata, il tuo rigoresveglia l’odio in questo sen.Giacché sprezzi questo core,prova infida il mio velen!(parte)Scena quintaCornelia, che rientra, e poi Sesto.<sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Tanto ritrosa a un re? perfida donna.</l>
+            <l>Forza userò, se non han luogo i prieghi;</l>
+            <l>e involarti saprò ciò, che or mi nieghi.</l>
+            <l>[N. 23 – Aria]</l>
+            <l>Sì spietata, il tuo rigore</l>
+            <l>sveglia l’odio in questo sen.</l>
+            <l>Giacché sprezzi questo core,</l>
+            <l>prova infida il mio velen!</l>
+            <l>(parte)</l>
+            <l>Scena quinta</l>
+            <l>Cornelia, che rientra, e poi Sesto.</l>
+          </sp>
+          <stage>TOLOMEOTanto ritrosa a un re? perfida donna.Forza userò, se non han luogo i prieghi;e involarti saprò ciò, che or mi nieghi.[N. 23 – Aria]Sì spietata, il tuo rigoresveglia l’odio in questo sen.Giacché sprezzi questo core,prova infida il mio velen!(parte)Scena quintaCornelia, che rientra, e poi Sesto.</stage>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Su, che si tarda? or che partì ‘l lascivo,</l>
+            <l>un generoso ardir l’onor mi salvi;</l>
+            <l>tra le fauci de’ mostri</l>
+            <l>mi scaglierò da queste eccelse mura,</l>
+            <l>cibo sarò di fiere;</l>
+            <l>non paventa il morir un’alma forte.</l>
+            <l>Addio Roma, addio Sesto; io corro a morte.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Ferma! che fai?</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Chi mi trattiene il passo?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Madre?</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Madre! che veggio?</l>
+            <l>Figlio, Sesto, mio core!</l>
+            <l>Come qui ne venisti?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Io per sottrarti al regnator lascivo,</l>
+            <l>di Niren con la scorta</l>
+            <l>quivi occulto mi trassi.</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Troppo è certo il periglio</l>
+            <l>in cui, figlio, t’esponi.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>SESTO</head>Chi alla vendetta aspiravita non cura o madre.Si cadrà Sesto, o caderà il tiranno.Scena sestaNireno, e detti.<sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Chi alla vendetta aspira</l>
+            <l>vita non cura o madre.</l>
+            <l>Si cadrà Sesto, o caderà il tiranno.</l>
+            <l>Scena sesta</l>
+            <l>Nireno, e detti.</l>
+          </sp>
+          <stage>SESTOChi alla vendetta aspiravita non cura o madre.Si cadrà Sesto, o caderà il tiranno.Scena sestaNireno, e detti.</stage>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>(entra)</l>
+            <l>Cornelia: infauste nove. Il re m’impone</l>
+            <l>che tra le sue dilette</l>
+            <l>io ti conduca.</l>
+          </sp>
+          <stage>NIRENO(entra)Cornelia: infauste nove. Il re m’imponeche tra le sue diletteio ti conduca.</stage>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Oh dio!</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Numi, che sento?</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Non vi turbate no: unqua sospetto</l>
+            <l>a Tolomeo non fui; ambi verrete</l>
+            <l>là, dove il re tiranno</l>
+            <l>è in preda alle lascivie:</l>
+            <l>colà Sesto nascoso</l>
+            <l>in suo potere avrà l’alta vendetta;</l>
+            <l>egli solo, ed inerme</l>
+            <l>far non potrà difesa.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Molto, molto ti devo.</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Assista il cielo una sì giusta impresa.</l>
+            <l>[N. 24 – Aria]</l>
+            <l>Cessa omai di sospirare,</l>
+            <l>non è sempre irato il cielo;</l>
+            <l>contro i miseri suol fare</l>
+            <l>benché tardo le vendette.</l>
+            <l>Il nocchier, s’irato è il mare,</l>
+            <l>mai non perde la speranza,</l>
+            <l>onde avvien che la costanza</l>
+            <l>la salute a lui promette.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>CORNELIAAssista il cielo una sì giusta impresa.[N. 24 – Aria]Cessa omai di sospirare,non è sempre irato il cielo;contro i miseri suol farebenché tardo le vendette.Il nocchier, s’irato è il mare,mai non perde la speranza,onde avvien che la costanzala salute a lui promette.(parte)</stage>
+        </div>
+        <div type="scene">
+          <head>SESTO</head>Figlio non è, chi vendicar non curadel genitor lo scempio.Su dunque alla vendettati prepara, alma forte,e prima di morir altrui dà la morte![N. 25 – Aria]L’angue offeso mai non posa,se il veleno pria non spandedentro il sangue all’offensor.Così l’alma mia non osadi mostrarsi altera e grandese non svelle l’empio cor.(parte)Scena settimaLuogo di delizie.Cleopatra, poi Cesare.<sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Figlio non è, chi vendicar non cura</l>
+            <l>del genitor lo scempio.</l>
+            <l>Su dunque alla vendetta</l>
+            <l>ti prepara, alma forte,</l>
+            <l>e prima di morir altrui dà la morte!</l>
+            <l>[N. 25 – Aria]</l>
+            <l>L’angue offeso mai non posa,</l>
+            <l>se il veleno pria non spande</l>
+            <l>dentro il sangue all’offensor.</l>
+            <l>Così l’alma mia non osa</l>
+            <l>di mostrarsi altera e grande</l>
+            <l>se non svelle l’empio cor.</l>
+            <l>(parte)</l>
+            <l>Scena settima</l>
+            <l>Luogo di delizie.</l>
+            <l>Cleopatra, poi Cesare.</l>
+          </sp>
+          <stage>SESTOFiglio non è, chi vendicar non curadel genitor lo scempio.Su dunque alla vendettati prepara, alma forte,e prima di morir altrui dà la morte![N. 25 – Aria]L’angue offeso mai non posa,se il veleno pria non spandedentro il sangue all’offensor.Così l’alma mia non osadi mostrarsi altera e grandese non svelle l’empio cor.(parte)Scena settimaLuogo di delizie.Cleopatra, poi Cesare.</stage>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Esser qui deve in breve</l>
+            <l>l’idolo del mio sen Cesare amato;</l>
+            <l>ei sa che qui l’attende</l>
+            <l>Lidia sua, che l’adora;</l>
+            <l>per discoprir, se porta il sen piagato,</l>
+            <l>fingerò di dormir, porterò meco,</l>
+            <l>mascherato nel sonno, amor, ch’è cieco.</l>
+            <l>(si pone a sedere)</l>
+            <l>[N. 26 – Aria]</l>
+            <l>Venere bella,</l>
+            <l>per un istante,</l>
+            <l>deh! mi concedi</l>
+            <l>le grazie tutte</l>
+            <l>del dio d’amor.</l>
+            <l>Tu ben prevedi</l>
+            <l>che ‘l mio sembiante</l>
+            <l>dée far amante</l>
+            <l>un regio cor.</l>
+            <l>(finge di dormire)</l>
+          </sp>
+          <stage>CLEOPATRAEsser qui deve in brevel’idolo del mio sen Cesare amato;ei sa che qui l’attendeLidia sua, che l’adora;per discoprir, se porta il sen piagato,fingerò di dormir, porterò meco,mascherato nel sonno, amor, ch’è cieco.(si pone a sedere)[N. 26 – Aria]Venere bella,per un istante,deh! mi concedile grazie tuttedel dio d’amor.Tu ben prevediche ‘l mio sembiantedée far amanteun regio cor.(finge di dormire)</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Che veggio, oh numi! il mio bel sol qui dorme!</l>
+            <l>Vaga Lidia, adorata,</l>
+            <l>ah! se di tanto incendio</l>
+            <l>che mi bolle nel seno,</l>
+            <l>ti penetrasse al cor qualche scintilla,</l>
+            <l>ben potresti sperar dalla tua sorte</l>
+            <l>d’essermi forse un dì sposa e consorte.</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>(sorgendo)</l>
+            <l>Sposa? t’adorerò fino alla morte.</l>
+          </sp>
+          <stage>CLEOPATRA(sorgendo)Sposa? t’adorerò fino alla morte.</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Olà!</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Che, ti conturbi?</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Una donzella,</l>
+            <l>serva di Cleopatra a tanto aspira?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CLEOPATRA</head>Cesare, frena l’ire:giacché desta m’aborri,perché m’abbi ad amar, torno a dormire.(va per tornar al suo luogo)Scena ottavaCurio con spada impugnata, e detti.<sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Cesare, frena l’ire:</l>
+            <l>giacché desta m’aborri,</l>
+            <l>perché m’abbi ad amar, torno a dormire.</l>
+            <l>(va per tornar al suo luogo)</l>
+            <l>Scena ottava</l>
+            <l>Curio con spada impugnata, e detti.</l>
+          </sp>
+          <stage>CLEOPATRACesare, frena l’ire:giacché desta m’aborri,perché m’abbi ad amar, torno a dormire.(va per tornar al suo luogo)Scena ottavaCurio con spada impugnata, e detti.</stage>
+          <sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>Cesare, sei tradito.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>(snuda il brando)</l>
+            <l>Io tradito?</l>
+          </sp>
+          <stage>CESARE(snuda il brando)Io tradito?</stage>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Che sento?</l>
+          </sp>
+          <sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>Mentr’io ver le tue stanze,</l>
+            <l>signor, t’attendo, odo di genti e spade</l>
+            <l>ripercosso fragor; ed una voce</l>
+            <l>gridar: «Cesare mora», ed improvviso</l>
+            <l>a te ne volo, ad arrecar l’avviso.</l>
+          </sp>
+          <stage>CURIOMentr’io ver le tue stanze,signor, t’attendo, odo di genti e spaderipercosso fragor; ed una vocegridar: «Cesare mora», ed improvvisoa te ne volo, ad arrecar l’avviso.</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Così dunque in Egitto</l>
+            <l>regna la fellonia? Bella, rimanti;</l>
+            <l>sono infausti per noi cotesti lidi.</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Fermati, non partir, che tu m’uccidi.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Lascia, Lidia. ~</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Che Lidia?</l>
+            <l>Io volerò al conflitto; in tua difesa</l>
+            <l>sino agli stessi abissi</l>
+            <l>scenderia Cleopatra. (Ohimè, che dissi?)</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Cleopatra?</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Sì.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Dov’è?</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Cesare, volgi</l>
+            <l>in questo seno, e non altrove il lampo</l>
+            <l>di quegli occhi, che adoro:</l>
+            <l>son Cleopatra, e non più Lidia in campo.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Sei Cleopatra?</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>In breve</l>
+            <l>de’ congiurati il temerario ardire</l>
+            <l>questo aspetto regal farà, che cada;</l>
+            <l>torna al fianco signor quella tua spada.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>CLEOPATRAIn brevede’ congiurati il temerario ardirequesto aspetto regal farà, che cada;torna al fianco signor quella tua spada.(parte)</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Curio: a sì strani eventi</l>
+            <l>resto immobile sasso.</l>
+          </sp>
+          <sp who="#curio">
+            <speaker>CURIO:</speaker>
+            <l>Stupido son.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Che udisti mai, cor mio?</l>
+            <l>Lidia è Cleopatra? e la spregiasti? Oh dio!</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>(che frettolosa ritorna)</l>
+            <l>Fuggi, Cesare, fuggi.</l>
+            <l>Dalle regie tue stanze a questa fonte</l>
+            <l>volano i congiurati.</l>
+          </sp>
+          <stage>CLEOPATRA(che frettolosa ritorna)Fuggi, Cesare, fuggi.Dalle regie tue stanze a questa fontevolano i congiurati.</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Come; nemmen Cleopatra</l>
+            <l>valse a frenar sì perfido ardimento?</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>La porpora reale</l>
+            <l>scudo non è bastante al tradimento.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Vengano pure: ho core.</l>
+            <l>Cesar non seppe mai che sia timore.</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Oh dio! tu il cor mi struggi;</l>
+            <l>sàlvati o mio bel sol, Cesare fuggi.</l>
+            <l>[N. 27 – Aria e Coro]</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Col lampo dell’armi</l>
+            <l>quest’alma guerriera</l>
+            <l>vendetta farà.</l>
+            <l>Non fia che disarmi</l>
+            <l>la destra guerriera</l>
+            <l>chi forza le dà.</l>
+            <l>(parte con Curio)</l>
+          </sp>
+          <stage>CESARECol lampo dell’armiquest’alma guerrieravendetta farà.Non fia che disarmila destra guerrierachi forza le dà.(parte con Curio)</stage>
+          <sp who="#congiurati">
+            <speaker>CONGIURATI:</speaker>
+            <l>(di dentro)</l>
+            <l>Mora Cesare, mora!</l>
+            <l>[N. 28 – Recitativo accompagnato]</l>
+          </sp>
+          <stage>CONGIURATI(di dentro)Mora Cesare, mora![N. 28 – Recitativo accompagnato]</stage>
+        </div>
+        <div type="scene">
+          <head>CLEOPATRA</head>Che sento? Oh dio! Morrà Cleopatra ancora.Anima vil che parli mai? Deh taci,avrò, per vendicarmiin bellicosa partedi Bellona in sembianza un cor di Marte.Intanto oh numi, voi che il ciel reggete,difendete il mio bene,ch’egli è del seno mio conforto e speme.[N. 29 – Aria]Se pietà di me non sentigiusto ciel io morirò.Tu da’ pace a’ miei tormentio quest’alma spirerò.Scena nonaCamera nel serraglio.Tolomeo circondato dalle sue Favorite, e Cornelia fra loro, poi Sesto.[N. 30 – Arioso e Recitativo]<sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Che sento? Oh dio! Morrà Cleopatra ancora.</l>
+            <l>Anima vil che parli mai? Deh taci,</l>
+            <l>avrò, per vendicarmi</l>
+            <l>in bellicosa parte</l>
+            <l>di Bellona in sembianza un cor di Marte.</l>
+            <l>Intanto oh numi, voi che il ciel reggete,</l>
+            <l>difendete il mio bene,</l>
+            <l>ch’egli è del seno mio conforto e speme.</l>
+            <l>[N. 29 – Aria]</l>
+            <l>Se pietà di me non senti</l>
+            <l>giusto ciel io morirò.</l>
+            <l>Tu da’ pace a’ miei tormenti</l>
+            <l>o quest’alma spirerò.</l>
+            <l>Scena nona</l>
+            <l>Camera nel serraglio.</l>
+            <l>Tolomeo circondato dalle sue Favorite, e Cornelia fra loro, poi Sesto.</l>
+            <l>[N. 30 – Arioso e Recitativo]</l>
+          </sp>
+          <stage>CLEOPATRAChe sento? Oh dio! Morrà Cleopatra ancora.Anima vil che parli mai? Deh taci,avrò, per vendicarmiin bellicosa partedi Bellona in sembianza un cor di Marte.Intanto oh numi, voi che il ciel reggete,difendete il mio bene,ch’egli è del seno mio conforto e speme.[N. 29 – Aria]Se pietà di me non sentigiusto ciel io morirò.Tu da’ pace a’ miei tormentio quest’alma spirerò.Scena nonaCamera nel serraglio.Tolomeo circondato dalle sue Favorite, e Cornelia fra loro, poi Sesto.[N. 30 – Arioso e Recitativo]</stage>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Questo è luogo di pace,</l>
+            <l>onde il ferro depongo,</l>
+            <l>(pone la spada sopra una tavola)</l>
+            <l>che inutile ornamento</l>
+            <l>ora è questo in amor fero stromento.</l>
+          </sp>
+          <stage>TOLOMEOQuesto è luogo di pace,onde il ferro depongo,(pone la spada sopra una tavola)che inutile ornamentoora è questo in amor fero stromento.</stage>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>(Numi! che fia di me?)</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Ma! qui Cornelia:</l>
+            <l>questo candido lin tu prendi in segno,</l>
+            <l>secondo il mio costume,</l>
+            <l>di colei che destino</l>
+            <l>al regio letto, alle notturne piume.</l>
+            <l>(Cornelia prende il fazzoletto, e poi lo getta con sdegno)</l>
+            <l>(entra Sesto)</l>
+          </sp>
+          <stage>TOLOMEOMa! qui Cornelia:questo candido lin tu prendi in segno,secondo il mio costume,di colei che destinoal regio letto, alle notturne piume.(Cornelia prende il fazzoletto, e poi lo getta con sdegno)(entra Sesto)</stage>
+        </div>
+        <div type="scene">
+          <head>SESTO</head>(Ora è il tempo, oh mia destra: il proprio ferroche uccise il genitore, l’empio trafigga.)(mentre Sesto vuol prendere la spada di Tolomeo, vien sorpreso da Achilla, che entra in furia e la prende)Scena decimaAchilla, e detti.<sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(Ora è il tempo, oh mia destra: il proprio ferro</l>
+            <l>che uccise il genitore, l’empio trafigga.)</l>
+            <l>(mentre Sesto vuol prendere la spada di Tolomeo, vien sorpreso da Achilla, che entra in furia e la prende)</l>
+            <l>Scena decima</l>
+            <l>Achilla, e detti.</l>
+          </sp>
+          <stage>SESTO(Ora è il tempo, oh mia destra: il proprio ferroche uccise il genitore, l’empio trafigga.)(mentre Sesto vuol prendere la spada di Tolomeo, vien sorpreso da Achilla, che entra in furia e la prende)Scena decimaAchilla, e detti.</stage>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Sire, prendi.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Che fia?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(Stelle crudeli!)</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Arma la man, che non è tempo, o sire,</l>
+            <l>di star fra vezzi in amorosa parte;</l>
+            <l>queste veneri lascia, e vola a Marte.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Qual nemica fortuna?</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Mentre io cerco di Cesare la strage,</l>
+            <l>s’avventa egli fra i nostri,</l>
+            <l>ma il numero di molti</l>
+            <l>alla virtù d’un solo al fin prevale;</l>
+            <l>fugge con Curio, e da balcon sublime</l>
+            <l>si scaglia d’improvviso in mezzo al porto,</l>
+            <l>ed io miro in un punto Curio sommerso,</l>
+            <l>e Cesare già morto.</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>(Cesare morto?)</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(Oh numi!)</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Or Cleopatra</l>
+            <l>vola al campo romano,</l>
+            <l>e delle trombe ai bellicosi carmi,</l>
+            <l>di Cesare in vedetta,</l>
+            <l>corre co’ suoi contro il tuo campo all’armi.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>D’una femmina imbelle</l>
+            <l>non pavento i furori.</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>A te sol resta</l>
+            <l>che in premio di tant’opra</l>
+            <l>in isposa costei tu mi conceda.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Temerario. Beltà che non ha pari</l>
+            <l>d’un tradimento in guiderdon pretendi?</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Sire. ~</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Ammutisci, e parti;</l>
+            <l>son re, saprò premiarti.</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Il mio servir questa mercé riceve?</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Olà!</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>(A chi fede non ha, fe’ non si deve.)</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>ACHILLA(A chi fede non ha, fe’ non si deve.)(parte)</stage>
+        </div>
+        <div type="scene">
+          <head>TOLOMEO</head>Ciascuna si ritiri,dopo breve soggiornovittorioso fra voi farò ritorno.(parte con le favorite)Scena undicesimaSesto, Cornelia.<sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Ciascuna si ritiri,</l>
+            <l>dopo breve soggiorno</l>
+            <l>vittorioso fra voi farò ritorno.</l>
+            <l>(parte con le favorite)</l>
+            <l>Scena undicesima</l>
+            <l>Sesto, Cornelia.</l>
+          </sp>
+          <stage>TOLOMEOCiascuna si ritiri,dopo breve soggiornovittorioso fra voi farò ritorno.(parte con le favorite)Scena undicesimaSesto, Cornelia.</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Ecco in tutto perduta</l>
+            <l>la speme di vendetta:</l>
+            <l>ferro, inerme ti vedo,</l>
+            <l>io per non più soffrir morte a te chiedo.</l>
+            <l>(tira la spada per uccidersi)</l>
+          </sp>
+          <stage>SESTOEcco in tutto perdutala speme di vendetta:ferro, inerme ti vedo,io per non più soffrir morte a te chiedo.(tira la spada per uccidersi)</stage>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Ferma: che fai? se perverso il destino</l>
+            <l>fe’ vano il colpo, invan disperi o Sesto.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Or che Cesar è estinto</l>
+            <l>che più sperar possiamo?</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Animo, ardire:</l>
+            <l>Niren già t’apre il passo; al campo vanne,</l>
+            <l>colà tu rivedrai l’empio tiranno,</l>
+            <l>e a lui fa’ poi mirar con alma forte,</l>
+            <l>che incontrar sai, non paventar la morte.</l>
+            <l>(parte)</l>
+          </sp>
+          <stage>CORNELIAAnimo, ardire:Niren già t’apre il passo; al campo vanne,colà tu rivedrai l’empio tiranno,e a lui fa’ poi mirar con alma forte,che incontrar sai, non paventar la morte.(parte)</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>SESTO</head>(solo)Seguirò tanto con ignoto passo,ogn’orma del tiranno,finché nel suo perigliofarò che cada esanguedel padre l’uccisor per man del figlio.[N. 31 – Aria]L’aura che spiratiranno e fieroegli non mertadi respirar.Mi sveglia all’iraquel cor severo,sua morte solomi può placar.Varianti, atto secondoVarianti inserite in varie occasioni.Scena prima, finale.<div type="scene">
+          <head>SESTO</head>(solo)Seguirò tanto con ignoto passo,ogn’orma del tiranno,finché nel suo perigliofarò che cada esanguedel padre l’uccisor per man del figlio.[N. 31 – Aria]L’aura che spiratiranno e fieroegli non mertadi respirar.Mi sveglia all’iraquel cor severo,sua morte solomi può placar.Varianti, atto secondoVarianti inserite in varie occasioni.Scena prima, finale.<sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(solo)</l>
+            <l>Seguirò tanto con ignoto passo,</l>
+            <l>ogn’orma del tiranno,</l>
+            <l>finché nel suo periglio</l>
+            <l>farò che cada esangue</l>
+            <l>del padre l’uccisor per man del figlio.</l>
+            <l>[N. 31 – Aria]</l>
+            <l>L’aura che spira</l>
+            <l>tiranno e fiero</l>
+            <l>egli non merta</l>
+            <l>di respirar.</l>
+            <l>Mi sveglia all’ira</l>
+            <l>quel cor severo,</l>
+            <l>sua morte solo</l>
+            <l>mi può placar.</l>
+            <l>Varianti, atto secondo</l>
+            <l>Varianti inserite in varie occasioni.</l>
+            <l>Scena prima, finale.</l>
+          </sp>
+          <stage>SESTO(solo)Seguirò tanto con ignoto passo,ogn’orma del tiranno,finché nel suo perigliofarò che cada esanguedel padre l’uccisor per man del figlio.[N. 31 – Aria]L’aura che spiratiranno e fieroegli non mertadi respirar.Mi sveglia all’iraquel cor severo,sua morte solomi può placar.Varianti, atto secondoVarianti inserite in varie occasioni.Scena prima, finale.</stage>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Chiunque brama in amor propizia sorte</l>
+            <l>da Cleopatra apprenda</l>
+            <l>a tesser lacci, ed a formar ritorte.</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Chi perde un momento</l>
+            <l>d’un dolce contento</l>
+            <l>lagnarsi non deve</l>
+            <l>s’amor poi l’affanna.</l>
+            <l>L’affetto in un petto</l>
+            <l>se tosto non viene malcerto</l>
+            <l>si tiene, e amor lo condanna.</l>
+            <l>Scena nona, inizio.</l>
+          </sp>
+          <stage>NIRENOChi perde un momentod’un dolce contentolagnarsi non deves’amor poi l’affanna.L’affetto in un pettose tosto non viene malcertosi tiene, e amor lo condanna.Scena nona, inizio.</stage>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Belle dèe di questo core,</l>
+            <l>voi portate il ciel nel volto,</l>
+            <l>non ha il ciel più bel splendore</l>
+            <l>di quel ch’avete in doppie stelle accolto.</l>
+            <l>Scena decima, finale.</l>
+          </sp>
+          <stage>TOLOMEOBelle dèe di questo core,voi portate il ciel nel volto,non ha il ciel più bel splendoredi quel ch’avete in doppie stelle accolto.Scena decima, finale.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>TOLOMEO</head>Dal mio cenno si veda umiliataquell’alma che ingrata mi vuol disprezzar.Già nel petto si sveglia lo sdegno,paventi il mio regno chi non sa l’amar.Atto terzoScena primaPorto vicino alla città di Alessandria.Achilla con séguito di Soldati.<div type="scene">
+          <head>TOLOMEO</head>Dal mio cenno si veda umiliataquell’alma che ingrata mi vuol disprezzar.Già nel petto si sveglia lo sdegno,paventi il mio regno chi non sa l’amar.Atto terzoScena primaPorto vicino alla città di Alessandria.Achilla con séguito di Soldati.<sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Dal mio cenno si veda umiliata</l>
+            <l>quell’alma che ingrata mi vuol disprezzar.</l>
+            <l>Già nel petto si sveglia lo sdegno,</l>
+            <l>paventi il mio regno chi non sa l’amar.</l>
+            <l>Atto terzo</l>
+            <l>Scena prima</l>
+            <l>Porto vicino alla città di Alessandria.</l>
+            <l>Achilla con séguito di Soldati.</l>
+          </sp>
+          <stage>TOLOMEODal mio cenno si veda umiliataquell’alma che ingrata mi vuol disprezzar.Già nel petto si sveglia lo sdegno,paventi il mio regno chi non sa l’amar.Atto terzoScena primaPorto vicino alla città di Alessandria.Achilla con séguito di Soldati.</stage>
+        </div>
+        <div type="scene">
+          <head>ACHILLA</head>In tal modi si premiail mio lungo servir, la fede mia?Barbaro re, ti pentirai fra pocod’avermi offeso, andiamoprodi campioni, e a Cleopatra avantioffriam le nostre insegne, offriamle il core,e sia menda al tardar l’alto valore.[N. 32 – Aria]Dal fulgor di questa spadavuò che cadaumiliato un empio cor;già non dée soffrir l’offeseche difeseil suo regno col valor.(parte)Scena secondaTolomeo, Cleopatra, Soldati di Cleopatra, Soldati e Guardie di Tolomeo.[N. 33 – Sinfonia]Al suono d’una bellica sinfonia segue la battaglia tra Soldati di Cleopatra e di Tolomeo, e questi ultimi hanno la vittoria; finita la sinfonia, entra Tolomeo con Cleopatra prigioniera.<sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>In tal modi si premia</l>
+            <l>il mio lungo servir, la fede mia?</l>
+            <l>Barbaro re, ti pentirai fra poco</l>
+            <l>d’avermi offeso, andiamo</l>
+            <l>prodi campioni, e a Cleopatra avanti</l>
+            <l>offriam le nostre insegne, offriamle il core,</l>
+            <l>e sia menda al tardar l’alto valore.</l>
+            <l>[N. 32 – Aria]</l>
+            <l>Dal fulgor di questa spada</l>
+            <l>vuò che cada</l>
+            <l>umiliato un empio cor;</l>
+            <l>già non dée soffrir l’offese</l>
+            <l>che difese</l>
+            <l>il suo regno col valor.</l>
+            <l>(parte)</l>
+            <l>Scena seconda</l>
+            <l>Tolomeo, Cleopatra, Soldati di Cleopatra, Soldati e Guardie di Tolomeo.</l>
+            <l>[N. 33 – Sinfonia]</l>
+            <l>Al suono d’una bellica sinfonia segue la battaglia tra Soldati di Cleopatra e di Tolomeo, e questi ultimi hanno la vittoria; finita la sinfonia, entra Tolomeo con Cleopatra prigioniera.</l>
+          </sp>
+          <stage>ACHILLAIn tal modi si premiail mio lungo servir, la fede mia?Barbaro re, ti pentirai fra pocod’avermi offeso, andiamoprodi campioni, e a Cleopatra avantioffriam le nostre insegne, offriamle il core,e sia menda al tardar l’alto valore.[N. 32 – Aria]Dal fulgor di questa spadavuò che cadaumiliato un empio cor;già non dée soffrir l’offeseche difeseil suo regno col valor.(parte)Scena secondaTolomeo, Cleopatra, Soldati di Cleopatra, Soldati e Guardie di Tolomeo.[N. 33 – Sinfonia]Al suono d’una bellica sinfonia segue la battaglia tra Soldati di Cleopatra e di Tolomeo, e questi ultimi hanno la vittoria; finita la sinfonia, entra Tolomeo con Cleopatra prigioniera.</stage>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Vinta cadesti al balenar di questo</l>
+            <l>mio fulmine reale.</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Tolomeo non mi vinse;</l>
+            <l>mi tradì quella cieca,</l>
+            <l>che tiran ti protegge,</l>
+            <l>senz’onor, senza fede, e senza legge.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Olà! sì baldanzosa</l>
+            <l>del vincitor al riverito aspetto?</l>
+            <l>(alle guardie)</l>
+            <l>S’incateni costei.</l>
+            <l>(una guardia incatena Cleopatra)</l>
+          </sp>
+          <stage>TOLOMEOOlà! sì baldanzosadel vincitor al riverito aspetto?(alle guardie)S’incateni costei.(una guardia incatena Cleopatra)</stage>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Empio crudel, ti puniranno i dèi.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>TOLOMEO</head>Costei, che per germana aborro e sdegno,si conduca alla reggia; io colà voglioche ad onta del suo ardire,genuflessa m’adori a piè del soglio.[N. 34 – Aria]Domerò la tua fierezzach’il mio trono aborre, e sprezza,e umiliata ti vedrò.Tu qual Icaro ribellesormontar brami le stelle,ma quell’ali io tarperò.(parte)Scena terzaCleopatra, sola con Guardie.<sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Costei, che per germana aborro e sdegno,</l>
+            <l>si conduca alla reggia; io colà voglio</l>
+            <l>che ad onta del suo ardire,</l>
+            <l>genuflessa m’adori a piè del soglio.</l>
+            <l>[N. 34 – Aria]</l>
+            <l>Domerò la tua fierezza</l>
+            <l>ch’il mio trono aborre, e sprezza,</l>
+            <l>e umiliata ti vedrò.</l>
+            <l>Tu qual Icaro ribelle</l>
+            <l>sormontar brami le stelle,</l>
+            <l>ma quell’ali io tarperò.</l>
+            <l>(parte)</l>
+            <l>Scena terza</l>
+            <l>Cleopatra, sola con Guardie.</l>
+          </sp>
+          <stage>TOLOMEOCostei, che per germana aborro e sdegno,si conduca alla reggia; io colà voglioche ad onta del suo ardire,genuflessa m’adori a piè del soglio.[N. 34 – Aria]Domerò la tua fierezzach’il mio trono aborre, e sprezza,e umiliata ti vedrò.Tu qual Icaro ribellesormontar brami le stelle,ma quell’ali io tarperò.(parte)Scena terzaCleopatra, sola con Guardie.</stage>
+        </div>
+        <div type="scene">
+          <head>CLEOPATRA</head>E pur così in un giornoperdo fasti, e grandezze? Ahi fato rio!Cesare il mio bel nume è forse estinto;Cornelia, e Sesto inermi son, né sannodarmi soccorso. O dio!Non resta alcuna speme al viver mio.[N. 35 – Aria]Piangerò la sorte miasì crudele e tanto riafinché vita in petto avrò.Ma poi morta d’ogn’intornoil tiranno e notte e giornofatta spettro agiterò.(parte)Scena quartaCesare, Achilla, poi Sesto e Nireno.(Giulio Cesare, da una parte, poi Sesto dall’altra con Nireno, ed Achilla, steso sul margine del porto malamente ferito)[N. 36 – Recitativo accompagnato e Aria]<sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>E pur così in un giorno</l>
+            <l>perdo fasti, e grandezze? Ahi fato rio!</l>
+            <l>Cesare il mio bel nume è forse estinto;</l>
+            <l>Cornelia, e Sesto inermi son, né sanno</l>
+            <l>darmi soccorso. O dio!</l>
+            <l>Non resta alcuna speme al viver mio.</l>
+            <l>[N. 35 – Aria]</l>
+            <l>Piangerò la sorte mia</l>
+            <l>sì crudele e tanto ria</l>
+            <l>finché vita in petto avrò.</l>
+            <l>Ma poi morta d’ogn’intorno</l>
+            <l>il tiranno e notte e giorno</l>
+            <l>fatta spettro agiterò.</l>
+            <l>(parte)</l>
+            <l>Scena quarta</l>
+            <l>Cesare, Achilla, poi Sesto e Nireno.</l>
+            <l>(Giulio Cesare, da una parte, poi Sesto dall’altra con Nireno, ed Achilla, steso sul margine del porto malamente ferito)</l>
+            <l>[N. 36 – Recitativo accompagnato e Aria]</l>
+          </sp>
+          <stage>CLEOPATRAE pur così in un giornoperdo fasti, e grandezze? Ahi fato rio!Cesare il mio bel nume è forse estinto;Cornelia, e Sesto inermi son, né sannodarmi soccorso. O dio!Non resta alcuna speme al viver mio.[N. 35 – Aria]Piangerò la sorte miasì crudele e tanto riafinché vita in petto avrò.Ma poi morta d’ogn’intornoil tiranno e notte e giornofatta spettro agiterò.(parte)Scena quartaCesare, Achilla, poi Sesto e Nireno.(Giulio Cesare, da una parte, poi Sesto dall’altra con Nireno, ed Achilla, steso sul margine del porto malamente ferito)[N. 36 – Recitativo accompagnato e Aria]</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Dall’ondoso periglio</l>
+            <l>salvo mi porta al lido</l>
+            <l>il mio propizio fato.</l>
+            <l>Qui la celeste parca</l>
+            <l>non tronca ancor lo stame alla mia vita!</l>
+            <l>Ma dove andrò? e chi mi porge aita?</l>
+            <l>Ove son le mie schiere?</l>
+            <l>ove son le legioni,</l>
+            <l>che a tante mie vittorie il varco apriro?</l>
+            <l>Solo in queste erme arene</l>
+            <l>al monarca del mondo errar conviene?</l>
+            <l>Aure deh per pietà</l>
+            <l>spirate al petto mio</l>
+            <l>per dar conforto oh dio</l>
+            <l>al mio dolor.</l>
+            <l>Dite: dov’è, che fa</l>
+            <l>l’idol del mio sen,</l>
+            <l>l’amato e dolce ben</l>
+            <l>di questo cor?</l>
+            <l>Ma d’ogni intorno i’ veggio</l>
+            <l>sparse d’arme e d’estinti</l>
+            <l>l’infortunate arene;</l>
+            <l>segno d’infausto annunzio al fin sarà.</l>
+            <l>Entrano Sesto e Nireno.</l>
+          </sp>
+          <stage>CESAREDall’ondoso perigliosalvo mi porta al lidoil mio propizio fato.Qui la celeste parcanon tronca ancor lo stame alla mia vita!Ma dove andrò? e chi mi porge aita?Ove son le mie schiere?ove son le legioni,che a tante mie vittorie il varco apriro?Solo in queste erme areneal monarca del mondo errar conviene?Aure deh per pietàspirate al petto mioper dar conforto oh dioal mio dolor.Dite: dov’è, che fal’idol del mio sen,l’amato e dolce bendi questo cor?Ma d’ogni intorno i’ veggiosparse d’arme e d’estintil’infortunate arene;segno d’infausto annunzio al fin sarà.Entrano Sesto e Nireno.</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Cerco invan Tolomeo per vendicarmi,</l>
+            <l>e il mio destino spietato a me l’asconde.</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>(sul margine del porto, mortalmente ferito)</l>
+            <l>Hai vinto o fato!</l>
+          </sp>
+          <stage>ACHILLA(sul margine del porto, mortalmente ferito)Hai vinto o fato!</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Quai tronche voci?</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Avete vinto o stelle!</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>(Due guerrieri? in disparte</l>
+            <l>de’ loro accenti il suono</l>
+            <l>udir io voglio, e penetrar chi sono.)</l>
+            <l>(si ritira)</l>
+          </sp>
+          <stage>CESARE(Due guerrieri? in dispartede’ loro accenti il suonoudir io voglio, e penetrar chi sono.)(si ritira)</stage>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>(a Sesto)</l>
+            <l>È questi Achilla, in mezzo al sen piagato.</l>
+          </sp>
+          <stage>NIRENO(a Sesto)È questi Achilla, in mezzo al sen piagato.</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>(Achilla è il moribondo?)</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Amico, amico!</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>(a Nireno)</l>
+            <l>Oh cavalier ignoto</l>
+            <l>che con voci d’amico</l>
+            <l>articoli il mio nome,</l>
+            <l>deh, se fia mai che ti conceda il fato</l>
+            <l>di favellar un giorno</l>
+            <l>alla bella Cornelia, al sol di Roma:</l>
+            <l>digli che quell’Achilla,</l>
+            <l>che consigliò del gran Pompeo la morte. ~</l>
+          </sp>
+          <stage>ACHILLA(a Nireno)Oh cavalier ignotoche con voci d’amicoarticoli il mio nome,deh, se fia mai che ti conceda il fatodi favellar un giornoalla bella Cornelia, al sol di Roma:digli che quell’Achilla,che consigliò del gran Pompeo la morte. ~</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(Ah scellerato!)</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>(Ah iniquo!)</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Che per averla in moglie,</l>
+            <l>contro Cesare ordì l’alta congiura. ~</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(Ah traditor!)</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>(Fellone!)</l>
+          </sp>
+          <sp who="#achilla">
+            <speaker>ACHILLA:</speaker>
+            <l>Sol per cagion di vendicarsi un giorno</l>
+            <l>contro il re Tolomeo</l>
+            <l>giunse in tal notte a spirar l’alma in guerra.</l>
+            <l>Questo sigil tu prendi;</l>
+            <l>nel più vicino speco</l>
+            <l>cento armati guerrieri</l>
+            <l>a questo segno ad ubbidir son pronti;</l>
+            <l>con questi puoi per sotterranea via</l>
+            <l>penetrar nella reggia, e in breve d’ora</l>
+            <l>torre all’empio Cornelia,</l>
+            <l>e insieme far che vendicato io mora. ~</l>
+            <l>(dà il sigillo a Sesto e spira)</l>
+          </sp>
+          <stage>ACHILLASol per cagion di vendicarsi un giornocontro il re Tolomeogiunse in tal notte a spirar l’alma in guerra.Questo sigil tu prendi;nel più vicino specocento armati guerrieria questo segno ad ubbidir son pronti;con questi puoi per sotterranea viapenetrar nella reggia, e in breve d’oratorre all’empio Cornelia,e insieme far che vendicato io mora. ~(dà il sigillo a Sesto e spira)</stage>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Spirò l’alma il fellon. ~</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Tu scaglia intanto</l>
+            <l>il cadavere indegno</l>
+            <l>del traditor nell’onde.</l>
+            <l>(Giulio Cesare si avanza, e toglie il sigillo a Sesto)</l>
+          </sp>
+          <stage>SESTOTu scaglia intantoil cadavere indegnodel traditor nell’onde.(Giulio Cesare si avanza, e toglie il sigillo a Sesto)</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Lascia questo sigillo.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(alza la visiera)</l>
+            <l>Oh dèi!</l>
+          </sp>
+          <stage>SESTO(alza la visiera)Oh dèi!</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Che veggio!</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Signor!</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Tu Sesto?</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>E come</l>
+            <l>vivo Cesare? e illeso</l>
+            <l>ch’il sottrasse alla parca?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CESARE</head>Io fra l’onde nuotando al lido giunsi:non ti turbar; mi porterò alla reggia,e m’aprirò con tal sigil l’ingresso.Teco Niren mi segua;o che torrò alla sorteCornelia e Cleopatra, o avrò la morte.[N. 37 – Aria]Qual torrente, che cade dal monte,tutto atterra che incontro lo sta.Tale anch’io, a chi oppone la frontedal mio brando atterrato sarà.(parte)Scena quintaSesto, Nireno.<sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Io fra l’onde nuotando al lido giunsi:</l>
+            <l>non ti turbar; mi porterò alla reggia,</l>
+            <l>e m’aprirò con tal sigil l’ingresso.</l>
+            <l>Teco Niren mi segua;</l>
+            <l>o che torrò alla sorte</l>
+            <l>Cornelia e Cleopatra, o avrò la morte.</l>
+            <l>[N. 37 – Aria]</l>
+            <l>Qual torrente, che cade dal monte,</l>
+            <l>tutto atterra che incontro lo sta.</l>
+            <l>Tale anch’io, a chi oppone la fronte</l>
+            <l>dal mio brando atterrato sarà.</l>
+            <l>(parte)</l>
+            <l>Scena quinta</l>
+            <l>Sesto, Nireno.</l>
+          </sp>
+          <stage>CESAREIo fra l’onde nuotando al lido giunsi:non ti turbar; mi porterò alla reggia,e m’aprirò con tal sigil l’ingresso.Teco Niren mi segua;o che torrò alla sorteCornelia e Cleopatra, o avrò la morte.[N. 37 – Aria]Qual torrente, che cade dal monte,tutto atterra che incontro lo sta.Tale anch’io, a chi oppone la frontedal mio brando atterrato sarà.(parte)Scena quintaSesto, Nireno.</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Tutto lice sperar, Cesare vive.</l>
+          </sp>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Segui o Sesto i suoi passi.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>SESTO</head>Achilla estinto? or sì che il ciel cominciaa far le mie vendette.Sì, sì, mi dice il coreche mio sarà il desiato onore.[N. 38 – Aria]La giustizia ha già sull’arcopronto strale alla vendettaper punire un traditor.Quanto è tarda la saettatanto più crudele aspettala sua pena un empio cor.(parte con Nireno)Scena sestaAppartamento di Cleopatra.Cleopatra (con Guardie) fra le sue Damigelle, che piangono, e poi Cesare con Soldati.[N. 39 – Recitativo accompagnato]<sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Achilla estinto? or sì che il ciel comincia</l>
+            <l>a far le mie vendette.</l>
+            <l>Sì, sì, mi dice il core</l>
+            <l>che mio sarà il desiato onore.</l>
+            <l>[N. 38 – Aria]</l>
+            <l>La giustizia ha già sull’arco</l>
+            <l>pronto strale alla vendetta</l>
+            <l>per punire un traditor.</l>
+            <l>Quanto è tarda la saetta</l>
+            <l>tanto più crudele aspetta</l>
+            <l>la sua pena un empio cor.</l>
+            <l>(parte con Nireno)</l>
+            <l>Scena sesta</l>
+            <l>Appartamento di Cleopatra.</l>
+            <l>Cleopatra (con Guardie) fra le sue Damigelle, che piangono, e poi Cesare con Soldati.</l>
+            <l>[N. 39 – Recitativo accompagnato]</l>
+          </sp>
+          <stage>SESTOAchilla estinto? or sì che il ciel cominciaa far le mie vendette.Sì, sì, mi dice il coreche mio sarà il desiato onore.[N. 38 – Aria]La giustizia ha già sull’arcopronto strale alla vendettaper punire un traditor.Quanto è tarda la saettatanto più crudele aspettala sua pena un empio cor.(parte con Nireno)Scena sestaAppartamento di Cleopatra.Cleopatra (con Guardie) fra le sue Damigelle, che piangono, e poi Cesare con Soldati.[N. 39 – Recitativo accompagnato]</stage>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Voi, che mie fide ancelle un tempo foste</l>
+            <l>or lagrimate invan, più mie non siete.</l>
+            <l>Il barbaro germano,</l>
+            <l>che mi privò del regno,</l>
+            <l>a me vi toglie, e a me torrà la vita.</l>
+            <l>(si ode strepito d’armi nella scena)</l>
+            <l>Ma! qual strepito d’armi?</l>
+            <l>Ah sì, più mie non siete,</l>
+            <l>spirar l’alma Cleopatra or or vedrete.</l>
+          </sp>
+          <stage>CLEOPATRAVoi, che mie fide ancelle un tempo fosteor lagrimate invan, più mie non siete.Il barbaro germano,che mi privò del regno,a me vi toglie, e a me torrà la vita.(si ode strepito d’armi nella scena)Ma! qual strepito d’armi?Ah sì, più mie non siete,spirar l’alma Cleopatra or or vedrete.</stage>
+          <stage>Recitativo(Cesare con spada nuda in mano e soldati)</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Forzai l’ingresso a tua salvezza, oh cara.</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Cesare, o un’ombra sei?</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Olà, partite omai empi ministri</l>
+            <l>d’un tiranno spietato;</l>
+            <l>Cesare così vuol, pronti ubbidite!</l>
+            <l>(scaccia le guardie di Tolomeo)</l>
+          </sp>
+          <stage>CESAREOlà, partite omai empi ministrid’un tiranno spietato;Cesare così vuol, pronti ubbidite!(scaccia le guardie di Tolomeo)</stage>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Ah! ben ti riconosco</l>
+            <l>amato mio tesoro</l>
+            <l>al valor del tuo braccio;</l>
+            <l>ombra no tu non sei Cesare amato.</l>
+            <l>(corre ad abbracciarlo)</l>
+          </sp>
+          <stage>CLEOPATRAAh! ben ti riconoscoamato mio tesoroal valor del tuo braccio;ombra no tu non sei Cesare amato.(corre ad abbracciarlo)</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Cara ti stringo al seno;</l>
+            <l>ha cangiato vicende il nostro fato.</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Come salvo ti vedo?</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Tempo avrò di svelarti</l>
+            <l>ogni ascosa cagion del viver mio;</l>
+            <l>libera sei, vanne fra tanto al porto,</l>
+            <l>e le disperse schiere in un raduna;</l>
+            <l>colà mi rivedrai; Marte mi chiama</l>
+            <l>all’impresa total di questo suolo.</l>
+            <l>Per conquistar non che l’Egitto, un mondo</l>
+            <l>basta l’ardir di questo petto solo.</l>
+            <l>(parte)</l>
+            <l>[N. 40 – Aria]</l>
+          </sp>
+          <stage>CESARETempo avrò di svelartiogni ascosa cagion del viver mio;libera sei, vanne fra tanto al porto,e le disperse schiere in un raduna;colà mi rivedrai; Marte mi chiamaall’impresa total di questo suolo.Per conquistar non che l’Egitto, un mondobasta l’ardir di questo petto solo.(parte)[N. 40 – Aria]</stage>
+        </div>
+        <div type="scene">
+          <head>CLEOPATRA</head>Da tempeste il legno infranto,se poi salvo giunge in portonon sa più che desiar.Così il cor tra pene, e pianto,or che trova il suo confortotorna l’anima a bear.Scena settimaSala reggia.Tolomeo, Cornelia.<sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Da tempeste il legno infranto,</l>
+            <l>se poi salvo giunge in porto</l>
+            <l>non sa più che desiar.</l>
+            <l>Così il cor tra pene, e pianto,</l>
+            <l>or che trova il suo conforto</l>
+            <l>torna l’anima a bear.</l>
+            <l>Scena settima</l>
+            <l>Sala reggia.</l>
+            <l>Tolomeo, Cornelia.</l>
+          </sp>
+          <stage>CLEOPATRADa tempeste il legno infranto,se poi salvo giunge in portonon sa più che desiar.Così il cor tra pene, e pianto,or che trova il suo confortotorna l’anima a bear.Scena settimaSala reggia.Tolomeo, Cornelia.</stage>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Cornelia: è tempo omai</l>
+            <l>che tu doni pietade a un re, che langue.</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Speri invano mercede.</l>
+            <l>Come obliar poss’io</l>
+            <l>l’estinto mio consorte?</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Altro te n’offre il regnator d’Egitto;</l>
+            <l>cara al mio sen ti stringo…</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Scostati indegno, e pensa</l>
+            <l>che Cornelia è romana.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Non ho più da temer: Cesare estinto,</l>
+            <l>Cleopatra umiliata, or non ascolto</l>
+            <l>che il mio proprio voler.</l>
+            <l>(si vuol accostar di nuovo)</l>
+          </sp>
+          <stage>TOLOMEONon ho più da temer: Cesare estinto,Cleopatra umiliata, or non ascoltoche il mio proprio voler.(si vuol accostar di nuovo)</stage>
+        </div>
+        <div type="scene">
+          <head>CORNELIA</head>Se alcun non temi,temi pur questo ferro,(cava uno stile dal seno)che a me sola s’aspettafar del morto consorte or la vendetta!Scena ottavaMentre Cornelia corre alla vita di Tolomeo, sopraggiunge Sesto con spada nuda.<sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Se alcun non temi,</l>
+            <l>temi pur questo ferro,</l>
+            <l>(cava uno stile dal seno)</l>
+            <l>che a me sola s’aspetta</l>
+            <l>far del morto consorte or la vendetta!</l>
+            <l>Scena ottava</l>
+            <l>Mentre Cornelia corre alla vita di Tolomeo, sopraggiunge Sesto con spada nuda.</l>
+          </sp>
+          <stage>CORNELIASe alcun non temi,temi pur questo ferro,(cava uno stile dal seno)che a me sola s’aspettafar del morto consorte or la vendetta!Scena ottavaMentre Cornelia corre alla vita di Tolomeo, sopraggiunge Sesto con spada nuda.</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>T’arresta o genitrice! a me, oh tiranno! ~</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Io son tradito. Oh numi!</l>
+            <l>(snuda il ferro)</l>
+          </sp>
+          <stage>TOLOMEOIo son tradito. Oh numi!(snuda il ferro)</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Sappi perfido mostro, e per tua pena:</l>
+            <l>salvo i numi serbar dai tradimenti</l>
+            <l>Cesare invitto, e Cleopatra ei sciolse</l>
+            <l>dall’ingiuste catene; ei qui se n’ viene:</l>
+            <l>io lo precorro; e questo</l>
+            <l>chiede quel sangue ch’è dovuto a Sesto.</l>
+          </sp>
+          <sp who="#tolomeo">
+            <speaker>TOLOMEO:</speaker>
+            <l>Del folle ardir ti pentirai ben presto.</l>
+            <l>Si battono, e Tolomeo vien ferito, e cade morto in scena.</l>
+          </sp>
+          <stage>TOLOMEODel folle ardir ti pentirai ben presto.Si battono, e Tolomeo vien ferito, e cade morto in scena.</stage>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Or sì ti riconosco,</l>
+            <l>figlio del gran Pompeo, e al sen ti stringo.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>(guardando nella scena)</l>
+            <l>Giace il tiranno estinto;</l>
+            <l>or padre sì, tu benché vinto, hai vinto.</l>
+            <l>(parte)</l>
+            <l>[N. 41 – Aria]</l>
+          </sp>
+          <stage>SESTO(guardando nella scena)Giace il tiranno estinto;or padre sì, tu benché vinto, hai vinto.(parte)[N. 41 – Aria]</stage>
+        </div>
+        <div type="scene">
+          <head>CORNELIA</head>Non ha di che temerequest’alma vendicata,or sì sarò beata,comincio a respirar.Or vuò tutto in goderesi cangi il mio tormento,ch’è vano ogni lamento,se il ciel mi fa sperar.(parte)Scena ultimaPorto di Alessandria.Cesare, Cleopatra, Nireno, Sesto, Cornelia, Curio, Séguito di Romani e di Egizi, un Paggio.[N. 42 – Sinfonia e Marcia](Cesare, Cleopatra e séguito d’egizi con trombe e timpani, finita la sinfonia entrano. Curio e Nireno, e poi Sesto e Cornelia, con un paggio che porta lo scettro e la corona di Tolomeo)<sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Non ha di che temere</l>
+            <l>quest’alma vendicata,</l>
+            <l>or sì sarò beata,</l>
+            <l>comincio a respirar.</l>
+            <l>Or vuò tutto in godere</l>
+            <l>si cangi il mio tormento,</l>
+            <l>ch’è vano ogni lamento,</l>
+            <l>se il ciel mi fa sperar.</l>
+            <l>(parte)</l>
+            <l>Scena ultima</l>
+            <l>Porto di Alessandria.</l>
+            <l>Cesare, Cleopatra, Nireno, Sesto, Cornelia, Curio, Séguito di Romani e di Egizi, un Paggio.</l>
+            <l>[N. 42 – Sinfonia e Marcia]</l>
+            <l>(Cesare, Cleopatra e séguito d’egizi con trombe e timpani, finita la sinfonia entrano. Curio e Nireno, e poi Sesto e Cornelia, con un paggio che porta lo scettro e la corona di Tolomeo)</l>
+          </sp>
+          <stage>CORNELIANon ha di che temerequest’alma vendicata,or sì sarò beata,comincio a respirar.Or vuò tutto in goderesi cangi il mio tormento,ch’è vano ogni lamento,se il ciel mi fa sperar.(parte)Scena ultimaPorto di Alessandria.Cesare, Cleopatra, Nireno, Sesto, Cornelia, Curio, Séguito di Romani e di Egizi, un Paggio.[N. 42 – Sinfonia e Marcia](Cesare, Cleopatra e séguito d’egizi con trombe e timpani, finita la sinfonia entrano. Curio e Nireno, e poi Sesto e Cornelia, con un paggio che porta lo scettro e la corona di Tolomeo)</stage>
+          <sp who="#nireno">
+            <speaker>NIRENO:</speaker>
+            <l>Qui Curio vincitor, qui tuo l’Egitto;</l>
+            <l>in quest’ondoso piano</l>
+            <l>Cesare ognun acclama</l>
+            <l>signor del mondo e imperator romano.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>(a Nireno)</l>
+            <l>Del suo fido servir premio condegno</l>
+            <l>avrà Nireno;</l>
+            <l>(a Curio)</l>
+            <l>Curio,</l>
+            <l>già del tuo forte braccio</l>
+            <l>si conosce il valor.</l>
+            <l>(Sesto e Cornelia s’inginocchiano)</l>
+            <l>Ma qui Cornelia?</l>
+          </sp>
+          <stage>CESARE(a Nireno)Del suo fido servir premio condegnoavrà Nireno;(a Curio)Curio,già del tuo forte bracciosi conosce il valor.(Sesto e Cornelia s’inginocchiano)Ma qui Cornelia?</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Signor, ecco a’ tuoi piedi</l>
+            <l>e di Cornelia e di Pompeo il figlio;</l>
+            <l>egli la grande offesa</l>
+            <l>del tradimento enorme</l>
+            <l>vendicò con suo brando,</l>
+            <l>e tolse a Tolomeo l’alma col sangue.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>E morì Tolomeo?</l>
+          </sp>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Se Sesto in mia difesa</l>
+            <l>pronto non accorrea,</l>
+            <l>di Cornelia l’onor era in periglio.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>La vendetta del padre</l>
+            <l>è ben dovuta al figlio;</l>
+            <l>sorgi, Sesto, ed amico al sen t’accolgo.</l>
+          </sp>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Ogni affetto di fede in te rivolgo.</l>
+            <l>(si abbracciano)</l>
+          </sp>
+          <stage>SESTOOgni affetto di fede in te rivolgo.(si abbracciano)</stage>
+          <sp who="#cornelia">
+            <speaker>CORNELIA:</speaker>
+            <l>Dell’estinto tiranno</l>
+            <l>ecco i segni reali, a te li porgo.</l>
+            <l>(dà la corona, e lo scettro di Tolomeo a Cesare)</l>
+          </sp>
+          <stage>CORNELIADell’estinto tirannoecco i segni reali, a te li porgo.(dà la corona, e lo scettro di Tolomeo a Cesare)</stage>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Bellissima Cleopatra:</l>
+            <l>quel diadema che miri, a te s’aspetta;</l>
+            <l>io te ne cingo il crine</l>
+            <l>regina dell’Egitto;</l>
+            <l>darai norma alle genti, e legge al trono.</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Cesare: questo regno è sol tuo dono.</l>
+            <l>Tributaria regina</l>
+            <l>imperator t’adorerò di Roma.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>(Amor chi vide mai più bella chioma?)</l>
+            <l>[N. 43 – Duetto]</l>
+          </sp>
+          <sp who="#cleopatra">
+            <speaker>CLEOPATRA:</speaker>
+            <l>Caro! Più amabile beltà</l>
+            <l>mai non si troverà</l>
+            <l>del tuo bel volto;</l>
+            <l>in me non splenderà</l>
+            <l>né amor né fedeltà</l>
+            <l>da te disciolto.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Bella! Più amabile beltà</l>
+            <l>mai non si troverà</l>
+            <l>del tuo bel volto;</l>
+            <l>in te non splenderà</l>
+            <l>né amor né fedeltà</l>
+            <l>da me disciolto.</l>
+          </sp>
+          <sp who="#cesare">
+            <speaker>CESARE:</speaker>
+            <l>Goda pur or l’Egitto</l>
+            <l>in più tranquillo stato</l>
+            <l>la prima libertà: Cesare brama</l>
+            <l>dall’uno all’altro polo</l>
+            <l>che il gran nome roman spanda la fama.</l>
+            <l>[N. 44 – Coro]</l>
+            <l>SÉGUITO</l>
+            <l>Ritorni omai nel nostro core</l>
+            <l>la bella gioia ed il piacer;</l>
+            <l>sgombrato è il sen d’ogni dolor,</l>
+            <l>ciascun ritorni ora a goder.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>CLEOPATRA E CESARE</head>Bel contento il sen già si prepara,se tu sarai costante ognor per me;così fuggì dal cor la doglia amarae sol vi resta amor, costanze e fé.Variante dell’aria di Sesto, scena 5Inserita nella rappresentazione del 2 gennaio 1725, scena quinta.<sp who="#cleopatra e cesare">
+            <speaker>CLEOPATRA E CESARE:</speaker>
+            <l>Bel contento il sen già si prepara,</l>
+            <l>se tu sarai costante ognor per me;</l>
+            <l>così fuggì dal cor la doglia amara</l>
+            <l>e sol vi resta amor, costanze e fé.</l>
+            <l>Variante dell’aria di Sesto, scena 5</l>
+            <l>Inserita nella rappresentazione del 2 gennaio 1725, scena quinta.</l>
+          </sp>
+          <stage>CLEOPATRA E CESAREBel contento il sen già si prepara,se tu sarai costante ognor per me;così fuggì dal cor la doglia amarae sol vi resta amor, costanze e fé.Variante dell’aria di Sesto, scena 5Inserita nella rappresentazione del 2 gennaio 1725, scena quinta.</stage>
+          <sp who="#sesto">
+            <speaker>SESTO:</speaker>
+            <l>Sperai, né m’ingannai, ch’il mio sangue</l>
+            <l>un dì saria vendicato senza affanno.</l>
+            <l>Già mirai l’empi rai d’uno chiusi,</l>
+            <l>e la mia man chiuderà quei del tiranno.</l>
+            <l>Fine del libretto.</l>
+          </sp>
+          <stage>SESTOSperai, né m’ingannai, ch’il mio sangueun dì saria vendicato senza affanno.Già mirai l’empi rai d’uno chiusi,e la mia man chiuderà quei del tiranno.Fine del libretto.</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
